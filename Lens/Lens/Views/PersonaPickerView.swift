@@ -1,54 +1,83 @@
-//
-//  Demo login stand-in.
-//
-//  A list of preset HCP personas to tap — this *is* the auth for the
-//  demo (see docs/architecture.md: "Auth" row). Sets
-//  AppState.selectedHCP; the app root switches to the signed-in screens.
-//
-//  Owned by: Anthony (profile selection and persistence).
-//
-
 import SwiftUI
 
 struct PersonaPickerView: View {
     @EnvironmentObject var appState: AppState
+    @State private var email = ""
+    @State private var password = ""
+    @State private var isSigningIn = false
+    @State private var errorMessage: String?
+    @State private var isShowingRegister = false
+    @State private var isShowingReset = false
 
     var body: some View {
         NavigationStack {
             List {
                 Section {
-                    Text("Choose your demo profile to get started. We'll remember your choice on this device.")
+                    Text("Sign in with your email and password. Create an account if you don't have one yet.")
                         .foregroundStyle(.secondary)
                 }
 
-                Section("HCP profiles") {
-                    ForEach(HCP.demoProfiles) { profile in
-                        Button {
-                            appState.selectedHCP = profile
-                        } label: {
-                            HStack(spacing: 14) {
-                                Image(systemName: "person.crop.circle.fill")
-                                    .font(.largeTitle)
-                                    .foregroundStyle(.tint)
-                                VStack(alignment: .leading, spacing: 4) {
-                                    Text(profile.name).font(.headline)
-                                    Text(profile.specialty)
-                                        .font(.subheadline)
-                                        .foregroundStyle(.secondary)
-                                }
-                                Spacer()
-                                Image(systemName: "chevron.right")
-                                    .foregroundStyle(.secondary)
-                            }
-                            .padding(.vertical, 8)
-                            .contentShape(Rectangle())
+                Section("Sign in") {
+                    TextField("Email", text: $email)
+                        .textContentType(.username)
+                        .keyboardType(.emailAddress)
+                        .textInputAutocapitalization(.never)
+                        .autocorrectionDisabled()
+                        .accessibilityIdentifier("auth.email")
+                    SecureField("Password", text: $password)
+                        .textContentType(.password)
+                        .accessibilityIdentifier("auth.password")
+                    Button {
+                        Task { await signIn() }
+                    } label: {
+                        if isSigningIn {
+                            ProgressView()
+                        } else {
+                            Text("Sign in")
                         }
-                        .buttonStyle(.plain)
-                        .accessibilityIdentifier("profile.\(profile.id)")
                     }
+                    .disabled(isSigningIn || email.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty || password.isEmpty)
+                    .accessibilityIdentifier("auth.signIn")
+                    Button("Forgot password") { isShowingReset = true }
+                        .accessibilityIdentifier("auth.forgotPassword")
+                    if let errorMessage {
+                        Text(errorMessage)
+                            .font(.footnote)
+                            .foregroundStyle(.red)
+                    }
+                }
+
+                Section {
+                    Button("Create an account") { isShowingRegister = true }
+                        .accessibilityIdentifier("auth.createAccount")
+                } footer: {
+                    Text("New accounts get a recovery code shown once. Patient folders appear after the clinic database is connected. There is no guest or demo bypass.")
                 }
             }
             .navigationTitle("Welcome to Lens")
+            .sheet(isPresented: $isShowingRegister) {
+                RegisterAccountView()
+            }
+            .sheet(isPresented: $isShowingReset) {
+                ResetPasswordView()
+            }
+        }
+    }
+
+    @MainActor
+    private func signIn() async {
+        errorMessage = nil
+        isSigningIn = true
+        defer { isSigningIn = false }
+        do {
+            let auth = try await APIClient.shared.login(
+                email: email.trimmingCharacters(in: .whitespacesAndNewlines),
+                password: password
+            )
+            APIClient.shared.sessionToken = auth.sessionToken
+            appState.applySession(profile: auth.profile, token: auth.sessionToken, recoveryCode: auth.recoveryCode)
+        } catch {
+            errorMessage = error.localizedDescription
         }
     }
 }

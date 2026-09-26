@@ -9,6 +9,12 @@ struct MainTabIsland: View {
     var body: some View {
         HStack(spacing: 0) {
             sideButton(
+                tab: .patients,
+                title: "Patients",
+                systemImage: "folder",
+                identifier: "tab.patients"
+            )
+            sideButton(
                 tab: .history,
                 title: "History",
                 systemImage: "clock.arrow.circlepath",
@@ -26,7 +32,7 @@ struct MainTabIsland: View {
         }
         .padding(.horizontal, 6 * scale)
         .padding(.vertical, 4 * scale)
-        .frame(width: 280 * scale)
+        .frame(width: 340 * scale)
         .glassEffect(.regular, in: .capsule)
         .accessibilityElement(children: .contain)
         .accessibilityAddTraits(.isTabBar)
@@ -105,6 +111,12 @@ struct MainTabIsland: View {
         } else {
             selectedTab = .scan
         }
+    }
+}
+
+extension View {
+    func tabIslandBottomClearance() -> some View {
+        safeAreaPadding(.bottom, 72)
     }
 }
 

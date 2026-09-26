@@ -38,3 +38,29 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Voice/SpeechVoiceSelection.swift Lens/Tests/VoiceSelectionChecks.swift \
     -o "$check_dir/voice-selection-checks"
 "$check_dir/voice-selection-checks"
+
+swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
+    Lens/Lens/Networking/Endpoints.swift Lens/Lens/Networking/APIClient.swift \
+    Lens/Lens/Models/HCP.swift Lens/Lens/Models/Patient.swift Lens/Lens/Models/Drug.swift \
+    Lens/Lens/Models/DrugSummary.swift Lens/Tests/ContractChecks.swift \
+    -o "$check_dir/contract-checks"
+"$check_dir/contract-checks"
+
+swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
+    Lens/Lens/Networking/DrugResolver.swift Lens/Lens/Models/DemoDrugCatalog.swift \
+    Lens/Lens/Models/HCP.swift Lens/Lens/Models/Patient.swift Lens/Lens/Models/Drug.swift Lens/Lens/Models/DrugSummary.swift \
+    Lens/Lens/Networking/APIClient.swift Lens/Lens/Networking/Endpoints.swift \
+    Lens/Tests/ResolverChecks.swift \
+    -o "$check_dir/resolver-checks"
+"$check_dir/resolver-checks"
+
+if curl -sf --max-time 2 http://127.0.0.1:8000/health >/dev/null; then
+    swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
+        Lens/Lens/Networking/Endpoints.swift Lens/Lens/Networking/APIClient.swift \
+        Lens/Lens/Models/HCP.swift Lens/Lens/Models/Patient.swift Lens/Lens/Models/Drug.swift \
+        Lens/Lens/Models/DrugSummary.swift Lens/Tests/LiveAPIChecks.swift \
+        -o "$check_dir/live-api-checks"
+    "$check_dir/live-api-checks"
+else
+    echo "SKIP: live URLSession checks (backend not running on :8000)"
+fi

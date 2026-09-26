@@ -1,50 +1,57 @@
 import SwiftUI
 import UIKit
 
-/// UI preview only. All fields are temporary and never update the HCP or its cache.
 struct EditProfileView: View {
+    @EnvironmentObject private var appState: AppState
     @Environment(\.dismiss) private var dismiss
     @State private var firstName: String
     @State private var lastName: String
-    @State private var email = ""
+    @State private var email: String
     @State private var professionalRole: String
     @State private var otherRole = ""
-    @State private var credentials = ""
+    @State private var credentials: String
     @State private var specialty: String
     @State private var otherSpecialty: String
-    @State private var organization = ""
-    @State private var practiceSetting = ""
-    @State private var workPhone = ""
-    @State private var city = ""
-    @State private var region = ""
-    @State private var country = ""
-    @State private var showingSaveNotice = false
+    @State private var organization: String
+    @State private var practiceSetting: String
+    @State private var workPhone: String
+    @State private var city: String
+    @State private var region: String
+    @State private var country: String
+    @State private var currentPassword = ""
+    @State private var isSaving = false
+    @State private var errorMessage: String?
+    @State private var isChangingPassword = false
 
-    private static let roles = [
-        "Physician", "Nurse Practitioner", "Physician Assistant", "Registered Nurse",
-        "Clinical Nurse Specialist", "Nurse Anesthetist", "Midwife", "Pharmacist",
-        "Dentist", "Optometrist", "Podiatrist", "Psychologist", "Therapist",
-        "Dietitian / Nutritionist", "Social Worker", "Resident / Fellow",
-        "Healthcare Student", "Other"
-    ]
-    private static let practiceSettings = [
-        "Private Practice", "Hospital", "Outpatient Clinic", "Academic Medical Center",
-        "Community Health Center", "Urgent Care", "Retail / Community Pharmacy",
-        "Long-Term Care", "Home Health", "Telehealth", "Other"
-    ]
+    private let profileID: String
+    private let originalEmail: String
 
     init(profile: HCP) {
-        // Existing demo profiles only have a display name. Preserve all remaining
-        // name components in the editable surname field instead of dropping them.
+        profileID = profile.id
+        originalEmail = (profile.email ?? "").trimmingCharacters(in: .whitespacesAndNewlines).lowercased()
         var parts = profile.name.split(whereSeparator: { $0.isWhitespace }).map(String.init)
         let isDoctor = ["Dr.", "Dr"].contains(parts.first ?? "")
         if isDoctor { parts.removeFirst() }
-        _firstName = State(initialValue: parts.first ?? "")
-        _lastName = State(initialValue: parts.dropFirst().joined(separator: " "))
-        _professionalRole = State(initialValue: isDoctor ? "Physician" : "")
+        _firstName = State(initialValue: profile.firstName ?? parts.first ?? "")
+        _lastName = State(initialValue: profile.lastName ?? parts.dropFirst().joined(separator: " "))
+        _email = State(initialValue: profile.email ?? "")
+        let role = profile.professionalRole ?? (isDoctor ? "Physician" : "")
+        if !role.isEmpty && !ProfileOptions.roles.contains(role) {
+            _professionalRole = State(initialValue: "Other")
+            _otherRole = State(initialValue: role)
+        } else {
+            _professionalRole = State(initialValue: role)
+        }
+        _credentials = State(initialValue: profile.credentials ?? "")
         let knownSpecialty = HealthcareSpecialties.contains(profile.specialty)
         _specialty = State(initialValue: knownSpecialty ? profile.specialty : HealthcareSpecialties.other)
         _otherSpecialty = State(initialValue: knownSpecialty ? "" : profile.specialty)
+        _organization = State(initialValue: profile.organization ?? "")
+        _practiceSetting = State(initialValue: profile.practiceSetting ?? "")
+        _workPhone = State(initialValue: profile.workPhone ?? "")
+        _city = State(initialValue: profile.city ?? "")
+        _region = State(initialValue: profile.region ?? "")
+        _country = State(initialValue: profile.country ?? "")
     }
 
     private var emailLooksValid: Bool {
@@ -52,29 +59,51 @@ struct EditProfileView: View {
             .range(of: #"^[^\s@]+@[^\s@]+\.[^\s@]+$"#, options: .regularExpression) != nil
     }
 
+    private var resolvedRole: String {
+        professionalRole == "Other" ? otherRole.trimmingCharacters(in: .whitespacesAndNewlines) : professionalRole
+    }
+
+    private var resolvedSpecialty: String {
+        specialty == HealthcareSpecialties.other
+            ? otherSpecialty.trimmingCharacters(in: .whitespacesAndNewlines)
+            : specialty
+    }
+
+    private var emailChanged: Bool {
+        email.trimmingCharacters(in: .whitespacesAndNewlines).lowercased() != originalEmail
+    }
+
     private var hasRequiredFields: Bool {
         let required = [firstName, lastName, professionalRole, specialty]
         return required.allSatisfy { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty }
             && emailLooksValid
-            && (professionalRole != "Other" || !otherRole.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty)
-            && (specialty != HealthcareSpecialties.other || !otherSpecialty.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty)
+            && !resolvedRole.isEmpty
+            && !resolvedSpecialty.isEmpty
+            && (!emailChanged || !currentPassword.isEmpty)
     }
 
     var body: some View {
         NavigationStack {
             Form {
-                Section {
-                    Label("Preview only — changes aren't saved yet.", systemImage: "info.circle")
-                        .font(.subheadline)
-                        .foregroundStyle(.secondary)
-                }
                 personalDetails
                 professionalDetails
                 practiceDetails
+                if let errorMessage {
+                    Section {
+                        Text(errorMessage).foregroundStyle(.red)
+                    }
+                }
+                Section {
+                    Button("Change password") { isChangingPassword = true }
+                        .accessibilityIdentifier("profileEditor.changePassword")
+                }
             }
             .scrollDismissesKeyboard(.interactively)
             .navigationTitle("Edit profile")
             .navigationBarTitleDisplayMode(.inline)
+            .sheet(isPresented: $isChangingPassword) {
+                ChangePasswordView()
+            }
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) {
                     Button("Cancel") { dismiss() }
@@ -82,17 +111,11 @@ struct EditProfileView: View {
                 }
                 ToolbarItem(placement: .confirmationAction) {
                     Button("Save") {
-                        // TODO: connect profile updates when database support is ready.
-                        showingSaveNotice = true
+                        Task { await save() }
                     }
-                    .disabled(!hasRequiredFields)
+                    .disabled(!hasRequiredFields || isSaving)
                     .accessibilityIdentifier("profileEditor.save")
                 }
-            }
-            .alert("Profile editing preview", isPresented: $showingSaveNotice) {
-                Button("Done") { dismiss() }
-            } message: {
-                Text("Saving changes isn't available yet. Your current profile is unchanged.")
             }
         }
     }
@@ -111,10 +134,15 @@ struct EditProfileView: View {
                     .font(.footnote)
                     .foregroundStyle(.red)
             }
+            if emailChanged {
+                SecureField("Current password to change email", text: $currentPassword)
+                    .textContentType(.password)
+                    .accessibilityIdentifier("profileEditor.currentPassword")
+            }
         } header: {
             Text("Personal details")
         } footer: {
-            Text("First name, last name, and email are required. Email isn't verified in this preview.")
+            Text("Changing email requires your current password. Use Change password at the bottom of this screen to update the password.")
         }
     }
 
@@ -122,7 +150,7 @@ struct EditProfileView: View {
         Section {
             Picker("Professional role", selection: $professionalRole) {
                 Text("Select a role").tag("")
-                ForEach(Self.roles, id: \.self) { Text($0).tag($0) }
+                ForEach(ProfileOptions.roles, id: \.self) { Text($0).tag($0) }
             }
             .pickerStyle(.menu)
             .accessibilityIdentifier("profileEditor.role")
@@ -159,7 +187,7 @@ struct EditProfileView: View {
                 .textContentType(.organizationName)
             Picker("Practice setting", selection: $practiceSetting) {
                 Text("Not specified").tag("")
-                ForEach(Self.practiceSettings, id: \.self) { Text($0).tag($0) }
+                ForEach(ProfileOptions.practiceSettings, id: \.self) { Text($0).tag($0) }
             }
             .pickerStyle(.menu)
             .accessibilityIdentifier("profileEditor.practiceSetting")
@@ -170,12 +198,43 @@ struct EditProfileView: View {
                 .textContentType(.addressCity)
             field("State / province / region", prompt: "State, province, or region", text: $region, id: "region")
                 .textContentType(.addressState)
-            field("Country / region", prompt: "Country or region", text: $country, id: "country")
+            field("Country / region", prompt: "Country / region", text: $country, id: "country")
                 .textContentType(.countryName)
         } header: {
             Text("Practice information · Optional")
         } footer: {
-            Text("Add your professional contact and practice details if you'd like.")
+            Text("These fields match the placeholders on this screen and are written to MongoDB.")
+        }
+    }
+
+    @MainActor
+    private func save() async {
+        errorMessage = nil
+        isSaving = true
+        defer { isSaving = false }
+        do {
+            let updated = try await APIClient.shared.updateProfile(
+                hcpId: profileID,
+                ProfileUpdateRequest(
+                    firstName: firstName.trimmingCharacters(in: .whitespacesAndNewlines),
+                    lastName: lastName.trimmingCharacters(in: .whitespacesAndNewlines),
+                    email: email.trimmingCharacters(in: .whitespacesAndNewlines),
+                    professionalRole: resolvedRole,
+                    specialty: resolvedSpecialty,
+                    credentials: credentials.trimmingCharacters(in: .whitespacesAndNewlines),
+                    organization: organization.trimmingCharacters(in: .whitespacesAndNewlines),
+                    practiceSetting: practiceSetting,
+                    workPhone: workPhone.trimmingCharacters(in: .whitespacesAndNewlines),
+                    city: city.trimmingCharacters(in: .whitespacesAndNewlines),
+                    region: region.trimmingCharacters(in: .whitespacesAndNewlines),
+                    country: country.trimmingCharacters(in: .whitespacesAndNewlines),
+                    currentPassword: emailChanged ? currentPassword : nil
+                )
+            )
+            appState.selectedHCP = updated
+            dismiss()
+        } catch {
+            errorMessage = error.localizedDescription
         }
     }
 

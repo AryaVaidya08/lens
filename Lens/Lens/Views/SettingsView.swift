@@ -11,6 +11,13 @@ struct SettingsView: View {
                     Section("Current profile") {
                         LabeledContent("Name", value: profile.name)
                         LabeledContent("Specialty", value: profile.specialty)
+                        if let email = profile.email, !email.isEmpty {
+                            LabeledContent("Email", value: email)
+                        }
+                        if let organization = profile.organization, !organization.isEmpty {
+                            LabeledContent("Organization", value: organization)
+                        }
+                        LabeledContent("Patients", value: "\(profile.patientIds?.count ?? 0)")
                         Button {
                             profileToEdit = profile
                         } label: {
@@ -27,11 +34,15 @@ struct SettingsView: View {
 
                 Section {
                     Button("Log out", role: .destructive) {
-                        appState.logOut()
+                        Task {
+                            try? await APIClient.shared.logout()
+                            APIClient.shared.sessionToken = nil
+                            appState.logOut()
+                        }
                     }
                     .accessibilityIdentifier("settings.logout")
                 } footer: {
-                    Text("Logging out clears your saved profile from this device. You'll choose a profile the next time you open Lens.")
+                    Text("Logging out clears this account from the phone. Patient charts stay in the clinic database and are only viewed here.")
                 }
             }
             .contentMargins(.top, 8, for: .scrollContent)

@@ -15,32 +15,24 @@ struct VoiceAssistantView: View {
     var body: some View {
         VStack(alignment: .center, spacing: 12) {
             if assistant.isExpanded && selectedTab == .scan && assistant.hasContent {
-                VStack(alignment: .leading, spacing: 12) {
+                VStack(alignment: .leading, spacing: 4) {
                     HStack {
                         Text("Assistant").font(.headline)
-                        Spacer()
+                        Spacer(minLength: 0)
                         Button {
                             assistant.stopAudio()
                             assistant.isExpanded = false
                         } label: {
                             Image(systemName: "xmark")
-                                .frame(width: 44, height: 44)
+                                .frame(width: 44, height: 28, alignment: .trailing)
                         }
                         .accessibilityLabel("Close assistant")
                     }
+                    .padding(.leading, 16)
+                    .padding(.trailing, 10)
 
                     ScrollView {
                         VStack(alignment: .leading, spacing: 12) {
-                            Text(statusText)
-                                .font(.footnote)
-                                .foregroundStyle(.secondary)
-
-                            if assistant.recognizer.state != .idle {
-                                Button("Cancel", role: .cancel) { assistant.recognizer.cancel() }
-                            }
-                            if assistant.speaker.isSpeaking {
-                                Button("Stop speaking") { assistant.speaker.stop() }
-                            }
                             if !assistant.recognizer.transcript.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
                                 transcriptCard(title: "You said", text: assistant.recognizer.transcript)
                             }
@@ -70,8 +62,8 @@ struct VoiceAssistantView: View {
                         .onGeometryChange(for: CGFloat.self) { $0.size.height } action: { contentHeight = $0 }
                     }
                     .frame(height: min(max(contentHeight, 44), panelHeightLimit))
+                    .padding(.horizontal, 16)
                 }
-                .padding(.horizontal, 16)
                 .padding(.bottom, 16)
                 .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 20))
                 .frame(maxWidth: 360)
@@ -79,16 +71,10 @@ struct VoiceAssistantView: View {
             }
 
             if assistant.isExpanded && selectedTab == .scan && !assistant.hasContent && assistant.recognizer.state != .idle {
-                HStack {
-                    Text(assistant.buttonTitle == "Finish" ? "Listening…" : assistant.buttonTitle)
-                        .font(.footnote)
-                    Button("Cancel") {
-                        assistant.stopAudio()
-                        assistant.isExpanded = false
-                    }
-                }
-                .padding(10)
-                .background(.regularMaterial, in: Capsule())
+                Text(assistant.buttonTitle == "Finish" ? "Listening…" : assistant.buttonTitle)
+                    .font(.footnote)
+                    .padding(10)
+                    .background(.regularMaterial, in: Capsule())
             }
         }
         .frame(maxWidth: .infinity)
@@ -113,16 +99,6 @@ struct VoiceAssistantView: View {
 
     private var panelHeightLimit: CGFloat {
         min(180, max(44, availableHeight - 64 * microphoneScale - 100))
-    }
-
-    private var statusText: String {
-        if assistant.speaker.isSpeaking { return "Speaking reply…" }
-        switch assistant.recognizer.state {
-        case .idle: return "Ready when you are."
-        case .requestingPermission: return "Microphone and speech recognition access are needed."
-        case .listening: return "Listening… Tap the stop button to finish. Recording ends after 45 seconds."
-        case .finishing: return "Finishing your transcript…"
-        }
     }
 
     private func transcriptCard(title: String, text: String) -> some View {

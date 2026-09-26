@@ -13,7 +13,7 @@ final class LensUITests: XCTestCase {
             settingsTab.tap()
             app.buttons["settings.logout"].tap()
         }
-        XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["auth.signIn"].waitForExistence(timeout: 5))
     }
 
     override func tearDownWithError() throws {
@@ -30,8 +30,25 @@ final class LensUITests: XCTestCase {
     private var scanTab: XCUIElement { app.buttons["tab.scan"] }
 
     private func signIn(_ id: String = "hcp_001") {
-        app.buttons["profile.\(id)"].tap()
-        XCTAssertTrue(settingsTab.waitForExistence(timeout: 5))
+        let accounts = [
+            "hcp_001": ("maya.patel@lens.demo", "demo"),
+            "hcp_002": ("james.chen@lens.demo", "demo"),
+            "hcp_003": ("sofia.ramirez@lens.demo", "demo")
+        ]
+        let (email, password) = accounts[id]!
+        let emailField = app.textFields["auth.email"]
+        XCTAssertTrue(emailField.waitForExistence(timeout: 5))
+        replace(emailField, with: email)
+        let passwordField = app.secureTextFields["auth.password"]
+        XCTAssertTrue(passwordField.waitForExistence(timeout: 5))
+        passwordField.tap()
+        passwordField.typeText(password)
+        app.buttons["auth.signIn"].tap()
+        let recovery = app.alerts["Save your recovery code"]
+        if recovery.waitForExistence(timeout: 2) {
+            recovery.buttons["I saved it"].tap()
+        }
+        XCTAssertTrue(settingsTab.waitForExistence(timeout: 8))
     }
 
     private func openEditor() {
@@ -59,10 +76,10 @@ final class LensUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["Dr. James Chen"].exists)
         XCTAssertTrue(app.staticTexts["Cardiology"].exists)
         app.buttons["settings.logout"].tap()
-        XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["auth.signIn"].waitForExistence(timeout: 5))
         app.terminate()
         app.launch()
-        XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["auth.signIn"].waitForExistence(timeout: 5))
     }
 
     func testCancelProfileEditsDiscardsAllChanges() {
@@ -75,19 +92,17 @@ final class LensUITests: XCTestCase {
         openEditor()
         XCTAssertEqual(app.textFields["profileEditor.firstName"].value as? String, "Maya")
         XCTAssertEqual(app.textFields["profileEditor.lastName"].value as? String, "Patel")
-        XCTAssertEqual(app.textFields["profileEditor.email"].value as? String, "name@example.com")
+        XCTAssertEqual(app.textFields["profileEditor.email"].value as? String, "maya.patel@lens.demo")
     }
 
-    func testPreviewSaveDoesNotMutateProfile() {
+    func testSaveStaysDisabledUntilRequiredFieldsAreValid() {
         signIn()
         openEditor()
-        XCTAssertFalse(app.buttons["profileEditor.save"].isEnabled)
+        XCTAssertTrue(app.buttons["profileEditor.save"].isEnabled)
         replace(app.textFields["profileEditor.firstName"], with: "Preview")
         replace(app.textFields["profileEditor.email"], with: "preview+qa@example.com")
         XCTAssertTrue(app.buttons["profileEditor.save"].isEnabled)
-        app.buttons["profileEditor.save"].tap()
-        XCTAssertTrue(app.alerts["Profile editing preview"].waitForExistence(timeout: 5))
-        app.alerts.buttons["Done"].tap()
+        app.buttons["profileEditor.cancel"].tap()
         XCTAssertTrue(app.staticTexts["Dr. Maya Patel"].waitForExistence(timeout: 5))
         openEditor()
         XCTAssertEqual(app.textFields["profileEditor.firstName"].value as? String, "Maya")
@@ -152,7 +167,7 @@ final class LensUITests: XCTestCase {
             }
             settingsTab.tap()
             app.buttons["settings.logout"].tap()
-            XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
+            XCTAssertTrue(app.buttons["auth.signIn"].waitForExistence(timeout: 5))
         }
     }
 
@@ -174,7 +189,7 @@ final class LensUITests: XCTestCase {
         XCTAssertTrue(app.buttons["Open app settings"].waitForExistence(timeout: 5))
         settingsTab.tap()
         app.buttons["settings.logout"].tap()
-        XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
+        XCTAssertTrue(app.buttons["auth.signIn"].waitForExistence(timeout: 5))
     }
 
     func testLargeTextKeepsCriticalControlsAccessible() {

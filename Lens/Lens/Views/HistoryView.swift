@@ -32,6 +32,7 @@ struct HistoryView: View {
                 }
             }
             .contentMargins(.top, 8, for: .scrollContent)
+            .tabIslandBottomClearance()
             .tabHeader("History")
         }
     }
@@ -97,8 +98,10 @@ struct HistoryDetailView: View {
             }
             .navigationTitle(entry.title)
             .navigationBarTitleDisplayMode(.inline)
+            .tabIslandBottomClearance()
         } else {
             ContentUnavailableView("Chat unavailable", systemImage: "clock.arrow.circlepath")
+                .tabIslandBottomClearance()
         }
     }
 }

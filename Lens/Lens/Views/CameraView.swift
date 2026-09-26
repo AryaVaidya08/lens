@@ -73,8 +73,14 @@ struct CameraView: View {
     @Environment(\.scenePhase) private var scenePhase
     @State private var lifecycle = CameraSessionLifecycle()
     @StateObject private var arManager = ARSessionManager()
+    @StateObject private var resolver = DrugResolver()
     @State private var bubbleSize: CGSize = CGSize(width: 220, height: 90)
     @State private var flashOpacity: Double = 1.0
+    /// Personalized content from GET /drug/{id}/summary. Nil until it arrives
+    /// (or if the backend is unreachable), in which case the offline catalog
+    /// fills the bubble so the HUD is never blank.
+    @State private var summary: DrugSummary?
+    @State private var loadingDrugId: String?
 
     /// Debug aid so detection accuracy is visible while tuning — flip to
     /// `false` before the real demo.
@@ -110,7 +116,7 @@ struct CameraView: View {
                     let scale = proximityScale(for: detection.screenAnchor)
                     let scaledBubbleSize = CGSize(width: bubbleSize.width * scale, height: bubbleSize.height * scale)
 
-                    HUDOverlayView(summary: fakeSummary(for: detection), debugRawPayload: detection.rawPayload)
+                    HUDOverlayView(summary: displaySummary(for: detection), debugRawPayload: detection.rawPayload)
                         .background(
                             GeometryReader { bubbleGeometry in
                                 Color.clear
@@ -134,13 +140,10 @@ struct CameraView: View {
         .onPreferenceChange(SizePreferenceKey.self) { bubbleSize = $0 }
         .onAppear {
             arManager.resolvePayload = { kind, value in
-                // TODO: implement — replace with a real
-                // APIClient.shared.detectDrug(
-                //     barcode: kind == "barcode" ? value : nil,
-                //     ocrText: kind == "text" ? value : nil
-                // ) call once Backend & data's /detect route is live.
-                let demo = DemoDrugCatalog.resolve(payload: value)
-                return (drugId: demo.id, name: demo.name)
+                // Answers from cache immediately and fills that cache from
+                // POST /detect in the background — see DrugResolver.
+                let drug = MainActor.assumeIsolated { resolver.resolve(kind: kind, value: value) }
+                return (drugId: drug.id, name: drug.name)
             }
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
             UIDevice.current.beginGeneratingDeviceOrientationNotifications()
@@ -159,7 +162,12 @@ struct CameraView: View {
         }
         .onChange(of: arManager.activeDetection?.drugId) { _, newDrugId in
             guard let newDrugId else { return }
-            appState.currentDrug = Drug(id: newDrugId, name: arManager.activeDetection?.name ?? "")
+            adopt(Drug(id: newDrugId, name: arManager.activeDetection?.name ?? ""))
+        }
+        .onChange(of: resolver.resolved) { _, _ in
+            guard let detection = arManager.activeDetection,
+                  let drug = resolver.cachedDrug(forRawPayload: detection.rawPayload) else { return }
+            adopt(drug)
         }
         .onChange(of: arManager.isStale) { _, stale in
             if stale {
@@ -229,11 +237,46 @@ struct CameraView: View {
         return CGPoint(x: x, y: y)
     }
 
-    /// TODO: implement — remove once getSummary() is live; this exists
-    /// only to give the HUD bubble something to show for now.
-    private func fakeSummary(for detection: DetectionResult) -> DrugSummary {
-        DemoDrugCatalog.drug(id: detection.drugId)?.summary
+    /// The personalized summary once it arrives, otherwise the offline catalog
+    /// so the bubble is populated the instant something is detected.
+    private func displaySummary(for detection: DetectionResult) -> DrugSummary {
+        if let summary, summary.drugId == appState.currentDrug?.id {
+            return summary
+        }
+        let drugId = appState.currentDrug?.id ?? detection.drugId
+        return DemoDrugCatalog.drug(id: drugId)?.summary
             ?? DemoDrugCatalog.resolve(payload: detection.rawPayload).summary
+    }
+
+    private func adopt(_ drug: Drug) {
+        if appState.currentDrug != drug {
+            appState.currentDrug = drug
+            summary = nil
+        }
+        guard summary?.drugId != drug.id, loadingDrugId != drug.id else { return }
+        loadingDrugId = drug.id
+        Task { await loadPersonalizedContent(for: drug) }
+    }
+
+    /// The read-then-write half of the personalization loop: fetch the tier's
+    /// content for this HCP, then log the touch so the next scan is one tier
+    /// further along. Logging second is what makes scan 1 "new" and scan 2
+    /// "returning" rather than both showing the post-scan tier.
+    private func loadPersonalizedContent(for drug: Drug) async {
+        guard let hcpId = appState.selectedHCP?.id else { return }
+        do {
+            let fetched = try await APIClient.shared.getSummary(drugId: drug.id, hcpId: hcpId)
+            guard appState.currentDrug?.id == fetched.drugId else { return }
+            summary = fetched
+            appState.familiarityTier = fetched.tier
+            try await APIClient.shared.logEngagement(hcpId: hcpId, drugId: drug.id)
+        } catch {
+            // Offline: the catalog summary stays on screen and the scan simply
+            // isn't logged. Nothing to surface mid-demo.
+        }
+        if loadingDrugId == drug.id {
+            loadingDrugId = nil
+        }
     }
 }
 

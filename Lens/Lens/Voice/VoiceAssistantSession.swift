@@ -8,6 +8,12 @@ final class VoiceAssistantSession: ObservableObject {
     @Published var reply = ""
     @Published var isExpanded = false
 
+    /// Question + current drug + HCP -> spoken answer. Defaults to POST
+    /// /drug/{id}/ask, falling back to the local demo reply when the backend
+    /// isn't reachable. Injectable so tests don't need a network.
+    var answerProvider: (String, Drug?, String?) async -> String = backendAnswer
+
+    private var answerGeneration = 0
     private var cancellables = Set<AnyCancellable>()
 
     init(recognizer: SpeechRecognizer? = nil, speaker: SpeechSynthesizer? = nil) {
@@ -52,8 +58,24 @@ final class VoiceAssistantSession: ObservableObject {
         !reply.isEmpty || recognizer.errorMessage != nil || speaker.errorMessage != nil
     }
 
+    /// The answer half of the loop. `hcpId` is whichever persona is selected —
+    /// the backend trusts it (see CLAUDE.md: no real auth for the demo).
+    static func backendAnswer(question: String, drug: Drug?, hcpId: String?) async -> String {
+        guard let drug, let hcpId else {
+            return PlaceholderAssistant.reply(to: question, drug: drug)
+        }
+        do {
+            return try await APIClient.shared.askQuestion(
+                drugId: drug.id, hcpId: hcpId, query: question
+            )
+        } catch {
+            return PlaceholderAssistant.reply(to: question, drug: drug)
+        }
+    }
+
     func microphoneTapped(
         currentDrug: @escaping () -> Drug?,
+        hcpId: @escaping () -> String?,
         recordChat: @escaping (String, String) -> Void
     ) {
         isExpanded = true
@@ -71,11 +93,21 @@ final class VoiceAssistantSession: ObservableObject {
         } else if recognizer.state == .idle {
             speaker.stop()
             reply = ""
+            answerGeneration += 1
+            let generation = answerGeneration
             recognizer.startListening { [weak self] text in
                 guard let self else { return }
-                self.reply = PlaceholderAssistant.reply(to: text, drug: currentDrug())
-                recordChat(text, self.reply)
-                self.speaker.speak(self.reply)
+                let drug = currentDrug()
+                let hcpId = hcpId()
+                self.reply = "Thinking…"
+                Task { [weak self] in
+                    guard let self else { return }
+                    let answer = await self.answerProvider(text, drug, hcpId)
+                    guard self.answerGeneration == generation else { return }
+                    self.reply = answer
+                    recordChat(text, answer)
+                    self.speaker.speak(answer)
+                }
             }
         }
     }
@@ -86,6 +118,7 @@ final class VoiceAssistantSession: ObservableObject {
     }
 
     func stopAudio() {
+        answerGeneration += 1
         recognizer.cancel()
         speaker.stop()
     }

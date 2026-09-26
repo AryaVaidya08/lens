@@ -1,23 +1,28 @@
 """
 Familiarity scoring.
 
-This is the product logic the whole demo hinges on: the same HCP
-scanning the same drug a second time should visibly get a more advanced
-answer. Likely to get walked through live in the pitch — keep this
-short and readable even as a stub.
-
-Owned by: Content & demo lane.
+The same HCP scanning the same drug a second time should visibly get a
+more advanced answer. Thresholds are tight so a live demo shows the jump.
 """
 
+from pymongo.database import Database
 
-def score_familiarity(hcp_id: str, drug_id: str) -> str:
-    """
-    Returns one of "new", "returning", "expert" based on the HCP's
-    Engagement.touch_count for this drug.
+# HUD is rendered *before* the scan is logged, so scan 1 is "new",
+# scan 2 is "returning", scan 3 is "expert".
+RETURNING_AT = 1
+EXPERT_AT = 2
 
-    TODO: implement — e.g. 0 touches -> "new", 1-2 -> "returning",
-    3+ -> "expert". Tune thresholds against the demo script so the tier
-    change is visible within the number of scans you'll actually do live.
-    """
-    # TODO: implement
-    raise NotImplementedError
+TIERS = ("new", "returning", "expert")
+
+
+def tier_for_touch_count(touch_count: int) -> str:
+    if touch_count >= EXPERT_AT:
+        return "expert"
+    if touch_count >= RETURNING_AT:
+        return "returning"
+    return "new"
+
+
+def score_familiarity(hcp_id: str, drug_id: str, db: Database) -> str:
+    row = db.engagements.find_one({"hcp_id": hcp_id, "drug_id": drug_id})
+    return tier_for_touch_count(row["touch_count"] if row else 0)

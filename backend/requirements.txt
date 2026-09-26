@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-sqlalchemy
+pymongo
+mongomock
 pydantic
 sentence-transformers
 numpy

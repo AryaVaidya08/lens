@@ -17,8 +17,12 @@ final class AppState: ObservableObject {
         didSet {
             if let selectedHCP {
                 defaults.set(selectedHCP.id, forKey: Self.profileCacheKey)
+                if let data = try? Self.encoder.encode(selectedHCP) {
+                    defaults.set(data, forKey: Self.profileRecordKey)
+                }
             } else {
                 defaults.removeObject(forKey: Self.profileCacheKey)
+                defaults.removeObject(forKey: Self.profileRecordKey)
             }
             if oldValue?.id != selectedHCP?.id {
                 currentDrug = nil
@@ -27,11 +31,27 @@ final class AppState: ObservableObject {
             }
         }
     }
+    @Published var sessionToken: String? {
+        didSet {
+            if let sessionToken, !sessionToken.isEmpty {
+                defaults.set(sessionToken, forKey: Self.sessionCacheKey)
+            } else {
+                defaults.removeObject(forKey: Self.sessionCacheKey)
+            }
+        }
+    }
     @Published var currentDrug: Drug?
     @Published var familiarityTier: String?
     @Published private(set) var scanHistory: [ScanLogEntry] = []
+    @Published var pendingRecoveryCode: String?
+
+    var isSignedIn: Bool {
+        selectedHCP != nil && !(sessionToken ?? "").isEmpty
+    }
 
     static let profileCacheKey = "lens.selectedHCPID"
+    static let profileRecordKey = "lens.selectedHCPRecord"
+    static let sessionCacheKey = "lens.sessionToken"
     static let historyCacheKey = "lens.scanHistory"
 
     private let defaults: UserDefaults
@@ -40,15 +60,30 @@ final class AppState: ObservableObject {
     init(defaults: UserDefaults = .standard, now: @escaping () -> Date = Date.init) {
         self.defaults = defaults
         self.now = now
-        let savedID = defaults.string(forKey: Self.profileCacheKey)
-        selectedHCP = HCP.demoProfiles.first { $0.id == savedID }
+        let token = defaults.string(forKey: Self.sessionCacheKey)
+        if let data = defaults.data(forKey: Self.profileRecordKey),
+           let stored = try? Self.decoder.decode(HCP.self, from: data) {
+            selectedHCP = stored
+        } else {
+            selectedHCP = nil
+        }
         if selectedHCP == nil {
             defaults.removeObject(forKey: Self.profileCacheKey)
+            defaults.removeObject(forKey: Self.profileRecordKey)
         }
+        sessionToken = token
         reloadHistory()
     }
 
+    func applySession(profile: HCP, token: String, recoveryCode: String?) {
+        pendingRecoveryCode = recoveryCode
+        sessionToken = token
+        selectedHCP = profile
+    }
+
     func logOut() {
+        sessionToken = nil
+        pendingRecoveryCode = nil
         selectedHCP = nil
         currentDrug = nil
         familiarityTier = nil

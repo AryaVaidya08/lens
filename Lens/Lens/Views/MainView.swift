@@ -2,7 +2,7 @@ import SwiftUI
 import UIKit
 
 enum MainTab: Hashable {
-    case scan, history, settings
+    case scan, history, patients, settings
 }
 
 struct MainView: View {
@@ -23,6 +23,11 @@ struct MainView: View {
 
             HistoryView()
                 .tag(MainTab.history)
+                .toolbar(.hidden, for: .tabBar)
+                .toolbarVisibility(.hidden, for: .tabBar)
+
+            PatientListView()
+                .tag(MainTab.patients)
                 .toolbar(.hidden, for: .tabBar)
                 .toolbarVisibility(.hidden, for: .tabBar)
 
@@ -61,6 +66,7 @@ struct MainView: View {
                     onMicrophoneTap: {
                         assistant.microphoneTapped(
                             currentDrug: { appState.currentDrug },
+                            hcpId: { appState.selectedHCP?.id },
                             recordChat: { question, answer in
                                 appState.recordChat(question: question, answer: answer)
                             }
@@ -70,6 +76,13 @@ struct MainView: View {
             }
             .frame(maxWidth: .infinity)
             .padding(.bottom, 6)
+        }
+        .task {
+            guard let id = appState.selectedHCP?.id else { return }
+            if let profile = try? await APIClient.shared.getProfile(hcpId: id),
+               appState.selectedHCP?.id == profile.id {
+                appState.selectedHCP = profile
+            }
         }
         .onChange(of: selectedTab) { _, tab in
             if tab != .scan {
@@ -86,7 +99,7 @@ private struct MainViewSizeKey: PreferenceKey {
     }
 }
 
-/// TabView still owns the three screens so the camera can stay retained, but
+/// TabView still owns the screens so the camera can stay retained, but
 /// the system tab island is replaced by `MainTabIsland`.
 private struct SuppressSystemTabBar: UIViewRepresentable {
     func makeUIView(context: Context) -> UIView {

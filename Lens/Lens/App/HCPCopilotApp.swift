@@ -18,7 +18,7 @@ struct HCPCopilotApp: App {
         WindowGroup {
             ZStack {
                 Group {
-                    if let profile = appState.selectedHCP {
+                    if appState.isSignedIn, let profile = appState.selectedHCP {
                         MainView()
                             .id(profile.id)
                     } else {
@@ -34,6 +34,17 @@ struct HCPCopilotApp: App {
                 }
             }
             .environmentObject(appState)
+            .onAppear {
+                APIClient.shared.sessionToken = appState.sessionToken
+            }
+            .alert("Save your recovery code", isPresented: Binding(
+                get: { appState.pendingRecoveryCode != nil },
+                set: { if !$0 { appState.pendingRecoveryCode = nil } }
+            )) {
+                Button("I saved it") { appState.pendingRecoveryCode = nil }
+            } message: {
+                Text("This is the only time Lens will show it. Use it to reset your password.\n\n\(appState.pendingRecoveryCode ?? "")")
+            }
             .task {
                 try? await Task.sleep(for: .seconds(1.2))
                 withAnimation(.easeOut(duration: 0.4)) {
