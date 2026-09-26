@@ -2,8 +2,8 @@
 //  ARKit session lifecycle + detection-to-HUD plumbing.
 //
 //  Owns the ARSession and runs the detection pipeline per frame:
-//    1. ObjectDetector finds "is there something here" and where (no
-//       model, no training — see its own doc comment).
+//    1. ObjectDetector runs a trained Core ML model to find the bottle
+//       and where it is (see its own doc comment).
 //    2. BarcodeScanner tries to read a barcode restricted to that region.
 //    3. TextRecognizer (OCR) is the fallback if no barcode decodes.
 //  Whichever succeeds publishes state that CameraView renders a bounding
