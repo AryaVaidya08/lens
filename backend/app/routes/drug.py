@@ -14,7 +14,7 @@ from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
 from app.llm.client import generate_answer
 from app.personalization.patient_check import check_patient_chart
-from app.personalization.scorer import build_summary_content, score_familiarity, _truncate
+from app.personalization.scorer import build_summary_content, score_familiarity
 from app.retrieval.index import retrieve
 
 from uuid import uuid4
@@ -74,7 +74,7 @@ def get_summary(
         "name": name,
         "tier": tier,
         "headline": headline,
-        "bullets": [_truncate(text) for text in full_bullets[:MAX_BULLETS]],
+        "bullets": full_bullets[:MAX_BULLETS],
         "full_bullets": full_bullets[:MAX_BULLETS],
         "patient_check": check,
     }

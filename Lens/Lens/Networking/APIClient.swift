@@ -178,7 +178,8 @@ final class APIClient {
         return try await get(
             Endpoints.summary(drugId: drugId),
             query: query,
-            as: DrugSummary.self
+            as: DrugSummary.self,
+            timeout: 30
         )
     }
 
@@ -217,9 +218,10 @@ final class APIClient {
     private func get<Response: Decodable>(
         _ path: String,
         query: [URLQueryItem] = [],
-        as type: Response.Type
+        as type: Response.Type,
+        timeout: TimeInterval = 15
     ) async throws -> Response {
-        var request = URLRequest(url: try url(for: path, query: query), timeoutInterval: 15)
+        var request = URLRequest(url: try url(for: path, query: query), timeoutInterval: timeout)
         request.httpMethod = "GET"
         request.cachePolicy = .reloadIgnoringLocalCacheData
         applyAuth(&request)

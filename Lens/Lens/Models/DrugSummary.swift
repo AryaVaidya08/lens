@@ -146,8 +146,7 @@ struct DrugSummary: Codable {
 
     /// Short lines for the HUD bubble only. The complete text stays in `expandedBullets`.
     var previewBullets: [String] {
-        let source = bullets.isEmpty ? expandedBullets : bullets
-        return source.map { Self.previewLine($0) }
+        expandedBullets.map { Self.previewLine($0) }
     }
 
     static func previewLine(_ text: String, maxChars: Int = 90) -> String {
@@ -200,7 +199,7 @@ struct DrugSummary: Codable {
         tier = try container.decode(String.self, forKey: .tier)
         headline = try container.decode(String.self, forKey: .headline)
         bullets = try container.decode([String].self, forKey: .bullets)
-        fullBullets = try container.decodeIfPresent([String].self, forKey: .fullBullets)
+        fullBullets = try? container.decodeIfPresent([String].self, forKey: .fullBullets)
         patientCheck = try? container.decodeIfPresent(PatientChartCheck.self, forKey: .patientCheck)
     }
 }

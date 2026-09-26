@@ -204,6 +204,16 @@ struct ContractChecks {
         precondition(preview.expandedBullets == [long])
         precondition(preview.previewBullets[0].count < long.count)
         precondition(preview.previewBullets[0].hasSuffix("..."))
+        let clinical = DrugSummary(
+            drugId: "adderall",
+            name: "Adderall",
+            tier: "expert",
+            headline: "Clinical profile",
+            bullets: [long],
+            fullBullets: [long]
+        )
+        precondition(clinical.expandedBullets == [long])
+        precondition(clinical.previewBullets[0].hasSuffix("..."))
         precondition(DrugSummary.previewLine("Short line") == "Short line")
 
         let flagged = try! JSONDecoder().decode(DrugSummary.self, from: Data("""

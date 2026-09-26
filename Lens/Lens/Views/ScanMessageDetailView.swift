@@ -44,6 +44,8 @@ struct ScanMessageDetailView: View {
                             .fixedSize(horizontal: false, vertical: true)
                         ForEach(Array(message.summary.expandedBullets.enumerated()), id: \.offset) { _, text in
                             Text(text)
+                                .font(.body)
+                                .multilineTextAlignment(.leading)
                                 .lineLimit(nil)
                                 .fixedSize(horizontal: false, vertical: true)
                         }

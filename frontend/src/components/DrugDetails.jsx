@@ -50,10 +50,10 @@ function DrugDetails({ drug, summary, loading, error }) {
       <div className="drug-section">
         <h4>{summary?.headline || "Overview"}</h4>
 
-        {summary?.bullets?.length ? (
+        {(summary?.full_bullets || summary?.bullets || []).length ? (
           <ul>
-            {summary.bullets.map((bullet, index) => (
-              <li key={`${bullet}-${index}`}>
+            {(summary.full_bullets || summary.bullets).map((bullet, index) => (
+              <li key={`${index}-${bullet.slice(0, 24)}`}>
                 {bullet}
               </li>
             ))}

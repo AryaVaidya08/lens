@@ -134,7 +134,7 @@ def test_full_summary_preserves_text_omitted_from_preview(monkeypatch):
     text = "Full source passage " * 60
     monkeypatch.setattr(scorer, "parse_dossier_fields", lambda _: {"indications_and_usage": text})
     assert scorer.build_summary_content("test", "new", compact=False)[1] == [text]
-    assert len(scorer.build_summary_content("test", "new")[1][0]) < len(text)
+    assert scorer.build_summary_content("test", "new", compact=True)[1] == [text]
 
 
 def test_ios_picker_and_custom_text_all_resolve(fields):

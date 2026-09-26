@@ -83,6 +83,7 @@ struct CameraView: View {
     @State private var checkError: String?
     @State private var patientScanDrug: Drug?
     @State private var summaryRequestID = UUID()
+    @State private var lastSummaryFailureAt: [String: Date] = [:]
     @State private var expandedMessage: ScanMessageDetails?
 
     var body: some View {
@@ -166,6 +167,7 @@ struct CameraView: View {
                 }
                 return (drugId: drug.id, name: drug.name)
             }
+            APIClient.shared.sessionToken = appState.sessionToken
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
             UIDevice.current.beginGeneratingDeviceOrientationNotifications()
             updateSession(.active(scenePhase == .active))
@@ -209,6 +211,15 @@ struct CameraView: View {
             } else {
                 loadingDrugId = nil
             }
+            Task { await loadPersonalizedContent(for: drug, logTouch: false) }
+        }
+        .onChange(of: appState.sessionToken) { _, token in
+            guard token != nil else { return }
+            let drug = appState.currentDrug ?? patientScanDrug
+            guard let drug else { return }
+            if summary?.drugId == drug.id { return }
+            failedSummaryDrugId = nil
+            lastSummaryFailureAt.removeValue(forKey: drug.id)
             Task { await loadPersonalizedContent(for: drug, logTouch: false) }
         }
         .onChange(of: appState.selectedHCP?.specialty) { _, _ in
@@ -334,9 +345,13 @@ struct CameraView: View {
         let needsPatientCheck = appState.scanSessionPatient.map {
             summary?.chartCheck(for: $0.id) == nil
         } ?? false
-        guard summary?.drugId != drug.id || needsPatientCheck,
-              loadingDrugId != drug.id,
-              failedSummaryDrugId != drug.id || needsPatientCheck else { return }
+        if summary?.drugId == drug.id && !needsPatientCheck { return }
+        if loadingDrugId == drug.id { return }
+        if failedSummaryDrugId == drug.id,
+           let last = lastSummaryFailureAt[drug.id],
+           Date().timeIntervalSince(last) < 2 {
+            return
+        }
         loadingDrugId = drug.id
         Task { await loadPersonalizedContent(for: drug, logTouch: true) }
     }
@@ -370,8 +385,10 @@ struct CameraView: View {
     }
 
     private func loadPersonalizedContent(for drug: Drug, logTouch: Bool) async {
+        APIClient.shared.sessionToken = appState.sessionToken
         guard let hcpId = appState.selectedHCP?.id else {
             failedSummaryDrugId = drug.id
+            lastSummaryFailureAt[drug.id] = Date()
             loadingDrugId = nil
             return
         }
@@ -384,18 +401,15 @@ struct CameraView: View {
         defer {
             if summaryRequestID == requestID { loadingDrugId = nil }
         }
-        do {
-            let fetched = try await APIClient.shared.getSummary(
-                drugId: drug.id,
-                hcpId: hcpId,
-                patientId: patientId
-            )
-            let stillThisDrug = appState.currentDrug?.id == fetched.drugId
+
+        func apply(_ fetched: DrugSummary) -> Bool {
+            let stillThisDrug = fetched.drugId == drug.id
+                || appState.currentDrug?.id == fetched.drugId
                 || patientScanDrug?.id == fetched.drugId
             guard summaryRequestID == requestID,
                   appState.selectedHCP?.id == hcpId,
                   appState.scanSessionPatient?.id == patientId,
-                  stillThisDrug else { return }
+                  stillThisDrug else { return false }
             if let patient = appState.scanSessionPatient {
                 let extra = DemoDrugCatalog.drug(id: fetched.drugId)?.answers.values.joined(separator: " ") ?? ""
                 summary = fetched.applyingChartCheck(for: patient, extraText: extra)
@@ -403,8 +417,18 @@ struct CameraView: View {
                 summary = fetched
             }
             appState.familiarityTier = fetched.tier
-            // Display the result without waiting for engagement logging.
+            lastSummaryFailureAt.removeValue(forKey: drug.id)
             loadingDrugId = nil
+            return true
+        }
+
+        do {
+            let fetched = try await APIClient.shared.getSummary(
+                drugId: drug.id,
+                hcpId: hcpId,
+                patientId: patientId
+            )
+            if !apply(fetched) { return }
             if logTouch {
                 try await APIClient.shared.logEngagement(
                     hcpId: hcpId,
@@ -417,12 +441,24 @@ struct CameraView: View {
                 }
             }
         } catch {
+            if let apiError = error as? APIError, apiError.requiresReauthentication,
+               let token = appState.sessionToken, !token.isEmpty {
+                APIClient.shared.sessionToken = token
+                if let fetched = try? await APIClient.shared.getSummary(
+                    drugId: drug.id,
+                    hcpId: hcpId,
+                    patientId: patientId
+                ), apply(fetched) {
+                    return
+                }
+            }
             guard summaryRequestID == requestID else { return }
             if let patient = appState.scanSessionPatient {
                 summary = patientSummary(for: drug)
                 checkError = nil
             } else if summary?.drugId != drug.id {
                 failedSummaryDrugId = drug.id
+                lastSummaryFailureAt[drug.id] = Date()
             }
         }
     }

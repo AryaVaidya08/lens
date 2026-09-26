@@ -306,7 +306,7 @@ def build_summary_content(
         value = fields.get(field_name)
 
         if value:
-            bullets.append(_truncate(value) if compact else value)
+            bullets.append(value)
 
         if len(bullets) >= 3:
             break
@@ -348,5 +348,5 @@ def build_summary_content(
                     break
                 if fields.get(key) and key not in selected:
                     selected.append(key)
-            bullets = [_truncate(fields[key]) if compact else fields[key] for key in selected]
+            bullets = [fields[key] for key in selected]
     return headline, bullets
