@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+sentence-transformers
+numpy
+requests
+python-multipart
+
+# test-only, needed for tests/test_health.py
+pytest
+httpx
