@@ -27,6 +27,22 @@ from app.db.accounts import owned_patient, public_patient
 router = APIRouter(prefix="/profile", tags=["profile"])
 
 
+def to_utc_iso(value: Optional[datetime]) -> Optional[str]:
+    """Serialize a datetime as an unambiguous UTC ISO string.
+
+    MongoDB returns naive datetimes even though everything we write is UTC.
+    A naive isoformat() string (no offset) gets parsed by JS `Date` as local
+    time, not UTC, which is why times looked "stuck" on the server's clock.
+    Attaching UTC tzinfo before formatting fixes that: the browser can then
+    convert correctly with `new Date(value).toLocaleString()`.
+    """
+    if value is None:
+        return None
+    if value.tzinfo is None:
+        value = value.replace(tzinfo=timezone.utc)
+    return value.isoformat()
+
+
 class ProfileUpdate(BaseModel):
     model_config = ConfigDict(extra="forbid")
     current_password: Optional[str] = Field(default=None, max_length=MAX_PASSWORD_LENGTH)
@@ -115,11 +131,7 @@ def list_chats(
                 "title": latest_row.get("title")
                 or first_row["question"][:50],
                 "preview": latest_row["question"],
-                "asked_at": (
-                    latest_row["asked_at"].isoformat()
-                    if latest_row.get("asked_at")
-                    else None
-                ),
+                "asked_at": to_utc_iso(latest_row.get("asked_at")),
                 "messages": messages,
             }
         )
