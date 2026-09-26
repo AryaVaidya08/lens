@@ -25,6 +25,12 @@ DEMO_DRUGS = [
     ("advil", "Advil", "3-05000-16803", "Ibuprofen"),
     ("tylenol", "Tylenol", "3-00045-15467", "Acetaminophen"),
     ("acetaminophen", "Acetaminophen", "3-00000-00172", "Acetaminophen"),
+    # Real NDCs (from the corpus/manifest) — these three have richer
+    # prescription-style dossiers, so they show a much bigger new-vs-expert
+    # tier contrast than the OTC drugs above.
+    ("adderall", "Adderall", "57844-105", "Amphetamine/Dextroamphetamine"),
+    ("lorazepam", "Lorazepam", "0641-6048", "Lorazepam"),
+    ("biofreeze", "Biofreeze", "3-00000-00173", "Menthol"),
 ]
 
 # Pre-existing engagement so the demo can show "expert" without three live

@@ -18,5 +18,10 @@ def test_seed_is_idempotent():
 
         expert_row = db.query(Engagement).filter(Engagement.touch_count >= 3).first()
         assert expert_row is not None, "seed data should include one pre-existing 'expert' engagement for the demo"
+
+        for drug_id in ("adderall", "biofreeze", "lorazepam"):
+            drug = db.query(Drug).filter(Drug.id == drug_id).first()
+            assert drug is not None, f"{drug_id} should be seeded"
+            assert drug.barcode is not None
     finally:
         db.close()
