@@ -16,5 +16,3 @@ venv/
 # Secrets / local data
 .env
 *.db
-backend/data/.embedding_cache.npz
-backend/data/.embedding_cache.keys.json
