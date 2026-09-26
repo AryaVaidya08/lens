@@ -5,6 +5,7 @@ Owned by: Backend & data lane (contract), AR & detection lane (client-side
 capture that feeds this endpoint).
 """
 
+import re
 from difflib import SequenceMatcher
 
 from fastapi import APIRouter, Depends, HTTPException
@@ -15,20 +16,48 @@ from app.db.models import Drug
 
 router = APIRouter(prefix="/detect", tags=["detect"])
 
-_FUZZY_MATCH_THRESHOLD = 0.5
+_FUZZY_MATCH_THRESHOLD = 0.75
+_WHOLE_WORD_SCORE = 0.95
+
+
+def _tokenize(text: str) -> list[str]:
+    return re.findall(r"[a-z0-9]+", text.lower())
 
 
 def _best_name_match(ocr_text: str, drugs: list[Drug]) -> Drug | None:
-    needle = ocr_text.lower()
-    best: tuple[float, Drug] | None = None
+    lowered = ocr_text.lower()
+    tokens = set(_tokenize(ocr_text))
+
+    best_score = -1.0
+    best_position = len(lowered) + 1
+    best_drug: Drug | None = None
+
     for drug in drugs:
-        score = SequenceMatcher(None, needle, drug.name.lower()).ratio()
-        if needle in drug.name.lower() or drug.name.lower() in needle:
-            score = max(score, 0.9)
-        if best is None or score > best[0]:
-            best = (score, drug)
-    if best and best[0] >= _FUZZY_MATCH_THRESHOLD:
-        return best[1]
+        name_lower = drug.name.lower()
+        name_tokens = _tokenize(drug.name)
+
+        # A whole-word match on every token of the drug's name (not just a
+        # loose substring — "a" is a substring of "Advil" but shouldn't
+        # confidently match it) beats a fuzzy ratio. Real packaging OCR
+        # often contains both the brand and the generic name as separate
+        # words, so ties are broken by whichever name appears earliest in
+        # the text (packaging conventionally puts the brand first/largest).
+        if name_tokens and all(token in tokens for token in name_tokens):
+            score = _WHOLE_WORD_SCORE
+            position = lowered.find(name_lower)
+            if position == -1:
+                position = lowered.find(name_tokens[0])
+        else:
+            score = SequenceMatcher(None, name_lower, lowered).ratio()
+            for token in tokens:
+                score = max(score, SequenceMatcher(None, name_lower, token).ratio())
+            position = len(lowered) + 1  # no positional signal; sort after real matches
+
+        if (score, -position) > (best_score, -best_position):
+            best_score, best_position, best_drug = score, position, drug
+
+    if best_drug is not None and best_score >= _FUZZY_MATCH_THRESHOLD:
+        return best_drug
     return None
 
 
