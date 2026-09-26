@@ -6,10 +6,13 @@ import {
   getDrugSummary,
   askDrugQuestion,
   logEngagement,
-  getPatients
+  getPatients,
+  getProfile
 } from "./api";
 import { drugs } from "./data/mockData";
-import Sidebar from "./components/Sidebar";
+import Header from "./components/Header";
+import Dashboard from "./components/Dashboard";
+import Settings from "./components/Settings";
 import ChatList from "./components/ChatList";
 import ChatView from "./components/ChatView";
 import DrugList from "./components/DrugList";
@@ -23,7 +26,9 @@ function App() {
     localStorage.getItem("lens_hcp_id")
   );
 
-  const [view, setView] = useState("chats");
+  const [view, setView] = useState("dashboard");
+
+  const [profile, setProfile] = useState(null);
 
   const [patients, setPatients] = useState([]);
   const [selectedPatient, setSelectedPatient] = useState(null);
@@ -50,11 +55,13 @@ function App() {
     localStorage.removeItem("lens_hcp_id");
 
     setHcpId(null);
+    setProfile(null);
     setChats([]);
     setSelectedChat(null);
     setSelectedDrug(null);
     setPatients([]);
     setSelectedPatient(null);
+    setView("dashboard");
   }
 
   async function handleDeleteChat(chatId) {
@@ -84,6 +91,21 @@ function App() {
       setError(`Failed to delete conversation: ${err.message}`);
     }
   }
+
+  useEffect(() => {
+    if (!hcpId) return;
+
+    async function loadProfile() {
+      try {
+        const data = await getProfile(hcpId);
+        setProfile(data);
+      } catch (err) {
+        console.error("Failed to load profile:", err);
+      }
+    }
+
+    loadProfile();
+  }, [hcpId]);
 
   useEffect(() => {
     if (!hcpId) return;
@@ -391,7 +413,7 @@ function App() {
 
   return (
     <div className="app">
-      <Sidebar
+      <Header
         view={view}
         setView={setView}
         onLogout={handleLogout}
@@ -399,6 +421,25 @@ function App() {
 
       <main className="main-content">
         {error && <div className="error-banner">{error}</div>}
+
+        {view === "dashboard" && (
+          <Dashboard
+            profile={profile}
+            hcpId={hcpId}
+            chatCount={chats.length}
+            drugCount={drugs.length}
+            patientCount={patients.length}
+            setView={setView}
+          />
+        )}
+
+        {view === "settings" && (
+          <Settings
+            profile={profile}
+            hcpId={hcpId}
+            onLogout={handleLogout}
+          />
+        )}
 
         {view === "chats" && (
           <div className="content-layout">
