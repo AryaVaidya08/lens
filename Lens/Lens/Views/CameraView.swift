@@ -139,7 +139,8 @@ struct CameraView: View {
                 //     barcode: kind == "barcode" ? value : nil,
                 //     ocrText: kind == "text" ? value : nil
                 // ) call once Backend & data's /detect route is live.
-                (drugId: "fake-drug-1", name: "Sample Drug")
+                let demo = DemoDrugCatalog.resolve(payload: value)
+                return (drugId: demo.id, name: demo.name)
             }
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
             UIDevice.current.beginGeneratingDeviceOrientationNotifications()
@@ -231,17 +232,8 @@ struct CameraView: View {
     /// TODO: implement — remove once getSummary() is live; this exists
     /// only to give the HUD bubble something to show for now.
     private func fakeSummary(for detection: DetectionResult) -> DrugSummary {
-        DrugSummary(
-            drugId: detection.drugId,
-            name: detection.name,
-            tier: "new",
-            headline: "Fast-acting oral tablet",
-            bullets: [
-                "Standard adult dose: 10mg once daily",
-                "Common use: hypertension",
-                "Tap to ask a follow-up question"
-            ]
-        )
+        DemoDrugCatalog.drug(id: detection.drugId)?.summary
+            ?? DemoDrugCatalog.resolve(payload: detection.rawPayload).summary
     }
 }
 

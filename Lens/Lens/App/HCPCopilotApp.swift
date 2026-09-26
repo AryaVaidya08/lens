@@ -12,18 +12,34 @@ import SwiftUI
 @main
 struct HCPCopilotApp: App {
     @StateObject private var appState = AppState()
+    @State private var isShowingSplash = true
 
     var body: some Scene {
         WindowGroup {
-            Group {
-                if let profile = appState.selectedHCP {
-                    MainView()
-                        .id(profile.id)
-                } else {
-                    PersonaPickerView()
+            ZStack {
+                Group {
+                    if let profile = appState.selectedHCP {
+                        MainView()
+                            .id(profile.id)
+                    } else {
+                        PersonaPickerView()
+                    }
+                }
+
+                if isShowingSplash {
+                    LaunchSplashView()
+                        .allowsHitTesting(false)
+                        .transition(.opacity)
+                        .zIndex(1)
                 }
             }
             .environmentObject(appState)
+            .task {
+                try? await Task.sleep(for: .seconds(1.2))
+                withAnimation(.easeOut(duration: 0.4)) {
+                    isShowingSplash = false
+                }
+            }
         }
     }
 }

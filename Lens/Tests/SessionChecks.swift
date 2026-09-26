@@ -58,6 +58,7 @@ struct SessionChecks {
             state.logOut()
             precondition(AppState(defaults: defaults).selectedHCP == nil)
         }
+        historyChecks()
         print("PASS: profile selection, restoration, switching, logout, stale cache, and unrelated preferences")
     }
 
@@ -87,5 +88,66 @@ struct SessionChecks {
             preconditionFailure("Unknown persistence phase")
         }
         print("PASS: separate-process profile persistence — \(phase)")
+    }
+
+    @MainActor
+    private static func historyChecks() {
+        let suiteName = "lens.history-checks.\(UUID().uuidString)"
+        let defaults = UserDefaults(suiteName: suiteName)!
+        defer { defaults.removePersistentDomain(forName: suiteName) }
+        var instant = Date(timeIntervalSince1970: 1_700_000_000)
+        let state = AppState(defaults: defaults, now: { instant })
+        state.selectedHCP = HCP.demoProfiles[0]
+        precondition(state.scanHistory.isEmpty)
+
+        let drugA = Drug(id: "drug_a", name: "Drug A")
+        let drugB = Drug(id: "drug_b", name: "Drug B")
+        state.currentDrug = drugA
+        state.currentDrug = drugB
+        state.currentDrug = drugA
+        precondition(state.scanHistory.isEmpty, "Scanning without asking a question must not be logged")
+
+        state.recordChat(question: "What's the dose?", answer: "Demo reply")
+        precondition(state.scanHistory.count == 1)
+        precondition(state.scanHistory[0].drugName == "Drug A")
+        precondition(state.scanHistory[0].chats.first?.question == "What's the dose?")
+
+        instant += 30
+        state.recordChat(question: "Side effects?", answer: "Demo reply 2")
+        precondition(state.scanHistory.count == 1, "Follow-up questions on the same drug join the same chat")
+        precondition(state.scanHistory[0].chats.count == 2)
+
+        state.currentDrug = drugB
+        state.recordChat(question: "What is it?", answer: "Demo reply 3")
+        precondition(state.scanHistory.count == 2)
+        precondition(state.scanHistory[1].drugName == "Drug B")
+
+        let restored = AppState(defaults: defaults, now: { instant })
+        precondition(restored.scanHistory.count == 2)
+        precondition(restored.scanHistory[0].chats.last?.answer == "Demo reply 2")
+
+        restored.selectedHCP = HCP.demoProfiles[1]
+        precondition(restored.scanHistory.isEmpty, "History is per HCP")
+        restored.recordChat(question: "Hello", answer: "Hi")
+        precondition(restored.scanHistory.count == 1)
+        precondition(restored.scanHistory[0].drugId == nil)
+        precondition(restored.scanHistory[0].drugName == "Voice chat")
+
+        restored.logOut()
+        precondition(restored.scanHistory.isEmpty)
+
+        let back = AppState(defaults: defaults, now: { instant })
+        back.selectedHCP = HCP.demoProfiles[0]
+        precondition(back.scanHistory.count == 2, "Logout must not erase another profile's local history")
+        back.recordChat(question: "  ", answer: "ignored")
+        precondition(back.scanHistory.count == 2 && back.scanHistory.last?.chats.count == 1,
+                     "Blank questions must not be stored")
+
+        let legacy = ScanLogEntry(hcpId: "hcp_003", drugId: "adderall", drugName: "Adderall", scannedAt: instant)
+        let legacyData = try! JSONEncoder().encode(["hcp_003": [legacy]])
+        defaults.set(legacyData, forKey: AppState.historyCacheKey)
+        let upgraded = AppState(defaults: defaults, now: { instant })
+        upgraded.selectedHCP = HCP.demoProfiles[2]
+        precondition(upgraded.scanHistory.isEmpty, "Scan-only entries from older builds are hidden")
     }
 }

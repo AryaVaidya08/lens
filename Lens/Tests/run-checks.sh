@@ -18,6 +18,7 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
 
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Models/HCP.swift Lens/Lens/Models/Drug.swift \
+    Lens/Lens/Models/ScanHistory.swift \
     Lens/Lens/App/AppState.swift Lens/Tests/SessionChecks.swift \
     -o "$check_dir/session-checks"
 "$check_dir/session-checks"
@@ -28,6 +29,8 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Voice/SpeechRecognitionDriver.swift \
     Lens/Lens/Voice/SpeechRecognizer.swift Lens/Lens/Voice/PlaceholderAssistant.swift \
+    Lens/Lens/Models/DemoDrugCatalog.swift Lens/Lens/Models/Drug.swift \
+    Lens/Lens/Models/DrugSummary.swift \
     Lens/Tests/VoiceChecks.swift -o "$check_dir/voice-checks"
 "$check_dir/voice-checks"
 

@@ -23,22 +23,29 @@ final class AppState: ObservableObject {
             if oldValue?.id != selectedHCP?.id {
                 currentDrug = nil
                 familiarityTier = nil
+                reloadHistory()
             }
         }
     }
     @Published var currentDrug: Drug?
     @Published var familiarityTier: String?
+    @Published private(set) var scanHistory: [ScanLogEntry] = []
 
     static let profileCacheKey = "lens.selectedHCPID"
-    private let defaults: UserDefaults
+    static let historyCacheKey = "lens.scanHistory"
 
-    init(defaults: UserDefaults = .standard) {
+    private let defaults: UserDefaults
+    private let now: () -> Date
+
+    init(defaults: UserDefaults = .standard, now: @escaping () -> Date = Date.init) {
         self.defaults = defaults
+        self.now = now
         let savedID = defaults.string(forKey: Self.profileCacheKey)
         selectedHCP = HCP.demoProfiles.first { $0.id == savedID }
         if selectedHCP == nil {
             defaults.removeObject(forKey: Self.profileCacheKey)
         }
+        reloadHistory()
     }
 
     func logOut() {
@@ -46,4 +53,69 @@ final class AppState: ObservableObject {
         currentDrug = nil
         familiarityTier = nil
     }
+
+    func recordChat(question: String, answer: String) {
+        let question = question.trimmingCharacters(in: .whitespacesAndNewlines)
+        let answer = answer.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !question.isEmpty, !answer.isEmpty, let hcpId = selectedHCP?.id else { return }
+
+        let turn = ChatTurn(askedAt: now(), question: question, answer: answer)
+        var entries = entries(for: hcpId)
+
+        if let last = entries.indices.last, entries[last].drugId == currentDrug?.id {
+            entries[last].chats.append(turn)
+        } else {
+            entries.append(
+                ScanLogEntry(
+                    hcpId: hcpId,
+                    drugId: currentDrug?.id,
+                    drugName: currentDrug?.name ?? "Voice chat",
+                    scannedAt: turn.askedAt,
+                    chats: [turn]
+                )
+            )
+        }
+
+        save(entries, for: hcpId)
+    }
+
+    private func reloadHistory() {
+        guard let hcpId = selectedHCP?.id else {
+            scanHistory = []
+            return
+        }
+        scanHistory = entries(for: hcpId)
+    }
+
+    private func entries(for hcpId: String) -> [ScanLogEntry] {
+        (loadAll()[hcpId] ?? []).filter { !$0.chats.isEmpty }
+    }
+
+    private func save(_ entries: [ScanLogEntry], for hcpId: String) {
+        var all = loadAll()
+        all[hcpId] = entries
+        if let data = try? Self.encoder.encode(all) {
+            defaults.set(data, forKey: Self.historyCacheKey)
+        }
+        if selectedHCP?.id == hcpId {
+            scanHistory = entries
+        }
+    }
+
+    private func loadAll() -> [String: [ScanLogEntry]] {
+        guard let data = defaults.data(forKey: Self.historyCacheKey) else { return [:] }
+        return (try? Self.decoder.decode([String: [ScanLogEntry]].self, from: data)) ?? [:]
+    }
+
+    private static let encoder: JSONEncoder = {
+        let encoder = JSONEncoder()
+        encoder.dateEncodingStrategy = .secondsSince1970
+        return encoder
+    }()
+
+    private static let decoder: JSONDecoder = {
+        let decoder = JSONDecoder()
+        decoder.dateDecodingStrategy = .secondsSince1970
+        return decoder
+    }()
 }

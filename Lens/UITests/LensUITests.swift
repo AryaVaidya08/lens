@@ -9,8 +9,8 @@ final class LensUITests: XCTestCase {
         continueAfterFailure = false
         app = XCUIApplication()
         app.launch()
-        if app.tabBars.buttons["Settings"].waitForExistence(timeout: 3) {
-            app.tabBars.buttons["Settings"].tap()
+        if settingsTab.waitForExistence(timeout: 3) {
+            settingsTab.tap()
             app.buttons["settings.logout"].tap()
         }
         XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
@@ -26,13 +26,16 @@ final class LensUITests: XCTestCase {
         }
     }
 
+    private var settingsTab: XCUIElement { app.buttons["tab.settings"] }
+    private var scanTab: XCUIElement { app.buttons["tab.scan"] }
+
     private func signIn(_ id: String = "hcp_001") {
         app.buttons["profile.\(id)"].tap()
-        XCTAssertTrue(app.tabBars.buttons["Settings"].waitForExistence(timeout: 5))
+        XCTAssertTrue(settingsTab.waitForExistence(timeout: 5))
     }
 
     private func openEditor() {
-        app.tabBars.buttons["Settings"].tap()
+        settingsTab.tap()
         app.buttons["settings.editProfile"].tap()
         XCTAssertTrue(app.textFields["profileEditor.firstName"].waitForExistence(timeout: 5))
     }
@@ -51,8 +54,8 @@ final class LensUITests: XCTestCase {
         signIn("hcp_002")
         app.terminate()
         app.launch()
-        XCTAssertTrue(app.tabBars.buttons["Settings"].waitForExistence(timeout: 5))
-        app.tabBars.buttons["Settings"].tap()
+        XCTAssertTrue(settingsTab.waitForExistence(timeout: 5))
+        settingsTab.tap()
         XCTAssertTrue(app.staticTexts["Dr. James Chen"].exists)
         XCTAssertTrue(app.staticTexts["Cardiology"].exists)
         app.buttons["settings.logout"].tap()
@@ -137,16 +140,17 @@ final class LensUITests: XCTestCase {
     func testRepeatedProfileSwitchingAndEmptyAssistant() {
         for id in ["hcp_001", "hcp_002", "hcp_003", "hcp_001"] {
             signIn(id)
-            app.tabBars.buttons["Assistant"].tap()
             XCTAssertTrue(app.buttons["assistant.microphone"].waitForExistence(timeout: 5))
             XCTAssertFalse(app.staticTexts["You said"].exists)
             XCTAssertFalse(app.buttons["Replay reply"].exists)
             XCTAssertFalse(app.staticTexts["Your words will appear here as you speak."].exists)
             for _ in 0..<3 {
-                app.tabBars.buttons["Settings"].tap()
-                app.tabBars.buttons["Assistant"].tap()
+                settingsTab.tap()
+                XCTAssertTrue(scanTab.waitForExistence(timeout: 5))
+                scanTab.tap()
+                XCTAssertTrue(app.buttons["assistant.microphone"].waitForExistence(timeout: 5))
             }
-            app.tabBars.buttons["Settings"].tap()
+            settingsTab.tap()
             app.buttons["settings.logout"].tap()
             XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
         }
@@ -155,7 +159,7 @@ final class LensUITests: XCTestCase {
     func testDeniedSpeechPermissionCanRetryAndNavigate() {
         signIn()
         app.resetAuthorizationStatus(for: .speechRecognition)
-        app.tabBars.buttons["Assistant"].tap()
+        XCTAssertTrue(app.buttons["assistant.microphone"].waitForExistence(timeout: 5))
         let handler = addUIInterruptionMonitor(withDescription: "Speech permission") { alert in
             let deny = alert.buttons["Don't Allow"]
             if deny.exists { deny.tap(); return true }
@@ -168,7 +172,7 @@ final class LensUITests: XCTestCase {
         XCTAssertTrue(app.buttons["assistant.microphone"].isEnabled)
         app.buttons["assistant.microphone"].tap()
         XCTAssertTrue(app.buttons["Open app settings"].waitForExistence(timeout: 5))
-        app.tabBars.buttons["Settings"].tap()
+        settingsTab.tap()
         app.buttons["settings.logout"].tap()
         XCTAssertTrue(app.buttons["profile.hcp_001"].waitForExistence(timeout: 5))
     }
@@ -182,7 +186,8 @@ final class LensUITests: XCTestCase {
         XCTAssertTrue(app.buttons["profileEditor.cancel"].isHittable)
         XCTAssertTrue(app.buttons["profileEditor.save"].isHittable)
         app.buttons["profileEditor.cancel"].tap()
-        app.tabBars.buttons["Assistant"].tap()
+        XCTAssertTrue(scanTab.waitForExistence(timeout: 5))
+        scanTab.tap()
         let microphone = app.buttons["assistant.microphone"]
         for _ in 0..<5 {
             if microphone.isHittable { break }

@@ -324,9 +324,23 @@ struct VoiceChecks {
             }
         }
         let question = "What did you hear?"
-        let reply = PlaceholderAssistant.reply(to: question)
+        let reply = PlaceholderAssistant.reply(to: question, drug: nil)
         precondition(reply.contains(question) && reply.contains("demo reply"))
-        print("PASS: placeholder echoes the question and identifies itself as a demo")
+        precondition(Set(DemoDrugCatalog.all.map(\.id)) == ["adderall", "biofreeze", "lorazepam"])
+        for demo in DemoDrugCatalog.all {
+            precondition(DemoDrugCatalog.resolve(payload: "text: \(demo.name.uppercased()) 10 MG").id == demo.id)
+            precondition(Set(demo.answers.keys) == Set(DemoDrug.Topic.allCases))
+            let dosing = PlaceholderAssistant.reply(to: "What's the dose?", drug: demo.drug)
+            precondition(dosing == "Demo data for \(demo.name). \(demo.answers[.dosing]!)")
+            let sideEffects = PlaceholderAssistant.reply(to: "Any side effects?", drug: demo.drug)
+            precondition(sideEffects.contains(demo.answers[.sideEffects]!))
+            let overview = PlaceholderAssistant.reply(to: "Tell me about it", drug: demo.drug)
+            precondition(overview.contains(demo.headline))
+        }
+        let unknown = DemoDrugCatalog.resolve(payload: "barcode: 0123456789")
+        precondition(DemoDrugCatalog.resolve(payload: "barcode: 0123456789").id == unknown.id,
+                     "Unrecognized payloads must map to a stable demo drug")
+        print("PASS: demo replies for Adderall, Biofreeze, and Lorazepam; stable fake detection")
         print("PASS: \(count + 1) voice regression cases")
     }
 }
