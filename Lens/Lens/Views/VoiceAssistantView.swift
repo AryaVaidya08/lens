@@ -4,75 +4,130 @@ import SwiftUI
 import UIKit
 
 struct VoiceAssistantView: View {
+    @Binding var selectedTab: MainTab
+    @State private var contentHeight: CGFloat = 0
     @Environment(\.scenePhase) private var scenePhase
     @Environment(\.openURL) private var openURL
     @StateObject private var recognizer = SpeechRecognizer()
     @StateObject private var speaker = SpeechSynthesizer()
     @State private var reply = ""
+    @State private var isExpanded = false
 
     var body: some View {
-        NavigationStack {
-            ScrollView {
-                VStack(alignment: .leading, spacing: 24) {
-                    VStack(alignment: .leading, spacing: 8) {
-                        Label("Voice assistant", systemImage: "waveform.circle.fill")
-                            .font(.title2.bold())
-                        Text("Try saying something, then tap Finish. I'll repeat what I heard. Drug answers aren't connected yet.")
-                            .foregroundStyle(.secondary)
-                    }
-
-                    VStack(spacing: 12) {
-                        Button(action: microphoneTapped) {
-                            Label(buttonTitle, systemImage: recognizer.state == .listening ? "stop.fill" : "mic.fill")
-                                .font(.headline)
-                                .frame(maxWidth: .infinity)
-                                .padding(.vertical, 12)
-                        }
-                        .buttonStyle(.borderedProminent)
-                        .disabled(recognizer.state == .requestingPermission || recognizer.state == .finishing)
-                        .accessibilityIdentifier("assistant.microphone")
-
-                        if recognizer.state != .idle {
-                            Button("Cancel", role: .cancel) { recognizer.cancel() }
-                        }
-                        if speaker.isSpeaking {
-                            Button("Stop speaking") { speaker.stop() }
-                        }
-                        Text(statusText)
-                            .font(.footnote)
-                            .foregroundStyle(.secondary)
-                    }
-
-                    if !recognizer.transcript.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-                        transcriptCard(title: "You said", text: recognizer.transcript)
-                    }
-
-                    if !reply.isEmpty {
-                        transcriptCard(title: "Assistant · Demo reply", text: reply)
+        VStack(alignment: .leading, spacing: 12) {
+            if isExpanded && selectedTab == .scan && hasContent {
+                VStack(alignment: .leading, spacing: 12) {
+                    HStack {
+                        Text("Assistant").font(.headline)
+                        Spacer()
                         Button {
-                            speaker.speak(reply)
+                            stopAudio()
+                            isExpanded = false
                         } label: {
-                            Label("Replay reply", systemImage: "speaker.wave.2.fill")
+                            Image(systemName: "xmark")
+                                .frame(width: 44, height: 44)
                         }
-                        .disabled(recognizer.state != .idle || speaker.isSpeaking)
+                        .accessibilityLabel("Close assistant")
                     }
 
-                    if let error = recognizer.errorMessage ?? speaker.errorMessage {
-                        Label(error, systemImage: "exclamationmark.circle")
-                            .foregroundStyle(.red)
-                            .accessibilityIdentifier("assistant.error")
-                    }
-                    if recognizer.needsSettings {
-                        Button("Open app settings") {
-                            if let url = URL(string: UIApplication.openSettingsURLString) {
-                                openURL(url)
+                    ScrollView {
+                        VStack(alignment: .leading, spacing: 12) {
+                            Text(statusText)
+                                .font(.footnote)
+                                .foregroundStyle(.secondary)
+
+                            if recognizer.state != .idle {
+                                Button("Cancel", role: .cancel) { recognizer.cancel() }
+                            }
+                            if speaker.isSpeaking {
+                                Button("Stop speaking") { speaker.stop() }
+                            }
+                            if !recognizer.transcript.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                                transcriptCard(title: "You said", text: recognizer.transcript)
+                            }
+                            if !reply.isEmpty {
+                                transcriptCard(title: "Assistant · Demo reply", text: reply)
+                                Button {
+                                    speaker.speak(reply)
+                                } label: {
+                                    Label("Replay reply", systemImage: "speaker.wave.2.fill")
+                                }
+                                .disabled(recognizer.state != .idle || speaker.isSpeaking)
+                            }
+                            if let error = recognizer.errorMessage ?? speaker.errorMessage {
+                                Label(error, systemImage: "exclamationmark.circle")
+                                    .foregroundStyle(.red)
+                                    .accessibilityIdentifier("assistant.error")
+                            }
+                            if recognizer.needsSettings {
+                                Button("Open app settings") {
+                                    if let url = URL(string: UIApplication.openSettingsURLString) {
+                                        openURL(url)
+                                    }
+                                }
                             }
                         }
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .onGeometryChange(for: CGFloat.self) { $0.size.height } action: { contentHeight = $0 }
                     }
+                    .frame(height: min(max(contentHeight, 44), 180))
                 }
-                .padding()
+                .padding(.horizontal, 16)
+                .padding(.bottom, 16)
+                .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 20))
+                .frame(maxWidth: 360)
+                .padding(.horizontal, 8)
             }
-            .navigationTitle("Assistant")
+
+            if isExpanded && selectedTab == .scan && !hasContent && recognizer.state != .idle {
+                HStack {
+                    Text(buttonTitle == "Finish" ? "Listening…" : buttonTitle)
+                        .font(.footnote)
+                    Button("Cancel") { stopAudio(); isExpanded = false }
+                }
+                .padding(10)
+                .background(.regularMaterial, in: Capsule())
+                .padding(.leading, 8)
+            }
+
+            HStack(spacing: 0) {
+                Button(action: microphoneTapped) {
+                    Image(systemName: microphoneSymbol)
+                        .font(.title3.bold())
+                        .foregroundStyle(isActive ? Color.white : Color.primary)
+                        .frame(width: 55, height: 55)
+                        .background {
+                            if isActive {
+                                Circle().fill(.black)
+                            } else {
+                                Circle()
+                                    .fill(.clear)
+                                    .glassEffect(.regular, in: .circle)
+                            }
+                        }
+                        .overlay {
+                            if isActive {
+                                Circle().strokeBorder(Color.blue, lineWidth: 3)
+                            }
+                        }
+                        .shadow(color: isActive ? .blue.opacity(0.45) : .clear, radius: 5)
+                        .contentShape(Circle())
+                }
+                .buttonStyle(.plain)
+                .disabled(recognizer.state == .finishing)
+                .accessibilityLabel(recognizer.state == .requestingPermission ? "Cancel microphone request" : speaker.isSpeaking ? "Stop speaking" : buttonTitle)
+                .accessibilityIdentifier("assistant.microphone")
+
+            }
+            .padding(.horizontal, 8)
+            .frame(height: 64)
+            .offset(x: 10, y: 14)
+        }
+        .onChange(of: selectedTab) { _, tab in
+            if tab != .scan {
+                stopAudio()
+                isExpanded = false
+            }
         }
         .onDisappear(perform: stopAudio)
         .onChange(of: scenePhase) { _, phase in
@@ -92,6 +147,20 @@ struct VoiceAssistantView: View {
         }
     }
 
+    private var isActive: Bool { recognizer.state != .idle || speaker.isSpeaking }
+
+    private var microphoneSymbol: String {
+        if speaker.isSpeaking || recognizer.state == .listening { return "stop.fill" }
+        if recognizer.state == .requestingPermission { return "xmark" }
+        if recognizer.state == .finishing { return "ellipsis" }
+        return "mic.fill"
+    }
+
+    private var hasContent: Bool {
+        !recognizer.transcript.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty ||
+        !reply.isEmpty || recognizer.errorMessage != nil || speaker.errorMessage != nil
+    }
+
     private var buttonTitle: String {
         switch recognizer.state {
         case .idle: "Tap to speak"
@@ -106,7 +175,7 @@ struct VoiceAssistantView: View {
         switch recognizer.state {
         case .idle: return "Ready when you are."
         case .requestingPermission: return "Microphone and speech recognition access are needed."
-        case .listening: return "Listening… Recording ends after 45 seconds."
+        case .listening: return "Listening… Tap the stop button to finish. Recording ends after 45 seconds."
         case .finishing: return "Finishing your transcript…"
         }
     }
@@ -122,6 +191,17 @@ struct VoiceAssistantView: View {
     }
 
     private func microphoneTapped() {
+        selectedTab = .scan
+        isExpanded = true
+        if recognizer.state == .requestingPermission {
+            stopAudio()
+            isExpanded = false
+            return
+        }
+        if speaker.isSpeaking {
+            speaker.stop()
+            return
+        }
         if recognizer.state == .listening {
             recognizer.stopListening()
         } else if recognizer.state == .idle {

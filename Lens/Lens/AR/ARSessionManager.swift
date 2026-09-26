@@ -25,7 +25,6 @@
 import ARKit
 import Combine
 import SceneKit
-import Combine
 import Foundation
 import UIKit
 import SwiftUI
@@ -130,8 +129,19 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
     private let visionQueue = DispatchQueue(label: "hcpcopilot.vision-scan", qos: .userInitiated)
     private var isScanning = false
 
+    private var isRunning = false
+    private var generation = UUID()
+
     func start() {
+        guard !isRunning, ARWorldTrackingConfiguration.isSupported else { return }
+        isRunning = true
+        generation = UUID()
         let configuration = ARWorldTrackingConfiguration()
+        // The assistant owns microphone capture; scanning only needs video.
+        configuration.providesAudioData = false
+        // Lifecycle, scan gating, and published results share the main queue.
+        // Only the expensive Vision requests execute on visionQueue.
+        session.delegateQueue = .main
         session.delegate = self
         session.run(configuration)
 
@@ -141,12 +151,21 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
     }
 
     func stop() {
+        guard isRunning else { return }
+        isRunning = false
+        // Vision may still be processing a frame from before this pause.
+        generation = UUID()
         session.pause()
         staleCheckTimer?.invalidate()
         staleCheckTimer = nil
+        lastSeenAt = nil
+        objectBoundingBox = nil
+        activeDetection = nil
+        isStale = false
     }
 
     func session(_ session: ARSession, didUpdate frame: ARFrame) {
+        guard isRunning else { return }
         frameCounter += 1
         guard frameCounter % detectionInterval == 0 else { return }
         guard !isScanning else { return }
@@ -155,6 +174,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         // Grab just the pixel buffer (a cheap, refcounted handle) and the
         // orientation now, synchronously — never hold on to `frame`
         // itself past this callback.
+        let scanGeneration = generation
         let pixelBuffer = frame.capturedImage
         let orientation = currentInterfaceOrientation.cgImageOrientation
 
@@ -164,6 +184,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
             guard let objectBox = self.objectDetector.detectObject(pixelBuffer: pixelBuffer, orientation: orientation) else {
                 DispatchQueue.main.async {
                     self.isScanning = false
+                    guard self.isRunning, self.generation == scanGeneration else { return }
                     self.objectBoundingBox = nil
                     self.markMissedIfNeeded()
                 }
@@ -179,6 +200,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
 
             DispatchQueue.main.async {
                 self.isScanning = false
+                guard self.isRunning, self.generation == scanGeneration else { return }
                 self.handleObjectSeen(objectBox: objectBox, identifier: identifier)
             }
         }

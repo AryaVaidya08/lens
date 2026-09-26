@@ -34,7 +34,8 @@ struct SettingsView: View {
                     Text("Logging out clears your saved profile from this device. You'll choose a profile the next time you open Lens.")
                 }
             }
-            .navigationTitle("Settings")
+            .contentMargins(.top, 8, for: .scrollContent)
+            .tabHeader("Settings")
         }
         .sheet(item: $profileToEdit) { profile in
             EditProfileView(profile: profile)

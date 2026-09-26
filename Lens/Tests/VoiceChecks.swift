@@ -279,6 +279,50 @@ struct VoiceChecks {
             precondition(f.recognizer.state == .idle && f.replies == ["Complete"])
             precondition(!f.clock.contains(.seconds(3)))
         }
+        await run("error after Finish preserves captured words and replies once") { f in
+            await f.listening()
+            f.driver.emit("What did you hear")
+            f.recognizer.stopListening()
+            f.driver.emit(failed: true)
+            f.driver.emit("late duplicate", final: true)
+            precondition(f.replies == ["What did you hear"])
+            precondition(f.recognizer.state == .idle && f.recognizer.errorMessage == nil)
+        }
+        await run("empty final update does not erase words captured before Finish") { f in
+            await f.listening()
+            f.driver.emit("Keep these words")
+            f.recognizer.stopListening()
+            f.driver.emit("", final: true)
+            precondition(f.replies == ["Keep these words"])
+        }
+        await run("error after silent Finish remains an error without a reply") { f in
+            await f.listening()
+            f.recognizer.stopListening()
+            f.driver.emit(failed: true)
+            precondition(f.replies.isEmpty && f.recognizer.errorMessage != nil)
+        }
+        await run("cancelled Finish never replies to a late error") { f in
+            await f.listening()
+            f.driver.emit("Do not submit this")
+            f.recognizer.stopListening()
+            f.recognizer.cancel()
+            f.driver.emit(failed: true)
+            precondition(f.replies.isEmpty && f.recognizer.errorMessage == nil)
+        }
+        await run("100 repeated recordings recover after finalization errors") { f in
+            for index in 0..<100 {
+                await f.listening()
+                f.driver.emit("Question \(index)")
+                f.recognizer.stopListening()
+                f.recognizer.stopListening()
+                f.driver.emit(failed: true)
+                f.driver.emit("late", final: true)
+                precondition(f.replies.count == index + 1)
+                precondition(f.replies.last == "Question \(index)")
+                precondition(f.recognizer.state == .idle)
+                f.clock.drain()
+            }
+        }
         let question = "What did you hear?"
         let reply = PlaceholderAssistant.reply(to: question)
         precondition(reply.contains(question) && reply.contains("demo reply"))

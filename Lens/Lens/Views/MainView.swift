@@ -1,21 +1,30 @@
 import SwiftUI
 
-/// Navigation for Anthony's profile, voice, and settings work.
-/// CameraView remains the AR lane's integration point.
+enum MainTab: Hashable {
+    case scan, settings
+}
+
 struct MainView: View {
+    @State private var selectedTab: MainTab = .scan
+
     var body: some View {
-        TabView {
-            NavigationStack {
-                CameraView()
-                    .navigationTitle("Scan")
+        ZStack(alignment: .bottomLeading) {
+            TabView(selection: $selectedTab) {
+                NavigationStack {
+                    CameraView()
+                        .toolbar(.hidden, for: .navigationBar)
+                }
+                .tag(MainTab.scan)
+                .tabItem { Label("Scan", systemImage: "viewfinder") }
+
+                SettingsView()
+                    .tag(MainTab.settings)
+                    .tabItem { Label("Settings", systemImage: "gearshape") }
             }
-            .tabItem { Label("Scan", systemImage: "viewfinder") }
 
-            VoiceAssistantView()
-                .tabItem { Label("Assistant", systemImage: "waveform") }
-
-            SettingsView()
-                .tabItem { Label("Settings", systemImage: "gearshape") }
+            if selectedTab == .scan {
+                VoiceAssistantView(selectedTab: $selectedTab)
+            }
         }
     }
 }

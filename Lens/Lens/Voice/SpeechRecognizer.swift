@@ -88,11 +88,21 @@ final class SpeechRecognizer: ObservableObject {
             state = .listening
             try driver.start { [weak self] update in
                 guard let self, self.sessionID == id else { return }
-                if let text = update.text { self.transcript = text }
+                // Empty end-of-audio updates must not erase captured words.
+                if let text = update.text,
+                   !text.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                    self.transcript = text
+                }
                 if update.isFinal {
                     self.finish()
                 } else if update.failed {
-                    self.fail("Couldn't finish recognizing your speech. Please try again.")
+                    if self.state == .finishing {
+                        // Match the timeout path after Finish: submit captured
+                        // words once, or report silence if there weren't any.
+                        self.finish()
+                    } else {
+                        self.fail("Couldn't finish recognizing your speech. Please try again.")
+                    }
                 }
             }
             guard sessionID == id else { return }

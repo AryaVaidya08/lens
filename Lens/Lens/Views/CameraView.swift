@@ -44,9 +44,8 @@ private final class SelfSizingARSCNView: ARSCNView {
 /// Bridges ARSessionManager's ARSession into an ARSCNView for SwiftUI.
 private struct ARCameraRepresentable: UIViewRepresentable {
     let session: ARSession
-    /// Called once this view has real, laid-out bounds — CameraView starts
-    /// the AR session here instead of in `.onAppear`, so ARKit/SceneKit
-    /// never renders its first frame against a stale zero/square size.
+    /// Unlocks the initial start after layout. CameraView also tracks tab
+    /// visibility and scene activity so the retained view can resume later.
     let onReady: () -> Void
 
     func makeUIView(context: Context) -> SelfSizingARSCNView {
@@ -71,6 +70,8 @@ private struct SizePreferenceKey: PreferenceKey {
 
 struct CameraView: View {
     @EnvironmentObject var appState: AppState
+    @Environment(\.scenePhase) private var scenePhase
+    @State private var lifecycle = CameraSessionLifecycle()
     @StateObject private var arManager = ARSessionManager()
     @State private var bubbleSize: CGSize = CGSize(width: 220, height: 90)
     @State private var flashOpacity: Double = 1.0
@@ -83,7 +84,7 @@ struct CameraView: View {
         GeometryReader { geometry in
             ZStack {
                 ARCameraRepresentable(session: arManager.session) {
-                    arManager.start()
+                    updateSession(.layoutReady)
                 }
                 .ignoresSafeArea()
 
@@ -142,21 +143,24 @@ struct CameraView: View {
             }
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
             UIDevice.current.beginGeneratingDeviceOrientationNotifications()
-            // arManager.start() now happens once ARCameraRepresentable
-            // reports real laid-out bounds — see its onReady callback above.
+            updateSession(.active(scenePhase == .active))
+            updateSession(.visible(true))
         }
         .onDisappear {
             UIDevice.current.endGeneratingDeviceOrientationNotifications()
-            arManager.stop()
+            updateSession(.visible(false))
+        }
+        .onChange(of: scenePhase) { _, phase in
+            updateSession(.active(phase == .active))
         }
         .onReceive(NotificationCenter.default.publisher(for: UIDevice.orientationDidChangeNotification)) { _ in
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
         }
-        .onChange(of: arManager.activeDetection?.drugId) { newDrugId in
+        .onChange(of: arManager.activeDetection?.drugId) { _, newDrugId in
             guard let newDrugId else { return }
             appState.currentDrug = Drug(id: newDrugId, name: arManager.activeDetection?.name ?? "")
         }
-        .onChange(of: arManager.isStale) { stale in
+        .onChange(of: arManager.isStale) { _, stale in
             if stale {
                 withAnimation(.easeInOut(duration: 0.8).repeatForever(autoreverses: true)) {
                     flashOpacity = 0.8
@@ -169,9 +173,17 @@ struct CameraView: View {
         }
     }
 
+    private func updateSession(_ event: CameraSessionLifecycle.Event) {
+        switch lifecycle.handle(event) {
+        case .start: arManager.start()
+        case .stop: arManager.stop()
+        case nil: break
+        }
+    }
+
     private func currentInterfaceOrientation() -> UIInterfaceOrientation {
         UIApplication.shared.connectedScenes
-            .compactMap { ($0 as? UIWindowScene)?.interfaceOrientation }
+            .compactMap { ($0 as? UIWindowScene)?.effectiveGeometry.interfaceOrientation }
             .first ?? .portrait
     }
 

@@ -12,6 +12,11 @@ cleanup() {
 trap cleanup EXIT
 
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
+    Lens/Lens/AR/CameraSessionLifecycle.swift Lens/Tests/CameraLifecycleChecks.swift \
+    -o "$check_dir/camera-checks"
+"$check_dir/camera-checks"
+
+swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Models/HCP.swift Lens/Lens/Models/Drug.swift \
     Lens/Lens/App/AppState.swift Lens/Tests/SessionChecks.swift \
     -o "$check_dir/session-checks"
