@@ -61,13 +61,19 @@ export async function getDrugSummary(drugId, hcpId) {
   );
 }
 
-export async function askDrugQuestion(drugId, hcpId, query) {
+export async function askDrugQuestion(
+  drugId,
+  hcpId,
+  query,
+  conversationId = null
+) {
   return request(`/drug/${drugId}/ask`, {
     method: "POST",
     headers: authHeaders(),
     body: JSON.stringify({
       hcp_id: hcpId,
       query,
+      conversation_id: conversationId,
     }),
   });
 }

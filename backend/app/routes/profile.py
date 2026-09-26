@@ -45,6 +45,7 @@ class ProfileUpdate(BaseModel):
 
 
 @router.get("/{hcp_id}/chats")
+@router.get("/{hcp_id}/chats")
 def list_chats(
     hcp_id: str,
     hcp: dict = Depends(current_hcp),
@@ -58,22 +59,71 @@ def list_chats(
         .limit(50)
     )
 
-    return {
-        "chats": [
+    conversations = {}
+
+    for row in rows:
+        # New chats have conversation_id.
+        # Older chats use their MongoDB ID as a stable fallback.
+        conversation_id = row.get("conversation_id") or str(row["_id"])
+
+        if conversation_id not in conversations:
+            conversations[conversation_id] = []
+
+        conversations[conversation_id].append(row)
+
+    chats = []
+
+    for conversation_id, conversation_rows in conversations.items():
+        # Oldest message first inside the conversation.
+        conversation_rows.sort(
+            key=lambda row: row.get("asked_at") or datetime.min
+        )
+
+        messages = []
+
+        for row in conversation_rows:
+            row_id = str(row["_id"])
+
+            messages.append(
+                {
+                    "id": f"{row_id}-user",
+                    "role": "user",
+                    "text": row["question"],
+                }
+            )
+
+            messages.append(
+                {
+                    "id": f"{row_id}-assistant",
+                    "role": "assistant",
+                    "text": row["answer"],
+                }
+            )
+
+        latest_row = conversation_rows[-1]
+        first_row = conversation_rows[0]
+
+        chats.append(
             {
-                "id": str(row["_id"]),
-                "drug_id": row["drug_id"],
-                "question": row["question"],
-                "answer": row["answer"],
+                "id": conversation_id,
+                "conversation_id": conversation_id,
+                "drug_id": latest_row["drug_id"],
+                "question": first_row["question"],
+                "answer": first_row["answer"],
+                "preview": latest_row["question"],
                 "asked_at": (
-                    row["asked_at"].isoformat()
-                    if row.get("asked_at")
+                    latest_row["asked_at"].isoformat()
+                    if latest_row.get("asked_at")
                     else None
                 ),
+                "messages": messages,
             }
-            for row in rows
-        ]
-    }
+        )
+
+    # Most recently active conversation first.
+    chats.sort(key=lambda chat: chat.get("asked_at") or "", reverse=True)
+
+    return {"chats": chats}
 
 
 @router.get("/{hcp_id}/patients")

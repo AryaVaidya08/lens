@@ -69,6 +69,7 @@ function App() {
 
         const formattedChats = data.map((chat) => ({
           id: chat.id,
+          conversationId: chat.conversation_id || chat.id,
           drugId: chat.drug_id,
           drugName:
             drugs.find((drug) => drug.id === chat.drug_id)?.name ||
@@ -76,19 +77,20 @@ function App() {
           timestamp: chat.asked_at
             ? new Date(chat.asked_at).toLocaleString()
             : "",
-          preview: chat.question,
-          messages: [
-            {
-              id: `${chat.id}-user`,
-              role: "user",
-              text: chat.question,
-            },
-            {
-              id: `${chat.id}-assistant`,
-              role: "assistant",
-              text: chat.answer,
-            },
-          ],
+          preview: chat.preview || chat.question,
+          messages:
+            chat.messages || [
+              {
+                id: `${chat.id}-user`,
+                role: "user",
+                text: chat.question,
+              },
+              {
+                id: `${chat.id}-assistant`,
+                role: "assistant",
+                text: chat.answer,
+              },
+            ],
         }));
 
         setChats(formattedChats);
@@ -195,7 +197,12 @@ function App() {
     );
 
     try {
-      const response = await askDrugQuestion(chat.drugId, hcpId, text);
+      const response = await askDrugQuestion(
+        chat.drugId,
+        hcpId,
+        text,
+        chat.conversationId
+      );
 
       const assistantMessage = {
         id: `msg-${Date.now()}-assistant`,
@@ -208,6 +215,8 @@ function App() {
           item.id === chatId
             ? {
                 ...item,
+                conversationId:
+                  response.conversation_id || item.conversationId,
                 messages: [...item.messages, assistantMessage],
               }
             : item
@@ -218,6 +227,8 @@ function App() {
         currentChat?.id === chatId
           ? {
               ...currentChat,
+              conversationId:
+                response.conversation_id || currentChat.conversationId,
               messages: [...currentChat.messages, assistantMessage],
             }
           : currentChat
