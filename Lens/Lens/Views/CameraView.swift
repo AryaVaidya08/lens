@@ -142,7 +142,9 @@ struct CameraView: View {
             arManager.resolvePayload = { kind, value in
                 // Answers from cache immediately and fills that cache from
                 // POST /detect in the background — see DrugResolver.
-                let drug = MainActor.assumeIsolated { resolver.resolve(kind: kind, value: value) }
+                guard let drug = MainActor.assumeIsolated({ resolver.resolve(kind: kind, value: value) }) else {
+                    return nil
+                }
                 return (drugId: drug.id, name: drug.name)
             }
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
@@ -244,8 +246,13 @@ struct CameraView: View {
             return summary
         }
         let drugId = appState.currentDrug?.id ?? detection.drugId
+        // `detection` only ever exists because resolvePayload matched a
+        // known demo drug (see ARSessionManager.handleObjectSeen), so
+        // `drugId` is always in the catalog — the empty summary below is
+        // just a defensive fallback, never expected to be hit.
         return DemoDrugCatalog.drug(id: drugId)?.summary
-            ?? DemoDrugCatalog.resolve(payload: detection.rawPayload).summary
+            ?? DemoDrugCatalog.resolve(payload: detection.rawPayload)?.summary
+            ?? DrugSummary(drugId: detection.drugId, name: detection.name, tier: "new", headline: "", bullets: [])
     }
 
     private func adopt(_ drug: Drug) {
