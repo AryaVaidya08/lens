@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Neutrogena Oil Free Acne Stress Control Triple Action Toner Salicylic Acid WATER ALCOHOL BUTYLENE GLYCOL PPG-5-CETETH-20 C12-15 ALKYL LACTATE SODIUM CITRATE, UNSPECIFIED FORM COCAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE PEG/PPG-20/6 DIMETHICONE SODIUM HYDROXIDE BENZALKONIUM CHLORIDE CETYL LACTATE SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE EDETATE DISODIUM ANHYDROUS GREEN TEA LEAF GLYCERIN CUCUMBER FD&C YELLOW NO. 5 FD&C BLUE NO. 1 D&C GREEN NO. 5 SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558
+active_ingredient:
+  Active ingredient Salicylic Acid (2%)
+purpose:
+  Purpose Acne medication
+indications_and_usage:
+  Use For the treatment of acne.
+warnings:
+  Warnings For external use only. Flammable: Keep away from fire or flame. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. if eye contact occurs, flush thoroughly with water Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. if eye contact occurs, flush thoroughly with water
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions cleanse skin thoroughly before applying this product cover the entire affected area with a thin layer one to three times daily because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+storage_and_handling:
+  Other information Store at Room Temperature. Sunburn Alert This product contains an alpha hydroxy acid (AHA) that may increase your skin's sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterwards.
+inactive_ingredient:
+  Inactive ingredients Water, Alcohol Denat., Butylene Glycol, PPG-5-Ceteth-20, C12-15 Alkyl Lactate, Fragrance, Sodium Citrate, Cocamidopropyl PG-Dimonium Chloride Phosphate, PEG/PPG-20/6 Dimethicone, Sodium Hydroxide, Benzalkonium Chloride, Cetyl Lactate, Sodium Benzotriazolyl Butylphenol Sulfonate, Disodium EDTA, Camellia Sinensis Leaf Extract, Glycerin, Cucumis Sativus (Cucumber) Fruit Extract, Yellow 5, Blue 1, Green 5
+questions:
+  Questions? Call toll-free 800-582-4048 or 215-273-8755 (collect). www.neutrogena.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 237 mL Bottle Label Oil-Free Acne Stress Control ® Triple-Action Toner MICRO CLEAR ® technology Treats acne even before it emerges Eliminates oil & shine Refreshes & soothes Neutrogena ® salicylic acid acne treatment 8 FL. OZ. (237mL) PRINCIPAL DISPLAY PANEL - 237 mL Bottle Label
+set_id:
+  817a9746-df57-4b11-b580-f57fe9940a68
+id:
+  2200548a-b965-985e-e063-6294a90a530a
+effective_time:
+  20241101
+version:
+  4
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Neutrogena Oil Free Acne Stress Control Triple Action Toner
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0521
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    251577
+  spl_id:
+    2200548a-b965-985e-e063-6294a90a530a
+  spl_set_id:
+    817a9746-df57-4b11-b580-f57fe9940a68
+  package_ndc:
+    69968-0521-8
+  is_original_packager:
+    True
+  upc:
+    0070501053454
+  unii:
+    O414PZ4LPZ

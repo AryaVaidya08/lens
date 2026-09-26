@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE Zirconium Metallicum Zirconium Metallicum ZIRCONIUM ZIRCONIUM SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Zirconium Metallicum 6C 5g Zirconium Metallicum 6C 30g Zirconium Metallicum 6C 100g Zirconium Metallicum 12C 5g Zirconium Metallicum 12C 30g Zirconium Metallicum 12C 100g Zirconium Metallicum 30C 1g Zirconium Metallicum 30C 5g Zirconium Metallicum 30C 30g Zirconium Metallicum 30C 100g Zirconium Metallicum 100C 1g Zirconium Metallicum 100C 5g Zirconium Metallicum 100C 30g Zirconium Metallicum 100C 100g Zirconium Metallicum 200C 1g Zirconium Metallicum 200C 5g Zirconium Metallicum 200C 30g Zirconium Metallicum 200C 100g Zirconium Metallicum 500C 1g Zirconium Metallicum 500C 5g Zirconium Metallicum 500C 30g Zirconium Metallicum 500C 100g Zirconium Metallicum 1M 1g Zirconium Metallicum 1M 5g Zirconium Metallicum 1M 30g Zirconium Metallicum 1M 100g Zirconium Metallicum LM1 30g
+set_id:
+  faac0d10-dbdf-f1b6-e053-6294a90abb8e
+id:
+  faac0d10-dbe0-f1b6-e053-6294a90abb8e
+effective_time:
+  20230501
+version:
+  1
+openfda:
+  brand_name:
+    Zirconium Metallicum
+  generic_name:
+    ZIRCONIUM METALLICUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-3084
+    37662-3086
+    37662-3089
+    37662-3087
+    37662-3088
+    37662-3085
+    37662-3090
+    37662-3091
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ZIRCONIUM
+  spl_id:
+    faac0d10-dbe0-f1b6-e053-6294a90abb8e
+  spl_set_id:
+    faac0d10-dbdf-f1b6-e053-6294a90abb8e
+  package_ndc:
+    37662-3086-1
+    37662-3086-2
+    37662-3086-3
+    37662-3086-4
+    37662-3089-1
+    37662-3089-2
+    37662-3089-3
+    37662-3089-4
+    37662-3087-1
+    37662-3087-2
+    37662-3087-3
+    37662-3087-4
+    37662-3088-1
+    37662-3088-2
+    37662-3088-3
+    37662-3088-4
+    37662-3084-1
+    37662-3084-2
+    37662-3084-3
+    37662-3085-1
+    37662-3085-2
+    37662-3085-3
+    37662-3090-1
+    37662-3090-2
+    37662-3090-3
+    37662-3090-4
+    37662-3091-1
+  is_original_packager:
+    True
+  unii:
+    C6V6S92N3C

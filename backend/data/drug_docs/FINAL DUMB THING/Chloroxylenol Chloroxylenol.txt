@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Chloroxylenol Chloroxylenol CHLOROXYLENOL CHLOROXYLENOL water SODIUM C14-16 OLEFIN SULFONATE LAURAMINE OXIDE sodium laureth sulfate SODIUM LAURYL SULFATE SODIUM XYLENESULFONATE SODIUM CHLORIDE ALCOHOL PHENOXYETHANOL CITRIC ACID MONOHYDRATE METHYLISOTHIAZOLINONE DITETRACYCLINE TETRASODIUM EDETATE FD&C YELLOW NO. 5 D&C RED NO. 33
+active_ingredient:
+  Active ingredient Chloroxylenol 0.3%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only: hands only
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly
+inactive_ingredient:
+  Inactive ingredients water, sodium C14-16 olefin sulfonate, lauramine oxide, sodium laureth sulfate, sodium lauryl sulfate, alcohol denat., phenoxyethanol, sodium chloride, sodium xylenesulfonate, citric acid, methylisothiazolinone, tetrasodium EDTA, fragrance, yellow 5, red 33
+spl_unclassified_section:
+  Radiance Tough on grease Antibacterial hand soap orange scent Ultra concentrated dishwashing liquid WARNING NOT FOR USE IN DISHWASHER. DO NOT ADD BLEACH. Phosphate Free Contains Surfactants Double guarantee. Replace the product. Refund your money. www.Aldi.us Packaging disposal. Check locally. Plastic bottle. *Not recycled in all areas. This product is not manufactured or distributed by Procter & Gamble, distributor of Dawn Antibacterial Hand Soap Orange Scent* DISTRIBUTED BY ALDI INC., BATAVIA, IL 60510
+package_label_principal_display_panel:
+  principal display panel Leaves dishes clean Radiance Tough on grease ANTIBACTERIAL HAND SOAP Compare to Dawn Ultra Antibacterial Hand Soap Orange Scent* Orange scent Ultra concentrated dishwashing liquid 24 FL OZ 710 mL image description
+set_id:
+  5c98c90c-8a51-4ee7-bc5a-dbd993d4b937
+id:
+  6389b330-6aa3-402a-a38d-3173f8e74f3f
+effective_time:
+  20231019
+version:
+  10
+openfda:

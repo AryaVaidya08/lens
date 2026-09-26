@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Nasal Decongestant PE and Pain Relief Maximum Strength Acetaminophen, Phenylephrine HCl ACETAMINOPHEN ACETAMINOPHEN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE STARCH, CORN CROSCARMELLOSE SODIUM CROSPOVIDONE, UNSPECIFIED FD&C YELLOW NO. 6 ALUMINUM LAKE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POVIDONE, UNSPECIFIED SILICON DIOXIDE STEARIC ACID 44;502
+active_ingredient:
+  Active ingredients (in each caplet) Acetaminophen 325 mg Phenylephrine HCl 5 mg
+purpose:
+  Purpose Pain reliever/fever reducer Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves these symptoms associated with hay fever or other upper respiratory allergies, and the common cold: minor aches and pains nasal congestion headache sinus congestion and pressure promotes sinus drainage temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have diabetes liver disease heart disease thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product do not exceed recommended dosage. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have diabetes liver disease heart disease thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+when_using:
+  When using this product do not exceed recommended dosage.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions do not use more than directed adults and children 12 years and over take 2 caplets every 4 hours do not take more than 10 caplets in 24 hours children under 12 years: ask a doctor
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients corn starch, croscarmellose sodium, crospovidone, FD&C yellow #6 aluminum lake, magnesium stearate, microcrystalline cellulose, povidone, silicon dioxide, stearic acid
+questions:
+  Questions? Call 1-800-824-1706 Monday - Friday 9am - 4pm MST
+package_label_principal_display_panel:
+  Principal Display Panel WinCo ® FOODS MAXIMUM STRENGTH Nasal Decongestant PE & Pain Relief ACETAMINOPHEN/ PAIN RELIEVER - FEVER REDUCER PHENYLEPHRINE HCl/NASAL DECONGESTANT *Compare to the active ingredients in SUDAFED PE ® Sinus Pressure + Pain Non-Drowsy Relives: Sinus Headache, Sinus Pressure & Nasal Congestion 24 Caplets TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING DISTRIBUTED BY: WINCO FOODS, LLC, BOISE, ID 83704 *This product is not manufactured or distributed by JOHNSON & JOHNSON CORPORATION, distributor of SUDAFED PE ® Sinus Pressure + Pain. 50844 REV0820C50208 WF2208 100% SATISFACTION GUARANTEE Comments & Questions? 800-824-1706 Winco 44-502 Winco 44-502
+set_id:
+  fab51b36-1c2e-4c97-932c-dacfaf55935a
+id:
+  33a2684a-dafd-4b92-9e9f-eca4e03337e3
+effective_time:
+  20260511
+version:
+  15
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Nasal Decongestant PE and Pain Relief Maximum Strength
+  generic_name:
+    ACETAMINOPHEN, PHENYLEPHRINE HCL
+  manufacturer_name:
+    WinCo Foods, LLC
+  product_ndc:
+    67091-209
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1046378
+  spl_id:
+    33a2684a-dafd-4b92-9e9f-eca4e03337e3
+  spl_set_id:
+    fab51b36-1c2e-4c97-932c-dacfaf55935a
+  package_ndc:
+    67091-209-24
+  is_original_packager:
+    True
+  upc:
+    0070552241268
+  unii:
+    362O9ITL9D
+    04JA59TNSJ

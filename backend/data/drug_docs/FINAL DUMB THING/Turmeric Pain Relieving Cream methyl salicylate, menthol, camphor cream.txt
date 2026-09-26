@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Turmeric Pain Relieving Cream methyl salicylate, menthol, camphor cream MENTHOL MENTHOL CAMPHOR (NATURAL) CAMPHOR (NATURAL) LINSEED OIL WATER METHYL SALICYLATE SALICYLIC ACID ARNICA MONTANA BOSWELLIA SERRATA WHOLE CURCUMIN ALPHA-TOCOPHEROL ACETATE CETOSTEARYL ALCOHOL STEARIC ACID COMFREY EMU OIL CETETH-20
+active_ingredient:
+  Active Ingredients Purpose Methyl Salicylate 10% Topical Analgesic Menthol 5% Topical Analgesic Camphor 4% Topical Analgesic
+purpose:
+  Topical analgesic
+indications_and_usage:
+  temporarily relieves minor pain associated with arthritis simple backache muscle strains bruises sprains cramps
+warnings:
+  Warnings For external use only When using this product: Use only as directed do not bandage tightly or use with a heating pad avoid contact with eyes and mucous membranes do not apply to wounds or damaged, broken or irritated skin if severe burning sensation occurs, discontinue use immediately Stop use and ask a doctor if condition worsens redness is present irritation develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away​
+dosage_and_administration:
+  Use only as directed Adults and children 12 years of age and older apply to affected area not more than 3 to 4 times daily Children under the age of 12 years of age consult a doctor
+inactive_ingredient:
+  Comfrey extract Arnica extract Boswellia serrata extract Emu oil Linseed oil Curcumin Vitamin E acetate oil Cetomacrogol 1000 Ceto steryl alcohol Carbopol 2020 Light liquid parafin White soft paraffin BHA BHT Glyceryl mono stearate Sodium meta bisulphate Simethicone Purified water
+package_label_principal_display_panel:
+  TRPC Side TRPC Back 10 TRPC Front
+set_id:
+  8695e3ec-619d-f2e4-e053-2a91aa0a15b0
+id:
+  9c0cf899-888d-24ec-e053-2a95a90a76cc
+effective_time:
+  20200113
+version:
+  3
+openfda:

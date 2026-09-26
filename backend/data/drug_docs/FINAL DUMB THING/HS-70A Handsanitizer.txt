@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  HS-70A Handsanitizer HANDSANITIZER ALCOHOL WATER GLYCERIN ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE, DL- ALCOHOL ALCOHOL RAPIDGEL EZ1
+active_ingredient:
+  Drug Active Active Ingredients Purpose Ethyl Alcohol 70%v/v Antiseptic
+active_ingredient_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>Active Ingredients</td> <td>Purpose</td> </tr> <tr> <td>Ethyl Alcohol 70%v/v</td> <td>Antiseptic</td> </tr> </tbody> </table>
+when_using:
+  Uses: Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+ask_doctor:
+  Stop Use amd ask a doctor if irritation or rash occurs condition persists for more than 72 hours
+do_not_use:
+  Do not use For children less than 2 months of age on open skin wounds
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help, or contact a Posion ControlCenter Right Away
+purpose:
+  Uses: Handsanitizer to help reduce bacteria that potentially can cause disease. For use when soap and wateer are not available
+warnings:
+  Warnings For external use only : hands Flammable keep away from heat or flame Do not ingest or inhale
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs condition persists for more than 72 hours
+storage_and_handling:
+  Store between 15 - 30C (59 - 86 F) Avoidfreezing and storage above 40C (140F)
+inactive_ingredient:
+  Fragrance Glycerin Isopropyl Myristate Polyethylene Glycol/ Acrylates Copolymer Tocopheryl Acetate Water
+dosage_and_administration:
+  
+indications_and_usage:
+  
+package_label_principal_display_panel:
+  HS 70A
+set_id:
+  a7a1602d-2902-4f0e-e053-2995a90a9e04
+id:
+  a7a180c8-7b14-a84a-e053-2a95a90abddd
+effective_time:
+  20200601
+version:
+  1
+openfda:

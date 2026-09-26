@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Fresh Citrus Hand Sanitizer ALCOHOL WATER PROPYLENE GLYCOL GLYCERIN ALOE VERA LEAF CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) TROLAMINE CITRIC ACID MONOHYDRATE POTASSIUM SORBATE SODIUM BENZOATE SUCROSE CORN HYPROMELLOSE, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED BUTYLATED HYDROXYTOLUENE BENZYL SALICYLATE LIMONENE, (+)- D&C BLACK NO. 2 FD&C RED NO. 40 FD&C YELLOW NO. 6 ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information: Store below 118°F.
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: Hand sanitizer to help decrease bacteria on the skin.
+warnings:
+  Warnings: For external use only. Flammable. Keep away from fire or flame. Stop use and ask doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a doctor right away.
+stop_use:
+  Stop use and ask doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a doctor right away.
+dosage_and_administration:
+  Directions: Squirt as needed into your palms and thoroughly spread on both hands. Rub into skin until dry.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Aqua (Water), Propylene Glycol, Glycerin, Aloe Barbadensis Leaf Juice Parfum (Fragrance) Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Citric Acid, Potassium Sorbate, Sodium Benzoate, Sucrose, Zea Mays (Corn) Starch, Hydroxypropyl Methylcellulose, Polyvinyl Alcohol, BHT, Benzyl Salicylate, Limonene, Geraniol, Citronellol, CI 77267 (D&C Black No.3), CI 16035 (FD&C Red No.40), CI 15985 (FD&C Yellow No.6).
+package_label_principal_display_panel:
+  Packgae Labeling: Label3
+set_id:
+  acb08d7d-6de7-b7d2-e053-2a95a90a0af5
+id:
+  acb09177-b94a-a049-e053-2a95a90a23cd
+effective_time:
+  20200812
+version:
+  1
+openfda:

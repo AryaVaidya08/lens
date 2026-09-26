@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Menthol Cough Drops Honey Vanilla Flavor Menthol SUCROSE ASCORBIC ACID HONEY CORN SYRUP BETA CAROTENE LECITHIN, SOYBEAN MENTHOL MENTHOL
+active_ingredient:
+  Active Ingredient (in each lozenge) Menthol 2.5 mg Pactin 7 mg
+purpose:
+  Purpose Pectin: oral demulcent Menthol: cough suppressant, oral anesthetic
+indications_and_usage:
+  Use temporarily relieves: Cough due to a cold occasional minor irritation, pain, sore mouth, and sore throat
+warnings:
+  Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or follow by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly.
+ask_doctor:
+  Ask a doctor before use if you have: ■ a persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ a cough accompanied by excessive phlegm (mucus).
+stop_use:
+  Stop use and ask a doctor if : cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition sore mouth symptoms do not improve in 7 days irritation, pain, or redness persists or worsens
+when_using:
+  When using this product do not exceed recommended dosage
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+dosage_and_administration:
+  Directions adults and children 2 ears and over: slowly dissolve 2 drops (one at a time in mouth). Repeat every 2 hours as needed, or as directed by a doctor children under 2 years: ask a doctor.
+other_safety_information:
+  Other information store at room temperature keep awar from excessive heat or sunlight contains: 15 mg vitamin C per drop contains: 10 calories per drop contains: SOY.
+inactive_ingredient:
+  Inactive ingredients ascorbic acid, beta carotene, corn syrup, honey, menthol flavor, soy lecithin, sucrose, vanilla honey flavor
+questions:
+  Questions? Call 1-800-255-0711
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel image description
+set_id:
+  2efc46c9-a421-1998-e063-6394a90aeb64
+id:
+  2efc4727-1fd7-1170-e063-6394a90ae410
+effective_time:
+  20250225
+version:
+  1
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Menthol Cough Drops Honey Vanilla Flavor
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    Xiamen Kang Zhongyuan Biotechnology Co., Ltd.
+  product_ndc:
+    83698-013
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    616344
+  spl_id:
+    2efc4727-1fd7-1170-e063-6394a90ae410
+  spl_set_id:
+    2efc46c9-a421-1998-e063-6394a90aeb64
+  package_ndc:
+    83698-013-09
+  is_original_packager:
+    True
+  upc:
+    0052548608019
+  unii:
+    L7T10EIP3A

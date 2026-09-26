@@ -1,0 +1,33 @@
+effective_time:
+  20200610
+inactive_ingredient:
+  Inactive ingredients carboxymethylcellulose sodium, citric acid, flavor, maltitol, microcrystalline cellulose, purified water, sodium benzoate, sodium citrate, xanthan gum. Questions or comments? 1-800-645-2158
+purpose:
+  Purpose Antigas
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a poison control center right away.
+warnings:
+  Warnings Keep out of reach of children. In case of overdose, get medical help or contact a poison control center right away.
+questions:
+  Questions or comments? 1-800-645-2158
+spl_product_data_elements:
+  Simethicone Simethicone CARBOXYMETHYLCELLULOSE SODIUM ANHYDROUS CITRIC ACID MALTITOL CELLULOSE, MICROCRYSTALLINE WATER SODIUM BENZOATE SODIUM CITRATE XANTHAN GUM DIMETHICONE DIMETHICONE off-white
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions shake well before using all dosages may be repeated as needed, after meals and at bedtime, or as directed by a physician do not exceed 12 doses per day fill enclosed dropper to recommended dosage level and dispense liquid slowly into baby’s mouth, toward inner cheek may be mixed with 1 oz of water, infant formula or other suitable liquid for best results, clean dropper after each use and replace original cap Age (years) Weight (lbs) Dose infants (under 2) under 24 0.3 mL children (over 2) over 24 0.6 mL
+storage_and_handling:
+  Other information store at room temperature do not freeze see bottom panel for lot number and expiration date TAMPER-EVIDENT: Do not use if foil seal under cap is broken or missing
+package_label_principal_display_panel:
+  package Label pdp
+indications_and_usage:
+  Use relieves the symptoms referred to as gas
+set_id:
+  61836028-d838-7e44-e053-2991aa0a1642
+id:
+  a7bd415a-dc91-6c65-e053-2a95a90aba25
+active_ingredient:
+  Active ingredient (in each 0.3 mL) Simethicone 20 mg
+dosage_and_administration_table:
+  <table border="1" width="476" ID="ie0aa9fb9-8a92-47dc-8f80-47d401f2a3e9"> <tbody> <tr> <td> <content styleCode="bold">Age (years)</content> </td> <td> <content styleCode="bold">Weight (lbs) </content> </td> <td> <content styleCode="bold">Dose</content> </td> </tr> <tr> <td>infants (under 2)   </td> <td>under 24   </td> <td>0.3 mL   </td> </tr> <tr> <td>children (over 2)   </td> <td>over 24   </td> <td>0.6 mL   </td> </tr> </tbody> </table>

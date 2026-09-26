@@ -1,0 +1,48 @@
+spl_product_data_elements:
+  Mucinex Fast-Max Severe Congestion and Cough Clear and Cool DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, and PHENYLEPHRINE HYDROCHLORIDE ANHYDROUS CITRIC ACID D&C YELLOW NO. 10 EDETATE DISODIUM FD&C BLUE NO. 1 GLYCERIN PROPYL GALLATE PROPYLENE GLYCOL SODIUM BENZOATE SODIUM CITRATE, UNSPECIFIED FORM SORBITOL SUCRALOSE WATER XANTHAN GUM DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: Reckitt Benckiser Parsippany, NJ 07054-0224 Made in England
+active_ingredient:
+  Active ingredients (in each 20 mL) Purposes Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant
+active_ingredient_table:
+  <table width="75%"><col width="50%" valign="top" align="left"/><col width="50%" valign="top" align="right"/><thead><tr><th><content styleCode="italics">Active ingredients (in each 20 mL)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Dextromethorphan HBr 20 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 400 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 10 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each 20 mL) Purposes Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant
+purpose_table:
+  <table width="75%"><col width="50%" valign="top" align="left"/><col width="50%" valign="top" align="right"/><thead><tr><th><content styleCode="italics">Active ingredients (in each 20 mL)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Dextromethorphan HBr 20 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 400 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 10 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves: cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing nasal congestion due to a cold temporarily helps you cough less
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) When using this product do not use more than directed Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not get better within 7 days or occur with fever cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus)
+when_using:
+  When using this product do not use more than directed
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not get better within 7 days or occur with fever cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than 6 doses in any 24-hour period measure only with dosing cup provided do not use dosing cup with other products dose as follows or as directed by a doctor adults and children 12 years of age and older: 20 mL in dosing cup provided every 4 hours children under 12 years of age: do not use
+storage_and_handling:
+  Other information each 20 mL contains: sodium 9 mg store between 20-25°C (68-77°F) dosing cup provided do not refrigerate
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C yellow no. 10, edetate disodium, FD&C blue no. 1, flavors, glycerin, propyl gallate, propylene glycol, sodium benzoate, sodium citrate, sorbitol, sucralose, water, xanthan gum
+questions:
+  Questions? 1-866-MUCINEX (1-866-682-4639) You may also report side effects to this phone number.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 180 mL Bottle Label NDC 63824-541-66 MAXIMUM STRENGTH Mucinex® FAST- MAX ® SEVERE CONGESTION & COUGH CLEAR & COOL ™ Dextromethorphan HBr – Cough Suppressant Guaifenesin – Expectorant Phenylephrine HCl – Nasal Decongestant Controls Cough Relieves Nasal & Chest Congestion Thins & Loosens Mucus 6 FL OZ (180mL) FOR AGES 12+ Principal Display Panel - 180 mL Bottle Label
+set_id:
+  23c8685b-4bdc-46d1-8971-578f52176da2
+id:
+  06c24f77-e1ae-4c70-e063-6394a90a23bb
+effective_time:
+  20231002
+version:
+  4
+openfda:

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Denorex Severe Itch Coal Tar TRIETHANOLAMINE SULFATE PEG/PPG-4/12 DIMETHICONE COCO DIETHANOLAMIDE ALCOHOL AVOCADO OIL CHLOROXYLENOL CITRIC ACID MONOHYDRATE FD&C RED NO. 40 GLYCOL DISTEARATE HYPROMELLOSES PANTHENOL RICINOLEAMIDOPROPYL ETHYLDIMONIUM ETHOSULFATE .ALPHA.-TOCOPHEROL ACETATE WATER COAL TAR COAL TAR SUNFLOWER OIL PEG-30 LANOLIN TROLAMINE POLYSORBATE 80 PROPYLENE GLYCOL QUATERNIUM-80 MENTHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at 68-77°F (20-25°C)
+  WARNING : This product can expose you to chemicals including coal tar, which is known to the State of California to cause cancer. For more information go to www.P65Warnings.ca.gov.
+active_ingredient:
+  Active Ingredients : Coal Tar 1.8% (from Coal Tar Topical Solution, USP 20%)
+purpose:
+  Purpose : Anti-itch, anti-dandruff, anti-seborrheic dermatitis, anti-psoriasis
+indications_and_usage:
+  Uses : Reduces and helps prevent recurrence of these symptoms of dandruff: scalp irritation and itching • flaking • scaling • extra relief of itching due to dandruff
+warnings:
+  Warnings : For external use only Ask a doctor before use if you have a condition covers a large area of the body. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have a condition covers a large area of the body.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions : for best results, use at least twice a week or as directed by a doctor shake well before use apply to wet hair massage into scalp, leave lather on for several minutes rinse thoroughly and repeat for maximum relief
+inactive_ingredient:
+  Inactive ingredients Aqua/Water/Eau, TEA Lauryl Sulfate, Alcohol, Cocamide DEA, PEG-30 Lanolin, Glycol Distearate, Fragrance/Parfum, Menthol, Panthenol, Persea Gratissima (Avocado) Oil, Helianthus Annuus (Sunflower) Seed Oil, Tocopheryl Acetate, Triethanolamine, PEG/PPG-4/12 Dimethicone, Hydroxypropyl Methylcellulose, Chloroxylenol, Polysorbate 80, Propylene Glycol, Quaternium 80, Ricinoleamidopropyl Ethyldimonium Ethosulfate, Citric Acid, Red 40
+questions:
+  Questions? Call 1-888-398-1382 email info@denorex.com or visit www.denorex.com
+package_label_principal_display_panel:
+  ADVANCED RELIEF Denorex® SEVERE ITCH MEDICATED ANTI-DANDRUFF SHAMPOO + CONDITIONER 1.8 % Coal Tar / DANDRUFF, SEBORRHEIC DERMATITIS + PSORIASIS INSTANT SOOTHING RELIEF CONTROLS & RELIEVES: SEVERE ITCHING SCALP DISCOMFORT INFLAMMATION FLAKING & SCALING associated with dandruff, seborrheic dermatitis + psoriasis 1.8% COAL TAR 10 FL OZ (296 mL) label
+set_id:
+  213ccbc4-2f52-58b6-e063-6294a90ae248
+id:
+  213cb08a-41af-72f5-e063-6294a90a41f2
+effective_time:
+  20240903
+version:
+  1
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Denorex Severe Itch
+  generic_name:
+    COAL TAR
+  manufacturer_name:
+    Neoteric Cosmetics, Inc.
+  product_ndc:
+    62673-175
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    COAL TAR
+  spl_id:
+    213cb08a-41af-72f5-e063-6294a90a41f2
+  spl_set_id:
+    213ccbc4-2f52-58b6-e063-6294a90ae248
+  package_ndc:
+    62673-175-10
+  is_original_packager:
+    True
+  unii:
+    R533ESO2EC

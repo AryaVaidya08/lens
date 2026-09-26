@@ -1,0 +1,43 @@
+effective_time:
+  20171109
+inactive_ingredient:
+  Inactive ingredients Water, Cyclopentasiloxane, Glycerin, Caprylic/Capric Triglyceride, Triolein, Butylene Glycol, Pentylene Glycol, Oleyl Erucate, Thermus Thermophillus Ferment, Cetearyl Alcohol, Glyceryl Stearate, Dimethicone, Hydrogenated Polyisobutene, Isopropyl Isostearate, PEG-100 Stearate, Sodium Hyaluronate, Tocopheryl Acetate, Tocopherol, Chondrus Crispus Extract, Oligopeptide-41, Oligopeptide-24, Microcrystalline Cellulose, C14-22 Alcohols, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Squalane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tetrahexyldecyl Ascorbate, Cetyl Alcohol, Allantoin, Carnosine, Disodium EDTA, Lecithin, C12-20 Alkyl Glucoside, PEG-75 Stearate, Inulin Lauryl Carbamate, Silybin, Cellulose Gum, Ethylhexylglycerin, Cetearyl Glucoside, Polysorbate 60, Ceteth-20, Steareth-20, Adenosine, Sorbitan Isostearate, t-Butyl Alcohol, Gluconolactone, Glyceryl Citrate/Lactate/Linoleate/Oleate, Vegetable Oil/Olus Oil, Glucose, Potassium Sorbate, Glycine Soja (Soybean) Oil, Sodium Oleate, Hydrogenated Lecithin, Fragrance, BHT, Phenoxyethanol, Sodium Benzoate, Geraniol, Hexyl Cinnamal, Hydroxycitronellal.
+purpose:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Octinoxate 7.5% Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+questions:
+  Questions or comments? Call 1-866-986-7083 , M – F 8am – 5pm CST.
+spl_product_data_elements:
+  REVIVE MOISTURIZING RENEWAL AVOBENZONE and OCTINOXATE AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE WATER Cyclomethicone 5 Glycerin Medium-Chain Triglycerides Glyceryl Trioleate Butylene Glycol Pentylene Glycol Oleyl Erucate Cetostearyl Alcohol Glyceryl Monostearate Dimethicone Hydrogenated Polybutene (1300 Mw) Isopropyl Isostearate PEG-100 Stearate Hyaluronate Sodium .Alpha.-Tocopherol Acetate, DL- .Alpha.-Tocopherol Chondrus Crispus Carrageenan Microcrystalline Cellulose C14-22 Alcohols Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer (100000 MPA.S at 1.5%) Squalane Ammonium Acryloyldimethyltaurate/VP Copolymer Tetrahexyldecyl Ascorbate Cetyl Alcohol Allantoin Carnosine Edetate Disodium C12-20 Alkyl Glucoside PEG-75 Stearate Silibinin Carboxymethylcellulose Sodium, Unspecified Form Ethylhexylglycerin Cetearyl Glucoside Polysorbate 60 Ceteth-20 Steareth-20 Adenosine Sorbitan Isostearate Tert-Butyl Alcohol Gluconolactone Potassium Sorbate Soybean Oil Sodium Oleate BUTYLATED HYDROXYTOLUENE Phenoxyethanol Sodium Benzoate Geraniol .Alpha.-Hexylcinnamaldehyde Hydroxycitronellal
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses Children under 6 months of age: Ask a doctor
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun.
+do_not_use:
+  Do not use on damaged or broken skin.
+active_ingredient_table:
+  <table width="60%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Avobenzone 3.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octinoxate 7.5%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 g Jar Carton MOISTURIZING RENEWAL CREAM RéVive Broad Spectrum SPF 15 Sunscreen 50 g / net wt. 1.7 oz. Principal Display Panel - 50 g Jar Carton
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+set_id:
+  2480366d-c8c1-492f-bc09-0e76d3f82262
+id:
+  87e560e5-9195-4274-aebb-b4cd7e73032b
+purpose_table:
+  <table width="60%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Avobenzone 3.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octinoxate 7.5%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Octinoxate 7.5% Sunscreen

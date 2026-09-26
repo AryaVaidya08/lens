@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  OHM Tonic Metabolic Terrain Baryta Carbonica, Galium Aparine, Kali Phosphoricum, Manganum Phosphoricum, Melilotus Officinalis, Nicotinamidum, Strophanthus Hispidus, Thyroidinum, Viscum Album. SODIUM CHLORIDE BARIUM CARBONATE BARIUM CATION GALIUM APARINE GALIUM APARINE POTASSIUM PHOSPHATE, DIBASIC PHOSPHATE ION MANGANESE PHOSPHATE, DIBASIC MANGANESE CATION (2+) MELILOTUS OFFICINALIS TOP MELILOTUS OFFICINALIS TOP NIACINAMIDE NIACINAMIDE STROPHANTHUS HISPIDUS SEED STROPHANTHUS HISPIDUS SEED THYROID, UNSPECIFIED THYROID, UNSPECIFIED VISCUM ALBUM FRUITING TOP VISCUM ALBUM FRUITING TOP
+active_ingredient:
+  ACTIVE INGREDIENTS (HPUS*): Equal amounts of: Baryta Carbonica 12X, Galium Aparine 7X, Kali Phosphoricum 7X, Manganum Phosphoricum 7X, Melilotus Officinalis 9X, Nicotinamidum 8X, Strophanthus Hispidus 8X, Thyroidinum 12X, Viscum Album 6X. ​*The letters "HPUS" indicate the components in this product are officially monographed in the Homeopathic Pharmacopeia of the United States.
+indications_and_usage:
+  USES: Temporarily relieves general physical metabolic weakness. Exhaustion and fatigue.**
+warnings:
+  WARNINGS: IF PREGNANT OR BREAST - FEEDING, ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN. If symptoms worsen or persist for more than 5 days, discontinue use and contact a health care professional. KEEP OUT OF THE REACH OF CHILDREN.
+keep_out_of_reach_of_children:
+  KEEP OUT OF THE REACH OF CHILDREN.
+dosage_and_administration:
+  DIRECTIONS: To open ampoule snap top up and away from you. Using pipette place entire content under the tongue, hold it for 30 seconds and swallow. POSOLOGY: Adults and children 12 years: In acute conditions: 1 ampoule every 12 hours. In chronic conditions: 1 ampoule one to four times per week, or as directed by a health professional. Children under 12 years: use 1/2 the adult dose. Discard unused solution. Solution does not contain any preservatives. Not for injection.
+other_safety_information:
+  OTHER INFORMATION: Store at controlled room temperature. Tamper evident seal. Do not use if box seal is missing or broken.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Isotonic sodium chloride solution.
+questions:
+  Mfg. By: OHM PHARMA, INC. / Mineral Wells, TX 76067 www.ohmpharma.com
+package_label_principal_display_panel:
+  NDC: 66096-185-06 ​OHM TONIC METABOLIC TERRAIN HOMEOPATHIC MEDICINE Pharmaceutical grade. Professional use only. CONTENTS: 12 oral ampoules of 2.2ml each. Ampoule box label Relieves general physical metabolic weakness.
+purpose:
+  Relieves general physical metabolic weakness.
+set_id:
+  e23f5348-92e8-4baa-bde2-3193e1400169
+id:
+  5376bbf0-a4a2-4445-b206-8721386b3b7d
+effective_time:
+  20220104
+version:
+  4
+openfda:

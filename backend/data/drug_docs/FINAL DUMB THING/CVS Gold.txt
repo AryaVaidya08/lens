@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  CVS Gold Selenium Sulfide WATER CITRIC ACID DIMETHICONE FRAGRANCE CLEAN ORC0600327 SODIUM HYDROXIDE COCAMIDOPROPYL BETAINE FD&C RED NO. 4 TETRASODIUM EDTA METHACRYLIC ACID - ETHYL ACRYLATE COPOLYMER (4500 MPA.S) HONEY SODIUM CHLORIDE SODIUM CITRATE SODIUM LAURETH SULFATE PHENOXYETHANOL GLYCOL STEARATE CAPRYLYL GLYCOL HYDROXYPROPYL METHYLCELLULOSE SELENIUM SULFIDE SELENIUM SULFIDE
+active_ingredient:
+  Active Ingredient Selenium Sulfide 1%
+purpose:
+  Purpose Anti-dandruff Anti-seborrheic dermatitis
+indications_and_usage:
+  Uses Helps prevent recurrence of flaking and itching associated with dandruff and seborrheic dermatitis.
+warnings:
+  Warnings For external use only Ask a doctor before use if you have a condition that covers a large area of the body. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center immediately.
+ask_doctor:
+  Ask a doctor before use if you have a condition that covers a large area of the body.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Apply a generous amount to wet hair, massage onto scalp and work evenly to the ends. Leave on for 3-5 minutes. Rinse thoroughly. For best results use at least twice a week or as directed by a doctor.
+inactive_ingredient:
+  Inactive Ingredients Acrylate Copolymer, Caprylyl Glycol, Citric Acid, Cocamidopropyl Betaine, Dimethicone, Fragrance (Parfum), Glycol Stearate, Honey, Hydroxypropyl Methylcellulose, Phenoxyethanol, Red 4 (CI 14700), Sodium Chloride, Sodium Citrate, Sodium Hydroxide, Sodium Laureth Sulfate, Tetrasodium EDTA, Water (Aqua).
+package_label_principal_display_panel:
+  Principal Display Panel
+set_id:
+  1d12ca6a-2734-0534-e063-6294a90a2706
+id:
+  5152c31c-43bb-35fc-e063-6294a90addf1
+effective_time:
+  20260508
+version:
+  5
+openfda:
+  application_number:
+    M032
+  brand_name:
+    CVS Gold
+  generic_name:
+    SELENIUM SULFIDE
+  manufacturer_name:
+    Apollo Health and Beauty Care
+  product_ndc:
+    63148-209
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SELENIUM SULFIDE
+  rxcui:
+    204642
+  spl_id:
+    5152c31c-43bb-35fc-e063-6294a90addf1
+  spl_set_id:
+    1d12ca6a-2734-0534-e063-6294a90a2706
+  package_ndc:
+    63148-209-13
+  is_original_packager:
+    True
+  upc:
+    0050428101612
+  unii:
+    Z69D9E381Q

@@ -1,0 +1,31 @@
+effective_time:
+  20140829
+inactive_ingredient:
+  Inactive Ingredients Isopropyl Alcohol, Castor Oil, Pine Oil, Glycerin, Menthol, Peppermint Oil, Camphor, Polysorbate 20
+purpose:
+  Purpose External Analgesic
+keep_out_of_reach_of_children:
+  KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+warnings:
+  WARNINGS For external use only. When using this product- use only as directed, do not bandage tightly or use with a heating pad - avoid contact with eye and mucous membranes do not apply to wounds or damaged, broken or irritated skin. If swallowed accidentally induce vomiting and call a physician. If redness is present, consult your physician immediately. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+when_using:
+  When using this product- use only as directed, do not bandage tightly or use with a heating pad - avoid contact with eye and mucous membranes do not apply to wounds or damaged, broken or irritated skin.
+spl_product_data_elements:
+  Aspi-Rub Pain Reliever Methyl Salicylate METHYL SALICYLATE SALICYLIC ACID ISOPROPYL ALCOHOL CASTOR OIL WHITE PINE OIL GLYCERIN MENTHOL PEPPERMINT OIL CAMPHOR (SYNTHETIC) POLYSORBATE 20
+ask_doctor:
+  If swallowed accidentally induce vomiting and call a physician. If redness is present, consult your physician immediately.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children over the age of 12 years, apply generously to painful areas with a gentle circular massage 3 to 4 times daily. Children under 12 years of age consult a doctor.
+package_label_principal_display_panel:
+  Principal Display Panel NDC # 69151-100-01 NEW AROMA! PAIN-RELIEVING RUB CLASSIC ASPI-RUB PAIN RELIEVER RUB AWAY THE PAIN 2 FL.oz (59 mL) FOR EXTERNAL USE ONLY Untitled.jpg
+indications_and_usage:
+  Aspi-Rub® is an effective analgesic for temporary relief from minor pains, strains, back aches, muscular aches and cramps.
+set_id:
+  0c91c8ae-02ec-474a-a549-701ccbb01368
+id:
+  e1b2de5a-624b-4b38-806f-697bc1e3542f
+active_ingredient:
+  Active Ingredients Methyl Salicylate 23.0%

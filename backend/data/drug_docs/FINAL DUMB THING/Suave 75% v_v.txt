@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Suave 75% v/v ALCOHOL WIPES ALCOHOL ALCOHOL ALCOHOL WATER DENATONIUM BENZOATE TERT-BUTYL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl alcohol (75% v/v)
+purpose:
+  PURPOSE ANTISEPTIC
+indications_and_usage:
+  USE Hand alcohol wipe to help reduce bacteria on the skin. For use when soap and water are not available.
+warnings:
+  WARNINGS For External Use only. Flammable. Keep away from fire or flame. Do not store in car. Do not use: In children less than 12 months of age. On open skin wounds. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask doctor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Wipe hands thoroughly with product and allow to dry Children under 6 should be supervised when using this product.
+other_safety_information:
+  OTHER INFORMATION Dispose used wipes in waste basket DO NOT FLUSH. Avoid excessive heat. Store below 105°F (40°C). May discolor fabrics or surfaces
+inactive_ingredient:
+  INACTIVE INGREDIENTS Denatonium Benzoate, Tert-Butyl Alcohol, Water (Aqua).
+package_label_principal_display_panel:
+  01b LBL_Suave_Hand Sani Wipes_75pct_75ct 01b LBL_Suave_Hand Sani Wipes_240pct_75ct
+set_id:
+  d6be1174-a368-4384-bf04-74985ff7cfa4
+id:
+  d81bea0a-545f-4f7f-89b4-fb6c75b105f9
+effective_time:
+  20201218
+version:
+  7
+openfda:

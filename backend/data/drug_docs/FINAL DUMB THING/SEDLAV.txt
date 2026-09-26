@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  SEDLAV Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Active Ingredient Isopropyl Alcohol 70% v/v Purpose: Antiseptic ACTIVE INGREDIENT
+indications_and_usage:
+  Uses Uses: To help reduce bacteria that potentially can cause disease Disinfect surfaces First aid to help prevent the risk of infection in minor cuts, scrapes, burns INDICATIONS & USAGE
+warnings:
+  Warnings WARNINGS: Keep product away from fire or flame, heat , sparks, and electricity Fumes Can be acutely irritating to skin, eyes, and the respiratory system Avoid contact wtih eyes, skin, or mucous membranes Do not take internally Use only in a well ventilated area Close Container after use WARNINGS
+other_safety_information:
+  First Aid First Aid: Eye Contact: Flush eyes with running water for 2 at least 20 minutes Skin Contact: Wash thoroughly with soap and water. Inhilation: Move to fresh air. If swallowed: Do not induce vomitting. Clean mouth with water, consult a physician or contact a poison control center immediately. KEEP OUT OF REACH OF CHILDREN OTHER SAFETY INFORMATION
+inactive_ingredient:
+  Inactive Ingredient Inactive Ingredient: Water INACTIVE INGREDIENT
+dosage_and_administration:
+  Purpose: Antiseptic Uses: To help reduce bacteria that potentially can cause disease Disinfect surfaces
+keep_out_of_reach_of_children:
+  OTC is Keep Out of Reach of Children
+purpose:
+  Uses: To help reduce bacteria that potentially can cause disease Disinfect surfaces Purpose: Antiseptic
+package_label_principal_display_panel:
+  Front Label SEDLAV 70% Isopropyl Alcohol 32 FL OZ 946 mL Warning: Flammable Liquid And Vapor, May be harmful if swallowed, Eye,skin, and respiratory irritant. FRONT LABEL
+set_id:
+  1c470960-f78d-19e7-e063-6294a90a4920
+id:
+  413c0a03-cf5c-908e-e063-6294a90a7a6a
+effective_time:
+  20251015
+version:
+  5
+openfda:
+  brand_name:
+    SEDLAV
+  generic_name:
+    ISOPROPYL ALCOHOL
+  manufacturer_name:
+    Instock Distributing
+  product_ndc:
+    84361-0003
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ISOPROPYL ALCOHOL
+  spl_id:
+    413c0a03-cf5c-908e-e063-6294a90a7a6a
+  spl_set_id:
+    1c470960-f78d-19e7-e063-6294a90a4920
+  package_ndc:
+    84361-0003-3
+  is_original_packager:
+    True
+  unii:
+    ND2M416302

@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Bi Electro Extra Strength Acetaminophen/diphenhydramine HCL Caplets ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE CROSCARMELLOSE SODIUM FD&C BLUE NO. 1 HYPROMELLOSES CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE STARCH, CORN STEARIC ACID TITANIUM DIOXIDE SILICON DIOXIDE AZ267
+active_ingredient:
+  Active ingredient Acetaminophen 500 mg Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Pain reliever Nighttime sleep aid
+indications_and_usage:
+  Uses temporarily relieves occasional headaches and minor aches and pains with accompanying
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than one dose in 24 hours, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash. If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacistwith any other product containing diphenhydramine, even one used on skin in children under 12 years of age Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin are taking sedatives or tranquilizers When using this product drowsiness will occur do not drive a motor vehicle or operate machinery avoid alcoholic drinks Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. pain gets worse or lasts for more than 10 days new symptoms occur redness or swelling is present. These could be signs of a serious condition. If pregnant or breast-feeding ask a health professional before use
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacistwith any other product containing diphenhydramine, even one used on skin in children under 12 years of age
+ask_doctor:
+  Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin are taking sedatives or tranquilizers
+when_using:
+  When using this product drowsiness will occur do not drive a motor vehicle or operate machinery avoid alcoholic drinks
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. pain gets worse or lasts for more than 10 days new symptoms occur redness or swelling is present. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+overdosage:
+  Overdosage Overdose warning: taking more than the recommended dose (overdose) may cause liver damage. In case of accidental overdose, get medical help or contact a doctor or Poison Control Center (1-800-222-1222) immediately. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: Take 2 caplets at bedtime. Do not take more than 2 caplets of this product in 24 hours. Children under 12 years of age: Do not use this adult product in children under 12 years of age, this will provide more than the recommended dose (overdose) and may cause liver damage. Do not take more than directed (see overdose warning)
+inactive_ingredient:
+  Inactive Ingredients croscarmellose sodium, FD&C blue #1, hypromellose, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, silicon dioxide, sodium starch glycolate, starch, stearic acid, talc , titanium dioxide.
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Bio Electro Bio Electro
+set_id:
+  1ae15feb-bd13-4aec-afc7-ff77de8b0256
+id:
+  5af08766-1955-4be4-bfd8-1f2016504587
+effective_time:
+  20181116
+version:
+  8
+openfda:

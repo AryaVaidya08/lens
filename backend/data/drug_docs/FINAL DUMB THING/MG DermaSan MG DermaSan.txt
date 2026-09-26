@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  MG DermaSan MG DermaSan BENZALKONIUM CHLORIDE BENZALKONIUM WATER LAURAMINE OXIDE COCAMIDOPROPYL BETAINE DISODIUM COCOAMPHODIPROPIONATE GLYCERIN OCTHILINONE SODIUM CHLORIDE
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+dosage_and_administration:
+  Uses For hand sanitizing to decrease bacteria on the skin Recommended for repeated use
+purpose:
+  Purpose Antimicrobial
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Do not ingest. Stop use and ask a doctor if irritation or redness develops and conditions persist.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Directions Apply small amount of product to wet hands. Work into lather and rinse thoroughly. Dry hands.
+inactive_ingredient:
+  Inactive Ingredients Water Lauramine Oxide Cocamidoproply Betaine Disodium Cocoamphodipropionate Glycerin Methylchloroisothiazolinone Sodium Chloride
+package_label_principal_display_panel:
+  MG DermaClean image description
+set_id:
+  8e10860e-b936-4693-a46c-c13624204316
+id:
+  630bc5c5-d2b0-4933-a885-05a0fc962d74
+effective_time:
+  20221229
+version:
+  2
+openfda:

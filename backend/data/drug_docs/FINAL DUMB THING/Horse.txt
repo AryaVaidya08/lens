@@ -1,0 +1,33 @@
+effective_time:
+  20201217
+inactive_ingredient:
+  ​Other Ingredients: BHT, Eucalyptus Globulus (Eucalyptus) Oil, Methyl Salicylate, Mineral Oil, Petrolatum, Phenol, Thuja Occidentalis (Cedar) Leaf Oil.
+purpose:
+  Topical Analgesic
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, consult physician.
+warnings:
+  ​Warnings: • For external use only. • Avoid contact with eyes. • If condition worsens or symptoms persist for more than seven days, discontinue use and consult physician • Keep out of reach of children. If swallowed, consult physician. • Do not apply to wounds or damaged skin. • Do not bandage tightly. • If pregnant or breast feeding, contact physician prior to use.
+spl_product_data_elements:
+  Horse MENTHOL MINERAL OIL PETROLATUM PHENOL CEDAR LEAF OIL MENTHOL MENTHOL BUTYLATED HYDROXYTOLUENE EUCALYPTUS OIL METHYL SALICYLATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  ​Directions: • Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. • Children under two-years of age: consult a physician.
+pregnancy_or_breast_feeding:
+  • If pregnant or breast feeding, contact physician prior to use.
+spl_unclassified_section:
+  Drug Facts
+do_not_use:
+  • Do not apply to wounds or damaged skin. • Do not bandage tightly.
+package_label_principal_display_panel:
+  Labeling: Label
+indications_and_usage:
+  ​Indications: For the temporary relief of minor aches and pains of the muscles and joints associated with simple backache, arthritis, strains, bruises and sprains.
+set_id:
+  d19ff771-9a7b-49ad-80c2-1290ecc2f87a
+id:
+  b6adfabf-3467-768f-e053-2995a90a413b
+active_ingredient:
+  Active Ingredient: Menthol 1.25% Topical Analgesic

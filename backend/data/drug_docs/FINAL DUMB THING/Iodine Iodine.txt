@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Iodine Iodine WATER IODINE IODINE SODIUM IODIDE IODIDE ION ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Iodine 2%
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Use First aid to help prevent skin infection in minor cuts scrapes burns
+warnings:
+  Warnings For external use only
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns.
+when_using:
+  When using this product do not use in eyes or apply over large areas of the body do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the affected area apply a small amount on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first
+spl_unclassified_section:
+  Other information product will stain skin and clothing
+inactive_ingredient:
+  Inactive ingredients alcohol (47% v/v), purified water, sodium iodide
+adverse_reactions:
+  ADVERSE REACTION Distributed by: Perrigo Direct, Inc. Peachtree City, GA 30269 www.PerrigoDriect.com 1-888-593-0593
+package_label_principal_display_panel:
+  Principal Display Panel NDC 50804-088-10 GoodSense ® Iodine Tincture U.S.P. First Aid Antiseptic For external use only CAUTION: POISON 1 FL OZ (30 mL) image description
+set_id:
+  3b424440-5bb7-4207-9884-1461a54fbe0b
+id:
+  4b30ec52-9ec3-125c-e063-6394a90a1358
+effective_time:
+  20260219
+version:
+  13
+openfda:

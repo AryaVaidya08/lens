@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Keep Clean Surface Cleaning Wipes BENZALKONIUM CHLORIDE and didecyldimonium chloride WATER GLYCERIN ETHYLHEXYLGLYCERIN PHENOXYETHANOL PROPYLENE GLYCOL BENZALKONIUM CHLORIDE BENZALKONIUM DIDECYLDIMONIUM CHLORIDE DIDECYLDIMONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1% Didecyldimonium Chloride 0.2% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  USE Wipes for surface cleaning
+warnings:
+  Warning For external use only. When using this product, Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor, f irritaion and rash appears and lasts. If swallowed, get medical help or contact a Poison Contrl Center right away.
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Contrl Center right away.
+dosage_and_administration:
+  Directions Apply wipe to surface and allow to dry Discard wipes in trash receptacle after use. Do not flush. Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Ehtylhexylglycerin, Phenoxyethanol, Propylene Glycol
+package_label_principal_display_panel:
+  label image
+set_id:
+  36e3bd7a-b692-4c69-b7b5-ada0b1691026
+id:
+  1d6a46a2-f5f1-1fb2-e063-6294a90a5b97
+effective_time:
+  20240624
+version:
+  3
+openfda:

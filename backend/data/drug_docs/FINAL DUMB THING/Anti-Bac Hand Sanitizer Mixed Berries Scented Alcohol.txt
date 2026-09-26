@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Anti-Bac Hand Sanitizer Mixed Berries Scented Alcohol ALCOHOL ALCOHOL WATER CARBOMER COPOLYMER TYPE A AMINOMETHYLPROPANOL D&C RED NO. 33 FD&C RED NO. 4 FD&C YELLOW NO. 5 FD&C BLUE NO. 1
+spl_unclassified_section:
+  Drug Facts
+  No Animal Testing
+active_ingredient:
+  Active ingredient Ethyl Alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Decrease bacteria on hands.
+warnings:
+  Warnings For external use only. Flammable. Keep product away from fire or flame. When using this product avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSCOPOLYMER, AMINOMETHYL PROPANOL, Fragrance (Parfum), May contain: D&C Red No. 33 (Cl 17200), FD&C Red No. 4 (Cl 14700), FD&C Yellow No. 5 (Cl 19140), FD&C Blue No. 1 (Cl 42090).
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  7d1ca62c-3c35-4654-9a7c-d2a03dd00d05
+id:
+  9bc40c20-6035-4a43-8491-e20aa10a5209
+effective_time:
+  20201018
+version:
+  1
+openfda:

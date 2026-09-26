@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Antioxidant Day SPF 15 OCTINOXATE, OCTISALATE, OXYBENZONE OCTISALATE OCTISALATE ETHYLHEXYLGLYCERIN ALLANTOIN HEXYLENE GLYCOL PANTHENOL VITAMIN A PALMITATE .ALPHA.-TOCOPHEROL ACETATE SODIUM HYDROXIDE POLYETHYLENE GLYCOL 400 TOCOPHEROL ASCORBYL PALMITATE ASCORBIC ACID CITRIC ACID MONOHYDRATE TITANIUM DIOXIDE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE WATER GLYCERYL MONOSTEARATE CYCLOMETHICONE 5 SQUALANE BUTYLENE GLYCOL GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF SORBITAN MONOSTEARATE CYCLOMETHICONE 6 POLYOXYL 20 CETOSTEARYL ETHER POTASSIUM CETYL PHOSPHATE PHENOXYETHANOL CAPRYLYL GLYCOL MAGNESIUM ALUMINUM SILICATE
+spl_unclassified_section:
+  Drug Facts
+  Other information: protect this product from excessive heat and direct sun.
+purpose:
+  Purpose Sunscreen
+active_ingredient:
+  Active ingredients: OCTINOXATE (7.5%) OCTISALATE (3.0%) OXYBENZONE (3.0%)
+indications_and_usage:
+  Uses: helps prevent sunburn
+warnings:
+  Warnings: For external use only Skin cancer / Skin Aging Alert: Spending time in the sun increases yourrisk of skin cancer and early skin aging. This product has been shown to prevent sunburn, not skin cancer or early skin aging Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs. When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: apply liberally 15 minutes before sun exposure use a water-resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months: Ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun especially from 10 AM to 2 PM wear long-sleeved shirts, pants, hats and sunglasses.
+inactive_ingredient:
+  Inactive ingredients: WATER (AQUA), GLYCERYL STEARATE, CYCLOPENTASILOXANE, SQUALANE, BUTYLENE GLYCOL, GLYCERIN, PROPYLENE GLYCOL, ALOE BARBADENSIS LEAF EXTRACT, SORBITAN STEARATE, C12-20 ACID PEG-8 ESTER, CYCLOHEXASILOXANE, CETEARETH-20, POTASSIUM CETYL PHOSPHATE, PINUS HAEDA BARK EXTRACT, PHENOXYETHANOL, CAPRYLYL GLYCOL, CARBOMER, MAGNESIUM ALUMINUM SILICATE, ETHYLHEXYLGLYCERIN, ALLANTOIN,HEXYLENE GLYCOL, PANTHENOL, RETINYL PALMITATE, TOCOPHERYL ACETATE, SODIUM HYDROXIDE, PEG-8,TOCOPHEROL, ASCORBYL PALMITATE, ASCORBIC ACID,CITRIC ACID, TITANIUM DIOXIDE CI 77891.
+package_label_principal_display_panel:
+  Antioxidant Day Creme SPF15 Paraben-free Sulfate-free 2.0 FL OZ 59mL MADE IN USA A moisturizing day creme formulated with Pine Bark Extract, Aloe and Vitamins A, B5, C and E
+  Antioxidant Day Creme SPF 15 2oz/59ml (61016-0002-2) image description
+set_id:
+  618dbcca-4d52-4775-b21c-1a42a45130ca
+id:
+  cf47b4fc-c0d2-65f4-e053-2995a90a8885
+effective_time:
+  20211026
+version:
+  6
+openfda:

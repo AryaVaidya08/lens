@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  Ibuprofen Ibuprofen FD&C BLUE NO. 2 MAGNESIUM STEARATE LECITHIN, SOYBEAN CROSCARMELLOSE SODIUM POLYETHYLENE GLYCOL 4000 FD&C YELLOW NO. 5 POLYVINYL ALCOHOL, UNSPECIFIED MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE STARCH, CORN TALC FD&C YELLOW NO. 6 FERRIC OXIDE RED TITANIUM DIOXIDE IBUPROFEN IBUPROFEN BI06
+active_ingredient:
+  Active Ingredient (in each tablet) Ibuprofen, 200mg (NSAID*) *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain Releiver / Fever Reducer nonsteroidal anti-inflammatory drug
+do_not_use:
+  Do Not Use If you have ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer right before or after heart surgery
+indications_and_usage:
+  Uses Temporarily relieves minor aches and pains due to Common cold headache minor pain of arthritis toothache backache muscular aches menstrual cramps temporarily reduces fever
+warnings:
+  Warnings Allergy alert Ibuprofen may cause severe allergic reactions, especially in people allergic to aspirin. Symptoms may include hives facial swelling asthma (wheezing) shock skin reddening rash blisters if an allergic reaction occurs, stop use and seek medical help right away Stomach Bleeding Warning This product contains a NSAID, which may cause severe stomach bleeding. The chances are higher if you: are age 60 or older have stomach ulcers or bleeding problems take blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Heart attack or stroke warning NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed. Contains FD+C Yellow No. 5 (tartrazine) as a color additive
+ask_doctor:
+  Ask a doctor before use if You have problems or serious side effects from taking pain relievers or fever reducers the stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are Taking aspirin for heart attack or stroke, because ibuprofen may decrease the benefit of aspirin under a doctor's care for any serious condition taking any other drug
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions Do not take more than directed. The smallest effective dose should be used Adults and children 12 years and older Take 1 tablet every 4-6 hours while symptoms persist If pain or fever does not respond to 1 tablet, 2 tablets may be used Do not exceed 6 tablets in 24 hours, unless directed by a doctor Children under 12 years of age Ask a doctor
+stop_use:
+  Stop Use and ask a doctor if You experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better You have symptoms of heart problems or stroke chest pain trouble breathing weakness in one part or side of body slurred speech leg swelling Pain gets worse or lasts more than 10 days Fever gets worse or lsats more than 3 days redness or swelling is present in the painful area any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding Ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+spl_unclassified_section:
+  Other Information Store at 20ºC - 25ºC (68ºF - 77ºF) Do not use if printed packet is torn or punctured. TAMPER EVIDENT child resistant packets. Do not use any opened or torn packets.
+  Distributed By: Distributed By: ProStat First Aid La Verne, CA. USA 1-888-900-2920 *This product is not manufactured or distributed by Pfizer, owner of the registered trademark Advil® Made in the USA
+inactive_ingredient:
+  Inactive Ingredients Colloidal Silicon Dioxide, Croscarmellose Sodium, FD&C Blue #2, FD&C Yellow #5, FD&C Yellow #6, Iron Oxide Red, Lecithin, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polyvinyl Alcohol, Pregelatinized Starch, Talc, Titanium Dioxide
+questions:
+  Questions or Comments? Call 1-888-900-2920 IMPORTANT: READ ALL PRODUCT INFORMATION BEFORE USING. KEEP BOX FOR COMPLETE WARNINGS AND INFORMATION.
+when_using:
+  When using this product Take with food or milk if stomach upset occurs
+package_label_principal_display_panel:
+  Label HONEYWELL IBUPROFEN TABLET 200MG 022025 CDER
+set_id:
+  3bca27b4-3df6-b7d1-e063-6394a90ac6af
+id:
+  3bca27c2-b039-32ae-e063-6294a90a72ee
+effective_time:
+  20250807
+version:
+  1
+openfda:
+  application_number:
+    ANDA207095
+  brand_name:
+    Ibuprofen
+  generic_name:
+    IBUPROFEN
+  manufacturer_name:
+    PROSTAT FIRST AID
+  product_ndc:
+    58228-6185
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    IBUPROFEN
+  rxcui:
+    310965
+  spl_id:
+    3bca27c2-b039-32ae-e063-6294a90a72ee
+  spl_set_id:
+    3bca27b4-3df6-b7d1-e063-6394a90ac6af
+  package_ndc:
+    58228-6185-1
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    M0001335
+    N0000175722
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+  unii:
+    WK2XYI10QM

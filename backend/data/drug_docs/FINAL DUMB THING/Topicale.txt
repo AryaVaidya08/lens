@@ -1,0 +1,80 @@
+spl_product_data_elements:
+  Topicale Benzocaine CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL OR ALLYL SUCROSE CROSSLINKED) BENZOCAINE BENZOCAINE BENZALKONIUM CHLORIDE POLYETHYLENE GLYCOL, UNSPECIFIED WATER SACCHARIN SODIUM SACCHARIN D&C RED NO. 33 Topicale Benzocaine BENZOCAINE BENZOCAINE BENZALKONIUM CHLORIDE POLYETHYLENE GLYCOL, UNSPECIFIED CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL OR ALLYL SUCROSE CROSSLINKED) WATER SACCHARIN SODIUM SACCHARIN Pina Colada Topicale Benzocaine BENZOCAINE BENZOCAINE BENZALKONIUM CHLORIDE CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL OR ALLYL SUCROSE CROSSLINKED) WATER SACCHARIN SODIUM SACCHARIN POLYETHYLENE GLYCOL, UNSPECIFIED D&C RED NO. 33 Topicale Benzocaine BENZOCAINE BENZOCAINE CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL OR ALLYL SUCROSE CROSSLINKED) WATER SACCHARIN SODIUM SACCHARIN FD&C RED NO. 40 POLYETHYLENE GLYCOL, UNSPECIFIED BENZALKONIUM CHLORIDE
+active_ingredient:
+  Active Ingredient Benzocaine 18%
+purpose:
+  Oral Anesthetic
+indications_and_usage:
+  For the temporary relief of minor pain and irritation associated with minor injury of the mouth and gums, canker sores, minor dental procedures, minor irritation of the mouth and gums caused by dentures or orthodontic appliances​
+warnings:
+  Methemoglobinemia warning: Use of this product may cause methemoglobinemia, a serious condition that must be treated promptly because it reduces the amount of oxygen carried in blood. This can occur even if you have used this product before. Stop use and seek immediate medical attention if you or a child in your care develops pale, grey or blue colored skin (cyanosis), headache, rapid heart rate, shortness of breath, dizziness or lightheadedness, fatigue or lack of energy. Do not use for Teething Do not use in children under 2 years of age Do not use in large quantities or over large areas of body Allergy Alert: Do not use if you have a history of allergy to local anesthetics such as benzocaine, butacaine, procaine or other "caine" anesthetics When using this product Avoid contact with eyes In case of accidental overdose, get medical help or contact a Poison Control Centre immediately Stop use and ask a doctor If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, swelling, rash, nausea or vomiting If sore mouth symptoms do not improve in 7 days, or if irritation, pain or redness persists or worsens
+keep_out_of_reach_of_children:
+  In case of accidental overdose, get medical help or contact a Poison Control Centre immediately
+ask_doctor:
+  Stop use and ask a doctor If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, swelling, rash, nausea or vomiting If sore mouth symptoms do not improve in 7 days, or if irritation, pain or redness persists or worsens
+dosage_and_administration:
+  Do not use more than directed. Adults and children 12 years or older - Apply to the affected area. Allow to remain in place at least one minute and the spit out. Use up to 4 times daily or as directed by a dentist or doctor. Children 2-12 years of age - Should be supervised in the use of the product Children under 2 years of age - Do not use
+other_safety_information:
+  Do not use if imprinted seal under cap is broken or missing Store at 68º to 77º F (20º - 25º C)
+inactive_ingredient:
+  Benzalkonium Chloride (as a preservative), Carbomers, D&C Red Dye # 33 (Cherry & Raspberry), FD&C Red Dye # 40 (Strawberry), Flavorings, Polyethylene glycol, Purified Water, Saccharin sodium.
+information_for_owners_or_caregivers:
+  Premier Topicale Topical Anestheic Gel REF 9007141 Cherry 9007142 Raspberry 9007143 Strawberry 9007144 Pina Colada 9007140 Assorted Made in U.S.A. Contents: Three 43g Pumps 0518001 Rev4 MPL 317935 Retain drug facts for future reference.​ Manufactured for: Premier® Dental Products Company, 1710 Romano Drive, Plymouth Meeting, PA 19462 U.S.A. Manufacturer: Medical Products Laboratories, Inc. 9990 Global Road Philadelphia, PA 19115 U.S.A. Questions or Comments? 888.670.6100 or 610.239.6000 M-Th: 7:30a.m. - 5:30p.m., F: 7:30a.m. - 4:00p.m. EST To obtain an SDS, contact Customer Service Department or visit www.premusa.com.
+package_label_principal_display_panel:
+  pump label pump label pump label pump label package insert
+set_id:
+  8281700c-10f9-841c-e053-2991aa0a918f
+id:
+  28dd17ff-9097-d336-e063-6394a90a00fd
+effective_time:
+  20241211
+version:
+  3
+openfda:
+  application_number:
+    M022
+  brand_name:
+    Topicale
+  generic_name:
+    BENZOCAINE
+  manufacturer_name:
+    Medical Products Laboratories, Inc.
+  product_ndc:
+    10733-167
+    10733-170
+    10733-169
+    10733-171
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BENZOCAINE
+  rxcui:
+    1042838
+    1049213
+  spl_id:
+    28dd17ff-9097-d336-e063-6394a90a00fd
+  spl_set_id:
+    8281700c-10f9-841c-e053-2991aa0a918f
+  package_ndc:
+    10733-167-43
+    10733-170-43
+    10733-169-43
+    10733-171-43
+  is_original_packager:
+    True
+  nui:
+    N0000185508
+    N0000175629
+    N0000184306
+    M0000728
+  pharm_class_epc:
+    Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+  unii:
+    U3RSY48JW5

@@ -1,0 +1,33 @@
+effective_time:
+  20131203
+inactive_ingredient:
+  Inactive ingredients Water, sodium lauryl sulfoacetate, disodium laureth sulfosuccinate, cocamidopropyl betaine, cocamide DEA, cocamidopropyl PG-dimonium chloride phosphate, tetrasodium iminodisuccinate, fragrance, methylchloroisothiazolinone (and) methylisothiazolinone, citric acid, glutaral
+purpose:
+  Antiseptic handwash
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product If swallowed, seek medical attention. If eye contact occurs, flush eyes with water and contact a physician. Discontinue use if irritation andredness develop. If condition persists for more than 72 hours, consult a doctor.
+spl_product_data_elements:
+  Jasmine Foaming Triclosan Triclosan Triclosan WATER SODIUM LAURYL SULFOACETATE DISODIUM LAURETH SULFOSUCCINATE COCAMIDOPROPYL BETAINE COCO DIETHANOLAMIDE COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE TETRASODIUM IMINODISUCCINATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE ANHYDROUS CITRIC ACID GLUTARAL
+other_safety_information:
+  Other information Store at room temperature. Do not freeze.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Press pump to dispense product onto hands, lather and rinse.
+do_not_use:
+  Do not use in the eyes.
+package_label_principal_display_panel:
+  0826.jpg
+indications_and_usage:
+  Uses For hand washing to decrease bacteria on the skin.
+set_id:
+  89d5e4ea-69c9-4356-857b-31df8c40d60e
+id:
+  5615fc71-8a67-47d5-990c-e3eff811cc28
+active_ingredient:
+  Active ingredient Triclosan 0.1%

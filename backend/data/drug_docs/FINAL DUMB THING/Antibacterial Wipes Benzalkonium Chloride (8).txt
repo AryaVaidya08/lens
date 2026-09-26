@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Antibacterial Wipes Benzalkonium Chloride DIDECYLDIMONIUM CHLORIDE WATER ALCOHOL ETHYLHEXYLGLYCERIN GLYCERIN PROPYLENE GLYCOL PHENOXYETHANOL BENZALKONIUM CHLORIDE BENZALKONIUM CITRUS MEDICA FRUIT
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.1% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antibacterial, Wipe
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire and flame
+when_using:
+  When using this product avoid contact with eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store at 20-25C (68-77F) May discolor some fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Ethyl Alcohol, Glycerin, Propylene Glycol, Phenoxyethanol, Didecyldimethylammonium Chloride, Exylhexylglycerin, Citrus Medica Limonum (Lemon) Peel Oil, Fragrance (Parfum).
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 60ct NDC 43269-991-60 201241
+set_id:
+  b07e759a-2fac-0dca-e053-2a95a90a2fc0
+id:
+  cbe67c80-195b-25c8-e053-2995a90a4b1e
+effective_time:
+  20210913
+version:
+  3
+openfda:

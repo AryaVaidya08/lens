@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Facial Mineral Fusion Titanium Dioxide, Zinc Oxide ALUMINA TITANIUM DIOXIDE TITANIUM DIOXIDE CYCLOHEXASILOXANE DIMETHICONE ALPHA-TOCOPHEROL ACETATE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) CI 77492 CYCLOPENTASILOXANE PEG-10 DIMETHICONE (600 CST) CI 77499 LAURYL PEG/PPG-18/18 METHICONE DIMETHICONOL (2000 CST) TETRAHEXYLDECYL ASCORBATE ZINC OXIDE ZINC OXIDE DIMETHICONE CROSSPOLYMER CI 77491 HYDROGEN DIMETHICONE (20 CST)
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Package Label
+set_id:
+  35944621-e6fb-cd98-e063-6294a90aa641
+id:
+  46039254-f217-0311-e063-6394a90a0ca3
+effective_time:
+  20251215
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Facial Mineral Fusion
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    IT INTELLIGENT TREATMENT LLC
+  product_ndc:
+    85507-203
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    46039254-f217-0311-e063-6394a90a0ca3
+  spl_set_id:
+    35944621-e6fb-cd98-e063-6294a90aa641
+  package_ndc:
+    85507-203-50
+  original_packager_product_ndc:
+    58892-203
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  Wart Remover SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID JOJOBA OIL CENTELLA ASIATICA TRITERPENOIDS PORTULACA OLERACEA WHOLE GLYCERIN TEA TREE OIL WATER
+active_ingredient:
+  SALICYLIC ACID 10%
+purpose:
+  For the removal of genital,plantar,common, and flat wartsThe common wart is easilyrecognized bythe rough "cauli-flower-like" appearanceof thesurface.The plantar wart is recognizedby itslocation only on thebottom of the foot,its tender-ness and the interruption ofthefootprint pattern.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+indications_and_usage:
+  For the removal of genital,plantar,common, and flat wartsThe common wart is easilyrecognized bythe rough "cauli-flower-like" appearanceof thesurface.The plantar wart is recognizedby itslocation only on thebottom of the foot,its tender-ness and the interruption ofthefootprint pattern.
+warnings:
+  For extemal use only. Keep away from fire and flame.
+dosage_and_administration:
+  Wash the affectod area May soakthe wartin warm water for 5minutes Dry area thor-oughly Usingthe applicator (cottonswab).apply alayer of ointment to sufficiently-cover each wart.Allow it to fullyabsorb and cover it with abandageas needed Repeat.this procedureonce or twice daily asneeded (untilthe wart is removed) for upto 12weeks.
+inactive_ingredient:
+  Water Centella Asiatica Extract Purs-lane Extract Tea Tree Oil Jojoba Seed Oil Glycerin
+package_label_principal_display_panel:
+  label label2
+set_id:
+  196c8bee-bde0-07ad-e063-6394a90aff94
+id:
+  1b26836d-79b2-51ba-e063-6394a90ae873
+effective_time:
+  20240618
+version:
+  2
+openfda:
+  application_number:
+    M028
+  brand_name:
+    Wart Remover
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Dongkou County Hecheng Network Technology Co., Ltd.
+  product_ndc:
+    84288-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    1b26836d-79b2-51ba-e063-6394a90ae873
+  spl_set_id:
+    196c8bee-bde0-07ad-e063-6394a90aff94
+  package_ndc:
+    84288-004-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

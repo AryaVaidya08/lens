@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  DailyGard Wipes 75 Percent Ethyl Alcohol ALCOHOL WATER GLYCERIN ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information: -Store at room temperature. Do not store above 105°F. -Do not freeze. -May disolor some fabrics. Harmful to wood finishes and plastics. -Effective at eliminating more than 99.9% of many common harmful germs and bacteria in as little as 15 seconds.
+active_ingredient:
+  Active Ingredient[s] 75% Ethyl Alcohol Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use[s]: For hand sanitizing that helps reduce bacteria on the skin, recommended for repeated use.
+warnings:
+  Warning For external use only-Highly Flammable-Keep away from fire or flame. Do not use -On open skin wounds When using this product: -Avoid contact with eyes, ears, and mouth. In case of contact with eyes, flush with water. -Avoid contact with broken skin.Do not inhale or ingest. Stop use and ask a doctor if skin irritation or rash occurs. Keep out of reach of children. If swallowed, contact a Poison Control Center or a doctor.
+do_not_use:
+  Do not use -On open skin wounds
+when_using:
+  When using this product: -Avoid contact with eyes, ears, and mouth. In case of contact with eyes, flush with water. -Avoid contact with broken skin.Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if skin irritation or rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, contact a Poison Control Center or a doctor.
+dosage_and_administration:
+  Directions: -Wipe hands, discard properly in trash receptacle. -Supervise children under 6 years of age when using this product to avoid swallowing.
+inactive_ingredient:
+  Inactive Ingredients: Water, Glycerin, Aloe barbadensis leaf juice, Tocopheryl acetate
+package_label_principal_display_panel:
+  Package Labeling:50 count Label
+  Package Labeling:100 count Label2
+set_id:
+  3472734b-e1f6-4c36-835a-da707ff893c3
+id:
+  f44ad347-164e-1c91-e053-2a95a90a8222
+effective_time:
+  20230209
+version:
+  3
+openfda:

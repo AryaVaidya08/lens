@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Hand Sanitizer Ethyl Alcohol WATER GLYCERIN ALOE VERA LEAF LIMONENE OXIDE, (+)- ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%
+purpose:
+  purpose Antiseptic
+indications_and_usage:
+  Use to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only Flammable. Keep away from fire or flame
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions spray hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+spl_unclassified_section:
+  other information do not store above 105°F may discolor some fabrics harmful to wood finishes and plastics
+  *Effective at eliminating 99.99% of many common harmful germs & bacteria in as little as 15 seconds. Distributed By: Vi-Jon, LLC 8515 Page AVe., St. Louis, MO 63114 www.germx.com
+inactive_ingredient:
+  Inactive ingredients water, glycerin, Aloe barbadensis leaf juice, fragrance, limonene
+questions:
+  Questions 1-866-MYGERMX 1-866-694-3769
+package_label_principal_display_panel:
+  principal display panel germ-X since 1997 KILLS 99.99% OF GERMS HAND SANITIZER SPRAY CITRUS SCENT KILLS GERMS IN 15 SECONDS FORMULA MADE IN USA EMPLOYEE OWNED 2 FL OZ (59 mL) image description
+set_id:
+  1c6311fa-67a8-4e9e-b69b-6dc8b32dc393
+id:
+  151dbee6-d28e-d957-e063-6394a90a7f63
+effective_time:
+  20240402
+version:
+  6
+openfda:

@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Zinc Oxide HYDROGENATED SOYBEAN OIL RED 7 .ALPHA.-BISABOLOL, (+)- RED 40 TIN OXIDE SYNTHETIC BEESWAX DIISOSTEARYL MALATE HYDROLYZED JOJOBA ESTERS (ACID FORM) MAURITIA FLEXUOSA FRUIT OIL FERRIC OXIDE YELLOW SILICON DIOXIDE POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE PUNICA GRANATUM SEED OIL LECITHIN, SOYBEAN TOCOPHEROL SODIUM CHLORIDE FERROSOFERRIC OXIDE PHENYLPROPANOL ZINC OXIDE ZINC OXIDE FERRIC OXIDE RED ALKYL (C12-15) BENZOATE CAPRYLIC/CAPRIC TRIGLYCERIDE CAPRYLYL GLYCOL POLYGLYCERYL-4 DIISOSTEARATE/POLYHYDROXYSTEARATE/SEBACATE WATER MAGNESIUM POTASSIUM ALUMINOSILICATE FLUORIDE TITANIUM DIOXIDE PROPANEDIOL ALUMINUM HYDROXIDE TRIDECYL TRIMELLITATE CALCIUM SULFATE SODIUM SULFATE RED 33 RED 28
+dosage_and_administration:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Dosage and Administration
+inactive_ingredient:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Inactive Ingredient
+indications_and_usage:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Indications and Usage
+active_ingredient:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Active Ingredient
+keep_out_of_reach_of_children:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Keep out of reach of children
+purpose:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Purpose
+warnings:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic Warning
+package_label_principal_display_panel:
+  Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic PDP
+set_id:
+  52bbfdfe-dfc9-364f-e063-6294a90a646d
+id:
+  52bc1685-7534-f040-e063-6394a90aab1f
+effective_time:
+  20260526
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Iris and Romeo Weekend Skin Moisture Lip Balm - Iconic
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Iris and Romeo
+  product_ndc:
+    83247-2767
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    52bc1685-7534-f040-e063-6394a90aab1f
+  spl_set_id:
+    52bbfdfe-dfc9-364f-e063-6294a90a646d
+  package_ndc:
+    83247-2767-1
+    83247-2767-2
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

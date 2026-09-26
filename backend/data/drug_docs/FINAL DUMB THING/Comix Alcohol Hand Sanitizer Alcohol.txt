@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Comix Alcohol Hand Sanitizer Alcohol CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE HYDROLYZED JOJOBA ESTERS (ACID FORM) CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) ALOE VERA LEAF CITRIC ACID MONOHYDRATE ALCOHOL ALCOHOL WATER AMINOMETHYLPROPANOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Uses Helps reduce bacteria on the skin
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+do_not_use:
+  Do not use on children less than 6 months of age
+when_using:
+  When using this product do not use in or near the eyes. In case of contact with eyes, rinse eyes thoroughly with water. Avoid contact with broken skin.
+stop_use:
+  Stop use and ask doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply product onto hands and rub until dry. Children under 6 years old under adult supervision.
+other_safety_information:
+  Other information Store below 105F (40F). * This product can effectively kill 99.99% Escherichia coli, Staphylococcus aureus, Candida albicans, Pseudomonas aeruginosa under experimental conditions. These results are for reference only.
+inactive_ingredient:
+  Inactive ingredients Water, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Parfum, Aminomethyl Propanol, Hydrolyzed Jojoba Esters, Aloe Barbadensis Leaf Juice Powder, Citric Acid
+package_label_principal_display_panel:
+  55450-010-01 500mL Comix 75% Alcohol HAND SANITIZER Kills 99.99% of Germs* Non-sterile Solution L914 16.9FL OZ (500mL) PDP
+set_id:
+  ad54a328-dddb-58dd-e053-2995a90a1633
+id:
+  ad54a328-dddc-58dd-e053-2995a90a1633
+effective_time:
+  20200820
+version:
+  1
+openfda:

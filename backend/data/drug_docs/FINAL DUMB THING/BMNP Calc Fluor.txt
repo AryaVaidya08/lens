@@ -1,0 +1,52 @@
+spl_product_data_elements:
+  BMNP Calc Fluor Calcarea Fluorica CALCIUM FLUORIDE FLUORIDE ION LACTOSE MAGNESIUM STEARATE WHITE DISSOLVABLE TABLETS ROUND DISSOLVABLE TABLETS
+warnings:
+  Keep out of reach of children. If pregnant or breastfeeding, ask a health professional before use. Stop use and ask a doctor if symptoms persist or worsen. If you have severe symptoms, consult a doctor before use.
+dosage_and_administration:
+  Use as directed. Take with water, 3-4 times daily. Ages 12 and older: 5 pellets. Ages 3 to 11: 3 pellets. Ages below 3: consult your doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If pregnant or breastfeeding, ask a health professional before use. Stop use and ask a doctor if symptoms persist or worsen. If you have severe symptoms, consult a doctor before use.
+indications_and_usage:
+  Helps temporarily relieve: discomfort associated with thick, greenish nasal discharge related to seasonal sniffles; burning sensations linked to hemorrhoids; chapped or cracked skin.
+purpose:
+  Calc Fluor 6X......hemorrhoids, cracked skin, nasal discharge
+active_ingredient:
+  Calc Fluor 6X......hemorrhoids, cracked skin, nasal discharge
+inactive_ingredient:
+  Lactose; MAGNESIUM STEARATE
+package_label_principal_display_panel:
+  Package 1 Package 2 CALC FLUOR 6X PACKAGE 1 CALC FLUOR 6X PACKAGE 2
+set_id:
+  549b3cd0-33bc-b3ad-e063-6394a90a8254
+id:
+  5a19b2c3-5419-75ab-e063-6294a90a6dc6
+effective_time:
+  20260828
+version:
+  2
+openfda:
+  brand_name:
+    BMNP Calc Fluor
+  generic_name:
+    CALCAREA FLUORICA
+  manufacturer_name:
+    Total Operations Management LLC DBA:Bestmade Natural Products Micro
+  product_ndc:
+    82969-1201
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM FLUORIDE
+  spl_id:
+    5a19b2c3-5419-75ab-e063-6294a90a6dc6
+  spl_set_id:
+    549b3cd0-33bc-b3ad-e063-6394a90a8254
+  package_ndc:
+    82969-1201-1
+    82969-1201-2
+  is_original_packager:
+    True
+  unii:
+    O3B55K4YKI

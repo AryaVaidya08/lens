@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Antibacterial Green Apple Benzalkonium Chloride .ALPHA.-TOCOPHEROL ACETATE, D- ALOE VERA LEAF FD&C YELLOW NO. 5 FD&C BLUE NO. 1 SODIUM CHLORIDE ANHYDROUS CITRIC ACID EDETATE SODIUM METHYLCHLOROISOTHIAZOLINONE WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE METHYLISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient - Benzalkonium Chloride - 0.13%
+purpose:
+  Purpose - Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on skin
+warnings:
+  for external use only - hands only
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Direction * wet hands * apply to hands * scrub thoroughly * rinse thoroughly
+inactive_ingredient:
+  Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Tetrasodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Vitamin E, Blue# 1, Yellow 5, Fragrance (Parfum)
+package_label_principal_display_panel:
+  2B 2
+set_id:
+  ed766523-717d-38e1-e053-2a95a90a726e
+id:
+  f692d818-1620-126c-e053-2995a90ad54d
+effective_time:
+  20230310
+version:
+  4
+openfda:

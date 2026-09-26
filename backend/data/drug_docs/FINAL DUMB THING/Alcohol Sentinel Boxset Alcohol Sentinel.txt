@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Alcohol Sentinel Boxset Alcohol Sentinel ETHYLHEXYLGLYCERIN GLYCERIN BENZALKONIUM CHLORIDE WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Alcohol 75% . Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Sanitizes hand, body, hair, and household to reduce bacteria that potentially can cause disease. Recommended for repeated daily use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use Sanitizes hand, body, hair, and household to reduce bacteria that potentially can cause disease. Recommended for repeated daily use.
+when_using:
+  In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Remove the cap and press the top of the head to spray directly on Hand. Body Hair, and household use, then allow approximately 30 seconds for evaporation
+storage_and_handling:
+  Other information Store under 40˚C (104˚F)
+inactive_ingredient:
+  Inactive ingredients Parfum, Glycerin, Octoxyglerin, Benzalkonium Chloride, Water
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 3 Spray Bottles each 10 mL NDC: 80886-004-01 Front and Back Labels
+set_id:
+  b29d0ed6-9a74-31c8-e053-2a95a90aa2af
+id:
+  d79d19e3-df53-73ad-e053-2995a90abc14
+effective_time:
+  20220209
+version:
+  3
+openfda:

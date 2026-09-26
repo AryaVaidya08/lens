@@ -14,11 +14,25 @@ Route ownership (see docs/team-context/ for the full breakdown):
 verified independently of everything else being finished.
 """
 
+from contextlib import asynccontextmanager
+import os
+
 from fastapi import FastAPI
 
+from app.config import settings
 from app.routes import detect, drug, engagement, profile
 
-app = FastAPI(title="HCP Spatial Copilot")
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    if os.environ.get("SKIP_INGEST") != "1":
+        from app.retrieval.ingest import ingest_docs
+
+        ingest_docs(settings.drug_docs_path)
+    yield
+
+
+app = FastAPI(title="HCP Spatial Copilot", lifespan=lifespan)
 
 app.include_router(profile.router)
 app.include_router(detect.router)

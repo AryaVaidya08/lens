@@ -1,0 +1,27 @@
+effective_time:
+  20170326
+inactive_ingredient:
+  Step1: Water, Glycerin, etc Step2: Hydrogenated Polydecene, Hydrogenated Vegetable Oil, etc
+purpose:
+  Skin Protectant - Anti-Wrinkle
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  1. If the following symptoms occur after product use, stop using the product immediately and consult a dermatologist (continuous use can exacerbate the symptoms). 1) Occurrence of red spots, swelling, itchiness, and other skin irritation 2) If the symptoms above occur after the application area is exposed to direct sunlight 2. Do not use on open wounds, eczema, and other skin irritations 3. Precaution for Storage and Handling 1) Close the lid after use 2) Keep out of reach of infants and children 3) Do not to store in a place with high/low temperature and exposed to direct sunlight 4. Use as avoiding eye areas.
+spl_product_data_elements:
+  DR. GLODERM TABRX WRINKLETOX MASK Adenosine DR. GLODERM TABRX WRINKLETOX MASK Adenosine GLYCERIN WATER ADENOSINE ADENOSINE DR. GLODERM TABRX OILCAPSULE Glycerin SQUALANE GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Step1 Refine skin with using a toner after cleansing face. Apply mask on the face and take a rest 10~20 minutes. Remove mask and gently pat remaining essence until fully absorbed. Step2 After using mask, open the capsule pouch and take it out. Gently twist the tip of capsule and squeeze onto your fingertips. Pour the oil into the palm and smoothe over face.
+set_id:
+  4b60628f-0c1f-547c-e054-00144ff88e88
+id:
+  4bae1606-67dd-443b-e054-00144ff88e88
+active_ingredient:
+  Step1(Mask): Adenosine Step2(Oil Capsule): Glycerin

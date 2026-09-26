@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  HAND CLEANSER alcohol GLYCERIN TROLAMINE WATER ALCOHOL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE
+active_ingredient:
+  ethyl alcohol
+inactive_ingredient:
+  Water, Glycerin, carbomer, triethanolamine, tocopheryl acetate, pinis koralensis seed extract, camellia sinensis seed extract, aloe barbadensis left extract, melaleuca alternifolia (tea tree) leaf oil menthol, peppermint oil, butylene glycol, 1,2-hexanediol
+purpose:
+  Antiseptic instant healthcare personnel hand antiseptic to reduce bacteria that potentially can cause disease instant hand antiseptic to decrease bacteria on the skin recommended for repeated use hand sanitizer to help reduce bacteria on the skin
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  Apply to clean, dry hands. Apply sufficient amount to thoroughly wet all surfaces of hands and fingers. Rub onto hands until dry. Supervise children in the use of this product.
+warnings:
+  For external use only. Flammable, keep away from fire or flame. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  a1f45536-bcaa-5fc4-e053-2995a90a6edd
+id:
+  a1f55bc8-155f-7524-e053-2995a90a377d
+effective_time:
+  20200328
+version:
+  2
+openfda:

@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  CAREALL Clotrimazole Clotrimazole clotrimazole CLOTRIMAZOLE POLYOXYL 20 CETOSTEARYL ETHER CETOSTEARYL ALCOHOL MINERAL OIL METHYLPARABEN PROPYLPARABEN water WHITE PETROLATUM PROPYLENE GLYCOL
+active_ingredient:
+  Active Ingredient Clotrimazole 1%
+purpose:
+  Purpose Antifungal
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+indications_and_usage:
+  Uses Cures most athlete's foot, jock itch and ringworm. Relieves itching, burning, cracking, scaling, and discomfort.
+warnings:
+  Warnings For external use only. Do not use on children under 2 years of age unless directed by a doctor. When using this product avoid contact with eyes Stop use and ask doctor if irritation occurs there is no improvement in 4 weeks (for athlete's foot or ringworm) or 2 weeks (for jock itch)
+dosage_and_administration:
+  Directions wash affected area and dry thoroughly apply a thin layer over affected area twice daily (morning and night) or as directed by a doctor supervise children in the use of this product for athlete's foot, pay special attention to spaces between the toes, wear well-fitting, ventilated shoes and change shoes and socks at least once daily for atlete's foot and ringworm, use daily for 4 weeks; for jock itch, use daily for 2 weeks if condition persists longer, ask a doctor this product is not effective on the scalp or nails
+inactive_ingredient:
+  Inactive Ingredients Ceteareth 20, Cetostearyl Alcohol, Methylparaben, Mineral Oil, Propylene Glycol, Propylparaben, Water, White Petrolatum
+package_label_principal_display_panel:
+  AFCL1
+set_id:
+  ebc565bb-e56c-43ba-a5cb-d2fad2aafc4a
+id:
+  1b131084-a996-4923-9a06-f6f19072ade2
+effective_time:
+  20241007
+version:
+  10
+openfda:
+  application_number:
+    M005
+  brand_name:
+    CAREALL Clotrimazole
+  generic_name:
+    CLOTRIMAZOLE
+  manufacturer_name:
+    New World Imports, Inc
+  product_ndc:
+    51824-063
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CLOTRIMAZOLE
+  spl_id:
+    1b131084-a996-4923-9a06-f6f19072ade2
+  spl_set_id:
+    ebc565bb-e56c-43ba-a5cb-d2fad2aafc4a
+  package_ndc:
+    51824-063-01
+  is_original_packager:
+    True
+  upc:
+    0085317007652
+  nui:
+    N0000175487
+    M0002083
+  pharm_class_epc:
+    Azole Antifungal [EPC]
+  pharm_class_cs:
+    Azoles [CS]
+  unii:
+    G07GZ97H65

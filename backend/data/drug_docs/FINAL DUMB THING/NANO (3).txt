@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  NANO MINI LOLLIPOP hand sanitizer Ethyl Alcohol ALOE VERA WHOLE GLYCERIN GRAPE SEED OIL ISOPROPYL MYRISTATE PROPYLENE GLYCOL WATER FD&C RED NO. 40 FD&C RED NO. 4 ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70%
+purpose:
+  Purpose Antiseptic.
+indications_and_usage:
+  Use [s] for handwashing to decrease bacteria on the skin that could cause disease. recommended for repeated use.
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame Do not use in or near the eyes When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water rinse eyes thoroughly with water Stop use and ask a doctor if irritation and redness develop. condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and to dry without wiping • children under 6 years of ages should be supervised when using this product. • Not recommended for infants.
+spl_unclassified_section:
+  Other information Avoid freezing and excessive heat above 104º F (40º C). Store between 15-30º C (59-86 ºF) When exposed to light, liquid solution color may very without effecting the effectiveness of formula.
+inactive_ingredient:
+  Inactive ingredients Aloe Vera, Fragrance (parfum), Glycerin, Grape Seed Oil, Isopropyl Myristate, Propylene glycol, Water, FD&C Red #40, FD&C Red #4, FD&C Red #21.
+package_label_principal_display_panel:
+  PRODUCT IMAGE image description
+set_id:
+  2397b4e8-f0d3-4f2b-9dda-df2e0bd21de2
+id:
+  b6c9ad45-e8a6-604f-e053-2a95a90a7f89
+effective_time:
+  20201218
+version:
+  1
+openfda:

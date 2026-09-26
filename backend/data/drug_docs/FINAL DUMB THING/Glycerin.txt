@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Glycerin Glycerin WATER GLYCERIN GLYCERIN
+purpose:
+  purpose Purpose: Hyperosmotic Laxative
+indications_and_usage:
+  Indications & Usage Uses: • For relief of occasional constipation • This product generally produces bowel movement in 1/4 to 1 hour
+dosage_and_administration:
+  Dosage & Administration Directions Children 2 to under 6 years: Use 1 bottle rectally once daily, or as directed by a doctor. Children under 2 years Consult a doctor.
+warnings:
+  Warnings Warnings: • For rectal use only. • May cause rectal discomfort or a burning sensation. • Do not use laxative products when abdominal pain, nausea, or vomiting are present unless directed by a doctor. • If your child has noticed a sudden change in bowel habits that persists over a period of 2 weeks, consult a doctor before use. • Laxative products should not be used for longer than 1 week unless directed by a doctor. • Rectal bleeding or failure to have a bowel movement after use may indicate a serious condition. Discontinue use and consult a doctor. • Keep out of reach of children. • If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive ingredients Inactive ingredients: purified water
+active_ingredient:
+  Active ingredient (in each 4 mL) Glycerin 4 g
+package_label_principal_display_panel:
+  Jingfeng Glycerin Suppositories 6X4ml 85270-999-12 kaiselu Glycerine 6X4
+set_id:
+  552e16b9-f46a-7838-e063-6394a90ab8aa
+id:
+  552e13ed-e0b7-f801-e063-6294a90a4394
+effective_time:
+  20260626
+version:
+  1
+openfda:
+  application_number:
+    M007
+  brand_name:
+    Glycerin
+  generic_name:
+    GLYCERIN
+  manufacturer_name:
+    Beijing Jingfeng Pharmaceutical (Shandong) Co., Ltd
+  product_ndc:
+    85270-999
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    RECTAL
+  substance_name:
+    GLYCERIN
+  spl_id:
+    552e13ed-e0b7-f801-e063-6294a90a4394
+  spl_set_id:
+    552e16b9-f46a-7838-e063-6394a90ab8aa
+  package_ndc:
+    85270-999-02
+    85270-999-12
+  is_original_packager:
+    True
+  nui:
+    N0000185370
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0009417
+  pharm_class_epc:
+    Non-Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Glycerol [CS]
+  unii:
+    PDC6A3C0OX

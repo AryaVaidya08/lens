@@ -1,0 +1,102 @@
+effective_time:
+  20210312
+inactive_ingredient:
+  
+instructions_for_use:
+  
+purpose:
+  
+keep_out_of_reach_of_children:
+  
+warnings:
+  
+questions:
+  
+spl_product_data_elements:
+  Arnica Montana Arnica Montana ARNICA MONTANA ARNICA MONTANA SUCROSE Arnica Montana Arnica Montana ARNICA MONTANA ARNICA MONTANA SUCROSE Arnica Montana Arnica Montana SUCROSE ARNICA MONTANA ARNICA MONTANA Arnica Montana Arnica Montana ARNICA MONTANA ARNICA MONTANA SUCROSE Arnica Montana Arnica Montana SUCROSE ARNICA MONTANA ARNICA MONTANA Arnica Montana Arnica Montana SUCROSE ARNICA MONTANA ARNICA MONTANA Arnica Montana Arnica Montana SUCROSE ARNICA MONTANA ARNICA MONTANA Arnica Montana Arnica Montana SUCROSE ARNICA MONTANA ARNICA MONTANA Arnica Montana Arnica Montana SUCROSE ARNICA MONTANA ARNICA MONTANA
+ask_doctor:
+  
+openfda:
+  brand_name:
+    Arnica Montana
+  generic_name:
+    ARNICA MONTANA
+  manufacturer_name:
+    Hahnemann Laboratories, Inc.
+  product_ndc:
+    63545-159
+    63545-166
+    63545-165
+    63545-162
+    63545-167
+    63545-164
+    63545-160
+    63545-161
+    63545-163
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ARNICA MONTANA
+  spl_id:
+    bd5fb73e-d129-1b1e-e053-2a95a90a4dea
+  spl_set_id:
+    bd5fb73e-d128-1b1e-e053-2a95a90a4dea
+  package_ndc:
+    63545-166-01
+    63545-166-02
+    63545-166-03
+    63545-166-04
+    63545-165-01
+    63545-165-02
+    63545-165-03
+    63545-165-04
+    63545-162-01
+    63545-162-02
+    63545-162-03
+    63545-162-04
+    63545-167-01
+    63545-159-01
+    63545-159-02
+    63545-159-03
+    63545-164-01
+    63545-164-02
+    63545-164-03
+    63545-164-04
+    63545-160-01
+    63545-160-02
+    63545-160-03
+    63545-161-01
+    63545-161-02
+    63545-161-03
+    63545-161-04
+    63545-163-01
+    63545-163-02
+    63545-163-03
+    63545-163-04
+  is_original_packager:
+    True
+  unii:
+    O80TY208ZW
+version:
+  1
+dosage_and_administration:
+  
+dosage_forms_and_strengths:
+  
+pregnancy_or_breast_feeding:
+  
+route:
+  
+package_label_principal_display_panel:
+  Arnica Montana 6C 5g Arnica Montana 6C 30g Arnica Montana 6C 100g Arnica Montana 12C 5g Arnica Montana 12C 30g Arnica Montana 12C 100g Arnica Montana 30C 1g Arnica Montana 30C 5g Arnica Montana 30C 30g Arnica Montana 30C 100g Arnica Montana 100C 1g Arnica Montana 100C 5g Arnica Montana 100C 30g Arnica Montana 100C 100g Arnica Montana 200C 1g Arnica Montana 200C 5g Arnica Montana 200C 30g Arnica Montana 200C 100g Arnica Montana 500C 1g Arnica Montana 500C 5g Arnica Montana 500C 30g Arnica Montana 500C 100g Arnica Montana 1M 1g Arnica Montana 1M 5g Arnica Montana 1M 30g Arnica Montana 1M 100g Arnica Montana 10M 1g Arnica Montana 10M 5g Arnica Montana 10M 30g Arnica Montana 10M 100g Arnica Montana LM1 30g
+indications_and_usage:
+  
+set_id:
+  bd5fb73e-d128-1b1e-e053-2a95a90a4dea
+id:
+  bd5fb73e-d129-1b1e-e053-2a95a90a4dea
+active_ingredient:
+  
+  

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Antimicrobial Hand So ap Chloroxylenol CHLOROXYLENOL CHLOROXYLENOL WATER ALCOHOL AMMONIUM LAURETH-2 SULFATE AMMONIUM LAURYL SULFATE PROPYLENE GLYCOL AMMONIUM XYLENESULFONATE COCO MONOETHANOLAMIDE GLYCERIN ISOPROPYL ALCOHOL LACTIC ACID VITAMIN A PALMITATE JOJOBA OIL EDETATE SODIUM .ALPHA.-TOCOPHEROL ACETATE, D- CORN OIL AMMONIUM SULFATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C RED NO. 4 FD&C YELLOW NO. 6
+active_ingredient:
+  Active ingredient Chloroxylenol 0.3%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Handwash to help decrease bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands Apply a small amount of product and work into a lather Rinse well and dry hands completely
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Alcohol, Ammonium Laureth Sulfate, Ammonium Lauryl Sulfate, Propylene Glycol, Ammonium Xylenesulfonate, Cocamide MEA, Glycerin, Isopropyl Alcohol, Lactic Acid, Retinyl Palmitate, Simmondsia Chinensis (Jojoba) Seed Oil, Tetrasodium EDTA, Tocopheryl Acetate, Zea Mays (Corn) Oil, Ammonium Sulfate, Fragrance (Parfum), Methylchloroisothiazolinone, Methylisothiazolinone, Red 4 (CI 14700), Yellow 6 (CI 15985)
+package_label_principal_display_panel:
+  Product label
+set_id:
+  73fd1b9e-4a27-4bb8-8e97-6cc08459597f
+id:
+  c2ec08a9-22fc-440c-99db-448f2b584678
+effective_time:
+  20240306
+version:
+  2
+openfda:

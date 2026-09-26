@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Cicatricure Avobenzone, Octinoxate, and Octocrylene WATER GLYCERIN ISOSTEARYL ISOSTEARATE CETOSTEARYL ALCOHOL FERRIC OXIDE RED CYCLOMETHICONE MANNITOL TITANIUM DIOXIDE BUTYLENE GLYCOL CARBOXYPOLYMETHYLENE POLYSORBATE 20 PALMITOYL TETRAPEPTIDE-7 PALMITOYL LYSYLDIOXYMETHIONYLLYSINE CHAMOMILE CENTELLA ASIATICA LEAF JUGLANS REGIA LEAF RICE BRAN OIL POTASSIUM CETYL PHOSPHATE GLYCERYL MONOCAPRYLATE HYDROGENATED SOYBEAN LECITHIN ALUMINUM HYDROXIDE TRIETHOXYCAPRYLYLSILANE POLY(METHYL METHACRYLATE; 450000 MW) XANTHAN GUM NIACINAMIDE EDETATE DISODIUM ANHYDROUS IMIDUREA PANTHENOL DIMETHICONE METHYLPARABEN PROPYLPARABEN AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE OCTOCRYLENE OCTOCRYLENE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by Genomma Lab USA Inc. Houston, TX 77027
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3% Sunscreen Octinoxate 7.5% Sunscreen Octocrylene 7.5% Sunscreen
+active_ingredient_table:
+  <table width="50%" styleCode="Noautorules"><col width="65%" align="left" valign="top"/><col width="35%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Octinoxate 7.5%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 7.5%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Avobenzone 3% Sunscreen Octinoxate 7.5% Sunscreen Octocrylene 7.5% Sunscreen
+purpose_table:
+  <table width="50%" styleCode="Noautorules"><col width="65%" align="left" valign="top"/><col width="35%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Octinoxate 7.5%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 7.5%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures ( see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply generously and evenly 15 minutes before sun exposure. Reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating. Sun Protection Measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF factor of 15 or higher and other skin protection measures including: limit time in the sun, especially from 10am to 2pm wear long-sleeved shirts, pants, hats and sunglasses children under 6 months of age: ask a doctor
+storage_and_handling:
+  Other information protect product from excessive heat and direct sun may stain some fabrics keep this carton for future reference.
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Isostearyl Isostearate, Stearyl Monoglyceridyl Citrate, Cetearyl Alcohol, Iron Oxides, Cyclomethicone, Mannitol, Titanium Dioxide, Butylene Glycol, Carbomer, Polysorbate-20, Palmitoyl Oligopeptide, Palmitoyl Tetrapeptide-7, Palmitoyl Tripeptide-38, Decolorized Aloe vera leaf extract, Chamomilla recutita (Chamomile) flower extract, Centella asiatica leaf extract, Juglans regia (Walnut) leaf extract, Oryza sativa (Rice) Bran Oil, Potassium Cetyl Phosphate, Glyceryl Caprylate, Alpha-Tocopheryl Acetate, Hydrogenated Lecithin, Aluminum Hydroxide, Triethoxycaprylylsilane, Polymethyl Methacrylate, Xanthum Gum, Hydroxypropyl Cyclodextrin, Niacinamide, Melanin, Disodium EDTA, Imidazolidinyl Urea, Panthenol, Dimethicone, Methylparaben, Propylparaben
+questions:
+  Questions Call toll free 1 877-994-3666 Monday to Friday, 8am to 6pm, Central time
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton Cicatricure ® PLASMA YOUTH ACTIVATING MOISTURIZER BROAD SPECTRUM SPF 15 With Sunscreen ADDS MOISTURE & RADIANCE TO YOUR SKIN ACCORDING TO YOUR SPECIFIC NEEDS With MATRIXYL ® One of the most advanced cosmetic ingredients in the last 25 years* Net Wt. 1 FL OZ (30mL) Principal Display Panel - 30 mL Bottle Carton
+set_id:
+  c212ba60-c31e-4e5f-914f-1b0bec9e5bc8
+id:
+  2b5e6195-ed91-877c-e063-6294a90ae951
+effective_time:
+  20250110
+version:
+  2
+openfda:

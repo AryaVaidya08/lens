@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Blistex Medicated Berry Balm Dimethicone, Octinoxate, and Octisalate DIMETHICONE DIMETHICONE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE MINERAL OIL PETROLATUM CERESIN CANDELILLA WAX LANOLIN OIL YELLOW WAX ISOPROPYL MYRISTATE LANOLIN POLYBUTENE (1400 MW) CETYL PALMITATE CETYL ALCOHOL PARAFFIN COCOA BUTTER MENTHOL, UNSPECIFIED FORM PHENOXYETHANOL .ALPHA.,.ALPHA.-DIBROMO-D-CAMPHOR TITANIUM DIOXIDE D&C RED NO. 6
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Dimethicone 2.0% (w/w) Lip protectant Octinoxate 6.6% (w/w) Sunscreen Octisalate 4.4% (w/w) Sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="80%" align="left" valign="top"/><col width="20%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th align="left"><content styleCode="italics"> Purpose</content></th></tr></thead><tbody><tr><td>Dimethicone 2.0% (w/w)</td><td>Lip protectant</td></tr><tr><td>Octinoxate 6.6% (w/w)</td><td>Sunscreen</td></tr><tr><td>Octisalate 4.4% (w/w)</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Dimethicone 2.0% (w/w) Lip protectant Octinoxate 6.6% (w/w) Sunscreen Octisalate 4.4% (w/w) Sunscreen
+purpose_table:
+  <table width="50%"><col width="80%" align="left" valign="top"/><col width="20%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th align="left"><content styleCode="italics"> Purpose</content></th></tr></thead><tbody><tr><td>Dimethicone 2.0% (w/w)</td><td>Lip protectant</td></tr><tr><td>Octinoxate 6.6% (w/w)</td><td>Sunscreen</td></tr><tr><td>Octisalate 4.4% (w/w)</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily protects and helps relieve chapped or cracked lips helps prevent sunburn
+warnings:
+  Warnings Skin Cancer/Skin Aging Alert Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to help prevent sunburn, not skin cancer or early skin aging. For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients beeswax, camphor, cetyl alcohol, cetyl palmitate, euphorbia cerifera (candelilla) wax, flavor, isopropyl myristate, lanolin, lanolin oil, menthol, mineral oil, ozokerite, paraffin, petrolatum, phenoxyethanol, polybutene, red 6 lake, theobroma cacao (cocoa) seed butter, titanium dioxide
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 4.25 g Cylinder Carton Blistex ® LIP PROTECTANT/SUNSCREEN MEDICATED BERRY BALM Seals In Moisture To Soothe & Prevent Dry Lips Net Wt. 0.15 oz. (4.25 g) SPF 15 Smooth Easy-Gliding Protection Principal Display Panel - 4.25 g Cylinder Carton
+set_id:
+  827365b3-b3a5-4472-9add-f822362c4731
+id:
+  dbfacb4b-8e92-463e-9dc6-129bd75421fe
+effective_time:
+  20240209
+version:
+  3
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Blistex Medicated Berry Balm
+  generic_name:
+    DIMETHICONE, OCTINOXATE, AND OCTISALATE
+  manufacturer_name:
+    Blistex Inc
+  product_ndc:
+    10157-1121
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+    OCTINOXATE
+    OCTISALATE
+  spl_id:
+    dbfacb4b-8e92-463e-9dc6-129bd75421fe
+  spl_set_id:
+    827365b3-b3a5-4472-9add-f822362c4731
+  package_ndc:
+    10157-1121-1
+    10157-1121-4
+    10157-1121-2
+  is_original_packager:
+    True
+  upc:
+    0041388220215
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O
+    4Y5P7MUD51
+    4X49Y0596W

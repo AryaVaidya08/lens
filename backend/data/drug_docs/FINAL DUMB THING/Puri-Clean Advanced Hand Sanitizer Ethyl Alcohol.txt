@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Puri-Clean Advanced Hand Sanitizer Ethyl Alcohol ISOPROPYL MYRISTATE TOCOPHEROL GLYCERIN AMINOMETHYLPROPANOL WATER CARBOMER 934 ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use For Hand washing to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. do not use near heat, flame, or while smoking.
+when_using:
+  When using this product keep out of eyes. if product gets into eyes, rinse with water to remove.Avoid contact with broken skin. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry with out wiping. For children under 6, use only under adult supervision.
+storage_and_handling:
+  Other information Do not store above 104F May discolor some fabrics, wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Aminomethyl Propanol, Carbomer, Glycerin, Isopropyl Myristate, Tocopherol, Water
+package_label_principal_display_panel:
+  Puri-clean Advanced Hand Sanitizer Principal Display Label
+set_id:
+  ae304c6a-b47f-c383-e053-2a95a90a8bee
+id:
+  dbe9c605-c5ff-2dee-e053-2995a90a6d42
+effective_time:
+  20220405
+version:
+  2
+openfda:

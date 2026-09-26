@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Allergy Relief Fexofenadine HCl FEXOFENADINE HYDROCHLORIDE FEXOFENADINE SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSES FERRIC OXIDE RED FERRIC OXIDE YELLOW LACTOSE MONOHYDRATE POLYETHYLENE GLYCOL, UNSPECIFIED TITANIUM DIOXIDE STARCH, CORN FERROSOFERRIC OXIDE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE Peach G6
+active_ingredient:
+  Active ingredient (in each tablet) Fexofenadine HCl USP, 180 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions)
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor
+dosage_and_administration_table:
+  <table><col width="1px"/><col width="1px"/><tbody><tr><td styleCode=" Toprule">adults and children 12 years of age and over</td><td styleCode=" Toprule Lrule">take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours </td></tr><tr><td styleCode=" Toprule">children under 12 years of age </td><td styleCode=" Toprule Lrule">do not use </td></tr><tr><td styleCode=" Toprule">adults 65 years of age and older </td><td styleCode=" Toprule Lrule">ask a doctor </td></tr><tr><td styleCode=" Toprule">consumers with kidney disease </td><td styleCode=" Toprule Lrule">ask a doctor </td></tr></tbody></table>
+storage_and_handling:
+  Other information store between 20-25ºC (68-77ºF) protect from excessive moisture
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, iron oxide red, iron oxide yellow, lactose monohydrate, polyethylene glycol, magnesium stearate, microcrystalline cellulose, pregelatinized starch, titanium dioxide
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal Display Panel *Compare to the active ingredient in Allegra® Allergy 24 hour NON-DROWSY Allergy Relief FEXOFENADINE180 mg FEXOFENADINE HCl TABLETS USP, 180 mg ANTIHISTAMINE 24 HOUR RELIEF OF Runny nose and sneezing Itchy, watery eyes Itchy nose or throat FOR INDOOR AND OUTDOOR ALLERGIES TABLETS *This product is not manufactured or distributed by Chattem Inc., distributor of Allegra® Allergy 24 hour TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. PROUDLY DISTRIBUTED BY: VALU MERCHANDISERS, CO. 5000 KANSAS AVE KANSAS CITY, KS 66106
+  Product Label BEST CHOICE Non-Drowsy Allergy Relief Fexofenadine HCl USP, 180 mgh
+set_id:
+  c3c56f76-636c-45fa-8c1a-63da7b491bc5
+id:
+  5a880ff7-e417-4017-aeb9-8f214b1099dd
+effective_time:
+  20220519
+version:
+  1
+openfda:
+  application_number:
+    ANDA211075
+  brand_name:
+    Allergy Relief
+  generic_name:
+    FEXOFENADINE HCL
+  manufacturer_name:
+    Best Choice (Valu Merchandisers Company)
+  product_ndc:
+    63941-801
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    FEXOFENADINE HYDROCHLORIDE
+  rxcui:
+    997420
+  spl_id:
+    5a880ff7-e417-4017-aeb9-8f214b1099dd
+  spl_set_id:
+    c3c56f76-636c-45fa-8c1a-63da7b491bc5
+  package_ndc:
+    63941-801-30
+  is_original_packager:
+    True
+  upc:
+    0070038651574
+  unii:
+    2S068B75ZU

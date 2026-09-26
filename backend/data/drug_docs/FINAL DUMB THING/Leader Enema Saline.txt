@@ -1,0 +1,48 @@
+spl_product_data_elements:
+  Leader Enema Saline SODIUM PHOSPHATE, DIBASIC, UNSPECIFIED FORM PHOSPHATE ION SODIUM CATION SODIUM PHOSPHATE, MONOBASIC, UNSPECIFIED FORM PHOSPHATE ION SODIUM CATION BENZALKONIUM CHLORIDE EDETATE DISODIUM WATER
+active_ingredient:
+  Active ingredients (in each 118 mL delivered dose) Dibasic sodium phosphate 7 g Monobasic sodium phosphate 19 g
+purpose:
+  Purpose Saline laxative
+indications_and_usage:
+  Uses • relieves occasional constipation
+warnings:
+  Warnings For rectal use only Dosage warning: Using more than one enema in 24 hours can be harmful. Ask a doctor before use if you have • a sodium-restricted diet • abdominal pain, nausea or vomiting • kidney disease, heart problems, or are dehydrated • noticed a sudden change in bowel habits that lasts over 2 weeks Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work. When using this product • do not use more than directed. Serious side effects may occur from excess dosage. • do not use for more than 3 days Stop use and ask a doctor if • you have rectal bleeding • you have no bowel movement after use of a laxative These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+ask_doctor:
+  Ask a doctor before use if you have • a sodium-restricted diet • abdominal pain, nausea or vomiting • kidney disease, heart problems, or are dehydrated • noticed a sudden change in bowel habits that lasts over 2 weeks
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work.
+when_using:
+  When using this product • do not use more than directed. Serious side effects may occur from excess dosage. • do not use for more than 3 days
+stop_use:
+  Stop use and ask a doctor if • you have rectal bleeding • you have no bowel movement after use of a laxative These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions Do not use more unless directed by a doctor. See Warnings. adults & children 12 years and over one bottle once daily children 2 to under 12 years ½ bottle once daily children under 2 years do not use CAUTION: Remove green protective shield before inserting; hold bottle upright, grasping bottle cap with fingers. Grasp protective shield with other hand and pull gently to remove. Positioning: Left-side position: lie on left side with knee bent and arms at rest. Knee-chest position: kneel, then lower head and chest forward until left side of face is resting on surface. Position arms comfortably. Administering enema: • with steady pressure, gently insert enema with tip pointing toward navel • squeeze bottle until recommended dose is expelled (it is not necessary to empty until completely. Bottle contains more liquid than needed for effective use. A small amount of liquid will remain in bottle after squeezing). • remove tip from rectum • stop using if tip is hard to insert. Forcing the tip into rectum can cause injury (especially if you have hemorrhoids). If enema tip causes rectal bleeding or pain, get immediate medical care. • maintain position until urge to evacuate is strong (usually 1 to 5 minutes) • if no urge is felt after 5 minutes of using, try to empty bowel. Call a doctor promptly if no liquid comes out of the rectum after 30 minutes because dehydration could occur. hand positions image left side position image knee-chest position image
+dosage_and_administration_table:
+  <table width="100%"><col width="61%"/><col width="39%"/><tbody><tr><td styleCode="Botrule Lrule Toprule " valign="top"><paragraph>adults &amp; children 12 years and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>one bottle once daily</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>children 2 to under 12 years</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>&#xBD; bottle once daily</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>children under 2 years</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>do not use</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • each 118 mL contains: sodium 4.3 g • store at room temperature 20º-25ºC (68º-77ºF) • this product generally produces bowel movement in 1 to 5 minutes
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, disodium EDTA, purified water
+questions:
+  Questions or comments? 1-800-367-4477
+spl_unclassified_section:
+  All Leader® Brand products are 100% satisfaction guaranteed or return to place of purchase for a full refund. DISTRIBUTED BY CARDINAL HEALTH DUBLIN, OHIO 43017 CIN 4725495 www.myleader.com 1-800-200-6313 Made in USA RJ12MLW REF CRD-PH-1-24N *This product is not manufactured or distributed by C.B. Fleet Co., Inc., the distributor of Fleet® Enema Saline.
+spl_unclassified_section_table:
+  <table styleCode="Noautorules" width="100%"><col width="25%"/><col width="25%"/><col width="25%"/><col width="25%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Made in USA</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>RJ12MLW</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>REF</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>CRD-PH-1-24N</paragraph></td></tr></tbody></table>
+package_label_principal_display_panel:
+  Principal Display Panel NDC 37205-754-11 LEADER® Compare to Fleet® Enema Saline active ingredients* READY-TO-USE Enema Saline Laxative For Relief Of Occasional Constipation Soft, Flexible Comfort Tip Latex Free SATISFACTION GUARANTEED 4.5 FL OZ (133ml) 7g/19g in 118mL carton image 1
+  Package Label - Back and Side Label with Drug Facts 7g/19g in 118mL carton image 2
+set_id:
+  687078d4-53d8-4e45-ab3e-375b5358d719
+id:
+  9bc99ce0-a835-45b4-97b7-5fb784fda2fc
+effective_time:
+  20250423
+version:
+  4
+openfda:

@@ -1,0 +1,38 @@
+effective_time:
+  20170111
+inactive_ingredient:
+  Inactive ingredients alcohol, citric acid, flavor, glucose, glycerin, high fructose corn syrup, menthol, purified water, red 40, saccharin sodium, sodium benzoate
+purpose:
+  Purpose Cough suppressant
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children. In case of accidental overdose, seek professional assistance or contact a Poison Control Center immediately.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+when_using:
+  When using this product • do not use more than directed
+spl_product_data_elements:
+  Tussin Cough Long Acting DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ALCOHOL CITRIC ACID MONOHYDRATE DEXTROSE GLYCERIN HIGH FRUCTOSE CORN SYRUP MENTHOL SACCHARIN SODIUM ANHYDROUS SODIUM BENZOATE FD&C RED NO. 40 cherry
+ask_doctor:
+  Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • do not exceed 6 doses in a 24-hour period • this adult product is not intended for use in children under 12 years of age adults and children 12 years and over 2 teaspoonfuls (tsps) every 4 hours children under 12 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+spl_unclassified_section:
+  Other information • dosage cup provided • store at controlled room temperature
+package_label_principal_display_panel:
+  Principal Display Panel H.E.B. See now dosing information Adult Tussin DM MAX Maximum Strength for Mucus relief Cough suppressant-Dextromethorphan HBr Expectorant-Guaifenesin Relieves-coughs, mucus, chest congestion for ages 12 and over non-drowsyalcohol free 8 fl oz 237mL
+  Package Label HEB Tussin Cough Long Acting Dextromethorphan HBr 10 mg, Guaifenesin 200 mg
+indications_and_usage:
+  Uses • temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold
+set_id:
+  f6c85df5-1d4a-4601-8869-6b5ca74f948a
+id:
+  8a0d85dc-f8b3-40d1-a971-9dcd14c74e66
+active_ingredient:
+  Active ingredients Dextromethorphan HBr, USP 10 mg

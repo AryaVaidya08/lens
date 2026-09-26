@@ -1,0 +1,27 @@
+effective_time:
+  20200410
+inactive_ingredient:
+  Water,glycerol
+purpose:
+  Disinfection Sterilization No Rinseing
+keep_out_of_reach_of_children:
+  keep out of reach of children
+warnings:
+  This product is a disinfectant for external use, not for oral use
+spl_product_data_elements:
+  75% ALCOHOL DISINFECTANT 75% ALCOHOL DISINFECTANT ALCOHOL ALCOHOL GLYCERIN WATER COCOGIANNI
+openfda:
+version:
+  3
+dosage_and_administration:
+  Please keep it in a sealed, cool and dry place
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Hand sanitizing Spray the disinfectant evenly on the hands or the handsfor 1 -2 times for one minute. Disinfect the surface of the object, spray the disinfectant evenly on the surface of the object, keep it wired and wipe the surface of the object 2 times for 3 minutes.
+set_id:
+  a2eafbaf-d74c-1679-e053-2a95a90a7c66
+id:
+  a2eafa9b-a732-3c81-e053-2a95a90aee0f
+active_ingredient:
+  alcohol

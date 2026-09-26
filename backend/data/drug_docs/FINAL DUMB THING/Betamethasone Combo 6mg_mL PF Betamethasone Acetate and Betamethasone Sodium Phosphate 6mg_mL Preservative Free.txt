@@ -1,0 +1,25 @@
+effective_time:
+  20151215
+inactive_ingredient:
+  Ingredients Each 1mL contains betamethasone acetate USP 3mg, betamethasone sodium phosphate USP equivalent to betamethasone 3mg, polysorbate 80 NF 1%, sodium phosphate monobasic USP anhydrous 3.4mg, sodium phosphate dibasic USP 7.1mg, edetate disodium USP dihydrate 1.1mg, polyethylene glycol 3350 NF 30mg, sterile water for injection. Contains no bacteriostat.
+spl_product_data_elements:
+  Betamethasone Combo 6mg/mL PF Betamethasone Acetate and Betamethasone Sodium Phosphate 6mg/mL Preservative Free SODIUM PHOSPHATE, MONOBASIC ANHYDROUS EDETATE DISODIUM POLYSORBATE 80 POLYETHYLENE GLYCOL 3350 SODIUM PHOSPHATE, DIBASIC ANHYDROUS BETAMETHASONE ACETATE BETAMETHASONE BETAMETHASONE SODIUM PHOSPHATE BETAMETHASONE
+warnings_and_cautions:
+  Warnings and Precautions Office Use Only. Not for Resale. This is a Compounded Drug.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Dosage and Administration For IM & Regional Injection. Preservative Free. Use once and immediately discard remainder. Shake well.
+adverse_reactions:
+  Adverse Events Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088
+storage_and_handling:
+  Storage and Handling Shake Well. Protect from Light. Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature]. Protect from freezing.
+how_supplied:
+  How Supplied 2mL Single Dose Vial
+package_label_principal_display_panel:
+  Labels Product Package
+set_id:
+  e3cb3e43-5a18-4a28-859e-349a08e10681
+id:
+  26f4cc51-db93-3e86-e054-00144ff8d46c

@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Walgreens pain relieving Lidocaine 4% ISOBUTANE MEDIUM-CHAIN TRIGLYCERIDES PROPYLENE GLYCOL LIDOCAINE LIDOCAINE DEHYDRATED ALCOHOL
+active_ingredient:
+  Lidocaine 4%
+purpose:
+  Topical anesthetic
+indications_and_usage:
+  temporarily relieves minor joint and muscle pain
+warnings:
+  For External use only Do not use on large areas of the body or on cut, irritated or swollen skin on puncture wounds for more than one week without consulting a doctor Extremely Flammable do not use near heat or flame or while smoking avoid long term storage above 104° F (40°C) do not puncture or incinerate. Contents under pressure. do not store at temperatures above 120F (49°C) When using this product use only as directed. Read and follow all directions and warnings on this label. do not allow contact with the eyes and mucous membranes avoid spraying on face avoid inhalation of spray do not bandage or apply local heat (such as heating pads) or a medicated patch to area of use do not use at the same time as other topical analgesics If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children if swallowed, get medical help or contact Poison Control Center Right Away
+do_not_use:
+  Do not use on large areas of the body or on cut, irritated or swollen skin on puncture wounds for more than one week without consulting a doctor Extremely Flammable do not use near heat or flame or while smoking avoid long term storage above 104° F (40°C) do not puncture or incinerate. Contents under pressure. do not store at temperatures above 120F (49°C)
+when_using:
+  When using this product use only as directed. Read and follow all directions and warnings on this label. do not allow contact with the eyes and mucous membranes avoid spraying on face avoid inhalation of spray do not bandage or apply local heat (such as heating pads) or a medicated patch to area of use do not use at the same time as other topical analgesics
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact Poison Control Center Right Away
+stop_use:
+  Stop use and ask a doctor if condition worsens redness is present irritation develops symptoms persist for more than 7 days or clear up and occur again within few days
+dosage_and_administration:
+  adults and children over 12 years : spray affected area every 6 to 8 hours, not to exceed 3 applications in a 24 hour period product wil dry quickly on its own, and does not need to be rubbed in children 12 years or younger: ask a doctor
+inactive_ingredient:
+  caprylic/capric triglyceride, isobutane, propylene glycol, SD alcohol 40 B (30%)
+questions:
+  1-800-925-4733
+package_label_principal_display_panel:
+  Package Label
+set_id:
+  ce2b9e57-749d-715c-e053-2995a90aaf8d
+id:
+  09057091-4886-4fae-e063-6294a90a95e5
+effective_time:
+  20231031
+version:
+  4
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Walgreens pain relieving
+  generic_name:
+    LIDOCAINE 4%
+  manufacturer_name:
+    Walgreens
+  product_ndc:
+    0363-3038
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+  rxcui:
+    1869797
+  spl_id:
+    09057091-4886-4fae-e063-6294a90a95e5
+  spl_set_id:
+    ce2b9e57-749d-715c-e053-2995a90aaf8d
+  package_ndc:
+    0363-3038-04
+  is_original_packager:
+    True
+  upc:
+    0311917010977
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987

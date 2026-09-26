@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Nasal Decongestant Maximum Strength, Non-Drowsy Pseudoephedrine HCl PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C RED NO. 40 ALUMINUM LAKE FD&C YELLOW NO. 6 ALUMINUM LAKE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE TITANIUM DIOXIDE TRIACETIN 44;112
+active_ingredient:
+  Active ingredient (in each tablet) Pseudoephedrine HCl 30 mg
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies temporarily relieves sinus congestion and pressure
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland When using this product do not exceed recommended dosage. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland
+when_using:
+  When using this product do not exceed recommended dosage.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years and over take 2 tablets every 4 to 6 hours; do not take more than 8 tablets in 24 hours children ages 6 to 11 years take 1 tablet every 4 to 6 hours; do not take more than 4 tablets in 24 hours children under 6 years do not use
+dosage_and_administration_table:
+  <table width="450px"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule Lrule Rrule">adults and children 12 years and over</td><td styleCode=" Botrule Toprule Lrule Rrule">take 2 tablets every 4 to 6 hours; do not take more than 8 tablets in 24 hours</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children ages 6 to 11 years</td><td styleCode=" Botrule Toprule Lrule Rrule">take 1 tablet every 4 to 6 hours; do not take more than 4 tablets in 24 hours</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children under 6 years</td><td styleCode=" Botrule Toprule Lrule Rrule">do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 15 mg TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, dibasic calcium phosphate dihydrate, FD&C red #40 aluminum lake, FD&C yellow #6 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, silicon dioxide, titanium dioxide, triacetin
+questions:
+  Questions or comments? Call 1-800-426-9391 8:30 AM-4:00 PM ET, Monday-Friday
+package_label_principal_display_panel:
+  Principal display panel GOOD NEIGHBOR PHARMACY® Compare to Sudafed® Sinus Congestion active ingredient* NDC 46122-428-61 MAXIMUM STRENGTH Nasal Decongestant pseudoephedrine hydrochloride (nasal decongestant) Non-Drowsy/Pseudoephedrine HCl Relief of: • Nasal & Sinus Congestion • Sinus Pressure 96 Tablets | 30 mg Each Actual Size Good Neighbor Pharmacy 44-112 Good Neighbor Pharmacy 44-112
+set_id:
+  1fdb1ba5-4072-4baf-9e30-f01d57bf6d82
+id:
+  cfa252ca-2306-4112-a614-4fece9804f0a
+effective_time:
+  20260815
+version:
+  12
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Nasal Decongestant Maximum Strength, Non-Drowsy
+  generic_name:
+    PSEUDOEPHEDRINE HCL
+  manufacturer_name:
+    Amerisource Bergen
+  product_ndc:
+    46122-428
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PSEUDOEPHEDRINE HYDROCHLORIDE
+  rxcui:
+    1049160
+  spl_id:
+    cfa252ca-2306-4112-a614-4fece9804f0a
+  spl_set_id:
+    1fdb1ba5-4072-4baf-9e30-f01d57bf6d82
+  package_ndc:
+    46122-428-62
+    46122-428-61
+  is_original_packager:
+    True
+  upc:
+    0346122428613
+  unii:
+    6V9V2RYJ8N

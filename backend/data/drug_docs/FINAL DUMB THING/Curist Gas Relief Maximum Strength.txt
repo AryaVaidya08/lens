@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Curist Gas Relief Maximum Strength Simethicone GELATIN, UNSPECIFIED GLYCERIN WATER FD&C BLUE NO. 1 D&C RED NO. 33 DIMETHICONE DIMETHICONE 250 Clear purple
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Little Pharma, Inc. New York, NY 10023 Made in Canada
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 250 mg
+purpose:
+  Purpose Antigas
+warnings:
+  Warnings Stop use and ask doctor if condition persists If pregnant or breast feeding , ask a health professional before use. Keep out of reach of children.
+stop_use:
+  Stop use and ask doctor if condition persists
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+indications_and_usage:
+  Use Relieves pressure, bloating, or fullness commonly referred to as gas
+dosage_and_administration:
+  Directions Adults: Swallow 1 or 2 softgels with at least 8 oz of water, as needed after a meal or at bedtime. Do not exceed 2 softgels in 24 hours except under the advice and supervision of a physician.
+storage_and_handling:
+  Other information Store at room temperature 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients D&C red #33, FD&C blue #1, gelatin, glycerin, and purified water
+questions:
+  Questions or comments? 1-844-243-1241 Monday - Friday 9AM - 5PM EST
+package_label_principal_display_panel:
+  curist Gas Relief Maximum Strength Simethicone 250 mg Anti-Gas Fast Relief of Gas Pressure, Bloating, and Discomfort 300 Softgels Gas relief label
+set_id:
+  dc15a8e6-8924-f5c2-e053-2a95a90ab2c0
+id:
+  2d566593-1510-ac0d-e063-6294a90a2f22
+effective_time:
+  20250204
+version:
+  5
+openfda:
+  application_number:
+    M002
+  brand_name:
+    Curist Gas Relief Maximum Strength
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Little Pharma, Inc.
+  product_ndc:
+    72559-019
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    412111
+  spl_id:
+    2d566593-1510-ac0d-e063-6294a90a2f22
+  spl_set_id:
+    dc15a8e6-8924-f5c2-e053-2a95a90ab2c0
+  package_ndc:
+    72559-019-23
+  is_original_packager:
+    True
+  upc:
+    0372559019230
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

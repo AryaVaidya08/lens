@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Perfect Purity Medicated Body Powder menthol and zinc oxide TALC EUCALYPTOL METHYL SALICYLATE SALICYLIC ACID THYMOL ZINC STEARATE MENTHOL MENTHOL ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active Ingredients Menthol 0.15% Zinc Oxide 1.0%
+purpose:
+  Purpose Anti-itch Skin Protectant
+indications_and_usage:
+  Uses temporarily relieves pain and itch associated with: Minor Cuts Sunburn Insect Bites Scrapes Prickly Heat Minor Burns Rashes Minor Skin Irritations Dries the oozing of poison ivy, oak, and sumac.
+warnings:
+  Warning For external use only. Avoid contact with eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms do not get better within 7 days
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years and older apply freely up to 3 or 4 times daily. children under 2 years ask a doctor. For best results, dry skin thoroughly before applying.
+inactive_ingredient:
+  Inactive Ingredients talc, eucalyptol, methyl salicylate, salicylic acid, thymol, zinc stearate.
+package_label_principal_display_panel:
+  Product Label image
+set_id:
+  287f6300-6704-4a42-ba0b-70bf314df098
+id:
+  01ccfa74-aeba-d5ac-e063-6394a90a92fe
+effective_time:
+  20230731
+version:
+  4
+openfda:

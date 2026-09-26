@@ -1,0 +1,25 @@
+effective_time:
+  20091105
+inactive_ingredient:
+  Inactive Ingredients Sorbitol, Silica, Water, Glycerin, Sodium Laurel Sulphate, Zinc Citrate, Titanium Dioxide, Cellulose Gum, Flavor, PVP, Sodium Benzoate, Tetrasodium Pyrophosphate, Sodium Saccharine, Sodium Hydroxide, Carrageenan, Mica, FDC Blue No. 1.
+purpose:
+  Use: Helps protect against cavities.
+warnings:
+  As with all fluoride toothpastes, keep out of reach of children under 6 years of age . If you accidentally swallow more than used for brushing, seek professional help or contact the Poison Control Center immediately.
+spl_product_data_elements:
+  Walgreens Anticavity and Antigingivits Whitening Fluoride Toothpaste Anticavity and Antigingivitis Whitening Fluoride Sodium Fluoride FLUORIDE ION Sorbitol SILICON DIOXIDE Water Glycerin SODIUM LAURYL SULFATE Zinc Citrate Titanium Dioxide CROSCARMELLOSE SODIUM SODIUM BENZOATE SODIUM PYROPHOSPHATE SACCHARIN SODIUM SODIUM HYDROXIDE Carrageenan FD&C BLUE NO. 1
+openfda:
+version:
+  1
+dosage_and_administration:
+  Adults and children 6 years or older Brush Teeth throughly, preferably after each meal, or at least twice a day, or as directed by your dentist. Do not swallow Children between 6 and 12 years To minimize swallowing, use a pea-sized amount and supervise brushing until good habits are established. Children under 6 years Ask a dentist or physician.
+package_label_principal_display_panel:
+  Principal Display Panel Anticavity and Antigingivitis Compare to Colgate WHITENING Fluoride Toothpaste Fights Tartar Build-up NET WT 6.4 oz (181.4 g) Whitens Teeth image of container
+set_id:
+  0434b3a5-cb47-4b39-9173-abe28c6433c8
+id:
+  57b1a2f3-8c90-4b32-8533-894237cf293d
+active_ingredient:
+  ACTIVE INGREDIENTS Sodium Fluoride 0.234% (0.15% w/v fluoride ion..........................Anticavity toothpaste
+dosage_and_administration_table:
+  <table width="100%" ID="i39557f28-c4af-4320-8631-d18142457d69"> <tbody> <tr> <td> <content styleCode="bold">Adults and children 6 years or older  </content> </td> <td>Brush Teeth throughly, preferably after each meal, or at least twice a day, or as directed by your dentist. Do not swallow   </td> <td>   </td> </tr> <tr> <td> <content styleCode="bold">Children between 6 and 12 years</content> </td> <td>To minimize swallowing, use a pea-sized amount and supervise brushing until good habits are established.  </td> <td>   </td> </tr> <tr> <td> <content styleCode="bold">Children under 6 years </content> </td> <td>Ask a dentist or physician.  </td> <td>   </td> </tr> </tbody> </table>

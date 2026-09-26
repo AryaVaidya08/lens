@@ -1,0 +1,27 @@
+effective_time:
+  20170331
+inactive_ingredient:
+  inactive ingredients section
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  otc purpose
+warnings:
+  warnings
+spl_product_data_elements:
+  extra strength postpartum relief lidocaine hcl LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS PIPER METHYSTICUM WHOLE COPAIBA OIL ACHILLEA MILLEFOLIUM OIL WITCH HAZEL NUTMEG OIL PROPOLIS WAX BEHENTRIMONIUM METHOSULFATE
+openfda:
+version:
+  1
+dosage_and_administration:
+  dosage and administration
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  indications and usage
+set_id:
+  4c0b52af-ac65-54d7-e054-00144ff88e88
+id:
+  4c0b52af-ac66-54d7-e054-00144ff88e88
+active_ingredient:
+  active ingredients

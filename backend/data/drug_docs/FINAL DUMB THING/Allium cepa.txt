@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Allium cepa ONION LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE ONION ONION SUCROSE
+active_ingredient:
+  Allium cepa 9C (**contains 0.443 mg of the active ingredient per pellet)
+purpose:
+  
+indications_and_usage:
+  Runny Nose With Clear Discharge*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label
+set_id:
+  84ed9217-f2e3-4d35-e053-2a91aa0a2016
+id:
+  003adc62-2030-085a-e063-6294a90a43b6
+effective_time:
+  20230711
+version:
+  2
+openfda:
+  brand_name:
+    Allium cepa
+  generic_name:
+    ONION
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-0165
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ONION
+  spl_id:
+    003adc62-2030-085a-e063-6294a90a43b6
+  spl_set_id:
+    84ed9217-f2e3-4d35-e053-2a91aa0a2016
+  package_ndc:
+    0220-0165-41
+  is_original_packager:
+    True
+  nui:
+    N0000185371
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0022575
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Vegetable Proteins [CS]
+  unii:
+    492225Q21H

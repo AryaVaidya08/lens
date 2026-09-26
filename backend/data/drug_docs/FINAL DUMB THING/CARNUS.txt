@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  CARNUS HAND SANITIZER - Antibacterial Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE
+spl_unclassified_section:
+  Drug Facts
+  %70 Alcohol Kills 99.9% of bacteria WITHOUT WATER Fast Drying Non Sticky MANUFACTURED BY: DINAMO KOZMETIK VE TEKSTIL DIS TICARET A.S. AYOSB MERMERCILER CAD. NO: 10 AYDINLI / TUZLA / ISTANBUL / TURKEY www.dinamogrup.com MADE IN TURKEY
+active_ingredient:
+  Active ingredient[s] Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use[s] : To help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings: For external use only: on hands. Flammable. Keep away from heat or flame. Do not use • in children less than 2 months of age • on open skin wounds When using this product : Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor : If irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions : • Apply to hands thoroughly with product and rub into skin until dry. • Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information : • Store between 15-30C (59-86F) • Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients : Water, Glycerin, Carbomer, Fragrance, Triethanolamine
+package_label_principal_display_panel:
+  Packaging Carns4 Carns5
+set_id:
+  f9c39553-051d-4dcc-810c-917158b7b24e
+id:
+  4e3a0062-4a25-4c57-b394-49ebbe509795
+effective_time:
+  20200818
+version:
+  1
+openfda:

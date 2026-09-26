@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Farewell Collection Antiseptic Hand Soap CHLORPHENESIN .ALPHA.-TOCOPHEROL ACETATE EDETATE DISODIUM ANHYDROUS PANTHENOL MALTODEXTRIN POLYOXYL 40 HYDROGENATED CASTOR OIL ACRYLATES CROSSPOLYMER-6 SODIUM BENZOATE ALOE VERA LEAF PPG-26-BUTETH-26 GLYCERIN WATER BENZALKONIUM CHLORIDE BENZALKONIUM COCAMIDOPROPYL BETAINE PHENOXYETHANOL FD&C YELLOW NO. 5 FD&C BLUE NO. 1 SODIUM LAURYL SULFATE SODIUM HYDROXIDE
+active_ingredient:
+  Active Ingredient(s) Benzalkonium chloride 0.1%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use To help reduce bacteria on hands.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away 1 800-222-1222
+dosage_and_administration:
+  Directions Apply on hands thoroughly, wash and rinse afterward. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store between 15 and 30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients acrylates copolymer, aloe barbadensis leaf extract, chlorphenesin, cocamidopropyl betaine, disodium EDTA, glycerin, maltodextrin, panthenol, PEG-40 hydrogenated castor oil, phenoxyethanol, PPG-26-Buteth-26, purified water USP, sodium benzoate, sodium hydroxide, sodium lauryl sulfate, tocopheryl acetate
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 250 mL NDC:81892-116-11 250 mL NDC:12961-116-11
+set_id:
+  c5727450-6de4-080a-e053-2995a90a157d
+id:
+  efd6d66b-4384-a968-e053-2995a90a2470
+effective_time:
+  20221214
+version:
+  2
+openfda:

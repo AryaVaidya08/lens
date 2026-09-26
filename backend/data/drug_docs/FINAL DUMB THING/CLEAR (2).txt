@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  CLEAR AND COVER ACNE TREATMENT CONCEALER CLEAR AND COVER ACNE TREATMENT CONCEALER 7 olive SALICYLIC ACID WATER CYCLOMETHICONE 5 BUTYLENE GLYCOL DIMETHICONE TRISILOXANE KAOLIN PEG/PPG-18/18 DIMETHICONE BORON NITRIDE TALC DISTEARDIMONIUM HECTORITE MAGNESIUM SULFATE, UNSPECIFIED FORM METHYL METHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER PHENOXYETHANOL LEVOMENOL CAPRYLYL GLYCOL GLYCERIN TRIETHOXYCAPRYLYLSILANE TOCOPHEROL CHAMOMILE .ALPHA.-TOCOPHEROL ACETATE ALUMINUM OXIDE SILICON DIOXIDE PENTAERYTHRITOL TETRAKIS(3-(3,5-DI-TERT-BUTYL-4-HYDROXYPHENYL)PROPIONATE) SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Salicylic Acid 2% Purpose Acne Treatment
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Use for the treatment of acne clears acne blemishes helps prevent new acne blemishes
+warnings:
+  Warnings For external use only. When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the skin thoroughly before applying this product cover the entire affected area with a thin layer one to three times daily becaused excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three tiems daily if needed or as directed by a doctor If bothersome dryness or peeling occurs, reduce application to once a day or every other day
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Cyclopentasiloxane, Butylene Glycol, Dimethicone, Trisiloxane, Kaolin, Polyisobutene, PEG/PPG-18/18 Dimethicone, Boron Nitride, Talc, Cyclodextrin, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Magnesium Sulfate, Methyl Methacrylate Crosspolymer, Trimethylsiloxysilicate, Phenoxyethanol, Bisabolol, Caprylyl Glycol, Glycerin, Triethoxycaprylylsilane, Tocopherol, Chamomilla Recutita (Matricaria) Flower Extract, Tocopheryl Acetate, Alumina, Silica, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate. May Contain (+/-): Zinc Oxide (CI 77947), Titanium Dioxide (CI 77891), Iron Oxides (CI 77491/CI 77492/CI 77499).
+package_label_principal_display_panel:
+  Package Labeling: Outer Package Inner Package olive
+set_id:
+  295fd097-0466-42a8-8608-9b4bbc7f0e36
+id:
+  1998cb63-ff45-f8d5-e063-6394a90a2bd7
+effective_time:
+  20240529
+version:
+  3
+openfda:

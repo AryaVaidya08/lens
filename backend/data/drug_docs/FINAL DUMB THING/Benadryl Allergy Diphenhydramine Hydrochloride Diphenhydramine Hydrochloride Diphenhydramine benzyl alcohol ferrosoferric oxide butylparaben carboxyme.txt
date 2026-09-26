@@ -1,0 +1,45 @@
+effective_time:
+  20130711
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children
+questions:
+  Questions or comments? call 1-877-717-2824
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information each gelcap contains: calcium 35 mg store between 20-25°C (68-77°F). Avoid high humidity. do not use if carton is open or if blister unit is broken see side panel for lot number and expiration date
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+set_id:
+  9c9111ac-a788-441a-8500-5c274763c043
+id:
+  7cc83afb-795e-42c9-a0bc-6c1e627199d9
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+active_ingredient:
+  Active ingredient (in each gelcap) Diphenhydramine HCl 25 mg
+dosage_and_administration_table:
+  <table width="75%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Lrule">adults and children 12 years of age and over</td> <td styleCode="Lrule Rrule">1 to 2 gelcaps</td> </tr> <tr styleCode="Botrule"> <td styleCode="Lrule">children 6 to under 12 years of age</td> <td styleCode="Lrule Rrule">1 gelcap</td> </tr> <tr> <td styleCode="Lrule">children under 6 years of age</td> <td styleCode="Lrule Rrule">do not use this product in children under 6 years of age</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, black iron oxide, butylparaben, carboxymethylcellulose sodium, crospovidone, D&C red #28, dibasic calcium phosphate dihydrate, edetate calcium disodium, FD&C red #40, gelatin, hypromellose, magnesium stearate, methylparaben, microcrystalline cellulose, polyethylene glycol, polysorbate 80, propylparaben, red iron oxide, sodium lauryl sulfate, sodium propionate, titanium dioxide, yellow iron oxide
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  Benadryl Allergy Diphenhydramine Hydrochloride Diphenhydramine Hydrochloride Diphenhydramine benzyl alcohol ferrosoferric oxide butylparaben carboxymethylcellulose sodium crospovidone D&C red NO. 28 calcium phosphate, dibasic, dihydrate edetate calcium disodium FD&C red NO. 40 gelatin hypromelloses magnesium stearate methylparaben cellulose, microcrystalline polyethylene glycols polysorbate 80 propylparaben ferric oxide red sodium lauryl sulfate sodium propionate titanium dioxide ferric oxide yellow with gray subcoat band Ben;A
+ask_doctor:
+  Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions if needed, repeat dose every 4 to 6 hours do not take more than 6 times in 24 hours adults and children 12 years of age and over 1 to 2 gelcaps children 6 to under 12 years of age 1 gelcap children under 6 years of age do not use this product in children under 6 years of age
+spl_unclassified_section:
+  Drug Facts
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 50580-580-49 Benadryl ® ™ ALLERGY Diphenhydramine HCl | Antihistamine Sneezing Runny Nose Itchy, Watery Eyes Itchy Throat 48 KAPGELS ® 25 MG EACH gelatin coated caplets Principal Display Panel

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Rinse Free Hand Cleanser ALCOHOL GLYCERIN PROPYLENE GLYCOL WATER ALCOHOL ALCOHOL HYDROXYPROPYL CELLULOSE (90000 WAMW)
+spl_unclassified_section:
+  This is a Rinse free hand cleanser repackaged/labeled. The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with Center for Disease Control recommendations: Cleaning hands at key times with soap and water or hand sanitizer that contains at least 60% alcohol is one of the most important steps you can take to avoid getting sick and spreading germs to those around you. The firm does not add other active ingredients. Any additional ingredients added have been precisly measured and do not drop active ingredient below 62% Ethyl Alcohol, and does not impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Alcohol 62% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, Deionized Water, Propylene Glycol, Hydroxypropylcellulose, Lauryl Lactate, Myristyl Lactate, Cetyl Lactate, Organic Aloe Barbadensis (Aloe Vera) Leaf Extract, Panthenol (Pro-Vitamin B5), Tocopheryl Acetate (Vitamin E Acetate)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 118 mL NDC: 73909-0918-1 59 mL 73909-0918-2 Drug Facts label 118 mL label 59 mL label drug facts
+set_id:
+  a44f9fac-bede-b27e-e053-2a95a90a0de8
+id:
+  a44fa791-6c45-b488-e053-2a95a90a4e46
+effective_time:
+  20200427
+version:
+  1
+openfda:

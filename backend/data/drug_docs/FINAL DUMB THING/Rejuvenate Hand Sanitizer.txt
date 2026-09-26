@@ -1,0 +1,33 @@
+effective_time:
+  20210920
+inactive_ingredient:
+  Inactive Ingredients Water, coco-glucoside, laurtrimonium chloride, cocamidopropylamine oxide, citric acid.
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use or ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+spl_product_data_elements:
+  Rejuvenate Hand Sanitizer BENZALKONIUM CHLORIDE WATER COCO GLUCOSIDE LAURTRIMONIUM CHLORIDE COCAMIDOPROPYLAMINE OXIDE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Pump a small amount of liquid into palm of hand Rub thoroughly over all surfaces of both hands for 15 seconds Rinse with potable water (Optional).
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use or ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+package_label_principal_display_panel:
+  Package Labeling: Box
+indications_and_usage:
+  Uses • For hand sanitizing to decrease bacteria on the skin • Recommended for repeated use
+set_id:
+  b3b1bfd0-a065-4c00-e053-2995a90a77df
+id:
+  cc715fe5-2c29-f69a-e053-2995a90ab57d
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial

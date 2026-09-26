@@ -1,0 +1,33 @@
+effective_time:
+  20130809
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Cetyl Alcohol, Cholecaliferol, Diazolidinyl Urea, Fragrance, Lanolin, Methylparaben, Mineral Oil, Petrolatum, Purified Water, Retinyl Palmitate, Sodium Borate, Stearic Acid, Tocopheryl Acetate, Yellow 5, Yellow 6, Zea Mays (Corn) oil
+purpose:
+  Purpose: Helps treat and prevent diaper rash. Dries the oozing and weeping of poison ivy poison oak poison sumac
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings: For external use only
+spl_product_data_elements:
+  Zinc Oxide and Dimethicone with Dimethicone Zinc Oxide and Dimethicone ZINC OXIDE ZINC OXIDE DIMETHICONE DIMETHICONE ALOE VERA LEAF CETYL ALCOHOL CHOLECALCIFEROL LANOLIN METHYLPARABEN MINERAL OIL PETROLATUM WATER CETETH-10 PARAFFIN PROPYLPARABEN SODIUM GLYCERIN PHENOXYETHANOL STEARETH-20 POLYETHYLENE GLYCOL 6000 POLYSORBATE 60 CETOSTEARYL ALCOHOL VITAMIN A ALPHA-TOCOPHEROL TROLAMINE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Dosage and Administration: For diaper rash change wet and soiled diapers promptly cleanse the diaper area and allow to dry Apply ointment liberally with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged For poison ivy, oak and sumac apply ointment liberally as often as needed
+spl_unclassified_section:
+  Other information Do not use if seal is punctured or not visible store at room temperature 15°-30° C (59°-86° F) avoid excessive heat
+stop_use:
+  Stop use if conditions worsen symptoms last more than 7 days or clear up and occur in a few days, consult a physician over large areas of the body if you are allergic to these ingredients
+do_not_use:
+  Do not use deep or puncture wounds animal bites serious burns
+package_label_principal_display_panel:
+  Principal Display Panel GalShield with Dimethicone GalShield D.jpg Galshield
+indications_and_usage:
+  Indications and Usage Indications are for diaper rash and general skin protectant.
+set_id:
+  987f3500-e7b4-45bc-bb29-8b5b59b9bb4b
+id:
+  c824ad2f-391a-464f-a444-7b7d43d75038
+active_ingredient:
+  Active ingredient Purpose Zinc Oxide (200 mg) Diaper Rash Dimethicone 1.8% Skin Protectant

@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE Calcarea Bromata Calcarea Bromata SUCROSE CALCIUM BROMATE CALCIUM BROMATE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Calcarea Bromata 6C 5g Calcarea Bromata 6C 30g Calcarea Bromata 6C 100g Calcarea Bromata 12C 5g Calcarea Bromata 12C 30g Calcarea Bromata 12C 100g Calcarea Bromata 30C 1g Calcarea Bromata 30C 5g Calcarea Bromata 30C 30g Calcarea Bromata 30C 100g Calcarea Bromata 100C 1g Calcarea Bromata 100C 5g Calcarea Bromata 100C 30g Calcarea Bromata 100C 100g Calcarea Bromata 200C 1g Calcarea Bromata 200C 5g Calcarea Bromata 200C 30g Calcarea Bromata 200C 100g Calcarea Bromata 500C 1g Calcarea Bromata 500C 5g Calcarea Bromata 500C 30g Calcarea Bromata 500C 100g Calcarea Bromata 1M 1g Calcarea Bromata 1M 5g Calcarea Bromata 1M 30g Calcarea Bromata 1M 100g Calcarea Bromata LM1 30g
+set_id:
+  df38e786-bb20-75d6-e053-2a95a90a86c0
+id:
+  df38e786-bb21-75d6-e053-2a95a90a86c0
+effective_time:
+  20220517
+version:
+  1
+openfda:
+  brand_name:
+    Calcarea Bromata
+  generic_name:
+    CALCAREA BROMATA
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-0049
+    37662-0055
+    37662-0054
+    37662-0053
+    37662-0056
+    37662-0051
+    37662-0052
+    37662-0050
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM BROMATE
+  spl_id:
+    df38e786-bb21-75d6-e053-2a95a90a86c0
+  spl_set_id:
+    df38e786-bb20-75d6-e053-2a95a90a86c0
+  package_ndc:
+    37662-0055-1
+    37662-0055-2
+    37662-0055-3
+    37662-0055-4
+    37662-0054-1
+    37662-0054-2
+    37662-0054-3
+    37662-0054-4
+    37662-0053-1
+    37662-0053-2
+    37662-0053-3
+    37662-0053-4
+    37662-0056-1
+    37662-0051-1
+    37662-0051-2
+    37662-0051-3
+    37662-0051-4
+    37662-0052-1
+    37662-0052-2
+    37662-0052-3
+    37662-0052-4
+    37662-0049-1
+    37662-0049-2
+    37662-0049-3
+    37662-0050-1
+    37662-0050-2
+    37662-0050-3
+  is_original_packager:
+    True
+  unii:
+    QJ2S78C3RO

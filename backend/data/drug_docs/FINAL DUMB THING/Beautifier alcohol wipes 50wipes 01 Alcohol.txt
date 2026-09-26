@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Beautifier alcohol wipes 50wipes 01 Alcohol ALCOHOL ALCOHOL WATER
+description:
+  drug facts 54860-374-01
+active_ingredient:
+  Active ingredient Active ingredient purpose Ethyl alcohol 75%v/v Antiseptic
+purpose:
+  Use for hand-washing to help reduce bacteria that potentially can cause disesase.For use when soap and waterare not available.
+warnings:
+  warnings For external use only.Flammable.Keep away from heat or flame.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds.
+when_using:
+  When using this product Keep out of eyes,ears,and mouth.In case of contact
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs,these maybe signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed,get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces,Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing
+other_safety_information:
+  Other information Store between15-30C(59-86F) Avoid freezing and excessive heat above 40C(104F)
+inactive_ingredient:
+  Inactive ingredient Water(25%)
+indications_and_usage:
+  Usage Place enough product on hands to cover all surfaces.Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+package_label_principal_display_panel:
+  54860-374-01
+set_id:
+  bf5c2691-57f3-d80f-e053-2995a90a3c57
+id:
+  bf5c33b0-e3f1-40cc-e053-2a95a90a0354
+effective_time:
+  20210407
+version:
+  5
+openfda:

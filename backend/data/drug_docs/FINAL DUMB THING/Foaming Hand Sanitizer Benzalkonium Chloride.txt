@@ -1,0 +1,31 @@
+effective_time:
+  20190118
+inactive_ingredient:
+  Inactive Ingredients: Cetrimonium Chloride, Citric Acid, Dihydroxyethyl Cocamine Oxide, Fragrance, Glycereth-17 Cocoate, Laurtrimonium Chloride, Water
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+spl_product_data_elements:
+  Foaming Hand Sanitizer Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM CETRIMONIUM CHLORIDE CITRIC ACID MONOHYDRATE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE LAURTRIMONIUM CHLORIDE WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+package_label_principal_display_panel:
+  Sanis Foaming Hand Sanitizer 800ML 27.0 FL OZ container label
+indications_and_usage:
+  Uses: For hand sanitizing to decrease bacteria on the skin Recommended for repeated use
+set_id:
+  35b1e869-a033-449d-a378-5bed6050e308
+id:
+  4059f87b-b7fc-4367-8960-d82ce94ffce9
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1%

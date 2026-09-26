@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  Focus Medical Oxygen Oxygen OXYGEN OXYGEN
+package_label_principal_display_panel:
+  Oxygen Compressed USP, UN 1072, RX ONLY img
+set_id:
+  2c87c66c-2511-1fa6-e054-00144ff88e88
+id:
+  2c87c66c-2512-1fa6-e054-00144ff88e88
+effective_time:
+  20160224
+version:
+  1
+openfda:

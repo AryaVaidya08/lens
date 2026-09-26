@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Antibacterial Hand Sanitizer ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information •Do not store above 105°F. •May discolor some fabrics.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses •For Hand Sanitizing
+warnings:
+  Warnings For external use only-hands. Flammable. Keep away from heat and flame. When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if skin irritation develops. Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away.
+when_using:
+  When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if skin irritation develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away.
+dosage_and_administration:
+  Directions •Wet hands thoroughly with product and allow to dry without wiping. •For children under 6 age use only under adult supervision. •Not recommended for infants.
+inactive_ingredient:
+  Inactive Ingredients Carborner, Fragrance, Glycerin, Propylene Glycol, Tocopheryl Acetate, Triethanolamine, Water.
+package_label_principal_display_panel:
+  Package Labeling: Label4
+set_id:
+  a185a4b0-a5d3-2487-e053-2995a90a01d3
+id:
+  098725d4-ed85-891b-e063-6294a90a051e
+effective_time:
+  20231106
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Antibacterial Hand Sanitizer
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Prostock LLC
+  product_ndc:
+    73796-112
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    581660
+  spl_id:
+    098725d4-ed85-891b-e063-6294a90a051e
+  spl_set_id:
+    a185a4b0-a5d3-2487-e053-2995a90a01d3
+  package_ndc:
+    73796-112-36
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

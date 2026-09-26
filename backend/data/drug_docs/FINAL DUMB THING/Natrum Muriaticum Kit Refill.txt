@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Natrum Muriaticum Kit Refill SODIUM CHLORIDE SUCROSE LACTOSE SODIUM CHLORIDE SODIUM CATION white
+active_ingredient:
+  ACTIVE INGREDIENTS NATRUM MURIATICUM 200C
+purpose:
+  USES To relieve the symptoms of sneezing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: NATRUM MURIATICUM Sneezing
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Label
+set_id:
+  c829bf1b-a9b0-463f-9ca7-4bfeaaf0a946
+id:
+  999dae3c-d803-3197-e053-2995a90ae600
+effective_time:
+  20191213
+version:
+  2
+openfda:

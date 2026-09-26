@@ -1,0 +1,14 @@
+spl_product_data_elements:
+  AIR AIR AIR AIR
+package_label_principal_display_panel:
+  AIR image description
+  AIR image description
+set_id:
+  68d425b6-fc78-45ad-9d84-e1bfb75d520a
+id:
+  2c61266c-6e94-06c9-e063-6394a90a0e4a
+effective_time:
+  20250123
+version:
+  9
+openfda:

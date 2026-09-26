@@ -1,0 +1,82 @@
+effective_time:
+  20171128
+inactive_ingredient:
+  Inactive ingredients Puriﬁed Water, Cetyl Alcohol, Glycerin, Cetearyl Alcohol, Dicetylphosphate, Ceteth-10 Phosphate, Isopropyl Myristate, Persea Gratissima (Avocado) Oil, Glucono Delta Lactone, Glyceryl Monolaurate, D-Panthenol, Xanthan Gum, Hydroxypropyl Bispalmitamide MEA, Hydroxyethyl Behenamidopropyl Dimonium Chloride, Palmitic Acid, Conjugated Linoleic Acid, Cholesterol, Euphorbia Cerifera (Candelilla) Wax, Phenoxyethanol, Ethylhexyl Glycerin, Allantoin, Glycyrrhizic Acid, Sodium Benzoate, Sodium Hydroxide, Menthol, Disodium EDTA
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center immediately
+warnings:
+  For external use only
+when_using:
+  When using this product Do not get into eyes
+questions:
+  Questions or comments? 1-800-635-3696
+spl_product_data_elements:
+  MG217 Baby Eczema Colloidal Oatmeal CETYL ALCOHOL ETHYLHEXYLGLYCERIN ALLANTOIN GLYCYRRHIZIN GLYCERYL 1-LAURATE HYDROXYETHYL BEHENAMIDOPROPYL DIMONIUM CHLORIDE SODIUM HYDROXIDE HYDROXYPROPYL BISPALMITAMIDE MONOETHANOLAMIDE DEXPANTHENOL GLUCONOLACTONE CETOSTEARYL ALCOHOL DIHEXADECYL PHOSPHATE OATMEAL OATMEAL CANDELILLA WAX CETETH-10 PHOSPHATE EDETATE DISODIUM EDETIC ACID WATER MENTHOL, (+)- ISOPROPYL MYRISTATE AVOCADO OIL SODIUM BENZOATE GLYCERIN XANTHAN GUM PALMITIC ACID CONJUGATED LINOLEIC ACID CHOLESTEROL PHENOXYETHANOL
+ask_doctor:
+  Stop using and ask doctor if: condition worsens symptoms last more than 7 days or clear up and occur again wtihin a few days
+other_safety_information:
+  Other Information Keep cap tightly closed when not in use. Store at room temperature.
+openfda:
+  application_number:
+    part347
+  brand_name:
+    MG217 Baby Eczema
+  generic_name:
+    COLLOIDAL OATMEAL
+  manufacturer_name:
+    Wisconsin Pharmacal Company
+  product_ndc:
+    68093-5105
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OATMEAL
+  spl_id:
+    5f0d0717-3ece-3aa7-e053-2991aa0a256e
+  spl_set_id:
+    5d65052d-2972-544d-e053-2a91aa0afa3e
+  package_ndc:
+    68093-5105-1
+  is_original_packager:
+    True
+  upc:
+    0012277051050
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    N0000185016
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    8PI54V663Y
+version:
+  2
+dosage_and_administration:
+  Directions Apply as needed, especially after bathing. Massage thoroughly into skin as colloidal oatmeal is slow to absorb.
+package_label_principal_display_panel:
+  Tube Label
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritation and itching due to eczema rash dermatitis
+set_id:
+  5d65052d-2972-544d-e053-2a91aa0afa3e
+id:
+  5f0d0717-3ece-3aa7-e053-2991aa0a256e
+active_ingredient:
+  Active Ingredient Colloidal Oatmeal (Oat Kernel Flour) 2%

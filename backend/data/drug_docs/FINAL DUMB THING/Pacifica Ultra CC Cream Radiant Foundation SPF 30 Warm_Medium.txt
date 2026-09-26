@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Pacifica Ultra CC Cream Radiant Foundation SPF 30 Warm/Medium Zinc Oxide ALOE BARBADENSIS LEAF JUICE XANTHAN GUM SODIUM BENZOATE STEARYL/OCTYLDODECYL CITRATE CROSSPOLYMER MAGNESIUM SULFATE VITIS VINIFERA FRUIT OIL ISOMALT POLYGLYCERYL-3 RICINOLEATE SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL LECITHIN, SOYBEAN DEXTRAN 1 CAPROOYL TETRAPEPTIDE-3 CRITHMUM MARITIMUM ZINC OXIDE ZINC OXIDE CI 77499 CRAMBE MARITIMA LEAF CUCUMIS SATIVUS (CUCUMBER) FRUIT HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL SODIUM HYALURONATE CI 77491 CAPRYLIC/CAPRIC TRIGLYCERIDE HYDROGENATED METHYL ABIETATE MALUS DOMESTICA FLOWER TREMELLA FUCIFORMIS FRUITING BODY POLYGLYCERYL-6 POLYRICINOLEATE GLYCERIN HYDROGENATED CASTOR OIL SORBITAN SESQUIOLEATE WATER COPPER TRIPEPTIDE-1 SILICA CAPRYLHYDROXAMIC ACID CI 77492 ETHYLHEXYLGLYCERIN GLYCERYL CAPRYLATE HYDROLYZED JOJOBA ESTERS
+active_ingredient:
+  Active ingredients Active ingredients Zinc Oxide 20%
+purpose:
+  Purpose Purpose Sunscreen
+indications_and_usage:
+  Uses Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer & early skin aging caused by the sun.
+dosage_and_administration:
+  Directions Directions Apply + reapply at least every 80 minutes. Sun protection measures. Spending time in the sun increases your risk of skin cancer & early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher & other sun protection measures including: -limit time in the sun, especially from 10 a.m. - 2 p.m. -wear long-sleeve shirts, pants, hats & sunglasses.
+warnings:
+  Warnings Warnings For external use only. Do not use on damaged or broken skin. Stop use & ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Can stain clothing. Keep away from clothes. Children under 6 months: ask a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children ​Keep out of reach of children.
+inactive_ingredient:
+  Inactive ingredients Inactive ingredients: aqua (eau), caprylic/capric triglyceride, aloe barbadensis leaf juice, polyglyceryl-3 polyricinoleate, glycerin, simmondsia chinensis (jojoba) seed oil, hydrogenated castor oil, sorbitan sesquioleate, hydrogenated methyl abietate, stearyl/octyldodecyl citrate crosspolymer, magnesium sulfate, cucumis sativus (cucumber) extract, malus domestica fruit cell culture extract, helianthus annuus (sunflower) seed oil, sodium hyaluronate, crithmum maritimum extract, crambe maritima leaf extract, vitis vinifera (grape) fruit cell extract, isomalt, lecithin, tremella fuciformis polysaccharide, dextran, caprooyl tetrapeptide-3, copper tripeptide-1, jojoba esters, polyglyceryl-6 polyricinoleate, fragrance (parfum), iron oxides (CI 77492), silica, caprylhydroxamic acid, glyceryl caprylate, ethylhexylglycerin, xanthan gum, sodium benzoate, iron oxides (CI 77491), iron oxides (CI 77499).
+storage_and_handling:
+  Other information Other information Protect this product from excessive heat & direct sun.
+questions:
+  Questions or comments? Questions or comments? https://support.pacificabeauty.com/en-US/contact Pacifica Beauty LLC Carpinteria, CA 93013
+package_label_principal_display_panel:
+  CC Cream SPF 30 Warm-Medium Carton CC Cream SPF 30 Warm-Medium Primary
+set_id:
+  36ec6c9d-f7dc-0419-e063-6294a90a55e6
+id:
+  36ec6c9d-f7dd-0419-e063-6294a90a55e6
+effective_time:
+  20250606
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Pacifica Ultra CC Cream Radiant Foundation SPF 30 Warm/Medium
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Pacifica Beauty, LLC
+  product_ndc:
+    61197-310
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    36ec6c9d-f7dd-0419-e063-6294a90a55e6
+  spl_set_id:
+    36ec6c9d-f7dc-0419-e063-6294a90a55e6
+  package_ndc:
+    61197-310-00
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

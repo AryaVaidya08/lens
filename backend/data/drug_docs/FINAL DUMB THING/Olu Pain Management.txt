@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  Olu Pain Management lidocaine and camphor TARTARIC ACID WATER BOSWELLIA SERRATA WHOLE METHYLPARABEN SODIUM POLYACRYLATE (8000 MW) PROPYLENE GLYCOL DIHYDROXYALUMINUM AMINOACETATE GLYCERIN ASCORBIC ACID ALPHA-TOCOPHEROL ALCOHOL CAMPHOR (NATURAL) CAMPHOR (NATURAL) LIDOCAINE LIDOCAINE ARNICA MONTANA FLOWER
+active_ingredient:
+  ACTIVE INGREDIENTS Lidocaine 4%
+  ACTIVE INGREDIENTS Camphor 1%
+purpose:
+  PURPOSE Local Anesthetic
+  PURPOSE Counterirritant
+indications_and_usage:
+  USES For the temporary relief of muscle pain and joint pain associated with: -Backache -Cramps -Soreness -Strains -Discomfort -Neckache
+warnings:
+  WARNINGS: FOR EXTERNAL USE ONLY
+spl_unclassified_section:
+  ALLERGY ALERT Local anesthetics may cause methemoglobinemia. If an allergic reaction occurs, stop use and seek medical attention immediately.
+  FLAMMABLE Keep away from excessive heat or open flame
+  OTHER INFORMATION -Store in a cool, dry place with pouch tightly closed. Keep from freezing. -If the tamper-evident foil seal is not intact, do not use
+  QUESTIONS OR COMMENTS info@olakinotherapeutics.com
+do_not_use:
+  DO NOT USE -On damaged, irritated, or infected skin -With a bandage or heating pad -If you are allergic to any ingredients in this product -In the eyes, nose, or mouth -Otherwise as directed
+when_using:
+  WHEN USING THIS PRODUCT Avoid contact with the eyes, nose, and mouth
+stop_use:
+  STOP USE AND ASK DOCTOR IF -Any of the warnings apply to you -Excessive skin irritation develops -Condition worsens -Symptoms persist for more than 7 days, or symptoms clear up and occur again within 3 days
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREASTFEEDING Ask a healthcare professional before use
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If ingested, seek medical help or contact Poison Control immediately
+dosage_and_administration:
+  DIRECTIONS Adults and Children 12 Years of Age and Older: -Clean and dry the affected area -Apply gel pad directly onto skin for up to 12 hours -Wash hands immediately after use -Gel pad can be cut into pieces and used on up to 2 body parts at a time -One application per day is recommended
+inactive_ingredient:
+  INACTIVE INGREDIENTS Arnica Extract, Boswellia Extract, Vitamin C, Vitamin E, Ethyl Alcohol, Propylene Glycol, Glycerol, Sodium Polyacrylate, Tartaric Acid, Dihydroxyaluminium Aminoacetate, Methylparaben, Water
+package_label_principal_display_panel:
+  pouch box
+set_id:
+  2a41a621-c6f7-5819-e063-6394a90ae67d
+id:
+  2d94d820-91eb-3b5e-e063-6394a90a1a42
+effective_time:
+  20250207
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Olu Pain Management
+  generic_name:
+    LIDOCAINE AND CAMPHOR
+  manufacturer_name:
+    Olakino Therapeutics LLC
+  product_ndc:
+    84991-0208
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    CUTANEOUS
+  substance_name:
+    CAMPHOR (NATURAL)
+    LIDOCAINE
+  rxcui:
+    2700664
+  spl_id:
+    2d94d820-91eb-3b5e-e063-6394a90a1a42
+  spl_set_id:
+    2a41a621-c6f7-5819-e063-6394a90ae67d
+  package_ndc:
+    84991-0208-1
+    84991-0208-5
+  is_original_packager:
+    True
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    N20HL7Q941
+    98PI200987

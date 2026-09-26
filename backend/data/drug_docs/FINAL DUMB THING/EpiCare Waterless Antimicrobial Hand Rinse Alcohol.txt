@@ -1,0 +1,35 @@
+effective_time:
+  20140421
+inactive_ingredient:
+  Inactive ingredients aminomethyl propanol, carbomer, fragrance, isopropyl alcohol, propylene glycol, water
+references:
+  Other information For emergency medical information in USA and Canada, call 1-800-328-0026 For emergency medical information worldwide, call 1-651-222-5352 (in the USA)
+purpose:
+  Purpose Antiseptic handwash
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only FLAMMABLE keep away from fire or flame, heat, sparks, and sources of static discharge When using this product avoid contact with eyes and mucous membranes if in eyes, rinse promptly and thoroughly with water discontinue use if irritation or redness develop Stop use and ask a doctor if irritation or redness occurs for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes and mucous membranes if in eyes, rinse promptly and thoroughly with water discontinue use if irritation or redness develop
+questions:
+  Questions? Call 1-800-332-6522
+spl_product_data_elements:
+  EpiCare Waterless Antimicrobial Hand Rinse Alcohol ALCOHOL ALCOHOL water
+ask_doctor:
+  Stop use and ask a doctor if irritation or redness occurs for more than 72 hours.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions apply onto hands and rub until dry
+package_label_principal_display_panel:
+  Principal Display Panel and Representative Label ECOLAB ® NDC 47593-270-24 EpiCare ® Waterless Antimicrobial Hand Rinse Active Ingredient: Ethyl alcohol, 70% Net Contents 32 fl oz/950 mL representative label
+indications_and_usage:
+  Uses antiseptic hand rinse
+set_id:
+  f280e942-30b1-4089-b4e5-53c36f4e2096
+id:
+  479e730a-406a-49c8-adcc-8dfbca9d67f3
+active_ingredient:
+  Active ingredient Ethyl Alcohol, 70%

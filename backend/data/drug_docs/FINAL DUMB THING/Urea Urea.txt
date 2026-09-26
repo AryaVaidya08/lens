@@ -1,0 +1,40 @@
+effective_time:
+  20140113
+contraindications:
+  CONTRAINDICATIONS: Known hypersensitivity to any of the listed ingredients.
+precautions:
+  PRECAUTIONS: This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use. PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Urea Ointment 50% should be given to a pregnant woman only if clearly needed. NURSING MOTHERS: It is not known whether or not this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Urea Ointment 50% is administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Urea Ointment 50% should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  NURSING MOTHERS: It is not known whether or not this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Urea Ointment 50% is administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+spl_product_data_elements:
+  Urea Urea UREA urea MEDIUM-CHAIN TRIGLYCERIDES CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) CETYL ALCOHOL EDETATE DISODIUM GLYCERIN HYDROXYETHYL CELLULOSE (4000 MPA.S AT 1%) LACTIC ACID LINOLEIC ACID POLYSORBATE 60 PROPYLENE GLYCOL WATER SORBITAN MONOSTEARATE TROLAMINE XANTHAN GUM PYRITHIONE ZINC POLYETHYLENE GLYCOL 300
+description:
+  DESCRIPTION: Urea Ointment 50% is a keratolytic emollient which is a gentle, yet potent, tissue softener for skin. Each gram of Urea Ointment 50% contains 50% Urea and the following inactive ingredients: caprylic/capric triglyceride, carbomer, cetyl alcohol, disodium EDTA, glycerin, hydroxyethylcellulose, lactic acid, linoleic acid, PEG-6, polysorbate 60, propylene glycol, purified water, sorbitan stearate, triethanolamine, vitamin E, xanthan gum and zinc pyrithione. Urea is a diamide of carbonic acid with the following chemical structure: Chemical Structure
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Apply Urea Ointment 50% to affected skin twice per day, or as directed by a physician.
+adverse_reactions:
+  ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+spl_unclassified_section:
+  In a vehicle containing vitamin E, lactic acid and zinc For external use only. Not for Ophthalmic, Oral or Intravaginal Use.
+how_supplied:
+  HOW SUPPLIED: Urea Ointment 50% is supplied as a 45 g (1.5 oz) tube, NDC 0168-0492-45. Store at controlled room temperature 20°-25° C (68°-77° F) with brief excursions between 15°-30° C (59°-86° F). Protect from freezing. Manufactured for: E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747 Manufactured by: Pegasus Laboratories, Inc. Pensacola, FL 32514 IL286A R5/08 ---------- How to properly use Fougera ® Rx only UREA OINTMENT 50% In a vehicle containing vitamin E, lactic acid and zinc Apply Urea Ointment to dry, roughened or thickened skin twice a day or as directed by a physician. For use on skin only. Avoid contact with eyes, mouth, and mucous membrane surfaces. See full product information on other side. ----------
+package_label_principal_display_panel:
+  PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1.5 oz TUBE LABEL NDC 0168-0492-45 Fougera ® UREA OINTMENT 50% Rx only Not for Ophthalmic, Oral or Intravaginal Use. NET WT. 1.5 oz (45 g) Tube Label
+  PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 1.5 oz CARTON NDC 0168-0492-45 Rx only Fougera ® UREA OINTMENT 50% For Topical Use Only NET WT. 1.5 oz (45 g) Carton Label
+pharmacokinetics:
+  PHARMACOKINETICS: The mechanism of action of topically applied Urea is not yet known.
+indications_and_usage:
+  INDICATIONS AND USES: For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis pilaris, keratosis palmaris, keratoderma, corns and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Urea gently dissolves the intercellular matrix, which results in loosening the horny layer of skin and shedding scaly skin at regular intervals, thereby softening hyperkeratotic areas. Urea also hydrates and gently dissolves the intercellular matrix of the nail plate, which can result in the softening and eventual debridement of the nail plate.
+set_id:
+  d4558477-adfa-4926-9f27-53d0f1c8f481
+id:
+  ebc2eaa2-20ec-4ee0-8fae-118db2d71a58

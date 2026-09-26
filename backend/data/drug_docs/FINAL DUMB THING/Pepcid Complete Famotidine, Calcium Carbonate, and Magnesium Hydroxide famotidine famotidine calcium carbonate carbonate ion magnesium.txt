@@ -1,0 +1,48 @@
+spl_product_data_elements:
+  Pepcid Complete Famotidine, Calcium Carbonate, and Magnesium Hydroxide famotidine famotidine calcium carbonate carbonate ion magnesium hydroxide hydroxide ion STARCH, CORN corn syrup crospovidone (120 .mu.m) dextrose, unspecified form FD&C yellow no. 5 aluminum oxide FD&C yellow no. 6 acacia hydroxypropyl cellulose, unspecified hypromellose, unspecified lactose monohydrate magnesium stearate maltodextrin mineral oil sucralose triacetin cellulose acetate P tropical fruit flavor
+spl_unclassified_section:
+  Drug Facts
+  Repackaged and distributed by: Select Corporation 1433 Wainwright Way, Carrollton, TX 75007, 877-244-4400, M-F 9am-5pm, from a product manufactured by JOHNSON & JOHNSON CONSUMER INC. Distributed by: JOHNSON & JOHNSON CONSUMER INC. McNeil Consumer Healthcare Division Fort Washington, PA 19034 USA
+active_ingredient:
+  Active ingredients (in each chewable tablet) Purposes Famotidine 10 mg Acid reducer Calcium carbonate 800 mg Antacid Magnesium hydroxide 165 mg Antacid
+active_ingredient_table:
+  <table width="70%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each chewable tablet)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Famotidine 10 mg</td><td>Acid reducer</td></tr><tr><td>Calcium carbonate 800 mg</td><td>Antacid</td></tr><tr><td>Magnesium hydroxide 165 mg</td><td>Antacid</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each chewable tablet) Purposes Famotidine 10 mg Acid reducer Calcium carbonate 800 mg Antacid Magnesium hydroxide 165 mg Antacid
+purpose_table:
+  <table width="70%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each chewable tablet)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Famotidine 10 mg</td><td>Acid reducer</td></tr><tr><td>Calcium carbonate 800 mg</td><td>Antacid</td></tr><tr><td>Magnesium hydroxide 165 mg</td><td>Antacid</td></tr></tbody></table>
+indications_and_usage:
+  Use relieves heartburn associated with acid indigestion and sour stomach
+warnings:
+  Warnings Allergy alert Do not use if you are allergic to famotidine or other acid reducers Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. with other acid reducers Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating, or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids and acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+do_not_use:
+  Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. with other acid reducers
+ask_doctor:
+  Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. heartburn with lightheadedness, sweating, or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain kidney disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids and acid reducers may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions adults and children 12 years and over: do not swallow tablet whole: chew completely to relieve symptoms, chew 1 tablet before swallowing do not use more than 2 chewable tablets in 24 hours children under 12 years: ask a doctor
+storage_and_handling:
+  Other information each tablet contains: calcium 320 mg; magnesium 70 mg read the directions and warnings before use keep the carton. It contains important information. store at 20°-25°C (68°-77°F) protect from moisture do not use if pouch is torn or damaged
+inactive_ingredient:
+  Inactive ingredients cellulose acetate, corn starch, crospovidone, D&C red no.7 calcium lake, dextrose excipient, FD&C blue no.1aluminum lake, FD&C red no.40 aluminum lake, flavors, gum arabic, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearrate, maltodextrin, mineral oil, modified starch, sucralose
+questions:
+  Questions or comments? 1-800-755-4008 (toll-free) or 215-273-8755 (collect)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 20 Packet Carton DUAL ACTION Pepcid ® Complete ® Acid Reducer + Antacid Famotidine 10mg–Acid reducer Calcium carbonate 800mg–Antacid Magnesium hydroxide 165mg–Antacid Just One Tablet! Relieves Heartburn Due to Acid Indigestion Berry Flavor 20 Packets of 1 Chewable Tablet PRINCIPAL DISPLAY PANEL - 20 Packet Carton
+set_id:
+  7f1903e6-e014-4a6e-86e1-38339f893ede
+id:
+  fba25037-8f64-4e0d-b2bd-cc1f307c01c6
+effective_time:
+  20220421
+version:
+  1
+openfda:

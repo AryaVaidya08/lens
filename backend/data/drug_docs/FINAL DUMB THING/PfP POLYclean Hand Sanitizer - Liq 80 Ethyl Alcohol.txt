@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  PfP POLYclean Hand Sanitizer - Liq 80 Ethyl Alcohol ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient [s] Ethyl Alcohol 80%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use [s] Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+do_not_use:
+  Do not use •In children less than 2 months of age •On open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions •Place enough product on hands to cover all surfaces. Rub hands together until dry. •Supervise children under 6 years of age when using this product to avoid swallowing.
+other_safety_information:
+  Other Information •Store between 15-30C (59-86F) •Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, sterile water
+package_label_principal_display_panel:
+  Product Labeling PfP INDUSTRIES Hand Sanitizer—Liquid 80 Alcohol Based Topical Solution Hand Sanitizer Non-Sterile Solution Net Weight: 325 gal Product of Texas PfP INDUSTRIES LOT Number : POLYclean Hand Sanitizer—Liquid 80 Made in Texas FLAMMABLE LIQUID 3 DOT: UN1993, 3, II, Flammable Liquid, n.o.s (contains ethanol) Percent Active Alcohol : 80% (v/v) Before handling this material, read ac- companied Safety Data Sheet for more detailed safety, health and environmen- tal data. PFP Industries LLC 34011 Sunset Lane Brookshire, TX 77423 Ph: 346 777 5215 res Front PfpDFacts
+set_id:
+  2ec95667-6b1d-4acc-9238-18092c089981
+id:
+  6f1caae1-e226-4f2d-b09a-3c838e075730
+effective_time:
+  20200518
+version:
+  1
+openfda:

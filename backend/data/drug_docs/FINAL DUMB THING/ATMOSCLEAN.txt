@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  ATMOSCLEAN SANITIZING Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM CITRIC ACID MONOHYDRATE WATER
+active_ingredient:
+  Benzalkonium Chloride 0.25%
+purpose:
+  Antibacterial
+indications_and_usage:
+  For sanitizing, decreasing bacteria, and deodorizing.
+warnings:
+  For external use only.
+do_not_use:
+  if you are allergic to any of the ingredients.
+when_using:
+  avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. avoid contact with broken or irritated skin.
+stop_use:
+  if irritation or redness develops and conditions persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  if swallowed, seek medical help or contact a Poison Control Center (1-800-222-1222).
+pregnancy_or_breast_feeding:
+  ask a health professional before use.
+dosage_and_administration:
+  Apply adequately to the desired area and allow particles to atomize and dissipate.
+inactive_ingredient:
+  Distilled Water, Citric Acid
+package_label_principal_display_panel:
+  Atmosclean Sanitizing Solution 1234.jpg
+set_id:
+  aa70f97e-c5bf-2dcc-e053-2995a90aeba4
+id:
+  aa70f654-3054-dd79-e053-2995a90a3872
+effective_time:
+  20200714
+version:
+  2
+openfda:

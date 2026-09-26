@@ -1,0 +1,23 @@
+effective_time:
+  20100209
+spl_product_data_elements:
+  MONSELS SOLUTION FERRIC SUBSULFATE FERRIC SUBSULFATE FERRIC SUBSULFATE
+description:
+  Enter section text here
+warnings_and_cautions:
+  It should not be used in vesicular, bullous, or exudative (oozing) dermatoses because it may then cause permanent pigmentation on the skin. May be harmful if swallowed. For external use only. If swallowed, do not induce vomiting unless directed to do so by medical personnel. Never give anything by mouth to an unconscious person. Loosen tight clothing such as a collar, tie, belt or waistband. Get medical attention immediately. Keep out of reach of children.
+openfda:
+version:
+  5
+spl_unclassified_section:
+  Single use only. Do not reuse. Discard after one use. Do not use if seal is broken.
+how_supplied:
+  Light-resistant 8 ml bottles.
+package_label_principal_display_panel:
+  Image of MONSELS Label
+indications_and_usage:
+  Used as a styptic in its undiluted form.
+set_id:
+  affe3884-a26d-4095-b077-64f6e7309b09
+id:
+  4e54728c-f319-4f6a-8c99-dd9969a4ab41

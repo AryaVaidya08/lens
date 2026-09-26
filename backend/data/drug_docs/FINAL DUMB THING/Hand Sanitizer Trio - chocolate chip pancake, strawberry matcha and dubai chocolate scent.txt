@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  Hand Sanitizer Trio - chocolate chip pancake, strawberry matcha and dubai chocolate scent ETHYL ALCOHOL hand sanitizer chocolate chip pancake scent ETHYL ALCOHOL ALCOHOL ALCOHOL WATER GLYCERIN DIPROPYLENE GLYCOL GLYCERETH-26 BUTYLENE GLYCOL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ALOE VERA LEAF JUICE PHENOXYETHANOL FD&C RED NO. 40 ALUMINUM LAKE D&C RED NO. 33 FD&C RED NO. 4 FD&C YELLOW NO. 5 ALUMINUM LAKE FD&C BLUE NO. 1 ALUMINUM LAKE hand sanitizer strawberry matcha scent ETHYL ALCOHOL ALCOHOL ALCOHOL WATER GLYCERIN DIPROPYLENE GLYCOL GLYCERETH-26 BUTYLENE GLYCOL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ALOE VERA LEAF JUICE PHENOXYETHANOL FD&C RED NO. 40 ALUMINUM LAKE D&C RED NO. 33 FD&C RED NO. 4 FD&C YELLOW NO. 5 ALUMINUM LAKE FD&C BLUE NO. 1 ALUMINUM LAKE hand sanitizer dubai chocolate scent ETHYL ALCOHOL ALCOHOL ALCOHOL WATER GLYCERIN DIPROPYLENE GLYCOL GLYCERETH-26 BUTYLENE GLYCOL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ALOE VERA LEAF JUICE PHENOXYETHANOL FD&C RED NO. 40 ALUMINUM LAKE D&C RED NO. 33 FD&C RED NO. 4 FD&C YELLOW NO. 5 ALUMINUM LAKE FD&C BLUE NO. 1 ALUMINUM LAKE
+spl_unclassified_section:
+  Drug Facts
+  Keep your hands clean and smelling delicious with this Hand Sanitizer Trio. Featuring three perfectly portable sanitizers designed to refresh and protect on the go. Set Contains: HAND SANITIZER 3 x 40 ML/1.35 FL.OZ EACH Distributed by: Diamond Life Cosmetics Trading FZCO Address: 6EA G09-SD02-Ground Floor-6 East A, Dubai, U.A.E. Questions or Comments call (877)711-8333 Made in China PHTHALATES FREE GLUTEN FREE PARABEN FREE WARNING: Cancer and Reproductive Harm www.P65Warnings.ca.gov
+active_ingredient:
+  Active Ingredient ETHYL ALCOHOL 70%
+purpose:
+  Purpose ANTISEPTIC
+indications_and_usage:
+  Uses • To decrease bacteria on the skin that could cause disease. • When water, soap and towel are not available. • Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product: • Keep out of eyes, ears, or mouth. • In case of eye contact, flush eyes thoroughly with water. • Avoid contact with broken skin. • Do not inhale or ingest. Stop use and ask a doctor if • Redness or irritation develop. • Condition persists for more than 72 hours. Keep out of reach of children. • Children should be supervised by an adult when using this product. • If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. • Children should be supervised by an adult when using this product. • If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Spray product in your palm and rub hands together until dry. • For children under 6, use only under adult supervision. • Not recommended for infants.
+storage_and_handling:
+  Other Information • Do not store above 105°F. • May discolor some fabrics. • Harmful to wood finishes and plastics.
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Dipropylene Glycol, Glycereth-26, Fragrance, Butylene Glycol, Leuconostoc/Radish Root Ferment Filtrate, Aloe Barbadensis Leaf Juice, Phenoxyethanol. May Contain: Red 40 Lake (CI 16035), Red 33 Lake (CI 17200), Red 4 Lake (CI 14700), Yellow 5 Lake (CI 19140:1), Blue 1 Lake (CI 42090:2).
+package_label_principal_display_panel:
+  Packaging HST-ccp,strawberrymatcha,dcscent
+set_id:
+  e0f22428-acd6-40b1-8059-a0fba2755886
+id:
+  85baa6dd-9320-4f55-a2f5-e53808f856d3
+effective_time:
+  20260821
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Hand Sanitizer Trio - chocolate chip pancake, strawberry matcha and dubai chocolate scent
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Diamond Life Cosmetics Trading FZCO
+  product_ndc:
+    87247-949
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1041849
+  spl_id:
+    85baa6dd-9320-4f55-a2f5-e53808f856d3
+  spl_set_id:
+    e0f22428-acd6-40b1-8059-a0fba2755886
+  package_ndc:
+    87247-949-03
+  is_original_packager:
+    True

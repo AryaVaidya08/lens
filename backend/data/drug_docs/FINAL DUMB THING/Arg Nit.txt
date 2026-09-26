@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Arg Nit SILVER NITRATE SUCROSE LACTOSE SILVER NITRATE SILVER CATION white
+active_ingredient:
+  ACTIVE INGREDIENTS ARG NIT 30C
+purpose:
+  USES To relieve the symptoms of impulsiveness.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: ARG NIT Impulsiveness
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of ARG NIT is 6x–30x, 3c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Label
+set_id:
+  e8c1ea8a-819e-4e93-b686-b9759938fd6b
+id:
+  01f2f5b7-1c84-1fb8-e063-6394a90a4bd2
+effective_time:
+  20230802
+version:
+  3
+openfda:

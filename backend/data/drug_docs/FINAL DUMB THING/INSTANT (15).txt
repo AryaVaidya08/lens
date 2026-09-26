@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  INSTANT HAND SANITIZER INSTANT HAND SANITIZER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE WATER ALCOHOL ALCOHOL GLYCERIN ALOE VERA LEAF PODOPHYLLUM RESIN TOCOPHEROL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 60%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Helps reduce bacteria on skin. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+do_not_use:
+  Do not use do not use in or near tile eyes
+when_using:
+  When using this product do not use in or near tile eyes. In case of contact, rinse eyes thoroughly with water. Do not use on open skin wounds. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Apply enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product.
+storage_and_handling:
+  Other information Do not store in temperature over 118°F.
+inactive_ingredient:
+  Water, Carbomer, Triethanolamine, Fragrance, Glycerine, Tocopherol (Vitamin E), Aloe Barbadensis Leaf Juice
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1 2 3
+set_id:
+  aa54f3ba-26e9-1644-e053-2995a90a3879
+id:
+  aa54be10-7047-3d7a-e053-2a95a90a2be2
+effective_time:
+  20200713
+version:
+  1
+openfda:

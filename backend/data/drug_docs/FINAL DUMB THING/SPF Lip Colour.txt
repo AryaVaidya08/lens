@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  SPF Lip Colour zinc oxide AVOCADO SEED BUTTER CI 77491 COCONUT OIL ORANGE OIL LIME OIL SHEA BUTTER RASPBERRY BROWN IRON OXIDE ZINC OXIDE ZINC OXIDE JOJOBA OIL CI 77492 STEVIA LEAF OLIVE OIL CASTOR OIL ALPHA-TOCOPHEROL POMEGRANATE SEED OIL BEESWAX
+active_ingredient:
+  Drug Facts Active Ingredients Zinc Oxide . . . . . . . . . . 20.4% Ingredient Section
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measure decreases the risk of skin cancer and early skin aging.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure. Reapply every 2 hours & after eating.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. Avoid eye contact. Rinse with water to remove. Stop using & ask health practitioner if rash occurs. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children.
+inactive_ingredient:
+  Inactive Ingredients Certified Organic Ricinus Communis (Castor) Oil, Certified Organic Cera Alba (Beeswax), Certified Organic Persea Gratissima (Avocado) Butter, Certified Organic Butyrospermum Parkii (Shea) Butter, All Natural Sustainable Olea Europaea (Olive) Emulsifier, Certified Organic Cocos Nucifera (Coconut) Oil, Certified Organic Olea Europaea (Olive) Oil, Certified Organic Simmondsia Chinensis (Jojoba) Oil, Certified Organic Punica Granatum (Pomegranate) Seed Oil, Certified Organic Vitamin E (Sunflower-derived) Oil, Wildcrafted Stevia, Certified Organic Citrus Sinensis (Sweet Orange) Essential Oil, Certified Organic Rubus Idaeus (Raspberry) Extract, Certified Organic Citrus Aurantifolia (Key Lime) Oil, Certified Organic Punica Granatum (Pomegranate) Extract (+/- Iron Oxides, Mica, Carmine, Manganese Violet)
+package_label_principal_display_panel:
+  Inactive Ingredients Certified Organic Ricinus Communis (Castor) Oil, Certified Organic Cera Alba (Beeswax), Certified Organic Persea Gratissima (Avocado) Butter, Certified Organic Butyrospermum Parkii (Shea) Butter, All Natural Sustainable Olea Europaea (Olive) Emulsifier, Certified Organic Cocos Nucifera (Coconut) Oil, Certified Organic Olea Europaea (Olive) Oil, Certified Organic Simmondsia Chinensis (Jojoba) Oil, Certified Organic Punica Granatum (Pomegranate) Seed Oil, Certified Organic Vitamin E (Sunflower-derived) Oil, Stevia, Certified Organic Citrus Sinensis (Sweet Orange) Essential Oil, Certified Organic Rubus Idaeus (Raspberry) Extract, Certified Organic Citrus Aurantifolia (Key Lime) Oil, Certified Organic Punica Granatum (Pomegranate) Extract (+/- Iron Oxides, Mica, Carmine, Manganese Violet) Package Label Principal Display Label
+set_id:
+  50b344b5-e39d-48ef-e063-6394a90ae41c
+id:
+  50b344b5-e39e-48ef-e063-6394a90ae41c
+effective_time:
+  20260430
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    SPF Lip Colour
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Lauren Brooke Cosmetiques, LLC
+  product_ndc:
+    87132-200
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    50b344b5-e39e-48ef-e063-6394a90ae41c
+  spl_set_id:
+    50b344b5-e39d-48ef-e063-6394a90ae41c
+  package_ndc:
+    87132-200-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

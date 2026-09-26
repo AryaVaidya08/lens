@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  5g Colgate plus Toothbrush plus Floss Kit SODIUM MONOFLUOROPHOSPHATE Colgate Anticavity SODIUM MONOFLUOROPHOSPHATE ANHYDROUS DIBASIC CALCIUM PHOSPHATE WATER SODIUM LAURYL SULFATE METHYL SALICYLATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM SODIUM PYROPHOSPHATE SACCHARIN SODIUM SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium monofluorophosphate 0.76% (0.15% w/v fluoride ion) Purpose Anticavity
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td> adults and children 2 years of age and older</td><td> brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr><td> children 2 to 6 years</td><td> use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td> children under 2 years</td><td> ask a dentist or physician </td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients dicalcium phosphate dihydrate, water, sorbitol, sodium lauryl sulfate, flavor, cellulose gum, tetrasodium pyrophosphate, sodium saccharin
+questions:
+  Questions or comments? Call to-free 1-800-468-6502
+package_label_principal_display_panel:
+  Package Labeling: Label Label2 Photo of Kit
+set_id:
+  6d6169eb-8b0b-422a-b33b-209bcfad02f0
+id:
+  ed9a7a87-0ed0-4303-e053-2a95a90aaad7
+effective_time:
+  20221116
+version:
+  6
+openfda:

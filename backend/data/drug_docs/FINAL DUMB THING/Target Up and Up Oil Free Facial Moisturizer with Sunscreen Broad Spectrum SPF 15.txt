@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Target Up and Up Oil Free Facial Moisturizer with Sunscreen Broad Spectrum SPF 15 AVOBENZONE, OCTISALATE, OCTOCRYLENE HEXAMETHYLDISILOXANE WATER GLYCERIN EDETATE DISODIUM CETOSTEARYL ALCOHOL PHENOXYETHANOL AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE CAPRYLYL GLYCOL ETHYLENE BRASSYLATE PEG-100 STEARATE CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) BUTYLOCTYL SALICYLATE OCTYLDODECYL NEOPENTANOATE POLYSORBATE 60 2,6-DIMETHYL-5-HEPTENAL ETHYLHEXYLGLYCERIN DIPROPYLENE GLYCOL GLYCERYL 1-STEARATE TROLAMINE
+active_ingredient:
+  Active ingredients Avobenzone 1.5%, Octisalate 5.0%, Octocrylene 6.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use • on damaged or broken skin.
+when_using:
+  When using this product • keep out of eyes. Rinse with water to remove.
+ask_doctor:
+  Stop use and ask a doctor if • rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months of age: Ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses
+other_safety_information:
+  Other information protect the product in this container from excessive heat and direct sun may stain or damage some fabrics, materials or surfaces
+inactive_ingredient:
+  Inactive ingredients water, octyldodecyl neopentanoate, glycerin, butyloctyl salicylate, cetearyl alcohol, polysorbate 60, glyceryl stearate, PEG-100 stearate, dimethicone, phenoxyethanol, ethylhexylglycerin, caprylyl glycol, carbomer, triethanolamine, disodium EDTA, ethylene brassylate, dipropylene glycol, dimethyl heptenal
+package_label_principal_display_panel:
+  Label 82651E7F8
+set_id:
+  f9027e42-017a-07fd-e053-6294a90ab916
+id:
+  24765719-3810-fe2a-e063-6394a90a9e99
+effective_time:
+  20241014
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Target Up and Up Oil Free Facial Moisturizer with Sunscreen Broad Spectrum SPF 15
+  generic_name:
+    AVOBENZONE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    TARGET CORPORATION
+  product_ndc:
+    11673-193
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    24765719-3810-fe2a-e063-6394a90a9e99
+  spl_set_id:
+    f9027e42-017a-07fd-e053-6294a90ab916
+  package_ndc:
+    11673-193-04
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4X49Y0596W
+    5A68WGF6WM

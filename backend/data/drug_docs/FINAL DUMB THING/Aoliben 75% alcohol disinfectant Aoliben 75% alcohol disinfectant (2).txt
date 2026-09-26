@@ -1,0 +1,27 @@
+effective_time:
+  20200922
+inactive_ingredient:
+  Purified water
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization
+warnings:
+  This product is for external use, not for internal use
+spl_product_data_elements:
+  Aoliben 75% alcohol disinfectant Aoliben 75% alcohol disinfectant ALCOHOL ALCOHOL WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Store in a cool, airtight place.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  1. Hygienic hand disinfection: evenly spray the disinfectant on the hand or rub it on the hand for 1 ~2 times, function for 1 minute, surgical hand disinfection and wipe for 2 times, about 3 minutes. 2. Skin disinfection: evenly spray the disinfectant on the surface of the object, keep it moist or wipe the surface of the object twice, effect for 3 minutes.
+set_id:
+  af03c598-54a7-2fe1-e053-2995a90a32b7
+id:
+  aff2828f-6500-7798-e053-2a95a90ac0e9
+active_ingredient:
+  Alcohol

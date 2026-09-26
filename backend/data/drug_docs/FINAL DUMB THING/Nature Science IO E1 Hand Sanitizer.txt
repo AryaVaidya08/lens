@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Nature Science IO E1 Hand Sanitizer GLYCERIN CARBOMER 940 WATER ALCOHOL ALCOHOL HYALURONATE SODIUM AMINOMETHYLPROPANOL ALPHA-TOCOPHEROL ACETATE PANTHENOL ALOE VERA LEAF
+active_ingredient:
+  Active Ingredient(s) Ethyl alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+when_using:
+  When using this product do not use in or near the eye. In case of contact with eyes, rinse thorougly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on your palm to cover all surfaces and rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Carbomer, Aminomethyl Propanol, Mentha Arvensis Leaf Oil, Tocopheryl Acetate, Panthenol, Sodium Hyaluronate, Aloe Barbadensis Leaf
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 76890-102-01 Label
+set_id:
+  a6b114e3-aeca-7b4d-e053-2995a90afd7e
+id:
+  a6b13387-fb37-658d-e053-2a95a90a5af5
+effective_time:
+  20200601
+version:
+  1
+openfda:

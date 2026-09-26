@@ -1,0 +1,47 @@
+effective_time:
+  20171221
+purpose:
+  Purpose Pain reliever/ fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+questions:
+  Questions or Comments? Call toll free 1-855-215-8180
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F)
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: the common cold headache backache minor pain of arthritis toothache muscular aches premenstrual and menstrual cramps temporarily reduces fever
+set_id:
+  291ee15a-316b-4f56-92dd-c994dd8155ab
+id:
+  60e1b2fb-646b-badf-e053-2a91aa0a9a55
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredient (in each softgel) Acetaminophen 500 mg
+dosage_and_administration_table:
+  <table ID="id_d9660161-7d96-40b8-a55f-2d685e60bfc0" width="435px" border="1"> <col width="25.3%"/> <col width="80.7%"/> <tbody> <tr> <td align="left" styleCode="Botrule Lrule Rrule Toprule"> <paragraph>Adults and children 12 years and over</paragraph> </td> <td align="left" styleCode="Botrule Rrule"> <list listType="unordered"> <item>take 2 softgels every 6 hours while symptoms last</item> <item>do not take more than 6 softgels in 24 hours unless directed by a doctor</item> <item>do not use for more than 10 days unless directed by a doctor</item> </list> </td> </tr> <tr> <td align="left" styleCode="Botrule Lrule Rrule Toprule"> <paragraph>Children 12 years </paragraph> </td> <td align="left" styleCode="Botrule Rrule"> <paragraph>ask a doctor</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients FD&C red #40, FD&C yellow #6, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol special and white edible ink
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  Pain Relief Extra Strength ACETAMINOPHEN FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOLS POVIDONE PROPYLENE GLYCOL WATER SORBITOL ACETAMINOPHEN ACETAMINOPHEN Clear Red oblong PC24
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions do not take more than directed (see Overdose warning ) Adults and children 12 years and over take 2 softgels every 6 hours while symptoms last do not take more than 6 softgels in 24 hours unless directed by a doctor do not use for more than 10 days unless directed by a doctor Children 12 years ask a doctor
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL EXTRA STRENGTH PAIN RELIEF ACETAMINOPHEN Aspirin free NDC 51013-107-25 Compare to the active ingredient in TYLENOL® Extra Strength Pain reliever/Fever reducer 40 Liquid Gels EXTRA STRENGTH PAIN RELIEF ACETAMINOPHEN Aspirin free NDC 51013-107-26 Compare to the active ingredient in TYLENOL® Extra Strength Pain reliever/Fever reducer 80 Liquid Gels CVS APAP 500mg 40ct CVS APAP 500mg 80ct
+overdosage:
+  Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.

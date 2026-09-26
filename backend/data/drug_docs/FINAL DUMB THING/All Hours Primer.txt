@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  All Hours Primer SPF 18 OCTINOXATE ROSA CENTIFOLIA FLOWER DISODIUM STEAROYL GLUTAMATE OCTINOXATE OCTINOXATE WATER DIMETHICONE ISODODECANE ALCOHOL BUTYLENE GLYCOL PEG-10 DIMETHICONE (600 CST) TITANIUM DIOXIDE PERLITE NYLON-12 LAURYL METHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER HEXAMETHYLENE DIISOCYANATE/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER BISMUTH OXYCHLORIDE BIS-PEG/PPG-14/14 DIMETHICONE MAGNESIUM SULFATE, UNSPECIFIED FORM PHENOXYETHANOL DISTEARDIMONIUM HECTORITE ALUMINUM HYDROXIDE DIPENTAERYTHRITYL TETRAHYDROXYSTEARATE/TETRAISOSTEARATE TOCOPHEROL PROPYLENE GLYCOL SILICON DIOXIDE FERRIC OXIDE RED BUTYLATED HYDROXYTOLUENE
+spl_unclassified_section:
+  Drug Facts
+  Other information protect the product in this container from excessive heat and direct sun
+active_ingredient:
+  Active ingredient Octinoxate 6.5% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ) , decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Flammable until dry. Avoid fire, flame and heat during application. Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: shake well before use apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeved shirts, pants, hats and sunglasses children under 6 months of age: Ask a doctor
+inactive_ingredient:
+  Inactive ingredients water, dimethicone, isododecane, alcohol, trimethylsiloxysilicate, butylene glycol, PEG-10 dimethicone, titanium dioxide, perlite, nylon-12, lauryl methacrylate/glycol dimethacrylate crosspolymer, HDI/trimethylol hexyllactone crosspolymer, bismuth oxychloride, BIS-PEG/PPG-14/14 dimethicone, magnesium sulfate, silica silylate, phenoxyethanol, disteardimonium hectorite, aluminum hydroxide, dipentaerythrityl tetrahydroxystearate/tetraisostearate, hydrogen dimethicone, tocopherol, propylene glycol, silica, iron oxides, BHT, synthetic fluorphlogopite, rosa centifolia flower extract, disodium stearoyl glutamate
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  1ebc2274-d52e-48d8-9f03-54444d3c2bd7
+id:
+  0bc82773-ef69-ef2a-e063-6394a90a9167
+effective_time:
+  20231205
+version:
+  4
+openfda:

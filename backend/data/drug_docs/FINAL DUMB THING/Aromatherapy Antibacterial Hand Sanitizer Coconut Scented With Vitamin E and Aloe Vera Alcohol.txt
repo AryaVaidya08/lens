@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Aromatherapy Antibacterial Hand Sanitizer Coconut Scented With Vitamin E and Aloe Vera Alcohol ALCOHOL ALCOHOL WATER CARBOMER COPOLYMER TYPE A AMINOMETHYLPROPANOL .ALPHA.-TOCOPHEROL ACETATE, DL- ALOE VERA LEAF
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Alcohol 65%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Decreases bacteria on hands
+warnings:
+  Warnings For external use only. Flammable. Keep product away from fire or flame. When using this product avoid contact with eyes. In case of contact flush eyes with water. Stop use and ask a doctor if irritation orredness develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Fragrance (Parfum), Aloe Barbadensis leaf Extract, Tocopheryl Acetate (Vitamin E)
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  cad56c19-28d4-415d-9661-2f2239346fa3
+id:
+  b7695a35-e771-4ece-8ad7-ee457b578e04
+effective_time:
+  20201112
+version:
+  1
+openfda:

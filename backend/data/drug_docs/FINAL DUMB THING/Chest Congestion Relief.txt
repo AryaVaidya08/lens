@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Chest Congestion Relief Guaifenesin Guaifenesin Guaifenesin MALTODEXTRIN STEARIC ACID SILICON DIOXIDE COPOVIDONE MAGNESIUM STEARATE PH063
+active_ingredient:
+  Active ingredient (per tablet) Guaifenesin 400mg
+purpose:
+  Purpose Expectorant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus helps make coughs more productive
+warnings:
+  Warnings Ask doctor before use if you have persistent or chronic cough, such as occurs with smoking, asthma, bronchitis or emphysema cough is accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask doctor if Symptoms are accompanied by fever, rash or persistent headache cough persists for more than 1 week or tends to recur A persistent cough may be a sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and over: take 1 tablet every 4 hours as needed Children 6 to 10 under 12 years of age: take 1/2 tablet every 4 hours as needed Children under 6 years of age: consult a doctor Do not exceed 6 doses in a 24 hour period or as directed by a doctor
+storage_and_handling:
+  Other Information store at 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients magnesium stearate, microcrystalline cellulose. May also contain (colloidal) silicon dioxide, (co) povidone, dicalcium phosphate, maltodextrin, sodium starch glycolate, stearic acid.
+package_label_principal_display_panel:
+  image of carton label
+set_id:
+  da6bd9df-aebe-4fe5-b20b-01bda3b9e7ee
+id:
+  6c8c7db1-ed1b-4499-ab97-296c6e8fac32
+effective_time:
+  20241218
+version:
+  4
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Chest Congestion Relief
+  generic_name:
+    GUAIFENESIN
+  manufacturer_name:
+    Strategic Sourcing Services LLC
+  product_ndc:
+    49348-729
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GUAIFENESIN
+  rxcui:
+    359601
+  spl_id:
+    6c8c7db1-ed1b-4499-ab97-296c6e8fac32
+  spl_set_id:
+    da6bd9df-aebe-4fe5-b20b-01bda3b9e7ee
+  package_ndc:
+    49348-729-09
+  is_original_packager:
+    True
+  upc:
+    0010939006448
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    495W7451VQ

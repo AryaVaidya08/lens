@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Alcohol Prep Pad Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70%v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For preparation of the skin prior to injection.
+warnings:
+  WARNINGS For External use only. Flammable,keep away from fire or flame. Do not use in the eyes,or on mucous membranes. Stop use and consult a doctor if irritation and redness develop,condition persists for more than 72 hours . keep out of reach of children In case of accidental ingestion, seek assistance or consult a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  keep out of reach of children In case of accidental ingestion, seek assistance or consult a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Wipe injection site vigorously and discard.
+inactive_ingredient:
+  Inactive ingredients purified water
+package_label_principal_display_panel:
+  section text here ruicheng
+set_id:
+  b9518619-779d-466b-949e-7ecaea1e570c
+id:
+  da8c66a5-0ede-c996-e053-2995a90ad4d2
+effective_time:
+  20220319
+version:
+  6
+openfda:

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Rite Aid Urinary Pain Relief PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE SHELLAC CROSCARMELLOSE SODIUM SODIUM STARCH GLYCOLATE TYPE A CORN LACTOSE MAGNESIUM SILICATE P95
+active_ingredient:
+  Active Ingredient Phenazopyridine Hydrochloride 95 mg
+purpose:
+  Purpose Urinary Analgesic
+indications_and_usage:
+  Uses fast relief from urinary pain,burning,urgency and frequency associated with urinary tract infections.
+warnings:
+  Warning Do not exceed recommended dosage
+ask_doctor:
+  Ask Doctor before use if you have ■ kidney disease ■ allergies to foods, preservatives or dyes ■ had a hypersensitive reaction to Phenazopyridine
+when_using:
+  When using this product ■ When using this product stomach upset may occur, taking this product with or after meals may reduce stomach upset ■ your urine will become reddish-orange in color. This is not harmful, but care should be taken to avoid staining clothing or other items.
+stop_use:
+  Stop use and ask a doctor if ■ your symptoms last for more than 2 days ■ you suspect you are having an adverse reaction to the medication
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children in case of an overdose,get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Adults and children 12 and over: take 2 tablets 3 times daily with a full glass of water, with or after meals as needed ■ Children under 12: consult a doctor ■ Do not use for more than 2 days (12 tablets) without consulting a doctor
+inactive_ingredient:
+  Inactive Ingredients lactose, magnesium silicate, magnesium stearate, microcrystalline cellulose, pharmaceutical glaze, and sodium starch glycolate. May also contain: corn starch, croscarmellose sodium, polyvinylpyrrolidone, pregelatinized starch and silicon dioxide. image of carton
+package_label_principal_display_panel:
+  
+set_id:
+  d0450774-9cf0-4453-9d18-30880e125a44
+id:
+  bc9f6be7-f06d-4d03-8747-759b9410e9f5
+effective_time:
+  20241218
+version:
+  5
+openfda:
+  brand_name:
+    Rite Aid Urinary Pain Relief
+  generic_name:
+    PHENAZOPYRIDINE HYDROCHLORIDE
+  manufacturer_name:
+    Rite Aid
+  product_ndc:
+    11822-8855
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PHENAZOPYRIDINE HYDROCHLORIDE
+  rxcui:
+    1094126
+  spl_id:
+    bc9f6be7-f06d-4d03-8747-759b9410e9f5
+  spl_set_id:
+    d0450774-9cf0-4453-9d18-30880e125a44
+  package_ndc:
+    11822-8855-6
+  is_original_packager:
+    True
+  upc:
+    0011822885560
+  unii:
+    0EWG668W17

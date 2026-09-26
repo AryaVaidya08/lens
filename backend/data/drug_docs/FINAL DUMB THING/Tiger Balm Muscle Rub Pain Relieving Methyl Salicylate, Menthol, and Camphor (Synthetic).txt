@@ -1,0 +1,42 @@
+effective_time:
+  20181217
+inactive_ingredient:
+  Inactive Ingredients Diazolidinyl Urea, Glycerin, Methyl Glucose Dioleate, Methyl Paraben, Poly (Methyl Vinyl Ether / Maleic Anhydride) Decadiene Crosspolymer, Propyl Paraben, Propylene Glycol, Purified Water, Triethanolamine.
+purpose:
+  Active Ingredients Purpose Methyl Salicylate 15% Topical Analgesic Menthol 5% Topical Analgesic Camphor 3% Topical Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only When using this product Use only as directed Avoid contact with eyes and mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with wrap or use heating pad Do not use 1 hour prior to bathing or within 30 minutes after bathing. Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Pain clears up and then recurs a few days later. If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product Use only as directed Avoid contact with eyes and mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with wrap or use heating pad Do not use 1 hour prior to bathing or within 30 minutes after bathing.
+spl_product_data_elements:
+  Tiger Balm Muscle Rub Pain Relieving Methyl Salicylate, Menthol, and Camphor (Synthetic) DIAZOLIDINYL UREA GLYCERIN METHYL GLUCOSE DIOLEATE METHYLPARABEN PROPYLPARABEN PROPYLENE GLYCOL WATER TROLAMINE METHYL SALICYLATE SALICYLIC ACID MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC)
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions For adults and children over 12 years of age, rub well on the affected area. Repeat 3 to 4 times daily For children 12 years of age or younger, consult a doctor before use.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Manufactured by OLIC (Thailand) Limited for Haw Par Healthcare Ltd., Singapore under licence from Haw Par Corporation Ltd.
+stop_use:
+  Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Pain clears up and then recurs a few days later.
+storage_and_handling:
+  Other Information Allergy alert: If prone to allergic reaction from aspirin or salicylates, consult doctor before use This product may cause allergic reaction on some individuals. Test on small area before use Store at room temperature.
+active_ingredient_table:
+  <table width="45%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Methyl Salicylate 15%</td> <td>Topical Analgesic</td> </tr> <tr> <td>Menthol 5%</td> <td>Topical Analgesic</td> </tr> <tr> <td>Camphor 3%</td> <td>Topical Analgesic</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 57 G Tube Box NDC 66761-122-60 TIGER BALM ® MUSCLE RUB Pain Relieving Cream Temporary relief of minor aches and pains Effective for pre-exercise warm-up • Non-Greasy • Easy to Apply NET WT. 2 OZ. (57G) Principal Display Panel - 57 G Tube Box
+indications_and_usage:
+  Uses For temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthritis, bruises, strains and sprains.
+set_id:
+  24385c6e-11d8-4573-ab23-7ad0fa981a84
+id:
+  7d3d60e3-2d1b-6e05-e053-2991aa0add6e
+purpose_table:
+  <table width="45%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Methyl Salicylate 15%</td> <td>Topical Analgesic</td> </tr> <tr> <td>Menthol 5%</td> <td>Topical Analgesic</td> </tr> <tr> <td>Camphor 3%</td> <td>Topical Analgesic</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Methyl Salicylate 15% Topical Analgesic Menthol 5% Topical Analgesic Camphor 3% Topical Analgesic

@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Staphysagria 200C Staphysagria DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED ALCOHOL WATER
+active_ingredient:
+  ACTIVE INGREDIENTS (HPUS*): Staphysagria 200C
+indications_and_usage:
+  USES: Temporarily relieves pain in the small of the back, and is worse in the morning upon rising.**
+purpose:
+  USES: Temporarily relieves pain in the small of the back, and is worse in the morning upon rising.**
+dosage_and_administration:
+  DIRECTIONS: Adults & children above 12 years: 10 drops orally 3 times daily, or as directed by a health care professional.
+keep_out_of_reach_of_children:
+  KEEP OUT OF THE REACH OF CHILDREN . In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS: Consult a physician for use in children under 12 years of age. IF PREGNANT OR BREAST-FEEDING , ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN. In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away. Do not use if TAMPER EVIDENT seal is broken or missing.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Ethyl Alcohol USP, Purified Water
+questions:
+  QUESTIONS & COMMENTS? Natural Creations, Inc. / Woodbine, IA 51579 / 712-647-1600
+references:
+  *The letters "HPUS" indicate the components in the product are officially monographed in the Homeopathic Pharmacopeia of the United States. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+package_label_principal_display_panel:
+  NDC:43406-0346-1 Staphysagria 200C HOMEOPATHIC 1 fl oz (30mL) / 20% Alcohol image description
+set_id:
+  f805354b-3b7e-4f3c-89ca-186a9632de0f
+id:
+  9ab5b920-526e-4e53-af6f-fc3febbfa14d
+effective_time:
+  20181221
+version:
+  1
+openfda:
+  brand_name:
+    Staphysagria 200C
+  generic_name:
+    STAPHYSAGRIA
+  manufacturer_name:
+    Natural Creations, Inc
+  product_ndc:
+    43406-0346
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DELPHINIUM STAPHISAGRIA SEED
+  spl_id:
+    9ab5b920-526e-4e53-af6f-fc3febbfa14d
+  spl_set_id:
+    f805354b-3b7e-4f3c-89ca-186a9632de0f
+  package_ndc:
+    43406-0346-1
+  is_original_packager:
+    True
+  unii:
+    00543AP1JV

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  ACNE THERAPY BENZOYL PEROXIDE WATER ALKYL (C12-15) BENZOATE UREA BUTYLENE GLYCOL CYCLOMETHICONE 5 MAGNESIUM ALUMINUM SILICATE STEARETH-20 PEG-100 STEARATE STARCH, CORN HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) SQUALANE POLYSORBATE 60 MATRICARIA CHAMOMILLA CAMELLIA OLEIFERA LEAF LECITHIN, SOYBEAN VITAMIN A PALMITATE TOCOPHEROL ASCORBYL PALMITATE .BETA.-CAROTENE ETHYLHEXYLGLYCERIN CETOSTEARYL ALCOHOL GLYCERIN CAPRYLYL GLYCOL DIMETHICONE STEARETH-2 PROPYLENE GLYCOL PANTHENOL EDETATE DISODIUM ANHYDROUS ALLANTOIN PHYTONADIONE BENZOYL PEROXIDE BENZOYL PEROXIDE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  ​Active Ingredient Benzoyl Peroxide 3% ​Purpose Acne Treatment
+purpose:
+  ​Purpose Acne Treatment
+indications_and_usage:
+  ​Uses for the treatment and prevention of acne
+warnings:
+  ​Warnings ​For external use only. Do not use: If you have very sensitive skin or sensitive to benzoyl peroxide. ​When using this product: Apply to affected areas only. Avoid unnecessary sun exposure and use a sunscreen. Do not use in or near the eyes, lips or mouth. This product may bleach hair or dyed fabrics. Using other topical acne medications at the same time or right after use of this product may increase dryness or irritation of the skin. Discontinue use and ask a doctor if skin irritation becomes severe or if you are using more than one acne medication. Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+do_not_use:
+  Do not use: If you have very sensitive skin or sensitive to benzoyl peroxide.
+when_using:
+  ​When using this product: Apply to affected areas only. Avoid unnecessary sun exposure and use a sunscreen. Do not use in or near the eyes, lips or mouth. This product may bleach hair or dyed fabrics. Using other topical acne medications at the same time or right after use of this product may increase dryness or irritation of the skin.
+stop_use:
+  Discontinue use and ask a doctor if skin irritation becomes severe or if you are using more than one acne medication.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  ​Directions: Shake before using. Apply to clean skin. Cover the affected area with a thin layer 1 to 3 times daily. Because too much drying of the skin may occur, start with 1 application daily or every other day, then gradually increase to 2 to 3 times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce applicaction once a day or every other day. If going outside, allow product to dry, then use a sunscreen. Store at 20-25 ​C (68-77 ​F) ​o ​o
+inactive_ingredient:
+  ​Inactive Ingredients Aqua purificata (purified water), C12-15 Alkyl Benzoate, Urea, Butylene Glycol, Cyclopentasiloxane, Magnesium aluminum silicated, Steareth-20, Peg-100 stearate, Zea mays (corn) starch, Hydroxyethyl acrylate/sodium acryloydimethyl, Taurate copolymer, Squalane, Polysorbate 60, Chamomilla recutita (matricaria) extract, Camellia oleifera leaf extract, Phospholipids, Retinyl palmitate, Tocopherol, Ascorbyl palmitate, Beta-carotene, Ethylhexylglycerin, Cetearyl alcohol, Glycerin, Caprylyl glycol, Dimethicone, Acrylates/C10-30 alkyl acrylate crosspolymer, Steareth-2, Butylene Glycol, Propylene glycol, Panthenol, Disodium EDTA, Allantoin, Phytonadione.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  4dec259d-200e-44f2-e054-00144ff8d46c
+id:
+  09db5d2c-d37b-582f-e063-6294a90ae762
+effective_time:
+  20231111
+version:
+  2
+openfda:
+  application_number:
+    M006
+  brand_name:
+    ACNE THERAPY
+  generic_name:
+    BENZOYL PEROXIDE
+  manufacturer_name:
+    menScience Androceuticals, LLC
+  product_ndc:
+    71397-822
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZOYL PEROXIDE
+  rxcui:
+    1548871
+  spl_id:
+    09db5d2c-d37b-582f-e063-6294a90ae762
+  spl_set_id:
+    4dec259d-200e-44f2-e054-00144ff8d46c
+  package_ndc:
+    71397-822-55
+  is_original_packager:
+    True
+  upc:
+    0185219000352
+  unii:
+    W9WZN9A0GM

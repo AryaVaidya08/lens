@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  BORAX BORAX LACTOSE SUCROSE SODIUM BORATE BORATE ION
+active_ingredient:
+  ACTIVE INGREDIENT HPUS BORAX 1X (Sodium Borate)
+purpose:
+  MOUTH SORES
+indications_and_usage:
+  USE For self-limiting condition listed above or as directed by a health professional.
+warnings:
+  WARNINGS Do not use if pellet-dispenser seal is broken. Stop use and ask a doctor if symptoms persist more than 3 days or worsen. Keep out of reach of children. If pregnant or breast-feeding , ask a health professional before use.
+do_not_use:
+  Do not use if pellet-dispenser seal is broken.
+stop_use:
+  Stop use and ask a doctor if symptoms persist more than 3 days or worsen.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+dosage_and_administration:
+  DIRECTIONS Adults: Allow 3 or 4 pellets to dissolve in the mouth 3 times a day until symptoms are relieved or as directed by a health professional.
+storage_and_handling:
+  OTHER INFORMATION Store at room temperature.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Lactose, sucrose.
+questions:
+  QUESTIONS? 1-800-404-4666
+references:
+  The letters 'HPUS' indicate that the component in this product is officially monographed in the Homeopathic Pharmacopoeia of the United States. These claims have not been reviewed by the Food and Drug Administration. They are based on traditional homeopathic practice.
+description:
+  80 Pellets Pellet dispenser Mfd for: HOMEOLAB USA INC., 3025 De L`Assomption, Montreal, QC, H1N 2H2, CANADA Product of Canada
+package_label_principal_display_panel:
+  LABEL image of tube label
+set_id:
+  093a2741-13e0-4db2-b6b2-db64894ce56c
+id:
+  471a41c1-de1b-e1e2-e063-6294a90a53d6
+effective_time:
+  20251229
+version:
+  2
+openfda:

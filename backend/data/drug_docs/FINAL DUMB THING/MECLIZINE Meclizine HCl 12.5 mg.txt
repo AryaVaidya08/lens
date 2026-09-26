@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  MECLIZINE Meclizine HCl 12.5 mg MECLIZINE HYDROCHLORIDE MECLIZINE CROSCARMELLOSE SODIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE STEARIC ACID CAPSULE SHAPED TABLET PH049
+active_ingredient:
+  Active ingredient (in each caplet) Meclizine HCl 12.5mg
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Uses prevents and treats nausea, vomiting or dizziness associated with motion sickness
+warnings:
+  Warnings Do not use for children under 12 years of age unless directed by a doctor. Do not take unless directed by a doctor if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Do not take if you are taking sedatives or tranquilizers, without first consulting your doctor. When using this product do not exceed recommended dosage drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not exceed recommended dosage drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions dosage should be taken 1 hour before travel starts Adults and children 12 years and over take 2 or 4 caplets once daily or as directed by doctor
+dosage_and_administration_table:
+  <table width="60%" border="5"> <tbody> <tr styleCode="First Last"> <td>Adults and children 12 years and over</td> <td> <paragraph>take 2 or 4 caplets once daily or as directed by doctor</paragraph> </td> </tr> </tbody> </table>
+storage_and_handling:
+  Other information Tamper Evident: do not use if safety seal under cap is broken or missing store at room temperature 20°-25°C (68°-77°F)
+inactive_ingredient:
+  Inactive ingredients Croscarmellose sodium, dicalcium phosphate, magnesium stearate, microcrystalline cellulose, silicon dioxide, stearic acid
+questions:
+  Questions? Adverse drug event call (866) 562-2756 (M - F, 8AM - 4PM EST).
+how_supplied:
+  HOW SUPPLIED Product: 50090-3017 NDC: 50090-3017-3 30 TABLET in a BOTTLE NDC: 50090-3017-7 28 TABLET in a BOTTLE NDC: 50090-3017-8 90 TABLET in a BOTTLE
+package_label_principal_display_panel:
+  Meclizine HCl 12.5 mg Label Image
+set_id:
+  99b87792-f0b8-458f-9316-0d0c9e1d1684
+id:
+  24caca80-ce37-4f99-93f0-cfa90d5846bc
+effective_time:
+  20200512
+version:
+  3
+openfda:

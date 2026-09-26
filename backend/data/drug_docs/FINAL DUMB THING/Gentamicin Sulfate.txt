@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Gentamicin Sulfate Gentamicin Sulfate GENTAMICIN SULFATE GENTAMICIN ISOPROPYL MYRISTATE PROPYLENE GLYCOL PROPYLENE GLYCOL MONOPALMITOSTEARATE POLYSORBATE 40 WATER SORBITOL STEARIC ACID METHYLPARABEN BUTYLPARABEN
+spl_unclassified_section:
+  Rx Only For Dermatologic Use Only Not For Ophthalmic Use
+  Manufactured by Padagis ® Yeruham, Israel www.padagis.com Rev 01-23 7J200 RC PH1
+description:
+  DESCRIPTION Gentamicin Sulfate Cream USP, 0.1% is a wide spectrum antibiotic preparation for topical administration. Each gram of Gentamicin Sulfate Cream USP, 0.1% contains Gentamicin Sulfate USP equivalent to 1 mg of gentamicin base in a cream base of isopropyl myristate, propylene glycol, propylene glycol monostearate, polysorbate 40, purified water, sorbitol solution, and stearic acid, with methylparaben and butylparaben as preservatives.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Gentamicin Sulfate is a wide spectrum antibiotic that provides highly effective topical treatment in primary and secondary bacterial infections of the skin. Gentamicin Sulfate Cream USP, 0.1% may clear infections that have not responded to other topical antibiotic agents. In primary skin infections such as impetigo contagiosa, treatment three or four times daily with Gentamicin Sulfate Cream USP, 0.1% usually clears the lesions promptly. In secondary skin infections, Gentamicin Sulfate Cream USP, 0.1% aids in the treatment of the underlying dermatosis by controlling the infection. Bacteria susceptible to the action of gentamicin sulfate include sensitive strains of Streptococci (group A beta-hemolytic, alpha-hemolytic), Staphylococcus aureus (coagulase positive, coagulase negative, and some penicillinase-producing strains), and the gram-negative bacteria, Pseudomonas aeruginosa, Aerobacter aerogenes, Escherichia coli, Proteus vulgaris and Klebsiella pneumoniae .
+indications_and_usage:
+  INDICATIONS AND USAGE Primary skin infections: Impetigo contagiosa, superficial folliculitis, ecthyma, furunculosis, sycosis barbae, and pyoderma gangrenosum. Secondary skin infections: Infectious eczematoid dermatitis, pustular acne, pustular psoriasis, infected seborrheic dermatitis, infected contact dermatitis (including poison ivy), infected excoriations, and bacterial superinfections of fungal or viral infections. Please Note: Gentamicin Sulfate is a bactericidal agent that is not effective against viruses or fungi in skin infections. It is useful in the treatment of infected skin cysts and certain other skin abscesses when preceded by incision and drainage to permit adequate contact between the antibiotic and the infecting bacteria. Good results have been obtained in the treatment of infected stasis and other skin ulcers, infected superficial burns, paronychia, infected insect bites and stings, infected lacerations and abrasions, and wounds from minor surgery. Patients sensitive to neomycin can be treated with Gentamicin Sulfate, although regular observation of patients sensitive to topical antibiotics is advisable when such patients are treated with any topical antibiotic. Gentamicin Sulfate Cream USP, 0.1% is recommended for wet, oozing primary infections, and greasy, secondary infections, such as pustular acne or infected seborrheic dermatitis. Gentamicin sulfate ointment helps retain moisture and has been useful in infection on dry eczematous or psoriatic skin. If a water-washable preparation is desired, the cream is preferable. Gentamicin Sulfate Cream USP, 0.1% has been used successfully in infants over one year of age, as well as in adults and children.
+contraindications:
+  CONTRAINDICATIONS This drug product is contraindicated in individuals with a history of sensitivity to any of its components.
+precautions:
+  PRECAUTIONS The use of topical antibiotics occasionally allows overgrowth of nonsusceptible organisms, including fungi. If this occurs, or if irritation, sensitization, or superinfection develops, treatment with Gentamicin Sulfate should be discontinued and appropriate therapy instituted.
+adverse_reactions:
+  ADVERSE REACTIONS In patients with dermatoses treated with Gentamicin Sulfate, irritation (erythema and pruritus) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with Gentamicin Sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of Gentamicin Sulfate followed by exposure to ultraviolet radiation.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION A small amount of Gentamicin Sulfate Cream USP, 0.1% should be applied gently to lesions three or four times a day. The area treated may be covered with a gauze dressing if desired. In impetigo contagiosa, the crusts should be removed before application of Gentamicin Sulfate Cream USP, 0.1% to permit maximum contact between the antibiotic and the infection. Care should be exercised to avoid further contamination of the infected skin. Infected stasis ulcers have responded well to Gentamicin Sulfate under gelatin packing.
+how_supplied:
+  HOW SUPPLIED Gentamicin Sulfate Cream USP, 0.1% is available as follows: 15 g tube (NDC 45802- 056 -35) 30 g tube (NDC 45802- 056 -11)
+storage_and_handling:
+  STORAGE Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature].
+package_label_principal_display_panel:
+  Principal Display Panel - 15 g Cream Carton NDC 45802-056-35 Rx Only Gentamicin Sulfate Cream USP, 0.1% NET WT 15 g The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation. gentamycin sulfate cream carton serialization-template.jpg
+set_id:
+  4cfbe37e-11d6-46fc-b287-0561387b17b7
+id:
+  11688357-e569-4785-a313-18115f24c5bb
+effective_time:
+  20230131
+version:
+  13
+openfda:
+  application_number:
+    ANDA062307
+  brand_name:
+    Gentamicin Sulfate
+  generic_name:
+    GENTAMICIN SULFATE
+  manufacturer_name:
+    Padagis Israel Pharmaceuticals Ltd
+  product_ndc:
+    45802-056
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    TOPICAL
+  substance_name:
+    GENTAMICIN SULFATE
+  rxcui:
+    197735
+  spl_id:
+    11688357-e569-4785-a313-18115f24c5bb
+  spl_set_id:
+    4cfbe37e-11d6-46fc-b287-0561387b17b7
+  package_ndc:
+    45802-056-35
+    45802-056-11
+  is_original_packager:
+    True
+  unii:
+    8X7386QRLV

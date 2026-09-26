@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Stomach Relief Maximum Strength BISMUTH SUBSALICYLATE BISMUTH SUBSALICYLATE SALICYLIC ACID BENZOIC ACID D&C RED NO. 22 D&C RED NO. 28 WATER SACCHARIN SODIUM SALICYLIC ACID SODIUM SALICYLATE XANTHAN GUM
+spl_unclassified_section:
+  Drug Facts
+  Allergy alert: Contains salicylate. Do not take if you are ■ allergic to salicylates (including aspirin) ■ taking other salicylate products
+active_ingredient:
+  Active ingredient (In each 30 mL dose cup or 2 tablespoons) Bismuth subsalicylate 1050 mg
+purpose:
+  Purposes Bismuth subsalicylate .............. Upset stomach reliever and antidiarrheal
+indications_and_usage:
+  Uses relieves ■ travelers' diarrhea ■ diarrhea ■ upset stomach due to overindulgence of food and drink including: ■ heart burn ■ indigestion ■ nausea ■ gas ■ belching
+warnings:
+  Warnings Reye's syndrome : Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness.
+do_not_use:
+  Do not use if you have ■ an ulcer ■ a bleeding problem ■ black or bloody stool
+ask_doctor:
+  Ask a doctor before use if you have ■ fever ■ mucus in stool
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any drug for ■ anticoagulation (thinning of the blood) ■ diabetes ■ gout ■ arthritis
+when_using:
+  When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur
+stop_use:
+  Slop use and ask a doctor if ■ diarrhea lasts more than 2 days ■ symptoms get worse or last more than 2 days ■ ringing in the ears or loss of hearing occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions. ■ Shake well before use ■ use dose cup or tablespoon (TBSP) ■ adults and children 12 years and over: 1 dose (30 mL or 2 TBSP) every 1 hour as needed ■ do not exceed 4 doses (120 mL or 8 TBSP) in 24 hours ■ use until diarrhea stops but not more than 2 days ■ children under 12 years: ask a doctor ■ drink plenty of clear fluids to help prevent dehydration caused by diarrhea
+other_safety_information:
+  Other information ■ each 30 mL dose cup contains: ■sodium 13 mg, salicylate 455 mg ■ protect from freezing ■ avoid excessive heat (over 104°F or 40°C) ■ low sodium
+inactive_ingredient:
+  Inactive ingredients benzoic acid, D&C red # 22, D&C red # 28, flavor, purified water, saccharin sodium, salicylic acid, sodium salicylate, xanthan gum
+questions:
+  Questions? 1-877-798-5944
+package_label_principal_display_panel:
+  Principal Display Panel MARKET BASKET ® "MORE FOR YOUR DOLLAR" *COMPARE TO The active ingredient in PEPTO-BISMOL™ Maximum Strength Stomach Relief↓ MAXIMUM STRENGTH Bismuth Subsalicylate Antidiarrheal / Upset Stomach Reliever 5 Symptom Relief of: • Nausea • Upset Stomach • Heartburn • Diarrhea • Indigestion 8 FL OZ (237 mL) TAMPER EVIDENT: Do not use if imprinted shrinkband is missing or broken *This product is not manufactured or distributed by Procter & Gamble, Inc., the distributor of Pepto-Bismol™ ​. DISTRIBUTED BY Made in USA DEMOULAS SUPERMARKETS INC. LR·089 REV01 875 EAST STREET TEWKSBURY, MA 01876 0 49705 73076 8 PEEL HERE ↓Principal Display Label↓ Stomach Relief, Maximum Strength by Market Basket ® res 53942-558-26 Max 8OZ
+set_id:
+  b2d55045-d4a4-4167-a20c-42932f35bab2
+id:
+  9c832971-fd38-4183-acd5-d520aae9c8f6
+effective_time:
+  20231229
+version:
+  2
+openfda:
+  application_number:
+    M008
+  brand_name:
+    Stomach Relief Maximum Strength
+  generic_name:
+    BISMUTH SUBSALICYLATE
+  manufacturer_name:
+    Demoulas Super Markets Inc
+  product_ndc:
+    53942-558
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BISMUTH SUBSALICYLATE
+  rxcui:
+    308763
+  spl_id:
+    9c832971-fd38-4183-acd5-d520aae9c8f6
+  spl_set_id:
+    b2d55045-d4a4-4167-a20c-42932f35bab2
+  package_ndc:
+    53942-558-26
+  is_original_packager:
+    True
+  nui:
+    M0002611
+    N0000180183
+  pharm_class_cs:
+    Bismuth [CS]
+  pharm_class_epc:
+    Bismuth [EPC]
+  unii:
+    62TEY51RR1

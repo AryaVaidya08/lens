@@ -1,0 +1,35 @@
+effective_time:
+  20120515
+inactive_ingredient:
+  Inactive ingredients Water (aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Propylene Glycol, PEG-8, Lanolin Oil, Tetrasodium EDTA, Citric Acid, Yellow 10 (CI 47005)
+purpose:
+  Purpose Preinjection Preparation
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use in the eyes on individuals who are allergic or sensitive to any of the ingredients listed When using this product keep away from area around eyes and mouth (oral mucosa). Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours you have symptoms that persists or worsen Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep away from area around eyes and mouth (oral mucosa).
+spl_product_data_elements:
+  PurKlenz CHLOROXYLENOL CHLOROXYLENOL CHLOROXYLENOL WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE COCO DIETHANOLAMIDE PROPYLENE GLYCOL POLYETHYLENE GLYCOL 400 EDETATE SODIUM CITRIC ACID MONOHYDRATE D&C YELLOW NO. 10
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Apply PurKlenz to skin prior to injection Allow 30 seconds minimum contact Repeat procedure Dry with sterile gauze
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours you have symptoms that persists or worsen
+storage_and_handling:
+  Other information Reseal container after use Avoid freezing Store between 4 C and 30 C (40 F and 86 F)
+do_not_use:
+  Do not use in the eyes on individuals who are allergic or sensitive to any of the ingredients listed
+package_label_principal_display_panel:
+  PurKlenz Topical Antiseptic For preparation of skin prior to injection For use by Body Art Professionals Designed for Body Art Topical Antimicrobial Moisturizes and Refreshes Skin Kills bacteria Helps reduce bacteria that potentially can cause skin infection DO NOT DILUTE 30 Fl. oz. (900 mL) Distributed by; Science Option laboratories Inc. 24 Jenkins Drive Richmond, ON L4C 8C5 container label
+indications_and_usage:
+  Uses For preparation of skin prior to injection Helps reduce bacteria that potentially can cause skin infection
+set_id:
+  42b9903c-11c5-4cc0-bdeb-d88927ecd624
+id:
+  2de03432-4c77-47b9-ab6d-00561b47e190
+active_ingredient:
+  Active ingredient Chloroxylenol 3%

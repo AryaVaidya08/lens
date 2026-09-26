@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  SHIERJIE 75% Alcohol Spraytype SHIERJIE 75% Alcohol Spraytype WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on skin.
+warnings:
+  Warnings Flammable Keep away from fire or flame, For external use only.When using this product,do not use in or near the eyes.In case of contact,rinse eyes thoroughly with water.Stop use and ask doctor if irritation or rash appears and lasts,Keep out of reach for children if swallowed,get medical help or contact a Poison Control Center right away.
+do_not_use:
+  
+when_using:
+  
+stop_use:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions Put enough product in your palm to cover hands and rub hands together until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store below 110°(43°C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water(Aqua)
+package_label_principal_display_panel:
+  Label LABEL
+set_id:
+  a21ce147-5e1d-2e18-e053-2a95a90a6f8a
+id:
+  b4be34bd-8a0b-9027-e053-2a95a90a5fd6
+effective_time:
+  20201122
+version:
+  2
+openfda:

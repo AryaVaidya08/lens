@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Zep Instant Hand Sanitizer Ethanol CARBOMER INTERPOLYMER TYPE A (55000 CPS) DIISOPROPANOLAMINE WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Alcohol 60%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Hand sanitizing to decrease bacteria on skin. Recommended for repeated use. No rinsing required.
+warnings:
+  Warnings Flammable. Keep away from fire, flame or spark. For external use only. . Do not use in the eye; if in eyes, rinse thoroughly with water.
+when_using:
+  When using this product Do not swallow. If swallowed, do not induce vomiting and if individual is conscious, give large quantity of water to drink and consult a physician immediately.
+stop_use:
+  Stop use and ask doctor Stop use and ask doctor if skin irritation or redness persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets Keep out of reach of children and pets. Children must be supervised in the use of this product.
+dosage_and_administration:
+  Directions Use pump and apply gel to hands. Rub hands together allowing liquid to contact all areas, especially around the nails and cuticles. Continue rubbing vigorously until hands are dry. No rinsing or toweling is required.
+other_safety_information:
+  Other information Store at 20 to 25°C (68 to 77°F). Dispose in accordance with all applicable federal, state and local regulations.
+inactive_ingredient:
+  Inactive ingredients Deionized Water, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Diisopropanolamine, Fragrance
+questions:
+  Questions or comments? Call 1-800-I-BUY-ZEP (1-800-428-9937)
+package_label_principal_display_panel:
+  878_1246 878_0878
+set_id:
+  bd7e3d4f-b397-4f39-9692-1a13f232eb71
+id:
+  07eab647-9708-ccc3-e063-6294a90a20b9
+effective_time:
+  20231020
+version:
+  18
+openfda:

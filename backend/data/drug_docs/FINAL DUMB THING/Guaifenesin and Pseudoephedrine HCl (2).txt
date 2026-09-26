@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Guaifenesin and Pseudoephedrine HCl Guaifenesin and Pseudoephedrine HCl GUAIFENESIN GUAIFENESIN PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE SILICON DIOXIDE HYPROMELLOSE 2208 (15000 MPA.S) MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE 101 MICROCRYSTALLINE CELLULOSE 102 POVIDONE K25 POVIDONE K90 STARCH, CORN white to off-white biconvex 64;X
+active_ingredient:
+  Active ingredients (in each extended-release tablet) Guaifenesin USP 600 mg Pseudoephedrine HCl USP 60 mg
+purpose:
+  Purposes Expectorant Nasal Decongestant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves nasal congestion due to: common cold hay fever upper respiratory allergies temporarily restores freer breathing through the nose promotes nasal and/or sinus drainage temporarily relieves sinus congestion and pressure
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+when_using:
+  When using this product do not use more than directed
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy, or sleepless symptoms do not get better within 7 days, come back or occur with a fever, rash, or persistent headache. These could be signs of a serious illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regard for timing of meals adults and children 12 years and older: 2 tablets every 12 hours; not more than 4 tablets in 24 hours children under 12 years of age: do not use
+storage_and_handling:
+  Other information tamper evident: do not use if carton is opened or if individual blister units are torn or opened. store at 20 to 25°C (68 to 77°F)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, pregelatinised starch (maize).
+questions:
+  Questions? 1-855-274-4122 (Monday – Friday 8:30 AM to 5:00 PM EST) You may also report side effects to this phone number. DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015 100 % SATISFACTION GUARANTEED walgeens.com ©2021 Walgreen Co. MADE IN INDIA Code: AP/DRUGS/04/2016
+package_label_principal_display_panel:
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg/60 mg (18 Tablet Carton Label) NDC 0363-9946-40 Walgreens Compare to the active Ingredients of Mucinex ® D †† Mucus Relief D GUAIFENESIN USP 600 mg / EXPECTORANT PSEUDOEPHEDRINE HCl USP 60 mg / NASAL DECONGESTANT EXTENDED-RELEASE TABLETS 12 Hour • Clears nasal/sinus congestion • Thins & loosens mucus 18 EXTENDED- RELEASE TABLETS PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg/60 mg (18 Tablet Carton Label)
+set_id:
+  cc1ac1b4-cbc4-539c-e053-2a95a90a5b75
+id:
+  d4c1a405-1f10-49fc-b85d-c452cf23347c
+effective_time:
+  20231201
+version:
+  3
+openfda:
+  application_number:
+    ANDA213203
+  brand_name:
+    Guaifenesin and Pseudoephedrine HCl
+  generic_name:
+    GUAIFENESIN AND PSEUDOEPHEDRINE HCL
+  manufacturer_name:
+    WALGREEN CO.
+  product_ndc:
+    0363-9946
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GUAIFENESIN
+    PSEUDOEPHEDRINE HYDROCHLORIDE
+  rxcui:
+    1305603
+  spl_id:
+    d4c1a405-1f10-49fc-b85d-c452cf23347c
+  spl_set_id:
+    cc1ac1b4-cbc4-539c-e053-2a95a90a5b75
+  package_ndc:
+    0363-9946-40
+    0363-9946-45
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    495W7451VQ
+    6V9V2RYJ8N

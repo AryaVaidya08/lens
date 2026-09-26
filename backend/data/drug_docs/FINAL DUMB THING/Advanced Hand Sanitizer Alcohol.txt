@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Advanced Hand Sanitizer Alcohol GLYCERIN PROPYLENE GLYCOL WATER CARBOMER 934 TROLAMINE ALPHA-TOCOPHEROL ACETATE ALOE VERA WHOLE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  NA
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin that may cause disease
+warnings:
+  Warnings For external use only Flammable. Keep away from heat and flame
+when_using:
+  When using this product aviod contact with face, eyes and broken skin. In case of contact, flush with plenty of water and seek medical advice
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub into skin until dry Children under 6 years of age should be supervised by an adult when using
+inactive_ingredient:
+  Inactive ingredients Water, triethanolamine, carbomer, aloe barbadensis (aloe vera) gel, fragrance, propylene glycol, glycerin, tocopheryl acetate (Vitamin E)
+package_label_principal_display_panel:
+  image description
+set_id:
+  a5ed40c3-ce8a-49b8-ac1a-6ba6d97f0c01
+id:
+  d4c89993-8974-2f2d-e053-2995a90a90d3
+effective_time:
+  20220104
+version:
+  2
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  ANTI-BACTERIAL HAND SANITIZER ANTI-BACTERIAL HAND SANITIZER GLYCERIN BUTYLENE GLYCOL WATER ALCOHOL ALCOHOL CARBOMER INTERPOLYMER TYPE A (55000 CPS) TROLAMINE ALOE VERA LEAF ARTEMISIA ARGYI LEAF SARGASSUM FUSIFORME CNIDIUM MONNIERI FRUIT
+active_ingredient:
+  Active Ingredient(s) Alcohol 75%V/V.
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Use to help reduce bac tera on skin
+warnings:
+  Warnings Flammable.Keep away from fire, flame and high heat. For external use only.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product, avoid contact with eyes.If contact occurs, rinse thoroughwater.Avoid contact wbroken skin.Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if irritation or redness occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets.If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions Dispense into hand, rub thoroughtidry.
+storage_and_handling:
+  Other information May discolor certain fabrics or surf ces. Do not store above 110°F(43°C).
+inactive_ingredient:
+  Inactive ingredients Water(Aqua), Glycerin, Butylene Glycol, Fagance (Parfum) , Acrylates/C10-30 Alkyl Acrylate crosspolymer, Triethanolamine, Aloe Barbadensis Leaf Extract, Artemisia Argyi Leaf Extract, Cnidium Monnieri Fruit Extract, Sargassum Fusiforme Extract
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 74620-047-01 236ml 74620-047-01 236ml
+set_id:
+  c21e2778-d3b3-123c-e053-2995a90af1af
+id:
+  f154605c-5012-05bb-e053-2995a90a5fc7
+effective_time:
+  20230102
+version:
+  3
+openfda:

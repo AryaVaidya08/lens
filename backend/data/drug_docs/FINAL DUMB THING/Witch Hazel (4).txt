@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Witch Hazel Witch Hazel ALCOHOL WITCH HAZEL WITCH HAZEL
+warnings:
+  Warnings For external use only When using this product avoid contact with the eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if condition worsens or symptoms last for more than 7 days Keep out of reach of children. If swallowed, get medical help or contact a Posion Control Center right away. MANUFACTURED BY: MEDICAL PRODUCTS LABORATORIES, INC. 9990 GLOBAL ROAD, PHILADELPHIA 19115 mplusa.com Questions or comments? Call 1-800-523-0191
+when_using:
+  When using this product avoid contact with the eyes. If contact occurs, rinse thoroughly with water.
+ask_doctor:
+  Stop use and ask a doctor if condition worsens or symptoms last for more than 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Posion Control Center right away.
+questions:
+  MANUFACTURED BY: MEDICAL PRODUCTS LABORATORIES, INC. 9990 GLOBAL ROAD, PHILADELPHIA 19115 mplusa.com Questions or comments? Call 1-800-523-0191
+package_label_principal_display_panel:
+  Witch Hazel For Face & Body ASTRINGENT Relief of minor skin irritations due to: Insect bites Minor cuts & scrapes Active ingredient Witch hazel 86% Purpose Astringent Inactive ingredient: alcohol 14% by volume Use for relief of minor skin irritations due to: • insect bites • minor cuts • minor scrapes Directions apply as often as needed
+  10733-801-08 10733-801-08
+  10733-801-16 witch hazel
+active_ingredient:
+  Active ingredient Witch hazel 86% Purpose Astringent Inactive ingredient: alcohol 14% by volume
+purpose:
+  Purpose Astringent
+inactive_ingredient:
+  Inactive ingredient: alcohol 14% by volume
+indications_and_usage:
+  Use for relief of minor skin irritations due to: • insect bites • minor cuts • minor scrapes
+dosage_and_administration:
+  Directions apply as often as needed
+set_id:
+  b815792f-2f8f-7ac8-e053-2995a90ade18
+id:
+  28dabfcb-f8d9-6b91-e063-6394a90a800c
+effective_time:
+  20241211
+version:
+  3
+openfda:
+  application_number:
+    M015
+  brand_name:
+    Witch Hazel
+  generic_name:
+    WITCH HAZEL
+  manufacturer_name:
+    Medical Products Laboratories, Inc.
+  product_ndc:
+    10733-801
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    WITCH HAZEL
+  rxcui:
+    200295
+  spl_id:
+    28dabfcb-f8d9-6b91-e063-6394a90a800c
+  spl_set_id:
+    b815792f-2f8f-7ac8-e053-2995a90ade18
+  package_ndc:
+    10733-801-08
+    10733-801-16
+  is_original_packager:
+    True
+  unii:
+    101I4J0U34

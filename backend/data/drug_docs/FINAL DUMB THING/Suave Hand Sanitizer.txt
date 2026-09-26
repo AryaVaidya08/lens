@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Suave Hand Sanitizer CETYL LACTATE WATER ALCOHOL ALCOHOL GLYCERIN LAURYL LACTATE MYRISTYL LACTATE HYDROXYPROPYL CELLULOSE, UNSPECIFIED
+description:
+  SUAVE HAND SANITIZER - Ethyl Alcohol gel Suave Hand Sanitizer
+active_ingredient:
+  Drug Facts Active ingredient Ethyl Alcohol 75.6%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses help decrease bacteria on the hands
+warnings:
+  Warnings • For external use only • Flammable. Keep away from fire or flame • Avoid contact with eyes, in case of contact, rinse eyes thoroughly with water immediately. • If irritation develps , discontinue use and consult a doctor.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children except under adult supervision. If swallowed, get medical help or contact a poison control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub lightly until dry. Do not rinse.
+other_safety_information:
+  Other information May discolor fabrics or surfaces. Store below 105˚F (40˚C).
+inactive_ingredient:
+  Inactive ingredients Cetyl Lactate, Glycerin, Hydroxypropylcellulose, Lauryl Lactate, Myristyl Lactate, Water (Aqua)
+questions:
+  Questions? Call us at 1-800-782-8301.
+package_label_principal_display_panel:
+  Packaging SuaveHandSanitizer
+set_id:
+  aaa79d4e-0fab-d0dc-e053-2a95a90ae418
+id:
+  ef40ce70-a8e1-9966-e053-2995a90aeb24
+effective_time:
+  20221207
+version:
+  2
+openfda:

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  LidoMet-10 Kit Lidocaine/Menthol ACRYLIC ACID MENTHOL MENTHOL LIDOCAINE LIDOCAINE White flexible patch
+active_ingredient:
+  Active ingredients: Lidocaine HCL 4% Menthol 4%
+purpose:
+  Purpose: Topical Anesthetic
+indications_and_usage:
+  Uses: For the temporary relief of pain
+warnings:
+  Warnings: For external use
+do_not_use:
+  Do not use: More than 1 patch on your body at a time or on cut, iritated or swollen skin. On puncture wounds For more than 1 week without consulting a doctor
+when_using:
+  When using this product: Use only as directed. Read and follow all directions and warnings on this label. Rare cases of serious burns have been reported with products of this type. Do not apply to wounds or damaged, broken or irritated skin. Do not allow contact with the eyes and mucous membranes. Do not bandage tightly or apply local heat (such as heating pads) to the area of use. Do not use at the same time as other topical analgesics. Dispose of used patch in manner that always keeps product away from children and pets. Used patches still contain the drug product that can produce serious adverse effects if a child or pet chews or ingests this patch.
+stop_use:
+  Stop use and ask a doctor if: Condition worsens Redness is present Irritation developes Symptoms persist for more than 7 days or clear up and occur again within a few days. You experience signs of skin injury, such as pain, swelling, or blistering where the product was applied.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health care professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Adults and children over 12 years: Clean and dry the affected area. Open pouch and remove one patch. Remove the protective film from the patch and apply patch to the affected area. Reseal pouch containing unused patches after each use. Use 1 patch for up to 12 hours. Children 12 years or younger: Ask a doctor
+other_safety_information:
+  Other Information: Avoid storing product in direct sunlight Protect product from excessive mositure
+inactive_ingredient:
+  Other Ingredients: Acrylic Adhesive
+package_label_principal_display_panel:
+  Questions or comments? 877-367-3250 Packaged For: Plum Valley Pharma, LLC Dearborn, MI 48120 USA Questions and Information Please call Toll Free: 866-248-1553 NDC: 82226-050-10 LidoMet-10 Lidocaine 4% / Menthol 4 % Patch (10 Count Box) (5 per Resealable Pouch) x 2 Self-Adhesive Wrap Bandage (1" x 180" - 1 Roll) See enclosed insert(s) for full prescribing information. Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Keep this and all medication out of reach of children. Qty: 10 Articulated Patches (5 per Resealable Pouch) x 2 Plum Valley Pharma label
+set_id:
+  12ae39fc-bd2e-4617-994c-f0229ff28b92
+id:
+  25677cd4-b293-4ed2-bd61-685735153dab
+effective_time:
+  20220919
+version:
+  2
+openfda:

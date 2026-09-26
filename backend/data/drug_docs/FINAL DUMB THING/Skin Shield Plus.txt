@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Skin Shield Plus Zinc Oxide CI 77491 CYCLOHEXASILOXANE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) HYDROGEN DIMETHICONE (20 CST) CYCLOPENTASILOXANE DIMETHICONE ALPHA-TOCOPHEROL ACETATE VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER ZINC OXIDE ZINC OXIDE CERAMIDE 3 DIMETHICONOL (2000 CST) CI 77492 CI 77499 PEG-10 DIMETHICONE (600 CST) POLYHYDROXYSTEARIC ACID (2300 MW) TETRAHEXYLDECYL ASCORBATE DIMETHICONE CROSSPOLYMER CAPRYLIC/CAPRIC TRIGLYCERIDE
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Package Label
+set_id:
+  36e9958b-cc5c-f7ff-e063-6394a90ac80d
+id:
+  46051eb4-51ea-3d52-e063-6394a90ade36
+effective_time:
+  20251215
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Skin Shield Plus
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    LAURA CATHERINE, LLC
+  product_ndc:
+    85596-208
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    46051eb4-51ea-3d52-e063-6394a90ade36
+  spl_set_id:
+    36e9958b-cc5c-f7ff-e063-6394a90ac80d
+  package_ndc:
+    85596-208-50
+  original_packager_product_ndc:
+    58892-208
+  unii:
+    SOI2LOH54Z

@@ -6,21 +6,34 @@ directly. Swap points from docs/architecture.md (LLM provider, DB path)
 should be read from here, not hardcoded at call sites.
 """
 
+from __future__ import annotations
+
+import os
+from pathlib import Path
+
+
+BACKEND_ROOT = Path(__file__).resolve().parents[1]
+
 
 class Settings:
-    """
-    Env-driven configuration for the backend.
+    """Env-driven configuration for the backend."""
 
-    TODO: implement — load these from environment variables (e.g. via
-    pydantic-settings or plain os.environ.get with defaults):
-      - database_url: str        (SQLite file path, e.g. "sqlite:///./hcp.db")
-      - llm_api_key: str          (sponsor LLM API key)
-      - llm_api_base: str         (sponsor LLM API base URL, if applicable)
-      - drug_docs_path: str       (path to backend/data/drug_docs/)
-    """
-
-    # TODO: implement
-    pass
+    def __init__(self) -> None:
+        self.database_url: str = os.environ.get("DATABASE_URL", "sqlite:///./hcp.db")
+        self.llm_api_key: str = os.environ.get("LLM_API_KEY", "")
+        self.llm_api_base: str = os.environ.get("LLM_API_BASE", "")
+        self.drug_docs_path: str = os.environ.get(
+            "DRUG_DOCS_PATH",
+            str(BACKEND_ROOT / "data" / "drug_docs"),
+        )
+        self.embedding_cache_path: str = os.environ.get(
+            "EMBEDDING_CACHE_PATH",
+            str(BACKEND_ROOT / "data" / ".embedding_cache.npz"),
+        )
+        self.embedding_model: str = os.environ.get(
+            "EMBEDDING_MODEL",
+            "sentence-transformers/all-MiniLM-L6-v2",
+        )
 
 
 settings = Settings()

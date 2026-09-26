@@ -1,0 +1,35 @@
+effective_time:
+  20180917
+inactive_ingredient:
+  Inactive Ingredients Citric acid, Alkyl Polyglucoside, Nonylphenol ethoxylate, Sodium hydroxide, Purified water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, seek professional assistance or consult a Poison Control Center immediately.
+warnings:
+  Warnings For external use only Do not use if allergic to iodine Stop use and ask a doctor if redness, irritation, swelling, or pain persists or increases Infection occurs Injuries are deep or puncture wounds or serious burns. Keep out of reach of children In case of accidental ingestion, seek professional assistance or consult a Poison Control Center immediately.
+spl_product_data_elements:
+  PVP Scrub Povidone-Iodine CITRIC ACID MONOHYDRATE SODIUM HYDROXIDE WATER POVIDONE-IODINE POVIDONE-IODINE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Clean the treatment area Apply a small amount of this product on the treatment area 1-3 times daily May be covered with a sterile bandage; if bandaged, let dry first.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if redness, irritation, swelling, or pain persists or increases Infection occurs Injuries are deep or puncture wounds or serious burns.
+storage_and_handling:
+  Other Information 0.75% titratable iodine Latex-free For hospital or professional use only
+do_not_use:
+  Do not use if allergic to iodine
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1.7 mL Solution Box DUKAL ™ CORPORATION REORDER 870 STERILE NDCXXX 4" PVP-I SCRUB SWABSTICKS 25 /box 3/pouch Sterility guaranteed unless package is damaged or opened. DUKAL CORPORATION •(631) 656-3800 Ronkonkoma, NY 11779•www.dukal.com DUKAL Q.V.P Corporation Made in China D02241202 Principal Display Panel - 1.7 mL Solution Box
+indications_and_usage:
+  Use Antiseptic skin preparation
+set_id:
+  e53be6d4-8ddb-4d68-91f3-9135b8884132
+id:
+  7612c5fc-acdd-c986-e053-2991aa0ac81d
+active_ingredient:
+  Active Ingredient Povidone Iodine USP 7.5%

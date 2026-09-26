@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Gas Relief Ultra Strength Simethicone DIMETHICONE DIMETHICONE FD&C YELLOW NO. 6 GELATIN GLYCERIN FD&C RED NO. 40 05A
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 180 mg
+purpose:
+  Purpose Antigas
+indications_and_usage:
+  Uses relieves bloating, pressure, or fullness commonly referred to as gas
+warnings:
+  Warnings Stop use and ask a doctor if condition persists. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+stop_use:
+  Stop use and ask a doctor if condition persists.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions swallow one or two softgels as symptoms occur do not exceed two softgels per 24 hours except under the advice and supervision of a physician
+storage_and_handling:
+  Other information store between 15-30ºC (59-86ºF) protect from heat and moisture
+inactive_ingredient:
+  Inactive ingredients FD&C red #40, FD&C yellow #6, gelatin, glycerin
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient in Phazyme® Ultra Strength†† Gas Relief SIMETHICONE 180 mg / ANTI-GAS ULTRA STRENGTH SOFTGELS For fast relief of pressure, bloating & fullness SOFTGELS ††This product is not manufactured or distributed by C.B. Fleet Company Inc., distributor of Phazyme® Ultra Strength TAMPER EVIDENT: DO NOT USE IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY: WALGREEN CO 200 WILMOT RD., DEERFIELD, IL 60015
+  Product Label WALGREENS Gas Relief Ultra Strength Softgels Simethicone 180 mg
+set_id:
+  3e5821ec-d096-4f52-82d2-475056f45e4c
+id:
+  987402e2-a5fe-41b9-a901-262ec12b4c1c
+effective_time:
+  20240626
+version:
+  3
+openfda:
+  application_number:
+    M002
+  brand_name:
+    Gas Relief Ultra Strength
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Walgreens
+  product_ndc:
+    0363-8730
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    252294
+  spl_id:
+    987402e2-a5fe-41b9-a901-262ec12b4c1c
+  spl_set_id:
+    3e5821ec-d096-4f52-82d2-475056f45e4c
+  package_ndc:
+    0363-8730-20
+  is_original_packager:
+    True
+  upc:
+    0311917213743
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

@@ -1,0 +1,29 @@
+effective_time:
+  20121206
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water, Aloe barbadenis, Leaf Juice, Glycerin, Propylene Glycol, Carbomer, Triethanolamine, Fragrance, Tocopheryl Acetate, FD&C Red NO.33
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  WARNING: Flammable, Keep away from fire or flame. FOR EXTERNAL USE ONLY. DO NOT USE IN THE EYES.
+spl_product_data_elements:
+  Instant Hand Sanitizer Bubble Gum ETHYL ALCOHOL Alcohol Alcohol WATER ALOE ALOE VERA LEAF GLYCERIN PROPYLENE GLYCOL CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) TROLAMINE .ALPHA.-TOCOPHEROL ACETATE D&C RED NO. 33
+openfda:
+version:
+  3
+dosage_and_administration:
+  DIRECTIONS: Rub into skin until dry. Other Information: Store below 110 F.
+stop_use:
+  DISCONTINUE USE IF IRRITATION AND REDNESS DEVELOP. IF CONDITION PERSISTS FOR MORE THAN 72 HOURS, CONSULT A DOCTOR.
+package_label_principal_display_panel:
+  image of bottle hangtag
+indications_and_usage:
+  KILLS MORE THAN 99.99% OF COMMON GERMS
+set_id:
+  955ca020-0d27-4698-9949-c8063208597b
+id:
+  16b25737-a8c0-4270-bdfd-f8cc7ecd7b38
+active_ingredient:
+  Active ingredients Ethyl Alcohol 62% v/v

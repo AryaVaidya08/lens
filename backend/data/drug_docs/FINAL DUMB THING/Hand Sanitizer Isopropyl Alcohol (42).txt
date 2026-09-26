@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitizer Isopropyl Alcohol POLYQUATERNIUM-10 (10000 MPA.S AT 2%) GLYCERIN HYDROGEN PEROXIDE WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Isopropyl Alcohol (75%, v/v) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Isopropyl Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, purified water USP
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 60 ml NDC: 77282-333-02 118ml NDC: 77282-333-04 236ml NDC:77282-333-08 473ml NDC:77282-333-16 591ml NDC:77282-333-20 946ml NDC:77282-333-32 3785ml NDC:77282-333-11 18927ml NDC:77282-333-05 208197ml NDC:77282-333-55 60ml label 118ml Lable 236ml Lable 473ml lable 591ml lable 946ml Lable 3785ml Lable 18927ml Label 208197ml Label
+set_id:
+  a6accce4-3dc1-e8eb-e053-2a95a90a4190
+id:
+  a6acd1d9-4f9f-692a-e053-2a95a90a5697
+effective_time:
+  20200527
+version:
+  1
+openfda:

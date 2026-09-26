@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  ANTIBACTERIAL HANDWASH HOBBY benzalkonium chloride METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE CITRIC ACID MONOHYDRATE SODIUM CHLORIDE WATER SODIUM LAURETH-3 SULFATE COCAMIDOPROPYL BETAINE COCO DIETHANOLAMIDE DMDM HYDANTOIN FD&C RED NO. 40 GLYCERIN EDETATE SODIUM SULISOBENZONE BENZYL ALCOHOL BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  USES For Handwashing to decrease bacteria on the skin
+warnings:
+  WARNING For external use only.
+when_using:
+  avoid contact with eyes. In case of eye contact, flush with water
+stop_use:
+  Stop use and ask a doctor if If irritation and redness develops.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  DIRECTIONS Pump into hands ,wet as needed lather vigorously for at least 15 seconds Wash skin, rinse throughly and dry.
+inactive_ingredient:
+  Inactive Ingredients: Water（Aqua),Cocamidopropyl Betaine,Sodium Chloride,Fragrance, Citric Acid,Methylchloroisothiazolinone,Methylisothiazolinone, Cocamide/DEA, FD&C Red No40,Glycerin ,Parfum,Tetrasodium EDTA,Sodium laureth sultate.
+package_label_principal_display_panel:
+  6
+set_id:
+  37fe870d-11b1-46f3-8d9f-50440b794519
+id:
+  b2a9f276-c0ff-b0bb-e053-2995a90a6d85
+effective_time:
+  20201027
+version:
+  2
+openfda:

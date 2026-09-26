@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Mentholatum Moisturizing Hand Sanitizer benzalkonium chloride WATER HYDROXYPROPYL DISTARCH PHOSPHATE, HIGH AMYLOSE CORN LAURYL GLUCOSIDE DIMETHICONE CHLORPHENESIN EDETATE DISODIUM GLYCERIN HYALURONIC ACID METHYL GLUCETH-20 PHENOXYETHANOL POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600000 MW) ROSEMARY OIL SILANETRIOL BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredients Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Skin antiseptic
+indications_and_usage:
+  Uses Hand sanitizer to reduce bacteria on the skin
+warnings:
+  Warnings For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Liberally apply product in your palm to thoroughly cover your hands Rub hands together briskly until absorbed. Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  Inactive ingredients purified water, hydroxypropyl starch phosphate, lauryl glucoside, dimethicone, chlorphenesin, edetate disodium, glycerin, hyaluronic acid, methyl gluceth-20, phenoxyethanol, polyquaternium-7, rosmarinus officinalis (rosemary) leaf oil, silanetriol
+questions:
+  Questions? 1-877-636-2677 MON-FRI 9 AM to 5 PM (EST)
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Mentholatum Moisturizing Hand Sanitizer
+  Principal Display Panel Drug Facts
+set_id:
+  365c93bc-2299-4e69-ba3a-69414bfe78d7
+id:
+  292b8cf3-73cf-8681-e063-6394a90abb04
+effective_time:
+  20241213
+version:
+  4
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Mentholatum Moisturizing Hand Sanitizer
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    The Mentholatum Company
+  product_ndc:
+    10742-0004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1098199
+  spl_id:
+    292b8cf3-73cf-8681-e063-6394a90abb04
+  spl_set_id:
+    365c93bc-2299-4e69-ba3a-69414bfe78d7
+  package_ndc:
+    10742-0004-1
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

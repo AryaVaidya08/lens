@@ -1,0 +1,21 @@
+effective_time:
+  20190318
+inactive_ingredient:
+  other ingredients: Water (Aqua), Octyldodecyl Neopentanoate, Butylene Glycol, Pentylene Glycol, Arachidyl Alcohol, Behenyl Alcohol, Nylon-12, Leuconostoc/Radish Root Ferment Filtrate, Arginine/Lysine Polypeptide, Pamlitoyl Tripeptide-5, Camellia Sinensis Leaf Extract, Arachidyl Glycoside, Glycine Soja (Soybean) Protein, Sodium Hyaluronate, Saccharomyces Lysate Extract, Oenothera Biennis (Evening Primrose) Oil, Glucosamine HCl, Allantoin, Squalane, Algae Extract, Yeast Extract, Chrysanthemim Parthenium (Feverfew) Extract, Colloidal Oatmeal, Urea, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polysorbate 60, Cocamidopropyl PG-Dimonium Chloride Phosphate, Glycerin, Disodium EDTA, Citronellol, Eugenol, Geraniol, Limonene, Linalool, Helianthus Annuus (Sunflower) Seed Oil, Rose Flower Oil, Citrus Medica Limonum (Lemon) Peel Oil, Pelargonium Graveolens Oil, Citrus Medica Limonum (Lemon) Peel Extract, Eugenia Caryophyllus (Clove) Flower Oil, Pelargonium Groveolens Flower Oil, Aniba Rosaeodora (Rosewood) Wood Oil, Caprylic/Capric Triglyceride,Titanium Dioxide (Cl 77891).
+warnings:
+  warnings: For external use only, not to be swallowed. Avoid contact with eyes. If contact occurs, flush thoroughly with water. Apply prior to sun exposure. Discontinue use if skin irritation develops or increases. If irritation persists, consult a health care practitioner. Do not use on infants under 6 months old. Contains Oxybenzone.
+spl_product_data_elements:
+  Dynamic Skin Recovery SPF30 Avobenzone, Octinoxate, Octisalate, Oxybenzone AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE WATER OCTYLDODECYL NEOPENTANOATE BUTYLENE GLYCOL PENTYLENE GLYCOL ARACHIDYL ALCOHOL DOCOSANOL ALLANTOIN HYALURONATE SODIUM SACCHAROMYCES LYSATE EVENING PRIMROSE OIL GLUCOSAMINE HYDROCHLORIDE SQUALANE YEAST, UNSPECIFIED UREA PALMITOYL TRIPEPTIDE-5 GREEN TEA LEAF OATMEAL MEDIUM-CHAIN TRIGLYCERIDES POLYSORBATE 60 GLYCERIN EDETATE DISODIUM .BETA.-CITRONELLOL, (R)- EUGENOL GERANIOL LIMONENE, (+/-)- LINALOOL, (+/-)- SUNFLOWER OIL ROSA DAMASCENA FLOWER OIL LEMON OIL ARACHIDYL GLUCOSIDE LEMON PEEL CLOVE OIL PELARGONIUM GRAVEOLENS FLOWER OIL ROSEWOOD OIL TITANIUM DIOXIDE OCTISALATE OCTISALATE FEVERFEW COCAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE ROSE OIL GERANIUM OIL, ALGERIAN TYPE LEMON
+openfda:
+version:
+  3
+package_label_principal_display_panel:
+  Label image of carton
+indications_and_usage:
+  directions: Apply to face and neck, preferably 30 minutes prior to daylight exposure.
+set_id:
+  c5ac541e-b532-4369-a87f-b6e6a5c171f6
+id:
+  a636df1a-9015-4bc1-a2e4-2fa1f94438cf
+active_ingredient:
+  active ingredients: Avobenzone (3.0%), Octinoxate (7.5%), Octisalate (5.0%), Oxybenzone (5.0%).

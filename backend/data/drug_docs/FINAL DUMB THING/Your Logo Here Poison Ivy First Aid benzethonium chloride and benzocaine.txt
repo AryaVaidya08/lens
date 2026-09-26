@@ -1,0 +1,33 @@
+effective_time:
+  20130409
+inactive_ingredient:
+  Inactive Ingredients Isopropyl Myristate, PVP-VA, SDA-40-200 Alcohol, N-Butane, Propane, Isobutane
+purpose:
+  Purpose Topical Antiseptic Topical Anesthetic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For external use only Extremely Flammable keep away from fire or flame contents under pressure do not puncture or incinerate container do not expose to temperatures above 120°F
+spl_product_data_elements:
+  Your Logo Here Poison Ivy First Aid benzethonium chloride and benzocaine BENZOCAINE BENZOCAINE BENZETHONIUM CHLORIDE BENZETHONIUM ISOPROPYL MYRISTATE PVP/VA COPOLYMER ALCOHOL BUTANE PROPANE ISOBUTANE
+other_safety_information:
+  Other Information avoid inhaling use only as directed intentional misuse by deliberately concentrating and inhaling the contents may be harmful or fatal
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions clean the affected area shake can well before using hold can 4 to 6 inches away from injury and spray area until wet for adult institutional use only not intended for children
+stop_use:
+  Stop use and ask a doctor if redness, swelling or irritation occurs infection occurs condition persists or worsens symptoms persist for more than 7 days
+do_not_use:
+  Do not use in or near the eyes or other mucous membranes in case of serious burn in deep puncture wounds for a prolonged period of time on large portions of the body
+package_label_principal_display_panel:
+  Principal Display image description
+indications_and_usage:
+  Uses For temporary relief of pain and itching and to help protect against infection in minor skin irritations rashes due to poison ivy, poison sumac and insect bites
+set_id:
+  3327ff0f-c67e-446d-b5a5-b5e388cee999
+id:
+  8b2cea63-310d-4960-bbcb-4243adb855bd
+active_ingredient:
+  Active Ingredients Benzethonium Chloride 0.15% w/w Benzocaine 5.0% w/w

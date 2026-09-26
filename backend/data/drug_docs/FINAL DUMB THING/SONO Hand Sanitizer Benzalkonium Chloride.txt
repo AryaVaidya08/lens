@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  SONO Hand Sanitizer Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM GLYCERIN PEG/PPG-18/18 DIMETHICONE WATER BERGAMOT OIL
+active_ingredient:
+  Active Ingredient Benzalkonium chloride.........0.13%
+purpose:
+  Purpose Antiseptic Hand Sanitizer
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria on skin Recommended for repeated use
+warnings:
+  Warnings For external use only Do not use in ears or mouth When using this product Avoid contact with eyes. In case of contact, flush eyes with water. Stop use and ask a doctor If redness or irritation develops and persists for more than 72 hours. Keep out of reach of children Children should be supervised when using this product
+when_using:
+  When using this product Avoid contact with eyes. In case of contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor If redness or irritation develops and persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Children should be supervised when using this product
+dosage_and_administration:
+  Directions Apply a small amount onto hand, then spread on both hands Rub hands together until dry
+inactive_ingredient:
+  Inactive ingredients Glycerin, PEG/PPG-18/18 Dimethicone, water, Organic Citrus Aurantium Bergamia Fruit Oil.
+package_label_principal_display_panel:
+  Sono Foaming Hand Sanitizer image description
+set_id:
+  dc374be3-c586-4f88-812a-622239a3a3b7
+id:
+  2744ceab-4d59-4cad-bfc3-ccb05b9ea7bf
+effective_time:
+  20231214
+version:
+  3
+openfda:

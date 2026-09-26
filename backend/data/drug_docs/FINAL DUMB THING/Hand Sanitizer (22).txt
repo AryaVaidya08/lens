@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Information This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (80%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active ingredient & Purpose Antiseptic, Hand Sanitizer Active ingredient Purpose Alcohol 80% v/v .............. Antiseptic
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="italics"><content styleCode="bold">Active ingredient</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td>Alcohol 80% v/v ..............</td><td>Antiseptic</td></tr></tbody></table>
+purpose:
+  Active ingredient Purpose Alcohol 80% v/v .............. Antiseptic
+purpose_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="italics"><content styleCode="bold">Active ingredient</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td>Alcohol 80% v/v ..............</td><td>Antiseptic</td></tr></tbody></table>
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions place enough product on hands to cover all surfaces. Rub hands together until dry. supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information store between 15-30C (59-86F) avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, purified water USP
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 74895-102-02 74895-102-03 74895-102-04 74895-102-05 180 ml bottle label 450 ml bottle label 500 ml bottle label 650 ml bottle label
+set_id:
+  a2cabf40-150e-5ddf-e053-2995a90a7406
+id:
+  b8a3181d-9901-454f-e053-2995a90a96c0
+effective_time:
+  20210111
+version:
+  4
+openfda:

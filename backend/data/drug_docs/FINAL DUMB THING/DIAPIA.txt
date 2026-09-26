@@ -1,0 +1,27 @@
+effective_time:
+  20171114
+inactive_ingredient:
+  water butylene glycol, algin, allantoin, etc
+purpose:
+  wrinkle care
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Keep out of reach of children. Store in a cool, dry place and avoid direct sunlight. Use immediately after opening
+spl_product_data_elements:
+  DIAPIA 24K Gold SnailGel Eye Patch glycerin BUTYLENE GLYCOL ALLANTOIN WATER GLYCERIN GLYCERIN
+openfda:
+version:
+  3
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  After cleansing face, apply mask onto face and remove after 20~40min
+set_id:
+  5decd8ee-bea1-2cc6-e053-2a91aa0a8507
+id:
+  5dfba039-36a0-356b-e053-2a91aa0a5e0f
+active_ingredient:
+  glycerin

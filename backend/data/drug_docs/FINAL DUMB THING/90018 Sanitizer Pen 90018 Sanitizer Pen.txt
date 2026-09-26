@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  90018 Sanitizer Pen 90018 Sanitizer Pen FRAGRANCE FRESH CITRUS FLORAL ORC1501495 GLYCERIN WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl Alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For Hand Sanitizing
+warnings:
+  Warnings For external use only-hands. Flammable. Keep away from heat and flame. Keep out of reach of children.
+do_not_use:
+  Do not use Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+stop_use:
+  Stop use and ask a doctor Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions in children less than 2 months of age on open skin wounds. Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other Information [STORAGE AND HANDLING SECTION]EDIT Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Water, Glycerol, Fragrance
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 57816-011-01 5ml SPRAY 57816-011-01 5ml SPRAY
+set_id:
+  bf4a5e48-b120-f1e1-e053-2995a90aa552
+id:
+  f04ec2ea-ded8-446e-e053-2995a90a86a5
+effective_time:
+  20221220
+version:
+  2
+openfda:

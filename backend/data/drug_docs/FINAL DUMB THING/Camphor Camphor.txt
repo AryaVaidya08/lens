@@ -1,0 +1,27 @@
+effective_time:
+  20150505
+inactive_ingredient:
+  Inactive Ingredients Petrolatum
+purpose:
+  Uses Temporary relief of minor pain Rheumatism Muscular Aches Arthritis Backache
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+warnings:
+  Warning - For external use only. In case of accidental ingestion, get help or contact a poison control center immediately. Do not use on irritated skin in or near eyes or mucous membranes on wounds or damaged skin if prone to allergic reaction from any ingredient on large area of the body Ask a doctor or pharmacist before use if you are taking any other medication or drinking alcohol. Stop use and ask a doctor if condition worsens or clears up and occurs again, if symptoms persist for more than 7 days or irritation or severe burning occurs. If pregnant or breast-feeding ask a health professional before use. Keep at room temperature.
+spl_product_data_elements:
+  Camphor Camphor CAMPHOR (NATURAL) CAMPHOR (NATURAL) PETROLATUM ALCOHOL CYCLOMETHICONE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions - Adults and children 10 years of age and older: apply in affected area not more than 3 times daily.
+package_label_principal_display_panel:
+  label image
+indications_and_usage:
+  Camphor Ointment External Use Only Temporary relief of minor pains: Muscular Aches | Arthritis Rheumatism | Backache
+set_id:
+  907784e5-cec1-4eb0-b9df-87f9891f0ad6
+id:
+  6bd12a64-9929-42e9-8cb8-d8043b1f3d66
+active_ingredient:
+  Active Ingredients ............. Purpose Camphor 10% ............. Topical Analgesic

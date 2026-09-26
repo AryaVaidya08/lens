@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  MILK OF MAGNESIA magnesium hydroxide WATER SODIUM HYPOCHLORITE MAGNESIUM HYDROXIDE MAGNESIUM CATION HYDROXIDE ION SACCHARIN SODIUM
+active_ingredient:
+  Active ingredient (in each 15 mL) Magnesium hydroxide 1200 mg
+purpose:
+  Purpose Saline laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 1/2 to 6 hours
+warnings:
+  Warnings Ask a doctor before use if you have kidney disease a magnesium-restricted diet stomach pain, nausea, or vomiting a sudden change in bowel habits that lasts over 14 days Ask a doctor or pharmacist before use if you are presently taking a prescription drug. This product may interact with certain prescription drugs. Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (800) 222-1222.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (800) 222-1222.
+dosage_and_administration:
+  Directions shake well before use do not exceed the maximum recommended daily dose in a 24 hour period dose may be taken once a day preferably at bedtime, in divided doses, or as directed by a doctor drink a full glass (8 oz) of liquid with each dose for accurate dosing, only use the dosing cup provided mL = milliliter age dose adults and children 12 years and over 30 mL to 60 mL children 6 to 11 years 15 mL to 30 mL children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table border="1" width="100%"><tbody><tr><td>age</td><td>dose</td></tr><tr><td>adults and children 12 years and over</td><td>30 mL to 60 mL</td></tr><tr><td>children 6 to 11 years</td><td>15 mL to 30 mL</td></tr><tr><td>children under 6 years</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each 15 mL tablespoonful contains: magnesium 500 mg store at room temperature tightly closed avoid freezing
+inactive_ingredient:
+  Inactive ingredients flavor, purified water, saccharin sodium, sodium hypochlorite
+questions:
+  Questions or comments? Call 833-358-6431
+package_label_principal_display_panel:
+  package Label 1
+set_id:
+  00c61622-367b-0a5b-e063-6294a90a6706
+id:
+  09a7141e-5878-df3c-e063-6394a90a9962
+effective_time:
+  20231108
+version:
+  2
+openfda:
+  application_number:
+    M007
+  brand_name:
+    MILK OF MAGNESIA
+  generic_name:
+    MAGNESIUM HYDROXIDE
+  manufacturer_name:
+    STRATEGIC SOURCING SERVICES LLC
+  product_ndc:
+    70677-1073
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MAGNESIUM HYDROXIDE
+  rxcui:
+    253017
+  spl_id:
+    09a7141e-5878-df3c-e063-6394a90a9962
+  spl_set_id:
+    00c61622-367b-0a5b-e063-6294a90a6706
+  package_ndc:
+    70677-1073-1
+  is_original_packager:
+    True
+  unii:
+    NBZ3QY004S

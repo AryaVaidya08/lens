@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  75% ALCOHOL HAND SANITIZER Ethyl Alcohol ALCOHOL ALCOHOL WATER HYDROXYETHYL CELLULOSE, UNSPECIFIED PANTHENOL
+spl_unclassified_section:
+  Drug Facts
+  Made In Taiwan Manufactured by FU YUE Bio-Technology Co., LTD
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product k eep out of eyes. In case of contact eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or redness occurs. Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product in hand palm and rub it until dry.
+inactive_ingredient:
+  Inactive Ingredients Water, Hydroxyethylcellulose, Panthenol, Fragrance
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  0d2c8673-c490-4878-808c-7e6c348c4197
+id:
+  1e78ac33-a754-4386-95f2-6b56381266ee
+effective_time:
+  20250206
+version:
+  2
+openfda:

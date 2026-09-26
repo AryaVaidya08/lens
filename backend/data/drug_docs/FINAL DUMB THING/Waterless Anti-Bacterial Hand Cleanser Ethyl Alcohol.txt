@@ -1,0 +1,33 @@
+effective_time:
+  20100819
+inactive_ingredient:
+  Inactive Ingredients Benzophenone-4, Carbomer, FDC Blue 1, Fragrance, Glycerin, Jojoba Oil, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Tocopherol, Triethanolamine, Water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed contact a doctor or Poison Control Center immediately.
+warnings:
+  Warnings For external use only Flammable, keep away from fire and flame Does not contain grain alcohol; do not drink, if taken internally will produce serious gastric disturbances
+when_using:
+  When using this product avoid the eyes an mucous membranes in the case of eyes or mucous membrane contact; rinse area thoroughly with water
+spl_product_data_elements:
+  Waterless Anti-Bacterial Hand Cleanser Ethyl Alcohol ALCOHOL ALCOHOL FD&C BLUE NO. 1 GLYCERIN JOJOBA OIL POLYOXYL 40 HYDROGENATED CASTOR OIL PROPYLENE GLYCOL ALPHA-TOCOPHEROL TROLAMINE WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions rub quarter sized amount between hands until dry supervise children in the use of this product in the case of eye contact, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if condition worsens redness or irritation develops if condition persists for more than 3 days
+spl_unclassified_section:
+  Other information store below 105F may discolor some fabrics
+package_label_principal_display_panel:
+  Package Label Package Label image of package label
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin Recommended for repeated use
+set_id:
+  0157cbfd-003d-4a76-af40-1c64159f7ca5
+id:
+  5f2de8ed-41ac-49ee-a468-d76081fa9897
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62%

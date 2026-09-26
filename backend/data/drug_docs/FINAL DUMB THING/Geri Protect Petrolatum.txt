@@ -1,0 +1,29 @@
+effective_time:
+  20151229
+inactive_ingredient:
+  Inactive Ingredients: Aloe vera, lanolin, mineral oil, Paraffin wax, PCMX Powder, Phenoxyethanol, Sodium Borate, Vitamins A, D, and E, water deionized, Zinc Oxide
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  WARNING: FOR EXTERNAL USE ONLY
+spl_product_data_elements:
+  Geri Protect Petrolatum PETROLATUM PETROLATUM ALOE VERA LEAF LANOLIN MINERAL OIL PARAFFIN PHENOXYETHANOL SODIUM BORATE VITAMIN A VITAMIN D WATER ZINC OXIDE ALPHA-TOCOPHEROL CHLOROXYLENOL
+warnings_and_cautions:
+  Caution: Avoid eye contact. If contact - flush eyes thoroughly with water. If local sensitivity develops discontinue use.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: Clean skin. Apply geri-protect ointment, liberally to affected area 2-4 times daily or more frequently as needed.
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  Protects skin against chafing and reduces rashes. It helps the skin retain needed moisture, while softening and soothing damaged irritated skin. Protects skin against irritating substances that may come in contact with elbows, heals, hands, and private areas of your body. Now has fragrance free formula for sensitive skin. It assists with the healing
+set_id:
+  5ecc1008-7adc-4d12-abcb-a5642ba073cb
+id:
+  ebe2c61c-a077-4a24-94bb-7af55fb3a15a
+active_ingredient:
+  Active Ingredient: Petrolatum 74%

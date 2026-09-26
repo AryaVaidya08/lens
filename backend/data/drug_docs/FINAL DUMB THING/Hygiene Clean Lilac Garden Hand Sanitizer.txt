@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Hygiene Clean Lilac Garden Hand Sanitizer BENZALKONIUM CHLORIDE WATER PROPYLENE GLYCOL LAURAMINE OXIDE UNDECETH-7 EDETATE DISODIUM ANHYDROUS ALOE VERA LEAF GLYCERETH-2 COCOATE DMDM HYDANTOIN CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses - For hand sanitizing to decrease the bacteria on skin. - Recommended for repeated use.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of eye contact, flush eyes with water Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS -Pump a small amount of foam into palm of hand -Rub thoroughly over all surfaces of both hands -Rub hands together briskly until dry
+inactive_ingredient:
+  Inactive ingredients: Water; Propylene Glycol; Lauramine Oxide; Undeceth-7; Disodium EDTA; Aloe Barbadensis Gel; Glycereth-2-Cocoate; DMDM Hydantoin; Fragrance; Citric Acid
+package_label_principal_display_panel:
+  Package Labeling:50ml Bottle3
+  Package Labeling:50ml (24) Bottle4
+set_id:
+  be3527ae-ed2c-6b75-e053-2a95a90ab6ff
+id:
+  08bfe1ce-49b5-3165-e063-6394a90a0375
+effective_time:
+  20231028
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Hygiene Clean Lilac Garden Hand Sanitizer
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    USA Broom LLC
+  product_ndc:
+    80499-104
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1049254
+  spl_id:
+    08bfe1ce-49b5-3165-e063-6394a90a0375
+  spl_set_id:
+    be3527ae-ed2c-6b75-e053-2a95a90ab6ff
+  package_ndc:
+    80499-104-01
+    80499-104-02
+  is_original_packager:
+    True
+  upc:
+    0850019907117
+  unii:
+    F5UM2KM3W7

@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Broad Spectrum SPF 30 Sunscreen Broad Spectrum SPF 30 Sunscreen WHITE WAX SUNFLOWER OIL COCONUT OIL TOCOPHEROL JOJOBA OIL ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Zinc Oxide (18.75%)
+purpose:
+  Sunscreen
+indications_and_usage:
+  Helps prevent Sunburn
+  Helps prevent sunburn
+warnings:
+  For external use only Do not use on damaged or broken skin Stop use and ask a doctor if * rash occurs When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure Reapply after 80 minutes of swimming or sweating. Reapply immediately after towel drying. Reapply at least every 2 hours Children under 6 months of age: Ask a doctor Sun Protection Measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sunprotection measures including: limit time in the sun, especially from 10a.m.-2p.m. wear long sleeved shirts, pants, hats and sunglasses.
+  Apply liberally 15 minutes before sun exposure
+other_safety_information:
+  Protect this product from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive Ingredients: Sunflower Oil*, Beeswax*, Jojoba Oil*, Coconut Oil*, Tocopherol (Non-GMO). *Organic
+package_label_principal_display_panel:
+  Broad Spectrum SPF 30 Sunscreen Natural Mineral Formula Water Resistant (80 minutes) 1 fl. oz. / 30 ml Made in the USA C10747-01.jpg
+set_id:
+  c238ce45-91d9-e9fa-e053-2a95a90a7d65
+id:
+  08015c8a-a20e-b088-e063-6394a90a48dc
+effective_time:
+  20231018
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Broad Spectrum SPF 30 Sunscreen
+  generic_name:
+    BROAD SPECTRUM SPF 30 SUNSCREEN
+  manufacturer_name:
+    Raining Rose
+  product_ndc:
+    65692-0567
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    08015c8a-a20e-b088-e063-6394a90a48dc
+  spl_set_id:
+    c238ce45-91d9-e9fa-e053-2a95a90a7d65
+  package_ndc:
+    65692-0567-1
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

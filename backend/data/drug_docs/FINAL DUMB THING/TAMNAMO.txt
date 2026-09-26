@@ -1,0 +1,27 @@
+effective_time:
+  20130826
+inactive_ingredient:
+  Water, Disodium Laureth Sulfosuccinate, Sodium Cocoamphoacetate, Cocoamidopropyl Betaine, Duchesnea Indica Fruit Extract, Red Ginseng Extract, Blueberry Extract, Cereus Grandiflorus Extract, Thuja Orientalis Leaf Extract, Blackbean Extract, Saururus Chinensis Leaf/Root Extract, Polygonum Multiflorum Rhizome/Root Extract, Green tea Extract, Acorus Calamus Root Extract, Lawsonia inermie Extract, Kumsong Extract, Sophore Extract, Laminaria digitata Extract, Licorice Extract, Espinosilla Extract, D-Panthenol, PEG-120 Methyl Glucose Dioleate, Citric Acid, Glycerine, Cedarwood essential oil, Ylang-Ylang essential oil, Pulsatilla koreana Extract, Usnea Barbata Root Extract
+purpose:
+  supplying nutrients and moisture to scalp and hair
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - Stop using if sensitivities occurs and consult with dermatologist - sensitivities such as red marks, intumescence, urtication, irritation during use - Do not store at high and low temperatures and avoid sunlight.
+spl_product_data_elements:
+  TAMNAMO PLUS VITAL HAIR GLYCERIN GLYCERIN GLYCERIN WATER DISODIUM LAURETH SULFOSUCCINATE LICORICE CITRIC ACID MONOHYDRATE
+openfda:
+version:
+  1
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  apply appropriate amount of shampoo to wet hair and scalp massage gently, using fingertips and rinse throughly with water
+set_id:
+  89b81756-a138-42d9-976e-bf526258a367
+id:
+  7b8786b3-ddb7-4f0b-9939-2f10fb323844
+active_ingredient:
+  glycerin

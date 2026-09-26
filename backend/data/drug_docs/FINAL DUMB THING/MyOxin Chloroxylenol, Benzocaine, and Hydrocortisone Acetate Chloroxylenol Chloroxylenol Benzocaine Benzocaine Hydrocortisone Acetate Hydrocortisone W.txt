@@ -1,0 +1,44 @@
+effective_time:
+  20150708
+contraindications:
+  CONTRAINDICATIONS Topical steroids are contraindicated in varicella, vaccinia and in patients sensitive to any of the components of this preparation. The preparation is not to be used for ophthalmic use and should not be applied in the external auditory canal of patients with perforated eardrums.
+precautions:
+  PRECAUTIONS General If a favorable response does not occur promptly, discontinue the use of this preparation until the infection is controlled by other appropriate measures. Although systemic side effects are not common with topical corticosteroids, the possibility of occurrence must be kept in mind, particularly when used for an extended period of time. USAGE IN PREGNANCY The safety of topical steroid preparations during pregnancy has not been established. Therefore, they should not be used on pregnant patients.
+warnings:
+  WARNINGS This preparation is not intended for ophthalmic or oral use. If accidental ingestion occurs, seek professional help. If irritation or sensitization occurs, promptly discontinue use of this preparation and institute other measures.
+pregnancy:
+  USAGE IN PREGNANCY The safety of topical steroid preparations during pregnancy has not been established. Therefore, they should not be used on pregnant patients.
+spl_product_data_elements:
+  MyOxin Chloroxylenol, Benzocaine, and Hydrocortisone Acetate Chloroxylenol Chloroxylenol Benzocaine Benzocaine Hydrocortisone Acetate Hydrocortisone Water PEG-12 Glyceryl Dimyristate PEG-40 Castor Oil Sodium Hydroxide CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) Isopropyl Alcohol Xanthan Gum Potassium Sorbate milky
+description:
+  DESCRIPTION Each 1 mL for otic administration contains: Chloroxylenol 1 mg Benzocaine 15 mg Hydrocortisone Acetate 10 mg INACTIVE INGREDIENTS: PEG-12 Glyceryl Dimyristate, Sodium Hydroxide, PEG-40 HCO, Purified Water, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Xanthan Gum, Potassium Sorbate, Isopropyl Alcohol.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION SHAKE WELL BEFORE USING. The External auditory canal should be thoroughly cleansed and dried with a sterile cotton applicator. For adults, 4 to 5 drops of the suspension should be instilled into the affected ear 3 or 4 times daily. For infants and small children, 3 drops are suggested because of the smaller capacity of the ear canal. The patient should lie with the affected ear upward to instill the drops and this position maintained for 5 minutes to facilitate penetration of the drops into the ear canal. Repeat, if necessary, for the opposite ear.
+adverse_reactions:
+  ADVERSE REACTIONS The following adverse reactions with topical corticosteroids have been observed: itching, burning, irritation, dryness, folliculitis, hypertrichosis, acneform eruptions, hypopigmentations, perioral dermatitis, allergic contact dermatitis, maceration of the skin, secondary infection, skin atrophy, striae and miliaria.
+spl_unclassified_section:
+  Chloroxylenol 1 mg Benzocaine 15 mg Hydrocortisone Acetate 10 mg Rx Only
+  Manufactured for GMPharmaceuticals, Inc. Arlington, TX 76012 Rev. 6/2011
+general_precautions:
+  General If a favorable response does not occur promptly, discontinue the use of this preparation until the infection is controlled by other appropriate measures. Although systemic side effects are not common with topical corticosteroids, the possibility of occurrence must be kept in mind, particularly when used for an extended period of time.
+storage_and_handling:
+  Storage Conditions Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+how_supplied:
+  HOW SUPPLIED MyOxin Otic Suspension is supplied in 15mL amber glass bottles with dosage dropper and package insert NDC 58809-333-15 Rx Only KEEP THIS AND ALL MEDICATION OUT OF THE REACH OF CHILDREN. IN CASE OF ACCIDENTAL OVERDOSE, SEEK PROFESSIONAL ASSISTANCE OR CONTACT A POISON CONTROL CENTER IMMEDIATELY. Storage Conditions Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton NDC 58809-333-15 MyOxin ™ otic suspension Chloroxylenol 1 mg Benzocaine 15 mg Hydrocortisone Acetate 10 mg SHAKE WELL BEFORE USING R x Only GMPharmaceuticals, Inc. 15 mL bottle PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton
+indications_and_usage:
+  INDICATIONS AND USAGE For the treatment of superficial infections of the external auditory canal complicated by inflammation caused by organisms susceptible to the action of the antimicrobial. May also be used to control itching in the auditory canal.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY van Asperen IA, de Rover CM, Schijven JF, et al. Risk of otitis externa after swimming in recreational fresh water lakes containing Pseudomonas aeruginosa. BMJ.1995;311:1407-1410. Sander R.Otitis Externa: A Practical Guide to Treatment and Prevention. Available at http://www..aafp.org/afp/20010301/927.html. Accessed 4/9/09. MyOxin is effective both as an antibacterial and antifungal agent. The unique delivery system provides a suspension having an acid pH and a low surface tension, exerting a drying effect and allowing the medication to spread quickly to all contiguous surfaces, softening and reducing accumulated cerumen. Chloroxylenol is a halogenated phenol; non-toxic, non-corrosive, non-staining with high phenol coefficient. It may be applied directly to a wound and shows no chemical reactivity toward blood. MyOxin which contains hydrocortisone acetate is indicated when otitis is complicated by inflammation or to control itching. Benzocaine is a topical anesthetic with a low index of sensitization and toxicity.
+set_id:
+  24e91a33-131c-48ed-989a-f044413850de
+id:
+  916945e1-5258-4ebf-883e-3d6d0f589bd8
+description_table:
+  <table width="50%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td>Chloroxylenol</td> <td>1 mg</td> </tr> <tr> <td>Benzocaine</td> <td>15 mg</td> </tr> <tr styleCode="Botrule"> <td>Hydrocortisone Acetate</td> <td>10 mg</td> </tr> </tbody> </table>
+overdosage:
+  OVERDOSE Topically applied corticosteroids can be absorbed in sufficient amount to produce systemic effects.

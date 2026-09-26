@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Instant Hand Sanitizer 75% alcohol GLYCERIN WATER ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE
+active_ingredient:
+  Active Ingredient(s) Ethanol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Hand sanitizer to help decrease bacteria skin.
+indications_and_usage:
+  Use Take a proper amount and put it on the palm directly. Rub the fingers of both hands on each other until the skin of hands and wrists is completely wet. It will work for 1-3 minutes and evaporate naturally. Not sticky use. No need to wash with water, protecting your health anytime, anywhere.
+warnings:
+  Warnings 1. Flammable, please keep away from the fire source, store in a cool, dry and ventilated place. 2. Use with caution for alcohol-allergic people. 3. Not suitable for disinfecting the surface of fat soluble objects. 4. Keep out of reach of children.
+do_not_use:
+  Do not use 1. Not sticky use. 2. Use with caution for alcohol-allergic people. 3. Not suitable for disinfecting the surface of fat soluble objects.
+when_using:
+  This product is for external use, no taken orally, avoid contact with eyes.
+stop_use:
+  If there is skin irritation, please stop using. If further irritation, please consult a doctor and keep it below.
+keep_out_of_reach_of_children:
+  Keep away from reach of children.
+dosage_and_administration:
+  Directions Take a proper amount and put it on the palm directly. Rub the fingers of both hands on each other until the skin of hands and wrists is completely wet. It will work for 1-3 minutes and evaporate naturally. Not sticky use. No need to wash with water, protecting your health anytime, anywhere.
+storage_and_handling:
+  Other information Store at a cool place, avoid sunlight.
+inactive_ingredient:
+  Inactive ingredients Purified water, Triethanolamine, Glycerin, Carbomer.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 75586-101
+set_id:
+  a4a441e0-2160-a9fa-e053-2a95a90a6811
+id:
+  a4a441e0-2161-a9fa-e053-2a95a90a6811
+effective_time:
+  20200505
+version:
+  1
+openfda:

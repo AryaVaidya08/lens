@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Holiday World Hand Sanitizer Ethyl Alcohol TOCOPHEROL AMINOMETHYLPROPANOL GLYCERIN ALOE VERA LEAF WATER CARBOMER 934 ISOPROPYL MYRISTATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses To decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable Flammable. Keep away from heat or falme. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water avoid contact with broken skin. do not inhale or ingest. Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water avoid contact with broken skin. do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+storage_and_handling:
+  Other information do not store above 104ºF may discolor some fabrics harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Aminomethyl Propanol, Carbomer, Glycerin, Isopropyl Myristate, Tocopherol, Water
+questions:
+  Call 1-877-463-2645
+package_label_principal_display_panel:
+  Holiday World Santatizer Santa's Favorite Germ Eliminator Principle Display Label
+set_id:
+  d23ff43c-07c6-3707-e053-2a95a90ab852
+id:
+  dbe91faa-3970-bd0f-e053-2a95a90ab724
+effective_time:
+  20220405
+version:
+  2
+openfda:

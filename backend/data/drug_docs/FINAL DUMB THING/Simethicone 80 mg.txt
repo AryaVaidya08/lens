@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Simethicone 80 mg Simethicone MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE MALTODEXTRIN SORBITOL STEARIC ACID DIMETHICONE DIMETHICONE SUCROSE DEXTROSE, UNSPECIFIED FORM PEPPERMINT Off White AP;019
+spl_unclassified_section:
+  Drug Facts
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+  Distributed by: Reliable 1 Laboratories LLC Valley Stream, NY 11580 Repackaged by: Proficient Rx LP Thousand Oaks, CA 91320 www.reliable1labs.com
+indications_and_usage:
+  Use relieves bloating, pressure and fullness commonly referred to as gas
+warnings:
+  Warnings Keep out of reach of children
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions • thoroughly chew 1-2 tablets as needed after meals and at bedtime • do not take more then 6 tablets per day
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients compressible sugar, dextrose, maltodextrin, micdocrystalline cellulose, peppermint flavor, Silicon dioxide, sorbitol, stearic acid
+questions:
+  Questions or comments? call 516-341-0666 , 8:30 am to 4:30 pm ET, Monday - Friday
+active_ingredient:
+  Active ingredient (in each chewable tablet) Simethicone 80 mg
+purpose:
+  Purpose Antiflatulent
+package_label_principal_display_panel:
+  NDC 82804-043-30 Simethicone 80 mg ANTIFLATULENT 30 CHEWABLE TABLETS 82804-043-30
+set_id:
+  a5e523b3-475e-4d28-a89c-c4325c59c939
+id:
+  c27c3d6a-64ca-47d4-bba6-a0c5288e755b
+effective_time:
+  20241001
+version:
+  2
+openfda:
+  application_number:
+    M002
+  brand_name:
+    Simethicone 80 mg
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Proficient Rx LP
+  product_ndc:
+    82804-043
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    314216
+  spl_id:
+    c27c3d6a-64ca-47d4-bba6-a0c5288e755b
+  spl_set_id:
+    a5e523b3-475e-4d28-a89c-c4325c59c939
+  package_ndc:
+    82804-043-30
+    82804-043-60
+    82804-043-90
+  original_packager_product_ndc:
+    69618-033
+  upc:
+    0382804043309
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

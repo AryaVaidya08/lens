@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  FOREVER SKIN GLOW 24h Wear Radiant Perfection Skin Caring Foundation With Sunscreen BROAD SPECTRUM SPF 35 Lasting Hydration 2WP OCTINOXATE, TITANIUM DIOXIDE WATER METHYL TRIMETHICONE ALCOHOL ISODODECANE PHENYL TRIMETHICONE GLYCERIN PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE TRIMETHYL PENTAPHENYL TRISILOXANE BUTYLENE GLYCOL METHYL METHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER DIMETHICONE DISTEARDIMONIUM HECTORITE SODIUM MYRISTOYL GLUTAMATE PHENOXYETHANOL ALUMINUM HYDROXIDE PROPYLENE CARBONATE STEARIC ACID EDETATE SODIUM LINALOOL, (+/-)- BUTYLATED HYDROXYTOLUENE .BETA.-CITRONELLOL, (R)- ETHYLHEXYLGLYCERIN TOCOPHEROL OCTINOXATE OCTINOXATE TITANIUM DIOXIDE TITANIUM DIOXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active ingredients Octinoxate 3.00% Titanium Dioxide 1.75% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures ( ), decreases the risk of skin cancer and early skin aging caused by the sun. see Directions
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product, keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Sun Protection Measures. limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses. Children under 6 months of age: ask a doctor.
+inactive_ingredient:
+  Inactive ingredients AQUA (WATER), METHYL TRIMETHICONE, ALCOHOL, ISODODECANE, PHENYL TRIMETHICONE, GLYCERIN, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, TRIMETHYL PENTAPHENYL TRISILOXANE, BUTYLENE GLYCOL, ACRYLATES/DIMETHICONE COPOLYMER, METHYL METHACRYLATE CROSSPOLYMER, DIMETHICONE, DISTEARDIMONIUM HECTORITE, SODIUM MYRISTOYL GLUTAMATE, PHENOXYETHANOL, GLYCERYL UNDECYL DIMETHICONE, ALUMINUM HYDROXIDE, PROPYLENE CARBONATE, VP/VA COPOLYMER, STEARIC ACID, PARFUM (FRAGRANCE), TETRASODIUM EDTA, VIOLA TRICOLOR EXTRACT, ROSA MULTIFLORA FRUIT EXTRACT, LINALOOL, LIMONENE, BHT, CITRONELLOL, ETHYL HEXYGLYCERIN, TOCOPHEROL. [MAY CONTAIN : CI 77163 (BISMUTH OXYCHLORIDE), CI 77491, CI 77492, CI 77499 (IRON OXIDES), CI 77891 (TITANIUM DIOXIDE)].
+package_label_principal_display_panel:
+  Package Labeling: Label 2WP
+set_id:
+  6ee0284e-739d-4aad-9352-9ea9c106efa4
+id:
+  094bce30-1f17-b578-e063-6294a90a2922
+effective_time:
+  20231103
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    FOREVER SKIN GLOW 24h Wear Radiant Perfection Skin Caring Foundation With Sunscreen BROAD SPECTRUM SPF 35 Lasting Hydration 2WP
+  generic_name:
+    OCTINOXATE, TITANIUM DIOXIDE
+  manufacturer_name:
+    PARFUMS CHRISTIAN DIOR
+  product_ndc:
+    61957-2921
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTINOXATE
+    TITANIUM DIOXIDE
+  spl_id:
+    094bce30-1f17-b578-e063-6294a90a2922
+  spl_set_id:
+    6ee0284e-739d-4aad-9352-9ea9c106efa4
+  package_ndc:
+    61957-2921-0
+  is_original_packager:
+    True
+  upc:
+    3348901439060
+  unii:
+    4Y5P7MUD51
+    15FIX9V2JP

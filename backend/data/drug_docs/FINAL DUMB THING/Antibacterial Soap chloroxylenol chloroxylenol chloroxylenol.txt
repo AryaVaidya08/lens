@@ -1,0 +1,23 @@
+effective_time:
+  20100510
+inactive_ingredient:
+  Inactive Ingredients: Water (aqua) sodium laureth sulfate, cocamidopropyl betaine, decyl glucoside, Cocamide DEA, sodium chloride, glycerin, fragrance, citric acid, DMDM hydantoin, Yellow 5, Red 4
+warnings:
+  Warnings: For external use only. Keep out of reach of children. Avoid eye contact. Should contact occur, rinse thoroughly with water. If swallowed or irritation develops, discontinue use and consult a health care practitioner.
+spl_product_data_elements:
+  Antibacterial Soap chloroxylenol chloroxylenol chloroxylenol
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: Wet hands and forearms. Apply a small amount (approx. 5 ml) to hands and scrub thoroughly. Rinse well and dry.
+package_label_principal_display_panel:
+  Antibacterial gel Soap Chloroxylenol 0.5% 800 ml (27 US fl oz) label
+indications_and_usage:
+  Use: For handwashing to decrease bacteria on the skin.
+set_id:
+  cc5b3cfd-c2b0-430e-be0d-c8dc9e3e07d9
+id:
+  3231512f-c1f6-4f9f-ba51-77f54c416683
+active_ingredient:
+  Active Ingredient Purpose Chloroxylenol 0.5% Antiseptic

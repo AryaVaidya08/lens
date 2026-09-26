@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Sanitizer Gel ALCOHOL ALOE VERA LEAF WATER ALCOHOL ALCOHOL HYALURONATE SODIUM CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+active_ingredient:
+  Active Ingredient(s) Alcohol 75% v/v. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial, Hand Sanitizer
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Put enough product in your palm to cover hands and rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product. Not recommended for infants.
+storage_and_handling:
+  Other information Do not store above 105oF (40oC). May discolor certain fabrics. Harmful to wood finishes and plastics.
+inactive_ingredient:
+  Inactive ingredients Water, Carbomer, Aminomethyl Propanol, Aloe Barbadensis (Aloe Vera) Leaf Juice, Sodium Hyaluronate.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Hand Sanitizer Gel
+set_id:
+  aa713d61-ae3e-6b8c-e053-2a95a90a9cd0
+id:
+  ac9e6092-746d-5301-e053-2a95a90a1fd9
+effective_time:
+  20200811
+version:
+  2
+openfda:

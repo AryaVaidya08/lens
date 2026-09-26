@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  HAND SANITISER isopropyl alcohol GLYCERIN WATER HYDROGEN PEROXIDE ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+dosage_and_administration:
+  ●Store between 15-30°C (59-86°F) ●Avoid freezing and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Glycerin，hydrogen peroxide，purified water USP
+indications_and_usage:
+  1.Place enough product on hands to cover all surfaces. Rub hands together until dry. 2.Supervise children under 6 vears of age when using this product to avoid swallowing.
+active_ingredient:
+  isopropyl alcohol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only. Flammable. Keep away from heat or flame
+package_label_principal_display_panel:
+  label
+set_id:
+  a944cc65-72a4-4646-e053-2995a90a3fc3
+id:
+  a944cc65-72a5-4646-e053-2995a90a3fc3
+effective_time:
+  20200629
+version:
+  1
+openfda:

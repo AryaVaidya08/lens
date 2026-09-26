@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Eyes Alive Lubricating CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM CARBOXYMETHYLCELLULOSE CALCIUM CHLORIDE HYDROCHLORIC ACID MAGNESIUM CHLORIDE POTASSIUM CHLORIDE WATER SODIUM CHLORIDE SODIUM HYDROXIDE SODIUM LACTATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each unit dose) Carboxymethylcellulose sodium 0.5%
+purpose:
+  Purpose Eye lubricant
+indications_and_usage:
+  Uses For the temporary relief of burning, irritation, and discomfort due to dryness of the eye or exposure to wind or sun. May be used as a protectant against further irritation of the eye.
+warnings:
+  Warnings For external use only. Do not use if solution changes color or becomes cloudy. When using this product To avoid contamination, do not touch tip of container to any surface. Do not reuse. Once open, discard. Do not touch unit dose tip to eye. Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if solution changes color or becomes cloudy.
+when_using:
+  When using this product To avoid contamination, do not touch tip of container to any surface. Do not reuse. Once open, discard. Do not touch unit dose tip to eye.
+stop_use:
+  Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions TWIST AND REMOVE TAB. Place 1 or 2 drops in the affected eye(s) as needed for relief and discard container. If used for post-operative (e.g., LASIK) dryness and discomfort, follow your eye doctor's instructions.
+storage_and_handling:
+  Other Information Use only if single-use container in intact. Use before expiration date marked on container. RETAIN THIS CARTON FOR FUTURE REFERENCE.
+inactive_ingredient:
+  Inactive ingredients Calcium chloride, hydrochloric acid May or may not contain this ingredient to adjust pH. , magnesium chloride, potassium chloride, purified water, sodium chloride, sodium hydroxide , and sodium lactate.
+questions:
+  Questions or comments? 800.477.2884, M-F 8 AM – 5 PM Eastern Time You can also report serious side effects to this number.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 32 Ampule Carton NDC 69183-200-32 Eyes Alive ™ Lubricating Eye Drops Lubricant/carboxymethylcellulose sodium Long lasting moisturizing drops to keep your Eyes Feeling Alive! IMMEDIATE RELIEF FOR DRY IRRITATED EYES 32 Sterile Single-Use Containers 0.02 fl oz (0.6 mL) each MADE IN THE USA Principal Display Panel - 32 Ampule Carton
+set_id:
+  961c9da6-5e23-492b-94a9-35fc2fdda88e
+id:
+  2e9d5516-0885-4f8b-8c6f-7ab52183a533
+effective_time:
+  20191207
+version:
+  3
+openfda:

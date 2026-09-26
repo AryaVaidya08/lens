@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Ultra Strength Gas Relief Simethicone DIMETHICONE DIMETHICONE FD&C YELLOW NO. 6 GELATIN GLYCERIN WATER clear oval PC3
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 180 mg
+purpose:
+  Purpose Anti-gas
+indications_and_usage:
+  Uses relieves bloating, pressure or fullness commonly referred to as gas
+warnings:
+  Warnings Stop use and ask a doctor if condition persists Keep out of reach of children .
+stop_use:
+  Stop use and ask a doctor if condition persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children .
+dosage_and_administration:
+  Directions swallow 1 or 2 softgels as needed after a meal do not exceed two softgels per day except under the advice and supervision of a physician
+storage_and_handling:
+  Other information store at room temperature 59º - 86ºF (15º - 30ºC)
+inactive_ingredient:
+  Inactive ingredients FD&C yellow#6, gelatin, glycerin, purified water and white edible ink
+questions:
+  Questions or comments? Call: 516-341-0666
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Ultra Strength Gas Relief Simethicone 180 mg Anti-gas 180 Softgels NDC 69618-045-18 *Compare to the active ingredient in PHAZYME ® Ultra Strength RE05-00 front RE05-00 back
+set_id:
+  4a24f162-420c-4b55-aad1-01b49b69059c
+id:
+  78fed69f-82c1-48d2-a323-0c0144246e20
+effective_time:
+  20170713
+version:
+  1
+openfda:

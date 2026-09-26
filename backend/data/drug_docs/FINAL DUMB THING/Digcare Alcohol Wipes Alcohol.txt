@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Digcare Alcohol Wipes Alcohol WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethanol 75% by volume Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE for hand sanitizing to decrease bacteria on the skin apply topically to the skin to help prevent cross contamination recommended for repeated use dries in seconds
+warnings:
+  Warning Flammable. Keep away from fire or flame. For external use only. Do not use in or near the eyes. Discontinue use if irritation and redness develop. If condition persists for more than 72 hours, consult a physician. Keep out of reach of children unless under adult supervision. If swallowed, get medical help or call Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children unless under adult supervision. If swallowed, get medical help or call Poison Control Center immediately.
+dosage_and_administration:
+  Directions ●Open lid, gently pull back resealable label, remove and use wipe as required. ●Reseal back after use to avoid evaporation of alcohol.
+inactive_ingredient:
+  Inactive ingredients Purified Water
+package_label_principal_display_panel:
+  1
+set_id:
+  a9d83763-dd65-5d30-e053-2995a90a1350
+id:
+  d5877990-9eb3-474d-e053-2995a90aa842
+effective_time:
+  20220114
+version:
+  2
+openfda:

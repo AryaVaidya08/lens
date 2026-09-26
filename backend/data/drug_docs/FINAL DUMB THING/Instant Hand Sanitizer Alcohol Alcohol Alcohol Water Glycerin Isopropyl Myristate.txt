@@ -1,0 +1,33 @@
+effective_time:
+  20160318
+inactive_ingredient:
+  Inactive ingredients: Fragrance, Glycerin, Isopropyl alcohol, Isopropyl myristate, Tocopheryl acetate, Water
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  Purpose Antimicrobial
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+spl_product_data_elements:
+  Instant Hand Sanitizer Alcohol Alcohol Alcohol Water Glycerin Isopropyl Myristate ISOPROPYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE, D-
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions: Pump enough product into palm of hand to thoroughly cover all surfaces of both hands. Rub hands together briskly until dry.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+storage_and_handling:
+  Other information: Store below 110 F(43 C).
+package_label_principal_display_panel:
+  Sanis Spray Instant Hand Sanitizer 800 ML 27.0 FL OZ container label
+indications_and_usage:
+  Uses For hand sanitizing to decrease bacteria on the skin Recommended for repeated use
+set_id:
+  ba487412-f184-4fa1-a175-ffe9d37510e6
+id:
+  fa86dc91-c75c-442e-b74b-3662e6197986
+active_ingredient:
+  Active ingredient Ethyl Alcohol 62%

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  HAND SANITIZER ethyl alcohol GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE VERA LEAF WATER ALCOHOL ALCOHOL TROLAMINE ALPHA-TOCOPHEROL ACETATE
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 71% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE Hand sanitizing to help reduce bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warning For external use only. Flammable. Keep away from fire or flame. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Discontinue use if irritation and redness develop. lf condition persists for more than 72 hours consult a physician. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Directions . Pump a small amount in your palm and briskly rub hands together until dry. Children under 6 years of age should be supervised when in use. Other information . Store between 15 and 30C(59 and 86F).· Avoid freezing and excessive heat above 40C(104F).
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Extract, Carbomer,Glycerin,Tocopheryl Acetate (Vitamin E), Triethanolamine, Water(Aqua).
+package_label_principal_display_panel:
+  1 2 3
+set_id:
+  b48040d8-1918-3dd4-e053-2a95a90a5182
+id:
+  b48040d8-1919-3dd4-e053-2a95a90a5182
+effective_time:
+  20201119
+version:
+  1
+openfda:

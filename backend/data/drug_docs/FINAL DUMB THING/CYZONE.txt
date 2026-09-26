@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  CYZONE XPRESS YOUR BODY Sensitive Aluminum Sesquichlorohydrate WATER STEARETH-2 STEARETH-21 PPG-15 STEARYL ETHER CYCLOMETHICONE 5 CYCLOMETHICONE 6 DICAPRYLYL CARBONATE LEVOMENOL TRICLOSAN METHYLPARABEN ALOE VERA LEAF PROPYLENE GLYCOL BENZALKONIUM CHLORIDE BUTYLATED HYDROXYTOLUENE EDETATE SODIUM CHAMOMILE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE
+spl_unclassified_section:
+  Información del medicamento
+  PR: Distributed by Ventura Corporation, Ltd. San Juan, Puerto Rico 00926.
+active_ingredient:
+  Ingredientes activos Aluminum sesquichlorohydrate 20%
+purpose:
+  Propósito Antitranspirante
+indications_and_usage:
+  Uso Reduce la transpiración de las axilas
+warnings:
+  Advertencias Sólo para uso externo. No usar en piel dañada o lastimada Consulte con el doctor en caso de sufrir de enfermedad renal Detenga su uso y consulte al doctor si sucede enrojecimiento Mantener fuera del alcance de los niños. Si es ingerido obtener ayuda médica o contactar al centro de Control de Envenenamiento inmediatamente
+do_not_use:
+  No usar en piel dañada o lastimada
+ask_doctor:
+  Consulte con el doctor en caso de sufrir de enfermedad renal
+stop_use:
+  Detenga su uso y consulte al doctor si sucede enrojecimiento
+keep_out_of_reach_of_children:
+  Mantener fuera del alcance de los niños. Si es ingerido obtener ayuda médica o contactar al centro de Control de Envenenamiento inmediatamente
+dosage_and_administration:
+  Instrucciones Aplicar solamente en las axilas.
+inactive_ingredient:
+  Ingredientes inactivos Aqua (water), steareth-2, steareth-21, ppg-15 stearyl ether, cyclopentasiloxane, cyclohexasiloxane, parfum (fragrance), dicaprylyl carbonate, bisabolol, triclosan, methylparaben, aloe barbadensis leaf juice, propylene glycol, benzalkonium chloride, bht, tetrasodium edta, chamomilla recutita flower extract (chamomilla recutita (matricaria) flower extract).
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Label xpress your body Sensitive desodorante antitranspirante piel sensible 50 ml e (1.6 fl.oz) cy°zone PRINCIPAL DISPLAY PANEL - 50 ml Bottle Label
+set_id:
+  45ca4d22-12d6-4e3e-be56-e5533cbeb7b4
+id:
+  338b55a9-6ae6-62f3-e063-6294a90a7f52
+effective_time:
+  20250424
+version:
+  2
+openfda:

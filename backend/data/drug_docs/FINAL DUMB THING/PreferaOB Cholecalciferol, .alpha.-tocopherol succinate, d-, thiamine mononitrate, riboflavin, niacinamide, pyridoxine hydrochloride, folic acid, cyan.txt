@@ -1,0 +1,39 @@
+effective_time:
+  20150911
+contraindications:
+  CONTRAINDICATIONS: This product is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+precautions:
+  PRECAUTIONS: Folic acid when administered as a single agent in doses above 0.1 mg daily may obscure pernicious anemia in that hematological remission can occur while neurological manifestations remain progressive. Pregnant women and nursing mothers should avoid supplemental doses of vitamin E higher than RDA amounts. While prescribing this nutritional supplement for pregnant women, nursing mothers, or for women prior to conception, their medical condition and other drugs, herbs, and/or supplements consumption should be considered.
+warnings:
+  WARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children . In case of accidental overdose, call a doctor or poison control center immediately.
+spl_product_data_elements:
+  PreferaOB Cholecalciferol, .alpha.-tocopherol succinate, d-, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hydrochloride, folic acid, cyanocobalamin, biotin, calcium pantothenate, d-, iron sucrose, heme iron polypeptide, potassium iodide, zinc oxide, sodium selenate, cupric sulfate CHOLECALCIFEROL CHOLECALCIFEROL .ALPHA.-TOCOPHEROL SUCCINATE, D- .ALPHA.-TOCOPHEROL, D- THIAMINE MONONITRATE THIAMINE ION THIAMINE RIBOFLAVIN RIBOFLAVIN NIACINAMIDE NIACINAMIDE PYRIDOXINE HYDROCHLORIDE PYRIDOXINE FOLIC ACID FOLIC ACID CYANOCOBALAMIN CYANOCOBALAMIN BIOTIN BIOTIN CALCIUM PANTOTHENATE CALCIUM CATION IRON SUCROSE FERRIC CATION HEME IRON POLYPEPTIDE FERROUS CATION POTASSIUM IODIDE IODIDE ION ZINC OXIDE ZINC OXIDE SODIUM SELENATE SELENATE ION SELENIUM CUPRIC SULFATE CUPRIC CATION CELLULOSE, MICROCRYSTALLINE CROSCARMELLOSE SODIUM CROSPOVIDONE SILICON DIOXIDE MAGNESIUM STEARATE MODIFIED CORN STARCH (1-OCTENYL SUCCINIC ANHYDRIDE) CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS SUCROSE ETHYLCELLULOSES SODIUM ASCORBATE MEDIUM-CHAIN TRIGLYCERIDES .ALPHA.-TOCOPHEROL, DL- POLYVINYL ALCOHOL POLYETHYLENE GLYCOLS TALC TITANIUM DIOXIDE D&C RED NO. 30 FD&C BLUE NO. 2 AP;84
+description:
+  DESCRIPTION: PreferaOB ® is a prescription prenatal/postnatal multivitamin/multimineral nutritional supplement. PreferaOB ® is a small, oval, film-coated, purple tablet with black core, debossed and bisected with "AP/84" on one side, and plain on the other. Each PreferaOB ® tablet contains: VITAMINS MINERALS D 3 (as cholecalciferol) .........................400 IU E (as d -alpha tocopheryl acid succinate) 10 IU B 1 (as thiamine mononitrate) ................1.5 mg B 2 (as riboflavin)..................................1.6 mg B 3 (niacin as niacinamide)......................17 mg B 6 (as pyridoxine HCl) .........................50 mg Folic Acid ..............................................1 mg B 12 (as cyanocobalamin) .....................12 mcg Biotin ................................................. 30 mcg B 5 (as d-calcium pantothenate)...............10 mg Iron………………………………………………...34 mg (as PIC - polysaccharide iron complex) (as HIP - heme iron polypeptide as Proferrin®*) Iodine (as potassium iodide) 250 mcg Zinc (as zinc oxide) ................ 4.5 mg Selenium (as sodium selenate) 65 mcg Copper (as cupric sulfate)....... 0.8 mg
+boxed_warning:
+  WARNING: Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children . In case of accidental overdose, call a doctor or poison control center immediately.
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: One tablet daily with or without food, or as prescribed by a licensed health care provider with prescribing authority.
+adverse_reactions:
+  ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. To report SUSPECTED ADVERSE REACTIONS, contact Meda Pharmaceuticals Inc. at 1-877-999-8408 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch .
+spl_unclassified_section:
+  Prenatal/Postnatal Multivitamin/Multimineral Tablets Rx Only
+  Other Ingredients: Microcrystalline cellulose, croscarmellose sodium, crospovidone, silicon dioxide, magnesium stearate (vegetable source), modified food starch, dibasic calcium phosphate, resin, sucrose, ethylcellulose, sodium ascorbate, medium chain triglycerides, dl -alpha tocopherol, coating (polyvinyl alcohol, polyethylene glycol, talc, titanium dioxide, D&C red no. 30 aluminum lake, FD&C blue no. 2 aluminum lake).
+  Distributed by: MEDA Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 © 2015 Meda Pharmaceuticals Inc. U.S. Patent Nos. 7,585,527 and 8,080,520. Proferrin ® is a registered trademark of Colorado BioLabs, Inc., Cozad, NE. IN-6884-04 Rev 7/2015
+storage_and_handling:
+  STORAGE: Store at controlled room temperature 20°-25°C (68°-77°F). Excursions permitted to 15°-30°C (59°-86°F). Dispense in a tight, light-resistant container to protect from light and moisture.
+how_supplied:
+  HOW SUPPLIED: PreferaOB ® is supplied in a child-resistant bottle of 90 tablets (NDC 0037-0084-90). KEEP OUT OF REACH OF CHILDREN.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL – 90 TABLETS LABEL NDC 0037-0084-90 PreferaOB ® Distributed by: MEDA Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120 US Patent Nos. 7,585,527 and 8,080,502 ©2015 Meda Pharmaceuticals Inc. Rx Only 90 Tablets PRINCIPAL DISPLAY PANEL 90-ct Bottle Label
+indications_and_usage:
+  INDICATIONS AND USAGE: PreferaOB ® is a prescription multivitamin/multimineral nutritional supplement indicated for use in improving the nutritional status of women throughout pregnancy and in the postnatal period for both lactating and non-lactating mothers. PreferaOB ® is also beneficial in improving the nutritional status of women prior to conception.
+set_id:
+  607b7b10-e978-11e4-b571-0800200c9a66
+id:
+  2792d8b7-7259-44ac-85a6-9f08a468b0aa
+description_table:
+  <table width="100%"> <col width="41%"/> <col width="59%"/> <tbody> <tr> <td styleCode="Toprule " valign="top"> <paragraph>VITAMINS</paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph>MINERALS</paragraph> </td> </tr> <tr> <td styleCode="Botrule " valign="top"> <list listType="ordered"> <item> <caption> </caption>D<sub>3</sub> (as cholecalciferol) .........................400 IU   E (as <content styleCode="italics"> d</content> -alpha tocopheryl acid succinate) 10 IU   B<sub> 1</sub> (as thiamine mononitrate) ................1.5 mg   B<sub> 2</sub> (as riboflavin)..................................1.6 mg   B<sub> 3</sub> (niacin as niacinamide)......................17 mg   B<sub> 6</sub> (as pyridoxine HCl) .........................50 mg   Folic Acid ..............................................1 mg   B<sub> 12</sub> (as cyanocobalamin) .....................12 mcg   Biotin ................................................. 30 mcg   B<sub> 5</sub> (as d-calcium pantothenate)...............10 mg </item> </list> </td> <td styleCode="Botrule " valign="top"> <list listType="ordered"> <item> <caption> </caption>Iron&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;...34 mg   (as PIC - polysaccharide iron complex)   (as HIP - heme iron polypeptide as Proferrin&#xAE;*)   Iodine (as potassium iodide) 250 mcg   Zinc (as zinc oxide) ................ 4.5 mg   Selenium (as sodium selenate) 65 mcg   Copper (as cupric sulfate)....... 0.8 mg </item> </list> </td> </tr> </tbody> </table>

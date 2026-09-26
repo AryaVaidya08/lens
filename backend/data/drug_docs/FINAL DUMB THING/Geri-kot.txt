@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Geri-kot Standardized Senna Concentrate SILICON DIOXIDE MICROCRYSTALLINE CELLULOSE CROSCARMELLOSE SODIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE MAGNESIUM SILICATE MAGNESIUM STEARATE MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED HYPROMELLOSE, UNSPECIFIED SENNOSIDES SENNOSIDES CARNAUBA WAX AZ217
+active_ingredient:
+  Active ingredient (in each tablet) Sennosides 8.6 mg
+purpose:
+  Purpose Laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use for more than 1 week unless directed by a doctor. Ask a doctor before use if you have abdominal pain, nausea or vomiting have noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition . If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • do not exceed 8 tablets in 24 hours Age Starting Dose Maximum Dose adults and children 12 years of age and older 2 tablets once a day preferably at bedtime; increase as needed, or as directed by a doctor 4 tablets in the morning and 4 tablets at bedtime children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table border="2" width="100%" ID="i37a44b32-ebba-445f-88fc-46090b3986b6"><thead><tr><th>Age  </th><th>Starting Dose  </th><th>Maximum Dose  </th></tr></thead><tbody><tr><td>adults and children 12 years of age and older  </td><td>2 tablets once a day preferably at bedtime; increase as needed, or as directed by a doctor  </td><td>4 tablets in the morning and 4 tablets at bedtime  </td></tr><tr><td>children under 12 years  </td><td>ask a doctor  </td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 40 mg Tamper Evident: Do not use if imprinted seal under cap is missing or broken store at room temperature
+inactive_ingredient:
+  Inactive ingredients cellulose, croscarmellose sodium, dicalcium phosphate, hypromellose*, magnesium silicate*, magnesium stearate, mineral oil*, PEG*, silica*, wax*. *May contain these ingredients
+how_supplied:
+  HOW SUPPLIED Sennosides 8.6mg Tablet NDC 71335-1806-1: 100 Tablets in a BOTTLE NDC 71335-1806-2: 60 Tablets in a BOTTLE NDC 71335-1806-3: 120 Tablets in a BOTTLE NDC 71335-1806-4: 56 Tablets in a BOTTLE NDC 71335-1806-5: 30 Tablets in a BOTTLE NDC 71335-1806-6: 90 Tablets in a BOTTLE NDC 71335-1806-7: 10 Tablets in a BOTTLE Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504
+package_label_principal_display_panel:
+  Sennosides 8.6mg Tablet Label
+set_id:
+  13d8f467-0a7f-4773-ad5f-1666f14cb84f
+id:
+  13d8f467-0a7f-4773-ad5f-1666f14cb84f
+effective_time:
+  20250627
+version:
+  103
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Geri-kot
+  generic_name:
+    STANDARDIZED SENNA CONCENTRATE
+  manufacturer_name:
+    Bryant Ranch Prepack
+  product_ndc:
+    71335-1806
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SENNOSIDES
+  rxcui:
+    312935
+  spl_id:
+    13d8f467-0a7f-4773-ad5f-1666f14cb84f
+  spl_set_id:
+    13d8f467-0a7f-4773-ad5f-1666f14cb84f
+  package_ndc:
+    71335-1806-1
+    71335-1806-2
+    71335-1806-3
+    71335-1806-4
+    71335-1806-5
+    71335-1806-6
+    71335-1806-7
+  original_packager_product_ndc:
+    57896-454
+  unii:
+    3FYP5M0IJX

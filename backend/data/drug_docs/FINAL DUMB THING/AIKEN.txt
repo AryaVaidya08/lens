@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  AIKEN HAND SANITIZER Alcohol ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER
+spl_unclassified_section:
+  Drug Facts
+  +REMOVES 99.9% BACTERIA+ Instant protection Non-sticky Quick drying Write to us: exports@wipro-unza.com www.Wipro-unza.com MADE IN VIETNAM Manufactured by Wipro Consumer Care Vietnam Co. Ltd. No. 7 Street No. 4, Vietnam - Singapore Industrial Park, Thuan An, Binh Duong Province, Vietnam
+active_ingredient:
+  Active ingredient(s): Alcohol 66%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use(s): Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings: For external use only. Flammable. Keep away from heat and flame. Do not use On children less than 2 months of age On open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information: Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, purified water USP.
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  e2edc4c8-b5d9-4955-bc62-409bbcba84e6
+id:
+  177cb18c-303c-4fea-a482-33a4d064e812
+effective_time:
+  20211223
+version:
+  3
+openfda:

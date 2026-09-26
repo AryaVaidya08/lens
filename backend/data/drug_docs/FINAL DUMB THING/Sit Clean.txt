@@ -1,0 +1,57 @@
+effective_time:
+  20160818
+inactive_ingredient:
+  Inactive ingredeints Aloe Barbadensis Leaf Juice, Citric Acid, Fragrance, Glycerin, Hamamelis, Virginiana (Witch Hazel) Bark/Leaf/Twig Extract, Phenoxyethanol, Polysorbate 20,Tocopheryl Acetate, Water
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings ​For external use only When using this product do not use in or near eyes. If contact occurs, flush thoroughly with water.
+spl_product_data_elements:
+  Sit Clean Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF CITRIC ACID ACETATE GLYCERIN HAMAMELIS VIRGINIANA LEAF PHENOXYETHANOL POLYSORBATE 20 ALPHA-TOCOPHEROL ACETATE
+openfda:
+  application_number:
+    part333A
+  brand_name:
+    Sit Clean
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Sit Clean
+  product_ndc:
+    70881-100
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  spl_id:
+    fed2a655-dafe-434a-9685-5c840469e84e
+  spl_set_id:
+    ef2b12f8-89b3-47c4-88bd-8712a84cfc45
+  package_ndc:
+    70881-100-20
+  is_original_packager:
+    True
+  upc:
+    0864397000209
+  unii:
+    F5UM2KM3W7
+version:
+  1
+dosage_and_administration:
+  Dosage and Administration Peel back label Remove and unfold wipe Wipe hands thoroughly for approximately 30 seconds Dispose of used wipe in trash, do not flush Reseal pouch after each use
+spl_unclassified_section:
+  SPL UNCLASSIFIED SECTION Designed, Formulated and assembled in the USA Sit Clean TM N. Ft. Myers, FL 33918 www.sitclean.net
+package_label_principal_display_panel:
+  Principal display panel Sit Clean Don't hover wipe that cover TM Alcohol-free Sanitary wipes Easy to use Toilet Seat Wipes Antibacterial hand wipes Helps kill germs on hands when used as a hand wipe Label and film
+indications_and_usage:
+  Uses For hand sanitizing to decrease bacteria on the skin when water and soap are not available. Recommended for repeated use
+set_id:
+  ef2b12f8-89b3-47c4-88bd-8712a84cfc45
+id:
+  fed2a655-dafe-434a-9685-5c840469e84e
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride .13%

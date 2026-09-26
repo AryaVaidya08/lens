@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Degree Clinical Cool Rush Invisible Solid 96H Antiperspirant Deodorant GLYCINE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE HYDRATED SILICA BENZYL ALCOHOL ISOPROPYL PALMITATE CAPRYLIC/CAPRIC TRIGLYCERIDE C12-15 ALKYL BENZOATE CELLULOSE GUM POLYETHYLENE BHT HEXYL CINNAMAL LINALOOL ISOEUGENOL GERANIOL CYCLOPENTASILOXANE CALCIUM CHLORIDE HYDROGENATED CASTOR OIL PPG-14 BUTYL ETHER STEARETH-100 CITRONELLOL LIMONENE, (+)- SILICA COUMARIN STEARYL ALCOHOL MALTODEXTRIN
+description:
+  Degree Clinical Cool Rush Invisible Solid 96H Antiperspirant Deodorant
+active_ingredient:
+  Aluminum Sesquichlorohydrate 17%
+purpose:
+  Antiperspirant
+indications_and_usage:
+  reduces underarm wetness extra effective
+warnings:
+  • For external use only. • Do not use on broken skin. • Stop use if rash or irritation occurs.• Ask a doctor before use if you have kidney disease. • If swallowed,get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  • KEEP OUT OF REACH OF CHILDREN.
+dosage_and_administration:
+  apply to underarms only
+inactive_ingredient:
+  Stearyl Alcohol, C12-15 Alkyl Benzoate, Isopropyl Palmitate, Cyclopentasiloxane, PPG-14 Butyl Ether, Glycine, Hydrogenated Castor Oil, Fragrance (Parfum), Calcium Chloride, Sodium Starch Octenylsuccinate, Polyethylene, Steareth-100, Caprylic/Capric Triglyceride, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Hydrated Silica, Gelatin Crosspolymer, Silica, BHT, Cellulose Gum, Alpha-Isomethyl Ionone, Benzyl Alcohol, Citronellol, Hexyl Cinnamal, Isoeugenol, Limonene
+questions:
+  Call 1-866-334-7331
+package_label_principal_display_panel:
+  Label
+set_id:
+  4b1f9fd3-3c49-9a98-e063-6294a90a20e0
+id:
+  4b1f9fd3-3c4a-9a98-e063-6294a90a20e0
+effective_time:
+  20260218
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Degree Clinical
+  generic_name:
+    COOL RUSH INVISIBLE SOLID 96H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2425
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    4b1f9fd3-3c4a-9a98-e063-6294a90a20e0
+  spl_set_id:
+    4b1f9fd3-3c49-9a98-e063-6294a90a20e0
+  package_ndc:
+    64942-2425-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

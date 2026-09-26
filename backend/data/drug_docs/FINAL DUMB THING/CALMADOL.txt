@@ -1,0 +1,40 @@
+effective_time:
+  20161031
+inactive_ingredient:
+  Inactive ingredients Citric Acid, Flavors, Polyethylene Glycol, Povidone, Propylene Glycol, Purified Water, r ed #40, Saccharin Sodium, sodium Benzoate, Sorbitol and sucrose. Sodium Content: 1.75 mg per 5ml (t tsp)
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reachof children. In case of accidental overdose, contact a physician or Posion Control Center immediately. Prompt medical attention is critical even if you do not notice any signs or symptoms
+warnings:
+  Warnings DO NOT USE •with any other product containing acetaminophen • for more than 3 days for fever unless directed by a doctor • for more than 5 days for pain unless directed by a doctor Stop Use and Ask a Doctor If: • symptoms do not improve • new symptoms occur· pain or fever persists or gets worse • redness or swelling is present· sore throat is severe, lasts for more than 2 days or occurs with fever, headache, rash, nausea or vomiting Do not exceed recommended dose: Taking more than the recommended dose (overdose) may not provide more relief and could cause serious health problems. Keep this and all drugs out of the reachof children. In case of accidental overdose, contact a physician or Posion Control Center immediately. Prompt medical attention is critical even if you do not notice any signs or symptoms TAMPER-EVIDENT BOTTLE CAP. DO NO USE IF OUTER SEAL (IMPRINT:"SEALED FOR YOUR PROTECTION") IS MISSING OR BROKEN. This product is not manufactured or distributed by McNeil Consumer Products Co., owner of the registered trademark Children's Tylenol Elixir.
+when_using:
+  Do not exceed recommended dose: Taking more than the recommended dose (overdose) may not provide more relief and could cause serious health problems.
+spl_product_data_elements:
+  CALMADOL CHILDRENS Acetaminophen ANHYDROUS CITRIC ACID POLYETHYLENE GLYCOL 1000 POVIDONE PROPYLENE GLYCOL WATER FD&C RED NO. 40 SACCHARIN SODIUM SODIUM BENZOATE SORBITOL SUCROSE ACETAMINOPHEN ACETAMINOPHEN
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions shake well before using find right dose on chart below. If possible, use weight to dose; otherwise, use age. Only use enclosed measuring cup If needed, repeat dose every 4 hours while symptoms last do not give more than 5 times a day. Weight (lb) Age (yr) Dose(tsp or mL) under 24 under 2 ask a doctor 24-35 2-3 5 mL (1 tsp) 36-47 4-5 7.5 mL (1½ tsp) 48-59 6-8 10 mL (2 tsp) 60-71 9-10 12.5 mL (2½ tsp) 72-95 11 15 mL (3 tsp)
+spl_unclassified_section:
+  Drug Facts
+  ATTENTION: This product has been specifically designed for use only with enclosed measuring cup. Use only enclosed measuring cup to dose this product Do not use any other dosing device.
+stop_use:
+  Stop Use and Ask a Doctor If: • symptoms do not improve • new symptoms occur· pain or fever persists or gets worse • redness or swelling is present· sore throat is severe, lasts for more than 2 days or occurs with fever, headache, rash, nausea or vomiting
+storage_and_handling:
+  Other information: Store at controlled room temperature between 15-30°C (59-86°F)
+do_not_use:
+  DO NOT USE •with any other product containing acetaminophen • for more than 3 days for fever unless directed by a doctor • for more than 5 days for pain unless directed by a doctor
+package_label_principal_display_panel:
+  Package Labeling CALMADOL CHILDRENS ELIXIR Alcohol Free 4 fl oz (118ml) 80 mg acetaminophen per 1/2 teaspoon SyrupLabel
+indications_and_usage:
+  Uses For the reduction of fever. For the temporary relief of minor aches and pains associated with: a cold flu headache sore throat toothache
+set_id:
+  cd724883-eb54-401e-846a-ab28f69e4141
+id:
+  40290cf7-9a09-177a-e054-00144ff88e88
+active_ingredient:
+  Active ingredient (in each 5 mL = 1 teaspoonful) Acetaminophen 160 mg
+dosage_and_administration_table:
+  <table border="1"> <thead> <tr> <td> <paragraph> <content styleCode="bold">Weight (lb)</content> </paragraph> </td> <td> <paragraph> <content styleCode="bold">Age (yr)</content> <content styleCode="bold"/> </paragraph> </td> <td> <paragraph> <content styleCode="bold">Dose(tsp or mL)</content> </paragraph> </td> </tr> </thead> <tbody> <tr> <td> <paragraph>under 24</paragraph> </td> <td> <paragraph>under 2</paragraph> </td> <td> <paragraph>ask a doctor</paragraph> </td> </tr> <tr> <td> <paragraph>24-35</paragraph> </td> <td> <paragraph>2-3</paragraph> </td> <td> <paragraph>5 mL (1 tsp)</paragraph> </td> </tr> <tr> <td> <paragraph>36-47</paragraph> </td> <td> <paragraph>4-5</paragraph> </td> <td> <paragraph>7.5 mL (1&#xBD; tsp)</paragraph> </td> </tr> <tr> <td> <paragraph>48-59</paragraph> </td> <td> <paragraph>6-8</paragraph> </td> <td> <paragraph>10 mL (2 tsp)</paragraph> </td> </tr> <tr> <td> <paragraph>60-71</paragraph> </td> <td> <paragraph>9-10</paragraph> </td> <td> <paragraph>12.5 mL (2&#xBD; tsp)</paragraph> </td> </tr> <tr> <td> <paragraph>72-95</paragraph> </td> <td> <paragraph>11</paragraph> </td> <td> <paragraph>15 mL (3 tsp)</paragraph> </td> </tr> </tbody> </table>

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  ALCOHOL DISINFECTANT WIPES ALCOHOL DISINFECTANT WIPES WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Disinfection Sterilization No Rinseing
+indications_and_usage:
+  Use Open the cover whenusing, tear of the adhesive tape, can be exracteduse. use Afer, please fimely reduce the adhesive paste and close the cover to avoid inemal moisure eaporation.
+warnings:
+  Warnings 1. This product is only for daily use and should be stored in a cool and sealed place. 2. For extemal use only. If you find any skin discomfort or sensitivity, please stop using immediately. 3. wipe the entryable items to be used after vlatilization; 4. This product cannot be dissolved. Please do not throw it into the toilt. 5. Iflammables, do not go near the source of fire. 6.For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients purified water USP
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 10 CLOTH IN 1 BAG NDC:41382-006-01 10 CLOTH label
+set_id:
+  a673b4a7-0e11-647c-e053-2995a90a9cfe
+id:
+  a6731b0a-a832-bdc9-e053-2a95a90acffa
+effective_time:
+  20200525
+version:
+  1
+openfda:

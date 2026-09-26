@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Crest 3D White Brilliance Pro Rinse Sodium Fluoride GLYCERIN HYDROGEN PEROXIDE POLOXAMER 407 POLYSORBATE 80 SACCHARIN SODIUM SUCRALOSE PHOSPHORIC ACID SODIUM PHOSPHATE, DIBASIC, ANHYDROUS SODIUM FLUORIDE FLUORIDE ION WATER Clear
+spl_unclassified_section:
+  Drug Facts
+  DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.02% (0.01% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use Aids in the prevention of dental cavities
+warnings:
+  Warnings Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 12 years & older: Use twice a day after brushing your teeth with a toothpaste. Vigorously swish 10 mL (2 teaspoonfuls) of rinse between your teeth for 1 minute and then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in good rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 12 years of age: consult a dentist or doctor.
+inactive_ingredient:
+  Inactive ingredients water, glycerin, hydrogen peroxide, poloxamer 407, flavor, polysorbate 80, sodium saccharin, sucralose, phosphoric acid, disodium phosphate
+questions:
+  Questions? 1-800-862-7442
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 946 mL Bottle Label + FLUORIDE + HYDROGEN PEROXIDE Crest 3D WHITE ANTICAVITY FLOURIDE RINSE BRILLIANCE WHITER TEETH IN 7 DAYS IMPORTANT: Read directions for proper use. CLINICALLY PROVEN PRO WHITENING INGREDIENT ALCOHOL FREE 946mL (32 FL OZ) Label
+set_id:
+  13a01190-a6f3-17b3-e063-6294a90a36c2
+id:
+  47e5179c-5fa4-860c-e063-6294a90a6462
+effective_time:
+  20260108
+version:
+  5
+openfda:
+  application_number:
+    M021
+  brand_name:
+    Crest 3D White Brilliance Pro Rinse
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    The Procter & Gamble Manufacturing Company
+  product_ndc:
+    69423-838
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    313029
+    1658137
+  spl_id:
+    47e5179c-5fa4-860c-e063-6294a90a6462
+  spl_set_id:
+    13a01190-a6f3-17b3-e063-6294a90a36c2
+  package_ndc:
+    69423-838-32
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

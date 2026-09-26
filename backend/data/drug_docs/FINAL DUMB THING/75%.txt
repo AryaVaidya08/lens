@@ -1,0 +1,35 @@
+effective_time:
+  20210121
+inactive_ingredient:
+  Inactive ingredients Water(Aqua)
+purpose:
+  Purpose Fungicide
+keep_out_of_reach_of_children:
+  
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame
+when_using:
+  When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask doctor if irritation or rash appears and lasts. Keep out of children If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  75% ALCOHOL DISINFECTANT 75% ALCOHOL DISINFECTANT SILVER CATION SILVER CATION WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  USAGE Spray this product evenly on skin or hand surface Children under 6 years of age should be supervised when using this product
+stop_use:
+  
+storage_and_handling:
+  Other information Store below 15-30 C (59-86 F)
+do_not_use:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 500 800 720 1000 5000 3000 50 420 30 4000 2000 250 280 40 60 120 200 300 100 600
+indications_and_usage:
+  Uses Helps disinfect the skin and hands etc
+set_id:
+  a3c77b40-2bea-1dad-e053-2a95a90a7764
+id:
+  b96395f9-b22e-7e56-e053-2a95a90a8c80
+active_ingredient:
+  Active Ingredient(s) Alcohol 75%, Silver ion 0. 1 mg/kg

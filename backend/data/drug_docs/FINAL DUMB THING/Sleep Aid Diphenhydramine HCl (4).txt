@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Sleep Aid Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE FD&C BLUE NO. 1 GELATIN GLYCERIN LIGHT MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED WATER SORBITAN SORBITOL P50;A99;AP018
+active_ingredient:
+  Active ingredient (in each softgel) Diphenhydramine HCl 50 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Use for relief of occasional sleeplessness.
+warnings:
+  Warnings Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product avoid alcoholic drinks. Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+do_not_use:
+  Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product avoid alcoholic drinks.
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: 1 softgel (50 mg) at bedtime if needed, or as directed by a doctor
+storage_and_handling:
+  Other information store at 15-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients edible white ink, FD&C blue #1, gelatin, glycerin, light mineral oil*, polyethylene glycol, purified water, sorbitol-sorbitan *may contain this ingredient
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Unisom® SleepGels® Active Ingredient** Maximum Strength Sleep-Aid Softgels Diphenhydramine HCI 50 mg Nighttime sleep-aid Fall asleep fast Sleep soundly Wake up refreshed Liquid Filled Safe, Non Habit-Forming One softgel per dose SOFTGELS For Questions or comments or to report an undesired reactionor side effect, please call 1-888-287-1915. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. **This product is not manufactured or distributed by Chattem, Inc., distributor of Unisom® SleepGels®. DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716
+  Package Label EQUATE Maximum Strength Sleep-Aid Softgels Diphenhydramine HCI 50 mg
+set_id:
+  f1bf058a-b2e4-44d7-99d7-55013e2c692d
+id:
+  d7d59113-ba37-431c-950a-39ef82307131
+effective_time:
+  20220927
+version:
+  4
+openfda:

@@ -1,0 +1,30 @@
+effective_time:
+  20200916
+inactive_ingredient:
+  INACTIVE INGREDIENTS 1000ML INACTIVE ING.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH SECTION 1000 ML KEEP OUT OF REACH
+purpose:
+  PURPOSE 500ML PURPOSE
+warnings:
+  WARNINGS 500ML WARNINGS
+spl_product_data_elements:
+  ALCOHOL BASED HAND SANITIZER TOTAL PURE HAND SANITIZER CARBOMER 940 TROLAMINE WATER GLYCERIN ALCOHOL ALCOHOL COLORLESS
+warnings_and_cautions:
+  WARININGS AND PRECAUTIONS 500ML WARNINGS AND PREC
+openfda:
+version:
+  5
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION 500ML DOSAGE AND ADMINIS.
+package_label_principal_display_panel:
+  500 ml FRONT DISPLAY TOTAL PURE 500ML
+  1000 ml FRONT LABEL DISPLAY total pure 1000
+indications_and_usage:
+  INDICATIONS AND USAGE SECTION 500ML INDICATIONS
+set_id:
+  ab0ecbed-ac5c-c554-e053-2995a90a193a
+id:
+  af774de2-4ed3-283f-e053-2a95a90ae587
+active_ingredient:
+  Active ingedient. 500ML ACTIVE INGREDIENT

@@ -1,0 +1,27 @@
+effective_time:
+  20210309
+inactive_ingredient:
+  water, propylene glycol, phenoxyethanol, glycerin, sodium benzoate, sodium citrate, disodium edta, polysorbate 20, citric acid, melaleuca alternifolia (tea tree) leaf oil, tocopheryl acetate
+purpose:
+  Antibacterial Wipes to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Olje Antibacterial Wipes Benzalkonium Chloride .ALPHA.-TOCOPHEROL ACETATE EDETATE DISODIUM ANHYDROUS CITRIC ACID MONOHYDRATE TEA TREE OIL POLYSORBATE 20 PROPYLENE GLYCOL PHENOXYETHANOL SODIUM CITRATE GLYCERIN SODIUM BENZOATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  5
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label label
+indications_and_usage:
+  Thoroughly wipe hands with wipe. Discard properly. Not flushable. Be sure to close lid to keep wipes moist.
+set_id:
+  a3728a2e-0238-6afa-e053-2a95a90ab633
+id:
+  bd27ba88-7668-6c9c-e053-2a95a90ad7dc
+active_ingredient:
+  Benzalkonium Chloride

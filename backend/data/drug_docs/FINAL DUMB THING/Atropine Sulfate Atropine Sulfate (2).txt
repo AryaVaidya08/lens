@@ -1,0 +1,51 @@
+effective_time:
+  20130131
+references:
+  REFERENCE 1. This treatment regimen for severe atropine toxicoses is from “Handbook of Poisoning,” Ninth Edition by Robert Dreisbach, Lange Medical Publications, Los Altos, California, 1977 AS00N Rev. 06/08
+precautions:
+  PRECAUTIONS: General. To avoid excessive systemic absorption, the lacrimal sac should be compressed by digital pressure for two or three minutes after instillation. Use of this product in susceptible individuals, including those with shallow anterior chambers, may precipitate acute angle closure glaucoma. To avoid inducing angle closure, an estimation of anterior chamber depth should be made prior to instillation of this medication. Administration of atropine in pediatric patients requires great caution. Individuals with Down's syndrome may experience prolonged dilatation from this medication. Information for Patients: Do not touch dropper tip to any surface as this may contaminate the contents. Patients should be advised not to drive or engage in other hazardous activities while pupils are dilated. Patients may experience sensitivity to light and should protect eyes in bright illumination during dilation. Parents should be warned not to get this preparation in their child's mouth and to wash their own hands and the child's hands following administration. Carcinogenesis, Mutagenesis, Impairment of Fertility: No studies have been conducted in animals or in humans to evaluate the potential of these effects. Pregnancy Category C: Animal reproduction studies have not been performed with atropine. It is also not known whether atropine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Atropine should be given to pregnant women only if clearly needed. Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when atropine is administered to a nursing woman. Pediatric Use: See “ CONTRAINDICATIONS ”, “ WARNINGS ”, “ PRECAUTIONS ”, and “ OVERDOSAGE ” sections.
+description:
+  DESCRIPTION: Atropine Sulfate Ophthalmic Solution is a sterile topical anticholinergic for ophthalmic use. The active ingredient is represented by the chemical structure: (C 17 H 23 NO 3 ) 2 • H 2 SO 4 • H 2 O Mol. wt. 694.85 Chemical name: Benzeneacetic acid, α-(hydroxymethyl)-, 8-methyl-8-azabicyclo-[3.2.1]oct-3-yl ester, endo- (±)-, sulfate (2:1) (salt), monohydrate. Atropine Sulfate Ophthalmic Solution Each mL contains: Active: Atropine Sulfate 10 mg (1%). Preservative: Benzalkonium Chloride 0.1 mg (0.01%). Vehicle: Hypromellose (2910) 5 mg (0.5%). Inactives: Dibasic Sodium Phosphate, Edetate Disodium, Monobasic Sodium Phosphate, Hydrochloric Acid and/or Sodium Hydroxide may be added to adjust pH (3.5 to 6.0), and Purified Water USP. Chemical Structure
+general_precautions:
+  General. To avoid excessive systemic absorption, the lacrimal sac should be compressed by digital pressure for two or three minutes after instillation. Use of this product in susceptible individuals, including those with shallow anterior chambers, may precipitate acute angle closure glaucoma. To avoid inducing angle closure, an estimation of anterior chamber depth should be made prior to instillation of this medication. Administration of atropine in pediatric patients requires great caution. Individuals with Down's syndrome may experience prolonged dilatation from this medication.
+indications_and_usage:
+  INDICATIONS AND USAGE: A potent parasympatholytic agent for use in producing cycloplegia and mydriasis. Useful for cycloplegic refraction or for pupil dilation in acute inflammatory conditions of the iris and uveal tract.
+set_id:
+  6fd7c6bd-6aba-4197-8942-be45d3989f5b
+id:
+  39918efd-1f42-447f-87a4-54d34b63968c
+pediatric_use:
+  Pediatric Use: See “ CONTRAINDICATIONS ”, “ WARNINGS ”, “ PRECAUTIONS ”, and “ OVERDOSAGE ” sections.
+contraindications:
+  CONTRAINDICATIONS: Contraindicated in patients with primary glaucoma or a predisposition toward narrow angle glaucoma; and in those individuals showing hypersensitivity to any component in this preparation. Contraindicated in patients with adhesions (synechiae) between the iris and the lens. It should not be used in pediatric patients who have previously had a severe systemic reaction to atropine; in the elderly and others where undiagnosed glaucoma or excessive pressure in the eye may be present.
+warnings:
+  WARNINGS: For topical ophthalmic use only. Not for injection. In infants and pediatric patients, use with extreme caution. Excessive use in pediatric patients or in certain individuals with a history of susceptibility to belladonna alkaloids may produce systemic symptoms of atropine poisoning. If this occurs, discontinue medication, and use appropriate therapy as outlined in “ OVERDOSAGE ” section. Do not use during the first 3 months of life, due to the possible association between the cycloplegia produced and the development of amblyopia. Feeding intolerance may follow ophthalmic use of this product in neonates. It is recommended that feeding be withheld for 4 hours after examination. Do not use in concentrations higher than 0.5% in small infants.
+pregnancy:
+  Pregnancy Category C: Animal reproduction studies have not been performed with atropine. It is also not known whether atropine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Atropine should be given to pregnant women only if clearly needed.
+nursing_mothers:
+  Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when atropine is administered to a nursing woman.
+spl_product_data_elements:
+  Atropine Sulfate Atropine Sulfate ATROPINE SULFATE ATROPINE BENZALKONIUM CHLORIDE HYPROMELLOSES SODIUM PHOSPHATE, DIBASIC EDETATE DISODIUM SODIUM PHOSPHATE, MONOBASIC HYDROCHLORIC ACID SODIUM HYDROXIDE WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Adults: For uveitis administer one or two drops topically to the eye(s) up to four times daily or as directed by a physician. The lacrimal sac should be compressed by digital pressure for two to three minutes after instillation. Heavily pigmented irides may require larger doses.
+adverse_reactions:
+  ADVERSE REACTIONS: Prolonged use may produce local irritation characterized by follicular conjunctivitis, vascular congestion, edema, exudate, and an eczematoid dermatitis. Severe reactions are manifested by hypotension with progressive respiratory depression. Coma and death have been reported in the very young.
+spl_unclassified_section:
+  Rx only
+how_supplied_table:
+  <table width="30%" ID="i1e0fb4f2-decc-4398-8eb5-19a6fb13a48b"> <tbody> <tr> <td>5 mL  </td> <td>NDC 54868-1178-0  </td> </tr> </tbody> </table>
+how_supplied:
+  HOW SUPPLIED: Atropine Sulfate Ophthalmic Solution is supplied in a plastic dropper bottle in the following sizes: 5 mL NDC 54868-1178-0 Storage: Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Keep tightly closed. WARNING-KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN. Manufactured by: Akorn, Inc. Lake Forest, IL 60045 Relabeling of "Additional" barcode label by: Physicians Total Care, Inc. Tulsa, OK 74146
+information_for_patients:
+  Information for Patients: Do not touch dropper tip to any surface as this may contaminate the contents. Patients should be advised not to drive or engage in other hazardous activities while pupils are dilated. Patients may experience sensitivity to light and should protect eyes in bright illumination during dilation. Parents should be warned not to get this preparation in their child's mouth and to wash their own hands and the child's hands following administration.
+package_label_principal_display_panel:
+  Principal Display Panel: NDC 54868-1178-0 Atropine Sulfate 1% Ophthalmic Solution Rx only 5 mL Sterile image of 5 mL package label
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: The anticholinergic effect of this product blocks the responses of the sphincter muscle of the iris and the accommodative muscle of the ciliary body to cholinergic stimulation, producing pupillary dilation (mydriasis) and paralysis of accommodation (cycloplegia).
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility: No studies have been conducted in animals or in humans to evaluate the potential of these effects.
+overdosage:
+  OVERDOSAGE: Systemic atropine toxicity is manifested by flushing and dryness of the skin (a rash may be present in pediatric patients), blurred vision, a rapid and irregular pulse, fever, abdominal distention in infants, mental aberration (hallucinosis), and loss of neuromuscular coordination. Atropine poisoning although distressing is rarely fatal, even with large doses of atropine, and is self-limited if the cause is recognized and the atropine medication is discontinued. In severe intoxication, physostigmine salicylate may be administered parenterally to provide more prompt relief of the intoxication. Give the physostigmine salicylate as 1 to 5 mL IV of dilution containing 1 mg in 5 mL of saline. The smaller dose is for pediatric patients, and injection should take not less than two minutes. EKG control is advisable. Dosage can be repeated every five minutes up to a total dose of 2 mg in pediatric patients and 6 mg in adults every 30 minutes. Physostigmine is contraindicated in hypotensive reactions. Atropine (1 mg) should be available for immediate injection if physostigmine causes bradycardia, convulsions or broncoconstriction. 1 In infants and pediatric patients, the body surface must be kept moist. Use extreme caution when employing short-acting barbiturates to control excitement.

@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  AVON HeXashield Anti Itch Cream with Healing Aloe HYDROCORTISONE MINERAL OIL METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN HYDROCORTISONE HYDROCORTISONE STEARYL ALCOHOL WATER ALOE VERA LEAF BUTYLATED HYDROXYTOLUENE SORBITAN MONOSTEARATE CETETH-20 CETYL ALCOHOL
+active_ingredient:
+  Active Ingredient Hydrocortisone 0.5 %
+purpose:
+  Purpose Anti-Itch
+indications_and_usage:
+  Uses For the temporary relief of itching associated with minor skin irritations, inflammation, and rashes due to: eczema psoriasis poison ivy, oak or sumac insect bites detergents jewelry cosmetics soaps seborrheic dermatitis temporarily relieves external anal and genital itching other uses of this product should be only under the advice and supervision of doctor
+warnings:
+  Warnings For external use only. Do not use in the genital area if you have a vaginal discharge. Consult a doctor. for the treatment of diaper rash. Consult a doctor. When using this product avoid contact with eyes do not use more than directed unless told to do so by a doctor do not put directly into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if : condition worsens, symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor rectal bleeding occurs Do not use this product and ask a doctor if you have a vaginal discharge before treating diaper rash before using on children under 2 years of age Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the genital area if you have a vaginal discharge. Consult a doctor. for the treatment of diaper rash. Consult a doctor.
+  Do not use this product and ask a doctor if you have a vaginal discharge before treating diaper rash before using on children under 2 years of age
+when_using:
+  When using this product avoid contact with eyes do not use more than directed unless told to do so by a doctor do not put directly into the rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if : condition worsens, symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor rectal bleeding occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ​for itching of skin irritation, inflammation, and rashes : adults and children 2 years of age and older apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor for external anal and genital itching, adults : when practical, clean the affected area with mild soap and warm water and rinse thoroughly gently dry by patting or blotting with toilet tissue or a soft cloth before applying apply to affected area not more than 3 to 4 times daily children under 12 years of age: ask a doctor
+storage_and_handling:
+  Other information store at room temperature Lot No. & Exp. Date: see box or crimp of tube
+inactive_ingredient:
+  Inactive Ingredients aloe vera leaf, butylated hydroxytolune, ceteth-20, cetyl alcohol, methylparaben, mineral oil, propylparaben, sorbitan monostearate, stearyl alcohol, water
+questions:
+  Questions or comments? Call toll free 1-800-FOR-AVON www.avon.com
+package_label_principal_display_panel:
+  Principal Display Panel HeXasheild AVON Relieves skin irritation and rashes due to - Eczema - Seborrheic Dermatitis - Detergents - Psoriasis - Poison ivy, Oak & sumac - Jewelry - Insect bites - Soaps - Cosmetics HeXashield ANTI ITCH CREAM WITH HEALING ALOE Fragrance Free plus Soothing Aloe 0.5% hydrocortisone cream Regular strength Sensitive Skin Hydrocortisone Cream REGULAR STRENGTH Anti-Itch Cream NET WT 2 oz (57 g) AVON ANTI ITCH CREAM WITH HEALING ALOE_1 AVON ANTI ITCH CREAM WITH HEALING ALOE_DF
+set_id:
+  8f2aa11d-d794-6f3e-e053-2995a90a1d9d
+id:
+  2aabc954-bc38-e806-e063-6394a90a05dd
+effective_time:
+  20250101
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    AVON HeXashield Anti Itch Cream with Healing Aloe
+  generic_name:
+    HYDROCORTISONE
+  manufacturer_name:
+    Tai Guk Pharm. Co., Ltd.
+  product_ndc:
+    43136-103
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HYDROCORTISONE
+  rxcui:
+    198707
+  spl_id:
+    2aabc954-bc38-e806-e063-6394a90a05dd
+  spl_set_id:
+    8f2aa11d-d794-6f3e-e053-2995a90a1d9d
+  package_ndc:
+    43136-103-01
+  is_original_packager:
+    True
+  upc:
+    0803954601039
+  nui:
+    N0000175576
+    N0000175450
+  pharm_class_epc:
+    Corticosteroid [EPC]
+  pharm_class_moa:
+    Corticosteroid Hormone Receptor Agonists [MoA]
+  unii:
+    WI4X0X7BPJ

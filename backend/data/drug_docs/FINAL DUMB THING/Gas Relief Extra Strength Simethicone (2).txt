@@ -1,0 +1,34 @@
+effective_time:
+  20210624
+inactive_ingredient:
+  Inactive ingredients D&C yellow #10, edible ink, FD&C blue #1, FD&C red #40, gelatin, glycerin, medium-chain triglycerides*, peppermint oil, purified water, sorbitan, sorbitol, titanium dioxide *may contain this ingredient
+purpose:
+  Purpose Antigas
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+questions:
+  Questions? Or to report an adverse event call 800-824-1706 Monday-Friday 9am-4pm MST
+spl_product_data_elements:
+  Gas Relief Extra Strength Simethicone DIMETHICONE DIMETHICONE D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN GLYCERIN MEDIUM-CHAIN TRIGLYCERIDES PEPPERMINT OIL WATER SORBITAN SORBITOL TITANIUM DIOXIDE PO;S1;SCU
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions adults : swallow with water 1 or 2 softgels as needed after meals and at bedtime do not exceed 4 softgels in 24 hours unless directed by a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information store at controlled room temperature 20-25°C (68-77°F) protect from light, heat, and moisture
+package_label_principal_display_panel:
+  Principal Display Panel **Compare to the active ingredients in GAS-X® Extra Strength Gas Relief SImethicone 125 mg/antigas Fast relief for: Pressure, Bloating & Discomfort Easy to swallow KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF BLISTER UNIT IS TORN, BROKEM OR SHOWS ANY SIGNS OF TAMPERING Softgels DISTRIBUTED BY: WINCO FOODS, LLC, BOISE ID 83704 **This product is not manufactured or distributed by NOVARTIS, distributor of GAS-X® www.wincofoods.com
+  Product Label WinCo Foods Extra Strength Gas Relief Softgels Simethicone 125 mg
+indications_and_usage:
+  Uses for the relief of pressure, bloating, and fullness commonly referred to as gas
+set_id:
+  d86a3977-20d1-44fd-b63a-5c3bda5fc10d
+id:
+  a156e540-1302-4de2-ac1c-592055f08da8
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 125 mg

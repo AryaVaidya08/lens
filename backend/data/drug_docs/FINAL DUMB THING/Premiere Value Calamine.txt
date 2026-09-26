@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Premiere Value Calamine Calamine 8% and Zinc Oxide 8% BENTONITE CALCIUM HYDRIDE GLYCERIN WATER ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  active Ingredients Calamine 8% Zinc Oxide 8%
+purpose:
+  Purpose Skin Protectant Skin Protectant
+indications_and_usage:
+  Uses Dries the oozing and weeping of poison ivy, poison oak, and poison sumac and other skin irritations.
+warnings:
+  Warnings For external use only. Use only as directed. Avoid contat with eyes and moucous membranes.
+ask_doctor:
+  Ask a doctor before using on children under 6 years of age. Stop use and ask a doctor if Condition worsens Symptoms last for more than 7 days or clear up and occur again within a few days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 6 mo. of age and older: Shake well before using. Cleanse the skin with soap and water. Let dry before each use. Apply lotion to the affected area using cotton or soft cloth, as often as needed for comfort. Children under 6 mo. of age: Consult a doctor before use.
+other_safety_information:
+  Other information Store at room temperature 15-30C (59-86F)
+inactive_ingredient:
+  Inactive Ingredients Bentonite Magma, Calcium Hydroxide, Glycerin, and Purified Water.
+questions:
+  Questions or Comments?
+package_label_principal_display_panel:
+  Label PV Calamine
+set_id:
+  5c8bde5a-591d-085f-e053-2991aa0a56af
+id:
+  0cf4d6ef-ff52-ecf0-e063-6394a90a9802
+effective_time:
+  20231220
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Premiere Value Calamine
+  generic_name:
+    CALAMINE 8% AND ZINC OXIDE 8%
+  manufacturer_name:
+    Chain Drug Consortium
+  product_ndc:
+    68016-413
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    617954
+  spl_id:
+    0cf4d6ef-ff52-ecf0-e063-6394a90a9802
+  spl_set_id:
+    5c8bde5a-591d-085f-e053-2991aa0a56af
+  package_ndc:
+    68016-413-96
+  is_original_packager:
+    True
+  upc:
+    0840986012952
+  unii:
+    SOI2LOH54Z

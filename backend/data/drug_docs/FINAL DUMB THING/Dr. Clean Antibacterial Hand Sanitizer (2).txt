@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Dr. Clean Antibacterial Hand Sanitizer ALCOHOL GLYCERIN 2-PHENYLPROPANAL PROPYLENE GLYCOL ACETAL WATER SUCROSE OCTAACETATE TERT-BUTYL ALCOHOL ALOE VERA LEAF ALCOHOL ALCOHOL TROLAMINE CARBOMER 940
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 75% v/v
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use Helps reduce bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds around eyes in ears and mouth
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Purified Water, Glycerine, Propylene Glycol, Carbomer, Triethanolamine, Aloe Barbadensis Leaf Juice, Sucrose Octaacetate, Tert-Butyl Alcohol
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 300 ml NDC: 73662-014-01 300ml_label
+set_id:
+  b50f3423-aced-53c8-e053-2995a90ab87c
+id:
+  e14f5e54-dc6e-5756-e053-2a95a90a205b
+effective_time:
+  20220613
+version:
+  2
+openfda:

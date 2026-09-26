@@ -1,0 +1,27 @@
+effective_time:
+  20170921
+inactive_ingredient:
+  Inactive ingredients Glycerol, Sodium polyacrylate, Water, Dihydroxyaluminum Aminoacetate, Methylparaben, Propylparaben, Titanium dioxide, Kaolin, Tween 80, Propylene glycol, Span 80, Tartaric acid, PVP, Polyacrylic acid
+purpose:
+  Topical analgesic Topical analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only
+spl_product_data_elements:
+  Hot Pain Relieving MENTHOL, UNSPECIFIED FORM, CAPSAICIN GLYCERIN WATER DIHYDROXYALUMINUM AMINOACETATE METHYLPARABEN PROPYLPARABEN TITANIUM DIOXIDE KAOLIN POLYSORBATE 80 PROPYLENE GLYCOL SORBITAN MONOOLEATE TARTARIC ACID POVIDONE, UNSPECIFIED MENTHOL, UNSPECIFIED FORM MENTHOL CAPSAICIN CAPSAICIN
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions adults and children over 12 years: remove backing from patch by grasping both ends firmly and gently pulling until backing separates in middle carefully remove smaller portion of backing from patch and apply exposed portion of patch to affected area once exposed portion of patch is positioned, carefully remove remaining backing to completely apply patch to affected area apply one patch to affected area wear one Icy Hot Patch up to 8 hours repeat as necessary, but no more than 3 times daily children 12 years or younger: ask a doctor
+package_label_principal_display_panel:
+  Package Labeling Label- Hot Pain Relieving Patch
+indications_and_usage:
+  Uses temporarity relieves minor pain associated with: arthritis simple backache bursitis tendonitis muscle strains sprains bruises cramps
+set_id:
+  32d36c4c-36b5-4b7b-9c67-203742b665bc
+id:
+  59b9449b-3b22-39f7-e053-2a91aa0a6db2
+active_ingredient:
+  menthol 5% capsaicin 0.0375%

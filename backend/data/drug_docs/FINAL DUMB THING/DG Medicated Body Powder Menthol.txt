@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  DG Medicated Body Powder Menthol MENTHOL MENTHOL SODIUM BICARBONATE SALICYLIC ACID ZINC STEARATE STARCH, CORN ZINC OXIDE EUCALYPTUS OIL PEPPERMINT OIL TRICALCIUM PHOSPHATE
+active_ingredient:
+  Active Ingredient Menthol 0.15%
+purpose:
+  Purpose External Analgesic
+indications_and_usage:
+  Uses temporarily relives pain and itch associated with: Minor Cuts Sunburn Insect Bites Scrapes Minor Burns Minor Skin Irritation
+warnings:
+  Warning Section For external use only Avoid contact with eyes
+stop_use:
+  Stop use and ask a doctor If Conditions worsens symptoms persists for more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion get medical help or contact a Poison Control Centre right away
+dosage_and_administration:
+  Directions Remove seal beneath cap before first use. Do not use if the seal is broken or missing adults and children 2 years and older - apply freely up to 3 or 4 times daily childrens under 2 years - ask a doctor For best results, dry skin thoroughly before applying.
+inactive_ingredient:
+  Inactive Ingredients Zea Mays (Corn) Starch, Zinc Oxide, Tricalcium Phosphate, Sodium Bicarbonate, Salicylic Acid, Zinc Stearate, Eucalyptus Oil, Peppermint Oil
+package_label_principal_display_panel:
+  Principal Display Panel NDC 42669-288-10 DG Body Compare to the active ingredient of Gold Bond Medicated Body Powder Medicated Body Poweder Cools Absorbs Relieves Itching Talc-Free Made with Cornstarch NET WT 10OZ (283 g) label
+set_id:
+  015460de-f0b8-ee59-e063-6394a90a5664
+id:
+  0e24845f-a54d-5d02-e063-6394a90a4d6a
+effective_time:
+  20240104
+version:
+  2
+openfda:

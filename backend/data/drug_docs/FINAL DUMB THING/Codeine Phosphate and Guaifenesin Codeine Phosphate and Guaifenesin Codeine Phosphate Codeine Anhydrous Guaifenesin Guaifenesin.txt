@@ -1,0 +1,46 @@
+effective_time:
+  20200609
+purpose:
+  Active Ingredients (In each 5 mL = 1 tsp) Purpose Codeine Phosphate, USP 10 mg Antitussive Guaifenesin, USP 100 mg Expectorant
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product • giving a higher dose than recommended by a doctor could result in serious side effects for your child. A special measuring device should be used to give an accurate dose of this product to children under 6 years of age. • may cause or aggravate constipation
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information Each tsp (5 mL) contains 4 mg sodium. Store at controlled room temperature 15° to 30°C (59° to 86° F). You may report side effects by calling Virtus Pharmaceuticals, LLC at 1-888-848-3593 or FDA at 1-800-FDA-1088
+indications_and_usage:
+  Uses • temporarily relieves: • cough due to minor throat and bronchial irritation as may occur with a cold or inhaled irritants • your cough to help you sleep • helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make cough more productive.
+set_id:
+  207fbcc1-ce05-423c-8b50-3b07dc3b59a9
+id:
+  7395e69a-5cf3-402d-a46b-08e2df1708a2
+active_ingredient:
+  Active Ingredients (In each 5 mL = 1 tsp) Purpose Codeine Phosphate, USP 10 mg Antitussive Guaifenesin, USP 100 mg Expectorant
+dosage_and_administration_table:
+  <table width="65%"> <col width="33%"/> <col width="32%"/> <tbody> <tr> <td styleCode="Rrule Toprule " valign="top"> <paragraph>Adults and children 12 years of age and over:</paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph>2 tsp (10 mL) every 4 hours, or as directed by a doctor.</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule " valign="top"> <paragraph>Children 6 to under 12 years of age:</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph>1 tsp (5 mL) every 4 hours, or as directed by a doctor.</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule " valign="top"> <paragraph>Children under 6 years of age:</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph>Consult a doctor.</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Alcohol, caramel flavor, cherry flavor, citric acid, FD&C Red #40, glycerin, menthol flavor, purified water, sodium benzoate, sodium saccharin, sorbitol.
+warnings:
+  Warnings Ask your doctor before use if • you have a persistent cough, this may be a sign of a serious condition • you have a persistent cough such as occurs with smoking, asthma, chronic bronchitis or emphysema • you have a cough that is accompanied by excessive phlegm (mucus) • you have chronic pulmonary disease or shortness of breath • giving to a child who is taking other drugs When using this product • giving a higher dose than recommended by a doctor could result in serious side effects for your child. A special measuring device should be used to give an accurate dose of this product to children under 6 years of age. • may cause or aggravate constipation Stop use and ask a doctor if • symptoms do not improve within 7 days, tend to recur or are accompanied by fever and rash or persistent headache. These may be symptoms of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Codeine Phosphate and Guaifenesin Codeine Phosphate and Guaifenesin Codeine Phosphate Codeine Anhydrous Guaifenesin Guaifenesin ALCOHOL SACCHARIN SODIUM CITRIC ACID MONOHYDRATE SORBITOL FD&C Red NO. 40 glycerin WATER SODIUM BENZOATE
+ask_doctor:
+  Ask your doctor before use if • you have a persistent cough, this may be a sign of a serious condition • you have a persistent cough such as occurs with smoking, asthma, chronic bronchitis or emphysema • you have a cough that is accompanied by excessive phlegm (mucus) • you have chronic pulmonary disease or shortness of breath • giving to a child who is taking other drugs
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • do not exceed 6 doses in 24 hours. Adults and children 12 years of age and over: 2 tsp (10 mL) every 4 hours, or as directed by a doctor. Children 6 to under 12 years of age: 1 tsp (5 mL) every 4 hours, or as directed by a doctor. Children under 6 years of age: Consult a doctor.
+spl_unclassified_section:
+  Drug Facts
+  Manufactured for: Virtus Pharmaceuticals, LLC Newtown, PA 18940 Made in USA Rev. 07/2017 7300-0016
+stop_use:
+  Stop use and ask a doctor if • symptoms do not improve within 7 days, tend to recur or are accompanied by fever and rash or persistent headache. These may be symptoms of a serious condition.
+active_ingredient_table:
+  <table width="75%"> <col width="51%"/> <col width="24%"/> <thead> <tr> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Active Ingredients (In each 5 mL = 1 tsp)</content> </content> </th> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Purpose</content> </content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Toprule " valign="top"> <paragraph>Codeine Phosphate, USP 10 mg</paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph>Antitussive</paragraph> </td> </tr> <tr> <td styleCode="Botrule " valign="top"> <paragraph>Guaifenesin, USP 100 mg</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph>Expectorant</paragraph> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label VIRTUS ® PHARMACEUTICALS NDC: 69543- 276 -16 Codeine phosphate and Guaifenesin oral solution 10 mg/100 mg Per 5 mL Antitussive Expectorant CV SUGAR FREE Each 5 mL (1 teaspoonful) contains: Codeine Phosphate, USP 10 mg Guaifenesin, USP 100 mg (WARNING: May be habit-forming) Alcohol 3.8% Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing 16 fl. oz. (473 mL) PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+purpose_table:
+  <table width="75%"> <col width="51%"/> <col width="24%"/> <thead> <tr> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Active Ingredients (In each 5 mL = 1 tsp)</content> </content> </th> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Purpose</content> </content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Toprule " valign="top"> <paragraph>Codeine Phosphate, USP 10 mg</paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph>Antitussive</paragraph> </td> </tr> <tr> <td styleCode="Botrule " valign="top"> <paragraph>Guaifenesin, USP 100 mg</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph>Expectorant</paragraph> </td> </tr> </tbody> </table>

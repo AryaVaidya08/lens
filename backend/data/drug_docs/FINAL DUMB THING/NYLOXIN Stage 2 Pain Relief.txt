@@ -1,0 +1,31 @@
+effective_time:
+  20091130
+inactive_ingredient:
+  Inactive Ingredients: Citric Acid, Ethanol, Methyl Paraben, Natural Flavoring, Sodium Citrate, Xylitol.
+purpose:
+  Purpose Analgesic According to the Homecopathic Pharmacopoeia of the United States
+warnings:
+  Warnings: Side effects may include headahce, nausea, sore throat, allergic rhinitis and gastointestinal upset. If symptoms persist or worsen, stop using this product and consult a physician. When using this product, avoid contact with the eyes. If product gets into the eyes, flush with water. Seek medical attention.
+spl_product_data_elements:
+  NYLOXIN Stage 2 Pain Relief NAJA NAJA VENOM NAJA NAJA VENOM NAJA NAJA VENOM ANHYDROUS CITRIC ACID ANHYDROUS TRISODIUM CITRATE METHYLPARABEN XYLITOL 2-(DIETHYLAMINO)ETHANOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions For Use: Remove protective tab Align arrow on top with opening Press down on pump, spray 2X directly into the mouth Use spray initially every 3-4 hours Allow up to several days for drug to take maximum effect.
+spl_unclassified_section:
+  Other Information: Do not use if tamper-proof is broken. This product is NOT intended to treat disease Clinical experience suggests Nyloxin may provide relief from other forms of pain.
+  Pregnant or nursing women and children should not use this product unless advised by a physician.
+  Mfd. for Nutra Pharma 1537 NW 65th Ave. Plantation, FL 33313 Question? 1-877-895-5647 www.Nyloxin.com
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel – 0.5 oz Spray Label 0.5 oz Spray Bottle Label
+indications_and_usage:
+  Uses: Temporarily relieves pain associated with sore back, inflamed joints, migraines, painful menses, and general presistent pain
+set_id:
+  b504a8e0-d9d0-11de-8c2a-0002a5d5c51b
+id:
+  bb43c7e0-d9d0-11de-b59b-0002a5d5c51b
+purpose_table:
+  <table> <tbody> <tr styleCode="Botrule"> <td>Analgesic<footnote>According to the Homecopathic Pharmacopoeia of the United States</footnote> </td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Asian Cobra venom 3.5X

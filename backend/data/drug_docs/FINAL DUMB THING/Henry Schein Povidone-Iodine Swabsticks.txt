@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Henry Schein Povidone-Iodine Swabsticks POVIDONE-IODINE GLYCERIN HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) NONOXYNOL-10 ANHYDROUS CITRIC ACID SODIUM HYDROXIDE WATER POTASSIUM IODIDE POVIDONE-IODINE IODINE
+active_ingredient:
+  Active ingredient Povidone Iodine USP 10%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Patient preoperative skin preparation: Helps to reduce bacteria that potentially can cause skin infection.
+warnings:
+  Warnings For external use only. Do not use if allergic to iodine in the eyes Ask a doctor before use if injuries are deep or puncture wounds serious burn Stop use and ask a doctor if infection occurs redness, irritation or swelling develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use if allergic to iodine in the eyes
+ask_doctor:
+  Ask a doctor before use if injuries are deep or puncture wounds serious burn
+stop_use:
+  Stop use and ask a doctor if infection occurs redness, irritation or swelling develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Apply product to skin as needed
+other_safety_information:
+  Other information 1 % titratable iodine Avoid excessive heat Store at room temperature For hospital or professional use only Not made with natural rubber latex
+inactive_ingredient:
+  Inactive ingredients alkyl glucoside, citric acid, glycerin, hydroxyethyl cellulose, nonoxynol-10, potassium iodide, purified water, sodium hydroxide
+questions:
+  Questions? 1-800-472-4346
+package_label_principal_display_panel:
+  Principal Display Panel - 1.8 mL Item Label NDC 0404-0120-03 HENRY SCHEIN ® REF 570-1548 POVIDONE-IODINE SWABSTICKS 10% Povidone-Iodine Triple Packs HENRY SCHEIN SEAL OF EXCELLENCE ® Principal Display Panel - 1.8 mL Item Label
+set_id:
+  5854f241-6cfc-4e5a-ba72-92dd0703f728
+id:
+  07a02b63-fcac-97c6-e063-6294a90a0351
+effective_time:
+  20231013
+version:
+  3
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Henry Schein Povidone-Iodine Swabsticks
+  generic_name:
+    POVIDONE-IODINE
+  manufacturer_name:
+    Henry Schein, Inc.
+  product_ndc:
+    0404-0120
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    POVIDONE-IODINE
+  rxcui:
+    797730
+  spl_id:
+    07a02b63-fcac-97c6-e063-6294a90a0351
+  spl_set_id:
+    5854f241-6cfc-4e5a-ba72-92dd0703f728
+  package_ndc:
+    0404-0120-03
+  is_original_packager:
+    True
+  nui:
+    N0000175486
+    M0011640
+  pharm_class_epc:
+    Antiseptic [EPC]
+  pharm_class_cs:
+    Iodine [CS]
+  unii:
+    85H0HZU99M

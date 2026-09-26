@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Throat Balm Caramel Pectin Pectin PECTIN PECTIN SUCROSE CARAMEL R
+active_ingredient:
+  Active ingredient (in two drops) Pectin 7.6 mg
+purpose:
+  Purpose Oral demulcent
+indications_and_usage:
+  Uses temporarily relieves: occasional minor irritation and pain associated with sore mouth sore throat
+warnings:
+  Warnings Do not use ​in children under 6 years of age unless directed by a doctor.
+ask_doctor:
+  Stop use and ask a doctor if sore throat is severe, persists for more than 2 days, or is accompanied by fever, headache, rash, nausea, or vomiting. sore mouth symptoms do not improve in 7 days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions adults and children 6 years and older: dissolve 2 drops (one at a time) slowly in the mouth. Do not bite or chew. Repeat every 2 hours as needed or as directed by a doctor children under 6 years: ask a doctor
+storage_and_handling:
+  Other Information protect from heat and moisture
+inactive_ingredient:
+  Inactive Ingredients : Caramel sugar syrup; cocoa butter; emulsifier (sunflower lecithin), extracts of bee balm, Ricola herb mixture (elder, horehound, hyssop, lemon balm, linden flowers, mallow, peppermint, sage, thyme, wild thyme) and rooibos; glucose syrup; glucose-fructose syrup; honey; humectant (glycerine); natural flavoring (caramel, echinacea purpurea fresh plant pressed juice powder, honey, menthol, peppermint, vanilla); salt; sugar
+package_label_principal_display_panel:
+  Image of BT HERMELECH 34ct US 9014779 low.jpg
+set_id:
+  edbd7a73-8f06-4a1e-a459-3d7a4355fc9b
+id:
+  7742c808-16ba-4cba-a447-76b0eaf82499
+effective_time:
+  20241205
+version:
+  3
+openfda:
+  application_number:
+    M022
+  brand_name:
+    Throat Balm Caramel Pectin
+  generic_name:
+    PECTIN
+  manufacturer_name:
+    Ricola Ag
+  product_ndc:
+    54305-301
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PECTIN
+  rxcui:
+    2621646
+  spl_id:
+    7742c808-16ba-4cba-a447-76b0eaf82499
+  spl_set_id:
+    edbd7a73-8f06-4a1e-a459-3d7a4355fc9b
+  package_ndc:
+    54305-301-34
+  is_original_packager:
+    True
+  upc:
+    0036602833081
+  unii:
+    89NA02M4RX

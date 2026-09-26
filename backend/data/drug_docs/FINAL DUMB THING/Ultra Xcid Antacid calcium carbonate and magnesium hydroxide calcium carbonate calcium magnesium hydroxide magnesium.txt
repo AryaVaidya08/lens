@@ -1,0 +1,43 @@
+effective_time:
+  20091228
+inactive_ingredient:
+  Inactive ingredients corn starch, FD&C yellow No. 5 & 6, FD&C red No. 40, flavor, glycerin, microcrystalline cellulose, purified water, sodium carboxymethyl cellulose, sodium methylparaben, sorbitol, sugar, xanthan gum
+purpose:
+  Active ingredients (in each 5g = 1 dose) Purpose Calcium Carbonate 750mg Antacid Magnesium Hydroxide 135mg Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product Do not take more than 10 doses (50 grams) in a 24-hour period, or use the maximum dosage for more than two weeks, except under the advice and supervision of a doctor You may experience a laxative effect Stop use and ask doctor if Symptoms last more than two weeks Keep out of reach of children.
+when_using:
+  When using this product Do not take more than 10 doses (50 grams) in a 24-hour period, or use the maximum dosage for more than two weeks, except under the advice and supervision of a doctor You may experience a laxative effect
+questions:
+  Questions? Comments? Call 877-942-2626 toll-free.
+spl_product_data_elements:
+  Ultra Xcid Antacid calcium carbonate and magnesium hydroxide calcium carbonate calcium magnesium hydroxide magnesium
+ask_doctor:
+  Ask a doctor before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Tear open and squeeze. Squeeze out one to two doses (5 to 10 grams). Take between meals, at bedtime, or as directed by a doctor. Children under 12 years of age, ask a doctor.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask doctor if Symptoms last more than two weeks
+storage_and_handling:
+  Other information Each dose contains: calcium 300 mg, magnesium 56 mg. Do not use if sealed packet was open or damaged. Store at room temperature 15° C-29° C (59° F-84° F). Do not freeze.
+active_ingredient_table:
+  <table width="60%"> <col width="80%" align="left" valign="top"/> <col width="20%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients (in each 5g = 1 dose)</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Calcium Carbonate 750mg</td> <td>Antacid</td> </tr> <tr styleCode="Botrule"> <td>Magnesium Hydroxide 135mg</td> <td>Antacid</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 10 g Pouch FREE SAMPLE TEAR HERE Not a Liquid or a Tablet. It's ... NDC 62750-024-14 2 Doses NEW! Ultra XCID ™ ANTACID FAST-ACTING RELIEF Creamy, Non-Chalky Taste Orange Cream Soother From the makers of ZICAM ® Net Wt 0.35 oz (10 g) Principal Display Panel - 10 g Pouch
+indications_and_usage:
+  Uses For the relief of: Acid indigestion Heartburn Sour stomach Upset stomach associated with these symptoms Overindulgence in food and drink
+set_id:
+  ede028d3-91a6-405f-bbf8-c5f3a81998a7
+id:
+  f5ec10bc-20e5-4708-a703-2aceafe059f1
+purpose_table:
+  <table width="60%"> <col width="80%" align="left" valign="top"/> <col width="20%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients (in each 5g = 1 dose)</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Calcium Carbonate 750mg</td> <td>Antacid</td> </tr> <tr styleCode="Botrule"> <td>Magnesium Hydroxide 135mg</td> <td>Antacid</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients (in each 5g = 1 dose) Purpose Calcium Carbonate 750mg Antacid Magnesium Hydroxide 135mg Antacid

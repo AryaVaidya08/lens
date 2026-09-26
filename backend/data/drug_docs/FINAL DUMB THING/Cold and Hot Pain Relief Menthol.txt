@@ -1,0 +1,35 @@
+effective_time:
+  20110912
+inactive_ingredient:
+  Inactive ingredients aluminium glycinate, 1,3-butylene Glycol, carboxymethylcellulose Sodium, concentrated Glycerin, diethylene glycolmonoethyl Ether, disodium edetate, methyl parahydroxybenzoate, polyacrylic acid solution, polysorbate 80, propyl parahydroxybenzoate, purified water, sodium polyacrylate, tartaric acid, titanium dioxide
+purpose:
+  Purpose Topical analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product use only as directed do not bandage tightly do not use a heating pad avoid contact with eyes and mucous membrane do not apply to wounds or damaged skin do not use if you are allergic to any ingredients of this product Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days redness is present irritation develops If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product use only as directed do not bandage tightly do not use a heating pad avoid contact with eyes and mucous membrane do not apply to wounds or damaged skin do not use if you are allergic to any ingredients of this product
+spl_product_data_elements:
+  Cold and Hot Pain Relief Menthol MENTHOL MENTHOL DIHYDROXYALUMINUM AMINOACETATE BUTYLENE GLYCOL CARBOXYMETHYLCELLULOSE SODIUM GLYCERIN DIETHYLENE GLYCOL MONOETHYL ETHER EDETATE DISODIUM METHYLPARABEN POLYSORBATE 80 PROPYLPARABEN WATER TARTARIC ACID TITANIUM DIOXIDE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children over 12 years: Remove backing from patch by grasping both ends firmly Carefully remove backing from patch Apply one patch to affected area Repeat as necessary, but no more than 4 times daily Children under 12 years of age: Ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days redness is present irritation develops
+storage_and_handling:
+  Other information store at room temperature
+package_label_principal_display_panel:
+  package label Cold and Hot Pain Relief Patch image of carton label
+indications_and_usage:
+  Uses Temporarily relieves minor pain associated with: arthritis muscle strains simple backache bursitis cramps tendonitis muscle sprains bruises
+set_id:
+  cbedf6d3-629b-4f8c-a761-c9402ea4765d
+id:
+  fee95a7c-9b47-444d-b232-82d4c4a14f52
+active_ingredient:
+  Active Ingredient Menthol 5%

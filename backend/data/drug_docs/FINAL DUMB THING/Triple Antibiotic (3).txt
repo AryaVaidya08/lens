@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Triple Antibiotic bacitracin zinc, neomycin sulfate, polymyxin b sulfate PETROLATUM BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN POLYMYXIN B SULFATE POLYMYXIN B
+active_ingredient:
+  Active ingredients (in each gram) Bacitracin Zinc (400 units Bacitracin) Neomycin sulfate (3.5 mg Neomycin) Polymyxin B Sulfate (Polymyxin B 5000 units)
+purpose:
+  Purpose First aid antibiotic
+indications_and_usage:
+  Uses first aid to help prevent infection in minor cuts, scrapes and burns
+warnings:
+  Warnings For external use only Do not use internally in eyes over large areas of the body or on puncture wounds, animal bites or serious burns for more than 1 week unless directed by a doctor if you are allergic to any of the ingredients Stop use and ask a doctor if a rash or allergic reaction develops condition worsens or persists Keep out of reach of children If ingested, contact a Poison Control Center right away.
+do_not_use:
+  Do not use internally in eyes over large areas of the body or on puncture wounds, animal bites or serious burns for more than 1 week unless directed by a doctor if you are allergic to any of the ingredients
+stop_use:
+  Stop use and ask a doctor if a rash or allergic reaction develops condition worsens or persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children If ingested, contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean affected area apply a small amount 1 to 3 times daily may cover with a sterile bandage
+inactive_ingredient:
+  Inactive ingredient petrolatum
+package_label_principal_display_panel:
+  Principal Display Panel – 0.5g Pouch Label Triple Antibiotic Ointment The Provision First Aid Line™ 0.5 g (1/57 oz.) Principal Display Panel – 0.5g Pouch Label
+set_id:
+  bbf4b99c-9738-4855-82a6-f4e213924ec9
+id:
+  1f4591c0-4b50-0625-e063-6394a90afa68
+effective_time:
+  20240809
+version:
+  5
+openfda:
+  application_number:
+    M004
+  brand_name:
+    Triple Antibiotic
+  generic_name:
+    BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE
+  manufacturer_name:
+    Provision Medical
+  product_ndc:
+    69103-5603
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BACITRACIN ZINC
+    NEOMYCIN SULFATE
+    POLYMYXIN B SULFATE
+  rxcui:
+    204602
+  spl_id:
+    1f4591c0-4b50-0625-e063-6394a90afa68
+  spl_set_id:
+    bbf4b99c-9738-4855-82a6-f4e213924ec9
+  package_ndc:
+    69103-5603-1
+  is_original_packager:
+    True
+  unii:
+    89Y4M234ES
+    057Y626693
+    19371312D4

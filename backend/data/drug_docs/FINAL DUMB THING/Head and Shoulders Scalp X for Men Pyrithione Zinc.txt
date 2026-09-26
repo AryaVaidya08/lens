@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Head and Shoulders Scalp X for Men Pyrithione Zinc SODIUM LAURYL SULFATE SODIUM LAURETH SULFATE MENTHOL COCAMIDOPROPYL BETAINE DIMETHICONE WATER GLYCOL DISTEARATE ALPHA-TOCOPHEROL ACETATE SODIUM CHLORIDE SODIUM BENZOATE PYRITHIONE ZINC PYRITHIONE ZINC MAGNESIUM CARBONATE HYDROXIDE MENTHA ARVENSIS LEAF OIL PEPPERMINT OIL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) METHYLISOTHIAZOLINONE ZINC CARBONATE SODIUM XYLENESULFONATE METHYLCHLOROISOTHIAZOLINONE
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Uses helps prevent recurrence of flaking and itching associated with dandruff.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor. for maximum dandruff control, use every time you shampoo. shake before use. wet hair, massage onto scalp, rinse, repeat if desired.
+inactive_ingredient:
+  Inactive Ingredients Water, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, sodium chloride, zinc carbonate, dimethicone, sodium xylenesulfonate, cocamidopropyl betaine, fragrance, sodium benzoate, menthol, guar hydroxypropyltrimonium chloride, magnesium carbonate hydroxide, mentha piperita (peppermint) oil, mentha arvensis leaf oil, tocopheryl acetate, methylchloroisothiazolinone, methylisothiazolinone.
+questions:
+  Questions (or comments)? 1-800-723-9569
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 150 mL Bottle label head & shoulders ® PYRITHIONE ZINC DANDRUFF SHAMPOO SCALP X SHAMPOO FOR MEN REDUCES HAIR LOSS DUE TO BREAKAGE 5 FL OZ (150 mL) HS
+set_id:
+  ecf8c4d8-f44d-616f-e053-2995a90a304e
+id:
+  0c92d0b3-1764-de2d-e063-6394a90a34d1
+effective_time:
+  20231215
+version:
+  2
+openfda:

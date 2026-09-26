@@ -1,0 +1,13 @@
+effective_time:
+  20150825
+package_label_principal_display_panel:
+  Air AIR, COMPRESSED UN1002 (MEDICAL AIR, USP) NON-LAMMABLE GAS 2 WARNING: For breathing support when used by properly trained personnel. For medical applications, Rx only. Administration of medical air may be hazardous or contraindicated. For medical use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of medical air and is familiar with the indications, effects, dosages, methods and frequency and duration of administration and with the hazards, contraindications and side effects, and the precautions to be taken. CAUTION: HIGH PRESSURE GAS. MAY ACCELERATE COMBUSTION. Keep oil and grease away. Use equipment rated for cylinder pressure. Cylinder temperature should not exceed 52 degrees C (125 degrees F). Close valve after each use and when empty. Use a back flow preventive device in the piping. Use in accordance with the Material Safety Data Sheet (MSDS). CAS: 132259-10-0 DO NOT REMOVE THIS PRODUCT LABEL. DuPuy Oxygen and Supply. 7201 Imperial Drive. Waco, TX 76712 254-772-3460 air label
+spl_product_data_elements:
+  Air Air AIR AIR
+set_id:
+  57d7d611-ae61-4263-8ade-7bb729d33f57
+id:
+  6bfe23a1-94f1-4bb5-b843-8bdc770b91fa
+openfda:
+version:
+  5

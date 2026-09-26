@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Old Spice Grassland Aluminum Zirconium Tetrachlorohydrex Gly C20-40 PARETH-10 CYCLOMETHICONE 5 STEARYL ALCOHOL MINERAL OIL HYDROGENATED CASTOR OIL PPG-14 BUTYL ETHER DOCOSANOL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY PETROLATUM BETADEX KAOLIN SHEA BUTTER CERESIN
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202.
+active_ingredient:
+  Active ingredient Aluminum zirconium tetrachlorohydrex Gly 15% (anhydrous)
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Use reduces underarm wetness
+warnings:
+  Warnings For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+stop_use:
+  Stop use if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, stearyl alcohol, mineral oil, PPG-14 butyl ether, hydrogenated castor oil, petrolatum, fragrance, kaolin, ozokerite, C20-40 pareth-10, cyclodextrin, behenyl alcohol, butyrospermum parkii (shea) butter
+questions:
+  Questions? 1-800-677-7582
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 73 g Cylinder Label Old Spice ® Grassland with Shea Butter Antiperspirant & Deodorant ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ANTIPERSPIRANT/DEODORANT NET WT. 2.6 OZ (73 g) OS
+set_id:
+  efcf206a-25a6-2161-e053-2a95a90ab2f9
+id:
+  2ced44e9-b42d-75cf-e063-6394a90ab887
+effective_time:
+  20250130
+version:
+  2
+openfda:

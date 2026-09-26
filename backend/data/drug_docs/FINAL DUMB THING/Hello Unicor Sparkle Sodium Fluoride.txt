@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Hello Unicor Sparkle Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION XYLITOL XANTHAN GUM MICA TITANIUM DIOXIDE COCAMIDOPROPYL BETAINE WATER HYDRATED SILICA GLYCERIN SODIUM COCOYL GLUTAMATE SORBITOL STEVIA REBAUDIUNA LEAF
+description:
+  Hello Unicorn Sparkle
+  Drug Facts
+active_ingredient:
+  Active Ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use help protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older-brush teeth thoroghly, preferably after each meal or at least twice a day, or as directed by a dentist of physician. children 2 to 6 years-use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing). children under 2 years-ask a dentist of physician.
+inactive_ingredient:
+  Inactive ingredients sorbitol, purified water, hydrated silica, glycerin, xylitol, xanthan gum, flavor, cocamidopropyl betaine, sodium cocoyl glutamate, stevia rebaudiana leaf extract, mica, titanium dioxide.
+questions:
+  Questions? 855-HI-HELLO (1-855-444-3556) Dist. by Hello Products LLC Montclair, NJ 07042
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 119 g Tube Carton naturally friendly hello unicorn sparkle fluoride toothpaste kids ages 2+ bubble gum natural flavor prevents cavities polishes + brightens strengthens enamel tastes magical never tested on unicorns no artificial sweeteners. no dyes. no SLS/sulfates. no brainer. NET WT 4.2 OZ (119g) label
+set_id:
+  236ae750-bb89-6114-e063-6394a90aa28f
+id:
+  236ae750-bb8a-6114-e063-6394a90aa28f
+effective_time:
+  20241001
+version:
+  1
+openfda:

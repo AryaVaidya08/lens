@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Sunmark Stomach Relief Bismuth subsalicylate BISMUTH SUBSALICYLATE SALICYLIC ACID CALCIUM CARBONATE D&C RED NO. 27 MAGNESIUM STEARATE MANNITOL STARCH, CORN SACCHARIN SODIUM G122
+active_ingredient:
+  ACTIVE INGREDIENT(in each tablet) Bismuth subsalicylate 262 mg
+purpose:
+  PURPOSE Upset stomach reliever and anti-diarrheal
+indications_and_usage:
+  USE(S) relieves: diarrhea heartburn indigestion nausea upset stomach associated with these symptoms
+warnings:
+  WARNINGS Reye's Syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behaviour with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's Syndrome, a rare but serious illness. Allergy alert: Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products
+do_not_use:
+  DO NOT USE IF YOU HAVE bloody or black stool an ulcer a bleeding problem
+ask_doctor:
+  ASK A DOCTOR BEFORE USE IF YOU HAVE fever mucus in the stool
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE taking any drug for anticoagulation (thinning of the blood) diabetes gout arthritis
+when_using:
+  WHEN USING THIS PRODUCT a temporary, but harmless darkening of the stool and/or tongue may occur
+stop_use:
+  STOP USE AND ASK DOCTOR IF symptoms get worse ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST-FEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center immediately 1-800-222-1222.
+dosage_and_administration:
+  DIRECTIONS chew or dissolve in mouth adults and children 12 years and over: 2 tablets every 1/2 to 1 hour as needed do not take more than 8 doses (16 tablets) in 24 hours use until diarrhea stops but not more than 2 days children under 12 years: ask a doctor drink plenty of fluids to help prevent dehydration caused diarrhea
+storage_and_handling:
+  OTHER INFORMATION each tablet contains: sodium less than 1 mg salicylate 102 mg very low sodium avoid excessive heat (over 104 o F or 40 o C) TAMPER EVIDENT: Do not use if individual compartments are torn on open.
+inactive_ingredient:
+  INACTIVE INGREDIENTS calcium carbonate, D&C red 27 aluminum lake, flavor, magnesium stearate, mannitol, pregelatinized starch, saccharin sodium
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL sunmark NDC 70677-0138-1 COMPARE TO PEPTO-BISMOL ® CHEWABLE TABLETS ACTIVE INGREDIENT* stomach relief Regular Strength Antidiarrheal / Upset Stomach Reliever Soothing Relief For Upset stomach, Nausea, Heartburn, Indigestion & Diarrhea BISMUTH SUBSALICYLATE 262 mg CHEWABLE 30 TABLETS 92
+set_id:
+  b3ad1f1d-40ab-45ef-ab14-ee27d4c97a14
+id:
+  dcef9a53-7077-4709-b4d5-c52845a8afb8
+effective_time:
+  20241213
+version:
+  3
+openfda:

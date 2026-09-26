@@ -1,0 +1,45 @@
+effective_time:
+  20120917
+purpose:
+  Active ingredient (in each teaspoon (5 mL)) Purpose Acetaminophen 160 mg Pain reliever - fever reducer
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+questions:
+  Questions? Call 1-888-838-2872 , weekdays, 8 AM - 5 PM Eastern Time
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F)
+indications_and_usage:
+  Uses for the temporary relief of minor aches and pains associated with a cold or flu sore throat headache toothache temporarily reduces fever
+set_id:
+  7b79dd3d-3433-4f47-917b-af4f189111f2
+id:
+  cc05be7c-85dd-4277-b3e5-2f7fe623dcc7
+active_ingredient:
+  Active ingredient (in each teaspoon (5 mL)) Purpose Acetaminophen 160 mg Pain reliever - fever reducer
+dosage_and_administration_table:
+  <table ID="id_8a44a49a-36cc-4b8d-b211-70fdccff5202"> <col width="33%" align="left"/> <col width="33%" align="left"/> <col width="34%" align="left"/> <thead> <tr ID="id_4863342f-5c44-4e85-a5be-789ab69ed1c6" styleCode="Botrule"> <td align="left" valign="top" styleCode="Lrule Botrule Rrule">Weight</td> <td align="left" valign="top" styleCode="Botrule Rrule">Age</td> <td align="left" valign="top" styleCode="Lrule Botrule Rrule">Dose</td> </tr> </thead> <tbody> <tr ID="id_c72c313f-190d-4628-867b-f2388d60d582" styleCode="Toprule"> <td align="left" valign="top" styleCode="Lrule Rrule">under 24 lbs</td> <td align="left" valign="top" styleCode="Rrule">under 2 years</td> <td align="left" valign="top" styleCode="Rrule">ask a doctor</td> </tr> <tr ID="id_26d2f8ef-fa1c-4624-9562-b92e12e5d07d"> <td align="left" valign="top" styleCode="Lrule Rrule">24 to 35 lbs</td> <td align="left" valign="top" styleCode="Rrule">2 to 3 years</td> <td align="left" valign="top" styleCode="Rrule">1 teaspoon (5 mL)</td> </tr> <tr ID="id_5f29a497-fb5c-4706-8e7a-160e5d5b6544"> <td align="left" valign="top" styleCode="Lrule Rrule">36 to 47 lbs</td> <td align="left" valign="top" styleCode="Rrule">4 to 5 years</td> <td align="left" valign="top" styleCode="Rrule">1 &#xBD; teaspoons (7.5 mL)</td> </tr> <tr ID="id_b373a17c-7af8-40d2-a239-737301322914"> <td align="left" valign="top" styleCode="Lrule Rrule">48 to 59 lbs</td> <td align="left" valign="top" styleCode="Rrule">6 to 8 years</td> <td align="left" valign="top" styleCode="Rrule">2 teaspoons (10 mL)</td> </tr> <tr ID="id_d6aee771-b5c2-45b6-a397-87adfb06663b"> <td align="left" valign="top" styleCode="Lrule Rrule">60 to 71 lbs</td> <td align="left" valign="top" styleCode="Rrule">9 to 10 years</td> <td align="left" valign="top" styleCode="Rrule">2 &#xBD; teaspoons (12.5 mL)</td> </tr> <tr ID="id_49766f9d-c45b-446c-b895-459acc8574de" styleCode="Botrule"> <td align="left" valign="top" styleCode="Lrule Rrule">72 to 95 lbs</td> <td align="left" valign="top" styleCode="Rrule">11 years</td> <td align="left" valign="top" styleCode="Rrule">3 teaspoons (15 mL)</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients artificial cherry flavor, benzoic acid, citric acid, D&C Red #33, FD&C Red #40, glycerin, polyethylene glycol 1450, propylene glycol, purified water, sodium benzoate, sorbitol solution, sucrose
+warnings:
+  Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other product containing acetaminophen more than directed (see overdose warning ) Stop use and ask a doctor if new symptoms occur redness or swelling is present pain gets worse or lasts for more than 5 days fever gets worse or lasts more than 3 days If pregnant or breast-feeding , ask a health professional before use. Keep out of the reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  Acetaminophen Acetaminophen Acetaminophen Acetaminophen benzoic acid citric acid monohydrate D&C RED NO. 33 FD&C RED NO. 40 glycerin polyethylene glycol 1450 propylene glycol water sodium benzoate sorbitol sucrose
+ask_doctor:
+  Stop use and ask a doctor if new symptoms occur redness or swelling is present pain gets worse or lasts for more than 5 days fever gets worse or lasts more than 3 days
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions find right dose on chart if possible, use weight to dose; otherwise, use age if needed, repeat dose every 4 hours do not use more than 5 times in 24 hours Weight Age Dose under 24 lbs under 2 years ask a doctor 24 to 35 lbs 2 to 3 years 1 teaspoon (5 mL) 36 to 47 lbs 4 to 5 years 1 ½ teaspoons (7.5 mL) 48 to 59 lbs 6 to 8 years 2 teaspoons (10 mL) 60 to 71 lbs 9 to 10 years 2 ½ teaspoons (12.5 mL) 72 to 95 lbs 11 years 3 teaspoons (15 mL)
+spl_unclassified_section:
+  Drug Facts
+do_not_use:
+  Do not use with any other product containing acetaminophen more than directed (see overdose warning )
+active_ingredient_table:
+  <table ID="id_68a416d7-6bab-4e52-adf7-38746639e08d"> <col width="50%" align="left"/> <col width="50%" align="right"/> <thead> <tr ID="id_4b767251-8852-413e-bdbc-f723edd318ff" styleCode="Botrule"> <td align="left" valign="top" styleCode="Botrule Rrule">Active ingredient (in each teaspoon (5 mL))</td> <td align="left" valign="top" styleCode="Lrule Botrule">Purpose</td> </tr> </thead> <tbody> <tr ID="id_65b51d35-6f45-4291-a5ef-11815c392783" styleCode="Botrule"> <td align="left" valign="top">Acetaminophen 160 mg</td> <td align="left" valign="top">Pain reliever - fever reducer</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Goldline ® NDC 0182-1473-40 TAMPER-EVIDENT ACETAMINOPHEN ORAL SOLUTION USP 160 mg/5 mL PAIN RELIEVER - FEVER REDUCER Alcohol-Free Aspirin-Free Saccharin-Free Cherry-Flavored EACH TEASPOON (5 mL) CONTAINS: Acetaminophen USP 160 mg TAMPER-EVIDENT: Do not use this product if inner foil seal over the mouth of the bottle is cut, torn, broken or missing. THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN Distributed by: GOLDLINE LABORATORIES, INC. Sellersville, PA 18960 Dist. 1990 0809REV 71 ONE PINT (473 mL) Principal Display Panel
+purpose_table:
+  <table ID="id_68a416d7-6bab-4e52-adf7-38746639e08d"> <col width="50%" align="left"/> <col width="50%" align="right"/> <thead> <tr ID="id_4b767251-8852-413e-bdbc-f723edd318ff" styleCode="Botrule"> <td align="left" valign="top" styleCode="Botrule Rrule">Active ingredient (in each teaspoon (5 mL))</td> <td align="left" valign="top" styleCode="Lrule Botrule">Purpose</td> </tr> </thead> <tbody> <tr ID="id_65b51d35-6f45-4291-a5ef-11815c392783" styleCode="Botrule"> <td align="left" valign="top">Acetaminophen 160 mg</td> <td align="left" valign="top">Pain reliever - fever reducer</td> </tr> </tbody> </table>

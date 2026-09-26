@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Childrens Allergy Fexofenadine HCL FEXOFENADINE HYDROCHLORIDE FEXOFENADINE BUTYLPARABEN EDETATE DISODIUM POLOXAMER 407 PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM PHOSPHATE, DIBASIC, ANHYDROUS SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS SUCROSE TITANIUM DIOXIDE XANTHAN GUM XYLITOL
+active_ingredient:
+  Active ingredient (in each 5 mL) Fexofenadine HCL USP 30 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions)
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Direction shake well before using use only with enclosed dosing cup adults and children 12 years of age and over take 10 mL every 12 hours: do not take more than 20 mL in 24 hours children2 to under 12 years of age take 5 mL every 12 hours; do not take more than 10 mL in 24 hours children under2 years of age ask a doctor adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor Note: mL = mililiters
+dosage_and_administration_table:
+  <table><col/><col/><tbody><tr><td><paragraph>adults and children 12 years of age and over</paragraph></td><td>take 10 mL every 12 hours: do not take more than 20 mL in 24 hours</td></tr><tr><td>children2 to under 12 years of age</td><td>take 5 mL every 12 hours; do not take more than 10 mL in 24 hours</td></tr><tr><td>children under2 years of age</td><td>ask a doctor</td></tr><tr><td>adults 65 years of age and older</td><td>ask a doctor</td></tr><tr><td>consumers with kidney disease</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each 5 mL contains: sodium 18 mL store between 20º and 25ºC (68º and 77ºF) before using any medication, read all label directions. Keep carton, it contain important information.
+inactive_ingredient:
+  Inactive ingredients artificial raspberry flavor, butylparaben, edetate disodium, poloxamer 407, propylene glycol, propylparaben, purified water, sodium phosphate dibasic, sodium phosphate, monobasic, sucrose, titanium dioxide, xanthan gum, xylitol
+questions:
+  Questions or comments? 1-888-287-1915
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Children's Allegra® Allergy active ingredient* Childrens ALLERGY RELIEF Fexofenadine HCL Oral Suspension 30 mg/5mL Antihistamine Nin-Drowsy Alcohol-Free Dye-Free AGES 2 YEARS AND OLDER 12 HOUR sneezing runny nose itchy, watery eyes itchy nose or throat Indoor / Outdoor Allergy Relief Berry Flavor FL OZ (mL) Dosing Cup Enclosed Use only with enclosed dosing cup.Wash and let air dry after each use. *This product is not manufactured or distributed by Chattem Inc., distributor of Children's Allegra® Allergy. TAMPER EVIDENT: DO NOT USE IF CARTON, UNPRINTED FOIL INNER SEAL, OR NECKBAND PRINTED WITH "SEALED FOR YOUR PROTECTION" IS OPENED TORN OR MISSING KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION Distributed By Wal-Mart Inc Bentonville AR 72716
+  Product Label EQUATE Children's Allergy Relief Berry Flavor Fexofenadine HCl, USP 30 mg
+set_id:
+  667c87c2-c594-49e5-92a7-f8aa140642d6
+id:
+  9663bcb2-fad3-46dc-8cea-009ecdf44117
+effective_time:
+  20260812
+version:
+  5
+openfda:
+  application_number:
+    ANDA203330
+  brand_name:
+    Childrens Allergy
+  generic_name:
+    FEXOFENADINE HCL
+  manufacturer_name:
+    EQUATE (Wal-Mart Stores, Inc.) (see also WAL-MART INC)
+  product_ndc:
+    49035-208
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    FEXOFENADINE HYDROCHLORIDE
+  rxcui:
+    997491
+  spl_id:
+    9663bcb2-fad3-46dc-8cea-009ecdf44117
+  spl_set_id:
+    667c87c2-c594-49e5-92a7-f8aa140642d6
+  package_ndc:
+    49035-208-04
+  is_original_packager:
+    True
+  upc:
+    0681131378710
+  unii:
+    2S068B75ZU

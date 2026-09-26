@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Rapid Relief Pain Relief Patch Lidocaine 4% Menthol 1% GLYCERIN EDETATE DISODIUM ANHYDROUS TARTARIC ACID SODIUM POLYACRYLATE (8000 MW) DMDM HYDANTOIN DIHYDROXYALUMINUM AMINOACETATE PROPYLENE GLYCOL LAUROCAPRAM LIDOCAINE LIDOCAINE MENTHOL MENTHOL POLYACRYLIC ACID (800000 MW) WATER ACRYLAMIDE/SODIUM ACRYLOYLDIMETHYLTAURATE COPOLYMER (120000 MPA.S AT 1%) TITANIUM DIOXIDE
+active_ingredient:
+  Active Ingredient(s) Lidocaine 4 % +Menthol 1% w/w.
+purpose:
+  Purpose Lidocaine: Topical anesthetic / Menthol: Topical analgesic
+indications_and_usage:
+  Use For the temporary relief of minor pain.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use More than 1 patch at a time On wounds or damaged skin With a heating pad such as electric heating pad,as this may result in excessive skin irritation or skin burn If you are allergic to any ingredients of this product In large quantities, particularly over raw surfaces or blistered areas
+when_using:
+  When using this product: Use only as directed Do not bandage tightly Avoid contact with eyes, mucous membranes or rashes If contact occurs, rinse thoroughly with water
+ask_doctor:
+  Stop use and ask a doctor if: Localized skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering Condition worsens Symptoms persist for more than 7 days Symptoms clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: Clean and dry affected area Remove film from patch and apply to the skin Apply 1 patch at a time to the affected area, not more than 3 times daily. Remove patch from the skin. Do not leave on skin for more than a total of 8 hours per day Children under 12 years of age: Do not use, consult a physician. Supervise children when they use this product
+storage_and_handling:
+  STORAGE AND HANDLING Store between 15-30℃(59-86℉) keep away from children
+inactive_ingredient:
+  Inactive ingredients Acryloyldime/ Sodium Acryloyldimethyltaurate copolymer, Dihydroxyaluminum aminoacetetel, DMDM hydantoin, Edetic acid,, Glycerin, Laurocapram，Polyacrylic acid, Propylene glycol, Sodium polyacrylate, Tartaric acid, Titanium dioxide, Water
+package_label_principal_display_panel:
+  IMAGE IMAGE
+set_id:
+  434df0be-49ff-aa56-e063-6394a90a3b5a
+id:
+  434df0be-4a00-aa56-e063-6394a90a3b5a
+effective_time:
+  20251111
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Rapid Relief
+  generic_name:
+    PAIN RELIEF PATCH LIDOCAINE 4% MENTHOL 1%
+  manufacturer_name:
+    RAPID AID VIET NAM COMPANY LIMITED
+  product_ndc:
+    83569-016
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+    MENTHOL
+  rxcui:
+    1249758
+  spl_id:
+    434df0be-4a00-aa56-e063-6394a90a3b5a
+  spl_set_id:
+    434df0be-49ff-aa56-e063-6394a90a3b5a
+  package_ndc:
+    83569-016-01
+  is_original_packager:
+    True
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987
+    L7T10EIP3A

@@ -1,0 +1,28 @@
+spl_product_data_elements:
+  Cellapy Dr Sanitizer alcohol ALCOHOL ALCOHOL GLYCERIN Propylene Glycol
+active_ingredient:
+  ACTIVE INGREDIENT ACTIVE INGREDIENT: Ethanol (Synthetic Alcohol 70%)
+inactive_ingredient:
+  INACTIVE INGREDIENT INACTIVE INGREDIENT: Glycerin, Propylene Glycol, Carbomer, Camellia Sinesis Leaf Extract, Aloe Barbadensis Leaf Extract, Sodium Hyaluronate, Triethanolamine, Citrus Limon (Lemon) Fruit Oil, Water
+purpose:
+  PURPOSE PURPOSE: Disinfecting Agent
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  Uses: Uses : Externally disinfects the hands and skin
+warnings:
+  WARNINGS Warnings For external use only When using this product if following abnormal symptoms persist, discontinue use 1) Irritation around the eyes, ears, mucous membranes, including the mouth, under the skin irritation and rashes Stop immediately and consult a doctor if you experience 1) Hypersensitivity symptoms such as erythema, itching and dermatitis. 2) Skin Irritation 3) Following Instructions when using medication a) For external use only (Do not use internally) b) Avoid getting into the eyes (if contact occurs, wash well with clean water) Be careful to not inhale or use excessively for a long time (ingesting ethanol repeatedly causes irritation to mucous membranes and headaches or other symptoms may appear. When used repeatedly in the same area, skin irritation may occur. Do not use the product for a long time in the same area as swelling, inflammation may occur or sickness due to absorption through the skin. It is not recommended to use this one areas that have been medically treated with a cast or bandage. Do not use in combination with soap or antibacterial cleansing agents. Precautions 1) Keep out of open flames 2) Keep out of reach of children 3) Do not replace the container with another as quality deterioration or accidents may occur
+dosage_and_administration:
+  Directions Directions: Pour a small amount onto hands, spready evenly and rub into skin
+package_label_principal_display_panel:
+  PACKAGE LABEL - 70mL Tube Image of tube
+  PACKAGE LABEL - 500mL Bottle Pump Image of bottle
+set_id:
+  14dde39e-e914-42a6-bf70-8e64d7f29326
+id:
+  0a6a144a-c341-4a4f-92bb-e08331419af2
+effective_time:
+  20200320
+version:
+  1
+openfda:

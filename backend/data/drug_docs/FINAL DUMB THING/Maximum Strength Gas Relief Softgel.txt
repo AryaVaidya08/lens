@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Maximum Strength Gas Relief Softgel Simethicone DIMETHICONE, UNSPECIFIED DIMETHICONE D&C RED NO. 33 FD&C BLUE NO. 1 GELATIN, UNSPECIFIED GLYCERIN WATER 813
+spl_unclassified_section:
+  Drug Facts
+  Compare to the active ingredient in Gas-X ® Maximum Strength Softgels* *This product is not manufactured or distributed by GSK Consumer Healthcare, the distributor of Gas-X ® Maximum Strength Softgels. Compare to the active ingredient in PHAZYME ® Maximum Strength* Fast relief of: • Bloating • Pressure • Fullness READ AND KEEP OUTER CARTON FOR COMPLETE PRODUCT WARNINGS AND INFORMATION. TAMPER EVIDENT: DO NOT USE IF THE IMPRINTED SAFETY SEAL UNDER CAP IS TORN OR MISSING. *This product is not manufactured or distributed by C.B. Fleet Company, Inc., distributor of PHAZYME ® . Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2022 CVS/pharmacy CVS.com ® 1-800-SHOP CVS Product of United Arab Emirates. V-39102
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 250 mg
+purpose:
+  Purpose Anti-gas
+indications_and_usage:
+  Uses • relieves bloating, pressure or fullness commonly referred to as gas
+warnings:
+  Warnings Stop use and ask a doctor if condition persists. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions • Swallow one or two softgels as symptoms occur • do not exceed 2 softgels per 24 hours except under the advice and supervision of a physician
+storage_and_handling:
+  Other information • store at room temperature 20-25°C (68-77°F) • protect from light, heat and moisture
+inactive_ingredient:
+  Inactive ingredients D&C red #33, edible ink, FD&C blue #1, gelatin, glycerin, purified water
+questions:
+  Questions or comments? 1-888-577-8033 Monday-Friday 8am-4pm EST
+package_label_principal_display_panel:
+  Packaging CVS-813
+set_id:
+  de059bd9-40de-432d-9370-5d1e53bd89ac
+id:
+  5833b163-4cc3-40e0-bfa3-30734f26ff08
+effective_time:
+  20241230
+version:
+  4
+openfda:
+  application_number:
+    M002
+  brand_name:
+    Maximum Strength Gas Relief Softgel
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    CVS PHARMACY, INC
+  product_ndc:
+    51316-813
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE, UNSPECIFIED
+  rxcui:
+    412111
+  spl_id:
+    5833b163-4cc3-40e0-bfa3-30734f26ff08
+  spl_set_id:
+    de059bd9-40de-432d-9370-5d1e53bd89ac
+  package_ndc:
+    51316-813-36
+    51316-813-06
+  is_original_packager:
+    True
+  unii:
+    92RU3N3Y1O

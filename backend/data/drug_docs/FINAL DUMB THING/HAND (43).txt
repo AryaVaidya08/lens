@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  HAND SANITIZER 70 ALCOHOL ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE DMDM HYDANTOIN IODOPROPYNYL BUTYLCARBAMATE BUTYLENE GLYCOL ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information Do not store above 105 F° (40°C) May discolor some fabrics and wood surfaces.
+  Distributed by Interbrands Group, LLC 331 Corporate Woods Dr, Suite A4, Magnolia, TX 77354
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 70% v/v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses To decrease bacteria on the skin when water and soap are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product: Keep out of eyes. In case of contact with eyes, rinse thoroughly with water. Do not use on broken or irritated skin. Stop use and ask a doctor if irritation or redness develop and last more than 3 days. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product: Keep out of eyes. In case of contact with eyes, rinse thoroughly with water.
+do_not_use:
+  Do not use on broken or irritated skin.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop and last more than 3 days.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply enough product to wet hands. Rub hands together until dry. Supervise children in use of this product.
+inactive_ingredient:
+  Inactive Ingredients Demineralized water, glycerin, carbomer, May contain this ingredient fragrance, triethanolamine, dmdm hydantoin, aloe barbadensis extract, iodopropynyl butylcarbamate, butylene glycol.
+questions:
+  Questions or comments? (281) 882-8850
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1 GALLON Bottle Label HAND SANITIZER GEL Hygeia pure INFUSED WITH ALOE VERA & GLYCERIN 1 GALLON (128 FL OZ) 70% ALCOHOL PRINCIPAL DISPLAY PANEL - 1 GALLON Bottle Label
+set_id:
+  653b03a6-5ca6-445c-8ddd-93295ab3bd03
+id:
+  60972926-1283-4d2a-be08-98042e3ad803
+effective_time:
+  20220914
+version:
+  2
+openfda:

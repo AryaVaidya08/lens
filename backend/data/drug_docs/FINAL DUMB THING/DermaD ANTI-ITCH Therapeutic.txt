@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  DermaD ANTI-ITCH Therapeutic Salicylic Acid WATER MINERAL OIL GLYCERYL MONOSTEARATE CETYL ALCOHOL WHITE WAX ALMOND OIL JOJOBA OIL GRAPE SEED OIL DECYL OLEATE COCONUT OIL WHEAT GERM OIL STEARETH-2 STEARETH-21 SHEA BUTTER .ALPHA.-TOCOPHEROL BUTYLATED HYDROXYTOLUENE FARNESOL CANNABIS SATIVA SEED OIL SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active Ingredient Salicylic Acid....2%
+purpose:
+  Purpose Erasure & Itch treatment
+indications_and_usage:
+  Uses Relieves and helps prevent scaly plaques itching irritation redness and flaking due to erasure & itch
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with lukewarm water. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with lukewarm water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to the affected area one to three times a day or as directed by a doctor. Apply on clean and dry skin in circular motion. To avoid running or dripping, lightly squeeze the tube.
+storage_and_handling:
+  Other Information Store between 63°/80°F (17-30C) Protect from humidity.
+inactive_ingredient:
+  Inactive Ingredients water, mineral oil, GMS-SE, cetyl alcohol, Cera Alba, Prunus Amygdalus Dulcis Oil, Jojoba Seed Oil, Grape Seed Oil, Decyl Oleate, coconut oil, Brij-72, Trictum Vulgaris (wheat) germ oil, Butyrospermum Parkii (shea) butter, Brij-721, Iscaguard PEG, Rhodicare D, Tocopheryl Acetate, Cannabis Sativa Oil, B.H.T, farnesol
+package_label_principal_display_panel:
+  Principal Display Panel NDC 70794-313-94 DERMAD PSORIASIS Therapeutic Cream RELIEVES IRRITATION ITCHING REDNESS SCALING FDA REGISTERED DOES NOT CONTAIN STEROIDS, CORTISONE, FRAGRANCES AND COLORINGS 2.75 FL. OZ (81 mL) pic
+set_id:
+  8f4a57cb-0a5b-42b0-a325-1f92f3942ad9
+id:
+  f2a3f3c7-b156-3738-e053-2995a90abae6
+effective_time:
+  20250529
+version:
+  6
+openfda:
+  application_number:
+    M017
+  brand_name:
+    DermaD ANTI-ITCH Therapeutic
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Chen Cohen Industries Inc.
+  product_ndc:
+    70794-313
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    317152
+  spl_id:
+    f2a3f3c7-b156-3738-e053-2995a90abae6
+  spl_set_id:
+    8f4a57cb-0a5b-42b0-a325-1f92f3942ad9
+  package_ndc:
+    70794-313-94
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

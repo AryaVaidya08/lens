@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  Metab 6012 Metab THYROID, UNSPECIFIED THYROID, UNSPECIFIED SODIUM CHLORIDE CHLORIDE ION ANHYDROUS CITRIC ACID ANHYDROUS CITRIC ACID GLUTAMINE GLUTAMINE UBIDECARENONE UBIDECARENONE ALCOHOL WATER
+active_ingredient:
+  ACTIVE INGREDIENTS 2 FL. OZ. contains Glandular tissue mix 6X (12.3 mL), 30X (12.3 mL) Cell salt mix 6X (9.8 mL), 12X (9.8 mL) Krebs cycle constituents 12X (4.9 mL), 30X (4.9 mL) Amino acid mix 10X (1 mL), 30X (1 mL) Coenzyme Q10 12X (1 mL) RNA-DNA 30X (1 mL), 100X (1 mL)
+questions:
+  QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035
+indications_and_usage:
+  INDICATIONS For the temporary relief of difficulty maintaining proper weight, poor appetite, minor abdominal pain, bloating, increased urination, fatigue, or lethargy.*
+purpose:
+  *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS Consult a doctor if condition worsens or symptoms persist. Keep out of the reach of children. In case of overdose, get medical help or contact a poison control center right away. If pregnant or breastfeeding, ask a healthcare professional before use. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a healthcare professional before use.
+dosage_and_administration:
+  DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age.
+other_safety_information:
+  OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat.
+inactive_ingredient:
+  INACTIVE INGREDIENTS 20% ethanol, purified water.
+package_label_principal_display_panel:
+  LABEL Est 1985 Professional Formulas Complementary Health Metab Homeopathic Remedy 2 FL. OZ. (59 mL) Label image
+set_id:
+  f3576d6f-c9ab-4370-8a32-b6c4bf6ba4fd
+id:
+  938899cd-dee2-4c82-abaf-e375382a7046
+effective_time:
+  20260108
+version:
+  2
+openfda:
+  brand_name:
+    Metab 6012
+  generic_name:
+    METAB
+  manufacturer_name:
+    Professional Complementary Health Formulas
+  product_ndc:
+    63083-6012
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    THYROID, UNSPECIFIED
+    SODIUM CHLORIDE
+    ANHYDROUS CITRIC ACID
+    GLUTAMINE
+    UBIDECARENONE
+  spl_id:
+    938899cd-dee2-4c82-abaf-e375382a7046
+  spl_set_id:
+    f3576d6f-c9ab-4370-8a32-b6c4bf6ba4fd
+  package_ndc:
+    63083-6012-2
+  is_original_packager:
+    True
+  nui:
+    N0000175833
+    N0000175835
+    N0000175980
+    N0000008556
+    N0000175089
+    N0000175780
+    M0000922
+  pharm_class_moa:
+    Acidifying Activity [MoA]
+    Calcium Chelating Activity [MoA]
+  pharm_class_epc:
+    Calculi Dissolution Agent [EPC]
+    Anti-coagulant [EPC]
+    Amino Acid [EPC]
+  pharm_class_pe:
+    Decreased Coagulation Factor Activity [PE]
+  pharm_class_cs:
+    Amino Acids [CS]
+  unii:
+    0B4FDL9I6P
+    451W47IQ8X
+    XF417D3PSL
+    0RH81L854J
+    EJ27X76M46

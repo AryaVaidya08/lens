@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  rugby hemorrhoidal cocoa butter, phenylephrine HCl COCOA BUTTER COCOA BUTTER PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE METHYLPARABEN PROPYLPARABEN STARCH, CORN light
+active_ingredient:
+  Active ingredients (in each suppository) Cocoa butter 88.44% Phenylephrine HCl 0.25%
+purpose:
+  Purposes Protectant Vasoconstrictor
+indications_and_usage:
+  Uses • helps relieve the local itching and discomfort associated with hemorrhoids • temporarily relieves burning and shrinks hemorrhoidal tissue • temporarily provides a coating for relief of anorectal discomforts • temporarily protects the inflamed, irritated anorectal surface to help make bowel movements less painful
+warnings:
+  Warnings For rectal use only Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression. When using this product do not exceed the recommended daily dosage unless directed by a doctor Stop use and ask a doctor if • bleeding occurs • condition worsens or does not improve within 7 days If pregnant or breast feeding, ask a health professional before use.
+ask_doctor:
+  Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression.
+when_using:
+  When using this product do not exceed the recommended daily dosage unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if • bleeding occurs • condition worsens or does not improve within 7 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions • adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing wipe. Gently dry by patting or blotting with a tissue or a soft cloth before insertion of this product. • detach one suppository from the strip; remove the foil wrapper before inserting into the rectum as follows: • hold suppository with rounded end up • see illustrations: carefully separate foil tabs by inserting tip of fingernail at end marked “peel down” • slowly and evenly peel apart (do not tear) foil by pulling tabs down both sides, to expose the suppository • remove exposed suppository from wrapper • insert one suppository into the rectum up to 4 times daily, especially at night, in the morning or after each bowel movement • children under 12 years of age: ask a doctor Other information • store at 20-25°C (68-77°F)
+storage_and_handling:
+  Other information • store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients methylparaben, propylparaben, topical starch Questions or comments? 1-800-645-2158
+questions:
+  Questions or comments? 1-800-645-2158
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Compare to the active ingredients of Preparation H® Hemorrhoidal Suppositories Easy Open Hemorrhoidal Suppositories Reduces internal swelling. Soothes and protects. Prompt soothing relief from painful burning, itching and discomfort Shrinks swollen hemorrhoidal tissue Protects irritated tissue Also for nighttime relief 12 SUPPOSITORIES hemorrhoidal-suppositories-image
+set_id:
+  c1a126b5-0d34-437f-a7ef-8d5cbeb7b03b
+id:
+  8abe2b3e-bfd7-4f76-9aa1-5eb375146909
+effective_time:
+  20241022
+version:
+  2
+openfda:
+  application_number:
+    M015
+  brand_name:
+    rugby hemorrhoidal
+  generic_name:
+    COCOA BUTTER, PHENYLEPHRINE HCL
+  manufacturer_name:
+    Rugby Laboratories
+  product_ndc:
+    0536-1186
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    RECTAL
+  substance_name:
+    COCOA BUTTER
+    PHENYLEPHRINE HYDROCHLORIDE
+  spl_id:
+    8abe2b3e-bfd7-4f76-9aa1-5eb375146909
+  spl_set_id:
+    c1a126b5-0d34-437f-a7ef-8d5cbeb7b03b
+  package_ndc:
+    0536-1186-12
+  is_original_packager:
+    True
+  unii:
+    512OYT1CRR
+    04JA59TNSJ

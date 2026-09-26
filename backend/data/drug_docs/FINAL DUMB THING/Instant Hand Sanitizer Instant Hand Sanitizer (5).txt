@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Instant Hand Sanitizer Instant Hand Sanitizer ALCOHOL ALCOHOL TROLAMINE WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN
+dosage_and_administration:
+  Store between 15 - 30°C (59 - 86°F) Avoid Freezing and Excessive Heat above 40°C (104°F)
+inactive_ingredient:
+  Carbomer,Glycerol,Triethanolamine,Aqua
+indications_and_usage:
+  Place sufficient amount of product on hands to cover all surface.Rub hands until dry.
+active_ingredient:
+  Ethanol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For External Use Only.Flammable. Keep away from Heat or Flame
+package_label_principal_display_panel:
+  label
+set_id:
+  ac816975-699e-fde7-e053-2995a90a2ddb
+id:
+  ac816975-699f-fde7-e053-2995a90a2ddb
+effective_time:
+  20200810
+version:
+  1
+openfda:

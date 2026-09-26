@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  HEB HEMORRHOIDAL COOLING Gel WITCH HAZEL and PHENYLEPHRINE HYDROCHLORIDE WITCH HAZEL WITCH HAZEL PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ALOE VERA LEAF SULISOBENZONE EDETATE DISODIUM HYDROXYETHYL CELLULOSE (100 MPA.S AT 2%) METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE, UNSPECIFIED FORM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Hamamelis virginiana (witch hazel) 50% Astringent Phenylephrine hydrochloride 0.25% Vasoconstrictor
+active_ingredient_table:
+  <table width="50%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Hamamelis virginiana (witch hazel) 50%</td> <td>Astringent</td> </tr> <tr> <td>Phenylephrine hydrochloride 0.25%</td> <td>Vasoconstrictor</td> </tr> </tbody> </table>
+purpose:
+  Active ingredients Purpose Hamamelis virginiana (witch hazel) 50% Astringent Phenylephrine hydrochloride 0.25% Vasoconstrictor
+purpose_table:
+  <table width="50%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Hamamelis virginiana (witch hazel) 50%</td> <td>Astringent</td> </tr> <tr> <td>Phenylephrine hydrochloride 0.25%</td> <td>Vasoconstrictor</td> </tr> </tbody> </table>
+indications_and_usage:
+  Uses temporarily relieves anorectal itching and discomfort associated with hemorrhoids or anorectal disorders temporarily reduces the swelling associated with irriation in hemorrhoids and other anorectal disorders temporarily shrinks hemorrhoidal tissue aids in protecting irritated anorectal areas temporary relief of burning
+warnings:
+  Warnings For external use only. Do not use this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor. Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure of depression. When using this product do not exceed recommended daily dosage unless directed by a doctor do not put into rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if condition worsens or does not improve within 7 days bleeding occurs If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away: 800-222-1222.
+do_not_use:
+  Do not use this product if you have heart disease, high blood pressure, thyroid disease, diabetes, or difficulty in urination due to enlargement of the prostate gland unless directed by a doctor.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure of depression.
+when_using:
+  When using this product do not exceed recommended daily dosage unless directed by a doctor do not put into rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve within 7 days bleeding occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away: 800-222-1222.
+dosage_and_administration:
+  Directions Adults when practical, cleanse affected area by patting or blotting with appropriate cleansing wipe. Gently dry by patting or blotting with tissue or soft cloth before applying gel apply externally to affected area up to 4 times daily or after each bowel movement Children under 12 years old: Ask a doctor
+storage_and_handling:
+  Other information Store at 15 to 30°C (59 to 86°F) Tamper Evident: DO NOT USE IF SEAL ON TUBE IS PUNCTURED OR MISSING.
+inactive_ingredient:
+  Inactive ingredients Aloe barbadensis leaf juice, benzophenone-4, disodium EDTA, hydroxyethylcellulose, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate
+questions:
+  Questions or comments? 866-323-0107
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 26 g Tube Carton Compare to Preperation H ® Hemorrhoidal Cooling Gel active ingredients* NDC 37808-993-24 H-E-B ® Hemorrhoidal Cooling Gel Hamamelis Virginiana (Witch Hazel) / Astringent • Phenylephrine Hydrochloride / Vasoconstrictor Hemorrhoid Symptom Relief With Soothing Aloe Clear, Non-Greasy Formula with a Pleasant Scent Prompt Cooling Relief from Painful Burning and Itching Shrinks Swollen Hemorrhoidal Tissue • Relieves External Discomfort NET WT 0.9 OZ (26 g) Principal Display Panel - 26 g Tube Carton
+set_id:
+  01c320f4-a7f6-4900-91ba-5334a213848b
+id:
+  cad6183e-2503-4cc9-904a-b7358fef652c
+effective_time:
+  20181023
+version:
+  1
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL FD&C BLUE NO. 1 WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN ALCOHOL ALCOHOL SODIUM HYDROXIDE ALOE
+active_ingredient:
+  Active Ingredients Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses ■ For hand washing to decrease bacteria on the skin. ■ Recommended for repeat use
+warnings:
+  Warnings For external use only. Flammable, keep away from fire and flame Does not contain grain alcohol, do not drink. If taken internally will produce serious gastric disturbances
+when_using:
+  When using this product ■ Avoid the eyes and mucous membranes ■In the case of eyes or mucous membranes contact, rinse area thoroughly with water
+stop_use:
+  Stop use and ask a doctor ■ Redness or irritation develops ■ Conditions worsens ■ If condition persists for more than 3 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children ■ If swallowed contact a doctor or Poison Control Center immediately
+dosage_and_administration:
+  Directions ■ Rub a dime sized amount between hands until dry.■ Supervise children in the use of this product. ■ In the case of eye contact, rinse eyes thoroughly with water.
+storage_and_handling:
+  Other information ■ Store below 105ºF ■ May discolor fabrics
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Fragrance, Carbomer, Aloe Extract, Sodium Hydroxide, Blue 1
+questions:
+  Questions? ■ 1-844-884-4910
+package_label_principal_display_panel:
+  Package Label package label
+set_id:
+  ae72720c-12f0-7683-e053-2a95a90a4d33
+id:
+  e3a34951-384a-b46e-e053-2995a90a34fb
+effective_time:
+  20220712
+version:
+  3
+openfda:

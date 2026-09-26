@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Sunproof 3-in-1 Invisible Priming Sunscreen Broad Spectrum SPF 37 Water Resistant (80 minutes) Avobenzone, Homosalate, and Octisalate Avobenzone Avobenzone Homosalate Homosalate Octisalate Octisalate ISODODECANE DIMETHICONE CROSSPOLYMER (450000 MPA.S AT 12% IN CYCLOPENTASILOXANE) DIMETHICONE/BIS-ISOBUTYL PPG-20 CROSSPOLYMER POLYESTER-7 NEOPENTYL GLYCOL DIHEPTANOATE POLYESTER-8 (1400 MW, CYANODIPHENYLPROPENOYL CAPPED) DICAPRYLYL CARBONATE POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) EICOSYL POVIDONE POLYHYDROXYSTEARIC ACID (2300 MW) NELUMBO NUCIFERA FLOWER NYMPHAEA CAERULEA FLOWER HYALURONATE SODIUM PANTHENYL ETHYL ETHER MUSA X PARADISIACA FLOWER TREMELLA FUCIFORMIS FRUITING BODY SUNFLOWER OIL TRIMETHYLSILOXYSILICATE (M/Q 0.6-0.8) DIMETHICONE DIETHYLHEXYL SYRINGYLIDENEMALONATE MEDIUM-CHAIN TRIGLYCERIDES PROPANEDIOL GLYCERIN TRIETHOXYCAPRYLYLSILANE SAFFLOWER OIL ARTHROSPIRA MAXIMA WATER STARCH, RICE CAPRYLYL GLYCOL TITANIUM DIOXIDE
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Thrive Causemetics, Inc. Los Angeles, CA 90045
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Homosalate 10.0% Sunscreen Octisalate 5.0% Sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="75%" align="left" valign="top"/><col width="25%" align="left" valign="top"/><thead><tr><th>Active ingredients</th><th>Purpose</th></tr></thead><tbody><tr><td>Avobenzone 3.0%</td><td>Sunscreen</td></tr><tr><td>Homosalate 10.0%</td><td>Sunscreen</td></tr><tr><td>Octisalate 5.0%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Homosalate 10.0% Sunscreen Octisalate 5.0% Sunscreen
+purpose_table:
+  <table width="50%"><col width="75%" align="left" valign="top"/><col width="25%" align="left" valign="top"/><thead><tr><th>Active ingredients</th><th>Purpose</th></tr></thead><tbody><tr><td>Avobenzone 3.0%</td><td>Sunscreen</td></tr><tr><td>Homosalate 10.0%</td><td>Sunscreen</td></tr><tr><td>Octisalate 5.0%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk Skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: Apply liberally 15 minutes before sun exposure. reapply: after 80 minutes of swimming or sweating. immediately after towel drying. at least every 2 hours. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 am. - 2 pm. Wear long-sleeved shirts, pants, and sunglasses. Children under 6 months of age: Ask a doctor.
+storage_and_handling:
+  Other information Protect this product from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive ingredients ISODODECANE, DIMETHICONE CROSSPOLYMER, DIMETHICONE/BIS-ISOBUTYL PPG-20 CROSSPOLYMER, POLYESTER-7, NEOPENTYL GLYCOL DIHEPTANOATE, POLYESTER-8, DICAPRYLYL CARBONATE, POLYMETHYLSILSESQUIOXANE, VP/EICOSENE COPOLYMER, POLYHYDROXYSTEARIC ACID, NELUMBO NUCIFERA FLOWER EXTRACT, NYMPHAEA CAERULEA FLOWER EXTRACT, HYDROLYZED SODIUM HYALURONATE, PANTHENYL ETHYL ETHER, MUSA SAPIENTUM (BANANA) FLOWER EXTRACT, TREMELLA FUCIFORMIS (MUSHROOM) EXTRACT, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, TRIMETHYLSILOXYSILICATE, DIMETHICONE, DIETHYLHEXYL SYRINGYLIDENEMALONATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, PROPANEDIOL, GLYCERIN, TRIETHOXYCAPRYLYLSILANE, CARTHAMUS TINCTORIUS (SAFFLOWER) SEED OIL, SPIRULINA MAXIMA EXTRACT, WATER (AQUA), ORYZA SATIVA (RICE) STARCH, CAPRYLYL GLYCOL, TITANIUM DIOXIDE (CI 77891)
+questions:
+  Questions? Call (888) 804-4318 or visit www.thrivecausemetics.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Tube Box thrive™ causemetics SUNROOF™ 3-IN-1 INVISIBLE PRIMING SUNSCREEN Hydro Reset Solution™ SPF 37 Broad Spectrum SPF 37 Water Resistant (80 minutes) 1 FL OZ / 30 mL PRINCIPAL DISPLAY PANEL - 30 mL Tube Box
+set_id:
+  a1860ca1-4412-4d51-8ebb-e2db67d5d025
+id:
+  88b83fd7-28d1-4411-9e32-477266c9d409
+effective_time:
+  20230913
+version:
+  3
+openfda:

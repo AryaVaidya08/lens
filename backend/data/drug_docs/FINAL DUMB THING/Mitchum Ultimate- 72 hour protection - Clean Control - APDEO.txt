@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Mitchum Ultimate- 72 hour protection - Clean Control - APDEO Antiperspirant and Deodorant PPG-14 BUTYL ETHER PETROLATUM CALCIUM DISODIUM EDTA MODIFIED CORN STARCH (1-OCTENYL SUCCINIC ANHYDRIDE) STEARYL ALCOHOL PHENYL TRIMETHICONE HYDRATED SILICA MANNITOL CYCLOPENTASILOXANE C12-15 ALKYL BENZOATE CITRIC ACID TALC BHT HYDROGENATED CASTOR OIL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY SODIUM ASCORBATE
+active_ingredient:
+  Active Ingredient Aluminum Zirconium Tetrachlorohydrex GLY 20%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses Reduces underam wetness
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do Not Use Do not use on broken skin.
+stop_use:
+  Stop Use Stop use if rash or irritation occurs.
+ask_doctor:
+  Ask a doctor Ask a doctor before use if you have kidney disease.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children, if swallowed, seek medical attention or conduct a poison center right away.
+dosage_and_administration:
+  Directions Directions Apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Phenyl Trimethicone, Petrolatum, Hydrogenated Castor Oil, Parfum (Fragrance), Talc, BHT, Calcium Disodium EDTA, Citric Acid, Hydrated Silica, Mannitol, Sodium Ascorbate, Sodium Starch Octenylsuccinate
+package_label_principal_display_panel:
+  Bottle packaging
+set_id:
+  37b23084-8dbf-c5f1-e063-6294a90a7aa3
+id:
+  37b2424b-7200-ef31-e063-6294a90adeba
+effective_time:
+  20250616
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Mitchum Ultimate- 72 hour protection - Clean Control - APDEO
+  generic_name:
+    ANTIPERSPIRANT AND DEODORANT
+  manufacturer_name:
+    Revlon Consumer Products Corp.
+  product_ndc:
+    10967-791
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    37b2424b-7200-ef31-e063-6294a90adeba
+  spl_set_id:
+    37b23084-8dbf-c5f1-e063-6294a90a7aa3
+  package_ndc:
+    10967-791-27
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

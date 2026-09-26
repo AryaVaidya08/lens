@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  PRISM Hand Sanitizer L1000 alcohol TROLAMINE PROPYLENE GLYCOL CARBOMER 940 GLYCERIN JASMINUM OFFICINALE FLOWER ALCOHOL ALCOHOL TEA TREE OIL
+active_ingredient:
+  Active Ingredient(s) alcohol
+purpose:
+  Purpose hand sanitizer
+indications_and_usage:
+  Use spray and rub all over hands until dry spray or spray and wipe
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. When using this product, avoid contact with the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness appears and lasts.
+keep_out_of_reach_of_children:
+   Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions for external use only
+inactive_ingredient:
+  Water Propylene Glycol Glycerine Carbomer Triethanol amine Tea Tree Oil Jasmin Oil
+package_label_principal_display_panel:
+  label
+set_id:
+  aa2a3d7d-ac2b-c80f-e053-2995a90a6044
+id:
+  aa2a3de9-7471-06a7-e053-2a95a90aa56b
+effective_time:
+  20200711
+version:
+  1
+openfda:

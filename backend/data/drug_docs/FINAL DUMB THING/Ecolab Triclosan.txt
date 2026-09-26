@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Ecolab Triclosan TRICLOSAN TRICLOSAN WATER POTASSIUM COCOATE ALCOHOL SODIUM LAURETH SULFATE HEXYLENE GLYCOL BORIC ACID COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE EDETATE SODIUM COCAMINE OXIDE PEG-75 LANOLIN METHYLPARABEN PROPYLPARABEN ALOE VERA LEAF FD&C BLUE NO. 1
+active_ingredient:
+  Active ingredient Triclosan 0.3%
+purpose:
+  Purpose Antiseptic handwash
+indications_and_usage:
+  Uses for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Do not use in eyes When using this product if in eyes, rinse promptly and throughly with water discontinue use if irritation and redness develop Stop use and ask doctor if skin irritation or redness persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in eyes
+when_using:
+  When using this product if in eyes, rinse promptly and throughly with water discontinue use if irritation and redness develop
+ask_doctor:
+  Stop use and ask doctor if skin irritation or redness persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands and apply foam Scrub hands and forearm Rinse thoroughly and drys
+references:
+  Other information For additional information, see Material Safety Data Sheet (MSDS) For emergency medical information in USA and Canada, call 1-800-328-0026 For emergency medical information worldwide, call 1-651-222-5352 (in the USA)
+inactive_ingredient:
+  Inactive ingredients water (aqua), potassium cocoate, alcohol, sodium laureth sulfate, hexylene glycol, boric acid, cocamidopropyl PG-dimonium chloride phosphate, tetrasodium EDTA, cocamine oxide, fragrance, PEG-75 lanolin, methylparaben, propylparaben, aloe barbadensis leaf juice, FD&C blue 1
+questions:
+  Questions? call 1.888.35.CLEAN (352.5326)
+package_label_principal_display_panel:
+  Principal display panel and representative label NDC 47593-471-59 ECOLAB® Antibacterial Foam Hand Soap 1250 mL (42.3 US FL OZ) Active Ingredient: Tricolsan 0.3% 6100716 749467/5400/0810 Ecolab · 370 Wabasha Street N · St Paul MN 55102-1390 USA · tel: 1 800 35 CLEAN (352 5326) © 2013 Ecolab USA Inc · All rights reserved Made in United States www.ecolab.com · 755526/5400/0713 representative label
+set_id:
+  5fdc19c1-dcc9-4c78-9ad0-689c2522cc5d
+id:
+  4d796dc5-9907-4e12-9cc4-1ed01cfb04ee
+effective_time:
+  20230630
+version:
+  5
+openfda:

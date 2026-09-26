@@ -1,0 +1,27 @@
+effective_time:
+  20190820
+inactive_ingredient:
+  Not More Than 20% Alcohol
+purpose:
+  uses For the temporary relief of exhaustion, irritable weakness, and fear
+keep_out_of_reach_of_children:
+  Keep Out of Reach Of Children Keep Out of Reach of Children
+warnings:
+  Ask Doctor Warning : If pregnant or nursing, please consult your physician before using this product
+spl_product_data_elements:
+  Total Arsenicum Arsenicum Album ARSENIC TRIOXIDE ARSENIC CATION (3+) Alcohol
+openfda:
+version:
+  8
+dosage_and_administration:
+  Directions Orally, 6 drops, 4 times a day
+package_label_principal_display_panel:
+  label image description
+indications_and_usage:
+  Indications Indication s: For the temporary relief of exhaustion, irritable weakness, and fear
+set_id:
+  91293e5b-f918-4cda-8d98-c98bc31827d2
+id:
+  a3ac2f53-8708-47af-a90a-df262fbfd48c
+active_ingredient:
+  Active Ingredients Arsenicum Album : 12X,30X,200C,1M

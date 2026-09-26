@@ -1,0 +1,27 @@
+effective_time:
+  20170808
+inactive_ingredient:
+  Inactive Ingredients Coconut Oil, EDTA, Palm Nut Oil, Palm Oil, Titanium Dioxide, Water, Fragrance, D and C Orange No 4, FD and C Yellow No 5
+purpose:
+  Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children If swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask a doctor if irritation or redness develops.
+spl_product_data_elements:
+  Freshscent Antibacterial Deodorant Triclocarban TRICLOCARBAN TRICLOCARBAN COCONUT OIL EDETIC ACID PALM KERNEL OIL PALM OIL TITANIUM DIOXIDE WATER D&C ORANGE NO. 4 FD&C YELLOW NO. 5 Gold
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Wet bar with water Lather vigorously and wash skin Rinse and dry thoroughly
+package_label_principal_display_panel:
+  Label
+indications_and_usage:
+  Uses For washing to decrease bacteria on the skin
+set_id:
+  7cdd638b-5320-4c75-84b3-d0f8bff34000
+id:
+  2502e47f-5893-4e5a-88b6-097cbb1a16f1
+active_ingredient:
+  OTC Active Ingredient Triclocarban 0.60%

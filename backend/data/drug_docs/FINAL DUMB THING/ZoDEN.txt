@@ -1,0 +1,49 @@
+effective_time:
+  20130517
+purpose:
+  Active Ingredients (in each 1 mL dropperful) Purpose Guaifenesin 20 mg Expectorant Phenylephrine HCl 1.5 mg Decongestant
+keep_out_of_reach_of_children:
+  KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately.
+when_using:
+  When using this product excitability may occur, especially in children may cause marked drowsiness be careful when driving a motor vehicle or operating machinery
+questions:
+  Question? Comments? Call your doctor about side effects. You may report side effects by calling 888 9 TRIGEN (888-987-4436).
+storage_and_handling:
+  Other Information Store at controlled room temperature 15° - 30° C (59° - 86° F). [See USP].
+indications_and_usage:
+  Uses Temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes nasal congestion reduces swelling of nasal passages helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes and make coughs more productive
+set_id:
+  d093548f-77da-4997-83a5-5bcfa650e66d
+id:
+  da1ee448-9002-47cf-abb0-cf03875624f3
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers .
+active_ingredient:
+  Active Ingredients (in each 1 mL dropperful) Purpose Guaifenesin 20 mg Expectorant Phenylephrine HCl 1.5 mg Decongestant
+inactive_ingredient:
+  Inactive Ingredients Citric Acid, FD&C Red #40, Methyl Paraben, Potassium Citrate, Potassium Sorbate, Propyl Paraben, Propylene Glycol, Purified Water, Raspberry flavor, Sorbitol Solution 70%, Sucralose
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product In a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if the child has a breathing problem such as emphysema or chronic bronchitis glaucoma a persistent or chronic cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes mellitus Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers . When using this product excitability may occur, especially in children may cause marked drowsiness be careful when driving a motor vehicle or operating machinery Stop and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  ZoDEN GUAIFENESIN and PHENYLEPHRINE HYDROCHLORIDE GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CITRIC ACID MONOHYDRATE FD&C RED NO. 40 METHYLPARABEN POTASSIUM CITRATE POTASSIUM SORBATE PROPYLPARABEN PROPYLENE GLYCOL WATER SORBITOL SUCRALOSE
+ask_doctor:
+  Ask a doctor before use if the child has a breathing problem such as emphysema or chronic bronchitis glaucoma a persistent or chronic cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes mellitus
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. Children 6 to under 12 years of age: 2 dropperfuls (2 mL) every 4 to 6 hours, not to exceed 4 doses (8 dropperfuls) in a 24 hour period Children under 6 years of age: Consult a physician
+package_label_principal_display_panel_table:
+  <table width="40%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td colspan="2"> <content styleCode="bold">Each dropperful (1 mL) for oral  administration contains:</content> </td> </tr> <tr> <td> <content styleCode="bold">Guaifenesin</content> </td> <td> <content styleCode="bold">20 mg</content> </td> </tr> <tr styleCode="Botrule"> <td> <content styleCode="bold">Phenylephrine  HCl</content> </td> <td valign="bottom"> <content styleCode="bold">1.5 mg</content> </td> </tr> </tbody> </table>
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur
+do_not_use:
+  Do not use this product In a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active Ingredients (in each 1 mL dropperful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Guaifenesin 20 mg</td> <td>Expectorant</td> </tr> <tr styleCode="Botrule"> <td>Phenylephrine HCl 1.5 mg</td> <td>Decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 ML Bottle Label NDC 13811- 0079-30 ZoDEN DROPS EXPECTORANT • DECONGESTANT SUGAR FREE • ALCOHOL FREE Each dropperful (1 mL) for oral administration contains: Guaifenesin 20 mg Phenylephrine HCl 1.5 mg RASPBERRY FLAVOR 1 FL. OZ. (30 ML) Principal Display Panel - 30 ML Bottle Label
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active Ingredients (in each 1 mL dropperful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Guaifenesin 20 mg</td> <td>Expectorant</td> </tr> <tr styleCode="Botrule"> <td>Phenylephrine HCl 1.5 mg</td> <td>Decongestant</td> </tr> </tbody> </table>

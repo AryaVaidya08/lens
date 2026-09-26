@@ -1,0 +1,31 @@
+effective_time:
+  20190228
+inactive_ingredient:
+  Inactive ingredients: Water, benzocaine, glyceryl stearate, PEG 100 stearate, stearic acid, propylene glycol, cetyl alcohol, dimethyl sulfoxide, poloxamer 407, capsaicin, aloe barbadensis gel, borage oil, ammonium acryloyldimethyltaurate, zingiber officinale root extract, boswelia serrata extract, soya lecithin, methylparaben, propylparaben, DMDM hydantoin, sodium stearoyl glutamate, triethanolamine.
+purpose:
+  Purpose Topical Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if accidentally ingested, getmedical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings: For external use only. Avoid contact with eyes, mucous membrane or broken skin
+when_using:
+  When using this product do not heat, microwave, and to hot water or any container where heating water may cause splattering and result in burns, use in eyes or directly on mucus membrans, take by mouth or place in nostrill, apply to wounds or damaged skin. Do not use otherwise than as directed
+spl_product_data_elements:
+  rock sauce Methyl Salicylate, Menthol and Capsaicin METHYL SALICYLATE SALICYLIC ACID MENTHOL MENTHOL CAPSAICIN CAPSAICIN CARBOMER 934 ISOPROPYL ALCOHOL ISOPROPYL MYRISTATE SILICON DIOXIDE WATER
+openfda:
+version:
+  10
+dosage_and_administration:
+  Directions: For the temporary relief of minor muscular discomfort. See important warnings under "When using this product". Not for use on children 5 years or younger. Apply liberally to painful area and massage until lotion is absorbed into the skin. Repeat 3-4 times daily. Store at 68 to 77F (20 to 25 C)
+stop_use:
+  Consult a doctor and discontinus use. if conditions persist for more than 1 week or reocur.
+package_label_principal_display_panel:
+  Principal Display Panel label
+indications_and_usage:
+  Uses: For temporary relief minor muscular discomfort
+set_id:
+  aad7f505-acf3-41dc-b039-6465d52b2a4a
+id:
+  949696dc-26ba-496d-a409-7b81ad8cb9fa
+active_ingredient:
+  Active ingredients Methyl Salicylate 20% Menthol USP 10% Capsaicin 0.002%

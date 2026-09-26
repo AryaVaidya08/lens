@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Redicare Antacid Mint Flavored Redicare Antacid Mint Flavored MAGNESIUM STEARATE ASPARTAME CROSCARMELLOSE SODIUM SORBITOL MALTODEXTRIN CALCIUM CARBONATE CALCIUM CATION CARBONATE ION AZ036
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient (in each tablet) Calcium carbonate 420mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses: relieves ■ heartburn ■ sour stomach ■ acid indigestion ■ upset stomach due to these symptoms
+warnings:
+  Warnings: Ask a doctor or pharmacist before use if you ■ have kidney disease ■ are taking a prescription drug Antacids may interact with certain prescription drugs When using this product do not take more than 19 tablets in a 24 hour period or use the maximum dosage of this product for more than two weeks except under the advice and supervision of a doctor. If symptoms persist for more than two weeks, stop using this product and see a doctor. Keep out of reach of children.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you ■ have kidney disease ■ are taking a prescription drug Antacids may interact with certain prescription drugs
+when_using:
+  When using this product do not take more than 19 tablets in a 24 hour period or use the maximum dosage of this product for more than two weeks except under the advice and supervision of a doctor. If symptoms persist for more than two weeks, stop using this product and see a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions: ■ chew 2 tablets every 2-3 hours or as symptoms occur, repeat hourly if needed
+storage_and_handling:
+  Other Information: ■ Calcium content per tablet: 168mg ■ store at 15°- 30°C (59°-86°F) ■ do not use if imprinted safety seal under cap is broken or missing ■ Phenylketonurics: each tablet contains 1.5mg phenylalanine
+inactive_ingredient:
+  Inactive ingredients: aspartame, croscarmellose sodium, magnesium stearate, maltodextrin, mint flavor, sorbitol
+package_label_principal_display_panel:
+  Principal Display
+  Packet
+set_id:
+  2f259f79-d321-5566-e063-6294a90a1522
+id:
+  2f858260-b24e-b622-e063-6394a90a5247
+effective_time:
+  20250304
+version:
+  2
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Redicare Antacid Mint Flavored
+  generic_name:
+    REDICARE ANTACID MINT FLAVORED
+  manufacturer_name:
+    Redicare LLC
+  product_ndc:
+    71105-036
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    313884
+  spl_id:
+    2f858260-b24e-b622-e063-6394a90a5247
+  spl_set_id:
+    2f259f79-d321-5566-e063-6294a90a1522
+  package_ndc:
+    71105-036-01
+    71105-036-02
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

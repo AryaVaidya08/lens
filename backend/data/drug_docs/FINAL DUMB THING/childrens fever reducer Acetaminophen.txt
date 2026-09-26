@@ -1,0 +1,39 @@
+effective_time:
+  20201210
+inactive_ingredient:
+  Inactive ingredients hydrogenated vegetable oil
+purpose:
+  Purposes Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed or in case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical in case of overdose for adults and for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes • more than 5 doses in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. For rectal use only Do not use • if you are allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if • your child has liver disease • your child is taking the blood thinning drug warfarin Stop use and ask a doctor if • fever lasts more than 3 days (72 hours), or recurs. • pain lasts more than 5 days or gets worse. • new symptoms occur. • redness or swelling is present in the painful area. These may be signs of a serious condition. Keep out of reach of children. If swallowed or in case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical in case of overdose for adults and for children even if you do not notice any signs or symptoms.
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  childrens fever reducer Acetaminophen ACETAMINOPHEN ACETAMINOPHEN COTTONSEED OIL
+ask_doctor:
+  Ask a doctor before use if • your child has liver disease • your child is taking the blood thinning drug warfarin
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions • this product does not contain directions or warnings for adult use • do not use more than directed • remove wrapper • carefully insert suppository well up into the rectum Dosing Chart Age Dose under 3 years Do not use unless directed by a doctor 3 to 6 years Use 1 suppository every 4 to 6 hours (maximum of 5 doses in 24 hours)
+stop_use:
+  Stop use and ask a doctor if • fever lasts more than 3 days (72 hours), or recurs. • pain lasts more than 5 days or gets worse. • new symptoms occur. • redness or swelling is present in the painful area. These may be signs of a serious condition.
+storage_and_handling:
+  Other information • store at 20-25 ° C (68-77 ° F) or in a cool place • tamper-evident: suppositories are individually wrapped. Do not use if printed wrapper is opened or damaged.
+do_not_use:
+  Do not use • if you are allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.
+package_label_principal_display_panel:
+  Principal Display Panel for children Fever Reducer Acetaminophen Suppositories 120 mg Pain Reliever / Fever Reducer Ages 3-6 years 12 RECTAL SUPPOSITORIES 120 mg EACH Compare to FeverAll ® active ingredient See New Warning Fever Reducer Image 1 Fever Reducer Image 2
+indications_and_usage:
+  Uses temporarily • reduces fever • relieves minor aches, pains, and headache
+set_id:
+  daaad04e-4fe8-40ce-9022-1115e9f3a42a
+id:
+  9b6fe077-a266-4959-98d9-a8262eff9db6
+active_ingredient:
+  Active ingredient (in each rectal suppository) Acetaminophen 120 mg
+dosage_and_administration_table:
+  <table width="100%"><col width="26%"/><col width="60%"/><tbody><tr><td align="center" colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Dosing Chart</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>Age</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Dose</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>under 3 years</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Do not use unless directed by a doctor</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>3 to 6 years</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>Use 1 suppository every 4 to 6 hours (maximum of 5 doses in 24 hours)</paragraph></td></tr></tbody></table>

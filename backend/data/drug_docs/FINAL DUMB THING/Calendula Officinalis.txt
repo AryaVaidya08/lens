@@ -1,0 +1,52 @@
+spl_product_data_elements:
+  Calendula Officinalis Calendula Officinalis ALCOHOL CALENDULA OFFICINALIS WHOLE CALENDULA OFFICINALIS WHOLE transparent spray
+dosage_and_administration:
+  How to use: Wash the affected area and spray directly or over the gauze dressing at least 2 to 3 times a day or as directed by the homeopathic physician.
+indications_and_usage:
+  Use for: Promotes skin health and supports natural healing. Soothes minor cuts, scrapes, and skin irritations.
+purpose:
+  Use for: Promotes skin health and supports natural healing. Soothes minor cuts, scrapes, and skin irritations.
+inactive_ingredient:
+  Ingredients: Inactive: Alcohol Base to Preserve Remedy
+active_ingredient:
+  Active Ingredients: Calendula Officinalis 1x potency
+keep_out_of_reach_of_children:
+  Warnings: Keep all supplements away from Children. If you have any reaction to this product that is not positive, discontinue use.
+warnings:
+  
+  Warnings: Keep all supplements away from Children. If you have any reaction to this product that is not positive, discontinue use. Made according to Traditional Homeopathic Practice. This product has not been evaluated by the FDA, and does not claim to Diagnose, Treat, Cure, or Prevent any Disease.
+package_label_principal_display_panel:
+  entire package label label
+set_id:
+  2abd75c3-555d-d428-e063-6294a90ae77d
+id:
+  2abd75c3-555e-d428-e063-6294a90ae77d
+effective_time:
+  20250102
+version:
+  1
+openfda:
+  brand_name:
+    Calendula Officinalis
+  generic_name:
+    CALENDULA OFFICINALIS
+  manufacturer_name:
+    Bestmade Natural Products
+  product_ndc:
+    82969-6018
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CALENDULA OFFICINALIS WHOLE
+  spl_id:
+    2abd75c3-555e-d428-e063-6294a90ae77d
+  spl_set_id:
+    2abd75c3-555d-d428-e063-6294a90ae77d
+  package_ndc:
+    82969-6018-1
+  is_original_packager:
+    True
+  unii:
+    PFR03EBU0H

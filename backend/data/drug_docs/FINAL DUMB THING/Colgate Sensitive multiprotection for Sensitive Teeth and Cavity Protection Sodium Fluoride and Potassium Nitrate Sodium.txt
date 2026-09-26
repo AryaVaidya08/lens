@@ -1,0 +1,42 @@
+effective_time:
+  20180117
+inactive_ingredient:
+  Inactive ingredients water, hydrated silica, sorbitol, glycerin, PEG-12, pentasodium triphosphate, tetrasodium pyrophosphate, sodium lauryl sulfate, flavor, cellulose gum, sodium hydroxide, cocamidopropyl betaine, sodium saccharin, xanthan gum, titanium dioxide
+purpose:
+  Active Ingredients Purpose Potassium nitrate 5% Antisensitivity Sodium fluoride 0.24% (0.15% w/v fluoride ion) Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings When using this product, if pain/sensitivity still persists after 4 weeks of use, please visit your dentist. Stop use and ask a dentist if the problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist. Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product, if pain/sensitivity still persists after 4 weeks of use, please visit your dentist.
+questions:
+  Questions? 1-800-468-6502
+spl_product_data_elements:
+  Colgate Sensitive multiprotection for Sensitive Teeth and Cavity Protection Sodium Fluoride and Potassium Nitrate Sodium Fluoride Fluoride Ion Potassium Nitrate Nitrate Ion Sodium Lauryl Sulfate Carboxymethylcellulose Sodium, Unspecified Form Glycerin Sodium Hydroxide Xanthan gum Water Polyethylene Glycol 600 sodium tripolyphosphate, unspecified form Saccharin Sodium Sorbitol Hydrated Silica sodium pyrophosphate cocamidopropyl betaine Titanium dioxide
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults and children 12 years of age and older apply at least a 1-inch strip of the product onto a soft bristle toothbrush. Brush teeth thoroughly for at least 1 minute twice a day (morning and evening) or as recommended by a dentist or physician. Make sure to brush all sensitive areas of the teeth. children under 12 years consult a dentist or physician
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022
+stop_use:
+  Stop use and ask a dentist if the problem persists or worsens. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist.
+active_ingredient_table:
+  <table width="60%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Potassium nitrate 5%</td> <td>Antisensitivity</td> </tr> <tr> <td>Sodium fluoride 0.24% (0.15% w/v fluoride ion)</td> <td>Anticavity</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 170 g Tube Carton Colgate ® Toothpaste for Sensitive Teeth and Cavity Protection Clinically Proven Sensitivity Relief NET WT 6.0 OZ (170 g) Principal Display Panel - 170 g Tube Carton
+indications_and_usage:
+  Uses builds increasing protection against painful sensitivity of the teeth to cold, heat, acids, sweets or contact helps protect against cavities
+set_id:
+  ebe049ed-1042-4c51-a671-416719f49484
+id:
+  8dcca93b-9e6b-4b07-b972-b02ff230e4b6
+purpose_table:
+  <table width="60%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Potassium nitrate 5%</td> <td>Antisensitivity</td> </tr> <tr> <td>Sodium fluoride 0.24% (0.15% w/v fluoride ion)</td> <td>Anticavity</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Potassium nitrate 5% Antisensitivity Sodium fluoride 0.24% (0.15% w/v fluoride ion) Anticavity
+dosage_and_administration_table:
+  <table width="65%" styleCode="Noautorules"> <col width="35%" align="left" valign="top"/> <col width="65%" align="left" valign="top"/> <tbody> <tr> <td styleCode="Botrule Rrule">adults and children 12 years of age and older</td> <td styleCode="Botrule">apply at least a 1-inch strip of the product onto a soft bristle toothbrush. Brush teeth thoroughly for at least 1 minute twice a day (morning and evening) or as recommended by a dentist or physician. Make sure to brush all sensitive areas of the teeth.</td> </tr> <tr> <td styleCode="Rrule">children under 12 years</td> <td>consult a dentist or physician</td> </tr> </tbody> </table>

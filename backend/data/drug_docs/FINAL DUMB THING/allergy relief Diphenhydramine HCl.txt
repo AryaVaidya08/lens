@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  allergy relief Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED WATER SORBITOL clear natural 658
+active_ingredient:
+  Active ingredient (in each liquid-filled capsule) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions take every 4 to 6 hours do not take more than 6 doses in 24 hours adults and children 12 years and over 1 to 2 capsules children 6 to under 12 years 1 capsule children under 6 years do not use
+dosage_and_administration_table:
+  <table width="400px" cellspacing="0" cellpadding="0"><col width="1px"/><col width="1px"/><tbody><tr><td styleCode="     Botrule          Rrule     ">adults and children 12 years and over</td><td styleCode="     Botrule         Lrule     ">1 to 2 capsules</td></tr><tr><td styleCode="     Botrule          Toprule          Rrule     ">children 6 to under 12 years</td><td styleCode="     Botrule          Toprule         Lrule     ">1 capsule</td></tr><tr><td styleCode="     Toprule          Rrule     ">children under 6 years </td><td styleCode="     Toprule         Lrule     ">do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) protect from heat, humidity and light see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients edible white ink, gelatin, glycerin, polyethylene glycol, purified water, sorbitol
+questions:
+  Questions? Call 1-800-910-6874
+package_label_principal_display_panel:
+  Principal display panel Compare to active ingredient in Benadryl® Dye-Free Allergy* NDC 11673-956-08 allergy relief diphenhydramine HCl 25 mg/antihistamine up&up for temporary relief of: • sneezing • itchy, watery eyes • runny nose • itchy nose or throat dye free 24 SOFTGELS** (**LIQUID-FILLED CAPSULES) ACTUAL SIZE 24 SOFTGELS TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING Distributed by Target Corporation Minneapolis, MN 55403 TM & ©2019 Target Brands, Inc. *This product is not manufactured or distributed by Johnson & Johnson Corporation, owner of the registered trademark Benadryl® Dye-Free Allergy. 50844 REV0419A65808 094 04 0116 R02 C-000974-01-005 Target 44-658 Target 44-658
+set_id:
+  a8193bcb-06be-4aeb-8fce-6bfb7e799e9b
+id:
+  d58f5cbe-f723-4e79-a8d5-81516acdeb71
+effective_time:
+  20211109
+version:
+  4
+openfda:

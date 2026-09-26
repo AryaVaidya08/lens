@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Lavender Hand Sanitizer BENZALKONIUM CHLORIDE WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Fatcs
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.1% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses For hand sanitizing to decrease bacteria on the skin ∙Recommended for repeated use
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray a small amount into palm of hand-Rub thoroughly over all surfaces of both hands-Rub hands together briskly until dry
+inactive_ingredient:
+  Inactive Ingredients Water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, glycereth-17 cocoate, citric acid, fragrance with essential oils
+package_label_principal_display_panel:
+  Lavender hand sanitizer spray 0.5oz/15ml (42926-164-15) 42926-164-15_2
+set_id:
+  96258eea-a7c0-41d0-83d5-ba9fc8dea74f
+id:
+  f18b1905-825c-503b-e053-2a95a90a6e26
+effective_time:
+  20230105
+version:
+  10
+openfda:

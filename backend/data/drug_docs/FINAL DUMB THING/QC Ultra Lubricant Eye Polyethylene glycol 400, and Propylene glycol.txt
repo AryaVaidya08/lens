@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  QC Ultra Lubricant Eye Polyethylene glycol 400, and Propylene glycol AMINOMETHYLPROPANOL BORIC ACID HYDROCHLORIC ACID HYDROXYETHYL CELLULOSE (1500 MPA.S AT 1%) POTASSIUM CHLORIDE SODIUM CHLORIDE SODIUM HYDROXIDE SORBITOL WATER POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 PROPYLENE GLYCOL PROPYLENE GLYCOL
+active_ingredient:
+  Active ingredients Purpose Polyethylene glycol 400 0.4%.............................Lubricant Propylene glycol 0.3%.........................................Lubricant
+purpose:
+  Use For the temporary relief of burning and irritation due to dryness of the eye
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product
+when_using:
+  When using this product do not touch tip of container to any surface to avoid contamination do not reuse once opened, discard
+stop_use:
+  Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye(s) gets worse, persists or lasts more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Directions Instill 1 or 2 drops in the affected eye(s) as needed.
+storage_and_handling:
+  Other information Store at room temperature
+inactive_ingredient:
+  Inactive ingredients aminomethylpropanol, boric acid, hydrochloric acid, hydroxyethyl cellulose, potassium chloride, sodium hydroxide, sorbitol, water for injection
+dosage_and_administration:
+  Distributed by: C.D.M.A., Inc. 43157 W. Nine Mile Novi, MI 48376--0995 www.qualitychoice.com Made in Korea
+package_label_principal_display_panel:
+  image description
+set_id:
+  76d3bcce-d654-4808-8f86-d6467bbdc997
+id:
+  d0654724-6538-a36f-e053-2a95a90ad80e
+effective_time:
+  20211109
+version:
+  3
+openfda:

@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  sunmark mucus er Guaifenesin GUAIFENESIN GUAIFENESIN SILICON DIOXIDE COPOVIDONE K25-31 FD&C BLUE NO. 1 HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE POVIDONE, UNSPECIFIED STEARIC ACID Light Blue Biconvex Watson;1200
+active_ingredient:
+  Active ingredient (in each extended-release tablet) Guaifenesin 1200 mg
+purpose:
+  Purpose Expectorant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+warnings:
+  Warnings Do not use • for children under 12 years of age Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus) Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • for children under 12 years of age
+ask_doctor:
+  Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • do not crush, chew, or break tablet • take with a full glass of water • this product can be administered without regard for the timing of meals • adults and children 12 years of age and over: 1 tablet every 12 hours. Do not exceed 2 tablets in 24 hours. • children under 12 years of age: do not use
+storage_and_handling:
+  Other information • store between 20 ° -25 ° C (68 ° -77 ° F) • do not use if printed foil under cap is broken or missing
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, copovidone, FD&C blue #1 aluminum lake, hypromellose, magnesium stearate, maltodextrin, microcrystalline cellulose, povidone, sodium starch glycolate Type A, stearic acid
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel COMPARE TO MAXIMUM STRENGTH MUCINEX ® ACTIVE INGREDIENT Maximum Strength mucus-ER Guaifenesin Extended-Release Tablets, 1200 mg Expectorant Relieves chest congestion Thins & loosens mucus 12 HOUR Actual Size GLUTEN FREE 14 EXTENDED-RELEASE TABLETS mucus er image
+set_id:
+  e1e810ce-ec1a-4fba-a890-1055e9a8d1fe
+id:
+  56d88594-c0a2-42ae-b39c-bd2d6ab9a24c
+effective_time:
+  20211116
+version:
+  5
+openfda:

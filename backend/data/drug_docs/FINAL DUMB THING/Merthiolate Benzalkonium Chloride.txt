@@ -1,0 +1,27 @@
+effective_time:
+  20150505
+inactive_ingredient:
+  Inactive Ingredients alcohol, acetone, purified water, FD&C red #22
+purpose:
+  Use first aid to help prevent skin infection in minor cuts scrapes burns
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns. When using this product do not use in eyes or apply over large areas of the body do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if condition persists or gets worse
+spl_product_data_elements:
+  Merthiolate Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM ALCOHOL ACETONE WATER D&C RED NO. 22
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions clean the affected area apply a small amount on the area 1 to 3 times daily may be covered by a sterile bandage if bandaged, let dry first
+package_label_principal_display_panel:
+  label image
+indications_and_usage:
+  Merthiolate Tincture Mercury Free First Aid Antiseptic For External Use Only
+set_id:
+  5a1bbffc-4425-4559-8048-285808b6d80e
+id:
+  4f120502-67fb-46d2-b663-1fe06160c619
+active_ingredient:
+  Active Ingredients Purpose Benzalkonium Chloride 0.13% First Aid Antiseptic

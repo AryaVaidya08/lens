@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Cough and Chest Congestion DM Maximum Strength Dextromethorphan HBr, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID GLYCERIN PROPYLENE GLYCOL WATER D&C RED NO. 33 SUCRALOSE XANTHAN GUM DEXTROSE FD&C RED NO. 40 METHYLPARABEN POTASSIUM SORBATE PROPYLPARABEN SACCHARIN SODIUM SODIUM HYDROXIDE
+active_ingredient:
+  Active ingredients (in each 20 mL) Dextromethorphan HBr 20 mg Guaifenesin 400 mg
+purpose:
+  Purposes Cough suppressant Expectorant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves: cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse of coughing the impulse to cough to help you get to sleep
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus)
+when_using:
+  When using this product, do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions do not take more than 6 doses in any 24-hour period measure only with dosing cup provided measure only with dosing cup provided do not use dosing cup with any other products dose as follows or as directed by a doctor mL= milliliter adults and children 12 years of age and older: 20 mL in dosing cup provided every 4 hours children under 12 years of age: do not use
+spl_unclassified_section:
+  Other information each 20 mL contains; potassium 6 mg each 20 mL contains: sodium 13 mg store between 20º-25ºC (68º-77ºF). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C red #33, dextrose, FD&C red #40, flavor, glycerin, methylparaben, potassium sorbate, propylene glycol, propylparaben, purified water, saccharin sodium, sodium hydroxide, sucralose, xanthan gum
+package_label_principal_display_panel:
+  Principal Display Panel Maximum Strength Cough & Chest Congestion DM Dextromethorphan HBr/Cough Suppressant Guaifenesin/Expectorant Relieves cough & congestion Thins & loosens mucus For ages 12 & over Cherry flavor Compare to Delsym® Cough+™ Chest Congestion DM Maximum Strength active ingredients≠≠ FL OZ (mL) TAMPER EVIDENT: DO NOT USE IF SAFETY SEAL AROUND AND UNDER CAP IS BROKEN OR MISSING ≠≠This product is not manufactured or distributed by Reckitt Benckiser, distributor of Delsym® Cough+™ Chest Congestion DM. DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015 walgreens.com
+  Package Label Well at Walgreens Maximum Strength Cough and Chest Congestion DM Liquid Dextromethorphan HBr 20 mg, Guaifenesin 400 mg
+set_id:
+  ef537ded-5377-41d1-b5e1-9951d0c04a99
+id:
+  9d4306f1-53bc-42c8-8c6d-4e4cd45a8b68
+effective_time:
+  20201111
+version:
+  4
+openfda:

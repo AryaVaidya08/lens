@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  GR HD FOUNDATION HIGH DEFINITION SPF 15 Avobenzone, Octinoxate AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE WATER CYCLOMETHICONE 5 PEG-10 DIMETHICONE (600 CST) ISONONYL ISONONANOATE TALC DIMETHICONE, UNSPECIFIED CYCLOMETHICONE 6 METHYLPROPANEDIOL SILICON DIOXIDE SODIUM CHLORIDE PHENOXYETHANOL DIMETHICONE CROSSPOLYMER (450000 MPA.S) TITANIUM DIOXIDE .ALPHA.-TOCOPHEROL ACETATE TRIETHOXYCAPRYLYLSILANE GLYCERIN PENTYLENE GLYCOL DISODIUM STEAROYL GLUTAMATE LACTIC ACID, UNSPECIFIED FORM SERINE SODIUM LACTATE SORBITOL UREA ISOSTEARYL SEBACATE ALUMINUM HYDROXIDE MAGNESIUM STEARATE ALLANTOIN LINALOOL, (+/-)- FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  GOLDEN ROSE SOFT FOCUS FLAWLESS FINISH SPF 15 • Blurs imperfections' look • Medium coverage • Lightweight & Hydrating DERMATOLOGICALLY TESTED 101 PORCELAIN Manufactured By: ERKUL COSMETICS San. Tic. A.Ş., Petrol Ofisi Cad. No:1 Avcılar, ISTANBUL, TURKIYE, 34310 Phone: +90 212 456 53 00 www.goldenrose.com.tr info@goldenrose.com.tr MADE IN TURKIYE Distributed By: CELESTY LLC 3970 NW 167TH ST. MIAMI GARDENS, FL 33054 – USA info@celesty.com EU R.P: Platin Beauty Consulting UG (haftungsbeschränkt) Bardowicker Str. 6, 21335 Lüneburg/GERMANY
+active_ingredient:
+  Active ingredients Avobenzone 0.1% w/v Octinoxate 1% w/v
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use • on damaged or broken skin When using this product • keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if • rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • apply generously 15 minutes before the sun exposure • apply to cleansed skin • can be applied two coats to increase coverage • reapply at least every 2 hours • use a water resistant sunscreen if swimming or sweating • Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a sun Broad Spectrum SPF value of 15 or higher and other protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses. • children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information • protect the product in this container from excessive heat and direct sun. • store at room temperatures: 15°C- 30°C.
+inactive_ingredient:
+  Inactive ingredients Water(Aqua), Cyclopentasiloxane, Peg-10 Dimethicone, Isononyl Isononanoate, Talc, Dimethicone, Cyclohexasiloxane, Methylpropanediol, Silica, Sodium Chloride, Phenoxyethanol, Dimethicone Crosspolymer, Titanium Dioxide, Tocopheryl Acetate, Triethoxycaprylylsilane, Glycerin, Pentylene Glycol, Disodium Stearoyl Glutamate, Lactic Acid, Serine, Sodium Lactate, Sorbitol, Urea, Isostearyl Sebacate, Aluminum Hydroxide, Fragrance, Magnesium Stearate, Allantoin, Linalool, *Iron Oxides. *contains one or more of these ingredients.
+package_label_principal_display_panel:
+  Packaging ERKUL-105
+set_id:
+  e36550a6-a231-41a8-abda-afdbb2449eaa
+id:
+  4bb89419-9f2d-4eb5-b295-5f5468d8c0cb
+effective_time:
+  20250806
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    GR HD FOUNDATION HIGH DEFINITION SPF 15
+  generic_name:
+    AVOBENZONE, OCTINOXATE
+  manufacturer_name:
+    ERKUL KOZMETIK SANAYI VE TICARET ANONIM SIRKETI
+  product_ndc:
+    82715-105
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTINOXATE
+  spl_id:
+    4bb89419-9f2d-4eb5-b295-5f5468d8c0cb
+  spl_set_id:
+    e36550a6-a231-41a8-abda-afdbb2449eaa
+  package_ndc:
+    82715-105-01
+    82715-105-02
+    82715-105-03
+    82715-105-04
+    82715-105-05
+    82715-105-06
+    82715-105-07
+    82715-105-08
+    82715-105-09
+    82715-105-10
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4Y5P7MUD51

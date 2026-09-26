@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Medicated Apricot Scrub Salicylic acid WATER JUGLANS REGIA SHELL GLYCERYL STEARATE SE GLYCERIN CETOSTEARYL ALCOHOL CETYL ALCOHOL DECYL GLUCOSIDE POWDERED CELLULOSE SODIUM HYDROXIDE COCAMIDOPROPYL BETAINE GLYCERYL MONOSTEARATE PEG-100 STEARATE APRICOT POLYOXYL 20 CETOSTEARYL ETHER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE POLYSORBATE 60 HYDROXYACETOPHENONE PHENOXYETHANOL BENZYL ALCOHOL LIMONENE, (+)- TITANIUM DIOXIDE SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active ingredient Salicylic acid 2%
+purpose:
+  Purpose Acne medication
+indications_and_usage:
+  Use for the treatment of acne
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product skin irritation and dryness is more likely to occure if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions moisten face with water. Apply product with wet fingertips and massage over face. Rinse well and pat dry. avoid contact with the eyes. If contact occurs, flush thoroughly with water.
+storage_and_handling:
+  Other information store at room temperature
+inactive_ingredient:
+  Inactive ingredients water, Juglans regia (walnut) shell powder, glyceryl stearate SE, glycerin, cetearyl alcohol, cetyl alcohol, decyl glucoside, cellulose, sodium hydroxide, cocamidopropyl betaine, glyceryl stearate, PEG-100 stearate, Prunus armeniaca (apricot) fruit extract, ceteareth-20, carbomer, polysorbate 60, fragrance, hydroxyacetophenone, phenoxyethanol, benzyl alcohol, limonene, titanium dioxide
+spl_unclassified_section:
+  Disclaimer *This product is not manufactured or distributed by ELIDA BEAUTY US (IP) LLC, distributor of St. Ives ® . **Formulated without sulfated surfactants
+adverse_reactions:
+  ADVERSE REACTION DISTRIBUTED BY: ADUSA DISTRIBUTION, LLC SALISBURY, NC 28147 For product questions or concerns, contact us at 1-833-992-3872. Quality guaranteed or your money back. PLASTIC TUBE how2recycle.info
+package_label_principal_display_panel:
+  Principal display panel CAREone ® Compare to St. Ives ® BHAl Apricot Exfoliant* APRICOT SCRUB ACNE MEDICATION Dermatologist Tested No Paraben or Sulfates** NET WT 6 0Z (170 g) image description
+set_id:
+  1942bd34-a152-450e-a5c5-46488da66b3d
+id:
+  4a2ac1e2-bb4a-6935-e063-6294a90a6df7
+effective_time:
+  20260206
+version:
+  22
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Medicated Apricot Scrub
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Retail Business Services, LLC
+  product_ndc:
+    72476-044
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    4a2ac1e2-bb4a-6935-e063-6294a90a6df7
+  spl_set_id:
+    1942bd34-a152-450e-a5c5-46488da66b3d
+  package_ndc:
+    72476-044-30
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

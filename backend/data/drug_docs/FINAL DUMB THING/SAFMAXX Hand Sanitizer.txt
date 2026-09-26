@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  SAFMAXX Hand Sanitizer BENZALKONIUM CHLORIDE WATER COCAMIDOPROPYL BETAINE GLYCERIN POLOXAMER 124 BENZYL ALCOHOL PHENOXYETHANOL FD&C BLUE NO. 1 BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses handwash to help reduce bacteria that potentially can cause disease helps to prevent cross-contamination by hand contact helps to prevent drying of the skin recommended for repeated use
+warnings:
+  Warnings For external use only When using this product do not use in or near eyes Stop use and ask a doctor if irritation or redness develop. Keep out of reach of children. If swallowed, seek medical attention or contact a Poison Control Center immediately.
+when_using:
+  When using this product do not use in or near eyes
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek medical attention or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions apply appropriate amount of product into palm of hand rub thouroughtly over all surfaces of both hands for at least 20 seconds rub hands together until dry
+storage_and_handling:
+  Other information store in a cool, dry place below 104 o F (40 o C)
+inactive_ingredient:
+  Inactive ingredients Water, cocamidopropyl betaine, glycerine, polozamer 124, benzyl alcohol, phenoxyethanol,FD&C Blue No.1
+questions:
+  Questions? Contact G&N Enterprise, LLC at 800-290-6816 Mon-Fri 9 am-5 pm CST
+package_label_principal_display_panel:
+  SAFMAXX Hand Sanitizer Non_Alcohol Microbiological Shield Made in the USA Benzalkonium Chloride 0.13% SAFMAXX_250 SAFMAXX_45ML
+set_id:
+  aabfc18e-f6dd-de28-e053-2a95a90aeae0
+id:
+  b457acdc-68fa-8da6-e053-2995a90a0119
+effective_time:
+  20201117
+version:
+  3
+openfda:

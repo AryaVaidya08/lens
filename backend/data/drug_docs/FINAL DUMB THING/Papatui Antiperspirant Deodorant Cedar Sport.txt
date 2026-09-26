@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Papatui Antiperspirant Deodorant Cedar Sport ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ISOMETHYL-.ALPHA.-IONONE LIMONENE, (+)- ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY .BETA.-CITRONELLOL, (R)- DIHEPTYL SUCCINATE STEARYL ALCOHOL CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) CETYL ALCOHOL ALUMINUM STARCH OCTENYLSUCCINATE DIMETHICONE WATER C15-19 ALKANE BALANITES AEGYPTIACA SEED OIL ALKYL (C12-15) BENZOATE HYDROGENATED CASTOR OIL SILICON DIOXIDE COUMARIN LINALOOL, (+/-)- BENZYL SALICYLATE MYRISTYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE
+active_ingredient:
+  Drug Facts Drug Facts Active ingredient Aluminum zirconium trichlorohydrex Gly 16%
+purpose:
+  Purpose Purpose Antiperspirant
+indications_and_usage:
+  Use Use reduces underarm wetness
+warnings:
+  Warnings Warnings For external use only. Do not use on broken skin Stop use if rash or irritation occurs Ask a doctor before use if you have kidney disease For external use only. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  For external use only.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+instructions_for_use:
+  Directions Directions apply to clean, dry underarms only
+inactive_ingredient:
+  Inactive Ingredients Inactive Ingredients Dimethicone, Stearyl Alcohol, C15-19 Alkane, Diheptyl Succinate, C12-15 Alkyl Benzoate, Water, Hydrogenated Castor Oil, Cetyl Alcohol, Silica, Aluminum Starch Octenylsuccinate, Fragrance, Capryloyl Glycerin/Sebacic Acid Copolymer, Balanites Aegyptiaca Kernal Oil, Myristyl Alcohol, Tocopheryl Acetate, Coumarin, Limonene, Linalool, Alpha-Isomethylionone, Benzyl Salicylate, Citronellol.
+questions:
+  Questions? Questions? Call toll-free 1-844-4PAPATUI, Mon-Fri
+package_label_principal_display_panel:
+  Papatui 24 Hour Anti-Perspirant Cedar Sport PDP
+set_id:
+  0b522816-32c6-a436-e063-6394a90a5a51
+id:
+  2901f70c-047d-d0a9-e063-6394a90a6a8b
+effective_time:
+  20241211
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Papatui Antiperspirant Deodorant Cedar Sport
+  generic_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  manufacturer_name:
+    Forward 7
+  product_ndc:
+    83850-101
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    2901f70c-047d-d0a9-e063-6394a90a6a8b
+  spl_set_id:
+    0b522816-32c6-a436-e063-6394a90a5a51
+  package_ndc:
+    83850-101-73
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

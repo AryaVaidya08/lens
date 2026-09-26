@@ -1,0 +1,48 @@
+spl_product_data_elements:
+  ASPIRIN 325 MG ASPIRIN STARCH, CORN POVIDONE ASPIRIN ASPIRIN AP;010
+spl_unclassified_section:
+  Drug Facts
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+  *Reliable 1 Laboratories LLC is not affiliated with the owner of the trademark GENUINE BAYER®. Distributed by: Reliable 1 Laboratories LLC, Valley Stream, NY 11580 www.reliable1labs.com
+active_ingredient:
+  Aspirin USP, 325 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Pain Reliever/Fever Reducer
+indications_and_usage:
+  temporarily relieves headache menstrual pain minor pain of arthritis muscle pain toothache pain and fever of colds
+warnings:
+  Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this prodcut, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness.
+other_safety_information:
+  Allergy alert: Aspirin may cause a severe allergic reaction which may include hives facial swelling asthma (wheezing) shock
+  Stomach bleeding warning: This prodcut contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSIADs (ibuprofen, naproxen, or others) take more or for a longer time than directed have 3 or more alcoholic drinks every day while using this product Drug Facts continued on back of label
+do_not_use:
+  Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer
+ask_doctor:
+  Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout or arthritis under a doctor's care for any serious condition taking any other drug
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasta more than 3 days redness or swelling is present in the painful area any new symptoms appear ringing in the ears or loss of hearing occurs These could be sings of a serious condition
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially imporant not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control right away.
+dosage_and_administration:
+  Directions DRINK A FULL GLASS OF WATER WITH EACH DOSE adults and children 12 years and over: 1-2 tablets every 4 hours while symptoms last, not more than 12 tablets in 24 hours children under 12 years: ask a doctor
+storage_and_handling:
+  Other information store at room temperature 15°-30ºC (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients corn starch, povidone
+questions:
+  Questions or comments Questions or comments ? call 516-341-0666, 8:30 am - 4:30 pm ET, Monday - Friday
+package_label_principal_display_panel:
+  NDC 69618-016-01 Aspirin USP 325 mg (NSAID) PAIN RELIEVER FEVER REDUCER 100 TABLETS *Compare to Active Ingredient in GENUINE BAYER® Aspirin 325 mg
+set_id:
+  28c48336-c238-0141-e054-00144ff8d46c
+id:
+  cf5ebcfc-abd6-602e-e053-2a95a90a46e8
+effective_time:
+  20211027
+version:
+  4
+openfda:

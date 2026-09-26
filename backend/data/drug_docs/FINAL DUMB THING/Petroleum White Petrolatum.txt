@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Petroleum White Petrolatum PETROLATUM PETROLATUM
+active_ingredient:
+  Active ingredient White petrolatum USP (99.8%)
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses temporarily protects minor: cuts, scrapes, burns temporarily protects and helps relieve chapped or cracked skin and lips helps protect from the drying effects of wind and cold weather
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on deep or puncture wounds animal bites serious burns
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last longer than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed
+inactive_ingredient:
+  Inactive ingredient None
+spl_unclassified_section:
+  Distributed by: Supervalu, Inc. Eden Prairie, MN 55344 USA Contact us at 1-877-932-7948
+package_label_principal_display_panel:
+  Principal Panel Display Baby Basics Petroleum Jelly Skin Protectant Lavender & Chamomile NET WT 13 OZ (368 g) mm01
+set_id:
+  293baf4e-346a-4b7f-9923-bdf815c3a75f
+id:
+  3b3be511-dbf9-f3a3-e063-6294a90a53db
+effective_time:
+  20250731
+version:
+  18
+openfda:

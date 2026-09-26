@@ -1,0 +1,21 @@
+effective_time:
+  20110211
+inactive_ingredient:
+  inactive ingredients: water [] butylene glycol [] c12-15 alkyl benzoate [] cetyl alcohol [] laureth-4 [] chamomilla recutita (matricaria) extract [] saccharomyces cerevisiae extract [] rosmarinus officinalis (rosemary) leaf extract [] chamomilla recutita (matricaria) flower extract [] gentiana lutea (gentian) root extract [] yeast extract\faex\extrait de levure [] oryza sativa (rice) bran extract [] polyethylene [] hordeum vulgare (barley) extract\extrait d'orge [] salicornia herbacea extract [] rosa roxburghii fruit extract [] peg-100 stearate [] citrus unshiu peel extract [] cucumis sativus (cucumber) fruit extract [] plankton extract [] pantethine [] porphyra yezoensis (algae) extract [] helianthus annuus (sunflower) seedcake [] hydrogenated lecithin [] caffeine [] polyglyceryl-3 beeswax [] acetyl glucosamine [] pvp/hexadecene copolymer [] squalane [] polyhydroxystearic acid [] tocopheryl acetate [] isohexadecane [] methicone [] propylene glycol dicaprate [] dipotassium glycyrrhizate [] zeolite [] nylon-12 [] magnesium ascorbyl phosphate [] polysorbate 80 [] hexylene glycol [] caprylyl glycol [] acrylamide/sodium acryloyldimethyltaurate copolymer [] isostearic acid [] calcium chloride [] xanthan gum [] alumina [] disodium edta [] bht [] phenoxyethanol [] zinc oxide (ci 77947) [] iron oxides (ci 77491, ci 77492, ci 77499)
+keep_out_of_reach_of_children:
+  keep out of reach of children.
+warnings:
+  warning: keep out of eyes. stop use if irritation occurs.
+spl_product_data_elements:
+  DERMA WHITE CITY BLOCK ANTI-POLLUTION SPF40 OCTINOXATE, TITANIUM DIOXIDE, OCTISALATE OCTINOXATE OCTINOXATE TITANIUM DIOXIDE TITANIUM DIOXIDE OCTISALATE OCTISALATE WATER BUTYLENE GLYCOL CETYL ALCOHOL CHAMAEMELUM NOBILE HIGH DENSITY POLYETHYLENE LECITHIN, SOYBEAN SQUALANE .ALPHA.-TOCOPHEROL ACETATE, DL- POLYSORBATE 20
+openfda:
+version:
+  1
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL: CLINIQUE DERMA WHITE CITY BLOCK ANTI-POLLUTION SPF 40 ALL SKIN TYPES 1 FL OZ LIQ / 30 ML CLINIQUE LABS DISTR. NEW YORK, NY 10022 FOLDING CARTON
+set_id:
+  97ceb066-d93a-4be7-90ec-6f82965501b3
+id:
+  ff0d1114-24c2-4367-a60d-b1e144649925
+active_ingredient:
+  active ingredients: octinoxate 7.50% [] titanium dioxide 5.20% [] octisalate 2.00%

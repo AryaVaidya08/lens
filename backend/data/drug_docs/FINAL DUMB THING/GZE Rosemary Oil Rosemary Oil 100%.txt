@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  GZE Rosemary Oil Rosemary Oil 100% ROSEMARY OIL ROSEMARY OIL
+active_ingredient:
+  Rosemary Oil 100%
+purpose:
+  Promotes hair growth.
+indications_and_usage:
+  Drops 10 drops rosemary oil in the palm of your hand, apply to the hair and roots,massage the scalp gently .
+warnings:
+  For external use only.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Drops 10 drops rosemary oil in the palm of your hand, apply to the hair and roots,massage the scalp gently .
+inactive_ingredient:
+  NONE
+package_label_principal_display_panel:
+  product image
+set_id:
+  23f48495-a7a6-88f8-e063-6394a90a5723
+id:
+  3b39f9a3-7199-eb74-e063-6394a90af995
+effective_time:
+  20250731
+version:
+  2
+openfda:

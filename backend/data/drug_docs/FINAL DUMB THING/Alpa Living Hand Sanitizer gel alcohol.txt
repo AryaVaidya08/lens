@@ -1,0 +1,27 @@
+effective_time:
+  20200526
+inactive_ingredient:
+  WATER CARBOMER GLYCERIN TRIETHANOLAMINE
+purpose:
+  for hand-washing to decrease bacteria on the skin, only when water is not available
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Flammable, keep away from fire and flames Fot external use only.
+spl_product_data_elements:
+  Alpa Living Hand Sanitizer gel alcohol GLYCERIN WATER ALCOHOL ALCOHOL CARBOMER 934 TROLAMINE
+openfda:
+version:
+  3
+dosage_and_administration:
+  For external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  wet hands thoroughly with product and allow to dry without wiping
+set_id:
+  a6940ec9-160a-a5f1-e053-2a95a90a4525
+id:
+  a6973241-6924-27d3-e053-2a95a90a5142
+active_ingredient:
+  alcohol

@@ -1,0 +1,33 @@
+effective_time:
+  20181231
+inactive_ingredient:
+  Inactive Ingredients Water(Aqua), Sodium Cumenesulfonate, Decyl Glucoside, Ammonium Lauryl Sulfate, Lactic Acid, Tetrasodium EDTA, Sodium Laureth Sulfate, Aminomethyl Propanol, SD Alcohol 40-B, Propylene Glycol, Isohexadecane, Isopropyl Myristate, Methylchloroisothiazolinone, Methylisothiazolinone.
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek immediate medical attention or call a poison control center.
+warnings:
+  Warnings For external use only When using this product Avoid contact with eyes. In case of eye contact, flush with water. Stop use if irritation or redness develops. If condition persists for more than 72 hours consult a doctor. Keep out of reach of children. If swallowed, seek immediate medical attention or call a poison control center.
+when_using:
+  When using this product Avoid contact with eyes. In case of eye contact, flush with water.
+spl_product_data_elements:
+  Pacific Garden Antimicrobial, Fragrance Free, Dye Free Triclosan PROPYLENE GLYCOL WATER ALCOHOL AMMONIUM LAURYL SULFATE SODIUM CUMENESULFONATE DECYL GLUCOSIDE LACTIC ACID EDETATE SODIUM AMINOMETHYLPROPANOL ISOPROPYL MYRISTATE ISOHEXADECANE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE SODIUM LAURETH-3 SULFATE TRICLOSAN TRICLOSAN
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Wet hands, apply soap, rub hands together vigorously for at least 20 seconds. Rinse and dry hands thoroughly with a disposable paper towel.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use if irritation or redness develops. If condition persists for more than 72 hours consult a doctor.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1200 mL Bag Label pacific garden Antimicrobial Foam Soap Fragrance Free, Dye Free 4-1200 mL(40.5 FL OZ) PRINCIPAL DISPLAY PANEL - 1200 mL Bag Label
+indications_and_usage:
+  Use Handwash to help reduce bacteria that potentially can cause disease.
+set_id:
+  d605d9c2-7dc2-4960-87e8-1bce2c6a6025
+id:
+  7e58e649-21b0-e929-e053-2991aa0a320b
+active_ingredient:
+  Active Ingredient Triclosan 0.45%

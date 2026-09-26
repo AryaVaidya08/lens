@@ -1,0 +1,27 @@
+effective_time:
+  20170322
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: AQUA (WATER), Propylene Glycol, Glycerin, PEG-7 Glyceryl Cocoate, Water (aqua), Pentylene Glycol, Tocopheryl Acetate, Hydrolyzed Pea, PEG-40 Hydrogenated Castor Oil, Trideceth-9, Glycerin, Retinyl Palmitate, Carbomer, Triethanolamine, Fructose, Urea, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Glycoproteins, Glutamic Acid, Valine, Threonine, Maltose, Sodium PCA, Sodium Chloride, Sodium Lactate, Trehalose, Allantoin, Sodium Hyaluronate, Glucose
+purpose:
+  PURPOSE Purpose: Anti-fatigue and lifting Serum
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS Warnings: For external use only Avoid contact with eyes. Discontinue use if signs of irritation or rashes appear.
+spl_product_data_elements:
+  OXY STEM M SERUM DIMETHICONE DIMETHICONE DIMETHICONE WATER Propylene Glycol
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION Dosage & Administration: Apply morning and night on clean face and neck prior to moisturizer
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  INDICATIONS & USAGE Indications & Usage: Apply morning and night
+set_id:
+  4dc5c4da-827b-4675-b2f0-64b712a55417
+id:
+  f89a76b1-1135-45d8-a905-6ec5fe3f8659
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: DIMETHICONE 2.0%

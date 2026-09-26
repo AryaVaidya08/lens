@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Daytime Cold and Flu Relief Non Drowsy Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ANHYDROUS CITRIC ACID FD&C YELLOW NO. 6 GLYCERIN POLYETHYLENE GLYCOL 300 PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM CITRATE SUCROSE
+active_ingredient:
+  Active ingredients (in each softgel) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg
+purpose:
+  Purpose Pain reliever/fever reducer Cough suppressant Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: minor aches and pains headache sore throat fever nasal congestion cough due to minor throat and bronchial irritation
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take: more than 6 doses (12 tablespoons or 180 mL) in 24 hours for adults more than 5 doses (5 tablespoons or 75 mL) in 24 hours for children 6-12 years old with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if the user has liver disease heart disease thyroid disease diabetes high blood pressure a sodium-restricted diet persistent or chronic cough such as occurs with smoking, asthma or emphysema cough accompanied by excessive phlegm (mucus) trouble urinating due to enlarged prostate gland Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin. When using this product avoid alcoholic drinks do not use more than directed (see overdose warning) Stop use and ask a doctor if redness or swelling is present new symptoms occur nervousness, dizziness or sleeplessness occur fever gets worse or lasts more than 3 days pain or cough gets worse or lasts more than 5 days (children) or 7 days (adults) cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center 91-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if the user has liver disease heart disease thyroid disease diabetes high blood pressure a sodium-restricted diet persistent or chronic cough such as occurs with smoking, asthma or emphysema cough accompanied by excessive phlegm (mucus) trouble urinating due to enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin.
+when_using:
+  When using this product avoid alcoholic drinks do not use more than directed (see overdose warning)
+stop_use:
+  Stop use and ask a doctor if redness or swelling is present new symptoms occur nervousness, dizziness or sleeplessness occur fever gets worse or lasts more than 3 days pain or cough gets worse or lasts more than 5 days (children) or 7 days (adults) cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center 91-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions take only as recommended (see overdose warning) do not exceed 5 doses(children) or 6 doses (adults per 24 hours measure only with dosing cup provided keep dosing cup with product tbsp=tablespoon, mL= milliliter age dose adults and children 12 years and over 2 tbsp (30 mL) every 4 hours children 6 to 11 years 1 tbsp (15 mL) every 4 hours children 4 to 5 years do not use unless directed by a doctor children under 4 years do not use When using Day Time and Night Time products, carefully read each label to ensure correct dosing.
+dosage_and_administration_table:
+  <table width="391px"> <col width="1px"/> <col width="1px"/> <tbody> <tr> <td align="center" styleCode="     Toprule          Rrule     ">age </td> <td align="center" styleCode="     Toprule     ">dose </td> </tr> <tr> <td styleCode="     Toprule          Rrule     "> adults and children 12 years and over</td> <td styleCode="     Toprule     "> 2 tbsp (30 mL) every 4 hours</td> </tr> <tr> <td styleCode="     Toprule          Rrule     "> children 6 to 11 years</td> <td styleCode="     Toprule     ">1 tbsp (15 mL) every 4 hours</td> </tr> <tr> <td styleCode="     Toprule          Rrule     "> children 4 to 5 years</td> <td styleCode="     Toprule     ">do not use unless directed by a doctor</td> </tr> <tr> <td styleCode="     Toprule          Rrule     "> children under 4 years</td> <td styleCode="     Toprule     ">do not use</td> </tr> </tbody> </table>
+other_safety_information:
+  Other information each 15 mL contains: sodium 71 mg store at 20º-25ºC (68º-77ºF). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients citric acid, FD&C yellow #6, glycerin, natural & artificial flavor, polyethylene glycol 300, propylene glycol, purified water, saccharin sodium, sodium citrate, sucrose
+package_label_principal_display_panel:
+  Principal Display Panel Non-Drowsy Daytime Cold & Flu Relief Acetaminophen 325 mg-Pain Reliever/Fever Reducer Dextromethorphan HBr 10 mg-COugh Suppressant Phenylephrine HCl 5 mg- Nasal Decongestant Original Flavor Compare to Vicks® DayQuil® active ingredients* Alcohol free Antihistamine free *This product is not manufactured or distributed by Procter & Gamble, owner of the registered trademark Vicks® DayQuil® Failure to follow these warnings could result in serious consequences. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL IS BROKEN OR MISSING. DISTRIBUTED BY SAFEWAY INC. P.O. BOX 99, PLEASANTON, CA 94566-0009 1-888-SAFEWAY www.safeway.com
+  Product Label Safeway non drowsy daytime cold and flu relief Acetaminophen 325 mg, Dextromethorphan HBr 10 mg, Phenylephrine HCl 5 mg
+set_id:
+  6cb77b28-1ff0-445a-966e-07c6726ce0ff
+id:
+  37cbd578-ab18-459d-8067-46c1750f3276
+effective_time:
+  20191024
+version:
+  3
+openfda:

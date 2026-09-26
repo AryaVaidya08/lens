@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  GPPEE TOENAIL FUNGUS TREATMENT Undecylenic Acid 25% UNDECYLENIC ACID UNDECYLENIC ACID HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL CYCLOPENTASILOXANE MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL EUGENIA CARYOPHYLLUS (CLOVE) BUD OIL LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL TOCOPHEROL
+active_ingredient:
+  Undecylenic Acid 25%
+inactive_ingredient:
+  Aloe Vera Extract, Helianthus Annuus (Sunflower) Seed Oil, Cyclopentasiloxane, Prunus Armeniaca (Apricot) Kernel Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Eugenia Caryophyllus (Clove) Bud Oil, Lavandula Angustifolia (Lavender) Oil, Hakka Yu, Tocopherol, Origanum Vulgare Oil, Simmondsia Chinensis (Jojoba) Seed Oil.
+purpose:
+  For the treatment of nail fungus and associated symptoms, including discoloration, thickening, splitting, crumbling, and brittleness.
+indications_and_usage:
+  For the treatment of nail fungus and associated symptoms1. Clean the affected area and dry thoroughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Gently file the nail to make it thinner and remove debris, being cautious not to harm the nail bed. For best results, file nails every 2-3 days. 2. Supervise children in the use of this product. For athlete's foot: Pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily.
+warnings:
+  For external use only. Do not use on children under 2 years of agi unless directed by a doctor. When using this product, avoid contact with the eyes. Stop use and ask a doctor if irritation occun or if there is no improvement within weeks. Keep out of reach of children. If swallowed get medical help or contact a Poison Contro Center right away.
+keep_out_of_reach_of_children:
+  temperature, Avoid direct sunlight,
+when_using:
+  1. Clean the affected area and dry thoroughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Gently file the nail to make it thinner and remove debris, being cautious not to harm the nail bed. For best results, file nails every 2-3 days. 2. Supervise children in the use of this product. For athlete's foot: Pay special attention to spaces between the toes: wear well-fitting, ventilated shoes, and change shoes and socks at least once daily. To prevent athlete's foot, apply once or twice daily (morning and/or night). For toe fungus, apply to skin around the nail and cuticle. Visible improvement may be seen in as little as 7 days. Continue regular use to help prevent fungus regrowth.
+do_not_use:
+  Do not use on children under 2 years of age unless directed by a doctor.
+stop_use:
+  Stop use and ask a doctor if irritation occurs or if there is no improvement within 4 weeks.
+dosage_and_administration:
+  1. Clean the affected area and dry thoroughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Gently file the nail to make it thinner and remove debris, being cautious not to harm the nail bed. For best results, file nails every 2-3 days. 2. Supervise children in the use of this product. For athlete's foot: Pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily.
+package_label_principal_display_panel:
+  GPPEE TOENAIL FUNGUS TREATMENT GPPEE TOENAIL FUNGUS TREATMENT
+set_id:
+  598d05bc-459d-71cf-e063-6394a90a1932
+id:
+  598d05bc-459e-71cf-e063-6394a90a1932
+effective_time:
+  20260821
+version:
+  1
+openfda:
+  application_number:
+    M005
+  brand_name:
+    GPPEE TOENAIL FUNGUS TREATMENT
+  generic_name:
+    UNDECYLENIC ACID 25%
+  manufacturer_name:
+    Guangzhou Huixue Biotechnology Co., Ltd.
+  product_ndc:
+    87204-199
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    UNDECYLENIC ACID
+  spl_id:
+    598d05bc-459e-71cf-e063-6394a90a1932
+  spl_set_id:
+    598d05bc-459d-71cf-e063-6394a90a1932
+  package_ndc:
+    87204-199-01
+  is_original_packager:
+    True
+  unii:
+    K3D86KJ24N

@@ -1,0 +1,27 @@
+effective_time:
+  20161028
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredient: Water, Glycerin, Cocos Nucifera (Coconut) Water, Alcohol, Polysorbate 80, Hydroxyethylcellulose, Betaine, Oenothera Biennis (Evening Primrose) Oil, Camellia Japonica Seed Oil, Sodium Hyaluronate, Punica Granatum Fruit Extract, Euterpe Oleracea Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Phenoxyethanol, Carbomer, Triethanolamine, Disodium EDTA, Adenosine, Perfume
+purpose:
+  PURPOSE Purpose: Skin Protectant
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS Warning: 1. If the following symptoms arise upon use of the cosmetic product, immediately discontinue use and consult a dermatologist, for continued use may aggravate the symptoms. A. Redness, swelling, itchiness, stimulation, or other symptoms B. Occurrence of the above symptoms upon exposure to direct sunlight. 2. Do not use on areas with wounds, eczema, or dermatitis. 3. Do not store in areas with extreme heat or cold, or under direct sunlight. 4. Avoid the eye area 5. Keep out of reach of children
+spl_product_data_elements:
+  SNP Animal Tiger Wrinkle Mask Sheet Witch Hazel Witch Hazel WITCH HAZEL Water Glycerin
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION Dosage & Administration: Use immediately after opening
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Tiger Mask.jpg Image of carton
+indications_and_usage:
+  INDICATIONS & USAGE Indication & Usage: 1. After washing, prepare for mask treatment and tone skin by moisturizing your skin 2. Wear the mask, follow the cutting leave the eyes and mouth a space 3. Leave the mask 10 to 20 minutes and take it off, Massage and dab the face gently let the essence absorb into skin cell well.
+set_id:
+  3c863de4-f85c-4240-9dfc-2960e3b104db
+id:
+  3bd84a3d-26ea-48c8-a325-19970bacc517
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredient: Hamamelis Virginiana (Witch Hazel) Water 0.1%

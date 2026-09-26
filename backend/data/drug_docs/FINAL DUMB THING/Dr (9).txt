@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Dr VIRURSOLUTION hypochlorous acid WATER HYPOCHLOROUS ACID HYPOCHLOROUS ACID
+active_ingredient:
+  hypochlorous acid
+purpose:
+  sterilization, disinfection
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  take appropriate amount where needed
+warnings:
+  ■ Flammable. Keep away from fire or flame. ■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children.
+dosage_and_administration:
+  for external use only
+inactive_ingredient:
+  water
+package_label_principal_display_panel:
+  label
+set_id:
+  b7482098-50a6-f877-e053-2a95a90a5a40
+id:
+  b7482098-50a7-f877-e053-2a95a90a5a40
+effective_time:
+  20201225
+version:
+  1
+openfda:

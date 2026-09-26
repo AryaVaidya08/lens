@@ -1,0 +1,27 @@
+effective_time:
+  20200605
+inactive_ingredient:
+  water, etc
+purpose:
+  Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  One Care MEDI HAND Gel(Ethanol) ALCOHOL WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+set_id:
+  a34ac330-a028-2563-e053-2995a90a0000
+id:
+  a75150f6-34c0-53b0-e053-2a95a90a31da
+active_ingredient:
+  Alcohol

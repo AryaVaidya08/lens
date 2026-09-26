@@ -1,0 +1,27 @@
+effective_time:
+  20200521
+inactive_ingredient:
+  AQUA ACRYLATES COPOLYMER GLYCERIN PROPYLENE GLYCOL TREHALOSE TRIETHANOLAMINE
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  1.For external use only,Avoid contact with eyes or wound, if product gets into eyes, rinse thoroughly with water 2.Stop using this product if skin irritation occurs and consult a doctor immediately 3.Keep out of reach of children If swallowed, seek medical help immediately 4.Flammable, keep away from fire or flame 5.Do not mix with detergents or other chemicals
+spl_product_data_elements:
+  HAND SANIZITER waterless hand sanitizer GLYCERIN WATER BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) PROPYLENE GLYCOL TREHALOSE ALCOHOL ALCOHOL CUPRIC BIS(TRIETHANOLAMINE) transparent
+openfda:
+version:
+  2
+dosage_and_administration:
+  Flammable, keep away from fire or flame，Store at room temperature
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Dispense product evenly on palms or on material surface and allow dry
+set_id:
+  a47f4f61-81ac-768b-e053-2995a90a823f
+id:
+  a633832d-b559-4fe9-e053-2995a90ae332
+active_ingredient:
+  ALCOHOL

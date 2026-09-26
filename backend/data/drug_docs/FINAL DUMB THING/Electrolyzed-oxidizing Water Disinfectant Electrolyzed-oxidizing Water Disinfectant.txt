@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Electrolyzed-oxidizing Water Disinfectant Electrolyzed-oxidizing Water Disinfectant HYPOCHLOROUS ACID HYPOCHLOROUS ACID WATER
+active_ingredient:
+  ACTIVE INGERDIENT Available chlorine 0.9%
+purpose:
+  PURPOSE Disinfect
+indications_and_usage:
+  USES High,medium and low level disinfection of medical devices and endoscopes;Skin and mucous membranes (Note:when used for mucosal disinfection,it is limited to medical and health institutions for diagnosis and treatment),wound disinfection; sanitary and surgical hand disinfection; genitalia and sexual health instruments disinfection;surface of hard objects,fabrics and other porous objects disinfection;drinking utensils, fruits and vegetables disinfection;Indoor air spray disinfection;
+warnings:
+  Warnings Store in a cool,dry place; Avoid direct sunlight; Avoid eating by children, please keep out of reach of children; It is for external use only,not oral.
+do_not_use:
+  
+when_using:
+  WHEN USING SECTION 1.Use the original solution directly and do not mix it with other disinfectants. 2.Organic substances may affect the sterilization efficiency of the product,and the disinfection effect is better after cleaning.
+stop_use:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  DIRECTIONS Spray,wipe,rinse, soak
+storage_and_handling:
+  OTHER INFORMATION Physical indicators:Orp≥1100mv,ph value 2-3; Store between 15-30C(59-86F) ; Avoid freezing and excessive heat above 40C(104F)
+inactive_ingredient:
+  INACTIVE INGREDIENTS Purified water
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 75430-001-15 5ML 75430-001-14 3ML 75430-001-19 500000ML 75430-001-16 200000ML 75430-001-17 250000ML 75430-001-18 300000ML 30 ml label 50 ml label 80 ml label 100 ml label 120 ml label 150 ml label 300 ml label 500 ml label 2000 ml label 5000 ml label 10000 ml label 20000 ml label 30000 ml label
+set_id:
+  a50dba94-858e-dbc7-e053-2995a90a7741
+id:
+  db52b3d5-0e19-638c-e053-2995a90ad3b0
+effective_time:
+  20220328
+version:
+  3
+openfda:

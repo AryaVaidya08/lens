@@ -1,0 +1,35 @@
+effective_time:
+  20120820
+inactive_ingredient:
+  Water
+purpose:
+  Purpose topical antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only flammable, keep away from fire and flame will produce serious gastric disturbances if ingested Ask a doctore before use if you have deep puncture wounds serious burns Stop use and ask a doctor if condition persists or gets worse. Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+spl_product_data_elements:
+  ISOPROPYL RUBBING ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions apply to skin directly or with clean gauze, cotton or swab. for rubbing, apply liberally and rub with hands
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse.
+storage_and_handling:
+  Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol keep bottle tightly closed
+package_label_principal_display_panel:
+  PACKAGE LABEL label
+indications_and_usage:
+  Uses to decrease germs in minor cuts and scrapes helps relieve minor muscular aches due to exertion
+set_id:
+  02b221f1-03c5-4019-a950-5b29311dacac
+id:
+  e6d1dbd9-8aac-4758-b727-a00ed6fa2ce3
+ask_doctor_or_pharmacist:
+  Ask a doctore before use if you have deep puncture wounds serious burns
+active_ingredient:
+  Active ingredient Isopropyl alcohol (50% conc)

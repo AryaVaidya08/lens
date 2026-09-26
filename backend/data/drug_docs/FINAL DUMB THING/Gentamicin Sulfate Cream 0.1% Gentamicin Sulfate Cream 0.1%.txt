@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Gentamicin Sulfate Cream 0.1% Gentamicin Sulfate Cream 0.1% METHYLPARABEN BUTYLPARABEN GENTAMICIN SULFATE GENTAMICIN STEARIC ACID PROPYLENE GLYCOL MONOPALMITOSTEARATE POLYSORBATE 40 ISOPROPYL MYRISTATE PROPYLENE GLYCOL WATER SORBITOL
+description:
+  DESCRIPTION Gentamicin Sulfate Cream is a wide spectrum antibiotic preparation for topical administration. Each gram contains Gentamicin Sulfate USP equivalent to 1 mg gentamicin base in a cream base containing stearic acid, propylene glycol monostearate, isopropyl myristate, polysorbate 40, propylene glycol, sorbitol solution and purified water with methylparaben and butylparaben as preservatives.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Gentamicin Sulfate is a wide spectrum antibiotic that provides highly effective topical treatment in primary and secondary bacterial infections of the skin. Gentamicin Sulfate Cream may clear infections that have not responded to treatment with other topical antibiotic agents. In primary skin infections such as impetigo contagiosa, treatment 3 or 4 times daily with Gentamicin Sulfate Cream usually clears the lesions promptly. In secondary skin infections, Gentamicin Sulfate Cream aids in the treatment of the underlying dermatoses by controlling the infection. Bacteria susceptible to the action of gentamicin sulfate include sensitive strains of Streptococci (group A beta-hemolytic, alpha-hemolytic), Staphylococcus aureus (coagulase positive, coagulase negative, and some penicillinase-producing strains), and the gram-negative bacteria, Pseudomonas aeruginosa, Aerobacter aerogenes, Escherichia coli, Proteus vulgaris, and Klebsiella pneumoniae
+indications_and_usage:
+  INDICATIONS AND USAGE Primary skin infections: Impetigo contagiosa, superficial folliculitis, ecthyma, furunculosis, sycosis barbae, and pyoderma gangrenosum. Secondary skin infections: Infectious eczematoid dermatitis, pustular acne, pustular psoriasis, infected seborrheic dermatitis, infected contact dermatitis (including poison ivy), infected excoriations, and bacterial super-infections of fungal or viral infections. Please Note: Gentamicin Sulfate is a bactericidal agent that is not effective against viruses or fungi in skin infections. Gentamicin Sulfate is useful in the treatment of infected skin cysts and certain other skin abscesses when preceded by incision and drainage to permit adequate contact between the antibiotic and the infecting bacteria. Good results have been obtained in the treatment of infected stasis and other skin ulcers, infected superficial burns, paronychia, infected insect bites and stings, infected lacerations and abrasions, and wounds from minor surgery. Patients sensitive to neomycin can be treated with Gentamicin Sulfate, although regular observation of patients sensitive to topical antibiotics is advisable when such patients are treated with any topical antibiotic. Gentamicin Sulfate Cream is recommended for wet, oozing primary infections, and greasy, secondary infections, such as pustular acne or infected seborrheic dermatitis. If a water-washable preparation is desired, the cream is preferable. Gentamicin Sulfate Cream has been used successfully in infants over one year of age, as well as in adults and children.
+contraindications:
+  CONTRAINDICATIONS This drug product is contraindicated in individuals with a history of sensitivity to any of its components.
+precautions:
+  PERCAUTIONS The use of topical antibiotics occasionally allows overgrowth of nonsusceptible organisms, including fungi. If this condition occurs, or if irritation, sensitization or superinfection develops, treatment with gentamicin sulfate should be discontinued and appropriate therapy instituted.
+adverse_reactions:
+  ADVERSE REACTIONS In patients with dermatoses treated with Gentamicin Sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with Gentamicin Sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of Gentamicin Sulfate followed by exposure to ultraviolet radiation. To report SUSPECTED ADVERSE REACTIONS , contact Teligent Pharma, Inc. at 1-856-697-1441, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION A small amount of Gentamicin Sulfate Cream should be applied gently to the lesions three or four times daily. The area treated may be covered with a gauze dressing if desired. In impetigo contagiosa, the crusts should be removed before application of gentamicin sulfate to permit maximum contact between the antibiotic and the infection. Care should be exercised to avoid further contamination of the infected skin. Infected stasis ulcers have responded well to treatment with gentamicin sulfate under gelatin packing.
+how_supplied:
+  HOW SUPPLIED Gentamicin Sulfate Cream USP, 0.1% is supplied as follows: 30 gram tube (NDC 70512-036-30) Store at controlled room temperature 15°-30°C (59°-86°F). Manufactured for: SOLA Pharmaceuticals Baton Rouge, LA 70810 C101322 PI-036-00 Rev 12/2019 Rev. 2
+package_label_principal_display_panel:
+  PACKAGE LABEL PRINCIPAL DISPLAY PANEL NDC 70512-036-30 Gentamicin Sulfate Cream USP, 0.1% For Dermatological Use Only Not for Ophthalmic Use Keep this and all drugs out of the reach of children. 30 grams Rx only Sola Pharmaceuticals Gentamicin Tube Display Gentamicin Carton Display
+set_id:
+  a2b5d3ff-920d-280a-e053-2995a90ac84f
+id:
+  a2b5d3ff-920e-280a-e053-2995a90ac84f
+effective_time:
+  20200407
+version:
+  1
+openfda:

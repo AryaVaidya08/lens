@@ -1,0 +1,37 @@
+pediatric_use:
+  PEDIATRIC USE Safety and effectiveness in pediatric patients have not been established. NOTE Anturane has minimal anti-inflammatory effect and is not intended for the relief of an acute attack of gout. In the initial stages of therapy, because of the marked ability of Anturane to mobilize urates, acute attacks of gouty arthritis may be precipitated.
+effective_time:
+  20101029
+contraindications:
+  CONTRAINDICATIONS Patients with an active peptic ulcer or symptoms of gastrointestinal inflammation or ulceration should not receive the drug. The drug is contraindicated in patients with a history or the presence of: Hypersensitivity to phenylbutazone or other pyrazoles Blood dyscrasias
+precautions:
+  PRECAUTIONS As with all pyrazole compounds, patients receiving Anturane should be kept under close medical supervision and periodic blood counts are recommended. It may be administered with care to patients with a history of healed peptic ulcer. Recent reports have indicated that Anturane potentiates the action of certain sulfonamides, such as sulfadiazine and sulfisoxazole. In addition, other pyrazole compounds (phenylbutazone) have been observed to potentiate the hypoglycemic sulfonylurea agents, as well as insulin. In view of these observations, it is suggested that Anturane be used with caution in conjunction with sulfa drugs, the sulfonylurea hypoglycemic agents and insulin. Because Anturane is a potent uricosuric agent, it may precipitate urolithiasis and renal colic, especially in the initial stages of therapy. For this reason, an adequate fluid intake and alkalinization of the urine are recommended. In cases with significant renal impairment, periodic assessment of renal function is indicated. Occasional cases of renal failure have been reported; but a cause-and-effect relationship has not always been clearly established. Salicylates antagonize the uricosuric action of Anturane and for this reason their concomitant use is contraindicated in gouty arthritis. Anturane may accentuate the action of coumarin-type anticoagulants and further depress prothrombin activity when these medications are employed simultaneously.
+warnings:
+  WARNINGS Studies on the teratogenicity of pyrazole compounds in animals have yielded inconclusive results. Up to the present time, however, there have been no reported cases of human congenital malformation proved to be due to the use of the drug. It is suggested that Anturane be used with caution in pregnant women, weighing the potential risks against the possible benefits.
+spl_product_data_elements:
+  Anturane sulfinpyrazone SULFINPYRAZONE SULFINPYRAZONE COLLOIDAL SILICON DIOXIDE STARCH, CORN GELATIN LACTOSE MAGNESIUM STEARATE STEARIC ACID TALC CIBA;41 Anturane sulfinpyrazone SULFINPYRAZONE SULFINPYRAZONE STARCH, CORN D&C RED NO. 33 D&C YELLOW NO. 10 FD&C BLUE NO. 1 GELATIN LACTOSE MAGNESIUM STEARATE METHYLPARABEN PROPYLPARABEN SILICON DIOXIDE SODIUM LAURYL SULFATE STEARIC ACID TALC TITANIUM DIOXIDE Anturane;200;CIBA;168
+description:
+  DESCRIPTION Anturane, sulfinpyrazone USP, is a uricosuric agent available as 100-mg tablets and 200-mg capsules for oral administration. Its chemical name is 1,2-diphenyl-4-[2-(phenylsulfinyl) ethyl]-3,5-pyrazolidinedione, and its structural formula is Sulfinpyrazone USP is a white to off-white powder practically insoluble in water and in solvent hexane, soluble in alcohol and in acetone, and sparingly soluble in dilute alkali. Its molecular weight is 404.48. Inactive Ingredients . Anturane tablets: Colloidal silicon dioxide, gelatin, lactose, magnesium stearate, cornstarch, stearic acid, and talc. Anturane capsules: D&C Red No. 33, D&C Yellow No. 10, FD&C Blue No. 1, gelatin, lactose, magnesium stearate, methylparaben, propylparaben, silicon dioxide, sodium lauryl sulfate, cornstarch, stearic acid, talc, and titanium dioxide. Anturane structural formula
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Initial 200-400 mg daily in two divided doses, with meals or milk, gradually increasing when necessary to full maintenance dosage in one week. Maintenance 400 mg daily, given in two divided doses, as above. This dosage may be increased to 800 mg daily, if necessary, and may sometimes be reduced to as low as 200 mg daily after the blood urate level has been controlled. Treatment should be continued without interruptian even in the presence of acute exacerbations, which can be concomitantly treated with phenylbutazone or colchicine. Patients previously controlled with other uricosuric therapy may be transferred to Anturane at full maintenance dosage.
+adverse_reactions:
+  ADVERSE REACTIONS The most frequently reported adverse reactions with Anturane have been upper gastrointestinal disturbances. In these patients it is advisable to administer the drug with food, milk, or antacids. Despite this precaution, Anturane may aggravate or reactivate peptic ulcer. Rash has been reported. In most instances, this reaction did not necessitate discontinuance of therapy. In general, Anturane has not been observed to affect electrolyte balance. Blood dyscrasias (anemia, leukopenia, agranulocytosis, thrombocytopenia, and aplastic anemia) have rarely been reported. There has also been a published report associating Anturane, administered concomitantly with other drugs including colchicine, with leukemia following long-term treatment of patients with gout. However, the circumstances involved in the two cases reported are such that a cause-and-effect relationship to Anturane has not been clearly established.
+spl_unclassified_section:
+  Anturane ® sulfinpyrazone USP Tablets Capsules Prescribing Information
+how_supplied:
+  HOW SUPPLIED Tablets 100 mg – round, white, scored (imprinted CIBA 41) Bottles of 100 ....................................... NDC 0083-0041-30 Capsules 200 mg – green (imprinted Anturane 200 CIBA 168) Bottles of 100 ....................................... NDC 0083-0168-30 Do not store above 86°F (30°C). Dispense in tight container (USP) . C96-18 (Rev. 4/96) C I B A Ciba-Geigy Corporation Pharmaceuticals Division Summit, New Jersey 07901
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Anturane ® PRINCIPAL DISPLAY PANEL Anturane (sulfinpyrazone)
+indications_and_usage:
+  INDICATIONS Anturane is indicated for the treatment of: Chronic gouty arthritis Intermittent gouty arthritis
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Its pharmacologic activity is the potentiation of the urinary excretion of uric acid. It is useful for reducing the blood urate levels in patients with chronic tophaceous gout and acute intermittent gout, and for promoting the resorption of tophi.
+set_id:
+  ad040924-85c4-4bcb-b73a-1d599d81154b
+id:
+  19019f2e-1487-4da6-a664-d0bcfbe9d78e
+overdosage:
+  OVERDOSAGE Symptoms Nausea, vomiting, diarrhea, epigastric pain, ataxia, labored respiration, convulsions, coma. Possible symptoms, seen after overdosage with other pyrazolone derivatives: anemia, jaundice, ulceration. Treatment No specific antidote. Induce emesis; gastric lavage, supportive treatment (intravenous glucose infusions, analeptics).

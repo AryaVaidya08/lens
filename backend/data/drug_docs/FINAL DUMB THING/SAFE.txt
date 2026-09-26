@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  SAFE CLEANER PLUS ALCOHOL TROLAMINE SOPHORA FLAVESCENS ROOT CITRUS PARADISI SEED WATER PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE PEPPERMINT OIL GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl alcohol 70%
+purpose:
+  Purpose Antimicrobial
+dosage_and_administration:
+  Uses Hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+ask_doctor:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Directions * Put enough product in your palm to cover hands and rub hands together briskly until dry. * Children under 6 years of age should be supervised when using Safe Cleaner Hand Sanitizer.
+storage_and_handling:
+  Other information * Store below 110F (43C) * May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive Ingredients Glycerine, Purified water, Propylene glycol, Carbomer, Triethanolamine, Sophora extract, Grapefruit seed extract, Mentha oil
+package_label_principal_display_panel:
+  Package Label 100ml NDC: 74721-0010-4 Label 250ml NDC: 74721-0010-5 Label 475ml NDC: 74721-0010-6 Label 1000ml NDC: 74721-0010-7 Label 2000ml NDC: 74721-0010-8 Label 4000ml NDC: 74721-0010-9 Label 500ml NDC: 74721-0010-1 Label 500ml NDC: 74721-0010-2 Label
+set_id:
+  a64d73c4-81f7-0232-e053-2a95a90a3027
+id:
+  a7b13beb-3226-171a-e053-2995a90a3594
+effective_time:
+  20200609
+version:
+  3
+openfda:

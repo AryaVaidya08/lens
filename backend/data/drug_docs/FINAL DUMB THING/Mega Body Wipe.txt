@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Mega Body Wipe BENZALKONIUM CHLORIDE CYMBOPOGON CITRATUS LEAF PHENOXYETHANOL WATER BENZALKONIUM CHLORIDE BENZALKONIUM PROPYLENE GLYCOL DECYL GLUCOSIDE CITRIC ACID MONOHYDRATE MATRICARIA RECUTITA
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.08%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use For body cleaning to decrease bacteria on skin.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use Do not use in eyes.In case of contact,rinse thoroughly with water.
+stop_use:
+  Stop use and ask doctor if rash/redness or irritation appears/develops and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children except under adult supervision. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions Open the bag from the tear opening and use. Thoroughly wipe body & hands, allow to dry without rinsing. Discard after single use.
+storage_and_handling:
+  Other information Do not flush down toilet. Keep away from sunlight.Store at room temperature 20°-25° Celsius(68°-77° Fahrenheit). May discolor certain fabrics. Use within 2 weeks of opening.
+inactive_ingredient:
+  Inactive ingredients Aqua, Phenoxyethanol, Propylene glycol, Decyl Glucoside, Citric Acid, Chamomilla Recutita Flower Extract, Fragrance lemongrass.
+package_label_principal_display_panel:
+  Mega Body wipe(lemongrass) Package Label 194.4 g in 1 Bag(1 Wipe),NDC:77267-013-01 Triple body wipes lemongrass
+set_id:
+  ef493f84-ba72-c46e-e053-2995a90aca7a
+id:
+  4727b827-27eb-a055-e063-6294a90a093d
+effective_time:
+  20251230
+version:
+  3
+openfda:

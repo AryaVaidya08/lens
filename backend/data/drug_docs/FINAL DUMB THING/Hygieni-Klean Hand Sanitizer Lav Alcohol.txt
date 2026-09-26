@@ -1,0 +1,31 @@
+effective_time:
+  20210412
+inactive_ingredient:
+  Inactive ingredients Purified water, Glycerin USP, Carbomer, Lavender
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children should only use this product under adult supervison. Do not drink. Not edible. In case of accidential ingestion, seek professional assistance or contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+when_using:
+  When using this product avoid contact with eyes, ears, and mouth. In case of contact with eyes, flush eyes with water immediately. Avoid contact with broken skin. Discontinue use if irritation or redness develops. If condition persists, consult a physician.
+spl_product_data_elements:
+  Hygieni-Klean Hand Sanitizer Lav Alcohol ALCOHOL ALCOHOL GLYCERIN CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) FRAGRANCE LAVENDER ORC1800979 water
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Place hand sanitizer in your palm, thoroughly cover hands, including between fingers, under fingernails, and around wrists. Rub briskly until dry. No rinsing required.
+storage_and_handling:
+  Other information Store under 105°F. Avoid freezing and excessive heat above 104°F.
+package_label_principal_display_panel:
+  Package Label - Principle Display Panel PACKAGED & DISTRIBUTED BY Custom Chemical Services, LLC 8230 FM 2004 Hitchcock, TX 77563 (409) 925-7818 image description
+indications_and_usage:
+  Use(s) Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use. For use when soap and water are not available.
+set_id:
+  1f67b1ca-9533-44ab-9bab-2a38c2d9fea6
+id:
+  27ffa9e8-6e1c-4904-a9ce-7121c3d63121
+active_ingredient:
+  Active Ingredient: Alcohol 80% v/v.

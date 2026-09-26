@@ -1,0 +1,33 @@
+effective_time:
+  20180330
+inactive_ingredient:
+  Inactive Ingredients aloe barbadensis leaf extract, blue 1, carbomer, fragrance, glycerin, propylene glycol, red 33, tocopheryl acetate, triethanolamine, water, yellow 5
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children must be supervised in use of this product.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. Do not apply around eyes. Do not use in ears and mouth When using this product, avoid contact with eyes. In case of contact flush eyes with water.
+spl_product_data_elements:
+  SUNSHINY DAY SCENTED HAND SANITIZER ALCOHOL ALOE VERA LEAF FD&C BLUE NO. 1 CARBOMER 940 GLYCERIN PROPYLENE GLYCOL ALPHA-TOCOPHEROL ACETATE WATER FD&C YELLOW NO. 5 ALCOHOL ALCOHOL
+ask_doctor:
+  Stop use and ask a doctor if redness or irritation develop.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Pump as needed into your palms and thoroughly spread on both hands. Rub into skin until dry. Other Information Store at 20 degrees (68 degrees to 77 degrees F) May discolor fabrics.
+spl_unclassified_section:
+  Drug Facts
+use_in_specific_populations:
+  Uses hand sanitizer to help decrease bacteria on the skin. recommended for repeated use.
+package_label_principal_display_panel:
+  Product Labels front1 back
+indications_and_usage:
+  DISTRIBUTED BY: GREENBRIAR INTERNATIONAL, INC., CHESAPEAKE, VA 23320 MADE IN CHINA SUNSHINY DAY SCENTED
+set_id:
+  55712e4f-972c-4d88-bd03-b6f9b252108e
+id:
+  6acd6248-f8e1-067a-e053-2991aa0a86ca
+active_ingredient:
+  Active Ingredient Ethyl Alochol 62%

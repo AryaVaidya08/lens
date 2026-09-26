@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SM Clean Sterilization Tissue benzalkonium chloride SODIUM CARBONATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  benzalkonium chloride
+purpose:
+  sterilization of hands, skin and so on
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  take appropriate amount on the hand, rub and dry well
+warnings:
+  ■ Flammable. Keep away from fire or flame. ■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children.
+dosage_and_administration:
+  for external use only
+inactive_ingredient:
+  purified water, sodium carbonate, non-woven fabric
+package_label_principal_display_panel:
+  label
+set_id:
+  a3b7feb0-3b8e-185e-e053-2995a90adffb
+id:
+  a3b801d1-d212-9ca5-e053-2a95a90abc07
+effective_time:
+  20200420
+version:
+  1
+openfda:

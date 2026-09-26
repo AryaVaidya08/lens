@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Docs SKINCARE NATURAL SUNSCREEN SPF30 TITANIUM DIOXIDE, ZINC OXIDE GLYCERIN SOYBEAN OIL SUNFLOWER OIL PHENOXYETHANOL ALMOND OIL SESAME OIL COCOA BUTTER .ALPHA.-TOCOPHEROL ACETATE XANTHAN GUM TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC CATION ALOE VERA LEAF WATER GREEN TEA LEAF CARROT ETHYLHEXYLGLYCERIN ETHYLHEXYL PALMITATE
+spl_unclassified_section:
+  DRUG FACTS
+  ADDITIONAL INFORMATION This is a high sun protection product. SUN ALERT: Limiting sun exposure, wearing protective clothing and sunscreen may reduce the risks of skin aging, skin cancer and other harmful effects of the sun.
+active_ingredient:
+  Active Ingredients Titanium Dioxide 6.0% Zinc Oxide 6.0% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  USES Helps prevent sunburn. Higher SPF values gives more protection.
+warnings:
+  WARNINGS For external use only. Keep out of eyes - rinse with water to remove. Stop use and consult physician if irritation or rash develops. Keep out of reach of children.
+stop_use:
+  Stop use and consult physician if irritation or rash develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  DIRECTIONS Apply every to skin immediately prior to sun exposure, wearing protective clothing and sunscreen may reduce the risks of skin aging, skin cancer and other harmfuleffects of the sun.
+inactive_ingredient:
+  OTHER INGREDIENTS: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Camellia Sinensis (Green Tea) Leaf Extract, daucus Carota Sativa (Carrot) Extract, Ethylhexylglycerin, Ethylhexyl Palmitate, Glyerin, G;ycine Soja (Soybean) Oil, Helianthus Annuus (Sunflower) Seed Oil, Lecithin, Phenoxyethanol, Prunus Amygdalus Dulcis (Almond) Oil, Sesamum Indicum (Sesame) Seed Oil, Sodium Laurylglucosides Hydroxypropylsulfonate, Theobrama Cacao (Cocoa) Butter, Tocopheryl Acetate (Vitamin E), Xanthan Gum
+package_label_principal_display_panel:
+  Product Label Docsskincare
+set_id:
+  fb3310a8-9522-46e1-8b51-3f9b3798ea52
+id:
+  07229122-744e-9655-e063-6294a90a6deb
+effective_time:
+  20231007
+version:
+  3
+openfda:

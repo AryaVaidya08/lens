@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  BCBGENERATION HAND SANITIZER MIST SET-MANGO AND STRAWBERRY SCENT Ethyl Alcohol BCBGENERATION HAND SANITIZER MIST MANGO SCENT Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN DIPROPYLENE GLYCOL GLYCERETH-26 BUTYLENE GLYCOL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ALOE VERA LEAF JUICE PHENOXYETHANOL FD&C RED NO. 4 FD&C YELLOW NO. 5 D&C RED NO. 33 FD&C BLUE NO. 1 BCBGENERATION HAND SANITIZER MIST STRAWBERRY SCENT Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN DIPROPYLENE GLYCOL GLYCERETH-26 BUTYLENE GLYCOL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ALOE VERA LEAF JUICE PHENOXYETHANOL FD&C RED NO. 4 FD&C YELLOW NO. 5 D&C RED NO. 33 FD&C BLUE NO. 1
+spl_unclassified_section:
+  DRUG FACTS
+  POWER MIST Leaves hands feeling soft and hydrating These BCBGeneration Hand Sanitizer Mists are lightweight, leaving hands feeling clean, soft and fragranced. Each mist is made with mood-boosting scents and nourishing ingredients for everyday use. TM/® & © 2025 BCBG IP Holdings LP, used under license. All rights reserved Distributed by: Pearl World Inc. 152 W 57th St. FI 48. NY, NY 10019 Questions or Comments call (877) 711-8333 Made in China PHTHALATES FREE GLUTEN FREE PARABEN FREE
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl Alcohol 70%
+purpose:
+  PURPOSE Antiseptic
+indications_and_usage:
+  USES • To decrease bacteria on the skin that could cause disease. • Recommended for repeated use.
+warnings:
+  WARNINGS • For external use only. Flammable. Keep away from fire or flame. • Keep out of eyes. In case of contact with eyes, flush thoroughly with water. • Avoid contact with broken skin. Do not inhale or ingest. • Stop use and ask a doctor if skin irritation develops. • Keep out of reach of children. In case of ingestion, seek medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. In case of ingestion, seek medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS • Spray product in your palm and rub hands together until dry. • For children under 6, use only under adult supervision. • Not recommended for infants.
+storage_and_handling:
+  OTHER INFORMATION • Do not store above 105 o F. • May discolor some fabrics. • Harmful to wood finishes and plastics.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, Glycerin, Dipropylene Glycol, Glycereth-26, Fragrance, Butylene Glycol, Leuconostoc/Radish Root Ferment Filtrate, Aloe Barbadensis Leaf Juice, Phenoxyethanol. May Contain: Red 4 Lake (CI 14700), Yellow 5 Lake (CI 19140), Red 33 Lake (CI 17200), Blue 1 Lake (CI 42090).
+package_label_principal_display_panel:
+  Packaging BCBGeneration MANGOSTRAWBERRY
+set_id:
+  cb6fef35-59af-482e-bba7-a38c9ba6ce2e
+id:
+  8ec06b9b-a3e2-4b2a-8d43-d88a608a4655
+effective_time:
+  20250509
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    BCBGENERATION HAND SANITIZER MIST SET-MANGO AND STRAWBERRY SCENT
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Pearl World Inc.
+  product_ndc:
+    69933-309
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1041849
+  spl_id:
+    8ec06b9b-a3e2-4b2a-8d43-d88a608a4655
+  spl_set_id:
+    cb6fef35-59af-482e-bba7-a38c9ba6ce2e
+  package_ndc:
+    69933-309-02
+  is_original_packager:
+    True

@@ -1,0 +1,35 @@
+effective_time:
+  20130802
+inactive_ingredient:
+  INACTIVE INGREDIENT Colloidal silicon dioxide, dicalcium phosphate, ethanol, FD&C blue #2, FD&C red #40, hypromellose, magnesium stearate, microcrystalline cellulose, mineral oil, polyethylene glycol, pregelatinized starch, silicon dioxide, sodium benzoate, stearic acid, titanium dioxide.
+purpose:
+  OTC - PURPOSE Stimulant laxative.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS Do not use: laxative products for longer than 1 week unless told to do so by a doctor. if you are presently taking mineral oil, unless told to do so by a doctor
+spl_product_data_elements:
+  Senna and Docusate Sodium Senna and Docusate Sodium DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES DIBASIC CALCIUM PHOSPHATE DIHYDRATE SILICON DIOXIDE ALCOHOL FD&C BLUE NO. 2 FD&C RED NO. 40 HYPROMELLOSE 2208 (100 MPA.S) MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE MINERAL OIL POLYETHYLENE GLYCOLS STARCH, CORN SODIUM BENZOATE STEARIC ACID TITANIUM DIOXIDE S134
+ask_doctor:
+  OTC - ASK DOCTOR Before use if you have: Stomach pain, nausea or vomiting Noticed a sudden change in bowel habits that lasts over 2 weeks.
+openfda:
+version:
+  5
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Drink with a full glass of water with each dose Adults and children 12 years and over take 2 - 4 tablets daily Children 6 to under 12 years take 1 - 2 tablets daily Children 2 to under 6 years take up to 1 tablet daily Children under 2 years of age Ask a doctor OTHER INFORMATION Each tablet contains: calcium 30 mg, sodium 3 mg VERY LOW SODIUM. Do not use if the imprinted safety seal under cap is missing or damaged. Store at at 25°C (77°F); excursions permitted between 15(-30(C (59(-86(F) Keep tightly closed.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING Ask a health professional before use.
+stop_use:
+  OTC - STOP USE If you have rectal bleeding or fail to have bowel movement after use of a laxative. This could be a serious condition.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL d08a4708-figure-01
+indications_and_usage:
+  INDICATIONS AND USAGE For temporary relief of occasional constipation and irregularity. This product generally produces bowel movement in 6 to 12 hours.
+set_id:
+  68d0fe5d-5de2-4853-bf8b-0042f14e8757
+id:
+  d08a4708-1de9-4bf4-8444-80d8942995b8
+active_ingredient:
+  OTC - ACTIVE INGREDIENT Docusate sodium 50 mg, Sennoside 8.6 mg.
+dosage_and_administration_table:
+  <table frame="void" width="590"> <tbody> <tr> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">Adults and children 12 years and over</td> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">take 2 - 4 tablets daily</td> </tr> <tr> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">Children 6 to under 12 years</td> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">take 1 - 2 tablets daily</td> </tr> <tr> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">Children 2 to under 6 years</td> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">take up to 1 tablet daily</td> </tr> <tr> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">Children under 2 years of age</td> <td styleCode="Botrule Lrule Rrule Toprule" align="left" valign="top">Ask a doctor</td> </tr> </tbody> </table>

@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Care Science lidocaine ETHYLENE-VINYL ACETATE COPOLYMER (15% VINYL ACETATE) LIDOCAINE LIDOCAINE
+active_ingredient:
+  Active ingredient Lidocaine 4%
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Uses For the temporary relief of pain and itching associated with insect bites
+warnings:
+  Warnings For external use only Do not use large quantities on raw surfaces, blistered areas, wounds or damaged skin if you are allergic to any ingredients of this product When using this product do not use other topical products do not allow contact with eyes or mucous membranes apply only to clean, dry, and untreated skin use only as directed Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days symptoms clear up and occur again within a few days If pregnant or breast-feeding ask a health care professional before use. Keep out of reach of children. If put in mouth, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use large quantities on raw surfaces, blistered areas, wounds or damaged skin if you are allergic to any ingredients of this product
+when_using:
+  When using this product do not use other topical products do not allow contact with eyes or mucous membranes apply only to clean, dry, and untreated skin use only as directed
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days symptoms clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health care professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If put in mouth, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions Adults and children 12 years and over: clean and dry affected area peel film from patch and plastic liner and apply to the skin apply 1 patch at a time to affected area, not more than 3 to 4 times daily wash hands after applying patch remove patch from the skin after at most 8 hours application Children under 12 years of age: do not use, consult a physician before use.
+other_safety_information:
+  Other information Store at room temperature keep away from excessive heat do not exceed 100 o F (38 o C)
+inactive_ingredient:
+  Inactive ingredients acrylic adhesive, polyester fabric
+package_label_principal_display_panel:
+  Principal Display Panel CARE SCIENCE Bug Bite Relief Patch with 4% Lidocaine Pain Relief Lats Up to 8 Hours For temporary relief of pain and itching associated with insects bites Maximum OTC Strength Lidocaine in adhesive temporarily numbs pain Flexible Fabric Helps to keep from scratching and picking 12 Patches All one Size See side Panel for Details label
+set_id:
+  2c399fec-bce7-2a41-e063-6294a90a0e73
+id:
+  2c399ffc-a67d-d7a0-e063-6394a90a291f
+effective_time:
+  20250121
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Care Science
+  generic_name:
+    LIDOCAINE
+  manufacturer_name:
+    ASO LLC
+  product_ndc:
+    51142-101
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+  rxcui:
+    1737778
+  spl_id:
+    2c399ffc-a67d-d7a0-e063-6394a90a291f
+  spl_set_id:
+    2c399fec-bce7-2a41-e063-6294a90a0e73
+  package_ndc:
+    51142-101-40
+  original_packager_product_ndc:
+    65604-101
+  upc:
+    0017276240375
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987

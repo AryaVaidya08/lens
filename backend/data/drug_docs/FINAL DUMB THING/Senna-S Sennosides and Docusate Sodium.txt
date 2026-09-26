@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Senna-S Sennosides and Docusate Sodium SENNOSIDES SENNOSIDES DOCUSATE SODIUM DOCUSATE CARNAUBA WAX SILICON DIOXIDE CROSCARMELLOSE SODIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE D&C YELLOW NO. 10 FD&C YELLOW NO. 6 HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED SODIUM BENZOATE STEARIC ACID STARCH, TAPIOCA TARTARIC ACID TITANIUM DIOXIDE orange round shape S90
+active_ingredient:
+  Active Ingredients Sennosides from Senna Concentrate 8.6 mg Sodium Dioctylsulfosuccinate 50 mg
+purpose:
+  Purposes Sennosides from Senna Concentrate 8.6 mg...........Laxative Sodium Dioctylsulfosuccinate 50 mg......................Stool Softener
+indications_and_usage:
+  Uses • Relieves occasional constipation (irregularity) • Generally produces a bowel movement in 6-12 hours.
+warnings:
+  Warnings Do not use • laxative products for longer than 1 week unless directed by a doctor • if you are now taking mineral oil, unless directed by a doctor Ask a doctor before use if you have • stomach pain, nausea, vomiting, noticed a sudden change in bowel habits that continues over a period of 2 weeks. Stop use and ask a doctor if • you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use • laxative products for longer than 1 week unless directed by a doctor • if you are now taking mineral oil, unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have • stomach pain, nausea, vomiting, noticed a sudden change in bowel habits that continues over a period of 2 weeks.
+stop_use:
+  Stop use and ask a doctor if • you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • take preferably at bedtime or as directed by a doctor age starting dosage maximum dosage adults and children 12 years of age and over 2 tablets once a day 4 tablets twice a day children 6 to under 12 years 1 tablet once a day 2 tablets twice a day children 2 to under 6 years 1/2 tablet once a day 1 tablet twice a day children under 2 years ask a doctor ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><col width="33%"/><col width="33%"/><col width="33%"/><tbody><tr><td styleCode="Toprule " valign="top"><paragraph><content styleCode="bold">age</content></paragraph></td><td styleCode="Toprule " valign="top"><paragraph><content styleCode="bold">starting dosage</content></paragraph></td><td styleCode="Toprule " valign="top"><paragraph><content styleCode="bold">maximum dosage</content></paragraph></td></tr><tr><td valign="top"><paragraph>adults and children 12 years of age and over </paragraph></td><td valign="top"><paragraph>2 tablets once a day </paragraph></td><td valign="top"><paragraph>4 tablets twice a day </paragraph></td></tr><tr><td valign="top"><paragraph>children 6 to under 12 years </paragraph></td><td valign="top"><paragraph>1 tablet once a day </paragraph></td><td valign="top"><paragraph>2 tablets twice a day </paragraph></td></tr><tr><td valign="top"><paragraph>children 2 to under 6 years </paragraph></td><td valign="top"><paragraph>1/2 tablet once a day </paragraph></td><td valign="top"><paragraph>1 tablet twice a day </paragraph></td></tr><tr><td styleCode="Botrule " valign="top"><paragraph>children under 2 years </paragraph></td><td styleCode="Botrule " valign="top"><paragraph>ask a doctor </paragraph></td><td styleCode="Botrule " valign="top"><paragraph>ask a doctor </paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other Information • each tablet contains calcium 20 mg, sodium 6mg Low Sodium • store at room temperature between 15-30 0 C (59-86 0 F)
+inactive_ingredient:
+  Inactive ingredients carnauba wax, colloidal silicon dioxide, croscarmellose sodium, dicalcium phosphate, D&C Yellow #10 Aluminum Lake, FD&C Yellow #6 Aluminum Lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium benzoate, stearic acid, tapoica starch, tartaric acid, titanium dioxide
+questions:
+  Questions? Adverse drug event call: (866) 562-2756
+package_label_principal_display_panel:
+  8.6mg/50mg carton
+set_id:
+  92b25368-f009-45f0-929f-c1831ff02c04
+id:
+  cf339997-d313-45e5-ba73-c2fae6db9b0a
+effective_time:
+  20250530
+version:
+  2
+openfda:

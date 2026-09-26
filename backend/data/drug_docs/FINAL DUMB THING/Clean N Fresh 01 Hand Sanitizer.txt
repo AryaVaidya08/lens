@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Clean N Fresh 01 Hand Sanitizer POLYSORBATE 20 CARBOMER INTERPOLYMER TYPE A (55000 CPS) TROLAMINE WATER ALCOHOL ALCOHOL Clear
+spl_unclassified_section:
+  Ingredients This hand sanitizer is manufactured using the following ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (70%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Carbomer Interpolymer Type A 55000 CPS Water. Trolamine Fragrance.
+active_ingredient:
+  Active Ingredient(s) Alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Methacrylic Acid - Ethylacrylate Copolymer, Water, Trolamine, Fragrance
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 208.198L (55 US GAL) NDC 77411-004-55 DRUG INFO NDC 77411-003-03
+set_id:
+  a950d453-80c9-b8ec-e053-2a95a90aa396
+id:
+  052cd263-a854-11a5-e063-6394a90a6698
+effective_time:
+  20230912
+version:
+  5
+openfda:

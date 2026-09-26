@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  MERIDIAN WARPPED ANTIBACTERIAL DEODORANT 3 Benzethonium Chloride WATER GLYCERIN CALCIUM CARBONATE SODIUM CHLORIDE SODIUM HYDROXIDE TETRASODIUM EDTA TETRASODIUM ETIDRONATE BENZETHONIUM CHLORIDE BENZETHONIUM
+active_ingredient:
+  Active Ingredient Benzethonium Chloride 0.1%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for washing to decrease bacteria on skin.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product Avoid contact with eyes. In case of eye contact, flush with water. Don't use this product on infants under 6.
+stop_use:
+  Stop use and consult doctor If irritation and rash develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions wet bar with water lather vigorously and wash skin rinse and dry thoroughly.
+inactive_ingredient:
+  Inactive Ingredients (Sodium Palmate and/or Sodium Tallowate, Sodium Cocoate and/or Sodium Palm Kernelate), Calcium Carbonate, Water, Glycerin, Sodium Chloride, Sodium Hydroxide, Fragrance,Tetrasodium EDTA, Tetrasodium Etidronate
+package_label_principal_display_panel:
+  label image
+set_id:
+  3ed3332e-f888-4b9c-aab7-99f8719b835e
+id:
+  2881e0a3-db68-67e2-e063-6394a90a2b76
+effective_time:
+  20241205
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    MERIDIAN WARPPED ANTIBACTERIAL DEODORANT 3
+  generic_name:
+    BENZETHONIUM CHLORIDE
+  manufacturer_name:
+    Yangzhou H&R Plastic Daily Chemical Co., Ltd.
+  product_ndc:
+    72797-009
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZETHONIUM CHLORIDE
+  rxcui:
+    1872091
+  spl_id:
+    2881e0a3-db68-67e2-e063-6394a90a2b76
+  spl_set_id:
+    3ed3332e-f888-4b9c-aab7-99f8719b835e
+  package_ndc:
+    72797-009-01
+  is_original_packager:
+    True
+  unii:
+    PH41D05744

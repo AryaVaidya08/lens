@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Tums Chewy Bites calcium carbonate PROPYLPARABEN WATER ALCOHOL AMMONIA YELLOW WAX CARNAUBA WAX CITRIC ACID MONOHYDRATE COCONUT OIL STARCH, CORN CORN SYRUP ICODEXTRIN ETHYL ACETATE FD&C BLUE NO. 1 FD&C RED NO. 40 FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 ACACIA ISOPROPYL ALCOHOL LECITHIN, SOYBEAN MALTODEXTRIN MEDIUM-CHAIN TRIGLYCERIDES METHYLPARABEN MODIFIED CORN STARCH (1-OCTENYL SUCCINIC ANHYDRIDE) BUTYL ALCOHOL PHOSPHORIC ACID POVIDONE, UNSPECIFIED PROPYLENE GLYCOL SHELLAC SODIUM BENZOATE SORBIC ACID SORBITOL SOYBEAN OIL SUCROSE TERT-BUTYLHYDROQUINONE TITANIUM DIOXIDE CORN OIL CALCIUM CARBONATE CALCIUM CATION CARBONATE ION Green/Blue/Red Green/Blue/Red Green/Blue/Red TC Fruit Fusion
+active_ingredient:
+  Active ingredient (per tablet) Calcium Carbonate 1000 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves heartburn acid indigestion sour stomach upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 4 tablets in 24 hours if pregnant do not take more than 4 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  When using this product do not take more than 4 tablets in 24 hours if pregnant do not take more than 4 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+spl_unclassified_section:
+  Other Information each chewable tablet contains: elemental calcium 400mg do not store above 25°C (77°F)
+inactive_ingredient:
+  Inactive Ingredients (2 ct. Pouch) alcohol, ammonium hydroxide, beeswax, carnauba wax, citric acid, coconut oil, corn starch, corn syrup, dextrin, ethyl acetate, FD&C blue no.1 aluminum lake, FD&C red no. 40*, FD&C red no. 40 aluminum lake, FD&C yellow no. 5 aluminum lake (tartrazine)*, FD&C yellow no. 6 aluminum lake, flavors, gum arabic, isopropyl alcohol, lecithin, maltodextrin, medium chain triglycerides, methylparaben*, modified starch, n-butyl alcohol, phosphoric acid*, polyvinylpyrrolidone*, propylene glycol, propylparaben*, purified water, shellac, sodium benzoate*, sorbic acid, sorbitol, soybean oil, sucrose, tert-butylhydroquinone, titanium dioxide, vegetable oil *contains one or more of these ingredients
+  Inactive Ingredients (28 ct. Bottle) alcohol, ammonium hydroxide, beeswax, carnauba wax, citric acid, coconut oil, corn starch, corn syrup, dextrin, ethyl acetate, FD&C blue no.1 aluminum lake, FD&C red no. 40, FD&C red no. 40 aluminum lake, FD&C yellow no. 5 aluminum lake (tartrazine), FD&C yellow no. 6 aluminum lake, flavors, gum arabic, isopropyl alcohol, lecithin, maltodextrin, medium chain triglycerides, methylparaben, modified starch, n-butyl alcohol, phosphoric acid, polyvinylpyrrolidone, propylene glycol, propylparaben, purified water, shellac, sodium benzoate, sorbic acid, sorbitol, soybean oil, sucrose, tert-butylhydroquinone, titanium dioxide, vegetable oil
+questions:
+  Questions? Call 1-800-897-7535
+package_label_principal_display_panel:
+  Principal Display Panel NEW NDC 0135-0183-01 TUMS CALCIUM CARBONATE ANTACID Chewy Bites COOLING SENSATION* FRUIT FUSION GOES TO WORK IN SECONDS! ULTRA STRENGTH 1000 28 CHEWABLE TABLETS * Cooling sensation refers only to our unique cooling flavor(s). Do not use if printed inner safety seal under cap is broken or missing. Dist. by: GSKConsumer Healthcare Warren, NJ 07059 Trademarks are owned by or licensed to the GSK group of companies. ©2018 GSK or its licensor. 106487XA 106486XA_TUMS Chewy Bites Fruit Fusion_28 ct.JPG
+set_id:
+  5090f60f-fa98-470b-bafd-bb64e6b28fcc
+id:
+  12b4c094-880b-5f9a-e063-6394a90a5a19
+effective_time:
+  20240302
+version:
+  4
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Tums Chewy Bites
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    Haleon US Holdings LLC
+  product_ndc:
+    0135-0183
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308892
+    1044524
+  spl_id:
+    12b4c094-880b-5f9a-e063-6394a90a5a19
+  spl_set_id:
+    5090f60f-fa98-470b-bafd-bb64e6b28fcc
+  package_ndc:
+    0135-0183-01
+    0135-0183-02
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

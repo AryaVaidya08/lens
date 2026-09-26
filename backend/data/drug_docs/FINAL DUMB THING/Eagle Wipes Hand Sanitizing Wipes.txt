@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Eagle Wipes Hand Sanitizing Wipes BENZALKONIUM CHLORIDE ALOE VERA LEAF ETHYLHEXYLGLYCERIN CITRIC ACID MONOHYDRATE HEXYLENE GLYCOL WATER POLYSORBATE 20 PROPYLENE GLYCOL BENZALKONIUM CHLORIDE BENZALKONIUM
+purpose:
+  OTC - Purpose Antimicrobial
+warnings:
+  Warnings For External Use only. Do not use In eyes. Do not use if you are allergic to any of the ingredients. When using this product if eye contact occurs, rinse eyes thoroughlv with water. Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+do_not_use:
+  OTC - Do not use In eyes If you are allergic to any of the ingredients.
+keep_out_of_reach_of_children:
+  OTC - Keep out of reach of children. If swallowed, get medical help or contact a Poison Control center immediately.
+dosage_and_administration:
+  Dosage and administration Directions: To Begin: Make a small cut along top of refill pouch to open and expose wipes. Keep wipes in pouch. Pinch center wipe from pouch and pull up through wipe dispenser opening. Place entire pouch into dispenser and close. For use: Gently pull wipe(s) from dispenser feed. Dispose wipe after each use. DO NOT FLUSH.
+active_ingredient:
+  OTC - Active Ingredient Benzalkonium Chloride
+inactive_ingredient:
+  Inactive Ingredients Ethylhexylglycerin Hexylene Glycol Polysorbate 20 Propylene Glycol Citric Acid Monohydrate Aloe Vera Leaf Water
+indications_and_usage:
+  Indications & Usage Antibacterial For hand washing to decrease bacteria on the skin. May be used on hands.
+package_label_principal_display_panel:
+  Package label, principal display panel Eagle Wipes Hand Sanitizing Wipes Lemon Eagle Wipes Hand Sanitizing Wipes Lavender Lemon Scent Lavender Scent
+set_id:
+  aa1b0cc5-fd24-d699-e053-2995a90aba49
+id:
+  d577b6ce-6e09-5e0d-e053-2a95a90a6be2
+effective_time:
+  20220113
+version:
+  2
+openfda:

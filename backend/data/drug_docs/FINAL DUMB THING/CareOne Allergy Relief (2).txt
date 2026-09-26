@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  CareOne Allergy Relief cetirizine hydrochloride CETIRIZINE HYDROCHLORIDE CETIRIZINE BUTYLATED HYDROXYTOLUENE GELATIN, UNSPECIFIED GLYCERIN MANNITOL POLYETHYLENE GLYCOL 400 WATER SODIUM HYDROXIDE SORBITAN SORBITOL 10
+active_ingredient:
+  Active ingredient (in each capsule) Cetirizine HCl 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+when_using:
+  When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions adults and children 6 years and over one 10 mg capsule once daily; do not take more than one 10 mg capsule in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><col width="50%"/><col width="50%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>adults and children 6 years and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>one 10 mg capsule once daily; do not take more than one 10 mg capsule in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>adults 65 years and over</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>children under 6 years of age</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+other_safety_information:
+  Other information • store between 20-25°C (68-77°F) • avoid high humidity and excessive heat above 40°C (104°F) • protect from light • do not use if printed foil under cap is broken or missing
+inactive_ingredient:
+  Inactive ingredients butylated hydroxytoluene, gelatin, glycerin, mannitol, pharmaceutical ink, polyethylene glycol 400, purified water, sodium hydroxide, sorbitan, sorbitol
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Compare to the active ingredient in Zyrtec® Liquid Gels 24hr ORIGINAL PRESCRIPTION STRENGTH Allergy Relief Cetirizine Hydrochloride Capsules, 10mg Antihistamine 25 LIQUID GELS** Actual Size **Liquid Filled Capsules INDOOR & OUTDOOR ALLERGIES 24 HOUR RELIEF OF: - Sneezing - Runny Nose - Itchy, Watery Eyes - Itchy Throat or Nose OUR PHARMACISTS RECOMMEND Allergy Relief Carton
+set_id:
+  833e8904-d37d-4478-af7c-8287f2d079a7
+id:
+  ee2f07ef-66a7-476e-b4e5-ed887992bf9e
+effective_time:
+  20210816
+version:
+  2
+openfda:
+  application_number:
+    ANDA207235
+  brand_name:
+    CareOne Allergy Relief
+  generic_name:
+    CETIRIZINE HYDROCHLORIDE
+  manufacturer_name:
+    American Sales Company
+  product_ndc:
+    41520-715
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CETIRIZINE HYDROCHLORIDE
+  rxcui:
+    1014675
+  spl_id:
+    ee2f07ef-66a7-476e-b4e5-ed887992bf9e
+  spl_set_id:
+    833e8904-d37d-4478-af7c-8287f2d079a7
+  package_ndc:
+    41520-715-63
+  is_original_packager:
+    True
+  unii:
+    64O047KTOA

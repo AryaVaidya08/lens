@@ -1,0 +1,101 @@
+spl_product_data_elements:
+  Tylenol Cold Plus Flu Severe Day and Tylenol Cold Plus Flu Plus Cough Night 2-pack acetaminophen, dextromethorphan hydrobromide, doxylamine succinate, and guaifenesin, phenylephrine hydrochloride Tylenol Cold plus Flu plus Cough Night acetaminophen, dextromethorphan hydrobromide, doxylamine succinate, and phenylephrine hydrochloride ACETIC ACID ALCOHOL ANHYDROUS CITRIC ACID FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SOLUTION SUCRALOSE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE Berry Mint TYLENOL Cold plus Flu Severe acetaminophen, dextromethorphan hydrobromide, guaifenesin, and phenylephrine hydrochloride FD&C BLUE NO. 1 FD&C RED NO. 40 FD&C YELLOW NO. 6 GLYCERIN PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SOLUTION SUCRALOSE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ANHYDROUS CITRIC ACID Amber colored honey lemon flavored
+spl_unclassified_section:
+  Tylenol ® Cold plus Flu plus Cough Night Drug Facts
+  Tylenol ® Cold plus Flu Severe Drug Facts
+active_ingredient:
+  Active ingredients (in each 15 mL) Purpose Acetaminophen 325 mg Pain reliever/ fever reducer Dextromethorphan HBr 10 mg Cough suppressant Doxylamine Succinate 6.25 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant Active ingredients (in each 15 mL) Purpose Acetaminophen 325 mg Pain reliever/ fever reducer Dextromethorphan HBr 10 mg Cough suppressant Doxylamine Succinate 6.25 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant
+  Active ingredients (in each 30 mL) Purpose Acetaminophen 650 mg Pain reliever/ fever reducer Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant Active ingredients (in each 30 mL) Purpose Acetaminophen 650 mg Pain reliever/ fever reducer Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant
+active_ingredient_table:
+  <table width="60%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each 15 mL)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/ fever reducer</td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Doxylamine Succinate 6.25 mg</td><td>Antihistamine</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+  <table width="60%"><colgroup><col align="left" valign="top" width="75%"/><col align="right" valign="top" width="25%"/></colgroup><thead><tr><th><content styleCode="italics">Active ingredients (in each 30 mL)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 650 mg</td><td>Pain reliever/ fever reducer</td></tr><tr><td>Dextromethorphan HBr 20 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 400 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 10 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each 15 mL) Purpose Acetaminophen 325 mg Pain reliever/ fever reducer Dextromethorphan HBr 10 mg Cough suppressant Doxylamine Succinate 6.25 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant
+  Active ingredients (in each 30 mL) Purpose Acetaminophen 650 mg Pain reliever/ fever reducer Dextromethorphan HBr 20 mg Cough suppressant Guaifenesin 400 mg Expectorant Phenylephrine HCl 10 mg Nasal decongestant
+purpose_table:
+  <table width="60%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each 15 mL)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/ fever reducer</td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Doxylamine Succinate 6.25 mg</td><td>Antihistamine</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+  <table width="60%"><colgroup><col align="left" valign="top" width="75%"/><col align="right" valign="top" width="25%"/></colgroup><thead><tr><th><content styleCode="italics">Active ingredients (in each 30 mL)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 650 mg</td><td>Pain reliever/ fever reducer</td></tr><tr><td>Dextromethorphan HBr 20 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 400 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 10 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves these common cold/flu symptoms: minor aches and pains headache sore throat nasal congestion runny nose and sneezing cough sinus congestion and pressure helps clear nasal passages relieves cough to help you sleep temporarily reduces fever
+  Uses temporarily relieves the following cold/flu symptoms: minor aches and pains headache sore throat nasal congestion cough helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive temporarily reduces fever
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis glaucoma persistent or chronic cough such as occurs with smoking, asthma or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product do not exceed recommended dose excitability may occur, especially in children marked drowsiness may occur alcohol, sedatives and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommended dose Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis glaucoma persistent or chronic cough such as occurs with smoking, asthma or emphysema cough that occurs with too much phlegm (mucus)
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recommended dose excitability may occur, especially in children marked drowsiness may occur alcohol, sedatives and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery
+  When using this product do not exceed recommended dose
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning) mL = milliliter use only enclosed dosing cup designed for use with this product. Do not use any other dosing device. adults and children 12 years and over take 30 mL in the dosing cup provided every 4 hours while symptoms last do not take more than 150 mL in 24 hours, unless directed by a doctor children under 12 years ask a doctor
+  Directions do not take more than directed (see overdose warning) mL = milliliter use only enclosed dosing cup designed for use with this product. Do not use any other dosing device. adults and children 12 years and over take 30 mL in the dosing cup provided every 4 hours while symptoms last do not take more than 150 mL in 24 hours, unless directed by a doctor children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table width="50%" styleCode="Noautorules"><col width="25%" align="left" valign="top"/><col width="75%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 12 years and over</td><td><list listType="unordered" styleCode="Square"><item>take 30 mL in the dosing cup provided every 4 hours while symptoms last</item><item>do not take more than 150 mL in 24 hours, unless directed by a doctor</item></list></td></tr><tr><td styleCode="Rrule">children under 12 years</td><td>ask a doctor</td></tr></tbody></table>
+  <table width="50%" styleCode="Noautorules"><col width="25%" align="left" valign="top"/><col width="75%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Toprule Rrule">adults and children 12 years and over</td><td styleCode="Toprule"><list listType="unordered" styleCode="Square"><item>take 30 mL in the dosing cup provided every 4 hours while symptoms last</item><item>do not take more than 150 mL in 24 hours, unless directed by a doctor</item></list></td></tr><tr><td styleCode="Rrule">children under 12 years</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each 15 mL contains: sodium 5 mg store between 20-25°C (68-77°F).Do not refrigerate. do not use if neck band imprinted with TYLENOL COLD+FLU+COUGH” or foil inner seal imprinted with “SAFETY SEAL® is broken or missing.
+  Other information each 30 mL contains: sodium 10 mg store between 20-25°C (68-77°F). do not use if neck band imprinted with "WARMING SENSATION" or foil inner seal imprinted with "TYLENOL" is broken or missing.
+inactive_ingredient:
+  Inactive ingredients acetic acid, alcohol, anhydrous citric acid, FD&C blue no. 1, FD&C red no. 40, flavors, glycerin, propylene glycol, purified water, sodium benzoate, sorbitol solution, sucralose
+  Inactive ingredients anhydrous citric acid, FD&C blue no. 1, FD&C red no. 40, FD&C yellow no. 6, flavors, glycerin, propylene glycol, purified water, sodium benzoate, sorbitol solution, sucralose
+questions:
+  Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)
+  Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 50580-526-01 DAYTIME NIGHTTIME Principal Display Panel
+  PRINCIPAL DISPLAY PANEL NDC 50580-369-01 TYLENOL ® FOR ADULTS COLD + FLU + COUGH Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate, Phenylephrine HCl, Pain Reliever–Fever Reducer, Cough Suppressant, Antihistamine, Nasal Decongestant HEAD + BODY ACHES FEVER + SORE THROAT COUGH NASAL CONGESTION RUNNY NOSE NIGHT WILD BERRY BURST Alcohol 0.7% 8 fl oz (240 mL) Principal Display Panel
+  PRINCIPAL DISPLAY PANEL NDC 50580-403-08 30049843 Warming Honey Lemon Flavor TYLENOL ® FOR ADULTS COLD + FLU SEVERE Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl, Guaifenesin Pain Reliever–Fever Reducer, Cough Suppressant, Nasal Decongestant, Expectorant Alcohol Free DAY NON-DROWSY HEAD + BODY ACHES FEVER + SORE THROAT COUGH NASAL CONGESTION MUCUS + CHEST CONGESTION 8 fl oz (240 mL) tylenol-03
+set_id:
+  77a2dc96-73ee-4ca2-b1fe-406995802606
+id:
+  2e7d7624-e599-bae7-e063-6394a90aed94
+effective_time:
+  20250219
+version:
+  9
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Tylenol Cold Plus Flu Severe Day and Tylenol Cold Plus Flu Plus Cough Night 2-pack
+  generic_name:
+    ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE, AND GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    50580-526
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1369842
+    1431245
+    2637731
+  spl_id:
+    2e7d7624-e599-bae7-e063-6394a90aed94
+  spl_set_id:
+    77a2dc96-73ee-4ca2-b1fe-406995802606
+  package_ndc:
+    50580-526-01
+    50580-369-01
+    50580-403-08
+  is_original_packager:
+    True
+  upc:
+    0300450562081
+    0300450525086

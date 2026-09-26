@@ -1,0 +1,40 @@
+effective_time:
+  20170531
+inactive_ingredient:
+  Inactive ingredients ammonium nonoxynol-4 sulfate, citric acid, disodium phosphate, nonoxynol-9, sodium hydroxide, water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately.
+warnings:
+  Warnings Do not use if allergic to iodine in the eyes Ask a doctor before use if injuries are deep wounds puncture wounds serious burns Stop use and ask a doctor if redness, irritation, swelling or pain persists or increases infection occurs For external use only Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately. Avoid pooling beneath the patient. Prolonged exposure to wet solution may cause skin irritation.
+questions:
+  For questions, comments, or to report serious side effects: 800-760-3236 Monday-Friday 8:30 a.m.-5:00 p.m. EST
+spl_product_data_elements:
+  Aplicare Povidone-iodine Scrub Small Wing Sponge Povidone-iodine Scrub POVIDONE-IODINE IODINE SODIUM PHOSPHATE, DIBASIC, UNSPECIFIED FORM ANHYDROUS CITRIC ACID SODIUM HYDROXIDE NONOXYNOL-9 AMMONIUM NONOXYNOL-4 SULFATE WATER
+ask_doctor:
+  Ask a doctor before use if injuries are deep wounds puncture wounds serious burns
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions use sponges to prep desired area
+spl_unclassified_section:
+  Drug Facts
+  Other information 1% titratable iodine for single use only not made with natural rubber latex for hospital or professional use only
+stop_use:
+  Stop use and ask a doctor if redness, irritation, swelling or pain persists or increases infection occurs For external use only
+storage_and_handling:
+  Avoid excessive heat. Store at room temperature.
+do_not_use:
+  Do not use if allergic to iodine in the eyes
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 4 Sponge Packet NDC 52380-5124-4 A PLICARE ◀ Tear Here Hold Upright Tear Here ▶ FOUR POVIDONE-IODINE SCRUB SMALL WINGED SPONGES ANTISEPTIC Non-Sterile Solution Four Small Winged Sponges Saturated with Povidone-Iodine Scrub USP Reorder No. F-4012 PRINCIPAL DISPLAY PANEL - 4 Sponge Packet
+indications_and_usage:
+  Use antiseptic skin preparation
+set_id:
+  4f8a29aa-8f0f-4c62-8552-54b8bba9a613
+id:
+  c1baa608-27fa-4efe-b0a4-b4c1c6c7489e
+active_ingredient:
+  Active ingredient Povidone-iodine USP 10%

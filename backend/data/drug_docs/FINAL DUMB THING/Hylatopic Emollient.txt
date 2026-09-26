@@ -1,0 +1,29 @@
+effective_time:
+  20120301
+inactive_ingredient:
+  INGREDIENTS Water, Hydrofluorocarbon 134a (propellant), Glycerin, Ethylhexyl Palmitate, Cetearyl Alcohol, Propylene Glycol, Dicetyl Phosphate, Theobroma Grandiflorum Seed Butter, Petrolatum, Dimethicone, Steareth-10, Ceteareth-10 Phosphate, Tocopheryl Acetate, Methylparaben, Disodium EDTA, Propylparaben, Sodium Hyaluronate and Sodium Hydroxide.
+contraindications:
+  CONTRAINDICATIONS Hylatopic ® is contraindicated in persons with a known hypersensitivity to any of the components of the formulation.
+precautions:
+  PRECAUTIONS AND OBSERVATIONS Hylatopic ® Emollient Foam does not contain a sunscreen and should not be used prior to extended exposure to the sun. If clinical signs of infection are present, appropriate treatment should be initiated; use of Hylatopic ® Emollient Foam may be continued during the anti-infective therapy. If the condition does not improve within 10-14 days, consult a physician. Hylatopic ® Emollient Foam may dissolve fuchsin when this dye is used to define the margins of the radiation fields to be treated.
+warnings:
+  WARNINGS Use only as directed. Keep out of the reach of children. Avoid contact with eyes. For topical use only. Not for ophthalmic use. Contents under pressure. Do not puncture or incinerate container. Do not expose to temperatures above 120ºF (49ºC). Do not apply within four hours prior to a radiation session.
+spl_product_data_elements:
+  Hylatopic Emollient WATER GLYCERIN ETHYLHEXYL PALMITATE PROPYLENE GLYCOL THEOBROMA GRANDIFLORUM SEED BUTTER PETROLATUM DIMETHICONE STEARETH-10 ALPHA-TOCOPHEROL ACETATE METHYLPARABEN EDETATE DISODIUM PROPYLPARABEN SODIUM HYDROXIDE CETOSTEARYL ALCOHOL DIHEXADECYL PHOSPHATE HYALURONATE SODIUM NORFLURANE
+openfda:
+version:
+  1
+spl_unclassified_section:
+  For Topical Dermatological and External Use Only Rx Only
+  INSTRUCTIONS FOR USE Important: Prime Can Before Initial Use. To Prime Can: Shake can well (until product moves inside can). Firmly strike bottom of can onto palm of hand at least 3 times. Hold can upright and direct initial spray to a non-skin surface. Until primed, DO NOT spray directly on the skin as the initial spray may expel cold liquid propellant. Press down on actuator for 1-3 seconds until foam begins to dispense. If foam does not dispense within 3 seconds, prime can again. During Use: Holding can upright, dispense Hylatopic ® Emollient Foam into palm of hand and apply to affected area 3 times per day, or as directed by a physician. Massage gently into the skin until completely absorbed. If the skin is broken, cover with appropriate dressing. Wipe off any excess foam from actuator after use.
+how_supplied:
+  HOW SUPPLIED Hylatopic ® Emollient Foam is available in 5g professional sample aluminum cans (NDC 16781-189-06) and 100g commercial aluminum cans (NDC 16781-189-96). Will not dispense entire contents. Container is overfilled to guarantee dispensing at least the listed amount. Caution: Federal law restricts this device to sale by or on the order of a physician or other licensed heath care practitioner. Store between 59º and 86ºF (15º and 30ºC). Protect from freezing. Store upright. Manufactured for: Onset Dermatologics Cumberland, RI 02864 (888) 713-8154 www.onsetdermatologics.com Patent Pending P/N: 2611-pf Rev. 5 Onset Logo Delevo Foam
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - Hylatopic Emollient Carton Label NDC 16781-189-96 Rx Only Hylatopic Emollient Foam Deep Dermal Hydration Symptom Relief for Atopic Dermatitis, Allergic Contact Dermatitis and Radiation Dermatitis Net Weight 100g Hylatopic Emollient Carton Label
+  
+indications_and_usage:
+  INDICATIONS FOR USE Under the supervision of a healthcare professional, Hylatopic ® Emollient Foam is indicated to manage and relieve the burning, itching and pain experienced with various types of dermatoses, including atopic dermatitis, allergic contact dermatitis and radiation dermatitis. Hylatopic ® Emollient Foam also helps to relieve dry, waxy skin by maintaining a moist wound & skin environment, which is beneficial to the healing process.
+set_id:
+  c8f68710-8136-4f9b-8e78-6b9d97d0e6e8
+id:
+  324a9448-648f-4085-bf17-26ffac166ced

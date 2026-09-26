@@ -1,0 +1,35 @@
+effective_time:
+  20200712
+inactive_ingredient:
+  Inactive ingredients non-woven fabric,pure water
+purpose:
+  Purpose Antiseptic, cleaning
+keep_out_of_reach_of_children:
+  keep out of reach of children
+warnings:
+  Warnings For external use only.
+when_using:
+  Avoid contact with eyes
+spl_product_data_elements:
+  75% Alcohol Wipes ALCOHOL WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions 1.Open resealable packet and take out one wipe at a time. 2.after use,dispose if wipe in trash.donot flush down the tiolet 3.when finised,close lid tightly to preserve moisture
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+storage_and_handling:
+  Other information Store at room temperature
+do_not_use:
+  Do not use single use,please discard after suse
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel label
+indications_and_usage:
+  Use safe to use on tableware,office supplies,countertops,children‘s toys,electronics etc.
+set_id:
+  a9bdc42c-7d6a-186e-e053-2995a90a26d2
+id:
+  aa4b5e17-cf7f-008d-e053-2a95a90a362c
+active_ingredient:
+  Active Ingredient(s) Alcohol

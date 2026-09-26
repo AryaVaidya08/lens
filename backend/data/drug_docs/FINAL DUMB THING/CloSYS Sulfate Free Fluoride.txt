@@ -1,0 +1,29 @@
+effective_time:
+  20180125
+inactive_ingredient:
+  Inactive ingredients water, hydrated silica, sorbitol, stabilized chlorine dioxide, cellulose gum, dibasic sodium phosphate, titanium dioxide, flavor, sodium phosphate, sucralose
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? call 1-800-643-3337
+spl_product_data_elements:
+  CloSYS Sulfate Free Fluoride SODIUM FLUORIDE WATER HYDRATED SILICA SORBITOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM SODIUM PHOSPHATE, DIBASIC TITANIUM DIOXIDE METHYL SALICYLATE SODIUM PHOSPHATE SUCRALOSE SODIUM FLUORIDE FLUORIDE ION
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor children under 6 years of age: instruct in good brushing and rinsing habits (to minimize swallowing) children inder 2 years of age: consult a dentist or doctor supervise children as necessary until capable of using without supervision do not swallow
+package_label_principal_display_panel:
+  Package Labeling: Label
+indications_and_usage:
+  Use Aids in the prevention of dental cavities
+set_id:
+  c2a5ea92-7c6d-4154-bb6b-f96ec4382dc7
+id:
+  0f759bb7-9295-44b3-9683-3d1d78fbc882
+active_ingredient:
+  Active Ingredient Sodium fluoride 0.24% (0.11% w/v fluoride ion) Purpose Anticavity

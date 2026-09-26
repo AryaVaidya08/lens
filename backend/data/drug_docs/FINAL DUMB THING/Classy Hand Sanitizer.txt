@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Classy Hand Sanitizer ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE EDETOL ALOE ARBORESCENS LEAF BUTYLENE GLYCOL ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: ALCOHOL 70%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water, Glycerin, Carbomer, Tetrahydroxypropyl Ethylenediamine, Fragrance, Aloe Arborescens Leaf Extract, Butylene Glycol
+purpose:
+  PURPOSE Purpose: ANTISEPTIC
+warnings:
+  WARNINGS Warnings: Flammable, Keep away from fire or flame For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep our of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses Uses: For handwashing when water is not available to decrease bacteria on the skin - After changing diapers - After assisting ill persons - Before contact with a person under medical care or treatment - Recommended for repeated use
+dosage_and_administration:
+  Directions Directions: - Apply palmful to hands - Rub hands together vigorously until dry - Supervise children in the use of this product
+other_safety_information:
+  Other Information Other Information: Store at room temperature: 15°~30 °C (59°~86 °F)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of bottle
+set_id:
+  8e8288a8-ba76-4c36-94e2-f0c4dfd19850
+id:
+  b3e0bc1d-211e-c005-e053-2a95a90a89d6
+effective_time:
+  20201111
+version:
+  2
+openfda:

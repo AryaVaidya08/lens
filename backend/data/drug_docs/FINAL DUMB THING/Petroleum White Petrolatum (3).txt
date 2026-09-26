@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Petroleum White Petrolatum PETROLATUM PETROLATUM
+active_ingredient:
+  Active ingredient White Petrolatum, USP (100%)
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Use helps protect chapped skin
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition lasts more than 7 days
+do_not_use:
+  Do not use on deep or puncture wounds animal bites serious burns
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed
+spl_unclassified_section:
+  Disclaimer This product is not manufactured or distributed by Unilever, distribtor of Vaseline 100% Pure Petroleum Jelly Made in USA with US and foreign components. Manufactured by: Vi-Jon, Inc. for Big Lots 8515 Page Avenue st. Louis, MO 63114
+package_label_principal_display_panel:
+  Principal display panel B loved COMPARE TO VASELINE 100% PURE PETRLEUM JELLY petroleum jelly white petrolatum - skin protectant - 100% pure NET WT 7.5 OZ (212 g) image description
+set_id:
+  6b68074a-06df-4b62-a679-2745cf07b1f0
+id:
+  d95089ab-9b2d-4a2d-b23d-b2ce0bd3a485
+effective_time:
+  20220104
+version:
+  12
+openfda:

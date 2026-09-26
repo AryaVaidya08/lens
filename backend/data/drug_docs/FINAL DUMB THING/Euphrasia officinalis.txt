@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Euphrasia officinalis EUPHRASIA STRICTA SUCROSE LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE EUPHRASIA STRICTA EUPHRASIA STRICTA
+active_ingredient:
+  Active ingredient** (in each pellet) Euphrasia officinalis 6C HPUS (**contains 0.44 mg of the active ingredient per pellet) The letters "HPUS" indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  Relieves abundant and irritating eye discharge *
+indications_and_usage:
+  Allergy Eye Relief Uses* temporarily relieves minor eye allergy symptoms such as: itching irritation burning watering redness Tube Uses* Relieves abundant and irritating eye discharge *
+warnings:
+  
+stop_use:
+  Allergy Eye Relief Carton Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours. Tube Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Allergy Eye Relief Carton Adults and children 2 years of age and older: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor. Children under 2 years of age: Ask a doctor. Tube Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+inactive_ingredient:
+  lactose, sucrose
+spl_unclassified_section:
+  Allergy Eye Relief Carton Itching Watering Irritation Redness No Known Drug Interactions Non-Drowsy Approx. 80 pellets each 3 Tubes 16 Doses Total 240 Pellets do not use if glued end flaps are open or if pellet dispenser seal is broken contains 0.25 g of sugar per dose retain carton for full drug facts Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. Tube Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label label
+set_id:
+  85904faf-92c5-1da7-e053-2a91aa0a66d8
+id:
+  1a14e2b8-73e9-f02f-e063-6294a90a2c87
+effective_time:
+  20240604
+version:
+  4
+openfda:
+  brand_name:
+    Euphrasia officinalis
+  generic_name:
+    EUPHRASIA STRICTA
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-1989
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    EUPHRASIA STRICTA
+  spl_id:
+    1a14e2b8-73e9-f02f-e063-6294a90a2c87
+  spl_set_id:
+    85904faf-92c5-1da7-e053-2a91aa0a66d8
+  package_ndc:
+    0220-1989-41
+    0220-1989-43
+  is_original_packager:
+    True
+  unii:
+    C9642I91WL

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  GABA GABA .GAMMA.-AMINOBUTYRIC ACID .GAMMA.-AMINOBUTYRIC ACID WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Gaba 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C.
+purpose:
+  HOMEOPATHIC INDICATIONS: For temporary relief of symptoms including anger, hostility, sleep difficulties and fatigue.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  HOMEOPATHIC INDICATIONS: For temporary relief of symptoms including anger, hostility, sleep difficulties and fatigue.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 25% Ethanol.
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DES BIO NDC 43742-0695-1 HOMEOPATHIC GABA 1 FL OZ (30 ml) GABA
+set_id:
+  04e3aa4c-73dc-4e89-8736-d3443d2df9a5
+id:
+  2839ed69-cb05-4298-8e3e-5fe5f2177142
+effective_time:
+  20181024
+version:
+  2
+openfda:

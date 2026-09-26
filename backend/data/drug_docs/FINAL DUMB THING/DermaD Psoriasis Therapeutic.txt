@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  DermaD Psoriasis Therapeutic Salicylic Acid WATER MINERAL OIL GLYCERYL MONOSTEARATE CETYL ALCOHOL YELLOW WAX ALMOND OIL JOJOBA OIL GRAPE SEED OIL DECYL OLEATE COCONUT OIL WHEAT GERM OIL STEARETH-2 STEARETH-21 SHEA BUTTER PHENOXYETHANOL TRIETHYLENE GLYCOL XANTHAN GUM .ALPHA.-TOCOPHEROL BUTYLATED HYDROXYTOLUENE FARNESOL CANNABIS SATIVA SEED OIL SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active Ingredient Salicylic Acid....2%
+purpose:
+  Purpose Psoriasis treatment
+indications_and_usage:
+  Uses Relieves and helps prevent scaly plaques itching irritation redness and flaking due to psoriasis
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with lukewarm water. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with lukewarm water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to the affected area one to three times a day or as directed by a doctor. Apply on clean and dry skin in circular motion. To avoid running or dripping, lightly squeeze the tube.
+storage_and_handling:
+  Other Information Store between 63°/80°F (17-30C) Protect from humidity.
+inactive_ingredient:
+  Inactive Ingredients water, mineral oil, glyceryl stearate, cetyl alcohol, Bees Wax, Sweet Almond Oil, Jojoba Seed Oil, Grape Seed Oil, Decyl Oleate, coconut oil, Trictum Vulgaris (wheat) germ oil, steareth 2, steareth 21, Butyrospermum Parkii (shea) butter, phenoxyethanol, triethylene glycol, Xanthan gum, Tocopheryl Acetate, Cannabis Sativa Oil, B.H.T, farnesol
+package_label_principal_display_panel:
+  Principal Display Panel NDC 70794-261-25 DERMAD PSORIASIS Therapeutic Cream RELIEVES IRRITATION ITCHING REDNESS SCALING FDA REGISTERED DOES NOT CONTAIN STEROIDS, CORTISONE, FRAGRANCES AND COLORINGS 2.75 FL. OZ (81 mL) pic
+set_id:
+  e52c647b-8cdc-4023-af22-fbfb84ea0ada
+id:
+  f2a43e12-4851-db77-e053-2a95a90ab2bd
+effective_time:
+  20250527
+version:
+  7
+openfda:
+  application_number:
+    M032
+  brand_name:
+    DermaD Psoriasis Therapeutic
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Chen Cohen Industries Inc.
+  product_ndc:
+    70794-261
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    317152
+  spl_id:
+    f2a43e12-4851-db77-e053-2a95a90ab2bd
+  spl_set_id:
+    e52c647b-8cdc-4023-af22-fbfb84ea0ada
+  package_ndc:
+    70794-261-25
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Berry Blast Anti-Bacterial Scented Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER CARBOMER COPOLYMER TYPE A AMINOMETHYLPROPANOL FD&C RED NO. 4 D&C RED NO. 33 FD&C YELLOW NO. 5 FD&C BLUE NO. 1
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE Decrease bacteria on hands
+warnings:
+  For external use only. Flammable- Keep produt away from fire or flame. When using this product Avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops and persists
+keep_out_of_reach_of_children:
+  If swallowed , get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Fragrance (Parfum). may contain: D&C Red No. 33 (Cl 17200), FD&C Red No. 4 (Cl 14700), FD & C Yellow No. 5 (Cl 19140), FD&C Blue No. 1 (Cl 42090).
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  c48526d1-b4fc-4cc9-baa6-0fc712e1f3f1
+id:
+  acabc1ae-8f69-4d5e-8274-112a8e831bc3
+effective_time:
+  20200629
+version:
+  1
+openfda:

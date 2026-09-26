@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  MILK TINT SPF 43 TINTED PRIMER SERUM DEEP ZINC OXIDE TRISODIUM ETHYLENEDIAMINE DISUCCINATE BUTYLOCTYL SALICYLATE SQUALANE POLYHYDROXYSTEARIC ACID (2300 MW) ALPHA-TOCOPHEROL ACETATE POLYGLYCERYL-3 PENTARICINOLEATE ZINC OXIDE ZINC OXIDE SORBITAN SESQUIISOSTEARATE MILK PROTEIN METHYLPROPANEDIOL ERYNGIUM ALPINUM FLOWER NIACINAMIDE SODIUM CHLORIDE ISOSTEARIC ACID TITANIUM DIOXIDE ISOAMYL LAURATE HYDROXYACETOPHENONE MICA 1,2-HEXANEDIOL CAPRYLYL GLYCOL LAUROYL LYSINE CARTHAMUS TINCTORIUS (SAFFLOWER) SEED OIL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE LECITHIN, SUNFLOWER CAPRYLIC/CAPRIC TRIGLYCERIDE POLYGLYCERYL-3 DIISOSTEARATE GOAT MILK PROPANEDIOL GLYCERIN SILICA POLYGLYCERYL-6 POLYRICINOLEATE SAMBUCUS NIGRA FLOWER WATER ISOPROPYL ISOSTEARATE LACTOSE IRON OXIDES
+active_ingredient:
+  Active Ingredients Zinc Oxide 12.0015%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  USES Uses helps prevent sunburn if used as directed with other sun protection measures ( see Directions ), decreases the risk of skin cancer and early skin aging cause by the sun
+warnings:
+  WARNINGS Warnings For external use only Do not use on damaged or broken skin Stop use and ask a doctor if rash or irritation develops and lasts When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Directions For sunscreen use: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months of age: ask a doctor Sun Protection Measures Spending time in the sun increases you risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses
+inactive_ingredient:
+  Water (Aqua), Squalane, Isoamyl Laurate, Butyloctyl Salicylate, Propanediol, Caprylic/Capric Triglyceride, Polyglyceryl-3 Diisostearate, Methylpropanediol, Isopropyl Isostearate, Niacinamide, Sodium Chloride, Polyglyceryl-6 Polyricinoleate, Silica, Sorbitan Sesquiisostearate, Caprae Lac (Goat Milk), Bifida Ferment Lysate, Milk Protein, Eryngium Alpinum (Blue Thistle) Flower Extract, Carthamus Tinctorius (Safflower) Seed Oil, Sambucus Nigra (Elderberry) Flower Extract, Leuconostoc/Radish Root Ferment Filtrate, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Hydroxyacetophenone, Mica, 1,2-Hexanediol, Caprylyl Glycol, Lauroyl Lysine, Glycerin, Tocopheryl Acetate, Trisodium Ethylenediamine Disuccinate, Lactose May Contain: Titanium Dioxide (CI 77891), Iron Oxides (CI 77492), Iron Oxides (CI 77491), Iron Oxides (CI 77499)
+package_label_principal_display_panel:
+  Primary Package- DEEP PP_DEEP
+  Secondary Package- DEEP SP_DEEP
+set_id:
+  292165af-545d-db43-e063-6394a90ad183
+id:
+  292165af-545e-db43-e063-6394a90ad183
+effective_time:
+  20241213
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    MILK TINT SPF 43 TINTED PRIMER SERUM DEEP
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    COSMAX USA, CORPORATION
+  product_ndc:
+    68577-164
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    292165af-545e-db43-e063-6394a90ad183
+  spl_set_id:
+    292165af-545d-db43-e063-6394a90ad183
+  package_ndc:
+    68577-164-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

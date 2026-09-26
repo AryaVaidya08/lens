@@ -1,0 +1,31 @@
+effective_time:
+  20131024
+inactive_ingredient:
+  Inactive Ingredients carbomer, DandC red n 33, FDandC blue n 1, FDandC yellow n 5, fragrance, glycerin, propylene glycol, triethanolamine, water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable, keep away from fire or flame. For external use only . Do not use in the eyes. In case of contact with eyes, rinse thoroughly with water. Use only as directed. Do not drink. If taken internally, it will produce serious gastric disturbances. Stop use and ask a doctor if irritation persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Paris Hand Sanitizer Vanilla Scent ALCOHOL ALCOHOL ALCOHOL D&C RED NO. 33 FD&C BLUE NO. 1 FD&C YELLOW NO. 5 GLYCERIN PROPYLENE GLYCOL TROLAMINE WATER
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping. Supervise children in the use of this product.
+spl_unclassified_section:
+  Paris Hand Sanitizer Vanilla Scent
+storage_and_handling:
+  Other information Store below 105 degrees F (40.5 degrees C). May discolor some fabrics.
+package_label_principal_display_panel:
+  Paris Hand Sanitizer Vanilla Scent Paris BackLabel Hangtag BackLabelOutside
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin Recommended for repeated use.
+set_id:
+  6ed14b40-3303-4646-8755-891d62236fd0
+id:
+  ad8d2e1a-4331-4b7d-af00-ad089e8355c8
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62%

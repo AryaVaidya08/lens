@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  HoneyBeeHandSanitizer Alcohol ALCOHOL ALCOHOL MALTODEXTRIN ALOE GLYCERIN POLYSORBATE 20 WATER ORANGE PEEL
+spl_unclassified_section:
+  This is a hand rub manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Rub Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand rub is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (70%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol. Sterile distilled water
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer Spray
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire and flame
+do_not_use:
+  Do not use do not use in or near eyes. If contact occurs, rinse eyes thoroughly with water
+when_using:
+  When using this product do not use in or near eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Put enough product in your palm to cover hands and rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store below 110F (43C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients deionized water, glycerin, polysorbate 20, aloe barbadensis leaf juice, citrus aurantium dulcis peel oil, tocopheryl acetate, maltodextrin, parfum
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel image description
+set_id:
+  1cab1131-5d2b-4516-8fd5-4005d912c4bb
+id:
+  31d72561-807b-46ab-b8ad-fcc3db3f9a89
+effective_time:
+  20201206
+version:
+  1
+openfda:

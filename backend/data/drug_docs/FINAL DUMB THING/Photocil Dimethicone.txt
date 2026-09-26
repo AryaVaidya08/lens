@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Photocil Dimethicone 2-ETHYLHEXYL BENZOATE CAPRYLYL GLYCOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) CETOSTEARYL ALCOHOL 1,2-HEXANEDIOL DIMETHYL ISOSORBIDE EDETATE DISODIUM GLUCOSYL HESPERIDIN GLYCERYL MONOSTEARATE PEG-100 STEARATE POLYOXYL 20 CETOSTEARYL ETHER PROPANEDIOL SESAME OIL TROLAMINE WATER DIMETHICONE DIMETHICONE
+active_ingredient:
+  Active Ingredient Dimethicone 1%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses helps prevent and temporarily protects and relieves chapped or cracked skin prone to psoriasis and vitiligo.
+warnings:
+  Warnings For external use only This product is not a sunscreen or sunblock. Prolonged sun exposure can cause sunburn, skin damage, and cancer. Healthy (non-psoriasis or vitiligo affected) skin should be covered with clothing or protected with a sunscreen.
+when_using:
+  When using this product do not get into eyes If swallowed, get medical help or contact a Poison Control Center right away
+stop_use:
+  Stop use and ask doctor if condition worsens symptoms do not improve after more than 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+storage_and_handling:
+  Other information store at room temperature
+dosage_and_administration:
+  Directions consult dermatologist prior to use apply as needed apply Photocil cream to affected skin area(s) allow affected area(s) of skin to receive direct exposure to daylight following application of Photocil cream for 20 minutes protect unaffected skin from sun exposure
+inactive_ingredient:
+  Inactive ingredients 1,2-hexanediol, 2-ethylhexyl benzoate, caprylyl glycol, carbomer interpolymer type a (allyl sucrose crosslinked), cetostearyl alcohol, dimethyl isosorbide, edetate disodium, glucosyl hesperidin, glyceryl mono-stearate, PEG-100 stearate, polyoxyl 20 cetostearyl ether, propanediol, sesame oil, trolamine, water
+questions:
+  561.244.7100
+recent_major_changes:
+  Uses Directions for Use
+package_label_principal_display_panel:
+  Carton Label Photocil Cream - Psoriasis and Vitiligo
+set_id:
+  d203badb-b9d0-f64b-e053-2995a90a7f20
+id:
+  14bc4bb2-33c0-0d35-e063-6394a90a76c0
+effective_time:
+  20240328
+version:
+  3
+openfda:

@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  CARMEX COLD SORE treatment External Analgesic Skin Protectant BENZOCAINE, WHITE PETROLATUM POLYETHYLENE GLYCOL, UNSPECIFIED HEXAMETHYLENE DIISOCYANATE/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER MICA BEHENYL OLIVATE PPG-51/SMDI COPOLYMER TITANIUM DIOXIDE CALCIUM SILICATE SILICON DIOXIDE FERRIC OXIDE RED ISOPROPYL TITANIUM TRIISOSTEARATE BENZOCAINE BENZOCAINE WHITE PETROLATUM BENZOCAINE
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect this product from excessive heat and direct sun Store between 0°C to 28°C (32°F to 82.4°F)
+active_ingredient:
+  Active Ingredients Benzocaine 10.0% White Petrolatum 45.9% Purpose External Analgesic / Anti-Itch Skin Protectant
+purpose:
+  Purpose External Analgesic / Anti-Itch Skin Protectant
+indications_and_usage:
+  Uses For temporary relief of pain and itching associated with symptoms of fever blisters and cold sores Helps prevent and protect dry, chapped lips
+warnings:
+  Warnings For external use only. Allergy Alert: Do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine, or other "caine" anesthetics Stop use and ask a doctor if cold sore symptoms do not improve in 7 days irritation, pain, or redness persists or worsens swelling, rash, or fever develops Do not use on • deep or puncture wounds • animal bites • serious burns When using this product keep out of eyes. Rinse with water to remove. Do not exceed recommended dosage. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if cold sore symptoms do not improve in 7 days irritation, pain, or redness persists or worsens swelling, rash, or fever develops
+do_not_use:
+  Do not use on • deep or puncture wounds • animal bites • serious burns
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove. Do not exceed recommended dosage.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older Apply to affected area (lips) not more than 3 to 4 times daily Children 2-12 years of age Should be supervised in use of this product Children under 2 years of age Ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td><paragraph>Adults and children 2 years of age and older</paragraph></td><td>Apply to affected area (lips) not more than 3 to 4 times daily </td></tr><tr><td>Children 2-12 years of age</td><td>Should be supervised in use of this product</td></tr><tr><td>Children under 2 years of age</td><td> Ask a doctor</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive Ingredients polyethylene glycol, HDI/trimethylol hexyllactone crosspolymer, mica, behenyl olivate, PPG-51 SMDI copolymer, titanium dioxide, synthetic wax, calcium silicate, silica, flavor, iron oxides (C.I. 77491), isopropyl titanium triisostearate
+package_label_principal_display_panel:
+  Package Labeling: Bottle Pack
+set_id:
+  bada4108-4b3f-8ee6-e053-2995a90a9027
+id:
+  29119fd8-49f3-114e-e063-6294a90af6d4
+effective_time:
+  20241212
+version:
+  3
+openfda:

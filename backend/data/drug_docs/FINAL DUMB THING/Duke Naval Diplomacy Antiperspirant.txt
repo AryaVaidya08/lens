@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  Duke Naval Diplomacy Antiperspirant Aluminum Zirconium Trichlorohydrex GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY POLYGLYCERIN-3 SILICON DIOXIDE ACTIVATED CHARCOAL ALOE VERA LEAF HAMAMELIS VIRGINIANA LEAF ALUMINUM STARCH OCTENYLSUCCINATE STEARYL ALCOHOL HYDROGENATED CASTOR OIL CYCLOMETHICONE 5 .ALPHA.-TOCOPHEROL ACETATE GLYCERIN DIMETHICONOL (40 CST)
+active_ingredient:
+  active ingredients
+purpose:
+  purpose
+keep_out_of_reach_of_children:
+  keep out of reach of children
+indications_and_usage:
+  indications & usage
+inactive_ingredient:
+  inactive ingredients
+dosage_and_administration:
+  dosage & administration
+warnings:
+  warnings
+package_label_principal_display_panel:
+  package label principal
+set_id:
+  0f2b4f24-e165-9720-e063-6294a90ae062
+id:
+  0f2b4f24-e166-9720-e063-6294a90ae062
+effective_time:
+  20240117
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Duke Naval Diplomacy Antiperspirant
+  generic_name:
+    ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY
+  manufacturer_name:
+    RNA PHARMA, LLC
+  product_ndc:
+    60717-909
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY
+  spl_id:
+    0f2b4f24-e166-9720-e063-6294a90ae062
+  spl_set_id:
+    0f2b4f24-e165-9720-e063-6294a90ae062
+  package_ndc:
+    60717-909-85
+  is_original_packager:
+    True
+  unii:
+    T27D6T99LH

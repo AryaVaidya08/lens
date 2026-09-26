@@ -1,0 +1,31 @@
+effective_time:
+  20130801
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water, Pomace Olive Oil, El Deodorized Cocoa Butter, Beeswax (organic), Jojoba Esters, Soy Lecithin (organic), USP Glycerin, natural (organic, vegetable), USP Gluten-free, non-GMO Cane Alcohol (organic), Grapefruit Seed Extract, Plant preservatives (natural), Gluten-free, non-GMO Xanthan Gum.
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with injury, trauma or surgery such as pain, stiffness, swelling, bruising and inflammation.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children.
+questions:
+  OTC - QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Trauma Cream Hepar sulph. calc., Hypericum, Phosphorus, Aconitum nap., Arnica, Belladonna, Bellis, Calendula, Colchicum, Ledum, Millefolium, Rhus toxicodendron, Apis mel., Chamomilla, Echinacea, Hamamelis, Hydrastis, Ruta, Symphytum Calcium Sulfide Calcium Sulfide Hypericum Perforatum Hypericum Perforatum Phosphorus Phosphorus Aconitum Napellus Aconitum Napellus Arnica Montana Arnica Montana Atropa Belladonna Atropa Belladonna Bellis Perennis Bellis Perennis Calendula Officinalis Flowering Top Calendula Officinalis Flowering Top Colchicum Autumnale Bulb Colchicum Autumnale Bulb Ledum Palustre Twig Ledum Palustre Twig Achillea Millefolium Achillea Millefolium Toxicodendron Pubescens Leaf Toxicodendron Pubescens Leaf Apis Mellifera Apis Mellifera Matricaria Recutita Matricaria Recutita Echinacea, Unspecified Echinacea, Unspecified Hamamelis Virginiana Root Bark/stem Bark Hamamelis Virginiana Root Bark/stem Bark Goldenseal Goldenseal Ruta Graveolens Flowering Top Ruta Graveolens Flowering Top Comfrey Root Comfrey Root Water Olive Oil Cocoa Butter Royal Jelly Jojoba Oil Lecithin, Soybean Glycerin Alcohol Citrus Paradisi Seed Lonicera Japonica Flower Xanthan Gum package label
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: EXTERNAL USE ONLY. Ages 2 and up, apply a thin coating up to four times daily to affected area. Repeat as needed or as directed by your healthcare professional. Under age 2, consult a licensed healthcare professional. Avoid eye contact; if eye contact occurs, rinse with water for at least 15 minutes. If allergic response or irritation occurs or persists, discontinue use and consult a licensed healthcare professional.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Trauma Cream: Formulated for symptoms associated with injury, trauma or surgery such as pain, stiffness, swelling, bruising and inflammation.
+set_id:
+  64a12947-c8c6-ff96-6816-ad0bfdbda054
+id:
+  9146c189-b164-3d6e-5e36-60e30677db72
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Hepar sulph. calc. 10x, Hypericum 10x, Phosphorus 10x, Aconitum nap. 8x, Arnica 8x, Belladonna 8x, Bellis 8x, Calendula 8x, Colchicum 8x, Ledum 8x, Millefolium 8x, Rhus toxicodendron 8x, Apis mel. 3x, Arnica 3x, Calendula 3x, Chamomilla 3x, Echinacea 3x, Hamamelis 3x, Hydrastis 3x, Hypericum 3x, Ruta 3x, Symphytum 3x.

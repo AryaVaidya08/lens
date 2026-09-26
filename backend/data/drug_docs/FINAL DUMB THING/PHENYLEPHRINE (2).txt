@@ -1,0 +1,33 @@
+effective_time:
+  20101218
+contraindications:
+  CONTRAINDICATIONS: RE Phenylephrine 1.5 mg/Guaifenesin 20 mg Drops is contraindicated in persons with hypersensitivity to any of the ingredients, severe hypertension or coronary artery disease, as well as patients taking MAO inhibitors.
+precautions:
+  PRECAUTIONS: General: Use with caution in patients with hypertension. If sensitivity reaction or idiosyncrasy should occur, withdraw the drug. Information for Patients: Persons administering RE Phenylephrine 1.5 mg/Guaifenesin 20 mg Drops should be instructed not to exceed the dosage prescribed by the physician. Pregnancy: The safety of use of this product in pregnancy has not been established.
+warnings:
+  WARNINGS: Sympathomimetic amines should be used withcaution in patients with hypertension, ischemic heart disease, diabetes mellitus, increased intraocular pressure, hyperthyroidism, or prostatic hypertrophy. Sympathomimetics may produce central nervous system stimulation with convulsions or cardiovascular collapse with accompanying hypotension. Do not exceed recommended dosage.
+spl_product_data_elements:
+  PHENYLEPHRINE GUAIFENESIN PHENYLEPHRINE, GUAIFENESIN PHENYLEPHRINE PHENYLEPHRINE GUAIFENESIN GUAIFENESIN CITRIC ACID MONOHYDRATE SODIUM CITRATE SACCHARIN SODIUM SORBITOL GLYCERIN PROPYLENE GLYCOL FD&C RED NO. 40 WATER METHYLPARABEN PROPYLPARABEN
+description:
+  DESCRIPTION: Each dropperful (1.0 mL) contains: Phenylephrine Hydrochloride ............... 1.5 mg Guaifenesin .......................................... 20 mg Inactive Ingredients: Citric Acid, Sodium Citrate, Sodium Saccharin, Sorbitol, Glycerin, Propylene Glycol, Raspberry Flavor, FD&C Red#40, Purified Water, Methylparaben and Propylparaben. Phenylephrine HCl is a decongestant having the chemical name Benzenemethanol, 3-hydroxy-α-[(methylamino) methyl]-,hydrochloride(R)- Guaifenesin is an expectorant having the chemical name, 1,2-propanediol, 3-(2 methoxyphenoxy)-
+openfda:
+version:
+  11
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: FOR ORAL USE ONLY Children 6–12 years of age: 2 dropperfuls (2.0 mL). Children 2–6 years of age: 1 dropperful (1.0 mL). Not recommended for children under 2. Dosages may be repeated every 4-6 hours if required for relief. Not to exceed 4 doses in 24 hours.
+adverse_reactions:
+  ADVERSE REACTIONS: Nervousness or insomnia may occur on rare occasions with RE Phenylephrine 1.5 mg/Guaifenesin 20 mg Drops but is usually mild and transitory. Other reported adverse reactions with the components of this formulation include: nausea, vomiting, epigastric distress, diarrhea, rash, dizziness, weakness, tightness of chest, angina pain, abdominal pain, irritability, palpitation, headache, incoordination, tremor, difficulty in urination, dysuria, thrombocytopenia, leukopenia, convulsions, hypertension, hypotension, anorexia, constipation, visual disturbances. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088.
+how_supplied:
+  HOW SUPPLIED: RE Phenylephrine 1.5 mg/Guaifenesin 20 mg Drops is a sugar-free, alcohol-free, raspberry flavored liquid and is available in 1 fl. oz. (30 mL) bottles NDC 68032-368-21, with a calibrated (1.0 mL) dropper. Store at controlled room temperature 15°–30°C (59°–86°F). [See USP Controlled Room Temperature.] Dispense in a tight, light-resistant container as defined in the USP/NF with a child-resistant closure. Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing. WARNING: KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. IN CASE OF ACCIDENTAL OVERDOSE, SEEK PROFESSIONAL ASSISTANCE OR CONTACT A POISON CONTROL CENTER IMMEDIATELY. Manufactured for: River’s Edge Pharmaceuticals, LLC Suwanee, GA 30024 Iss. 12/08 368-11
+package_label_principal_display_panel:
+  PACKAGING: label
+indications_and_usage:
+  INDICATIONS AND USAGE: RE Phenylephrine 1.5 mg/Guaifenesin 20 mg Drops is especially formulated for pediatric patients to provide symptomatic relief during upper respiratory infections. It provides an expectorant action and liquefaction of the bronchial mucus. It is not a substitute for treatment with antibiotics or chemotherapeutic agents, when these are indicated.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Phenylephrine HCl is a sympathomimetic which acts predominantly on alpha receptors and has little action on beta receptors. Therefore it functions as an oral nasal decongestant with minimal CNS stimulation. Guaifenesin is an expectorant which exerts its action by stimulation of reflexes from the stomach, and acts through the nauseant effect which increases the output from the secretory glands of the respiratory tract.
+set_id:
+  b38d62a7-24cb-4389-b06b-7d7788a1489f
+id:
+  1b9e0736-03bf-43fd-a1e2-5d2882c8f9e7
+overdosage:
+  OVERDOSAGE AND TREATMENT OF OVERDOSAGE: In all cases of suspected overdose, immediately call your regional poison center and/or contact a physician immediately. Symptoms may vary from central nervous system depression to stimulation. Gastrointestinal symptoms may occur. Marked cerebral irritation resulting in jerking of muscles and possible convulsions may be followed by deep stupor and respiratory failure. Acute hypertension or cardiovascular collapse with accompanying hypotension may occur. Immediate evacuation of the stomach should be induced by emesis and gastric lavage. Respiratory depression should be treated promptly with oxygen. Do not treat respiratory or CNS depression with analeptics which might precipitate convulsions. If convulsions or marked CNS excitement occur, only short-acting barbiturates or chloral hydrate should be used.

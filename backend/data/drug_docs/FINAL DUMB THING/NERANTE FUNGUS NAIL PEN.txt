@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  NERANTE FUNGUS NAIL PEN UNDECYLENIC ACID BUTYROSPERMUM PARKII (SHEA) BUTTER ALCOHOL EDETATE DISODIUM UNDECYLENIC ACID UNDECYLENIC ACID WATER PROPYLENE GLYCOL MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL HYDROXYPROPYLCELLULOSE GLYCOLIC ACID LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL SALICYLIC ACID MENTHOL UREA ALOE VERA LEAF ASCORBIC ACID PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL ZANTHOXYLUM BUNGEANUM FRUIT
+active_ingredient:
+  UNDECYLENIC ACID 25%
+purpose:
+  Antifungal
+indications_and_usage:
+  For the relief of itching, burning, and irritation associated with these conditions. Helps in the treatment of antifungal infections on skin around nails.
+warnings:
+  For external use only.
+do_not_use:
+  Do not use on children under 2 years of age unless directed by a doctor.
+when_using:
+  When using this product, avoid contact with eyes. lf contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation occurs or there is no improvement within 4 weeks.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. lf swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Clean and dry affected area Apply a thin layer twice daily (morning and night). Continue treatment for at least 4 weeks. For nail fungus, treatment may be required for 8-12 weeks
+inactive_ingredient:
+  ALCOHOL WATER UREA PROPYLENE GLYCOL SALICYLIC ACID MENTHOL HYDROXYPROPYLCELLULOSE ZANTHOXYLUM BUNGEANUM FRUIT EXTRACT MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL DISODIUM EDTA GLYCOLIC ACID LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL ALOE VERA EXTRACT BUTYROSPERMUM PARKII (SHEA) BUTTER ASCORBIC ACID
+package_label_principal_display_panel:
+  label
+set_id:
+  4ce3984b-53cd-a665-e063-6394a90afe5f
+id:
+  4ce3984b-53ce-a665-e063-6394a90afe5f
+effective_time:
+  20260313
+version:
+  1
+openfda:
+  application_number:
+    M005
+  brand_name:
+    NERANTE FUNGUS NAIL PEN
+  generic_name:
+    UNDECYLENIC ACID
+  manufacturer_name:
+    Guangdong Quadrant Ecological Technology Co., Ltd.
+  product_ndc:
+    76986-030
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    UNDECYLENIC ACID
+  rxcui:
+    998329
+  spl_id:
+    4ce3984b-53ce-a665-e063-6394a90afe5f
+  spl_set_id:
+    4ce3984b-53cd-a665-e063-6394a90afe5f
+  package_ndc:
+    76986-030-01
+  is_original_packager:
+    True
+  upc:
+    6977863764865
+  unii:
+    K3D86KJ24N

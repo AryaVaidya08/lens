@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Hand sanitizer Hand sanitizer WATER CARBOMER INTERPOLYMER TYPE A (55000 CPS) AMINOMETHYLPROPANOL ALCOHOL ALCOHOL GLYCERIN ekongbell
+keep_out_of_reach_of_children:
+  keep out of reach of children
+active_ingredient:
+  Ethyl alcoho
+inactive_ingredient:
+  water、ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER、AMINOMETHYL PROPANOL
+purpose:
+  Disinfection Sterilization No Rinseing
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale oringest
+warnings:
+  For external use only:hands Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+dosage_and_administration:
+  Flammable keep away from fire or flame.
+package_label_principal_display_panel:
+  label
+set_id:
+  a2989af1-0dd9-4b41-e053-2a95a90a7cd6
+id:
+  a29899ad-8486-82b4-e053-2995a90ad805
+effective_time:
+  20200406
+version:
+  1
+openfda:

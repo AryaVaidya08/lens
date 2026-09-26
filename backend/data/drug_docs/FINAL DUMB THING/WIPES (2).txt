@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  WIPES BENZALKONIUM CHLORIDE WATER BENZALKONIUM CHLORIDE BENZALKONIUM PROPYLENE GLYCOL PEG-8 DIMETHICONE ALOE VERA LEAF CITRIC ACID MONOHYDRATE DISODIUM EDTA-COPPER PHENOXYETHANOL SODIUM BENZOATE
+active_ingredient:
+  Active Ingredient Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  USE For sanitizing and to help reduce bacteria on the skin.
+warnings:
+  Warning For external use only. Do not use if you are allergic to any of the ingredients. If swallowed,get medical help or contact a poison control center right away. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Open the lid and tear off the inner seal. Gently pull out the wipe.Thoroughly wipe skin as desired. Dispose the used wipe in trash,do not flush it into the toilet.
+inactive_ingredient:
+  Inactive ingredients Water, Phenoxyethanol, Sodium benzoate, Propylene glycol, Aloe barbadensis leaf juice, PEG-8 dimethicone, Disodium edta, Citric acid.
+package_label_principal_display_panel:
+  3 2 1
+set_id:
+  b304180b-16df-72ef-e053-2a95a90aad59
+id:
+  ee09f180-98bb-f94f-e053-2995a90ac9b3
+effective_time:
+  20221122
+version:
+  2
+openfda:

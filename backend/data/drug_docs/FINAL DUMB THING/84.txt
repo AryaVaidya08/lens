@@ -1,0 +1,27 @@
+effective_time:
+  20200413
+inactive_ingredient:
+  water
+purpose:
+  Disinfection Sterilization No Rinseing
+keep_out_of_reach_of_children:
+  keep out reach of children
+warnings:
+  Do not use for silk, wool, nylon, leather, paint surface; Do not use for aluminum, copper, carbon steel products, suitable for stainless steel utensils disinfection;
+spl_product_data_elements:
+  84 DISINFECTANT 84 DISINFECTANT WATER SODIUM HYPOCHLORITE HYPOCHLORITE ION bamboo
+openfda:
+version:
+  2
+dosage_and_administration:
+  This product must be kept away from light and heat. Please keep it in a cool place;
+package_label_principal_display_panel:
+  label3
+indications_and_usage:
+  The product has certain bleachability to the fabric and can only be used for white fabric; Do not mix with acid cleaning products and other chemicals; If splashed to eyes or skin, wash with plenty of water, and see a doctor if necessary; After the tableware is sterilized, please wash it with clear water;
+set_id:
+  a20b9cf9-5321-37f0-e053-2a95a90a5541
+id:
+  a3288b86-202e-083a-e053-2a95a90a4284
+active_ingredient:
+  Sodium hypochlorite

@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  CinnaFresh Sodium Fluoride Sodium Fluoride Fluoride Ion Water Sorbitol CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE Sodium Lauryl Sulfate Sodium Hydroxide SACCHARIN SODIUM Sodium Benzoate EDETATE DISODIUM FD&C RED NO. 40
+spl_unclassified_section:
+  Drug Facts:
+  Dist. by Bob Barker Co. Inc. Fuquay-Varina, NC 27526
+active_ingredient:
+  ACTIVE INGREDIENT Sodium Fluoride - 0.22% (0.1% W/V fluoride ion)
+purpose:
+  PURPOSE Anticavity toothpaste
+indications_and_usage:
+  Use Helps protect against cavities.
+warnings:
+  Warnings Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults & Children 6 years of age & older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Children 2 to 6 years: Use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing). Children under 2 years: Ask a dentist or physician.
+dosage_and_administration_table:
+  <table width="60%"><col width="35%" align="left" valign="middle"/><col width="65%" align="left" valign="middle"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">Adults &amp; Children 6 years of age &amp; older: </td><td styleCode="Rrule">Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor.</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">Children 2 to 6 years:</td><td styleCode="Rrule">Use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing).</td></tr><tr><td styleCode="Rrule">Children under 2 years:</td><td styleCode="Rrule">Ask a dentist or physician.</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients Water, Sorbitol, Carbomer, Sodium Lauryl Sulfate, Sodium Hydroxide, Flavor, Sodium Saccharin, Sodium Benzoate, Disodium EDTA, Red 40
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 24 GRAM Tube Label CinnaFresh ® anticavity gel toothpaste Sodium Fluoride 0.22% Bold Cinnamon Flavor NET WT. 0.85 OZ (24 GRAMS) Principal Display Panel - 24 GRAM Tube Label
+set_id:
+  3fbd95f0-a10c-4351-ad80-7e90b2d6a6f5
+id:
+  76eff67d-1a58-4efb-8e99-a49522edfa94
+effective_time:
+  20240822
+version:
+  1
+openfda:
+  application_number:
+    M021
+  brand_name:
+    CinnaFresh
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Bob Barker Company Inc.
+  product_ndc:
+    53247-134
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    DENTAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    245598
+  spl_id:
+    76eff67d-1a58-4efb-8e99-a49522edfa94
+  spl_set_id:
+    3fbd95f0-a10c-4351-ad80-7e90b2d6a6f5
+  package_ndc:
+    53247-134-01
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

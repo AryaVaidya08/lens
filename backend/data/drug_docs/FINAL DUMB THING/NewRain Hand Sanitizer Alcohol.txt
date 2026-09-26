@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  NewRain Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) AMINOMETHYLPROPANOL CARBOMER COPOLYMER TYPE A .ALPHA.-TOCOPHEROL ACETATE, DL- GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Alcohol 75% ±5%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use(s) Hand Sanitizer to help reduce bacteria that can potentially cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep product away from fire or flame. When using this prouct do not use in or near the eye. In case of contact, rine eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develops and persists. Other Information: store between 15-30℃ (59-86℉) avoid freezing and excssive heat above 40℃（104℉）. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Warning choking Hazard: Small Parts. Not intended for children under 3 years of age.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Warning choking Hazard: Small Parts. Not intended for children under 3 years of age.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub hands together until dry.
+inactive_ingredient:
+  Inactive ingredients Alcohol Denat, Water (Aqua), Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  6b0c4ab5-a81e-44b7-87a8-7c5931e28b37
+id:
+  17d0d3be-f3c2-4c6c-bc01-b9b7c97856e2
+effective_time:
+  20200430
+version:
+  1
+openfda:

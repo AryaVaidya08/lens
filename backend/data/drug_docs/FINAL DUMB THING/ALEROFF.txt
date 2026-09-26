@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  ALEROFF HISTAMINE TUSSILAGO FARFARA FLOWER ALCOHOL CALADIUM BICOLOR WHOLE RANUNCULUS BULBOSUS ROOT URTICA DIOICA HISTAMINE HISTAMINE SOLANUM LYCOPERSICUM WHOLE
+warnings:
+  Warnings
+inactive_ingredient:
+  inactive
+dosage_and_administration:
+  directions
+troubleshooting:
+  questions
+information_for_patients:
+  traditional homeopatic practice
+active_ingredient:
+  active
+purpose:
+  prupose
+indications_and_usage:
+  USES
+keep_out_of_reach_of_children:
+  KEEP OUT
+package_label_principal_display_panel:
+  front
+set_id:
+  be4d907f-13ca-93a6-e053-2995a90af8b9
+id:
+  be4d907f-13cb-93a6-e053-2995a90af8b9
+effective_time:
+  20210324
+version:
+  1
+openfda:

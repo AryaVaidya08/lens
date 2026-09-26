@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  MyChelle Dermaceuticals Sun Shield SPF 50 Light/Medium Protect Zinc Oxide Zinc Oxide Zinc Oxide Water Agave Tequilana Leaf Bentonite Levomenol Butyloctyl Salicylate Caprylhydroxamic Acid CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) Caprylyl Glycol Carthamus Tinctorius Seed Oleosomes Cetostearyl Alcohol Coco Glucoside Diheptyl Succinate Ethyl Ferulate Glycerin HYDROLYZED WHEAT PROTEIN (ENZYMATIC; 3000 MW) Ferric Oxide Red HYDROGENATED JOJOBA OIL, RANDOMIZED Maltose, Unspecified Form Octyldodecanol Sodium Gluconate Tocopherol Trihydroxystearin
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active Ingredient Zinc Oxide 20.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash and irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash and irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions SHAKE WELL BEFORE USE. For daily use, apply to clean, dry skin and allow to absorb completely before applying makeup. Apply liberally and evenly 15 minutes before sun exposure. Use a water resistant sunscreen if swimming or sweating. Reapply at least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. – 2 p.m. Wear long-sleeve shirts, pants, hats and sunglasses. Children under 6 months: Ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Agave Tequilana Leaf Extract, Bentonite, Bisabolol, Butyloctyl Salicylate, Caprylhydroxamic Acid, Capryloyl Glycerin/Sebacic Acid Copolymer, Caprylyl Glycol, Carthamus Tinctorius (Safflower) Oleosomes, Cetearyl Alcohol, Coco-Glucoside, Diheptyl Succinate,Ethyl Ferulate, Glycerin, Hydrolyzed Wheat Protein / PVP Crosspolymer,Iron Oxides, Jojoba Esters, Maltose, Octyldodecanol, Sodium Gluconate, Tocopherol, Trihydroxystearin, Water
+storage_and_handling:
+  Other Information Protect this product from excessive heat and direct sun. May stain some fabrics.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Bottle Box MyCHELLE ® DERMACEUTICALS PROTECT Sun Shield Liquid SPF 50 Light/Medium Broad-spectrum Protection, Bentonite Clay & Safflower Smooth & Balance REEF SAFE clean label PROJECT ® CERTIFIED SAME FORMULA NEW NAME 1.0 fl oz/30 mL PRINCIPAL DISPLAY PANEL - 30 mL Bottle Box
+set_id:
+  0821857c-d67f-4da1-af66-5e7f64cce59b
+id:
+  a4998941-3fdb-4515-a64a-0f3bd5f7a1cb
+effective_time:
+  20210325
+version:
+  1
+openfda:

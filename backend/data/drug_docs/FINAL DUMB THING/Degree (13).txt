@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  Degree Wild Woods 48H Antiperspirant Deodorant MINERAL OIL HYDROGENATED CASTOR OIL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE MANNITOL PEG-8 DISTEARATE TALC ISOPROPYL PALMITATE PPG-14 BUTYL ETHER STEARYL ALCOHOL
+description:
+  DEGREE WILD WOODS 48H ANTIPERSPIRANT DEODORANT - aluminum zirconium tetrachlorohydrex gly stick
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (18.2 %)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Stearyl Alcohol, PPG-14 Butyl Ether, Cyclopentasiloxane, Isopropyl Palmitate, Mineral Oil, Talc, Hydrogenated Castor Oil, PEG-8 Distearate, Fragrance (Parfum), Sodium Starch Octenylsuccinate, Mannitol, BHT
+questions:
+  Questions? Call toll-free 1-866-334-7331
+package_label_principal_display_panel:
+  Degree Wild Woods AP Deo IS
+set_id:
+  d1b9e332-a971-6cc4-e053-2a95a90a9287
+id:
+  26693b4e-fb21-336f-e063-6394a90aa909
+effective_time:
+  20241108
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Degree
+  generic_name:
+    WILD WOODS 48H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    26693b4e-fb21-336f-e063-6394a90aa909
+  spl_set_id:
+    d1b9e332-a971-6cc4-e053-2a95a90a9287
+  package_ndc:
+    64942-2001-1
+    64942-2001-2
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

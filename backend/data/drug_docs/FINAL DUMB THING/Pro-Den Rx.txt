@@ -1,0 +1,55 @@
+effective_time:
+  20180417
+contraindications:
+  Contraindications Hypersensitivity to fluoride.
+spl_product_data_elements:
+  Pro-Den Rx Sodium Fluoride WATER POLYOXYL 40 HYDROGENATED CASTOR OIL SODIUM BENZOATE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS SACCHARIN SODIUM METHYLPARABEN SODIUM PHOSPHATE D&C YELLOW NO. 10 FD&C BLUE NO. 1 SODIUM FLUORIDE FLUORIDE ION MINT
+warnings_and_cautions:
+  Warnings and Precautions For Professional Office Use Only. This product is not intended for home or unsupervised consumer use. Do not swallow. Keep out of reach of children. Not recommended for children under the age of 6. Limited to topical use in the mouth only.
+openfda:
+  brand_name:
+    Pro-Den Rx
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Den-Mat Holdings, Llc
+  product_ndc:
+    59883-911
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM FLUORIDE
+  spl_id:
+    6a0ff4f9-a7f9-1e75-e053-2991aa0a2782
+  spl_set_id:
+    ba020e07-ad41-4419-a503-f1245131b7d2
+  package_ndc:
+    59883-911-64
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7
+version:
+  2
+dosage_and_administration:
+  Dosage and Administration Dispense ½ oz. (approx. 1 pump) of Pro-DenRx 2.0% Neutral Sodium Fluoride Solution into the provided mixing cup. Instruct patient to rinse vigorously for 30 seconds with ½ oz. of the solution around and between teeth, then expectorate. For maximum benefit repeat the rinse procedure with an additional ½ oz. of solution. Pro-DenRx 2.0% Neutral Sodium Fluoride Solution may also be applied full strength, with cotton pledgets, to teeth isolated with cotton rolls.
+adverse_reactions:
+  Adverse Reactions The following adverse reactions are possible in individuals hypersensitive to fluoride: eczema, atopic dermatitis, urticaria, gastric distress, headache, and weakness.
+spl_unclassified_section:
+  Recommended Frequency Do not exceed four (4) treatments per year.
+  Caution Federal law prohibits dispensing without a prescription.
+  Ingredients Water, Sodium Fluoride, Flavor, PEG-40 Hydrogenated Castor Oil, Sodium Benzoate, Disodium Phosphate, Sodium Saccharin, Methylparaben, Sodium Phosphate, Yellow #10, Blue #1.
+how_supplied:
+  How Supplied/Storage and Handling 2.0% Neutral Sodium Fluoride (0.9% Fluoride Ion) oral solution supplied in a plastic bottle with child-resistant closure containing 64 fl. oz. (1.89 L). Store at room temperature. Protect from freezing. Do not store in direct sunlight. Rx Only Revised: 12/2017 1-800-433-6628 Reorder Number: 2037MTDT Manufactured for Den-Mat Holdings, LLC 1017 W. Central Ave. Lompoc, CA 9343611 ©2017 Den-Mat Holdings, LLC. All rights reserved. 001395000 12/17AS
+package_label_principal_display_panel:
+  Principal Display Panel - 64 fl. oz. Bottle Label NDC 59883-911-64 treatment rinse 2.0% neutral sodium fluoride cool mint flavor IMPORTANT: Read directions for proper use. Net Wt. 64 fl. oz. (1.89 L) rinse_fluoride_image
+indications_and_usage:
+  Indications and Usage For topical application to aid in the protection against dental caries. Neutral pH is especially safe for crowns and restorations.
+set_id:
+  ba020e07-ad41-4419-a503-f1245131b7d2
+id:
+  6a0ff4f9-a7f9-1e75-e053-2991aa0a2782
+overdosage:
+  Overdosage Accidental ingestion of large amounts of fluoride can cause: nausea, vomiting, abdominal pain, diarrhea, stupor and/ or weakness (usually within 30 minutes). These symptoms may persist for 24 hours. If less than 5 mg fluoride/kg body weight (less than 23 mg fluoride/lb body weight) has been ingested, give calcium (milk) orally to relieve symptoms and observe for a few hours. If more than 5 mg fluoride/kg body weight (more than 23 mg fluoride/lb body weight) has been ingested, induce vomiting, give calcium (i.e., milk, 5% calcium gluconate or calcium lactate solution) and immediately seek medical assistance. For accidental ingestion of more than 15 mg fluoride/kg body weight (i.e., more than 6.9 mg fluoride/lb body weight) induce vomiting, transport and admit immediately to a hospital facility.

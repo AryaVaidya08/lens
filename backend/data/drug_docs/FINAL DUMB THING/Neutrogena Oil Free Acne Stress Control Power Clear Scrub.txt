@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Neutrogena Oil Free Acne Stress Control Power Clear Scrub Salicylic Acid WATER CETYL ALCOHOL PPG-15 STEARYL ETHER MICROCRYSTALLINE CELLULOSE GLYCOLIC ACID GLYCERIN STEARETH-21 POLYSORBATE 60 C12-15 ALKYL LACTATE CETYL LACTATE POTASSIUM CETYL PHOSPHATE SODIUM HYDROXIDE MICROCRYSTALLINE WAX XANTHAN GUM COCAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE EDETATE DISODIUM ANHYDROUS MENTHOL, UNSPECIFIED FORM BENZALKONIUM CHLORIDE SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE BUTYLENE GLYCOL GREEN TEA LEAF CUCUMBER CHROMIUM HYDROXIDE GREEN D&C GREEN NO. 5 FD&C YELLOW NO. 5 FD&C BLUE NO. 1 SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Kenvue Brands LLC Summit, NJ 07901
+active_ingredient:
+  Active ingredient Salicylic Acid 2%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Use For the treatment of acne.
+warnings:
+  Warnings For external use only. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Sunburn Alert This product contains an alpha hydroxy acid (AHA) that may increase your skin's sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing and limit sun exposure while using this product and for a week afterwards.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid contact with eyes. If contact occurs, flush thoroughly with water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Cleanse daily. Wet face and apply scrub by massaging face gently, avoiding contact with the delicate eye area. Rinse thoroughly .
+storage_and_handling:
+  Other information Store at Room Temperature.
+inactive_ingredient:
+  Inactive ingredients Water, Cetyl Alcohol, PPG-15 Stearyl Ether, Microcrystalline Cellulose, Glycolic Acid, Glycerin, Polysorbate 60, Steareth-21, C12-15 Alkyl Lactate, Cetyl Lactate, Potassium Cetyl Phosphate, Microcrystalline Wax, Sodium Hydroxide, Xanthan Gum, Cocamidopropyl PG-Dimonium Chloride Phosphate, Fragrance, Disodium EDTA, Menthol, Benzalkonium Chloride, Camellia Sinensis Leaf Extract, Sodium Benzotriazolyl Butylphenol Sulfonate, Butylene Glycol, Cucumis Sativus (Cucumber) Fruit Extract, Chromium Hydroxide Green, Green 5, Yellow 5, Blue 1
+questions:
+  Questions? Call toll-free 800-582-4048 or 215-273-8755 (collect). www.neutrogena.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 125 mL Tube Label Oil-Free Acne Stress Control ® Power-Clear Scrub MICRO CLEAR ® technology Treats acne even before it emerges Neutrogena ® salicylic acid acne treatment 4.2 FL. OZ. (125 mL) Neutrogena_1
+set_id:
+  a0c9c479-4fc1-43e4-97a2-e6095fc17559
+id:
+  28fefc07-7ff9-d953-e063-6294a90a1db3
+effective_time:
+  20241211
+version:
+  9
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Neutrogena Oil Free Acne Stress Control Power Clear Scrub
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0073
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    28fefc07-7ff9-d953-e063-6294a90a1db3
+  spl_set_id:
+    a0c9c479-4fc1-43e4-97a2-e6095fc17559
+  package_ndc:
+    69968-0073-4
+  is_original_packager:
+    True
+  upc:
+    0070501053256
+  unii:
+    O414PZ4LPZ

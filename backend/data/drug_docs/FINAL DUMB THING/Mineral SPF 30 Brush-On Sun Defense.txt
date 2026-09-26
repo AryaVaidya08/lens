@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Mineral SPF 30 Brush-On Sun Defense Zinc Oxide ZINC OXIDE ZINC OXIDE MICA SILICON DIOXIDE Lauroyl Lysine Boron Nitride ALARIA ESCULENTA MEDIUM-CHAIN TRIGLYCERIDES HIMANTHALIA ELONGATA TOCOPHEROL GLUTAMIC ACID LYSINE HYDROCHLORIDE ZINC PIDOLATE Serine Capryloyl Glycine SODIUM PYRROLIDONE CARBOXYLATE Undecylenoyl Glycine Butylene Glycol Arginine SODIUM CITRATE, UNSPECIFIED FORM Water Betaine FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Dist. By Mineral Fusion, Petaluma, CA 94954 USA
+active_ingredient:
+  Active Ingredient Zinc Oxide 24%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only . Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children . If swallowed get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally and evenly 15 minutes before sun exposure. Reapply at least every 2 hours. Use water resistant sunscreen if swimming or sweating. Children under 6 months of age: Ask a doctor. Use: Remove cap and slide down brush sleeve. Tap brush gently against wrist until you see powder flow through the bristles. Brush generously onto skin. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad-Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. – 2 p.m. Wear long-sleeved shirts, pants, hats and sunglasses.
+storage_and_handling:
+  Other information Protect this product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive ingredients Mica, Silica, Lauroyl Lysine, Boron Nitride, Plankton Extract, Caprylic/Capric Triglyceride, Himanthalia Elongata Extract, Tocopherol, Glutamic Acid, Lysine HCl, Zinc PCA, Serine, Capryloyl Glycine, Sodium PCA, Undecylenoyl Glycine, Sodium Polyaspartate, Butylene Glycol, Arginine, Sodium Citrate, Aqua/Water/Eau, Betaine, Iron Oxides (CI 77491, CI 77492, CI 77499).
+questions:
+  Questions? Call toll free 1-800-428-1668
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 4.0 g Tube Carton Mineral SPF 30 Brush-On Sun Defense Broad Spectrum SPF 30 Sunscreen Powder MINERAL FUSION ® Making Beauty Healthy ® Net Wt 0.14 oz / 4.0 g PRINCIPAL DISPLAY PANEL - 4.0 g Tube Carton
+set_id:
+  29733dba-8824-461e-be44-335d6fe50d60
+id:
+  092501f3-5cdf-4416-badd-32874398c3a4
+effective_time:
+  20250219
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Mineral SPF 30 Brush-On Sun Defense
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Mineral Fusion
+  product_ndc:
+    55789-1501
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    092501f3-5cdf-4416-badd-32874398c3a4
+  spl_set_id:
+    29733dba-8824-461e-be44-335d6fe50d60
+  package_ndc:
+    55789-1501-1
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

@@ -1,0 +1,46 @@
+effective_time:
+  20091223
+purpose:
+  Active ingredients (in each extended-release bi-layer tablet) Purpose Guaifenesin 600 mg Expectorant Pseudoephedrine HCl 60 mg Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use more than directed
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information tamper evident: do not use if carton is open or if printed seal on blister is broken or missing store at 20-25°C (68-77°F)
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves nasal congestion due to: common cold hay fever upper respiratory allergies temporarily restores freer breathing through the nose promotes nasal and/or sinus drainage temporarily relieves sinus congestion and pressure
+set_id:
+  9ae3a598-a423-4007-9ca6-95c687cb56d5
+id:
+  923d0972-3956-4c62-85b2-d75abcdefb2d
+active_ingredient:
+  Active ingredients (in each extended-release bi-layer tablet) Purpose Guaifenesin 600 mg Expectorant Pseudoephedrine HCl 60 mg Nasal Decongestant
+inactive_ingredient:
+  Inactive ingredients carbomer 934P, NF; FD&C yellow #6 aluminum lake; hypromellose, USP; magnesium stearate, NF; microcrystalline cellulose, NF; sodium starch glycolate, NF
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product do not use more than directed Stop use and ask a doctor if you get nervous, dizzy, or sleepless symptoms do not get better within 7 days, come back or occur with a fever, rash, or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Mucinex D Guaifenesin and pseudoephedrine hydrochloride GUAIFENESIN GUAIFENESIN PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE CARBOMER 934 FD&C YELLOW NO. 6 HYPROMELLOSE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A POTATO Mucinex;600
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regard for timing of meals adults and children 12 years and older: 2 tablets every 12 hours; not more than 4 tablets in 24 hours children under 12 years of age: do not use
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Reckitt Benckiser Inc. Parsippany, NJ 07054-0224 ©RBI 2009 Relabeling of "Additional Barcode" by: Physicians Total Care, Inc. Tulsa, OK 74146
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy, or sleepless symptoms do not get better within 7 days, come back or occur with a fever, rash, or persistent headache. These could be signs of a serious illness.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="60%" ID="i4ae89e47-87e5-4852-8103-54bf2a0e1da5"> <col width="50%" align="left"/> <col width="50%" align="right"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients (in each extended-release bi-layer tablet)</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Guaifenesin 600 mg</td> <td>Expectorant</td> </tr> <tr styleCode="Botrule"> <td>Pseudoephedrine HCl 60 mg</td> <td>Nasal Decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 600 mg Carton NDC 54868-5849-0 Mucinex®D 600 mg guaifenesin & 60 mg pseudoephedrine HCl extended-release bi-layer tablets EXPECTORANT & NASAL DECONGESTANT 12 HOUR NEW LOOK- SAME RELIEF Thins And Loosens Mucus Clears Nasal/Sinus Congestion 18 EXTENDED-RELEASE BI-LAYER TABLETS Principal Display Panel
+purpose_table:
+  <table width="60%" ID="i4ae89e47-87e5-4852-8103-54bf2a0e1da5"> <col width="50%" align="left"/> <col width="50%" align="right"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients (in each extended-release bi-layer tablet)</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Guaifenesin 600 mg</td> <td>Expectorant</td> </tr> <tr styleCode="Botrule"> <td>Pseudoephedrine HCl 60 mg</td> <td>Nasal Decongestant</td> </tr> </tbody> </table>

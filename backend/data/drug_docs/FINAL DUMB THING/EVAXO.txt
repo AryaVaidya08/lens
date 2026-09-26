@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  EVAXO HAND SANITIZER Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER COCAMIDOPROPYL BETAINE PROPYLENE GLYCOL GLYCERIN CITRIC ACID MONOHYDRATE COCAMIDOPROPYLAMINE OXIDE TROLAMINE
+spl_unclassified_section:
+  Drug Facts
+  Safe for Kids Non-dry to hands Non flammable Hypoallergenic Fragrance Free Kills 99.99% of Germs Instantly! * Kills More Than 99.99% of Most Common Germs that may make you sick. * Ounce for ounce outperforms EVAXO ADVANCED HAND SANITIZER original formulations when used on hands as directed THE GREEN SOURCES DISTRIBUTED BY: EVAXO INTERNATIONAL INC. Tampa, FI 33619 All rights reserved. Made in U.S.A
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use To decrease bacterial on the skin that could cause disease. Recommended for repeated use.
+warnings:
+  Warnings For external use only. Avoid contact with eyes. In case of contact with eyes, flush thoroughly with water. Stop use and ask a doctor if skin irritation develops. Keep out of reach of children. If swallowed, get medical help or contact poison control center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact poison control center right away.
+dosage_and_administration:
+  Directions For adults and children 2 yrs. and older. Apply a thumbnail size amount on palms and rub hands thoroughly until dry.
+storage_and_handling:
+  Other information Do not freeze
+inactive_ingredient:
+  Inactive ingredient Water, Cocamidopropyl Betaine, Propylene Glycol, Glycerine, Citric Acid, Cocamidopropylamine Oxide, Triethanolamine (TEA)
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  c672f61f-cc8b-49e6-863f-a0cb12266cec
+id:
+  c3a195a0-e1e5-493f-9588-0e8334a460fc
+effective_time:
+  20200604
+version:
+  1
+openfda:

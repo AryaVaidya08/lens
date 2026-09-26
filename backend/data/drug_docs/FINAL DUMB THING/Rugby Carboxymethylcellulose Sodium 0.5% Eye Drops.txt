@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Rugby Carboxymethylcellulose Sodium 0.5% Eye Drops Carboxymethylcellulose Sodium BORIC ACID POTASSIUM CHLORIDE WATER CALCIUM CHLORIDE HYDROCHLORIC ACID MAGNESIUM CHLORIDE SODIUM HYDROXIDE SODIUM CHLORIDE CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE SODIUM BORATE BENZALKONIUM CHLORIDE
+active_ingredient:
+  Active ingredient Carboxymethylcellulose sodium 0.5%
+purpose:
+  Purpose Lubricant
+indications_and_usage:
+  Uses for the temporary relief of burning, irritation, and, discomfort due to dryness of the eye or exposure to wind or sun may be used as a protectant against further irritation
+warnings:
+  Warnings For external use only Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product When using this product to avoid contamination, do not touch tip of container to any surface. Replace cap after using. Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product
+when_using:
+  When using this product to avoid contamination, do not touch tip of container to any surface. Replace cap after using.
+stop_use:
+  Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions instill 1 to 2 drops in the affected eye(s) as needed
+other_safety_information:
+  Other information store at 15°-25°C (59°-77°F)
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, calcium chloride hydrate (dihydrate), hydrochloric acid**, magnesium chloride, potassium chloride, sodium borate, sodium chloride, sodium hydroxide**, water for injection **May contain these ingredients to adjust pH.
+questions:
+  Questions or comments? Call 1-888-527-4276
+package_label_principal_display_panel:
+  Rugby Carboxymethylcellulose Sodium 0.5% Eye Drops 15mL Rugby Carboxymethylcellulose Sodium 0.5% Eye Drops 15mL
+  Rugby Carboxymethylcellulose Sodium 0.5% Eye Drops 2-15mL Rugby Carboxymethylcellulose Sodium 0.5% Eye Drops 2-15mL
+set_id:
+  fb84fc0b-9a62-812a-e053-6394a90aba0a
+id:
+  47353b72-f563-247f-e063-6294a90aedee
+effective_time:
+  20251230
+version:
+  4
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Rugby Carboxymethylcellulose Sodium 0.5% Eye Drops
+  generic_name:
+    CARBOXYMETHYLCELLULOSE SODIUM
+  manufacturer_name:
+    Rugby Laboratories
+  product_ndc:
+    0536-1386
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    CARBOXYMETHYLCELLULOSE SODIUM
+  rxcui:
+    1188426
+  spl_id:
+    47353b72-f563-247f-e063-6294a90aedee
+  spl_set_id:
+    fb84fc0b-9a62-812a-e053-6394a90aba0a
+  package_ndc:
+    0536-1386-94
+    0536-1386-35
+  is_original_packager:
+    True
+  upc:
+    0305361386948
+    0305361386351
+  unii:
+    K679OBS311

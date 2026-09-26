@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Anti-Bacterial Hand Sanitizer Blueberry ALCOHOL GLYCERIN FD&C BLUE NO. 1 WATER ALCOHOL ALCOHOL CARBOMER 940
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (80%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 64.76%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Hand washing to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+when_using:
+  When using this product Avoid contact with eyes. If contact occurs, rinse thoroughly with water. Avoid contact with broken skin.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop or condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping. Children under 6 should be supervised when using this product.
+inactive_ingredient:
+  Inactive ingredients WATER, GLYCERIN, CARBOMER, TRIETHANOLAMINE, HYDROXYPROPYLCELLULOSE, FRAGRANCE, BLUE 1
+questions:
+  Questions? Call 1-800-263-9746
+package_label_principal_display_panel:
+  image of PDP and Drug Facts Box
+set_id:
+  a640f325-b295-d42c-e053-2995a90a94d6
+id:
+  f1da48a2-2470-441b-e053-2a95a90ae584
+effective_time:
+  20230109
+version:
+  2
+openfda:

@@ -1,0 +1,43 @@
+effective_time:
+  20191001
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, butylparaben, D&C red #28, edible black ink, FD&C blue #1, FD&C red #40, gelatin, lactose, magnesium stearate, methylparaben, polysorbate 80, propylparaben, sodium lauryl sulfate
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children
+spl_product_data_elements:
+  Allergy Relief DIPHENHYDRAMINE HYDROCHLORIDE BENZYL ALCOHOL BUTYLPARABEN D&C RED NO. 28 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN LACTOSE MAGNESIUM STEARATE METHYLPARABEN POLYSORBATE 80 PROPYLPARABEN SODIUM LAURYL SULFATE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE A;20
+ask_doctor:
+  Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours adults and children 12 years and over 1 to 2 capsules children 6 to under 12 years 1 capsule children under 6 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+storage_and_handling:
+  Other information store between 20-25°C (68-77°F) retain carton for complete product information
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Fred's Pharmacy NDC 55315-113-01 ALLERGY RELIEF Diphenhydramine HCl 25 mg - Antihistamine Relieves: Sneezing Runny Nose Itchy, Watery Eyes Itchy Nose or Throat 24 CAPSULES Compare to the Active Ingredient in Benadryl® Allergy** image description
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+set_id:
+  19cd19d2-7495-45bd-a61b-f1962fcaea2b
+id:
+  93df5f6c-a4a6-5d57-e053-2a95a90a34c8
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+active_ingredient:
+  Active ingredient (in each capsule) Diphenhydramine HCl 25 mg
+dosage_and_administration_table:
+  <table width="65%"> <col width="50%" valign="top" align="left"/> <col width="50%" valign="top" align="left"/> <tbody> <tr> <td align="left" styleCode="Botrule Rrule">adults and children 12 years and over</td> <td align="left" styleCode="Botrule">1 to 2 capsules</td> </tr> <tr> <td align="left" styleCode="Botrule Rrule">children 6 to under 12 years</td> <td align="left" styleCode="Botrule">1 capsule</td> </tr> <tr> <td align="left" styleCode="Rrule">children under 6 years</td> <td align="left">do not use</td> </tr> </tbody> </table>

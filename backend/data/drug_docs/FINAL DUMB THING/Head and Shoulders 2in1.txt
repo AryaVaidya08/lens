@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Head and Shoulders 2in1 MEN Eucalyptus and Neem Pyrithione Zinc D&C RED NO. 33 FD&C BLUE NO. 1 SODIUM LAURYL SULFATE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) WATER SODIUM LAURETH SULFATE DIMETHICONE ZINC CARBONATE GLYCOL DISTEARATE SODIUM XYLENESULFONATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE SODIUM BENZOATE MAGNESIUM CARBONATE HYDROXIDE PYRITHIONE ZINC PYRITHIONE ZINC
+spl_unclassified_section:
+  Drug Facts
+  MADE IN U.S.A. of U.S. and/or Imported Ingredients Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Uses helps prevent recurrence of flaking and itching associated with dandruff.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor. for maximum dandruff control, use every time you shampoo. shake before use. wet hair, massage onto scalp, rinse, repeat if desired.
+inactive_ingredient:
+  Inactive ingredients Water, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, sodium chloride, zinc carbonate, dimethicone, cocamidopropyl betaine, sodium xylenesulfonate, fragrance, sodium benzoate, guar hydroxypropyltrimonium chloride, magnesiumcarbonate hydroxide, blue 1, red 33
+questions:
+  Questions (or comments)? 1-800-723-9569
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 370 mL Bottle Label head & shoulders ® PYRITHIONE ZINC DANDRUFF SHAMPOO + CONDITIONER 2in1 MEN EUCALYPTUS & NEEM 12.5 FL OZ (370mL) HS
+set_id:
+  f8254e60-4d75-696e-e053-6294a90a0cf8
+id:
+  44ec3ea1-4edc-e5de-e063-6394a90a329a
+effective_time:
+  20251201
+version:
+  3
+openfda:

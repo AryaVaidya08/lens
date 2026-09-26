@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Hand sanitizer gel Hand sanitizer gel PEG-40 CASTOR OIL ALCOHOL ALCOHOL TROLAMINE AROMADENDRIN ALOE WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+dosage_and_administration:
+  Store below 110°F ( 43°C ).Flammable. Keep away from fire.
+inactive_ingredient:
+  AQUA、GLYCERIN、PEG-40 CASTOR OIL、CARBOMER、TRIETHANOLAMINE、AROMA、ALOE YOHJYU MATSU EKISU
+indications_and_usage:
+  Take an appropriate amount of this product on the palm of your hand, rub your hands evenly to smear each part without rinsing.
+active_ingredient:
+  ALCOHOL
+keep_out_of_reach_of_children:
+  keep out of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only, do not eat it,and keep it out of the reach of children.
+package_label_principal_display_panel:
+  label
+set_id:
+  a408181a-31c1-0ace-e053-2995a90afdcd
+id:
+  a408265f-e0b8-e4ac-e053-2995a90a8359
+effective_time:
+  20200424
+version:
+  1
+openfda:

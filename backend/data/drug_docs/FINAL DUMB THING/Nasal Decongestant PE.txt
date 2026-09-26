@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Nasal Decongestant PE PHENYLEPHRINE HYDROCHLORIDE CROSCARMELLOSE SODIUM SILICON DIOXIDE DICALCIUM PHOSPHATE FD&C RED NO. 40 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE S08
+active_ingredient:
+  Active Ingredient (in each tablet) Phenylephrine HCl 10mg
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies temporarily relieves sinus congestion and pressure
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland.
+when_using:
+  When using this product do not exceed recommended dose.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with a fever.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800 222-1222) right away.
+dosage_and_administration:
+  Directions adults and children 12 years and over: take 1 tablet every 4 hours. Do not take more than 6 tablets in 24 hours. children under 12 years: ask a doctor
+storage_and_handling:
+  Other Information each tablet contains: phosphorus 10 mg store between 20°-25°C (68°-77°F) protect from excessive moisture DO NOT USE IF PRINTED SEAL UNDER CAP IS MISSING OR DAMAGED
+inactive_ingredient:
+  Inactive Ingredients Crosscarmellose Soidum, Colloidal Silicon Dioxide, Dicalcium Phosphate, FD&C Red 40, Magnesium Stearate, Microcrystalline Cellulose
+questions:
+  Questions? call toll free 1-844-912-4012
+spl_unclassified_section:
+  Distributed by: BI-MART Eugene, OR 97402
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL-36 Count NDC 37835-651-36 Compare to the active ingredients in Sudafed PE® Sinus Congestion* NON-DROWSY NASAL DECONGESTANT PE Phenylephrine HCl 10 mg Relieves: Nasal & Sinus Congestion & Sinus Pressure 36 Tablets *This product is not manufactured or distributed by the owner of the registered trademark Sudafed PE ® Sinus Congestion. label
+  PRINCIPAL DISPLAY PANEL-100 Count NDC 37835-651-01 Compare to the active ingredients in Sudafed PE® Sinus Congestion* NON-DROWSY NASAL DECONGESTANT PE Phenylephrine HCl 10 mg Relieves: Nasal & Sinus Congestion & Sinus Pressure 100 Tablets *This product is not manufactured or distributed by the owner of the registered trademark Sudafed PE ® Sinus Congestion. label
+set_id:
+  d208cb6f-e142-4aa3-959b-e6b601df76c1
+id:
+  3127723a-459d-0ab2-e063-6394a90ad329
+effective_time:
+  20250301
+version:
+  1
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Nasal Decongestant PE
+  generic_name:
+    PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    Bi-Mart
+  product_ndc:
+    37835-651
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1049182
+  spl_id:
+    3127723a-459d-0ab2-e063-6394a90ad329
+  spl_set_id:
+    d208cb6f-e142-4aa3-959b-e6b601df76c1
+  package_ndc:
+    37835-651-36
+    37835-651-01
+  is_original_packager:
+    True
+  unii:
+    04JA59TNSJ

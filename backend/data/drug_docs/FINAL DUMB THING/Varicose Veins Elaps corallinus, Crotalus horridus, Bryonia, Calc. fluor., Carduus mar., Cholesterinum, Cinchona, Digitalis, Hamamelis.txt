@@ -1,0 +1,31 @@
+effective_time:
+  20190906
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane alcohol 20%.
+purpose:
+  OTC - PURPOSE SECTION Formulated for associated symptoms such as enlarged veins, swelling, discoloration, pain, stinging and heaviness in the extremities.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION WARNINGS: Keep out of reach of children. Do not use if tamper-evident seal is broken or mssing, If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding , ask a doctor before use.
+questions:
+  QUESTIONS SECTION newtonlabs.net - Questions? 800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013
+spl_product_data_elements:
+  Varicose Veins Elaps corallinus, Crotalus horridus, Bryonia, Calc. fluor., Carduus mar., Cholesterinum, Cinchona, Digitalis, Hamamelis, Hydrofluoricum acidum, Lachesis, Lycopodium, Naja, Pulsatilla, Vipera berus, Zinc. met., Aesculus hipp., Echinacea ALCOHOL MICRURUS CORALLINUS VENOM MICRURUS CORALLINUS VENOM CROTALUS HORRIDUS HORRIDUS VENOM CROTALUS HORRIDUS HORRIDUS VENOM BRYONIA ALBA ROOT BRYONIA ALBA ROOT CALCIUM FLUORIDE FLUORIDE ION SILYBUM MARIANUM SEED SILYBUM MARIANUM SEED CHOLESTEROL CHOLESTEROL CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK DIGITALIS DIGITALIS HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK HYDROFLUORIC ACID FLUORIDE ION LACHESIS MUTA VENOM LACHESIS MUTA VENOM LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE NAJA NAJA VENOM NAJA NAJA VENOM PULSATILLA VULGARIS PULSATILLA VULGARIS VIPERA BERUS VENOM VIPERA BERUS VENOM ZINC ZINC HORSE CHESTNUT HORSE CHESTNUT ECHINACEA, UNSPECIFIED ECHINACEA, UNSPECIFIED WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Adults, take 6 drops by mouth one to four times daily or as directed by a health professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding , ask a doctor before use.
+package_label_principal_display_panel:
+  PACKAGE LABEL Package Label
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Formulated for associated symptoms such as enlarged veins, swelling, discoloration, pain, stinging and heaviness in the extremities.
+set_id:
+  91e8029e-0244-2d40-e053-2995a90a16c2
+id:
+  91e87d7c-0136-5228-e053-2a95a90a9157
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Equal parts of Aesculus hipp. 6x, Echinacea 6x, Hamamelis 6x, Bryonia 10x, Calc. fluor. 10x, Carduus mar. 10x, Cholesterinum 10x, Cinchona 10x, Digitalis 10x, Hamamelis 10x, Hydrofluoricum acidum 10x, Lachesis 10x, Lycopodium 10x, Naja 10x, Pulsatilla 10x, Vipera berus 10x, Zinc. met. 10x, Crotalus hor. 15x, Elaps 30x.

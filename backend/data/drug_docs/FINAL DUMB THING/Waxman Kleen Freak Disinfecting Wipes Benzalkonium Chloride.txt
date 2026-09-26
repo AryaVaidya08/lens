@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Waxman Kleen Freak Disinfecting Wipes Benzalkonium Chloride PROPYLENE GLYCOL WATER PHENOXYETHANOL GLYCERIN ETHYLHEXYLGLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredients Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on skin.
+warnings:
+  Warnings For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact aPoison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact aPoison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry. Discard wipes in trash receptacle after use. Do not flush. Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Ethylhexylglycerin, Phenoxyethanol, Propylene Glycol, Fragrance.
+package_label_principal_display_panel:
+  Kills 99.9% of Germs* waxman kleen freak disinfecting wipes one-step hand cleaning and disinfecting 70 sheets 5.51 in x 7.87 in (14.0 cm x 20.0 cm ) (14.8 oz (420 g) container label
+set_id:
+  b248d468-9cec-3636-e053-2a95a90a24f3
+id:
+  e4f4d558-bb2a-2c42-e053-2995a90a4744
+effective_time:
+  20220729
+version:
+  2
+openfda:

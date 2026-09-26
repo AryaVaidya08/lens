@@ -1,0 +1,36 @@
+effective_time:
+  20200814
+inactive_ingredient:
+  INACTIVE INGREDIENTS Aqua(Water), Glycerin, Propylene Glycol, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate(Vitamine E)
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  4. Keep out of reach of children 5. Do not flush. Dispose in a trash receptacle.
+warnings:
+  CAUTIONS Flammable. Keep away from fire or flame. For external use only. Avoid contacts with eyes or mouth. If contact occurs, rinse eyes thoroughly with warm water. Do not use on broken skin. Stop use and ask a doctor if irritation or redness occurs. 3. Store in a cool, dry place. Avoid heat or direct sunlight. 4. Keep out of reach of children 5. Do not flush. Dispose in a trash receptacle.
+spl_product_data_elements:
+  Oppeal. Hosmall Hand Sanitizing ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Tear off the sachet and use as required. Gently pull back resealable label and use as required. Reseal back.
+spl_unclassified_section:
+  DRUG FACTS
+  OTHER INFORMATION Store in a well-ventilated place. Do not store above 30°C.
+stop_use:
+  Stop use and ask a doctor if irritation or redness occurs. 3. Store in a cool, dry place. Avoid heat or direct sunlight.
+do_not_use:
+  Do not use on broken skin.
+package_label_principal_display_panel:
+  Package Labeling:1ct Label
+  Package Labeling:5ct Label2
+  Package Labeling:10ct Label3
+indications_and_usage:
+  USES For hand sanitizing to help decrease bacteria on the skin
+set_id:
+  ab96645e-d218-6e26-e053-2a95a90a8b66
+id:
+  acd604d8-0c6a-675f-e053-2995a90a7749
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70.0%(v/v) Purpose Antiseptic

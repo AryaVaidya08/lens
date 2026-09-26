@@ -1,0 +1,44 @@
+effective_time:
+  20171109
+contraindications:
+  CONTRAINDICATIONS Known hypersensitivity to any of the listed ingredients. Discontinue if hypersensitivity is observed. Sun exposure to areas of skin treated with Uramaxin™ (20% Urea) Foam should be minimized or avoided.
+precautions:
+  PRECAUTIONS This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use.
+warnings:
+  WARNINGS For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  PREGNANCY Pregnancy Category C Animal reproduction studies have not been conducted with Uramaxin™ (20% Urea) Foam. It is also not known whether Uramaxin™ (20% Urea) Foam can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Uramaxin™ (20% Urea) Foam should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  NURSING MOTHERS It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when Uramaxin™ (20% Urea) Foam is administered to a nursing woman.
+spl_product_data_elements:
+  uramaxin urea UREA UREA
+description:
+  DESCRIPTION Uramaxin™ (20% Urea) Foam is a keratolytic emollient moisturizer. Each gram contains 20% urea, purified water, ammonium lactate, white petrolatum, octyl palmitate, caprylic/capric triglyceride, hydrogenated polyisobutene, propylene glycol, rice starch, polysorbate 60, cyclomethicone, glyceryl stearate & PEG-100 stearate, cetearyl alcohol & cetearyl glucoside, polysorbate-20, phenoxyethanol, cetyl alcohol, dimethicone, potassium sorbate, allantoin, tocopheryl acetate, xanthan gum. In propellants isobutane & propane & butane. Urea is a diamide of carbonic acid with the following chemical structure: chemical structure
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Apply Uramaxin™ (20% Urea) Foam to affected skin twice per day, or as directed by a physician. Rub in until completely absorbed.
+adverse_reactions:
+  ADVERSE REACTIONS Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+spl_unclassified_section:
+  Rx Only In a vehicle containing Ammonium Lactate For external use only. Not for ophthalmic use.
+  KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+  Manufactured for: MEDIMETRIKS PHARMACEUTICALS, INC. 363 Route 46 West Fairfield, NJ 07004-2402 USA www.medimetriks.com Made in Israel Manufactured by Perrigo Yeruham 80500, Israel IP005-R2 Rev. 8/10
+storage_and_handling:
+  Store at room temperature 15°-25° C (59°-77° F). Protect from freezing.
+how_supplied:
+  HOW SUPPLIED Uramaxin™ (20% Urea) Foam is supplied in a 100 g (3.5 oz.) canister, NDC 43538-220-10
+package_label_principal_display_panel:
+  PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - CARTON Rx Only Uramaxin™ (20% Urea) Foam In a vehicle containing ammonium lactate See package insert for full prescribing information For Topical Use Only Medimetriks Pharmaceuticals, Inc. Uramaxin(tm) Carton Uramaxin(tm) Carton
+  PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - CANISTER Rx Only Uramaxin™ (20% Urea) Foam In a vehicle containing ammonium lactate See package insert for full prescribing information For Topical Use Only Medimetriks Pharmaceuticals, Inc. Uramaxin(tm) Canister Uramaxin(tm) Canister
+pharmacokinetics:
+  PHARMACOKINETICS The mechanism of action of topically applied Urea is not yet known.
+indications_and_usage:
+  INDICATIONS AND USES For softening, smoothing and removing rough scaling hyperkeratotic skin in conditions such as xerosis, ichthyosis, skin cracks and fissures, dermatitis, eczema, psoriasis, keratoses and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Urea gently lyses/dissolves the intercellular matrix of surface skin cells loosening and allowing a shedding of rough, thickened and scaly hyperkeratotic skin. Urea also moisturizes and softens skin.
+set_id:
+  cb0bd98a-eb71-4b79-928a-471c61d3c739
+id:
+  410c46f9-d263-42e8-893d-2338154fdf2c

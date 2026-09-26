@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Honey Lemon Flavor Cough Drops Honey Lemon Flavor Menthol CITRIC ACID MONOHYDRATE SUGARCANE HONEY TURMERIC CORN SYRUP MENTHOL MENTHOL Honey P
+active_ingredient:
+  Active ingredient 7.5 mg Cough Suppressant Oral anesthetic Front Panel
+purpose:
+  Uses temporarily relieves: cough as may occur with a cold ocassional minor irritation and sore throat
+indications_and_usage:
+  Uses temporarily relieves: cough as may occur with a cold ocassional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: severe or persistence sore throat accompanied by high fever, headache, nausea and vomiting may be serious. Consult a doctor promptly. Do not use more than 2 days.
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma or emphysema cough accompany by excessive phem (mucus)
+stop_use:
+  Stop use and consult a doctor if cough persists for more than 7 days, tends to recur, or is accompanied by fever, rash or persisten headache. These could be signs of a serious condition sore mouth symptons do not improve in 7 days or if irritation, pain or redness persists or worsens.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+overdosage:
+  In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 6 years and over: dissolve 1 drop slowly in mouth. Repeated every 2 hours as needed or as directed by a doctor. Children under 6 years ask a doctor
+other_safety_information:
+  Store in a cool and dry place. 10 calories per drop
+inactive_ingredient:
+  glucose syrup, sugar, natural flavors, honey, turmeric extract (color), citric acid
+questions:
+  Questions? or to report and adverse event call: 1-800-936-8255
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Back Panel
+set_id:
+  1eb7abdc-061f-0e18-e063-6294a90a3a65
+id:
+  1eb7abe7-3928-1e0b-e063-6294a90ab333
+effective_time:
+  20240802
+version:
+  1
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Honey Lemon Flavor Cough Drops
+  generic_name:
+    HONEY LEMON FLAVOR MENTHOL
+  manufacturer_name:
+    WHOLE FOODS MARKET, INC.
+  product_ndc:
+    42681-0038
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    1250189
+  spl_id:
+    1eb7abe7-3928-1e0b-e063-6294a90ab333
+  spl_set_id:
+    1eb7abdc-061f-0e18-e063-6294a90a3a65
+  package_ndc:
+    42681-0038-1
+  is_original_packager:
+    True
+  upc:
+    0099482527778
+  unii:
+    L7T10EIP3A

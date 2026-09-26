@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Crest 3D White Sodium Fluoride SORBITOL WATER HYDRATED SILICA SODIUM ACID PYROPHOSPHATE SODIUM LAURYL SULFATE SODIUM HYDROXIDE XANTHAN GUM SACCHARIN SODIUM CARNAUBA WAX TITANIUM DIOXIDE FD&C BLUE NO. 1 SODIUM FLUORIDE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+  DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Sodium fluoride 0.243% (0.16% w/v fluoride ion)
+purpose:
+  Purpose Anticavity toothpaste
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warning Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist
+inactive_ingredient:
+  Inactive ingredients sorbitol, water, hydrated silica, disodium pyrophosphate, sodium lauryl sulfate, sodium hydroxide, flavor, xanthan gum, sodium saccharin, carbomer, Copernicia Cerifera (carnauba) wax, titanium dioxide, blue 1
+questions:
+  Questions? 1-800-492-7378
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 136 g Tube Carton Crest ® 3DWHITE ® FLUORIDE ANTICAVITY TOOTHPASTE NET WT 4.8OZ (136 g) ENAMEL SAFE WHITENING REMOVES UP TO 80% OF SURFACE STAINS. FOAMING CLEAN 855
+set_id:
+  2348f2fa-bdb1-4892-983a-c8aeabfdfead
+id:
+  0553c85a-218a-38b2-e063-6294a90a9de4
+effective_time:
+  20230914
+version:
+  6
+openfda:

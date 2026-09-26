@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Fragrance Free Antibacterial Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) AMINOMETHYLPROPANOL CARBOMER COPOLYMER TYPE A
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Alcohol 65%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Decrease bacteria on hands.
+warnings:
+  Warnings For external use only. Flammable. Keep product away from fire or flame. When using this product avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Small Parts. Not for children under 3 years.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Small Parts. Not for children under 3 years.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  cb8cabdc-8791-422e-9b92-07da096d428f
+id:
+  75dd62e2-8eb2-47a6-ba59-4caba187b20e
+effective_time:
+  20200416
+version:
+  1
+openfda:

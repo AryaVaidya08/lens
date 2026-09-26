@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  QUALITY CHOICE Maximum Strength Gas Relief Softgel Simethicone DIMETHICONE, UNSPECIFIED DIMETHICONE D&C RED NO. 33 FD&C BLUE NO. 1 GELATIN, UNSPECIFIED GLYCERIN WATER 813
+spl_unclassified_section:
+  Drug Facts
+  Compare to the Active Ingredient in Maximum Strength Phazyme ® READ AND KEEP OUTER CARTON FOR COMPLETE PRODUCT WARNINGS AND INFORMATION TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING *This product is not manufactured or distributed by C.B. Fleet Company Inc., distributor of PHAZYME ® . PRODUCT OF UNITED ARAB EMIRATES QC 100% SATISFACTION GUARANTEED Distributed by CDMA, Inc. Novi, MI 48375 www.qualitychoice.com Questions: 800-935-2362
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 250 mg
+purpose:
+  Purpose Anti-gas
+indications_and_usage:
+  Uses • relieves bloating, pressure or fullness commonly referred to as gas
+warnings:
+  Warnings Stop use and ask a doctor if condition persists. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions • Swallow one or two softgels as symptoms occur • do not exceed 2 softgels per 24 hours except under the advice and supervision of a physician
+storage_and_handling:
+  Other information • store at room temperature 20-25°C (68-77°F) • protect from heat, humidity and light
+inactive_ingredient:
+  Inactive ingredients D&C red no.33, edible ink, FD&C blue no.1, gelatin, glycerin, purified water
+questions:
+  Questions or comments? 1-888-577-8033
+package_label_principal_display_panel:
+  Packaging Gas Relief softgels
+set_id:
+  462fdb9a-d685-4772-9233-6c43db9382cc
+id:
+  80a393f0-2567-493f-945b-2a0866546b61
+effective_time:
+  20240816
+version:
+  1
+openfda:
+  application_number:
+    M002
+  brand_name:
+    QUALITY CHOICE Maximum Strength Gas Relief Softgel
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Chain Drug Marketing Association, Inc.
+  product_ndc:
+    83324-304
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE, UNSPECIFIED
+  rxcui:
+    412111
+  spl_id:
+    80a393f0-2567-493f-945b-2a0866546b61
+  spl_set_id:
+    462fdb9a-d685-4772-9233-6c43db9382cc
+  package_ndc:
+    83324-304-60
+  is_original_packager:
+    True
+  upc:
+    0635515953031
+  unii:
+    92RU3N3Y1O

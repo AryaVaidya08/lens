@@ -1,0 +1,48 @@
+effective_time:
+  20190904
+purpose:
+  Active Ingredients (in each 5 mL teaspoonful) Purpose Chlorcyclizine HCl 25 mg Antihistamine Pseudoephedrine HCl 60 mg Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately.
+when_using:
+  When using this product excitability may occur, especially in children may cause drowsiness alcohol, sedatives and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery
+questions:
+  Questions or Comments? Call 1-888-206-5525
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other upper respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes nasal congestion reduces swelling of nasal passages
+set_id:
+  4e1bd76c-3fd8-4372-907f-6b799d67cfbb
+id:
+  91bba3cc-ba6a-7163-e053-2a95a90a42e8
+active_ingredient:
+  Active Ingredients (in each 5 mL teaspoonful) Purpose Chlorcyclizine HCl 25 mg Antihistamine Pseudoephedrine HCl 60 mg Nasal Decongestant
+dosage_and_administration_table:
+  <table width="60%"> <col width="40%" align="left" valign="middle"/> <col width="60%" align="left" valign="middle"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">Adults and children 12 years of age and over:</td> <td>1 teaspoon every 6-8 hours, not to exceed 3 teaspoonfuls in 24 hours, or as directed by a doctor</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">Children 6 to under 12 years of age:</td> <td>&#xBD; teaspoonful every 6-8 hours, not to exceed 1&#xBD; teaspoonfuls in 24 hours, or as directed by a doctor</td> </tr> <tr> <td styleCode="Rrule">Children under 6 years of age</td> <td>Consult a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Citric Acid, Grape Flavor, Methyl Paraben, Potassium Citrate, Potassium sorbate, Propyl Paraben, Propylene Glycocl, Purified Water, Sorbitol Solution 70%, Sucralose
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product If you are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for two weeks after stopping the MAOI drug. If you do not know if your prescription drug contains MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma heart disease high blood pressure thyroid disease diabetes melitus difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you are taking sedatives or tranquilizers When using this product excitability may occur, especially in children may cause drowsiness alcohol, sedatives and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur symptoms persist for more than 1 week, tend to recur, or are accompanied by a fever, rash or persisitent headache; these could be signs of a serious condition new symptoms occur If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  Stahist AD Chlorcyclizine Hydrochloride and Pseudoephedrine Hydrochloride CITRIC ACID MONOHYDRATE METHYLPARABEN POTASSIUM CITRATE POTASSIUM SORBATE PROPYLPARABEN PROPYLENE GLYCOL WATER SORBITOL SUCRALOSE CHLORCYCLIZINE HYDROCHLORIDE CHLORCYCLIZINE PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma heart disease high blood pressure thyroid disease diabetes melitus difficulty in urination due to enlargement of the prostate gland Ask a doctor before use if you are taking sedatives or tranquilizers
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. Adults and children 12 years of age and over: 1 teaspoon every 6-8 hours, not to exceed 3 teaspoonfuls in 24 hours, or as directed by a doctor Children 6 to under 12 years of age: ½ teaspoonful every 6-8 hours, not to exceed 1½ teaspoonfuls in 24 hours, or as directed by a doctor Children under 6 years of age Consult a doctor
+spl_unclassified_section:
+  Drug Facts
+  Rev. 02/12
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur symptoms persist for more than 1 week, tend to recur, or are accompanied by a fever, rash or persisitent headache; these could be signs of a serious condition new symptoms occur
+do_not_use:
+  Do not use this product If you are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for two weeks after stopping the MAOI drug. If you do not know if your prescription drug contains MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients   (in each 5 mL teaspoonful) </content> </th> <th valign="bottom"> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Chlorcyclizine HCl 25 mg</td> <td>Antihistamine</td> </tr> <tr> <td>Pseudoephedrine HCl 60 mg</td> <td>Nasal Decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 118 mL Bottle Carton NDC 58407-624-04 Stahist AD LIQUID Antihistamine • Nasal Decongestant GRAPE FLAVOR! SUGAR-FREE ALCOHOL-FREE GLUTEN-FREE Each teaspoonful (5 mL) for oral administration contains: Chlorcyclizine HCl 25 mg Pseudoephedrine HCl 60 mg Manufactured for: MAGNA Pharmaceuticals, Inc. Louisville, KY 40299 Net Contents: 4 oz (118 mL) PRINCIPAL DISPLAY PANEL - 118 mL Bottle Carton
+purpose_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients   (in each 5 mL teaspoonful) </content> </th> <th valign="bottom"> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Chlorcyclizine HCl 25 mg</td> <td>Antihistamine</td> </tr> <tr> <td>Pseudoephedrine HCl 60 mg</td> <td>Nasal Decongestant</td> </tr> </tbody> </table>

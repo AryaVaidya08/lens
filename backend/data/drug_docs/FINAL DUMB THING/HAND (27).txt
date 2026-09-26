@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  HAND SANITIZER ALCOHOL TRIETHANOLAMINE CAPROYL GLUTAMATE CARBOMER 940 WATER ALCOHOL ALCOHOL GLYCERIN
+dosage_and_administration:
+  DOSAGE Place enough product on hands to cover all surfaces. Rub hands together until dry.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Inactive ingredients Water (Aqua), Glycerin, Carbomer, Triethanolamine
+indications_and_usage:
+  DIRECTIONS Directions Place enough product on hands to cover all surfaces. Rub hands together until dry.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  PURPOSE PURPOSE ANTIMICROBIAL
+warnings:
+  WARNINGS Warnings For external use only. Flammable. Keep away from heat or flame
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredient. Ethyl Alcohol 70% v/v
+ask_doctor:
+  STOP USE ASK A DOCTOR Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY LABEL 125 ml FINAL LABEL 250 ml LABLE 1000 mL LABEL 500 mL
+set_id:
+  a716238a-e60b-6614-e053-2a95a90a95a1
+id:
+  a716238a-e60c-6614-e053-2a95a90a95a1
+effective_time:
+  20200602
+version:
+  1
+openfda:

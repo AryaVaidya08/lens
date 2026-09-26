@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  QUALITY CHOICE BACITRACIN BACITRACIN BACITRACIN BACITRACIN ALOE VERA LEAF MINERAL OIL PETROLATUM
+active_ingredient:
+  Active ingredients (each gram contains) Purpose Bacitracin 500 units .......................................................................................First Aid Antibiotic
+purpose:
+  Uses first aid to help prevent infection in minor cuts scrapes burns
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use in the eyes if you are allergic to any of the ingredients over large areas of the body longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use in case of deep or puncture wounds, animal bites, or serious burns
+stop_use:
+  Stop use and ask a doctor if the condition persists or gets worse a rash or other allergic reaction develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+indications_and_usage:
+  Directions clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+storage_and_handling:
+  Other information store at 15 o to 25 o C (59 o to 77 o F) Lot No. and Exp. Date: see box or see crimp of tube
+inactive_ingredient:
+  Inactive ingredients aloe vera gel, light mineral oil and white petrolatum
+dosage_and_administration:
+  DISTRIBUTED BY C.D.M.A., Inc NOVI, MI 48376-0995 MADE IN KOREA
+package_label_principal_display_panel:
+  image description
+set_id:
+  60cacde0-e504-4ad0-8f5d-efa0aad9ba8f
+id:
+  bcd18b1e-9db6-480b-b374-2fcabe3deed7
+effective_time:
+  20161012
+version:
+  3
+openfda:

@@ -1,0 +1,52 @@
+effective_time:
+  20190918
+precautions:
+  PRECAUTIONS General This medication is not to be used for the treatment of systemic mycoses. Discontinue treatment if sensitization or irritation is reported during use. Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate carcinogenic potential. There also have been no studies to determine mutagenicity or whether this medication affects fertility in males or females. Pregnancy Teratogenic Effects Category C Animal reproduction studies have not been conducted with nystatin oral suspension. It is also not known whether nystatin oral suspension can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Nystatin oral suspension should be given to a pregnant woman only if clearly needed. Nursing Mothers It is not known whether nystatin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when nystatin is administered to a nursing woman. Pediatric Use See DOSAGE AND ADMINISTRATION .
+description:
+  DESCRIPTION Nystatin is an antimycotic polyene antibiotic obtained from Streptomyces noursei. Structural formula: C 47 H 75 NO 17 MW 926.13 Nystatin Oral Suspension, USP, for oral administration contains 100,000 Nystatin units per mL. In addition, the yellow opaque suspension contains the following inactive ingredients: Alcohol (0.5% v/v), USP, Alcohol free Bubble Gum Flavoring, Carboxymethylcellulose Sodium, USP, Dibasic Sodium Phosphate, USP, Glycerin Natural 99.5%, USP, Methylparaben, NF, (Preservative), Monobasic Sodium Phosphate, USP, Propylparaben, NF, (Preservative), Purified Water, USP, Saccharin Sodium, USP, and Sucrose, NF. Chemical Structure
+general_precautions:
+  General This medication is not to be used for the treatment of systemic mycoses. Discontinue treatment if sensitization or irritation is reported during use.
+storage_and_handling:
+  Storage Store at 20°C to 25°C (68° to 77°F) [See USP Controlled Room Temperature] AVOID FREEZING
+pharmacokinetics:
+  Pharmacokinetics Gastrointestinal absorption of nystatin is insignificant. Most orally administered nystatin is passed unchanged in the stool. In patients with renal insufficiency receiving oral therapy with conventional dosage forms, significant plasma concentrations of nystatin may occasionally occur.
+indications_and_usage:
+  INDICATIONS AND USAGE Nystatin Oral Suspension, USP, is indicated for the treatment of candidiasis in the oral cavity.
+set_id:
+  d868575c-7eea-483e-ac35-151398bfa01e
+id:
+  f72780fd-8bd5-416c-93b7-461ca3c29c3f
+teratogenic_effects:
+  Teratogenic Effects Category C Animal reproduction studies have not been conducted with nystatin oral suspension. It is also not known whether nystatin oral suspension can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Nystatin oral suspension should be given to a pregnant woman only if clearly needed.
+pediatric_use:
+  Pediatric Use See DOSAGE AND ADMINISTRATION .
+contraindications:
+  CONTRAINDICATIONS The preparation is contraindicated in patients with a history of hypersensitivity to any of its components.
+pregnancy:
+  Pregnancy Teratogenic Effects Category C Animal reproduction studies have not been conducted with nystatin oral suspension. It is also not known whether nystatin oral suspension can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Nystatin oral suspension should be given to a pregnant woman only if clearly needed.
+microbiology:
+  Microbiology Nystatin is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi. Candida albicans demonstrates no significant resistance to nystatin in vitro on repeated subculture in increasing levels of nystatin; other Candida species become quite resistant. Generally, resistance does not develop in vivo . Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.
+nursing_mothers:
+  Nursing Mothers It is not known whether nystatin is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when nystatin is administered to a nursing woman.
+spl_product_data_elements:
+  Nystatin Nystatin Nystatin Nystatin Alcohol Carboxymethylcellulose Sodium, Unspecified Form Glycerin Methylparaben Propylparaben Saccharin Sodium Sodium Phosphate, Dibasic, Anhydrous Sodium Phosphate, Monobasic, Unspecified Form Sucrose Water
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Infants 2 mL (200,000 units) four times daily (in infants and young children, use dropper to place one-half of dose in each side of mouth and avoid feeding for 5 to 10 minutes). NOTE: Limited clinical studies in premature and low birth weight infants indicate that 1 mL four times daily is effective. Children and Adults 4 to 6 mL (400,000 to 600,000 units) four times daily (one-half of dose in each side of mouth). The preparation should be retained in the mouth as long as possible before swallowing. Continue treatment for at least 48 hours after perioral symptoms have disappeared and cultures demonstrate eradication of Candida albicans .
+adverse_reactions:
+  ADVERSE REACTIONS Nystatin is well tolerated even with prolonged therapy. Oral irritation and sensitization have been reported. (See PRECAUTIONS: General ). Gastrointestinal: Diarrhea (including one case of bloody diarrhea), nausea, vomiting, gastrointestinal upset/disturbances. Dermatologic: Rash, including urticaria has been reported rarely. Stevens-Johnson syndrome has been reported very rarely. Other: Tachycardia, bronchospasm, facial swelling, and nonspecific myalgia have also been rarely reported. To report SUSPECTED ADVERSE REACTIONS, contact FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+spl_unclassified_section:
+  Rx Only
+  Rx Only Manufactured By: VistaPharm, Inc. Largo, FL 33771 Distributed By: Lehigh Valley Technologies, Inc. Allentown, PA 18102 VP2129 10/13
+how_supplied:
+  HOW SUPPLIED Nystatin Oral Suspension, USP, 100,000 Nystatin units per mL, is available as a bubble gum flavored, yellow opaque, ready-to-use suspension. Nystatin Oral Suspension, USP, is available as follows: NDC 64950-230-06: 2 fl. oz. bottle (60 mL): supplied in individual carton with calibrated dropper; NDC 64950-230-48: 16 fl. oz. bottle (480 mL). Storage Store at 20°C to 25°C (68° to 77°F) [See USP Controlled Room Temperature] AVOID FREEZING
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton NDC 64950-230-06 NYSTATIN ORAL SUSPENSION, USP 100,000 units per mL Contains alcohol 0.5% v/v Bubblegum Flavored SHAKE WELL BEFORE USING NET: 2 fl. oz. (60 mL) with calibrated dropper At the time of dispensing replace cap with safety cap dropper Rx only VP2128 Manufactured by: VistaPharm, Inc. Largo, FL 33771 Distributed by: Lehigh Valley Technologies, Inc. Allentown, PA 18102 L V T Lehigh Valley Technologies, Inc. PRINCIPAL DISPLAY PANEL - 60 mL Bottle Carton
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Pharmacokinetics Gastrointestinal absorption of nystatin is insignificant. Most orally administered nystatin is passed unchanged in the stool. In patients with renal insufficiency receiving oral therapy with conventional dosage forms, significant plasma concentrations of nystatin may occasionally occur. Microbiology Nystatin is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi. Candida albicans demonstrates no significant resistance to nystatin in vitro on repeated subculture in increasing levels of nystatin; other Candida species become quite resistant. Generally, resistance does not develop in vivo . Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate carcinogenic potential. There also have been no studies to determine mutagenicity or whether this medication affects fertility in males or females.
+overdosage:
+  OVERDOSAGE Oral doses of nystatin in excess of five million units daily have caused nausea and gastrointestinal upset. There have been no reports of serious toxic effects or superinfections (see CLINICAL PHARMACOLOGY: Pharmacokinetics ).

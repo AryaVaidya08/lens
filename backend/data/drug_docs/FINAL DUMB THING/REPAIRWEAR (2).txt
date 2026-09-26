@@ -1,0 +1,19 @@
+effective_time:
+  20110725
+inactive_ingredient:
+  inactive ingredients: water [] neopentyl glycol diheptanoate [] cetyl alcohol [] glycerin [] polyethylene [] di-c12-15 alkyl fumarate [] petrolatum [] hydrogenated lecithin [] butylene glycol [] pentylene glycol [] isocetyl alcohol [] hydrogenated polyisobutene [] octyldodecyl myristate [] pentaerythrityl tetraethylhexanoate [] hexyldecyl stearate [] behenyl alcohol [] potato starch modified [] prunus amygdalus dulcis (sweet almond) seed extract [] olea europaea (olive) fruit extract [] coleus barbatus extract [] cucumis melo (melon) fruit extract [] saccharomyces lysate extract [] triticum vulgare (wheat bran) extract [] coffea robusta seed extract [] whey protein\lactis protein\protéine du petit-lait [] betula alba (birch) bark extract [] algae extract [] octyldodecyl neopentanoate [] persea gratissima (avocado) oil [] sigesbeckia orientalis (st. paul's wort) extract [] polygonum cuspidatum root extract [] thermus thermophillus ferment [] isomerized linoleic acid [] dimethicone [] c12-16 alcohols [] linoleic acid [] peg-100 stearate [] caprylyl glycol [] caffeine [] palmitic acid [] glycine soja (soybean) sterols [] aluminum stearate [] glyceryl stearate [] trehalose [] sodium rna [] creatine [] hexylene glycol [] sorbitol [] polysilicone-11 [] adenosine phosphate [] aminopropyl ascorbyl phosphate [] propylene glycol dicaprylate [] cholesterol/potassium sulfate [] ethylhexyl palmitate [] sodium hyaluronate [] decarboxy carnosine hcl [] cholesterol [] sodium dna [] astrocaryum murumuru seed butter [] ethylhexyl stearate [] phytosphingosine [] propylene glycol dicaprate [] acetyl hexapeptide-8 [] xanthan gum [] sodium stearate [] sodium carbomer [] sodium citrate [] disodium edta [] potassium sorbate [] phenoxyethanol
+warnings:
+  warning: keep out of eyes. stop use if irritation occurs. keep out of reach of children.
+package_label_principal_display_panel:
+  principal display panel: CLINIQUE REPAIRWEAR LIFT SPF 15 FIRMING DAY CREAM DRY COMBINATION SKIN 1.7 OZ/ 50 ML CLINIQUE LABORATORIES DISTR. NEW YORK, NY 10022 FOLDING CARTON
+spl_product_data_elements:
+  REPAIRWEAR LIFT SPF 15 FIRMING DAY DRY COMBO SKIN OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE TITANIUM DIOXIDE TITANIUM DIOXIDE WATER NEOPENTYL GLYCOL DIHEPTANOATE CETYL ALCOHOL GLYCERIN DI-C12-15 ALKYL FUMARATE PETROLATUM HYDROGENATED SOYBEAN LECITHIN BUTYLENE GLYCOL PENTYLENE GLYCOL ISOCETYL ALCOHOL HYDROGENATED POLYBUTENE (1300 MW) OCTYLDODECYL MYRISTATE DOCOSANOL STARCH, POTATO ALMOND OLIVE OIL PLECTRANTHUS BARBATUS ROOT CUCUMBER SACCHAROMYCES LYSATE WHEAT GERM ROBUSTA COFFEE BEAN WHEY BETULA PUBESCENS BARK SEAWEED OCTYLDODECYL NEOPENTANOATE AVOCADO OIL POLYGONUM CUSPIDATUM ROOT LINOLEIC ACID DIMETHICONE C12-16 ALCOHOLS PEG-100 STEARATE CAPRYLYL GLYCOL CAFFEINE PALMITIC ACID ALUMINUM STEARATE GLYCERYL MONOSTEARATE TREHALOSE CREATINE HEXYLENE GLYCOL SORBITOL ADENOSINE PHOSPHATE PROPYLENE GLYCOL DICAPRYLATE ETHYLHEXYL PALMITATE HYALURONATE SODIUM CHOLESTEROL ASTROCARYUM MURUMURU SEED BUTTER ETHYLHEXYL STEARATE PROPYLENE GLYCOL DICAPRATE ACETYL HEXAPEPTIDE-3 XANTHAN GUM SODIUM STEARATE SODIUM CITRATE EDETATE DISODIUM POTASSIUM SORBATE PHENOXYETHANOL
+set_id:
+  7e2068be-38f3-4bd9-ac08-3f572f6db2e8
+id:
+  f887bd06-097b-4391-b4e4-68c1ce76cdd6
+openfda:
+version:
+  1
+active_ingredient:
+  active ingredients: octinoxate 7.50% [] octisalate 3.50% [] titanium dioxide 1.00%

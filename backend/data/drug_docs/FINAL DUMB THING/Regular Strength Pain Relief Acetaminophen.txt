@@ -1,0 +1,29 @@
+effective_time:
+  20191230
+inactive_ingredient:
+  Inactive Ingredients povidone, sodium starch glycolate, starch stearic acid. May also contain: crospovidone, methylparaben and probylparaben
+purpose:
+  Purpose Pain Reliever/Fever Reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 12 tablets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptom occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Overdose Warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms. Keep out of reach of children.
+spl_product_data_elements:
+  Regular Strength Pain Relief Acetaminophen POVIDONE SODIUM STARCH GLYCOLATE TYPE A POTATO STARCH, CORN STEARIC ACID CROSPOVIDONE METHYLPARABEN PROPYLPARABEN ACETAMINOPHEN ACETAMINOPHEN WHITE Round M2A357344
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions do not take more than directed adults and children 12 years and over: take 2 tablets every 4-6 hours, as needed; not more than 12 tablets in 24 hours children under 12 years: ask a doctor
+storage_and_handling:
+  Other Information TAMPER EVIDENT: Do not use if imprinted seal under cap is missing or broken. store at 20⁰C-25⁰C (68⁰F-77⁰F) for institutional use only
+package_label_principal_display_panel:
+  Package Label Gericare NDC101-01 See new warnings Non-Aspirin Regular Strength Pain Relief Acetaminophen Tablets *Compare to active ingredient in the Regular Strength Tylenol tablets package not child resistant 100 tablets 325 mg each Dist. by: Gericare Pharmaceuticals Corp. 1650 63rd street Brooklyn, NY 11204 RS Pain Relief label
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains temporarily reduces fever
+set_id:
+  05688b17-4c94-4899-8664-949c76879e36
+id:
+  9af0b870-0dfd-9692-e053-2995a90ac5ab
+active_ingredient:
+  Active Ingredients Acetaminophen 325 mg

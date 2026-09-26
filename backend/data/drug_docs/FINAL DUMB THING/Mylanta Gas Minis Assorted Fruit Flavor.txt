@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Mylanta Gas Minis Assorted Fruit Flavor Simethicone ADIPIC ACID CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM D&C RED NO. 27 FD&C BLUE NO. 1 FD&C YELLOW NO. 6 HYDROXYPROPYL CELLULOSE (1600000 WAMW) ISOMALT MAGNESIUM STEARATE MALTODEXTRIN SILICON DIOXIDE SUCRALOSE SUCROSE TRICALCIUM PHOSPHATE DIMETHICONE DIMETHICONE LIGHT OBLONG MYLG ASSORTED
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each 3 tablet dose) Simethicone 125 mg
+purpose:
+  Purpose Anti-gas
+indications_and_usage:
+  Uses Relieves pressure and bloating commonly referred to as gas
+warnings:
+  Warnings Keep out of the reach of children. Keep out of reach of children
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions Adults and children 12 years and older : thoroughly chew 3-6 mini-tablets as needed. • do not exceed 12 mini-tablets in 24 hours except under the advice and supervision of a physician.
+storage_and_handling:
+  Other information each dose contains: calcium 75 mg • protect from heat and moisture • store at 20-25° C (68-77° F)
+inactive_ingredient:
+  Inactive ingredients adipic acid , carboxymethylcellulose sodium ,D&C red 27 lake, FD&C blue 1 lake, FD &C yellow 6 lake, flavors, hydroxypropyl cellulose, isomalt, magnesium stearate, maltodextrin, silica, sucralose, sucrose, tricalcium phosphate,
+questions:
+  Questions or comments? call 1-844-695-6624 toll free (English & Spanish)
+package_label_principal_display_panel:
+  Principal Display Panel FREE 20% MORE CONVENIENT POCKET PACK Mylanta ® GAS Minis Fast relief of the bloating , pressure, and discomfort of gas Extra Strength, with the #1 selling medicine for gas relief Great tasting ,chewable mini-tablets in an on-the-go pack Also available in great tasting Arctic Mint & Cherry TAMPER EVIDENT: DO NOT USE MYLANTA GAS MINI-TABLETS IF THE BREAKAWAY BAND ON TOP OF CONTAINER IS BROKEN OR MISSING. Mylanta is a registered trademark of McNeil Consumer Pharmaceuticals Co. Patent pending infirst + HEALTHCARE Manufactured for: Infirst Healthcare Inc. Westport, CT 06880 © 2016 Infirst Healthcare Inc. Mylanta.com KEEP OUTER PACKAGING FOR COMPLETE LABELING Mylanta GAS Minis 50 tablets Assorted Flavor Package level for 60 chewable tablets MYLGAF60FC MYLANTA GAS RELIEF Mylanta Pouch Pack Label Mylanta Mini Pouch Pack 3 Mini Tablets
+package_label_principal_display_panel_table:
+  <table width="100%"><col width="100%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>TAMPER EVIDENT: DO NOT USE MYLANTA GAS MINI-TABLETS IF THE BREAKAWAY BAND ON TOP OF CONTAINER IS BROKEN OR MISSING.</paragraph></td></tr></tbody></table>
+set_id:
+  c6db9af2-d457-477d-baa9-470ddbba5905
+id:
+  0bb22980-478b-bc8c-e063-6394a90a1fee
+effective_time:
+  20231204
+version:
+  5
+openfda:
+  application_number:
+    M002
+  brand_name:
+    Mylanta Gas Minis Assorted Fruit Flavor
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Infirst Healthcare Inc.
+  product_ndc:
+    62372-801
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    314221
+  spl_id:
+    0bb22980-478b-bc8c-e063-6394a90a1fee
+  spl_set_id:
+    c6db9af2-d457-477d-baa9-470ddbba5905
+  package_ndc:
+    62372-801-50
+    62372-801-60
+    62372-801-03
+  is_original_packager:
+    True
+  upc:
+    0819903010371
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

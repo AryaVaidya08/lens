@@ -1,0 +1,27 @@
+effective_time:
+  20170808
+inactive_ingredient:
+  saccharin sodium, starch, dextrates, FD and C red #40, flavor
+purpose:
+  Pain reliever / fever reducer
+keep_out_of_reach_of_children:
+  In case of accidental overdose, contact a doctor or Poison Control Center immediately.
+warnings:
+  Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy Alert: Aspirin may cause a severe allergic reaction which may include hives, facial swelling, asthma (wheezing), shock. Stomach Bleeding Warning: This product contains NSAID, which may cause severe stomach bleeding. The chance is higher if the user: -Has had stomach ulcers or bleeding problems -Takes a blood thinning (anticoagulant) or steroid drug -Takes other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) -Takes more or for a longer time than directed -Is age 60 or older -Has 3 or more alcoholic drinks every day while using this product Do not use: if you are allergic to aspirin or other pain relievers / fever reducers. For at least 7 days after tonsillectomy or oral surgery unless directed by a doctor. Ask a doctor before use if: -Stomach bleeding warning applies to user -user has history of stomach problems, such as heartburn -User has high blood pressure, heart disease, liver cirrhosis, or kidney disease -User is taking a diuretic -You have asthma Ask a doctor of pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis. Stop use and ask a doctor if: -User experiences any of the following signs of stomach bleeding: feels faint, vomits blood, has bloody or black stools, has stomach pain that does not get better -An allergic reaction occurs. Seek medical help help right away -New symptoms occur -Redness or swelling is present -Pain gets worse or lasts for more than 10 days -Ringing in the ears or loss of hearing occurs -You may report side effects to 1-888-952-0050 If p regnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless specifically directed to do so by a doctor because it may cause problems in unborn child or complications during delivery.
+spl_product_data_elements:
+  Aspirin Aspirin Aspirin Aspirin Dextrates FD&C RED NO. 40 Saccharin Sodium Starch, Corn Pale Orange Round AZ;013
+openfda:
+version:
+  6
+dosage_and_administration:
+  Drink a full glass of water with each dose. Adults and cildren 12 years and over: take 4 to 8 tablets every 4 hours. Not to exceed 48 tablets in 24 hours unless directed by a doctor. Children under 12: consult a doctor
+package_label_principal_display_panel:
+  Label Label
+indications_and_usage:
+  Temporary relief of minor aches and pains or as recommended by your doctor. To reduce fever.
+set_id:
+  a4c8e1fd-e86b-4894-bc6a-2539a2812060
+id:
+  8e07de78-91bb-47d2-9586-6521912cbca6
+active_ingredient:
+  Aspirin 81 mg (NSAID*) *nonsteroidal anti-inflammatory drug

@@ -1,0 +1,27 @@
+effective_time:
+  20190117
+inactive_ingredient:
+  butylene glycol, olive fruit oil, cetyl ethylhexanoate, niacinamide, cetyl alcohol, squalane, dimethicone, glyceryl stearate, shea butter sodium hyaluronate, stearic acid, hydrolyzed collagen, betaine, sorbitan stearate, panthenol, allantoin, etc
+purpose:
+  whitening anti-wrinkle
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ・Stop using the product when you have skin problems or the product disagrees with your skin ・Stop using the product immediately and consult a dermatologist if you have redness, swelling, itching or irritation on the skin while or after using the product. ・If the product gets into the eyes, don't rub but rinse with water. ・Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  CLIV Ginseng Berry Premium Eye GLYCERIN BUTYLENE GLYCOL CYCLOMETHICONE 5 NIACINAMIDE BETAINE GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  apply moderate amount of the product on the skin
+set_id:
+  b403efe6-d9a3-467b-970d-04ebd99ac926
+id:
+  7fa363e3-d949-a9ba-e053-2991aa0a7b0d
+active_ingredient:
+  glycerin

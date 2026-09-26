@@ -1,0 +1,29 @@
+effective_time:
+  20160629
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol.
+purpose:
+  INDICATIONS: For temporary relief of reactions related to formaldehyde sensitivity including asthma, burning eyes, crying, depression, dizziness, muscle spasms, rapid heart beat, shakiness and throat inflammation.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+spl_product_data_elements:
+  Formaldehyde Formalinum FORMALDEHYDE FORMALDEHYDE WATER ALCOHOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DESBIO NDC 43742-0105-1 HOMEOPATHIC FORMALDEHYDE 1 FL OZ (30 ml) FORMALDEHYDE
+indications_and_usage:
+  INDICATIONS: For temporary relief of reactions related to formaldehyde sensitivity including asthma, burning eyes, crying, depression, dizziness, muscle spasms, rapid heart beat, shakiness and throat inflammation.
+set_id:
+  01f953de-2bb9-4f77-9694-afc537e50ee4
+id:
+  17c7e4cb-25b2-4965-b82d-87b2ae054440
+active_ingredient:
+  ACTIVE INGREDIENTS: Formalinum 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C

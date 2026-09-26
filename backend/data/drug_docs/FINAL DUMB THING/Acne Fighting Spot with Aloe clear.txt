@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Acne Fighting Spot with Aloe clear SALICYLIC ACID WATER ALCOHOL BUTYLENE GLYCOL HAMAMELIS VIRGINIANA TOP C13-14 ISOPARAFFIN LAURETH-7 TEA TREE OIL ALOE VERA LEAF GREEN TEA LEAF SODIUM BENZOATE SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active ingredients Salicylic Acid 1% Purpose Acne Treatment
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Uses For the treatment of acne Helps prevent new acne blemishes
+warnings:
+  Warnings For external use only. When using this product Keep out of eyes. Rinse with water to remove. Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs. only use one topical acne medication at a time. Stop use and ask a doctor if rash occurs. Keep out of reach of children.
+when_using:
+  When using this product Keep out of eyes. Rinse with water to remove. Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs. only use one topical acne medication at a time.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Cleanse the skin thoroughly before applying medication. Cover the entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Alcohol, Butylene Glycol, Hamamelis Virginiana (Witch Hazel) Extract, Polyacrylamide, C13-14 Isoparaffin, Laureth-7, Camphor, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe Barbadensis Leaf Extract, Camellia Sinensis Leaf Extract, Sodium Benzoate
+questions:
+  Questions or comments 1-855-353-7320
+package_label_principal_display_panel:
+  Package Labeling: Outer Package Inner Package
+set_id:
+  db0054b1-29b9-48fa-8a02-86683bae8134
+id:
+  0aadd7d7-6eea-5012-e063-6394a90a0e4c
+effective_time:
+  20231121
+version:
+  3
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Acne Fighting Spot with Aloe clear
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Zhejiang Ayan Biotech Co.,Ltd.
+  product_ndc:
+    70412-411
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    251380
+  spl_id:
+    0aadd7d7-6eea-5012-e063-6394a90a0e4c
+  spl_set_id:
+    db0054b1-29b9-48fa-8a02-86683bae8134
+  package_ndc:
+    70412-411-06
+  is_original_packager:
+    True
+  upc:
+    0609332040144
+  unii:
+    O414PZ4LPZ

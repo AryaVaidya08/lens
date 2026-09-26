@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Vida Mia Hand Sanitizer (70% v/v) ALCOHOL WATER ISOPROPYL ALCOHOL CARBOMER 940 TROLAMINE GLYCERIN ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Drug Facts Active Ingredient Ethyl Alcohol 70% v/v Purpose Antimicrobial
+purpose:
+  Uses Decreases bacteria on skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+dosage_and_administration:
+  When using this product, avoid contact with eyes. In case of contact flush eyes with water. Stop use and ask doctor if redness or irritation develops & persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Directions Wet hands thoroughly with product and allow to dry. Children under 6 years of age, use only under adult supervision.
+other_safety_information:
+  Other Information Do not store above 105° F (43°C). May discolor some fabrics and surfaces.
+inactive_ingredient:
+  Inactive Ingredients AQUA, ISOPROPYL ALCOHOL, CARBOMER, TRIETHANOLAMINE, GLYCERIN, ISOPROPYL MYRISTATE, TOCOPHERYL ACETATE, FRAGRANCE.
+spl_unclassified_section:
+  Purell is a registered trademark of GOJO Industries, Inc.
+  Distributed by/ Distribuido por Magellan Distribution Solutions Medley, Florida 33178
+package_label_principal_display_panel:
+  Vida Mia mi salud Compare to/ Compare con Purell Hand Sanitizer HAND SANITIZER DESINFECTANTE DE MANOS ORIGINAL Kills 99.9% of Germs while It Softens and Moisturizes Hands Elimina 99.9% de germenes mientras suaviza e hidrata las manos 59970-176-18 18 FL OZ (532ml) image description
+set_id:
+  9822f55e-e66d-4b47-a178-650dfd0b4a1e
+id:
+  2ad31d3b-1139-a09b-e063-6394a90a9e7c
+effective_time:
+  20250103
+version:
+  6
+openfda:

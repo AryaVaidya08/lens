@@ -1,0 +1,47 @@
+effective_time:
+  20161230
+purpose:
+  Purpose Pain reliever Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+when_using:
+  When using this product, do not use more than directed.
+questions:
+  Questions or comments? Report serious side effects to PuraVation Pharmaceuticals Inc, 1001 Durham Avenue, Suite 300, South Plainfield, NJ 07080
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F)
+indications_and_usage:
+  Uses temporarily relieves sinus symptoms: sinus pain headache nasal & sinus congestion
+set_id:
+  3d37071d-9445-4c44-8c6b-15dbfa631db1
+id:
+  7958a3db-73b5-42b6-93ce-84b964e7be41
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredients (in each softgel) Acetaminophen 325 mg Phenylephrine HCl 5 mg
+dosage_and_administration_table:
+  <table width="435" ID="id_d9660161-7d96-40b8-a55f-2d685e60bfc0" border="single"> <colgroup> <col width="25.3%"/> <col width="80.7%"/> </colgroup> <tbody> <tr> <td align="left" styleCode="Botrule Lrule Rrule Toprule"> <paragraph>Adults &amp; children 12 yrs &amp; over</paragraph> </td> <td align="left" styleCode="Botrule Rrule"> 2 softgels with water every 4 hrs</td> </tr> <tr> <td align="left" styleCode="Botrule Lrule Rrule Toprule"> <paragraph>Children 4 to under 12 yrs</paragraph> </td> <td align="left" styleCode="Botrule Rrule"> ask a doctor</td> </tr> <tr> <td align="left" styleCode="Botrule Lrule Rrule"> <paragraph>children under 4 yrs</paragraph> </td> <td align="left" styleCode="Botrule Rrule"> <content styleCode="bold"> do not use</content> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients FD&C Yellow #6, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol special, titanium dioxide
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product, do not use more than directed. Stop use and ask a doctor if redness or swelling is present you get nervous, dizzy or sleepless fever gets worse or lasts more than 3 days new symptoms occur symptoms do not get better within 7 days or are accompanied by a fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than directed can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults & for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  NON-DROWSY DAYTIME SINUS RELIEF acetaminophen, phenylephrine hydrochloride ACETAMINOPHEN ACETAMINOPHEN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOLS POVIDONE PROPYLENE GLYCOL WATER SORBITOL TITANIUM DIOXIDE oblong PC12
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions take only as directed - see Overdose warning do not exceed 4 doses per 24 hours Adults & children 12 yrs & over 2 softgels with water every 4 hrs Children 4 to under 12 yrs ask a doctor children under 4 yrs do not use when taking NIGHTTIME or DAYTIME products, carefully read each label to insure correct dosing
+stop_use:
+  Stop use and ask a doctor if redness or swelling is present you get nervous, dizzy or sleepless fever gets worse or lasts more than 3 days new symptoms occur symptoms do not get better within 7 days or are accompanied by a fever
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 20 Softgesl Carton Sinus Relief DAYTIME NDC 76270-113-08 *Compare to the active ingredients in VICKS®DAYQUIL®SINEX® Acetaminophen Pain Reliever Phenylephrine Nasal Decongestant Relieves: Sinus Headache and Pain Sinus Congestion and Pressure Non-Drowsy SEE NEW WARNINGS INFORMATION 20 softgels PRINCIPAL DISPLAY PANEL - Shipping Label
+overdosage:
+  Overdose warning Taking more than directed can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults & for children even if you do not notice any signs or symptoms.

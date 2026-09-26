@@ -1,0 +1,86 @@
+spl_product_data_elements:
+  CVS Adult Cough plus Chest Congestion DM Max with Honey Dextromethorphan HBr, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED EDETATE DISODIUM GLYCERIN HONEY POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SODIUM BENZOATE SODIUM CITRATE, UNSPECIFIED FORM SUCRALOSE XANTHAN GUM ZINC GLUCONATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each 20 ml) Purposes Dextromethorphan HBr, USP 20 mg Cough suppressant Guaifenesin, USP 400 mg Expectorant
+active_ingredient_table:
+  <table width="60%"><col width="32%"/><col width="28%"/><thead><tr><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Active ingredients (in each 20 ml)</content></content></th><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Purposes</content></content></th></tr></thead><tbody><tr><td styleCode="Toprule " valign="top"><paragraph>Dextromethorphan HBr, USP 20 mg</paragraph></td><td styleCode="Toprule " valign="top"><paragraph>Cough suppressant</paragraph></td></tr><tr><td styleCode="Botrule " valign="top"><paragraph>Guaifenesin, USP 400 mg</paragraph></td><td styleCode="Botrule " valign="top"><paragraph>Expectorant</paragraph></td></tr></tbody></table>
+purpose:
+  Active ingredients (in each 20 ml) Purposes Dextromethorphan HBr, USP 20 mg Cough suppressant Guaifenesin, USP 400 mg Expectorant
+purpose_table:
+  <table width="60%"><col width="32%"/><col width="28%"/><thead><tr><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Active ingredients (in each 20 ml)</content></content></th><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Purposes</content></content></th></tr></thead><tbody><tr><td styleCode="Toprule " valign="top"><paragraph>Dextromethorphan HBr, USP 20 mg</paragraph></td><td styleCode="Toprule " valign="top"><paragraph>Cough suppressant</paragraph></td></tr><tr><td styleCode="Botrule " valign="top"><paragraph>Guaifenesin, USP 400 mg</paragraph></td><td styleCode="Botrule " valign="top"><paragraph>Expectorant</paragraph></td></tr></tbody></table>
+indications_and_usage:
+  Uses ▪ temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold ▪ helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have ▪ cough that occurs with too much phlegm (mucus) ▪ cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have ▪ cough that occurs with too much phlegm (mucus) ▪ cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+dosage_and_administration:
+  Directions ▪ do not take more than 6 doses in any 24-hour period ▪ measure only with dosing cup provided ▪ keep dosing cup with product ▪ ml = milliliter ▪ this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 20 ml every 4 hours children under 12 years do not use
+dosage_and_administration_table:
+  <table width="60%"><col width="31%"/><col width="30%"/><thead><tr><th align="left" styleCode="Rrule Botrule Lrule Toprule " valign="top"><content styleCode="bold">age</content></th><th align="left" styleCode="Rrule Botrule Toprule " valign="top"><content styleCode="bold">dose</content></th></tr></thead><tbody><tr><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>adults and children 12 years and over</paragraph></td><td styleCode="Rrule Toprule Botrule " valign="top"><paragraph>20 ml every 4 hours</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>children under 12 years</paragraph></td><td styleCode="Rrule Botrule " valign="top"><paragraph>do not use</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information ▪ each 20 ml contains: sodium 10 mg ▪ store at room temperature. Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients citric acid, carboxymethylcellulose sodium, edetate disodium, glycerin, honey, natural & artificial flavors, polyethylene glycol, propylene glycol, purified water, sodium benzoate, sodium citrate, sucralose, xanthan gum, zinc gluconate
+questions:
+  Questions or comments? 1-866-467-2748
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 237 ml Bottle Label Compare to active ingredients in Adult Robitussin® Honey Cough + Chest Congestion DM* Adult Cough + Chest Congestion DM With Honey Dextromethorphan HBr (Cough Suppressant) Guaifenesin (Expectorant) Maximum Strength DM MAX • Controls Cough • Relieves Chest Congestion • Thins & Loosens Mucus • Gluten Free • No Artificial Colors • No Added Alcohol Taste the Real Honey For Ages 12 & Over 8 FL OZ (237 ml) This new dynamic duo combines the great taste of natural honey you want with the powerful, effective cough relief you need. Made with real Honey *This products is not manufactured or distributed by Pfizer, distributor of Robitussin® Honey Cough + Chest Congestion DM Distributed by: CVS Adult Cough and Chest Congestion DM with Honey 237ml
+set_id:
+  822d5bf6-8841-4b7f-bbf7-90c3d50b8024
+id:
+  90d43be7-cd76-4591-958d-01d180c3851c
+effective_time:
+  20260819
+version:
+  6
+openfda:
+  application_number:
+    M012
+  brand_name:
+    CVS Adult Cough plus Chest Congestion DM Max with Honey
+  generic_name:
+    DEXTROMETHORPHAN HBR, GUAIFENESIN
+  manufacturer_name:
+    CVS PHARMACY
+  product_ndc:
+    51316-775
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  rxcui:
+    1020138
+  spl_id:
+    90d43be7-cd76-4591-958d-01d180c3851c
+  spl_set_id:
+    822d5bf6-8841-4b7f-bbf7-90c3d50b8024
+  package_ndc:
+    51316-775-08
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  ANTACID Calcium Carbonate CROSCARMELLOSE SODIUM MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE STEARIC ACID CALCIUM CARBONATE CALCIUM CATION CARBONATE ION off AP;025
+active_ingredient:
+  Active Ingredient (in each tablet) Calcium Carbonate 10 gr (648 mg)
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves acid indigestion heartburn sour stomach upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks. If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take one to four tablets daily. do not take more than 4 tablets in 24 hours do not use the maximum dosage for more than 2 weeks
+spl_unclassified_section:
+  Other Information each tablet contains: calcium 260 mg store at room temperature 15-30 °C (59-86 °F) For 1000 Count: This is a bulk package. Dispense contents in a tight, light-resistant container with a child-resistant closure as defined in the USP.
+inactive_ingredient:
+  Inactive Ingredients Croscarmellose sodium, magnesium stearate, maltodextrin, microcrystalline cellulose, stearic acid
+questions:
+  Questions or Comments Call 631-981-4600, Monday-Friday, 8.30 am – 4.30 pm ET TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING Manufactured by: Advance Pharmaceutical Inc. Holtsville, NY 11742
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Calcium Carbonate 10 gr Antacid tablets NDC: 17714-025-01 – 100 COUNT NDC: 17714-025-10 – 1000 COUNT (THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN) 17ad8654-figure-01 17ad8654-figure-02
+set_id:
+  0108b97f-02e9-4f86-9f33-cde4f919affd
+id:
+  60f41580-e08d-faad-e053-2a91aa0a9076
+effective_time:
+  20171222
+version:
+  2
+openfda:
+  application_number:
+    part331
+  brand_name:
+    ANTACID
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    Advance Pharmaceutical Inc.
+  product_ndc:
+    17714-025
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    577040
+  spl_id:
+    60f41580-e08d-faad-e053-2a91aa0a9076
+  spl_set_id:
+    0108b97f-02e9-4f86-9f33-cde4f919affd
+  package_ndc:
+    17714-025-01
+    17714-025-10
+  is_original_packager:
+    True
+  upc:
+    0017714025014
+  unii:
+    H0G9379FGK

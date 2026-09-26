@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  Medzah Ditek Alcohol Prep Pads Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient (s) Isopropyl Alcohol 70% V/V
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For preparation of skin prior to injection.
+warnings:
+  Warnings For external use only . Flammable, Keep away from fire or flame . Do not use with a electrocautery procedures in the eyes on mucous membranes on irritated skin. Stop use and ask a doctor if - irritation or redness develops. Keep out of reach of children . if swallowed, get medical help or contact a Poison Control center right away.
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions Wipe injection site vigorously and discard.
+spl_unclassified_section:
+  Other information Store at room temperature 15-30°C (59-86°F)
+inactive_ingredient:
+  Inactive Ingredients Purified Water
+package_label_principal_display_panel:
+  Product label image description image description image description image description image description image description
+set_id:
+  4e6e5b6b-147c-4e7c-9b8c-6a3116c4bdac
+id:
+  2b5b0aca-dfd2-ffcc-e063-6394a90aa5bc
+effective_time:
+  20250110
+version:
+  5
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Medzah Ditek Alcohol Prep Pads
+  generic_name:
+    ISOPROPYL ALCOHOL
+  manufacturer_name:
+    Medzah Industries
+  product_ndc:
+    83600-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ISOPROPYL ALCOHOL
+  rxcui:
+    797544
+  spl_id:
+    2b5b0aca-dfd2-ffcc-e063-6394a90aa5bc
+  spl_set_id:
+    4e6e5b6b-147c-4e7c-9b8c-6a3116c4bdac
+  package_ndc:
+    83600-001-01
+    83600-001-02
+  is_original_packager:
+    True
+  unii:
+    ND2M416302

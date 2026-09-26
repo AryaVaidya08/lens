@@ -1,0 +1,35 @@
+effective_time:
+  20160414
+inactive_ingredient:
+  Inactive Ingredients Ethyl alcohol, fragrances, silica complex, water
+purpose:
+  Drug Facts Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. For Hospital and Professional Use Only.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact flush eyes with water.
+questions:
+  Questions? Telephone 732-903-4423 M-F 8:00am till 5:00pm
+spl_product_data_elements:
+  GermFree24 Health-care Personnel Handwash BENZALKONIUM CHLORIDE Health-care Personnel Handwash ALCOHOL WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Place a "palmful" (5 grams) of product in one hand. Spread on both hands and rub into skin until dry (approximately 1 to 2 minutes). Place a smaller amount (2.5 grams) into one hand, spread over both hands to wrist, and rub into the skin until dry (approximately 30 seconds).
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop.
+do_not_use:
+  Do not use in the eyes.
+package_label_principal_display_panel:
+  Image of Zoono GermFree24 Professional
+indications_and_usage:
+  Uses Handwash to help reduce bacteria that potentially can cause disease before contact with a person under medical care or treatment. Recommended for repeated use.
+set_id:
+  6d1ec1fb-5b66-4588-8642-81b40ca79eb3
+id:
+  30767ea9-638a-6bec-e054-00144ff88e88
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride, 0.13%

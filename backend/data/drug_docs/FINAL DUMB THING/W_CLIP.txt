@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  W/CLIP PDQ HAND SANITIZER Ethyl Alcohol HAND SANITIZER CLASSIC Ethyl Alcohol ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER HAND SANITIZER ALOE VERA Ethyl Alcohol ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER HAND SANITIZER LAVENDER Ethyl Alcohol ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER HAND SANITIZER CITRUS ZEST Ethyl Alcohol ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER
+spl_unclassified_section:
+  Drug Facts
+  INSTANT HAND SANITIZER with Vitamin E & Other Moisturizers CLASSIC ALOE VERA LAVENDER CITRUS ZEST KILLS GERMS WITHOUT WATER Made in China Distributed by: Universal Distribution Center 96 Distribution Boulevard Edison, NJ 08817
+active_ingredient:
+  Active ingredient Ethyl Alcohol 62% V/V
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame. When using this product avoid contact with face, eyes, and broken skin. In case of eye contact, flush with plenty of water and seek medical advice. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center
+dosage_and_administration:
+  Directions • wet hands thoroughly with product and rub into skin until dry. • Children under 6 years of age should be supervised by an adult when using.
+inactive_ingredient:
+  Inactive ingredients aloe barbadensis (aloe vera) leaf juice, carbomer, fragrance, glycerin, propylene glycol, tocopheryl acetate (vitamin E), triethanolamine, water (aqua).
+package_label_principal_display_panel:
+  Packaging HSGel1 HSGel2
+set_id:
+  f6557b92-85d3-4f75-a325-fac0b532f6a9
+id:
+  d2fa64ab-dbbe-4004-9bd9-8115c78f5af5
+effective_time:
+  20211203
+version:
+  2
+openfda:

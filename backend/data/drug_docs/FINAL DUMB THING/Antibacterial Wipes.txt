@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Antibacterial Wipes BENZALKONIUM wipes BENZALKONIUM CHLORIDE BENZALKONIUM WATER GREEN TEA LEAF PHENOXYETHANOL CITRIC ACID MONOHYDRATE
+active_ingredient:
+  Active Ingredient BENZALKONIUM CHLORIDE .......... 0.13% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE decrease bacteria on hands
+warnings:
+  Warning For external use only. When using this product , avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor, if irritaion or redness develops and persists. ●If swallowed, get medical help or contact a Poison Contrl Center right away.
+keep_out_of_reach_of_children:
+  ●If swallowed, get medical help or contact a Poison Contrl Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughluy with produt and allow to dry.
+inactive_ingredient:
+  Inactive ingredients water (aqua), aloe barbadensis leaf extract, green tea exract, phenoxyethanol, citric acid.
+package_label_principal_display_panel:
+  label image
+set_id:
+  e5e81346-7749-49e7-9f83-4f361928e03d
+id:
+  e43822f9-e26d-47d6-9ae9-178bff84c3f1
+effective_time:
+  20210107
+version:
+  1
+openfda:

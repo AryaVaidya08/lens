@@ -1,0 +1,29 @@
+effective_time:
+  20200807
+inactive_ingredient:
+  Inactive Ingredients
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children
+purpose:
+  Purpose
+warnings:
+  Warning
+spl_product_data_elements:
+  CSI 1 Gallon Hand Sanitizer Gel CSI 1 Gallon Hand Sanitizer Gel GLYCERIN ALCOHOL ALCOHOL WATER CARBOMER 940 AMINOMETHYLPROPANOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Dose/Administration
+stop_use:
+  Stop Use
+package_label_principal_display_panel:
+  PDP
+indications_and_usage:
+  Indications usage
+set_id:
+  ac4e8bf2-b39c-1e7f-e053-2a95a90ade33
+id:
+  ac4e8bf2-b39d-1e7f-e053-2a95a90ade33
+active_ingredient:
+  Active Ingredient

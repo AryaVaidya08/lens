@@ -1,0 +1,31 @@
+effective_time:
+  20201201
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Active Ingredients: Gluten-free, non-GMO, organic beet-derived sucrose (lactose-free) pellets.
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with colds and infections. Begin at the onset of symptoms.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION WARNINGS: Keep out of reach of children. Do not use if tamper-evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding , ask a doctor before use.
+questions:
+  QUESTIONS SECTION newtonlabs.net – Questions? 800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013
+spl_product_data_elements:
+  Sick Stopper Echinacea, Aconitum napellus, Agaricus muscarius, Aralia quinquefolia, Baptisia tinctoria, Bryonia, Chelidonium majus, Eupatorium perfoliatum, Hepar sulphuris calcareum, Lachesis mutus, Lycopodium clavatum, Rhus toxicodendron, Sanguinaria canadensis, Sulphur, Thuja occidentalis, Bufo rana, Nux vomica, Anthracinum, Influenzinum, Pyrogenium ECHINACEA, UNSPECIFIED ECHINACEA, UNSPECIFIED SUCROSE AMERICAN GINSENG AMERICAN GINSENG BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT BRYONIA ALBA ROOT BRYONIA ALBA ROOT CHELIDONIUM MAJUS CHELIDONIUM MAJUS EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP CALCIUM SULFIDE CALCIUM SULFIDE LACHESIS MUTA VENOM LACHESIS MUTA VENOM LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT SULFUR SULFUR THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG BUFO BUFO CUTANEOUS GLAND BUFO BUFO CUTANEOUS GLAND STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED BACILLUS ANTHRACIS IMMUNOSERUM RABBIT BACILLUS ANTHRACIS IMMUNOSERUM RABBIT INFLUENZA A VIRUS INFLUENZA A VIRUS INFLUENZA B VIRUS INFLUENZA B VIRUS RANCID BEEF RANCID BEEF ACONITUM NAPELLUS ACONITUM NAPELLUS AMANITA MUSCARIA FRUITING BODY AMANITA MUSCARIA FRUITING BODY
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 pellets by mouth (ages 0 to 11, give 3 pellets) as need or as directed by a health professional. Under age 2, crush/dissolve pellets in purified water. Sensitive person begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding , ask a doctor before use.
+package_label_principal_display_panel:
+  PACKAGE LABEL package label
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Formulated for symptoms associated with colds and infections. Begin at the onset of symptoms.
+set_id:
+  9cc2c9d2-9c8f-338e-e053-2a95a90a2362
+id:
+  b56be0cc-103a-421d-e053-2995a90ac91e
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Equal parts of Echinacea 6x, Aconitum napellus 10x, Agaricus muscarius 10x, Aralia quinquefolia 10x, Baptisia tinctoria 10x, Bryonia 10x, Chelidonium majus 10x, Eupatorium perfoliatum 10x, Hepar sulphuris calcareum 10x, Lachesis mutus 10x, Lycopodium clavatum 10x, Rhus toxicodendron 10x, Sanguinaria canadensis 10x, Sulphur 10x, Thuja occidentalis 10x, Bufo rana 15x, Nux vomica 15x, Anthracinum 30x, Influenzinum 30x, Pyrogenium 30x.

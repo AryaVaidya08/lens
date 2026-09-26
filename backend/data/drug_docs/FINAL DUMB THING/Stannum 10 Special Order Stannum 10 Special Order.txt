@@ -1,0 +1,29 @@
+effective_time:
+  20210628
+inactive_ingredient:
+  Inactive Ingredient: Distilled water
+purpose:
+  Use: Temporary relief of headache.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use. Do not use if safety seal is broken or missing. REFRIGERATE AFTER OPENING. BEST WHEN USED WITHIN 90 DAYS OF OPENING.
+questions:
+  Questions? Call 866.642.2858 Made with care by Uriel, East Troy, WI 53120 www.urielpharmacy.com
+spl_product_data_elements:
+  Stannum 10 Special Order Stannum 10 Special Order TIN TIN WATER
+openfda:
+version:
+  3
+dosage_and_administration:
+  Take 3-4 times daily. Ages 12 and older: 10 drops. Ages 2-11: 5 drops. Under age 2: Consult a doctor.
+package_label_principal_display_panel:
+  Stannum10SOLiquid
+indications_and_usage:
+  Directions: FOR ORAL USE ONLY.
+set_id:
+  55659433-c79f-4b36-833d-c655be529775
+id:
+  c5d69a59-381c-b2df-e053-2995a90a8e85
+active_ingredient:
+  Active Ingredient: Stannum metallicum 10X

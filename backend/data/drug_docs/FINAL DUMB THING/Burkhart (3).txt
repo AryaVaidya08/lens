@@ -1,0 +1,52 @@
+spl_product_data_elements:
+  Burkhart Stannous Fluoride GLYCERIN METHYLPARABEN PROPYLPARABEN SACCHARIN SODIUM STANNOUS FLUORIDE FLUORIDE ION heavy liquid
+spl_unclassified_section:
+  Active Ingredient: Stannous Fluoride 0.63% Concentrate (0.12% w/v fluoride ion).
+  Purpose: Anticavity, antigingivitis, antihypersensitivity mouthrinse
+indications_and_usage:
+  Indications and Usage: Aids in the prevention of dental decay. Helps prevent gingivitis. Helps control plaque bacteria. Increases protection against painful tooth sensitivity. This product mist be used under the supervision of a dentist.
+warnings:
+  Warnings: Keep out of reach of children. Do not swallow. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away. Do not use until diluted. This product may produce surface staining of the teeth. Adequate tooth-brushing may prevent these stains which are not harmful or permanent and may be removed by your dentist.
+instructions_for_use:
+  Directions: Adults and children 6 years of age and older: Do not use before mixing with water. Use immediately after preparing the rinse. Remove cap and replace with pump. Rotate spout container clockwise to extend. Depress pump until rinse comes to the tip of the pump. Depress pump twice into cup provided (1/8oz). Add water to line (1oz) on cup. Mix well. Vigorously swish rinse between your teeth for 1 minute and then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in the use of this product (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Consult a dentist or doctor.
+inactive_ingredient:
+  Inactive Ingredients: Flavor, Glycerin, Methyl paraben, Propyl paraben and Sodium Saccharin.
+storage_and_handling:
+  Other Information: Store at controlled room temperature 59° - 86°F (15°-30°C). Protect from freezing.
+package_label_principal_display_panel:
+  LB.Burkhart .63 Stann Fl Rinse_rasp.jpg BX.Burkhart .63 Stann Fl Rinse.jpg
+set_id:
+  47142a7d-3095-4ea6-b977-80e9f2cc8958
+id:
+  d70dc1ee-062b-64d4-e053-2995a90a7559
+effective_time:
+  20220202
+version:
+  3
+openfda:
+  brand_name:
+    Burkhart
+  generic_name:
+    STANNOUS FLUORIDE
+  manufacturer_name:
+    Burkhart Dental Supply Inc
+  product_ndc:
+    43498-201
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    DENTAL
+  substance_name:
+    STANNOUS FLUORIDE
+  rxcui:
+    583459
+  spl_id:
+    d70dc1ee-062b-64d4-e053-2995a90a7559
+  spl_set_id:
+    47142a7d-3095-4ea6-b977-80e9f2cc8958
+  package_ndc:
+    43498-201-10
+  is_original_packager:
+    True
+  unii:
+    3FTR44B32Q

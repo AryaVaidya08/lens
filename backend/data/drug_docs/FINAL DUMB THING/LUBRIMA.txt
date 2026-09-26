@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  LUBRIMA ALCOHOL WET WIPES Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  %80 ALCOHOL FORMULATION SAFE FOR HANDS ALCOHOL CONTENT %80 WARNING After use please close the seal to prevent water evaporation. Discontinue use if there is any wound, redness, swelling or other discomfort. Wet wipes do not dissolve in water. PRODUCT FEATURES Super thick soft cotton touch for increased comfort. Reverse osmosis purified water removes impurities. Consignor: A-K Health LLC 520 Robinson LN Unit 4, Wilmington 19805 DE (Delaware) +1 857 272 4139 EIN: 35-2643785 ISO GMP PRODUCT INFORMATION Name of Commodity: Hand wipes Product Specification: 140mm x 200mm / 80 Pcs. / Net Weight: 425g / Gross Weight: 450g. Name of Commodity: Hand wipes Manufacturer: AGRO GRUP TEKNOLOJI LTD. STI. Selimpasa Mah. 6093. sk. No: 86/1 Silivri / Istanbul - Türkiye UBB Record Number: 0080856431 Man. Licence No: 27527096
+active_ingredient:
+  Active ingredient Ethyl Alcohol (80%)
+purpose:
+  Purpose Hand Sanitizing
+indications_and_usage:
+  Uses Do not use on eyes and mouth area, temporarily relieves these symptoms due to hay fever or other upper respiratory allergies:
+warnings:
+  Warnings Ask a doctor before use if you have • glaucoma • a breathing problem such as emphysema or chronic bronchitis Do NOT dispose in toilet to avoid clogging. Keep in cool place indoors avoid high temperature and direct sunlight. Do NOT throw on fire. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of unexpected symptoms, get medical help or contact a poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of unexpected symptoms, get medical help or contact a poison Control Center right away.
+dosage_and_administration:
+  Directions Open the cover of the wet wipes or seal the sticker. After use please close the wet wipes cover or seal the sticker to keep the wet wipes moist. adults and children 12 years and over Use as directed children 6 years to under 12 years Use as directed children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table width="50%"><tbody><tr><td styleCode="Lrule Rrule Toprule Botrule"> adults and children 12 years and over</td><td styleCode="Lrule Rrule Toprule Botrule"> Use as directed</td></tr><tr><td styleCode="Lrule Rrule Toprule Botrule"> children 6 years to under 12 years</td><td styleCode="Lrule Rrule Toprule Botrule"> Use as directed</td></tr><tr><td styleCode="Lrule Rrule Toprule Botrule"> children under 6 years</td><td styleCode="Lrule Rrule Toprule Botrule"> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information • store at 20-25° C (68-77° F) • protect from excessive moisture
+inactive_ingredient:
+  Inactive ingredients Aqua, Glycerine
+package_label_principal_display_panel:
+  Packaging IMAGE IMAGE
+set_id:
+  e40c6fe0-ec91-4856-b375-c0ffed4be83b
+id:
+  315da0cb-a763-4be6-a874-d4dc14cc4fa0
+effective_time:
+  20200904
+version:
+  1
+openfda:

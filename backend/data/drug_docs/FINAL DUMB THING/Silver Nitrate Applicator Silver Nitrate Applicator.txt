@@ -1,0 +1,23 @@
+effective_time:
+  20171211
+contraindications:
+  Contraindications & Antidotes Caustic applicators must not be used for genital warts. Continued application to mucous membranes and open wounds leads to argyria, a bluish-black discoloration of the skin due to depositions of granules of silver compounds in the connective tissues. This condition persists indefinitely or disappears very slowly. Poisoning by oral ingestion is unlikely with the quantities involved, but treatment for poisoning is the immediate ingestion of large amounts of salt water followed by an emetic. Then administer a dose of Epsom Salts followed with milk. Immediately call a physician.
+spl_product_data_elements:
+  Silver Nitrate Applicator Silver Nitrate Applicator POTASSIUM NITRATE SILVER NITRATE SILVER CATION
+warnings_and_cautions:
+  Caution KEEP OUT OF REACH OF CHILDREN. DO NOT USE ON OR NEAR EYES.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Dosage & Administration Prior to use, the applicator stick may be bent or shaped to allow easier access to the target area. The medicated end of the applicator should be moistened in clean water and applied to the affected tissue. One applicator is normally sufficient for each application. The strength of the action is controlled by the amount of water used to moisten the tip. The applicator action can be stopped by washing the area with a saline solution (0.9% sodium chloride).
+storage_and_handling:
+  Storage Store at room temperature in the closed package, in a dry place protected from light. Exposure to light will cause the silver nitrate tip to turn black, but will not affect the product's potency.
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Uses Caustic applicators are useful for cauterization of skin or mucous membrane and for the removal of granulation tissue, warts and verrucae.
+set_id:
+  2333b0e6-ff04-4e95-b10c-b086032821b0
+id:
+  9aa1cf22-408f-46ed-a5bc-ed6826946dc8

@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  Nitrogen Nitrogen NITROGEN NITROGEN
+package_label_principal_display_panel:
+  ROBERTS OXYGEN ROCKVILLE, MARYLAND 20866 TEL: (301) 948-8100 CERTIFICATE OF ANALYSIS NITROGEN REFRIGERATED LIQUID, NF* PRODUCED BY AIR-LIQUEFACTION PROCESS TRAILER#: ______________ DATE: _________________ LOT#: _________________ *NF applies only when used in a medical application or by medical customers properly registered with the FDA. Component Test Method Limit Result NITROGEN DIFF > 99.999% _______ OXYGEN ________ <3.0 PPM _______ Odor ORGANOLEPTIC N/D ______ ________ _________ _________ _________ Product is identified as NITROGEN, NF through process validations, dedicated piping, and product specific connections. Notes: _____________________________________ RELEASED BY: ____________________________ SIGNATURE RELEASED BY: ____________________________ PRINTED NAME Printed & Published by J.J. KELLER & ASSPCIATES, INC., Neenah, WI * USP (800) 327-6868 *jjkeller.com * Printer in the Unitied States image description
+set_id:
+  10211ad0-4cbd-417f-aae7-e16e4616576b
+id:
+  2becea0d-7cc0-6b23-e063-6294a90a5a67
+effective_time:
+  20250117
+version:
+  4
+openfda:

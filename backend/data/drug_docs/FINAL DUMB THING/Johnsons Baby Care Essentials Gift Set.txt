@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Johnsons Baby Care Essentials Gift Set Zinc Oxide Desitin Maximum Strength Diaper Rash Zinc Oxide PETROLATUM COD LIVER OIL LANOLIN TALC GLYCERIN SORBITAN SESQUIOLEATE YELLOW WAX .ALPHA.-TOCOPHEROL ACETATE ZINC OXIDE ZINC OXIDE Johnsons Head To Toe Wash WATER COCAMIDOPROPYL BETAINE PEG-80 SORBITAN LAURATE GLYCERIN PEG-150 PENTAERYTHRITYL TETRASTEARATE PPG-2 HYDROXYETHYL COCAMIDE PHENOXYETHANOL SODIUM METHYL COCOYL TAURATE SODIUM BENZOATE DECYL GLUCOSIDE CITRIC ACID MONOHYDRATE ETHYLHEXYLGLYCERIN Johnsons Baby PHENOXYETHANOL POLYSORBATE 20 MAGNESIUM ALUMINUM SILICATE CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) P-ANISIC ACID SODIUM HYDROXIDE XANTHAN GUM ETHYLHEXYLGLYCERIN TITANIUM DIOXIDE WATER GLYCERIN ISOPROPYL PALMITATE STEARIC ACID GLYCERYL MONOSTEARATE CETYL ALCOHOL COCONUT OIL DIMETHICONE CETOSTEARYL ALCOHOL
+spl_unclassified_section:
+  DESITIN ® Maximum Strength Zinc Oxide Diaper Rash Paste Drug Facts
+  Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558
+active_ingredient:
+  Active ingredient Zinc Oxide 40%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses helps treat and prevent diaper rash protects chafed skin due to diaper rash and helps seal out wetness
+warnings:
+  Warnings For external use only When using this product do not get into eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions change wet and soiled diapers promptly cleanse the diaper area allow to dry apply paste liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged
+storage_and_handling:
+  Other information store at 20°C to 25°C (68°F to 77°F) may stain clothing
+inactive_ingredient:
+  Inactive ingredients Petrolatum, Cod Liver Oil, Lanolin, Talc, Glycerin, Sorbitan Sesquioleate, Beeswax, Tocopheryl Acetate, Fragrance
+questions:
+  Questions? Call toll-free 800-720-3843 or 215-273-8755 (collect) For more information on preventing and treating diaper rash, visit www.desitin.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Kit Package JOHNSON'S ® baby care essentials productos esenciales para el cuidado del bebé value pack all products are TSA compliant! Includes JOHNSON'S ® HEAD-TO TOE ® wash and shampoo 3.4 FL OZ (100 mL) ● JOHNSON'S ® baby lotion 3.4 FL OZ (100 mL) DESITIN ® Maximum Strength Zinc Oxide Diaper Rash Paste 1 OZ (28 g) PRINCIPAL DISPLAY PANEL - Kit Package
+set_id:
+  afa1ba48-b504-4af0-a9c7-cd2c9a2e6e59
+id:
+  26169a4f-6b8f-2d6d-e063-6294a90a442e
+effective_time:
+  20241113
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Johnsons Baby Care Essentials Gift Set
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0713
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1094560
+    1797059
+  spl_id:
+    26169a4f-6b8f-2d6d-e063-6294a90a442e
+  spl_set_id:
+    afa1ba48-b504-4af0-a9c7-cd2c9a2e6e59
+  package_ndc:
+    69968-0713-9
+    69968-0061-1
+  is_original_packager:
+    True

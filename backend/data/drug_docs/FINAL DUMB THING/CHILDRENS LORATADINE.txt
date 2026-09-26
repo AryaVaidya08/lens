@@ -1,0 +1,76 @@
+spl_product_data_elements:
+  CHILDRENS LORATADINE LORATADINE LORATADINE LORATADINE aspartame ANHYDROUS CITRIC ACID SILICON DIOXIDE D&C RED NO. 27 FD&C BLUE NO. 2 magnesium stearate mannitol microcrystalline cellulose SODIUM STARCH GLYCOLATE TYPE A POTATO stearic acid light purple to dark purple 753
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895
+active_ingredient:
+  Active ingredient (in each tablet) Loratadine USP, 5 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions adults and children 6 years and over chew 2 tablets daily; not more than 2 tablets in 24 hours children 2 to under 6 years of age chew 1 tablet daily; not more than 1 tablet in 24 hours children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="55%" styleCode="Noautorules"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults and children 6 years and over</td> <td>chew 2 tablets daily; not more than 2 tablets in 24 hours</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children 2 to under 6 years of age</td> <td>chew 1 tablet daily; not more than 1 tablet in 24 hours</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children under 2 years of age</td> <td>ask a doctor</td> </tr> <tr> <td styleCode="Rrule">consumers with liver or kidney disease</td> <td>ask a doctor</td> </tr> </tbody> </table>
+storage_and_handling:
+  Other information phenylketonurics: contains phenylalanine 1.25 mg per tablet. TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. store between 20° to 25°C (68° to 77°F).
+inactive_ingredient:
+  Inactive ingredients aspartame, citric acid anhydrous, colloidal silicon dioxide, D&C red No. 27 aluminum lake, FD&C blue No. 2 aluminum lake, flavor, magnesium stearate, mannitol, microcrystalline cellulose, sodium starch glycolate, stearic acid
+questions:
+  Questions? call 1-800-406-7984
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Pack Carton CVS Health ™ Compare to the active ingredient in Children's Claritin ® Chewables † Indoor & Outdoor Allergies NDC 69842-953-20 Children's Allergy Relief LORATADINE CHEWABLE TABLETS USP, 5 mg Antihistamine 24 HOUR Non-Drowsy* 24 hour relief of: Sneezing; Runny nose; Itchy, watery eyes; Itchy throat or nose Ages 2 yrs & older *When taken as directed. See Drug Facts Panel. Actual Size Grape Flavor 20 CHEWABLE TABLETS The chewable tablets are to be chewed before swallowing. Principal Display Panel - 5 mg Tablet Blister Pack Carton
+set_id:
+  eca96e9e-7e8f-4e8e-8ec6-43c9fee1096c
+id:
+  c1f71960-9126-4c9d-a1d5-89348c888233
+effective_time:
+  20190226
+version:
+  3
+openfda:
+  application_number:
+    ANDA210088
+  brand_name:
+    CHILDRENS LORATADINE
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    CVS PHARMACY, INC
+  product_ndc:
+    69842-953
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    665078
+  spl_id:
+    c1f71960-9126-4c9d-a1d5-89348c888233
+  spl_set_id:
+    eca96e9e-7e8f-4e8e-8ec6-43c9fee1096c
+  package_ndc:
+    69842-953-20
+  is_original_packager:
+    True
+  upc:
+    0050428601044
+  unii:
+    7AJO3BO7QN

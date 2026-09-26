@@ -1,0 +1,27 @@
+effective_time:
+  20190220
+inactive_ingredient:
+  INACTIVE INGREDIENT Aqua, Glycerin, Phenoxyethanol, Benzoic Acid, Polysorbate 20, Aloe Barbadensis Leaf Juice, Sodium Citrate
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach from children except under adult supervision. If swallowed, get medical help or contact a Poison Control Center
+warnings:
+  Warning Flammable. Keep away from heat and flame. For External use only. Do not use in eyes. In case of contact, rinse thoroughly with water. Stop use & ask doctor if rash/redness or irritation appears/develops and persist for more than 72 hours. Keep out of reach from children except under adult supervision. If swallowed, get medical help or contact a Poison Control Center
+spl_product_data_elements:
+  HAND SANITIZER WIPES BENZALKONIUM CHLORIDE SODIUM CITRATE WATER ALOE VERA LEAF GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM PHENOXYETHANOL BENZOIC ACID POLYSORBATE 20
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Slowly peel back label and use one wipe. Reseal, keep closed to prevent evaporation. Thoroughly wipe hands, allow to dry out rinsing. Discard after single use Other information Do not flush down toilet. Keep away from sunlight. Store at room temperature 20°-25°Celsius (68°-77° Fahrenheit) May discolor certain fabrics
+package_label_principal_display_panel:
+  30
+indications_and_usage:
+  Use for hand sanitizing to decrease bacteria on the skin.
+set_id:
+  824df3a3-5d10-a4f7-e053-2991aa0a4399
+id:
+  824df3a3-5d11-a4f7-e053-2991aa0a4399
+active_ingredient:
+  Active Ingredient benzalkonium chloride 0.13%

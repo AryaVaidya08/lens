@@ -1,0 +1,29 @@
+effective_time:
+  20171012
+inactive_ingredient:
+  Inactive ingredients Water, n-Propanol, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, PEG-200 Hydrogenated Glyceryl Palmate, Dihydroxypropyl PEG-5 Linoleammonium Chloride, Behentrimonium Chloride, Bix-PEG-12 Dimethicone
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Flammable: Keep away from fire or flame. When using this product avoid contact with eyes. In case of eye contact, flush with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+spl_product_data_elements:
+  Deb InstantFOAM Alcohol Hand Sanitizer Ethyl Alcohol ALCOHOL ALCOHOL WATER DIHYDROXYPROPYL PEG-5 LINOLEAMMONIUM CHLORIDE PROPYL ALCOHOL BEHENTRIMONIUM CHLORIDE
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Apply one shot of foaming sanitizer to dry hands Rub into skin No rinsing required
+package_label_principal_display_panel:
+  deb InstantFOAM alcohol hand sanitizer Certified EcoLogo IFS1L 1 Liter 33.8 fl. oz. Rev. 12-10 Made in Canada NSF www.debgroup.com container label
+indications_and_usage:
+  Uses For hand sanitizing to reduce bacteria on skin
+set_id:
+  b4dee902-bb7f-47db-b8a1-6f07465854fb
+id:
+  ea388f4d-4b19-4cbf-92aa-46972e512c1f
+active_ingredient:
+  Active ingredient Ethyl alcohol 72%

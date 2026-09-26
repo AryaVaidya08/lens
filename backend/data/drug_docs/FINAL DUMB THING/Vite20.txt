@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Vite20 MICONAZOLE NITRATE MICONAZOLE NITRATE MICONAZOLE ISOPROPYL ALCOHOL WATER TROLAMINE GLYCERIN HYDROXYPROPYL CELLULOSE, UNSPECIFIED .ALPHA.-TOCOPHEROL ACETATE METHYLPARABEN ETHYLPARABEN PROPYLPARABEN BUTYLPARABEN ISOBUTYLPARABEN PHENOXYETHANOL
+active_ingredient:
+  DRUG FACTS Active Ingredient Miconazole Nitrate 2%
+purpose:
+  Purpose Antifungal
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+indications_and_usage:
+  INDICATIONS Cures most Athlete's Foot (Tinea Pedis), Jock Itch (Tinea Cruris), and Ringworm (Tinea Corporis) Relieves Itching, cracking, burning and scaling. which accompany these conditions Prevents most Athlete's Foot with daily use
+warnings:
+  WARNINGS For external use only Do not use : On children under two (2) years of age unless directed by a physician In or near the mouth or the eyes For vaginal yeast infections
+when_using:
+  When using this product avoid contact with the eyes. If contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop use and consult a physician if irritation occurs or if there is no improvement within four (4) weeks (for Athlete's Foot or Ringworm) or within two (2) weeks (for Jock Itch)
+dosage_and_administration:
+  DIRECTIONS Was the affected area with soap and water, dry thorougly, then apply sparingly over the affected area. Use twice daily (morning and night) or as directed by a physician Supervise children in the use of this product For Athlete's Foot and Ringworm, use daily for four (4) weeks. For Jock Itch, use daily for two (2) weeks. If condition persists longer, consult a physician Wash hands after each use.
+other_safety_information:
+  Other Information Store at room temperature
+inactive_ingredient:
+  INACTIVE INGREDIENTS Isopropyl Alcohol, Deionized Water, Triethanokamine, Glycerin, Hydroxypropylcelluose, Tocopheryl Acetate, Methylparaben, Ethylparaben, Propylparaben, Butylparaben, Isobutylparaben, Phenoxyethanol
+package_label_principal_display_panel:
+  Vite20 product label VITÉ 20 BRUSH - ON NDC# 63347-810-01 Vité20® BRUSH-ON KILLS FUNGUS Maxium Strength Professional Formula 15 mL (0.5 FL OZ) SEE SIDE PANEL FOR MORE INFORMATION KILLS FUNGUS *Made in the U.S.A. Questions or Comments? Call 800-307-8818 M-F 7:00 am - 5:00 pm PST www.vite20.com Manufactured by: Blaine Labs, Inc. 11037 Lockport Place Santa Fe Springs, CA 90670 Please recycle! This package is made from recyclable materials 06100-p-bx01 res Vite20 - 810
+set_id:
+  28a8d0dd-aab9-44ff-bab6-7ec4b5036a71
+id:
+  27a77fc1-4426-4d60-822b-3d85a0560f13
+effective_time:
+  20241224
+version:
+  5
+openfda:
+  application_number:
+    M005
+  brand_name:
+    Vite20
+  generic_name:
+    MICONAZOLE NITRATE
+  manufacturer_name:
+    Blaine Labs Inc.
+  product_ndc:
+    63347-810
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MICONAZOLE NITRATE
+  rxcui:
+    998525
+  spl_id:
+    27a77fc1-4426-4d60-822b-3d85a0560f13
+  spl_set_id:
+    28a8d0dd-aab9-44ff-bab6-7ec4b5036a71
+  package_ndc:
+    63347-810-01
+  is_original_packager:
+    True
+  unii:
+    VW4H1CYW1K

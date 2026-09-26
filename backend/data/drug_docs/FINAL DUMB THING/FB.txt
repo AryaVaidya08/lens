@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  FB HYDRATING HAND SANITIZER FB HYDRATING HAND SANITIZER D&C RED NO. 33 FD&C RED NO. 40 WATER GLYCERIN DEHYDRATED ALCOHOL DEHYDRATED ALCOHOL
+active_ingredient:
+  Active Ingredient(s) ETHYL ALCOHOL：70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable: Keep away from fire or flame. For external use only.
+do_not_use:
+  Do not use Children under two years old, please do not use
+when_using:
+  When using this product keep out of eyes, ears and mouth. In case of contact, rinse eyes thoroughly with water. Avoid contact with broken skin.
+stop_use:
+  Stop use and see a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children: If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Spray enough sanitizer in your palm to cover both hands. Rub hands together briskly until dry. Children under six should be supervised.
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun. Store below 104 0F (40 0C). May discolor certain fabrics.
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Fragrance, Red 40 Lake (CI 16035), Red 33 (CI 17200)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel label
+set_id:
+  185374d5-8ddc-c8d3-e063-6294a90a8254
+id:
+  45a40570-29df-7eb0-e063-6294a90ac16c
+effective_time:
+  20251210
+version:
+  2
+openfda:

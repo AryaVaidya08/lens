@@ -1,0 +1,27 @@
+effective_time:
+  20121231
+inactive_ingredient:
+  Aqua (Water), Sodium Laureth Sulfate, Cocamide DEA, Sodium Lauroyl Sarcosinate, Cocamidopropyl Betain, Glycerin, Tetrasodium EDTA, Zinc Pyrithion, Sodium Chloride, Glyceryl Distearate, Menthol,Polyquarternium-10, Mentha Piperita (Peppermint) oil, Salicylic Acid,Cetyl Alcohol, Allantoin,Citric Acid,Zinc Sulfate,Disodium EDTA,Rosmarinus Officinalis (Rosemary) Leaf Oil, Pyridoxine HCl,Sophora Angustifolia Root Extract,Acorus Calamus Root Extract ,Polygonum Multiflorum Root Extract, Morus Alba Bark Extract, Glycyrrhiza Glabra (Licorice) Root Extract ,Ginkgo Biloba Leaf Extract, Urea,Niacinamide,Sodium Hydroxide,Copper Tripeptide-1,Methylchloroisothiazolinone, Methylisothiazolinone
+purpose:
+  hair care
+keep_out_of_reach_of_children:
+  keep out or reach of the children
+warnings:
+  stop use if irritation occurs
+spl_product_data_elements:
+  Roota Re F for men PANTHENOL PANTHENOL PANTHENOL WATER COCO DIETHANOLAMIDE SODIUM LAUROYL SARCOSINATE COCAMIDOPROPYL BETAINE GLYCERIN EDETATE SODIUM PYRITHIONE ZINC SODIUM CHLORIDE SODIUM LAURETH SULFATE GLYCERYL DISTEARATE MENTHOL PEPPERMINT SALICYLIC ACID CETYL ALCOHOL ALLANTOIN CITRIC ACID MONOHYDRATE ZINC SULFATE EDETATE DISODIUM ROSEMARY PYRIDOXINE HYDROCHLORIDE SOPHORA FLAVESCENS ROOT ACORUS CALAMUS ROOT FALLOPIA MULTIFLORA ROOT MORUS ALBA BARK GLYCYRRHIZA GLABRA GINKGO UREA NIACINAMIDE SODIUM HYDROXIDE PREZATIDE COPPER METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE
+openfda:
+version:
+  1
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  1. apply sufficient quantity to intended part 2. scrub softly as like doing massage
+set_id:
+  889fb3cb-5a68-483b-aae7-e6e3957821eb
+id:
+  e8fe11ac-688d-4443-bcfb-df8122a8d5f4
+active_ingredient:
+  panthenol

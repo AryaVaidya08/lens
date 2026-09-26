@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Orphenadrine Citrate Orphenadrine Citrate ORPHENADRINE CITRATE ORPHENADRINE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE LACTOSE MONOHYDRATE NL4
+description:
+  DESCRIPTION Orphenadrine citrate is the citrate salt of orphenadrine. It occurs as a white, crystalline powder having a bitter taste. It is practically odorless; sparingly soluble in water, slightly soluble in alcohol. The chemical name of orphenadrine citrate is (±)-N,N-Dimethyl-2-[(o-methyl-〈-phenylbenzyl)oxy]ethylamine citrate (1:1) having molecular formula C 18 H 23 NO•C 6 H 8 O 7 and molecular weight of 461.51. It has the following structural formula: Each tablet for oral administration contains 100 mg orphenadrine citrate. Each Orphenadrine citrate extended release tablet contains the following inactive ingredients: hydroxypropyl methylcellulose, lactose monohydrate and magnesium stearate. S:\RA\2011 ANDA\Orphenadrine Citrate ER Tablets\CBE - Labeling\Backup\062812\figure-01.jpg
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY The mode of therapeutic action has not been clearly identified, but may be related to its analgesic properties. Orphenadrine citrate does not directly relax tense muscles in man. Orphenadrine citrate also possesses anti-cholinergic actions.
+indications_and_usage:
+  INDICATIONS AND USAGE Orphenadrine citrate extended-release tablets are indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute painful musculoskeletal conditions.
+contraindications:
+  CONTRAINDICATIONS Orphenadrine citrate extended-release tablets are contraindicated in patients with glaucoma, pyloric or duodenal obstruction, stenosing peptic ulcers, prostatic hypertrophy or obstruction of the bladder neck, cardio-spasm (mega-esophagus) and myasthenia gravis. Orphenadrine citrate tablets are contraindicated in patients who have demonstrated a previous hypersensitivity to the drug.
+warnings:
+  WARNINGS Some patients may experience transient episodes of light-headedness, dizziness or syncope. Orphenadrine may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or driving a motor vehicle; ambulatory patients should therefore be cautioned accordingly.
+precautions:
+  PRECAUTIONS Confusion, anxiety and tremors have been reported in few patients receiving propoxyphene and orphenadrine concomitantly. As these symptoms may be simply due to an additive effect, reduction of dosage and/or discontinuation of one or both agents is recommended in such cases. Orphenadrine citrate should be used with caution in patients with tachycardia, cardiac decompensation, coronary insufficiency, cardiac arrhythmias. Safety of continuous long-term therapy with orphenadrine has not been established. Therefore, if orphenadrine is prescribed for prolonged use, periodic monitoring of blood, urine and liver function values is recommended. Pregnancy Pregnancy Category C Animal reproduction studies have not been conducted with orphenadrine. It is also not known whether orphenadrine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Orphenadrine should be given to a pregnant woman only if clearly needed. Pediatric Use Safety and effectiveness in pediatric patients have not been established.
+adverse_reactions:
+  ADVERSE REACTIONS Adverse reactions of orphenadrine are mainly due to the mild anticholinergic action of orphenadrine, and are usually associated with higher dosage. Dryness of the mouth is usually the first adverse effect to appear. When the daily dose is increased, possible adverse effects include: tachycardia, palpitation, urinary hesitancy or retention, blurred vision, dilatation of pupils, increased ocular tension, weakness, nausea, vomiting, headache, dizziness, constipation, drowsiness, hypersensitivity reactions, pruritus, hallucinations, agitation, tremor, gastric irritation, and rarely urticaria and other dermatoses. Infrequently, an elderly patient may experience some degree of mental confusion. These adverse reactions can usually be eliminated by reduction in dosage. Very rare cases of aplastic anemia associated with the use of orphenadrine tablets have been reported. No causal relationship has been established.
+drug_abuse_and_dependence:
+  DRUG ABUSE AND DEPENDENCE Orphenadrine has been chronically abused for its euphoric effects. The mood elevating effects may occur at therapeutic doses of orphenadrine.
+overdosage:
+  OVERDOSAGE Orphenadrine is toxic when overdosed and typically induces anticholinergic effects. In a review of orphenadrine toxicity, the minimum lethal dose was found to be 2 to 3 grams for adults; however, the range of toxicity is variable and unpredictable. Treatment for orphenadrine overdose is evacuation of stomach contents (when necessary), charcoal at repeated doses, intensive monitoring, and appropriate supportive treatment of any emergent anticholinergic effects.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Adults Two tablets per day; one in the morning and one in the evening.
+how_supplied:
+  HOW SUPPLIED Orphenadrine citrate extended-release tablets 100 mg are round, white to off-white tablets, debossed NL4 on one side and plain on the other side and are supplied as: NDC 63187-122-20 in bottles of 20 tablets NDC 63187-122-30 in bottles of 30 tablets NDC 63187-122-60 in bottles of 60 tablets NDC 63187-122-90 in bottles of 90 tablets Storage and Handling Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature]. Dispense in a tight, light-resistant container. Manufactured by Novel Laboratories, Inc. Somerset, NJ 08873 for GAVIS Pharmaceuticals, LLC 400 Campus Drive Somerset, NJ 08873 GIN-480-01 Rev: 02/2011 Repackaged by: Proficient Rx LP Thousand Oaks, CA 91320
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 63187-122-30
+set_id:
+  cf620257-7497-44c1-9853-87f96d262fbd
+id:
+  6733ab80-4fe3-4bdb-8e81-3beb50b5db0c
+effective_time:
+  20231201
+version:
+  6
+openfda:
+  application_number:
+    ANDA040284
+  brand_name:
+    Orphenadrine Citrate
+  generic_name:
+    ORPHENADRINE CITRATE
+  manufacturer_name:
+    Proficient Rx LP
+  product_ndc:
+    63187-122
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    ORAL
+  substance_name:
+    ORPHENADRINE CITRATE
+  rxcui:
+    994521
+  spl_id:
+    6733ab80-4fe3-4bdb-8e81-3beb50b5db0c
+  spl_set_id:
+    cf620257-7497-44c1-9853-87f96d262fbd
+  package_ndc:
+    63187-122-20
+    63187-122-30
+    63187-122-60
+    63187-122-90
+  original_packager_product_ndc:
+    43386-480
+  upc:
+    0363187122300
+  unii:
+    X0A40N8I4S

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  HAND SANITIZER ALCOHOL ALCOHOL ALCOHOL WATER GLYCERIN DENATONIUM BENZOATE
+active_ingredient:
+  ACTIVE INGREDIENT ALCOHOL (80% v/v)
+purpose:
+  PURPOSE ANTISEPTIC
+indications_and_usage:
+  USES HAND SANITIZER TO HELP REDUCE BACTERIA ON THE SKIN.
+warnings:
+  WARNINGS FOR EXTERNAL USE ONLY. FLAMMABLE. KEEP AWAY FROM FIRE OR FLAME. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develop
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY.
+dosage_and_administration:
+  DIRECTIONS Wet hands thoroughly with product and rub lightly until dry. Do not wipe off or rinse.
+other_safety_information:
+  OTHER INFORMATION • May discolor fabrics or surfaces. • Store below 105'F (40'C)
+inactive_ingredient:
+  INACTIVE INGREDIENTS Denatonium Benzoate, Glycerin, Purified Water USP
+package_label_principal_display_panel:
+  01b LBL_Sinno LBY Sanitizer Spray 500ml Pump Label
+set_id:
+  e30dd4f4-a993-4561-b0e0-273ed2916640
+id:
+  2ee9fa7a-19be-1bde-e063-6294a90a4436
+effective_time:
+  20250224
+version:
+  9
+openfda:

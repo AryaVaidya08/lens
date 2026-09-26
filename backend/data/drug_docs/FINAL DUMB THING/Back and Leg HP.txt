@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Back and Leg HP Aconitum Napellus, Aesculus Hippocastanum, Colocynthis, Gnaphalium Polycephalum, Hypericum Perforatum, Magnesia Phosphorica, Plumbum Metallicum, Rhus Tox, Arnica Montana ACONITUM NAPELLUS WHOLE ACONITUM NAPELLUS WHOLE HORSE CHESTNUT HORSE CHESTNUT CITRULLUS COLOCYNTHIS FRUIT PULP CITRULLUS COLOCYNTHIS FRUIT PULP PSEUDOGNAPHALIUM OBTUSIFOLIUM WHOLE PSEUDOGNAPHALIUM OBTUSIFOLIUM WHOLE HYPERICUM PERFORATUM WHOLE HYPERICUM PERFORATUM WHOLE MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE MAGNESIUM CATION LEAD LEAD TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF ARNICA MONTANA WHOLE ARNICA MONTANA WHOLE WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: (in each drop): 11.11% of Aconitum Napellus 30X, Aesculus Hippocastanum 30X, Arnica Montana 30C Colocynthis 30X, Gnaphalium Polycephalum 30X, Hypericum Perforatum 30X, Magnesia Phosphorica 30X, Plumbum Metallicum 30X, Rhus Tox 30X.
+purpose:
+  INDICATIONS: May temporarily relieve symptoms of sharp pain in lower back and down the back of the legs and bursitis.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: May temporarily relieve symptoms of sharp pain in lower back and down the back of the legs and bursitis.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol.
+questions:
+  QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800.869.8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY BACK AND LEG HP 1 fl. oz. (30 ml) BACK AND LEG HP
+set_id:
+  45f8cdd2-d518-453a-8aa4-a0cb6b4e6eb0
+id:
+  7561e824-ceb3-4d2c-8090-748a858daf10
+effective_time:
+  20231130
+version:
+  2
+openfda:
+  brand_name:
+    Back and Leg HP
+  generic_name:
+    ACONITUM NAPELLUS, AESCULUS HIPPOCASTANUM, COLOCYNTHIS, GNAPHALIUM POLYCEPHALUM, HYPERICUM PERFORATUM, MAGNESIA PHOSPHORICA, PLUMBUM METALLICUM, RHUS TOX, ARNICA MONTANA
+  manufacturer_name:
+    Energique, Inc.
+  product_ndc:
+    44911-0624
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    ORAL
+  substance_name:
+    ACONITUM NAPELLUS WHOLE
+    HORSE CHESTNUT
+    CITRULLUS COLOCYNTHIS FRUIT PULP
+    PSEUDOGNAPHALIUM OBTUSIFOLIUM WHOLE
+    HYPERICUM PERFORATUM WHOLE
+    MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE
+    LEAD
+    TOXICODENDRON PUBESCENS LEAF
+    ARNICA MONTANA WHOLE
+  spl_id:
+    7561e824-ceb3-4d2c-8090-748a858daf10
+  spl_set_id:
+    45f8cdd2-d518-453a-8aa4-a0cb6b4e6eb0
+  package_ndc:
+    44911-0624-1
+  is_original_packager:
+    True
+  upc:
+    0363113700510
+  unii:
+    U0NQ8555JD
+    3C18L6RJAZ
+    23H32AOH17
+    36XQ854NWW
+    XK4IUX8MNB
+    HF539G9L3Q
+    2P299V784P
+    6IO182RP7A
+    O80TY208ZW

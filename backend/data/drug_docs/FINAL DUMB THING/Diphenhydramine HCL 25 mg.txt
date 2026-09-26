@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Diphenhydramine HCL 25 mg Diphenhydramine HCL DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE CROSCARMELLOSE SODIUM D&C RED NO. 27 CELLULOSE, MICROCRYSTALLINE HYPROMELLOSES MAGNESIUM STEARATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE POLYETHYLENE GLYCOL 1000 TITANIUM DIOXIDE AP;135
+spl_unclassified_section:
+  Drug Facts
+  Other information each caplet contains: calcium 45 mg store at room temperature protect from moisture
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+  *Reliable 1 Laboratories LLC is not affiliated with the owner of the trademark BENADRYL® Distributed by: Reliable 1 Laboratories LLC Valley Stream, NY 11580 www.reliable1labs.com
+active_ingredient:
+  Active ingredient (in each caplet) Diphenhydramine HCL 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms of hay fever or other upper respiratory allergies: runny nose sneezing itchy nose or throat itchy, watery eyes
+warnings:
+  Warnings Do not use with any other product containing diphenhydramine, even one use on skin to make a child sleepy
+ask_doctor:
+  Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breating problem such as emphysema or chronic bronchitis
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers Drug Facts continued on back of label
+when_using:
+  When using this product you may get very drowsy avoid alcoholic drinks alcohol, sedatives, & tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breat-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical helo or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take every 4-6 hours do not take more than 6 doses in 24 hours adults and children 12 years and over 1 to 2 caplets children 6 to under 12 years 1 caplet children under 6 years do not use
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>adults and children 12 years and over</td><td>1 to 2 caplets</td></tr><tr><td>children 6 to under 12 years</td><td>1 caplet</td></tr><tr><td>children under 6 years</td><td><content styleCode="bold">do not use</content></td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, D&C red #27, dicalcium phosphate, HPMC, magnesium stearate, microcrystalline cellulose, PEG, titanium dioxide
+questions:
+  Questions or comments? call 516-341-0666, 8:30 am - 4:30 pmET, Monday - Friday
+package_label_principal_display_panel:
+  NDC 69618-025-01 Diphenhydramine HCL 25 mg ANTIHISTAMINE 100 CAPLETS *Compare to Active Ingredient in BENADRYL® ALLERGY Diphenhydramine 25 mg caplets
+set_id:
+  32f58cb3-941f-263b-e054-00144ff8d46c
+id:
+  2bc8473d-acff-da1d-e063-6394a90ae0d4
+effective_time:
+  20250115
+version:
+  7
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Diphenhydramine HCL 25 mg
+  generic_name:
+    DIPHENHYDRAMINE HCL
+  manufacturer_name:
+    Reliable 1 Laboratories LLC
+  product_ndc:
+    69618-025
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1049630
+  spl_id:
+    2bc8473d-acff-da1d-e063-6394a90ae0d4
+  spl_set_id:
+    32f58cb3-941f-263b-e054-00144ff8d46c
+  package_ndc:
+    69618-025-01
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40

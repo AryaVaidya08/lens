@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Hempvana Ultra Strength Pain Relief Gel Platinum - Arthritis Menthol 8% WATER ISOPROPYL MYRISTATE SODIUM HYDROXIDE SILICON DIOXIDE ALCOHOL SODIUM CHONDROITIN SULFATE (PORCINE; 5500 MW) ALOE VERA LEAF ARCTIUM LAPPA ROOT ARNICA MONTANA FLOWER MELISSA OFFICINALIS FLOWERING TOP PHENOXYETHANOL EDETATE DISODIUM ANHYDROUS GLYCERIN DIMETHYL SULFONE GLUCOSAMINE SULFATE CAMPHOR, (-)- CALENDULA OFFICINALIS FLOWER GREEN TEA LEAF TURMERIC ILEX PARAGUARIENSIS LEAF CANNABIS SATIVA SEED OIL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ETHYLHEXYLGLYCERIN FD&C YELLOW NO. 5 .ALPHA.-TOCOPHEROL ACETATE FD&C BLUE NO. 1 MENTHOL MENTHOL
+active_ingredient:
+  Active Ingredient Menthol 8%
+purpose:
+  Purpose Menthol 8%....................Topical Analgesic
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of muscles and joints
+warnings:
+  Warnings For external use only Allergy alert: If prone to allergic reaction from aspirin or salicylates, consult a doctor before use. When using this product Use only as directed. Read and follow all directions and warnings on this label. Do not bandage tightly or apply local heat (such as heating pads) to the area of use. Avoid contact with eyes or mucous membranes. Do not apply to wounds or damaged, broken or irritated skin. Do not use at the same time as other topical analgesics. Stop use and ask a doctor if Condition worsens Symptoms persist for more than 7 days or clear up and occur again within a few days Redness is present or irritation develops If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+other_safety_information:
+  Allergy alert: If prone to allergic reaction from aspirin or salicylates, consult a doctor before use.
+when_using:
+  When using this product Use only as directed. Read and follow all directions and warnings on this label. Do not bandage tightly or apply local heat (such as heating pads) to the area of use. Avoid contact with eyes or mucous membranes. Do not apply to wounds or damaged, broken or irritated skin. Do not use at the same time as other topical analgesics.
+stop_use:
+  Stop use and ask a doctor if Condition worsens Symptoms persist for more than 7 days or clear up and occur again within a few days Redness is present or irritation develops
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Adults and children 2 years of age and older: apply to affected areanot more than 3 to 4 times daily. ■ Children under 2 years of age: consult a physician
+inactive_ingredient:
+  Inactive Ingredients Water/Aqua/Eau, Alcohol Denat., Isopropyl Myristate, Sodium Hydroxide, Silica Silylate, Dimethyl Sulfone, Glucosamine Sulfate, Sodium Chondroitin Sulfate, Cannabis Sativa (Hemp) Seed Oil, Camphor, Aloe Barbadensis Leaf Extract, Arctium Lappa Root Extract, Arnica Montana Flower Extract, Calendula Officinalis Flower Extract, Camellia Sinensis Leaf Extract, Curcuma Longa (Turmeric) Root Extract, Ilex Paraguariensis Leaf Extract, Melissa Officinalis Flower/Leaf/Stem Extract, Phenoxyethanol, Carbomer, Ethylhexylglycerin, Disodium EDTA, Glycerin, Tocopheryl Acetate, Yellow 5 (CI 19140), Blue 1 (CI 42090)
+questions:
+  Questions? Questions? Call (855) 877-4503 (M-F, 9am-5pm EST)
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  ​Hempvana Ultra Strength Pain Relief Menthol 8% Gel Platinum Arthritis + 4 x Hemp Seed Oil for Moisturization Net Wt. 3 OZ (85 g) BOX Jar
+set_id:
+  c22cf1a5-0d5d-5ea5-e053-2995a90a333b
+id:
+  21750d88-ebdb-1dca-e063-6294a90ab604
+effective_time:
+  20240902
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Hempvana Ultra Strength Pain Relief Gel Platinum - Arthritis
+  generic_name:
+    MENTHOL 8%
+  manufacturer_name:
+    Telebrands Corp
+  product_ndc:
+    73287-030
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  spl_id:
+    21750d88-ebdb-1dca-e063-6294a90ab604
+  spl_set_id:
+    c22cf1a5-0d5d-5ea5-e053-2995a90a333b
+  package_ndc:
+    73287-030-01
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

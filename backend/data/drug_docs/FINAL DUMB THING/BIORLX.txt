@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  BIORLX LIP BALM COLLAGEN Avobenzone, Mineral Oil, Octinoxate, Petrolatum, Zinc Oxide AVOBENZONE AVOBENZONE WHITE WAX ALOE VERA LEAF ZINC OXIDE ZINC OXIDE OCTINOXATE OCTINOXATE PETROLATUM PETROLATUM MINERAL OIL MINERAL OIL TOCOPHEROL BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES COLLAGEN ALPHA-1(I) CHAIN BOVINE MICROCRYSTALLINE WAX MEDIUM-CHAIN TRIGLYCERIDES POTASSIUM SORBATE CERESIN
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: a. Avobenzone 1.0%w/w b. Mineral Oil 30.0%w/w c. Octinoxate 6.0% w/w d. Petrolatum 30.0% w/w e. Zinc Oxide 6.0% w/w f. Aloe Barbadensis (Alove Vera) Leaf Juice g. Beeswax h. Butyrpsoermum (Shea) Parkii Butter i.Caprylic/ Capric Triglyceride j. Ceresin k.Collagen l. Microcrystalline Wax m. Potassium Sorbate n. Tocopherol The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Avobenzone 1.0% w/w Sunscreen Mineral Oil 30.0% w/w Skin protectant Octinoxate 6.0% w/w Sunscreen Petrolatum 30.0% w/w Skin protectant Zinc Oxide 6.0% w/w Sunscreen
+purpose:
+  Purpose Sunscreen, Skin protectant, Lip Balm
+indications_and_usage:
+  Use Helps prevent sunburn if use as directed with other sun protection measures. provides moderate protection against sunburn Helps temporarily protect chapped and cracked lips.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use in children less than 6 months of age on damaged or broken skin if you are allergic to any ingredients
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply as needed. Apply liberally 15 minutes before sun exposure. Reapply after 60 minutes of swimming or sweatig, immediately after towel drying at leaft every 2 hours. For best results use daily.
+storage_and_handling:
+  Other information Spending time in the sun increases your risk of skin cancer and early aging. To decrease the risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other longsleeve shirts, pants or hats and sunglassess. Store at room temperature
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis (Alove Vera) Leaf Juice, Beeswax, Butyrpsoermum (Shea) Parkii Butter, Caprylic/ Capric Triglyceride, Ceresin, Collagen, Microcrystalline Wax, Potassium Sorbate, Tocopherol
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 12x3.5 g NDC:80554-002-01 collagen
+set_id:
+  af99febf-b536-3038-e053-2a95a90a641d
+id:
+  af99febf-b528-3038-e053-2a95a90a641d
+effective_time:
+  20200918
+version:
+  1
+openfda:

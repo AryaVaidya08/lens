@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  nighttime cough dm max Dextromethorphan Hydrobromide, Doxylamine succinate DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE ANHYDROUS CITRIC ACID BENZOIC ACID BENZYL ALCOHOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN MENTHOL, UNSPECIFIED FORM POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SUCRALOSE XANTHAN GUM
+active_ingredient:
+  Active ingredients (in each 20 mL) Dextromethorphan HBr, USP 30 mg Doxylamine succinate, USP 12.5 mg
+purpose:
+  Purposes Cough suppressant Antihistamine
+indications_and_usage:
+  Uses • temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold • temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat • controls the impulse to cough to help you sleep
+warnings:
+  Warnings Do not use • to make a child sleepy • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • trouble urinating due to an enlarged prostate gland • glaucoma • cough that occurs with too much phlegm (mucus) • a breathing problem such as emphysema or chronic bronchitis • persistent or chronic cough such as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product • do not use more than directed • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery • excitability may occur, especially in children Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • to make a child sleepy • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have • trouble urinating due to an enlarged prostate gland • glaucoma • cough that occurs with too much phlegm (mucus) • a breathing problem such as emphysema or chronic bronchitis • persistent or chronic cough such as occurs with smoking, asthma, or emphysema
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product • do not use more than directed • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery • excitability may occur, especially in children
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • measure only with dosing cup provided • keep dosing cup with product • mL = milliliter • do not take more than 4 doses in any 24-hour period • this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 20 mL every 6 hours children under 12 years do not use
+dosage_and_administration_table:
+  <table width="100%"><col width="38%"/><col width="27%"/><tbody><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>age</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>dose</paragraph></td></tr><tr><td align="center" styleCode="Rrule Lrule Botrule " valign="middle"><paragraph>adults and children 12 years and over</paragraph></td><td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="middle"><paragraph>20 mL every 6 hours</paragraph></td></tr><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>children under 12 years</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>do not use</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • each 20 mL contains: sodium 11 mg • store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, benzoic acid, benzyl alcohol, carboxymethylcellulose sodium, FD&C blue #1, FD&C red #40, flavor, glycerin, menthol, polyethylene glycol, propylene glycol, purified water, sodium benzoate, sorbitol solution, sucralose, xanthan gum
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel SEE NEW DOSING Compare to the active ingredients of Robitussin ® Maximum Strength Nighttime Cough DM MAXIMUM STRENGTH ADULT tussin nighttime cough DM MAX dextromethorphan HBr, USP 30 mg doxylamine succinate, USP 12.5 mg cough suppressant antihistamine ALCOHOL FREE controls cough relieves runny nose & sneezing for ages 12 & over 4 FL OZ (118 mL) nighttime cough DM max image
+set_id:
+  bf8c5ccd-0faf-44fb-aaac-95d33e66ea81
+id:
+  65fd9baf-7878-47aa-965e-735a63968f48
+effective_time:
+  20231107
+version:
+  2
+openfda:

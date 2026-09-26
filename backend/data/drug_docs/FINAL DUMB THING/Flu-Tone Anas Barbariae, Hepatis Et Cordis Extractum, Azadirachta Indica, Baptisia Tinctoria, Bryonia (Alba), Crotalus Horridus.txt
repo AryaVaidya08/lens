@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Flu-Tone Anas Barbariae, Hepatis Et Cordis Extractum, Azadirachta Indica, Baptisia Tinctoria, Bryonia (Alba), Crotalus Horridus, Echinacea (Angustifolia), Eupatorium Perfoliatum, Ferrum Phosphoricum, Gelsemium Sempervirens, Ginkgo Biloba, Influenzinum, Mucosa Nasalis Suis, Phytolacca Decandra, Pinus Sylvestris, Pyrogenium, Selenium Metallicum, Stillingia Sylvatica CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE AZADIRACHTA INDICA BARK AZADIRACHTA INDICA BARK BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT BRYONIA ALBA ROOT BRYONIA ALBA ROOT CROTALUS HORRIDUS HORRIDUS VENOM CROTALUS HORRIDUS HORRIDUS VENOM ECHINACEA ANGUSTIFOLIA ECHINACEA ANGUSTIFOLIA EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP FERRUM PHOSPHORICUM FERROSOFERRIC PHOSPHATE GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT GINKGO GINKGO INFLUENZA A VIRUS A/SINGAPORE/GP1908/2015 IVR-180A (H1N1) ANTIGEN (PROPIOLACTONE INACTIVATED) INFLUENZA A VIRUS A/SINGAPORE/GP1908/2015 IVR-180A (H1N1) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) INFLUENZA A VIRUS A/HONG KONG/4801/2014 X-263B (H3N2) ANTIGEN (PROPIOLACTONE INACTIVATED) INFLUENZA A VIRUS A/HONG KONG/4801/2014 X-263B (H3N2) HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) INFLUENZA B VIRUS B/BRISBANE/60/2008 ANTIGEN (PROPIOLACTONE INACTIVATED) INFLUENZA B VIRUS B/BRISBANE/60/2008 HEMAGGLUTININ ANTIGEN (PROPIOLACTONE INACTIVATED) SUS SCROFA NASAL MUCOSA SUS SCROFA NASAL MUCOSA PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT PINUS SYLVESTRIS LEAFY TWIG PINUS SYLVESTRIS LEAFY TWIG RANCID BEEF RANCID BEEF SELENIUM SELENIUM STILLINGIA SYLVATICA ROOT STILLINGIA SYLVATICA ROOT WATER ALCOHOL GLYCERIN
+active_ingredient:
+  ACTIVE INGREDIENTS: Anas barbariae, Hepatis et cordis extractum 15C, 30C; Azadirachta indica 12X; Baptisia tinctoria 4X; Bryonia (Alba)12X; Crotalus horridus 15X; Echinacea (Angustifolia) 4X; Eupatorium perfoliatum 30X, 30C; Ferrum phosphoricum 12X; Gelsemium sempervirens 6X; Ginkgo biloba 4X; Influenzinum 30X, 30C; Mucosa nasalis suis 9X, 12X, 6C; Phytolacca decandra 4X; Pinus sylvestris 9X; Pyrogenium 30X, 30C; Selenium metallicum 12X; Stillingia sylvatica 4X.
+purpose:
+  PURPOSE: Flu symptoms such as aches, fever, chills, nausea, cough, fatigue
+warnings:
+  WARNINGS: In case of overdose, get medical help or call a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Other Information Store at room temperature out of direct sunlight. Do not use if neck wrap is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Take 30 drops orally twice daily or as directed by a healthcare professional. Consult a physician for use in children under 12 years of age or if symptoms worsen or persist.
+indications_and_usage:
+  USES: Temporary relief of flu symptoms such as aches, fever, chills, nausea, cough, fatigue.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Purified Water, Glycerin, 15% Ethyl Alcohol
+questions:
+  QUESTIONS: Distributed by Energetix Corp Dahlonega, GA 30533 Questions? Comments? 800.990.7085
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: energetix Flu-Tone Homeopathic Remedy Flu symptoms such as aches, fever, chills, nausea, cough, fatigue 2 fl oz (59.1 mL) Flu-Tone
+set_id:
+  c6d3c68d-8a7f-4406-bbb9-cc8117944b7e
+id:
+  4c020bca-0e0f-4e95-a429-0a53b72b8541
+effective_time:
+  20181231
+version:
+  3
+openfda:

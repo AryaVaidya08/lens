@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Fairy Hands Hand Sanitizer ALCOHOL HYDROGEN PEROXIDE ALCOHOL ALCOHOL ALOE VERA LEAF GLYCERIN WATER
+spl_unclassified_section:
+  The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation)s: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (70%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Aloe vera leaf (25% v/v). Sterile distilled water.
+active_ingredient:
+  Active Ingredient(s) Alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients loe barbadensis leaf juice,purified water USP, glycerin, hydrogen peroxide
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 00 mL NDC: 00000-000-00 120mL NDC: 74296-201-03 60mL NDC: 74296-201-02 3785mL NDC: 74296-201-07 250mL NDC: 74296-201-04 500mL NDC: 74296-201-05 1000mL NDC: 74296-201-06 120mL label 60mL label 3785mL label 250mL label 500mL label 1000mL label
+set_id:
+  a21b966d-71c6-4e30-e053-2a95a90a86fc
+id:
+  a499f606-6505-f32a-e053-2a95a90a2fdd
+effective_time:
+  20200501
+version:
+  2
+openfda:

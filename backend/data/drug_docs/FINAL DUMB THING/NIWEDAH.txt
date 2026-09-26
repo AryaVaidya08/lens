@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  NIWEDAH BLACK SEED BURDOCK ROOT DIETARY SUPPLEMENT BLACK SEED BURDOCK ROOT DIETARY SUPPLEMENT TURMERIC NIGELLA SATIVA SEED WITHANIA SOMNIFERA LEAF CHONDRUS CRISPUS CHONDRUS CRISPUS ASCORBIC ACID ASCORBIC ACID CHOLECALCIFEROL CHOLECALCIFEROL
+active_ingredient:
+  Active Ingredient Ascorbic Acid Cholecalciferol Chondrus crispus
+purpose:
+  Purpose DIETARY SUPPLEMENT
+indications_and_usage:
+  Use DIETARY SUPPLEMENT
+warnings:
+  Warnings Do not exceed recommended dosage
+do_not_use:
+  When Using Do not exceed recommended dosage.
+when_using:
+  When Using This product is not intended todiagnose, treat, cure or prevent any disease.
+stop_use:
+  Stop Use Do not exceed recommended dosage. Pregnant or nursing mothers, children under 18 years of age, and persons with known medical conditions should consult a physician before using this or any dietary supplement.
+ask_doctor:
+  Ask Doctor Do not exceed recommended dosage. Pregnant or nursing mothers, children under 18 years of age, and persons with known medical conditions should consult a physician before using this or any dietary supplement.
+keep_out_of_reach_of_children:
+  Keep Oot Of Reach Of Children Keep Oot Of Reach Of Children
+dosage_and_administration:
+  Directions As a dietary supplement,take two (2) capsules daily,or as directedby your health care professional.
+storage_and_handling:
+  Other information do notuse if safety sealis damaged or missingstore in a cooldry place.
+inactive_ingredient:
+  Inactive ingredients Black Seed,Ashwagandha,Turmeric,Bladderwrack,Burdock,Multimineral Blend
+package_label_principal_display_panel:
+  LBEAL
+set_id:
+  13e1dc6c-e788-2f13-e063-6294a90ab460
+id:
+  3658a5da-c1b6-5308-e063-6394a90adeb5
+effective_time:
+  20250530
+version:
+  2
+openfda:

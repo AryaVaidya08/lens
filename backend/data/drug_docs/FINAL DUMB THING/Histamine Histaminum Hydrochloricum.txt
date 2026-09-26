@@ -1,0 +1,29 @@
+effective_time:
+  20181106
+inactive_ingredient:
+  INACTIVE INGREDIENTS: ​Demineralized Water, 25% Ethanol
+purpose:
+  ​INDICATIONS: ​For temporary relief of hay fever, asthma, congestion, depression, fatigue, hives, hyperactivity, sinusitis and stomach discomfort.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. In case of overdose, contact physician or Poison Control Center right away.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+questions:
+  Dist. By: Deseret Biologicals, Inc. 469 Parkland Drive Sandy, UT 84070 www.desbio.com
+spl_product_data_elements:
+  Histamine Histaminum Hydrochloricum HISTAMINE DIHYDROCHLORIDE HISTAMINE Water ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DESBIO NDC 43742-0086-1 HOMEOPATHIC HISTAMINE 1 FL OZ (30 ml) Histamine
+indications_and_usage:
+  INDICATIONS: For temporary relief of hay fever, asthma, congestion, depression, fatigue, hives, hyperactivity, sinusitis and stomach discomfort.
+set_id:
+  5d75c211-d3cd-4b00-8bd1-e5e4f7d710c4
+id:
+  6c17a4ce-e598-4bfc-b8d1-462f3a6e81f2
+active_ingredient:
+  ACTIVE INGREDIENTS: ​Histaminum Hydrochloricum 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C

@@ -1,0 +1,39 @@
+effective_time:
+  20171119
+inactive_ingredient:
+  Inactive ingredients FD&C red no. 40, flavor, glycerin, purified water, saccharin sodium
+purpose:
+  Purpose Oral anesthetic/analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for pain is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Sore throat warning: Severe or persistent sore throat or sore throat accompanied by fever, headache, rash, swelling, nausea, or vomiting may be serious. Ask a doctor right away. Do not use more than 2 days or give to children under 3 years of age. When using this product do not use more than directed Stop use and ask a doctor if • sore mouth symptoms do not improve in 7 days • irritation, pain, or redness persists or worsens • swelling, rash or fever develops • difficulty in breathing occurs If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If more than used for pain is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use more than directed
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  sore throat Phenol PHENOL PHENOL FD&C RED NO. 40 GLYCERIN WATER SACCHARIN SODIUM clear
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • apply to the affected area • allow to remain in place for at least 15 seconds, then spit out • use every 2 hours or as directed by a doctor or dentist adults and children 12 years of age & older spray 5 times for each application children 3 to under 12 years (with adult supervision) spray 3 times for each application children under 3 years of age ask a doctor or dentist
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • sore mouth symptoms do not improve in 7 days • irritation, pain, or redness persists or worsens • swelling, rash or fever develops • difficulty in breathing occurs
+storage_and_handling:
+  Other information store at 20°-25°C (68°-77°F)
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Chloraseptic® active ingredient SORE THROAT SPRAY Cherry Phenol Oral Anesthetic Relieves Sore Throat Instant Acting GLUTEN FREE Sore Throat Spray Label Sore Throat Spray Label Sore Throat Spray Label
+indications_and_usage:
+  Uses temporarily relieves sore throat pain, sore mouth, pain associated with canker sores, minor mouth irritation
+set_id:
+  f68bea6b-a5e8-4911-9d92-4f384db2114f
+id:
+  e034944b-7287-487f-9815-1e59a256a37a
+active_ingredient:
+  Active ingredient Phenol 1.4%
+dosage_and_administration_table:
+  <table width="100%"> <col width="50%"/> <col width="50%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years of age &amp; older</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>spray 5 times for each application</paragraph> </td> </tr> <tr> <td styleCode="Lrule Botrule " valign="top"> <paragraph>children 3 to under 12 years (with adult supervision)</paragraph> </td> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>spray 3 times for each application</paragraph> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 3 years of age</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>ask a doctor or dentist</paragraph> </td> </tr> </tbody> </table>

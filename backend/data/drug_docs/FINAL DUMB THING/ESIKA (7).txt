@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  ESIKA STRONG MUSK Roll-On Aluminum Sesquichlorohydrate WATER STEARETH-2 STEARETH-21 DICAPRYLYL CARBONATE CYCLOMETHICONE 5 CYCLOMETHICONE 6 TRICLOSAN BENZALKONIUM CHLORIDE EDETATE SODIUM METHYLPARABEN LEVOMENOL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE
+spl_unclassified_section:
+  Drug Facts
+  PR: Distributed by Ventura Corporation, Ltd. San Juan, Puerto Rico 00926.
+active_ingredient:
+  Active Ingredients Aluminum sesquichlorohydrate (17%)
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness.
+warnings:
+  Warnings For external use only. Do not use on broken skin. Stop use and ask a doctor if rash and irritation occurs. Ask a doctor before use if you have kidney disease. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin.
+stop_use:
+  Stop use and ask a doctor if rash and irritation occurs.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients Aqua (water), ppg-15 stearyl ether, steareth-2, steareth-21, fragrance, dicaprylyl carbonate, cyclopentasiloxane, cyclohexasiloxane, triclosan, benzalkonium chloride, tetrasodium edta, methylparaben, bisabolol.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Label STRONG MUSK ANTIPERSPIRANT ROLL-ON DEODORANT does not contain alcohol ēsika 50 ml e (1.7 fl.oz.) Principal Display Panel - 50 ml Bottle Label
+set_id:
+  94762dfa-7756-4b0a-b753-51a58e04c9b0
+id:
+  31f7729a-ab5d-4da6-e063-6294a90a1087
+effective_time:
+  20250404
+version:
+  2
+openfda:

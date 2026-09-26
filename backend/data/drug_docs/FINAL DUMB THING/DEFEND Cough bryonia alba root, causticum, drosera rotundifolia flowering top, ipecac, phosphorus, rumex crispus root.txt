@@ -1,0 +1,39 @@
+effective_time:
+  20171220
+inactive_ingredient:
+  Inactive ingredients Citric Acid USP, Glycyrrhiza Extract, Purified Water USP, Sodium Benzoate N.F., Vegetable Glycerine USP.
+purpose:
+  Active ingredients Purposes "HPUS" indicates the active ingredients are in the official Homeopathic Pharmacopæia of the United States. Bryonia 6X HPUS Dry cough Causticum 6X HPUS Hoarse cough Drosera Rotundifolia 6X HPUS Dry cough Ipecacuanha 6X HPUS Gagging cough Phosphorus 6X HPUS Tickling cough Rumex Crispus 6X HPUS Moist cough Spongia Tosta 6X HPUS Barking cough
+keep_out_of_reach_of_children:
+  Keep this and all medications out of the reach of children. In case of accidental overdose, contact a medical professional or poison control center immediately.
+warnings:
+  Warnings As with any drug, ask a doctor before use if pregnant or nursing. Consult a physician if: Cough is persistent or chronic Cough is accompanied by excessive mucus Cough persists for more than 7 days or worsens Cough tends to recur or is accompanied by a high fever (101°F), rash or headache Keep this and all medications out of the reach of children. In case of accidental overdose, contact a medical professional or poison control center immediately. Do not use this product for persistent or chronic cough such as asthma, smoking, or emphysema or if cough is accompanied by excessive mucus, unless directed by a licensed health care professional. A persistent cough may be a sign of a serious condition. Sore throat warning Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a doctor promptly. Do not use if imprinted tamper band is broken or missing. In case of emergency, contact a medical professional or poison control center immediately. Hyland's may also be contacted for emergency information about our products 24 hours a day, 7 days per week at (800) 624-9659.
+questions:
+  Questions or comments? (800) 624-9659
+spl_product_data_elements:
+  DEFEND Cough bryonia alba root, causticum, drosera rotundifolia flowering top, ipecac, phosphorus, rumex crispus root, and spongia officinalis skeleton, roasted CITRIC ACID MONOHYDRATE WATER GLYCYRRHIZA GLABRA SODIUM BENZOATE GLYCERIN BRYONIA ALBA ROOT BRYONIA ALBA ROOT CAUSTICUM CAUSTICUM DROSERA ROTUNDIFOLIA FLOWERING TOP DROSERA ROTUNDIFOLIA FLOWERING TOP IPECAC IPECAC PHOSPHORUS PHOSPHORUS RUMEX CRISPUS ROOT RUMEX CRISPUS ROOT SPONGIA OFFICINALIS SKELETON, ROASTED SPONGIA OFFICINALIS SKELETON, ROASTED Pale Yellow
+ask_doctor:
+  As with any drug, ask a doctor before use if pregnant or nursing. Consult a physician if: Cough is persistent or chronic Cough is accompanied by excessive mucus Cough persists for more than 7 days or worsens Cough tends to recur or is accompanied by a high fever (101°F), rash or headache
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Adults and children 12 years and over: 10mL or 2 teaspoons up to 4 times per day (every 6 hours) or as directed by a licensed health care professional. Children 2 years to under 12 years: 5mL or 1 teaspoon up to 4 times per day (every 6 hours) or as directed by a licensed health care professional.
+spl_unclassified_section:
+  Drug Facts
+do_not_use:
+  Do not use this product for persistent or chronic cough such as asthma, smoking, or emphysema or if cough is accompanied by excessive mucus, unless directed by a licensed health care professional. A persistent cough may be a sign of a serious condition.
+active_ingredient_table:
+  <table width="60%" ID="table1"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purposes</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" colspan="2"> <content styleCode="italics">&quot;HPUS&quot; indicates the active ingredients are in the official Homeopathic Pharmacop&#xE6;ia of the United States.</content> </td> </tr> </tfoot> <tbody> <tr> <td>Bryonia 6X HPUS</td> <td>Dry cough</td> </tr> <tr> <td>Causticum 6X HPUS</td> <td>Hoarse cough</td> </tr> <tr> <td>Drosera Rotundifolia 6X HPUS</td> <td>Dry cough</td> </tr> <tr> <td>Ipecacuanha 6X HPUS</td> <td>Gagging cough</td> </tr> <tr> <td>Phosphorus 6X HPUS</td> <td>Tickling cough</td> </tr> <tr> <td>Rumex Crispus 6X HPUS</td> <td>Moist cough</td> </tr> <tr> <td>Spongia Tosta 6X HPUS</td> <td>Barking cough</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 118mL Bottle Carton NDC 54973-2158-25 100% Natural SINCE 1903 Hyland's ® DEFEND ™ COUGH Safe & Effective Relief of: + Dry Cough + Tickling Cough + Moist Cough Non-Drowsy DYE FREE SUGAR FREE LESS THAN 0.1% ALCOHOL 4 FL OZ (118mL) HOMEOPATHIC MADE IN USA Principal Display Panel - 118mL Bottle Carton
+indications_and_usage:
+  Uses temporarily relieves the symptoms of dry, tickling, moist coughs due to colds.
+set_id:
+  b760a4d3-5c82-477f-b329-8481b2051bfb
+id:
+  60ce79ce-ef7a-e941-e053-2a91aa0ad2a8
+purpose_table:
+  <table width="60%" ID="table1"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purposes</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" colspan="2"> <content styleCode="italics">&quot;HPUS&quot; indicates the active ingredients are in the official Homeopathic Pharmacop&#xE6;ia of the United States.</content> </td> </tr> </tfoot> <tbody> <tr> <td>Bryonia 6X HPUS</td> <td>Dry cough</td> </tr> <tr> <td>Causticum 6X HPUS</td> <td>Hoarse cough</td> </tr> <tr> <td>Drosera Rotundifolia 6X HPUS</td> <td>Dry cough</td> </tr> <tr> <td>Ipecacuanha 6X HPUS</td> <td>Gagging cough</td> </tr> <tr> <td>Phosphorus 6X HPUS</td> <td>Tickling cough</td> </tr> <tr> <td>Rumex Crispus 6X HPUS</td> <td>Moist cough</td> </tr> <tr> <td>Spongia Tosta 6X HPUS</td> <td>Barking cough</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purposes "HPUS" indicates the active ingredients are in the official Homeopathic Pharmacopæia of the United States. Bryonia 6X HPUS Dry cough Causticum 6X HPUS Hoarse cough Drosera Rotundifolia 6X HPUS Dry cough Ipecacuanha 6X HPUS Gagging cough Phosphorus 6X HPUS Tickling cough Rumex Crispus 6X HPUS Moist cough Spongia Tosta 6X HPUS Barking cough

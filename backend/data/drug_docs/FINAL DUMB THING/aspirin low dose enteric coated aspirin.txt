@@ -1,0 +1,63 @@
+effective_time:
+  20201110
+ask_doctor_table:
+  <table border="0" width="100%"><tbody><tr><td>Ask a doctor before use if: stomach bleeding warning applies to you, you have a history of stomach problems, such as heartburn, you have high blood pressure, heart disease, liver cirrhosis, or kidney disease; you are taking a diuretic, you have asthma, you have not been drinking fluids, you have lost a lot of fluid due to vomiting or diarrhea</td></tr></tbody></table>
+keep_out_of_reach_of_children:
+  eep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. K
+purpose:
+  Uses - temporarily relieves minor aches and pains for other uses, see your doctor, but do not use for more than 10 days without consulting your doctor because serious side effects may occur
+pregnancy_or_breast_feeding_table:
+  <table border="0" width="100%"><tbody><tr><td>If pregnant or breast-feeding, ask a health profession before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.</td></tr></tbody></table>
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health profession before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children_table:
+  <table border="0" width="100%"><tbody><tr><td>eep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.</td></tr></tbody></table>
+indications_and_usage:
+  Uses: temporarily relieves minor aches and pains: for other uses, see your doctor, but do not use for more than 10 days without consulting your doctor because serious side effects may occur.
+set_id:
+  7b90bebe-7d45-412e-afe2-2d7186bf0d09
+id:
+  b3c4b28c-02e1-9886-e053-2a95a90a87a6
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis; under a doctor's care for any serious condition; taking any other drug
+active_ingredient:
+  Active Ingredient in Each tablet Aspirin 81 mg (NSAID) Non-steroidal anti-inflammatory drug
+stop_use_table:
+  <table border="0" width="100%"><tbody><tr><td>Stop use and ask a doctor if: you experience any of the following signs of stomach bleeding: feel faint, have bloody or black stools, vomit blood, have stomach pain that does not get better, pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, redness or swelling is present in the painful area, any new symptoms appear</td></tr></tbody></table>
+dosage_and_administration_table:
+  <table width="100%"><tbody><tr><td><paragraph>Directions: drink a full glass of water with each dose; adults and children 12 years and over: take 4 to 8 tablets every 4 hours not to exceed 48 tablets in 24 hours unless directed by a doctor</paragraph><paragraph>Children under 12 years - consult a doctor</paragraph></td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients: anhydrous lactose, carnauba wax, colloidal silicon dioxide, croscarmellose sodium, D-C yellow #10 aluminum lake, iron oxide ochre, methacrylic acid copolymer, microcrystalline cellulose, Polysorbate 80, simethicone, sodium hydroxide, sodium lauryl sulfate, talc, titanium dioxide
+ask_doctor_or_pharmacist_table:
+  <table border="0" width="100%"><tbody><tr><td>Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis; under a doctor&apos;s care for any serious condition; taking any other drug</td></tr></tbody></table>
+indications_and_usage_table:
+  <table border="0" width="100%"><tbody><tr><td>Uses: temporarily relieves minor aches and pains: for other uses, see your doctor, but do not use for more than 10 days without consulting your doctor because serious side effects may occur.</td></tr></tbody></table>
+do_not_use_table:
+  <table border="0" width="100%"><tbody><tr><td>Do not use if you are allergic to aspirin or any other pain reliever/fever reducer</td></tr></tbody></table>
+warnings:
+  Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness Allergy alert: Aspirin may cause a severe allergic reaction which may include: hives, facial swelling, shock, asthma(wheezing Stomach bleeding warning: This product contains an NSAID which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older, have had stomach ulcers or bleeding problems, take a blood thinning (anticoagulant) or steroid drug, take other drugs containing prescription or non prescription NSAIDs (aspirin, ibuprofen, naproxen, or others), have 3 or more alcoholic drinks every day while using this product, take more or for a longer time than directed.
+spl_product_data_elements:
+  aspirin low dose enteric coated aspirin ANHYDROUS LACTOSE CARNAUBA WAX SILICON DIOXIDE CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 IRON METHACRYLIC ACID - ETHYL ACRYLATE COPOLYMER (1:1) TYPE A MICROCRYSTALLINE CELLULOSE DIMETHICONE POLYSORBATE 80 SODIUM HYDROXIDE SODIUM LAURYL SULFATE TALC TITANIUM DIOXIDE TRIETHYL CITRATE ASPIRIN ASPIRIN embossed;upper;heart;lower;plain
+ask_doctor:
+  Ask a doctor before use if: stomach bleeding warning applies to you, you have a history of stomach problems, such as heartburn, you have high blood pressure, heart disease, liver cirrhosis, or kidney disease; you are taking a diuretic, you have asthma, you have not been drinking fluids, you have lost a lot of fluid due to vomiting or diarrhea
+openfda:
+version:
+  7
+dosage_and_administration:
+  Directions: drink a full glass of water with each dose; adults and children 12 years and over: take 4 to 8 tablets every 4 hours not to exceed 48 tablets in 24 hours unless directed by a doctor Children under 12 years - consult a doctor
+stop_use:
+  Stop use and ask a doctor if: you experience any of the following signs of stomach bleeding: feel faint, have bloody or black stools, vomit blood, have stomach pain that does not get better, pain gets worse or lasts more than 10 days, fever gets worse or lasts more than 3 days, redness or swelling is present in the painful area, any new symptoms appear
+how_supplied:
+  HOW SUPPLIED Product: 63739-522 NDC: 63739-522-10 10 TABLET, COATED in a BLISTER PACK / 10 in a BOX, UNIT-DOSE NDC: 63739-522-01 30 TABLET, COATED in a BLISTER PACK / 25 in a BOX
+do_not_use:
+  Do not use if you are allergic to aspirin or any other pain reliever/fever reducer
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><paragraph>Active Ingredient in Each tablet</paragraph><paragraph>Aspirin 81 mg (NSAID) Non-steroidal anti-inflammatory drug</paragraph></td></tr></tbody></table>
+package_label_principal_display_panel:
+  aspirinlow dose enteric coated low dose enteric coated Label Image
+purpose_table:
+  <table border="0" width="100%"><tbody><tr><td>Uses - temporarily relieves minor aches and pains for other uses, see your doctor, but do not use for more than 10 days without consulting your doctor because serious side effects may occur</td></tr></tbody></table>
+warnings_table:
+  <table border="0" width="100%"><tbody><tr><td><paragraph>Reye&apos;s syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye&apos;s syndrome, a rare but serious illness  </paragraph><paragraph>Allergy alert: Aspirin may cause a severe allergic reaction which may include: hives, facial swelling, shock, asthma(wheezing  </paragraph><paragraph>Stomach bleeding warning: This product contains an NSAID which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older, have had stomach ulcers or bleeding problems, take a blood thinning (anticoagulant) or steroid drug, take other drugs containing prescription or non prescription NSAIDs (aspirin, ibuprofen, naproxen, or others), have 3 or more alcoholic drinks every day while using this product, take more or for a longer time than directed.</paragraph></td></tr></tbody></table>
+inactive_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td>Inactive ingredients: anhydrous lactose, carnauba wax, colloidal silicon dioxide, croscarmellose sodium, D-C yellow #10 aluminum lake, iron oxide ochre, methacrylic acid copolymer, microcrystalline cellulose, Polysorbate 80, simethicone, sodium hydroxide, sodium lauryl sulfate, talc, titanium dioxide</td></tr></tbody></table>

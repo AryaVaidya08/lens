@@ -1,0 +1,50 @@
+spl_product_data_elements:
+  Doxycycline Doxycycline DOXYCYCLINE HYCLATE DOXYCYCLINE ANHYDROUS ASCORBIC ACID MANNITOL Doxycycline Doxycycline DOXYCYCLINE HYCLATE DOXYCYCLINE ANHYDROUS ASCORBIC ACID MANNITOL
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL PACKAGE LABEL-PRINCIPAL DISPLAY PANEL – DOXYCYCLINE 100 MG CONTAINER LABEL NDC 70771-1121-1 Doxycycline for Injection, USP 100 mg per vial For Intravenous Infusion MUST DILUTE RECONSTITUTED SOLUTION Single-dose vial Rx only Zydus Pharmaceuticals PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - DOXYCYCLINE 100 MG CARTON LABEL NDC 70771-1121-6 Doxycycline for Injection, USP 100 mg per vial For Intravenous Infusion MUST DILUTE RECONSTITUTED SOLUTION 10 x Single-dose vials Rx only Zydus Pharmaceuticals PACKAGE LABEL-PRINCIPAL DISPLAY PANEL – DOXYCYCLINE 200 MG CONTAINER LABEL NDC 70771-1122-1 Doxycycline for Injection, USP 200 mg per vial For Intravenous Infusion MUST DILUTE RECONSTITUTED SOLUTION Single-dose vial Rx only Zydus Pharmaceuticals PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - DOXYCYCLINE 200 MG CARTON LABEL NDC 70771-1122-1 Doxycycline for Injection, USP 200 mg per vial For Intravenous Infusion MUST DILUTE RECONSTITUTED SOLUTION Single-dose vial Rx only Zydus Pharmaceuticals 100 mg per vial Container Label 100 mg per vial Carton Label 200 mg per vial Container Label 200 mg per vial Carton Label
+set_id:
+  6ae11b4e-1c13-440b-a050-d76e062b0f92
+id:
+  6782ec89-eb1e-4283-9b02-b9fda4793cd3
+effective_time:
+  20221105
+version:
+  6
+openfda:
+  application_number:
+    ANDA207757
+  brand_name:
+    Doxycycline
+  generic_name:
+    DOXYCYCLINE
+  manufacturer_name:
+    Zydus Lifesciences Limited
+  product_ndc:
+    70771-1121
+    70771-1122
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    INTRAVENOUS
+  substance_name:
+    DOXYCYCLINE HYCLATE
+  rxcui:
+    310027
+    1998483
+  spl_id:
+    6782ec89-eb1e-4283-9b02-b9fda4793cd3
+  spl_set_id:
+    6ae11b4e-1c13-440b-a050-d76e062b0f92
+  package_ndc:
+    70771-1121-1
+    70771-1121-6
+    70771-1122-1
+  is_original_packager:
+    True
+  upc:
+    0370771112111
+    0370771112210
+  unii:
+    19XTS3T51U

@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Gaffer and Child Hand Sanitizer ALCOHOL GLYCERIN WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  DRUG FACTS
+  OTHER INFORMATION Store at 15°-30°C (59°-86°F) Avoid freezing / excessive heat above 40C (104F)
+active_ingredient:
+  ACTIVE INGREDIENTS Alcohol 70% v/v PURPOSE Antiseptic
+purpose:
+  PURPOSE Antiseptic
+indications_and_usage:
+  USE(S) Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from fire or flame. DO NOT USE in children less than 2 months of age on open skin wounds WHEN USING THIS PRODUCT keep out of eyes, ears and mouth. In case of contact with eyes, rinse eyes thoroughly STOP USE AND ASK A DOCTOR if irritation or rash occurs. These may be signs of a serious condition. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center
+do_not_use:
+  DO NOT USE in children less than 2 months of age on open skin wounds
+when_using:
+  WHEN USING THIS PRODUCT keep out of eyes, ears and mouth. In case of contact with eyes, rinse eyes thoroughly
+stop_use:
+  STOP USE AND ASK A DOCTOR if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center
+dosage_and_administration:
+  DIRECTIONS Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+inactive_ingredient:
+  INACTIVE INGREDIENTS golden lemon essential oil, vegetable glycerin, purified water
+questions:
+  QUESTIONS? hello@gafferandchild.com
+package_label_principal_display_panel:
+  Package Labeling: Label2
+set_id:
+  b12c22cf-f86a-0c53-e053-2995a90a34c7
+id:
+  b12bf3ea-c5e3-71ab-e053-2995a90accc0
+effective_time:
+  20201008
+version:
+  1
+openfda:

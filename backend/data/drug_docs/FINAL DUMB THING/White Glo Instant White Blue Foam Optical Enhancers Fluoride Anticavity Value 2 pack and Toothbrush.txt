@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  White Glo Instant White Blue Foam Optical Enhancers Fluoride Anticavity Value 2 pack and Toothbrush SODIUM MONOFLUOROPHOSPHATE Blue Instant White with Blue Foam Optical Enhancers Fluoride Anticavity SODIUM MONOFLUOROPHOSPHATE SORBITOL HYDRATED SILICA WATER SODIUM LAURYL SULFATE POLYETHYLENE GLYCOL 400 XYLITOL SODIUM BENZOATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED MICA FD&C BLUE NO. 1 SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+  Other information Store in a cool place, below 86° F, away from heat Do not use if quality seal is broken or missing
+active_ingredient:
+  Active ingredient Sodium Monofluorophosphate 0.76% (0.1% W/V Fluoride ion). Purpose Anticavity toothpaste
+purpose:
+  Purpose Anticavity toothpaste
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age & older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Children under 6 years of age: Instruct in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor.
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td> Adults and children 2 years of age &amp; older:</td><td> Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor.</td></tr><tr><td> Children under 6 years of age:</td><td> Instruct in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision.</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients Sorbitol, Hydrated Silica, Water (Aqua), Sodium Lauryl Sulfate, Polyethylene Glycol 400, Flavour, Xylitol, Sodium Benzoate, Trisodium Phosphate, Cellulose Gum, Mica, FD&C Blue No. 1.
+questions:
+  Questions or comments For customer enquiries, please contact: customer.service@whiteglo.com
+package_label_principal_display_panel:
+  Package Labeling: Label Label2
+set_id:
+  7c15eedb-d4ca-4fc1-8a1e-6f9cad0cc126
+id:
+  2f18f4c3-ad09-cabf-e063-6294a90a84a3
+effective_time:
+  20250226
+version:
+  3
+openfda:
+  application_number:
+    M021
+  brand_name:
+    White Glo Instant White Blue Foam Optical Enhancers Fluoride Anticavity Value 2 pack and Toothbrush
+  generic_name:
+    SODIUM MONOFLUOROPHOSPHATE
+  manufacturer_name:
+    WHITE GLO USA INC
+  product_ndc:
+    73656-028
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    545626
+  spl_id:
+    2f18f4c3-ad09-cabf-e063-6294a90a84a3
+  spl_set_id:
+    7c15eedb-d4ca-4fc1-8a1e-6f9cad0cc126
+  package_ndc:
+    73656-028-00
+    73656-029-00
+  is_original_packager:
+    True
+  upc:
+    0879226001586

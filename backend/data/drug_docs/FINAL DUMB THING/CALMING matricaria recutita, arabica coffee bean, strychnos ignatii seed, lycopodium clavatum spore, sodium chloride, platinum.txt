@@ -1,0 +1,41 @@
+effective_time:
+  20171222
+inactive_ingredient:
+  Inactive ingredients Acacia Gum, Lactose N.F.
+purpose:
+  Active ingredients Purpose "HPUS" indicates the active ingredients are in the official Homeopathic Pharmacopœia of the United States. Chamomilla 6X HPUS occasional sleeplessness, fussiness, and agitation Coffea Cruda 6X HPUS irritability Ignatia Amara 6X HPUS restless sleep Lycopodium 30X HPUS unpredictable, irregular sleep Natrum Muriaticum 6X HPUS crying, irritability Platinum Metallicum 30X HPUS causeless crying, waking at night Pulsatilla 6X HPUS cries easily, inconsolable Stramonium 6X HPUS inconsolable, restless sleep Sulphur 12X HPUS crying, restlessness, irritability
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Stop use and ask a doctor if: symptoms persist for more than 72 hours or worsen symptoms are accompanied by a fever Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center immediately.
+questions:
+  Questions or comments? (800) 624-9659
+spl_product_data_elements:
+  CALMING matricaria recutita, arabica coffee bean, strychnos ignatii seed, lycopodium clavatum spore, sodium chloride, platinum, pulsatilla vulgaris, datura stramonium, and sulfur ACACIA LACTOSE MATRICARIA RECUTITA MATRICARIA RECUTITA ARABICA COFFEE BEAN ARABICA COFFEE BEAN STRYCHNOS IGNATII SEED STRYCHNOS IGNATII SEED LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE SODIUM CHLORIDE CHLORIDE ION PLATINUM PLATINUM PULSATILLA VULGARIS PULSATILLA VULGARIS DATURA STRAMONIUM DATURA STRAMONIUM SULFUR SULFUR
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions children under 6 months of age consult a licensed health care professional before using this product children 6 months to under 1 year of age dissolve 2 tablets on tongue every 15 minutes for 4 doses, then hourly until relieved children 1 to under 3 years of age dissolve 3 tablets on tongue every 15 minutes for 4 doses, then hourly until relieved
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if: symptoms persist for more than 72 hours or worsen symptoms are accompanied by a fever
+storage_and_handling:
+  Other information do not use if imprinted tamper band is broken or missing Hyland's may be contacted for emergency information about our products 24 hours a day, 7 days per week at (800) 624-9659
+active_ingredient_table:
+  <table width="60%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" colspan="2"> <content styleCode="italics">&quot;HPUS&quot; indicates the active ingredients are in the official Homeopathic Pharmacop&#x153;ia of the United States.</content> </td> </tr> </tfoot> <tbody> <tr> <td>Chamomilla 6X HPUS</td> <td>occasional sleeplessness, fussiness, and agitation</td> </tr> <tr> <td>Coffea Cruda 6X HPUS</td> <td>irritability</td> </tr> <tr> <td>Ignatia Amara 6X HPUS</td> <td>restless sleep</td> </tr> <tr> <td>Lycopodium 30X HPUS</td> <td>unpredictable, irregular sleep</td> </tr> <tr> <td>Natrum Muriaticum 6X HPUS</td> <td>crying, irritability</td> </tr> <tr> <td>Platinum Metallicum 30X HPUS</td> <td>causeless crying, waking at night</td> </tr> <tr> <td>Pulsatilla 6X HPUS</td> <td>cries easily, inconsolable</td> </tr> <tr> <td>Stramonium 6X HPUS</td> <td>inconsolable, restless sleep</td> </tr> <tr> <td>Sulphur 12X HPUS</td> <td>crying, restlessness, irritability</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 125 Tablet Bottle Carton NDC 54973-3195-1 HOMEOPATHIC SINCE 1903 Hyland's Baby Natural Relief Calming Tablets NATURAL RELIEF OF OCCASIONAL SLEEPLESSNESS, FUSSINESS, AND IRRITABILITY* No Artificial Flavors, Dyes or Parabens 125 QUICK-DISSOLVING TABLETS Principal Display Panel - 125 Tablet Bottle Carton
+indications_and_usage:
+  Uses Temporarily relieves the symptoms of occasional sleeplessness, fussiness, agitation, irritability and restless sleep; unpredictable, irregular sleep; waking at night; crying; inconsolable behavior.
+set_id:
+  737811da-0c1e-490e-af48-e58f8b7b7145
+id:
+  60f2e19c-e8ef-f595-e053-2a91aa0a1c7c
+purpose_table:
+  <table width="60%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" colspan="2"> <content styleCode="italics">&quot;HPUS&quot; indicates the active ingredients are in the official Homeopathic Pharmacop&#x153;ia of the United States.</content> </td> </tr> </tfoot> <tbody> <tr> <td>Chamomilla 6X HPUS</td> <td>occasional sleeplessness, fussiness, and agitation</td> </tr> <tr> <td>Coffea Cruda 6X HPUS</td> <td>irritability</td> </tr> <tr> <td>Ignatia Amara 6X HPUS</td> <td>restless sleep</td> </tr> <tr> <td>Lycopodium 30X HPUS</td> <td>unpredictable, irregular sleep</td> </tr> <tr> <td>Natrum Muriaticum 6X HPUS</td> <td>crying, irritability</td> </tr> <tr> <td>Platinum Metallicum 30X HPUS</td> <td>causeless crying, waking at night</td> </tr> <tr> <td>Pulsatilla 6X HPUS</td> <td>cries easily, inconsolable</td> </tr> <tr> <td>Stramonium 6X HPUS</td> <td>inconsolable, restless sleep</td> </tr> <tr> <td>Sulphur 12X HPUS</td> <td>crying, restlessness, irritability</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose "HPUS" indicates the active ingredients are in the official Homeopathic Pharmacopœia of the United States. Chamomilla 6X HPUS occasional sleeplessness, fussiness, and agitation Coffea Cruda 6X HPUS irritability Ignatia Amara 6X HPUS restless sleep Lycopodium 30X HPUS unpredictable, irregular sleep Natrum Muriaticum 6X HPUS crying, irritability Platinum Metallicum 30X HPUS causeless crying, waking at night Pulsatilla 6X HPUS cries easily, inconsolable Stramonium 6X HPUS inconsolable, restless sleep Sulphur 12X HPUS crying, restlessness, irritability
+dosage_and_administration_table:
+  <table width="55%" styleCode="Noautorules"> <col width="40%" align="left" valign="top"/> <col width="60%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule"> <content styleCode="bold">children under 6 months of age</content> </td> <td>consult a licensed health care professional before using this product</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule"> <content styleCode="bold">children 6 months to under 1 year of age</content> </td> <td>dissolve 2 tablets on tongue every 15 minutes for 4 doses, then hourly until relieved</td> </tr> <tr> <td styleCode="Rrule"> <content styleCode="bold">children 1 to under 3 years of age</content> </td> <td>dissolve 3 tablets on tongue every 15 minutes for 4 doses, then hourly until relieved</td> </tr> </tbody> </table>

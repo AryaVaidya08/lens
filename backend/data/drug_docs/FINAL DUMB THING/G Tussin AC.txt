@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  G Tussin AC CODEINE PHOSPHATE and GUAIFENESIN CODEINE PHOSPHATE CODEINE ANHYDROUS GUAIFENESIN GUAIFENESIN CITRIC ACID MONOHYDRATE Methylparaben Potassium Citrate Potassium Sorbate Propylparaben Propylene Glycol Water Sorbitol Sucralose
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each 5 mL = 1 tsp) Purpose Codeine phosphate, USP 10 mg Antitussive Guaifenesin, USP 100 mg Expectorant
+active_ingredient_table:
+  <table width="60%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each 5 mL = 1 tsp)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Codeine phosphate, USP 10 mg</td><td>Antitussive</td></tr><tr><td>Guaifenesin, USP 100 mg</td><td>Expectorant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each 5 mL = 1 tsp) Purpose Codeine phosphate, USP 10 mg Antitussive Guaifenesin, USP 100 mg Expectorant
+purpose_table:
+  <table width="60%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each 5 mL = 1 tsp)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Codeine phosphate, USP 10 mg</td><td>Antitussive</td></tr><tr><td>Guaifenesin, USP 100 mg</td><td>Expectorant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves: cough due to minor throat and bronchial irritation as may occur with a cold or inhaled irritants your cough to help you sleep helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive.
+warnings:
+  Warnings Ask your doctor before use if you have a persistent cough, this may be a sign of a serious condition you have a persistent cough such as occurs with smoking, asthma, chronic bronchitis or emphysema you have a cough that is accompanied by excessive phlegm (mucus) you have chronic pulmonary disease or shortness of breath giving to a child who is taking other drugs When using this product giving a higher dose than recommended by a doctor could result in serious side effects for your child. A special measuring device should be used to give an accurate dose of this product to children under 6 years of age. may cause or aggravate constipation Stop use and ask a doctor if symptoms do not improve within 7 days, tend to recur or are accompanied by fever and rash or persistent headache. These may be symptoms of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask your doctor before use if you have a persistent cough, this may be a sign of a serious condition you have a persistent cough such as occurs with smoking, asthma, chronic bronchitis or emphysema you have a cough that is accompanied by excessive phlegm (mucus) you have chronic pulmonary disease or shortness of breath giving to a child who is taking other drugs
+when_using:
+  When using this product giving a higher dose than recommended by a doctor could result in serious side effects for your child. A special measuring device should be used to give an accurate dose of this product to children under 6 years of age. may cause or aggravate constipation
+stop_use:
+  Stop use and ask a doctor if symptoms do not improve within 7 days, tend to recur or are accompanied by fever and rash or persistent headache. These may be symptoms of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not exceed 6 doses in 24 hours. Adults and children 12 years of age and over: 2 tsp (10 mL) every 4 hours, or as directed by a doctor. Children 6 to under 12 years of age: 1 tsp (5 mL) every 4 hours, or as directed by a doctor. Children under 6 years of age: Consult a doctor.
+dosage_and_administration_table:
+  <table styleCode="Noautorules" width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Toprule Rrule">Adults and children 12 years of age and over:</td><td styleCode="Toprule">2 tsp (10 mL) every 4 hours, or as directed by a doctor.</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">Children 6 to under 12 years of age:</td><td>1 tsp (5 mL) every 4 hours, or as directed by a doctor.</td></tr><tr><td styleCode="Rrule">Children under 6 years of age:</td><td>Consult a doctor.</td></tr></tbody></table>
+storage_and_handling:
+  Other information Store at controlled room temperature 15°-30°C (59°-86°F).
+questions:
+  Question? Comments? Call 1-205-313-8298
+inactive_ingredient:
+  Inactive ingredients Cherry flavor, citric acid, methylparaben, potassium citrate, potassium sorbate, propylparaben, propylene glycol, purified water, sorbitol, sucralose.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label NDC: 57963-103-16 G Tussin AC Antitussive/Expectorant • Sugar Free • Alcohol Free • Dye Free • Gluten Free Each 5 mL (1 teaspoonful) contains: Codeine phosphate, USP 10 mg Guaifenesin, USP 100 mg Caution: For manufacturing, processing, or repackaging. This is a bulk container; not intended for household use. Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing. Manufactured for: The Generic Pharmaceutical Company, Inc. Leeds, AL 35094 16 fl. oz. (473 mL) Principal Display Panel - 473 mL Bottle Label
+set_id:
+  b6fd0428-30d0-4abf-bb23-76c2dd9d7c92
+id:
+  c1c7d7e7-f18d-491d-91f2-b968c8a35d1e
+effective_time:
+  20210112
+version:
+  4
+openfda:

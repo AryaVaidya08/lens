@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  HAND-I-SAN Isopropyl Alcohol Hand Sanitizer GLYCERIN HYDROGEN PEROXIDE WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 75% v/v
+purpose:
+  Purpose Antiseptic Non-Sterile, Hand-Rub Solution
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria that can potentially cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat, sparks, flames, or hot surfaces. Do not smoke while applying this product. Ground/bond container and receiving equipment. Use explosion-proof electrical/ventilating/lighting equipment. Take precautionary measures against static discharge. Vapors may cause drowsiness or dizziness.
+do_not_use:
+  Do not use on children less than 2 months of age. open skin wounds.
+when_using:
+  When using this product, keep out of eyes, ears, and mouth. If swallowed, get medical help or contact a Poison Control Center immediately. In case of eye contact immediately flush eyes thoroughly with water.
+stop_use:
+  Stop using and ask a doctor if irritation or rash appears and lasts. These may be a sign of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Put enough product in palm to cover hands, and rub together briskly until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store between 15 ​° C to 30 ​° C (59 ​° F to 86 ​° F) Avoid freezing and excessive heat above 40 ​° C (104 ​° F), sparks, open flames, and hot surfaces.
+inactive_ingredient:
+  Inactive ingredients Glycerin, Hydrogen Peroxide, Purified Water USP
+spl_unclassified_section:
+  IN CASE OF EMERGENCY: CALL CHEMTREC: 1-800-424-9300
+package_label_principal_display_panel:
+  3.78L NDC: 86161-210-01 18.92L NDC: 86161-210-02 208.19L NDC: 86161-210-03 1040.98L NDC: 86161-210-04 1249.19L NDC: 86161-210-05 HAND-I-SAN
+set_id:
+  730967d6-8ba0-4045-ac43-391c26e0e5b3
+id:
+  1e9f57dd-9094-edfa-e063-6394a90a35ff
+effective_time:
+  20240801
+version:
+  3
+openfda:

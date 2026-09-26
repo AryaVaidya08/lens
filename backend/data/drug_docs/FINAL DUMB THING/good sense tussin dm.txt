@@ -1,0 +1,80 @@
+spl_product_data_elements:
+  good sense tussin dm dextromethorphan hydrobromide, guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID FD&C RED NO. 40 GLYCERIN PROPYLENE GLYCOL WATER SODIUM BENZOATE SODIUM CITRATE, UNSPECIFIED FORM SORBITOL SUCRALOSE XANTHAN GUM
+active_ingredient:
+  Active ingredients (in each 20 mL) Dextromethorphan HBr, USP 20 mg Guaifenesin, USP 200 mg
+purpose:
+  Purposes Cough suppressant Expectorant
+indications_and_usage:
+  Uses • temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold • helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • do not take more than 6 doses in any 24-hour period • measure only with dosing cup provided • keep dosing cup with product • mL = milliliter • this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 20 mL every 4 hours children under 12 years do not use
+dosage_and_administration_table:
+  <table width="100%"><col width="59%"/><col width="41%"/><tbody><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>age</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>dose</paragraph></td></tr><tr><td align="center" styleCode="Rrule Lrule Botrule " valign="top"><paragraph>adults and children 12 years and over</paragraph></td><td align="center" styleCode="Rrule Lrule Botrule " valign="top"><paragraph>20 mL every 4 hours</paragraph></td></tr><tr><td align="center" styleCode="Rrule Botrule Lrule " valign="top"><paragraph>children under 12 years</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule " valign="top"><paragraph>do not use</paragraph></td></tr></tbody></table>
+other_safety_information:
+  Other information • each 20 mL contains: sodium 14 mg • store at 20-25°C (68-77°F). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, FD&C red no. 40, flavor, glycerin, propylene glycol, purified water, sodium benzoate, sodium citrate, sorbitol solution, sucralose, xanthan gum
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel GoodSense ® Relabeled By: Preferred Pharmaceuticals Inc. NDC 68788-8300-1 Non-Drowsy See New Dosing Tussin DM Cough Suppressant (Dextromethorphan HBr) Expectorant (Guaifenesin) Cough & Chest Congestion Relieves: • Cough • Chest Congestion/Mucus Adult For Ages 12 & Over Raspberry Flavor Dosage Cup Included Compare to active ingredients of Robitussin ® Cough + Chest Congestion DM 4 FL OZ (118 mL) Tussin DM Cough Chest Congestion
+set_id:
+  15c8e177-a381-43b2-aed8-d917c7c4372e
+id:
+  9e8df732-dbdb-4d8b-b999-80d910527308
+effective_time:
+  20250113
+version:
+  3
+openfda:
+  application_number:
+    341
+  brand_name:
+    good sense tussin dm
+  generic_name:
+    DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN
+  manufacturer_name:
+    Preferred Pharmaceuticals Inc.
+  product_ndc:
+    68788-8300
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  rxcui:
+    1790650
+  spl_id:
+    9e8df732-dbdb-4d8b-b999-80d910527308
+  spl_set_id:
+    15c8e177-a381-43b2-aed8-d917c7c4372e
+  package_ndc:
+    68788-8300-1
+  original_packager_product_ndc:
+    0113-1725
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

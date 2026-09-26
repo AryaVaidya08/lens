@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Speed Stick Cool Clean ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY PALM KERNEL OIL STEARYL ALCOHOL CYCLOMETHICONE ALKYL (C12-15) BENZOATE PPG-14 BUTYL ETHER HYDROGENATED CASTOR OIL HYDROGENATED SOYBEAN OIL PEG-8 DISTEARATE DOCOSANOL CITRIC ACID MONOHYDRATE PENTAERYTHRITOL TETRAKIS(3-(3,5-DI-TERT-BUTYL-4-HYDROXYPHENYL)PROPIONATE) Off White
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022 U.S.A.
+active_ingredient:
+  Active ingredient Aluminum zirconium tetrachlorohydrex gly 15.8%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness 24 hour protection
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+stop_use:
+  Stop use if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients Elaeis Guineensis (Palm) Kernel Oil, Stearyl Alcohol, Cyclomethicone, C12-15 Alkyl Benzoate, PPG-14 Butyl Ether, Hydrogenated Castor Oil, Hydrogenated Soybean Oil, PEG-8 Distearate, Fragrance, Behenyl Alcohol, Citric Acid, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate.
+questions:
+  Questions? Call 1-800-228-7408
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 51 g Container Label ALL DAY DRY 24 HR PROTECTION SPEED ® STICK COOL CLEAN 9937778 ANTIPERSPIRANT | DEODORANT NET WT 1.8 OZ (51 g) PRINCIPAL DISPLAY PANEL - 51 g Container Label
+set_id:
+  137ce9d6-1ce4-46d3-92a9-34d0097d9e38
+id:
+  9d0aed77-d9d8-4985-9908-2019cf9a3310
+effective_time:
+  20210517
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Speed Stick Cool Clean
+  generic_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  manufacturer_name:
+    Colgate-Palmolive Company
+  product_ndc:
+    35000-607
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    9d0aed77-d9d8-4985-9908-2019cf9a3310
+  spl_set_id:
+    137ce9d6-1ce4-46d3-92a9-34d0097d9e38
+  package_ndc:
+    35000-607-43
+  is_original_packager:
+    True
+  upc:
+    0022200940252
+  unii:
+    8O386558JE

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Childrens Stomach Relief Antacid Calcium carbonate CALCIUM CARBONATE CALCIUM CATION D&C YELLOW NO. 10 BENZYL ALCOHOL FD&C RED NO. 40 GLYCERIN HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) METHYLPARABEN PROPYLPARABEN PROPYLENE GLYCOL WATER SODIUM CITRATE SORBITOL SUCRALOSE XANTHAN GUM
+active_ingredient:
+  ACTIVE INGREDIENT (in each 5 mL) Calcium carbonate 400 mg
+purpose:
+  PURPOSE Antacid
+indications_and_usage:
+  USE(S) relieves: acid indigestion heartburn sour stomach upset stomach associated with these symptoms
+warnings:
+  WARNINGS Do not take more than 15 mL (age 2-5 yrs) or 30 mL (age 6-11 yrs) in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF THE CHILD IS presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+stop_use:
+  STOP USE AND ASK DOCTOR IF symptoms lasts more than two weeks
+keep_out_of_reach_of_children:
+  KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN .
+dosage_and_administration:
+  DIRECTIONS shake well before use find the right dose on the chart below based on weight (preferred), otherwise use age. repeat dose as needed dosing cup provided mL=milliliter Dosing Chart Weight (lbs.) Age Dose under 24 under 2 yrs. ask a doctor 24-47 2-5 yrs. 5 mL 48-95 6-11 yrs. 10 mL
+dosage_and_administration_table:
+  <table cellspacing="0" cellpadding="0" border="0"><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="middle">Weight (lbs.) </td><td styleCode="Rrule" valign="middle">Age </td><td styleCode="Rrule" valign="middle"> Dose</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="middle"> under 24</td><td styleCode="Rrule" valign="middle"> under 2 yrs.</td><td styleCode="Rrule" valign="middle">ask a doctor </td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="middle"> 24-47</td><td styleCode="Rrule" valign="middle"> 2-5 yrs.</td><td styleCode="Rrule" valign="middle"> 5 mL</td></tr><tr><td styleCode="Lrule Rrule" valign="middle"> 48-95</td><td styleCode="Rrule" valign="middle"> 6-11 yrs.</td><td styleCode="Rrule" valign="middle"> 10 mL</td></tr></tbody></table>
+storage_and_handling:
+  OTHER INFORMATION each 5 mL contains: calcium 161 mg store at controlled room temperature 20-25ºC (68ºF-77ºF)
+inactive_ingredient:
+  INACTIVE INGREDIENTS benzyl alcohol, D&C yellow#10 dye, FD&C red#40 dye, flavors, glycerin, hydroxyethyl cellulose, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate, sorbitol, sucralose, xanthagum.
+spl_unclassified_section:
+  Questions or comments? 1-(609) 860-2600 Mon.- Fri. 8:00 am - 4:30 pm.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Compare to Kid's pepto® active ingredient* NDC 37808-638-03 H E B Children's Stomach Relief Calcium Carbonate 400 mg / 5 mL Antacid Relief of : Acid Indigestion Heartburn Sour Stomach Upset Stomach Orange Creme Flavor 4 FL OZ (118 mL) 657-heb.jpg
+set_id:
+  18fae1aa-1001-8035-e063-6394a90adc66
+id:
+  e6b41a8d-5bad-42bc-9de0-8262d04f170a
+effective_time:
+  20250114
+version:
+  2
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Childrens Stomach Relief Antacid
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    H E B
+  product_ndc:
+    37808-638
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308901
+  spl_id:
+    e6b41a8d-5bad-42bc-9de0-8262d04f170a
+  spl_set_id:
+    18fae1aa-1001-8035-e063-6394a90adc66
+  package_ndc:
+    37808-638-03
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

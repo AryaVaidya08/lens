@@ -1,0 +1,38 @@
+effective_time:
+  20151218
+inactive_ingredient:
+  Inactive ingredients water, glycerin, propylene glycol, sorbitol, poloxamer 407, flavor, potassium sorbate, citric acid, sodium saccharin, FD&C blue no. 1
+purpose:
+  Purpose Antigingivitis/antiplaque
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Ask a dentist if condition persists or worsens after regular use. Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? 1-800-468-6502
+spl_product_data_elements:
+  Colgate Total 12Hr Pro-Shield Peppermint Blast CETYLPYRIDINIUM CHLORIDE CETYLPYRIDINIUM CHLORIDE CETYLPYRIDINIUM WATER GLYCERIN PROPYLENE GLYCOL SORBITOL POLOXAMER 407 POTASSIUM SORBATE SACCHARIN SODIUM LEVOMENTHOL ANHYDROUS CITRIC ACID FD&C BLUE NO. 1
+ask_doctor:
+  Ask a dentist if condition persists or worsens after regular use.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions adults and children 12 years of age and older rinse for 30 seconds with 20 mL (4 teaspoonfuls) twice a day. Do not swallow. children 6 years to under 12 years of age supervise use children under 6 years of age do not use
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022
+storage_and_handling:
+  Other Information this rinse is not intended to replace brushing or flossing store at 59°F to 77°F keep from freezing
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1.5 L Bottle Label 50 % MORE FREE vs 33.8 FL OZ Colgate ® Antigingivitis Antiplaque Mouthwash ALCOHOL FREE Total ® 12 HR PRO-SHIELD* ® Germ Protection Even After Eating and Drinking ✓ Kills 99% of Germs on Contact ✓ Significantly Reduces Plaque ✓ Helps Prevent Gingivitis ✓ No Burn of Alcohol PEPPERMINT BLAST ® 50.7 FL OZ (1.58 QT) 1.5 L P9903753 PRINCIPAL DISPLAY PANEL - 1.5 L Bottle Label
+indications_and_usage:
+  Uses helps prevent and reduce plaque and gingivitis
+set_id:
+  946128c1-103b-4018-8a9f-8099ca4d5a63
+id:
+  d78cfec5-3585-44a9-9686-865dc332076a
+active_ingredient:
+  Active ingredient Cetylpyridinium chloride 0.075%
+dosage_and_administration_table:
+  <table width="70%" styleCode="Noautorules"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults and children 12 years of age and older</td> <td>rinse for 30 seconds with 20 mL (4 teaspoonfuls) twice a day. Do not swallow.</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children 6 years to under 12 years of age</td> <td>supervise use</td> </tr> <tr> <td styleCode="Rrule">children under 6 years of age</td> <td>do not use</td> </tr> </tbody> </table>

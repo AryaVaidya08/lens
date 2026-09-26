@@ -1,0 +1,32 @@
+effective_time:
+  20200706
+inactive_ingredient:
+  Inactive Ingredients Water(Aqua),Sodium Laureth Sulfate,Cocamidopropyl Betaine, Sodium Chloride, Sodium Benzoate Phenoxyethanol,Polysorbate 20, Fragrance, Glycerin
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of the reach of children, except under adult supervision. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product do not use in near the eyes. In case of contact, rinse eyes throughly with water. Keep out of the reach of children, except under adult supervision. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in near the eyes. In case of contact, rinse eyes throughly with water.
+spl_product_data_elements:
+  Antibacterial Hand Lavender Sage BENZALKONIUM CHLORIDE WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE SODIUM BENZOATE PHENOXYETHANOL POLYSORBATE 20 GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Wash hands and rinse
+spl_unclassified_section:
+  Drug Facts
+package_label_principal_display_panel:
+  Package Labeling:500ml Label
+  Package Labeling:3.78L Label2
+indications_and_usage:
+  Use helps eliminate bacteria on hands
+set_id:
+  16ee39b0-16bf-45af-9376-0b72a8ea4ae9
+id:
+  a9c67cbd-e33a-1656-e053-2995a90ab628
+active_ingredient:
+  Active Ingredient 0.13% Benalkonium chloride Purpose Antibacterial

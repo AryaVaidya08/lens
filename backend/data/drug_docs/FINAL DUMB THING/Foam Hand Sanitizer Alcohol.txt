@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Foam Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER SODIUM LACTATE LACTIC ACID, UNSPECIFIED FORM
+spl_unclassified_section:
+  Drug Facts
+  © 2010 Rubbermaid Commercial Products LLC 3124 Valley Avenue, Winchester, VA U.S.A. 22601-2694 www.rubbermaidcommercial.com
+active_ingredient:
+  Active Ingredient Alcohol 75% (v/v)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand washing to decrease bacteria on skin.
+warnings:
+  Warnings Flammable, keep away from fire or flame. For external use only. Do not ingest. Avoid contact with eyes. Discontinue use and consult a healthcare practitioner if irritation and redness develops. Keep out of reach of children.
+do_not_use:
+  Flammable, keep away from fire or flame. For external use only. Do not ingest. Avoid contact with eyes.
+stop_use:
+  Discontinue use and consult a healthcare practitioner if irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), PEG-6 Caprilic/Capric Glycerides, Shea Butteramidopropyl Betaine, Disodium Lauriminodipropionate Tocopheryl Phosphates, Sodium Lactate, PEG/PPG-25/25 Dimethicone, Lactic Acid, PEG-14M
+questions:
+  Questions? 1-800-347-9800 Mon–Fri, 8AM–5 PM EST
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 550 mL Bottle Label Rubbermaid ® Commercial Products TC ® ENRICHED FOAM™ Alcohol Plus Hand Sanitizer With Shea Butter & Vitamin E 550 mL (18.6 FL. OZ.) Principal Display Panel - 550 mL Bottle Label
+set_id:
+  64086ae6-3909-4f72-99ed-9f1699ec2871
+id:
+  f4b164db-cb41-4da7-9607-6fa4931b3621
+effective_time:
+  20140220
+version:
+  3
+openfda:

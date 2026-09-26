@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Moxiecare Antibacterial Wipes Moxiecare Antibacterial Wipes AMMONIUM HYPOPHOSPHITE WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Containingl Alcohol 75%
+purpose:
+  Purpose Purpose: Antibacterial Wipes
+indications_and_usage:
+  Use Multi-purpose, Antibacterial wipes that reduce bacteria, viruses, and common allergens on hands and non-porous surfaces.
+warnings:
+  Warnings Flammable. For external use only. Keep away from heat or flame.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  Kepp out and ask ears, and mouth. In case of contact with eyes, rinse eyes thoroughly.Keep out owith waterctor if irritation or rash occurs. These may be signs of a serious conditionout of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry.Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Dispose of wipe in trash after each use. Do not flush Store between 15-30C(59-86F)Avoid freezing and excessive heat above 40C(104F).
+inactive_ingredient:
+  Inactive ingredients RO PURE WATER, DOUBLE-CHAIN QUATERNARY AMMONIUM SALT
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 2 1
+set_id:
+  a47c2f36-2c6e-149d-e053-2a95a90a34c5
+id:
+  a47c2f42-7b8b-da83-e053-2995a90af48c
+effective_time:
+  20200430
+version:
+  1
+openfda:

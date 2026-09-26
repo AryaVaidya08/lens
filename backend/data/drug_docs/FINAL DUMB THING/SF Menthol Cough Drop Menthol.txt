@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  SF Menthol Cough Drop Menthol MENTHOL MENTHOL WATER B Light Blue with Blue Flakes
+active_ingredient:
+  Active Ingredient (in each drop) Menthol 5.8 mg
+purpose:
+  Purpose Cough suppressant/Oral anesthetic
+indications_and_usage:
+  Uses temporarily relieves: cough as may occur with a cold occasional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. If sore mouth symptoms do not improve in 7 days, see your dentist or doctor promptly. These symptoms may be serious.
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore throat is severe, or irritation, pain or redness lasts or worsens sore mouth symptoms do not improve in 7 days.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Adults and children 5 years of age and over: dissolve lozenge slowly in the mouth. Repeat every 2 hours as needed or as directed by a doctor. Children under 5 years of age: ask a doctor
+other_safety_information:
+  Other information 6 calories per drop Excess consumption may cause a laxative effect. do not use if bag is torn or open
+inactive_ingredient:
+  Inactive ingredients: acesulfame potassium, corn starch, eucalyptus oil, FD&C Blue no. 1, FD&C Red no. 40, glycerin, gum arabic, isomalt, maltitol syrup, medium chain triglycerides, natural and srtificial flavors, potassium sorbate, soybean oil, sucralose, and water.
+questions:
+  Questions? Or to report an adverse event call 1-800-245-2898 . Monday - Friday, 9AM to 4PM EST
+package_label_principal_display_panel:
+  Rite Aid SF Menthol 70ct Cough Drops
+set_id:
+  4b55307a-a642-4ca3-e054-00144ff88e88
+id:
+  08a48426-8787-5d99-e063-6394a90a505c
+effective_time:
+  20231026
+version:
+  7
+openfda:

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Alcohol Pads ISOPROPYL ALCOHOL WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Isopropyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Use for the preparation of skin prior to injection and to decrease germs in minor cuts and scrapes
+warnings:
+  Warnings For external use only. Flammable. Keep away from flame or fire
+stop_use:
+  Stop use and ask a doctor if irritation develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children except with adult supervision. If swallowed, get medical help or contact a Poison Control Center at 1-800-222-1222
+dosage_and_administration:
+  Directions for use Apply topically as needed to cleanse intended area. Discard after single use.
+storage_and_handling:
+  Other information Shelf life: 36 months Store below 104F (40C) The product batch number and expiry date are shown on the packaging
+inactive_ingredient:
+  Inactive ingredients Water, Non-woven
+package_label_principal_display_panel:
+  box packaging Lianfa
+set_id:
+  1bc1257e-5411-404d-b504-201070279ef8
+id:
+  0b7a8999-645c-3b47-e063-6294a90a9dbe
+effective_time:
+  20231201
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Alcohol Pads
+  generic_name:
+    ISOPROPYL ALCOHOL
+  manufacturer_name:
+    Shandong Lianfa Medical Plastic Products CO.,LTD
+  product_ndc:
+    81849-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ISOPROPYL ALCOHOL
+  rxcui:
+    797544
+  spl_id:
+    0b7a8999-645c-3b47-e063-6294a90a9dbe
+  spl_set_id:
+    1bc1257e-5411-404d-b504-201070279ef8
+  package_ndc:
+    81849-001-02
+  is_original_packager:
+    True
+  unii:
+    ND2M416302

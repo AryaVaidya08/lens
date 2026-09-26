@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Foster and Thrive Regular Strength Antacid Peppermint Calcium carbonate CALCIUM CARBONATE CALCIUM CATION STARCH, CORN DEXTROSE, UNSPECIFIED FORM MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC CROSPOVIDONE, UNSPECIFIED G113
+active_ingredient:
+  ACTIVE INGREDIENT (in each tablet) Calcium carbonate 500 mg
+purpose:
+  PURPOSE Antacid
+indications_and_usage:
+  USES relieves: acid indigestion heartburn
+warnings:
+  WARNINGS .
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  WHEN USING THIS PRODUCT do not take more than 15 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST FEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN .
+dosage_and_administration:
+  DIRECTIONS adults and children 12 years of age and over: Wet in mouth before chewing chew 2-4 tablets as symptoms occur, or as directed by a doctor.
+storage_and_handling:
+  OTHER INFORMATION each tablet contains: elemental calcium 200 mg do not use if printed seal under the cap is torn or missing. store below 30˚C (86˚F). keep the container tightly closed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS corn starch, crospovidone, dextrose, flavor, magnesium stearate, maltodextrin, sucrose, talc.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 70677-1081-1 COMPARE TO TUMS ® ACTIVE INGREDIENT* Foster & Thrive TM REGULAR STRENGTH Antacid Tablets Calcium Carbonate 500 mg Relieves: Heartburn Acid Indigestion PEPPERMINT 150 CHEWABLE TABLETS 113-Regular strength Antacid
+set_id:
+  49d1b6c4-432b-44d3-b073-0185dbed7a90
+id:
+  54bafb37-76d0-4012-b8b4-061dcaf343ed
+effective_time:
+  20241212
+version:
+  2
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Foster and Thrive Regular Strength Antacid Peppermint
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    Strategic Sourcing Services LLC
+  product_ndc:
+    70677-1081
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308907
+  spl_id:
+    54bafb37-76d0-4012-b8b4-061dcaf343ed
+  spl_set_id:
+    49d1b6c4-432b-44d3-b073-0185dbed7a90
+  package_ndc:
+    70677-1081-1
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

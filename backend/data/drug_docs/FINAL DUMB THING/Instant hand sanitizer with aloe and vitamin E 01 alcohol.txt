@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Instant hand sanitizer with aloe and vitamin E 01 alcohol ALOE VERA LEAF ALOE ISOPROPYL MYRISTATE FD&C YELLOW NO. 5 CARBOMER 940 WATER ISOPROPYL ALCOHOL AMINOMETHYLPROPANOL FD&C BLUE NO. 1 ALCOHOL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE GLYCERIN PROPYLENE GLYCOL
+description:
+  Drug Facts instant hand sanitizer with aloe and vitamin E
+active_ingredient:
+  Medicical Ingredient Medicical Ingredient Purpose Ethyl Alcohol 62% Antiseptic
+purpose:
+  Features To decrease bacteria on the skin that could cause disease. Recommended for repeated use. use anywhere without water.
+dosage_and_administration:
+  Recommended for repeated use. use anywhere without water.
+warnings:
+  Warning For external use only. Flammable, keep away from heat and flame. Discontinue if skin becomes irritated and ask a doctor . Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+warnings_and_cautions:
+  For external use only. Flammable, keep away from heat and flame.
+stop_use:
+  Discontinue if skin becomes irritated and ask a doctor .
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+inactive_ingredient:
+  Non-Medicinal Alcohol，Aqua(water)，Isopropyl Alcohol，Glycerin，Carbomer，Aminomethyl Propanol，Parfum，Propylene Glycol，ISOPROPYL MYRISTATE，ALOE BARBADENSIS LEAF JUICE，Tocopheryl Acetate，YELLOW 5，BLUE 1
+indications_and_usage:
+  Directions Wet hands thoroughly with product and rub until dry without wiping For children under 6, use only under adult supervision. Not recommended for infants. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin. Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+do_not_use:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin.
+cleaning:
+  Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+package_label_principal_display_panel:
+  INSTANT HAND SANITIZER WITH ALOE AND VITAMIN E
+set_id:
+  a117ce27-4d21-10a8-e053-2a95a90a4283
+id:
+  a2f9d125-1da6-991c-e053-2995a90a7e64
+effective_time:
+  20200410
+version:
+  3
+openfda:

@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  AGE INTERVENTION DUALITY BENZOYL PEROXIDE BENZOYL PEROXIDE BENZOYL PEROXIDE WATER GLYCERIN GLYCERYL STEARATE CITRATE POLYSORBATE 20 POLYSORBATE 60 STEARYL ALCOHOL RETINOL SORBITOL CAMELLIA OLEIFERA LEAF PALMITOYL TETRAPEPTIDE-7 PALMITOYL HEXAPEPTIDE-12 CHRYSIN DIMETHICONE STEARETH-20 PHENOXYETHANOL HEXYLENE GLYCOL ETHYLHEXYLGLYCERIN CAPRYLYL GLYCOL VERY PALE YELLOW
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Benzoyl Peroxide-10%
+purpose:
+  Purpose Anti-acne
+indications_and_usage:
+  Uses For the treatment of Acne. Reduces the severity of acne blemishes, acne pimples, blackheads, whiteheads and allows the skin to heal.
+warnings:
+  Warnings For External Use Only. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Do not use if you have very sensitive skin are sensitive to benzoyl peroxide When using this product avoid unnecessary sun exposure and use a sunscreen avoid contact with hair and dyed fabrics, which may be bleached by this product avoid contact with the eyes, lips and mouth skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration Stop use and ask a physician if irritation becomes severe Keep out of reach of children. If accidentally swallowed, seek medical help immediately or contact the Poison Control Center.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.
+  When using this product avoid unnecessary sun exposure and use a sunscreen avoid contact with hair and dyed fabrics, which may be bleached by this product avoid contact with the eyes, lips and mouth skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration
+do_not_use:
+  Do not use if you have very sensitive skin are sensitive to benzoyl peroxide
+stop_use:
+  Stop use and ask a physician if irritation becomes severe
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If accidentally swallowed, seek medical help immediately or contact the Poison Control Center.
+dosage_and_administration:
+  DIRECTIONS Clean the skin thoroughly before applying this product. This product contains two parts. Dispense equal quantities of product from each of the two pumps, then briefly mix the two parts together on your palm. Cover the entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a physician. If bothersome dryness or peeling occurs, reduce application to once a day or every other day. If going outside, apply sunscreen after using this product. If irritation or sensitivity develops, stop use of both products and ask a physician.
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), Propylene Glycol, Glycerin, Sorbitol, Polyacrylamide, C13-14 Isoparaffin, Cyclopentasiloxane, Cyclohexasiloxane, Carbomer, Laureth 7, Disodium EDTA, Triethanolamine, Diazolidinyl Urea, Methylparaben, Propylbaraben
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 28 g Carton AGE INTERVENTION ® DUALITY ™ Benzoyl Peroxide 10% Adult Acne Treatment Cream and Anti-Aging Complex JANMARINI SKIN RESEARCH ® 28 g / 1 oz. PRINCIPAL DISPLAY PANEL - 28 g Carton
+set_id:
+  33fb5893-ea63-49a3-bb02-6b98c747c4fe
+id:
+  698580fb-8dea-4a63-9cbb-3a1df814b407
+effective_time:
+  20241115
+version:
+  4
+openfda:
+  application_number:
+    M006
+  brand_name:
+    AGE INTERVENTION DUALITY
+  generic_name:
+    BENZOYL PEROXIDE
+  manufacturer_name:
+    G.S. COSMECEUTICAL USA, INC.
+  product_ndc:
+    65113-2372
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZOYL PEROXIDE
+  rxcui:
+    106315
+  spl_id:
+    698580fb-8dea-4a63-9cbb-3a1df814b407
+  spl_set_id:
+    33fb5893-ea63-49a3-bb02-6b98c747c4fe
+  package_ndc:
+    65113-2372-2
+  is_original_packager:
+    True
+  upc:
+    0814924011376
+  unii:
+    W9WZN9A0GM

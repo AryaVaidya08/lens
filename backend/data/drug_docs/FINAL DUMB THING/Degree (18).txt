@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Degree Ultraclear Black plus White Clean Lavender Antiperspirant Deodorant COUMARIN LINALOOL, (+/-)- .ALPHA.-HEXYLCINNAMALDEHYDE .BETA.-CITRONELLOL, (R)- LIMONENE, (+)- GLYCINE HYDROGENATED CASTOR OIL CALCIUM CHLORIDE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE HIGH DENSITY POLYETHYLENE PEG-8 DISTEARATE MALTODEXTRIN PPG-14 BUTYL ETHER STEARYL ALCOHOL SILICON DIOXIDE BENZYL SALICYLATE CITRAL BENZYL ALCOHOL
+description:
+  DEGREE ULTRACLEAR BLACK + WHITE CLEAN LAVENDER ANTIPERSPIRANT DEODORANT - aluminum sesquichlorohydrate stick
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Sesquichlorohydrate (9.6%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, PPG-14 Butyl Ether, Stearyl Alcohol, Polyethylene, Fragrance (Parfum), Glycine, Hydrogenated Castor Oil, PEG-8 Distearate, Calcium Chloride, Sodium Starch Octenylsuccinate, Silica, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Benzyl Alcohol, Benyl Salicylate, Citral, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool
+questions:
+  Questions? Call toll-free 1-866-334-7331
+package_label_principal_display_panel:
+  Packaging Degree Clean Lavender AP Deo IS
+set_id:
+  1ac7b9cf-c84e-22a2-e063-6394a90a5213
+id:
+  1ac7c57d-0bbb-0190-e063-6394a90a8882
+effective_time:
+  20240613
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Degree
+  generic_name:
+    ULTRACLEAR BLACK PLUS WHITE CLEAN LAVENDER ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2313
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    1ac7c57d-0bbb-0190-e063-6394a90a8882
+  spl_set_id:
+    1ac7b9cf-c84e-22a2-e063-6394a90a5213
+  package_ndc:
+    64942-2313-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Aura Cacia Hand Sanitizer Unscented Alcohol GLYCERIN WATER HYDROGEN PEROXIDE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  DISTRIBUTED BY FRONTIER CO-OP NORWAY, IA 52318 USA 1-800-669-3275 ©2020 FRONTIER CO-OP WWW.AURACACIA.COM
+active_ingredient:
+  Active ingredient Alcohol 80% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses for hand washing to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings For external use only Flammable. Keep away from fire or flame. When using this product avoid contact with the eyes. In case of contact, flush eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develop or persist for more than 72 hours.
+when_using:
+  When using this product avoid contact with the eyes. In case of contact, flush eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop or persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product allow to dry without wiping supervise children under 6 years old not recommended for infants
+storage_and_handling:
+  Other information Store between 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients Purified water USP, glycerin, hydrogen peroxide.
+package_label_principal_display_panel:
+  AURA CACIA® HAND SANITIZER Non-sterile Solution UNSCENTED Alcohol Antiseptic 80% Topical Solution Kills 99.9% of Common Germs 2 FL OZ (59 mL) UNSCENTED 2 FL OZ
+set_id:
+  a7cf1567-1bdb-b2a0-e053-2995a90a7c8a
+id:
+  0cf79b4d-c1c2-2268-e063-6294a90a1239
+effective_time:
+  20231220
+version:
+  6
+openfda:

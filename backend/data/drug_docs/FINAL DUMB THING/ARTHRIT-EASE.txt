@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  ARTHRIT-EASE MENTHOL ALOE VERA LEAF ARNICA MONTANA FLOWER WATER CALENDULA OFFICINALIS FLOWER CETEARYL OLIVATE CHAMOMILE CUCUMBER EMU OIL GLUCONOLACTONE GLUCOSAMINE SULFATE GLYCERIN HELIANTHUS ANNUUS FLOWERING TOP TEA TREE OIL DIMETHYL SULFONE SALIX NIGRA BARK SODIUM BENZOATE SORBITAN OLIVATE XANTHAN GUM CORN MENTHOL MENTHOL
+spl_unclassified_section:
+  DRUG FACTS:
+  Additional Information: Store at room temperature.
+active_ingredient:
+  Active Ingredient: Menthol 5.00% Topical Analgesic
+purpose:
+  Topical Analgesic
+indications_and_usage:
+  Indications: For the temporary relief of minor aches and pains of the muscles and joints associated with arthritis, simple backache, sprains, bruises and strains.
+warnings:
+  Warnings: For external use only. Avoid contact with eyes. If symptoms persist for more than seven days. discontinue use and consult physician. Keep out of reach of children. If swallowed, consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly. If pregnant or breast feeding, contact physician prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, contact physician prior to use.
+dosage_and_administration:
+  Directions: Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. Children under two-years of age: consult a physician.
+inactive_ingredient:
+  Other Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Arnica Montana Flower Extract, Aqua (Deionized Water), Boswellia Serrate Extract, Calendula Officinalis Extract, Cetearyl Olivate, Chamomilla Rectutita (Chamomile) Extract, Chondroitin Sulfate, Cucumis Sativus (Cucumber) Fruit Extract, Emu Oil, Gluconolactone, Glucosamine Sulfate, Glycerin, Helianthus Annuus (Sunflower) Oil, Melaleuca Alternifolia (Tea Tree) Oil, Methylsulfonylmethane (MSM), Salix Nigra (Willow Bark) Extract, Sodium Benzoate, Sorbitan Olivate, Xanthan Gum, Zemea (Corn) Propanediol.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  43b69234-1464-3766-e054-00144ff8d46c
+id:
+  071db38c-3139-fb5e-e063-6394a90abf5d
+effective_time:
+  20231007
+version:
+  2
+openfda:

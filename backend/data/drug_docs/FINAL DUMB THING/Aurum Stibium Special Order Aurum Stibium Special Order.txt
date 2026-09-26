@@ -1,0 +1,29 @@
+effective_time:
+  20210310
+inactive_ingredient:
+  Inactive Ingredients: Water, Salt
+purpose:
+  Use: Temporary relief of headache.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use.
+questions:
+  Questions? Call 866.642.2858 Uriel, East Troy, WI 53120 www.urielpharmacy.com
+spl_product_data_elements:
+  Aurum Stibium Special Order Aurum Stibium Special Order WATER SODIUM CHLORIDE COMFREY ROOT COMFREY ROOT GOLD GOLD
+openfda:
+version:
+  4
+dosage_and_administration:
+  Take the contents of one ampule under the tongue and hold for 30 seconds, then swallow.
+package_label_principal_display_panel:
+  AurumStibiumSpecialOrderAmpules
+indications_and_usage:
+  Directions: FOR ORAL USE.
+set_id:
+  9b3d6be1-ad3d-4d6a-a577-6fe794824a15
+id:
+  bd358bce-dbb2-b4d8-e053-2a95a90a1202
+active_ingredient:
+  Active Ingredients: Stibium met. (Antimony) 8X, Aurum met. (Metallic gold) 10X

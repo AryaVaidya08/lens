@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  American Red Cross Antibacterial Bar BENZALKONIUM CHLORIDE SODIUM PALMATE WATER SODIUM PALM KERNELATE GLYCERIN SODIUM CHLORIDE TITANIUM DIOXIDE BENZALKONIUM CHLORIDE BENZALKONIUM AMERICAN;RED;CROSS
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask doctor if irritation or redness develop. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask doctor if irritation or redness develop.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet bar with water, lather vigorously and use all over body. Rinse clean.
+inactive_ingredient:
+  Inacive ingredients Sodium Palmate, Aqua, Sodium Palm Kernelate, Glycerin, Fragrance, Sodium Chloride, Titanium Dioxide.
+questions:
+  Questions or comments? 1-877-879-6999
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  eab6bee4-e780-4f0d-aa9c-a0111f033b32
+id:
+  4b80499f-62de-15a0-e063-6394a90a6436
+effective_time:
+  20260223
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    American Red Cross Antibacterial Bar
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    My Imports Usa, LLC
+  product_ndc:
+    51628-0034
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    2057666
+  spl_id:
+    4b80499f-62de-15a0-e063-6394a90a6436
+  spl_set_id:
+    eab6bee4-e780-4f0d-aa9c-a0111f033b32
+  package_ndc:
+    51628-0034-0
+  is_original_packager:
+    True
+  upc:
+    0850065393926
+  unii:
+    F5UM2KM3W7

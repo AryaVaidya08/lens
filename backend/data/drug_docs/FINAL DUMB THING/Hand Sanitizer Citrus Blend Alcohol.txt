@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Hand Sanitizer Citrus Blend Alcohol CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE VERA LEAF GLYCERIN TROLAMINE ORANGE OIL LEMON OIL ALCOHOL ALCOHOL
+spl_unclassified_section:
+  DRUG FACTS
+  DISTRIBUTED BY MedZone Products LLC 9300 Marshall Dr, Ste. 200, Lenexa, Kansas 66215 USA
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62% v/v
+purpose:
+  Purposes Antiseptic
+indications_and_usage:
+  Uses: for handwashing to decrease bacteria on the skin when water is not available
+warnings:
+  Warnings: For external use only | Flammable, keep away from fire or flame, heat, sparks, and sources of static discharge | Do not swallow
+do_not_use:
+  Do not use: In eyes | Keep out of reach of children | On open skin wounds
+keep_out_of_reach_of_children:
+  
+when_using:
+  When using this product: If in eyes, rinse promptly and thoroughly with water | Discontinue use if irritation and redness develops
+stop_use:
+  Stop use and ask a doctor If irritation or rash occurs. These may be signs of a serious condition. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Apply product onto hands, spread thoroughly and rub dry.
+inactive_ingredient:
+  Inactive Ingredients: Aloe Barbadensis (Aloe Vera) Leaf Juice, Glycerin, Citrus Sinensis (Sweet Orange) Peel Oil, Citrus Medica Limonum (Lemon) Peel Oil, Carbomer, Triethanolamine.
+storage_and_handling:
+  Other: For additional information, see Safety Data Sheets (SDS) | For emergency medical information in USA and Canada, call 1-888-255-3924 | For emergency medical information worldwide, call 1-813-248-0573 | Store between 15-30°C (59-86°F) | Avoid freezing and excessive heat above 40°C (104°F)
+questions:
+  Questions? Toll Free 866-633-9663 www.medzonecorp.com | info@medzonecorp.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 59 mL Bottle Label MedZone ® SINCE 2001 Hand Sanitizer GEL -CITRUS BLEND- 2 FL OZ (59mL) Label
+set_id:
+  a85213ea-8158-39b2-e053-2995a90ae59c
+id:
+  a85213ea-8159-39b2-e053-2995a90ae59c
+effective_time:
+  20200617
+version:
+  1
+openfda:

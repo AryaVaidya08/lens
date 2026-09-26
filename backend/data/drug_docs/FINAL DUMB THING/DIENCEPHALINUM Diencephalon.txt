@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  DIENCEPHALINUM Diencephalon SUCROSE LACTOSE ORYCTOLAGUS CUNICULUS HYPOTHALAMUS ORYCTOLAGUS CUNICULUS HYPOTHALAMUS
+active_ingredient:
+  Active Ingredient DIENCEPHALINUM 200K GR DIENCEPHALINUM 30K GR DIENCEPHALINUM 4CH GR
+purpose:
+  Indications Helps to support nighttime rest and maintain normal sleep cycle
+warnings:
+  Warning: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose, sucrose.
+dosage_and_administration:
+  Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+questions:
+  QUESTIONS? 1-888-737-6925.
+indications_and_usage:
+  Indications Helps to support nighttime rest and maintain normal sleep cycle Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken Homeopathic Remedy NDC : 62106-6988-4 DIENCEPHALINUM Diencephalon 140 granules Indications Helps to support nighttime rest and maintain normal sleep cycle 62106-6988
+set_id:
+  11a88159-a00d-1983-e054-00144ff8d46c
+id:
+  065d82f5-79ae-0e47-e063-6394a90a660a
+effective_time:
+  20230927
+version:
+  4
+openfda:

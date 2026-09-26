@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Calc Fluor 12X Calc Fluor 12X LACTOSE MONOHYDRATE CALCIUM FLUORIDE FLUORIDE ION SBL
+active_ingredient:
+  Calcarea Fluorica 12X
+inactive_ingredient:
+  Lactose
+warnings:
+  Stop use and ask doctor if symptoms worsen or persist longer than 7 days. Do not use if tamper evident seal is missing or broken.
+indications_and_usage:
+  Temporary relief from minor joint pain, sensitive teeth, cracked skin.
+purpose:
+  Temporary relief of minor joint pain, sensitive teeth, cracked skin.
+dosage_and_administration:
+  Adults and children 12 years of age and older: Four tablets every thirty minutes for six doses followed by four tablets every 4-6 hours as needed. Children 2 years to 12 years of age: Four tablets every thirty minutes for six doses followed by two tablets every 4-6 hours as needed. Children under 2 years of age: Consult doctor prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  calc fluor 12x.jpg
+set_id:
+  b29e3d0e-10ee-3460-e053-2995a90a1993
+id:
+  b29e8bb9-cd7e-11cd-e053-2995a90afe95
+effective_time:
+  20201026
+version:
+  1
+openfda:

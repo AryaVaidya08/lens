@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  MODAKA HAND SANITIZER ETHYL ALCOHOL ALCOHOL ALCOHOL WATER PROPYLENE GLYCOL TREHALOSE CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) SODIUM BENZOATE POTASSIUM SORBATE TROLAMINE DENDROBIUM BIGIBBUM FLOWER CALENDULA OFFICINALIS FLOWER ALLANTOIN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient (s) Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Anti-Bacterial, Anti-microbial and Germs
+indications_and_usage:
+  Use (s) for hand-washing to decrease bacteria on the skin, only when water is not available
+warnings:
+  Warnings Flammable, keep away from fire and flames For external use only When using this product - do not get into eyes - if contact occurs, rinse eyes thoroughly with water Stop use and ask a doctor if - irritation and redness develop Keep out reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+keep_out_of_reach_of_children:
+  Keep out reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Direction No water required. Apply to hands, rub in, ensuring contact with fingernails and in between fingers. Can also be applied to the body.
+inactive_ingredient:
+  Inactive Ingredients water, Propylene Glycol, Trehalose, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Benzoate, Potasssium Sorbate, Triethanolamine, Dendrobium Bigibbum Flower, Calendula Officinalis (Marigold) Flower Extract, Fragrance, Allantoin.
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  99c04ee7-ac58-412b-aabc-aef4673c1bfe
+id:
+  79b17b85-9923-4a5b-8893-d02af1972a42
+effective_time:
+  20200515
+version:
+  1
+openfda:

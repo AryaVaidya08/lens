@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Dailycare Antibacterial Hand Sanitizer Original Unscented Alcohol ALCOHOL ALCOHOL WATER CARBOMER COPOLYMER TYPE A AMINOMETHYLPROPANOL ALPHA-TOCOPHEROL
+spl_unclassified_section:
+  Drug Facts
+  No Animal Testing
+active_ingredient:
+  Active ingredient Ethyl Alcohol 65%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Decrease bacteria on hands.
+warnings:
+  Warnings For external use only. Flammable. Keep product away from fire or flame. When using this product avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), ACRYLATES/C10-30 ALKYL ACRYLATE CROSSCOPOLYMER, AMINOMETHYL PROPANOL, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract.
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  6111f44f-955f-4847-951c-e03b0c338e1a
+id:
+  7ff85340-9249-42d2-bbe8-22579b5c6993
+effective_time:
+  20201017
+version:
+  1
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Alcohol Disinfectant Alcohol Disinfectant ALCOHOL ALCOHOL WATER THOMSON
+dosage_and_administration:
+  Store at 20°C (68° to 77°F).keep in dark place
+inactive_ingredient:
+  water
+indications_and_usage:
+  Wet hands thoroughly with product and allow to dry without wiping. Supervise children in the use of this product.
+active_ingredient:
+  Ethanol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization
+warnings:
+  For external use only.Flammable. Keep away from fire or flame.Do not use in the eyes. In case of contact,rinse eyes thoroughly with water.
+package_label_principal_display_panel:
+  label
+set_id:
+  a56c8dca-2ff2-69da-e053-2995a90ad70d
+id:
+  a738e3cc-1a9c-2377-e053-2995a90aa47f
+effective_time:
+  20200603
+version:
+  3
+openfda:

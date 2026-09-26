@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Instant Hand Sanitizer 75% Ethyl Alcohol Sanitizer GLYCERIN TROLAMINE WATER ALCOHOL ALCOHOL CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED)
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Ethyl alcohol 75% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria on the skin that could cause disease.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly and rub together until dry No towels needed
+other_safety_information:
+  Other information Store below 110°F (43°C)
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Isopropyl Alcohol, Glycerin, Carbomer, Triethanolamine
+package_label_principal_display_panel:
+  16.9 FL OZ (500ml) Distributed by: Bad Students Inc. Irvine, CA 92614 www.LMZUS.com Made in China Label
+  Distributed by: Bad Students Inc. Irvine, CA 92614 www.LMZUS.com Made in China
+  Label
+set_id:
+  a0b337ce-871d-6376-e053-2a95a90a9eaf
+id:
+  a0b337ce-871e-6376-e053-2a95a90a9eaf
+effective_time:
+  20200312
+version:
+  1
+openfda:

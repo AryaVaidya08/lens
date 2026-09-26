@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  SinuCleanse Neti-Pot SODIUM BICARBONATE, SODIUM CHLORIDE SinuCleanse SODIUM BICARBONATE, SODIUM CHLORIDE WATER SODIUM CHLORIDE SODIUM CATION SODIUM BICARBONATE SODIUM CATION BICARBONATE ION
+purpose:
+  Purpose Nasal Wash
+indications_and_usage:
+  Uses Temporarily relieves symptoms associated with sinusitis, cold, flu or allergies -Sneezing -Nasal Stuffiness -Runny nose -Post nasal drip Removes inhaled irritants (dust, pollen) Removes nasal and sinus drainage Helps reduce swelling of nasal membranes Moisturizes dry nasal passages
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Warnings Stop use and ask a doctor if washing is uncomfortable or symptoms are not relieved. Do not use unfiltered tap water. see instructions inside box for proper water sources Do not use if nasal passages are completely blocked or if you have an ear infection or blocked ears.
+dosage_and_administration:
+  Directions Adults and children 4 years and over: Use 1-2 packets per 8 fl oz (240 mL) up to every 2 hours as needed. Children under 4 years: Consult a physician See enclosed instruction sheet for complete directions and proper use.
+other_safety_information:
+  Other Information -Inspect saline packets for integrity -Do not use saline packets if open or torn -Protect saline packets from excessive heat and moisture -See saline packets or box for lot number and expiration date Questions? 1-888-547-5492
+active_ingredient:
+  Active ingredients (in each packet) Sodium Bicarbonate USP (700 mg) Sodium Chloride USP (2300 mg)
+inactive_ingredient:
+  Inactive Ingredients None
+instructions_for_use:
+  Instructions for Use of the SinuCleanse Neti Pot Directions: Read through entire section before using for the first time. 1. Empty the contents of one SinuCleanse Saline Wash packet into the SinuCleanse Neti Pot. First-time users should start with 1/2 packet of the SinuCleanse dry ingredients. As you become more accustomed to the system, work up to using 1 full packet. Additional packets may be purchased from your nearest pharmacy. 2. Fill the pot halfway or to the middle of the indentation with a proper water source.* This makes 1/2 cup (4 oz. ) solution. 3. Stir thoroughly until dry ingredients have completely dissolved. 4. Proper head position allows solution to flow through the nose by gravity. - Lean over the sink with your head bent down so you are looking directly into the basin. Holding the pot in your right hand, gently insert the spout into your right nostril so that it forms a comfortable seal. - Rotate your head so that the right nostril is directly above the left. The forehead should remain higher than the chin. Raise the handle of the pot so that the solution enters the right nostril. In a few moments, the solution will begn to drain out the left nostril into the sink. Do not inhale or "snort" solution into the nose - breathe through your mouth. 5. When the pot i empty, exhale through both nostrils to clear them of excess mucus and solution. Gently blow your nose into a tissue. 6. Repeat the procedure on the other side. 7. Thoroughly rinse the pot after each use with water that has been distilled, sterilized, filtered or previously boiled and leave the pot to air dry completely. The SinuCleanse Neti Pot is top-rack dishwasher safe.
+package_label_principal_display_panel:
+  copy of label
+set_id:
+  ba953a99-4885-4823-9905-75ce3eae160c
+id:
+  2d072944-c4d1-52a1-e063-6394a90a587b
+effective_time:
+  20250131
+version:
+  11
+openfda:
+  brand_name:
+    SinuCleanse Neti-Pot
+  generic_name:
+    SODIUM BICARBONATE, SODIUM CHLORIDE
+  manufacturer_name:
+    ASCENT CONSUMER PRODUCTS, INC.
+  product_ndc:
+    42829-402
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  rxcui:
+    1542919
+  spl_id:
+    2d072944-c4d1-52a1-e063-6394a90a587b
+  spl_set_id:
+    ba953a99-4885-4823-9905-75ce3eae160c
+  package_ndc:
+    42829-402-30
+    42829-401-01
+  is_original_packager:
+    True

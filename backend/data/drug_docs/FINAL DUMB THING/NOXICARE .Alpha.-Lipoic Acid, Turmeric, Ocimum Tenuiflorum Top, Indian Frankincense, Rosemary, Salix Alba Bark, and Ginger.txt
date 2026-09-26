@@ -1,0 +1,49 @@
+effective_time:
+  20121220
+purpose:
+  Active Ingredients: PURPOSE "HPUS" is an abbreviation for Homeopathic Pharmacopoeia of the United States Alpha-lipoic ac 4x HPUS (alpha-lipoic acid) Antioxidant Curcuma longa 4x (Turmeric extract) Anti-inflammatory Ocimum sanc 4x HPUS (Holy basil extract) Anti-inflammatory Olibanum 4x HPUS (Boswellia extract) Anti-inflammatory Rosmarinus 4x HPUS (Rosemary extract) Analgesic Salix Alba 4x HPUS (White willow extract) Anti-inflammatory Zingiber 4x HPUS (Ginger extract) Anti-inflammatory
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek immediate medical help or contact a Poison Control Center right away.
+questions:
+  QUESTIONS & COMMENTS 877-NOXICARE
+pregnancy_or_breast_feeding:
+  If pregnant or nursing ask a healthcare professional before use.
+storage_and_handling:
+  Other Information Tube contains tamper-evident seal under cap. Store between 15-30°C (60-86°F)
+indications_and_usage:
+  Uses Temporary relief of pain associated with: Joint and Muscle Inflammation Nerve damage Fitness and Sports Injuries
+set_id:
+  f6bd40be-6f2c-48b0-8a5c-fc0dc7285d29
+id:
+  52adf0e7-14dd-4833-a166-1a4afff4ff11
+active_ingredient:
+  Active Ingredients: PURPOSE "HPUS" is an abbreviation for Homeopathic Pharmacopoeia of the United States Alpha-lipoic ac 4x HPUS (alpha-lipoic acid) Antioxidant Curcuma longa 4x (Turmeric extract) Anti-inflammatory Ocimum sanc 4x HPUS (Holy basil extract) Anti-inflammatory Olibanum 4x HPUS (Boswellia extract) Anti-inflammatory Rosmarinus 4x HPUS (Rosemary extract) Analgesic Salix Alba 4x HPUS (White willow extract) Anti-inflammatory Zingiber 4x HPUS (Ginger extract) Anti-inflammatory
+inactive_ingredient:
+  Inactive Ingredients Caprylyl Glycol, Cetylalcohol, Coco Caprylate/Caprate, Dimethicone, DMDM Hydantoin, Ethylhexylglycerin, Glycerin, Glyceryl Stearate, Hexylene Glycol, Octyl Methoxycinnamate, PEG-100 Stearate, Petrolatum, Phenoxyethanol, Stearic Acid, Stearyl Stearate, Tocopheryl Acetate (Vitamin-E), Water
+warnings:
+  Warnings For external use only. If symptoms persist or worsen, consult a physician. Do not use on open skin or sores. Ask a doctor before use if under 18 years of age. Discontinue use if signs of irritation or rash appear. If pregnant or nursing ask a healthcare professional before use. Keep out of reach of children. If swallowed, seek immediate medical help or contact a Poison Control Center right away. Caution: Avoid contact with the eyes. If product comes in contact with the eyes, flush with warm water.
+spl_product_data_elements:
+  NOXICARE .Alpha.-Lipoic Acid, Turmeric, Ocimum Tenuiflorum Top, Indian Frankincense, Rosemary, Salix Alba Bark, and Ginger .Alpha.-Lipoic Acid .Alpha.-Lipoic Acid Turmeric Turmeric Ocimum Tenuiflorum Top Ocimum Tenuiflorum Top Indian Frankincense Indian Frankincense Rosemary Rosemary Salix Alba Bark Salix Alba Bark Ginger Ginger Caprylyl Glycol Cetyl Alcohol Coco-Caprylate/Caprate Dimethicone DMDM Hydantoin Ethylhexylglycerin Glycerin Glyceryl Monostearate Hexylene Glycol Octinoxate PEG-100 Stearate Petrolatum Phenoxyethanol Stearic Acid Stearyl Stearate .Alpha.-Tocopherol Water
+ask_doctor:
+  If symptoms persist or worsen, consult a physician.
+  Ask a doctor before use if under 18 years of age.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Apply generously to problem areas and rub the cream in completely, 2-3 times per day.
+spl_unclassified_section:
+  Drug Facts
+  Manufactured in USA for Truceuticals ® Inc. 5530 Wisconsin Avenue, Suite 1550 Chevy Chase, MD 20815
+stop_use:
+  Discontinue use if signs of irritation or rash appear.
+do_not_use:
+  For external use only.
+  Do not use on open skin or sores.
+  Caution: Avoid contact with the eyes. If product comes in contact with the eyes, flush with warm water.
+active_ingredient_table:
+  <table width="48%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients:</content> </th> <th> <content styleCode="italics">PURPOSE</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" valign="top" colspan="2">&quot;HPUS&quot; is an abbreviation for Homeopathic Pharmacopoeia of the United States</td> </tr> </tfoot> <tbody> <tr> <td>Alpha-lipoic ac 4x HPUS (alpha-lipoic acid)</td> <td>Antioxidant</td> </tr> <tr> <td>Curcuma longa 4x (Turmeric extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Ocimum sanc 4x HPUS (Holy basil extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Olibanum 4x HPUS (Boswellia extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Rosmarinus 4x HPUS (Rosemary extract)</td> <td>Analgesic</td> </tr> <tr> <td>Salix Alba 4x HPUS (White willow extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Zingiber 4x HPUS (Ginger extract)</td> <td>Anti-inflammatory</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 100ml Tube Carton NOXICARE ™ Natural PAIN RELIEF cream Formulated by Reza Ghorbani, MD ABIPP, FIPP Joint Pain Muscle Pain Nerve Pain 3.5 fl. oz (100ml) PRINCIPAL DISPLAY PANEL - 100ml Tube Carton
+purpose_table:
+  <table width="48%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active Ingredients:</content> </th> <th> <content styleCode="italics">PURPOSE</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" valign="top" colspan="2">&quot;HPUS&quot; is an abbreviation for Homeopathic Pharmacopoeia of the United States</td> </tr> </tfoot> <tbody> <tr> <td>Alpha-lipoic ac 4x HPUS (alpha-lipoic acid)</td> <td>Antioxidant</td> </tr> <tr> <td>Curcuma longa 4x (Turmeric extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Ocimum sanc 4x HPUS (Holy basil extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Olibanum 4x HPUS (Boswellia extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Rosmarinus 4x HPUS (Rosemary extract)</td> <td>Analgesic</td> </tr> <tr> <td>Salix Alba 4x HPUS (White willow extract)</td> <td>Anti-inflammatory</td> </tr> <tr> <td>Zingiber 4x HPUS (Ginger extract)</td> <td>Anti-inflammatory</td> </tr> </tbody> </table>

@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Calsium Carbonate 10 gr Calcium Carbonate CROSCARMELLOSE SODIUM MAGNESIUM STEARATE STEARIC ACID MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE CALCIUM CARBONATE CALCIUM CATION AP;025
+spl_unclassified_section:
+  Drug Facts
+  Other information each tablet contains: calcium 260 mg store at room temperature 15°-30°C (59°-86°F)
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+  Distributed by: Reliable 1 Laboratories LLC Valley Stream, NY 11580 www.reliable1labs.com
+active_ingredient:
+  Active ingredient (in each tablet) Calcium carbonate 10 gr
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves acid indigestion heartburn sour stomach upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if symptoms last more than 2 weeks.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions take one to four tablets daily do not take more than 4 tablets in 23 hours do not use the maximun dosage for more than 2 weeks
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, magnesium stearate, maltodextrin, microcrystalline cellulose, stearic acid
+questions:
+  Question or comments? call 516-341-0666, 8:30 am - 4:30 pm ET, Monday - Friday
+package_label_principal_display_panel:
+  NDC 69618-021-10 Calcium Carbonate 10 gr ANTACID 1000 TABLETS CALCIUM CARBONATE
+set_id:
+  32bc07dc-7a94-63ed-e054-00144ff8d46c
+id:
+  cf5ebcfc-abec-602e-e053-2a95a90a46e8
+effective_time:
+  20211027
+version:
+  3
+openfda:

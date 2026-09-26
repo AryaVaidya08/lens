@@ -1,0 +1,794 @@
+[
+    {
+        "drug_id":  "ozempic",
+        "name":  "Ozempic",
+        "generic":  "SEMAGLUTIDE",
+        "ndcs":  [
+                     "50090-8027"
+                 ],
+        "path":  "Ozempic/ozempic.txt"
+    },
+    {
+        "drug_id":  "wegovy",
+        "name":  "Wegovy",
+        "generic":  "SEMAGLUTIDE",
+        "ndcs":  [
+                     "50090-5824"
+                 ],
+        "path":  "Wegovy/wegovy.txt"
+    },
+    {
+        "drug_id":  "mounjaro",
+        "name":  "Mounjaro",
+        "generic":  "TIRZEPATIDE",
+        "ndcs":  [
+                     "0002-3002",
+                     "0002-1506",
+                     "0002-1495",
+                     "0002-1484",
+                     "0002-1471",
+                     "0002-1460",
+                     "0002-1457",
+                     "0002-1152",
+                     "0002-1243",
+                     "0002-2214",
+                     "0002-2340",
+                     "0002-2423",
+                     "0002-4052",
+                     "0002-4103",
+                     "0002-4210",
+                     "0002-4304",
+                     "0002-4523",
+                     "0002-4612",
+                     "0002-3466",
+                     "0002-3455",
+                     "0002-3444",
+                     "0002-3433",
+                     "0002-3422",
+                     "0002-3411"
+                 ],
+        "path":  "Mounjaro/mounjaro.txt"
+    },
+    {
+        "drug_id":  "trulicity",
+        "name":  "Trulicity",
+        "generic":  "DULAGLUTIDE",
+        "ndcs":  [
+                     "0002-3182",
+                     "0002-1433",
+                     "0002-1434",
+                     "0002-2236"
+                 ],
+        "path":  "Trulicity/trulicity.txt"
+    },
+    {
+        "drug_id":  "jardiance",
+        "name":  "Jardiance",
+        "generic":  "EMPAGLIFLOZIN",
+        "ndcs":  [
+                     "71610-900"
+                 ],
+        "path":  "Jardiance/jardiance.txt"
+    },
+    {
+        "drug_id":  "farxiga",
+        "name":  "Farxiga",
+        "generic":  "DAPAGLIFLOZIN",
+        "ndcs":  [
+                     "50090-3481",
+                     "50090-3482"
+                 ],
+        "path":  "Farxiga/farxiga.txt"
+    },
+    {
+        "drug_id":  "eliquis",
+        "name":  "Eliquis",
+        "generic":  "APIXABAN",
+        "ndcs":  [
+                     "71610-811"
+                 ],
+        "path":  "Eliquis/eliquis.txt"
+    },
+    {
+        "drug_id":  "xarelto",
+        "name":  "Xarelto",
+        "generic":  "RIVAROXABAN",
+        "ndcs":  [
+                     "50458-575",
+                     "50458-577",
+                     "50458-580",
+                     "50458-578",
+                     "50458-579",
+                     "50458-584"
+                 ],
+        "path":  "Xarelto/xarelto.txt"
+    },
+    {
+        "drug_id":  "entresto",
+        "name":  "Entresto",
+        "generic":  "SACUBITRIL AND VALSARTAN",
+        "ndcs":  [
+                     "0078-0659",
+                     "0078-0777",
+                     "0078-9659",
+                     "0078-9777",
+                     "0078-0696",
+                     "0078-1231",
+                     "0078-1238"
+                 ],
+        "path":  "Entresto/entresto.txt"
+    },
+    {
+        "drug_id":  "lipitor",
+        "name":  "Lipitor",
+        "generic":  "ATORVASTATIN CALCIUM",
+        "ndcs":  [
+                     "58151-155",
+                     "58151-156",
+                     "58151-157",
+                     "58151-158"
+                 ],
+        "path":  "Lipitor/lipitor.txt"
+    },
+    {
+        "drug_id":  "crestor",
+        "name":  "Crestor",
+        "generic":  "ROSUVASTATIN",
+        "ndcs":  [
+                     "0310-7560",
+                     "0310-7570",
+                     "0310-7580",
+                     "0310-7590"
+                 ],
+        "path":  "Crestor/crestor.txt"
+    },
+    {
+        "drug_id":  "norvasc",
+        "name":  "Norvasc",
+        "generic":  "AMLODIPINE BESYLATE",
+        "ndcs":  [
+                     "58151-353",
+                     "58151-354",
+                     "58151-355"
+                 ],
+        "path":  "Norvasc/norvasc.txt"
+    },
+    {
+        "drug_id":  "keytruda",
+        "name":  "Keytruda",
+        "generic":  "PEMBROLIZUMAB",
+        "ndcs":  [
+                     "0006-3026",
+                     "0006-3029"
+                 ],
+        "path":  "Keytruda/keytruda.txt"
+    },
+    {
+        "drug_id":  "opdivo",
+        "name":  "Opdivo",
+        "generic":  "NIVOLUMAB",
+        "ndcs":  [
+                     "0003-3734",
+                     "0003-3772",
+                     "0003-3774",
+                     "0003-3756"
+                 ],
+        "path":  "Opdivo/opdivo.txt"
+    },
+    {
+        "drug_id":  "humira",
+        "name":  "Humira",
+        "generic":  "ADALIMUMAB",
+        "ndcs":  [
+                     "83457-124",
+                     "83457-554",
+                     "83457-243",
+                     "83457-616",
+                     "83457-817"
+                 ],
+        "path":  "Humira/humira.txt"
+    },
+    {
+        "drug_id":  "skyrizi",
+        "name":  "Skyrizi",
+        "generic":  "RISANKIZUMAB-RZAA",
+        "ndcs":  [
+                     "0074-1050",
+                     "0074-2042",
+                     "0074-2100",
+                     "0074-1070",
+                     "0074-5015",
+                     "0074-1065",
+                     "0074-7034",
+                     "0074-7036",
+                     "0074-7040",
+                     "0074-7042",
+                     "0074-8300",
+                     "0074-8350",
+                     "0074-4059"
+                 ],
+        "path":  "Skyrizi/skyrizi.txt"
+    },
+    {
+        "drug_id":  "stelara",
+        "name":  "Stelara",
+        "generic":  "USTEKINUMAB",
+        "ndcs":  [
+                     "57894-054",
+                     "57894-061",
+                     "57894-060"
+                 ],
+        "path":  "Stelara/stelara.txt"
+    },
+    {
+        "drug_id":  "dupixent",
+        "name":  "Dupixent",
+        "generic":  "DUPILUMAB",
+        "ndcs":  [
+                     "0024-5914",
+                     "0024-5918",
+                     "0024-5915",
+                     "0024-5919"
+                 ],
+        "path":  "Dupixent/dupixent.txt"
+    },
+    {
+        "drug_id":  "cosentyx",
+        "name":  "Cosentyx",
+        "generic":  "SECUKINUMAB",
+        "ndcs":  [
+                     "0078-0639",
+                     "0078-1056",
+                     "0078-1070",
+                     "0078-1168"
+                 ],
+        "path":  "Cosentyx/cosentyx.txt"
+    },
+    {
+        "drug_id":  "rinvoq",
+        "name":  "Rinvoq",
+        "generic":  "UPADACITINIB",
+        "ndcs":  [
+                     "0074-1043",
+                     "0074-2306",
+                     "0074-2310",
+                     "0074-2320"
+                 ],
+        "path":  "Rinvoq/rinvoq.txt"
+    },
+    {
+        "drug_id":  "biktarvy",
+        "name":  "Biktarvy",
+        "generic":  "BICTEGRAVIR SODIUM, EMTRICITABINE, AND TENOFOVIR ALAFENAMIDE FUMARATE",
+        "ndcs":  [
+                     "50090-6247"
+                 ],
+        "path":  "Biktarvy/biktarvy.txt"
+    },
+    {
+        "drug_id":  "paxlovid",
+        "name":  "Paxlovid",
+        "generic":  "NIRMATRELVIR AND RITONAVIR",
+        "ndcs":  [
+                     "0069-5045",
+                     "0069-5321",
+                     "0069-5317",
+                     "0069-0521",
+                     "0069-5434",
+                     "0069-5450"
+                 ],
+        "path":  "Paxlovid/paxlovid.txt"
+    },
+    {
+        "drug_id":  "synthroid",
+        "name":  "Synthroid",
+        "generic":  "LEVOTHYROXINE SODIUM",
+        "ndcs":  [
+                     "0074-3727",
+                     "0074-4341",
+                     "0074-4552",
+                     "0074-5182",
+                     "0074-6594",
+                     "0074-6624",
+                     "0074-9296",
+                     "0074-7068",
+                     "0074-7069",
+                     "0074-7070",
+                     "0074-7148",
+                     "0074-7149"
+                 ],
+        "path":  "Synthroid/synthroid.txt"
+    },
+    {
+        "drug_id":  "adderall",
+        "name":  "Adderall",
+        "generic":  "DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE",
+        "ndcs":  [
+                     "57844-105",
+                     "57844-117",
+                     "57844-110",
+                     "57844-112",
+                     "57844-115",
+                     "57844-120",
+                     "57844-130"
+                 ],
+        "path":  "Adderall/adderall.txt"
+    },
+    {
+        "drug_id":  "gabapentin",
+        "name":  "Gabapentin",
+        "generic":  "GABAPENTIN",
+        "ndcs":  [
+                     "71335-1093"
+                 ],
+        "path":  "Gabapentin/gabapentin.txt"
+    },
+    {
+        "drug_id":  "prilosec",
+        "name":  "Prilosec",
+        "generic":  "OMEPRAZOLE MAGNESIUM",
+        "ndcs":  [
+                     "70515-610",
+                     "70515-625"
+                 ],
+        "path":  "Prilosec/prilosec.txt"
+    },
+    {
+        "drug_id":  "januvia",
+        "name":  "Januvia",
+        "generic":  "SITAGLIPTIN",
+        "ndcs":  [
+                     "50090-3472"
+                 ],
+        "path":  "Januvia/januvia.txt"
+    },
+    {
+        "drug_id":  "lantus",
+        "name":  "Lantus",
+        "generic":  "INSULIN GLARGINE",
+        "ndcs":  [
+                     "0088-2219",
+                     "0088-2220"
+                 ],
+        "path":  "Lantus/lantus.txt"
+    },
+    {
+        "drug_id":  "humalog",
+        "name":  "Humalog",
+        "generic":  "INSULIN LISPRO, DILUENT",
+        "ndcs":  [
+                     "0002-7712",
+                     "0002-7510",
+                     "0002-7533",
+                     "0002-8799",
+                     "0002-7516",
+                     "0002-7714",
+                     "0002-8213",
+                     "0002-0800"
+                 ],
+        "path":  "Humalog/humalog.txt"
+    },
+    {
+        "drug_id":  "spiriva",
+        "name":  "Spiriva",
+        "generic":  "TIOTROPIUM BROMIDE INHALATION SPRAY",
+        "ndcs":  [
+                     "0597-0100",
+                     "0597-0160"
+                 ],
+        "path":  "Spiriva/spiriva.txt"
+    },
+    {
+        "drug_id":  "advair",
+        "name":  "Advair",
+        "generic":  "FLUTICASONE PROPIONATE AND SALMETEROL",
+        "ndcs":  [
+                     "50090-4505"
+                 ],
+        "path":  "Advair/advair.txt"
+    },
+    {
+        "drug_id":  "flonase",
+        "name":  "Flonase",
+        "generic":  "FLUTICASONE FUROATE",
+        "ndcs":  [
+                     "0135-0615"
+                 ],
+        "path":  "Flonase/flonase.txt"
+    },
+    {
+        "drug_id":  "singulair",
+        "name":  "Singulair",
+        "generic":  "MONTELUKAST SODIUM",
+        "ndcs":  [
+                     "78206-170",
+                     "78206-171",
+                     "78206-173",
+                     "78206-172"
+                 ],
+        "path":  "Singulair/singulair.txt"
+    },
+    {
+        "drug_id":  "prozac",
+        "name":  "Prozac",
+        "generic":  "FLUOXETINE HYDROCHLORIDE",
+        "ndcs":  [
+                     "0777-3104",
+                     "0777-3105",
+                     "0777-3107"
+                 ],
+        "path":  "Prozac/prozac.txt"
+    },
+    {
+        "drug_id":  "zoloft",
+        "name":  "Zoloft",
+        "generic":  "SERTRALINE HYDROCHLORIDE",
+        "ndcs":  [
+                     "58151-574",
+                     "58151-575",
+                     "58151-576",
+                     "58151-601"
+                 ],
+        "path":  "Zoloft/zoloft.txt"
+    },
+    {
+        "drug_id":  "xanax",
+        "name":  "Xanax",
+        "generic":  "ALPRAZOLAM",
+        "ndcs":  [
+                     "0009-0090",
+                     "0009-0029",
+                     "0009-0055",
+                     "0009-0094"
+                 ],
+        "path":  "Xanax/xanax.txt"
+    },
+    {
+        "drug_id":  "ambien",
+        "name":  "Ambien",
+        "generic":  "ZOLPIDEM TARTRATE",
+        "ndcs":  [
+                     "0713-5401",
+                     "0713-5421"
+                 ],
+        "path":  "Ambien/ambien.txt"
+    },
+    {
+        "drug_id":  "oxycontin",
+        "name":  "OxyContin",
+        "generic":  "OXYCODONE HYDROCHLORIDE",
+        "ndcs":  [
+                     "59011-410",
+                     "59011-415",
+                     "59011-420",
+                     "59011-430",
+                     "59011-440",
+                     "59011-460",
+                     "59011-480"
+                 ],
+        "path":  "OxyContin/oxycontin.txt"
+    },
+    {
+        "drug_id":  "tylenol",
+        "name":  "Tylenol",
+        "generic":  "ACETAMINOPHEN",
+        "ndcs":  [
+                     "50580-590"
+                 ],
+        "path":  "Tylenol/tylenol.txt"
+    },
+    {
+        "drug_id":  "advil",
+        "name":  "Advil",
+        "generic":  "IBUPROFEN",
+        "ndcs":  [
+                     "0573-0149",
+                     "0573-0169",
+                     "0573-1769"
+                 ],
+        "path":  "Advil/advil.txt"
+    },
+    {
+        "drug_id":  "nexium",
+        "name":  "Nexium",
+        "generic":  "ESOMEPRAZOLE MAGNESIUM",
+        "ndcs":  [
+                     "0186-4010",
+                     "0186-5020",
+                     "0186-4020",
+                     "0186-4040",
+                     "0186-5040",
+                     "0186-4025",
+                     "0186-4050"
+                 ],
+        "path":  "Nexium/nexium.txt"
+    },
+    {
+        "drug_id":  "plavix",
+        "name":  "Plavix",
+        "generic":  "CLOPIDOGREL",
+        "ndcs":  [
+                     "0024-1171",
+                     "0024-1332"
+                 ],
+        "path":  "Plavix/plavix.txt"
+    },
+    {
+        "drug_id":  "lasix",
+        "name":  "Lasix",
+        "generic":  "FUROSEMIDE",
+        "ndcs":  [
+                     "30698-060",
+                     "30698-067",
+                     "30698-066"
+                 ],
+        "path":  "Lasix/lasix.txt"
+    },
+    {
+        "drug_id":  "prednisone",
+        "name":  "Prednisone",
+        "generic":  "PREDNISONE",
+        "ndcs":  [
+                     "63629-2254"
+                 ],
+        "path":  "Prednisone/prednisone.txt"
+    },
+    {
+        "drug_id":  "augmentin",
+        "name":  "Augmentin",
+        "generic":  "AMOXICILLIN AND CLAVULANATE POTASSIUM",
+        "ndcs":  [
+                     "71297-240"
+                 ],
+        "path":  "Augmentin/augmentin.txt"
+    },
+    {
+        "drug_id":  "cipro",
+        "name":  "Cipro",
+        "generic":  "CIPROFLOXACIN HYDROCHLORIDE, CIPROFLOXACIN",
+        "ndcs":  [
+                     "50419-754",
+                     "50419-758",
+                     "50419-777",
+                     "50419-773"
+                 ],
+        "path":  "Cipro/cipro.txt"
+    },
+    {
+        "drug_id":  "zithromax",
+        "name":  "Zithromax",
+        "generic":  "AZITHROMYCIN DIHYDRATE",
+        "ndcs":  [
+                     "0069-3150"
+                 ],
+        "path":  "Zithromax/zithromax.txt"
+    },
+    {
+        "drug_id":  "tamiflu",
+        "name":  "Tamiflu",
+        "generic":  "OSELTAMIVIR PHOSPHATE",
+        "ndcs":  [
+                     "0004-0800",
+                     "0004-0802",
+                     "0004-0801",
+                     "0004-0822"
+                 ],
+        "path":  "Tamiflu/tamiflu.txt"
+    },
+    {
+        "drug_id":  "valtrex",
+        "name":  "Valtrex",
+        "generic":  "VALACYCLOVIR HYDROCHLORIDE",
+        "ndcs":  [
+                     "70518-2039"
+                 ],
+        "path":  "Valtrex/valtrex.txt"
+    },
+    {
+        "drug_id":  "chantix",
+        "name":  "Chantix",
+        "generic":  "VARENICLINE TARTRATE",
+        "ndcs":  [
+                     "63187-618"
+                 ],
+        "path":  "Chantix/chantix.txt"
+    },
+    {
+        "drug_id":  "viagra",
+        "name":  "Viagra",
+        "generic":  "SILDENAFIL CITRATE",
+        "ndcs":  [
+                     "0069-4200",
+                     "0069-4210",
+                     "0069-4220"
+                 ],
+        "path":  "Viagra/viagra.txt"
+    },
+    {
+        "drug_id":  "cialis",
+        "name":  "Cialis",
+        "generic":  "TADALAFIL",
+        "ndcs":  [
+                     "0002-4462",
+                     "0002-4463",
+                     "0002-4464"
+                 ],
+        "path":  "Cialis/cialis.txt"
+    },
+    {
+        "drug_id":  "premarin",
+        "name":  "Premarin",
+        "generic":  "ESTROGENS, CONJUGATED",
+        "ndcs":  [
+                     "0046-1100",
+                     "0046-1101",
+                     "0046-1102",
+                     "0046-1104",
+                     "0046-1103"
+                 ],
+        "path":  "Premarin/premarin.txt"
+    },
+    {
+        "drug_id":  "prolia",
+        "name":  "Prolia",
+        "generic":  "DENOSUMAB",
+        "ndcs":  [
+                     "55513-710"
+                 ],
+        "path":  "Prolia/prolia.txt"
+    },
+    {
+        "drug_id":  "ibrance",
+        "name":  "Ibrance",
+        "generic":  "PALBOCICLIB",
+        "ndcs":  [
+                     "63539-284",
+                     "63539-486",
+                     "63539-688"
+                 ],
+        "path":  "Ibrance/ibrance.txt"
+    },
+    {
+        "drug_id":  "imbruvica",
+        "name":  "Imbruvica",
+        "generic":  "IBRUTINIB",
+        "ndcs":  [
+                     "57962-007",
+                     "57962-070",
+                     "57962-140",
+                     "57962-014",
+                     "57962-280",
+                     "57962-420"
+                 ],
+        "path":  "Imbruvica/imbruvica.txt"
+    },
+    {
+        "drug_id":  "darzalex",
+        "name":  "Darzalex",
+        "generic":  "DARATUMUMAB AND HYALURONIDASE-FIHJ (HUMAN RECOMBINANT)",
+        "ndcs":  [
+                     "57894-503"
+                 ],
+        "path":  "Darzalex/darzalex.txt"
+    },
+    {
+        "drug_id":  "revlimid",
+        "name":  "Revlimid",
+        "generic":  "LENALIDOMIDE",
+        "ndcs":  [
+                     "59572-402",
+                     "59572-405",
+                     "59572-410",
+                     "59572-415",
+                     "59572-420",
+                     "59572-425"
+                 ],
+        "path":  "Revlimid/revlimid.txt"
+    },
+    {
+        "drug_id":  "enbrel",
+        "name":  "Enbrel",
+        "generic":  "ETANERCEPT",
+        "ndcs":  [
+                     "58406-010",
+                     "58406-425",
+                     "58406-021",
+                     "58406-032",
+                     "58406-044",
+                     "58406-055"
+                 ],
+        "path":  "Enbrel/enbrel.txt"
+    },
+    {
+        "drug_id":  "remicade",
+        "name":  "Remicade",
+        "generic":  "INFLIXIMAB",
+        "ndcs":  [
+                     "57894-030"
+                 ],
+        "path":  "Remicade/remicade.txt"
+    },
+    {
+        "drug_id":  "ocrevus",
+        "name":  "Ocrevus",
+        "generic":  "OCRELIZUMAB",
+        "ndcs":  [
+                     "50242-150"
+                 ],
+        "path":  "Ocrevus/ocrevus.txt"
+    },
+    {
+        "drug_id":  "tysabri",
+        "name":  "Tysabri",
+        "generic":  "NATALIZUMAB",
+        "ndcs":  [
+                     "64406-008"
+                 ],
+        "path":  "Tysabri/tysabri.txt"
+    },
+    {
+        "drug_id":  "tecfidera",
+        "name":  "Tecfidera",
+        "generic":  "DIMETHYL FUMARATE",
+        "ndcs":  [
+                     "64406-005",
+                     "64406-007",
+                     "64406-006"
+                 ],
+        "path":  "Tecfidera/tecfidera.txt"
+    },
+    {
+        "drug_id":  "gilenya",
+        "name":  "Gilenya",
+        "generic":  "FINGOLIMOD HCL",
+        "ndcs":  [
+                     "0078-0607",
+                     "0078-0965"
+                 ],
+        "path":  "Gilenya/gilenya.txt"
+    },
+    {
+        "drug_id":  "aimovig",
+        "name":  "Aimovig",
+        "generic":  "ERENUMAB-AOOE",
+        "ndcs":  [
+                     "55513-840",
+                     "55513-841",
+                     "55513-843",
+                     "55513-842"
+                 ],
+        "path":  "Aimovig/aimovig.txt"
+    },
+    {
+        "drug_id":  "nurtec",
+        "name":  "Nurtec",
+        "generic":  "RIMEGEPANT SULFATE",
+        "ndcs":  [
+                     "85766-096"
+                 ],
+        "path":  "Nurtec/nurtec.txt"
+    },
+    {
+        "drug_id":  "trikafta",
+        "name":  "Trikafta",
+        "generic":  "ELEXACAFTOR, TEZACAFTOR, AND IVACAFTOR",
+        "ndcs":  [
+                     "51167-106",
+                     "51167-331",
+                     "51167-445",
+                     "51167-446"
+                 ],
+        "path":  "Trikafta/trikafta.txt"
+    },
+    {
+        "drug_id":  "spinraza",
+        "name":  "Spinraza",
+        "generic":  "NUSINERSEN",
+        "ndcs":  [
+                     "64406-036",
+                     "64406-058",
+                     "64406-037"
+                 ],
+        "path":  "Spinraza/spinraza.txt"
+    }
+]

@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Leukotrap RC PL System CP2D/AS-3 Anticoagulant and Additive System DEXTROSE, UNSPECIFIED FORM ANHYDROUS DEXTROSE SODIUM CITRATE CITRIC ACID MONOHYDRATE SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE
+description:
+  Leukotrap RC PL system
+how_supplied:
+  Sterile, non-pyrogenic fluid path, sterilized by steam
+intended_use_of_the_device:
+  For collection of 500 ml of whole blood and preparation of red blood cells and plasma and platelets with pre-storage leukocyte reduction
+storage_and_handling:
+  Store at room temperature, avoid excessive heat, protect from freezing. Unused bags in opened pouch may be kept up to 30 days by folding and securing open end of pouch to prevent possible loss of moisture.
+package_label_principal_display_panel:
+  IFU 4 IFU 3 IFU 2 IFU 1 case label Pouch label Bag label Bag label Bag label
+set_id:
+  54e9a497-7a94-44c9-e063-6294a90a84da
+id:
+  54e9a497-7a95-44c9-e063-6294a90a84da
+effective_time:
+  20260623
+version:
+  1
+openfda:
+  application_number:
+    BN820915
+  brand_name:
+    Leukotrap RC PL System
+  generic_name:
+    CP2D/AS-3 ANTICOAGULANT AND ADDITIVE SYSTEM
+  manufacturer_name:
+    GVS TM INC
+  product_ndc:
+    87069-123
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    INTRAVENOUS
+  substance_name:
+    DEXTROSE, UNSPECIFIED FORM
+  spl_id:
+    54e9a497-7a95-44c9-e063-6294a90a84da
+  spl_set_id:
+    54e9a497-7a94-44c9-e063-6294a90a84da
+  package_ndc:
+    87069-123-63
+  is_original_packager:
+    True
+  unii:
+    IY9XDZ35W2

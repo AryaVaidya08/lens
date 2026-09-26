@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Fordagel Kit Neuracin Topical Analgesic Gel BENZYL ALCOHOL TROLAMINE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE POLYSORBATE 80 WATER METHYL SALICYLATE SALICYLIC ACID CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM
+active_ingredient:
+  Active Ingredients (in each gram) Camphor 4% Menthol 10% Methyl Salicylate 30%
+purpose:
+  Purpose Topical Anesthetic
+indications_and_usage:
+  Uses Temporarily relieves minor pain associated with: simple backache muscle strains bruises muscle sprains
+warnings:
+  Warnings For External Use Only. When using this product avoid contact with eyes and mucous membranes do not apply to wounds or damaged skin do not bandage tightly or use heating pad use only as directed Stop and ask a doctor if condition gets worse symptoms last more than 7 days symptoms clear up and occur again in a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help, or contact Poison Control Center right away. If pregnant or breastfeeding, ask a health professional before use.
+dosage_and_administration:
+  Directions Apply to affected area not more than 3 to 4 times daily. Children under 12 years of age: ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Benzyl alcohol, Carbomer, Pemulen, Polysorbate 80, Purified Water, Triethanolamine Questions? 908-280-2269
+package_label_principal_display_panel:
+  NDC: 82461-650-57 RxOnly For Topical Use Only Fordagel Topical Analgesic Gel Neuracin Topical Analgesic Gel (Camphor 4%; Menthol 10%; Methyl Salicylate 30%) 2oz. (56.7 grams) Alcohol Pads – (Sterile) (70% isopropyl alcohol,-15 Prep Pads) Keep this and all medication out of reach of children. See enclosed insert(s) for full prescribing information. Storage: Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature] . label
+set_id:
+  156eccfa-b515-4e69-9c72-2239dfcab5a1
+id:
+  372a64a3-5fd7-470c-9810-fac1f9ada542
+effective_time:
+  20220919
+version:
+  3
+openfda:

@@ -1,0 +1,59 @@
+effective_time:
+  20200603
+inactive_ingredient:
+  Inactive Ingredients 27% Alcohol.
+purpose:
+  For relief of naturally occurring simple nervous tension.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Keep out of reach of children. If pregnant or breast-feeding , ask a health professional before use.
+questions:
+  Satisfaction guaranteed, call 1-800-319-9151 if unsatisfied for complete refund.
+spl_product_data_elements:
+  Bach Original Flower Remedies Mimulus guttatus whole Mimulus guttatus whole Mimulus guttatus whole Alcohol
+openfda:
+  brand_name:
+    Bach Original Flower Remedies
+  generic_name:
+    MIMULUS GUTTATUS WHOLE
+  manufacturer_name:
+    Nelson Bach USA Limited
+  product_ndc:
+    57687-269
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MIMULUS GUTTATUS WHOLE
+  spl_id:
+    f6d4852e-8fd0-408c-9747-a2b7eb167f12
+  spl_set_id:
+    d9f44931-e531-4f4d-a849-01c05eb8becc
+  package_ndc:
+    57687-269-20
+  is_original_packager:
+    True
+  upc:
+    0741273206019
+  unii:
+    3936L105P1
+version:
+  3
+dosage_and_administration:
+  Directions Take 2 drops in mouth or in water, sip at intervals. Repeat as needed.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+spl_unclassified_section:
+  Distributed by Nelson Bach USA, Ltd., Andover, MA 01845
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 20 mL Bottle Label Bach ® ORIGINAL FLOWER REMEDIES MIMULUS Face Your Fears* 20 mL (0.7 fl oz) HOMEOPATHIC CONTAINS 27% ALCOHOL PRINCIPAL DISPLAY PANEL - 20 mL Bottle Label
+indications_and_usage:
+  Indications For relief of naturally occurring simple nervous tension.
+set_id:
+  d9f44931-e531-4f4d-a849-01c05eb8becc
+id:
+  f6d4852e-8fd0-408c-9747-a2b7eb167f12
+active_ingredient:
+  Active Ingredients 5 × dilution of Mimulus guttatus HPUS.

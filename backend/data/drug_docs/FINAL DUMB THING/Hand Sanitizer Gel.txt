@@ -1,0 +1,35 @@
+effective_time:
+  20210505
+recent_major_changes:
+  
+inactive_ingredient:
+  Inactive ingredients Alcohol, Aqua (Water), Butylene Glycol, Phenoxyethanol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Eucalyptus Globulus Leaf Oil, Citrus Limon (Lemon) Peel Oil, Fragrance, o-CYMEN-5-OL, Ethylhexylglycerin, Chlorphenisin
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable, keep away from fire or flames. For external use only.
+when_using:
+  do not get into eyes if contact occurs, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  Hand Sanitizer Gel ALCOHOL PHENOXYETHANOL AMINOMETHYLPROPANOL EUCALYPTUS OIL CITRUS LIMON FRUIT OIL ETHYLHEXYLGLYCERIN O-CYMEN-5-OL CHLORPHENESIN (C10-C30)ALKYL METHACRYLATE ESTER WATER ALCOHOL ALCOHOL FRAGRANCE LAVENDER & CHIA F-153480 1,3-BUTYLENE GLYCOL 1-PROPIONATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs.
+storage_and_handling:
+  Other information Store in cool, dry place below 104F
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 80 mL NDC: 76584-004-08 Front and Back Labels
+indications_and_usage:
+  Use For hand-washing to decrease bacteria on the skin, only when water is not available.
+set_id:
+  a4783bbd-6568-63f7-e053-2a95a90a2275
+id:
+  c19e3ef1-9aa5-f856-e053-2a95a90a1454
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 75%. Purpose: Antiseptic

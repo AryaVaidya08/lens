@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  GoodSense Extra Strength Antacid Calcium carbonate CALCIUM CARBONATE CALCIUM CATION ADIPIC ACID STARCH, CORN CROSPOVIDONE, UNSPECIFIED DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC PINKISH BLUE G127 STRAWBERRY, RASPBERRY, WIDBERRY
+active_ingredient:
+  ACTIVE INGREDIENT (in each tablet) Calcium carbonate 750 mg
+purpose:
+  PURPOSE Antacid
+indications_and_usage:
+  USE(S) relieves: acid indigestion heartburn
+warnings:
+  WARNINGS .
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  WHEN USING THIS PRODUCT do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR/BREASTFEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN .
+dosage_and_administration:
+  DIRECTIONS adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor.
+storage_and_handling:
+  OTHER INFORMATION each tablet contains: elemental calcium 300 mg do not use if printed seal under the cap is torn or missing store at room temperature. keep the container tightly closed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS adipic acid, corn starch, crospovidone, dextrose, FD&C blue 1 lake, FD&C red 40 lake, flavors, magnesium stearate, maltodextrin, sucrose, talc.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL GOODSENSE Extra Strength NDC 50804-129-22 Antacid Tablets Calcium Carbonate 750 mg Antacid Fast Relief of : Heartburn Acid Indigestion Upset stomach Assorted Berry Flavors Compare to active ingredient of Extra Strength Tums®* 96 CHEWABLE TABLETS 127AB
+set_id:
+  2fcdeb06-17de-49d8-97bb-8d31e1c0c61f
+id:
+  5ba7313a-c112-4187-9c25-cc91ba317547
+effective_time:
+  20250120
+version:
+  2
+openfda:
+  application_number:
+    M001
+  brand_name:
+    GoodSense Extra Strength Antacid
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    GoodSense
+  product_ndc:
+    50804-129
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308915
+  spl_id:
+    5ba7313a-c112-4187-9c25-cc91ba317547
+  spl_set_id:
+    2fcdeb06-17de-49d8-97bb-8d31e1c0c61f
+  package_ndc:
+    50804-129-22
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

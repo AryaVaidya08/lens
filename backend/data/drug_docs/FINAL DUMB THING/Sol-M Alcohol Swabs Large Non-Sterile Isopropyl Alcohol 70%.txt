@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Sol-M Alcohol Swabs Large Non-Sterile Isopropyl Alcohol 70% WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active ingredient Isopropyl Alcohol 70%
+purpose:
+  Purpose Isopropyl Alcohol 70%................Antiseptic Cleanser
+indications_and_usage:
+  Use For preparation of the skin prior to an injection
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame Do Not Use with electrocautery procedures In the eyes. If contact occurs, flush eyes with water Stop Use If irritation and redness develop. If condition persists consult your health care practitioner. Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do Not Use with electrocautery procedures In the eyes. If contact occurs, flush eyes with water
+stop_use:
+  Stop Use If irritation and redness develop. If condition persists consult your health care practitioner.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wipe injection site vigorously and discard
+storage_and_handling:
+  Other information Store at room temperature 15 - 30 C (59 - 86 F)
+inactive_ingredient:
+  Inactive ingredient purified water
+package_label_principal_display_panel:
+  1000 Swabs External Use Only NDC: 73720-2002-3 Sol-M Alcohol Swabs Non Sterile Large Saturated with 70% Isopropyl Alcohol Do not re-use Do not use if package is damaged Non-Sterile Not made with natural rubber latex Manufacturer Use-by date Catalogue number Batch code Keep dry Keep away from sunlight Jiangsu Province JianErKang Medical Dressing Co., Ltd. Address: No.1 Jangerkang Road, Zhixi Industry Concentration Area, Zhixi Town 213251 Jintan Changzhou City, China Distributor in USA： Sol-Millennium Medical Inc. 315 Shawnee North Drive, Suite 100, Suwanee, GA 30024 ShangHai International Holding Corp. GmbH(Europe) Eiffestrasse 80, 20537 Hamburg Germany Importer in EU： Sol-Millennium Europe Sp. zo.o., Twarda 18, 00-105 Warsaw, Poland C
+set_id:
+  a2b659f9-65ef-a9c4-e053-2a95a90a2e8e
+id:
+  e20a4325-4511-a3b9-e053-2995a90aac57
+effective_time:
+  20220622
+version:
+  3
+openfda:

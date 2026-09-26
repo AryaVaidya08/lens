@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Crazy Cleanz Hand Sanitizer Eucalyptus Scented Benzalkonium chloride FD&C BLUE NO. 1 DIDECYLDIMONIUM CHLORIDE LIMONENE, (+)- LINALOOL, (+/-)- GLYCERIN WATER BENZALKONIUM CHLORIDE BENZALKONIUM POLYAMINOPROPYL BIGUANIDE FD&C YELLOW NO. 5 POLYOXYL 40 HYDROGENATED CASTOR OIL
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use helps eliminate bacteria on hands
+warnings:
+  Warnings For external use only. Do not use In children less than 2 months of age. on open skin wounds When using this product keep out of eyes, ear, and mouth. In case of contact with eve, rinse eyes thouroughly with water Stop use and ask a doctor if irritation or rash occurs, These may be a sign of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. except under adult supervision. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age When using this product to avoid swallowing.
+inactive_ingredient:
+  Inactive ingredients Blue 1(I 42090), Didecyldimonium chloride, Fragrance (Parfum), Glycerin, Limonene, Linalool, PEG-40 hydrogenated castor oil, Polyaminopropyl biguanide, Water(Aqua), Yellow 5(CI 19140),
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1 2
+set_id:
+  abeea765-ebde-9081-e053-2995a90a8e20
+id:
+  dab91425-d6c8-aa7b-e053-2995a90a4a82
+effective_time:
+  20220321
+version:
+  3
+openfda:

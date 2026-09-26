@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Anticavity Sodium Fluoride SODIUM BENZOATE WATER SORBITOL PROPYLENE GLYCOL POLOXAMER 407 SODIUM LAURYL SULFATE PHOSPHORIC ACID EUCALYPTOL METHYL SALICYLATE THYMOL SACCHARIN SODIUM MENTHOL, UNSPECIFIED FORM SODIUM PHOSPHATE, DIBASIC, ANHYDROUS SUCRALOSE SPEARMINT OIL PEPPERMINT OIL FD&C RED NO. 40 FD&C BLUE NO. 1 SODIUM FLUORIDE FLUORIDE ION
+active_ingredient:
+  Active Ingredient Sodium fluoride 0.02% (0.01% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use aids in the prevention of dental cavities
+warnings:
+  Warning for this product
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 6 years of age and older: use twice daily after brushing your teeth with a toothpaste vigorously swish 10 mL of rinse between your teeth for 1 minute and then spit out. do not swallow the rinse do not eat or drink for 30 minutes after rinsing instruct children under 12 years of age in good rinsing habits (to minimize swallowing) supervise children as necessary until capable of using without supervision children under 6 years of age: consult a dentist or doctor
+storage_and_handling:
+  Other information store at controlled room temperature 20⁰ - 25⁰ C (68⁰ - 77⁰ F) cold weather may temporarily cloud this product
+inactive_ingredient:
+  Inactive ingredients water, sorbitol, propylene glycol, poloxamer 407, sodium lauryl sulfate, flavor, sodium benzoate, phosphoric acid, eucalyptol, methyl salicylate, thymol, sodium saccharin, menthol, disodium phosphate, sucralose, Mentha viridis (spearmint) leaf oil, Mentha piperita (peppermint) oil, red 40, blue 1
+questions:
+  Questions or comments? Call 1-800-632-6900
+spl_unclassified_section:
+  Disclaimer *LISTERINE IS A REGISTERED TRADEMARK OF KENVUE, INC. **WHEN USED 2X DAILY
+adverse_reactions:
+  Adverse Reaction PROUDLY DISTRIBUTED BY THE KROGER CO. CINCINNATI, OHIO 45202 MADE IN USA WITH DOMESTIC AND FOREIGN COMPONENTS ‡THIS PRODUCT IS NOT INTENDED TO REPLACE BRUSHING OR FLOSSING. QUALITY GUARANTEED Quality Guaranteed Kroger.com/guarantee 800-632-6900
+package_label_principal_display_panel:
+  principal panel display COMPARE TO THE ACTIVE INGREDIENT OF LISTERINE TOTAL CARE ZERO ALCOHOL *SEE BACK LABEL Kroger 6 IN 1 CARE ZERO ANTICAVITY MOUTHWASH ZERO ALCOHOL • LONG-LASTING CAVITY PROTECTION • FLUORIDE FRESH MINT KILLS 99.9% OF GERMS† †THAT CAUSE BAD BREATH 24HR CAVITY PROTECTION** RESTORES ENAMEL STRENGTHENS TEETH FRESHENS BREATH CLEANS WHOLE MOUTH† KILLS BAD BREATH GERMS QUALITY GUARANTEED SEALED WITH PRINTED NECKBAND FOR YOUR PROTECTION. IMPORTANT: READ DIRECTIONS FOR PROPER USE. 33.8 FL OZ (1.05 QT) 1L image description
+set_id:
+  d0c552d8-44ad-4d95-b3fb-17015f44b334
+id:
+  4bd20ddb-133d-8d78-e063-6294a90a66fb
+effective_time:
+  20260227
+version:
+  3
+openfda:
+  application_number:
+    M021
+  brand_name:
+    Anticavity
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    The Kroger Co.
+  product_ndc:
+    59450-971
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    313029
+  spl_id:
+    4bd20ddb-133d-8d78-e063-6294a90a66fb
+  spl_set_id:
+    d0c552d8-44ad-4d95-b3fb-17015f44b334
+  package_ndc:
+    59450-971-86
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

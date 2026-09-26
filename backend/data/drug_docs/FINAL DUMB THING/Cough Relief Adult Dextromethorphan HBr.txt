@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Cough Relief Adult Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ANHYDROUS CITRIC ACID WATER EDETATE DISODIUM FD&C YELLOW NO. 6 GLYCERIN HIGH FRUCTOSE CORN SYRUP HYDROXYETHYL CELLULOSE (1500 MPA.S AT 1%) POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL SODIUM BENZOATE SUCRALOSE SUCROSE XANTHAN GUM
+active_ingredient:
+  Active ingredient (in each 5 mL) Dextromethorphan HBr 15 mg
+purpose:
+  Purpose Cough suppressant
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the impulse to cough to help you get to sleep
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) chronic cough that lasts as occurs with smoking, asthma, or emphysema When using this product, do not use more than directed Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) chronic cough that lasts as occurs with smoking, asthma, or emphysema
+when_using:
+  When using this product, do not use more than directed
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions take recommended dosage or as directed by a doctor measure only with dosing cup provided. Do not use any other dosing device keep dosing cup with product shake well before using mL=milliliter age dose adults and children 12 years and over 10 mL every 6-8 hours not to exceed 4 doses in 24 hours, children 6 to 11 years of age 5 mL every 6-8 hours not to exceed 4 doses in 24 hours children under 6 years of age do not use
+dosage_and_administration_table:
+  <table> <col width="1px"/> <col width="1px"/> <tbody> <tr> <td align="center" styleCode="     Botrule          Toprule          Rrule     ">age</td> <td align="center" styleCode="     Botrule          Toprule     "> dose </td> </tr> <tr> <td styleCode="     Botrule          Rrule     "> adults and children 12 years and over</td> <td styleCode="     Botrule     ">10 mL every 6-8 hours not to exceed 4 doses in 24 hours, </td> </tr> <tr> <td styleCode="     Botrule          Rrule     ">children 6 to 11 years of age</td> <td styleCode="     Botrule     ">5 mL every 6-8 hours not to exceed 4 doses in 24 hours</td> </tr> <tr> <td styleCode="     Botrule          Rrule     "> children under 6 years of age</td> <td styleCode="     Botrule     "> do not use</td> </tr> </tbody> </table>
+spl_unclassified_section:
+  Other information each 5 mL contains : sodium 3 mg store at 20-25ºC (68º-77ºF). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, disodium EDTA, FD&C yellow #6, flavor, glycerin, high fructose corn syrup, hydroxyethyl cellulose, polyethylene glycol, propylene glycol, purified water, sodium benzoate, sucralose, sucrose, xanthan gum
+package_label_principal_display_panel:
+  Principal Display Panel ALCOHOL FREE Adult Cough Relief Cough Suppressant Dextromethorphan HBr 15 mg Ages 6 & Over 6-8 hour relief Orange flavor FL OZ (mL) Contains no fever reducer or pain reliever Dosing Cup Included TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF PRINTED SAFETY SEAL AROUND BOTTLE OR UNDER CAP IS BROKEN OR MISSING. Distributed By AmerisourceBergen 1300 Morris Drive, Chesterbrook, PA 19087 Questions or Concerns? Visit us at www.mygnp.com
+  Package Label Good Neighbor Pharmacy Adult Cough Relief Orange Liquid Dextromethorphan HBr 15 mg
+set_id:
+  248a1297-6a24-49e1-8aea-33a178c1e34b
+id:
+  401a7036-83e9-4515-b30b-168f650d64aa
+effective_time:
+  20191108
+version:
+  2
+openfda:

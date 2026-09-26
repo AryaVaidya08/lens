@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Hand Sanitizer Pump Sunny Citrus ALCOHOL AMINOMETHYLPROPANOL D&C RED NO. 33 EDETATE DISODIUM ANHYDROUS FD&C BLUE NO. 1 FD&C RED NO. 4 FD&C YELLOW NO. 5 WATER CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Do not store above 105°F. May discolor some fabrics.
+active_ingredient:
+  Active Ingredient Alcohol Denat. 66% (V/V) Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand sanitizer to help decrease bacteria on the skin. recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Does not contain grain alcohol; do not drink. If taken internally will produce severe gastric disturbances. When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if redness or irritation develop and lasts. Keep out of reach of children. If swallowed, get medical help or contact a poison control center immediately.
+when_using:
+  When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if redness or irritation develop and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center immediately.
+dosage_and_administration:
+  Directions Rub dime sized amount between hands until dry. Supervise children in the use of this product. In the case of eye contact rinse eyes thoroughly with water
+inactive_ingredient:
+  Inactive ingredients Acrylates/C10-30 alkyl acrylates crosspolymer, Aminomethyl propanol, D&C Red No.33, Disodium EDTA, FD&C Blue No.1, FD&C Red No.4, FD&C Yellow No.5, Fragrance, Water
+package_label_principal_display_panel:
+  Package Labeling: SunnyCitrus
+set_id:
+  b48d38ef-5d07-6963-e053-2a95a90a8f80
+id:
+  c182cc98-12b4-3852-e053-2995a90ab670
+effective_time:
+  20210504
+version:
+  2
+openfda:

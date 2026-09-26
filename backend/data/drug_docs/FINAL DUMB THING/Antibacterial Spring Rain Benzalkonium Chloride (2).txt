@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Antibacterial Spring Rain Benzalkonium Chloride EDETATE SODIUM ANHYDROUS CITRIC ACID POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600 KD) FD&C YELLOW NO. 5 SODIUM CHLORIDE METHYLCHLOROISOTHIAZOLINONE WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE METHYLISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient - Benzalkonium Chloride - 0.13%
+purpose:
+  Purpose - Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on skin
+warnings:
+  for external use only - hands only
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Direction * wet hands * apply to hands * scrub thoroughly * rinse thoroughly
+inactive_ingredient:
+  Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Tetrasodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Yellow 5, Fragrance (Parfum), Polyquaternium-7, Citric acid.
+package_label_principal_display_panel:
+  5B 5
+set_id:
+  ed76ea22-9759-06d0-e053-2a95a90affaf
+id:
+  ed76e19b-1042-515b-e053-2995a90a2420
+effective_time:
+  20221114
+version:
+  4
+openfda:

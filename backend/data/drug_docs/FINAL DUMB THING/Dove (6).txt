@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Dove Advanced Care Beauty Finish Dry Spray 48h Antiperspirant Deodorant ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE CYCLOMETHICONE 5 PPG-14 BUTYL ETHER BUTANE 1,1-DIFLUOROETHANE ISOBUTANE SUNFLOWER OIL DISTEARDIMONIUM HECTORITE ALKYL (C12-15) BENZOATE PROPANE BUTYLATED HYDROXYTOLUENE OCTYLDODECANOL PROPYLENE CARBONATE DIMETHICONOL (40 CST)
+description:
+  DOVE ADVANCED CARE BEAUTY FINISH DRY SPRAY 48H ANTIPERSPIRANT DEODORANT - aluminum chlorohydrate aerosol, spray
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Chlorohydrate (20.2%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH • Keep away from face and mouth to avoid breathing in. • Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not expose to heat or store at temperatures above 120°F/50°C or in enclosed places that could overheat • Do not use on broken skin. Stop use if rash or irritation occurs. • Ask a doctor before using if you have kidney disease. • USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL. Help stop inhalation abuse. For information visit www.inhalant.org
+keep_out_of_reach_of_children:
+  • KEEP OUT OF REACH OF CHILDREN
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Helianthus Annuus (Sunflower) Seed Oil, Fragrance (Parfum), Disteardimonium Hectorite, C12-15 Alkyl Benzoate, Propane, BHT, Octyldodecanol, Propylene Carbonate, Dimethiconol
+questions:
+  Questions? Call toll-free 1-800-761-3683
+package_label_principal_display_panel:
+  Packaging Dove Beauty Finish AP
+set_id:
+  ec6eba90-eb2d-74bd-e053-2995a90af81e
+id:
+  26472170-0b72-fe1f-e063-6394a90a342e
+effective_time:
+  20241106
+version:
+  2
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Dove
+  generic_name:
+    ADVANCED CARE BEAUTY FINISH DRY SPRAY 48H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco, Inc. d/b/a Unilever
+  product_ndc:
+    64942-2097
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM CHLOROHYDRATE
+  spl_id:
+    26472170-0b72-fe1f-e063-6394a90a342e
+  spl_set_id:
+    ec6eba90-eb2d-74bd-e053-2995a90af81e
+  package_ndc:
+    64942-2097-1
+  is_original_packager:
+    True
+  unii:
+    HPN8MZW13M

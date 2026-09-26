@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  CVS Health Maximum Strength Urinary Pain Relief PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE LACTOSE MAGNESIUM SILICATE P97
+active_ingredient:
+  Active ingredient (in each tablet) Phenazopyridine Hydrochloride 97.5 mg .
+purpose:
+  Purpose Urinary Analgesic
+warnings:
+  Warnings Do not exceed recommended dosage
+ask_doctor:
+  Ask doctor before use if you have ■ kidney disease ■ allergies to food, preservatives or dyes ■ had a hypersensitive reaction to phenazopyridine Caution: Do not use this product if you have Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency unless approved by your physician
+when_using:
+  When using this product ■ stomach upset may occur, taking this product with or after meals may reduce stomach upset ■ your urine will become reddish-orange in color. This is not harmful, but care should be taken to avoid staining clothing or other items.
+stop_use:
+  Stop use and ask doctor if ■ your symptoms last for more than 2 days ■ you suspect you are having an adverse reaction to the medication
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, Ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of an overdose, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Use Fast relief from urinary pain, burning, urgency and frequency associated with urinary tract infections.
+inactive_ingredient:
+  Inactive ingredients Corn Starch, Croscarmellose Sodium, hypromellose, Lactose, Magnesium Silicate, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene glycol, Polyvinylpyrrolidone, Pregelatinized Starch, Silicon Dioxide and Sodium Starch Glycolate.
+dosage_and_administration:
+  Directions ■ adults and children 12 years and over: take 2 tablets 3 times daily with a full glass of water, with or after meals as needed ■ children under 12 years: consult a doctor ■ Do not use for more than 2 days (12 tablets) without consulting a doctor image of carton
+package_label_principal_display_panel:
+  
+set_id:
+  cb8231ee-6870-4f7d-9b0c-e7b1367589cd
+id:
+  c371090f-0d8a-41f8-bb01-ce4bebb2357a
+effective_time:
+  20160115
+version:
+  1
+openfda:

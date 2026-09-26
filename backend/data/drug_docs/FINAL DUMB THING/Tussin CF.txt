@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Tussin CF Dextromethorphan HBr Guaifenesin Phenylephrine HCl ANHYDROUS CITRIC ACID FD&C RED NO. 40 GLYCERIN MENTHOL PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SOLUTION SUCRALOSE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE
+active_ingredient:
+  Active ingredients (in each 10 mL) Dextromethorphan HBrDextromethorphan HBr, USP 20 mg Guaifenesin, USP 200 mg Phenylephrine HCI, USP 10 mg
+purpose:
+  Purposes Cough suppressant Expectorant Nasal decongestant
+indications_and_usage:
+  Uses ■ helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes ■ temporarily relieves these symptoms occurring with a cold: • nasal congestion • cough due to minor throat and bronchial irritation.
+warnings:
+  Warnings Do not use ■ if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have ■ heart disease ■ high blood pressure ■ thyroid disease ■ diabetes ■ trouble urinating due to enlarged prostate gland ■ cough that occurs with too much phlegm (mucus) ■ cough that lasts or is chronic such as occurs with smoking,asthma, chronic bronchitis or emphysema.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other oral nasal decongestant or stimulant. When using this product do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if ■ you get nervous, dizzy or sleepless ■ symptoms do not get better within 7 days or are accompanied by fever ■ cough lasts more than 7 days, comes back or is accompanied by fever, rash or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions ■ mL = milliliter ■ do not take more than 6 doses in any 24 hour period ■ this adult strength product is not intended for use in children under 12 years of age ■ measure only with dosing cup provided ■ keep dosing cup with product AGE DOSE Adults and children 12 years and over 10 mL every 4 hours Children under 12 years do not use
+dosage_and_administration_table:
+  <table cellspacing="0" cellpadding="0" border="0" width="100%"><col width="66.3%"/><col width="33.7%"/><tbody><tr styleCode="Botrule"><td align="center" styleCode="Lrule Rrule" valign="top"><content styleCode="bold">AGE</content> </td><td align="center" styleCode="Rrule" valign="top"><content styleCode="bold">DOSE</content> </td></tr><tr styleCode="Botrule"><td align="center" styleCode="Lrule Rrule" valign="top">Adults and children 12 years and over  </td><td align="center" styleCode="Rrule" valign="top">10 mL every 4 hours  </td></tr><tr><td align="center" styleCode="Lrule Rrule" valign="top">Children under 12 years  </td><td align="center" styleCode="Rrule" valign="top">do not use  </td></tr></tbody></table>
+spl_unclassified_section:
+  Other information ■ each 10 mL contains: sodium 6 mg ■ store at 20-25°C (68-77°F) ■ do not refrigerate ■ Keep carton for full Direction for use
+  Questions or comments? Call 833-358-6431 Monday to Friday 9:00am to 7:00pm EST ©2023 McKesson Corporation Distributed by: McKesson Corp., via Strategic Sourcing Services LLC. Memphis, TN 38141 Money Back Guarantee www.fosterandthrive.com *This product is not manufactured or distributed by Pfizer, owner of the registered trademark Robitussin ®
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, FD&C red no.40, glycerin, menthol, natural & artificial flavor, propylene glycol,purified water, sodium benzoate, sorbitol solution, sucralose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Dextromethorphan HBr Guaifenesin Phenylephrone HCL-237 mL Dextromethorphan HBr Guaifenesin Phenylephrone HCL-237 mL
+set_id:
+  e416982f-6cbb-4f48-a215-16bea8393dad
+id:
+  2b1ddb46-8ca9-5e1c-e063-6294a90a6b77
+effective_time:
+  20250107
+version:
+  2
+openfda:
+  application_number:
+    part341
+  brand_name:
+    Tussin CF
+  generic_name:
+    DEXTROMETHORPHAN HBR GUAIFENESIN PHENYLEPHRINE HCL
+  manufacturer_name:
+    Strategic Sourcing Services
+  product_ndc:
+    70677-1187
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1044949
+  spl_id:
+    2b1ddb46-8ca9-5e1c-e063-6294a90a6b77
+  spl_set_id:
+    e416982f-6cbb-4f48-a215-16bea8393dad
+  package_ndc:
+    70677-1187-1
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ
+    04JA59TNSJ

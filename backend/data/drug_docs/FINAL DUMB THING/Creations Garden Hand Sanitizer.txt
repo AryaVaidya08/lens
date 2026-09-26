@@ -1,0 +1,33 @@
+effective_time:
+  20110504
+inactive_ingredient:
+  Inactive ingredients: Water, Pentylene Glycol, Dimethicone, Glyceryl Laurate, Distearyldimondium Chloride, Cetyl Alcohol, Glycerin, Tocopheryl (Vitamin E) Acetate, Allantoin, Tetrasodium EDTA
+purpose:
+  Use: To decrease bacteria on the skin that could cause disease. Recommended for repeated use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+warnings:
+  Warnings: For external use only-skin. Flammable. Keep away from heat and flame.
+questions:
+  Questions? 661-877-4280
+spl_product_data_elements:
+  Creations Garden Hand Sanitizer BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER PENTYLENE GLYCOL DIMETHICONE GLYCERYL LAURATE DISTEARYLDIMONIUM CHLORIDE CETYL ALCOHOL GLYCERIN ALPHA-TOCOPHEROL ACETATE ALLANTOIN EDETATE SODIUM
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: Wet skin area thoroughly with product Rub hands together until dry
+stop_use:
+  Stop use and ask a doctor if skin irritation develops.
+storage_and_handling:
+  Other information: Do not store above 105°. May discolor some fabrics. Harmful to wood finishes and plastics.
+package_label_principal_display_panel:
+  Placeholder Text CG_Peach_Sanitizer_label
+indications_and_usage:
+  When using this product: Keep out of eyes. In case of contact with eyes, flush thoroughly with water Avoid contact with broken skin.
+set_id:
+  f15e717c-3d9e-4518-9028-363b1a6dabf0
+id:
+  0a4ad8c4-480e-421b-94ab-4dfbddb06762
+active_ingredient:
+  Active Ingredient:.................................Purpose: Benzalkonium Chloride 0.1%.................................Antiseptic

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Nutrivsta Alcohol Wipes Alcohol Wipes ALCOHOL ALCOHOL WATER
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75% v/v
+purpose:
+  Purpose Ethyl Alcohol Antiseptic
+indications_and_usage:
+  Use Helps reduce bacteria that potentially can cause disease.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+do_not_use:
+  Do not use in children less than 2 months of age. on open skin wounds.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Open the package lid and wipe skin until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+spl_unclassified_section:
+  Manufactured by WENZHOU GUANGSEN PAPER CO., LTD. Building 2, Qiancang Dongjiang Industrial Zone, Pingyang City, Wenzhou, Zhejiang, China 51000 Distributed by Nutrivsta LLC 2299 Huntington Dr. #D San Marino, CA 91108 Phone: (626)356-2932 Email: 23laurayang@gmail.com
+inactive_ingredient:
+  Inactive ingredients WATER
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel image description
+set_id:
+  bcae8b3b-c9fe-4ed2-9cb1-dbec4955493f
+id:
+  d0c50c04-3f54-4236-b571-bb522deb9133
+effective_time:
+  20200613
+version:
+  32640
+openfda:

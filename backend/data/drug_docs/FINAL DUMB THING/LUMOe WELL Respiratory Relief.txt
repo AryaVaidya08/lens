@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  LUMOe WELL Respiratory Relief Crotalus horridus, Sticta pulmonaria, Viola odorata CROTALUS HORRIDUS HORRIDUS VENOM CROTALUS HORRIDUS HORRIDUS VENOM LOBARIA PULMONARIA LOBARIA PULMONARIA VIOLA ODORATA VIOLA ODORATA DEXTROSE MAGNESIUM STEARATE SILICON DIOXIDE WELL
+spl_unclassified_section:
+  Drug Facts
+  *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE, NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED.
+active_ingredient:
+  Active Ingredients Crotalus horridus 30x Sticta pulmonaria 30x Viola odorata 30x
+purpose:
+  Purpose* Crotalus horridus ......................................................................................Fever Sticta pulmonaria .................................................................................... Cough Viola odorata ...................................................................................... Headache
+indications_and_usage:
+  Uses* Temporarily Relieves Minor and Occasional Respiratory Symptoms: • fever • cough • headache
+warnings:
+  Warnings • Ask a doctor before use in children under 12 years of age. • Stop use and ask a doctor if symptoms persist for more than 7 days or worsen. • If pregnant or breastfeeding, consult your health professional before use. • Keep out of reach of children.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children.
+dosage_and_administration:
+  Directions • For adults and children 12 and over: At the onset of symptoms 3 tablets, every 30 minutes for 3 hours. Then 3 tablets every hour until symptoms are relieved or as recommended by your healthcare professional. • For children under 12: Ask a doctor.
+other_safety_information:
+  Other Information Store at room temperature. No artificial colors or flavors.
+inactive_ingredient:
+  Inactive Ingredients dextrose, magnesium stearate, silicon dioxide
+questions:
+  Questions? 1-888-786-1707 • info@Lumo-e.com • www.Lumo-e.com
+package_label_principal_display_panel:
+  LUMOe WELL Respiratory Relief Labelimg LUMOe Homeopathy in a Whole New Light WELL Respiratory Relief* Cough, Fever, Headache* 180 Chewable Tablets HOMEOPATHIC REMEDY Distributed by Applied BioEnergetics LLC 9205 W Russell Rd Ste 240 Las Vegas, NV 89148 res Lumo Well
+set_id:
+  b043d612-82e1-45a2-8761-89c4c8046c62
+id:
+  ebcdc75a-a6b6-4429-a70e-3b966a01bf07
+effective_time:
+  20251110
+version:
+  3
+openfda:
+  brand_name:
+    LUMOe WELL Respiratory Relief
+  generic_name:
+    CROTALUS HORRIDUS, STICTA PULMONARIA, VIOLA ODORATA
+  manufacturer_name:
+    Applied Bioenergetics, LLC
+  product_ndc:
+    81425-005
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CROTALUS HORRIDUS HORRIDUS VENOM
+    LOBARIA PULMONARIA
+    VIOLA ODORATA
+  spl_id:
+    ebcdc75a-a6b6-4429-a70e-3b966a01bf07
+  spl_set_id:
+    b043d612-82e1-45a2-8761-89c4c8046c62
+  package_ndc:
+    81425-005-10
+  is_original_packager:
+    True
+  upc:
+    0860007996047
+  unii:
+    YHA2XLJ956
+    D1YM0P5Z2T
+    AET12U8B74

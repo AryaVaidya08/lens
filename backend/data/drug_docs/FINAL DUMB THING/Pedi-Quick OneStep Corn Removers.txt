@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Pedi-Quick OneStep Corn Removers SALICYLIC ACID POLYVINYL ALCOHOL HIGH DENSITY POLYETHYLENE VINYL ACETATE SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Salicylic acid 40%
+purpose:
+  Purpose Corn remover
+indications_and_usage:
+  Uses For the removal of corns relieves pain by removing corns
+warnings:
+  Warnings For external use only Use only as directed Do Not Use if you are diabetic on irritated, broken or infected skin if you have poor blood circulation If discomfort persists, see your doctor or podiatrist. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control center immediately.
+do_not_use:
+  Do Not Use if you are diabetic on irritated, broken or infected skin if you have poor blood circulation
+ask_doctor_or_pharmacist:
+  If discomfort persists, see your doctor or podiatrist.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control center immediately.
+dosage_and_administration:
+  Directions Wash affected area. Soak in warm water for 5 minutes if desired. Dry thoroughly. Remove bandage from backing Apply with medicated area directly over corn After 48 hours, remove medicated bandage Repeat procedure every 48 hours as needed (until corn is removed) for up to 14 days
+storage_and_handling:
+  Other Information Store between 59° and 86°F (15° and 30°C)
+inactive_ingredient:
+  Inactive Ingredients Polyvinyl Alcohol, Acrylic Copolymer
+questions:
+  Questions or Comments? CALL: 1-800-PEDIFIX (733-4349)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 6 Bandage Box NEW! MADE IN THE USA Pedi-Quick ® OneStep Corn Removers Salicylic Acid Removes Corns Fast with as few as 2 Treatments Water-Resistant Adhesive Bandage Medicated Area Thin, Flexible Strip Easy One-Step Application Stays On All Day 6 Medicated Bandages Principal Display Panel - 6 Bandage Box
+set_id:
+  5f7922f1-4f1a-446f-b5a6-4f382b0b6337
+id:
+  b7b03a34-151e-1198-e053-2995a90a6092
+effective_time:
+  20210104
+version:
+  2
+openfda:

@@ -1,0 +1,31 @@
+effective_time:
+  20161230
+inactive_ingredient:
+  Inactive ingredients D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, glycerin, peppermint oil, purified water, white edible ink
+purpose:
+  Purpose Antigas
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Keep out of reach of children.
+questions:
+  Questions or comments? Report serious side effects to PuraVation Pharmaceutical Inc, 1001 Durham Avenue, Suite 300, South Plainfield, NJ 07080
+spl_product_data_elements:
+  Gas Relief Extra Strength Simethicone DIMETHICONE DIMETHICONE SILICON DIOXIDE FD&C BLUE NO. 1 FD&C RED NO. 40 D&C YELLOW NO. 10 GELATIN GLYCERIN PEPPERMINT OIL WATER OVAL PC2
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults: swallow with water 1 or 2 softgels as needed after meals or at bedtime do not exceed 4 softgels in 24 hours except under the advice and supervision of a physician
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F) protect from light, heat and moisture
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Shipping Label EXTRA STRENGTH Gas Relief NDC # 76270-103-03 *Compare to the active ingredient in EXTRA STRENGTH GAS-X ® Simethicone 125 mg Antigas Relieves Gas Bloating Pressure Fullness 15 SOFTGELS (125 mg each) PRINCIPAL DISPLAY PANEL - Shipping Label
+indications_and_usage:
+  Uses for relief of: pressure, bloating, and fullness commonly refered to as gas
+set_id:
+  3dc26bf3-e0b4-4f63-a280-122c44a9d159
+id:
+  302a4c5a-bb09-4b68-a9f6-5f43983433d8
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 125 mg

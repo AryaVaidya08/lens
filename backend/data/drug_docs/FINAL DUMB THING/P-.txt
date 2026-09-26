@@ -1,0 +1,18 @@
+spl_product_data_elements:
+  P- PACK PREDNISONE 20MG, 7- DAY TAPERING DOSE PACK Dr Adam Au LACTOSE MONOHYDRATE SILICON DIOXIDE PREDNISONE PREDNISONE 5093;V
+patient_medication_information:
+  Take 4 tabs together on day 1 Take 3 tabs together on day 2 Take 2 tabs on each of days 3,4 and 5 Then, take 1 tab daily to complete the course 15 Table t s P-PACK Prednisone 20mg
+package_label_principal_display_panel:
+  P-Pack Pednisone P-Pack Pednisone P-Pack Prednisone P-PACK Prednisone P-Pack Pednisone
+spl_indexing_data_elements:
+  
+  P-Pack Pednisone
+set_id:
+  28076994-0075-f411-e063-6394a90a6341
+id:
+  28076994-0076-f411-e063-6394a90a6341
+effective_time:
+  20241129
+version:
+  1
+openfda:

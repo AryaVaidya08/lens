@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Nighttime Cough all night cough relief Dextromethorphan Hydrobromide, Doxylamine Succinate DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE PROPYLENE GLYCOL WATER ALCOHOL ANHYDROUS CITRIC ACID HIGH FRUCTOSE CORN SYRUP POLYETHYLENE GLYCOL, UNSPECIFIED SACCHARIN SODIUM SODIUM CITRATE FD&C BLUE NO. 1 FD&C RED NO. 40
+active_ingredient:
+  Active ingredients (in each 30 mL) Dextromethorphan HBr 30 mg Doxylamine succinate 12.5 mg
+purpose:
+  Purposes Cough suppressant Antihistamine
+indications_and_usage:
+  Uses temporarily relieves cold symptoms cough due to minor throat and bronchial irritation runny nose and sneezing
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have glaucoma a breathing problem or chronic cough thats lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) trouble urinating due to enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedative or tranquilizers. When using this product avoid alcoholic drinks excitability may occur, especially in children marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant breast-feeding, ask a health professiuonal before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1800-222-1222) right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have glaucoma a breathing problem or chronic cough thats lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) trouble urinating due to enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedative or tranquilizers.
+when_using:
+  When using this product avoid alcoholic drinks excitability may occur, especially in children marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+pregnancy:
+  If pregnant breast-feeding, ask a health professiuonal before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1800-222-1222) right away.
+dosage_and_administration:
+  Directions keep dosing cup with product do not take more than 4 doses in any 24-hour period take only as directed measure only with dosing cup provided. Do not use any other dosing device. mL = milliliter adults and children 12 years and over: 30 mL every 6 hours children under 12 years of age: do not use
+storage_and_handling:
+  Other information each 30 mL contains; sodium 29 mg store between 20-25ºC (68-77ºF). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients alcohol, citric acid, FD&C blue 1, FD&C red 40, flavor, high fructose corn syrup, polyethylene glycol, propylene glycol, purified water, saccharin sodium, sodium citrate
+package_label_principal_display_panel:
+  Principal Display Panel Compare to active ingredients in Vicks® NyQuil® Cough* Night Time Cough all night cough relief Dextromethorphan HBr Doxylamine succinate Relieves: cough runny nose sneezing for ages 12 and over nighttime relief alcohol 10% FL OZ (mL) cherry flavor *This product is not manufactured or distributed by The Procter & Gamble Company. Vicks® and NyQuil® are registered trademarks of The Procter & Gamble Company. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL AROUND BOTTLE OR UNDER CAP IS BROKEN OR MISSING. Manufactured by: PL Developments 11865 S. Alameda St Lynwood, CA 90262
+  Product Label READYINCASE Nighttime Cough Cherry Flavor Dextromethorphan HBr 30 mg, Doxylamine succinate 12.5 mg
+set_id:
+  51dbf501-eb6f-4aab-9e6f-68b92e0c58db
+id:
+  b40ddc2e-2388-4b41-bd53-13b6fd7f99d4
+effective_time:
+  20230524
+version:
+  7
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  EUE CLEAN HAND SANITIZER Gel ALCOHOL WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Alcohol
+inactive_ingredient:
+  water, carbomer, triethanolamine, etc
+purpose:
+  Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  a3382775-eb9e-434a-e053-2a95a90a6686
+id:
+  a3383afe-ebfb-78ad-e053-2995a90abe73
+effective_time:
+  20200413
+version:
+  1
+openfda:

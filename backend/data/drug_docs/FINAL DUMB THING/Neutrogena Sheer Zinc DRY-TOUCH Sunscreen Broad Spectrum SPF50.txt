@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Neutrogena Sheer Zinc DRY-TOUCH Sunscreen Broad Spectrum SPF50 Zinc Oxide CAPRYLYL GLYCOL ETHYL METHICONE (8 MPA.S) SODIUM CHLORIDE PHENOXYETHANOL CETYL DIMETHICONE/BIS-VINYLDIMETHICONE CROSSPOLYMER CHLORPHENESIN PHENYLETHYL ALCOHOL ZINC OXIDE ZINC OXIDE WATER ALKYL (C12-15) BENZOATE BUTYL METHACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID/STYRENE CROSSPOLYMER OCTYLDODECYL CITRATE CROSSPOLYMER CETYL PEG/PPG-10/1 DIMETHICONE (HLB 5) DIMETHICONE PHENYL TRIMETHICONE POLYHYDROXYSTEARIC ACID (2300 MW) GLYCERIN SILICON DIOXIDE CETYL DIMETHICONE 25 TRIETHOXYCAPRYLYLSILANE FEVERFEW GLYCERYL DIBEHENATE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558
+active_ingredient:
+  Active ingredients Zinc Oxide 21.6%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect this product from excessive heat and direct sun may stain some fabrics
+inactive_ingredient:
+  Inactive ingredients Water, C 12-15 Alkyl Benzoate, Styrene/Acrylates Copolymer, Octyldodecyl Citrate Crosspolymer, Phenyl Trimethicone, Cetyl PEG/PPG-10/1 Dimethicone, Dimethicone, Glycerin, Polyhydroxystearic Acid, Ethyl Methicone, Silica, Cetyl Dimethicone, Triethoxycaprylylsilane, Phenoxyethanol, Glyceryl Behenate, Sodium Chloride, Acrylates/Dimethicone Copolymer, Chlorphenesin, Phenethyl Alcohol, Caprylyl Glycol, Cetyl Dimethicone/Bis-Vinyldimethicone Crosspolymer, Chrysanthemum Parthenium (Feverfew) Flower/Leaf/Stem Juice
+questions:
+  Questions or Comments? Call toll-free 800-299-4786 or 215-273-8755 (collect). neutrogena.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 147 mL Tube Label VALUE SIZE Neutrogena Sheer Zinc ® DRY-TOUCH SUNSCREEN Broad Spectrum SPF 50 50 pure SCREEN ® 100% zinc oxide uva uvb ACCEPTED e NATIONALECZEMA.ORG NATIONAL ECZEMA ASSOCIATION hypoallergenic water resistant (80 minutes) #1 DERMATOLOGIST RECOMMENDED SUNCARE 5.0 FL OZ (147 mL) PRINCIPAL DISPLAY PANEL - 147 mL Tube Label
+set_id:
+  54a3b677-4510-4191-8386-ccdd10ccfcaa
+id:
+  21fe0105-cb3a-e6b4-e063-6294a90a6ece
+effective_time:
+  20241111
+version:
+  7
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Neutrogena Sheer Zinc DRY-TOUCH Sunscreen Broad Spectrum SPF50
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0476
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    21fe0105-cb3a-e6b4-e063-6294a90a6ece
+  spl_set_id:
+    54a3b677-4510-4191-8386-ccdd10ccfcaa
+  package_ndc:
+    69968-0476-5
+    69968-0476-1
+    69968-0476-2
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

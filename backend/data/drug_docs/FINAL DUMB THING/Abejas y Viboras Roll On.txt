@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Abejas y Viboras Roll On Methyl Salicylate WATER POLYSORBATE 20 ARNICA MONTANA FLOWER CAMPHOR OIL PROPYLENE GLYCOL POLYACRYLIC ACID (250000 MW) DMDM HYDANTOIN EUCALYPTUS OIL CAPSICUM TROLAMINE MENTHOL ISOPROPYL ALCOHOL METHYL SALICYLATE SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient and Purpose Active ingredient Purpose Methyl salicylate 10% .................... Topical analgesic
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold">Active ingredient</content></td><td><content styleCode="bold">Purpose</content></td></tr><tr><td>Methyl salicylate 10% ....................</td><td>Topical analgesic</td></tr></tbody></table>
+purpose:
+  Active ingredient Purpose Methyl salicylate 10% .................... Topical analgesic
+purpose_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold">Active ingredient</content></td><td><content styleCode="bold">Purpose</content></td></tr><tr><td>Methyl salicylate 10% ....................</td><td>Topical analgesic</td></tr></tbody></table>
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of muscles and joints associated with simple backache arthritis strains sprains
+warnings:
+  Warnings For external use only. Do not use on wounds or damaged skin with a heating pad on a child 12 years o age and under over estensive areas of the body on irritated skin with a bandage with other ointments, creams, sprays or liniments Ask a doctor before use if you have redness over the affected area When using this product wash hands after use with cool water avoid contact with eyes or mucous membranes do not bandage Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and and occur again within a few days excessive skin irritation occurs If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children to avoid accidental poisoning. If swallowed, induce vomiting and call a physicaian or contact a Poision Control Center right away.
+do_not_use:
+  Do not use on wounds or damaged skin with a heating pad on a child 12 years o age and under over estensive areas of the body on irritated skin with a bandage with other ointments, creams, sprays or liniments
+ask_doctor:
+  Ask a doctor before use if you have redness over the affected area
+when_using:
+  When using this product wash hands after use with cool water avoid contact with eyes or mucous membranes do not bandage
+stop_use:
+  Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and and occur again within a few days excessive skin irritation occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children to avoid accidental poisoning. If swallowed, induce vomiting and call a physicaian or contact a Poision Control Center right away.
+dosage_and_administration:
+  Directions use only as directed adults and children over 12 years: rub a thin film over affected areas not more than 4 times daily children 12 years or younger: do not use
+other_safety_information:
+  Other information store at 15°–25°C(59°– 77°F)
+inactive_ingredient:
+  Inactive ingredients arnica oil, camphor, capsicum extract, carbomer, dmdm hydantoin, eucalyptus oil, isopropyl alcohol, menthol, polysorbate 20, propylene glycol, triethanolamine, water
+questions:
+  Questions? 1-800-560-5223 M-F 9AM – 4 PM Eastern
+package_label_principal_display_panel:
+  Principal Display Panel Abejas y Viboras External Analgesic Cream Methyl Salicylate 10% ROLL-ON Pain Relieving Luquid 3 fl oz (88mL) PDP AYV
+set_id:
+  bedf3b36-7def-099f-e053-2a95a90ac15b
+id:
+  3a8b4611-dd39-50f6-e063-6294a90a40f4
+effective_time:
+  20250722
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Abejas y Viboras Roll On
+  generic_name:
+    METHYL SALICYLATE
+  manufacturer_name:
+    Menper Distributors Inc.
+  product_ndc:
+    53145-705
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    METHYL SALICYLATE
+  rxcui:
+    2534482
+  spl_id:
+    3a8b4611-dd39-50f6-e063-6294a90a40f4
+  spl_set_id:
+    bedf3b36-7def-099f-e053-2a95a90ac15b
+  package_ndc:
+    53145-705-03
+  is_original_packager:
+    True
+  unii:
+    LAV5U5022Y

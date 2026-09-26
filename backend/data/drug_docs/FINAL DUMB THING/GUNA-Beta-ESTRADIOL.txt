@@ -1,0 +1,45 @@
+effective_time:
+  20180223
+drug_interactions:
+  7. DRUG INTERACTIONS 7.1. None Known.
+description:
+  11. DESCRIPTION GUNA-Beta-ESTRADIOL is a biochemical homeopathic medication indicated for Regenerative Metabolic Support, Female menstrual cycle disorders, infertility, aging, sagging skin, and moderate hot flashes.
+nonclinical_toxicology:
+  13. NONCLINICAL TOXICOLOGY 13.1. GUNA®-Beta-ESTRADIOL has no level of toxicity due to the attenuation of the ingredients.
+dosage_forms_and_strengths:
+  3. DOSAGE FORMS AND STRENGTHS 3.1. 30 ml Bottle dropper. 3.2. The ingredient is attenuated according to the procedures stated in the Homeopathic Pharmacopeia of the United States. Beta-ESTRADIOL 6X. Inactive Ingredient: Ethylic Alcohol 30%.
+storage_and_handling:
+  15. HOW SUPPLIED/STORAGE AND HANDLING 15.1. NDC 17089-359-18 Oral Solution/Drops 30 mL 15.2. Store at room temperature, 20-25°C (68-77° F). Avoid freezing and excessive heat.
+indications_and_usage:
+  1. INDICATIONS AND USAGE 1.1. Regenerative Metabolic Support (use with GUNA-MATRIX, GUNA LYMPHO and GUNA-CELL) 1.2. Female menstrual cycle disorders (use with GUNA-FEM) 1.3. Infertility (use with GUNA-FEM) 1.4. Aging and sagging skin 1.5. Moderate hot flashes (use with GUNA-FEM) Administration may vary according to individual needs. GUNA®-BETA-ESTRADIOL may be used together with other homeopathic medications.
+set_id:
+  01b6fbac-657b-49e6-9fb4-e4b046a6b3c5
+id:
+  65e59e7a-0ec4-2a76-e053-2991aa0a0021
+contraindications:
+  4. CONTRAINDICATIONS 4.1. There is no history of hypersensitivity to GUNA®-Beta-ESTRADIOL. However Estradiol should not be taken by people with a hypersensitivity/allergy.
+drug_abuse_and_dependence:
+  9. DRUG ABUSE AND DEPENDENCE 9.1. No Known.
+spl_product_data_elements:
+  GUNA-Beta-ESTRADIOL ESTRADIOL ALCOHOL ESTRADIOL ESTRADIOL
+warnings_and_cautions:
+  5. WARNINGS AND PRECAUTIONS 5.1. Estradiol should not be administered in cases where undiagnosed vaginal bleeding is present; in cases with known, actual or suspected history of breast cancer; during current treatment for metastatic disease; with known or suspected estrogen-dependent neoplasia; with deep vein thrombosis, pulmonary embolism or any history of these conditions; active or recent arterial thromboembolic disease such as stroke or myocardial infarction; or with liver dysfunction or disease. 5.2 Use with caution in patients taking estrogen and/or progesterone therapy.
+openfda:
+version:
+  2
+dosage_and_administration:
+  2. DOSAGE AND ADMINISTRATION The usual initial dose of GUNA®-Beta-ESTRADIOL is: Adults and children 14 years and older 20 drops in a little water, 2 times per day for an average of two months. If response is not satisfactory, adjust treatment protocol as recommended by your health care professional.
+adverse_reactions:
+  6. ADVERSE REACTIONS 6.1. None known. (see CONTRAINDICATIONS for hypersensitivity information).
+use_in_specific_populations:
+  8. USE IN SPECIFIC POPULATIONS 8.1. Gender : GUNA-Beta-ESTRADIOL is indicated for use in women only. 8.2. Pregnancy : Estradiol should not be taken by people who are pregnant or suspected pregnancy. 8.3. Nursing mothers : Since many drugs are secreted in human milk, caution should be exercised when GUNA®-Beta-ESTRADIOL is administered to a nursing woman. 8.4. Pediatric use : Safety and effectiveness in pediatric patients have not been established. Estrogen treatment of prepubertal girls may induce premature breast development, vaginal keratinization, and may induce vaginal bleeding. In boys, estrogen treatment may modify the normal pubertal process and induce gynecomastia. 8.5. Geriatric use : No restrictions. (see USE IN SPECIFIC POPULATIONS, Gender).
+information_for_patients:
+  16. PATIENT COUNSELING INFORMATION 16.1. Patients should be informed about Homeopathy and the main differences with conventional clinical approaches.
+clinical_studies:
+  14. CLINICAL STUDIES 14.1. The GUNA®-Beta-ESTRADIOL formulation is based on Homeopathic principles.
+package_label_principal_display_panel:
+  PACKAGE LABEL image of box label
+clinical_pharmacology:
+  12. CLINICAL PHARMACOLOGY 12.1. Mechanism of Action The active ingredient in GUNA®-Beta-ESTRADIOL is a simple biochemical compound. The exact mechanism of action is unknown; however, due to the homeopathic nature of the active ingredient, receptors may be activated by feedback regulation. 12.2. Pharmacodynamics In Homeopathy there is no direct relationship between dose and effect, but rather there is a relationship between attenuation and balancing effect on biochemical pathways. The attenuation of the physiological ingredients promotes membrane receptor feedback in order to normalize altered biological pathways. In Addition, the attenuation technique activates the low dilutions and stabilizes clinical activity of the compound. 12.3. Pharmacokinetics Homeopathic attenuation provides complete bioavailability of the active ingredients.
+overdosage:
+  10. OVERDOSAGE 10.1. No Known.

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  HAND SANITIZER ETHYL ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE EDETATE DISODIUM ALOE VERA LEAF GLYCERIN PROPYLENE GLYCOL ISOPROPYL MYRISTATE AMINOMETHYLPROPANOL ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS ETHYL ALCOHOL 62.5%
+purpose:
+  PURPOSE ANTISEPTIC
+dosage_and_administration:
+  DIRECTIONS WET HANDS THOROUGHLY WITH PRODUCT AND ALLOW TO DRY WITHOOUT WIPING.
+indications_and_usage:
+  USES FOR HANDWASHING TO DECREASE BACTERIA ON THE SKIN.
+warnings:
+  WARNINGS For external use only-hands. Flammable. Keep away from heat and flame. Do not store above 105°F. Keep out of eyes. Avoid contact with broken skin. Do not ingest or inhale.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. For children under 6, use only under adult supervision. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER (AQUA), CARBOMER, DISODIUM EDTA, ALOE BARBADENSIS (ALOE VERA) LEAF EXTRACT, GLYCERIN, PROPYLENE GLYCOL, FRAGRANCE, ISOPROPYL MYRISTATE, AMINOMETHYL PROPANOL
+package_label_principal_display_panel:
+  01b LBL_Hy-Gyn_Hand Sanitizer
+set_id:
+  48e6491a-4213-419c-9572-d9a21e06b2a3
+id:
+  f67cdf39-0d7d-6cce-e053-2995a90af926
+effective_time:
+  20230309
+version:
+  3
+openfda:

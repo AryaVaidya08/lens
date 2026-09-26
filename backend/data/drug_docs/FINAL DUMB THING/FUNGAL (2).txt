@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  FUNGAL NAIL PATCHES FUNGAL NAIL RENEW CNIDIUM MONNIERI FRUIT OIL GLYCERIN MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL GARLIC ALLANTOIN TOLNAFTATE TOLNAFTATE
+active_ingredient:
+  ACTIVE INGREDIENT TOLNAFTATE 1
+purpose:
+  Purpose bacteriostatic, sterilizing
+indications_and_usage:
+  Use Use for fungal nail infections
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use It is prohibited for those who are allergic to this product and pregnant women, and should be used with caution on open wounds.
+when_using:
+  When Using Do not put in eyes,If it accidentally gets into your eyes, rinse with water or seek medical advice.If irritation or rash occurs, discontinue use and ask a doctor. If swallowed, get medical help or contact a Poison Control Center immediately
+stop_use:
+  Stop Use Stop use and ask a doctor if irritation or rash occurs
+ask_doctor:
+  Ask Doctor Do not put in eyes,lfit accidentally gets into your eyes, rinse with water or seek medical advice.lfirritation or rash occurs, discontinue use and ask a doctor. if swallowed, get medical help orcontact a Poison Control Centerimmediate.
+keep_out_of_reach_of_children:
+  Keep Oot Of Reach Of Children Please keep this product out of reach of children
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION One patch per day, each patch contains 1 mg of tolnaftate
+inactive_ingredient:
+  Inactive ingredients Glycerin, Allantoin,Allium Sativum (Garlic) Bulb Extract,Cnidium,Monnieri Fruit Oil,Melaleuca Alternifolia (Tea Tree) Leaf oil
+package_label_principal_display_panel:
+  LABEL
+set_id:
+  1531eafb-7e66-9350-e063-6394a90a1031
+id:
+  15320308-8f1f-934e-e063-6394a90a6448
+effective_time:
+  20240403
+version:
+  1
+openfda:

@@ -1,0 +1,35 @@
+pediatric_use:
+  PEDIATRIC USE Safety and effectiveness in pediatric patients below the age of 3 years have not been established.
+effective_time:
+  20120827
+contraindications:
+  CONTRAINDICATIONS Hypersensitivity to VōSoL HC or any of the ingredients; herpes simplex, vaccinia and varicella. Perforated tympanic membrane is considered a contraindication to the use of any medication in the external ear canal.
+precautions:
+  PRECAUTIONS Transient stinging or burning may be noted occasionally when the solution is first instilled into the acutely inflamed ear.
+warnings:
+  WARNINGS Discontinue promptly if sensitization or irritation occurs.
+spl_product_data_elements:
+  VoSoL HC hydrocortisone and acetic acid ACETIC ACID ACETIC ACID HYDROCORTISONE HYDROCORTISONE ANHYDROUS CITRIC ACID BENZETHONIUM CHLORIDE PROPYLENE GLYCOL PROPYLENE GLYCOL DIACETATE SODIUM ACETATE
+description:
+  DESCRIPTION VōSoL HC (Hydrocortisone and acetic acid otic solution, USP) is a solution containing hydrocortisone (1%) and acetic acid (2%), in a propylene glycol vehicle containing propylene glycol diacetate (3%), benzethonium chloride (0.02%), sodium acetate (0.015%) and citric acid (0.05%). The empirical formulas for acetic acid and hydrocortisone are CH 3 COOH, and C 21 H 30 O 5 , with a molecular weight of 60.05 and 362.46, respectively. The structural formulas are: VōSoL HC is available as a nonaqueous otic solution buffered at pH 3 for use in the external ear canal. Acetic Acid Structural Formula Hydrocortisone Structural Formula
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Carefully remove all cerumen and debris to allow VōSoL HC to contact infected surfaces directly. To promote continuous contact, insert a wick of cotton saturated with VōSoL HC into the ear canal; the wick may also be saturated after insertion. Instruct the patient to keep the wick in for at least 24 hours and to keep it moist by adding 3 to 5 drops of VōSoL HC every 4 to 6 hours. The wick may be removed after 24 hours but the patient should continue to instill 5 drops of VōSoL HC 3 or 4 times daily thereafter, for as long as indicated. In pediatric patients, 3 to 4 drops may be sufficient due to the smaller capacity of the ear canal.
+adverse_reactions:
+  ADVERSE REACTIONS Stinging or burning may be noted occasionally; local irritation has occurred very rarely.
+storage_and_handling:
+  STORAGE Store at room temperature, 20°- 25°C (68°-77°F). Keep container tightly closed. Rx Only Manufactured For: ECR Pharmaceuticals Co., Inc. Richmond, Virginia 23255 Rev 901:00 5/09 MG#27762
+how_supplied:
+  HOW SUPPLIED VōSoL HC (Hydrocortisone and acetic acid otic solution, USP), containing hydrocortisone (1%) and acetic acid (2%), is available in 10 mL, measured-drop, safety-tip plastic bottles (NDC 0095-0201-10).
+package_label_principal_display_panel:
+  PACKAGE/LABEL PRINCIPAL DISPLAY PANEL NDC 0095-0201-10 10 mL VōSoL® HC Otic Solution (Hydrocortisone and acetic acid otic solution, USP) Rx Only Image of Carton - 10 mL
+indications_and_usage:
+  INDICATIONS AND USAGE For the treatment of superficial infections of the external auditory canal caused by organisms susceptible to the action of the antimicrobial, complicated by inflammation.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Acetic acid is antibacterial and antifungal; hydrocortisone is antiinflammatory, antiallergic and antipruritic; propylene glycol is hydrophilic and provides a low surface tension; benzethonium chloride is a surface active agent that promotes contact of the solution with tissues.
+set_id:
+  1c6c2a83-33de-4992-8091-33d54c1bd0c6
+id:
+  1c6c2a83-33de-4992-8091-33d54c1bd0c6

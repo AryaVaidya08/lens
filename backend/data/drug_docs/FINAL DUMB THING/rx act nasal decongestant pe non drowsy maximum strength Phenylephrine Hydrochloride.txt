@@ -1,0 +1,43 @@
+effective_time:
+  20170629
+inactive_ingredient:
+  Inactive ingredients anhydrous dibasic calcium phosphate, carnauba wax, FD&C red no. 40 aluminum lake, lecithin, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, silicon dioxide, talc, titanium dioxide
+purpose:
+  Purpose Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland When using this product do not use more than directed Stop use and ask a doctor if • you get nervous, dizzy or sleepless • symptoms do not improve within 7 days or are accompanied by fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product do not use more than directed
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  rx act nasal decongestant pe non drowsy maximum strength Phenylephrine Hydrochloride PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CARNAUBA WAX ANHYDROUS DIBASIC CALCIUM PHOSPHATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOLS POLYVINYL ALCOHOL SILICON DIOXIDE TALC TITANIUM DIOXIDE L7
+ask_doctor:
+  Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions adults and children 12 years and over • take 1 tablet every 4 hours • do not take more than 6 tablets in 24 hours children under 12 years do not use this product in children under 12 years of age
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • you get nervous, dizzy or sleepless • symptoms do not improve within 7 days or are accompanied by fever
+storage_and_handling:
+  Other information • store at 20º-25ºC (68º-77ºF)
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Sudafed PE® Nasal Decongestant active ingredient NASAL DECONGESTANT PE Non-Drowsy / Maximum Strength Phenylephrine HCl Tablets, 10 mg Nasal & Sinus Congestion Sinus Pressure ACTUAL SIZE 10 mg Each GLUTEN FREE 1 Pill/Dose 0941J-nasal-decongestant-image1.jpg 0941J-nasal-decongestant-image2.jpg
+indications_and_usage:
+  Uses • temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies • temporarily relieves sinus congestion and pressure
+set_id:
+  99c82bd4-9e22-4da1-8b76-410f38b58d08
+id:
+  48ffb43b-d363-4dd6-af75-c551fbe7ceeb
+active_ingredient:
+  Active ingredient (in each tablet) Phenylephrine HCl 10 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="51%"/> <col width="49%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="ordered"> <item> <caption>&#x2022;</caption>take 1 tablet every 4 hours</item> <item> <caption>&#x2022;</caption>do not take more than 6 tablets in 24 hours</item> </list> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use this product in children under 12 years of age</paragraph> </td> </tr> </tbody> </table>

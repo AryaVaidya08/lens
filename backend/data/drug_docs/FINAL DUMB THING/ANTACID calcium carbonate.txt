@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  ANTACID calcium carbonate SUCROSE STARCH, CORN TALC MINERAL OIL ADIPIC ACID SODIUM POLYMETAPHOSPHATE FD&C RED NO. 40 FD&C YELLOW NO. 6 FD&C YELLOW NO. 5 FD&C BLUE NO. 1 ALUMINUM OXIDE CALCIUM CARBONATE CARBONATE ION CALCIUM CATION orange, yellow, green LH20 assorted fruit, orange, lemon, lime ANTACID calcium carbonate SUCROSE STARCH, CORN TALC MINERAL OIL SODIUM POLYMETAPHOSPHATE CALCIUM CARBONATE CARBONATE ION CALCIUM CATION LH20
+active_ingredient:
+  Active ingredient (per tablet) Calcium Carbonate USP 1000 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves heartburn acid indigestion sour stomach upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 7 tablets in 24 hours If pregnant do not take more than 5 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  When using this product do not take more than 7 tablets in 24 hours If pregnant do not take more than 5 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+spl_unclassified_section:
+  Other information each tablet contains: elemental calcium 400mg, sodium 2mg (Assorted Fruit) store below 30 o C (86 o F)
+inactive_ingredient:
+  Inactive ingredients (Assorted Fruit) adipic acid, corn starch, FD&C blue #1 lake, FD&C red #40 lake, FD&C yellow #5 (tartrazine) lake, FD&C yellow #6 lake, flavors, mineral oil, sodium polyphosphate, sucrose, talc
+  Inactive ingredients (Peppermint) sucrose, calcium carbonate, corn starch, talc, mineral oil, natural flavor, sodium polyphosphate
+questions:
+  Questions? Call 1-888-367-7919 weekdays
+package_label_principal_display_panel:
+  Principal Display Panel NDC 11673-481-41 ultra strength antacid 1000 calcium carbonate Compare to Tums Ultra ®* relief of heartburn acid indigestion and upset stomach associated with these symptoms up&up ® ASSORTED FRUIT FLAVOR 160 CHEWABLE TABLETS naturally and artificially flavored Safety sealed- Do not use if printed inner seal beneath cap is missing or broken. *TUMS and TUMS ULTRA are registered trademarks of the GSK group of companies. 245 05 0457 R00 ID285492 Dist. by Target Corp., Mpls., MN 55403 ©2015 Target Brands, Inc. Shop Target.com GLUTEN FREE 103748XB (front label) 103747XB (back label) Antacid Target 160 count front label
+  Principal Display Panel NDC 11673-722-01 antacid tablets ultra strength antacid/calcium supplement calcium carbonate, 1,000 mg Compare to active ingredient in TUMS ® Ultra* up & up ® 160 CHEWABLE TABLETS naturally flavored peppermint flavor CALCIUM SUPPLEMENT USES: As a daily source of extra calcium. DIRECTIONS: Chew 2 tablets once or twice daily with a meal. Supplement Facts Serving Size: 2 Tablets Servings Per Container: 80 Amount Per Serving %Daily Value Calories 10 Sugars 3g Calcium 800mg 80% Sodium 10mg Less than 1% Safety sealed- Do not use if printed inner seal beneath cap is missing or broken. *TUMS and TUMS ULTRA are registered trademarks of the GlaxoSmithKline group of companies. 245 05 0049 ID083403 Dist. by Target Corporation Minneapolis, MN 55403 ©2013 Target Brands, Inc. Shop Target.com Guest Services 1-800-910-6874 GLUTEN FREE Front Label: 102801XA Back Label: 102802XA Target Antacid 160 ct peppermint label
+package_label_principal_display_panel_table:
+  <table width="100%"><col width="52%"/><col width="37%"/><col width="5%"/><col width="5%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">Amount Per Serving</content></paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">%Daily Value</content></paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"/><td styleCode="Rrule Botrule Lrule Toprule " valign="top"/></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph><content styleCode="bold">Calories</content>10 </paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"/><td styleCode="Rrule Lrule Botrule " valign="top"/><td styleCode="Rrule Lrule Botrule " valign="top"/></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Sugars 3g</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"/><td styleCode="Rrule Lrule Botrule " valign="top"/><td styleCode="Rrule Lrule Botrule " valign="top"/></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Calcium 800mg</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>80%</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"/><td styleCode="Rrule Lrule Botrule " valign="top"/></tr><tr><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph><content styleCode="bold">Sodium</content>10mg </paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>Less than 1%</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"/><td styleCode="Rrule Botrule Lrule " valign="top"/></tr></tbody></table>
+set_id:
+  ae5a4d34-4013-4460-9813-b7f2e038ba36
+id:
+  1431a046-43bc-7200-e063-6394a90a6439
+effective_time:
+  20240321
+version:
+  8
+openfda:

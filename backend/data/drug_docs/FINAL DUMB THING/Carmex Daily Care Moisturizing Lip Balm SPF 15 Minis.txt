@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Carmex Daily Care Moisturizing Lip Balm SPF 15 Minis OCTINOXATE, OXYBENZONE Carmex Daily Care Moisturizing Lip Balm Fresh Cherry SPF 15 OCTINOXATE, OXYBENZONE YELLOW WAX PETROLATUM LANOLIN CETYL ESTERS WAX ISOPROPYL PALMITATE MEADOWFOAM SEED OIL ISOHEXADECANE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE Carmex Daily Care Moisturizing Lip Balm Strawberry SPF 15 OCTINOXATE, OXYBENZONE YELLOW WAX PETROLATUM LANOLIN CETYL ESTERS WAX ISOPROPYL PALMITATE MEADOWFOAM SEED OIL ISOHEXADECANE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE Carmex Daily Care Moisturizing Lip Balm Wild Berry SPF 15 OCTINOXATE, OXYBENZONE YELLOW WAX PETROLATUM LANOLIN CETYL ESTERS WAX ISOPROPYL PALMITATE MEADOWFOAM SEED OIL ISOHEXADECANE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE Carmex Daily Care Moisturizing Lip Balm Cool Mint SPF 15 OCTINOXATE, OXYBENZONE YELLOW WAX PETROLATUM LANOLIN CETYL ESTERS WAX ISOPROPYL PALMITATE MEADOWFOAM SEED OIL ISOHEXADECANE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE Carmex Daily Care Moisturizing Lip Balm Peach Mango SPF 15 OCTINOXATE, OXYBENZONE PETROLATUM LANOLIN CETYL ESTERS WAX ISOPROPYL PALMITATE MEADOWFOAM SEED OIL ISOHEXADECANE YELLOW WAX OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE
+spl_unclassified_section:
+  Drug Facts
+  Other Information • this is a personal care item, and should be used by one individual only • protect this product from excessive heat and direct sun • do not use if safety seal is broken prior to purchase
+active_ingredient:
+  Active Ingredients Octinoxate 7.50% Oxybenzone 4.00% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps protect against sunburn and chapped lips higher SPF gives more sunburn protection
+warnings:
+  Warnings Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to help prevent sunburn, skin cancer or early skin aging. Skin Cancer/Skin Aging Alert: not For external use only Do not use on damaged or broken skin When using this product: keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if: rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product: keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if: rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: apply liberally 15 minutes before sun exposure • reapply: • after 80 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours • children under 2 years: Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients: petrolatum, lanolin, beeswax, cetyl esters, flavor, isopropyl palmitate, theobroma cacao seed butter, limnanthes alba seed oil, polypropylene, isohexadecane, polyamide 8, polyhydroxystearic acid, stevia rebaudiana extract
+package_label_principal_display_panel:
+  Package Labeling: Kit Kit2
+  Package Labeling:10210-0029-0 Label4
+  Package Labeling:10210-0032-0 Label10
+  Package Labeling:10210-0034-0 label16
+  Package Labeling:10210-0035-0 label17
+  Package Labeling:10210-0036-0 label18
+set_id:
+  bb029c71-4f07-2754-e053-2995a90a7c78
+id:
+  08886dde-ea9a-9dcb-e063-6394a90ad685
+effective_time:
+  20231025
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Carmex Daily Care Moisturizing Lip Balm SPF 15 Minis
+  generic_name:
+    OCTINOXATE, OXYBENZONE
+  manufacturer_name:
+    Carma Laboratories, Inc.
+  product_ndc:
+    10210-0040
+  product_type:
+    HUMAN OTC DRUG
+  spl_id:
+    08886dde-ea9a-9dcb-e063-6394a90ad685
+  spl_set_id:
+    bb029c71-4f07-2754-e053-2995a90a7c78
+  package_ndc:
+    10210-0040-1
+    10210-0029-0
+    10210-0032-0
+    10210-0034-0
+    10210-0035-0
+    10210-0036-0
+  is_original_packager:
+    True

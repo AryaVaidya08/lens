@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Humphreys Alcoholado Maravilla ALCOHOL ALCOHOL ALCOHOL BAY OIL (PIMENTA RACEMOSA) DENATONIUM BENZOATE FD&C BLUE NO. 1 FD&C RED NO. 40 FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 WITCH HAZEL MENTHOL, UNSPECIFIED FORM POLYSORBATE 20 WATER TERT-BUTYL ALCOHOL
+active_ingredient:
+  Ingrediente activo / Active ingredient Alcohol etilico 70% / Ethyl alcohol 70%
+purpose:
+  Propósito / Purpose Antiséptico / Antiseptic
+indications_and_usage:
+  Usos / Uses ayuda primaria para prevenir el riesgo de la infección en: first aid to help prevent the risk of infection in: cortadas menores / minor cuts raspaduras/scrapes quemaduras/burns
+warnings:
+  Advertencias / Warnings Para uso externo solamente. / For external use only. Inflamable, mantenga lejos de fuego y chispas/ Flammable, keep away from fire or flame
+ask_doctor:
+  Consulte a un médico antes de usar si usted tiene heridas profundas, una perforación, mordidas de animal o quemaduras graves / Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns
+when_using:
+  Cuando se usa este producto / When using this product que no tenga contacto con los ojos / do not get into eyes que no aplique sobre áreas grandes del cuerpo / do not apply over large areas of the body que no utilice más de 1 semana a menos que le indique un médico / do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Descontinúe y consulte a un médico si la condición persiste o empeora Stop use and ask doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Mantenga alejado de los niños. Si se ingiere, busque ayuda médica inmediatamente. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Direcciones / Directions Aplique sobre la piel directamente o con una gasa limpia, algodón o un bastoncillo de algodón / Apply to the skin directly or with clean gauze, cotton, or swab
+inactive_ingredient:
+  Ingredientes inactivos / Inactive ingredients bay oil, denatonium benzoate, FDC blue #1, FDC red #40, FDC yellow #5, FDC yellow #6, fragrance, hamamelis virginianna, menthol, polysorbate 20, purified water, t-butyl alcohol
+storage_and_handling:
+  Otra información / Other information Almacenar por debajo de 30C. Store below 86F.
+questions:
+  Distribuido por / Dist. by: Humphreys Pharmacal, Inc. East Hampton, CT 06424 Made in USA www.humphreysusa.com
+package_label_principal_display_panel:
+  Product Packaging The labels shown below represent a sample of that currently in use. Additional packaging may also be available. HUMPHREYS ALCOHOLADO MARAVILLA 70 Antiseptic Lotion / Loción Anticeptica TERAPEUTICO - EFICAZ - FORMIDABLE Alcoholado label
+set_id:
+  9f629487-1644-4176-bf04-19efc9eaacdc
+id:
+  57ff76cf-6dc7-456e-8379-c58ba30a3a5f
+effective_time:
+  20221223
+version:
+  5
+openfda:

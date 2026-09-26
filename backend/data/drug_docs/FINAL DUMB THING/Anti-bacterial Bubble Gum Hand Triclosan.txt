@@ -1,0 +1,29 @@
+effective_time:
+  20121130
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water, Sodium Alkyl Ether Sulphate, Ammonium Lauryl Sulphate, Cocamidopropyl Betaine, Cocamide DEA, Disodium Laureth Sulfosuccinate, Sodium Chloride, Glycol Distearate, Fragrance, Methylchloroisothiazolinone, Methylisothiazolinone, Citric Acid, Disodium EDTA, FD&C Red NO. 33
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. CHILDREN CAN ONLY USE THIS PRODUCT WITH ADULT SUPERVISION.
+warnings:
+  FOR EXTERNAL USE ONLY. DO NOT USE IN THE EYES.
+spl_product_data_elements:
+  Anti-bacterial Bubble Gum Hand Triclosan TRICLOSAN TRICLOSAN WATER SODIUM C12-15 PARETH-3 SULFATE AMMONIUM LAURYL SULFATE COCAMIDOPROPYL BETAINE COCO DIETHANOLAMIDE DISODIUM LAURETH SULFOSUCCINATE SODIUM CHLORIDE GLYCOL DISTEARATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE CITRIC ACID MONOHYDRATE EDETATE DISODIUM D&C RED NO. 33
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS: WET HANDS.APPLY PALMFUL TO HANDS. SCRUB THOROUGHLY. RINISE. RECOMMENDED FOR REPEATED USE.
+stop_use:
+  DISCONTINUE USE IF IRRITATION AND REDNESS DEVELOP. IF CONDITION PERSISTS FOR MORE THAN 72 HOURS, CONSULT A DOCTOR.
+package_label_principal_display_panel:
+  image of bottle hangtag
+indications_and_usage:
+  KILLS MORE THAN 99.99% OF COMMON GEMS
+set_id:
+  41761f06-df9b-455d-a095-c9305b21d4aa
+id:
+  ddf2a5b8-a5dc-4a5b-84a5-f9345bfa8e22
+active_ingredient:
+  Active ingredient: Triclosan 0.3%

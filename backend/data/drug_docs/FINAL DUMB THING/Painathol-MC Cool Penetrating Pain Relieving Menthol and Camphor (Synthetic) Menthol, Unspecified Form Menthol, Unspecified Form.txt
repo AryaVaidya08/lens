@@ -1,0 +1,38 @@
+effective_time:
+  20170228
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Aloe Barbadensis Leaf Juice, SD Alcohol 40-B, Propylene Glycol, Mentha Piperita (Peppermint) Oil, Arnica Montana Flower Extract, Carbomer, Acrylates Coploymer, Corn Starch Modified, Linum Usitatissmum (Linseed) Seed Oil, Euterpe Oleracea Fruit Oil, PPG-2 Hydroxyethyl Cocamide, Rosmarinus Officinalis (Rosemary) Leaf Oil,Methyl Diisopropyl Propionamide, Ethyl Methane Carboximide, Methyl Lactate, Lauryl Laurate, Zea Mays (Corn) Starch, Hydrolyzed Corn Starch, Hydrolyzed Starch Octenylsuccinate, Phenoxyethanol, DMDM Hydantoin, Iodopropynyl Butylcarbamate
+purpose:
+  Active ingredients Purpose Menthol 12% Topical Analgesic Camphor 6% Topical Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or nursing, seek the advice of a health care professional before using
+warnings:
+  Warnings For external use only. Flammable: Keep from heat and flame. Use only as directed. do not apply to wounds or damaged skin do not bandage tightly When using this product do not get into eyes avoid contact with other mucous membranes if eye contact occurs, flush immediately with water Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or nursing, seek the advice of a health care professional before using
+when_using:
+  When using this product do not get into eyes avoid contact with other mucous membranes if eye contact occurs, flush immediately with water
+spl_product_data_elements:
+  Painathol-MC Cool Penetrating Pain Relieving Menthol and Camphor (Synthetic) Menthol, Unspecified Form Menthol, Unspecified Form Camphor (Synthetic) Camphor (Synthetic) Water ALOE VERA LEAF PROPYLENE GLYCOL ARNICA MONTANA FLOWER DMDM HYDANTOIN PHENOXYETHANOL IODOPROPYNYL BUTYLCARBAMATE METHYL DIISOPROPYL PROPIONAMIDE LAURYL LAURATE CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) PEPPERMINT OIL ALCOHOL LINSEED OIL ROSEMARY OIL ACAI OIL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions for adults and children 18 years of age and older apply liberally to affected area up to 4 times daily, unless otherwise directed by a physician allow to fully absorb into skin if necessary, wash hands with soap and water after application if applying to hands, wait 30 minutes before washing avoid contact with eyes, mucous membranes, damaged or irritated skin insert contact lenses prior to application
+spl_unclassified_section:
+  Drug Facts
+  Exclusively manufactured for LaCar Sales & Marketing Inc. by Concept Laboratories, Inc. Chicago, IL 60642 USA www.painatholmc.com #CL9968-R1
+stop_use:
+  Stop use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="center" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="bold italics">Active ingredients</content> </th> <th> <content styleCode="bold italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Menthol 12%</td> <td>Topical Analgesic</td> </tr> <tr styleCode="Botrule"> <td>Camphor 6%</td> <td>Topical Analgesic</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 255g Bottle Label Menthol 12% • Camphor 6% Painathol-MC ™ NDC 64058-441-49 EXTRA STRENGTH Cool Penetrating Pain Relieving Cream with Peppermint Oil Muscle & Joint Relief Arthritis Simple Backache Strains Sprains Bruises ANTI-INFLAMMATORY OMEGA 3, 6 & 9 NET WT. 9 OZ. (255g) PRINCIPAL DISPLAY PANEL - 255g Bottle Label
+indications_and_usage:
+  Uses for the temporary relief of minor aches and pains of muscles and joints associated with simple backache arthritis strains sprains bruises
+set_id:
+  9ae9f9d6-412f-4447-a17f-0feba88212e0
+id:
+  adc92bbf-2c69-435c-8321-a39a9f29249b
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="center" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="bold italics">Active ingredients</content> </th> <th> <content styleCode="bold italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Menthol 12%</td> <td>Topical Analgesic</td> </tr> <tr styleCode="Botrule"> <td>Camphor 6%</td> <td>Topical Analgesic</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Menthol 12% Topical Analgesic Camphor 6% Topical Analgesic

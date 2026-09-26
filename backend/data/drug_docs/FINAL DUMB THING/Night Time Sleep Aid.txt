@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Night Time Sleep Aid Doxylamine Succinate DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C BLUE NO. 1 ALUMINUM LAKE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A DOXYLAMINE SUCCINATE DOXYLAMINE light blue 44;386
+active_ingredient:
+  Active ingredient (in each tablet) Doxylamine succinate 25 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Use helps to reduce difficulty in falling asleep
+warnings:
+  Warnings Ask a doctor before use if you have a breathing problem such as asthma, emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland glaucoma Ask a doctor or pharmacist before use if you are taking any other drugs. When using this product avoid alcoholic beverages take only at bedtime Stop use and ask a doctor if sleeplessness persists continuously for more than two weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. [1-800-222-1222]
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as asthma, emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland glaucoma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drugs.
+when_using:
+  When using this product avoid alcoholic beverages take only at bedtime
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than two weeks. Insomnia may be a symptom of serious underlying medical illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. [1-800-222-1222]
+dosage_and_administration:
+  Directions adults and children 12 years and over: take one tablet 30 minutes before going to bed; take once daily or as directed by a doctor children under 12 years: do not use
+storage_and_handling:
+  Other information store at 20°-25°C (68° and 77° F) protect from excessive moisture DO NOT USE IF PRINTED SEAL UNDER CAP IS MISSING OR DAMAGED.
+inactive_ingredient:
+  Inactive ingredients dicalcium phosphate dihydrate, FD&C blue #1 aluminum lake, magnesium stearate, microcrystalline cellulose, sodium starch glycolate
+questions:
+  Questions? call toll-free 1-800-630-8895
+spl_unclassified_section:
+  Distributed by: ADVANCED RX LLC 1942 NE 163rd St North Miami Beach, FL 33162 U.S.A
+package_label_principal_display_panel:
+  *Compare to the active ingredient in Unisom ® Sleeptabs ® NDC 80513-371-25 Night Time Sleep Aid Doxylamine Succinate 25 mg 225 Tablets *This product is not manufactured or distributed by the owner of the registered trademark Unisom ® Sleeptabs ® . Good Neighbor 44-386 Good Neighbor 44-386 label
+set_id:
+  db8b730a-1553-4682-96bf-41e670ed0347
+id:
+  2f0e58dc-121b-d508-e063-6294a90a34ff
+effective_time:
+  20250226
+version:
+  2
+openfda:
+  application_number:
+    ANDA040564
+  brand_name:
+    Night Time Sleep Aid
+  generic_name:
+    DOXYLAMINE SUCCINATE
+  manufacturer_name:
+    Advanced Rx LLC
+  product_ndc:
+    80513-371
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DOXYLAMINE SUCCINATE
+  rxcui:
+    1101446
+  spl_id:
+    2f0e58dc-121b-d508-e063-6294a90a34ff
+  spl_set_id:
+    db8b730a-1553-4682-96bf-41e670ed0347
+  package_ndc:
+    80513-371-25
+  is_original_packager:
+    True
+  upc:
+    0380513000897
+  unii:
+    V9BI9B5YI2

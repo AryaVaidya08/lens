@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  e.l.f Sun Boss Gloss SPF 25 Sunscreen Thats my Jam ZINC OXIDE PENTAERYTHRITYL TETRAETHYLHEXANOATE ALKYL (C12-15) BENZOATE OCTYLDODECANOL MICROCRYSTALLINE WAX BUTYLOCTYL SALICYLATE TRIDECYL TRIMELLITATE SILICA DIMETHYL SILYLATE ORYZANOL CAMELLIA OIL TRIETHOXYCAPRYLYLSILANE ETHYLHEXYLGLYCERIN MEDIUM-CHAIN TRIGLYCERIDES VINYLPYRROLIDONE/HEXADECENE COPOLYMER .ALPHA.-TOCOPHEROL ACETATE CASTOR OIL ISOSTEARIC ACID HYALURONATE SODIUM HYDROGENATED CASTOR OIL FERRIC OXIDE RED FERROSOFERRIC OXIDE FERRIC OXIDE YELLOW FD&C BLUE NO. 1 TITANIUM DIOXIDE ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active Ingredients Zinc Oxide 10.0% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions) decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use ony. Do not use on damaged or broken skin. When usingt this product: keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if: rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When usingt this product: keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if: rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Use water resistant sunscreen if swimming or sweating. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in sun, especially from 10 a.m.-2 p.m. wear long-sleeved shirts, pants, hats and sunglasses. Children under 6 months of age: ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Polyisobutene, Pentaerythrityl Tetraethylhexanoate, Hydrogenated Polyisobutene, C12-15 Alkyl Benzoate, Octyldodecanol, Microcrystalline Wax (Cera Microcristallina), Butyloctyl Salicylate, Tridecyl Trimellitate, Silica Dimethyl Silylate, Oryzanol, Camellia Oleifera Seed Oil, Triethoxycaprylylsilane, Fragrance (Parfum), Ethylhexylglycerin, Polyhydroxystearic Acid, Caprylic/Capric Triglyceride, VP/Hexadecene Copolymer, Tocopheryl Acetate, Ricinus Communis (Castor) Seed Oil, Isostearic Acid, Sodium Hyaluronate, Polyglyceryl-3 Polyricinoleate, Lecithin, Hydrogenated Castor Oil, Tocopherol (+/-): Iron Oxide (CI 77491), Iron Oxide (CI 77499), Red 7 Lake (CI 15850), Iron Oxide (CI 77492), Blue 1 Lake (CI 42090), Titanium Dioxide (CI 77891)
+questions:
+  Questions? 1-888-315-9814
+package_label_principal_display_panel:
+  Package Labeling: Label2
+set_id:
+  b7d56015-4734-4ce4-b40d-64236df810e3
+id:
+  4307f7ca-67dc-0d0c-e063-6294a90a6cec
+effective_time:
+  20251107
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    e.l.f Sun Boss Gloss SPF 25 Sunscreen Thats my Jam
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    e.l.f. Cosmetics, Inc.
+  product_ndc:
+    76354-128
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    4307f7ca-67dc-0d0c-e063-6294a90a6cec
+  spl_set_id:
+    b7d56015-4734-4ce4-b40d-64236df810e3
+  package_ndc:
+    76354-128-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

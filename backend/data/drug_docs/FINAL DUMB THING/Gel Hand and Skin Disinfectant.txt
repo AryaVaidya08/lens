@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Gel Hand and Skin Disinfectant ALCOHOL HYPERICUM PERFORATUM AMINOMETHYL PROPANEDIOL GLYCERIN ALCOHOL ALCOHOL MELALEUCA ALTERNIFOLIA LEAF CARBOMER 1342 WATER
+active_ingredient:
+  %73 ALCOHOL (w/w)
+purpose:
+  Antiseptic
+indications_and_usage:
+  Ready-to-use gel for hands and skin. It helps reduce bacteria that potentially can cause disease. For use when soap and water are not available
+dosage_and_administration:
+  Apply 3-5 ml to the palm of your hand, spread over your entire hand and rub it in until dry. Repeat the process according to the hygiene situation. It is recommended to be used in its original packaging.
+warnings:
+  For external use only. Flammable, keep away from fire and flame.
+do_not_use:
+  Do not use on children less than 2 months of age and on open skin wounds.
+when_using:
+  Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes throughly with water. If symptoms persist, seek medical attention. After skin contact: If symptoms develop, seek medical attention. After swallowing: DO NOT vomit if swallowed. Let the victim drink plenty of water. Get medical attention immediately. After inhalation: No expected symptoms. Seek medical attention if symptoms develop.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Glycerin, Carbomer, Melaleuca Alternıfolia Leaf Oil, Hypericum Perforatum Oil, T riethanolamine ,Aqua (Deiyonize su)
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+package_label_principal_display_panel:
+  78791-214-01 (50 ml) 78791-214-02 (150 ml) 78791-214-03 (500 ml) 78791-214-04 (1000 ml)
+set_id:
+  af4317d0-0fde-f3b3-e053-2a95a90ab720
+id:
+  e8ce383b-a2ad-0f5c-e053-2995a90a553d
+effective_time:
+  20220916
+version:
+  4
+openfda:

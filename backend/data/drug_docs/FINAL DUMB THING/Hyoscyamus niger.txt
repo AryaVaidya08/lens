@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Hyoscyamus niger HYOSCYAMUS NIGER SUCROSE LACTOSE HYOSCYAMUS NIGER HYOSCYAMUS NIGER white
+active_ingredient:
+  ACTIVE INGREDIENTS HYOSCYAMUS
+purpose:
+  USES To relieve the symptoms of twitching.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: HYOSCYAMUS Twitching
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of HYOSCYAMUS is 3x–30x, 2c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Label
+set_id:
+  daefad3c-92c2-43b9-8b4c-1c5dd5182761
+id:
+  01f39928-7197-ee1a-e063-6394a90a7f32
+effective_time:
+  20230802
+version:
+  3
+openfda:

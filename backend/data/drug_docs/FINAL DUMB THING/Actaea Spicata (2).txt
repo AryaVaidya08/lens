@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Actaea Spicata ACTAEA SPICATA ROOT SUCROSE LACTOSE ACTAEA SPICATA ROOT ACTAEA SPICATA ROOT white
+active_ingredient:
+  ACTIVE INGREDIENTS ACTAEA 30C
+purpose:
+  USES To relieve the symptoms of joint pain.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: ACTAEA Joint Pain
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of ACTAEA is 2x–30x, 1c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Label
+set_id:
+  b91a2ca8-180d-46d4-a525-602870c4db1d
+id:
+  dc014005-2f86-f53b-e053-2a95a90aa144
+effective_time:
+  20220406
+version:
+  3
+openfda:

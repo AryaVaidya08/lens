@@ -1,0 +1,42 @@
+effective_time:
+  20181206
+inactive_ingredient:
+  Inactive ingredients Water, cyclopentasiloxane, glycerin, PEG/PPG-18/18 dimethicone, dimethicone, sodium chloride, stearic acid, aluminum hydroxide, triethoxycaprylylsilane, calcium sodium phosphosilicate, polyglyceryl-4 isostearate, cetyl PEG/PPG-10/1 dimethicone, hexyl laurate, saccharum officinarum (sugar cane) extract, pyrus malus (apple) fruit extract, citrus limon (lemon) fruit extract, citrus aurantium dulcis (orange) fruit extract, camellia sinensis leaf extract, chamomilla recutita (matricaria) flower extract, camellia oleifera leaf extract, panax ginseng root extract, ginkgo biloba leaf extract, anthemis nobilis flower extract, butylene glycol, phytantriol, kaolin, magnesium ascorbyl phosphate, retinyl palmitate, tocopherol, tetrahexyldecyl ascorbate, boron nitride, palmitic acid, dextrin palmitate, sodium hyaluronate, sodium dehydroacetate, methicone, phenoxyethanol, caprylyl glycol, hexylene glycol, titanium dioxide, iron oxides, mica.
+purpose:
+  Active ingredients Purpose Octinoxate 7.5% Sunscreen Oxybenzone 3% Sunscreen Titanium Dioxide 5% Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Stop use and ask doctor if rash occurs Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  Amazonian clay BB illuminating moisturizer Broad Spectrum SPF 15 Sunscreen Octinoxate, Oxybenzone, and Titanium Dioxide Octinoxate Octinoxate Oxybenzone Oxybenzone Titanium Dioxide Titanium Dioxide Water cyclomethicone 5 glycerin PEG/PPG-18/18 dimethicone dimethicone sodium chloride stearic acid aluminum hydroxide triethoxycaprylylsilane polyglyceryl-4 isostearate hexyl laurate sugarcane apple lemon orange green tea leaf chamomile camellia oleifera leaf asian ginseng ginkgo chamaemelum nobile flower butylene glycol phytantriol kaolin magnesium ascorbyl phosphate vitamin a palmitate tocopherol tetrahexyldecyl ascorbate boron nitride palmitic acid hyaluronate sodium sodium dehydroacetate phenoxyethanol caprylyl glycol hexylene glycol mica
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure Use a water resistant sunscreen if swimming or sweating Reapply at least every 2 hours Children under 6 months: Ask a doctor Optional: apply to all skin exposed to the sun Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: –Limit time in the sun, especially from 10 a.m.-2 p.m. –Wear long-sleeved shirts, pants, hats and sunglasses
+spl_unclassified_section:
+  Drug Facts
+  Dist. by tarte™, Inc. New York, NY 10018.
+stop_use:
+  Stop use and ask doctor if rash occurs
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sunlight You may report a serious adverse reaction to: tarte c/o Report Reaction, LLC, P.O. Box 22, Plainsboro, New Jersey 08536-0222.
+do_not_use:
+  Do not use on damaged or broken skin
+active_ingredient_table:
+  <table width="50%"> <col width="65%" align="left" valign="top"/> <col width="35%" align="right" valign="top"/> <thead> <tr> <th>Active ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr> <td>Octinoxate 7.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Oxybenzone 3%</td> <td>Sunscreen</td> </tr> <tr> <td>Titanium Dioxide 5%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 mL Bottle Carton tarte high-performance naturals™ Amazonian clay BB illuminating moisturizer Broad Spectrum SPF 15 Sunscreen PRINCIPAL DISPLAY PANEL - 50 mL Bottle Carton
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+set_id:
+  10e58501-c1cf-4275-b981-30058fb30c69
+id:
+  919e7815-6b44-4597-b3fc-caee76b1d5a1
+purpose_table:
+  <table width="50%"> <col width="65%" align="left" valign="top"/> <col width="35%" align="right" valign="top"/> <thead> <tr> <th>Active ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr> <td>Octinoxate 7.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Oxybenzone 3%</td> <td>Sunscreen</td> </tr> <tr> <td>Titanium Dioxide 5%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Octinoxate 7.5% Sunscreen Oxybenzone 3% Sunscreen Titanium Dioxide 5% Sunscreen

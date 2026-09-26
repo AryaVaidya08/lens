@@ -1,0 +1,39 @@
+effective_time:
+  20160314
+inactive_ingredient:
+  Inactive ingredient acetone, denatonium benzoate, methyl isobutyl ketone, water
+purpose:
+  Purpose First aid antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  warnings For external use only
+when_using:
+  When using this product do not get into eyes do not inhale do not apply over large areas of the body do not use longer than 1 week
+spl_product_data_elements:
+  Ethyl Rubbing Alcohol Ethyl Alcohol ALCOHOL ALCOHOL ACETONE DENATONIUM BENZOATE METHYL ISOBUTYL KETONE WATER
+other_safety_information:
+  Flammable keep away from fire or flame, heat, spark, electrical
+ask_doctor:
+  Ask a doctor before use for deep or puncture wounds, animal bites or serious burns
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions clean the affected area apply a small amount of this product on the affected area 1 to 3 times daily may be covered with a sterile bandage if bandage, let dry first
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+spl_unclassified_section:
+  Caution Fumes can be acutely irritating to skin, eyes and the respiratory system. Do not apply to irritated skin or if excessive irritation develops. Avoid getting into the eyes or on mucous membranes. Avoid inhaling this product.
+  other information will produce serious gastric disturbances if taken internally
+  McKesson Another Quality Product Distributed by McKesson One Post Street, San Francisco, CA 94104 Money Back Guarantee Please visit us at www.sunmarkbrand.com DSP-TN-15000 DSP-MO-34 SDS-TN-15012 Pat. D675,101
+package_label_principal_display_panel:
+  Pincipal Display Panel Sunmark Ethyl rubbing alcohol 70% by volume First Aid Antseptic For rubbing and massaging For treatment of minor cuts and scrapes WARNING FLAMMABLE Keep away from heat, spark, electrical, fire or flame Use only in well-ventilated area; fumes can be harmful CAUTION: Do not point at self or others; product will squirt when squeezed. 16 FL OZ (1 PT) 473 mL image description
+indications_and_usage:
+  Use first aid to help prevent the risk of infection in: minor cuts scrapes burns
+set_id:
+  1732cb8b-64de-49b9-9bef-31fae10d84ef
+id:
+  9139541c-de66-4fd3-a169-0db41323a3b8
+active_ingredient:
+  Active Ingredient Ethyl alcohol 70%

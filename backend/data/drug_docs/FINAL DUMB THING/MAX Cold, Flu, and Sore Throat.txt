@@ -1,0 +1,90 @@
+spl_product_data_elements:
+  MAX Cold, Flu, and Sore Throat ACETAMINOPHEN,DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN , PHENYLEPHRINE HCL ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN PROPYLENE GLYCOL PROPYL GALLATE WATER SODIUM BENZOATE SORBITOL SUCRALOSE XANTHAN GUM
+active_ingredient:
+  Drug Facts Active ingredients Active ingredients (in each 20 mL) Acetaminophen 650 mg Dextromethorphan HBr 20 mg Guaifenesin 400 mg Phenylephrine HCL 10 mg
+purpose:
+  Purpose Pain reliever/Fever reducer Cough suppressant Expectorant Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right awaay.
+indications_and_usage:
+  Uses temporarily relieves these common cold and flu symptoms: cough due to minor throat and bronchial irritation nasal congestion sinus congestion and pressure minor aches and pains sore throat headache fever helps loosed phlegm (mucus) ang thin bronchial secretions to drain bronchial tubes
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take: ■ more than 4,000 mg of acetaminophen in 24 hours ■ with other drugs containing acetaminophen ■ 3 or more alcoholic drinks daily while using this product Allery Alert: Acetaminophen may cause severe skin reaction. Symptoms may include: ■ skin reddening - blisters ■ rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea or vomiting, consult a doctor promptly.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are taking a prescription monamine oxidase inhibitor )MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product for children under 12 years of age
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease thyroid disease high blood pressure diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma or empysema cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+when_using:
+  When using this product do not use more than directed
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur redness or swelling is present symptoms do not get better within 7 days or are accompanied by a fever fever gets worse or lasts more than 3 days new symptoms occur cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use.
+overdosage:
+  Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact the Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Age Dose Adults and children 12 years and older 20 mL every 4 hours Children under 12 years of age Do not use
+spl_unclassified_section:
+  Other information each 20 mL contains: sodium 10 mg dosage cup provided store between 20°-25° C (68°-7°7 F) do not refrigerate
+inactive_ingredient:
+  Inactive ingredients Anhydrous citric acid, edetate disodium, FD and C Blue #1, FD and C Red #40, flavors, glycerin, propylene glycol, propyl gallate, purified water, sodium benzoate, sorbitol, sucralose, Xanthan gum
+questions:
+  Questions? Call weekdays from 9:30 AM to 4:30 PM EST at 1-877-798-5944
+package_label_principal_display_panel:
+  Product Label Compare to Mucinex ® FAST-MAX™ Cold, Flu & Sore Throat active ingredients* NDC 37808-316-25 H E B ® Maximum Strength MAX COLD, FLU & SORE THROAT Acetaminophen / (Pain Reliver/Fever Reducer) Dextromethorphan HBr / (Cough Suppressant) Guaifensin / (Expectorant) Phenylephrine HCL / Nasal Decongestant) Cold, Flu & Throat Relief of: • Fever and Body aches • Controls Cough • Thins and Loosens Mucus • Relieves Nasal and Chest Congestion Adults For ages 12 and Over 6 FL OZ (117 mL) LF-002 Rev.2 02 Peel Corner to Read Complete Drug Facts and Information DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING Failure to follow these warnings could result in consequences 100% GUARANTEE promise If you aren't completely pleased with this product, we’ll be happy to replace it or refund your money. You have our word on it. LB-002 Rev 02 1208 Lot: Exp: HEB MaxCold pg1 HEB MaxCold pg2 HEB MaxCold pg3
+set_id:
+  9b09b660-0758-48dc-84c9-26cdd2aacc03
+id:
+  0d19111b-d15e-4e5d-a9e1-5403e7509902
+effective_time:
+  20231229
+version:
+  3
+openfda:
+  application_number:
+    M013
+  brand_name:
+    MAX Cold, Flu, and Sore Throat
+  generic_name:
+    ACETAMINOPHEN,DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN , PHENYLEPHRINE HCL
+  manufacturer_name:
+    H E B
+  product_ndc:
+    37808-316
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1116572
+  spl_id:
+    0d19111b-d15e-4e5d-a9e1-5403e7509902
+  spl_set_id:
+    9b09b660-0758-48dc-84c9-26cdd2aacc03
+  package_ndc:
+    37808-316-25
+  is_original_packager:
+    True
+  upc:
+    0041220387014
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    362O9ITL9D
+    9D2RTI9KYH
+    495W7451VQ
+    04JA59TNSJ

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Grime STOPPERS Fast Acting Hand Sanitizer Liquid Alcohol GLYCERIN ALCOHOL ALCOHOL DENATONIUM BENZOATE HYDROGEN PEROXIDE WATER Grime STOPPERS Fast Acting Hand Sanitizer Gel Alcohol GLYCERIN ALCOHOL ALCOHOL DENATONIUM BENZOATE HYDROGEN PEROXIDE WATER
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl Alcohol 80% v/v
+purpose:
+  PURPOSE Antiseptic
+indications_and_usage:
+  USE Hand Sanitzer to help reduce bacteria on the skin that could cause disease or illness.
+  DIRECTIONS Apply to palm of your hands as needed. Rub hands together to spread gel until dry. No rinsing or towel required. Children under 6 years of age consult physician before use and supervise when using this product.
+dosage_and_administration:
+  Topical Liquid applied to outer surface of the body, specifcially hands.
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from fire or flame. When using this product keep out of eyes, ears, and mouth. In case of contact, flush thoroughly with water. Avoid contact with open wounds. Do not ingest or inhale. Stop us and ask a doctor if irritation or rash appears and persists more than 72 hours. Keep out of the reach of children. If swallowed, get medical help or contact the Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact, flush thoroughly with water. Avoid contact with open wounds. Do not ingest or inhale.
+stop_use:
+  Stop us and ask a doctor if irritation or rash appears and persists more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact the Poison Control Center right away.
+other_safety_information:
+  OTHER INFORMATION Avoid freezing and store below 105°F (41°C). May discolor or harm fabrics, wood finishes & plastics.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water Glycerin Hydrogen Peroxide Biterex Fragrance
+package_label_principal_display_panel:
+  Label Liquid Application 1 Gallon (3.76L) NDC: 43636-007-28 63436-007-28
+  Label Gel Application 1 Gallon (3.76L) NDC: 43636-008-28 63436-008-28
+set_id:
+  adf47e6a-3c2e-3e0b-e053-2a95a90a3122
+id:
+  adf47e6a-3c2f-3e0b-e053-2a95a90a3122
+effective_time:
+  20200828
+version:
+  1
+openfda:

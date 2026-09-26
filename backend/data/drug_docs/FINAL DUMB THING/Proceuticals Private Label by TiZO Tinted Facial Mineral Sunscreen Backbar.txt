@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Proceuticals Private Label by TiZO Tinted Facial Mineral Sunscreen Backbar Titanium Dioxide, Zinc Oxide ALUMINA .ALPHA.-TOCOPHEROL ACETATE HYDROGEN DIMETHICONE (20 CST) IRON OXIDES DIMETHICONOL (2000 CST) DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) CYCLOHEXASILOXANE TETRAHEXYLDECYL ASCORBATE TITANIUM DIOXIDE TITANIUM DIOXIDE DIMETHICONE CYCLOPENTASILOXANE DIMETHICONE CROSSPOLYMER LAURYL PEG/PPG-18/18 METHICONE PEG-10 DIMETHICONE (600 CST) ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active Ingredients: Titanium Dioxide 8% Zinc Oxide 3.8%
+ask_doctor:
+  Warnings: Stop use and ask a doctor if rash occurs.
+do_not_use:
+  Warnings: Do not use on broken or damaged skin.
+keep_out_of_reach_of_children:
+  Warnings: Keep out of the reach of children.
+purpose:
+  Purpose: Sunscreen
+when_using:
+  Warnings: Whe using this product, keep out of eyes.
+dosage_and_administration:
+  Directions: Apply liberally 15 minutes before sun exposure. Reapply after 80 minutes of swimming or sweating. Immediatley after towel drying. At leat every 2 hours.
+warnings:
+  Warnings: For external use only. Do not use on damage or broken skin. Stop use and ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of the reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients: Alumina, Cyclohexasiloxane, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethiconol, Iron Oxide (CI 77491), Lauryl PEG/PPG-18/18 Methicone, Hydrogen Dimethicone, PEG-10 Dimethicone, Tetrahexyldecyl Ascorbate, Tocopheryl Acetate
+indications_and_usage:
+  Uses: Helps prevent sunburn if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+package_label_principal_display_panel:
+  Package Label: Proceuticals Private Label by TiZO Tinted Facial Mineral Sunscreen Backbar
+set_id:
+  2be9f92a-a041-0595-e063-6394a90af7a8
+id:
+  2be9f92a-a042-0595-e063-6394a90af7a8
+effective_time:
+  20250117
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Proceuticals Private Label by TiZO Tinted Facial Mineral Sunscreen Backbar
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    Fallien Cosmeceuticals, LTD
+  product_ndc:
+    58892-201
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    2be9f92a-a042-0595-e063-6394a90af7a8
+  spl_set_id:
+    2be9f92a-a041-0595-e063-6394a90af7a8
+  package_ndc:
+    58892-201-85
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

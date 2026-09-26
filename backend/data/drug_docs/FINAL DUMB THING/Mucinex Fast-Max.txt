@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Mucinex Fast-Max SEVERE COLD acetaminophen, dextromethorphan hydrobromide, guaifenesin, phenylephrine hydrochloride ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C YELLOW NO. 6 GELATIN GLYCERIN LECITHIN, SOYBEAN MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE PROPYLENE GLYCOL SORBITOL TITANIUM DIOXIDE WATER clear oblong PC26
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients (in each softgel) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Guaifenesin 200 mg Phenylephrine HCl 5 mg
+purpose:
+  Purposes Pain reliever/fever reducer Cough suppressant Expectorant Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: nasal congestion headache cough minor aches and pains sore throat temperarily reduces fever promotes nasal and/or sinus drainage helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take: more than12 liquid gels in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert : Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product, do not use more than directed Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product, do not use more than directed
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Do not take more than directed (see Overdose warning) do not exceed more than 12 liquid gels in any 24-hour period adults and children 12 years of age and older: take 2 liquid gels every 4 hours children under 12 years of age: do not use
+storage_and_handling:
+  Other information store between 20-25°C (68-77°F) avoid excessive heat
+inactive_ingredient:
+  Inactive ingredients FD&C yellow no. 6, gelatin, glycerin, lecithin (soy), mineral oil, polyethylene glycol, povidone, propylene glycol, sorbitol, titanium dioxide, water
+questions:
+  Questions? 1-866-MUCINEX (1-866-682-4639)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Carton Label MUCINEX FAST-MAX SEVERE COLD 16 LIQUID GELS NDC 51013-409-14 Carton Label
+set_id:
+  e6fa5a48-419b-4090-ae72-9c8bb65eb525
+id:
+  e4aecbfa-f053-41be-9c26-28351920d797
+effective_time:
+  20191125
+version:
+  2
+openfda:

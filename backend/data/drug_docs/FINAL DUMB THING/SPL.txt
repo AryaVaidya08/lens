@@ -1,0 +1,27 @@
+effective_time:
+  20190101
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+warnings:
+  WARNINGS For external use only. OTC - STOP USE SECTION Stop use and ask a doctor if rash or irritation develops and lasts. OTC - WHEN USING SECTION When using this product, keep out of eyes. Rinse with water to remove. OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+when_using:
+  OTC - WHEN USING SECTION When using this product, keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  SPL LISTING DATA ELEMENTS SECTION Principal Secret Reclaim Radiance Foundation SPF15 Medium Octinoxate and Oxybenzone Octinoxate Octinoxate Oxybenzone Oxybenzone CYCLOMETHICONE CYCLOMETHICONE 5 ETHYLHEXYL PALMITATE GLYCERIN BUTYLENE GLYCOL SORBITAN SESQUIOLEATE GLYCERYL MONOSTEARATE PEG-100 STEARATE POLYGLYCERYL-4 ISOSTEARATE HEXYL LAURATE CETETH-20 SODIUM CHLORIDE HYALURONATE SODIUM LECITHIN, SOYBEAN TETRAHEXYLDECYL ASCORBATE CETYL ALCOHOL SQUALANE POLYSORBATE 60 MYRISTYL LACTATE MYRISTYL ALCOHOL MYRISTYL MYRISTATE MYRISTYL LAURATE PROPYLENE CARBONATE ALUMINUM STARCH OCTENYLSUCCINATE SILICON DIOXIDE BUTYLATED HYDROXYTOLUENE PHENOXYETHANOL ETHYLHEXYLGLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Shake well. Smooth over the face with fingertips. Avoid direct contact with eyes. Reapply as needed.
+stop_use:
+  OTC - STOP USE SECTION Stop use and ask a doctor if rash or irritation develops and lasts.
+spl_unclassified_section:
+  SPL UNCLASSIFIED SECTION Dist. by Guthy-Renker" Palm Desert, CA 92260
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Bottle Label PRINCIPAL SECRET ® RECLAIM RADIANCE ® Foundation SPF 15 R ® 1 FL. Oz. / 30 mL e Principal Display Panel - 30 mL Bottle Label
+set_id:
+  cef2eb30-a358-41f5-aaec-d27263e16147
+id:
+  39a8a4ac-4477-4656-91f9-965276c72c53
+active_ingredient:
+  ACTIVE INGREDIENTS Ocinoxate 7.5% Oxybenzone 3%

@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Diaper Rash skin protectant Lanolin and Petrolatum COD LIVER OIL LIGHT MINERAL OIL MICROCRYSTALLINE WAX PARAFFIN LANOLIN LANOLIN PETROLATUM PETROLATUM Unctuous amber mass
+spl_unclassified_section:
+  Distributed by Bayer HealthCare LLC, Whippany, NJ, USA, 07981
+active_ingredient:
+  Active ingredients Purpose Lanolin 15.5% Diaper rash ointment Petrolatum 53.4% Skin Protectant
+active_ingredient_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th>Active ingredients</th><th>Purpose</th></tr></thead><tbody><tr styleCode="Toprule"><td>Lanolin 15.5%</td><td>Diaper rash ointment</td></tr><tr styleCode="Botrule"><td>Petrolatum 53.4%</td><td>Skin Protectant</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Lanolin 15.5% Diaper rash ointment Petrolatum 53.4% Skin Protectant
+purpose_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th>Active ingredients</th><th>Purpose</th></tr></thead><tbody><tr styleCode="Toprule"><td>Lanolin 15.5%</td><td>Diaper rash ointment</td></tr><tr styleCode="Botrule"><td>Petrolatum 53.4%</td><td>Skin Protectant</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps treat and prevent diaper rash temporarily protects minor: cuts scrapes burns temporarily protects and helps relieve chapped, chafed or cracked skin and lips protect chafed skin due to diaper rash and helps seal out wetness
+warnings:
+  Warnings For external use only When using this product do not get into eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Do not use on deep or puncture wounds animal bites serious burns Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+do_not_use:
+  Do not use on deep or puncture wounds animal bites serious burns
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for skin protectant use apply as needed for diaper rash use: change wet and soiled diapers promptly cleanse the diaper area, and allow to dry apply ointment liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged
+storage_and_handling:
+  Other information store between 20°C to 25 °C (68° to 77°F)
+inactive_ingredient:
+  Inactive Ingredients cod liver oil ( contains vitamin A & vitamin D), fragrance, light mineral oil, microcrystalline wax, paraffin
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 35.4g Carton Label
+set_id:
+  29b5475d-6085-cfe6-e063-6294a90a7e74
+id:
+  9c4b2d7e-9434-4b23-b0b6-957e7bc06c96
+effective_time:
+  20251117
+version:
+  2
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Diaper Rash skin protectant
+  generic_name:
+    LANOLIN AND PETROLATUM
+  manufacturer_name:
+    Universal Distribution Centre LLC
+  product_ndc:
+    52000-073
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LANOLIN
+    PETROLATUM
+  spl_id:
+    9c4b2d7e-9434-4b23-b0b6-957e7bc06c96
+  spl_set_id:
+    29b5475d-6085-cfe6-e063-6294a90a7e74
+  package_ndc:
+    52000-073-05
+    52000-073-06
+  is_original_packager:
+    True
+  unii:
+    7EV65EAW6H
+    4T6H12BN9U

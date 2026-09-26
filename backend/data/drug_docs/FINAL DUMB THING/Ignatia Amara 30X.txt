@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Ignatia Amara 30X Ignatia Amara SUGARCANE STRYCHNOS IGNATII SEED STRYCHNOS IGNATII SEED
+active_ingredient:
+  Active ingredients HPUS: Each globule contains 1% Ignatia Amara 30X
+purpose:
+  For sleeplessness, nervousness, and headaches mood swings due to emotional distress*
+indications_and_usage:
+  For sleeplessness, nervousness, and headaches mood swings due to emotional distress*
+warnings:
+  If symptoms worsen or persist for more than 7 days, consult a physician.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  3 globules 3 times a day or as directed by a homeopath. Oral/Sublingual use.
+inactive_ingredient:
+  Organic cane sugar globules.
+questions:
+  1 (888) 290-8140 or schmidt-nagel.com
+storage_and_handling:
+  Conservation: 15°C - 25°C
+other_safety_information:
+  *Claims based on traditional homeopathic practices, not accepted medical evidences. Not FDA evaluated.
+package_label_principal_display_panel:
+  Ignatia
+set_id:
+  33631622-67da-d7bf-e063-6394a90a2773
+id:
+  35938647-9ee0-c7e2-e063-6294a90acd09
+effective_time:
+  20250520
+version:
+  2
+openfda:
+  brand_name:
+    Ignatia Amara 30X
+  generic_name:
+    IGNATIA AMARA
+  manufacturer_name:
+    Laboratoire Schmidt-Nagel Inc.
+  product_ndc:
+    73296-014
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+    SUBLINGUAL
+  substance_name:
+    STRYCHNOS IGNATII SEED
+  spl_id:
+    35938647-9ee0-c7e2-e063-6294a90acd09
+  spl_set_id:
+    33631622-67da-d7bf-e063-6394a90a2773
+  package_ndc:
+    73296-014-01
+  is_original_packager:
+    True
+  unii:
+    1NM3M2487K

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Advanced Relief A and D Petrolatum MINERAL OIL CORN OIL VITAMIN A PALMITATE ERGOCALCIFEROL PETROLATUM PETROLATUM
+active_ingredient:
+  Active Ingredient (in each gram): White Petrolatum 93.5%
+purpose:
+  Purpose-Skin Protectant
+indications_and_usage:
+  Uses-Temporarily protects minor cuts, scrapes, and burns. Temporarily protects and helps chapped or cracked skin and lips. Helps protect lips from drying effects of wind and cold weather.
+dosage_and_administration:
+  Directions: Apply as needed
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  For external use only. Do not use in eyes, on deep puncture wounds, animal bites, or serious burns or for more than 1 week unless directed by a doctor. Stop use and ask a doctor if: A rash or allergic reaction develops. Condition worsens, persists, or recurs.
+inactive_ingredient:
+  Inactive Ingredients: Corn Oil, Light Mineral Oil, Vitamin A Palmitate, Vitamin D
+package_label_principal_display_panel:
+  Advanced 5 gm packet
+set_id:
+  7d6166ad-2227-4f9b-b6da-b85a6e124d75
+id:
+  0bca210b-fcd7-9c55-e063-6294a90ace85
+effective_time:
+  20231205
+version:
+  5
+openfda:

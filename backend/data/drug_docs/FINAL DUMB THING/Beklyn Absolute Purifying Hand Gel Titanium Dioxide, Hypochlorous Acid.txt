@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Beklyn Absolute Purifying Hand Gel Titanium Dioxide, Hypochlorous Acid FOENICULUM VULGARE FRUIT MALTITOL PERSICARIA TINCTORIA LEAF SORBITOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE TITANIUM DIOXIDE TITANIUM DIOXIDE HYPOCHLOROUS ACID HYPOCHLOROUS ACID
+active_ingredient:
+  titanium dioxide, hypochlorous acid
+inactive_ingredient:
+  Carbomer, Foeniculum Vulgare Fruit Extract, Maltitol, Polygonum Tinctorium Leaf Extract, Sorbitol, Triethanolamine, Water
+purpose:
+  Hand sanitizer to help reduce bacteria that potentially can cause disease. Recommended for repeated use
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  Squeeze enough product in your palm to cover hands and rub hands together until dry. For children under 6 years use adult supervision Not recommended for infants
+warnings:
+  For external use only. When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs develop and persist for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  aa7618dc-36d7-13fc-e053-2995a90a486a
+id:
+  aa766165-c0fa-25e0-e053-2a95a90ae19a
+effective_time:
+  20200715
+version:
+  1
+openfda:

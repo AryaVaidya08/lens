@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Kiehls Since 1851 Ultra Facial Broad Spectrum SPF 30 Sunscreen Avobenzone, Homosalate, Octisalate and Octocrylene AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER GLYCERIN DIMETHICONE GLYCERYL MONOSTEARATE HYDROXYPROPYL TETRAHYDROPYRANTRIOL SILICON DIOXIDE PEG-100 STEARATE PROPYLENE GLYCOL CANDELILLA WAX PHENOXYETHANOL AMMONIUM POLYACRYLOYLDIMETHYL TAURATE (55000 MPA.S) STEARIC ACID DICAPRYLYL CARBONATE CETYL ALCOHOL PALMITIC ACID CAPRYLOYL SALICYLIC ACID CAPRYLYL GLYCOL XANTHAN GUM DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (HARD PARTICLE) EDETATE DISODIUM TOCOPHEROL HYALURONATE SODIUM ADENOSINE LINALOOL, (+/-)- SODIUM HYDROXIDE JASMINUM OFFICINALE FLOWER .BETA.-CITRONELLOL, (R)- GERANIOL CITRAL BENZYL ALCOHOL CITRIC ACID MONOHYDRATE
+active_ingredient:
+  Active ingredient Avobenzone 3% Homosalate 5% Octisalate 5% Octocrylene 7%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, glycerin, dimethicone, glyceryl stearate, hydroxypropyl tetrahydropyrantriol, silica, PEG-100 stearate, propylene glycol, euphorbia cerifera (candelilla) wax, phenoxyethanol, ammonium polyacryloyldimethyl taurate, stearic acid, dicaprylyl carbonate, cetyl alcohol, palmitic acid, capryloyl salicylic acid, caprylyl glycol, xanthan gum, dimethicone/vinyl dimethicone crosspolymer, fragrance, disodium EDTA, tocopherol, sodium hyaluronate, adenosine, linalool, sodium hydroxide, jasminum officinale (jasmine) flower extract, citronellol, geraniol, citral, benzyl alcohol, citric acid
+questions:
+  Questions or comments? Call toll free 1 -800-946-4453 Monday - Friday (9 a.m. to 5 p.m. EST)
+package_label_principal_display_panel:
+  image of a label
+set_id:
+  74ea4031-bb23-4028-ae32-78213646f66c
+id:
+  3f329262-e959-460f-a0df-d1ff49ac58ef
+effective_time:
+  20231230
+version:
+  9
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Kiehls Since 1851 Ultra Facial Broad Spectrum SPF 30 Sunscreen
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE AND OCTOCRYLENE
+  manufacturer_name:
+    LOreal USA Products Inc
+  product_ndc:
+    49967-941
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    3f329262-e959-460f-a0df-d1ff49ac58ef
+  spl_set_id:
+    74ea4031-bb23-4028-ae32-78213646f66c
+  package_ndc:
+    49967-941-01
+    49967-941-02
+    49967-941-03
+    49967-941-04
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

@@ -1,0 +1,34 @@
+effective_time:
+  20171230
+inactive_ingredient:
+  Inactive Ingredients Section Inactive ingredients Sodium hydroxide, water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children Section Keep out of reach of children.
+warnings:
+  Warnings Section Warnings • Do not use if allergic to iodine • For external use only • Do not use in eyes • Avoid pooling beneath patient • In case of accidental ingestion, seek professional assistance or consult a poison control center immediately.
+spl_product_data_elements:
+  POVIDONE IODINE povidone-iodine SODIUM HYDROXIDE WATER POVIDONE-IODINE IODINE
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Section Directions apply locally as needed
+spl_unclassified_section:
+  Drug Facts
+  Other Information Section Other information For Hospital or Professional Use Only. Store at room temperature: 15℃- 30 ℃
+  For professional and hospital use Store at room temperature LOT EXP.
+stop_use:
+  Stop Use Section Stop use and ask a doctor if skin irritation, redness, swelling, or pain occurs.
+package_label_principal_display_panel:
+  IN IN NDC:44019-236-01 POVIDONE-IODINE SWABSTICK For External Use Only 1 swabstick/packet
+  Product Label Povidone-iodine Swabstick(1pack) Povidone-iodine swabstick(3pack)
+indications_and_usage:
+  Use First aid antiseptic to help prevent infection in scrapes, minor cuts and burns Antiseptic to prepare skin prior to surgery. Uses antiseptic skin preparation
+set_id:
+  f69a9a2c-39d0-4b05-ab98-b8b8f9884c43
+id:
+  61964a72-6962-a6dc-e053-2991aa0a8349
+active_ingredient:
+  Active Ingredients Povidone-Iodine 10% w/w (1% titratable iodine)

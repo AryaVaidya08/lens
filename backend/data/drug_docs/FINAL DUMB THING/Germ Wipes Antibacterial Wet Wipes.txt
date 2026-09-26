@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Germ Wipes Antibacterial Wet Wipes GLYCERIN FRAGRANCE LEMON ORC2001060 ALOE VERA LEAF DIDECYLDIMONIUM CHLORIDE WATER BENZALKONIUM CHLORIDE BENZALKONIUM PROPYLENE GLYCOL PHENOXYETHANOL ETHYLHEXYLGLYCERIN
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.1%. Purpose: Antimicrobial
+purpose:
+  Purpose antimicrobial, Wet Wipes
+indications_and_usage:
+  Use For cleaning and reducing germs and bacteria on hand that could cause diseases when soap and water are not available.
+warnings:
+  Warnings For external use only. May cause irritation on sensitive skin,discontinue use if irritation or rash appears.Avoid direct contact with eyes and broken skin. Keep out of reach of children. In case of eye contact , flush with plenty of water. In case of skin irritation, wash off skin immediatelly with plenty of water, using soap if available. Seek medical attention if irritation persists.Call poison control immediately if swallowed.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Remove top, open bag,lift pop top,feed wipe through opening, and gently pull to remove wipe. Gently wipe hands to remove germs and becteria. After use, close top to keep wipes moist. Do not flush, please discard wipe in trash after use. Please recycle canister where possible.
+storage_and_handling:
+  Other information Shelf life 2 years if unopened sealed container. Store in cool, dry place. High temperatures may reduce shelf life or dry out wipes. May discolor some fabrics and wood surface.
+inactive_ingredient:
+  Inactive ingredients Purified water, Didecyldimonium Chloride, Propylene Glycol, Glycerin, Ethylhexyl Glycerin,Phenoxyethanol,Fragrance,Aloe Vera
+spl_unclassified_section:
+  SPL UNCLASSIFIED SECTION Premium Soft & Strong Antibacterial Wet Wipes Gentle on Hands, Tough on Germs! KILLS 99.9% OF GERMS Moisturizing Antibacterial Wipes WITH MOISTURIZING ALOE VERA 200 Wet Wipes FRESH LEMON Great For Use In: Restaurants,Stores & Shopping, Kitchens, Schools & Dorms, Gyms, Cars & Travel, Healthcare, Offices. High-Quality Antibacterial Wet Wipes Formulated to be gentle on skin, tough on germs! Keep safe by wiping away germs and bacteria that could cause disease from hands during and after being in stores, restaurants, offices, classrooms, gyms, kitchens, dorms, during travel, and more. Use to clean hands before eating or after contact with germs / sticky foods and for everyday cleaning, especially when soap & water are not available. Contains moisturizing Aloe Vera.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 200 Wet Wipes NDC:75662-200-01 200 wipes label
+set_id:
+  acc42de4-75d1-2b5c-e053-2a95a90a32d1
+id:
+  acc536d2-8e57-e82c-e053-2995a90ac413
+effective_time:
+  20200813
+version:
+  2
+openfda:

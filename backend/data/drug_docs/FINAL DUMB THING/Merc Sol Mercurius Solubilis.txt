@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Merc Sol Mercurius Solubilis MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT: Mercurius Solubilis 200C.
+purpose:
+  INDICATIONS: To be used according to standard homeopathic indications.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 5 to 10 drops orally, 1 time daily or as otherwise directed by a health care professional. If symptoms persist, consult your health care professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: To be used according to standard homeopathic indications.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol
+questions:
+  QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800.868.8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 MERC SOL 200C 1 fl. oz. (30 ml) Merc Sol 200C
+set_id:
+  e55a8423-a8b9-411d-9b50-4bc049a72fef
+id:
+  5a40cbd6-c617-426f-aa2f-dce032899802
+effective_time:
+  20220518
+version:
+  2
+openfda:

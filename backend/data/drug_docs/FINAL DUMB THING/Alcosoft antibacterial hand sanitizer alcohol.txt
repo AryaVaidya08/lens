@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Alcosoft antibacterial hand sanitizer alcohol ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses Hand rub to help reduce bacteria that potencially can cause disease.
+warnings:
+  Warning For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this produc keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this produc keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+inactive_ingredient:
+  Inactive ingredients water, carbomer, triisopropanolamine.
+package_label_principal_display_panel:
+  Package Labeling: 79172 -001-01, 1000mL 1L
+  Package Labeling: 79172 -001-02, 475mL 475
+  Package Labeling: 79172 -001-03, 240mL 240
+  Package Labeling: 79172 -001-04, 3785mL 3785
+set_id:
+  248c49ba-6713-4655-afee-ea98f13aed40
+id:
+  d30cb70f-affc-4ef4-e053-2995a90ad883
+effective_time:
+  20211213
+version:
+  2
+openfda:

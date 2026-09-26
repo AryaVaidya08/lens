@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Hand Sanitizer Vitamin E and Aloe Vera Ethyl Alcohol PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE GLYCERIN ALCOHOL ALCOHOL WATER ALPHA-TOCOPHEROL ACETATE ALOE VERA LEAF FD&C YELLOW NO. 5 FD&C BLUE NO. 1
+active_ingredient:
+  Ethyl Alcohol 70.0% v/v
+purpose:
+  Antimicrobial
+indications_and_usage:
+  For handwashing to decrease bacteria on the skin Recommended for repeated use
+warnings:
+  For external use only. Flammable, keep away from fire or flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Wet hands thoroughly with product Briskly rub hands together until dry Supervise children under 6 years in the use of this product
+other_safety_information:
+  Other Information store at room temperature may discolor certain fabrics
+inactive_ingredient:
+  water, glycerin, carbomer, fragrance, triethanolamine, propylene glycol, tocopheryl acetate, aloe barbadensis leaf juice, fd&c blue no. 1, FD&C yellow no. 5
+package_label_principal_display_panel:
+  label label
+set_id:
+  a26a4676-6eae-088a-e053-2a95a90a7c1a
+id:
+  4a203fc6-8a5c-9f65-e063-6294a90a079c
+effective_time:
+  20260205
+version:
+  3
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Hand Sanitizer Vitamin E and Aloe Vera
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Ningbo Rejoice International
+  product_ndc:
+    57337-116
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    582753
+  spl_id:
+    4a203fc6-8a5c-9f65-e063-6294a90a079c
+  spl_set_id:
+    a26a4676-6eae-088a-e053-2a95a90a7c1a
+  package_ndc:
+    57337-116-01
+  is_original_packager:
+    True
+  upc:
+    0849607054265
+  unii:
+    3K9958V90M

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Walgreens Cool and Heat Menthol 16% DEHYDRATED ALCOHOL PROPYLENE GLYCOL GLYCERIN WATER ISOBUTANE MENTHOL MENTHOL
+active_ingredient:
+  Menthol 16%
+purpose:
+  Topical analgesic
+indications_and_usage:
+  Temporarily alleviates minor aches and pains of muscles and joints associated with Arthritis, Simple Backache, Strains, Bruises, or Sprains
+warnings:
+  For external use only. Flammable: Do not use while smoking or near heat or flames. Avoid long term storage above 104°F. Do not puncture or incinerate. Contents under pressure. Do not store at temperatures above 120°F. Avoid contact with eyes and mucous membranes. Do not apply to wounds or damaged skin. Do not bondage tightly. Use only as directed. Stop use and ask doctor if condition worsens or symptoms persist for more than 7 days or clear up and occur again within a few days. Do not use for longer than 1 week. If swallowed, get medical help or contact a Poison Control Center immediately (1-800-222-1222). If pregnant or breast- feeding, ask a health professional before use.
+when_using:
+  Avoid contact with eyes and mucous membranes. Do not apply to wounds or damaged skin. Do not bondage tightly. Use only as directed.
+ask_doctor:
+  Stop use and ask doctor if condition worsens or symptoms persist for more than 7 days or clear up and occur again within a few days. Do not use for longer than 1 week.
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center immediately (1-800-222-1222). If pregnant or breast- feeding, ask a health professional before use.
+dosage_and_administration:
+  Shake well- adult and children 12 year of age and older: spray product on affected area, not more than 3 to 4 times daily. Children under 12 years of age: consult a doctor.
+inactive_ingredient:
+  Glycerin, Isobutane, Propylene Glycol, SD Alcohol 40B, Water.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label
+set_id:
+  ce1585f4-ca65-8d0c-e053-2995a90a8e89
+id:
+  28f0f222-183f-2fdc-e063-6394a90a7023
+effective_time:
+  20241211
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Walgreens Cool and Heat
+  generic_name:
+    MENTHOL 16%
+  manufacturer_name:
+    Walgreens
+  product_ndc:
+    0363-3031
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    1430458
+  spl_id:
+    28f0f222-183f-2fdc-e063-6394a90a7023
+  spl_set_id:
+    ce1585f4-ca65-8d0c-e053-2995a90a8e89
+  package_ndc:
+    0363-3031-04
+  is_original_packager:
+    True
+  upc:
+    0311917010991
+  unii:
+    L7T10EIP3A

@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Absinthium Absinthium WORMWOOD WORMWOOD SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Single label image contains content for sections 1-14. Absinthium 100C 100g
+set_id:
+  9a02efc3-b1ab-5b4f-e053-2a95a90afde6
+id:
+  2b4a2dd1-b837-acfc-e063-6394a90a0476
+effective_time:
+  20250109
+version:
+  15
+openfda:
+  brand_name:
+    Absinthium
+  generic_name:
+    ABSINTHIUM
+  manufacturer_name:
+    Hahnemann Laboratories, Inc.
+  product_ndc:
+    63545-719
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    WORMWOOD
+  spl_id:
+    2b4a2dd1-b837-acfc-e063-6394a90a0476
+  spl_set_id:
+    9a02efc3-b1ab-5b4f-e053-2a95a90afde6
+  package_ndc:
+    63545-719-04
+  is_original_packager:
+    True
+  unii:
+    F84709P2XV

@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Kiehls Gently Effective Acne Treating Cleansing Salicylic acid SALICYLIC ACID SALICYLIC ACID water glycerin kaolin sodium cocoyl isethionate glyceryl stearate SE cetyl alcohol niacinamide alpha-glucan oligosaccharide carrageenan CENTELLA ASIATICA TRITERPENOIDS ceramide NP charcoal powder POLIGLUSAM lactic acid sodium benzoate sodium hydroxide trisodium ethylenediamine disuccinate
+active_ingredient:
+  Active ingredient Salicylic acid 2%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Uses for the treatment of acne clears acne blemishes and allows skin to heal helps keep skin clear of new acne blemishes
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use twice daily wet face, then work product into a lather massage onto face, avoiding the eyes rinse well
+inactive_ingredient:
+  Inactive ingredients water, glycerin, kaolin, sodium cocoyl isethionate, glyceryl stearate SE, cetyl alcohol, niacinamide, glycolipids, alpha-glucan oligosaccharide, carrageenan, beta-glucan, centella asiatica extract, ceramide NP, charcoal powder, chitosan, lactic acid, sodium benzoate, sodium hydroxide, trisodium ethylenediamine disuccinate
+questions:
+  Questions or comments? Call toll free 1-888-577-5226 Monday - Friday (9 a.m. - 5 p.m. EST)
+package_label_principal_display_panel:
+  125 ml front
+  15 ml sticker
+  15 ml box
+  2ml packet
+  5ml
+set_id:
+  b6894aae-c131-4e4a-a035-f7c20f6bc505
+id:
+  fc93243d-fe5c-4774-b8db-6752f3607327
+effective_time:
+  20250328
+version:
+  3
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Kiehls Gently Effective Acne Treating Cleansing
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-464
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    fc93243d-fe5c-4774-b8db-6752f3607327
+  spl_set_id:
+    b6894aae-c131-4e4a-a035-f7c20f6bc505
+  package_ndc:
+    49967-464-01
+    49967-464-02
+    49967-464-03
+    49967-464-04
+  is_original_packager:
+    True
+  upc:
+    3605972965523
+  unii:
+    O414PZ4LPZ

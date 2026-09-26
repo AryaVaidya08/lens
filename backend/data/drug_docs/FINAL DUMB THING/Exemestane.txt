@@ -1,0 +1,50 @@
+spl_product_data_elements:
+  Exemestane Exemestane EXEMESTANE EXEMESTANE HYPROMELLOSES MAGNESIUM CARBONATE MAGNESIUM STEARATE MANNITOL CELLULOSE, MICROCRYSTALLINE POLYSORBATE 80 SODIUM STARCH GLYCOLATE TYPE A POTATO TITANIUM DIOXIDE SILICON DIOXIDE CROSPOVIDONE POLYETHYLENE GLYCOL 300 WHITE ROUND 383
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 70771-1374-3 in bottle of 30 tablets Exemestane Tablets, 25 mg R x only 30 tablets Exemestane Tablets, 25 mg
+set_id:
+  fab5468a-d5b7-45e3-b8b2-ed902fddd3a6
+id:
+  7892e262-ddad-4e1d-909d-d8590bb082de
+effective_time:
+  20241128
+version:
+  6
+openfda:
+  application_number:
+    ANDA202602
+  brand_name:
+    Exemestane
+  generic_name:
+    EXEMESTANE
+  manufacturer_name:
+    Zydus Lifesciences Limited
+  product_ndc:
+    70771-1374
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    ORAL
+  substance_name:
+    EXEMESTANE
+  rxcui:
+    310261
+  spl_id:
+    7892e262-ddad-4e1d-909d-d8590bb082de
+  spl_set_id:
+    fab5468a-d5b7-45e3-b8b2-ed902fddd3a6
+  package_ndc:
+    70771-1374-3
+  is_original_packager:
+    True
+  nui:
+    N0000175563
+    N0000175080
+  pharm_class_epc:
+    Aromatase Inhibitor [EPC]
+  pharm_class_moa:
+    Aromatase Inhibitors [MoA]
+  unii:
+    NY22HMQ4BX

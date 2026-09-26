@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  GNC Instant Hand Sanitizer Alcohol ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE D&C GREEN NO. 5 D&C YELLOW NO. 10 WATER TROLAMINE
+active_ingredient:
+  Active ingredient Ethyl Alcohol 66.5%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on hands and skin recommended for repeated use
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flames Do not use in the eyes. If this happens, rinse thoroughly with water Stop use and ask a doctor if irritation and redness develop and persists Keep out of reach of children If ingested get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use in the eyes. If this happens, rinse thoroughly with water
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children If ingested get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product allow to dry without wiping children under 6 should be supervised while using this product
+inactive_ingredient:
+  Inactive ingredients Purified Water, Carbomer, Aloe Vera, Triethanolamine, Fragrance, D&C Green #5, D&C Yellow #10
+package_label_principal_display_panel:
+  Principal Display Panel - 118 mL Bottle Label GNC LIVE WELL hand sanitizer Ethyl Alcohol 66.5% FRESH SCENT NDC 43655-1111-0 4.0 FL. OZ. (118 mL) Principal Display Panel - 118 mL Bottle Label
+  Principal Display Panel - 237 mL Bottle Label GNC LIVE WELL hand sanitizer Ethyl Alcohol 66.5% FRESH SCENT NDC 43655-1111-1 8.0 FL. OZ. (237 mL) Principal Display Panel - 237 mL Bottle Label
+set_id:
+  9f2134c5-0173-4598-b8b4-8178aa0794a1
+id:
+  f942c4fb-ba14-4f75-95f9-45654689d648
+effective_time:
+  20230131
+version:
+  3
+openfda:

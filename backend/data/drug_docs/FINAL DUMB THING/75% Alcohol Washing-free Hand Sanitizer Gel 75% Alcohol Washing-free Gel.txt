@@ -1,0 +1,35 @@
+effective_time:
+  20210120
+inactive_ingredient:
+  Inactive ingredients
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  
+warnings:
+  Precautions For those who are allergic to alcohol should use it with caution, please keep it away from the fire source, and keep it out of the reach of children
+when_using:
+  Microbicide category Staphylococcus aureus, Candida albicans,Escherichia coli, P.Aeruginosa
+spl_product_data_elements:
+  75% Alcohol Washing-free Hand Sanitizer Gel 75% Alcohol Washing-free Gel ALPHA-TOCOPHEROL GLYCERIN TROLAMINE WATER ALCOHOL ALCOHOL CARBOMER 934
+openfda:
+version:
+  3
+dosage_and_administration:
+  Instructions Spray it directly on the surfaces and tables to be disinfected without need to wash with water
+stop_use:
+  
+storage_and_handling:
+  Validity period It should be stored with sealing after opening Validity period: 2 years
+do_not_use:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 500 50-330
+indications_and_usage:
+  Range of application It intends to use for body surface cleaning and disinfection, washing-free without greasy
+set_id:
+  a3b5543b-63c2-e160-e053-2995a90acac7
+id:
+  b9610e9d-0cc5-7c0a-e053-2995a90a6201
+active_ingredient:
+  Active Ingredient(s) Ethanol 75%

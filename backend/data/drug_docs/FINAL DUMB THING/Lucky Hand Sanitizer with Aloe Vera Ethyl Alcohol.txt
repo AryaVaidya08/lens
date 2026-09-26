@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Lucky Hand Sanitizer with Aloe Vera Ethyl Alcohol ALOE VERA LEAF CAPRYLYL GLYCOL FD&C BLUE NO. 1 FD&C YELLOW NO. 5 GLYCERIN ISOPROPYL ALCOHOL ISOPROPYL MYRISTATE POLYOXYL 40 HYDROGENATED CASTOR OIL PHENOXYETHANOL PROPYLENE GLYCOL TROLAMINE WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses • hand sanitizer to help reduce bacteria on the skin •recommended for repeated use.
+warnings:
+  Warnings • Flammable. • Keep away from fire and flame. • For external use only
+when_using:
+  When using this product •avoid contact with eyes • in case of eye contact immediately flush eyes with water, call a doctor • avoid contact with broken skin. Discontinue use if irritation develops. If condition persists for more than 72 hours, consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Children should only use this product under adult supervision. Do not drink. Not edible. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+spl_unclassified_section:
+  Other information • do not store above 105F. May discolor some fabrics. • Harmful to wood finishes and plastics
+dosage_and_administration:
+  Directions • place enough product in your palm to thoroughly spread on both hands and rub into the skin until dry. • recommended for repeated use
+inactive_ingredient:
+  Inactive ingredients aloe barbedensis leaf extract, caprylyl glycol, carbomer, FDC blue no. 1, FDC yellow no. 5, fragrance, glycerin, isopropyl alcohol, isopropyl myristate, PEG-40 hydrogenated castor oil, phenoxyehanol, propylene glycol, triethanolamine, water
+package_label_principal_display_panel:
+  Package Label Package Label Package Label
+set_id:
+  27f9576f-6112-4022-90f9-6b7fd0c5d96f
+id:
+  feba204b-2057-3120-e053-6394a90a82e7
+effective_time:
+  20230622
+version:
+  6
+openfda:

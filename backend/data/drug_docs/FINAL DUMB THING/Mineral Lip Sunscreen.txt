@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Mineral Lip Sunscreen Titanium Dioxide, Zinc Oxide CETYL DIMETHYLBUTYL ETHER PEG-8 PEG/PPG-15/15 DIMETHICONE ALUMINUM STEARATE CETEARYL ISONONANOATE HEXYLDECANOL ZINGIBER OFFICINALE (GINGER) ROOT OIL STEARIC ACID ETHYLHEXYL PALMITATE CI 77492 CERESIN TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE ALUMINA ALUMINUM HYDROXIDE ASCORBIC ACID CITRIC ACID HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX HEXYLDECYL LAURATE TOCOPHEROL ALPHA-TOCOPHEROL ACETATE DIPROPYLENE GLYCOL CAPRATE/CAPRYLATE DIESTER CI 77499 LECITHIN, SOYBEAN POLYHYDROXYSTEARIC ACID (2300 MW) ASCORBYL PALMITATE C12-15 ALKYL BENZOATE CI 77491 POLYGLYCERYL-3 DIISOSTEARATE
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Product Label
+set_id:
+  35bea4f3-c19e-3e2e-e063-6394a90aeb69
+id:
+  35bea4f3-c19f-3e2e-e063-6394a90aeb69
+effective_time:
+  20250522
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Mineral Lip Sunscreen
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    Melinda Menezes, M.D., Inc.
+  product_ndc:
+    85314-212
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    35bea4f3-c19f-3e2e-e063-6394a90aeb69
+  spl_set_id:
+    35bea4f3-c19e-3e2e-e063-6394a90aeb69
+  package_ndc:
+    85314-212-45
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

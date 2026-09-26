@@ -1,0 +1,29 @@
+effective_time:
+  20110601
+inactive_ingredient:
+  Inactive Ingredients: Alcohol, 20% USP
+purpose:
+  Purpose: Suggested use for one or more of the following symptoms: Fever blisters, canker sores, cracked lips, scabs on chin and mouth.
+keep_out_of_reach_of_children:
+  Warnings: Keep out of reach of children.
+warnings:
+  If symptoms persist, consult a physician. Do not use if ring on bottom of cap is broken or missing.
+questions:
+  Manufactured by Nova Homeopathic Therapeutics Inc., Albuquerque, New Mexico USA 87109 1-800-225-8094
+spl_product_data_elements:
+  Cold Sore Complex Bryonia, Calcarea sulfurica, Clematis erecta, Graphites, Lycopodium clavatum, Natrum carbonicum, Natrum muriaticum BRYONIA ALBA ROOT BRYONIA ALBA ROOT CALCIUM SULFATE ANHYDROUS CALCIUM CATION CLEMATIS RECTA FLOWERING TOP CLEMATIS RECTA FLOWERING TOP GRAPHITE GRAPHITE LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE SODIUM CARBONATE SODIUM CATION SODIUM CHLORIDE SODIUM CATION ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Adults: In Acute Phase: 12-15 drops until relief occurs When Relief Occurs: 12-15 drops, 4-6 times per day Children 2-12 years: 8-10 drops, 4-6 times per day Infants 0-24 months: 4 drops, 4-6 times per day
+package_label_principal_display_panel:
+  Cold Sore Complex Product Cold Sore Complex Bottle Label Cold Sore Complex Box Cold Sore Complex Box Cold Sore Complex Bottle Cold Sore Complex Product
+indications_and_usage:
+  Usage and Dosage: For oral use only.
+set_id:
+  afd3ddba-5649-4572-b71b-a57882c16db0
+id:
+  057d8bae-8d35-46d4-ba26-59ce2373c7c9
+active_ingredient:
+  Active Ingredients: Bryonia 6X, Calcarea sulfurica 8X, Clematis erecta 6X, Graphites 12X, Lycopodium clavatum 12X, Natrum carbonicum 10X, Natrum muriaticum 10X

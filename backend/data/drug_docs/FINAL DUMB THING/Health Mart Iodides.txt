@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Health Mart Iodides Alcohol AMMONIA IODINE POTASSIUM IODIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Health Mart Iodides Tincture Drug Facts
+  Flammable Keep away from spark, heat and flame
+active_ingredient:
+  Active Ingredient Alcohol 48% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses To help prevent infection in in minor: cuts, scrapes and burns.
+warnings:
+  Warnings For external use only Ask a doctor before use if you have deep or puncture wounds. Animal bites. Serious burns. Stop use and consult a doctor if: Condition persists or gets worse, or if using this product for more than 1 week. When using this product . Do not use in the eyes. If contact occurs, flush with large amounts of water while lifting upper and lower lids. Do not apply over large areas of the body. Keep out of reach of children. In case of accidental ingestion, give milk, then a starch solution made by mixing two tablespoons of cornstarch or flour to a pint of water, Contact a Poison Control Center immediately.
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds. Animal bites. Serious burns.
+stop_use:
+  Stop use and consult a doctor if: Condition persists or gets worse, or if using this product for more than 1 week.
+when_using:
+  When using this product . Do not use in the eyes. If contact occurs, flush with large amounts of water while lifting upper and lower lids. Do not apply over large areas of the body.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, give milk, then a starch solution made by mixing two tablespoons of cornstarch or flour to a pint of water, Contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Clean the affected area. Apply a small amount to the affected area 1 to 3 times daily. May be covered with a sterile bandage. If bandaged, let dry first.
+inactive_ingredient:
+  Inactive Ingredient Ammonia, iodine, potassium iodide, purified water.
+other_safety_information:
+  Other information Will stain skin and clothing
+package_label_principal_display_panel:
+  Label HMDecolorized.jpg New Label
+set_id:
+  8d9f2112-c678-4559-b567-9d6d287c5fa3
+id:
+  0cf3bc57-59b0-909e-e063-6394a90a3b52
+effective_time:
+  20231220
+version:
+  7
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Health Mart Iodides
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Strategic Sourcing Services LLC
+  product_ndc:
+    62011-0116
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1804178
+  spl_id:
+    0cf3bc57-59b0-909e-e063-6394a90a3b52
+  spl_set_id:
+    8d9f2112-c678-4559-b567-9d6d287c5fa3
+  package_ndc:
+    62011-0116-1
+  is_original_packager:
+    True
+  upc:
+    0052569135013
+  unii:
+    3K9958V90M

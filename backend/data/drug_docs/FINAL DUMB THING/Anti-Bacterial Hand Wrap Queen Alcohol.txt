@@ -1,0 +1,35 @@
+effective_time:
+  20170101
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Isopropyl Alcohol, Fragrance (Parfum), Tocopheryl Acetate, Retinyl Palmitate, Aloe Barbadensis Leaf Juice, Honey Extract (Mel, Extrait de miel), Elaeis Guineensis (Palm) Extract, Olea Europaea (Olive) Fruit Extract, Cocos Nucifera (Coconut) Fruit Extract, Carbomer, Propylene Glycol, Lactose, Aminomethyl Propanol, Isopropyl Myristate, Cellulose, Hydroxyethyl Urea, Wheat Amino Acids, Hydroxypropyl Methylcellulose, Glycerin, Ultramarines (CI 77007), Yellow 5 (CI 19140), Green 3 (CI 42053), Green 5 (CI 61570), Ext. Violet 2 (CI 60730).
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only.
+when_using:
+  WHEN USING THIS PRODUCT keep out of eyes.
+spl_product_data_elements:
+  Anti-Bacterial Hand Wrap Queen Alcohol ALCOHOL ALCOHOL WATER
+warnings_and_cautions:
+  FLAMMABLE Keep away from flame or high heat.
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS Rub a dime sized drop into hands.
+stop_use:
+  STOP USE AND ASK A DOCTOR if irritation or redness develops.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr., 95 West Main Street New Albany, OH, 43054, 1-800-395-1001 Shop 24/7 at www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING AB HG Wrap Queen
+indications_and_usage:
+  USE Decreases bacteria on hands.
+set_id:
+  4ff5dfd3-5e14-4660-9ab8-0ea7e6a15348
+id:
+  666ece1b-9883-4753-979e-3d78204061c1
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 68%

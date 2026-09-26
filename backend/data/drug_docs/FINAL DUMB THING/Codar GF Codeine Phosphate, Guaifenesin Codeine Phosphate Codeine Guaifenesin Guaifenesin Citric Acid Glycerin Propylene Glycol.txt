@@ -1,0 +1,41 @@
+effective_time:
+  20110623
+inactive_ingredient:
+  Inactive ingredients Bitter Mask, Citric Acid, Cotton Candy Flavor, Glycerin, Propylene Glycol, Purified Water, Sodium Citrate, Sodium Saccharin, Sorbitol.
+purpose:
+  Purpose Antitussive (Cough Suppressant) Expectorant
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not exceed recommended dosage.
+questions:
+  Questions? Comments? Call (630) 543-3333 Rx Only CV Manufactured for: RESPA PHARMACEUTICALS, INC. Addison, IL 60101
+spl_product_data_elements:
+  Codar GF Codeine Phosphate, Guaifenesin Codeine Phosphate Codeine Guaifenesin Guaifenesin Citric Acid Glycerin Propylene Glycol Water Sodium Citrate Saccharin Sodium Sorbitol
+ask_doctor:
+  Ask a doctor before use if you have a cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema a cough that occurs with too much phlegm (mucus) chronic pulmonary disease or shortness of breath, or children who are taking other drugs heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Take this medication with a full glass of water after each dose to help loosen mucus in the lungs. Adults and children 12 years of age and over: 2 teaspoonfuls (10 mL) every 4 hours, not to exceed 12 teaspoonfuls in 24 hours Children 6 to under 12 years of age: 1 teaspoonful (5 mL) every 4 hours, not to exceed 6 teaspoonfuls in 24 hours *Children under 6 years of age Consult a doctor *Giving a higher dose than recommended by a doctor could result in serious side effects for your child.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough persists for more than 1 week, tends to recur, or is accompanied by a fever, rash, or persistent headache. These could be signs of a serious condition. new symptoms occur product may cause or aggravate constipation
+storage_and_handling:
+  Other information Store at 15°- 30°C (59°- 86°F)
+do_not_use:
+  Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product
+package_label_principal_display_panel:
+  Product Packaging The packaging below represents the labeling currently used: Principal display panel and side panel for 473 mL label: NDC 60575-616-16 ____________________________________ Codar GF Expectorant / Cough Suppressant ____________________________________ CV Each 5 mL (one teaspoonful) for oral administration contains: Codeine Phosphate*..............................8 mg *(Warning: May be habit-forming) Guaifenesin.......................................200 mg Cotton Candy Flavor Rx Only RESPA PHARMACEUTICALS, INC. Addison, IL 60101 16 fl oz. (473 mL) SEE ATTACHED PRODUCT INSERT FOR COMPLETE DOSING INFORMATION. Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing. Dispense in a tight, light-resistant container as defined in the USP/NF with a child-resistant closure. Store at controlled room temperature, 15°-30°C (59°- 86°F). KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Manufactured for: Respa Pharmaceuticals Addison, IL 60101 Rx Only Rev. 05/11 Codar GF Packaging Codar GF Packaging
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other upper respiratory allergies: cough due to minor throat and bronchial irritation helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes and make coughs more productive
+set_id:
+  6eda2c06-fb11-4a58-98fb-4eafe1d1df5f
+id:
+  1e3023d2-63bb-4367-9152-84ed9adcd90f
+active_ingredient:
+  Drug Facts Active ingredients (in each 5 mL teaspoonful) Codeine Phosphate* 8 mg *(Warning: May be habit-forming) Guaifenesin 200 mg
+dosage_and_administration_table:
+  <table border="2" width="326" ID="i93a2ab18-4788-4596-83f3-46c74905b900"> <tbody> <tr> <td>Adults and children 12 years of age and over:    </td> <td>2 teaspoonfuls (10 mL) every 4 hours, not to exceed 12 teaspoonfuls  in 24 hours  </td> </tr> <tr> <td>Children 6 to under 12 years of age:      </td> <td>1 teaspoonful (5 mL) every 4 hours, not to exceed 6 teaspoonfuls in 24 hours  </td> </tr> <tr> <td>*Children under 6 years of age  </td> <td>Consult a doctor    </td> </tr> </tbody> </table>

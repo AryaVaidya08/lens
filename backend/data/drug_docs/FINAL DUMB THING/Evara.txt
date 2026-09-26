@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Evara Urea 40.5 Cream UREA UREA POLYACRYLAMIDE (10000 MW) C13-14 ISOPARAFFIN LAURETH-7 WATER CAPRYLIC/CAPRIC TRIGLYCERIDE CYCLOPENTASILOXANE DIMETHICONE CETYL ALCOHOL GLYCERYL STEARATE PEG-75 STEARATE CETETH-20 STEARETH-20 GLYCERIN PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL PROPYLENE GLYCOL POLYSORBATE 20 PHENOXYETHANOL ETHYLHEXYLGLYCERIN
+indications_and_usage:
+  INDICATIONS & USAGE For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, ﬁbrinous or purulent debris or eshar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis pilaris, keratosis palmaris, keratoderma, corns and calluses, as well as damaged, ingrown and devitalized nails.
+contraindications:
+  CONTRAINDICATIONS This product is contraindicated in persons with known or suspected hypersensitivity to any of the ingredients of the product.
+warnings:
+  WARNINGS Avoid contact with eyes, lips and mucous membranes.
+adverse_reactions:
+  ADVERSE REACTIONS: Discontinue use and consult a physician if redness or irritation occurs.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Apply Evara to affected skin twice per day, or as directed by your physician. Rub in until completely absorbed. Apply to diseased or damaged nail(s) twice per day, or as directed by a physician.
+how_supplied:
+  HOW SUPPLIED Evara Urea 40.5% Cream 8 oz. (227 g): NDC 85477-308-08
+safe_handling_warning:
+  STORAGE Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Protect from freezing and excessive heat. Keep container tightly closed. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+package_label_principal_display_panel:
+  Evara pdp Distributed by Oncora Pharma Dallas, TX 75228 pdp
+set_id:
+  098d85ca-7f48-45a1-80ed-4d57936842b9
+id:
+  3fc2bb16-70ef-41f8-9a6a-a6a42bf58e5f
+effective_time:
+  20260501
+version:
+  2
+openfda:
+  brand_name:
+    Evara
+  generic_name:
+    UREA 40.5 CREAM
+  manufacturer_name:
+    Oncora Pharma, LLC
+  product_ndc:
+    85477-308
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    TOPICAL
+  substance_name:
+    UREA
+  rxcui:
+    2741686
+  spl_id:
+    3fc2bb16-70ef-41f8-9a6a-a6a42bf58e5f
+  spl_set_id:
+    098d85ca-7f48-45a1-80ed-4d57936842b9
+  package_ndc:
+    85477-308-08
+  is_original_packager:
+    True
+  upc:
+    0854770308084
+  unii:
+    8W8T17847W

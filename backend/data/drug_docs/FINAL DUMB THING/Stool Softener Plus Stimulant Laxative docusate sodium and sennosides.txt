@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Stool Softener Plus Stimulant Laxative docusate sodium and sennosides DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES CARNAUBA WAX CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C RED NO. 40 HYPROMELLOSES MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE SODIUM BENZOATE STEARIC ACID TALC TITANIUM DIOXIDE ALUMINUM OXIDE FD&C BLUE NO. 2 POLYVINYL ALCOHOL, UNSPECIFIED TCL097;0806;AV;S44
+active_ingredient:
+  Active ingredients (in each tablet) Docusate sodium 50 mg Sennosides 8.6 mg
+purpose:
+  Purpose Stool softener Stimulant laxative
+indications_and_usage:
+  Uses for overnight relief from occasional constipation (irregularity) generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use laxative products for longer than 1 week unless told to do so by a doctor if you are presently taking mineral oil, unless told to do so by a doctor Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use laxative products for longer than 1 week unless told to do so by a doctor if you are presently taking mineral oil, unless told to do so by a doctor
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Take only by mouth. Doses may be taken as a single daily dose, preferably in the evening, or in divided doses adults and children 12 years and older take 2-4 tablets daily children 6 to under 12 years of age take 1-2 tablets daily children 2 to under 6 years of age take up to 1 tablet daily children under 2 ask a doctor
+dosage_and_administration_table:
+  <table><col/><col/><tbody><tr><td styleCode="     Botrule          Rrule     ">adults and children 12 years and older</td><td styleCode="     Botrule     ">take 2-4 tablets daily </td></tr><tr><td styleCode="     Botrule          Rrule     ">children 6 to under 12 years of age</td><td styleCode="     Botrule     ">take 1-2 tablets daily </td></tr><tr><td styleCode="     Botrule          Rrule     ">children 2 to under 6 years of age</td><td styleCode="     Botrule     ">take up to 1 tablet daily </td></tr><tr><td styleCode="     Rrule     ">children under 2</td><td>ask a doctor </td></tr></tbody></table>
+other_safety_information:
+  Other Information each tablet contains: calcium 20 mg each tablet contains: sodium 6 mg VERY LOW SODIUM store at 25ºC(77ºF);excursions permitted between 15-30ºC(59-86ºF)
+inactive_ingredient:
+  Inactive ingredients carnauba wax*, croscarmellose sodium, dibasic calcium phosphate dihydrate, FD&C blue#2, aluminum lake, FD&C red #40 aluminum lake*, hypromellose, magnesium stearate, maltodextrin*, microcrystalline cellulose, polyethylene glycol*, polyvinyl alcohol*, sillicon dioxide, sodium benzoate, stearic acid, talc*, titanium dioxide *contains one or more of these ingredients
+questions:
+  Questions or comments? Call 1-888-723-3929 Monday-Friday 7AM-6PM PST
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO Peri-Colace® active ingredients† Stool Softener Plus Stimulant Laxative Docusate sodium, 50 mg Sennosides, 8.6 mg For overnight relief of occasional constipation Effective Reliable Comfortable TABLETS †This product is not manufactured or distributed by Purdue Products L.P., distributor of Peri-Colace®. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. DISTRIBUTED BY BETTER LIVING BRANDS LLC, P.O. BOX 99 PLEASANTON, CA 94566-0009 www.betterlivingbrandsLLC.com
+  Product Label Signature Care Stool Softener Plus Stimulant Laxative Docusate Sodium 50 mg, Sennosides 8.6 mg
+set_id:
+  da4890d5-27ea-4f96-b8ff-86e588d18a8b
+id:
+  2a2d89dc-c9d1-469d-9ab7-b8ad5fcbb674
+effective_time:
+  20211105
+version:
+  4
+openfda:

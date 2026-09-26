@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Aramark Star Burn Gel LIDOCAINE LIDOCAINE LIDOCAINE WATER MENTHOL PROPYLENE GLYCOL TROLAMINE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE VERA LEAF
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Lidocaine 2.0%
+purpose:
+  Purpose Pain reliever.
+indications_and_usage:
+  Uses Temporary pain relief for minor burns. For professional use only.
+warnings:
+  Warnings For external use only. Keep out of reach of children. If ingested, get medical help or contact a Poison Control Center directly. Do not use in large quantities, particularly over raw or blistered areas near eyes, if this happens rinse thoroughly with water
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If ingested, get medical help or contact a Poison Control Center directly.
+do_not_use:
+  Do not use in large quantities, particularly over raw or blistered areas near eyes, if this happens rinse thoroughly with water
+stop_use:
+  Stop use and ask a doctor if • the condition worsens or symptoms persist for more than 7 days or clear up and occur again within a few days
+dosage_and_administration:
+  Directions • Adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily • Children under 2 years: do not use, consult a doctor
+other_safety_information:
+  Other Information • store at room temperature (do not freeze) • do not use any open or torn packets
+inactive_ingredient:
+  Inactive ingredients Water, Menthol, Propylene Glycol, Triethanolamine, Carbomer, Aloe Barbadensis Leaf Extract
+questions:
+  Questions od Comments? 1-800-456-7077
+package_label_principal_display_panel:
+  Package Labeling aramark 25 ct. of 0.9g packets BURN GEL For Temporary Pain Relief of Minor Burns aramarkuniform.com MANUFACTURED FOR: Aramark Lenexa, KS 66219 886-362-2691 Please retain carton for drug information. res 5600 Box 0.9g burnGel packet
+set_id:
+  600c9e69-36ef-425c-85c4-f245bb484fe1
+id:
+  5e80326a-2f67-4617-aaeb-b031af8127d5
+effective_time:
+  20211028
+version:
+  2
+openfda:

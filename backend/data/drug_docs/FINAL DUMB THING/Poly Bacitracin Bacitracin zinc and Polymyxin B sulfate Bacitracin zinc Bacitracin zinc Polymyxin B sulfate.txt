@@ -1,0 +1,44 @@
+effective_time:
+  20100928
+inactive_ingredient:
+  Inactive ingredient white petrolatum
+purpose:
+  Active ingredients (each gram contains) Purpose Bacitracin zinc 500 units First aid antibiotic Polymyxin B sulfate 10,000 units First aid antibiotic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use in the eyes over large areas of the body if you are allergic to any of the ingredients Ask a doctor before use if you have deep or puncture wounds animal bites serious burns Stop use and ask a doctor if condition persists or gets worse you need to use longer than 1 week rash or other allergic reaction develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? Call 1-877-745-6888
+spl_product_data_elements:
+  Poly Bacitracin Bacitracin zinc and Polymyxin B sulfate Bacitracin zinc Bacitracin zinc Polymyxin B sulfate Polymyxin B petrolatum
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Phoenix Global Supply Group, Inc. White Plains, NY 10604
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse you need to use longer than 1 week rash or other allergic reaction develops
+storage_and_handling:
+  Other information To open: unscrew cap, pull tab to remove foil seal. store at 20°-25°C (68°-77°F) See carton or tube crimp for lot number and expiration date.
+do_not_use:
+  Do not use in the eyes over large areas of the body if you are allergic to any of the ingredients
+active_ingredient_table:
+  <table width="75%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr styleCode="toprule"> <th> <content styleCode="italics">Active ingredients (each gram contains) </content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="toprule"> <td>Bacitracin zinc 500 units</td> <td>First aid antibiotic</td> </tr> <tr styleCode="botrule"> <td>Polymyxin B sulfate 10,000 units</td> <td>First aid antibiotic</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 28.4 g Tube Carton Poly Bacitracin Bacitracin Zinc • Polymyxin B Sulfate First Aid Antibiotic Ointment NDC 52426-420-06 NET WT 1 oz (28.4 g) Principal Display Panel - 28.4 g Tube Carton
+indications_and_usage:
+  Uses first aid to help prevent infection in minor: cuts scrapes burns
+set_id:
+  3ff16a04-2060-434b-9f62-38e7a38deb95
+id:
+  4a970118-6a7f-4fa1-b822-442a96d20f5b
+purpose_table:
+  <table width="75%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr styleCode="toprule"> <th> <content styleCode="italics">Active ingredients (each gram contains) </content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="toprule"> <td>Bacitracin zinc 500 units</td> <td>First aid antibiotic</td> </tr> <tr styleCode="botrule"> <td>Polymyxin B sulfate 10,000 units</td> <td>First aid antibiotic</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients (each gram contains) Purpose Bacitracin zinc 500 units First aid antibiotic Polymyxin B sulfate 10,000 units First aid antibiotic

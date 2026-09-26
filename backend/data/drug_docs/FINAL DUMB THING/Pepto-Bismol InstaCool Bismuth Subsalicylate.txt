@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  Pepto-Bismol InstaCool Bismuth Subsalicylate CALCIUM CARBONATE TALC SACCHARIN SODIUM SACCHARIN POVIDONE D&C RED NO. 27 MAGNESIUM STEARATE MANNITOL BISMUTH SUBSALICYLATE SALICYLIC ACID BISMUTH CATION
+spl_unclassified_section:
+  Drug Facts
+  Made in Mexico by Procter & Gamble Manufactura S. de R. L. de C.V. Dist. by Procter & Gamble, Cincinnati OH 45202
+active_ingredient:
+  Active ingredient (in each tablet) Bismuth subsalicylate 262 mg
+purpose:
+  Purposes Upset stomach reliever and antidiarrheal
+indications_and_usage:
+  Uses relieves travelers' diarrhea diarrhea upset stomach due to overindulgence in food and drink, including: heartburn indigestion nausea gas belching fullness
+warnings:
+  Warnings Reye's syndrome Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have an ulcer a bleeding problem bloody or black stool Ask a doctor before use if you have fever mucus in the stool Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days If pregnant or breast feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you have an ulcer a bleeding problem bloody or black stool
+ask_doctor:
+  Ask a doctor before use if you have fever mucus in the stool
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis
+when_using:
+  When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur
+stop_use:
+  Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions chew or dissolve in mouth adults and children 12 years and over: 2 tablets every 1/2 to 1 hour as needed do not exceed 8 doses (16 tablets) in 24 hours use until diarrhea stops but not more than 2 days children under 12 years: ask a doctor drink plenty of clear fluids to help prevent dehydration caused by diarrhea
+storage_and_handling:
+  Other information each tablet contains: calcium 85 mg sodium less than 1 mg salicylate 100 mg very low sodium sugar free avoid excessive heat (over 104°F or 40°C)
+inactive_ingredient:
+  Inactive ingredients calcium carbonate, flavor, magnesium stearate, mannitol, povidone, red 27 aluminum lake, saccharin sodium, talc
+questions:
+  Questions? 1-800-717-3786
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 Chewable Tablets NEW Pepto- BISMOL™ InstaCool ™ PEPPERMINT BISMUTH SUBSALICYLATE UPSET STOMACH RELIEVER/ANTIDIARRHEAL NDC 37000-691-30 5 SYMPTOM RELIEF Nausea • Heartburn • Indigestion Upset Stomach • Diarrhea 30 CHEWABLE TABLETS PRINCIPAL DISPLAY PANEL - 30 Chewable Tablets
+set_id:
+  69961b71-9090-5219-e053-2991aa0ad15d
+id:
+  99d751d0-4393-2249-e053-2995a90a183f
+effective_time:
+  20191216
+version:
+  2
+openfda:

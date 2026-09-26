@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Anti-Gas Simethicone DIMETHICONE DIMETHICONE D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN GLYCERIN PEPPERMINT OIL WATER
+active_ingredient:
+  Active ingredient(s) Simethicone 125mg
+purpose:
+  Purpose Anti gas
+indications_and_usage:
+  Use(s) for the relief of pressure, bloating, and fullness commonly referred to as gas
+warnings:
+  Warning Keep out of reach of children
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions adults and children 12 years and older: swallow with water 1 or 2 softgels as needed after meals and at bedtime do not exceed 4 softgels in 24 hours except under the advice and supervision of a physician.
+spl_unclassified_section:
+  Other information Do not use if blister unit is torn or open do not use if imprinted safety seal under cap is broken or missing
+storage_and_handling:
+  Storage store at room temperature 20 o -25 o C (68 o -77 o F) protect from light, heat and moisture
+inactive_ingredient:
+  Inactive ingredients D&C yellow #10, FD&C blue #1, FD&C red #40, gelatin, glycerin, peppermint oil, purified water, white edible ink
+questions:
+  Questions Call 1-888-952-0050 Monday through Friday 9AM - 5PM
+package_label_principal_display_panel:
+  Principal Display Panel Gas Relief Gas Relief
+set_id:
+  7731bd63-667e-4fed-b446-92a4a83b66d6
+id:
+  87581ea9-00dc-456e-9b64-e4f5b5dbe6b0
+effective_time:
+  20201103
+version:
+  6
+openfda:
+  application_number:
+    M002
+  brand_name:
+    Anti-Gas
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Allegiant Health
+  product_ndc:
+    69168-419
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    198852
+  spl_id:
+    87581ea9-00dc-456e-9b64-e4f5b5dbe6b0
+  spl_set_id:
+    7731bd63-667e-4fed-b446-92a4a83b66d6
+  package_ndc:
+    69168-419-06
+    69168-419-27
+    69168-419-72
+    69168-419-99
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

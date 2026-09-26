@@ -1,0 +1,41 @@
+effective_time:
+  20210831
+inactive_ingredient:
+  Other ingredients Croscarmellose Sodium, Dicalcium Phosphate, FD&C Yellow #5 Lake**, FD&C Yellow #6 Lake, Hypromellose, Magnesium Silicate, Magnesium Stearate, Microcrystalline Cellulose, Mineral Oil, Polyethylene Glycol, Sodium Benzoate, Sodium Lauryl Sulfate, Starch, Stearic Acid, Titanium Dioxide and Triacetin.
+purpose:
+  Purpose Laxetive Stool Softener
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use • laxative products for longer than 1 week unless directed by a doctor • if you are now taking mineral oil, unless directed by a doctor Ask a doctor before use if you have • stomache pain, nausea, vomiting, noticed a sudden change in bowel habits that continues over a period of 2 weeks Stop use and ask a doctor if • you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions Serious Adverse Effects Call: (800) 616-2471 ** WARNING: Contains FD&C Yellow #5 Lake (Tartrazine) as a color additive . *This product is not manufactured or distributed by Purdue Pharma L.P. owner of the registered trademark Senokto-S®. Distributed by: Major Pharmaceuticals 31778 Enterprise Drive, Livonia, MI 48150, USA Rev. 04/11 M-29
+spl_product_data_elements:
+  Senna Plus Sennosides and Docusate Sodium DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 HYPROMELLOSES MAGNESIUM SILICATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE MINERAL OIL SODIUM BENZOATE SODIUM LAURYL SULFATE STARCH, TAPIOCA POLYETHYLENE GLYCOL, UNSPECIFIED TITANIUM DIOXIDE STEARIC ACID TARTARIC ACID TRIACETIN CPC;490 bi-convex
+openfda:
+version:
+  12
+dosage_and_administration:
+  Directions Take preferably at bedtime or as directed by a doctor age starting dosage maximum dosage adults and children over 12 years 2 tablets once a day 4 tablets twice a day children 6 to under 12 years 1 tablet once a day 2 tablets twice a day children under 6 years ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health care professional before use.
+stop_use:
+  Stop use and ask a doctor if • you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition.
+storage_and_handling:
+  Other Information Store at room temperature, USP
+do_not_use:
+  Do not use • laxative products for longer than 1 week unless directed by a doctor • if you are now taking mineral oil, unless directed by a doctor
+package_label_principal_display_panel:
+  Principal Display Panel Senna Plus Tablets (Standardized senna concentrate equiv. to 8.6mg sennosides and sodium dioctylsulfosuccinate 50mg) Principal Display Panel-Senna Plus Tablets (standardized senna concentrate equiv. to 8.6mg sennosides and sodium dioctylsulfosuccinat 50mg)
+indications_and_usage:
+  Uses • relieves occasional constipation (irregularity) • generally produces a bowel movement in 6 - 12 hours
+set_id:
+  84d93cbc-4c9e-4db4-8d81-9e5221a3623f
+id:
+  d9719fc2-003a-462a-9dd6-b0eb04e640be
+ask_doctor_or_pharmacist:
+  Ask a doctor before use if you have • stomache pain, nausea, vomiting, noticed a sudden change in bowel habits that continues over a period of 2 weeks
+active_ingredient:
+  Active ingredient (in each tablet) Sennosides from Senna Concentrate 8.6 mg Sodium Dioctylsulfosuccinate 50 mg
+dosage_and_administration_table:
+  <table><col/><col/><col/><tbody><tr><td colspan="4" styleCode="     Botrule          Toprule         Lrule          Rrule     "><content styleCode="bold">age</content></td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     "><content styleCode="bold">starting dosage</content></td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     "><content styleCode="bold">maximum dosage</content></td></tr><tr><td colspan="4" styleCode="     Botrule          Toprule         Lrule          Rrule     ">adults and children over 12 years</td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     ">2 tablets once a day</td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     ">4 tablets twice a day</td></tr><tr><td colspan="4" styleCode="     Botrule          Toprule         Lrule          Rrule     ">children 6 to under 12 years</td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     ">1 tablet once a day</td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     ">2 tablets twice a day</td></tr><tr><td colspan="4" styleCode="     Botrule          Toprule         Lrule          Rrule     ">children under 6 years</td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     ">ask a doctor</td><td colspan="2" styleCode="     Botrule          Toprule         Lrule          Rrule     "> </td></tr></tbody></table>

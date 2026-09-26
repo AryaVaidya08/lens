@@ -1,0 +1,26 @@
+effective_time:
+  20190211
+inactive_ingredient:
+  Inactive Ingredients: Distilled Water, Flavor, Hydrofluoric Acid, Isobutane Propane Propellant, Phosphoric Acid, Poloxamer, Sodium Benzoate, Sodium Laureth Sulfate, Sodium Saccharin, Triethanolamine, Xylitol.
+instructions_for_use:
+  Instructions for Use: Remove cap from can. Prior to each use, shake can thoroughly for at least 15 seconds. To dispense, invert the can completely upside down. Slowly depress nozzle to dispense foam into fluoride tray (foam will expand slightly higher than fluoride tray). Air dry teeth thoroughly and insert tray(s) into patient's mouth. Instruct patient to bite down and leave the tray in contact with the teeth for 1 - 4 minutes. Use a saliva ejector during treatment to minimize ingestion of product. Remove tray(s) and have patient expectorate. Instruct patient not to eat, drink or rinse for 30 minutes after treatment.
+warnings:
+  Warnings: Do not swallow. Keep out of reach of children. Contents under pressure. Do not place in hot water or near radiators, stoves, or other sources of heat. Do not puncture or incinerate container. Do not spray toward open flame. For Professional Use Only.
+spl_product_data_elements:
+  FIDELIS APF Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION Water HYDROFLUORIC ACID PHOSPHORIC ACID POLOXAMER 407 SODIUM BENZOATE SODIUM LAURETH-3 SULFATE SACCHARIN SODIUM TROLAMINE XYLITOL
+openfda:
+version:
+  2
+spl_unclassified_section:
+  Active Ingredient: 1.23% Fluoride Ion. Available from 1.81% Sodium Fluoride and Hydrofluoric Acid.
+  Purpose: Fluoride Preventative Treatment Foam.
+storage_and_handling:
+  Other Information: Store at controlled room temperature 59° - 86°F (15°-30°C). Protect from freezing.
+package_label_principal_display_panel:
+  FIDELISAPFFOAMGRP
+indications_and_usage:
+  Indications and Usage: This is a prescription fluoride treatment foam used to help prevent dental decay.
+set_id:
+  14a7c82c-367f-4f88-81b5-026ae5a93010
+id:
+  c53dc438-41b2-4e04-b194-2c570a181d3f

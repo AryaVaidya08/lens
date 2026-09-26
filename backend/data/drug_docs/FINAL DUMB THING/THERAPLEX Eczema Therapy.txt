@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  THERAPLEX Eczema Therapy OATMEAL CYCLOMETHICONE CERESIN PETROLATUM OATMEAL OATMEAL
+spl_unclassified_section:
+  Drug Facts
+  Other information store at room temperature keep from freezing
+active_ingredient:
+  Active Ingredient Colloidal Oatmeal 1% Purpose Skin Protectant
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses temporarily protects and helps relieve minor skin irritation and itching due to: • eczema • rashes
+warnings:
+  Warnings For external use only When using this product do not get into eyes. Stop and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes.
+stop_use:
+  Stop and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed, or as directed by your doctor.
+inactive_ingredient:
+  Inactive Ingredients cyclomethicone, ozokerite wax, petrolatum (special fraction)
+questions:
+  Questions? email help@theraplex.com
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  86472a3d-7138-4141-8422-ab20c17a46e0
+id:
+  0bba8c3a-f3bb-62f2-e063-6394a90a541e
+effective_time:
+  20231204
+version:
+  1
+openfda:
+  application_number:
+    M016
+  brand_name:
+    THERAPLEX Eczema Therapy
+  generic_name:
+    OATMEAL
+  manufacturer_name:
+    THERAPLEX, LLC
+  product_ndc:
+    82280-425
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OATMEAL
+  rxcui:
+    240651
+  spl_id:
+    0bba8c3a-f3bb-62f2-e063-6394a90a541e
+  spl_set_id:
+    86472a3d-7138-4141-8422-ab20c17a46e0
+  package_ndc:
+    82280-425-00
+  is_original_packager:
+    True
+  upc:
+    0855737001093
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    N0000185016
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    8PI54V663Y

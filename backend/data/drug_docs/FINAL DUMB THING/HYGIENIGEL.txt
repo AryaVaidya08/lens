@@ -1,0 +1,27 @@
+effective_time:
+  20210225
+inactive_ingredient:
+  Inactive Ing. Inactive Ingredients
+keep_out_of_reach_of_children:
+  OTC keep out of reach of children
+purpose:
+  OTC purpose
+warnings:
+  Warnings Warnings
+spl_product_data_elements:
+  HYGIENIGEL HAND SANITIZER ALCOHOL ALCOHOL MELALEUCA ALTERNIFOLIA LEAF
+openfda:
+version:
+  2
+dosage_and_administration:
+  Dosage Dosage
+package_label_principal_display_panel:
+  Package 2mL PACKAGE LABEL
+indications_and_usage:
+  Indication & U - Direction for Use Indication and Usage
+set_id:
+  aae7c11b-40dc-31b2-e053-2995a90abd34
+id:
+  bc3025d4-4123-5af9-e053-2995a90a76b7
+active_ingredient:
+  Active Ingredient OTC Active Ingredient

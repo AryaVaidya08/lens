@@ -1,0 +1,31 @@
+effective_time:
+  20121004
+inactive_ingredient:
+  Inactive Ingredients WATER, DICALCIUM PHOSHATE, SORBITOL, GLYCERIN, SODIUM LAURYL SULFATE, ANNATTO ( BIXA ORELLANA) SEED EXTRACT, SODIUM HYDROXIDE, NATURAL AND ARTIFICIAL FLAVORS, DISODIUMM EDTA, CELLULOSE GUM, SODIUM SACCHARIN, TETRASODIUM PYROPHOSPHATE, FD AND C BLUE NO.1
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Spearmint and Peppermint PLAQUE A WAY Fluoride AnticavityGentle Formula Gentle Formula SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION WATER CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS SORBITOL GLYCERIN SODIUM LAURYL SULFATE BIXA ORELLANA SEED SODIUM HYDROXIDE EDETATE DISODIUM CARBOXYMETHYLCELLULOSE SODIUM SODIUM BENZOATE SACCHARIN SODIUM DIHYDRATE SODIUM PYROPHOSPHATE FD&C BLUE NO. 1 SPEARMINT PEPPERMINT
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions adults and children 2 years and over Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. children under 6 years of age Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without a supervision. children under 2 years of age Consult a dentist or doctor.
+spl_unclassified_section:
+  Spearmint and Peppermint PLAQUE A WAY Fluoride Anticavity Toothpaste Gentle Formula
+package_label_principal_display_panel:
+  Spearmint and Peppermint PLAQUE A WAY Fluoride Anticavity Toothpaste Gentle Formula 116g (42288-000-04) PlaqueAWayFrontLabel PlaqueAWayBackLabel
+indications_and_usage:
+  Use Aids in the prevention of dental cavities.
+set_id:
+  e2d6607c-a33b-442f-8fb1-5ed5232f258d
+id:
+  d6ce07ce-edee-46ee-93d1-bb4411373b7f
+active_ingredient:
+  Active Ingredient Sodium fluoride 0.24% (0.14 w/v fluoride ion)
+dosage_and_administration_table:
+  <table border="5" width="100%" ID="i71e3c96c-a0da-44de-80d7-c36fbe641af8"> <tbody> <tr> <td>adults and children 2 years and over  </td> <td>Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor.  </td> </tr> <tr> <td>children under 6 years of age  </td> <td>Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without a supervision.  </td> </tr> <tr> <td>children under 2 years of age  </td> <td>Consult a dentist or doctor.  </td> </tr> </tbody> </table>

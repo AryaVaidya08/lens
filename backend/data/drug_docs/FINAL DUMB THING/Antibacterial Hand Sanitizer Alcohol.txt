@@ -1,0 +1,33 @@
+effective_time:
+  20200803
+inactive_ingredient:
+  Inactive ingredients Water, triethanolamine, carbomer, fragrance, glycerin, tocopheryl acetate (Vitamin E), Aloe barbadensis leaf extract
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children must be supervised in use of this product.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame Do not apply around eyes. Do not use in ears and mouth
+when_using:
+  When using this product avoid contact with eyes. In case of contact, flush eyes with water.
+spl_product_data_elements:
+  Antibacterial Hand Sanitizer Alcohol GLYCERIN WATER CARBOMER 940 TROLAMINE ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Squirt as needed into your palms and thoroughly spread on both hands, rub into skin until dry
+stop_use:
+  Stop use and ask a doctor if redness or irritation develops and persists for more than 72 hours
+storage_and_handling:
+  Other information Store at 20C (68-77F) May discolor fabrics
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Use Hand sanitizer to help decrease bacteria on the skin When water, soap, and towel are not available Recommended for repeaded use
+set_id:
+  1af92434-ac51-40a3-b41d-4d879ceab19f
+id:
+  abff04ff-18d9-f097-e053-2a95a90a392e
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 62% v/v

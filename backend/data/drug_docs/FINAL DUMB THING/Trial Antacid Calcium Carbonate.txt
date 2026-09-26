@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Trial Antacid Calcium Carbonate SORBITOL ACACIA MAGNESIUM STEARATE SILICON DIOXIDE STARCH, CORN STEARIC ACID CALCIUM CARBONATE CARBONATE ION spearmint snow white ZEE;TL ZEE;TL
+active_ingredient:
+  Active Ingredient (in each tablet) Calcium Carbonate-420 mg
+purpose:
+  Purpose-Antacid
+indications_and_usage:
+  Uses relieves: ■ heartburn ■ acid indigestion ■ sour stomach ■ upset stomach due to these symptoms
+dosage_and_administration:
+  Directions chew 2 to 4 tablets. Repeat hourly if symptoms return. do not take more than 18 tablets in 24 hours do not use the maximum dosage more than 2 weeks
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interfere with certain prescription drugs
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding baby, ask a health professional before use
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+inactive_ingredient:
+  nactive ingredients acacia*, cornstarch*, magnesium stearate, silica*, sorbitol, mint flavor, stearic acid* *contains one or more of these ingredients
+package_label_principal_display_panel:
+  ZEE TRIAL Antacid box-01
+set_id:
+  af3b6297-b3e4-461b-bca3-06dcd524e9cb
+id:
+  2c901c2f-4e99-4a44-958d-7f66ee5574d5
+effective_time:
+  20230127
+version:
+  4
+openfda:

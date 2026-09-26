@@ -1,0 +1,29 @@
+effective_time:
+  20101231
+inactive_ingredient:
+  Inactive Ingredients: Water (Aqua), PPG-15 Stearyl Ether, Steareth-2, Steareth-20, Sucrose, Avena (Oat) Kernel Extract, Aloe Barbadensis Leaf Extract, Hamamelis Virginiana (Witch Hazel) Water, Cymbopogon Schoenanthus Extract, Cupressus Sempervirens Cone Extract, Glyceryl Stearate, Fragrance (Parfum), Limonene, Citral, Linalool, BHT, Citronellol, Geraniol, Propylene Glycol, Phenoxyethanol, Coumarin, Benzyl Benzoate, Methylparaben, Butylparaben, Ethylparaben, Isobutylparaben, Propylparaben
+purpose:
+  Purpose: Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings: For external use only Do not use on broken skin. Ask a doctor before use if you have kidney disease. Stop use if rash or irritation occurs. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+questions:
+  Questions: 1(800)FRESH-20
+spl_product_data_elements:
+  Fresh Sugar Roll-On Deodorant Antiperspirant aluminum chlorohydrate Aluminum Chlorohydrate Aluminum Chlorohydrate Water Steareth-15 Steareth-2 Steareth-20 Glyceryl Monostearate Propylene Glycol Sucrose Witch Hazel Butylated Hydroxytoluene Vanillin Phenoxyethanol Methylparaben Aloe Vera Leaf Isobutylparaben Propylparaben Butylparaben Ethylparaben Oat
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Apply to underarms only.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Fresh SUGAR ROLL-ON DEODORANT ANTIPERSPIRANT 75ml 2.5floz Fresh Inc Boston 02118 USA image of bottle
+indications_and_usage:
+  Use: Reduces underarm perspiration
+set_id:
+  a7e091ba-8e55-48de-8740-8a716044d04b
+id:
+  8d142844-baf4-40b8-8dee-279f865391ff
+active_ingredient:
+  Active Ingredient: Aluminum Chlorohydrate 15%

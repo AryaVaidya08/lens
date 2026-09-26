@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  TOTCLEAR WART REMOVER PATCHES SALICYLIC ACID YELLOW WAX PECTIN LANOLIN ROSIN ZINC OXIDE SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Salicylic Acid 40%
+purpose:
+  Wart Remover
+indications_and_usage:
+  Uses: For the removal of common warts. For the removal of plantar warts on the bottom of the foot. The common wart is easily recognized by the rough "cauliflower-like" appearance of the surface. The plantar wart is recognized by its location only on the bottom of the foot, it's tenderness, and the intteruption of the footprint pattern.
+warnings:
+  For external use only. Do not use this product on irritated skin, or any area that is infected or reddened, if you are diabetic, or if you have poor blood circulation. Do not use on moles, birthmarks, warts with hair growing from them, genital warts or warts on the face or mucous membranes. if discomfort persist, see your doctor.
+do_not_use:
+  Do not use this product on irritated skin, or any area that is infected or reddened, if you are diabetic, or if you have poor blood circulation. Do not use on moles, birthmarks, warts with hair growing from them, genital warts or warts on the face or mucous membranes.
+stop_use:
+  if discomfort persist, see your doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Direction: Wash the affected area. May soak the wart in warm water for 5 minutes. Dry the area thoroughly. Cut plaster to fit wart. Apply medicated plaster. Reapeat this procedure every 48 hours as needed (until wart is removed) for up to 12 weeks.
+other_safety_information:
+  Other Information: Store at room temperature. Keep out of reach of children.
+questions:
+  Questions or comments? Contact us at: support@totclear.com
+inactive_ingredient:
+  Inactive Ingredients: Beeswax Pectin Lanolin Rosin Zinc Oxide
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL TOTCLEAR WART REMOVER PATCHES package
+set_id:
+  ff9fc31d-af19-4a37-8499-624f34fab4be
+id:
+  71258f97-d8ab-42d1-975a-61885eb1fe99
+effective_time:
+  20260817
+version:
+  1
+openfda:
+  application_number:
+    M028
+  brand_name:
+    TOTCLEAR WART REMOVER PATCHES
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    GOOD BRIDGE LLC
+  product_ndc:
+    87725-006
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    240559
+  spl_id:
+    71258f97-d8ab-42d1-975a-61885eb1fe99
+  spl_set_id:
+    ff9fc31d-af19-4a37-8499-624f34fab4be
+  package_ndc:
+    87725-006-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

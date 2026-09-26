@@ -1,0 +1,39 @@
+effective_time:
+  20190919
+inactive_ingredient:
+  Inactive ingredient carnauba wax, croscarmellose sodium, DandC Yellow 10 Aluminum Lake, dibasic calcium phosphate dihydrate, FDandC Blue 2 Aluminum Lake*, FDandC Red 40 Aluminum Lake*, FDandC Yellow 6 Aluminum Lake, hypromellose, magnesium stearate, maltodextrin*, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol*, purified water*, silicon dioxide, sodium benzoate, stearic acid, talc*, and titanium dioxide *contains one or more of these ingredients
+purpose:
+  Purpose Stool softener Stimulant laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings Do not use if you are now taking mineral oil, unless directed by a doctor Ask a doctor before use if you have stomach pain nausea Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast feeding ask a health professional before use Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away
+spl_product_data_elements:
+  Senna-S DOCUSATE SODIUM, SENNOSIDES DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES CARNAUBA WAX CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C BLUE NO. 2 FD&C RED NO. 40 FD&C YELLOW NO. 6 HYPROMELLOSES MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED WATER SILICON DIOXIDE SODIUM BENZOATE STEARIC ACID TALC TITANIUM DIOXIDE SS1;S35;TCL081
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea
+other_safety_information:
+  Other information each tablet contains: sodium 6 mg/tablet LOW SODIUM each tablet contains: calcium 20 mg/tablet store at 15°-30°C (59°-86°F),in well closed containers do not use if imprinted safety seal under cap is broken or missing *This product is not manufactured or distributed by Purdue Pharma L.P., owner of the registered trademark Senokot S.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions taken preferably at bedtime or as directed by a doctor Age Starting Dose Maximum Dosage adults and children 12 years of age and older 2 tablets once a day 4 tablets twice a day children 6 to under 12 years of age 1 tablet once a day 2 tablets twice a day children 2 to 6 years of age 1/2 tablet once a day 1 tablet twice a day children under 2 years ask a doctor ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition.
+do_not_use:
+  Do not use if you are now taking mineral oil, unless directed by a doctor
+package_label_principal_display_panel:
+  Product Labeling NDC 62011-0161-1 Compare the Senokot-S ® active ingredients ** SENNA-S Docusatee Sodium, 50 mg Sennosides, 8.6 mg Stool softener with laxative 60 TABLETS McKesson Another Quality Product Distributed by McKesson One Post Street, San Francisco, CA 94104 Money Back Guarantee www.healthmart.com/healthmartbrand Stool Softener Plus Stimulant Laxative 100 Tablets Packaging Label
+indications_and_usage:
+  Uses relief of occasional constipation (irregularity). generally causes bowel movement within 6 to 12 hours.
+set_id:
+  27c743d1-504a-4d49-b612-ad7ea1875266
+id:
+  e76f90ac-9f49-4a84-b7ef-05ea729888af
+active_ingredient:
+  Active ingredients (in each tablet) Docusate Sodium 50 mg Sennosides 8.6 mg
+dosage_and_administration_table:
+  <table> <col/> <col/> <col/> <tbody> <tr> <td> <content styleCode="bold">Age  </content> </td> <td> <content styleCode="bold">Starting Dose</content>   </td> <td> <content styleCode="bold">Maximum Dosage</content>   </td> </tr> <tr> <td>adults and children 12 years of age and older</td> <td>2 tablets once a day  </td> <td>4 tablets twice a day</td> </tr> <tr> <td>children 6 to under 12 years of age</td> <td>1 tablet once a day  </td> <td>2 tablets twice a day  </td> </tr> <tr> <td>children 2 to 6 years of age</td> <td>1/2 tablet once a day  </td> <td>1 tablet twice a day</td> </tr> <tr> <td>children under 2 years</td> <td>ask a doctor</td> <td>ask a doctor</td> </tr> </tbody> </table>

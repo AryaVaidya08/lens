@@ -1,0 +1,34 @@
+effective_time:
+  20130125
+inactive_ingredient:
+  INGREDIENTS Aqua (Hungarian Thermal Water), Caprylic/Capric Triglyceride, Glycerin, Squalane, Stearyl Heptanoate, Cetearyl Olivate, Octyldodecanol, Corundum (Pro Ruby Crystal), Cetearyl Ethylhexanoate, Sorbitan Olivate, Alcohol Denat., Cetearyl Alcohol, Phenoxyethanol, Mica, Isononyl Isononanoate, Isostearic Acid, Ascorbyl Tetraisopalmitate, Niacinamide, Saccharomyces (Hungarian Thermal Water) Ferment Extract, Polyhydroxystearic Acid, Isopropyl Myristate, Zinc PCA, Disodium EDTA, Pyrus Malus (Apple) Fruit Extract, Geraniol, Sodium Hyaluronate, Prunus Armeniaca (Apricot) Kernel Oil, Tocopherol, Ethylhexylglycerin, Lactic Acid, Chlorella Vulgaris/Lupinus Albus Protein Ferment, Citronellol, Parfum (Fragrance), Isopropyl Titanium Triisostearate, Nasturtium Officinale Flower/Leaf Extract, Xanthan Gum, Stearalkonium Hectorite, Pectin, Phospholipids, Linalool, Propylene Carbonate.
+purpose:
+  ACTIVE INGREDIENTS PURPOSE Titanium Dioxide 2.8% Sunscreen Zinc Oxide 7% Sunscreen
+warnings:
+  WARNING For external use only; do not swallow. Stop use if rash or irritation occurs.
+spl_product_data_elements:
+  Complexion Corrector SPF20 Titanium Dioxide and Zinc Oxide Titanium Dioxide Titanium Dioxide Zinc Oxide Zinc Oxide Caprylic/Capric Mono/Diglycerides Glycerin Squalane Stearyl Heptanoate Cetearyl Olivate Octyldodecanol Cetearyl Ethylhexanoate Aluminum Oxide Sorbitan Olivate Cetostearyl Alcohol Phenoxyethanol Mica Ascorbyl Tetraisopalmitate Isononyl Isononanoate Edetate Disodium Niacinamide Apple Isopropyl Myristate Zinc Pidolate Hyaluronate Sodium Geraniol Ethylhexylglycerin Apricot Kernel Oil Tocopherol Lactic Acid Glyceryl Isostearate .Beta.-Citronellol, (+/-)- Isopropyl Titanium Triisostearate Xanthan Gum Pectin Linalool, (+)- Nasturtium Officinale Flowering Top Propylene Carbonate
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS Appy evenly to face and neck.
+spl_unclassified_section:
+  DRUG FACTS
+  Product of Hungary www.omorovicza.com Omorovicza Kft, 2 Andrassy Ut, 1061 Budapest
+stop_use:
+  Stop use if rash or irritation occurs.
+active_ingredient_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th>ACTIVE INGREDIENTS</th> <th>PURPOSE</th> </tr> </thead> <tbody> <tr> <td>Titanium Dioxide 2.8%</td> <td>Sunscreen</td> </tr> <tr> <td>Zinc Oxide 7%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 ml Pump Bottle Carton COMPLEXION CORRECTOR SPF 20 Omorovicza BUDAPEST e 1.0 fl oz 30ml Principal Display Panel - 30 ml Pump Bottle Carton
+indications_and_usage:
+  USES Protects from UVA/B sunrays.
+set_id:
+  ed5cdce2-a6eb-46fd-a9b0-19987705a96e
+id:
+  78efc956-0494-456a-ba69-3941dd949e91
+purpose_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th>ACTIVE INGREDIENTS</th> <th>PURPOSE</th> </tr> </thead> <tbody> <tr> <td>Titanium Dioxide 2.8%</td> <td>Sunscreen</td> </tr> <tr> <td>Zinc Oxide 7%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  ACTIVE INGREDIENTS PURPOSE Titanium Dioxide 2.8% Sunscreen Zinc Oxide 7% Sunscreen

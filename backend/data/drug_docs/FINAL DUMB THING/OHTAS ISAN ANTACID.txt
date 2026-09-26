@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  OHTAS ISAN ANTACID calcium carbonate, sodium bicarbonate CINNAMON TANGERINE CLOVE FENNEL GENTIANA LUTEA ROOT LEVOMENTHOL NUTMEG PICRASMA QUASSIOIDES WOOD MAGNESIUM CARBONATE CALCIUM CARBONATE CARBONATE ION SODIUM BICARBONATE BICARBONATE ION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each packet <1.3g>) Precipitated calcium carbonate 497 mg Sodium bicarbonate 600 mg
+purpose:
+  Purpose Antacid Antacid
+indications_and_usage:
+  Uses relieves: heartburn sour stomach acid indigestion upset stomach due to these symptoms
+warnings:
+  Warnings Do not take more than 3 packets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a physician. Ask a doctor of a pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. on a sodium-restricted diet.
+do_not_use:
+  Do not take more than 3 packets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a physician.
+ask_doctor_or_pharmacist:
+  Ask a doctor of a pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. on a sodium-restricted diet.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Direction take 1 packet with water, 3 times daily, or as directed by a physician.
+other_safety_information:
+  Other information each packet contains: sodium 164 mg.
+inactive_ingredient:
+  Inactive ingredients cinnamon bark, citrus unshiu peel, clove, fennel, gentian, l -menthol, magnesium carbonate, nutmeg, powdered picrasma wood.
+package_label_principal_display_panel:
+  Principal Display Panel – 16 Packets Box Label NDC 49631-178-13 Graphic – Ohta's Isan Logo Ohta's Isan ANTACID POWDER Heartburn Herb Flavored Acid Upset Indigestion Stomach OHTA'S ISAN MADE IN JAPAN 16 Packets Principal Display Panel – 16 Packets Box Label
+set_id:
+  8723fe90-8402-4511-b6c6-b71cf98513e3
+id:
+  24c5b10a-a217-7bae-e063-6394a90aaf4c
+effective_time:
+  20241021
+version:
+  4
+openfda:
+  application_number:
+    M001
+  brand_name:
+    OHTAS ISAN ANTACID
+  generic_name:
+    CALCIUM CARBONATE, SODIUM BICARBONATE
+  manufacturer_name:
+    OHTA'S ISAN CO.,LTD.
+  product_ndc:
+    49631-178
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+    SODIUM BICARBONATE
+  rxcui:
+    1361708
+  spl_id:
+    24c5b10a-a217-7bae-e063-6394a90aaf4c
+  spl_set_id:
+    8723fe90-8402-4511-b6c6-b71cf98513e3
+  package_ndc:
+    49631-178-13
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK
+    8MDF5V39QO

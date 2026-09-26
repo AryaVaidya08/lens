@@ -1,0 +1,32 @@
+effective_time:
+  20150309
+inactive_ingredient:
+  Inactive ingredients glyceryl stearate, hydrogenated vegetable oil, polyethylene glycol 100 stearate, sorbitan monooleate
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children Keep out of reach of children.
+warnings:
+  Warnings For rectal use only. This package is intended for in-institution use only. Alcohol Warning: If you consume 3 or more alcoholic drinks every day, ask your doctor whether you should take acetaminophen or other pain relievers/fever reducers. Acetaminophen may cause liver damage. Do not use in children under 6 years. Stop use and ask a doctor if fever lasts more than 3 days (72 hours), or recurs or if you need to use this product for pain for more than 10 days continuously (adults) or 5 days (children). Severe or recurrent pain, or high or continued fever may indicate a serious illness. If pregnant or breast-feeding, ask a health professional before use. If swallowed or in case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical in case of overdose for adults and for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  Acephen Acetaminophen ACETAMINOPHEN ACETAMINOPHEN GLYCERYL MONOSTEARATE HYDROGENATED CASTOR OIL PEG-100 STEARATE SORBITAN MONOOLEATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Do not use more than directed remove foil wrapper insert suppository well up into rectum adults and children 12 years and over 2 suppositories every 4 to 6 hours while symptoms persist; do not exceed 12 suppositories in any 24 hour period children 6-12 years 1 suppository every 4 to 6 hours while symptoms persist; do not exceed 6 suppositories in any 24 hour period children under 6 years do not use
+spl_unclassified_section:
+  Storage Store at Room Temperature 15-30- C (59-86 F) TAMPER-EVIDENT: Individually sealed in foil for your protection. For your safety, suppositories are packaged in tamper-evident sealed foil. Do not use if foil is torn or open.
+  Other Information Established since 1919, G&W Laboratories, Inc. is one of the largest manufacturers of quality suppositories in the United States. We take special care to ensure that all products are of the finest quality you can buy. SATISFACTION GUARANTEED OR YOUR MONEY BACK FROM G&W G&W Laboratories, Inc. 111 Coolidge Street South Plainfield, NJ 07080 Visit our website @ www.gwlabs.com ACEPHEN TM Acetaminophen Suppositories USP 325 mg 10 rectal suppositories Repackaged by Cardinal Health Zanesville, OH 43701 L35752710309
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Acephen TM Acetaminophen Suppositories USP 325 mg 10 Rectal Suppositories Bag Label
+indications_and_usage:
+  Uses temporarily reduces fever, relieves minor aches, pains, and headache
+set_id:
+  1922c613-a8e2-4cf2-ab8b-bbc65c394309
+id:
+  e05ee6ce-0a9a-404c-aa77-43562bc7be17
+active_ingredient:
+  Active ingredient Drug Facts Active Ingredient (in each rectal suppository) Acetaminophen 325 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="50%"/> <col width="50%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule "> <paragraph>adults and children</paragraph> <paragraph>12 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule "> <paragraph>2 suppositories every 4 to 6 hours while symptoms persist; do not exceed 12 suppositories in any 24 hour period</paragraph> </td> </tr> <tr> <td styleCode="Lrule Botrule "> <paragraph>children 6-12 years</paragraph> </td> <td styleCode="Rrule Lrule Botrule "> <paragraph>1 suppository every 4 to 6 hours while symptoms persist; do not exceed 6 suppositories in any 24 hour period</paragraph> </td> </tr> <tr> <td styleCode="Botrule Lrule "> <paragraph>children under 6 years </paragraph> </td> <td styleCode="Rrule Botrule Lrule "> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

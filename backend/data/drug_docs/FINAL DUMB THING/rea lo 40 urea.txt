@@ -1,0 +1,38 @@
+effective_time:
+  20181003
+contraindications:
+  CONTRAINDICATIONS Known hypersensitivity to any of the listed ingredients.
+precautions:
+  PRECAUTIONS Urea cream and lotion should be used as directed by a physician and should not be used to treat conditions other than those for which it was prescribed. If redness or irritation occurs, discontinue use.
+warnings:
+  WARNINGS For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  Pregnancy: Category C Animal reproduction studies have not been conducted with urea cream or lotion. It is also not known whether urea cream or lotion can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Urea cream or lotion should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers It is not known whether urea is excreted in human milk, therefore caution should be exercised when administering to a nursing mother.
+spl_product_data_elements:
+  rea lo 40 urea UREA UREA WATER POLAWAX POLYSORBATE GLYCERIN ISOPROPYL MYRISTATE SORBITOL TRIDECYL STEARATE NEOPENTYL GLYCOL DICAPRYLATE/DICAPRATE TRIDECYL TRIMELLITATE rea lo 40 urea UREA UREA WATER POLAWAX POLYSORBATE GLYCERIN ISOPROPYL MYRISTATE SORBITOL TRIDECYL STEARATE NEOPENTYL GLYCOL DICAPRYLATE/DICAPRATE TRIDECYL TRIMELLITATE
+description:
+  Rx Only DESCRIPTION REA LO 40® (Urea 40%) Cream and Lotion is a keratolytic emollient, which is a gentle, yet effective, tissue softener for skin. Each gram contains 400 mg Urea as the active ingredient and the following inactive ingredients: purified water, emulsifying wax, glycerin, isopropyl myristate, sorbitol, neopentyl glycol dicaprylate/dicaprate, tridecyl stearate, tridecyl trimellitate and dimethyl isosorbide. Urea is a diamide of carbonic acid with the following structure: Urea Structure
+openfda:
+version:
+  7
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Apply to affected skin twice per day, or as directed by your physician. Rub in until completely absorbed. KEEP THIS AND ALL OTHER MEDICATIONS OUT OF REACH OF CHILDREN
+adverse_reactions:
+  ADVERSE REACTIONS Transient stinging, burning, itching or irritation is possible and normally resolves upon discontinuing the medication.
+how_supplied:
+  HOW SUPPLIED The REA LO™ family of products includes various urea cream and lotion formulations. The 40% urea products are available as: REA LO 40® (Urea 40%) Cream supplied in: 1 oz (28.3 g) NDC 0316-07400-01 3 oz (85 g) NDC 0316-07400-03 7 oz (198.4 g) NDC 0316-07400-07 REA LO 40® (Urea 40%) Lotion supplied in: 8 fl oz (236.6 ml) NDC 0316-07401-08 Store at room temperature: 15˚C - 30˚C (59˚F - 86˚F). Protect from freezing. Manufactured by: Crown Laboratories, Inc. Johnson City, TN 37604 Rx Only P19001.00
+package_label_principal_display_panel:
+  Urea 40% Cream NDC 0316-7400-07 Rea Lo 40 (Urea 40%) Cream For Topical Use Only Rx Only 7 oz (198.4 g) p1906.00 Rea Lo 40 Cream Carton
+  Urea 40% Lotion NDC 0316-7401-08 Rea Lo 40 (Urea 40%) Lotion For Topical Use Only Rx Only 8 fl oz (236.6 ml) p1908.00 Rea Lo 40 Lotion Carton
+pharmacokinetics:
+  PHARMACOKINETICS The exact mechanism of action of topically applied urea is not known.
+indications_and_usage:
+  INDICATION AND USAGE REA LO 40® (Urea 40%) Cream and Lotion is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, xerosis, ichthyosis, skin cracks and fissures, dermatitis, eczema, psoriasis, keratoses and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Urea cream and lotion gently dissolves the intracellular matrix which results in loosening of the horny layer of the skin and shedding of scaly skin at regular intervals, thereby softening hyperkeratotic areas of the skin.
+set_id:
+  bac5d4a7-2819-48f4-a0de-00d1c2d5ed31
+id:
+  c4028a67-f064-4e0b-aa89-5b082c4d589d

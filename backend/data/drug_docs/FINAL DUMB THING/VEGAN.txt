@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  VEGAN COLLAGEN EVERY DAY Avobenzone, Homosalate, Octocrylene, and Octisalate Avobenzone Avobenzone Homosalate Homosalate Octocrylene Octocrylene Octisalate Octisalate WATER BUTYLOCTYL SALICYLATE COCONUT ALKANES COCOYL CAPRYLOCAPRATE ALOE VERA LEAF GLYCERIN HYDROLYZED JOJOBA ESTERS (ACID FORM) GLYCERYL MONOSTEARATE GLYCERYL STEARATE CITRATE SODIUM STEAROYL GLUTAMATE POLYGLYCERYL-4 ISOSTEARATE STEARIC ACID LYSOPHOSPHATIDYLCHOLINE, SOYBEAN BETASIZOFIRAN XANTHAN GUM PULLULAN HYDROGENATED CASTOR OIL HYALURONATE SODIUM CITRUS SINENSIS FLOWER JASMINUM OFFICINALE FLOWER CHAMOMILE ARNICA MONTANA WHOLE SQUALANE STARCH, RICE BIOSACCHARIDE GUM-1 PHENOXYETHANOL ETHYLHEXYLGLYCERIN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3% Sunscreen Homosalate 15% Sunscreen Octocrylene 10% Sunscreen Octyl Salicylate 5% Sunscreen
+active_ingredient_table:
+  <table width="65%"><col width="55%" align="left" valign="top"/><col width="45%" align="center" valign="top"/><thead><tr styleCode="Toprule"><th styleCode="italics">Active ingredients</th><th styleCode="italics">Purpose</th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Homosalate 15%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 10%</td><td>Sunscreen</td></tr><tr styleCode="Botrule"><td>Octyl Salicylate 5%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Avobenzone 3% Sunscreen Homosalate 15% Sunscreen Octocrylene 10% Sunscreen Octyl Salicylate 5% Sunscreen
+purpose_table:
+  <table width="65%"><col width="55%" align="left" valign="top"/><col width="45%" align="center" valign="top"/><thead><tr styleCode="Toprule"><th styleCode="italics">Active ingredients</th><th styleCode="italics">Purpose</th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Homosalate 15%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 10%</td><td>Sunscreen</td></tr><tr styleCode="Botrule"><td>Octyl Salicylate 5%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer & early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. Stop use & ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+stop_use:
+  Stop use & ask a doctor if rash occurs.
+when_using:
+  When using this product, keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Shake well before use. Apply liberally 15 minutes before sun exposure. Use a water resistant sunscreen if swimming or sweating. Reapply after swimming or sweating. Reapply at least every 2 hours. Sun protection measures. Spending time in the sun increases your risk of skin cancer & early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher & other sun protection measures including: - limit time in the sun, especially from 10 a.m. - 2 p.m. - wear long-sleeve shirts, pants, hats & sunglasses. Children under 6 months: ask a doctor.
+inactive_ingredient:
+  Inactive ingredients Aqua, Butyloctyl Salicylate, Coconut Alkanes, Coco-Caprylate/Caprate, Aloe Barbadensis Leaf Juice, Glycerin, Hydrolyzed Jojoba Esters, Glyceryl Stearate, Glyceryl Stearate Citrate, Sodium Stearoyl Glutamate, Polyglyceryl-4 Isostearate, Stearic Acid, Lysolecithin, Sclerotium Gum, Xanthan Gum, Pullulan, Hydrogenated Castor Oil, Sr-Hydrozoan Polypeptide-1 (Vegan Collagen), Sodium Hyaluronate, Citrus Aurantium Dulcis (Orange) Flower Extract, Jasminum Officinale (Jasmine) Extract, Chamomilla Recutita (Matricaria) Flower Extract, Arnica Montana Extract, Squalane, Oryza Sativa (Rice) Starch, Biosaccharide Gum-1, Phenoxyethanol, Ethylhexylglycerin, Parfum our scent blend with natural and/or essential oils .
+storage_and_handling:
+  Other information Protect this product from excessive heat & direct sun.
+questions:
+  Questions or comments? Call toll free 1-888-322-2466 Pacifica Beauty LLC Portland, Oregon
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 mL Bottle Carton PACIFICA ® VEGAN COLLAGEN EVERY DAY LOTION broad spectrum SPF 30 protection vegan collagen hyaluronic acid & aloe vera flower extracts 100% VEGAN CRUELTY-FREE 1.7 fl oz • 50 mL Principal Display Panel - 50 mL Bottle Carton
+set_id:
+  53a66dec-b6bd-4393-bc7e-37c0783fafd8
+id:
+  4d3ecb24-b670-480b-8125-ab288922b961
+effective_time:
+  20200622
+version:
+  1
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Omeza Skin Protectant OATMEAL MEDIUM-CHAIN TRIGLYCERIDES CETYL ESTERS WAX ASCORBYL PALMITATE COCONUT OIL COD LIVER OIL GLYCERYL LAURATE CANNABIS SATIVA SEED OIL PALM OIL OATMEAL OATMEAL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Colloidal oatmeal 2.5% Purpose skin protectant
+purpose:
+  Purpose skin protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritation and itching due to • rashes • eczema
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes.
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply as needed
+inactive_ingredient:
+  Inactive ingredients ascorbyl palmitate, caprylic/capric triglyceride, cetyl esters, coconut oil, cod liver oil, glyceryl monolaurate, hemp seed oil, palm oil
+questions:
+  Questions or Comments 1-888-886-6392
+package_label_principal_display_panel:
+  Package Labeling: Package Label Drug Facts
+set_id:
+  99da0d44-d659-40bb-a87c-77bc482922e0
+id:
+  ef43d097-54b4-048a-e053-2a95a90a3302
+effective_time:
+  20221207
+version:
+  3
+openfda:

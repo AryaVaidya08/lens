@@ -1,0 +1,87 @@
+spl_product_data_elements:
+  Ibuprofen Ibuprofen Tablets USP, 200mg IBUPROFEN IBUPROFEN POLYVINYL ALCOHOL, UNSPECIFIED CROSCARMELLOSE SODIUM SILICON DIOXIDE FD&C YELLOW NO. 6 POLYETHYLENE GLYCOL, UNSPECIFIED TALC MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN TITANIUM DIOXIDE 120 Capsule shaped tablet
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each caplet) Ibuprofen 200 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Purposes Pain reliever/fever reducer
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: headache muscular aches minor pain of arthritis toothache backache the common cold menstrual cramps temporarily reduces fever
+warnings:
+  Warnings Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: hives facial swelling asthma (wheezing) shock skin reddening rash blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Heart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer right before or after heart surgery
+ask_doctor:
+  Ask a doctor before use if you have problems or serious side effects from taking pain relievers or fever reducers the stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin under a doctor's care for any serious condition taking any other drug
+when_using:
+  When using this product take with food or milk if stomach upset occurs
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better you have symptoms of heart problems or stroke: chest pain trouble breathing weakness in one part or side of body slurred speech leg swelling pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions do not take more than directed the smallest effective dose should be used adults and children 12 years and older take 1 caplet every 4 to 6 hours while symptoms persist if pain or fever does not respond to 1 caplet, 2 caplets may be used do not exceed 6 caplets in 24 hours, unless directed by a doctor children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>adults and children 12 years and older</td><td><paragraph>take 1 caplet every 4 to 6 hours while symptoms persist   if pain or fever does not respond to 1 caplet, 2 caplets may be used   do not exceed 6 caplets in 24 hours, unless directed by a doctor </paragraph></td></tr><tr><td>children under 12 years</td><td>ask a doctor</td></tr></tbody></table>
+other_safety_information:
+  Other information read all warnings and directions before use store at 20-25ºC (68-77ºF)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, FD&C yellow #6 aluminum lake, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, pregelatinized starch, talc, titanium dioxide
+questions:
+  Questions or comments? Call 1-877-290-4008
+package_label_principal_display_panel:
+  612R_Albertsons_IFC_50ct 612R_Albertsons_LBL_50ct 612R_Albertsons_IFC_100ct 612R_Albertsons_IFC_100ct 612R_Albertsons_Lbl_500ct
+set_id:
+  eb60a1e5-fb6e-360f-e053-2a95a90ade04
+id:
+  01efeeef-bb93-3c38-e063-6294a90a86bb
+effective_time:
+  20230803
+version:
+  2
+openfda:
+  application_number:
+    ANDA091237
+  brand_name:
+    Ibuprofen
+  generic_name:
+    IBUPROFEN TABLETS USP, 200MG
+  manufacturer_name:
+    BETTER LIVING BRANDS, LLC
+  product_ndc:
+    21130-992
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    IBUPROFEN
+  rxcui:
+    310965
+  spl_id:
+    01efeeef-bb93-3c38-e063-6294a90a86bb
+  spl_set_id:
+    eb60a1e5-fb6e-360f-e053-2a95a90ade04
+  package_ndc:
+    21130-992-05
+    21130-992-01
+    21130-992-53
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    M0001335
+    N0000175722
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+  unii:
+    WK2XYI10QM

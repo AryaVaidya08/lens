@@ -1,0 +1,23 @@
+effective_time:
+  20170416
+inactive_ingredient:
+  Non-Medicinal ingredients: cocamidopropyl betaine, sodium phosphate, poloxamer 407, sucralose, xylitol, purified water, watermelon flavour
+spl_product_data_elements:
+  Darby Topical Sodium Fluoride Watermelon Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION
+description:
+  Darby 2.72 % Topical Sodium Fluoride Foam (1.23 % Fluoride Ions) Watermelon 4.4 oz / 125 g NDC 66467-3720-1
+warnings_and_cautions:
+  Warnings: KEEP OUT OF REACH OF CHILDREN Avoid spraying toward open flame. Store at room temperature. Do not expose to excessive heat over 40 degrees C or 104 degrees F. Contents under pressure. Do not puncture and incinerate. Do not use if seal is broken. Rx only
+openfda:
+version:
+  4
+dosage_and_administration:
+  A topical anti-caries preparation Directions (for professional use only): 1. Use after thorough prophylaxis 2. To dispense, shake bottle vigorously then invert applicator 180 degrees downward to the bottom of the tray(s) Note: fill tray(s) at one quarter full to allow foam to expand 3. Insert tray(s) in mouth and have patient bite down lightly for 1 minute or up to 4 minutes 4. Remove tray(s) and have patient expectorate excess 5. Advise patient not to eat, drink or rinse for 30 minutes after the application 130 applications Medicinal ingredients: Fluoride ions 1.23 % w/w (from 2.72 % w/w sodium fluoride)
+spl_unclassified_section:
+  Made in USA Distributed by: Darby Dental Supply, LLC Jericho, Ny11753 UPC 952-9107 Rev 01
+package_label_principal_display_panel:
+  9107foamwt01
+set_id:
+  7329cbe8-07aa-4a79-aa09-adccaec758db
+id:
+  4d508dcf-20d6-68ef-e054-00144ff88e88

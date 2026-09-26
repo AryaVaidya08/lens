@@ -1,0 +1,39 @@
+effective_time:
+  20140110
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride 0.01%, glycerin, purified water. May contain hydrochloric acid and/or sodium hydroxide (to adjust pH).
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Do not use if solution changes color or becomes cloudy if you are sensitive to any ingredient in this product to treat contact lens related irritation When using this product do not touch tip of container to any surface to avoid contamination remove contact lenses before use wait at least 10 minutes before reinserting contact lenses after use replace cap after each use Stop use and ask a doctor if you experience any of the following: eye pain changes in vision redness of the eye itching worsens or lasts for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product do not touch tip of container to any surface to avoid contamination remove contact lenses before use wait at least 10 minutes before reinserting contact lenses after use replace cap after each use
+questions:
+  Questions or comments? 1-800-932-5676 Principal Display Panel Text for Container Label
+spl_product_data_elements:
+  Eye Itch Relief Ketotifen Fumarate ketotifen fumarate Ketotifen benzalkonium chloride glycerin water hydrochloric acid sodium hydroxide
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children 3 years of age and older: Put 1 drop in the affected eye(s) twice daily, every 8 to 12 hours, no more than twice per day. Children under 3 years of age: Consult a doctor.
+spl_unclassified_section:
+  Drug Facts
+  Other information only for use in the eye store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+stop_use:
+  Stop use and ask a doctor if you experience any of the following: eye pain changes in vision redness of the eye itching worsens or lasts for more than 72 hours
+do_not_use:
+  Do not use if solution changes color or becomes cloudy if you are sensitive to any ingredient in this product to treat contact lens related irritation
+package_label_principal_display_panel:
+  Principal Display Panel Text for Container Label: NDC 49781-075-71 LEADER Logo ® ORIGINAL PRESCRIPTION STRENGTH Eye Itch Relief Ketotifen Fumarate Ophthalmic Solution Antihistamine Eye Drops Sterile 0.17 FL OZ (5 mL) Principal Display Panel Text for Container Label
+  Principal Display Panel Text for Carton Label: NDC 49781-075-71 LEADER Logo ® Compare to Zaditor ® active ingredient* ORIGINAL PRESCRIPTION STRENGTH Eye Itch Relief Ketotifen Fumarate Ophthalmic Solution Antihistamine Eye Drops Up to 12 Hours Itch Relief WORKS IN MINUTES For Ages 3 Years & Older 30 Day Supply Sterile SATISFACTION GUARANTEED Logo 0.17 FL OZ (5 mL) Principal Display Panel Text for Carton Label
+indications_and_usage:
+  Uses Temporarily relieves itchy eyes due to pollen, ragweed, grass, animal hair and dander.
+set_id:
+  f85e7466-dc8d-4f21-950f-0bfd9460e966
+id:
+  b8c16af4-16f0-498b-8f3e-3c6f7f1edf48
+active_ingredient:
+  Active ingredient Ketotifen (0.025%) (equivalent to ketotifen fumarate 0.035%)

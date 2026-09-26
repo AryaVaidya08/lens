@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Peppermint Soap PALM OIL PEPPERMINT OIL PEPPERMINT PEPPERMINT OLIVE OIL COCONUT OIL
+active_ingredient:
+  Active ingredients Peppermint Leaf Extract
+purpose:
+  Purpose Cleansing the skin,keeping skin hydrated, soft and smooth, moisturizes
+indications_and_usage:
+  Uses Cleansing the skin,keeping skin hydrated, soft and smooth, moisturizes
+warnings:
+  Warnings "For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children.If swallowed, get medical help or contacta Poison Control Center right away."
+description:
+  Do not use Do not use on damaged or broken skin
+when_using:
+  When using this product When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children.If swallowed, get medical help or contacta Poison Control Center right away.
+ask_doctor_or_pharmacist:
+  Ask Doctor When Pregnant or breast-feeding.
+dosage_and_administration:
+  Directions 1. Wet the skin: Wet the cleaned area with warm water. 2. Lather: Rub the soap into a foaming foam, or use a foaming net to create foam. 3. Cleanse: Gently massage the skin with the foam, avoiding direct friction. 4. Rinse: Rinse the foam thoroughly with warm water. 5. Dry: Pat dry with a towel and apply moisturizer (if needed).
+storage_and_handling:
+  Other information Please store in a cool, dry place away from direct sunlight.
+inactive_ingredient:
+  Inactive ingredients Coconut Oil, Palm Oil, Olive Oil, Peppermint Essential Oil, Peppermint Leaf Extract, Baking Soda, Burdock Root Extract, Vitamin E .
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL LBEAL
+set_id:
+  273fcbc1-080e-95b8-e063-6394a90a340d
+id:
+  3641e8ae-573d-4332-e063-6294a90ab89e
+effective_time:
+  20250529
+version:
+  2
+openfda:

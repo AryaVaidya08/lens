@@ -1,0 +1,115 @@
+spl_product_data_elements:
+  Androtox Echinacea (Angustifolia), Hydrocotyle Asiatica, Sabal Serrulata, Tabebuia Impetiginosa, Thuja Occidentalis, Astragalus Membranaceus, Glandula Suprarenalis Suis, Lymph Node (Suis), Zincum Gluconicum, Juniperus Virginiana, Mercurius Solubilis, Natrum Sulphuricum, Orchitinum (Suis), Prostate (Suis), Pulsatilla (Pratensis), Rhododendron Chrysanthum, Spongia Tosta, Calcarea Sulphurica, Lycopodium Clavatum, Phosphorus, Botulinum, Escherichia Coli, Proteus (Vulgaris), Pseudomonas Aeruginosa, Salmonella TyphiNosode ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA WHOLE CENTELLA ASIATICA WHOLE CENTELLA ASIATICA WHOLE SAW PALMETTO SAW PALMETTO TABEBUIA IMPETIGINOSA BARK HANDROANTHUS IMPETIGINOSUS BARK THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG ASTRAGALUS PROPINQUUS ROOT ASTRAGALUS PROPINQUUS ROOT SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND SUS SCROFA LYMPH SUS SCROFA LYMPH ZINC GLUCONATE ZINC CATION JUNIPERUS VIRGINIANA TWIG JUNIPERUS VIRGINIANA TWIG MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS SODIUM SULFATE SODIUM SULFATE ANHYDROUS SUS SCROFA TESTICLE SUS SCROFA TESTICLE SUS SCROFA PROSTATE SUS SCROFA PROSTATE PULSATILLA PRATENSIS WHOLE PULSATILLA PRATENSIS WHOLE RHODODENDRON AUREUM LEAF RHODODENDRON AUREUM LEAF SPONGIA OFFICINALIS SKELETON, ROASTED SPONGIA OFFICINALIS SKELETON, ROASTED CALCIUM SULFATE ANHYDROUS CALCIUM CATION LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE PHOSPHORUS PHOSPHORUS BOTULINUM TOXIN TYPE A BOTULINUM TOXIN TYPE A ESCHERICHIA COLI ESCHERICHIA COLI PROTEUS VULGARIS PROTEUS VULGARIS PSEUDOMONAS AERUGINOSA PSEUDOMONAS AERUGINOSA PROTEUS MORGANII PROTEUS MORGANII SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHI SALMONELLA ENTERICA ENTERICA SEROVAR TYPHI WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Echinacea 3X, Hydrocotyle Asiatica 3X, Sabal Serrulata 3X, Tabebuia Impetiginosa 3X, Thuja Occidentalis 3X, Astragalus Membranaceus 6X, Glandula Suprarenalis Suis 6X, Lymph Node 6X, Zincum Gluconicum 6X, Juniperus Virginiana 8X, Mercurius Solubilis 12X, Natrum Sulphuricum 12X, Orchitinum 12X, Prostate 12X, Pulsatilla 12X, Rhododendron Chrysanthum 12X, Spongia Tosta 12X, Calcarea Sulphurica 30X, Lycopodium Clavatum 30X, Phosphorus 30X, Botulinum 30X, 60X, Colibacillinum Cum Natrum Muriaticum 30X, 60X, Proteus (Morgani) 30X, 60X, Proteus (Vulgaris) 30x, 60X, Pseudomonas Aeruginosa 30X, 60X, Salmonella Typhi Nosode 33X, 60X.
+purpose:
+  INDICATIONS: For temporary relief of pain of the lower abdomen, yellow discharge from the urethra; urine passing slowly only in drops and painful urethral orifice after micturition.
+warnings:
+  WARNINGS: If pregnant or breast-feeding , ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 10 drops orally, 3 times a day. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: For temporary relief of pain of the lower abdomen, yellow discharge from the urethra; urine passing slowly only in drops and painful urethral orifice after micturition.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+questions:
+  QUESTIONS: Distributed by: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935 bioactivenutritional.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: BIO Active Nutritional ANDROTOX HOMEOPATHIC 1 FL OZ (30 ml) Androtox
+set_id:
+  d3f89e4d-c3a0-4481-bf0e-0413993a8bc5
+id:
+  7517aa39-3fcc-4b14-836f-29c04c6de480
+effective_time:
+  20230803
+version:
+  2
+openfda:
+  brand_name:
+    Androtox
+  generic_name:
+    ECHINACEA (ANGUSTIFOLIA), HYDROCOTYLE ASIATICA, SABAL SERRULATA, TABEBUIA IMPETIGINOSA, THUJA OCCIDENTALIS, ASTRAGALUS MEMBRANACEUS, GLANDULA SUPRARENALIS SUIS, LYMPH NODE (SUIS), ZINCUM GLUCONICUM, JUNIPERUS VIRGINIANA, MERCURIUS SOLUBILIS, NATRUM SULPHURICUM, ORCHITINUM (SUIS), PROSTATE (SUIS), PULSATILLA (PRATENSIS), RHODODENDRON CHRYSANTHUM, SPONGIA TOSTA, CALCAREA SULPHURICA, LYCOPODIUM CLAVATUM, PHOSPHORUS, BOTULINUM, ESCHERICHIA COLI, PROTEUS (VULGARIS), PSEUDOMONAS AERUGINOSA, SALMONELLA TYPHINOSODE
+  manufacturer_name:
+    BioActive Nutritional, Inc.
+  product_ndc:
+    43857-0523
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ECHINACEA ANGUSTIFOLIA WHOLE
+    CENTELLA ASIATICA WHOLE
+    SAW PALMETTO
+    TABEBUIA IMPETIGINOSA BARK
+    THUJA OCCIDENTALIS LEAFY TWIG
+    ASTRAGALUS PROPINQUUS ROOT
+    SUS SCROFA ADRENAL GLAND
+    SUS SCROFA LYMPH
+    ZINC GLUCONATE
+    JUNIPERUS VIRGINIANA TWIG
+    MERCURIUS SOLUBILIS
+    SODIUM SULFATE
+    SUS SCROFA TESTICLE
+    SUS SCROFA PROSTATE
+    PULSATILLA PRATENSIS WHOLE
+    RHODODENDRON AUREUM LEAF
+    SPONGIA OFFICINALIS SKELETON, ROASTED
+    CALCIUM SULFATE ANHYDROUS
+    LYCOPODIUM CLAVATUM SPORE
+    PHOSPHORUS
+    BOTULINUM TOXIN TYPE A
+    ESCHERICHIA COLI
+    PROTEUS VULGARIS
+    PSEUDOMONAS AERUGINOSA
+    PROTEUS MORGANII
+    SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR TYPHI
+  spl_id:
+    7517aa39-3fcc-4b14-836f-29c04c6de480
+  spl_set_id:
+    d3f89e4d-c3a0-4481-bf0e-0413993a8bc5
+  package_ndc:
+    43857-0523-1
+  is_original_packager:
+    True
+  nui:
+    N0000175771
+    N0000193962
+    N0000175731
+    N0000175770
+  pharm_class_epc:
+    Acetylcholine Release Inhibitor [EPC]
+    Neuromuscular Blocker [EPC]
+  pharm_class_pe:
+    Neuromuscular Blockade [PE]
+  pharm_class_moa:
+    Acetylcholine Release Inhibitors [MoA]
+  unii:
+    VB06AV5US8
+    7M867G6T1U
+    J7WWH9M8QS
+    6GLA1946WX
+    1NT28V9397
+    922OP8YUPF
+    398IYQ16YV
+    33A7VYU29L
+    U6WSN5SQ1Z
+    532BCG080L
+    324Y4038G2
+    0YPR65R21J
+    KM02613O28
+    O6UD3347K2
+    8E272251DI
+    IV92NQJ73U
+    1PIP394IID
+    E934B3V59H
+    C88X29Y479
+    27YLU75U4W
+    E211KPY694
+    514B9K0L10
+    11T9HCO30O
+    Y793W5V55N
+    56X6LID5ZY
+    760T5R8B3O

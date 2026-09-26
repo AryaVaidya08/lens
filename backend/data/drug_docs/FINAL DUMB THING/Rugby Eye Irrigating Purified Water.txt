@@ -1,0 +1,36 @@
+effective_time:
+  20180123
+inactive_ingredient:
+  Inactive ingredients boric acid, edetate disodium, sodium borate, sodium chloride, sodium hydroxide and sorbic acid
+purpose:
+  Uses washes the eye to help relieve - irritation - stinging - itching by removing - loose foreign material - air pollutants (smog or pollen) - chlorinated water
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swalloed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if solution changes color or becomes cloudy
+when_using:
+  When using this product - remove contact lenses before using - do not touch tip of container to any surface to avoid contamination - replace cap after use
+  When using an eye cup - rinse the cup with clean water immediately before each use - avoid contamination of the rim and inside surfaces of the cup - fill the cup half full and apply the cup to the affected eye(s), pressing tightly to prevent the escape of the liquid - tilt the head backward. Open eyelids wide and rotate eyeball to ensure thorough bathing with the wash or lotion - rinse the cup with clean water after each use
+spl_product_data_elements:
+  Rugby Eye Irrigating Purified Water WATER WATER BORIC ACID EDETATE DISODIUM SODIUM BORATE SODIUM CHLORIDE SODIUM HYDROXIDE SORBIC ACID
+ask_doctor:
+  - you experience eye pain, changes in vision, continued redness or irritation of the eye - condition worsens or persists - you have open wounds in or near the eye
+openfda:
+version:
+  4
+dosage_and_administration:
+  Distributed by: Rugby Laboratories 31778 Enterprise Drive Livonia, MI 48150 www.rugbylaboratories.com © Rugby Laboratories Made in Korea
+storage_and_handling:
+  Other Information - store at 15° - 25°C (59° - 77°F) - keep tightly closed
+how_supplied:
+  HOW SUPPLIED Product: 50090-2442 NDC: 50090-2442-0 118 mL in a BOTTLE
+package_label_principal_display_panel:
+  Purified Water Label Image
+indications_and_usage:
+  Directions - flush the affected eye(s) as needed - control the rate of flow of solution by placing pressure on the bottle
+set_id:
+  eb195e75-919f-4986-aac7-bdbfc9f9ba3c
+id:
+  939e1875-9a7b-480e-9204-df02d4c85f10
+active_ingredient:
+  Active ingredient Purpose Purified water (99.05%).................................Eyewash

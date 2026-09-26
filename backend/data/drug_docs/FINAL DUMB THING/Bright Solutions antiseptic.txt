@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Bright Solutions antiseptic PCMX, Hand Soap SODIUM CHLORIDE BRONOPOL COCAMIDOPROPYL HYDROXYSULTAINE SODIUM CITRATE HEXAMETHYLINDANOPYRAN PROPANEDIOL VANILLIN ALLYL HEXANOATE SODIUM C14-16 OLEFIN SULFONATE CHLOROXYLENOL CHLOROXYLENOL PROPYLENE GLYCOL .GAMMA.-NONALACTONE ALLYL AMYL GLYCOLATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE WATER GLYCOL DISTEARATE DIBROMOCYANOACETAMIDE SODIUM LAURYL SULFATE ETHYL CAPROATE Melon odor
+active_ingredient:
+  Active Ingredient Chloroxylenol 0.1%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses • Handwash to help decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Do not use in the eyes. In case of contact, immediately flush eyes with water.
+ask_doctor:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Apply a small amount of product to wet hands, work into lather for 30 seconds, and rinse thoroughly. • Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  Inactive Ingredients Aqua (7732-18-5), Sodium Lauryl Sulfate (68585-47-7), Cocamidopropyl Hydroxysultaine (68139-30-0), Sodium Chloride (7647-14-5), Propanediol (26264-14-2), Propylene Glycol (57-55-6), Sodium C14-16 Olefin Sulfonate (68439-57-6), Glycol Distearate (627-83-8), Fragrance (Proprietary), Sodium Citrate (6132-04-3), Dibromocyanoacetamide (10222-01-2), Methylisothiazolinone (2682-20-4), Methylchloroisothiazolinone (26172-55-4), 2-Bromo-2-Nitropropane-1,3-Diol (52-51-7).
+package_label_principal_display_panel:
+  Principal Display Panel
+set_id:
+  46cb74a5-defc-34c9-e054-00144ff8d46c
+id:
+  3b00a7ba-e7c4-b45d-e063-6294a90a7fe7
+effective_time:
+  20250728
+version:
+  10
+openfda:

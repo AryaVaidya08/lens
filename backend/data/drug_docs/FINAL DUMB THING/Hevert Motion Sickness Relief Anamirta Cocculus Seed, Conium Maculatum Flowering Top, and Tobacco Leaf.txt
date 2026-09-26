@@ -1,0 +1,42 @@
+effective_time:
+  20190802
+inactive_ingredient:
+  Inactive ingredients lactose, magnesium stearate
+purpose:
+  Active ingredients Purpose "X" indicates a homeopathic dilution. For more information visit: www.hevertusa.com Cocculus indicus 4X Dizziness, nausea, vomiting Conium maculatum 6X Dizziness Tabacum 4X Dizziness, nausea, vomiting
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Stop use and ask a doctor if symptoms persist or worsen. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? 1-855-387-6466
+spl_product_data_elements:
+  Hevert Motion Sickness Relief Anamirta Cocculus Seed, Conium Maculatum Flowering Top, and Tobacco Leaf ANAMIRTA COCCULUS SEED ANAMIRTA COCCULUS SEED CONIUM MACULATUM FLOWERING TOP CONIUM MACULATUM FLOWERING TOP TOBACCO LEAF TOBACCO LEAF LACTOSE MONOHYDRATE MAGNESIUM STEARATE H
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Adults and children over 12 years of age: Dissolve 2 tablets in mouth 3 times daily. In acute cases, dissolve 2 tablets in mouth 6 times daily. Children 6 to 12 years of age: Dissolve 1 tablet in mouth 3 times daily. In acute cases, dissolve 1 tablet in mouth 6 times daily.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Hevert Pharmaceuticals, LLC Boulder, CO 80303
+stop_use:
+  Stop use and ask a doctor if symptoms persist or worsen.
+storage_and_handling:
+  Other Information Store at 68 to 77 °F. Tamper Evident: Do not use if blister seal is broken. To report serious adverse events, call 1-855-387-6466.
+active_ingredient_table:
+  <table width="60%"> <col align="left" valign="top" width="50%"/> <col align="right" valign="middle" width="50%"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" colspan="2"> <content styleCode="italics">&quot;X&quot; indicates a homeopathic dilution. For more information visit: www.hevertusa.com</content> </td> </tr> </tfoot> <tbody> <tr> <td>Cocculus indicus 4X</td> <td> <content styleCode="italics">Dizziness, nausea, vomiting</content> </td> </tr> <tr> <td>Conium maculatum 6X</td> <td> <content styleCode="italics">Dizziness</content> </td> </tr> <tr> <td>Tabacum 4X</td> <td> <content styleCode="italics">Dizziness, nausea, vomiting</content> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 100 Tablet Blister Pack Carton NDC 54532-0013-4 HEVERT ® MOTION SICKNESS RELIEF Homeopathic Medicine Relieves symptoms of motion sickness Quick dissolving tablets Made in Germany 100 Tablets hEVERT PRINCIPAL DISPLAY PANEL - 100 Tablet Blister Pack Carton
+indications_and_usage:
+  Uses For prevention and temporary relief of symptoms of motion sickness, such as: nausea vomiting dizziness Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+set_id:
+  164bd81b-6f6e-4349-af44-98eac7403f79
+id:
+  78bbc61b-9c40-4a8c-bae7-ce718d97386b
+purpose_table:
+  <table width="60%"> <col align="left" valign="top" width="50%"/> <col align="right" valign="middle" width="50%"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tfoot> <tr> <td align="left" colspan="2"> <content styleCode="italics">&quot;X&quot; indicates a homeopathic dilution. For more information visit: www.hevertusa.com</content> </td> </tr> </tfoot> <tbody> <tr> <td>Cocculus indicus 4X</td> <td> <content styleCode="italics">Dizziness, nausea, vomiting</content> </td> </tr> <tr> <td>Conium maculatum 6X</td> <td> <content styleCode="italics">Dizziness</content> </td> </tr> <tr> <td>Tabacum 4X</td> <td> <content styleCode="italics">Dizziness, nausea, vomiting</content> </td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose "X" indicates a homeopathic dilution. For more information visit: www.hevertusa.com Cocculus indicus 4X Dizziness, nausea, vomiting Conium maculatum 6X Dizziness Tabacum 4X Dizziness, nausea, vomiting

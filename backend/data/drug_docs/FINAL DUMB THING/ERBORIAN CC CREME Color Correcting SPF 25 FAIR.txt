@@ -1,0 +1,76 @@
+spl_product_data_elements:
+  ERBORIAN CC CREME Color Correcting SPF 25 FAIR OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE, ZINC OXIDE CENTELLA ASIATICA TRITERPENOIDS TALC PHENOXYETHANOL ETHYLHEXYLGLYCERIN TRIHYDROXYSTEARIN BUTYLENE GLYCOL MICA ALUMINUM HYDROXIDE PALMITIC ACID STEARIC ACID SILICA DIMETHYL SILYLATE .ALPHA.-TOCOPHEROL ACETATE TOCOPHEROL .ALPHA.-HEXYLCINNAMALDEHYDE ISOMETHYL-.ALPHA.-IONONE LINALOOL, (+/-)- CITRONELLOL GERANIOL EUGENOL LIMONENE, (+)- FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE OCTINOXATE ETHYLHEXYL METHOXYCINNAMATE OCTISALATE ETHYLHEXYL SALICYLATE TITANIUM DIOXIDE CI 77891 ZINC OXIDE ZINC CATION WATER CYCLOMETHICONE DIPROPYLENE GLYCOL GLYCERIN METHYL TRIMETHICONE C12-15 ALKYL BENZOATE DIMETHICONE DISTEARDIMONIUM HECTORITE MAGNESIUM SULFATE VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER
+spl_unclassified_section:
+  Drug Facts
+  Other information Protect the product in this container from excessive heat and direct sun
+active_ingredient:
+  Active ingredients Octinoxate 6.00% Octisalate 2.00% Titanium dioxide 1.56% Zinc oxide 1.92% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions For sunscreen use: Apply liberally 15 minutes before sun exposure Reapply at least every 2 hours Use a water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. –2 p.m. Wear long-sleeved shirts, pants, hats and sunglasses Children under 6 months of age: ask a doctor
+inactive_ingredient:
+  Inactive ingredients AQUA/WATER - CYCLOMETHICONE - DIPROPYLENE GLYCOL - GLYCERIN - PEG-10 DIMETHICONE - METHYL TRIMETHICONE - TITANIUM DIOXIDE - C12-15 ALKYL BENZOATE - DIMETHICONE - DISTEARDIMONIUM HECTORITE - MAGNESIUM SULFATE - VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER - CENTELLA ASIATICA EXTRACT - MEL/HONEY EXTRACT - TALC - DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER - PHENOXYETHANOL - ETHYLHEXYLGLYCERIN - TRIHYDROXYSTEARIN - BUTYLENE GLYCOL - MICA - ALUMINUM HYDROXIDE - PALMITIC ACID - STEARIC ACID - POLYESTER-1 - SILICA DIMETHYL SILYLATE - TOCOPHERYL ACETATE - METHICONE - TOCOPHEROL - PARFUM/FRAGRANCE - HEXYL CINNAMAL - ALPHA-ISOMETHYL IONONE - LINALOOL - CITRONELLOL - GERANIOL - EUGENOL - LIMONENE - CI 77492/IRON OXIDES - CI 77491/IRON OXIDES - CI 77499/IRON OXIDES
+questions:
+  Questions or comments? Call toll free 1-866-464-3358
+package_label_principal_display_panel:
+  Package Labeling: 5 mL Label
+  Package Labeling: 15 mL Label2
+  Package Labeling: 45 mL Label3
+set_id:
+  4443d4e6-bdc9-4547-9189-e94e9e0bdd2d
+id:
+  3c151cd8-d00e-35b6-e063-6294a90a9013
+effective_time:
+  20250812
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    ERBORIAN CC CREME Color Correcting SPF 25 FAIR
+  generic_name:
+    OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    LABORATOIRES M&L
+  product_ndc:
+    10345-950
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTINOXATE
+    OCTISALATE
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    3c151cd8-d00e-35b6-e063-6294a90a9013
+  spl_set_id:
+    4443d4e6-bdc9-4547-9189-e94e9e0bdd2d
+  package_ndc:
+    10345-950-05
+    10345-950-15
+    10345-950-45
+  is_original_packager:
+    True
+  upc:
+    8809255789300
+  unii:
+    4Y5P7MUD51
+    4X49Y0596W
+    15FIX9V2JP
+    SOI2LOH54Z

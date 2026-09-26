@@ -1,0 +1,35 @@
+effective_time:
+  20191209
+inactive_ingredient:
+  Inactive ingredients carnauba wax, colloidal silicon dioxide, croscarmellose sodium, D&C yellow #10 aluminum lake, dibasic calcium phosphate dihydrate, FD&C yellow #6 aluminum lake, hypromellose, magnesium stearate, microcrystaline cellulose, polyethylene glycol, sodium benzoate, stearic acid, titanium dioxide
+purpose:
+  Purpose Stool Softener Stimulant Laxative
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use • if you are taking mineral oil • for longer than one week • when abdominal pain, nausea or vomiting are present Ask a doctor before use if you have a sudden change in bowel habits that lasts over two weeks Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work. Stop use and ask a doctor if • you have rectal bleeding • you fail to have a bowel movement after use of this product. These may indicate a serious condition. If pregnant or breast-feeding , ask a health professional before use.
+questions:
+  Questions or comments? (800) 616-2471
+spl_product_data_elements:
+  Senna Plus standardized senna concentrate and docusate sodium SENNOSIDES A AND B SENNOSIDES A AND B DOCUSATE SODIUM DOCUSATE CROSCARMELLOSE SODIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 HYPROMELLOSE, UNSPECIFIED MAGNESIUM ALUMINUM SILICATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE MINERAL OIL AMMONIUM LAURETH-5 SULFATE SODIUM BENZOATE SODIUM LAURYL SULFATE STARCH, CORN STEARIC ACID TITANIUM DIOXIDE TCL081
+other_safety_information:
+  Other Information • each tablet contains : calcium 20 mg, sodium 6 mg (LOW SODIUM) • store at 20º - 25ºC (68º - 77ºF)
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • Take preferably at bedtime or as directed by a doctor • if you do not have a comfortable bowel movement by the second day, increase dose by one tablet (do not exceed maximum dosage) age starting dose maximum dose adults and children 12 years & over 2 tablets once daily 4 tablets twice daily children 6 to under 12 years 1 tablet once daily 2 tablets twice daily children 2 to under 6 years 1/2 tablet once daily 1 tablet twice daily children under 2 years ask a doctor ask a doctor
+spl_unclassified_section:
+  Distributed by Distributed by MAJOR® PHARMACEUTICALS 31778 Enterprise Drive Livonia, MI 48150 USA Packaged by Legacy Pharmaceutical Packaging, LLC Earth City, MO 63045 Rev. 06/13
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL SENNA PLUS TABLETS, 8.6/50 MG Senna Plus Tablets 8.6/50 mg
+indications_and_usage:
+  Uses • relieves occasional constipation generally produces a bowel movement within 6-12 hours
+set_id:
+  bb68e1ad-b163-4193-bfe8-2a1455b83d9e
+id:
+  52362b20-3280-409f-a182-f10ab17381fc
+active_ingredient:
+  Active ingredient Drug Facts Active Ingredient (in each tablet) Docusate sodium 50 mg Sennosides 8.6 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="16%"/> <col width="11%"/> <col width="13%"/> <tbody> <tr> <td styleCode="Rrule Botrule Toprule " valign="top"> <paragraph> <content styleCode="bold">age</content> </paragraph> </td> <td styleCode="Rrule Botrule Toprule " valign="top"> <paragraph> <content styleCode="bold">starting dose</content> </paragraph> </td> <td styleCode="Botrule Toprule " valign="top"> <paragraph> <content styleCode="bold">maximum dose</content> </paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule " valign="top"> <paragraph> adults and children 12 years &amp; over</paragraph> </td> <td styleCode="Rrule Botrule " valign="top"> <paragraph> 2 tablets once daily</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph> 4 tablets twice daily</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule " valign="top"> <paragraph> children 6 to under 12 years</paragraph> </td> <td styleCode="Rrule Botrule " valign="top"> <paragraph> 1 tablet once daily</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph> 2 tablets twice daily</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule " valign="top"> <paragraph> children 2 to under 6 years</paragraph> </td> <td styleCode="Rrule Botrule " valign="top"> <paragraph> 1/2 tablet once daily</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph> 1 tablet twice daily</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule " valign="top"> <paragraph> children under 2 years</paragraph> </td> <td styleCode="Rrule Botrule " valign="top"> <paragraph> ask a doctor</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph> ask a doctor</paragraph> </td> </tr> </tbody> </table>

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Natrum muriaticum SODIUM CHLORIDE SUCROSE LACTOSE SODIUM CHLORIDE CHLORIDE ION white
+active_ingredient:
+  ACTIVE INGREDIENTS NAT MUR
+purpose:
+  USES To relieve the symptoms of sneezing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: NAT MUR Sneezing
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of PRODUCT NAME is ?x–30x, ?c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Natmur2023
+set_id:
+  8b5a60e0-a57a-4406-be31-31f47d9c034f
+id:
+  0813ba80-f216-494e-e063-6394a90a0e7d
+effective_time:
+  20231019
+version:
+  3
+openfda:

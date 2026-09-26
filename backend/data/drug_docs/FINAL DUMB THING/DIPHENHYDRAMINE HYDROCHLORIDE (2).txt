@@ -1,0 +1,89 @@
+spl_product_data_elements:
+  DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE HYDROCHLORIDE CARNAUBA WAX SILICON DIOXIDE CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL POLYSORBATE 80 TITANIUM DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE help
+active_ingredient:
+  Active Ingredient (in each caplet) Diphenhydramine Hcl 25 mg
+active_ingredient_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Active Ingredient</paragraph> <paragraph>(in each caplet)</paragraph> <paragraph>Diphenhydramine Hcl 25 mg</paragraph> </td> </tr> </tbody> </table>
+ask_doctor:
+  Ask a doctor before use if you have glaucoma; trouble urinating due to an enlarged prostate gland; a breathing problem such as emphysema or chronic bronchitis
+ask_doctor_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Ask a doctor before use if you have</paragraph> <paragraph>glaucoma;</paragraph> <paragraph>trouble urinating due to an enlarged prostate gland;</paragraph> <paragraph>a breathing problem such as emphysema or chronic bronchitis</paragraph> </td> </tr> </tbody> </table>
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+ask_doctor_or_pharmacist_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.</td> </tr> </tbody> </table>
+do_not_use:
+  Do not use to make a child sleepy; with any other product containing diphenhydramine, even one used on skin.
+do_not_use_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Do not use   </paragraph> <paragraph>to make a child sleepy; with any other product containing diphenhydramine, even one used on skin.</paragraph> </td> </tr> </tbody> </table>
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.</td> </tr> </tbody> </table>
+warnings:
+  Warnings Do not use to make a child sleepy; Do not use with any other product containing diphenhydramine even one used on skin.
+warnings_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph> Warnings</paragraph> <paragraph>Do not use to make a child sleepy; Do not use with any other product containing diphenhydramine even one used on skin.   </paragraph> <paragraph/> </td> </tr> </tbody> </table>
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+pregnancy_or_breast_feeding_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>If pregnant or breast-feeding ask a health professional before use.</td> </tr> </tbody> </table>
+purpose:
+  Uses: temporarily relieves these symptoms due to hay fever or other upper respiratory allergies runny nose; itchy water eyes sneezing;itchy nose or throat Temporarily relieves these symptoms due to the common cold: runny nose; sneezing
+purpose_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Uses: temporarily relieves these symptoms due to hay fever or other upper respiratory allergies</paragraph> <paragraph>runny nose; itchy water eyes sneezing;itchy nose or throat</paragraph> <paragraph>Temporarily relieves these symptoms due to the common cold: runny nose; sneezing</paragraph> </td> </tr> </tbody> </table>
+when_using:
+  When using this product Avoid alcoholic drinks marked drowsiness may occur Alcohol, sedatives, and tranquilizers may increase drowsiness Excitability may occur, especially in children Be careful when driving a motor vehicle or operating machinery
+when_using_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>When using this product</paragraph> <paragraph>Avoid alcoholic drinks</paragraph> <paragraph>marked drowsiness may occur</paragraph> <paragraph>Alcohol, sedatives, and tranquilizers may increase drowsiness</paragraph> <paragraph>Excitability may occur, especially in children</paragraph> <paragraph>Be careful when driving a motor vehicle or operating machinery</paragraph> </td> </tr> </tbody> </table>
+dosage_and_administration:
+  Directions: Take every 4 to 6 hours Do not take more than 6 doses in 24 hours Adults and children 12 years of age and over - 1 to 2 caplets Children 6 to under 12 years of age - 1 caplet Children under 6 years of age - Do not use this product in children under 6 years of age
+dosage_and_administration_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Directions:</paragraph> <paragraph>Take every 4 to 6 hours</paragraph> <paragraph>Do not take more than 6 doses in 24 hours</paragraph> <paragraph>Adults and children 12 years of age and over - 1 to 2 caplets</paragraph> <paragraph>Children 6 to under 12 years of age - 1 caplet</paragraph> <paragraph>Children under 6 years of age - Do not use this product in children under 6 years of age</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Carnauba Wax, Colloidal Silicon Dioxide, Croscarmellose Sodium, Dibasic Calcium Phosphate Dihydrate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide
+inactive_ingredient_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>Carnauba Wax, Colloidal Silicon Dioxide, Croscarmellose Sodium, Dibasic Calcium Phosphate Dihydrate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Polysorbate 80, Titanium Dioxide</td> </tr> </tbody> </table>
+indications_and_usage:
+  Uses: Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies; runny nose, itchy watery eyes; sneezing; itchy nose or throat Temporarily relieves these symptoms due to the common cold: runny nose; sneezing
+indications_and_usage_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Uses: Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies; runny nose, itchy watery eyes; sneezing; itchy nose or throat</paragraph> <paragraph>Temporarily relieves these symptoms due to the common cold: runny nose; sneezing</paragraph> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  Enter section text here BULK LABEL IMAGE
+set_id:
+  ed899055-0cbb-45bd-92c8-cbef2fc7c361
+id:
+  7d3b9a35-9e04-4289-e053-2a91aa0a5042
+effective_time:
+  20181217
+version:
+  2
+openfda:
+  application_number:
+    part341
+  brand_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  generic_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  manufacturer_name:
+    Time-Cap Labs, Inc
+  product_ndc:
+    49483-329
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1049630
+  spl_id:
+    7d3b9a35-9e04-4289-e053-2a91aa0a5042
+  spl_set_id:
+    ed899055-0cbb-45bd-92c8-cbef2fc7c361
+  package_ndc:
+    49483-329-00
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40

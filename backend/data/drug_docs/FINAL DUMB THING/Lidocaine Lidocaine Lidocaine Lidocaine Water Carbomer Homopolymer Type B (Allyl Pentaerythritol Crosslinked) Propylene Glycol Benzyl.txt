@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Lidocaine Lidocaine Lidocaine Lidocaine Water Carbomer Homopolymer Type B (Allyl Pentaerythritol Crosslinked) Propylene Glycol Benzyl Alcohol .Alpha.-Tocopherol Acetate Egg Phospholipids
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Alvogen, Inc. Pine Brook, NJ 07058 USA Toll Free: 1-866-770-3024 Rev. 01/2019
+active_ingredient:
+  Active ingredient Lidocaine 5% w/w
+purpose:
+  Purpose Local anesthetic
+indications_and_usage:
+  Uses Helps relieve pain, itching and burning associated with hemorrhoids and other anorectal disorders.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes do not exceed recommended dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if rectal bleeding occurs condition worsens or does not improve within 7 days allergic reaction occurs symptom being treated does not subside or if redness, irritation, swelling, pain or other symptoms develop or increase symptoms clear up and return within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes do not exceed recommended dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if rectal bleeding occurs condition worsens or does not improve within 7 days allergic reaction occurs symptom being treated does not subside or if redness, irritation, swelling, pain or other symptoms develop or increase symptoms clear up and return within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions When practical, cleanse the affected area with mild soap and warm water and rinse thoroughly. Gently dry by patting or blotting with toilet tissue or soft cloth before applying. Adults and children 12 years and older: apply externally to the affected area up to 6 times a day. Children under 12 years of age: consult a doctor.
+storage_and_handling:
+  Other information Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F). See USP Controlled Room Temperature.
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, carbomer, lecithin, propylene glycol, purified water, vitamin E acetate.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 g Tube Carton NDC 47781-571-73 Lidocaine 5% Anorectal Cream NET WT. 30 grams Principal Display Panel - 30 g Tube Carton
+set_id:
+  d14e4c64-aced-4db2-ecac-b93940a3030d
+id:
+  f8dc0c2b-b158-9cf6-ebae-63b353e61585
+effective_time:
+  20210325
+version:
+  3
+openfda:

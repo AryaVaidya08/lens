@@ -1,0 +1,45 @@
+effective_time:
+  20181218
+purpose:
+  Purpose Anti-diarrheal
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product • tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery.
+questions:
+  Questions or comments? 1-888-309-9030
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information • each 30 mL (6 tsp) contains: sodium 15 mg • store between 20-25°C (68-77°F) • see side panel for lot number and expiration date
+indications_and_usage:
+  Use controls symptoms of diarrhea, including Travelers’ Diarrhea
+set_id:
+  bd8c0b27-ecd9-462a-8cff-4505069d459b
+id:
+  5cfbae67-942a-41d1-b8d5-b13c70de173d
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking antibiotics
+active_ingredient:
+  Active ingredient (in each 7.5 mL) Loperamide HCl 1 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="28%"/> <col width="72%"/> <tbody> <tr> <td styleCode="Rrule Botrule Toprule " valign="top"> <paragraph>adults and children</paragraph> <paragraph>12 years and over</paragraph> </td> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>30 mL (6 tsp) after the first loose stool; 15 mL (3 tsp) after each subsequent loose stool; but no more than 60 mL (12 tsp) in 24 hours</paragraph> </td> </tr> <tr> <td styleCode="Rrule Toprule Botrule " valign="top"> <paragraph>children 9-11 years</paragraph> <paragraph>(60-95 lbs)</paragraph> </td> <td styleCode="Lrule Toprule Botrule " valign="top"> <paragraph>15 mL (3 tsp) after the first loose stool; 7.5 mL (1 1/2 tsp) after each subsequent loose stool; but no more than 45 mL (9 tsp) in 24 hours</paragraph> </td> </tr> <tr> <td styleCode="Rrule Toprule Botrule " valign="top"> <paragraph>children 6-8 years</paragraph> <paragraph>(48-59 lbs)</paragraph> </td> <td styleCode="Lrule Toprule Botrule " valign="top"> <paragraph>15 mL (3 tsp) after the first loose stool; 7.5 mL (1 1/2 tsp) after each subsequent loose stool; but no more than 30 mL (6 tsp) in 24 hours</paragraph> </td> </tr> <tr> <td styleCode="Rrule Toprule " valign="top"> <paragraph>children under </paragraph> <paragraph>6 years</paragraph> <paragraph>(up to 47 lbs)</paragraph> </td> <td styleCode="Lrule Toprule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, carboxymethylcellulose sodium, D&C yellow no. 10, FD&C blue no. 1, glycerin, microcrystalline cellulose, natural and artificial mint flavor, propylene glycol, purified water, simethicone, sodium benzoate, sucralose, titanium dioxide, xanthan gum
+warnings:
+  Warnings Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Do not use if you have bloody or black stool Ask a doctor before use if you have • fever • mucus in the stool • a history of liver disease Ask a doctor or pharmacist before use if you are taking antibiotics When using this product • tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  dg health anti diarrheal loperamide HCl LOPERAMIDE HYDROCHLORIDE LOPERAMIDE ANHYDROUS CITRIC ACID CARBOXYMETHYLCELLULOSE SODIUM D&C YELLOW NO. 10 FD&C BLUE NO. 1 GLYCERIN CELLULOSE, MICROCRYSTALLINE PROPYLENE GLYCOL WATER SODIUM BENZOATE SUCRALOSE TITANIUM DIOXIDE XANTHAN GUM opaque, viscous
+ask_doctor:
+  Ask a doctor before use if you have • fever • mucus in the stool • a history of liver disease
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • drink plenty of clear fluids to help prevent dehydration caused by diarrhea • find right dose on chart. If possible, use weight to dose; otherwise use age. • shake well before using • only use attached measuring cup to dose product adults and children 12 years and over 30 mL (6 tsp) after the first loose stool; 15 mL (3 tsp) after each subsequent loose stool; but no more than 60 mL (12 tsp) in 24 hours children 9-11 years (60-95 lbs) 15 mL (3 tsp) after the first loose stool; 7.5 mL (1 1/2 tsp) after each subsequent loose stool; but no more than 45 mL (9 tsp) in 24 hours children 6-8 years (48-59 lbs) 15 mL (3 tsp) after the first loose stool; 7.5 mL (1 1/2 tsp) after each subsequent loose stool; but no more than 30 mL (6 tsp) in 24 hours children under 6 years (up to 47 lbs) ask a doctor
+stop_use:
+  Stop use and ask a doctor if • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition.
+do_not_use:
+  Do not use if you have bloody or black stool
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Compare to active ingredient of Imodium® A-D Loperamide Hydrochloride Oral Suspension Anti-Diarrheal Controls the Symptoms of Diarrhea Mint Flavor 1 mg Loperamide Hydrochloride per 7.5 mL 4 FL OZ (118mL) DG Health Anti-Diarrheal Image 1 DG Health Anti-Diarrheal Image 2 DG Health Anti-Diarrheal Image 3

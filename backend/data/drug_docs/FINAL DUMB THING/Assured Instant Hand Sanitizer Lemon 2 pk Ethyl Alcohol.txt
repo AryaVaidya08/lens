@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Assured Instant Hand Sanitizer Lemon 2 pk Ethyl Alcohol ALCOHOL ALCOHOL FD&C YELLOW NO. 5 TROLAMINE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE WATER CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED)
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70.0%
+purpose:
+  Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product
+indications_and_usage:
+  Use: for handwashing to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings: For external use only. Flammable. Keep away from heat and flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+inactive_ingredient:
+  Inactive Ingredients: water, carbomer, triethanolamine, glycerin, propylene glycol, fragrance, tocopheryl acetate (Vitamin E), fd&c yellow no. 5.
+package_label_principal_display_panel:
+  box label
+set_id:
+  7be336b5-3baf-4006-e053-2991aa0aa71e
+id:
+  7be336b5-3bb0-4006-e053-2991aa0aa71e
+effective_time:
+  20181130
+version:
+  1
+openfda:

@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Achelon Lidocaine Patch Lidocaine Patch 4% LEVULINIC ACID ISOPROPYL PALMITATE POLYETHYLENE GLYCOL 400 ACRYLIC ACID/ETHYLENE COPOLYMER (600 MPA.S) LIDOCAINE LIDOCAINE
+active_ingredient:
+  Active Ingredient Lidocaine 4% Purpose Topical Analgesic
+purpose:
+  Purpose Topical Analgesic
+inactive_ingredient:
+  Inactive Ingredients Propylene Glycol 400 Levulinic Acid Brij L4 LQ Isopropyl palmitate
+indications_and_usage:
+  Use For the temporary relief of pain
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on raw or blistered skin on the eyes if allergic to lidocaine or any ingredients in the patch more than 4 daily with a heating pad
+when_using:
+  When using this product use only as directed do not inject through any patch material
+ask_doctor_or_pharmacist:
+  Stop use and ask a doctor if If you develop a rash or skin irritation
+pregnancy:
+  If pregnant or breastfeeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age or older: Apply the patch to clean, dry skin 60 minutes prior to procedure Immediately prior to procedure, remove the center of the patch, leaving ring in place to outline treated area Follow usual needle procedure steps Remove ring after procedure Children under 2 years of age: Consult a doctor prior to use
+package_label_principal_display_panel:
+  Box and Drug Facts Panel Box of 3 Patches
+set_id:
+  3143bb72-2969-d66e-e063-6294a90a4604
+id:
+  3143c8a1-9d16-9eb6-e063-6394a90ab16b
+effective_time:
+  20250326
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Achelon Lidocaine Patch
+  generic_name:
+    LIDOCAINE PATCH 4%
+  manufacturer_name:
+    Achelon, Inc
+  product_ndc:
+    84209-400
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+  rxcui:
+    1737778
+  spl_id:
+    3143c8a1-9d16-9eb6-e063-6394a90ab16b
+  spl_set_id:
+    3143bb72-2969-d66e-e063-6294a90a4604
+  package_ndc:
+    84209-400-03
+  is_original_packager:
+    True
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987

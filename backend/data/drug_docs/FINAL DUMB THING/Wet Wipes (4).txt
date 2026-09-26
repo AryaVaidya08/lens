@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Wet Wipes BENZALKONIUM CHLORIDE WATER SODIUM LAURYL SULFATE 2-BROMO-2-NITROETHANOL ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE DISODIUM EDTA-COPPER COPPER TRIETHANOLAMINE GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium chloride 0.1% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use decreases bacteria on skin
+warnings:
+  Warnings For external use only. Do not use over large areas of the body if you are allergic to any of the ingredients when using this product,avoid contact with eyes and face. If contact occurs,flush thoroughly with water. Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours. Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact aPoisonControlCenter right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact aPoisonControlCenter right away.
+dosage_and_administration:
+  Directions Foradults and children of 2 years and over. children under 2 years ask a doctor before use allow to dry without wiping
+inactive_ingredient:
+  water,sodium lauryl sulfate,fragrance,2-bromo-2-nitropropane-1,3-diol,aloe barbadensis leaf extract,disodium EDTA,trithanolamine ,glycerin,tocopheryl acetate
+package_label_principal_display_panel:
+  1
+set_id:
+  486a175c-9f72-4f66-e054-00144ff8d46c
+id:
+  9c61fea7-0575-e98c-e053-2a95a90a8133
+effective_time:
+  20200117
+version:
+  2
+openfda:

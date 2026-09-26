@@ -1,0 +1,40 @@
+effective_time:
+  20180329
+inactive_ingredient:
+  Inactive ingredient white petrolatum
+purpose:
+  Purpose First aid antibiotic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Allergy alert: do not use if allergic to any of the ingredients Do not use in the eyes over large areas of the body Ask a doctor before use if you have deep or puncture wounds animal bites serious burns When using this product do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if condition persists or gets worse a rash or other allergic reaction develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use longer than 1 week unless directed by a doctor
+questions:
+  Questions? 1-800-432-8534 between 9 am and 4 pm EST, Monday–Friday.
+spl_product_data_elements:
+  TRIPLE ANTIBIOTIC bacitracin zinc neomycin sulfate polymyxin b sulfate BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN POLYMYXIN B SULFATE POLYMYXIN B PETROLATUM
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions clean affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at controlled room temperature 59º-86ºF (15º-30ºC). Protect from freezing. Before using any medication, read all label directions. Keep carton, it contains important information.
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse a rash or other allergic reaction develops
+do_not_use:
+  Do not use in the eyes over large areas of the body
+package_label_principal_display_panel:
+  Principal Display Panel FAMILY wellness TM COMPARE TO THE ACTIVE INGREDIENTS IN NEOSPORIN ® * Triple Antibiotic Ointment First Aid Antibiotic Ointment Bacitracin Zinc • Neomycin Sulfate • Polymyxin B Sulfate NET WT 1 OZ (28 g) For Minor Cuts Scrapes and Burns CARTON LABEL fb447f5f-figure-01 fb447f5f-figure-02
+indications_and_usage:
+  Uses First aid to help prevent infection in minor cuts scrapes burns
+set_id:
+  ffb7da60-622c-4559-a715-bc5685f17273
+id:
+  c6bdc0c4-22ce-4c4f-b2f7-fc4f094a7715
+active_ingredient:
+  Active ingredients (in each gram) Bacitracin zinc, USP 400 units Neomycin sulfate, USP 3.5 mg Polymyxin B sulfate, USP 5,000 units

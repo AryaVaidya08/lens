@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  alcohol wipes alcohol wipes WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient(s) Alcohol 75%
+  Medicinal ingredient Ethyl alcohol (Ethanol) 75% v/v
+purpose:
+  Purpose Antiseptic
+  Recommended use or purpose Antibacterial (skin) cleanser. Effective in destroying (harmful) bacteria to provide antiseptic cleansing. Kills (harmful) bacteria/germs.
+warnings:
+  Warnings Do not use if you are allergic to alcohol, avoid contact with eyes. This product is disposable and cannot be reused. This product contains alcohol, away from sources of ignition, and should only be used outside the skin to avoid contact with the eyes. Do not allow infants to come into contact alone to avoid accidental ingestion. This product is insoluble in water, do no flush into the toilet. Keep out of reach of children. If swallowed, get medical help right away.
+  Cautions and warnings Keep away from open flame and sources of heat. For external use only. Keep out of reach of children. If swallowed, call a poison control centre or get medical help right away. Stop use and ask/consult a doctor/physician/health care practitioner/health care provider/health care professional if irritation develops. When using this product, avoid contact with eyes. If contact occurs, rinse thoroughly with water.
+keep_out_of_reach_of_children:
+  Warnings Keep out of reach of children. If swallowed, get medical help right away.
+  Keep out of reach of children. If swallowed, call a poison control centre or get medical help right away.
+storage_and_handling:
+  Other information Storage Method: Store in a cool place to avoid volatilization. Shelf Life: 2 years
+inactive_ingredient:
+  Inactive ingredient(s) Water
+  Non-Medical Ingredient Water
+dosage_and_administration:
+  Usage Open the sticker and then wipe.
+  Directions for use For occasional and personal domestic use. Rub thoroughly into hands for at least 30 seconds. Allow to dry. Supervise children when they use this product.
+indications_and_usage:
+  Usage Open the sticker and then wipe.
+  Duration of use Recommended dosage Children, adolescents and adults 2 years and over
+package_label_principal_display_panel:
+  Package Label ALCOHOL WIPES 10PCS NDC: 75269-001-01 10 pcs label Package Label ALCOHOL WIPES 1PCS NDC: 75269-001-02 ALCOHOL WIPES 20 bags in a carton NDC: 75269-001-03 1 pcs label 20 in carton label
+  Package Label ALCOHOL WIPES 1PCS NDC: 75269-001-02 ALCOHOL WIPES 20 bags in a carton NDC: 75269-001-03 1 pcs label 20 in carton label
+  Package Label ALCOHOL WIPES 80PCS NDC: 75269-001-04 80 pcs label
+  Package Label ALCOHOL WIPES 15PCS NDC: 75269-001-05 15pcs label
+  Package Label ALCOHOL WIPES 50PCS NDC: 75269-001-06 50pcs label
+  Package Label ALCOHOL WIPES 60PCS NDC: 75269-001-07 60pcs label
+  Package Label ALCOHOL WIPES 100PCS NDC: 75269-001-08 100pcs label
+  Package Label ALCOHOL WIPES 500PCS NDC: 75269-001-09 500pcs blank label
+  Package Label ALCOHOL WIPES 80 Sheets NDC: 75269-001-10 80 sheets label
+  ALCOHOL WIPES 50 wipes NDC: 75269-001-11 label required by client
+set_id:
+  a35d567e-baa9-79fe-e053-2995a90a723f
+id:
+  b3663c09-3615-049a-e053-2995a90a57ab
+effective_time:
+  20201123
+version:
+  5
+openfda:

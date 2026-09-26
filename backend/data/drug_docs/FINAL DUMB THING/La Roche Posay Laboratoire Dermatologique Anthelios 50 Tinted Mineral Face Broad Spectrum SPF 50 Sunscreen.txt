@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  La Roche Posay Laboratoire Dermatologique Anthelios 50 Tinted Mineral Face Broad Spectrum SPF 50 Sunscreen Titanium Dioxide Titanium Dioxide Titanium Dioxide WATER ISODODECANE ALKYL (C12-15) BENZOATE DIMETHICONE UNDECANE TRIETHYLHEXANOIN ISOHEXADECANE STYRENE/ACRYLAMIDE COPOLYMER (MW 500000) NYLON-12 CAPRYLYL TRISILOXANE BUTYLOCTYL SALICYLATE PHENETHYL BENZOATE SILICON DIOXIDE TRIDECANE DICAPRYLYL CARBONATE DICAPRYLYL ETHER TALC ALUMINUM STEARATE PENTYLENE GLYCOL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE FERRIC OXIDE RED ALUMINUM OXIDE POLYHYDROXYSTEARIC ACID (2300 MW) PHENOXYETHANOL MAGNESIUM SULFATE, UNSPECIFIED FORM PROPYLENE GLYCOL CAPRYLYL GLYCOL ALUMINUM HYDROXIDE PEG-8 LAURATE STEARIC ACID DISTEARDIMONIUM HECTORITE DIETHYLHEXYL SYRINGYLIDENEMALONATE TOCOPHEROL PROPYLENE CARBONATE SENNA ALATA LEAF MALTODEXTRIN BENZOIC ACID DISODIUM STEAROYL GLUTAMATE
+active_ingredient:
+  Active ingredient Titanium dioxide 11%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ) , decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: - shake well before use - apply generously 15 minutes before sun exposure - reapply: - after 40 minutes of swimming or sweating - immediately after towel drying - at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection meausures including: - limit time in the sun, especially from 10 a.m. - 2 p.m. - wear long-sleeved shirts, pants, hats and sunglasses - children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, isododecane, C12-15 alkyl benzoate, dimethicone, undecane, triethylhexanoin, isohexadecane, styrene/acrylates copolymer, nylon-12, caprylyl methicone, butyloctyl salicylate, phenethyl benzoate, silica, tridecane, dicaprylyl carbonate, dicaprylyl ether, talc, dimethicone/PEG-10/15 crosspolymer, aluminum stearate, pentylene glycol, PEG-9 polydimethylsiloxyethyl dimethcone, iron oxides, alumina, polyhydroxystearic acid, phenoxyethanol, magnesium sulfate, propylene glycol, caprylyl glycol, aluminum hydroxide, PEG-8 laurate, stearic acid, disteardimonium hectorite, diethylhexyl syringlidenemalonate, tocopherol, propylene carbonate, cassia alata leaf extract, maltodextrin, benzoic acid, disodium stearoyl glutamate, PEG-9
+questions:
+  Questions or comments? 1-888-577-5226 1-888-LRP LABO Monday - Friday (9 a.m. - 5 p.m. EST)
+package_label_principal_display_panel:
+  image of a carton
+set_id:
+  4d5d1e79-7b3e-41b5-ae6b-a3b0265702ca
+id:
+  c41bcab3-9d2a-451f-a678-8fbb37a53161
+effective_time:
+  20231213
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    La Roche Posay Laboratoire Dermatologique Anthelios 50 Tinted Mineral Face Broad Spectrum SPF 50 Sunscreen
+  generic_name:
+    TITANIUM DIOXIDE
+  manufacturer_name:
+    Cosmetique Active Production
+  product_ndc:
+    69625-019
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+  spl_id:
+    c41bcab3-9d2a-451f-a678-8fbb37a53161
+  spl_set_id:
+    4d5d1e79-7b3e-41b5-ae6b-a3b0265702ca
+  package_ndc:
+    69625-019-01
+    69625-019-02
+  is_original_packager:
+    True
+  upc:
+    0883140020899
+  unii:
+    15FIX9V2JP

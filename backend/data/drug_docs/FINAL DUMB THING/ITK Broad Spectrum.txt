@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  ITK Broad Spectrum SPF 50 Sunscreen Serum ZINC OXIDE WATER COCO-CAPRYLATE PEG-8 STEARATE GLYCERYL MONOSTEARATE .ALPHA.-TOCOPHEROL ACETATE POLYSORBATE 20 POLYHYDROXYSTEARIC ACID (2300 MW) PANTHENOL BENZYL ALCOHOL CETOSTEARYL ALCOHOL TRIETHOXYCAPRYLYLSILANE MEDIUM-CHAIN TRIGLYCERIDES XANTHAN GUM SORBITAN MONOOLEATE LAUROYL LYSINE PHYTATE SODIUM DEHYDROACETIC ACID CARNOSINE ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts:
+  Other Information: Protect this product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active Ingredients Zinc Oxide 24.5% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses: Helps prevent sunburn.
+warnings:
+  Warnings: For external use only. Do not use on damaged or broken skin. Do not use in eye area. Avoid contact with eyes. If contact occurs, flush thoroughly with water. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin. Do not use in eye area. Avoid contact with eyes. If contact occurs, flush thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Apply liberally 15 minutes before sun exposure. Pump serum onto clean hands and work into a clean, dry face. Do not use in eye area. Use a water resistant sunscreen if swimming or sweating. Reapply at least every 2 hours. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m – 2 p.m. Wear long-sleeved shirts, pants, hats and sunglasses.
+inactive_ingredient:
+  Inactive Ingredients: Water (Aqua/Eau), Coco-Caprylate, Glyceryl Oleate Stearate, PEG-8 Stearate, Glyceryl Stearate, Tocopheryl Acetate, Polysorbate 20, Polyhydroxystearic Acid, Panthenol, Benzyl Alcohol, Cetearyl Alcohol, Triethoxycaprylylsilane, Caprylic/Capric Triglyceride, Xanthan Gum, Sorbitan Oleate, Lauroyl Lysine, Sodium Phytate, Dehydroacetic Acid, Carnosine.
+questions:
+  Questions, Comments: YOU MAY REPORT AN ADVERSE REACTION TO: ITK C/O REPORT REACTION LLC, PO BOX 22, PLAINSBORO, NJ 08536-0222.
+package_label_principal_display_panel:
+  Package Labeling: Label3 Label4
+set_id:
+  d8dab10c-eebd-252f-e053-2a95a90a0f06
+id:
+  d8dab10c-eebe-252f-e053-2a95a90a0f06
+effective_time:
+  20220225
+version:
+  1
+openfda:

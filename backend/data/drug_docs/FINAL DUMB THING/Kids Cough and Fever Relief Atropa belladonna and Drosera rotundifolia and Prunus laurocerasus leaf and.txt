@@ -1,0 +1,45 @@
+effective_time:
+  20130708
+inactive_ingredient:
+  Inactive Ingredients: Purified water, Sorbitol, Sodium chloride, Potassium sorbate, Citric acid
+purpose:
+  Purpose fever
+  Purpose nighttime spasmodic, hacking, tickling cough
+  Purpose fever, hacking, dry cough
+  Purpose hoarse throat, nasal congestion, dry cough worse with cold air
+  Purpose nasal congestion, dry/tickling cough
+  Purpose hoarse throat, spasmodic cough at night
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Initial exacerbation of symptoms may occur. Do not exceed recommended dosage. Not intended for children under 2. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Stop use and ask a doctor if: fever gets worse or lasts more than 3 days if symptoms persist for more than 7 days or worsen
+information_for_owners_or_caregivers:
+  Other Information: Active ingredients are manufactured according to homeopathic principles.
+questions:
+  Questions? Reach our representatives at 1-800-240-9780. www.SimilasanUSA.com
+spl_product_data_elements:
+  Kids Cough and Fever Relief Atropa belladonna and Drosera rotundifolia and Prunus laurocerasus leaf and Rumex crispus root and Polygala Senega Root and Verbascum thapsus ATROPA BELLADONNA ATROPA BELLADONNA DROSERA ROTUNDIFOLIA DROSERA ROTUNDIFOLIA PRUNUS LAUROCERASUS LEAF PRUNUS LAUROCERASUS LEAF RUMEX CRISPUS ROOT RUMEX CRISPUS ROOT POLYGALA SENEGA ROOT POLYGALA SENEGA ROOT VERBASCUM THAPSUS VERBASCUM THAPSUS WATER SORBITOL SODIUM CHLORIDE POTASSIUM SORBATE CITRIC ACID MONOHYDRATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions: For adults and children age 2 and over: AGE DOSE FREQUENCY 2-12 2.5ml 3 to 6 times daily (every 4 hours) 12+ 5 ml 3 to 6 times daily (every 4 hours) Replace cap tightly after every use Or use as directed by a licensed health care professional. dosing scoop
+stop_use:
+  Stop use and ask a doctor if: fever gets worse or lasts more than 3 days if symptoms persist for more than 7 days or worsen
+package_label_principal_display_panel:
+  Principal Display Panel Homeopathic NDC 59262-258-25 Similasan Kids Cough & Fever Relief Cough & Fever Syrup 118 ml/ 4fl oz Homeopathic NDC 59262-258-25 Similasan Kids Cough & Fever Relief Cough & Fever Syrup 118 ml/ 4fl oz
+indications_and_usage:
+  Uses: Temporarily relieves symptoms of dry/tickling cough, fever, hoarse throat and nasal congestion due to minor throat and bronchial irritation occurring with a cold.
+set_id:
+  ebb6738b-cc78-465f-acab-73d9e01aa8cd
+id:
+  66a31f36-b038-4520-89d0-0b9de63c7f1f
+active_ingredient:
+  Active Ingredient Belladonna* 6X * containing 0.0000000016% alkaloids conculated as hyoscyamine
+  Active Ingredient Drosera 3X
+  Active Ingredient Laurocerasus 2X
+  Active Ingredient Rumex crispus 4X
+  Active Ingredient Senega officinalis 6X
+  Active Ingredient Verbascum thapsus 6X
+dosage_and_administration_table:
+  <table> <col/> <col/> <col/> <tbody> <tr> <td align="center" styleCode="     Botrule          Toprule         Lrule          Rrule     "> <content styleCode="bold">AGE </content> </td> <td styleCode="     Botrule          Toprule         Lrule          Rrule     "> <content styleCode="bold"> DOSE </content> </td> <td styleCode="     Botrule          Toprule         Lrule          Rrule     "> <content styleCode="bold">FREQUENCY</content> </td> </tr> <tr> <td align="center" styleCode="     Botrule          Toprule         Lrule          Rrule     "> 2-12</td> <td align="center" styleCode="     Botrule          Toprule         Lrule          Rrule     "> 2.5ml</td> <td styleCode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph> 3 to 6 times daily (every 4 hours)</paragraph> </td> </tr> <tr> <td align="center" styleCode="     Botrule          Toprule         Lrule          Rrule     "> 12+</td> <td align="center" styleCode="     Botrule          Toprule         Lrule          Rrule     "> 5 ml</td> <td styleCode="     Botrule          Toprule         Lrule          Rrule     "> <paragraph> 3 to 6 times daily (every 4 hours)</paragraph> </td> </tr> </tbody> </table>

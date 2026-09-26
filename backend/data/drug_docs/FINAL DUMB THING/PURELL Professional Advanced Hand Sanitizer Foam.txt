@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  PURELL Professional Advanced Hand Sanitizer Foam ALCOHOL WATER ISOPROPYL ALCOHOL GLYCERIN ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE, D- CAPRYLYL GLYCOL PEG-12 DIMETHICONE (300 CST) ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin that could cause disease
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. When using this product , do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product , do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product in your palm to thoroughly cover your hands. Rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store below 110 o F (43 o C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Isopropyl Alcohol, PEG-12 Dimethicone, Caprylyl Glycol, Glycerin, Isopropyl Myristate, Tocopheryl Acetate, Fragrance (Parfum)
+package_label_principal_display_panel:
+  Product Label
+set_id:
+  03498272-9c4d-4308-aa8c-244e709b5d7d
+id:
+  2901ff1e-b3a5-c7e5-e063-6294a90af62c
+effective_time:
+  20241211
+version:
+  3
+openfda:

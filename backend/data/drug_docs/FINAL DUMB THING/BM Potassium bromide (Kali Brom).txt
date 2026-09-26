@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  BM Potassium bromide (Kali Brom) Potassium Bromide LACTOSE POTASSIUM BROMIDE BROMIDE ION MAGNESIUM STEARATE WHITE DISSOLVABLE TABLETS DISSOLVABLE TABLETS
+dosage_and_administration:
+  Directions: Adult: Four tablets three times a day. Ages below 12: half of the same or as prescribed by a homeopathic physician.
+inactive_ingredient:
+  Inactive ingredients: Lactose; MAGNESIUM STEARATE
+active_ingredient:
+  Potassium Bromide
+indications_and_usage:
+  Uses See the leaflet enclosed for detail.
+purpose:
+  Uses See the leaflet enclosed for detail.
+contraindications:
+  Contra-indications: Traditional biochemic remedy do not interact with other remedies, herbs, or other supplements.
+warnings:
+  Warnings and Storage: Ask a professional before use if pregnant or breastfeeding or if you have severe symptoms. Keep away from children. If you have a reaction to this product that is not positive, discontinue use. Store in a cool and dry place.
+keep_out_of_reach_of_children:
+  Warnings and Storage: Ask a professional before use if pregnant or breastfeeding or if you have severe symptoms. Keep away from children. If you have a reaction to this product that is not positive, discontinue use. Store in a cool and dry place.
+package_label_principal_display_panel:
+  Entire package Potassium bromide 6X.jpg
+set_id:
+  3803d3a6-92de-0f3d-e063-6294a90a2b4d
+id:
+  44fb9daf-61bd-0c07-e063-6294a90ac055
+effective_time:
+  20251202
+version:
+  2
+openfda:
+  brand_name:
+    BM Potassium bromide (Kali Brom)
+  generic_name:
+    POTASSIUM BROMIDE
+  manufacturer_name:
+    BM Private Limited
+  product_ndc:
+    85816-1032
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    POTASSIUM BROMIDE
+  spl_id:
+    44fb9daf-61bd-0c07-e063-6294a90ac055
+  spl_set_id:
+    3803d3a6-92de-0f3d-e063-6294a90a2b4d
+  package_ndc:
+    85816-1032-1
+  is_original_packager:
+    True
+  unii:
+    OSD78555ZM

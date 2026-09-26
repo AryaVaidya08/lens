@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  0.5% LIDOCAINE BURN RELIEF Lidocaine Hydrochloride ALOE VERA LEAF JUICE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE EDETATE DISODIUM ETHYLHEXYLGLYCERIN FD&C BLUE NO. 1 FD&C YELLOW NO. 5 GLYCERIN MENTHOL, UNSPECIFIED FORM MALTODEXTRIN PROPANEDIOL POLYSORBATE 20 PHENOXYETHANOL SODIUM HYDROXIDE ALCOHOL WATER LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS
+spl_unclassified_section:
+  Drug Facts
+  ✓ Soothes & Cools Minor Burns ✓ Menthol Formula for Fast Pain Relief ✓ Helps Prevent Infection PAIN RELIEVING GEL WITH ALOE Mfd for and Distributed by: Universal Distribution Center LLC 330 Applegarth Road, Monroe Township, NJ 08831 www.universaldc.com MADE IN CHINA
+active_ingredient:
+  Active ingredient Lidocaine HCl 0.5%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Uses for the temporary relief of pain and itching associated with • minor burns • sunburn • minor cuts • scrapes • insect bites • minor skin irritations
+warnings:
+  Warnings For external use only Do not use in large quantities, particularly over raw surfaces or blistered areas When using this product avoid contact with the eyes Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily • children under 2 years of age: ask a doctor
+storage_and_handling:
+  Other information Store a room temperature • Protect from direct sunlight.
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Carbomer, Disodium EDTA, Ethylhexylglycerin, FD&C Blue NO.1, FD&C Yellow NO.5, Glycerin, Menthol, Maltodextrin, Propanediol, Polysorbate 20, Phenoxyethanol, Sodium Hydroxide, SD Alcohol, Water.
+package_label_principal_display_panel:
+  Packaging 0.5% LIDOCAINE BURN RELIEF
+set_id:
+  cf723c7b-495d-4bae-942c-561cf28af2d3
+id:
+  4b636475-c805-0b73-e063-6394a90ac7c9
+effective_time:
+  20260221
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    0.5% LIDOCAINE BURN RELIEF
+  generic_name:
+    LIDOCAINE HYDROCHLORIDE
+  manufacturer_name:
+    Nantong Health & Beyond Hygienic Products Inc.
+  product_ndc:
+    43473-099
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE HYDROCHLORIDE
+  rxcui:
+    1011849
+  spl_id:
+    4b636475-c805-0b73-e063-6394a90ac7c9
+  spl_set_id:
+    cf723c7b-495d-4bae-942c-561cf28af2d3
+  package_ndc:
+    43473-099-08
+  is_original_packager:
+    True
+  upc:
+    0676979560380
+  unii:
+    V13007Z41A

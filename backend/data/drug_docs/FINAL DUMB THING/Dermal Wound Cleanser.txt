@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  Dermal Wound Cleanser BENZETHONIUM CHLORIDE BENZYL ALCOHOL EDETATE DISODIUM GLYCERIN POLYSORBATE 20 WATER SODIUM CITRATE ANHYDROUS CITRIC ACID BENZETHONIUM CHLORIDE BENZETHONIUM POLYQUATERNIUM-10 (125 MPA.S AT 2%) Dermal Wound Cleanser BENZETHONIUM CHLORIDE POLYQUATERNIUM-10 (125 MPA.S AT 2%) BENZYL ALCOHOL WATER EDETATE DISODIUM GLYCERIN POLYSORBATE 20 SODIUM CITRATE ANHYDROUS CITRIC ACID BENZETHONIUM CHLORIDE BENZETHONIUM
+spl_unclassified_section:
+  DRUG FACTS
+  OTHER INFORMATION contains antimicrobial ingredient
+active_ingredient:
+  ACTIVE INGREDIENTS Benzethonium Chloride 0.13%
+purpose:
+  PURPOSE First aid antiseptic
+indications_and_usage:
+  USES first aid to help reduce the risk of infection in minor cuts, scrapes and burns aids in the removal of foreign materials such as dirt and debris
+warnings:
+  WARNINGS For external use only Do not use in the eyes or apply over large areas of the body In case of deep or puncture wounds, animal bites, or serious burns, contact a doctor Stop use and contact a doctor if the condition persists or gets worse. Do not use longer than 1 week unless directed by a doctor Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately For external use only Do not use in the eyes or apply over large areas of the body In case of deep or puncture wounds, animal bites, or serious burns, contact a doctor Stop use and contact a doctor if the condition persists or gets worse. Do not use longer than 1 week unless directed by a doctor Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center immediately
+when_using:
+  For external use only
+do_not_use:
+  Do not use in the eyes or apply over large areas of the body
+stop_use:
+  In case of deep or puncture wounds, animal bites, or serious burns, contact a doctor Stop use and contact a doctor if the condition persists or gets worse. Do not use longer than 1 week unless directed by a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  DIRECTIONS clean the affected area apply a small amount of this product on the area 1 to 3 times daily rinse as per normal protocol cover wound with sterile dressing or bandage as needed if applying dressing or bandage, let dry first
+inactive_ingredient:
+  INACTIVE INGREDIENTS benzyl alcohol, citric acid, disodium EDTA, glycerin, polyquaternium-10, polysorbate 20, sodium citrate, water
+questions:
+  QUESTION OR COMMENTS? 1 800 876-1261
+package_label_principal_display_panel:
+  PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - DERMAL WOUND CLEANSER BOTTLE, SPRAY (473 mL) Smith&Nephew REF 449000 NDC 69740-490-00 Dermal Wound Cleanser First Aid Antiseptic Helps reduce risk of infection in wounds and burns Gentle wound cleansing Safe and easy to use pH-buffered Non-irritating 16 fl. oz. (473 mL) Made in the USA for Smith & Nephew Medical Ltd. 101 Hessle Road Hull HU3 2BN England www.smith-nephew.com Package Display - Bottle, Spray (473mL)
+  PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - DERMAL WOUND CLEANSER BOTTLE, SPRAY (236 mL) Smith&Nephew #59449200 NDC 69740-492-00 Dermal Wound Cleanser First Aid Antiseptic Helps reduce risk of infection in wounds and burns Gentle wound cleansing Safe and easy to use pH-buffered Non-irritating 8 fl. oz. (236 mL) Made in the USA for Smith & Nephew Medical Ltd. 101 Hessle Road Hull HU3 2BN England www.smith-nephew.com Package Display - Bottle, Spray (236mL)
+set_id:
+  18704cd5-1ecf-4e8c-9897-7e45394e68c8
+id:
+  1d4e61fc-0bf2-fb51-e063-6294a90a21fe
+effective_time:
+  20240715
+version:
+  5
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Dermal Wound Cleanser
+  generic_name:
+    BENZETHONIUM CHLORIDE
+  manufacturer_name:
+    Smith & Nephew Medical Ltd.
+  product_ndc:
+    69740-490
+    69740-492
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZETHONIUM CHLORIDE
+  rxcui:
+    582205
+  spl_id:
+    1d4e61fc-0bf2-fb51-e063-6294a90a21fe
+  spl_set_id:
+    18704cd5-1ecf-4e8c-9897-7e45394e68c8
+  package_ndc:
+    69740-490-00
+    69740-492-00
+  is_original_packager:
+    True
+  unii:
+    PH41D05744

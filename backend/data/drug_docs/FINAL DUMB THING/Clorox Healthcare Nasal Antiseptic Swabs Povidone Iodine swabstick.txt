@@ -1,0 +1,33 @@
+effective_time:
+  20200129
+inactive_ingredient:
+  Inactive ingredients • disodium phosphate • glycerin • hydroxyethylcellulose • nonoxynol-10 • simethicone • water
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately. Avoid excessive heat. Store at room temperature.
+warnings:
+  For external use only Do not use • if allergic to iodine • in the eyes • on children less than 3 years old
+questions:
+  For questions, comments, or to report serious side effects: 800-760-3236 Monday-Friday 8:30 a.m. - 5 p.m. EST
+spl_product_data_elements:
+  Clorox Healthcare Nasal Antiseptic Swabs Povidone Iodine swabstick DIMETHICONE SILICON DIOXIDE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS HYDROXYETHYL CELLULOSE (2000 CPS AT 1%) NONOXYNOL-10 GLYCERIN WATER POVIDONE-IODINE IODINE
+ask_doctor:
+  A sk a doctor before use if injuries are • deep or puncture wounds • serious burns S top use and ask doctor if redness, irritation, swelling or pain persists or increases infection occurs
+other_safety_information:
+  Other information • 1% titratable iodine • latex free • for hospital or professional use only
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions NASAL APPLICATION: 1. Use a tissue to clean the inside of both nostrils including the inside tip of nostril. Discard. 2. Insert swab comfortably into one nostril and rotate for 30 seconds covering all surfaces. Discard swabstick. 3. Using a second swab, repeat step 2 with the other nostril. 4. Repeat the application in both nostrils using the 3rd and 4th swabs. 5. Do not blow nose. If solution drips gently wipe with a tissue.
+package_label_principal_display_panel:
+  CLOROX HEALTHCARE Nasal Antiseptic Swabs Povidone-Iodine 10% Sterile Solution 52380-0972
+indications_and_usage:
+  antiseptic skin preparation helps reduce bacteria that can potentially cause skin infections
+set_id:
+  21896c75-126e-0c3d-e054-00144ff88e88
+id:
+  9d4d55c1-5f74-7a2d-e053-2995a90aea4c
+active_ingredient:
+  Povidone-iodine USP10%

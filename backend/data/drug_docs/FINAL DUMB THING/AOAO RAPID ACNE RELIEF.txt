@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  AOAO RAPID ACNE RELIEF Salicylic Acid,BENZOYL PEROXIDE BENZOYL PEROXIDE BENZOYL PEROXIDE SALICYLIC ACID SALICYLIC ACID AQUA BUTYLENE GLYCOL AZELAIC ACID NIACINAMIDE GLYCERETH-26 PEG/PPG-17/6 COPOLYMER DIMETHICONE SQUALANE MILK LIPIDS CERAMIDE NP CERAMIDE EOS CERAMIDE AP O-CYMEN-5-OL PANTHENOL ZINC PCA LECITHIN, SOYBEAN POLYGLYCERIN-6 ALLANTOIN ACACIA SENEGAL GUM ASIATICOSIDE TOCOPHEROL CENTELLA ASIATICA TRITERPENOIDS ECTOINE BISABOLOL CAPRYLIC/CAPRIC TRIGLYCERIDE SODIUM POLYACRYLATE (8000 MW) CAPRYLHYDROXAMIC ACID FRUCTOSE AHNFELTIOPSIS CONCINNA SODIUM LAUROYL LACTYLATE ETHYLHEXYL STEARATE COLLAGEN, SOLUBLE, FISH SKIN DIPOTASSIUM GLYCYRRHIZATE NYMPHAEA ALBA FLOWER GENTIANA SCABRA ROOT RETINYL PALMITATE DENDROBIUM OFFICINALE WHOLE PHOSPHATIDYLCHOLINE, SOYBEAN GLYCINE PHENOXYETHANOL TRIDECETH-6 RETINOL HYDROXYACETOPHENONE LITHOSPERMUM OFFICINALE ROOT PHYTOSTERYL MACADAMIATE PROPYLENE CARBONATE BHT SODIUM STEAROYL GLUTAMATE ETHYLHEXYLGLYCERIN CARBOMER XANTHAN GUM CHOLESTEROL 1,2-HEXANEDIOL
+active_ingredient:
+  BENZOYL PEROXIDE,Salicylic Acid
+inactive_ingredient:
+  Water, Butylene Glycol, Azelaic Acid, Niacinamide, Glycereth-26, PEG/PPG-17/6 Copolymer, Dimethicone, Squalane, Skin Lipids, Ceramide NP, Ceramide EOP, Ceramide AP, o-Cymen-5-ol, Panthenol, Zinc PCA, Lecithin, Polyglycerin-6, Allantoin, Acacia Senegal Gum, Asiaticoside, Tocopherol, Centella Asiatica Extract, Ectoin, Bisabolol, Caprylic/Capric Triglyceride, Sodium Polyacrylate, Caprylhydroxamic Acid, Fructose, Ahnfeltiopsis Concinna Extract, Sodium Lauroyl Lactylate, Ethylhexyl Stearate, Collagen, Dipotassium Glycyrrhizate, Nymphaea Alba Flower Extract, Gentiana Scabra Root Extract, Retinyl Palmitate,Dendrobium Officinale Extract, Phosphatidylcholine, Glycine, Phenoxyethanol, Trideceth-6, Retinol, Hydroxyacetophenone, Lithospermum Officinale Root Extract, Phytosphingosine, Phytosterols, Propylene Carbonate, BHT, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Carbomer, Xanthan Gum, Cholesterol, 1,2-Hexanediol.
+purpose:
+  Acne Spot Treatment
+indications_and_usage:
+  Clears Acne & Bumps,Fast Flattens Acne,Fades Acne Scars,Acne Treatment.• Clears up acne pimples, blemishes, and blackheads and allows skin to heal.• Helps prevent the formation of new acne blemishes and pimples. • Clean the skin thoroughly before applying this product.• Cover the entire affected area with a thin layer one to three times daily.
+warnings:
+  Do not use if you • Have very sensitive skin. • Are sensitive to benzoyl peroxide or salicylic acid. For external use only. Avoid contact with eyes。 Avoid contact with hair and dyed fabrics, including clothes, towels, and bedding, which may be bleached by benzoyl peroxide.
+do_not_use:
+  It is recommended to test the product behind the ear before use. If discomfort is felt, do not use.
+when_using:
+  Clears Acne & Bumps,Fast Flattens Acne,Fades Acne Scars,Acne Treatment.• Clears up acne pimples, blemishes, and blackheads and allows skin to heal.• Helps prevent the formation of new acne blemishes and pimples. • Clean the skin thoroughly before applying this product.• Cover the entire affected area with a thin layer one to three times daily.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+description:
+  AOAO RAPID ACNE RELIEF
+  Guangzhou Senmai Biotechnology Co.,Ltd.
+  1-4/F, Building A,Guanger Intelligencelndustrial Park, No.2 Qianyi East Road, ShilingTown, Huadu District, Guangzhou, China
+  15ml /0.51 fl.oz.
+  Shelf Life ·3 Years
+  Place of Origin· Made in PRC
+dosage_and_administration:
+  DOSAGE Approximately 0.01-0.02 oz each time.
+package_label_principal_display_panel:
+  1 A
+set_id:
+  586df874-0f71-ed46-e063-6294a90a0a8e
+id:
+  586df874-0f72-ed46-e063-6294a90a0a8e
+effective_time:
+  20260806
+version:
+  1
+openfda:
+  application_number:
+    M016
+  brand_name:
+    AOAO RAPID ACNE RELIEF
+  generic_name:
+    SALICYLIC ACID,BENZOYL PEROXIDE
+  manufacturer_name:
+    Guangzhou Senmai Biotechnology Co.,Ltd.
+  product_ndc:
+    84509-112
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZOYL PEROXIDE
+    SALICYLIC ACID
+  spl_id:
+    586df874-0f72-ed46-e063-6294a90a0a8e
+  spl_set_id:
+    586df874-0f71-ed46-e063-6294a90a0a8e
+  package_ndc:
+    84509-112-01
+  is_original_packager:
+    True
+  unii:
+    W9WZN9A0GM
+    O414PZ4LPZ

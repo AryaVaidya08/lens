@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Bactine Pain Relieving BENZALKONIUM CHLORIDE and LIDOCAINE HYDROCHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS EDETATE DISODIUM NONOXYNOL-9 PROPYLENE GLYCOL WATER
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Benzalkonium Cl 0.13% w/w First aid antiseptic Lidocaine HCl 2.5% w/w Pain relieving spray
+active_ingredient_table:
+  <table> <col/> <col/> <thead> <tr> <th valign="top"> <content styleCode="italics">Active ingredients</content> </th> <th align="right" valign="top"> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td valign="top"> Benzalkonium Cl 0.13% w/w</td> <td align="right" valign="top"> First aid antiseptic</td> </tr> <tr> <td valign="top"> Lidocaine HCl 2.5% w/w</td> <td align="right" valign="top"> Pain relieving spray</td> </tr> </tbody> </table>
+purpose:
+  Active ingredients Purpose Benzalkonium Cl 0.13% w/w First aid antiseptic Lidocaine HCl 2.5% w/w Pain relieving spray
+purpose_table:
+  <table> <col/> <col/> <thead> <tr> <th valign="top"> <content styleCode="italics">Active ingredients</content> </th> <th align="right" valign="top"> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td valign="top"> Benzalkonium Cl 0.13% w/w</td> <td align="right" valign="top"> First aid antiseptic</td> </tr> <tr> <td valign="top"> Lidocaine HCl 2.5% w/w</td> <td align="right" valign="top"> Pain relieving spray</td> </tr> </tbody> </table>
+indications_and_usage:
+  Uses first aid to help prevent bacterial contamination or skin infection, and for temporary relief of pain and itching associated with minor: cuts scrapes burns sunburn skin irritations
+warnings:
+  Warnings For external use only Ask a doctor before use if you have deep or puncture wounds animal bites serious burns When using this product do not use in or near the eyes do not apply over large areas of the body or in large quantities do not apply over raw surfaces or blistered areas Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+when_using:
+  When using this product do not use in or near the eyes do not apply over large areas of the body or in large quantities do not apply over raw surfaces or blistered areas
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years and older: clean the affected area; apply a small amount on the area 1-3 times daily; may be covered with a sterile bandage (let dry first) children under 2 years, ask a doctor
+storage_and_handling:
+  Other information avoid excessive heat
+inactive_ingredient:
+  Inactive ingredients edetate disodium, fragrances, nonoxynol 9, propylene glycol, purified water
+questions:
+  Questions? 1-844-241-5454 or www.bactine.com Money Back Guarantee
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 148 mL Bottle Label Bactine ® NO STING Pain Relieving Cleansing Spray FIRST AID ANTISEPTIC & PAIN RELIEVER Cleans • Soothes Instantly Prevents Infection To unlock, push in tab and twist right. To lock, twist left until locked. 5 FL OZ (148 mL) Bottle Label
+set_id:
+  ea1ad81e-b658-4ba8-b78e-6acbfb9a8622
+id:
+  87acf15c-63a6-4d7d-a132-111074b0a5fd
+effective_time:
+  20200117
+version:
+  9
+openfda:

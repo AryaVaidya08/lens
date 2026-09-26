@@ -1,0 +1,39 @@
+effective_time:
+  20120721
+inactive_ingredient:
+  Inactive Ingredients Boron Nitride, Rosa Canina Fruit Oil May Contain: Mica, Iron Oxides, Titanium Dioxide
+purpose:
+  Active Ingredients Purpose Titanium Dioxide (16%) Sunscreen Zinc Oxide (15%) Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if Rash or irritation develops or lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Keep out of eyes. Rinse with water to remove.
+questions:
+  Questions? 1-877-5-KORRES or visit www.korres.com
+spl_product_data_elements:
+  Korres Wild Rose Mineral Foundation SPF 30 - Fairly Light Titanium Dioxide and Zinc Oxide Titanium Dioxide Titanium Dioxide Zinc Oxide Zinc Oxide Boron Nitride Rosa Canina Fruit Oil Mica
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Apply evenly before sun exposure and as needed. Children under 6 months of age: ask a doctor.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if Rash or irritation develops or lasts.
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th>Active Ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Titanium Dioxide (16%)</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Zinc Oxide (15%)</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 7.5 g Jar Label KORRES ATHENS MINERAL FOUNDATION FOND DE TEINT MINERAL WILD ROSE MINERAL FOUNDATION SPF 30 BRIGHTENING / BUILDABLE COVERAGE / NATURAL FINISH POWDER ROSE SAUVAGE FOND DE TEINT MINERAL ILLUMINATEUR FPS 30 / COUVRANCE MODULABLE / POUDRE FINI NATUREL NET WT 0.26 OZ (7.5g) Principal Display Panel - 7.5 g Jar Label
+indications_and_usage:
+  Uses Helps prevent sunburn. Higher SPF gives more sunburn protection.
+set_id:
+  8c346851-915e-423d-ae73-7595c6d57476
+id:
+  6bb961c8-4863-4a82-8ae3-1a3643a291bb
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th>Active Ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Titanium Dioxide (16%)</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Zinc Oxide (15%)</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Titanium Dioxide (16%) Sunscreen Zinc Oxide (15%) Sunscreen

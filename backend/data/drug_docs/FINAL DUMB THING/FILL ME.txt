@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  FILL ME MICRO NEEDLE Adenosine Adenosine ADENOSINE Gelatin
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Adenosine 0.98%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Hydrolyzed Gelatin / Hydrolyzed Collagen, Sodium Hyaluronate, Madekasosaideu (Madecassoside), EGF
+purpose:
+  PURPOSE Purpose: Anti wrinkle
+warnings:
+  WARNINGS Warnings: After opening the pouch, use patches immediately to prevent transmutation. Stop using product in case you have red spot, swelling, or itching during use. Don’t use patches on wounded, inflamed or other uncomfortable skin part. Store product avoiding hot/cold place and direct sunlight. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+indications_and_usage:
+  Uses Uses: Helps improve wrinkle problem Improves moisturizing and elasticity
+dosage_and_administration:
+  Directions Directions: 1) Before sleep, cleanse your face and remove water. 2) Open the pouch and plastic case carefully. 3) Be careful not to touch the center area with fingers and remove white protective film. 4) Attach patches on the area you want and press vertically with fingers for about 1 minute. 5) Peel softly in next morning. (or after 2 hours minimum)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+set_id:
+  31e7225c-8a5a-43cd-a4b8-ac8d053c4466
+id:
+  b2e98168-21bb-4bdc-918b-96611ca191d0
+effective_time:
+  20190823
+version:
+  2
+openfda:

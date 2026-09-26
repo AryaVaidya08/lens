@@ -1,0 +1,31 @@
+effective_time:
+  20111111
+inactive_ingredient:
+  Inactive Ingredients cetearyl alcohol and PEG-3 distearoylamidoethylmonium methosulfate and polysorbate 60, citric acid, cocamidopropyl betaine, cocamine oxide, disodium EDTA, disodium laureth sulfosuccinate, glycerin, hydrogenated castor oil, hypromellose, lemon fragrance, magnesium aluminum silicate, methylparaben, PEG-40 hydrogenated castor oil, PEG-150 pentaerythrityl tetrastearate and PEG-6 caprylic/capric glycerides, poloxamer 182, purified water, and xanthan gum.
+purpose:
+  Purpose Acne treatment
+keep_out_of_reach_of_children:
+  KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For External Use Only. When using this product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Do not use if you Have very sensitive skin. Are sensitive to benzoyl peroxide. When using this product Avoid unnecessary sun exposure and use a sunscreen. Avoid contact with the eyes, lips, mouth. Avoid contact with hair and dyed fabrics, which may be bleached by this product. Skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling. Irritation may be reduced by using the product less frequently or in a lower concentration. Stop and ask a doctor if Irritation becomes severe.
+questions:
+  Questions? Comments? Call 1-866-934-6025
+spl_product_data_elements:
+  BP Wash BENZOYL PEROXIDE BENZOYL PEROXIDE BENZOYL PEROXIDE CETOSTEARYL ALCOHOL PEG-3 ALPHA-LINOLENAMIDE POLYSORBATE 60 CITRIC ACID MONOHYDRATE COCAMIDOPROPYL BETAINE DIHYDROXYETHYL COCAMINE OXIDE EDETATE DISODIUM DISODIUM LAURETH SULFOSUCCINATE GLYCERIN HYDROGENATED CASTOR OIL HYPROMELLOSE 2208 (100 MPA.S) MAGNESIUM ALUMINUM SILICATE METHYLPARABEN PEG-150 DISTEARATE CAPRYLIC/CAPRIC MONO/DIGLYCERIDES POLOXAMER 182 WATER XANTHAN GUM
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Shake well before using. Wet skin areas to be treated; apply BP 7% Wash by massaging gently into skin for 10-20 seconds, working into a full lather. Rinse thoroughly and pat dry. If going outside, apply sunscreen after using this product. If irritation or sensitivity develops, stop use of both products and ask a doctor. Sensitivity test for a new user Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, follow the directions stated above.
+storage_and_handling:
+  Other Information Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F).
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Uses For the treatment of acne.
+set_id:
+  1bedcb17-b24b-4502-9013-c0dd97f527c7
+id:
+  2cc19d76-6d47-4821-b85d-1c1acaa6dc45
+active_ingredient:
+  Active Ingredients Benzoyl peroxide 7%

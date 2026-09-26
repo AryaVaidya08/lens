@@ -1,0 +1,27 @@
+effective_time:
+  20141115
+inactive_ingredient:
+  aloe barbadensis leaf, water, arnica montan extract, boswella serrata extract, camelia sinensis leaf extract, carbomer, ethylhexylglycerine, glycerine, isopropyl myristate, PEG 8, phenoxyethanol, polysorbate 80, sodium lauryl sulfate, triethanolamine, fd&c blue #1, fd&c yellow #5
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+purpose:
+  Topical anesthetic External analgesic
+spl_product_data_elements:
+  Lidenza Patch Lidocaine Hydrochloride WATER GLYCERIN ARNICA MONTANA POLYSORBATE 80 ALOE VERA LEAF BOSWELLIA SACRA WHOLE GREEN TEA LEAF CARBOMER 1342 ETHYLHEXYLGLYCERIN ISOPROPYL MYRISTATE PEG-8 GLYCERYL ISOSTEARATE PHENOXYETHANOL SODIUM LAURYL SULFATE TRIETHANOLAMINE BENZOATE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS MENTHOL MENTHOL
+warnings_and_cautions:
+  Warnings For external use only Avoid contact with eyes Do not applly to open wounds or damaged skin If symptoms persist for more than seven days, discontinue use and consult physician If swallowed, consult physician Do not bandage tightly If pregnant or breast feeding, contact physician prior to use Do not use in large quantities, particularly over raw surfaces or blistered areas
+openfda:
+version:
+  1
+dosage_and_administration:
+  clean and dry affected area remove patch from backing and apply to affected area use only one patch at a time, and maximum of four patches/day leave patch on affected area for up to 8 hours do not use patches for longer than five consecutive days children under 12 should consult physician prior to use
+package_label_principal_display_panel:
+  Lidenza Patch box image
+indications_and_usage:
+  Temporary relief of pain associated with minor cuts, scrapes and minor skin irritations
+set_id:
+  07e9972b-b74b-4eb5-e054-00144ff88e88
+id:
+  07e9972b-b74c-4eb5-e054-00144ff88e88
+active_ingredient:
+  Lidocaine HCL 4.00% Menthol 1.00%

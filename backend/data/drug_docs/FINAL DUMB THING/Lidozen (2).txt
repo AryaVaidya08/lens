@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Lidozen LIDOCAINE, MENTHOL WATER GLYCERIN PROPYLENE GLYCOL POLYSORBATE 80 TARTARIC ACID DIHYDROXYALUMINUM AMINOACETATE METHYLPARABEN LIDOCAINE LIDOCAINE MENTHOL, UNSPECIFIED FORM MENTHOL
+spl_unclassified_section:
+  DRUG FACTS:
+  Store below 25 degrees Celsius, Avoid direct sunlight.
+active_ingredient:
+  ACTIVE INGREDIENTS: Lidocaine 4.00% Menthol 1.00% Topical Anesthetic External Analgesic
+purpose:
+  Topical Anesthetic External Analgesic
+indications_and_usage:
+  USES: For temporary relief of pain
+warnings:
+  WARNINGS: • For external use only. • Avoid contact with eyes. • If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician. Do not use • in large quantities, particularly over raw surfaces or blistered areas. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. • If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use • in large quantities, particularly over raw surfaces or blistered areas.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. • If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS (Adults and Children Over 12 Years): Clean and dry affected area. Remove patch from backing and apply to affected area. Use only one patch at a time, and maximum of four patches / day. Leave patch on affected area for up to 8 hours Do not use patches for longer than five consecutive days, Children under 12 should consult physician prior to use.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water, Glycerol, Sodium Polyacrylate, Propylene Glycol, Polysorbate 80, Tartaric Acid, Dihydroxyaluminium Aminoacetate, Methylparaben
+package_label_principal_display_panel:
+  Package Labeling: 71205-348-30
+set_id:
+  488d665c-a4fe-4a69-bab3-34b2347f4b05
+id:
+  f687fe54-1e59-45c2-859f-cb3279ed259d
+effective_time:
+  20231201
+version:
+  6
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Lidozen
+  generic_name:
+    LIDOCAINE, MENTHOL
+  manufacturer_name:
+    Proficient Rx LP
+  product_ndc:
+    71205-348
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+    MENTHOL, UNSPECIFIED FORM
+  rxcui:
+    1249758
+    2201504
+  spl_id:
+    f687fe54-1e59-45c2-859f-cb3279ed259d
+  spl_set_id:
+    488d665c-a4fe-4a69-bab3-34b2347f4b05
+  package_ndc:
+    71205-348-05
+    71205-348-15
+    71205-348-30
+  original_packager_product_ndc:
+    71574-900
+  upc:
+    0371205348304
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987
+    L7T10EIP3A

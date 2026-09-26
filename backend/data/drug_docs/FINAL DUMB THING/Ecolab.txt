@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Ecolab Chloroxylenol CHLOROXYLENOL CHLOROXYLENOL WATER POTASSIUM COCOATE HEXYLENE GLYCOL SODIUM SULFATE EDETATE SODIUM SODIUM LAURYL SULFATE HYDROXYETHYL CELLULOSE (3000 CPS AT 1%) GLYCERIN COCO GLUCOSIDE GLYCERYL OLEATE CITRIC ACID MONOHYDRATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C RED NO. 40 FD&C YELLOW NO. 5 D&C RED NO. 33
+active_ingredient:
+  Active ingredient Chloroxylenol 0.5%
+purpose:
+  Purpose Antiseptic handwash
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin recommended for repeated use.
+warnings:
+  Warnings For external use only Do not use In eyes When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use In eyes
+when_using:
+  When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop
+ask_doctor:
+  Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet skin and spread a small amount on hands and forearms Scrub well, rinse thoroughly and dry
+references:
+  Other information for additional information, see Safety Data Sheet (SDS) for emergency medical information in USA and Canada, call 1 800 328 0026. If located outside the United States and Canada, call collect 1 651 222 5352 (number is in the US)
+inactive_ingredient:
+  Inactive ingredients water (aqua), potassium cocoate, hexylene glycol, sodium sulfate, tetrasodium EDTA, sodium lauryl sulfate, hydroxyethylcellulose, glycerin, cocoglucoside, glyceryl oleate, citric acid, frangrance, methylchloroisothiazolinone, methylisothiazolinone, FD&C red #40, FD&C yellow #5, D&C red #33
+questions:
+  Questions? call 1 866 781 8787
+package_label_principal_display_panel:
+  Principal display panel and representative label NDC 47593-501-41 ECOLAB Medi-Stat Antimicrobial Hand Soap Healthcare Personnel Handwash Active Ingredient: Chloroxylenol 0.5% 6000077 Net Contents: 25 US fl oz (750 mL) Ecolab · 1 Ecolab Place · St. Paul MN 55102 USA © 2022 Ecolab USA Inc · All rights reserved Made in United States www.ecolab.com · 755056/8501/0422 representative label
+set_id:
+  b4493ad6-e1c8-4b2d-8a57-1845589b04f9
+id:
+  a156e0ed-0a3d-4fdc-90c7-3784444b9e56
+effective_time:
+  20240508
+version:
+  5
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Ecolab
+  generic_name:
+    CHLOROXYLENOL
+  manufacturer_name:
+    Ecolab Inc.
+  product_ndc:
+    47593-501
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CHLOROXYLENOL
+  rxcui:
+    436367
+  spl_id:
+    a156e0ed-0a3d-4fdc-90c7-3784444b9e56
+  spl_set_id:
+    b4493ad6-e1c8-4b2d-8a57-1845589b04f9
+  package_ndc:
+    47593-501-31
+    47593-501-32
+    47593-501-26
+    47593-501-11
+    47593-501-56
+    47593-501-41
+    47593-501-59
+  is_original_packager:
+    True
+  upc:
+    0025469009876
+  unii:
+    0F32U78V2Q

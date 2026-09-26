@@ -1,0 +1,45 @@
+effective_time:
+  20200508
+precautions:
+  General: Do not touch dropper tip to any surface as this may contaminate the solution. As with all anesthetics, continuous and prolonged use should be avoided. Protection of the eye from irritating chemicals, foreign bodies and rubbing during the period of anesthesia is very important. Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% should be used cautiously in patients with known allergy or cardiac disease. If signs of sensitivity develop during the treatment or irritation persists or increases, patients should be advised to discontinue use and consult prescribing physician.
+description:
+  DESCRIPTION: Tetracaine Hydrochloride 0.5% is a sterile topical ophthalmic solution useful in producing surface anesthesia of the eye. The active ingredient is represented by the structural formula: C 15 H 24 N 2 O 2 -HCI MW = 300.82
+storage_and_handling:
+  Storage: Store at a room temperature, 15 o -30 o C (59 o - 86 o F). Keep container tightly closed.
+indications_and_usage:
+  INDICATIONS AND USAGE: For procedures in which a rapid and short acting topical ophthalmic anesthetic is indicated such as in tonometry, gonioscopy, removal of corneal foreign bodies, conjunctival scraping for diagnostic purposes, suture removal from the cornea or conjunctiva, other short corneal and conjunctival procedures.
+set_id:
+  77df2c88-3ec3-4eff-b381-3173c2dc0612
+id:
+  ed7fbc53-91ca-4497-8d10-78beb9fa1ccd
+pediatric_use:
+  Pediatric Use: Safety and effectiveness in children have not been established.
+inactive_ingredient:
+  Inactive: Boric Acid; Edetate Disodium; Hypromellose; Potassium Chloride; Sodium Borate; Sodium Chloride; Water for injection USP, Hydrochloric Acid and/or Sodium Hydroxide to adjust pH.
+contraindications:
+  CONTRAINDICATIONS: Should not be used by the patient without physician supervision, or in those persons showing hypersensitivity to any component of this preparation.
+warnings:
+  WARNINGS: For topical ophthalmic use only. Not for parenteral use. Not for injection. Do not use solution if it contains crystals or if it is cloudy or discolored. Prolonged use results in diminished duration of anesthesia and retarded healing. This may cause the drug to be used more frequently, creating a "vicious circle". Subsequent corneal infection and/or corneal opacification with accompanying permanent visual loss or corneal perforation may occur. Prolonged use may also product severe keratitis.
+pregnancy:
+  Pregnancy Category C: Animal reproduction studies have not been performed with Tetracaine Hydrochloride. It is also not known whether Tetracaine Hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction. Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% should be given to pregnant women only if clearly needed.
+nursing_mothers:
+  Nursing Mothers: It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% is administered to a nursing woman.
+spl_product_data_elements:
+  TetraVisc Forte Tetracaine Hydrochloride Tetracaine Hydrochloride Tetracaine Boric Acid Edetate Disodium Hypromelloses Potassium Chloride Sodium Borate Water Hydrochloric Acid Sodium Hydroxide Sodium Chloride
+openfda:
+version:
+  6
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Dosage: One to two drops per eye. For Tonometry And Other Procedures Of Short Duration: Instill one or two drops just prior to evaluation. For Minor Surgical Procedures Such As Foreign Body Or Suture Removal: Instill one or two drops in the eye(s) every five to ten minutes. Five doses maximum.
+adverse_reactions:
+  ADVERSE REACTIONS: Transient symptoms (signs) such as stinging, burning, and conjunctival redness may occur. A rare, severe, immediate type allergic corneal reaction has been reported characterized by acute diffuse epithelial keratitis with filament formation and/or sloughing of large areas of necrotic epithelium, diffuse stromal edema, descemetitis and iritis. To report SUSPECED ADVERSE REACTIONS, contact OCuSOFT, Inc. at 800-239-5469, www.ocusoft.com
+how_supplied:
+  HOW SUPPLIED: Tetracaine Hydrochloride Ophthalmic Solution USP, 1.5% is supplied in: 5 mL multi-drop plastic container Single unit dose plastic container
+information_for_patients:
+  Information for Patients: Keep this and all drugs out of the reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately. After instillation of this product, the surface of the eye is insensitive and can be scratched without your feeling it. Do not rub eye. Do not instill this product repeatedly because severe eye damage may occur.
+package_label_principal_display_panel:
+  mm2
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Tetracaine Hydrochloride Ophthalmic Solution, USP 0.5% acts by decreasing the permeability of the neuronal membrane, thereby decreasing the flux of sodium, potassium and other ions associated with propagation of the nerve impulse. The onset of anesthesia usually begins within 30 seconds and lasts a relatively short period of time.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis & Mutagenesis & Impairment of Fertility: No studies have been conducted in animals or in humans to evaluate the potential of these effects.

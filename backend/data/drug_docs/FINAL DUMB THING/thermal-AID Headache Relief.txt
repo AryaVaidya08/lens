@@ -1,0 +1,38 @@
+effective_time:
+  20170302
+inactive_ingredient:
+  Inactive Ingredients Water, Aloe Barbadensis Leaf Juice, Stearic Acid, Polysorbate 60, Cocos Nucifera (Coconut) Oil, Cetyl Alcohol, Cetearyl Alcohol, Propylene Glycol, Mineral Oil, Myristyl Myristate, Glycine Soja (Soybean) Oil, Sodium Chloride, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Menthol, Tocopheryl Acetate, Squalene, Hydrolyzed Collagen, Hydrolyzed Elastin, Allium Sativum (Garlic) Bulb Extract, Glycerin, Caprylhydroxamic Acid, Benzyl Alcohol.
+purpose:
+  Active Ingredients Purpose Bryonia 6x HPUS Muscle aches and stiffness Rhus Toxicodendron 6x HPUS Muscle pain and stiffness
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of ingestion, seek professional assistance or contact a poison control center.
+warnings:
+  Warnings For external use only. Avoid contact with eyes and open wounds. Stop use and ask a doctor if condition persists for more than 7 days or worsens. Keep out of reach of children. In case of ingestion, seek professional assistance or contact a poison control center.
+spl_product_data_elements:
+  thermal-AID Headache Relief BRYONIA ALBA ROOT and TOXICODENDRON PUBESCENS LEAF BRYONIA ALBA ROOT BRYONIA ALBA ROOT TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF WATER ALOE VERA LEAF STEARIC ACID POLYSORBATE 60 COCONUT OIL CETYL ALCOHOL CETOSTEARYL ALCOHOL PROPYLENE GLYCOL MINERAL OIL MYRISTYL MYRISTATE SOYBEAN OIL SODIUM CHLORIDE ALMOND OIL MENTHOL, UNSPECIFIED FORM .ALPHA.-TOCOPHEROL ACETATE SQUALENE HYDROLYZED BOVINE ELASTIN (BASE; 1000 MW) GARLIC GLYCERIN CAPRYLHYDROXAMIC ACID BENZYL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Adults and children age 12 and older: Apply a small amount of cream to forehead and temples, and massage into skin. Use as needed and when headache pain flares up.
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Pacific Shore Holdings, Inc. Chatsworth, CA 91311
+stop_use:
+  Stop use and ask a doctor if condition persists for more than 7 days or worsens.
+storage_and_handling:
+  Other Information Store at 68 to 77 degrees Fahrenheit.
+active_ingredient_table:
+  <table width="75%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="right" valign="top"/> <thead> <tr> <th>Active Ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr> <td>Bryonia 6x HPUS</td> <td>Muscle aches and stiffness</td> </tr> <tr> <td>Rhus Toxicodendron 6x HPUS</td> <td>Muscle pain and stiffness</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 57 g Tube Label thermal -AID® Headache Relief Cream Fast, Safe, Powerful Relief You Can Count On NET WT 2 OZ. (57g) PRINCIPAL DISPLAY PANEL - 57 g Tube Label
+indications_and_usage:
+  Uses External analgesic for temporary relief of headache and migraine pain.
+set_id:
+  05e55542-3088-4587-9058-3d22ae510c68
+id:
+  421421e2-6a5c-487c-b6b5-7e0816ee72e4
+purpose_table:
+  <table width="75%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="right" valign="top"/> <thead> <tr> <th>Active Ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr> <td>Bryonia 6x HPUS</td> <td>Muscle aches and stiffness</td> </tr> <tr> <td>Rhus Toxicodendron 6x HPUS</td> <td>Muscle pain and stiffness</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Bryonia 6x HPUS Muscle aches and stiffness Rhus Toxicodendron 6x HPUS Muscle pain and stiffness

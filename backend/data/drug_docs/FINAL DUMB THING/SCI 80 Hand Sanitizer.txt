@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  SCI 80 Hand Sanitizer ALCOHOL FRAGRANCE LAVENDER & CHIA F-153480 GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (80%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Alcohol 80% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand sanitizer
+indications_and_usage:
+  Use for hand-washing to decrease bacteria on the skin -recommended for repeated use.
+warnings:
+  Warnings for external use only - Flammable. Keep away from heat and flame.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of serious condition. Keep out of reach of children. If swallowed, get medical help of contact a Poison Control Center immediately.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C Avoid freezing and excessive heat above 40C (104F). May discolor some fabrics. Harmful to wood finishes and plastics.
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, purified water USP Package.Label Principal Display Panel
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 946 mL NDC: 55549-001-32 or 1892 mL NDC: 55549-001-64 or 3785 mL NDC: 55549-001-01 or 118927 mL NDC: 55549-001-05 or 208198 mL NDC: 55549-001-55 or 946353 mL NDC: 55549-001-25 or 1135500 mL NDC: 55549-001-30 Package Label Principal Display Panel
+set_id:
+  a36aa584-dfb9-3223-e053-2995a90a9417
+id:
+  a75d1855-434d-7181-e053-2a95a90a817e
+effective_time:
+  20200605
+version:
+  4
+openfda:

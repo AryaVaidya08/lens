@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Female Support Chamomilla, Cimicifuga Racemosa, Helonias Dioica, Mentha Piperita, Senna (Cassia Angustifolia), Valeriana Officinalis, Viola Odorata, Agnus Castus, Ledum Palustre, Lilium Tigrinum, Staphysagria, Crocus Sativus, Hydrastis Canadensis, Cinchona Officinalis, Convallaria Majalis, Cyclamen Europaeum, Cinnamomum, Murex Purpurea, Naja Tripudians MATRICARIA RECUTITA MATRICARIA CHAMOMILLA BLACK COHOSH BLACK COHOSH CHAMAELIRIUM LUTEUM ROOT CHAMAELIRIUM LUTEUM ROOT MENTHA PIPERITA MENTHA PIPERITA SENNA LEAF SENNA LEAF VALERIAN VALERIAN VIOLA ODORATA VIOLA ODORATA CHASTE TREE FRUIT CHASTE TREE LEDUM PALUSTRE TWIG LEDUM PALUSTRE TWIG LILIUM LANCIFOLIUM WHOLE FLOWERING LILIUM LANCIFOLIUM WHOLE FLOWERING DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED SAFFRON SAFFRON GOLDENSEAL GOLDENSEAL CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK CONVALLARIA MAJALIS CONVALLARIA MAJALIS CYCLAMEN PURPURASCENS TUBER CYCLAMEN PURPURASCENS TUBER CINNAMON CINNAMON HEXAPLEX TRUNCULUS HYPOBRANCHIAL GLAND JUICE HEXAPLEX TRUNCULUS HYPOBRANCHIAL GLAND JUICE NAJA NAJA VENOM NAJA NAJA VENOM WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Chamomilla 3X, Cimicifuga Racemosa 3X, Helonias Dioica 3X, Mentha Piperita 3X, Senna (Cassia Angustifolia) 3X, Valeriana Officinalis 3X, Viola Odorata 3X, Agnus Castus 4X, Ledum Palustre 4X, Lilium Tigrinum 4X, Staphysagria 4X, Crocus Sativus 6X, Hydrastis Canadensis 6X, Cinchona Officinalis 8X, Convallaria Majalis 8X, Cyclamen Europaeum 8X, Cinnamomum 12X, Murex Purpurea 12X, Naja Tripudians 15X.
+purpose:
+  HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormonal dysfunction including fluid retention, hot flashes, painful menses, irregular and painful menstruation, and mood swings.** ** These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormonal dysfunction including fluid retention, hot flashes, painful menses, irregular and painful menstruation, and mood swings.** ** These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 25% Ethanol.
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DES BIO NDC 43742-1584-1 HOMEOPATHIC FEMALE SUPPORT 1 FL OZ (30ml) Female Support
+set_id:
+  f6f254af-f9c4-41f1-9e80-4c14542312f7
+id:
+  60ebd336-8483-4ff3-8f68-5c92e432f64b
+effective_time:
+  20210121
+version:
+  2
+openfda:

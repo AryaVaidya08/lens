@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Prevantics Swab Chlorhexidine Gluconate and Isopropyl Alcohol WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active ingredients Chlorhexidine gluconate 3.15% w/v Isopropyl alcohol 70% v/v
+purpose:
+  Purpose Antiseptic Antiseptic
+indications_and_usage:
+  Use for the preparation of the patient's skin prior to an injection
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame Do not use with electrocautery procedures Allergy Alert This product may cause a severe allergic reaction. Symptoms may inlcude: wheezing/difficulty breathing shock facial swelling hives rash if an allergic reaction occurs, stop use and seek medical help right away. Do not use on patients allergic to chlorhexidine gluconate or any other ingredients in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser under occlusive patch When using this product keep out of eyes, ears, mouth and mucous membranes. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor. Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  Allergy Alert This product may cause a severe allergic reaction. Symptoms may inlcude: wheezing/difficulty breathing shock facial swelling hives rash if an allergic reaction occurs, stop use and seek medical help right away.
+do_not_use:
+  Do not use on patients allergic to chlorhexidine gluconate or any other ingredients in this product for lumbar puncture or in contact with the meninges on open skin wounds or as a general skin cleanser under occlusive patch
+when_using:
+  When using this product keep out of eyes, ears, mouth and mucous membranes. May cause serious or permanent injury if permitted to enter and remain. If contact occurs, rinse with cold water right away and contact a doctor.
+ask_doctor:
+  Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. maximum treatment area for one swab is approximately 2.5 by 2.5 inches (6 by 6 cm) tear open packet and remove swab. Do not unfold swab. prior to injection, apply swab to the procedure site by holding swab between thumb and index finger. Apply swab to skin using repeated back-and-forth strokes for 15 seconds. allow the prepped area to air dry for 30 seconds do not blot or wipe dry discard after a single use
+storage_and_handling:
+  Other information store between 68-77°F (20-25°C) avoid freezing and excessive heat above 104°F (40°C) for hospital and professional use only
+inactive_ingredient:
+  Inactive ingredients USP purified water
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Packet label Insert label insert
+set_id:
+  ff999b50-0b6b-404e-b4f1-c6694fe47a9b
+id:
+  078de79b-c16c-78f8-e063-6294a90a384a
+effective_time:
+  20231013
+version:
+  10
+openfda:
+  application_number:
+    NDA021524
+  brand_name:
+    Prevantics Swab
+  generic_name:
+    CHLORHEXIDINE GLUCONATE AND ISOPROPYL ALCOHOL
+  manufacturer_name:
+    Professional Disposables International, Inc.
+  product_ndc:
+    10819-1080
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CHLORHEXIDINE GLUCONATE
+    ISOPROPYL ALCOHOL
+  rxcui:
+    1191171
+    1366736
+  spl_id:
+    078de79b-c16c-78f8-e063-6294a90a384a
+  spl_set_id:
+    ff999b50-0b6b-404e-b4f1-c6694fe47a9b
+  package_ndc:
+    10819-1080-2
+  is_original_packager:
+    True
+  unii:
+    MOR84MUD8E
+    ND2M416302

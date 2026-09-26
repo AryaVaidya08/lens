@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Good Neighbor Pharmacy Redness Relief Glycerin and Naphazoline BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM SODIUM BORATE WATER GLYCERIN GLYCERIN NAPHAZOLINE HYDROCHLORIDE NAPHAZOLINE
+active_ingredient:
+  Active ingredients Purpose Glycerin 0.25%..........................................Lubricant Naphazoline HCI 0.012%.............................Redness Reliever
+purpose:
+  Uses relieves redness of the eye due to minor eye irritations for use as a protectant against further irritation or to relieve dryness of the eye for the temporary relief of burning and irritation due to dryness of the eye
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use if solution changes color or becomes cloudy
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma
+when_using:
+  When using this product to avoid contaimination, do not touch tip of container to any surface replace cap after using overuse may produce increased redness of the eye pupils may become enlarged temporarily
+stop_use:
+  Stop use and ask a doctor if you experience eye pain you experience changes in vision you experience continued redness or irritation of the eye the condition worsens symptoms last for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+indications_and_usage:
+  Directions to open bottle, push cap down and twist counter-clockwise. To close bottle, twist clockwise until it stops turning. instill 1 to 2 drops in the affected eye(s) up to four times daily
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, disodium edetate hydrate, sodium borate, sterile purified water
+dosage_and_administration:
+  Distributed by: AmerisourceBergen 1300 Morris Drive Chesterbrook, PA 19087 www.mygnp.com Made in Korea
+package_label_principal_display_panel:
+  image description
+set_id:
+  9f660521-c727-49f4-b369-cc5dae1924bb
+id:
+  02ae3b48-258a-8a3e-e063-6294a90a5ec8
+effective_time:
+  20230811
+version:
+  3
+openfda:

@@ -1,0 +1,16 @@
+effective_time:
+  20121219
+spl_unclassified_section:
+  Humira (Adalimumab) prefilled syringes Manufactured by Vetter Pharma-Fertigung GmbH & Co. KG, Germany For Abbott Laboratories, USA.
+package_label_principal_display_panel:
+  Principal Display Panel - 40 mg / 0.8 mg - Shipping label NDC 0074-4339 Vetter NDC 62195-400-01 image description
+  Principal Display Panel - 20 mg / 0.4 mg - Shipping label NDC 0074-9374 Vetter NDC 62195-401-01 image description
+spl_product_data_elements:
+  Humira Adalimumab ADALIMUMAB ADALIMUMAB WATER SODIUM HYDROXIDE Humira Adalimumab ADALIMUMAB ADALIMUMAB WATER SODIUM HYDROXIDE
+set_id:
+  22bc8100-8d95-4605-88ec-d61bcafdc1d8
+id:
+  571c2b18-75f0-404d-a1cc-f003886242df
+openfda:
+version:
+  1

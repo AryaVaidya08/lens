@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Bob Barker Antibacterial wrapped body CHLOROXYLENOL SODIUM PALMATE CALCIUM CARBONATE WATER SODIUM PALM KERNELATE PALM OIL GLYCERIN SODIUM CHLORIDE TITANIUM DIOXIDE EDETATE SODIUM ETIDRONIC ACID CHLOROXYLENOL CHLOROXYLENOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Chloroxylenol 0.1%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses For washing to decrease bacteria on skin.
+warnings:
+  Warnings For External Use Only. Do not use this product on infants under 6. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask doctor if irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use this product on infants under 6.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and ask doctor if irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet bar with water Lather vigorously and wash skin Rinse and dry thoroughly
+inactive_ingredient:
+  Inactive Ingredients Sodium Palmate, Calcium Carbonate, Water, Sodium Palm Kernelate, Palm (Elaeis Guineesis) Oil, Sodium Lauryl Sulfate, Glycerin, Sodium Chloride, Titanium Dioxide, Fragrance, Tetrasodium EDTA, Etidronic Acid
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1000 Bar Cello Pack Case BobBarker ® ANTIBACTERIAL WRAPPED BODY SOAP 1000 Bars-Total Net Weight 388.01 OZ. (24.25 LB) (11 KG) PRINCIPAL DISPLAY PANEL - 1000 Bar Cello Pack Case
+set_id:
+  3e5de86e-1f5c-4e5e-91ab-b2b181619fc9
+id:
+  b08a73df-b6a4-1ef9-e053-2a95a90a5379
+effective_time:
+  20200930
+version:
+  3
+openfda:

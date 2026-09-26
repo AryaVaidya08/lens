@@ -1,0 +1,27 @@
+effective_time:
+  20210122
+inactive_ingredient:
+  Aminomethyl Propanol, Carbomer, Cetyl Alcohol, Glycerin, Glyceryl Stearate, Isopropyl Palmitate, Potassium Cetyl Phosphate, Stearic Acid, Water.
+purpose:
+  External Analgesic.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  For external use only . Do not use on wounds or damaged skin, or with a heating pad. When using this product use only as directed, avoid contact with eyes or mucous membranes, do not bandage tightly. Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days, if symptoms clear up and occur again within a few days, or if excessive skin irritation occurs.
+spl_product_data_elements:
+  Muscle Rub Menthol 2%, Methyl Salicylate 10% STEARYL ALCOHOL CETOSTEARYL ALCOHOL CETYL ALCOHOL CHAMOMILE DIMETHICONE 350 WATER MENTHOL MENTHOL EDETATE DISODIUM ANHYDROUS ETHYLHEXYLGLYCERIN METHYL GLUCETH-20 GLYCERIN PETROLATUM POLYSORBATE 80 POTASSIUM HYDROXIDE PROPYLENE GLYCOL STEARETH-21 METHYL SALICYLATE SALICYLIC ACID
+openfda:
+version:
+  2
+dosage_and_administration:
+  For the temporary relief of itching associated with minor skin irritations and rashes due to eczema, insect bites, and poison oak.
+package_label_principal_display_panel:
+  Label
+indications_and_usage:
+  Use only as directed, adults and children 12 years of age and older: apply to the affected area, not more than 3 to 4 times daily. Children . under 12 years of age: ask a doctor.
+set_id:
+  8b4b9f44-7177-6f29-e053-2995a90a8b9d
+id:
+  b9850246-3a11-2081-e053-2a95a90a98b5
+active_ingredient:
+  Menthol 2%, Methyl Salicylate 10%

@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  Dyna-Hex 2 Chlorhexidine Gluconate 2% CITRIC ACID MONOHYDRATE COCO DIETHANOLAMIDE HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) ISOPROPYL ALCOHOL LAURAMINE OXIDE WATER CHLORHEXIDINE GLUCONATE CHLORHEXIDINE
+spl_unclassified_section:
+  Drug Facts
+  Other information store at 20-25° C (68-77° F) avoid excessive heat above 40° C (104° F)
+active_ingredient:
+  Active ingredient chlorhexidine gluconate 2% solution
+purpose:
+  Purpose antiseptic
+indications_and_usage:
+  Uses surgical hand scrub: significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care healthcare personnel handwash: helps reduce bacteria that potentially can cause disease skin wound and general skin cleansing
+warnings:
+  Warnings For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you or the patient is allergic to chlorhexidine gluconate or any other ingredient in this product in contact with meninges in the genital area
+do_not_use:
+  Do not use if you or the patient is allergic to chlorhexidine gluconate or any other ingredient in this product in contact with meninges in the genital area
+when_using:
+  When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water wounds which involve more than the superficial layers of the skin should not be routinely treated repeated general skin cleansing of large body areas should not be done except when advised by a health care provider Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. Surgical hand scrub: wet hands and forearms under running water for 30 seconds. Clean fingernails using a nailstick or similar cleaner. scrub for 1.5 minutes with 8 mL of product (6 full pumps) with or without a wet brush paying close attention to the nails, cuticles, and skin between the fingers rinse thoroughly under running water for 30 seconds wash for an additional 1.5 minutes with 8 mL of product (6 full pumps) and rinse under running water for 30 seconds dry thoroughly Healthcare personnel handwash: wet hands with water dispense 5 mL of product (4 full pumps) into cupped hands and wash in a vigorous manner for 15 seconds rinse and dry thoroughly Skin wound and general skin cleansing: thoroughly rinse the area to be cleaned with water apply the minimum amount of product necessary to cover the skin or wound area and wash gently rinse again thoroughly
+inactive_ingredient:
+  Inactive ingredients citric acid, cocamide DEA, hydroxyethylcellulose, isopropyl alcohol, lauramine oxide, purified water
+questions:
+  Questions or comments? call 1-800-587-3721 Monday through Friday 8:00 AM to 4:30 PM CST
+recent_major_changes:
+  Indications and Usage
+package_label_principal_display_panel:
+  NDC 0116-1022-18 DYNA-HEX 2® Chlorhexidine Gluconate 2% Solution Antiseptic Contains: 2% Chlorhexidine Gluconate With Foaming Pump Distributed By: Xttrium Laboratories, Inc. Mount Prospect, IL 60056 FOR EXTERNAL USE ONLY Net Contents: 18 fl oz (532 mL) 2DYN18BTLLBLA 2DYN18 PDP 2DYN18 DF1 2DYN18 DF2
+set_id:
+  36e6abcb-d792-3ef4-e054-00144ff8d46c
+id:
+  b18f1e18-04d5-ef27-e053-2995a90a7b09
+effective_time:
+  20201013
+version:
+  3
+openfda:
+  application_number:
+    NDA019422
+  brand_name:
+    Dyna-Hex 2
+  generic_name:
+    CHLORHEXIDINE GLUCONATE 2%
+  manufacturer_name:
+    Xttrium Laboratories, Inc.
+  product_ndc:
+    0116-1022
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CHLORHEXIDINE GLUCONATE
+  rxcui:
+    834160
+    1245230
+  spl_id:
+    b18f1e18-04d5-ef27-e053-2995a90a7b09
+  spl_set_id:
+    36e6abcb-d792-3ef4-e054-00144ff8d46c
+  package_ndc:
+    0116-1022-18
+  is_original_packager:
+    True
+  unii:
+    MOR84MUD8E

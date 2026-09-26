@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Protective Disinfectant Protective Disinfectant ALCOHOL ALCOHOL DIMYRISTYLDIMONIUM CHLORIDE DILAURYLDIMONIUM CHLORIDE WATER DIPROPYLENE GLYCOL POLYGLYCERIN-20 SPEARMINT OIL MENTHA ARVENSIS LEAF OIL RACEMENTHOL
+active_ingredient:
+  
+purpose:
+  Kills 99.999% bacteria
+indications_and_usage:
+  USES suitable for antibacterial care of skin and object surface,and can effectively inhibit cross-ifection
+warnings:
+  CAUTIONS For external use only. Do not ingest.If swallowed,take plenty of water and consult physician. Keep out of reach of children & pets.Avoid contact with eyes,if it gets into eyes,flush with water and consult physician.Store in cool and dry place
+do_not_use:
+  
+when_using:
+  
+stop_use:
+  
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed,take plenty of water and consult physician.
+dosage_and_administration:
+  Directions Spray liberally onto surfaces from 10cm-20cm away,allow surfaces to dry for a few minutes,no need to rinse.
+storage_and_handling:
+  
+inactive_ingredient:
+  ingredients Alcohol,Water,Mixed Alkyl Quaternary Ammonium Salt,Polymer Guanidinium,Fragrance
+package_label_principal_display_panel:
+  image description
+set_id:
+  e02e7f32-6c50-4aa2-974b-d8db6e0251d8
+id:
+  7596eee0-3ef1-49b1-b5c9-c6a3876691a4
+effective_time:
+  20200917
+version:
+  1
+openfda:

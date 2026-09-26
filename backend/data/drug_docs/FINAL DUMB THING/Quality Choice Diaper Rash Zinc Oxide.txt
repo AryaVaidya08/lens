@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Quality Choice Diaper Rash Zinc Oxide TALC BUTYLATED HYDROXYTOLUENE LANOLIN FD&C YELLOW NO. 5 COD LIVER OIL LIGHT MINERAL OIL METHYLPARABEN PETROLATUM WATER ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Helps treat and prevent diaper rash. Protects skin. Relieves Chafing. Promotes Healing Distributed by: C.D.M.A., Inc. © 43157 W 9 Mile Rd Novi, MI. 48375 USA www.qualitychoice.com Product of PRC
+  Other Information This product is not manufactured or distributed by Johnson & Johnson Consumer Company Inc. owner of the registered trademark Desitin®.
+active_ingredient:
+  Active Ingredient Zinc Oxide 40%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Helps treat and prevent diaper rash Protects chafed skin due to diaper rash and helps protect skin from wetness
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings For External Use Only When using this product Avoid contact with eyes This product contains trace amounts of naturally occuring lead.
+dosage_and_administration:
+  Directions Change wet and soiled diapers promptly Cleanse the diaper area and allow to dry Apply ointment liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged.
+stop_use:
+  Stop use and ask a doctor if Condition worsens Symptoms last more than 7 days or clear up and occur again with a few days
+storage_and_handling:
+  Other Information: Store at controlled room temperature 20° - 25°C (68° - 77°F)
+questions:
+  Questions 1-800-935-2362
+inactive_ingredient:
+  Inactive Ingredients BHA, Cod liver oil (high in vitamin A and D), Frangrance, Lanolin, Mineral Oil, Methylparaben, Petrolatum, Purified water, Talc, Tartrazine yellow #4 (FD and C yellow #4)
+package_label_principal_display_panel:
+  Packaging qc diaper rash
+set_id:
+  9a1184f5-64d8-9786-e053-2a95a90a03b8
+id:
+  fc619907-ae29-d730-e053-6394a90a072e
+effective_time:
+  20230523
+version:
+  5
+openfda:

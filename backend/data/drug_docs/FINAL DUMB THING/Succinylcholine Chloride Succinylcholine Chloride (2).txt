@@ -1,0 +1,27 @@
+effective_time:
+  20171206
+spl_product_data_elements:
+  Succinylcholine Chloride Succinylcholine Chloride SODIUM CHLORIDE WATER SUCCINYLCHOLINE CHLORIDE SUCCINYLCHOLINE
+warnings_and_cautions:
+  • WARNINGS AND PRECAUTIONS Outsourced Compounded Drug. Not for Resale. Hospital/Office Use Only. WARNING: Paralyzing Agent. Causes Respiratory Arrest. SUCCINYLCHOLINE SHOULD BE USED ONLY BY THOSE SKILLED IN THE MANAGEMENT OF ARTIFICIAL RESPIRATION AND ONLY WHEN FACILITIES ARE INSTANTLY AVAILABLE FOR TRACHEAL INTUBATION AND FOR PROVIDING ADEQUATE VENTILATION OF THE PATIENT, INCLUDING THE ADMINISTRATION OF OXYGEN UNDER POSITIVE PRESSURE AND THE ELIMINATION OF CARBON DIOXIDE. THE CLINICIAN MUST BE PREPARED TO ASSIST OR CONTROL RESPIRATION.
+openfda:
+version:
+  3
+dosage_and_administration:
+  • DOSAGE AND ADMINISTRATION. FOR INTRAVENOUS USE. PRESERVATIVE-FREE INJECTION SOLUTION. The dosage of succinylcholine should be individualized and should always be determined by the clinician after careful assessment of the patient. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Solutions that are discolored and/or contain particulate matter should not be used.
+adverse_reactions:
+  • ADVERSE EVENTS To facilitate Adverse Event Reporting: www.fda.gov/medwatch or 1-800-FDA-1088.
+dosage_forms_and_strengths:
+  • INGREDIENTS Each 1 mL contains 20 mg Succinylcholine Chloride and made isotonic with 4.36 mg Sodium Chloride, USP, in Sterile Water for Injection. The aqueous solution is adjusted to a pH of 3.5 with hydrochloric acid and/or sodium hydroxide, if necessary.
+spl_unclassified_section:
+  Rx Only Rev. 03/15 CANTRELL DRUG COMPANY LITTLE ROCK, AR 72207
+storage_and_handling:
+  • STORAGE AND HANDLING Store at 20° to 25°C (68° to 77°F). [See USP Controlled Room Temperature].
+how_supplied:
+  • HOW SUPPLIED Succinylcholine Chloride is supplied as a sterile, isotonic, nonpyrogenic solution that is clear, colorless in a 10 mL Single-Dose Syringe. This product is Preservative-Free and Latex-Free.
+package_label_principal_display_panel:
+  image description
+set_id:
+  d1c0c9d3-f2c0-4199-87f1-8fade79d6a85
+id:
+  5fadfcdc-1d0f-ebfb-e053-2a91aa0a37b6

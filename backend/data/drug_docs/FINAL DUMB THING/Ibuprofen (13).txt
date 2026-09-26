@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  Ibuprofen Ibuprofen IBUPROFEN IBUPROFEN TITANIUM DIOXIDE STEARIC ACID POVIDONE K30 SODIUM STARCH GLYCOLATE TYPE A POTATO FD&C YELLOW NO. 6 FOOD YELLOW 3 FREE ACID STARCH, CORN POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE TALC G;2 round shaped biconvex film coated tablets
+active_ingredient:
+  Active ingredient (in each tablet) Ibuprofen 200 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses ■ temporarily relieves minor aches and pains due to: ■ headache ■ muscular aches ■ minor pain of arthritis ■ toothache ■ backache ■ the common cold ■ menstrual cramps ■ temporarily reduces fever
+warnings:
+  Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: ■ hives ■ facial swelling ■ asthma (wheezing) ■ shock ■ skin reddening ■ rash ■ blisters If an allergic reaction occurs, stop use and seek medical help right away.
+  Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: ■ are age 60 or older ■ have had stomach ulcers or bleeding problems ■ take a blood thinning (anticoagulant) or steroid drug ■ take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) ■ have 3 or more alcoholic drinks every day while using this product ■ take more or for a longer time than directed
+  Heart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed.
+do_not_use:
+  Do not use ■ if you have ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer ■ right before or after heart surgery
+ask_doctor:
+  Ask a doctor before use if ■ you have problems or serious side effects from taking pain relievers or fever reducers ■ the stomach bleeding warning applies to you ■ you have a history of stomach problems, such as heartburn ■ you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke ■ you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are ■ taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin ■ under a doctor’s care for any serious condition ■ taking any other drug
+when_using:
+  When using this product ■ take with food or milk if stomach upset occurs
+stop_use:
+  Stop use and ask a doctor if ■ you experience any of the following signs of stomach bleeding: ■ feel faint ■ vomit blood ■ have bloody or black stools ■ have stomach pain that does not get better ■ you have symptoms of heart problems or stroke: ■ chest pain ■ trouble breathing ■ weakness in one part or side of body ■ slurred speech ■ leg swelling ■ pain gets worse or lasts more than 10 days ■ fever gets worse or lasts more than 3 days ■ redness or swelling is present in the painful area ■ any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions (Tablets) ■ do not take more than directed ■ the smallest effective dose should be used Adults and children 12 years and older ■ take 1 Tablet every 4 to 6 hours while symptoms persist ■ if pain or fever does not respond to 1 tablet, 2 tablets may be used ■ do not exceed 6 tablets in 24 hours, unless directed by a doctor Children under 12 years ■ ask a doctor
+other_safety_information:
+  Other information ■ store between 20-25°C (68-77°F). [See USP Controlled Room Temperature]. ■ do not use if foil inner seal is broken or missing
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, FD&C Yellow #6, maize starch, polyethylene glycol, polyvinyl alcohol, povidone k30, pregelatinized starch, sodium starch glycolate, stearic acid, talc, titanium dioxide
+questions:
+  Questions or comments? call 1-877-770-3183 weekdays 9:00 AM to 4:30 PM EST.
+package_label_principal_display_panel:
+  Tablets 100 count 50 count
+set_id:
+  a3fadcc0-97f5-9f9b-e053-2a95a90aeb54
+id:
+  f6f317d8-a7c2-2ba3-e053-6394a90a5db0
+effective_time:
+  20230315
+version:
+  3
+openfda:
+  application_number:
+    ANDA202312
+  brand_name:
+    Ibuprofen
+  generic_name:
+    IBUPROFEN
+  manufacturer_name:
+    BETTER LIVING BRANDS LLC.
+  product_ndc:
+    21130-359
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    IBUPROFEN
+  rxcui:
+    310965
+  spl_id:
+    f6f317d8-a7c2-2ba3-e053-6394a90a5db0
+  spl_set_id:
+    a3fadcc0-97f5-9f9b-e053-2a95a90aeb54
+  package_ndc:
+    21130-359-10
+    21130-359-05
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    M0001335
+    N0000175722
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+  unii:
+    WK2XYI10QM

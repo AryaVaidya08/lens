@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Zapzyt Acne Treatment Gel Benzoyl Peroxide WATER DIISOPROPANOLAMINE LAURETH-4 CARBOMER 980 EDETATE DISODIUM BENZOYL PEROXIDE BENZOYL PEROXIDE
+active_ingredient:
+  Active ingredient Benzoyl Peroxide 10%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Uses for the treatment and prevention of acne pimples, blemishes, blackheads or whiteheads
+warnings:
+  Warnings For external use only.
+do_not_use:
+  DO NOT USE this product if you have sensitive skin or if you are sensitive to benzoyl peroxide
+when_using:
+  When using this product Avoid unnecessary sun exposure and use sunscreen. Allow ZAPZYT acne gel to dry, then follow the sunscreen directions.
+spl_unclassified_section:
+  Avoid contact with hair or dyed fabric, including carpet and clothing which may be bleached by this product.
+  Skin irritation may occur, characterized by redness, burning, itching, peeling or possibly swelling. Mild irritation may be reduced by using this product less frequently or in a lower concentration. If irritation becomes severe, discontinue use; if irritation still occurs consult a doctor.
+  Using other topical acne medications at the same time or immediately following the use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor.
+  Keep away from eyes, lips and mouth.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Store at room temperature 15-30 degrees C (59-86 degrees F).
+dosage_and_administration:
+  Directions Use a ZAPZYT cleaning product to thoroughly wash face before applying gel. Apply ZAPZYT Acne Treatment Gel to areas where pimples and excess oil occur Apply ZAPZYT before using moisturizer or makeup; do not rinse. If excessive drying of the skin occurs, reduce applications to once a day, or every other day. For best results use up to three tiimes daily. Once your skin has cleared, continue using ZAPZYT to keep new pimples from forming
+inactive_ingredient:
+  Inactive ingredients Laureth-4, Carbomer, Disodium EDTA, Dilsopropanolamine, Purified Water USP
+package_label_principal_display_panel:
+  Zapzyt Acne Treatment Gel 10% benzoyl peroxide get kills 99% of acne-causing bacteria clears acne pinples and blackheads fast oil free, odorless gel vanishes as it clears skin ZPZT Acne
+set_id:
+  6079d45c-dd86-6f2e-e053-2991aa0a9743
+id:
+  50a0976b-5606-4c94-e063-6294a90aff49
+effective_time:
+  20260429
+version:
+  9
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Zapzyt Acne Treatment Gel
+  generic_name:
+    BENZOYL PEROXIDE
+  manufacturer_name:
+    Focus Consumer Healthcare, LLC
+  product_ndc:
+    71687-0011
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZOYL PEROXIDE
+  rxcui:
+    486131
+  spl_id:
+    50a0976b-5606-4c94-e063-6294a90aff49
+  spl_set_id:
+    6079d45c-dd86-6f2e-e053-2991aa0a9743
+  package_ndc:
+    71687-0011-1
+  is_original_packager:
+    True
+  upc:
+    0010768001102
+  unii:
+    W9WZN9A0GM

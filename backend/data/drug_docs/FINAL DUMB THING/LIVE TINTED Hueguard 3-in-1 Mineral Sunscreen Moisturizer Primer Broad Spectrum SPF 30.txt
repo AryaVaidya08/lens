@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  LIVE TINTED Hueguard 3-in-1 Mineral Sunscreen Moisturizer Primer Broad Spectrum SPF 30 ZINC OXIDE WATER MEDIUM-CHAIN TRIGLYCERIDES C13-15 ALKANE PENTYLENE GLYCOL C15-19 ALKANE BIS-DIGLYCERYL POLYACYLADIPATE-2 TOCOPHEROL OCTYLDODECANOL INOSITOL SILICON DIOXIDE AMMONIUM ACRYLOYLDIMETHYLTAURATE, DIMETHYLACRYLAMIDE, LAURYL METHACRYLATE AND LAURETH-4 METHACRYLATE COPOLYMER, TRIMETHYLOLPROPANE TRIACRYLATE CROSSLINKED (45000 MPA.S) ISOSTEARIC ACID XANTHAN GUM COCO GLUCOSIDE POLYGLYCERIN-3 LEVOMENOL CAPRYLHYDROXAMIC ACID SODIUM DILAURAMIDOGLUTAMIDE LYSINE SODIUM CITRATE CITRIC ACID MONOHYDRATE ARACHIDYL GLUCOSIDE PHYTATE SODIUM GLYCERIN PHYSALIS ALKEKENGI CALYX BIOSACCHARIDE GUM-1 SODIUM LEVULINATE GLYCERYL CAPRYLATE CETOSTEARYL ALCOHOL TERT-BUTYL ALCOHOL SODIUM ANISATE ANHYDROUS DEXTROSE BETA CAROTENE DOCOSANOL ARACHIDYL ALCOHOL FERRIC OXIDE RED ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Zinc Oxide 18.23% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses • Helps prevent sunburn. • If used as directed with other sun protection measures (see Directions), helps decrease the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. Rinse with water to remove. Keep out of eyes. Stop use if rash occurs and ask a doctor. Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin. Rinse with water to remove. Keep out of eyes.
+stop_use:
+  Stop use if rash occurs and ask a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Apply liberally to face and neck for everyday moisture and protection. • Can be worn alone or under makeup. • Reapply at least every two hours. • Pair with a water-resistant SPF when swimming or sweating. • • Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection methods such as: • Limit time in the sun, especially from 10 am – 2 pm. • Wear long-sleeve shirts, pants, hats, and sunglasses. • Children under 6 months, ask a doctor. Sun Protection Measures
+inactive_ingredient:
+  Inactive Ingredients WATER (AQUA), CAPRYLIC / CAPRIC TRIGLYCERIDE, C13-15 ALKANE, PROPANEDIOL, C15-19 ALKANE, BISDIGLYCERYL POLYACYLADIPATE-2, TOCOPHEROL, OCTYLDODECANOL, POLYHYDROXYSTEARIC ACID, INOSITOL, HIPPOPHAE RHAMNOIDES OIL, SILICA, POLYACRYLATE ROSSPOLYMER- 6, ISOSTEARIC ACID, LECITHIN, POLYGLYCERYL-3 POLYRICINOLEATE, XANTHAN GUM, COCO-GLUCOSIDE, POLYGLYCERIN-3, OLYGLYCERYL- 3 LACTATE / LAURATE, BISABOLOL, CAPRYLHYDROXAMIC ACID, SODIUM DILAURAMIDOGLUTAMIDE LYSINE, SODIUM CITRATE, CITRIC ACID, ARACHIDYL GLUCOSIDE, SODIUM PHYTATE, GLYCERIN, PHYSALIS ALKEKENGI CALYX EXTRACT, BIOSACCHARIDE GUM-1, SODIUM LEVULINATE, GLYCERYL CAPRYLATE, CETEARYL ALCOHOL, T-BUTYL ALCOHOL, SODIUM ANISATE, GLUCOSE, BETACAROTENE, BEHENYL ALCOHOL, ARACHIDYL ALCOHOL, IRON OXIDES (CI 77492), IRON OXIDE (CI 77491)
+package_label_principal_display_panel:
+  Package Labeling: 150mL Outer Package2 Inner Label2
+  Package Labeling: 15mL Outer Package Inner Package
+set_id:
+  d177b085-2bbd-49c1-b02b-a7b8d8ee0468
+id:
+  08c16579-fb9a-5c01-e063-6294a90af226
+effective_time:
+  20231028
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    LIVE TINTED Hueguard 3-in-1 Mineral Sunscreen Moisturizer Primer Broad Spectrum SPF 30
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Live Tinted, Inc.
+  product_ndc:
+    82153-271
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    08c16579-fb9a-5c01-e063-6294a90af226
+  spl_set_id:
+    d177b085-2bbd-49c1-b02b-a7b8d8ee0468
+  package_ndc:
+    82153-271-00
+    82153-271-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

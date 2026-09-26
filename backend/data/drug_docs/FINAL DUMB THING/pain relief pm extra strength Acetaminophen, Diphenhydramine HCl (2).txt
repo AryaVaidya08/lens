@@ -1,0 +1,43 @@
+effective_time:
+  20171115
+inactive_ingredient:
+  Inactive ingredients carnauba wax, crospovidone, FD&C blue #1 aluminum lake, FD&C blue #2 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, pregelatinized starch, sodium starch glycolate, stearic acid, titanium dioxide
+purpose:
+  Purpose Pain reliever Nighttime sleep-aid
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take • more than 4,000 mg of acetaminophen in 24 hours • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • with any other product containing diphenhydramine, even one used on skin • in children under 12 years of age • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • glaucoma • trouble urinating due to an enlarged prostate gland • a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are • taking sedatives or tranquilizers • taking the blood thinning drug warfarin When using this product • drowsiness will occur • avoid alcoholic drinks • do not drive a motor vehicle or operate machinery Stop use and ask a doctor if • sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+when_using:
+  When using this product • drowsiness will occur • avoid alcoholic drinks • do not drive a motor vehicle or operate machinery
+questions:
+  Questions? 1-800-632-6900
+spl_product_data_elements:
+  pain relief pm extra strength Acetaminophen, Diphenhydramine HCl ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE CARNAUBA WAX CROSPOVIDONE (15 MPA.S AT 5%) HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOLS POLYSORBATE 80 POVIDONES STEARIC ACID TITANIUM DIOXIDE Light blue L437;PM
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • glaucoma • trouble urinating due to an enlarged prostate gland • a breathing problem such as emphysema or chronic bronchitis
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • do not take more than directed (see Liver warning) adults and children 12 years and over • take 2 caplets at bedtime • do not take more than 2 caplets of this product in 24 hours children under 12 years do not use this adult product in children under 12 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur These could be signs of a serious condition.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • with any other product containing diphenhydramine, even one used on skin • in children under 12 years of age • if you have ever had an allergic reaction to this product or any of its ingredients
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO active ingredients of TYLENOL® PM CAPLETS See end panel EXTRA STRENGTH Pain Relief PM Pain Reliever - Nighttime Sleep-Aid Acetaminophen/Diphenhydramine HCl Actual Size Pain Relief PM Carton Image 1 Pain Relief PM Carton Image 1 Pain Relief PM Carton Image 2 Pain Relief PM Carton Image 1 Pain Relief PM Carton Image 2
+indications_and_usage:
+  Uses temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness
+set_id:
+  af0f2055-3f4c-4f01-ba09-3ec46704f7ae
+id:
+  e583eeb6-7997-4271-956a-a3b50dac69cc
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • taking sedatives or tranquilizers • taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredients (in each caplet) Acetaminophen 500 mg Diphenhydramine HCl 25 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="23%"/> <col width="77%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and over </paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="unordered"> <item> <caption>&#x2022;</caption>take 2 caplets at bedtime </item> <item> <caption>&#x2022;</caption>do not take more than 2 caplets of this product in 24 hours </item> </list> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years </paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use this adult product in children under 12 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage </paragraph> </td> </tr> </tbody> </table>

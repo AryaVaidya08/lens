@@ -1,0 +1,34 @@
+effective_time:
+  20170227
+inactive_ingredient:
+  Inactive ingredients cetylpyridinium chloride (Ceepryn®), flavor, glucose, propylene glycol, red 33, red 40, sucrose
+purpose:
+  Purpose Oral analgesic
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away. Do not exceed recommended dosage.
+warnings:
+  Warnings Sore Throat Warning : Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a doctor promptly. Do not use for more than 2 days or give to children under 5 years of age. Stop use and ask a doctor if sore mouth symptoms do not improve in 7 days, or if irritation, pain or redness persists or worsens. If pregnant or breast feeding ask a health professional before use. Keep this and all drugs out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away. Do not exceed recommended dosage.
+spl_product_data_elements:
+  Cepacol Sore Throat from Post Nasal Drip menthol MENTHOL MENTHOL CETYLPYRIDINIUM CHLORIDE ANHYDROUS DEXTROSE ACESULFAME POTASSIUM PROPYLENE GLYCOL D&C RED NO. 33 SUCROSE C
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions adults and children 5 years or older: allow lozenge to dissolve slowly in the mouth; may be repeated every 2 hours as needed or as directed by a doctor or dentist. children under 5 years of age: do not use.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use.
+spl_unclassified_section:
+  C ēpacol® S ore Throat from Post Nasal Drip Cherry Lozenges
+  Other information store at room temperature (68-77°F) (20-25°C) protect contents from humidity
+stop_use:
+  Stop use and ask a doctor if sore mouth symptoms do not improve in 7 days, or if irritation, pain or redness persists or worsens.
+package_label_principal_display_panel:
+  Principal Display Panel COOLING VAPOR RELIEF Cēpacol ® Sore T hroat from Post Nasal Drip Menthol Oral Analgesic Lozenges Works Instantly #1 in Hospitals* CHERRY 18 Lozenges Principal Display Panel
+indications_and_usage:
+  Uses temporarily relieves occasional: sore throat pain sore mouth minor mouth irritation
+set_id:
+  2c5ca708-e836-4424-b28b-d9f104fe4c10
+id:
+  b8c0c546-66d1-413c-a919-879a88b5bd7f
+active_ingredient:
+  Active Ingredients (in each lozenge) Menthol 4.5 mg

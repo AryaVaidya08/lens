@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Foeniculum vulgare FENNEL SEED SUCROSE LACTOSE FENNEL SEED FENNEL SEED white
+active_ingredient:
+  ACTIVE INGREDIENTS FOENICULUM VULGARE
+purpose:
+  USES To relieve the symptoms of diarrhea.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: FOENICULUM VULGARE Diarrhea
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of FOENICULUM VULGARE is 2x–30x, 1c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Foeniculum vulgare
+set_id:
+  3563300f-2e96-4b13-824c-fb89a430a03c
+id:
+  db87a93e-3a85-ffcb-e053-2a95a90a816c
+effective_time:
+  20220331
+version:
+  3
+openfda:

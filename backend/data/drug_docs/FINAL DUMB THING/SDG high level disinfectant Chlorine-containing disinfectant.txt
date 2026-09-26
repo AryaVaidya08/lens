@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  SDG high level disinfectant Chlorine-containing disinfectant WATER SODIUM CHLORIDE CHLORIDE ION
+dosage_and_administration:
+  Method of use Surgical hand disinfection:It can be washed and sprayed with stock solution. It can be dried naturally after use. It is not necessary to wash with clean water Disinfection of medical devices:It can be soaked in stock solution or sprayed directly Skin disinfection:The medical gauze soaked in the original solution or soaked with the original solution can be washed repeatedly, wet applied to the disinfected part or sprayed directly on the disinfected part. Oral and pharyngeal disinfection:Gargle or spray repeatedly with stock solution for 3-5 times Mucosal disinfection:It can be sprayed with stock solution or directly washed after the stock solution is poured into the washer Disinfection of object surface:It can be scrubbed or sprayed directly with medical gauze soaked in stock solution or soaked with stock solution Disinfection of fruits, vegetables and tableware:It can be soaked in the stock solution or sprayed directly. It can be dried naturally after use without washing with clean water Tableware cleaning enterprises, food processing equipment and tool disinfection:It can be soaked in the stock solution or sprayed directly. It can be dried naturally after use without washing with clean water
+inactive_ingredient:
+  WATER
+indications_and_usage:
+  scope of application it is applicable to the sanitary cleaning and disinfection of skin, mouth, pharynx, object surface, fruits and vegetables and tableware in people's daily life; It is applicable to the disinfection of hands, medical instruments and vaginal mucosa (only for diagnosis and treatment in medical and health institutions) of medical personnel during surgery; It is suitable for tableware disinfection of production equipment of tableware cleaning enterprises and tableware distribution in catering industry; It is applicable to the disinfection of equipment and tools in direct contact with food in food processing enterprises.
+active_ingredient:
+  Sodium chloride
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  category of killing microorganisms SDG ™ The disinfectant has bactericidal effect on Staphylococcus aureus, Escherichia coli, Candida albicans and Bacillus subtilis black variant spores; It can inactivate poliovirus. The bactericidal rate reached 99.9999%, which is characterized by safety, reliability, no side effects, no irritation, completely killing COVID-19 and environmental protection.
+storage_and_handling:
+  sealed storage in a cool, dry and dark place
+warnings:
+  1. This product should be sealed and stored away from light; 2. Avoid prolonged exposure of liquids to air; 3. The product shall be stored in the environment within 4 ℃ - 40 ℃; 4. Valid for one year (use within 90 days after unsealing).
+package_label_principal_display_panel:
+  label
+set_id:
+  cf4c6b70-6946-7252-e053-2a95a90aeef9
+id:
+  cf4c6b70-6947-7252-e053-2a95a90aeef9
+effective_time:
+  20211026
+version:
+  1
+openfda:

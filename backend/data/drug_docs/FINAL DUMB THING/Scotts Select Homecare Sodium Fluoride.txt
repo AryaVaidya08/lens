@@ -1,0 +1,24 @@
+effective_time:
+  20190207
+inactive_ingredient:
+  Inactive Ingredients: Calcium Caseinate, Citric Acid, Flavor, Glycerine, Glydant, Sodium Benzoate, Sodium Hexameta Phosphate, Sodium Saccharine, TriCalcium Phosphate, Vitamin E, Water, Xanthan Gum, Xylitol.
+instructions_for_use:
+  Directions: Adults and children 6 years of age and older: Twist off cap to remove foil seal. Use once daily after brushing teeth thoroughly with toothpaste. Apply a small amount to a toothbrush and brush thoroughly on all tooth surfaces for at least 1 minute. Expectorate, do not swallow, do not eat, drink or rinse for at least 30 minutes. Children under 6 years of age: Consult a dentist or physcian.
+warnings:
+  Warnings: Do not swallow. To avoid ingestion, supervision is required while children are using the product. Keep out of reach of children.
+spl_product_data_elements:
+  Scotts Select Homecare Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION CASEIN CITRIC ACID MONOHYDRATE GLYCERIN DMDM HYDANTOIN SODIUM BENZOATE SODIUM POLYMETAPHOSPHATE SACCHARIN SODIUM TRICALCIUM PHOSPHATE .ALPHA.-TOCOPHEROL WATER XANTHAN GUM XYLITOL
+openfda:
+version:
+  2
+spl_unclassified_section:
+  Active Ingredient: 1.1% Sodium Fluoride.
+  Uses: Aids in prevention of dental caries and hypersensitivity. Use as directed by your dentist.
+storage_and_handling:
+  Store at controlled room temperature 59° - 86°F (15° - 30°C).
+package_label_principal_display_panel:
+  SCOTTSNEUTRAL1.1MINT
+set_id:
+  f68ec613-5d41-4619-8fa1-609da71022aa
+id:
+  45500dda-64be-45a9-89e3-5924b08c8455

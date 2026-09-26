@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Daily Moisturizing Dimethicone WATER GLYCERIN DISTEARYLDIMONIUM CHLORIDE PETROLATUM ISOPROPYL PALMITATE CETYL ALCOHOL OATMEAL BENZYL ALCOHOL SODIUM CHLORIDE DIMETHICONE DIMETHICONE
+spl_unclassified_section:
+  Claims DAILY MOISTURIZING lotion DERMATOLOGIST TESTED
+  Disclaimer *THIS PRODUCT IS NOT MANUFACTURED OR DISTRIBUTED BY JOHNSON & JOHNSON CORPOARATION, OWNER OF THE REGISTERED TRADEMARK AVEENO ® .
+active_ingredient:
+  Active Ingredient Dimethicone 1.3%
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses helps prevent and temporarily protects chafed, chapped or cracked skin helps protect from the drying effects of wind and cold weather
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do Not Use on deep or puncture wounds animal bites serious burns
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop Use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed
+inactive_ingredient:
+  Inactive ingredients water, glycerin, distearyldimonium chloride, petrolatum, isopropyl palmitate, cetyl alcohol, Avena sativa (oat) kernel flour, benzyl alcohol, sodium chloride
+adverse_reactions:
+  ADVERSE REACTION DISTRIBUTED BY LIDL US, LLC 3500 S. Clark Street Arlington, VA 22202 QUESTIONS? 1-844-344-5071 www.lidl.com STORE UPRIGHT IN A COOL, DRY PLACE. LiDL love it! Guarantee money refunded item replaced Empty & Discard Pump PLASTIC BOTTLE how2recycle.info
+package_label_principal_display_panel:
+  Principal display panel Compare to Aveeno Daily Moisturizing Lotion DAILY MOISTURIZING LOTION DIMETHICONE SKIN PROTECTANT by LIDl Relieves and Protects Dry Skin Dermatologist Tested Fragrance Free Paraben Free 18 FL OZ (1 PT 2 FL OZ) 532 mL image description
+  Principal display panel Cien by LiDL ® COMPARE TO AVEENO ® DAILY MOISTURIZING LOTION* DAILY MOISTURIZING lotion DIMETHICONE SKIN PROTECTANT Nourishes Dry Skin Leaves your skin soft, smooth, and healthy looking with oatmeal and rich emoilents Fragrance Free RELIEVES AND PROTECTS DRY SKIN 18 FL OZ (1.12 PT) 532 mL image description image description
+set_id:
+  5e83811f-773f-43e7-bab8-f9e558fb0e00
+id:
+  4a05587d-9908-882c-e063-6394a90af617
+effective_time:
+  20260204
+version:
+  10
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Daily Moisturizing
+  generic_name:
+    DIMETHICONE
+  manufacturer_name:
+    Lidl US, LLC
+  product_ndc:
+    71141-619
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    891710
+  spl_id:
+    4a05587d-9908-882c-e063-6394a90af617
+  spl_set_id:
+    5e83811f-773f-43e7-bab8-f9e558fb0e00
+  package_ndc:
+    71141-619-44
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

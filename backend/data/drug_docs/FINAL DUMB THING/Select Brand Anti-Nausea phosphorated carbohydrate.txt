@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Select Brand Anti-Nausea phosphorated carbohydrate WATER GLYCERIN METHYLPARABEN FD&C RED NO. 40 SUCROSE SUCROSE PHOSPHORIC ACID PHOSPHORIC ACID
+spl_unclassified_section:
+  DRUG FACTS
+  Other information Store at room temperature
+active_ingredient:
+  Active ingredients Phosphorated carbohydrate solution* *Each 5 mL contains: • 3.74g Total sugar • 21.5mg Phosphoric acid
+purpose:
+  Purpose Upset stomach reliever
+indications_and_usage:
+  Uses For relief of nausea due to upset stomach from intestinal flu, stomach flu, and food or drink indiscretions.
+warnings:
+  Warnings this product contains fructose and should not be taken by persons with hereditary fructose intolerance (HFI). As with any drug, if you are pregnant or nursing a baby, seek the advice of a health professional before using this product. Stop use and ask a doctor if symptoms persist, return or get worse KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. In case of accidental overdose, seek professional assistance or contact a Poison Control Center right away.
+ask_doctor:
+  As with any drug, if you are pregnant or nursing a baby, seek the advice of a health professional before using this product.
+stop_use:
+  Stop use and ask a doctor if symptoms persist, return or get worse
+keep_out_of_reach_of_children:
+  KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. In case of accidental overdose, seek professional assistance or contact a Poison Control Center right away.
+dosage_and_administration:
+  DOSAGE: Administer dosage below every 15 miutes or until distress subsides. Adults - One or two tablespoons. Children 2 to 12 - One or two teaspoons.
+inactive_ingredient:
+  Inactive ingredients FD&C Red No 40, flavor, glycerin, methylparaben, and purified water.
+package_label_principal_display_panel:
+  PACKAGE LABEL Lable Bottle Label
+  Carton image description
+set_id:
+  d0749234-5c63-4a48-8846-130f38a25fa0
+id:
+  b71350e1-f967-16cb-e053-2a95a90a3206
+effective_time:
+  20201222
+version:
+  3
+openfda:

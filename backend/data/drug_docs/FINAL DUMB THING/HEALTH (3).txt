@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  HEALTH SMART 70% ISOPROPYL RUBBING ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+active_ingredient:
+  Active ingredient lsopropyl alcohol (70% concentrate)
+purpose:
+  Purpose topical antimicrobial
+indications_and_usage:
+  Uses to decrease germs in minor cuts and scrapes. helps relieve minor muscular aches due to exertion.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire and flame. Will produce serious gastric disturbances if taken internally. Ask a doctor before use if you have deep puncture wounds or serious burns. When using this product do not get into eyes or mucous membranes. use only in a well-ventilated area. Stop use and ask a doctor if condition persists or gets worse.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions apply to skin directly of with clean gauze, cotton or swab for rubbing, apply liberally and rub with hands.
+storage_and_handling:
+  Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol. keep bottle tightly closed.
+inactive_ingredient:
+  Inactive ingredients Water.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+set_id:
+  c6b87846-aff1-42f5-853f-da707078eb2c
+id:
+  d498b296-304a-49c5-848b-b207aa92ffe2
+effective_time:
+  20200614
+version:
+  1
+openfda:

@@ -1,0 +1,52 @@
+spl_product_data_elements:
+  Bach Ready to Go Travel Kit Cherry Plum, Clematis, Impatiens, Rock Rose, Star of Bethlehem, Scleranthus, Walnut Bach Original Flower Remedies Scleranthus scleranthus annus WATER SCLERANTHUS ANNUUS FLOWERING TOP SCLERANTHUS ANNUUS FLOWERING TOP GLYCERIN Rescue Remedy Dropper helianthemum nummularium flower, clematis vitalba flower, impatiens glandulifera flower, prunus cerasifera flower, and ornithogalum umbellatum whole WATER CLEMATIS VITALBA FLOWER CLEMATIS VITALBA FLOWER GLYCERIN HELIANTHEMUM NUMMULARIUM FLOWER HELIANTHEMUM NUMMULARIUM FLOWER PRUNUS CERASIFERA FLOWER PRUNUS CERASIFERA FLOWER IMPATIENS GLANDULIFERA FLOWER IMPATIENS GLANDULIFERA FLOWER ORNITHOGALUM UMBELLATUM WHOLE ORNITHOGALUM UMBELLATUM WHOLE Bach Original Flower Remedies Walnut juglans regia WATER JUGLANS REGIA FLOWERING TOP JUGLANS REGIA FLOWERING TOP GLYCERIN
+active_ingredient:
+  Active ingredient (Each 5X HPUS)...................................................................................................... Purpose Bottle 1 : Rescue Remedy®: Cherry Plum, Clematis, Impatiens, Rock Rose, Star of Bethlehem.........Stress relief Bottle 2 : Scleranthus.............................................................................................................................Be decisive Bottle 3 : Walnut........................................................... .........................................................................Adapt to change 'HPUS’ indicates the ingredient is in the official Homeopathic Pharmacopoeia of the United States
+purpose:
+  Active ingredient (Each 5X HPUS)...................................................................................................... Purpose Bottle 1 : Rescue Remedy®: Cherry Plum, Clematis, Impatiens, Rock Rose, Star of Bethlehem.........Stress relief Bottle 2 : Scleranthus.............................................................................................................................Be decisive Bottle 3 : Walnut........................................................... .........................................................................Adapt to change 'HPUS’ indicates the ingredient is in the official Homeopathic Pharmacopoeia of the United States
+indications_and_usage:
+  Use For relief of naturally occuring simple nervous tension
+warnings:
+  Warnings Consult a doctor if symptoms last for more than 7 days or worsen. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions ■ Scleranthus & Walnut: 2 drops ■ Rescue Remedy®: 4 drops ■ take directly on the tongue or add to a beverage. Repeat as needed. ■ children under 2: ask a doctor before use
+other_safety_information:
+  Other information ■ store below 77ºF (25ºC) ■ do not use if tamper evident seal around bottle neck is missing or broken
+inactive_ingredient:
+  Inactive ingredients glycerin [vegetable], purified water
+package_label_principal_display_panel:
+  Product Label
+set_id:
+  07d6467d-e0ab-107a-e063-6394a90acb3a
+id:
+  07d6467d-e0ac-107a-e063-6394a90acb3a
+effective_time:
+  20231016
+version:
+  1
+openfda:
+  brand_name:
+    Bach Ready to Go Travel Kit
+  generic_name:
+    CHERRY PLUM, CLEMATIS, IMPATIENS, ROCK ROSE, STAR OF BETHLEHEM, SCLERANTHUS, WALNUT
+  manufacturer_name:
+    Nelson Bach USA Limited
+  product_ndc:
+    57687-316
+  product_type:
+    HUMAN OTC DRUG
+  spl_id:
+    07d6467d-e0ac-107a-e063-6394a90acb3a
+  spl_set_id:
+    07d6467d-e0ab-107a-e063-6394a90acb3a
+  package_ndc:
+    57687-316-30
+    57687-227-10
+    57687-306-10
+    57687-232-10
+  is_original_packager:
+    True

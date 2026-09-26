@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Smelling Salts Ammonia inhalant, Smelling Salts AMMONIA AMMONIA WATER COTTON
+active_ingredient:
+  Ammonia 15%
+purpose:
+  Inhalant
+indications_and_usage:
+  Use For the temporary stimulation of the senses to restore alertness.
+warnings:
+  Warnings For inhalation use only. Do not ingest or apply to skin. Avoid direct contact with eyes. If contact occurs, rinse thoroughly with water for 15 minutes. Use only as directed. Misuse may be harmful. Use in a well-ventilated area. Do not use in enclosed spaces. Prolonged exposure may cause irritation. Discontinue use if discomfort occurs. Possible side effects include nasal irritation, coughing, or shortness of breath. If symptoms persist, discontinue use and consult a doctor.
+do_not_use:
+  Do not use If you have respiratory conditions such as asthma or emphysema. If you have heart disease or high blood pressure. If you are allergic to ammonia or strong odors.
+when_using:
+  When using this product Avoid contact with eves, ears, and mouth. If product gets into eyes, rinse thoroughly with water for 15 minutes. Stop use and ask a doctor if irritation or rash occurs.These may be signs of a serious condition.
+stop_use:
+  Stop Use Section Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  OTC - Keep Out of Reach of Children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately at 1-800-222-1222.
+dosage_and_administration:
+  Directions Hold bottle 10-15 cm (4-6 inches) from nostrils. Inhale gently. Do not place directly inside the nostrils. Do not inhale for more than 2 seconds per use. Do not use more than 10 times per day. Use only as needed. If symptoms persist, consult a healthcare professional.
+storage_and_handling:
+  Other Information Store in a cool, dry place at 15-25℃ (59-77°F). Avoid freezing, excessive heat above 40°°C (104°F), and direct sunlight. Do not use if safety seal under cap is broken
+inactive_ingredient:
+  Inactive Ingredients Water, Cotton and Original flavor
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  87827-001-01 87827-001-02 87827-001-03 87827-001-04 87827-001-05
+set_id:
+  558e8629-6a8d-198d-e063-6294a90ac5fc
+id:
+  59640467-3e20-32f7-e063-6294a90a29f4
+effective_time:
+  20260819
+version:
+  2
+openfda:
+  brand_name:
+    Smelling Salts
+  generic_name:
+    AMMONIA INHALANT, SMELLING SALTS
+  manufacturer_name:
+    Shenzhen Leadtop E-commerce Co.,Ltd.
+  product_ndc:
+    87827-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    RESPIRATORY (INHALATION)
+  substance_name:
+    AMMONIA
+  rxcui:
+    1299889
+  spl_id:
+    59640467-3e20-32f7-e063-6294a90a29f4
+  spl_set_id:
+    558e8629-6a8d-198d-e063-6294a90ac5fc
+  package_ndc:
+    87827-001-01
+    87827-001-02
+    87827-001-03
+    87827-001-04
+    87827-001-05
+  is_original_packager:
+    True
+  unii:
+    5138Q19F1X

@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Owell Naturals Draw Salve with Camphor Camphor WHITE WAX CALENDULA OFFICINALIS FLOWER ARNICA MONTANA FLOWER LAVENDER OIL TEA TREE OIL WHITE PINE OIL EUCALYPTUS OIL OLIVE OIL CASTOR OIL FRANKINCENSE OIL METHYL SALICYLATE CAMPHOR (NATURAL) CAMPHOR (NATURAL) COMFREY LEAF SILICON DIOXIDE
+active_ingredient:
+  CAMPHORA [HPUS]
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains associated with Boils Cysts Splinters Thorns Ingrown Hairs Pain Itch & Irritation Relief Dry Skin Insect Bites Bee Sting Cuts Poison Ivy/Oak Burns
+do_not_use:
+  Do not Use on wounds or damaged skin with a heating pad on a child under 12 years of age with arthritis-like conditions
+ask_doctor:
+  Ask a doctor before use if you have redness over the affected area
+when_using:
+  When using this product avoid contact with eyes or other sensitive areas do not bandage tightly
+stop_use:
+  Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days excessive skin irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children to avoid accidental ingestion. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Use only as directed adults and children 12 years of age and older, apply to affected area children under 12 years of age, ask a doctor
+other_safety_information:
+  store at room temperature
+questions:
+  Questions? Customer Care: www.owellnaturals.com
+inactive_ingredient:
+  Inactive Ingredients Arnica Montana Flower Extract, Beeswax, Boswellia carterii (Frankincense) Oil, Calendula Officinalis (Marigold) Extract, Eucalyptus Oil, Lavandula angustifolia (Lavender) Oil, Melaleuca alternifolia (Tea Tree) Oil, Methyl Salicylate, Olea Europaea (Olive) Fruit Oil, Pinus sylvestris (Pine) Leaf Oil, Ricinus communis (Castor) Seed Oil, Silica, Symphytum Officinale (Comfrey) Leaf Extract
+purpose:
+  External Analgesic
+warnings:
+  Allergy Alert: If prone to allergic reaction from aspirin or salicylate, consult your doctor before using. Do Not Use: on wounds or damaged skin with a heating pad on a child under 12 years of age with arthritis-like conditions Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days
+recent_major_changes:
+  Uses No Major Changes. This is a Second product for this client. Doses and Administration. No major changes
+package_label_principal_display_panel:
+  NEW LABEL ART OWELL DRAW SALVE W CAMPHORA AND NEW TEXT 1.0 Camphora w NEW TEXT
+set_id:
+  1c5cc9c6-a77a-75d8-e063-6294a90ad6c0
+id:
+  2cee6ab6-bb3c-2cfd-e063-6394a90a9ea6
+effective_time:
+  20241014
+version:
+  3
+openfda:
+  brand_name:
+    Owell Naturals Draw Salve with Camphor
+  generic_name:
+    CAMPHOR
+  manufacturer_name:
+    Owell Naturals Brand LLC
+  product_ndc:
+    83570-491
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CAMPHOR (NATURAL)
+  spl_id:
+    2cee6ab6-bb3c-2cfd-e063-6394a90a9ea6
+  spl_set_id:
+    1c5cc9c6-a77a-75d8-e063-6294a90ad6c0
+  package_ndc:
+    83570-491-01
+  is_original_packager:
+    True
+  upc:
+    0850057105117
+  unii:
+    N20HL7Q941

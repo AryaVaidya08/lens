@@ -1,0 +1,88 @@
+spl_product_data_elements:
+  TriDerma Eczema Fast Healing Face Body E Relief DIMETHICONE 100 BEESWAX ALOE VERA LEAF JUICE SHEA BUTTER ALLANTOIN ARNICA MONTANA FLOWER AVENA SATIVA (OAT) KERNEL OIL PANTHENOL CETYL ALCOHOL SODIUM PCA ISOPROPYL PALMITATE OATMEAL OATMEAL
+warnings:
+  WARNINGS For external use only
+purpose:
+  PURPOSE Skin Protectant
+dosage_and_administration:
+  DIRECTIONS apply twice a day or as often as needed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Allantoin, Aloe Barbadensis Leaf Juice*, Arnica Montana Flower Extract, Avena Sativa Kernel Oil, Butyrospermum Parkii (Shea) Butter, Cera Alba (Beeswax), Cetearyl Alcohol, Cetyl Alcohol, Dimethicone, Ethylhexylglycerin, Glycerin, Isopropyl Palmitate, Lactic Acid, Panthenol (Pro-Vitamin B5), Phenoxyethanol, Polysorbate 60, Sodium Hyaluronate, Sodium PCA, Sodium Phytate, Tocopheryl Acetate (Vitamin E), Urea, Water, Zinc PCA *Certified Organic Ingredient - Mayacert Certifier
+active_ingredient:
+  ACTIVE INGREDIENT Colloidal Oatmeal 2%
+indications_and_usage:
+  USES temporarily protects and helps relieve minor skin irritation and itching due to: •eczema •rashes
+do_not_use:
+  DO NOT USE: on deep puncture wounds, on infections, on lacerations
+when_using:
+  WHEN USING THIS PRODUCT: do not get into eyes
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN if swallowed get medical help and contact a Poison Control Center right away.
+stop_use:
+  STOP USE AND ASK A DOCTOR IF: condition worsens or does not improve within 7 days.
+package_label_principal_display_panel:
+  PACKAGING eczema 4.2 154.jpg eczema 6.154.jpg eczema 4.2 carton 154.jpg eczema 2.2 154.jpg eczema 2.2 carton 154.jpg
+set_id:
+  f7cdc3c3-4bbd-4e7b-a5cf-b75d9db62a20
+id:
+  49a43abd-6506-1a89-e063-6294a90a5385
+effective_time:
+  20260130
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    TriDerma Eczema Fast Healing Face Body
+  generic_name:
+    E RELIEF
+  manufacturer_name:
+    Genuine Virgin Aloe Corporation
+  product_ndc:
+    10738-154
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OATMEAL
+  rxcui:
+    1189915
+  spl_id:
+    49a43abd-6506-1a89-e063-6294a90a5385
+  spl_set_id:
+    f7cdc3c3-4bbd-4e7b-a5cf-b75d9db62a20
+  package_ndc:
+    10738-154-25
+    10738-154-20
+    10738-154-45
+    10738-154-40
+    10738-154-65
+  is_original_packager:
+    True
+  upc:
+    0182228000779
+    0818926010214
+    0818926010344
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    N0000185016
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    8PI54V663Y

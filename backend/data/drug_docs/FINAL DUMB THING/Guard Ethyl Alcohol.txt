@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Guard Ethyl Alcohol ALCOHOL ALCOHOL WATER POLYETHYLENE GLYCOL 300 ISOPROPYL ALCOHOL GLYCERIN ISOPROPYL MYRISTATE ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE, DL- ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER (10000 MPA.S NEUTRALIZED AT 0.5%)
+active_ingredient:
+  Active Ingredients Ethyl Alcohol (75%)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For Personal hand hygiene to help the spread of bacteria and can be used in place of hand washing if soap and water are not available.
+warnings:
+  Warnings For External use only Flammable Keep away from source of heat or fire. When using this product Avoid contact with eyes. If contact occurs, rinse thoroughly with water. Do not Inhale. Do not use on children less than 2 months of age on open skin wounds on broken or damaged skin Stop use and ask a doctor If Irritation or redness develops and lasts. Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Centre immediately
+when_using:
+  When using this product Avoid contact with eyes. If contact occurs, rinse thoroughly with water. Do not Inhale.
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds on broken or damaged skin
+stop_use:
+  Stop use and ask a doctor If Irritation or redness develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Centre immediately
+dosage_and_administration:
+  Directions For occasional and personal use Rub thoroughly into hands for at least 30 seconds. Allow to dry Children under 6 years should be supervised when using this product
+storage_and_handling:
+  Other Information Store at a temperature below 110 0 F (43 0 C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), PEG-6, Fragrance (Parfum), Isopropyl Alcohol, Glycerin, Isopropyl Myristate, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate, AMP-Acrylates/Vinyl Isodecanate Crosspolymer
+questions:
+  Questions or comments ? 1-866-695-3030
+package_label_principal_display_panel:
+  Principal Display Panel 2 oz Principal Display Panel 2 oz
+  Principal Display Panel 8 oz Principal Display Panel 8 oz
+  Principal Display Panel 15 oz Principal Display Panel 15 oz
+  Principal Display Panel 32 oz Principal Display Panel 32 oz
+  Principal Display Panel 40 oz Principal Display Panel 40 oz
+  Principal Display Panel 64 oz Principal Display Panel 64 oz
+  Principal Display Panel 128 oz Principal Display Panel 128 oz
+set_id:
+  044f2e83-b5a1-453a-a487-38a9dff2f7c3
+id:
+  964e2b8b-27de-46d6-b010-6102cad194a5
+effective_time:
+  20201127
+version:
+  1
+openfda:

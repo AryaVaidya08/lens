@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Novo ProSeries Antibacterial Foaming Chloroxylenol SODIUM CHLORIDE CITRIC ACID MONOHYDRATE COCO DIETHANOLAMIDE DMDM HYDANTOIN ALCOHOL ISOPROPYL ALCOHOL FD&C RED NO. 4 SODIUM LAURETH SULFATE WATER CHLOROXYLENOL CHLOROXYLENOL FD&C YELLOW NO. 5
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Noble Chemical, Inc. 2205 Old Philadelphia Pike Lancaster, PA 17602
+active_ingredient:
+  Active ingredient Chloroxylenol 0.3% w/w
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Handwash to help reduce bacteria on the skin that can potentially cause disease. Recommended for repeated use.
+warnings:
+  Warnings For external use only. When using this product keep away from eyes. In case of eye contact, rinse eyes with water. Stop use and ask a doctor if irritation or redness develop or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep away from eyes. In case of eye contact, rinse eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands with water and dispense sufficient amount of product into cupped palm of hand. Wash both hands thoroughly for 15 seconds. Rinse under running water and dry thoroughly.
+inactive_ingredient:
+  Inactive Ingredients Water, Sodium Laureth Sulfate, Sodium Chloride, Cocamide DEA, DMDM Hydantoin, Alcohol, Fragrance, Isopropyl Alcohol, Citric Acid, FD&C Yellow 5, FD&C Red 4.
+package_label_principal_display_panel:
+  novo ProSeries Antibacterial Foaming Hand Soap Choroxylenol 0.3% ocean breeze scented 1000mL (33.8 FL. OZ.) 81551-063 Rev
+set_id:
+  c0f98488-c0b7-3d21-e053-2995a90a9db4
+id:
+  e99b4b38-5abb-3ccd-e053-2a95a90a1bc0
+effective_time:
+  20220926
+version:
+  3
+openfda:

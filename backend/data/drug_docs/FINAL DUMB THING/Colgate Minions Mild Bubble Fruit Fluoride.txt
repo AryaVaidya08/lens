@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Colgate Minions Mild Bubble Fruit Fluoride SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA POLYETHYLENE GLYCOL 600 CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED SODIUM LAURYL SULFATE SACCHARIN SODIUM FD&C BLUE NO. 1 D&C YELLOW NO. 10
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="70%" styleCode="Noautorules"><col width="30%" align="left" valign="top"/><col width="70%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to 6 years</td><td>use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode="Rrule">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients sorbitol, water, hydrated silica, PEG-12, cellulose gum, sodium lauryl sulfate, flavor, sodium saccharin, mica, titanium dioxide, D&C yellow no. 10, FD&C blue no. 1
+questions:
+  Questions? 1-800-468-6502
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 130 g Tube Label Colgate ® Fluoride Toothpaste CLINICALLY PROVEN Cavity & Enamel Protection ILLUMINATION ENTERTAINMENT minions ™ ADA Accepted American Dental Association ® Toothpaste NET WT 4.6 OZ (130 g) Mild BUBBLE FRUIT ® PRINCIPAL DISPLAY PANEL - 130 g Tube Label
+set_id:
+  f6a0ffb4-2149-44d8-adf6-aea9bc9608ff
+id:
+  e4dd6192-aa5d-47f2-90b7-a29a8c444b40
+effective_time:
+  20190405
+version:
+  6
+openfda:

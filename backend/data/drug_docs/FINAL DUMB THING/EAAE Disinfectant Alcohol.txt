@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  EAAE Disinfectant Alcohol CARBOMER 934 TROLAMINE GLYCERIN HYDROGENATED CASTOR OIL ALOE VERA WHOLE ALCOHOL ALCOHOL
+active_ingredient:
+  Ethyl Alcohol 75% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin
+warnings:
+  Warnings For external use only. Non Medical. Flammable. Keep away from fire or flame When using this product, do not use in or near eyes, In case of contact, rinse eyes thoroughly with water
+stop_use:
+  Stop use and consult a doctor if irritation or rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek immmediate medical help or contact a poison control center
+dosage_and_administration:
+  Directions Apply liberally to the hands and rub until dry
+inactive_ingredient:
+  Inactive ingredients Water, Carbomer, Triethanolamine, Glycerin, Perfume, Castor Oil, Hydrogenated, Aloe Vera Extract
+package_label_principal_display_panel:
+  image description
+set_id:
+  4f5590d4-0a24-472e-ab0c-060b7f727362
+id:
+  cfda6b6c-2147-4451-e053-2a95a90aa0ad
+effective_time:
+  20211102
+version:
+  2
+openfda:

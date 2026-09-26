@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Strawberries Hand Sanitizer Alcohol GLYCERIN WATER PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE AMINOMETHYLPROPANOL ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL FD&C RED NO. 40
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75% v/v.
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria on the skin that may cause disease.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame.
+when_using:
+  When using this product avoid contat with face, eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical advice. Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub into skin until dry. Children 6 years and younger need adult supervision when using this product.
+storage_and_handling:
+  Other information Store at temperatures below 110 o F (43 o C).
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Propylene Glycol, Carbomer, Fragrance, Aminomethyl propanol, Aloe Barbadensis (Aloe Vera) Gel, Tocopheryl Acetate (Vitamin E), FD&C Red No. 40
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1
+set_id:
+  aebd64ed-e068-289f-e053-2a95a90ae3cf
+id:
+  aebd7a2d-662a-2752-e053-2a95a90a08a7
+effective_time:
+  20200907
+version:
+  1
+openfda:

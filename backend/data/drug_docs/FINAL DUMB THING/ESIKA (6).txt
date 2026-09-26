@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  ESIKA WINNER BLACK ANTIPERSPIRANT ROLL-ON DEODORANT ALUMINUM SESQUICHLOROHYDRATE WATER STEARETH-2 PPG-15 STEARYL ETHER STEARETH-21 DICAPRYLYL CARBONATE CYCLOMETHICONE 5 BENZYL ALCOHOL TRICLOSAN CYCLOMETHICONE 6 EDETATE SODIUM LEVOMENOL .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- BENZYL SALICYLATE LIMONENE, (+)- COUMARIN ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient ALUMINUM SESQUICHLOROHYDRATE 13.60 %
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses Reduces underarm perspiration
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children .If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+stop_use:
+  Stop use if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children .If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients WATER, STEARETH-2, PPG-15 STEARYL ETHER, STEARETH-21, FRAGRANCE, DICAPRYLYL CARBONATE, CYCLOPENTASILOXANE, BENZYL ALCOHOL, TRICLOSAN, CYCLOHEXASILOXANE, HYDROXYACETOPHENONE, TETRASODIUM EDTA, BISABOLOL, HEXYL CINNAMAL, LINALOOL, BENZYL SALICYLATE, d-LIMONENE, COUMARIN.
+questions:
+  Dist. by Ventura Corp, Ltd., San Juan, Puerto Rico 00926.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Label WINNER BLACK ANTIPERSPIRANT ROLL-ON DEODORANT ésika 50 ml e (1.6 fl.oz.) Principal Display Panel - 50 ml Bottle Label
+set_id:
+  ccb51121-882d-4346-befc-a4e0a1c44b98
+id:
+  31fb3375-00b1-e119-e063-6394a90a5905
+effective_time:
+  20250404
+version:
+  2
+openfda:

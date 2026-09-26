@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Delta Germ Hand Sanitizer Ethyl Alcohol AMINOMETHYLPROPANOL WATER GLYCERIN .ALPHA.-TOCOPHEROL ACETATE HYDROLYZED JOJOBA ESTERS (ACID FORM) CARBOMER INTERPOLYMER TYPE A (55000 CPS) ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 62%v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses helps reduce bacteria on the skin that could cause disease
+dosage_and_administration:
+  Directions Place enough product in your palm to thoroughly cover your hands Rub hands together briskly until dry Children should be supervised when using this product. For personal and occasional domestic use
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact Poison Control right away
+ask_doctor:
+  Ask Doctor Stop Use and Ask a doctor if irritation or redness develops
+other_safety_information:
+  Safety Instructions Flammable, Keep away from fire and flame
+  Other Information Store below 15-30°C May discolor certain fabrics or surfaces. Avoid freezing and excessive heat
+inactive_ingredient:
+  Inactive Ingredients water, hydrolyzed jojoba esters, glycerin, Acrylates C10-30 Alkyl Acrylate Crosspolymer, fragrance, aminomethyl propanol, Vitamin E
+package_label_principal_display_panel:
+  Sani
+set_id:
+  b828a332-a203-d8d7-e053-2995a90a6def
+id:
+  b828a332-a204-d8d7-e053-2995a90a6def
+effective_time:
+  20210105
+version:
+  1
+openfda:

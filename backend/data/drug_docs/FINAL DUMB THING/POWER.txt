@@ -1,0 +1,27 @@
+effective_time:
+  20200116
+inactive_ingredient:
+  Magnolia officinalis, cinnamon, Gleditsia japonica, barberry root, Asteris Radix, ballon flower, Zingiber officinale, japanese aconite root
+purpose:
+  prevention and treatment of Atopy, allergy, rhinitis
+keep_out_of_reach_of_children:
+  keep out or reach of the children
+warnings:
+  Take the appropriate amount. If any of symptoms occur, consult with your doctor or pharmacist.
+spl_product_data_elements:
+  POWER GEMSTONE ginseng MAGNOLIA OFFICINALIS WHOLE PANAX GINSENG WHOLE PANAX GINSENG WHOLE None
+openfda:
+version:
+  2
+dosage_and_administration:
+  6 times a day
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  6 times a day (Every 4 hours) Dose: 4g
+set_id:
+  734cd871-42e3-38e6-e053-2a91aa0ae962
+id:
+  9c4f51da-ef56-2806-e053-2a95a90a61b4
+active_ingredient:
+  ginseng

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Hand sanitizer Hand sanitizer WATER ALCOHOL ALCOHOL
+dosage_and_administration:
+  Uses to decrease bacteria on the skin that could cause disease. recommended for repeated use.
+warnings:
+  For external use only. Flammable.Keep away from fire or flame
+when_using:
+  keep out of eyes. ln case of contact with eyes. flush thoroughly with water. avoid contact with broken skin . do not inhale or ingest.
+stop_use:
+  irritation or redness develops . condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  If swallowed. get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Place enough product on hands to cover all surfaces.Rub hands together until dry.Supervise children under 6 years of agewhen using this product to avoid swallowing.
+how_supplied:
+  other information Do not store above 105°F May discolor some fabrics Harmful to wood finishes and plastics.
+inactive_ingredient:
+  purified water
+active_ingredient:
+  ALCOHOL 75%
+purpose:
+  Disinfection Sterilization
+package_label_principal_display_panel:
+  label
+set_id:
+  b4fd6a78-983c-b692-e053-2995a90a06e0
+id:
+  b4fd6a78-983d-b692-e053-2995a90a06e0
+effective_time:
+  20201126
+version:
+  1
+openfda:

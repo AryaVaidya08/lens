@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Signature Care Hydrocortisone Hydrocortisone HYDROCORTISONE HYDROCORTISONE ALOE VERA LEAF POLYOXYL 20 CETOSTEARYL ETHER CETOSTEARYL ALCOHOL CETYL PALMITATE GLYCERIN ISOPROPYL MYRISTATE METHYLPARABEN WATER ISOSTEARYL NEOPENTANOATE
+active_ingredient:
+  Active ingredient Hydrocortisone 1%
+purpose:
+  Purpose Anti-itch
+indications_and_usage:
+  Uses • temporarily relieves itching associated with minor skin irritations, inflammation, and rashes due to: • eczema • psoriasis • poison ivy, oak, sumac • insect bites • detergents • jewelry • cosmetics • soaps • seborrheic dermatitis • temporarily relieves external anal and genital itching • other uses of this product should only be under the advice and supervision of a doctor
+warnings:
+  Warnings For external use only Do not use • in the genital area if you have a vaginal discharge. Consult a doctor. • for the treatment of diaper rash. Consult a doctor. When using this product • avoid contact with the eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if • condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor • rectal bleeding occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • in the genital area if you have a vaginal discharge. Consult a doctor. • for the treatment of diaper rash. Consult a doctor.
+when_using:
+  When using this product • avoid contact with the eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if • condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor • rectal bleeding occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • for itching of skin irritation, inflammation, and rashes: • adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily • children under 2 years of age: do not use, Consult a doctor • for external anal and genital itching, adults: • when practical, clean the affected area with mild soap and warm water and rinse thoroughly • gently dry by patting or blotting with toilet tissue or a soft cloth before applying • apply to affected area not more than 3 to 4 times daily • children under 12 years of age: Consult a doctor
+storage_and_handling:
+  Other information • store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients water, cetearyl alcohol, ceteareth-20, cetyl palmitate, glycerin, isopropyl myristate, isostearyl neopentanoate, methylparaben, aloe barbadensis leaf juice
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Cortizone -10 ® active ingredient Quality Guaranteed Hydrocortisone 1% Cream Anti-Itch Cream WITH SOOTHING ALOE #1 DOCTOR RECOMMENDED ANTI-ITCH ACTIVE INGREDIENT MAXIMUM STRENGTH LASTS 10 HOURS Skin irritation & rashes Insect bites – Poison ivy Eczema & psoriasis Inflammation & redness Absorbs quickly With soothing aloe NET WT 2 OZ (56 g) hydrocortisone 1 percent cream image
+set_id:
+  beefab66-b056-4bf1-b047-0780704ab87e
+id:
+  354a0f3a-b56f-4b72-ba54-b128b7b64e70
+effective_time:
+  20241029
+version:
+  6
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Signature Care Hydrocortisone
+  generic_name:
+    HYDROCORTISONE
+  manufacturer_name:
+    Safeway
+  product_ndc:
+    21130-395
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HYDROCORTISONE
+  rxcui:
+    106258
+  spl_id:
+    354a0f3a-b56f-4b72-ba54-b128b7b64e70
+  spl_set_id:
+    beefab66-b056-4bf1-b047-0780704ab87e
+  package_ndc:
+    21130-395-16
+    21130-395-64
+  is_original_packager:
+    True
+  nui:
+    N0000175576
+    N0000175450
+  pharm_class_epc:
+    Corticosteroid [EPC]
+  pharm_class_moa:
+    Corticosteroid Hormone Receptor Agonists [MoA]
+  unii:
+    WI4X0X7BPJ

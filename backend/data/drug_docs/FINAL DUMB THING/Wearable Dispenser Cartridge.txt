@@ -1,0 +1,35 @@
+effective_time:
+  20170614
+inactive_ingredient:
+  Inactive Ingredients Deionized Water, Methylpropanediol, Phenoxyethanol, Cetyl Lactate, Glycerin, Hydroxypropyl Cellulose, Polyquaternium-6, Behentrimonium Methosulfate, Fragrance
+purpose:
+  Purpose Health-care personnel handwash
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Flammable, keep away fire or flame. For external use only. When using this product keep out of eyes. If splashed in eyes, rinse promptly and thoroughly with water. Stop use and ask a doctor if irritation and redness develop
+when_using:
+  When using this product keep out of eyes. If splashed in eyes, rinse promptly and thoroughly with water.
+questions:
+  Questions or comments? 847-440-6215 www.swipesense.com
+spl_product_data_elements:
+  Wearable Dispenser Cartridge SCS Isopropyl Alcohol WATER METHYLPROPANEDIOL PHENOXYETHANOL LACTIC ACID GLYCERIN HYDROXYPROPYL CELLULOSE (TYPE H) POLYQUATERNIUM-6 (150000 MW) BEHENTRIMONIUM METHOSULFATE ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions clean hands thoroughtly prior to application apply product to hands and rub thoroughly to dry
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Swipe Sense Wearable Dispenser Cartridges - SCS+ Antiseptic Handrub with Enhanced Emollients Isopropyl Alcohol 63% Net Content 42 Cartridges 38mL Ea. 1,596mL (54 fl oz) For Hospital and Professional Use Only Manufactured for: SwipeSense, Inc. 4617 N. Ravenswood Ave. Chicago, IL 60640 USA Principal Display Panel
+indications_and_usage:
+  Use handwash to help reduce bacteria that potentially can cause disease recommended for repeated use
+set_id:
+  59bf7b37-f158-4967-bdfe-302b29be3fa3
+id:
+  51f23212-a0a6-4cfa-e054-00144ff88e88
+active_ingredient:
+  Active ingredient Isopropyl Alcohol 63% v/v

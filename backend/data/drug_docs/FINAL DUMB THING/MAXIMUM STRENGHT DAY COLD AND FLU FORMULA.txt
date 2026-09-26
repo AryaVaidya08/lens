@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  MAXIMUM STRENGHT DAY COLD AND FLU FORMULA ACETAMINOPHEN, DEXTROMETHORPHAN, PHENYLEPHRINE HCL ACETAMINOPHEN ACETAMINOPHEN POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE SHELLAC TITANIUM DIOXIDE PROPYLENE GLYCOL SORBITOL DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN WATER 70
+active_ingredient:
+  Active ingredients (in each softgel) Acetaminophen 325 mg Dextromethorphan hydrobromide 10 mg Phenylephrine hydrochloride 5 mg
+purpose:
+  Purposes Pain reliever/fever reducer Cough suppressant Nasal decongestant
+indications_and_usage:
+  Uses · temporarily relieves these symptoms due to a cold or flu: · minor aches and pains · headache · cough · sore throat · nasal and sinus congestion · temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take · more than 4,000 mg of acetaminophen in 24 hours · with other drugs containing acetaminophen · 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin or severe allergic reactions. Symptoms may include: · skin reddening · blisters · rash · hives · facial swelling · asthma (wheezing) · shock If a skin or general allergic reaction occurs, stop use and seek medical help right away. Sore throat warning : If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away(1800 222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions: · do not take more than the recommended dose · adults and children 12 years and over: take 2 sofgels with water every 4 hours. Do not exceed 10 capsules in 24 hours or as directed by a doctor. · children under 12 years: do not use
+inactive_ingredient:
+  Inactive ingredients FD&C red #40, FD&C yellow #6, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, shellac, sorbitol sorbitan solution, titanium dioxide
+package_label_principal_display_panel:
+  12 CT
+set_id:
+  aa8ebccf-6813-2dca-e053-2a95a90a032b
+id:
+  2e2d13f2-9446-dd98-e063-6394a90a9abb
+effective_time:
+  20250215
+version:
+  4
+openfda:
+  application_number:
+    M012
+  brand_name:
+    MAXIMUM STRENGHT DAY COLD AND FLU FORMULA
+  generic_name:
+    ACETAMINOPHEN, DEXTROMETHORPHAN, PHENYLEPHRINE HCL
+  manufacturer_name:
+    FAMILY DOLLAR
+  product_ndc:
+    55319-933
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    DEXTROMETHORPHAN HYDROBROMIDE
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1086997
+  spl_id:
+    2e2d13f2-9446-dd98-e063-6394a90a9abb
+  spl_set_id:
+    aa8ebccf-6813-2dca-e053-2a95a90a032b
+  package_ndc:
+    55319-933-22
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D
+    9D2RTI9KYH
+    04JA59TNSJ

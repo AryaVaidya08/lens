@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Muro 128 sodium chloride BORIC ACID HYPROMELLOSE, UNSPECIFIED PROPYLENE GLYCOL WATER SODIUM BORATE HYDROCHLORIC ACID SODIUM HYDROXIDE METHYLPARABEN PROPYLPARABEN SODIUM CHLORIDE SODIUM CATION
+spl_unclassified_section:
+  Drug Facts
+  Other information store upright at 15-25 °C (59-77 °F) keep tightly closed serious side effects associated with use of the product may be reported to the phone number provided below
+active_ingredient:
+  Active ingredient Sodium chloride 2%
+purpose:
+  Purpose Hypertonicity agent
+indications_and_usage:
+  Uses temporary relief of corneal edema
+warnings:
+  Warnings For external use only Do not use except under the advice and supervision of a doctor if solution changes color or becomes cloudy When using this product it may cause temporary burning and irritation to avoid contamination, do not touch tip of container to any surface replace cap after use Stop use and ask a doctor if condition worsens or persists for more than 72 hours you experience eye pain, changes in vision, continued redness or irritation of the eye
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Instill 1 or 2 drops in the affected eye(s) every 3 or 4 hours, or as directed by a doctor.
+inactive_ingredient:
+  Inactive ingredients boric acid, hypromellose, methylparaben, propylene glycol, propylparaben, purified water, sodium borate. Hydrochloric acid and/or sodium hydroxide may be added to adjust pH.
+questions:
+  Questions or comments? [telephone icon] Call 1-800-553-5340 Muro 128 is a trademark of Bausch & Lomb Incorporated or its affiliates. © 2022 Bausch & Lomb Incorporated or its affiliates Marketed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA 9756801 AB15511
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel BAUSCH + LOMB NDC 24208-276-15 Muro 128® sodium chloride hypertonicity ophthalmic solution, 2% SOLUTION 2% Temporary Relief of Corneal Edema STERILE 1/2 FL OZ (15mL) carton2%
+set_id:
+  cc3d5bc8-9d3c-4c65-9e43-707a2db4081a
+id:
+  22f593c0-980c-0fc9-e063-6394a90a445d
+effective_time:
+  20240925
+version:
+  8
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Muro 128
+  generic_name:
+    SODIUM CHLORIDE
+  manufacturer_name:
+    Bausch & Lomb Incorporated
+  product_ndc:
+    24208-276
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    SODIUM CHLORIDE
+  rxcui:
+    750121
+    750137
+  spl_id:
+    22f593c0-980c-0fc9-e063-6394a90a445d
+  spl_set_id:
+    cc3d5bc8-9d3c-4c65-9e43-707a2db4081a
+  package_ndc:
+    24208-276-15
+  is_original_packager:
+    True
+  upc:
+    0324208276150
+  unii:
+    451W47IQ8X

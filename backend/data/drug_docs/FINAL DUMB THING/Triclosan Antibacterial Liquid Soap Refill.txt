@@ -1,0 +1,31 @@
+effective_time:
+  20160530
+inactive_ingredient:
+  Inactive Ingredients Water, Sodium Laureth Sulfate, Sodium Chloride, DMDM Hydantoin, Citric Acid, Fragrance, EDTA, Yellow #5, Red# 33
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  For external use only
+when_using:
+  When using this product do not get it into eyes, if contact occurs, rinse eye thoroughly with water
+spl_product_data_elements:
+  Triclosan Antibacterial Liquid Soap Refill TRICLOSAN TRICLOSAN WATER SODIUM LAURETH SULFATE SODIUM CHLORIDE EDETIC ACID FD&C YELLOW NO. 5 D&C RED NO. 33 DMDM HYDANTOIN ANHYDROUS CITRIC ACID
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Wet hands apply palmful to hands scrub throughly rinse
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops
+package_label_principal_display_panel:
+  Package Label ​Spa Soap Antibacterial Liquid Soap Refill Antibacterial Liquid Soap
+indications_and_usage:
+  Uses for handwashing or decrease bacteria to the skin
+set_id:
+  2ae1fa17-272e-2cca-e054-00144ff8d46c
+id:
+  34100d44-e308-6fc0-e054-00144ff8d46c
+active_ingredient:
+  Drug Facts Active Ingredients Triclosan 0.115%

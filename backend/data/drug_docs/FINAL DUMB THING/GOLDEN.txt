@@ -1,0 +1,27 @@
+effective_time:
+  20190330
+inactive_ingredient:
+  water, butylene glycol, dipropylene glycol, arbutin, glycosyl trehalose, hydrogenated starch hydrolysate, glycereth-26, ammonium acryloyldimethyltaurate/vp copolymer, peg/ppg-17/6 copolymer, panthenol, peg-40 hydrogenated castor oil, hydrolyzed extensin, portulaca oleracea ext, iris ensata ext, cyclopentasiloxane, dimethicone, allantoin, acetyl glucosamine, centella asiatica ext, polygala tenuifolia root ext, platycodon grandiflorum root ext, methylparaben, zingiber officinala root ext, snail secretion filtrate, steareth-20, dimethicone/peg-10/15 crosspolymer, dimethicone/vinyl dimethicone crosspolymer/ eugenia caryophyllus flower ext, hydroxyethylcellulose, adenosine, bisabolol, caffeine, sorbiton, xanthan gum, ivy ext, laminaria digitata ext, acetyl hexapeptide-8 disodium edta, ascorbyl tetraisopalmitate, tocopherol, polyglutamic acid, niacin, cernitine, coenzyme a, canola oil, glycolic acid carnosine, arginine, carrot seed oil, carrot root ext, bata-carotene, ascorbic acid, glutathione, acetyl cysteine, polygonum cuspidatum root ext, zanthoxylum piperitum fruit ext, phenoxyethanol, colloidal platinum, n-hydroxysuccinimide, crysin, oligopeptide-28, plamitoyl oligopeptide, palmitoyl tetrapeptide-7, sh-octapeptide-4, tocopheryl acetate, fragrance
+purpose:
+  whitening, anti-wrinkle
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ・Stop using the product when you have skin problems or the product disagrees with your skin. ・Stop using the product immediately and consult a dermatologist if you have redness, swelling, itching or irritation on the skin while or after using the product. ・If the product gets into the eyes, don't rub but rinse with water. ・Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  GOLDEN BALL HEALER GLYCERIN ARBUTIN GLYCERETH-26 PANTHENOL BUTYLENE GLYCOL POLYOXYL 40 HYDROGENATED CASTOR OIL PURSLANE DIMETHICONE ALLANTOIN GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  after daily skincare procedure, apply a proper amount of this item on the skin
+set_id:
+  e4397561-a5f8-47b1-baea-2df6476037ee
+id:
+  8549f036-dbb4-a6ba-e053-2991aa0a007f
+active_ingredient:
+  glycerin

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  PERFECTO HALT Healthcare Personnel Antiseptic Hand Rub Halt WATER BITTER ALMOND OIL ALCOHOL ALCOHOL DIISOPROPYL ADIPATE
+active_ingredient:
+  Active Ingredients Ethanol 70% v/v
+spl_unclassified_section:
+  Drug Facts Drug Facts
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand Antiseptic Rub to help reduce bacteria that potentially can cause disease.
+warnings:
+  Warnings: For external use only. Do not use in or around eyes. Flammable. Keep away from heat or flame.
+keep_out_of_reach_of_children:
+  Caution: Keep Out Of Reach Of Children.
+dosage_and_administration:
+  Directions: Apply a small amount of HALT to palm of hand. Rub vigorously on all surfaces until dry. Repeat between patients. For use with or without gloves. Close spout after use to avoid product evaporation.
+inactive_ingredient:
+  Inactive Ingredients: Water, diisopropyl adipate, Bitter Almond Oil
+package_label_principal_display_panel:
+  PERFECTO HALT Healtcare Personnel Antiseptic Hand Rub HALT
+set_id:
+  fd2b9f33-496f-c5c0-e053-6294a90a47f5
+id:
+  1b567dc9-d26f-f7f5-e063-6294a90a595d
+effective_time:
+  20240620
+version:
+  2
+openfda:

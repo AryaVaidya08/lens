@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Mykro Max Antibacterial wipes benzalkonium chloride benzalkonium chloride BENZALKONIUM water PHENOXYETHANOL ETHYLHEXYLGLYCERIN PROPYLENE GLYCOL GLYCERIN
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride .......... 0.13 %
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: Sanitizing wipe to help reduce bacteria that potentially can cause disease. For use when soap and water are not available. Safe for repeated use.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, flush thoroughly with water. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours contact a doctor. Do not use as a diaper wipe Keep out of reach of children. if swallowed get medical help or contact a Poison Control Center right away.
+do_not_use:
+  For external use only. When using this product avoid contact with eyes. If contact occurs, flush thoroughly with water. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours contact a doctor. Do not use as a diaper wipe
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Cover all surfaces thoroughlly with wipe and allow to dry naturally. Supervise children.
+inactive_ingredient:
+  Inactive Ingredients: Phenoxyethanol, Ethylhexylglycerin, Didecyldimonium Chloride, Propylene Glycol, Glycerin, Purified Water, Lemon Fragrance
+package_label_principal_display_panel:
+  Principal Display Panel
+set_id:
+  671c5c57-b468-4574-9dbe-5bfd7c48bd15
+id:
+  5c0cd694-b5ea-4336-abea-750e1c104304
+effective_time:
+  20200813
+version:
+  1
+openfda:

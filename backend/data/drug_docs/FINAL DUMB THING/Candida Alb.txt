@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Candida Alb Candida Albicans CANDIDA ALBICANS CANDIDA ALBICANS WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Candida Albicans 30X.
+purpose:
+  PURPOSE: Candida Albicans 30X - fungal infection** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+indications_and_usage:
+  USES: For temporary relief of gas with abdominal discomfort after eating, mood swings, joint pains, irritability, forgetfulness, skin rashes and fatigue.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: ​If pregnant or breast-feeding, ​ ask a health care professional before use. ​Keep out of reach of children. ​ In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: • 10 drops orally, 3 times a day or as directed by a health care professional. • Consult a health care professional for use in children under 12 years of age.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+questions:
+  QUESTIONS: Distributed by: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935 bioactivenutritional.com 1-800-288-9525
+package_label_principal_display_panel:
+  PACKAGE DISPLAY LABEL: ​BIOActive Nutritional CANDIDA ALB 30X HOMEOPATHIC 1 fl. oz. (30 mL) CANDIDA ALB 30X
+set_id:
+  94dad25f-2f77-4157-ab07-87d99b06a5f0
+id:
+  d446bfd2-35ec-4a23-9bc1-125c42ab920d
+effective_time:
+  20260514
+version:
+  3
+openfda:
+  brand_name:
+    Candida Alb
+  generic_name:
+    CANDIDA ALBICANS
+  manufacturer_name:
+    BioActive Nutritional, Inc.
+  product_ndc:
+    43857-0247
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CANDIDA ALBICANS
+  spl_id:
+    d446bfd2-35ec-4a23-9bc1-125c42ab920d
+  spl_set_id:
+    94dad25f-2f77-4157-ab07-87d99b06a5f0
+  package_ndc:
+    43857-0247-1
+  is_original_packager:
+    True
+  upc:
+    0210184341916
+  nui:
+    N0000185372
+    N0000175629
+    N0000184306
+    N0000185001
+    M0008890
+    M0000728
+  pharm_class_epc:
+    Non-Standardized Fungal Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Fungal Proteins [CS]
+    Allergens [CS]
+  unii:
+    4D7G21HDBC

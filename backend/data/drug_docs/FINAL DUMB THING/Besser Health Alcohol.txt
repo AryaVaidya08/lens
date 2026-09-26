@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Besser Health Alcohol WATER GLYCERIN METHYLCELLULOSE, UNSPECIFIED HYDROGEN PEROXIDE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v.
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use[s] Health care personnel hand rub to help reduce bacteria that potentially can cause disease.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30 o C (59-86 o F) Avoid freezing and excessive heat above 40 o C (104 o F)
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Ticacel ® HV, Hydrogen Peroxide, Fragrance.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+set_id:
+  8571b198-8455-4024-9bc9-56c21babc64b
+id:
+  f86eb6c6-a7db-a161-e053-6394a90a8114
+effective_time:
+  20230403
+version:
+  2
+openfda:

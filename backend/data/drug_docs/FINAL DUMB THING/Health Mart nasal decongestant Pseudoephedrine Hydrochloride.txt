@@ -1,0 +1,41 @@
+effective_time:
+  20181214
+inactive_ingredient:
+  Inactive ingredients carnauba wax, colloidal silicon dioxide, dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, titanium dioxide
+purpose:
+  Purpose Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland When using this product do not exceed recommended dosage Stop use and ask a doctor if • nervousness, dizziness, or sleeplessness occur • symptoms do not improve within 7 days or occur with a fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product do not exceed recommended dosage
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  Health Mart nasal decongestant Pseudoephedrine Hydrochloride PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE CARNAUBA WAX SILICON DIOXIDE DIBASIC CALCIUM PHOSPHATE DIHYDRATE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL POLYSORBATE 80 TITANIUM DIOXIDE L054
+ask_doctor:
+  Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults and children 12 years and over • take 1 tablet every 12 hours • do not take more than 2 tablets in 24 hours children under 12 years do not use this product in children under 12 years of age
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • nervousness, dizziness, or sleeplessness occur • symptoms do not improve within 7 days or occur with a fever
+storage_and_handling:
+  Other information • each tablet contains: calcium 45 mg • store at 20° - 25°C (68° - 77°F) in a dry place • protect from light • do not use if blister unit is broken or torn • see carton end panel for lot number and expiration date • this product meets the requirements of USP Drug Release Test 3
+package_label_principal_display_panel:
+  Principal Display Panel compare to Sudafed® 12 Hour Caplets active ingredient nasal decongestant 12 hour pseudoephedrine hydrochloride extended release tablets, 120 mg long-acting nasal decongestant pseudoephedrine HCl sinus pressure/congestion ACTUAL SIZE maximum strength - non-drowsy - sinus 120mg each *(capsule-shaped tablets) Nasal Decongestant Carton Image 1 Nasal Decongestant Carton Image 1 Nasal Decongestant Carton Image 2 Nasal Decongestant Carton Image 1 Nasal Decongestant Carton Image 2
+indications_and_usage:
+  Uses • temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies • temporarily relieves sinus congestion and pressure
+set_id:
+  de7abc65-6399-4379-a570-be05f1f69df0
+id:
+  03680e79-48aa-4035-a3d9-16db100d29f6
+active_ingredient:
+  Active ingredient (in each tablet) Pseudoephedrine HCl 120 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="38%"/> <col width="62%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="ordered"> <item> <caption>&#x2022;</caption>take 1 tablet every 12 hours</item> <item> <caption>&#x2022;</caption>do not take more than 2 tablets in 24 hours</item> </list> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use this product in children under 12 years of age</paragraph> </td> </tr> </tbody> </table>

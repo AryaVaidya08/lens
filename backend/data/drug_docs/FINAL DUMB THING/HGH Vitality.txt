@@ -1,0 +1,135 @@
+spl_product_data_elements:
+  HGH Vitality Agnus Castus, Ambra Grisea, Petroselinum Sativum, Estradiol, L-Dopa, Melatonin, Testosterone, Adenosinum Triphosphoricum Dinatrum, alpha-Lipoicum Acidum, Nadidum, Pantothenic Acid, Sarcolacticum Acidum, Ubidecarenonum, Baryta Carbonica, Conium Maculatum, Selenium Metallicum, Folliculinum, Funiculus Umbilicalis Suis, Glandula Suprarenalis Suis, Hepar Suis, Hypothalamus Suis, Lymph Node (Suis), Medulla Ossis Suis, Oophorinum (Suis), Orchitinum (Suis), Pancreas Suis, Spleen (Suis), Human Growth Hormone, CHASTE TREE FRUIT CHASTE TREE AMBERGRIS AMBERGRIS PETROSELINUM CRISPUM WHOLE PETROSELINUM CRISPUM ESTRADIOL ESTRADIOL LEVODOPA LEVODOPA MELATONIN MELATONIN TESTOSTERONE TESTOSTERONE ADENOSINE TRIPHOSPHATE DISODIUM ADENOSINE TRIPHOSPHATE .ALPHA.-LIPOIC ACID .ALPHA.-LIPOIC ACID NADIDE NADIDE PANTOTHENIC ACID PANTOTHENIC ACID LACTIC ACID, L- LACTIC ACID, L- UBIDECARENONE UBIDECARENONE BARIUM CARBONATE BARIUM CATION CONIUM MACULATUM FLOWERING TOP CONIUM MACULATUM FLOWERING TOP SELENIUM SELENIUM ESTRONE ESTRONE SUS SCROFA UMBILICAL CORD SUS SCROFA UMBILICAL CORD SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND PORK LIVER PORK LIVER SUS SCROFA HYPOTHALAMUS SUS SCROFA HYPOTHALAMUS SUS SCROFA LYMPH SUS SCROFA LYMPH SUS SCROFA BONE MARROW SUS SCROFA BONE MARROW SUS SCROFA OVARY SUS SCROFA OVARY SUS SCROFA TESTICLE SUS SCROFA TESTICLE SUS SCROFA PANCREAS SUS SCROFA PANCREAS SUS SCROFA SPLEEN SUS SCROFA SPLEEN SOMATROPIN SOMATROPIN APIOLE (PARSLEY) APIOLE (PARSLEY) PROTEUS MORGANII PROTEUS MORGANII WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Agnus Castus 6X, 12X, 30X, Ambra Grisea 6X, 12X, 30X, Petroselinum Sativum 6X, 12X, 30X, Estradiol 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C, L-Dopa 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C, Melatonin 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C, Testosterone 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C, Adenosinum Triphosphoricum Dinatrum 8X, Alpha-Lipoicum Acidum 8X, Nadidum 8X, Pantothenic Acid 8X, Sarcolacticum Acidum 8X, Ubidecarenonum 8X, Baryta Carbonica 8X, 12X, 30X, Conium Maculatum 8X, 12X, 30X, Selenium Metallicum 8X, 12X, 30X, Folliculinum 8X, 12X, 30X, 200X, 12C, 30C, 60C, 200C, Funiculus Umbilicalis Suis 30X, Glandula Suprarenalis Suis 30X, Hepar Suis 30X, Hypothalamus Suis 30X, Lymph Node (Suis) 30X, Medulla Ossis Suis 30X, Oophorinum (Suis) 30X, Orchitinum (Suis) 30X, Pancreas Suis 30X, Spleen (Suis) 30X, Human Growth Hormone 30X, 60X, 200X, Apiolum 14C, 30C, 60C, 200C,Proteus (Morgani) 30C.
+purpose:
+  HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to aging including fatigue, minor joint pain and muscle soreness.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Tamper seal: sealed for your protection. Do not use if seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to aging including fatigue, minor joint pain and muscle soreness.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DES BIO NDC 43742-1904-1 HOMEOPATHIC HIGH VITALITY 1 FL OZ (30 ml) High Vitality
+set_id:
+  8b6077c2-ecab-441a-8196-fcf736643fc6
+id:
+  9aaeae16-bfb3-491b-80b9-bb892dfb14a8
+effective_time:
+  20220328
+version:
+  3
+openfda:
+  brand_name:
+    HGH Vitality
+  generic_name:
+    AGNUS CASTUS, AMBRA GRISEA, PETROSELINUM SATIVUM, ESTRADIOL, L-DOPA, MELATONIN, TESTOSTERONE, ADENOSINUM TRIPHOSPHORICUM DINATRUM, ALPHA-LIPOICUM ACIDUM, NADIDUM, PANTOTHENIC ACID, SARCOLACTICUM ACIDUM, UBIDECARENONUM, BARYTA CARBONICA, CONIUM MACULATUM, SELENIUM METALLICUM, FOLLICULINUM, FUNICULUS UMBILICALIS SUIS, GLANDULA SUPRARENALIS SUIS, HEPAR SUIS, HYPOTHALAMUS SUIS, LYMPH NODE (SUIS), MEDULLA OSSIS SUIS, OOPHORINUM (SUIS), ORCHITINUM (SUIS), PANCREAS SUIS, SPLEEN (SUIS), HUMAN GROWTH HORMONE,
+  manufacturer_name:
+    Deseret Biologicals, Inc.
+  product_ndc:
+    43742-1904
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CHASTE TREE FRUIT
+    AMBERGRIS
+    PETROSELINUM CRISPUM WHOLE
+    ESTRADIOL
+    LEVODOPA
+    MELATONIN
+    TESTOSTERONE
+    ADENOSINE TRIPHOSPHATE DISODIUM
+    .ALPHA.-LIPOIC ACID
+    NADIDE
+    PANTOTHENIC ACID
+    LACTIC ACID, L-
+    UBIDECARENONE
+    BARIUM CARBONATE
+    CONIUM MACULATUM FLOWERING TOP
+    SELENIUM
+    ESTRONE
+    SUS SCROFA UMBILICAL CORD
+    SUS SCROFA ADRENAL GLAND
+    PORK LIVER
+    SUS SCROFA HYPOTHALAMUS
+    SUS SCROFA LYMPH
+    SUS SCROFA BONE MARROW
+    SUS SCROFA OVARY
+    SUS SCROFA TESTICLE
+    SUS SCROFA PANCREAS
+    SUS SCROFA SPLEEN
+    SOMATROPIN
+    APIOLE (PARSLEY)
+    PROTEUS MORGANII
+  spl_id:
+    9aaeae16-bfb3-491b-80b9-bb892dfb14a8
+  spl_set_id:
+    8b6077c2-ecab-441a-8196-fcf736643fc6
+  package_ndc:
+    43742-1904-1
+  is_original_packager:
+    True
+  nui:
+    M0447348
+    N0000175825
+    N0000000100
+    N0000193220
+    M0370111
+    N0000175824
+    N0000000146
+    M0001109
+    N0000175606
+    M0028842
+  pharm_class_cs:
+    Estradiol Congeners [CS]
+    Amino Acids, Aromatic [CS]
+    Androstanes [CS]
+    Human Growth Hormone [CS]
+  pharm_class_epc:
+    Estrogen [EPC]
+    Aromatic Amino Acid [EPC]
+    Androgen [EPC]
+    Recombinant Human Growth Hormone [EPC]
+  pharm_class_moa:
+    Estrogen Receptor Agonists [MoA]
+    Androgen Receptor Agonists [MoA]
+  unii:
+    433OSF3U8A
+    XTC0D02P6C
+    1WZA4Y92EX
+    4TI98Z838E
+    46627O600J
+    JL5DK93RCL
+    3XMK78S47O
+    5L51B4DR1G
+    73Y7P0K73Y
+    0U46U6E8UK
+    19F5HK2737
+    F9S9FFU82N
+    EJ27X76M46
+    6P669D8HQ8
+    Q28R5GF371
+    H6241UJ22B
+    2DI9HA706A
+    118OYG6W3H
+    398IYQ16YV
+    6EC706HI7F
+    N6R0856Z79
+    33A7VYU29L
+    VP2CN2G7Y8
+    S7YTV04R8O
+    KM02613O28
+    9Y3J3362RY
+    92AMN5J79Y
+    NQX9KB6PCL
+    QQ67504PXO
+    56X6LID5ZY

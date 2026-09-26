@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Raw Sugar Hand Sanitizer- Peppermint and Sea Salt. Alcohol WATER AMINOMETHYLPROPANOL POLYSORBATE 20 COCOS NUCIFERA WHOLE CITRUS LIMON FRUIT OIL ZINGIBER OFFICINALE WHOLE SYMPHYTUM OFFICINALE WHOLE HIBISCUS SABDARIFFA FLOWER ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient: Organic Alcohol 62%.
+purpose:
+  Purpose: Antimicrobial.
+indications_and_usage:
+  Uses Hand Sanitizing to reduce bacteria on the skin that could cause disease. Recommended for repeated use.
+warnings:
+  Warnings: ​Flammable. Keep away from fire or flame. ​For external use only. Avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and see a doctor if irritation or redness develops, or if condition persist for more than 72 hours. Keep out of reach of childre. If swallowed, get medical help or contact a Poison Control Center right away.
+user_safety_warnings:
+  Avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and see a doctor if irritation or redness develops, or if condition persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of childre. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ​Place enough product in your palm to throughly cover your hands. Rub hands together briskly until dry. Children under the age of 6 should be supervised when using this product.
+other_safety_information:
+  Other Information Store at 20-25 ​0 C (68-77 ​0 F) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive Ingredients Purified Water (Agua), Aminomethyl Propanol, Carbomer, Fragrance (Parfum), Polysorbate 20, Cocos Nucifera (Coconut) Fruit Extract*, Citrus Limon (Lemon) Fruit Extract*, Verbena Officinalis (Ginger) Root Extract*, Symphytum Officinale Extract*, Hibiscus Sabdariffa Flower Extract*. *Certified Organic.
+package_label_principal_display_panel:
+  Raw Sugar Hand Sanitizer- Peppermint and Sea Salt. image description image description
+set_id:
+  3dda880f-d874-46cd-939b-f350a850194d
+id:
+  cd88e215-55e3-3c9d-e053-2a95a90ab8e7
+effective_time:
+  20211004
+version:
+  5
+openfda:

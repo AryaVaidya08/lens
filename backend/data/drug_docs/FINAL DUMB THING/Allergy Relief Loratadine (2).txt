@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Allergy Relief Loratadine LORATADINE LORATADINE LACTOSE MONOHYDRATE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A CORN LOR10
+active_ingredient:
+  Active ingredient Loratadine 10mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: sneezing runny nose itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. You may report side effects to 1-888-952-0050. Pregnancy/Breastfeeding If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children Keep out of reach of children. In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. You may report side effects to 1-888-952-0050.
+pregnancy_or_breast_feeding:
+  Pregnancy/Breastfeeding If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions Adults and children 6 years and over: 1 tablet daily. No more than 1 tablet in 24 hours Children under 6 years of age: ask a doctor Consumers with liver or kidney disease: ask a doctor
+spl_unclassified_section:
+  Other information store between 20° to 25°C (68° to 77°F) protect from excessive moisture do not use if blister unit is torn or open
+inactive_ingredient:
+  Inactive ingredients lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium starch glycolate
+package_label_principal_display_panel:
+  Principal Display Panel Allergy Relief Allergy Relief
+set_id:
+  c61d9d60-f1f1-4b23-b7bb-8bca30955a42
+id:
+  202e8a19-0b01-4215-87a5-cf8db87213c9
+effective_time:
+  20190918
+version:
+  4
+openfda:

@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Paulas Choice Extra Care Non-Greasy Sunscreen SPF 50 Homosalate, Oxybenzone, Octisalate, Avobenzone, Octocrylene HIGH DENSITY POLYETHYLENE VITAMIN A PALMITATE .ALPHA.-TOCOPHEROL ACETATE TITANIUM DIOXIDE CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) TOCOPHEROL ALOE VERA LEAF WATER BUTYLENE GLYCOL POLYETHYLENE GLYCOL 400 DIMETHICONE SILICON DIOXIDE PICEA ABIES WOOD SODIUM ASCORBYL PHOSPHATE BENTONITE METHYL GLUCOSE SESQUISTEARATE SODIUM POLYACRYLATE (8000 MW) KAOLIN ETHYLHEXYLGLYCERIN EDETATE DISODIUM SODIUM HYDROXIDE PHENOXYETHANOL OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE HOMOSALATE HOMOSALATE AVOBENZONE AVOBENZONE
+active_ingredient:
+  Homosalate 10.0% Oxybenzone 6.0% Octisalate 5.0% Avobenzone 3.0% Octocrylene 2.0%
+purpose:
+  Sunscreen
+indications_and_usage:
+  Helps prevent sunburn. Decreases the risk of skin cancer and early skin aging caused by the if used as directed with other sun protection measures (see Directions ).
+warnings:
+  For external use only. Do not use on damaged or broken skin. When using this product , keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center immediately. Do not use on damaged or broken skin. Ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center immediately. Stop use and ask a doctor if rash occurs.
+do_not_use:
+  Do not use on damaged or broken skin.
+ask_doctor:
+  Ask a doctor if rash occurs.
+  Children under 6 months: Ask a doctor.
+when_using:
+  When using this product, keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center immediately.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+dosage_and_administration:
+  Apply liberally 15 minutes before sun exposure. Reapply: -After 80 minutes of swimming or sweating -Immediately after towel drying -At least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a broad-spectrum sunscreen rated SPF 25 or greater and other sun protection measures including: -Limit time in the sun, especially from 10 a.m.- 2 p.m. -Wear long-sleeve shirts, pants, hats and snglasses. children under 6 months: Ask a doctor. Children under 6 months: Ask a doctor.
+storage_and_handling:
+  Other Information Protect this product from excessive heat and direct sun. You may report serious adverse reactions to 705 5th Avenue S, Suite 200, Seattle, WA 98104
+inactive_ingredient:
+  Inactive Ingredients: Water, Butylene Glycol, PEG-8, Polyethylene, Dimethicone, Silica, Picea Abies (Spruce) Wood Extract, sodium Ascorbyl Phosphate, Retinyl Palmitate, Tocopherol, Tocopheryl Acetate, Titanium Dioxide, Aloe Barbadensis Leaf Juice, Bentonite, Methyl Glycose Sesquistearate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Polacrylate, Kaolin, Ethylhexylglycerin, Disodium EDTA, Sodium Hydroxide, Chlorphenesin, Phenoxyethanol
+recent_major_changes:
+  • Dosage and Administration 1-21-2021
+package_label_principal_display_panel:
+  148ml carton 2 carton 1
+set_id:
+  b973230d-1ee0-6564-e053-2995a90afb0b
+id:
+  c54df1c4-712c-bc46-e053-2995a90ab473
+effective_time:
+  20220106
+version:
+  5
+openfda:

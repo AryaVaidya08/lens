@@ -1,0 +1,35 @@
+effective_time:
+  20120619
+inactive_ingredient:
+  Inactive ingredients: Citric Acid, Ethanol (5 percent by volume), FD and C Yellow Number 6, Glycerin, Menthol, Methylparaben, Peach Flavor, Potassium Sorbate, Propylene Glycol, Propylparaben, Purified Water and Sugar.
+purpose:
+  Uses for the temporary relief of minor aches and pains associated with headache backache muscular aches premenstrual and menstrual cramps the common cold and flu toothache for minor pains from arthritis temporarily reduces fever
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Alcohol Warning: If you consumer 3 or more alcoholic drinks every day, ask your doctor whether you should take acetaminophen or other pain relievers/fever reducers. Acetaminophen may cause liver damage. When using this product drowsiness may occur avoid alcoholic beverages alcohol and sedatives may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children Ask a doctor before use if you are taking tranquilizers or sedatives Ask a doctor before use if you have glaucoma emphysema asthma chronic pulmonary disease trouble urinating due to an enlarged prostate gland Stop use and ask a doctor if pain persists for more than 10 days, or redness is present, or in conditions affecting children 12 years of age, consult a physician immediately if relief does not occur within 3 days, discontinue use and consult a physician
+questions:
+  Questions or Comments? 1-866-595-5598 Llorens International Division, Miami, Fl 33166
+spl_product_data_elements:
+  Dologesic Acetaminophen, Phenyltoloxamine Citrate, Alcohol ACETAMINOPHEN ACETAMINOPHEN PHENYLTOLOXAMINE CITRATE PHENYLTOLOXAMINE ALCOHOL ALCOHOL CITRIC ACID MONOHYDRATE ALCOHOL GLYCERIN FD&C YELLOW NO. 6 MENTHOL METHYLPARABEN POTASSIUM SORBATE PROPYLENE GLYCOL WATER SUCROSE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Do not exceed 8 tablespoons in any 24-hour period or as directed by a doctor adults and children 12 years of age and older take 1 or 2 tablespoons every 4 to 6 hours children under 12 years of age Consult a physician; do not give this product to children under 12 years of age. This product will provide more than the recommended dose (overdose) of non-aspirin and could cause serious health problems
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+do_not_use:
+  Do not give to children under 3 years of age or more use for more than 10 days unless directed by a physician Do not take this product for more than 10 days and do not take for fever for more than 3 days unless directed by a physician
+package_label_principal_display_panel:
+  dologesicliquid
+indications_and_usage:
+  Other information store at controlled room temperature 20 - 25 degrees C (68 - 77 degrees F); excursions permitted to 15 - 30 degrees C (59 - 86 degrees F) [See USP Controlled Room Temperature]. Tamper evident by imprinted heat seal under cap. Do not use if there is evidence of tampering.
+set_id:
+  738e7767-42de-4076-acf2-9152484c2007
+id:
+  8d059a3b-2fb4-4801-a50a-e0eeca2cb4fc
+active_ingredient:
+  Active Ingredients in each tablespoonful (15 mL) Purpose Acetaminophen, USP .................... 500 mg/15mL......................Pain Reliever/Fever Reducer Phenyltoloxamine Citrate, USP ........ 30 mg/15mL......................Pain Reliever Alcohol, USP....................................... 5%...............................Pharmaceutical Aid
+dosage_and_administration_table:
+  <table border="1" width="100%" ID="i51df7c8a-ca10-4d93-82e1-7e24a69e124b"> <tbody> <tr> <td>adults and children 12 years of age and older  </td> <td>take 1 or 2 tablespoons every 4 to 6 hours  </td> </tr> <tr> <td>children under 12 years of age  </td> <td>Consult a physician; do not give this product to children under 12 years of age. This product will provide more than the recommended dose (overdose) of non-aspirin and could cause  serious health problems  </td> </tr> </tbody> </table>

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Antimonium crudum ANTIMONY TRISULFIDE ANTIMONY TRISULFIDE ANTIMONY TRISULFIDE SUCROSE LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE
+active_ingredient:
+  Antimonium crudum 30C Less than 10 -12 mg antimony per pellet (**contains 0.443 mg of the active ingredient per pellet)
+purpose:
+  
+indications_and_usage:
+  Indigestion With Nausea From Overeating*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label
+set_id:
+  845f334b-d9db-4e9e-e053-2a91aa0a9a4c
+id:
+  f527e40a-56a1-3df5-e053-2a95a90a2dd7
+effective_time:
+  20230220
+version:
+  3
+openfda:
+  brand_name:
+    Antimonium crudum
+  generic_name:
+    ANTIMONY TRISULFIDE
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-0353
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ANTIMONY TRISULFIDE
+  spl_id:
+    f527e40a-56a1-3df5-e053-2a95a90a2dd7
+  spl_set_id:
+    845f334b-d9db-4e9e-e053-2a91aa0a9a4c
+  package_ndc:
+    0220-0353-41
+  is_original_packager:
+    True
+  unii:
+    F79059A38U

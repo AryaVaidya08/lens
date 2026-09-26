@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Acetaminophen Acetaminophen TITANIUM DIOXIDE POVIDONE STEARIC ACID CELLULOSE, MICROCRYSTALLINE HYPROMELLOSES MAGNESIUM STEARATE ACETAMINOPHEN ACETAMINOPHEN TALC STARCH, CORN POLYETHYLENE GLYCOL 400 BH
+active_ingredient:
+  Acetaminophen 500mg
+inactive_ingredient:
+  hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, pregelatinized starch, stearic acid, talc, titanium dioxide
+dosage_and_administration:
+  do not take more than directed.SEE OVERDOSE WARNING adults and children 12 years of age and over take 2 caplets every 6 hours while symptoms last do not take more than 6 caplets in 24 hours, unless directed by a doctor do not use for more than 10 days unless directed by a doctor children under 12 years of age ask a doctor
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>adults and children 12 years of age and over</td><td><list listType="unordered"><item>take 2 caplets every 6 hours while symptoms last</item><item>do not take more than 6 caplets in 24 hours, unless directed by a doctor</item><item>do not use for more than 10 days unless directed by a doctor</item></list></td></tr><tr><td>children under 12 years of age</td><td>ask a doctor</td></tr></tbody></table>
+indications_and_usage:
+  *temporarily relieves minor aches and pains due to: the common cold headache backache minor pain of arthritis toothache muscular aches premenstrual and menstrual cramps *temporarily reduces fever
+warnings:
+  Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take: more than 4000mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash if a skin reaction occurs, stop use and seek medical help right away Do not use with any other drug containing acetaminophen (prescription or non prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease Ask a doctor or a pharmacist before use if you are taking the blood thinning drug warfarin Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious comdition If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as children even if do not notice any signs or symptoms.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Overdose Warning: In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+purpose:
+  Pain reliever / Fever reducer
+other_safety_information:
+  store at room temperature between 20 º C - 25 º C (68 º F - 77 º F) avoid excessive heat, cold and humidity close cap tightly after use
+package_label_principal_display_panel:
+  1
+set_id:
+  b1050a6c-d7c3-056f-e053-2a95a90abacf
+id:
+  dc793226-24ef-1320-e053-2995a90aca2e
+effective_time:
+  20220412
+version:
+  2
+openfda:

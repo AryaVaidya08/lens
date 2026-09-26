@@ -1,0 +1,36 @@
+effective_time:
+  20160824
+inactive_ingredient:
+  Inactive Ingredients purified water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed,get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. Do Not Use with electrocautery procedures. In the eyes. If contact occurs, flush eyes with water. Stop Use If irritation and redness develop. If condition continues, consult your health care practitione. Keep out of reach of children. If swallowed,get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  ALCOHOL PREP PAD - MEDIUM ISOPROPYL ALCOHOL WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Wipe injection area and discard.
+stop_use:
+  Stop Use If irritation and redness develop. If condition continues, consult your health care practitione.
+spl_unclassified_section:
+  Shanghai Yinjing Medical Supplies Co., Ltd. No.586 Yuanxi RD.Nanhui Industry Park, Shanghai 201300 Tel:+86-21-68016633 Http://www.yinjing.cn E-mail: zhl@yinjing.cn Made in China LOT: EXP:
+storage_and_handling:
+  Other information Store at room temperature 15 o C~30 o C(59 o F~86 o F)
+do_not_use:
+  Do Not Use with electrocautery procedures. In the eyes. If contact occurs, flush eyes with water.
+package_label_principal_display_panel:
+  inin NDC:44019-111-01 1 pad/pouch ALCOHOL PREP PAD Saturated with 70% Isopropyl Alcohol For External Use Only
+  Product Label Alcohol prep pad medium
+indications_and_usage:
+  Use For preparation of the skin prior to injection.
+set_id:
+  7117c571-0bfb-42e0-8c98-7eaa946fb740
+id:
+  3ad274a5-a9ab-30c3-e054-00144ff88e88
+active_ingredient:
+  Active Ingredients Isopropyl Alcohol 70%

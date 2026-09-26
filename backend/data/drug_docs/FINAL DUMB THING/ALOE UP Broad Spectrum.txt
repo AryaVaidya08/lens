@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  ALOE UP Broad Spectrum SPF 30 Sunscreen Octisalate, Avobenzone, Homosalate, Octocrylene ALOE VERA LEAF OCTISALATE OCTISALATE SORBITOL N-BUTYLPHTHALIMIDE CAMELLIA SINENSIS FLOWER HOMOSALATE HOMOSALATE ALUMINUM STARCH OCTENYLSUCCINATE ISOPROPYLPHTHALIMIDE TROLAMINE PROPANEDIOL TRISODIUM ETHYLENEDIAMINE DISUCCINATE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE IODOPROPYNYL BUTYLCARBAMATE POLYETHYLENE GLYCOL 400 COCOA BUTTER ISODECYL NEOPENTANOATE HIGH DENSITY POLYETHYLENE ALLANTOIN PHENOXYETHANOL CARBOMER INTERPOLYMER TYPE A (55000 CPS) ALKYL (C12-15) BENZOATE POLYSORBATE 20 ALPHA-TOCOPHEROL ACETATE WATER OCTOCRYLENE OCTOCRYLENE AVOBENZONE AVOBENZONE Off white
+inactive_ingredient:
+  INACTIVE INGREDIENTS Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Allantoin, Aloe Barbadensis Leaf Juice, Aluminum Starch Octenylsuccinate, Butylphthalimide, C12-15 Alkyl Benzoate, Camellia Sinensis (Green Tea) Leaf Extract, Carbomer, Iodopropynyl Butylcarbamate, Isodecyl Neopentanoate, Isopropylphthalimide, PEG-8, Phenoxyethanol, Polyethylene, Polysorbate 20, Propanediol, Sorbitol, Theobroma Cacao (Cocoa) Seed Butter, Tocopheryl Acetate, Triethanolamine, Trisodium Ethylenediamine Disuccinate, Water
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Keep away from face to avoid breathing it. Stop use and ask a doctor if rash occurs. Keep out of reach of children . If product is swallowed, get medical help or contact a Poison Control Center right away. Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+ask_doctor:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ) decreases the risk of skin cancer and early skin aging caused by the sun
+active_ingredient:
+  Active Ingredients Avobenzone 3.0% Octocrylene 3.5% Homosalate 10.0% Octisalate 5.0%
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures Spending time ine the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF valvue of 15 or higher and other sun protecion measures including: limit tim ein the sun, especially from 10am-2pm wear long sleeve shirts, pants, hats, and sunglasses children under 6 months: Ask a doctor
+other_safety_information:
+  Other Information protect this product from excesive heat and direct sun
+questions:
+  Questions or Comments? Call Toll free 1-855-950-2563
+package_label_principal_display_panel:
+  ALOE UP SPORT PERFORMANCE SUNSCREEN Broad spectrum SPF 30 Principal Display Label
+set_id:
+  a49c16fe-58aa-2d05-e053-2995a90aafdf
+id:
+  e9a4d929-65a4-19d0-e053-2995a90a7d62
+effective_time:
+  20220927
+version:
+  2
+openfda:

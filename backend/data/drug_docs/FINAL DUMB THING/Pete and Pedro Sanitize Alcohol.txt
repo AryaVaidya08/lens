@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Pete and Pedro Sanitize Alcohol ALCOHOL ALCOHOL GLYCERIN AMINOMETHYLPROPANOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ETHYLHEXYLGLYCERIN PHENOXYETHANOL WATER
+active_ingredient:
+  Active Ingredient(s) Alcohol 70% v/v. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand Sanitizer to decrease bacteria on the skin. Recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use Do not use in or near the eyes. If contact occurs, rinse throughly with water.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts more than 24 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product, rub hands together until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store at room temperature (68º-77ºF / 20º-25ºC) Do not expose to heat May discolor certain fabrics
+inactive_ingredient:
+  Inactive Ingredients Aminomethylpropanol, Carbomer, Ethylhexylglycerin, Fragrance, Glycerin, Phenoxyethanol, Water
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 120 ml label
+set_id:
+  c21f091f-2118-4bc8-a237-55a3b20623ac
+id:
+  eba9276a-5684-4490-9ffb-7ed947287523
+effective_time:
+  20200501
+version:
+  1
+openfda:

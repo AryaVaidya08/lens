@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Carmex Daily Care Moisturizing Lip Balm Wintergreen SPF 15 OCTINOXATE, OXYBENZONE PETROLATUM LANOLIN ISOPROPYL PALMITATE CERESIN YELLOW WAX CETYL ESTERS WAX MEADOWFOAM SEED OIL OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE ISOHEXADECANE
+spl_unclassified_section:
+  Drug Facts
+  Other Information this is a personal care item, and should be used by one individual only protect this product from excessive heat and direct sun do not use if safety seal is broken prior to purchase
+active_ingredient:
+  Active Ingredients Octinoxate 7.50% Oxybenzone 4.00% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps protect against sunburn higher SPF gives more sunburn protection
+warnings:
+  Warnings Skin Cancer/Skin Aging Alert: Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to help prevent sunburn, not skin cancer or early skin aging. For external use only Do not use on damaged or broken skin When using this product: keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if: rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product: keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if: rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: • at least every 2 hours children under 2 years: Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients petrolatum, lanolin, euphorbia cerifera wax, isopropyl palmitate, ozokerite, beeswax, cetyl esters, paraffin, theobroma cacao seed butter, limnanthes alba seed oil, stevia rebaudiana extract
+package_label_principal_display_panel:
+  Package Labeling: Tube Bottle15
+set_id:
+  bb013e70-f081-f8f2-e053-2995a90a1981
+id:
+  0da9a869-4508-0128-e063-6294a90a79f5
+effective_time:
+  20231229
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Carmex Daily Care Moisturizing Lip Balm Wintergreen SPF 15
+  generic_name:
+    OCTINOXATE, OXYBENZONE
+  manufacturer_name:
+    Carma Laboratories, Inc.
+  product_ndc:
+    10210-0037
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTINOXATE
+    OXYBENZONE
+  spl_id:
+    0da9a869-4508-0128-e063-6294a90a79f5
+  spl_set_id:
+    bb013e70-f081-f8f2-e053-2995a90a1981
+  package_ndc:
+    10210-0037-1
+  is_original_packager:
+    True
+  upc:
+    0083078113148
+  unii:
+    4Y5P7MUD51
+    95OOS7VE0Y

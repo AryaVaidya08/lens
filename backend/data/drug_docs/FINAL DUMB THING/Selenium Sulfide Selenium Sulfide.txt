@@ -1,0 +1,48 @@
+spl_product_data_elements:
+  Selenium Sulfide Selenium Sulfide AMMONIUM LAURYL SULFATE TRICAPRIN CHROMIC OXIDE CITRIC ACID MONOHYDRATE COCAMIDOPROPYL BETAINE FLUORESCEIN SODIUM DIAZOLIDINYL UREA EDETATE DISODIUM FD&C RED NO. 40 HYPROMELLOSES MAGNESIUM ALUMINUM SILICATE METHYLPARABEN PANTHENOL PPG-2 HYDROXYETHYL COCO/ISOSTEARAMIDE PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM CITRATE TITANIUM DIOXIDE .ALPHA.-TOCOPHEROL ACETATE UREA PYRITHIONE ZINC SELENIUM SULFIDE SELENIUM SULFIDE
+spl_unclassified_section:
+  Rx Only
+  Manufactured for: Noble Pharmaceuticals LLC Cooper City, FL 33024 1/17
+description:
+  DIRECTIONS A liquid antiseborrehic, antifungal preparation for topical application. Each mL of Selenium Sulfide 2.25% Shampoo contains 22.5 mg selenium sulfide, ammonium lauryl sulfate, caprylic/capric triglyceride, chromium oxide green, citric acid, cocamidopropyl betaine, D&C yellow #8, diazolidinyl urea, edetate disodium, FD&C red #40, fragrance, hydroxypropyl methylcellulose, magnesium aluminum silicate, methylparaben, panthenol, PPG-2 hydroxyethyl coco/isostearamide, propylene glycol, propylparaben, purified water, sodium citrate, titanium dioxide, tocopheryl acetate, urea, zinc pyrithione.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Selenium sulfide appears to have a cytostatic effect on cells of the epidermis and follicular epithelium, reducing corneocyte production. PHARMACOKINETICS The mechanism of action of topically applied selenium sulfide is not yet known.
+pharmacokinetics:
+  PHARMACOKINETICS The mechanism of action of topically applied selenium sulfide is not yet known.
+indications_and_usage:
+  INDICATIONS & USAGE A liquid antiseborrheic, antifungal preparation for the treatment of seborrheic dermatitis of the scalp, dandruff and tinea versicolor. Urea hydrates and is useful for conditions such as dry scalp.
+contraindications:
+  CONTRAINDICATIONS Contraindicated in persons with known or suspected hypersensitivity to any of the listed ingredients.
+warnings:
+  WARNINGS For external use only. Not for ophthalmic use. DO NOT USE ON BROKEN SKIN OR INFLAMED AREAS. If allergic reaction occurs, discontinue use. Avoid contact with eyes, genital areas and skin folds, as irritation and burning may result. If accidental contact occurs, rinse thoroughly with water.
+precautions:
+  PRECAUTIONS This medication is to be used as directed by a physician. Not to be used when inflammation or exudation is present as increased absorption may occur. CARCINOGENESIS Dermal application of 25% and 50% solutions of 2.5% selenium sulfide lotion on mice over an 88-week period indicated no carcinogenic effects. USE IN PREGNANCY CATEGORY C Animal reproduction studies have not been conducted with this medication. It is also not known whether this product can cause fetal harm when applied to the body surfaces of a pregnant woman or can affect reproduction capacity. Under ordinary circumstances, selenium sulfide 2.25% shampoo should not be used by pregnant women. NURSING MOTHERS It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when this product is administered to a nursing woman. PEDIATRIC USE Safety and effectiveness in children have not been established.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  CARCINOGENESIS Dermal application of 25% and 50% solutions of 2.5% selenium sulfide lotion on mice over an 88-week period indicated no carcinogenic effects.
+pregnancy:
+  USE IN PREGNANCY CATEGORY C Animal reproduction studies have not been conducted with this medication. It is also not known whether this product can cause fetal harm when applied to the body surfaces of a pregnant woman or can affect reproduction capacity. Under ordinary circumstances, selenium sulfide 2.25% shampoo should not be used by pregnant women.
+nursing_mothers:
+  NURSING MOTHERS It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when this product is administered to a nursing woman.
+pediatric_use:
+  PEDIATRIC USE Safety and effectiveness in children have not been established.
+adverse_reactions:
+  ADVERSE REACTIONS In decreasing order of severity: skin irritation; occasional reports of increase in normal hair loss; discoloration of hair (can be avoided or minimized by thorough rinsing of hair after treatment). As with other shampoos, oiliness or dryness of hair and scalp may occur.
+overdosage:
+  OVERDOSAGE There are no documented reports of serious toxicity in humans resulting from acute ingestion of selenium sulfide 2.25% shampoo. However, acute toxicity studies in animals suggest that ingestion of large amounts could result in potential human toxicity. Evacuation of the stomach contents should be considered in cases of acute oral ingestion.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION SHAKE WELL BEFORE USING For seborrheic dermatitis and dandruff Generally 2 applications each week for 2 weeks will control symptoms. Subsequently, shampoo may be used less frequently – weekly, every 2 weeks, every 3 to 4 weeks or as directed by a physician. Should not be applied more frequently than necessary to maintain control. For tinea versicolor Apply to affected areas and lather with a small amount of water. Allow product to remain on skin for 10 minutes, then rinse thoroughly. Repeat procedure once a day for seven days or as directed by a physician.
+how_supplied:
+  HOW SUPPLIED Selenium Sulfide 2.25% Shampoo is supplied in 180 mL bottles, NDC 70156-111-18. Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (between 59°F and 86°F). Brief exposure to temperatures up to 40°C (104°F) may be tolerated provided the mean kinetic temperature does not exceed 25°C (77°F); however, such exposure should be minimized. Protect from freezing. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+storage_and_handling:
+  Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (between 59°F and 86°F). Brief exposure to temperatures up to 40°C (104°F) may be tolerated provided the mean kinetic temperature does not exceed 25°C (77°F); however, such exposure should be minimized. Protect from freezing. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 180 mL Bottle Carton NDC 70156-111-18 Rx Only For topical use only Not for ophthalmic use Selenium Sulfide 2.25% Shampoo 180 mL Noble PRINCIPAL DISPLAY PANEL - 180 mL Bottle Carton
+set_id:
+  b06aedf3-da07-427b-9031-49f744f15ce0
+id:
+  eac4c3c8-4c1d-02b5-e053-2995a90afe5f
+effective_time:
+  20221010
+version:
+  4
+openfda:

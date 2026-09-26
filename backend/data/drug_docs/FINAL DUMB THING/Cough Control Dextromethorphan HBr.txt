@@ -1,0 +1,39 @@
+effective_time:
+  20150827
+inactive_ingredient:
+  Inactive ingredients FD&C blue #1, FD&C red #40, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol, white edible ink
+purpose:
+  Purpose Cough suppressant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI)(certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have a cough that occurs with too much phelgm (mucus) a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? 1-800-426-9391
+spl_product_data_elements:
+  Cough Control Dextromethorphan HBr DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN FD&C BLUE NO. 1 FD&C RED NO. 40 WATER SORBITOL 033
+ask_doctor:
+  Ask a doctor before use if you have a cough that occurs with too much phelgm (mucus) a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions do not take more than 8 liquidgels in any 24-hour period adults and children 12 years and over: take 2 liquidgels every 6 to 8 hours, as needed children under 12 years: do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING store at 20º-25ºC (68º-77ºF) avoid excessive heat above 40ºC (104ºF) protect from light use by expiration date on package
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI)(certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Principal display panel Non-Drowsy Formula NDC 15127-984-20 select brand® the lowe price name brand COUGH CONTROL Dextromethorphan HBr, USP 15 mg Liquidgels *Compare to the active ingredient in Robitussin®CoughGels™ 8-Hour Cough Relief Cough Suppressant 20 Liquidgels (Liquid-Filled Capsules) *This product is not manufactured or distributed by Pfizer Consumer Healthcare, owner of the registered trademark Robitussin® CoughGels™. 50844 REV0308A44202 Product of Canada Select Brand 44-442 Select Brand 44-442
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold
+set_id:
+  e094794c-7f7c-4296-a1cc-1f297e75e8f3
+id:
+  4eff0877-de14-44ab-84d7-ee0d69245133
+active_ingredient:
+  Active ingredient (in each liquidgel) Dextromethorphan HBr, USP 15 mg

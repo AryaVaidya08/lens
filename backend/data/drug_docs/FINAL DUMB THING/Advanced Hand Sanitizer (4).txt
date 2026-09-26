@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Advanced Hand Sanitizer ALCOHOL ISODECYL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL ALOE VERA LEAF SODIUM ACRYLATE AMINOMETHYLPROPANOL CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED)
+active_ingredient:
+  Active Ingredient(s) Alcohol 72% v/v.
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients water, glycerin, Arcylates/vinyl, isodecanote cross polymer, amino ethyl propanol, Panthenol, Aloe Barbados leaf juice, Tocopheryl Acetate
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel label
+set_id:
+  a330c061-cc35-c9c5-e053-2995a90a5e0a
+id:
+  a330ac54-2677-4ab3-e053-2a95a90a0fa7
+effective_time:
+  20200413
+version:
+  1
+openfda:

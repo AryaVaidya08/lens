@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  KLEEN HAND SANITIZER MANGO ALCOHOL DIETHYL MALONATE BORNYL ACETATE, (-)- HEXYL ACETATE 2-TERT-BUTYLCYCLOHEXYL ACETATE ALCOHOL ALCOHOL ETHYL LINALOOL ETHYL MALTOL HEXAHYDRO-4,7-METHANOINDEN-6-YL PROPIONATE 4-(P-HYDROXYPHENYL)-2-BUTANONE .ALPHA.-HEXYLCINNAMALDEHYDE 2-(2-(4-METHYLCYCLOHEX-3-EN-1-YL)PROPYL)CYCLOPENTAN-1-ONE PROPYLENE GLYCOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) POLYOXYL 40 HYDROGENATED CASTOR OIL HEXYL SALICYLATE 1-(2,3,8,8-TETRAMETHYL-1,2,3,4,5,6,7,8-OCTAHYDRONAPHTHALEN-2-YL)ETHANONE TROLAMINE .GAMMA.-UNDECALACTONE WATER 3-HEXENYL SALICYLATE, CIS-
+active_ingredient:
+  Alcohol 70% v/v purpose: antiseptic
+purpose:
+  Antiseptic, hand sanitizer
+indications_and_usage:
+  Hand sanitizer to help decrease bacteria that can potentially cause disease. For use when soap and water are not available.
+warnings:
+  For external use only. Flammable. Keep away from heat and flame.
+do_not_use:
+  Do not use In children without aldult supervision On open skin wound
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of serious conditions.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions: · place enough product on hands to cover all surfaces. Rub hands together until dry. · supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information: Store between 15-25oC(59-77oF) Avoid freezing and excessive heat above 40oC (104oF)
+questions:
+  +84-28-3742-1102
+inactive_ingredient:
+  .Alpha.-hexylcinnamaldehyde, .Gamma.-undecalactone, 1-(2,3,8,8-Tetramethyl-1,2,3,4,5,6,7,8-octahydronaphthalen-2-Yl)ethanone, 2-(2-(4-Methylcyclohex-3-en-1-Yl)propyl)cyclopentan-1-one, 2-Tert-butylcyclohexyl acetate, 3-Hexenyl salicylate, cis-, 4-(P-hydroxyphenyl)-2-butanone, Bornyl acetate, (-)-, Carbomer interpolymer type A (allyl sucrose crosslinked), Diethyl malonate, Ethyl linalool, Ethyl maltol, Hexahydro-4,7-methanoinden-6-yl propionate, Hexyl acetate, Hexyl salicylate, Polyoxyl 40 hydrogenated castor oil, Propylene glycol, Trolamine, Water
+package_label_principal_display_panel:
+  Kleen Hand Sanitizer Mango Label 90mL Kleen Hand Sanitizer Mango Label 100mL Kleen Hand Sanitizer Mango 250 ml Label Kleen Hand Sanitizer Mango 320ml Label Kleen Hand Sanitizer Mango 500ml Label
+set_id:
+  ad64279b-3376-8698-e053-2a95a90ab898
+id:
+  ad64279b-3377-8698-e053-2a95a90ab898
+effective_time:
+  20200821
+version:
+  1
+openfda:

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Oral B Mouth Sore Special Care Rinse Hydrogen Peroxide WATER GLYCERIN SODIUM CITRATE SACCHARIN SODIUM POLOXAMER 407 SUCRALOSE SODIUM POLYMETAPHOSPHATE PROPYLENE GLYCOL CITRIC ACID MONOHYDRATE HYDROGEN PEROXIDE HYDROGEN PEROXIDE
+spl_unclassified_section:
+  Drug Facts
+  DISTR. BY ORAL-B, A DIVISION OF PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Hydrogen Peroxide 1.5%
+purpose:
+  Purpose oral debriding/wound cleansing
+indications_and_usage:
+  Uses For temporary use in cleansing minor wounds or minor gum inflammation resulting from dental procedures, dentures, orthodontic appliances, accidental injury, or other irritations of the mouth and gums. Aids in the removal of phlegm, mucus, or other secretions associated with occasional sore mouth. For temporary use to cleanse canker sores.
+warnings:
+  Warnings Do not use this product for more than 7 days unless directed by a dentist or doctor. If sore mouth symptoms do not improve in 7 days; if irritation, pain, or redness persists or worsens; or if swelling, rash or fever develops, see your dentist or doctor promptly. Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • adults and children 6 yrs. & older: Rinse with 20 mL Swish around in the mouth over the affected area for at least 1 minute and then spit out. Use up to four times daily after meals and at bedtime or as directed by a dentist or doctor. do not swallow children 6 years to under 12 years of age: supervise use children under 6 years of age: do not use
+inactive_ingredient:
+  Inactive ingredients citric acid, flavor, glycerin, poloxamer 407, propylene glycol, sodium citrate, sodium hexametaphosphate, sodium saccharin, sucralose, water
+questions:
+  Questions? 1-800-862-7442
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 475 mL Bottle Label + WITH HYDROGEN PEROXIDE Dosing Cup Included HYDROGEN PEROXIDE ORAL DEBRIDING AGENT Oral-B MOUTH SORE ORAL RINSE SCIENTIFICALLY FORMULATED For Mouth Sores Including: Canker Sores Cheek Bites Braces & Denture Irritations SOOTHING MINT 475 mL (16 FL OZ) Label
+set_id:
+  22e2dc15-5794-28ed-e063-6394a90a36d3
+id:
+  47e526f6-1f0e-c1dd-e063-6394a90a3888
+effective_time:
+  20260108
+version:
+  7
+openfda:
+  application_number:
+    M021
+  brand_name:
+    Oral B Mouth Sore Special Care Rinse
+  generic_name:
+    HYDROGEN PEROXIDE
+  manufacturer_name:
+    The Procter & Gamble Manufacturing Company
+  product_ndc:
+    84126-603
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    HYDROGEN PEROXIDE
+  spl_id:
+    47e526f6-1f0e-c1dd-e063-6394a90a3888
+  spl_set_id:
+    22e2dc15-5794-28ed-e063-6394a90a36d3
+  package_ndc:
+    84126-603-16
+    84126-603-08
+  is_original_packager:
+    True
+  unii:
+    BBX060AN9V

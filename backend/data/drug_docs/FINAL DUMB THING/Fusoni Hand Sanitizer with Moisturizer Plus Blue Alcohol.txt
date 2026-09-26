@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Fusoni Hand Sanitizer with Moisturizer Plus Blue Alcohol FD&C BLUE NO. 1 ALCOHOL ALCOHOL HYDROXYETHYL CELLULOSE (4000 MPA.S AT 1%) PPG-3 BENZYL ETHER MYRISTATE ANHYDROUS CITRIC ACID WATER GLYCERIN PHENOXYETHANOL AMMONIA Fusoni Hand Sanitizer with Moisturizer Plus Alcohol ALCOHOL ALCOHOL HYDROXYETHYL CELLULOSE (4000 MPA.S AT 1%) PPG-3 BENZYL ETHER MYRISTATE ANHYDROUS CITRIC ACID WATER GLYCERIN PHENOXYETHANOL AMMONIA
+active_ingredient:
+  Active Ingredient Ethyl alcohol 70% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand sanitizer to decrease bacteria on the skin that could cause disease. Recommended for repeated use.
+warnings:
+  Warnings Flammable, keep away from source of heat, fire or flame. For external use only. Do not inhale or ingest.
+when_using:
+  When using this product do not use in or near the eyes; if contact occurs, rinse eyes thoroughly with water. avoid contact with broken skin.
+stop_use:
+  Stop use and ask a doctor if Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions place enough product in your palm to thoroughly cover your hands and rub them together until dry. children under 6 years of age should be supervised when using this product.
+other_safety_information:
+  Other information do not store above 109°F (43°C). may discolor certain surfaces or fabrics.
+inactive_ingredient:
+  Inactive ingredients Product 011 "DRUG FACTS Fusoni Hand Sanitizer Plus.jpg": Water, Hydroxyethylcellulose, PPG-3 Benzyl Ether Myristate, Citric Acid, Phenoxyethanol, Glycerine, Ammonium Hydroxide. Product 012 "DRUG FACTS Fusoni Hand Sanitizer Plus Blue.jpg": Water, Hydroxyethylcellulose, PPG-3 Benzyl Ether Myristate, Citric Acid, Phenoxyethanol, Glycerine, Blue 1, Ammonium Hydroxide.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  3.8 L NDC: 79380-011-12 DRUG FACTS Fusoni Hand Sanitizer Plus Front label Fusoni Hand Sanitizer Plus
+  3.8 L NDC: 79380-012-12 DRUG FACTS Fusoni Hand Sanitizer Plus Blue Front label Fusoni Hand Sanitizer Plus Blue
+set_id:
+  a9de7fd7-4a74-1df3-e053-2a95a90aebd4
+id:
+  a9de7fd7-4a75-1df3-e053-2a95a90aebd4
+effective_time:
+  20200707
+version:
+  1
+openfda:

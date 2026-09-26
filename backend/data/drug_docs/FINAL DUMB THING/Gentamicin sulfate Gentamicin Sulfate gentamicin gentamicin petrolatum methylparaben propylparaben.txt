@@ -1,0 +1,31 @@
+effective_time:
+  20130629
+contraindications:
+  CONTRAINDICATIONS This drug product is contraindicated in individuals with a history of sensitivity to any of its components.
+precautions:
+  PRECAUTIONS The use of topical antibiotics occasionally allows overgrowth of nonsusceptible organisms, including fungi. If this condition occurs, or if irritation, sensitization or superinfection develops, treatment with gentamicin sulfate should be discontinued and appropriate therapy instituted.
+spl_product_data_elements:
+  Gentamicin sulfate Gentamicin Sulfate gentamicin gentamicin petrolatum methylparaben propylparaben
+description:
+  DESCRIPTION Gentamicin Sulfate Ointment is a wide spectrum antibiotic preparation for topical administration. Each gram contains 1.0 mg of Gentamicin in a base of White Petrolatum with Methylparaben and Propylparaben as preservatives.
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION A small amount of Gentamicin Sulfate Ointment should be applied gently to the lesions three or four times daily. The area treated may be covered with a gauze dressing if desired. In impetigo contagiosa, the crusts should be removed before application of gentamicin sulfate to permit maximum contact between the antibiotic and the infection. Care should be exercised to avoid further contamination of the infected skin. Infected stasis ulcers have responded well to treatment with gentamicin sulfate under gelatin packing.
+adverse_reactions:
+  ADVERSE REACTIONS In patients with dermatoses treated with gentamicin sulfate, irritation (erythema and pruritis) that did not usually require discontinuance of treatment has been reported in a small percentage of cases. There was no evidence of irritation or sensitization, however, in any of these patients patch-tested subsequently with gentamicin sulfate on normal skin. Possible photosensitization has been reported in several patients but could not be elicited in these patients by reapplication of gentamicin sulfate followed by exposure to ultraviolet radiation.
+spl_unclassified_section:
+  Rx only For Dermatologic Use Only Not For Ophthalmic Use
+how_supplied:
+  HOW SUPPLIED Gentamicin Sulfate Ointment USP, 0.1% is supplied in 15 gram tubes NDC 0168-0078-15. Store at controlled room temperature 15°-30°C (59°-86°F). E FOUGERA & CO A division of Nycomed US Inc. Melville, New York 11747 USA I27815C R2/08 #292
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 54569-1144-0 Relabeled by: A-S Medication Solutions Libertyville, IL 60048 1144-0.jpg
+indications_and_usage:
+  INDICATIONS AND USAGE Primary skin infections: Impetigo contagiosa, superficial folliculitis, ecthyma, furunculosis, sycosis barbae, and pyoderma gangrenosum. Secondary skin infections: Infectious eczematoid dermatitis, pustular acne, pustular psoriasis, infected seborrheic dermatitis, infected contact dermatitis (including poison ivy), infected excoriations, and bacterial super-infections of fungal or viral infections. Please Note: Gentamicin sulfate is a bactericidal agent that is not effective against viruses or fungi in skin infections. Gentamicin sulfate is useful in the treatment of infected skin cysts and certain other skin abscesses when preceded by incision and drainage to permit adequate contact between the antibiotic and the infecting bacteria. Good results have been obtained in the treatment of infected stasis and other skin ulcers , infected superficial burns, paronychia, infected insect bites and stings, infected lacerations and abrasions, and wounds from minor surgery. Patients sensitive to neomycin can be treated with gentamicin sulfate, although regular observation of patients sensitive to topical antibiotics is advisable when such patients are treated with any topical antibiotic. Gentamicin Sulfate Ointment helps retain moisture and has been useful in infection on dry eczematous or psoriatic skin. Gentamicin Sulfate Ointment may be used in children over one year of age as well as in adults.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Gentamicin sulfate is a wide spectrum antibiotic that provides highly effective topical treatment in primary and secondary bacterial infections of the skin. Gentamicin Sulfate Ointment may clear infections that have not responded to treatment with other topical antibiotic agents. In primary skin infections such as impetigo contagiosa, treatment 3 or 4 times daily with Gentamicin Sulfate Ointment usually clears the lesions promptly. In secondary infections, Gentamicin Sulfate Ointment aids in the treatment of the underlying dermatoses by controlling the infection. Bacteria susceptible to the action of gentamicin sulfate include sensitive strains of Streptococci (group A beta-hemolytic, alpha-hemolytic), Staphylococcus aureus (coagulase positive, coagulase negative, and some penicillinase-producing strains), and the gram-negative bacteria, Pseudomonas aeruginosa , Aerobacter aerogenes , Escherichia coli , Proteus vulgaris , and Kiebsiella pneumoniae .
+set_id:
+  388451a0-c4fa-4a19-9d33-8152cfe37eb7
+id:
+  af8c833a-9aaa-42ea-aef3-e4d9deda6d87

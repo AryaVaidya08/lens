@@ -1,0 +1,86 @@
+spl_product_data_elements:
+  SanaTos Boost DEXTROMETHORPHAN HBR DEXTROSE WATER ANHYDROUS CITRIC ACID SACCHARIN SODIUM DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GLYCERIN FD&C RED NO. 40 MALTITOL PROPYLENE GLYCOL SUCRALOSE SODIUM BENZOATE XANTHAN GUM GUAIFENESIN GUAIFENESIN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients & Purposes Active ingredient (in each 20 mL) Purpose Guaifenesin 400 mg............................................... Expectorant Dextromethorphan HBr 20 mg............................... Cough suppressant
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="italics"><content styleCode="bold">Active ingredient (in each 20 mL)</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td>Guaifenesin 400 mg...............................................</td><td>Expectorant</td></tr><tr><td>Dextromethorphan HBr 20 mg...............................</td><td>Cough suppressant</td></tr></tbody></table>
+purpose:
+  Active ingredient (in each 20 mL) Purpose Guaifenesin 400 mg............................................... Expectorant Dextromethorphan HBr 20 mg............................... Cough suppressant
+purpose_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="italics"><content styleCode="bold">Active ingredient (in each 20 mL)</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td>Guaifenesin 400 mg...............................................</td><td>Expectorant</td></tr><tr><td>Dextromethorphan HBr 20 mg...............................</td><td>Cough suppressant</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive temporarily relieves common cold/flu symptoms: cough due to minor throat and bronchial irritation
+warnings:
+  Warnings Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for two weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have a persistent or chronic cough such occurs with smoking, asthma or emphysema trouble urinating due to an enlarged prostate gland When using this product do not use more than directed Stop use and ask a doctor if a persistent or chronic cough lasts for more than 7 days, tends to recur, or accompanied by fever, rash or persistent headache. These could be signs of a serious condition. If pregnant or breast feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for two weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have a persistent or chronic cough such occurs with smoking, asthma or emphysema trouble urinating due to an enlarged prostate gland
+when_using:
+  When using this product do not use more than directed
+stop_use:
+  Stop use and ask a doctor if a persistent or chronic cough lasts for more than 7 days, tends to recur, or accompanied by fever, rash or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not exceed recommended dosage use dosage cup mL = milliliter do not take more than 6 doses in any 24-hour period Age Dose adults & children 12 years and older 20 mL every 4 hours children under 12 years of age do not use
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold">Age</content></td><td><content styleCode="bold">Dose</content></td></tr><tr><td>adults &amp; children 12 years and older</td><td>20 mL every 4 hours</td></tr><tr><td>children under 12 years of age</td><td><content styleCode="bold">do not use</content></td></tr></tbody></table>
+storage_and_handling:
+  Other information each 20 mL contains: sodium 12 mg use provided dosage cup store between 15-30°C (59-86°F) do not refrigerate
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, dextrose, D&C red # 33, FD&C red #40, flavors, glycerin, maltitol, propylene glycol, saccharin sodium, sodium benzoate, sucralose, xanthan gum, water
+questions:
+  Questions or comments? +1-866-359-3478 (M-F) 9 AM to 5 PM Eastern or www.pharmadel.com * This product is not manufactured or distributed by Reckitt Benckiser Inc., distributor of Mucinex® FAST-MAX TM DM MAX
+package_label_principal_display_panel:
+  PACKAGE PRINCIPAL DISPLAY PANEL PDP Boost
+set_id:
+  ae6a424f-f3f0-3f6c-e053-2995a90a972d
+id:
+  27369b75-842b-86f3-e063-6394a90a44ad
+effective_time:
+  20241118
+version:
+  3
+openfda:
+  application_number:
+    M012
+  brand_name:
+    SanaTos Boost
+  generic_name:
+    DEXTROMETHORPHAN HBR
+  manufacturer_name:
+    Pharmadel LLC
+  product_ndc:
+    55758-323
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  spl_id:
+    27369b75-842b-86f3-e063-6394a90a44ad
+  spl_set_id:
+    ae6a424f-f3f0-3f6c-e053-2995a90a972d
+  package_ndc:
+    55758-323-06
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

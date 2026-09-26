@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Antiseptic Towelettes BENZALKONIUM CHLORIDE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient: Benzalkonium Chloride 0.13% Purpose: First Aid Antiseptic
+purpose:
+  Purpose: First Aid Antiseptic
+indications_and_usage:
+  Use: For Professional and Hospital use. Helps prevent infection. Antiseptic cleansing of face, hands and body without soap and water.
+warnings:
+  Warnings: For external use only. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If unusual redness, swelling or other symptoms occur, consult a physician immediately. Do not use:
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If unusual redness, swelling or other symptoms occur, consult a physician immediately.
+do_not_use:
+  Do not use:
+dosage_and_administration:
+  Directions: Tear open packet, unfold towelette and use to cleanse desired skin area. Discard towelette appropriately after single use.
+inactive_ingredient:
+  Inactive ingredient: Purified water.
+package_label_principal_display_panel:
+  Package Labeling: Towelettes
+set_id:
+  f134c5a1-5882-40f3-9625-601ddb79cdb7
+id:
+  0e9c73df-ec2c-5968-e063-6394a90abe43
+effective_time:
+  20240110
+version:
+  4
+openfda:

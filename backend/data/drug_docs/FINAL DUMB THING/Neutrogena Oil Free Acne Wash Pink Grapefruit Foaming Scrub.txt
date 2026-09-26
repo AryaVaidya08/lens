@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Neutrogena Oil Free Acne Wash Pink Grapefruit Foaming Scrub Salicylic Acid MICA ASCORBYL PALMITATE TITANIUM DIOXIDE D&C RED NO. 30 FD&C RED NO. 40 D&C VIOLET NO. 2 SALICYLIC ACID SALICYLIC ACID WATER SODIUM C14-16 OLEFIN SULFONATE GLYCERIN COCAMIDOPROPYL BETAINE MICROCRYSTALLINE CELLULOSE SODIUM CHLORIDE BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) POWDERED CELLULOSE POLYSORBATE 20 C12-15 ALKYL LACTATE SODIUM HYDROXIDE EDETATE DISODIUM ANHYDROUS BENZALKONIUM CHLORIDE POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600000 MW) COCAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE SODIUM BENZOTRIAZOLYL BUTYLPHENOL SULFONATE PROPYLENE GLYCOL PUMMELO CARRAGEENAN AGAR, UNSPECIFIED
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Kenvue Brands LLC Summit, NJ 07901
+active_ingredient:
+  Active ingredients Salicylic Acid 2%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Use for the treatment of acne.
+warnings:
+  Warnings For external use only. When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. avoid contact with eyes. If contact occurs, flush thoroughly with water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Cleanse twice a day. Wet face. Apply to hands, add water and work into a lather. Massage face gently. Rinse thoroughly.
+storage_and_handling:
+  Other information Store at Room Temperature
+inactive_ingredient:
+  Inactive ingredients Water, Sodium C14-16 Olefin Sulfonate, Glycerin, Cocamidopropyl Betaine, Microcrystalline Cellulose, Sodium Chloride, Acrylates Copolymer, Cellulose, Polysorbate 20, Fragrance, C12-15 Alkyl Lactate, Sodium Hydroxide, Disodium EDTA, Benzalkonium Chloride, Polyquaternium-7, Cocamidopropyl PG-Dimonium Chloride Phosphate, Sodium Benzotriazolyl Butylphenol Sulfonate, Propylene Glycol, Citrus Grandis (Grapefruit) Fruit Extract, Carrageenan, Agar, Ascorbyl Palmitate, Mica, Titanium Dioxide, Red 30, Red 40, Violet 2
+questions:
+  Questions? Call toll- free 800-582-4048 or 215-273-8755 (collect). www.neutrogena.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 124 mL Tube Label Oil-Free Acne Wash pink grape fruit foaming scrub MICRO CLEAR ® technology clear breakouts naturally derived grapefruit extract Neutrogena ® salicylic acid acne treatment 4.2 FL. OZ. (124 mL) Neutrogena_1
+set_id:
+  6b2e27a6-961f-4f5c-a834-fcbd23460e68
+id:
+  2f93093f-e5ea-82ef-e063-6294a90a7cd9
+effective_time:
+  20250305
+version:
+  11
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Neutrogena Oil Free Acne Wash Pink Grapefruit Foaming Scrub
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0610
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    2f93093f-e5ea-82ef-e063-6294a90a7cd9
+  spl_set_id:
+    6b2e27a6-961f-4f5c-a834-fcbd23460e68
+  package_ndc:
+    69968-0610-7
+    69968-0610-4
+    69968-0610-2
+  is_original_packager:
+    True
+  upc:
+    0070501053607
+  unii:
+    O414PZ4LPZ

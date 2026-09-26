@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL GLYCERIN WATER ALCOHOL ALCOHOL BUTYLENE GLYCOL
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (80%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use to help reduce bacteria on skin
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire, high heat or flame
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Avoid contact with broekn skin. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray on hands thoroughly and rub until dry.
+storage_and_handling:
+  Other information May discolor certain fabrics or surfaces. Do not store above 110F (43C)
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Glycerin, Butylene Glycol, Fragrance (Parfum), Aloe Barbadensis Leaf Extract, Artemisia Argyi Leaf Extract, Cnidium Monnieri Fruit Extract, Sargassum Fusiforme Extract
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 56 mL NDC: 81282-025-01 56 ml label GV
+set_id:
+  b725fe35-dd6a-54d1-e053-2995a90ae024
+id:
+  b72603c5-a5c3-bd74-e053-2a95a90ad247
+effective_time:
+  20201223
+version:
+  1
+openfda:

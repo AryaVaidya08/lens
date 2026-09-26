@@ -1,0 +1,39 @@
+effective_time:
+  20141014
+inactive_ingredient:
+  INGREDIENTS WATER (AQUA), ALCOHOL, OCTYLDODECYL MYRISTATE, ETHYLHEXYL METHOXYCINNAMATE, DIPHENYLSILOXY PHENYL TRIMETHICONE, GLYCERIN, BUTYL METHOXYDIBENZOYLMETHANE, DIPROPYLENE GLYCOL, PEG-60 HYDROGENATED CASTOR OIL, DIMETHICONE, ISONONYL ISONONANOATE, POLYSORBATE 20, XANTHAN GUM, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, NIACINAMIDE, FRAGRANCE (PARFUM), BUTYLENE GLYCOL, DIPOTASSIUM GLYCYRRHIZATE, METHYLSERINE, POTASSIUM HYDROXIDE, PRUNUS ARMENIACA (APRICOT) JUICE, DISODIUM EDTA, AMINOBUTYRIC ACID, DIMETHOXY DI-p-CRESOL, MAGNESIUM ASCORBYL PHOSPHATE, HYDROLYZED SILK, BHT, PRUNUS ARMENIACA (APRICOT) KERNEL EXTRACT, AVERRHOA CARAMBOLA LEAF EXTRACT, PYRACANTHA FORTUNEANA FRUIT EXTRACT, BLETILLA STRIATA ROOT EXTRACT, ALPINIA SPECIOSA LEAF EXTRACT, HYDROLYZED CONCHIOLIN PROTEIN, PHENOXYETHANOL, METHYLPARABEN, ETHYLPARABEN, PROPYLPARABEN, BUTYLPARABEN, ALPHA-ISOMETHYL IONONE, BUTYLPHENYL METHYLPROPIONAL, CITRONELLOL, HEXYL CINNAMAL, HYDROXYISOHEXYL 3-CYCLOHEXENE CARBOXALDEHYDE, RED 4 (CI 14700), YELLOW 5 (CI 19140)
+purpose:
+  AVOBENZONE 1.2% Sunscreen OCTINOXATE 4.8% Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  WARNING For external use only. Keep out of eyes. Rinse with water to remove. If a rash appears on the skin, stop use and consult a doctor. Keep out of reach of children.
+when_using:
+  Keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  SENSAI CELLULAR PERFORMANCE WRINKLE REPAIR COLLAGENERGY SPF20 AVOBENZONE and OCTINOXATE AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE WATER ALCOHOL OCTYLDODECYL MYRISTATE GLYCERIN DIPROPYLENE GLYCOL PEG-60 HYDROGENATED CASTOR OIL DIMETHICONE ISONONYL ISONONANOATE POLYSORBATE 20 XANTHAN GUM NIACINAMIDE BUTYLENE GLYCOL GLYCYRRHIZINATE DIPOTASSIUM METHYLSERINE POTASSIUM HYDROXIDE APRICOT JUICE EDETATE DISODIUM .GAMMA.-AMINOBUTYRIC ACID DIMETHOXY DI-p-CRESOL MAGNESIUM ASCORBYL PHOSPHATE BUTYLATED HYDROXYTOLUENE PRUNUS ARMENIACA SEED AVERRHOA CARAMBOLA LEAF PYRACANTHA FORTUNEANA FRUIT BLETILLA STRIATA BULB ALPINIA ZERUMBET LEAF PHENOXYETHANOL METHYLPARABEN ETHYLPARABEN PROPYLPARABEN BUTYLPARABEN FD&C RED NO. 4 FD&C YELLOW NO. 5
+openfda:
+version:
+  5
+dosage_and_administration:
+  Anti-Ageing A Beauty Chain Reaction. This wake-up concentrated fluid reactivates and visibly revitalises the skin with its fresh texture, and smoothes out wrinkles. Contains Moon Peach Leaf Extract, which increases collagen production. Clinically tested.
+stop_use:
+  If a rash appears on the skin, stop use and consult a doctor.
+spl_unclassified_section:
+  DIST.: KANEBO COSMETICS USA LLC 330 Madison Avenue, New York, NY 10017
+do_not_use:
+  For external use only.
+active_ingredient_table:
+  <table width="70%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td>AVOBENZONE 1.2%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>OCTINOXATE 4.8%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50mL Bottle Carton SENSAI CELLULAR PERFORMANCE WRINKLE REPAIR SPF 20 WRINKLE REPAIR COLLAGENERGY Kanebo INTERNATIONAL NET 1.7 FL.OZ. 50mL e Principal Display Panel - 50mL Bottle Carton
+indications_and_usage:
+  Direction Apply liberally and evenly before sun exposure and as needed. Use helps prevent sunburn. Apply and reapply as directed to avoid lowering protection.
+set_id:
+  7073ab2b-606f-4374-a3f1-7cb95fe84948
+id:
+  eb1ed098-b29e-4cab-9d42-7c3ec6d7c0a5
+purpose_table:
+  <table width="70%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td>AVOBENZONE 1.2%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>OCTINOXATE 4.8%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  ACTIVE INGREDIENTS AVOBENZONE 1.2% Sunscreen OCTINOXATE 4.8% Sunscreen

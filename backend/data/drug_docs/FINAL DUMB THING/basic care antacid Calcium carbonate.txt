@@ -1,0 +1,37 @@
+effective_time:
+  20210108
+inactive_ingredient:
+  Inactive ingredients dextrose, FD&C blue #1 aluminum lake, FD&C red #40 aluminum lake, flavors, glycerin, magnesium stearate, maltodextrin, mineral oil
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you have • kidney stones • a calcium-restricted diet Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product • do not take more than 10 tablets in 24 hours • if pregnant do not take more than 6 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children.
+when_using:
+  When using this product • do not take more than 10 tablets in 24 hours • if pregnant do not take more than 6 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor
+questions:
+  Questions? 1-800-719-9260
+spl_product_data_elements:
+  basic care antacid Calcium carbonate CALCIUM CARBONATE CARBONATE ION CALCIUM CATION DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN MAGNESIUM STEARATE MALTODEXTRIN MINERAL OIL dark pink rose violet L489 strawberry, raspberry, berry
+ask_doctor:
+  Ask a doctor before use if you have • kidney stones • a calcium-restricted diet
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor • do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+storage_and_handling:
+  Other information • each tablet contains: calcium 320mg • store at 20-25 ° C (68-77 ° F) • does not meet USP for assay
+package_label_principal_display_panel:
+  Principal Display Panel Extra Strength Compare to Tums® active ingredient antacid tabs Calcium Carbonate 750 mg Berry Flavors actual size 200 CHEWABLE TABLETS antacid tabs image
+indications_and_usage:
+  Uses relieves • heartburn • acid indigestion • sour stomach • upset stomach associated with these symptoms
+set_id:
+  2a0e0834-c423-47ff-9b39-eaa143259438
+id:
+  e318e1b7-c066-4876-b38d-04a4a8570b15
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+active_ingredient:
+  Active ingredient (in each tablet) Calcium carbonate USP 750mg

@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  Carbon Dioxide-Oxygen-Nitrogen Mixture Carbon Dioxide-Oxygen-Nitrogen Mixture NITROGEN OXYGEN OXYGEN CARBON DIOXIDE CARBON DIOXIDE
+package_label_principal_display_panel:
+  COMPRESSED GAS, N.O.S. (% OXYGEN, USP % CARBON DIOXIDE, USP % NITROGEN, NF) UN1956 Rx only. WARNING: Administration of this gas mixture may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of gas mixtures, and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects, and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY INCREASE RESPIRATION AND HEART RATE. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment of compatible materials of construction and rated for cylinder pressure. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52 C (125 F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF ACCIDENTALLY INHALED, Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention. CAS: OXYGEN 7782-44-7, CARBON DIOXIDE 124-38-9, NITROGEN 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. Roberts Oxygen Company, Inc. PO Box 5507 Rockville, MD 20855 301-948-8100 co2 o2 n2
+set_id:
+  3c9534c6-adab-4010-98b8-1e6dd6e45c15
+id:
+  2bec0e72-b91e-1ca6-e063-6294a90ac75c
+effective_time:
+  20250117
+version:
+  3
+openfda:

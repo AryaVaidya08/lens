@@ -1,0 +1,27 @@
+effective_time:
+  20110207
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, citric acid, flavor, glycerin, hydrated silica, natural lemon and orange flavor extracts, potassium sorbate, sodium benzoate, sodium bicarbonate, sodium lauroyl sarcosinate, sorbitol, water, xanthan gum, xylitol
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings
+spl_product_data_elements:
+  koala pals berrylicious Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION ACESULFAME POTASSIUM ANHYDROUS CITRIC ACID GLYCERIN HYDRATED SILICA POTASSIUM SORBATE SODIUM BENZOATE SODIUM BICARBONATE SODIUM LAUROYL SARCOSINATE SORBITOL WATER XANTHAN GUM XYLITOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions adults and children 2 years of age and older: brush teeth thoroughly, preferably after each meal, or at least twice a day or as directed by a dentist or doctor children 2 to 6 years: use only a pea-sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years of age: ask a dentist or doctor
+package_label_principal_display_panel:
+  image of label
+indications_and_usage:
+  Use aids in the prevention of cavities
+set_id:
+  0806173e-6a90-44ee-ae90-b18a021647f7
+id:
+  888a65ac-6a06-4065-abf3-0491e586aaf6
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.24% (fluoride ion 0.15% w/v)

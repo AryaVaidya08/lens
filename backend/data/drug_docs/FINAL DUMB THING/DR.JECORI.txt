@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  DR.JECORI HAND SANITIZER Alcohol ALOE WATER GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  Alcohol
+inactive_ingredient:
+  Water, Glycerin, Carbomer, etc.
+purpose:
+  Antimicrobial
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  Store under 30°C (86°F)
+warnings:
+  For external use only. Flammable, keep away from fire or flame. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  1.Place a drop of alcohol based hand sanitizer, the size of a dime in your palm. 2.Rub palm to palm, back of hands, in between fingers and back of fingers, around the thumbs and tips of fingers for 15-20 seconds 3.Keep rubbing until your hands are dry.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  1
+set_id:
+  a2e939f3-0a21-711d-e053-2995a90af0c6
+id:
+  a2e9442b-8211-e413-e053-2995a90a500e
+effective_time:
+  20200410
+version:
+  1
+openfda:

@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Afrin No Drip Original Pump Mist Oxymetazoline hydrochloride BENZALKONIUM CHLORIDE BENZYL ALCOHOL EDETATE DISODIUM CELLULOSE, MICROCRYSTALLINE CARBOXYMETHYLCELLULOSE SODIUM POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE WATER SODIUM PHOSPHATE, DIBASIC SODIUM PHOSPHATE, MONOBASIC OXYMETAZOLINE HYDROCHLORIDE OXYMETAZOLINE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Oxymetazoline hydrochloride 0.05%
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to: common cold hay fever upper respiratory allergies temporarily relieves sinus congestion and pressure shrinks swollen nasal membranes so you can breathe more freely
+warnings:
+  Warnings Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland When using this product do not use more than directed do not use for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen. temporary discomfort such as burning, stinging, sneezing or an increase in nasal discharge may occur use of this container by more than one person may spread infection Stop use and ask a doctor if symptoms persist If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland
+when_using:
+  When using this product do not use more than directed do not use for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen. temporary discomfort such as burning, stinging, sneezing or an increase in nasal discharge may occur use of this container by more than one person may spread infection
+stop_use:
+  Stop use and ask a doctor if symptoms persist
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 6 to under 12 years of age (with adult supervision): 2 or 3 sprays in each nostril not more often than every 10 to 12 hours. Do not exceed 2 doses in any 24-hour period. children under 6 years of age: ask a doctor. Shake well before use. Before using the first time, remove the protective cap from the tip and prime metered pump by depressing pump firmly several times. To spray, hold bottle with thumb at base and nozzle between first and second fingers. Without tilting head, insert nozzle into nostril. Fully depress rim with a firm, even stroke and sniff deeply. Wipe nozzle clean after use.
+storage_and_handling:
+  Other information store between 20° to 25°C (68° to 77°F) retain carton for future reference on full labeling
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride solution, benzyl alcohol, edetate disodium, flavor, microcrystalline cellulose and carboxymethylcellulose sodium, polyethylene glycol, povidone, purified water, sodium phosphate dibasic, sodium phosphate monobasic
+questions:
+  Questions or comments? Questions or comments? 1-800-317-2165
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton Oxymetazoline HCl Nasal Solution-Nasal Decongestant Afrin ® No Drip Won't drip from nose or down throat Original PUMP MIST Fast, Powerful Congestion Relief Colds • Allergies up to 12 Hour Relief Maximum Strength #1 Doctor & Pharmacist Recommended Nasal Spray Brand 1/2 FL OZ (15 mL) 11523-3142
+set_id:
+  530b2d27-5883-489e-87fa-90b45eb93b3c
+id:
+  4536fd10-43af-a3a9-e063-6294a90aa6a1
+effective_time:
+  20251205
+version:
+  12
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Afrin No Drip Original Pump Mist
+  generic_name:
+    OXYMETAZOLINE HYDROCHLORIDE
+  manufacturer_name:
+    Bayer HealthCare LLC.
+  product_ndc:
+    11523-3142
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    OXYMETAZOLINE HYDROCHLORIDE
+  rxcui:
+    1000990
+    1000992
+  spl_id:
+    4536fd10-43af-a3a9-e063-6294a90aa6a1
+  spl_set_id:
+    530b2d27-5883-489e-87fa-90b45eb93b3c
+  package_ndc:
+    11523-3142-1
+  is_original_packager:
+    True
+  unii:
+    K89MJ0S5VY

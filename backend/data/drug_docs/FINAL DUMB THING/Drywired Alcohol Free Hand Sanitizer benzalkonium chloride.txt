@@ -1,0 +1,33 @@
+effective_time:
+  20211007
+inactive_ingredient:
+  3-(trimethoxysilyl) Propyl Dimethyl Octadecyl Ammonium Chloride, Glycerin, Water
+purpose:
+  Topical Antiseptic, Hand and Skin Sanitizer
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  For external use only. Do not use in eyes. When using this product avoid contact with eyes. In case of eye contact flush with water. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical attention or contact a Poison Control Center.
+when_using:
+  Avoid contact with eyes. In case of eye contact flush with plenty of water.
+questions:
+  CONTACT: Cytonix LLC, Beltsville, MD 20705, USA 301-470-6267 www.cytonix.com
+spl_product_data_elements:
+  Drywired Alcohol Free Hand Sanitizer benzalkonium chloride OCTADECYLDIMETHYL(3-TRIHYDROXYSILYLPROPYL)AMMONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM GLYCERIN WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Apply liberally to hands and gently rub until dry. Reapply every 4 hours.
+stop_use:
+  Stop use and ask doctor if irritation or redness develop.
+package_label_principal_display_panel:
+  Drywired Alcohol Free
+indications_and_usage:
+  USES: to reduce bacteria on the skin that could cause disease. Recommended for repeat use.
+set_id:
+  b70e7f5b-a340-e95a-e053-2a95a90accde
+id:
+  cdc92a7a-a1d9-45bd-e053-2a95a90a0874
+active_ingredient:
+  Benzalkonium Chloride 0.13%

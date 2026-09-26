@@ -1,0 +1,33 @@
+effective_time:
+  20110613
+inactive_ingredient:
+  Inactive Ingredients water (aqua), ammonium lauryl sulfate, ammonium chloride, lauramide DEA, DMDM hydantoin, fragrance, citric acid, tetrasodium EDTA, yellow #5, red #40
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product Avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask a doctor if irritation and redness develops Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Avoid contact with eyes. In case of eye contact, flush with water.
+spl_product_data_elements:
+  Personal Care Antibacterial Hand TRICLOSAN TRICLOSAN TRICLOSAN WATER AMMONIUM LAURYL SULFATE AMMONIUM CHLORIDE LAURIC DIETHANOLAMIDE DMDM HYDANTOIN CITRIC ACID MONOHYDRATE EDETATE SODIUM FD&C YELLOW NO. 5
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions pump into hands lather vigorously for at least 15 seconds rinse and dry thoroughly
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops
+package_label_principal_display_panel:
+  Personal Care Antibacterial Washes Away Germs Soap 7.5 fl oz (221ml) Distributed by Personal Care Products, Inc. Bingham Farms, MI 48205-3463 Made In China
+  Antibacterial Hand Soap
+  Antibacterial Hand Soap
+indications_and_usage:
+  Uses for handwashing to decrease bacteria on the skin
+set_id:
+  04fc213b-6ba0-4fc2-9a4c-53472578ab47
+id:
+  eec8fc4f-bd64-4832-8db4-4ed6b7d1b231
+active_ingredient:
+  Active Ingredient Triclosan 0.2%

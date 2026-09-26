@@ -1,0 +1,42 @@
+effective_time:
+  20171031
+contraindications:
+  CONTRAINDICATIONS PARAFON FORTE DSC chlorzoxazone is contraindicated in patients with known intolerance to the drug.
+precautions:
+  PRECAUTIONS PARAFON FORTE DSC chlorzoxazone should be used with caution in patients with known allergies or with a history of allergic reactions to drugs. If a sensitivity reaction occurs such as urticaria, redness, or itching of the skin, the drug should be stopped. If any symptoms suggestive of liver dysfunction are observed, the drug should be discontinued.
+warnings:
+  WARNINGS Serious (including fatal) hepatocellular toxicity has been reported rarely in patients receiving chlorzoxazone. The mechanism is unknown but appears to be idiosyncratic and unpredictable. Factors predisposing patients to this rare event are not known. Patients should be instructed to report early signs and/or symptoms of hepatotoxicity such as fever, rash, anorexia, nausea, vomiting, fatigue, right upper quadrant pain, dark urine, or jaundice. Chlorzoxazone should be discontinued immediately and a physician consulted if any of these signs or symptoms develop. Chlorzoxazone use should also be discontinued if a patient develops abnormal liver enzymes (e.g. AST, ALT, alkaline phosphatase and bilirubin). The concomitant use of alcohol or other central nervous system depressants may have an additive effect. Usage in Pregnancy The safe use of PARAFON FORTE DSC chlorzoxazone has not been established with respect to the possible adverse effects upon fetal development. Therefore, it should be used in women of childbearing potential only when, in the judgment of the physician, the potential benefits outweigh the possible risks.
+pregnancy:
+  Usage in Pregnancy The safe use of PARAFON FORTE DSC chlorzoxazone has not been established with respect to the possible adverse effects upon fetal development. Therefore, it should be used in women of childbearing potential only when, in the judgment of the physician, the potential benefits outweigh the possible risks.
+spl_product_data_elements:
+  Parafon Forte DSC chlorzoxazone chlorzoxazone chlorzoxazone MICROCRYSTALLINE CELLULOSE FD&C Blue No. 1 docusate sodium LACTOSE, UNSPECIFIED FORM magnesium stearate sodium benzoate starch, corn D&C Yellow No. 10 sodium starch glycolate type A potato light green capsule shaped PARAFON;FORTE;DSC;MCNEIL
+description:
+  DESCRIPTION Each caplet (capsule shaped tablet) contains: Chlorzoxazone 5-chlorobenzoxazolinone 500 mg Inactive ingredients: FD&C Blue No. 1, microcrystalline cellulose, docusate sodium, lactose (hydrous), magnesium stearate, sodium benzoate, sodium starch glycolate, pregelatinized corn starch, D&C Yellow No. 10.
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Usual Adult Dosage One caplet three or four times daily. If adequate response is not obtained with this dose, it may be increased to 1 ½ caplets (750 mg) three or four times daily. As improvement occurs dosage can usually be reduced.
+adverse_reactions:
+  ADVERSE REACTIONS Chlorzoxazone containing products are usually well tolerated. It is possible in rare instances that chlorzoxazone may have been associated with gastrointestinal bleeding. Drowsiness, dizziness, lightheadedness, malaise, or overstimulation may be noted by an occasional patient. Rarely, allergic-type skin rashes, petechiae, or ecchymoses may develop during treatment. Angioneurotic edema or anaphylactic reactions are extremely rare. There is no evidence that the drug will cause renal damage. Rarely, a patient may note discoloration of the urine resulting from a phenolic metabolite of chlorzoxazone. This finding is of no known clinical significance.
+spl_unclassified_section:
+  For Painful Musculoskeletal Conditions
+  Product of Taiwan. Manufactured by: Janssen Ortho, LLC Gurabo, Puerto Rico 00778 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560 © Janssen Pharmaceuticals, Inc. Revised: March 2012
+storage_and_handling:
+  Dispense in tight container as defined in the official compendium. Store at controlled room temperature (15°–30°C, 59°–86°F).
+mechanism_of_action:
+  ACTIONS Chlorzoxazone is a centrally-acting agent for painful musculoskeletal conditions. Data available from animal experiments as well as human study indicate that chlorzoxazone acts primarily at the level of the spinal cord and subcortical areas of the brain where it inhibits multisynaptic reflex arcs involved in producing and maintaining skeletal muscle spasm of varied etiology. The clinical result is a reduction of the skeletal muscle spasm with relief of pain and increased mobility of the involved muscles. Blood levels of chlorzoxazone can be detected in people during the first 30 minutes and peak levels may be reached, in the majority of the subjects, in about 1 to 2 hours after oral administration of chlorzoxazone. Chlorzoxazone is rapidly metabolized and is excreted in the urine, primarily in a conjugated form as the glucuronide. Less than one percent of a dose of chlorzoxazone is excreted unchanged in the urine in 24 hours.
+how_supplied:
+  HOW SUPPLIED PARAFON FORTE ® DSC (chlorzoxazone) 500 mg caplets, (capsule shaped tablet, colored light green, imprinted "PARAFON FORTE DSC" and "McNEIL," scored). NDC 50458-625-60, bottles of 100. Dispense in tight container as defined in the official compendium. Store at controlled room temperature (15°–30°C, 59°–86°F).
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 500 mg Caplet Bottle Label NDC 50458-625-60 Parafon Forte ® DSC (CHLORZOXAZONE) 500 mg 100 caplets Rx only janssen PRINCIPAL DISPLAY PANEL - 500 mg Caplet Bottle Label
+indications_and_usage:
+  INDICATIONS PARAFON FORTE DSC chlorzoxazone is indicated as an adjunct to rest, physical therapy, and other measures for the relief of discomfort associated with acute, painful musculoskeletal conditions. The mode of action of this drug has not been clearly identified, but may be related to its sedative properties. Chlorzoxazone does not directly relax tense skeletal muscles in man.
+set_id:
+  5fbdbe83-3e24-4fb2-a67d-499ed3523363
+id:
+  bf7b6b6d-cd7f-4b16-92c6-828941fedad8
+description_table:
+  <table width="74%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule Botrule"> <td>Chlorzoxazone<footnote>5-chlorobenzoxazolinone</footnote> </td> <td>500 mg</td> </tr> </tbody> </table>
+overdosage:
+  OVERDOSAGE Symptoms Initially, gastrointestinal disturbances such as nausea, vomiting, or diarrhea together with drowsiness, dizziness, lightheadedness or headache may occur. Early in the course there may be malaise or sluggishness followed by marked loss of muscle tone, making voluntary movement impossible. The deep tendon reflexes may be decreased or absent. The sensorium remains intact, and there is no peripheral loss of sensation. Respiratory depression may occur with rapid, irregular respiration and intercostal and substernal retraction. The blood pressure is lowered, but shock has not been observed. Treatment Gastric lavage or induction of emesis should be carried out, followed by administration of activated charcoal. Thereafter, treatment is entirely supportive. If respirations are depressed, oxygen and artificial respiration should be employed and a patent airway assured by use of an oropharyngeal airway or endotracheal tube. Hypotension may be counteracted by use of dextran, plasma, concentrated albumin or a vasopressor agent such as norepinephrine. Cholinergic drugs or analeptic drugs are of no value and should not be used.

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Bright Guard Natural SPF 30 Zinc Oxide PHYTATE SODIUM XANTHAN GUM SILICON DIOXIDE PANTHENOL WATER SORBITAN OLIVATE YLANG-YLANG OIL STYRENE/ACRYLAMIDE COPOLYMER (MW 500000) CAPRYLYL GLYCOL PHENOXYETHANOL HEXYLENE GLYCOL ZINC OXIDE ZINC OXIDE COCO-CAPRYLATE POLYHYDROXYSTEARIC ACID (2300 MW) CETEARYL OLIVATE CETOSTEARYL ALCOHOL ALPHA-TOCOPHEROL ACETATE STEARYL/OCTYLDODECYL CITRATE CROSSPOLYMER
+statement_of_identity:
+  Bright Guard Natural SPF 30
+active_ingredient:
+  Active Ingredients Zinc Oxide 22%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  USES: Helps prevent sunburn If used as directed with other sun protection measures (see directions)‚ decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  WARNINGS: For external use only Do not use on damaged or broken skin When using this product keep out of eyes· Rinse with water to remove Stop use and consult physician if irritation or rash develops Keep out of reach of children If product is swallowed‚ get medical attention or contact poison control center immediately Keep out of reach of children If product is swallowed, get medical attention or contact poison control center immediately
+keep_out_of_reach_of_children:
+  Keep out of reach of children If product is swallowed, get medical attention or contact poison control center immediately
+dosage_and_administration:
+  DIRECTIONS: Apply liberally 15 minutes before sun exposure Reapply at least every two hours and Immediately after swimming, sweating or towel drying Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk‚ regularly use sunscreen with broad spectrum protection and an SPF rating of 15 or higher, along with other sun protection measures including: Limited time in the sun‚ especially between 10am and 2pm Wear long sleeve shirts, pants, hats and sunglasses For children under 6 months consult a physician
+inactive_ingredient:
+  OTHER INGREDIENTS: Cananga Odorata (Ylang Ylang) Flower Oil, Caprylyl Glycol, Cetearyl Alcohol, Cetearyl Olivate, Coco Caprylate, Deionized Water, Fragrance, Hexylene Glycol, Panthenol, Phenoxyethanol, Polyhydroxystearic Acid, Silica, Sodium Phytate, Sorbitan Olivate, Stearyl/Octyldodecyl Citrate Crosspolymer, Styrene / Acrylates Copolymer, Tocopherol, Xanthan Gum
+other_safety_information:
+  Other Information : Protect this product from excessive heat and direct sunlight
+questions:
+  Questions or Comments ? Visit www.BrightGuard.com Distributed by Bright Guard LLC, Newport Beach CA 92660
+package_label_principal_display_panel:
+  BRIGHTGUARD NATURAL POUCH LABEL POUCH LABEL
+set_id:
+  e7035fcd-6894-3360-e053-2a95a90a6f1d
+id:
+  34f587ac-4ee4-8e16-e063-6294a90a2445
+effective_time:
+  20250512
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Bright Guard Natural SPF 30
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Renu Laboratories, LLC
+  product_ndc:
+    76348-676
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    34f587ac-4ee4-8e16-e063-6294a90a2445
+  spl_set_id:
+    e7035fcd-6894-3360-e053-2a95a90a6f1d
+  package_ndc:
+    76348-676-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

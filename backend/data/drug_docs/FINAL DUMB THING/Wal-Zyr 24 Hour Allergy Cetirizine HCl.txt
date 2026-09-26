@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  Wal-Zyr 24 Hour Allergy Cetirizine HCl CETIRIZINE HYDROCHLORIDE CETIRIZINE LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE STARCH, CORN TALC TITANIUM DIOXIDE IP46
+active_ingredient:
+  Active ingredient (in each tablet) Cetirizine HCl 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+when_using:
+  When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 6 years and over Take one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table><col/><col/><tbody><tr><td>adults and children 6 years and over</td><td> Take one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</td></tr><tr><td>adults 65 years and over</td><td> ask a doctor</td></tr><tr><td>children under 6 years of age</td><td> ask a doctor</td></tr><tr><td>consumers with liver or kidney disease</td><td> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information store between 20°-25°C (68°-77°F)
+inactive_ingredient:
+  Inactive ingredients lactose monohydrate, magnesium stearate, polyethylene glycol, polyvinyl alcohol, povidone, starch, talc, and titanium dioxide
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal Display Panel ORIGINAL PRESCRIPTION STRENGTH Wal-Zyr™ 24 Hour Allergy Cetirizine Hydrochloride Tablets 10 mg Antihistamine 24 hour relief of running nose, sneezing, itchy throat or nose & itchy, watery eyes Indoor & Outdoor Allergies 24 Hour Symptom Relief TABLETS 10 mg each Compare to Zyrtec® active ingredient‡‡ ‡‡This product is not manufactured or distributed by McNeil Consumer Healthcare, division of McNeil-PPC, Inc., distributor of Zyrtec®. DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015 walgreens.com PRODUCT OF U.S.A.
+  Product Label Well @ Walgreens Wal-Zyr 24 Hour Allergy Tablets Cetirizine HCl 10 mg
+set_id:
+  8e320aec-4841-468b-934d-829f4fb2267f
+id:
+  97c0980b-8473-4736-9c2a-9ae54b1a5283
+effective_time:
+  20221128
+version:
+  3
+openfda:

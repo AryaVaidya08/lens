@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hepar Sulphuris Calcareum 6c CALCIUM SULFIDE SUCROSE CALCIUM SULFIDE CALCIUM SULFIDE
+active_ingredient:
+  ACTIVE INGREDIENT: HOMEOPATHIC DILUTION OF HPUS Hepar Sulphuris Calcareum 6c.
+purpose:
+  TRADITIONALLY USED FOR: To help clear acne* - Abscesses* - Dry, harsh cough*
+dosage_and_administration:
+  DIRECTIONS: (adults/children) Dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a physician.
+indications_and_usage:
+  USE: Condition listed above or as directed by a physician.
+warnings:
+  WARNINGS: Stop use and ask a physician if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+other_safety_information:
+  OTHER INFORMATION: Store at room temperature.
+do_not_use:
+  Do not use if pellet-dispenser seal is broken.
+inactive_ingredient:
+  INACTIVE INGREDIENT: Sucrose.
+questions:
+  QUESTIONS: INFO@OLLOIS.COM * www.ollois.com * MADE IN FRANCE. NOT REVIEWED BY THE FDA AND NOT GUARANTEED TO BE EFFECTIVE. THIS HOMEOPATHIC DILUTION MAY NOT BE SUSEPTIBLE TO SCIENTIFIC MEASUREMENT.
+package_label_principal_display_panel:
+  Hepar Sulphuris Calcareum 6c
+set_id:
+  e11e9f38-0feb-b5bc-e053-2a95a90a6dc3
+id:
+  054157a2-aeff-2b56-e063-6294a90a9382
+effective_time:
+  20230913
+version:
+  3
+openfda:

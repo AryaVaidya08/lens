@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Oathology Inzincable Lip Balm SPF 35 ZINC OXIDE ALOE VERA LEAF YELLOW WAX BUTYLOCTYL SALICYLATE GREEN TEA LEAF MEDIUM-CHAIN TRIGLYCERIDES WATERMELON ETHYL VANILLIN GLYCERIN GLYCERYL OLEATE SUNFLOWER OIL FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE OCTYLDODECANOL PETROLATUM PUNICA GRANATUM ROOT BARK D&C RED NO. 30 CASTOR OIL HYALURONATE SODIUM TOCOPHEROL TRIDECYL SALICYLATE WATER ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+  Other Information: Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active Ingredients Zinc Oxide 15.00 % Purposes Sunscreen
+purpose:
+  Purposes Sunscreen
+indications_and_usage:
+  Uses: Helps prevent sunburn. Higher SPF gives more sunburn protection If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings: For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+dosage_and_administration:
+  Directions: Apply liberally 15 minutes before sun exposure and as needed. Children under 6 months of age: ask a doctor. Reapply at least every 2 hours Use a water-resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  Inactive Ingredients: Aloe Barbadensis Leaf Extract, Beeswax, Butyloctyl Salicylate, Camellia Sinensis Leaf Extract, Caprylic/Capric Triglyceride, Citrullus Lanatus (Watermelon) Fruit Extract, Ethyl Vanillin, Flavor (Aroma), Glycerin, Glyceryl Oleate, Helianthus Annuus (Sunflower) Seed Oil, Hydrogenated Polyisobutene, Iron Oxides (CI 77491), Iron Oxides (CI 77492), Iron Oxides (CI 77499), Octyldodecanol, Petrolatum, Punica Granatum Extract, Red 30 Lake (CI 73360), Ricinus Communis (Castor) Seed Oil, Sodium Hyaluronate, Stevia Rebaudiana Extract, Tocopherol, Tridecyl Salicylate, Water (Aqua)
+questions:
+  Questions? (513) 650-OATH
+package_label_principal_display_panel:
+  Package Labeling: Outer Package Inner Package
+set_id:
+  289a5492-af57-42e5-82af-3f1e4b369d68
+id:
+  35b65819-c68f-840e-e063-6394a90a7515
+effective_time:
+  20250522
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Oathology Inzincable Lip Balm SPF 35
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    SKINOATH LLC
+  product_ndc:
+    85562-694
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    35b65819-c68f-840e-e063-6394a90a7515
+  spl_set_id:
+    289a5492-af57-42e5-82af-3f1e4b369d68
+  package_ndc:
+    85562-694-00
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

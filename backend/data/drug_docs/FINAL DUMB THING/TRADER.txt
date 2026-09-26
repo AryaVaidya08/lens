@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  TRADER JOES HAND SANITIZER WITH MOISTURIZERS AND VITAMIN E ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL ISOPROPYL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE .ALPHA.-TOCOPHEROL ACETATE AMINOMETHYLPROPANOL ISOPROPYL PALMITATE ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT ETHYL ALCOHOL 65% V/V
+purpose:
+  PURPOSE ANTISEPTIC
+indications_and_usage:
+  USES • HAND SANITIZER TO REDUCE BACTERIA ON THE SKIN.
+warnings:
+  WARNINGS For external use only Flammable. Keep away from fire and flame. When using this product avoid contact with the eyes. In case of contact, flush eyes thoroughly with water. Stop use and contact a doctor if irritation or redness develop.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS PUT ENOUGH ON YOUR PALM TO COVER HANDS AND RUB HANDS TOGETHER BRISKLY UNTIL DRY CHILDREN UNDER 6 YEARS OF AGE SHOULD BE SUPERVISED WHEN USING THIS PRODUCT
+other_safety_information:
+  OTHER INFORMATION Store at 20°C TO 25°C (68° TO 77°F). MAY DISCOLOR SOME FABRICS OR SURFACES.
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER, GLYCERIN, PROPYLENE GLYCOL, ISOPROPYL ALCOHOL, CARBOMER, FRAGRANCE, ISOPROPYL PALMITATE, AMINOMETHYL PROPANOL, TOCOPHERYL ACETATE.
+questions:
+  QUESTIONS? 1-626-599-3700 MONDAY - FRIDAY 9 AM - 5 PM PST
+package_label_principal_display_panel:
+  01b LBL_Hand Sanitizer_8oz
+set_id:
+  3942cc6f-edb8-4f0c-9493-25e954dac31a
+id:
+  46a582ac-cc51-217b-e063-6394a90a55a9
+effective_time:
+  20251223
+version:
+  6
+openfda:

@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  DYNA-HEX 4 Chlorhexidine Gluconate ISOPROPYL ALCOHOL LAURAMINE OXIDE PEG-75 LANOLIN WATER TRIDECYL ALCOHOL COCO DIETHANOLAMIDE GLUCONOLACTONE HYDROXYETHYL CELLULOSE (140 CPS AT 5%) CHLORHEXIDINE GLUCONATE CHLORHEXIDINE
+active_ingredient:
+  Active ingredient Chlorhexidine gluconate 4% solution
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses surgical hand scrub: significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care healthcare personnel handwash: helps reduce bacteria that potentially can cause disease skin wound and general skin cleansing
+warnings:
+  Warnings For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you are allergic to chlorhexidine gluconate or any other ingredient in this product When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if placed or kept in the eye during surgical procedures or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin Stop use and ask a doctor if irritation, sensitization or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are allergic to chlorhexidine gluconate or any other ingredient in this product
+when_using:
+  When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if placed or kept in the eye during surgical procedures or may cause deafness when instilled in the middle ear through perforated eardrums. if solution should contact these areas, rinse out promptly and thoroughly with water do not use routinely if you have wounds which involve more than the superficial layers of the skin
+stop_use:
+  Stop use and ask a doctor if irritation, sensitization or allergic reaction occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. Surgical hand scrub: wet hands and forearms with water scrub for 3 minutes with 3 full pumps (5 grams) of product and a wet brush paying close attention to the nails, cuticles, and interdigital spaces a seperate nail cleaner may be used rinse thoroughly wash for an additional 3 minutes with 3 full pumps (5 grams) of product and rinse under running water dry thoroughly Healthcare personnel handwash: wet hands with water dispense 3 full pumps (5 grams) of product into cupped hands and wash in a vigorous manner for 15 seconds rinse and dry thoroughly Skin wound and general skin cleansing:  thoroughly rinse the area to be cleaned with water  apply the minimum amount of product necessary to cover the skin or wound area and wash gently  rinse again thoroughly
+storage_and_handling:
+  Other information store at 20-25°C (68-77°F) avoid excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive ingredients cocamide DEA, fragrance, glucono-delta-lactone, isopropyl alcohol, lauramine oxide, PEG-75 lanolin, purified water, tridecyl alcohol
+questions:
+  Questions of Comments? Call 1-800-587-3721 Monday through Friday 8:00 AM to 4:30 PM CST
+recent_major_changes:
+  Indications and Usage Dosage and Administration addition of "skin wounf and general skin cleansing (11/23)
+other_safety_information:
+  Laundering/Cleaning Instructions Laundering/Cleaning Instructions: Chlorhexidine gluconate skin cleansers will cause stains if used with chlorine releasing products, such as chlorine bleach. Rinse completely and use only non-chlorine detergents.
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel NDC 0116-1060-18 DYNA-HEX 4® Chlorhexidine Gluconate 4% Solution Antiseptic Contains: 4% Chlorhexidine Gluconate With foam pump Distributed By: Xttrium Laboratories, Inc. Mount Prospect, IL 60056 Net Contents: 18 fl oz (532 mL) 4DYN18BTLLBLB Dyna-Hex 4% 18oz FM
+set_id:
+  245c41e6-a0f6-0825-e054-00144ff8d46c
+id:
+  09bfde37-90b8-1319-e063-6294a90a8ffc
+effective_time:
+  20231109
+version:
+  4
+openfda:
+  application_number:
+    NDA019125
+  brand_name:
+    DYNA-HEX 4
+  generic_name:
+    CHLORHEXIDINE GLUCONATE
+  manufacturer_name:
+    Xttrium Laboratories, Inc.
+  product_ndc:
+    0116-1060
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CHLORHEXIDINE GLUCONATE
+  rxcui:
+    211365
+    834162
+  spl_id:
+    09bfde37-90b8-1319-e063-6294a90a8ffc
+  spl_set_id:
+    245c41e6-a0f6-0825-e054-00144ff8d46c
+  package_ndc:
+    0116-1060-18
+  is_original_packager:
+    True
+  unii:
+    MOR84MUD8E

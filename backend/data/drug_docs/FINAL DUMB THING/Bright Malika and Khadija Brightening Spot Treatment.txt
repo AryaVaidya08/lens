@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Bright Malika and Khadija Brightening Spot Treatment HYDROQUINONE ALOE VERA LEAF WATER ASCORBIC ACID BUTYLENE GLYCOL ALKYL (C12-15) BENZOATE MEDIUM-CHAIN TRIGLYCERIDES CYCLOMETHICONE 5 DIAZOLIDINYL UREA GLUCOSAMINE HYDROCHLORIDE GLYCERIN GLYCOLIC ACID GLYCYRRHIZA GLABRA ISOHEXADECANE KOJIC ACID METHYLPARABEN WHITE MULBERRY POLYSORBATE 80 PROPYLPARABEN PROPYLENE GLYCOL SODIUM ASCORBYL PHOSPHATE SODIUM METABISULFITE SODIUM PYRROLIDONE CARBOXYLATE EDETATE SODIUM .ALPHA.-TOCOPHEROL ACETATE, D- UREA GRAPE HYDROQUINONE HYDROQUINONE
+spl_unclassified_section:
+  DRUG FACTS:
+  Store at room temperature.
+active_ingredient:
+  ACTIVE INGREDIENT: Hydroquinone 2.00% Skin Lightener
+purpose:
+  Skin Lightener
+indications_and_usage:
+  USES: Lightens dark spots in the skin such as freckles, age spots and liver spots.
+warnings:
+  WARNINGS: *For external use only. *Avoid contact with eyes or eyelids. *Some users of this product may experience mild skin irritation. Consult physician if skin irritation becomes severe. Do not use on children under 12, unless directed by physician. KEEP OUT OF REACH OF CHILDREN. If swallowed, contact physician or poison control center immediately.
+do_not_use:
+  Do not use on children under 12, unless directed by physician.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, contact physician or poison control center immediately.
+dosage_and_administration:
+  DIRECTIONS: Adults: Apply a thin layer on the affected areas twice daily, or as directed by physician. If no improvement is seen after three months of treatment, discontinue use of this product and consults physician. Lightening effect of this product may be less noticeable on very dark skin. Children under 12-years of age: Do not use this product unless directed by physician Sun exposure should be limited by using sunscreen agent, sun blocking agent, or protective clothing to cover bleached skin when using, and after using this product, in order to prevent darkening from reoccurring.
+inactive_ingredient:
+  OTHER INGREDIENTS: Algae Extract, Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Ascorbic Acid (Vitamin C), Bis-Vinyl Dimethicone/Dimethicone Copolymer, Butylene Glycol, C12-15 Alkyls Benzoate, Caprylic/Capric Triglyceride, Cyclopentasiloxane, Diazolidinyl Urea, Glucosamine HCI, Glycerin, Glycolic Acid, Glycyrrhiza Glabra (Licorice) Extract, Hydroxyethylcellulose, lsohexadecane, Kojic Acid, Methyl Paraben, Morus Alba (Mulberry) Extract, Polysorbate 80, Propyl Paraben, Propylene Glycol, Sodium Acryloyldimethyl Taurate Copolymer, Sodium Ascorbyl Phosphate (Vitamin C), Sodium Metabisulfite, Sodium PCA, Tetrasodium EDTA, Tocopheryl Acetate (Vitamin E), Urea, Vitis Vinifera (Grape) Seed Extract, Yeast Extract.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  82e5e06e-ffdf-4d17-e053-2a91aa0a7688
+id:
+  dcf2abfb-7a6a-7503-e053-2a95a90ab325
+effective_time:
+  20220418
+version:
+  2
+openfda:

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Stay Ageless Tinted Mineral Sunscreen Broad Spectrum SPF 30 Titanium Dioxide and Zinc Oxide WATER MEDIUM-CHAIN TRIGLYCERIDES BUTYLOCTYL SALICYLATE GLYCERIN DIMETHICONE COCOYL CAPRYLOCAPRATE ALUMINUM STEARATE CARTHAMUS TINCTORIUS SEED OLEOSOMES ALOE VERA LEAF POLYGONUM AVICULARE TOP .ALPHA.-TOCOPHEROL ACETATE GARDEN CRESS SPROUT SQUALANE CETOSTEARYL ALCOHOL ISONONYL ISONONANOATE COCO GLUCOSIDE PENTYLENE GLYCOL DOCOSANOL XANTHAN GUM TRIETHOXYCAPRYLYLSILANE ARACHIDYL GLUCOSIDE JOJOBA OIL STEARIC ACID SUCROSE STEARATE PHENYLETHYL ALCOHOL TETRAHEXYLDECYL ASCORBATE GLYCERYL MONOCAPRYLATE SORBITAN MONOOLEATE POLYGLYCERYL-2 CAPRATE PROPANEDIOL ALUMINUM OXIDE ARACHIDYL ALCOHOL FERRIC OXIDE YELLOW FERRIC OXIDE RED FERROSOFERRIC OXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  DRUG FACTS:
+active_ingredient:
+  ACTIVE INGREDIENTS Titanium Dioxide 7.75%, Zinc Oxide 10.0%.
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  USES Helps prevent sunburn.
+warnings:
+  WARNINGS For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  DIRECTIONS Apply to all skin exposed to the sun. *Apply liberally and evenly 15 minutes before sun exposure. *Reapply at least every 2 hours. *Use a water-resistant sunscreen if swimming or sweating. *For children under 6 months of age: Ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua), Caprylic/Capric Triglyceride, Butyloctyl Salicylate, Glycerin, Dimethicone, Styrene/Acrylates Copolymer, Coco-Caprylate/Caprate, Aluminum Stearate, Carthamus Tinctorius Oleosomes, Polyhydroxystearic Acid, Aloe Barbadensis Leaf Juice, Polygonum Aviculare Extract, Tocopheryl Acetate, Perilla Frutescens Extract, Vitis Vinifera Fruit Cell Extract, Lepidium Sativum Sprout Extract, Squalane, Cetearyl Alcohol, Isononyl Isononanoate, Coco-Glucoside, Pentylene Glycol, Behenyl Alcohol, Xanthan Gum, Triethoxycaprylylsilane, Arachidyl Glucoside, Simmondsia Chinensis (Jojoba) Seed Oil, Stearic Acid, Sucrose Stearate, Phenethyl Alcohol, Tetrahexyldecyl Ascorbate, Glyceryl Caprylate, Ethylene/Propylene/Styrene Copolymer, Sorbitan Oleate, Polyglyceryl-2 Caprate, Propanediol, Alumina, Arachidyl Alcohol, Iron Oxides (CI 77492, CI 77491, CI 77499).
+storage_and_handling:
+  OTHER INFORMATION Protect the product in this container from excessive heat and direct sun.
+package_label_principal_display_panel:
+  Stay Ageless Tinted Mineral Sunscreen Broad Spectrum SPF 30 Stay Ageless Tinted Mineral Sunscreen Broad Spectrum SPF 30
+set_id:
+  2cdc69d3-2192-7a38-e063-6294a90a257f
+id:
+  2cdc69db-93d0-c56e-e063-6294a90a0c7e
+effective_time:
+  20250129
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Stay Ageless Tinted Mineral Sunscreen Broad Spectrum SPF 30
+  generic_name:
+    TITANIUM DIOXIDE AND ZINC OXIDE
+  manufacturer_name:
+    BELLE MEDICAL LLC
+  product_ndc:
+    82947-0650
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    2cdc69db-93d0-c56e-e063-6294a90a0c7e
+  spl_set_id:
+    2cdc69d3-2192-7a38-e063-6294a90a257f
+  package_ndc:
+    82947-0650-2
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

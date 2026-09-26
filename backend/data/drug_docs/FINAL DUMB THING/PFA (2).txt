@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  PFA FOR HAND SANITIZER Benzalkonium Chloride GLYCERIN TROLAMINE PEPPERMINT OIL MORUS ALBA BARK PANTHENOL BENZALKONIUM CHLORIDE BENZALKONIUM WATER CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) GREEN TEA LEAF GLYCYRRHIZA GLABRA
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.066%
+purpose:
+  Purpose Disinfectant
+dosage_and_administration:
+  Use Hand sanitizing to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+when_using:
+  When using this product avoid contact with the eyes. In case of contact, flush eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops and persists.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+indications_and_usage:
+  Directions Put enough product in the palm to cover hands & rub together briskly the liquid is dry. Children under 6 should be supervised when using Sanitizers.
+storage_and_handling:
+  Other information Store below 110°F (43°C) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Carbomer, Triethanolamine, Mentha Piperita (Peppermint) Oil, Camellia Sinensis Leaf Extract, Glycyrrhiza Glabra (Licorice) Root Extract, Morus Alba Bark Extract, Panthenol
+package_label_principal_display_panel:
+  Package Label 80969-030-02
+set_id:
+  c88a8b18-a678-88b1-e053-2a95a90a18dc
+id:
+  f7d95288-4d7d-4135-e053-6394a90a55cf
+effective_time:
+  20230326
+version:
+  3
+openfda:

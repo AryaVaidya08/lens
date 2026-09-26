@@ -1,0 +1,38 @@
+effective_time:
+  20191001
+inactive_ingredient:
+  Inactive ingredient purified water
+purpose:
+  Purpose first aid antiseptic/oral debriding agent
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+warnings:
+  Warnings For external use only. Do not use in the eyes or apply over large areas of the body longer than one week Ask a doctor before use if you have deep puncture wounds, animal bites or serious burns Stop use and ask a doctor if the condition persists or gets worse sore mouth symptoms do not improve in 7 days irritation, pain or redness persists or worsens swelling, rash or fever develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+spl_product_data_elements:
+  Hydrogen Peroxide 3 Percent Hydrogen Peroxide HYDROGEN PEROXIDE HYDROGEN PEROXIDE WATER
+ask_doctor:
+  Ask a doctor before use if you have deep puncture wounds, animal bites or serious burns
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions For use as a first aid antiseptic: clean affected area apply small amount of product on affected area 1-3 times a day may be covered with a sterile bandage if bandaged, let dry first For use as an oral debriding agent (oral rinse): adults and children 2 years of age and over: mix with an equal amount of water swish around in the mouth over affected area for at least 1 minute and then spit out. Do not swallow use up to 4 times daily after meals and at bedtime or as directed by a dentist or doctor children under 12 years should be supervised in the use of this product children under 2 years of age: consult a doctor or dentist
+stop_use:
+  Stop use and ask a doctor if the condition persists or gets worse sore mouth symptoms do not improve in 7 days irritation, pain or redness persists or worsens swelling, rash or fever develops
+spl_unclassified_section:
+  Other information keep tightly closed and in a dark place at room temperature. do not shake bottle. Hold away from face when opening.
+do_not_use:
+  Do not use in the eyes or apply over large areas of the body longer than one week
+package_label_principal_display_panel:
+  Princiapl Display Panel FIRST AID Hydrogen Peroxide 3% TOPICAL SOLUTION U.S.P. DISTRIBUTED BY GREENBRIER INTERNATIONAL, INC. 500 VOLVO PARKWAY CHESAPEAKE, VA 23320 FL OZ (QT) TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL AROUND OR UNDER CAP IS BROKEN OR MISSING.
+  Package Label Assured Hydrogen Peroxide 3% Liquid Hydrogen peroxide 3%
+indications_and_usage:
+  Uses first aid to help prevent the risk of infection in minor cuts, scrapes and burns aids in the removal of phlegm, mucus, or other secretions associated with occasional sore mouth
+set_id:
+  3ec1bf0d-c0f5-4871-8341-355f61390617
+id:
+  755ad939-c05c-462f-935e-19f1cfad779e
+active_ingredient:
+  Active ingredient Hydrogen peroxide 3%

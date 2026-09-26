@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  ACETAMINOPHEN ACETAMINOPHEN CARNAUBA WAX FD&C RED NO. 40 HYPROMELLOSES POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 8000 POVIDONE STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID SUCRALOSE TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN TCL342
+active_ingredient:
+  Active Ingredient: Each tablet contains Acetaminophen 500 mg
+purpose:
+  PURPOSE: Pain Reliever - fever reducer
+purpose_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>PURPOSE: Pain Reliever - fever reducer</td> </tr> </tbody> </table>
+keep_out_of_reach_of_children:
+  Keep Out of the Reach of Children: In case of overdose, get medical help or contact a Poison Control Center right away
+keep_out_of_reach_of_children_table:
+  <table border="0" width="100%"> <tbody> <tr> <td>Keep Out of the Reach of Children: In case of overdose, get medical help or contact a Poison Control Center right away</td> </tr> </tbody> </table>
+indications_and_usage:
+  INDICATIONS AND USAGE: Pain Reliever – temporarily relieves minor aches and pains due to: the common cold, headache, backache, muscular aches, toothache, premenstrual and menstrual cramps, minor pain of arthritis. Temporarily reduces fever.
+indications_and_usage_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>INDICATIONS AND USAGE:</paragraph> <paragraph>Pain Reliever &#x2013; temporarily relieves minor aches and pains due to: the common cold, headache, backache, muscular aches, toothache, premenstrual and menstrual cramps, minor pain of arthritis. Temporarily reduces fever.</paragraph> </td> </tr> </tbody> </table>
+warnings:
+  Warnings; Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take:more than 8 tablets in 24 hours, which is the maximum daily amount; 3 or more alcoholic drinks every day while using this product; with other drugs containing acetaminophen. Overdose warning: Taking more than the recommended dose (0verdose) may cause liver damage. in case of overdose, get medical help or contact a Poison Control Center (1-800-222-1221) right way. Quick medical attention is critical for adults as well as children even if you do not notice any signs or symptoms.
+warnings_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Warnings;     Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take:more than 8 tablets in 24 hours, which is the maximum daily amount; 3 or more alcoholic drinks every day while using this product; with other drugs containing acetaminophen. </paragraph> <paragraph>Overdose warning: Taking more than the recommended dose (0verdose) may cause liver damage. in case of overdose, get medical help or contact a Poison Control Center (1-800-222-1221) right way. Quick medical attention is critical for adults as well as children even if you do not notice any signs or symptoms.   </paragraph> </td> </tr> </tbody> </table>
+dosage_and_administration:
+  Do not take more than directed (see overdosage warning) Adults and children 12 years and over: take 2 tablets (1,000 mg) every 6 hours while symptoms last; do not take more than 6 tablets (3,000 mg) in 24 hours, unless directed by a doctor; do not take for more than 10 days unless directed by a doctor Children under 12 years: Do not use this adult extra strength product in children under 12 years of age, this will provide more than the recommended dose (overdosage) of acetaminophen and may cause liver damage
+dosage_and_administration_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>Do not take more than directed (see overdosage warning)</paragraph> <paragraph>Adults and children 12 years and over: take 2 tablets (1,000 mg) every 6 hours while symptoms last; do not take more than 6 tablets (3,000 mg) in 24 hours, unless directed by a doctor; do not take for more than 10 days unless directed by a doctor</paragraph> <paragraph>Children under 12 years: Do not use this adult extra strength product in children under 12 years of age, this will provide more than the recommended dose (overdosage) of acetaminophen and may cause liver damage   </paragraph> <paragraph>   </paragraph> <paragraph/> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  CARNAUBA WAX, FD-C RED NO. 40 ALUMINUM LAKE, HYPROMELLOSE, POLYETHYLENE GLYCOL(PEG) 400, POLYETHYLENE GLYCOL (peg) 8000, POVIDONE, PREGELATINIZED STARCH, SODIUM STARCH GLYCOLATE**, STEARIC ACID, SUCRALOSE, TITANIUM DIOXIDE ** MAY CONTAIN THIS INGREDIENT
+inactive_ingredient_table:
+  <table border="0" width="100%"> <tbody> <tr> <td> <paragraph>CARNAUBA WAX, FD-C RED NO. 40 ALUMINUM LAKE, HYPROMELLOSE, POLYETHYLENE GLYCOL(PEG) 400, POLYETHYLENE GLYCOL (peg) 8000, POVIDONE, PREGELATINIZED STARCH, SODIUM STARCH GLYCOLATE**, STEARIC ACID, SUCRALOSE, TITANIUM DIOXIDE</paragraph> <paragraph/> <paragraph/> <paragraph>   </paragraph> <paragraph/> <paragraph/> <paragraph>** MAY CONTAIN THIS INGREDIENT</paragraph> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  342LABEL
+set_id:
+  2569383a-4a05-4ddb-852e-b37e487ffcde
+id:
+  7d3e2e18-1dee-4000-e053-2a91aa0aeefe
+effective_time:
+  20181217
+version:
+  2
+openfda:
+  application_number:
+    part343
+  brand_name:
+    ACETAMINOPHEN
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    TIME CAP LABORATORIES, INC
+  product_ndc:
+    49483-342
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    198440
+  spl_id:
+    7d3e2e18-1dee-4000-e053-2a91aa0aeefe
+  spl_set_id:
+    2569383a-4a05-4ddb-852e-b37e487ffcde
+  package_ndc:
+    49483-342-01
+    49483-342-10
+    49483-342-00
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D

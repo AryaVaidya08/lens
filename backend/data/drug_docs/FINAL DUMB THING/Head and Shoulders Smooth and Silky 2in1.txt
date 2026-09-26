@@ -1,0 +1,78 @@
+spl_product_data_elements:
+  Head and Shoulders Smooth and Silky 2in1 Pyrithione Zinc COCAMIDOPROPYL BETAINE WATER SODIUM LAURYL SULFATE DIMETHICONE ZINC CARBONATE GLYCOL DISTEARATE SODIUM XYLENESULFONATE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) SODIUM BENZOATE MAGNESIUM CARBONATE HYDROXIDE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE PYRITHIONE ZINC PYRITHIONE ZINC SODIUM CHLORIDE NIACINAMIDE
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Uses helps prevent recurrence of flaking and itching associated with dandruff.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor. for maximum dandruff control, use every time you shampoo. shake before use. wet hair, massage onto scalp, rinse, repeat if desired.
+inactive_ingredient:
+  Inactive ingredients Water, sodium lauryl sulfate, glycol distearate, zinc carbonate, sodium chloride, fragrance, cocamidopropyl betaine, sodium xylenesulfonate, dimethicone, sodium benzoate, guar hydroxypropyltrimonium chloride, sodium laureth sulfate, magnesium carbonate hydroxide, niacinamide, methylchloroisothiazolinone, methylisothiazolinone
+questions:
+  Questions (or comments)? 1-800-723-9569
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1.18 L Bottle Label head & shoulders ® pyrithione zinc dandruff shampoo + conditioner SMOOTH & SILKY 2in1 24 hour frizz control Health scalp + hair CLINICALLY PROVEN UP TO 100% DANDRUFF PROTECTION 40 FL OZ (1.18 L) HS
+set_id:
+  6d1de62a-b1ab-4ae1-8b8d-e9f0b85beb59
+id:
+  4b2042bd-401b-772c-e063-6294a90a8f40
+effective_time:
+  20260218
+version:
+  13
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Head and Shoulders Smooth and Silky 2in1
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    The Procter & Gamble Manufacturing Company
+  product_ndc:
+    37000-095
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+    1043244
+  spl_id:
+    4b2042bd-401b-772c-e063-6294a90a8f40
+  spl_set_id:
+    6d1de62a-b1ab-4ae1-8b8d-e9f0b85beb59
+  package_ndc:
+    37000-095-20
+    37000-095-70
+    37000-095-40
+    37000-095-25
+    37000-095-95
+    37000-095-38
+    37000-095-65
+    37000-095-93
+    37000-095-12
+    37000-095-37
+    37000-095-61
+    37000-095-83
+    37000-095-01
+    37000-095-13
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

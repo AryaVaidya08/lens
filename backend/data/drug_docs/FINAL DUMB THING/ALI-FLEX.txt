@@ -1,0 +1,26 @@
+effective_time:
+  20100406
+warnings:
+  WARNINGS: Do not take this product for pain for more than 10 days (adults) or 5 days (children) and do not take for fever for more than 3 days unless directed by a physician. If pain of fever persist, if new symptoms occur, or if redness or swelling is present, consult a physician immediately because these could be signs of a serious condition. Do not give this product to children under 12 years of age for the pain of arthritis unless directed by a physician. May cause drowsiness; alcohol, sedatives and tranquilizers may increase the drowsiness effect. Avoid alcoholic beverages while taking this product. Do not take this product if you are taking sedatives or tranquilizers, without first consulting your physician. Use caution when driving a motor vehicle or operating machinery. Keep this and all drugs out of the reach of children. In case of accidental overdose, seek professional assistance or contact a poison control center immediately. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs of symptoms. As with any drug, if you are pregnant or nursing a baby, seek the advise of a health professional before using this product.
+spl_product_data_elements:
+  ALI-FLEX ACETAMINOPHEN and PHENYLTOLOXAMINE CITRATE PHENYLTOLOXAMINE CITRATE PHENYLTOLOXAMINE ACETAMINOPHEN ACETAMINOPHEN CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A POTATO MAGNESIUM STEARATE Dye Free Oblong Tablet AliFlex
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE: Adults (12 years and older) - 1/2 or 1 tablet every 4 hours. Maximum daily dose - 5 tablets. Children (6 to under 12 years) - 1/2 tablet every 4 hours. Maximum daily dose - 2 1/2 tablets. Children under 6 years of age consult a physician.
+general_precautions:
+  PHARMACIST: Preserve and dispense in tight containers with child resistant closures.
+  WARNING: Keep this and all drugs out of reach of children.
+storage_and_handling:
+  STORAGE: Store at room temperature. Avoid excessive heat.
+how_supplied:
+  How Supplied: ALI-FLEX Tablets are white (dye-free) oblong scored tablets. They are debossed with ALI-FLEX on one side and scored on the other side. Supplied in bottle of 100. Rx only.
+package_label_principal_display_panel:
+  Ali-Flex Primary Label
+indications_and_usage:
+  INDICATIONS: For the temporary relief of minor aches and pains associated with headaches, backaches, muscular aches, the menstrual and premenstrual periods, colds, the flu, toothaches, as well as for minor pain from arthritis, and to reduce fever.
+set_id:
+  a154b750-77ad-4225-9635-16974ccdab29
+id:
+  835465e0-9c8f-4cf2-a4b3-5adf5fe9b471

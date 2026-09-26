@@ -1,0 +1,44 @@
+effective_time:
+  20100617
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, chlorhexidine gluconate, citric acid, disodium EDTA, fragrance, purified water, sodium citrate, sodium hydroxide, tyloxapol
+purpose:
+  Purpose Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Ask a doctor before use if you have heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland When using this product do not exceed recommended dosage use of this container by more than one person may spread infection temporary burning, stinging, sneezing, or increased nasal discharge may occur frequent or prolonged use may cause nasal congestion to recur or worsen Stop use and ask a doctor if symptoms persist for more than 3 days If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not exceed recommended dosage use of this container by more than one person may spread infection temporary burning, stinging, sneezing, or increased nasal discharge may occur frequent or prolonged use may cause nasal congestion to recur or worsen
+questions:
+  Questions? 1-800-873-8276
+spl_product_data_elements:
+  Vicks Sinex VapoSpray OXYMETAZOLINE HYDROCHLORIDE OXYMETAZOLINE HYDROCHLORIDE OXYMETAZOLINE
+ask_doctor:
+  Ask a doctor before use if you have heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults & children 6 yrs. & older (with adult supervision) 2 or 3 sprays in each nostril without tilting your head, not more often than every 10 to 12 hours. Do not exceed 2 doses in 24 hours. children 2 to under 6 yrs. ask a doctor children under 2 yrs. do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  www.vicks.com Made in Germany Dist. by Procter & Gamble, Cincinnati OH 45202.
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days
+storage_and_handling:
+  Other information store at room temperature
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 ml nasal spray container VICKS ® Sinex ® VapoSpray ™ Oxymetazoline HCl...Nasal Decongestant 12 HOUR DECONGESTANT Nasal Spray With Soothing Vicks Vapors See Drug Facts 1/2 FL OZ (15 ml) Principle Display Panel - 15 ml nasal spray container
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to colds hay fever upper respiratory allergies
+set_id:
+  8220ff7d-c3e2-457b-9e58-764da1b91f90
+id:
+  6c2c645e-3eeb-439c-8d6a-3c6753223c68
+active_ingredient:
+  Active ingredient Oxymetazoline HCl 0.05%
+dosage_and_administration_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults &amp; children 6 yrs. &amp; older (with adult supervision)</td> <td>2 or 3 sprays in each nostril without tilting your head, not more often than every 10 to 12 hours. Do not exceed 2 doses in 24 hours.</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children 2 to under 6 yrs.</td> <td>ask a doctor</td> </tr> <tr> <td styleCode="Rrule">children under 2 yrs.</td> <td>do not use</td> </tr> </tbody> </table>

@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Vapor Inhaler levmetamfetamine nasal decongestant, Best Choice Levmetamfetamine Levmetamfetamine Levmetamfetamine Bornyl acetate Camphor (Synthetic) Lavender oil Menthol Methyl Salicylate
+active_ingredient:
+  Active ingredient (per inhaler) Levmetamfetamine 50 mg
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Use: for temporary relief of nasal congestion due to: the common cold hay fever or upper respiratory allergies
+warnings:
+  Warnings When using this product do not exceed recommended dosage temporary burning, stinging, sneezing, or increased nasal Squareharge may occur use of this container by more than one person may spread infection do not use for more than 7 days • use only as directed frequent or prolonged use may cause nasal congestion to recur or worsen Stop use and ask a doctor if symptoms persist If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not exceed recommended dosage temporary burning, stinging, sneezing, or increased nasal Squareharge may occur use of this container by more than one person may spread infection
+do_not_use:
+  do not use for more than 7 days • use only as directed frequent or prolonged use may cause nasal congestion to recur or worsen Stop use and ask a doctor if symptoms persist If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if symptoms persist
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions the product delivers in each 800 mL of air 0.04 to 0.150 mg of levmetamfetamine do not use more often than every 2 hours adults and children 12 years of age and over 2 inhalations in each nostril children 6 to under 12 years of age (with adult supervision) 1 inhalation in each nostril children under 6 years of age ask a doctor children under 2 years of age do not use
+dosage_and_administration_table:
+  <table width="100%"><col width="68.250%" align="left"/><col width="31.750%" align="left"/><tbody><tr><td align="left" valign="bottom" styleCode="Toprule Botrule Rrule">adults and children 12 years of age and over </td><td align="left" valign="bottom" styleCode="Toprule Botrule">2 inhalations in each nostril </td></tr><tr><td align="left" valign="bottom" styleCode="Botrule Rrule">children 6 to under 12 years of age (with adult supervision) </td><td align="left" valign="top" styleCode="Botrule">1 inhalation in each nostril </td></tr><tr><td align="left" valign="bottom" styleCode="Botrule Rrule">children under 6 years of age </td><td align="left" valign="bottom" styleCode="Botrule">ask a doctor </td></tr><tr><td align="left" valign="top" styleCode="Rrule">children under 2 years of age </td><td align="left" valign="top">do not use </td></tr></tbody></table>
+other_safety_information:
+  Other information this inhaler is effective for a minimum of 3 months after first use keep inhaler tightly closed store at 59°-86° F (15°-30° C)
+inactive_ingredient:
+  Inactive ingredients bornyl acetate, camphor, lavender oil, menthol, methyl salicylate
+questions:
+  Questions or comments? 1-888-586-7979
+package_label_principal_display_panel:
+  Principal Display Panel - 15 mg Blister Pack Label NDC 63941-981-07 Best Choice® COMPARE TO THE ACTIVE INGREDIENT OF VICKS® VAPOINHALER®* Nasal Decongestant Vapor Inhaler Levmetamfetamine Nasal Decongestant Temporary Relief of Nasal Congestion due to: Colds Hay Fever Upper Respiratory Allergies NET WT .007 oz (198 mg) Principal Display Panel - 15 mg Blister Pack Label
+  Principal Display Panel - 15 mg Inhaler Label NDC 63941-981-07 Best Choice® Nasal Decongestant Vapor Inhaler Levmetamfetamine Nasal Decongestant NET WT .007oz (198 mg) Principal Display Panel - 15 mg Inhaler Label
+set_id:
+  3f1c086c-bc22-4abb-9921-565a13f30c20
+id:
+  2fd33bbc-1aa7-4742-8bed-f986aeae6494
+effective_time:
+  20241220
+version:
+  3
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Vapor Inhaler levmetamfetamine nasal decongestant, Best Choice
+  generic_name:
+    LEVMETAMFETAMINE
+  manufacturer_name:
+    Valu Merchandisers Company
+  product_ndc:
+    63941-981
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    LEVMETAMFETAMINE
+  spl_id:
+    2fd33bbc-1aa7-4742-8bed-f986aeae6494
+  spl_set_id:
+    3f1c086c-bc22-4abb-9921-565a13f30c20
+  package_ndc:
+    63941-981-07
+  is_original_packager:
+    True
+  upc:
+    0070038650171
+  unii:
+    Y24T9BT2Q2

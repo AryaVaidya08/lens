@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Head and Shoulders Deep Moisture Scalp and Hair Mask Pyrithione Zinc BENZYL ALCOHOL AVOCADO OIL CETYL ALCOHOL WATER DIMETHICONE PHENOXYETHANOL METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE BEHENTRIMONIUM CHLORIDE PYRITHIONE ZINC PYRITHIONE ZINC STEARYL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Pyrithione zinc .5%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Uses helps prevent recurrence of flaking and itching associated with dandruff.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  For external use only.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor. apply to wet hair after shampooing by gently massaging onto hair and scalp for a few minutes, rinse well
+inactive_ingredient:
+  Inactive ingredients Water, stearyl alcohol, dimethicone, behentrimonium chloride, cetyl alcohol, fragrance, benzyl alcohol, phenoxyethanol, persea gratissima (avocado) oil, methylchloroisothiazolinone, methylisothiazolinone.
+questions:
+  Questions (or comments)? 1-800-723-9569
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 mL Pouch/sachet Label head & shoulders ® pyrithione zinc dandruff treatment DEEP MOISTURE SCALP & HAIR MASK 1.5 FL OZ (50 mL) HS
+set_id:
+  7cc575a8-cd89-73f1-e053-2991aa0ab629
+id:
+  258fdbe1-6b44-9206-e063-6394a90a7ce8
+effective_time:
+  20241028
+version:
+  3
+openfda:

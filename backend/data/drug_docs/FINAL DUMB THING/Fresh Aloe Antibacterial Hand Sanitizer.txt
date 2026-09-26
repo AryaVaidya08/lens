@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Fresh Aloe Antibacterial Hand Sanitizer ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL CARBOMER 940 AMINOMETHYLPROPANOL ISOPROPYL PALMITATE OXYBENZONE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Alcohol, Denatured 68% (Purpose: Antiseptic)
+purpose:
+  Uses For handwashing to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame.
+indications_and_usage:
+  When using this product Avoid contact with eyes. If contact occurs flush eyes with water. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours, consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of the reach of Children If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Propylene Glycol, Carbomer, Fragrance (Parfum), Carbomer, Aminomethyl Propanol,Isopropyl Palmitate, Benzophenone-3, May contain: FD&C Blue No. 1,FD&C Yellow No.5
+how_supplied:
+  Wash Hands thoroughly with product and allow to dry without wiping.
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  image of 2758897fa
+set_id:
+  00a154fc-b9ad-47f0-b425-c6dc42319b41
+id:
+  2788f17f-3901-8ae4-e063-6394a90ad166
+effective_time:
+  20241122
+version:
+  2
+openfda:

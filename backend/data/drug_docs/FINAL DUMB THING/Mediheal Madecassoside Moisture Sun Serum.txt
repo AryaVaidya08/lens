@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Mediheal Madecassoside Moisture Sun Serum Homosalate, Octocrylene, Octisalate, Ensulizole HOMOSALATE HOMOSALATE ENSULIZOLE ENSULIZOLE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE WATER POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) BUTYLENE GLYCOL MADECASSIC ACID SODIUM HYALURONATE 1,2-HEXANEDIOL SODIUM STEAROYL GLUTAMATE NIACINAMIDE BUTYLOCTYL SALICYLATE PENTYLENE GLYCOL ETHYLHEXYLGLYCERIN BIOSACCHARIDE GUM-1 TOCOPHEROL BEHENYL ALCOHOL HYDROXYETHYL UREA METHYLPROPANEDIOL POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE TROMETHAMINE PROPANEDIOL TRIPROPYLENE GLYCOL AMINOMETHYL PROPANOL ETHYLHEXYL METHOXYCRYLENE ASIATIC ACID ASIATICOSIDE BENZOTRIAZOLYL DODECYL P-CRESOL ISODODECANE MADECASSOSIDE DIPROPYLENE GLYCOL
+dosage_and_administration:
+  Directions Directions ■ Apply liberally 15 minutes before sun exposure. ■ Reapply at least every 2 hours. ■ Use a water-resistant sunscreen if swimming or sweating. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ■ Limit time in the sun, especially from 10 a.m. – 2 p.m. ■ Wear long-sleeved shirts, pants, hats, and sunglasses. ■ Children under 6 months of age: Ask a doctor.
+warnings:
+  Warnings Warnings For external use only. Do not use ■ on damaged or broken skin. When using this product ■ keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if ■ rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Water, Butyloctyl Salicylate, Benzotriazolyl Dodecyl p-Cresol, Propanediol, Ethylhexyl Methoxycrylene, Methyl Methacrylate Crosspolymer, Niacinamide, Polymethylsilsesquioxane, Lauryl Dimethicone, Pentylene Glycol, 1,2-Hexanediol, Hydroxyethyl Urea, Aminomethyl Propanol, C11-13 Isoalkane, Isododecane, Butylene Glycol, Methylpropanediol, Behenyl Alcohol, Polyglyceryl-3 Methylglucose Distearate, Tripropylene Glycol, Vinyl Dimethicone, Dipropylene Glycol, Dimethiconol, Poly C10-30 Alkyl Acrylate, Polyacrylic Acid, Dimethicone/Vinyl Dimethicone Crosspolymer, Tromethamine, Polyether-1, Fragrance (Parfum), Ethylhexylglycerin, Sodium Stearoyl Glutamate, Sphingomonas Ferment Extract, Centella Asiatica Leaf Extract, Madecassoside, Sodium Hyaluronate, Biosaccharide Gum-1, Centella Asiatica Extract, Tocopherol, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate, Madecassic Acid, Asiatic Acid, Asiaticoside
+indications_and_usage:
+  Uses ■ Helps prevent sunburn. ■ If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  Purpose Sunscreen
+package_label_principal_display_panel:
+  jpg
+  Set Product Artwork Added 2 3
+set_id:
+  47c66535-8287-9b74-e063-6394a90ac3b6
+id:
+  5182f119-832d-4deb-e063-6294a90af415
+effective_time:
+  20260510
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Mediheal Madecassoside Moisture Sun Serum
+  generic_name:
+    HOMOSALATE, OCTOCRYLENE, OCTISALATE, ENSULIZOLE
+  manufacturer_name:
+    74005
+  product_ndc:
+    74005-002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HOMOSALATE
+    ENSULIZOLE
+    OCTOCRYLENE
+    OCTISALATE
+  spl_id:
+    5182f119-832d-4deb-e063-6294a90af415
+  spl_set_id:
+    47c66535-8287-9b74-e063-6394a90ac3b6
+  package_ndc:
+    74005-002-01
+    74005-002-02
+    74005-002-03
+    74005-002-04
+  is_original_packager:
+    True
+  unii:
+    V06SV4M95S
+    9YQ9DI1W42
+    5A68WGF6WM
+    4X49Y0596W

@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Sunmark All Day Allergy D Cetirizine HCl, Pseudoephedrine HCl CETIRIZINE HYDROCHLORIDE CETIRIZINE PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE SILICON DIOXIDE HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE TALC FERRIC OXIDE YELLOW one side white one side light yellow 5029;5;120
+active_ingredient:
+  Active ingredient (in each extended release tablet) Cetirizine HCl 5 mg Pseudoephedrine HCl 120 mg
+purpose:
+  Purpose Antihistamine Nasal Decongestant
+indications_and_usage:
+  Uses • temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat • nasal congestion • reduces swelling of nasal passages • temporarily relieves sinus congestion and pressure • temporarily restores freer breathing through the nose
+warnings:
+  Warnings Do not use • if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • heart disease • thyroid disease • diabetes • glaucoma • high blood pressure • trouble urinating due to an enlarged prostate gland • liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • do not use more than directed • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if • an allergic reaction to this product occurs. Seek medical help right away. • you get nervous, dizzy, or sleepless • symptoms do not improve within 7 days or are accompanied by fever If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use • if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have • heart disease • thyroid disease • diabetes • glaucoma • high blood pressure • trouble urinating due to an enlarged prostate gland • liver or kidney disease. Your doctor should determine if you need a different dose.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+when_using:
+  When using this product • do not use more than directed • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if • an allergic reaction to this product occurs. Seek medical help right away. • you get nervous, dizzy, or sleepless • symptoms do not improve within 7 days or are accompanied by fever
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • do not break or chew tablet; swallow tablet whole adults and children 12 years and over take 1 tablet every 12 hours; do not take more than 2 tablets in 24 hours. adults 65 years and over ask a doctor children under 12 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><col width="47%"/><col width="53%"/><tbody><tr><td styleCode="Botrule Lrule Toprule " valign="top"><paragraph>adults and children 12 years and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>take 1 tablet every 12 hours; do not take more than 2 tablets in 24 hours.</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>adults 65 years and over</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>children under 12 years of age</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • store between 20° to 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, talc, yellow iron oxide
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Zyrtec-D ® active ingredients 12 Hour All Day Allergy-D Cetirizine Hydrochloride and Pseudoephedrine Hydrochloride Extended Release Tablets, 5 mg/120 mg Antihistamine/Nasal Decongestant Indoor & Outdoor Allergies 12 Hour Relief of Sneezing, Runny Nose, Sinus Pressure, Itchy, Watery Eyes, Itchy Throat or Nose, Nasal Congestion Original Prescription Strength Allergy & Congestion Actual Size All Day Allergy-D Carton All Day Allergy-D Carton All Day Allergy-D Carton
+set_id:
+  0cabdccd-5d24-40fe-a004-5ad4b5379718
+id:
+  a9e35dd1-813b-41ae-b8f6-b4976139011d
+effective_time:
+  20221117
+version:
+  4
+openfda:

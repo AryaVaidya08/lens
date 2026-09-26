@@ -1,0 +1,31 @@
+effective_time:
+  20151017
+inactive_ingredient:
+  Inactive Ingredient: Water, Cyclopentasiloxane, Hydrogenated Polyisobutene, Ethoxydiglycol, Dimethicone, Cyclohexasiloxane, Dimethicone Crossploymer, PEG-10 Dimethicone, Dimethicone PEG 10/15 Crosspolymer, Magnesium Sulfate, Talc, Nylon-12, Phenoxyethanol, Propylene Glycol, Quaternium-18 Benonite, Triethoxycaprylysilane, Methylparaben, Ethylparaben, butylparaben, Propylparaben, Isobutylparaben, Cinnamomum Camphora (Camphor) Bark oil, Melaleuca Alternafolia (Tea Tree) Leaf Oil, Aloe Barbadensis Leaf Jiuce, Hexapeptide-9, Hamamelis Birginiana (Witch Hazel) May Contain: Iron Oxide (CI77491, CI77492, CI77499), Titanium Dioxide
+purpose:
+  Purpose: Acne Treatment
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children
+warnings:
+  Warning: For external use only
+when_using:
+  When Using This Product: Keep out of eyes, rinse with water to remove. Skin irrittion and dryness is more likely to occur if you use another topical acne medications at the same time. If irritation occurs, only use one medication at a time.
+spl_product_data_elements:
+  ELF Ivory ACNE Fighting Foundation SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID HYDROGENATED POLYBUTENE (1300 MW) WATER DIMETHICONE CAMPHOR OIL DIMETHICONE PEG-10 PHOSPHATE PROPYLENE GLYCOL NYLON-12 TALC PHENOXYETHANOL FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE TITANIUM DIOXIDE MAGNESIUM SULFATE, UNSPECIFIED FORM TRIETHOXYCAPRYLYLSILANE METHYLPARABEN ETHYLPARABEN PROPYLPARABEN BUTYLPARABEN ISOBUTYLPARABEN TEA TREE OIL ALOE VERA LEAF WITCH HAZEL
+ask_doctor:
+  Stop use and ask a doctor If rash occurs
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Cleanse the skin thoroughly before applying medication. Cover the entire affected area with a thin layer one to three times daily. Because excessive drying of skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Uses: For the treatment of acne Helps prevent new acne blemishes
+set_id:
+  4fdc62ce-2555-4de1-b286-0d0ab0eafb36
+id:
+  6b890b8d-ad86-49c0-aab1-d125676e8dec
+active_ingredient:
+  Active Ingredient: Salicylic Acid 0.5%

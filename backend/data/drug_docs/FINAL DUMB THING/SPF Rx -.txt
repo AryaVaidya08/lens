@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  SPF Rx - SPF 15 Spearmint Lip Balm Octinoxate, Octisalate, Avobenzone, Octocrylene SUNFLOWER OIL WHITE WAX OLIVE OIL CANNABIS SATIVA SEED OIL ROSEMARY TOCOPHEROL ALOE VERA LEAF OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE OCTOCRYLENE OCTOCRYLENE
+active_ingredient:
+  ACTIVE INGREDIENTS Octinoxate 6.5% Octisalate 5% Avobenzone 2% Octocrylene 1.5%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  USES Helps prevent sunburn.
+warnings:
+  WARNINGS For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Children under 6 months, ask a doctor. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer & early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeve shirts, pants, hats, and sunglasses
+inactive_ingredient:
+  INACTIVE INGREDIENTS Helianthus Annuus (Sunflower) Seed Oil, Cera Alba (Beeswax), Olea Europaea (Olive) Fruit Oil, Flavor, Cannabis Sativa (Hemp) Seed Oil, Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol, Aloe Barbadensis Leaf Extract.
+other_safety_information:
+  OTHER INFORMATION Protect this product from direct sun and excessive heat.
+package_label_principal_display_panel:
+  Label_SPF 15 Spearmint Lip Balm_Primary
+set_id:
+  709bc671-4986-4919-b887-a6a369be25a9
+id:
+  150e55ec-ad47-8d6e-e063-6394a90ac7d8
+effective_time:
+  20240401
+version:
+  3
+openfda:

@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  Cough Drops Menthol SUCROSE CORN SYRUP MENTHOL MENTHOL Transparent None
+active_ingredient:
+  Active ingredient 5.4 mg Cough Suppressant Oral anesthetic Front label
+purpose:
+  Uses temporarily relieves: cough as may occur with a cold ocassional minor irritation and sore throat
+indications_and_usage:
+  Uses temporarily relieves: cough as may occur with a cold ocassional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: severe or persistence sore throat accompanied by high fever, headache, nausea and vomiting may be serious. Consult a doctor promptly. Do not use more than 2 days or administer to children under 12 years of age.
+ask_doctor:
+  Ask a doctor before use if you have a severe throat accompanied by difficulty in breathing or that last more than 2 days a sore throat accompanied by fever, headache, rash, swelling, nausea or vomiting
+stop_use:
+  Stop use and consult a doctor if sore mouth symptons do not improve in 7 days or if irritation, pains or redness persists or worsens.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+overdosage:
+  In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 12 years and over: dissolve 1 drop slowly in mouth. Repeated every 2 hours as needed or as directed by a doctor. Children under 12 years and under do not use
+other_safety_information:
+  Store in a cool and dry place 10 calories per drop
+inactive_ingredient:
+  glucose syrup, sucrose
+questions:
+  Questions or comments: 1-800-632-6900
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Back Label
+set_id:
+  f05e11ce-c908-acbc-e053-2a95a90a584e
+id:
+  2db9aef8-9ab0-aee6-e063-6294a90a8358
+effective_time:
+  20250209
+version:
+  3
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Cough Drops
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    The Kroger CO
+  product_ndc:
+    59450-714
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    485287
+  spl_id:
+    2db9aef8-9ab0-aee6-e063-6294a90a8358
+  spl_set_id:
+    f05e11ce-c908-acbc-e053-2a95a90a584e
+  package_ndc:
+    59450-714-01
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

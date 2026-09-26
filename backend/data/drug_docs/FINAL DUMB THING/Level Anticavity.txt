@@ -1,0 +1,34 @@
+effective_time:
+  20110511
+inactive_ingredient:
+  Inactive Ingredients: purified water, glycerin, sorbitol, xylitol hydrated silica, calcium carbonate, tetrasodium pyrophosphate, sodium lauryl sulfate, sodium bicarbonate, sodium saccharin, cellulose gum, sodium benzoate, flavor
+purpose:
+  Purpose Anticaries
+keep_out_of_reach_of_children:
+  Keep out of reach children under 6 years of age.
+warnings:
+  Warnings: Do not swallow. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Level Anticavity SODIUM MONOFLUOROPHOSPHATE SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION WATER GLYCERIN SORBITOL XYLITOL SILICON DIOXIDE CALCIUM CARBONATE SODIUM PYROPHOSPHATE SODIUM LAURYL SULFATE SODIUM BICARBONATE SACCHARIN CROSCARMELLOSE SODIUM SODIUM BENZOATE
+description:
+  xylitol Natural Enamel Protection True Protection with fluoride Gentle, yet powerful whitening agents Ultimate freshness formula Enamel Guard with pH stabilizers Distributed by: Level Oral Care, LLC Jacksonville, FL 32246 www.leveloralcare.com Product of MY
+openfda:
+version:
+  9
+dosage_and_administration:
+  Directions: Adults and children 2 years of age and older: Apply Level Toothpaste onto a soft bristle toothbrush. Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Children under 6 years of age: Instruct in good brushing and rinsing habits (to minimize swallowing). Use a pea-sized amount. Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor.
+dosage_forms_and_strengths:
+  Level Mint One Anticavity Toothpaste perfect your smile NET WT 1.0 oz (28.3 g)
+package_label_principal_display_panel:
+  Level Mint Five Anticavity Toothpaste perfect your smile NET WT 5.0 oz (141.7 g)
+  MintToothpaste
+  MintToothpasteDrugFacts
+  MintToothpaste1oz
+indications_and_usage:
+  Uses: Aids in the prevention of dental cavities.
+set_id:
+  e968f453-0f8e-4ede-a42d-835b94d0ae56
+id:
+  347f2743-075b-46c7-82ad-19e4d5ba42b3
+active_ingredient:
+  Active Ingredient: Purpose Sodium monofluorophoshate 0.76 percent Anticaries

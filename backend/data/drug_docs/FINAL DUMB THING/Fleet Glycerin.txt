@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Fleet Glycerin GLYCERIN GLYCERIN ALOE EDETATE DISODIUM WATER SODIUM HYDROXIDE STEARIC ACID
+active_ingredient:
+  Active Ingredient Glycerin 2 g
+purpose:
+  Purpose Hyperosmotic Laxative
+indications_and_usage:
+  Uses for relief of occasional constipation this product usually produces bowel movement in 1/4 to 1 hour
+warnings:
+  Warnings For rectal use only May cause rectal discomfort or a burning sensation. Ask a doctor before using any laxative if you have abdominal pain, nausea or vomiting a sudden change in bowel habits lasting more than 2 weeks already used a laxative for more than 1 week Stop use and consult a doctor if you have rectal bleeding no bowel movement within 1 hour of using this product These symptoms may indicate a serious condition. Keep out of reach of children to prevent accidental ingestion. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before using any laxative if you have abdominal pain, nausea or vomiting a sudden change in bowel habits lasting more than 2 weeks already used a laxative for more than 1 week
+stop_use:
+  Stop use and consult a doctor if you have rectal bleeding no bowel movement within 1 hour of using this product These symptoms may indicate a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children to prevent accidental ingestion. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Single Daily Dosage (per 24 hours) adults and children 6 years and over 1 suppository, or as directed by a doctor children 2 to under 6 years use Fleet ® Pedia-Lax Suppositories ® children under 2 years ask a doctor Insert suppository well up into rectum. To product laxative action suppository is designed to dissolve only partially, which may not be noticeable.
+dosage_and_administration_table:
+  <table><col/><col/><tbody><tr><td>adults and children 6 years and over</td><td>1 suppository, or as directed by a doctor</td></tr><tr><td>children 2 to under 6 years</td><td>use Fleet<sup>&#xAE;</sup> Pedia-Lax Suppositories<sup>&#xAE;</sup></td></tr><tr><td>children under 2 years</td><td>ask a doctor</td></tr></tbody></table>
+spl_unclassified_section:
+  Other information Store container tightly closed. Keep away from excessive heat. Mouth of jar sealed for safety. If foil imprinted with green Fleet ® emblem is missing or torn, do not use.
+inactive_ingredient:
+  Inactive ingredients aloe vera gel (decolorized), edetate disodium, purified water, sodium hydroxide, stearic acid
+questions:
+  Questions? 1-866-255-6960
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Fleet Glycerin Suppositories 100 suppositories Fleet Glycerin Suppositories 100 ct jar
+set_id:
+  669fa039-d683-49f3-aeeb-d687ccd5f74e
+id:
+  e8b27564-47e3-40b3-9644-45eb34b96d7e
+effective_time:
+  20200702
+version:
+  3
+openfda:

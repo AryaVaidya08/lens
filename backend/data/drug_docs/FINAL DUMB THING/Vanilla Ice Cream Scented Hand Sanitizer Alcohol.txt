@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Vanilla Ice Cream Scented Hand Sanitizer Alcohol ALCOHOL ALCOHOL water CARBOMER COPOLYMER TYPE A AMINOMETHYLPROPANOL FD&C RED NO. 4 FD&C BLUE NO. 1 FD&C YELLOW NO. 5 D&C RED NO. 33
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Alcohol 65% Purpose Antiseptic USE Decrease bacteria on hands
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE Decrease bacteria on hands
+warnings:
+  Warnings Flammable-keep product awau from fire or flame. Waring - Choking Hazard S mall parts. Not for children under 3 years. When using this product avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor if irritation and redness develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  When using this product avoid contact with eyes; in case of contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops and persists.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry.
+inactive_ingredient:
+  Inactive ingredients Alcool Denat., Water (Aqua), Acrylates/c 10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Fragrace (Parfum). May contain: FD&C No. 4 (C.l. 14700), D&C Red No. 33 (Cl 17200), FD&C Yellow 5, FD&C Blue No. 1 (Cl 42090).
+package_label_principal_display_panel:
+  package label image
+set_id:
+  2063f783-744d-43f5-9aa9-6c84adcad82a
+id:
+  d6dd2bee-a70b-4b59-8e36-6757ababfc7f
+effective_time:
+  20220121
+version:
+  1
+openfda:

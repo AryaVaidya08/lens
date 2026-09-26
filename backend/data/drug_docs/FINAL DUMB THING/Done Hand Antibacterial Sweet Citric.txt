@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Done Hand Antibacterial Sweet Citric BENZALKONIUM CHLORIDE WATER SODIUM LAURETH SULFATE SODIUM C14-16 OLEFIN SULFONATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE GLYCERIN EDETATE SODIUM METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE D&C ORANGE NO. 4 BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on ths skin.
+warnings:
+  Warnings For external use only When using this product, avoid contact with eyes. In case of contact flush with water. Stop use and ask a doctor if irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product, avoid contact with eyes. In case of contact flush with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wash skin, rinse and dry thoroughly
+inactive_ingredient:
+  Inactive ingredients purified water, sodium laureth sulfate, sodium C14-16 olefin sulfonate, cocamidorpyopyl betaine, sodium chloride, glycerine, fragrance, tetrasodium EDTA, methylchloroisothiazolinone, Methylisothiazolinone, D&C orange No.4
+package_label_principal_display_panel:
+  Package Labeling: Bottle7
+set_id:
+  a4ebb643-50ea-557f-e053-2995a90a2574
+id:
+  ebd623e9-8880-3073-e053-2a95a90adc39
+effective_time:
+  20221025
+version:
+  3
+openfda:

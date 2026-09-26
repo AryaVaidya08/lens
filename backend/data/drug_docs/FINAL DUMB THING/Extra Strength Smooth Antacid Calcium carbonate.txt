@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Extra Strength Smooth Antacid Calcium carbonate CALCIUM CARBONATE CALCIUM CATION ADIPIC ACID STARCH, CORN DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC SORBITOL MICROCRYSTALLINE CELLULOSE light red light blue light pink G173 STRAWBERRY, RASPBERRY, WIDBERRY
+active_ingredient:
+  ACTIVE INGREDIENT (in each tablet) Calcium carbonate 750 mg
+purpose:
+  PURPOSE Antacid
+indications_and_usage:
+  USE(S) relieves: acid indigestion heartburn sour stomach upset stomach associated with these symptoms
+warnings:
+  WARNINGS .
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  WHEN USING THIS PRODUCT do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST FEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN .
+dosage_and_administration:
+  DIRECTIONS adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor. do not take for symptoms that persists for more than 2 weeks unless advised by a doctor.
+storage_and_handling:
+  OTHER INFORMATION each tablet contains: elemental calcium 300 mg store at room temperature. keep the container tightly closed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS adipic acid, corn starch, dextrose, FD&C blue 1 lake, FD&C red 40 lake, flavors, magnesium stearate, maltodextrin, microcrystalline cellulose, sorbitol, sucrose, talc.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Extra Strength Smooth Antacid Tablets evens Chill Berries Calcium Carbonate 750 mg 60 Chewable Tablets Compare to the active ingredient in TUMS ® Smoothies TM EX 44
+set_id:
+  95fcaed0-b761-4e6e-a1a6-184dc3ba0548
+id:
+  966f739d-4d4c-40aa-add8-430fa7f3654f
+effective_time:
+  20220106
+version:
+  3
+openfda:

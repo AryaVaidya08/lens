@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  WBM CARE Alcohol cleaning wet wipes ALCOHOL ALCOHOL ALCOHOL water
+active_ingredient:
+  Active Ingredient Alcohol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE Antiseptic For handwasing to decrease bacteria on the skin; after assisting ill person; and before contact with a person under medical care treatment Apply topically to the skin to help revent cross-contamination. Recommended for repeated use. Dries in seconds.
+warnings:
+  Warning Flammable, keep away from fire or flame. For external use only. When using this product , Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Discontinue use, if irritaion and redness develop. If condition persists for more than 72 hours, consult a physician. ●If swallowed, get medical help or contact a Poison Contrl Center right away.
+keep_out_of_reach_of_children:
+  ●If swallowed, get medical help or contact a Poison Contrl Center right away.
+dosage_and_administration:
+  Directions Wipe hands, fingers, interdigirtal areas and wrists throughly with towelette. Be sure to utilze the entire wipe surface. Allow to dry. If hands are visibly soilde or contaminated, use first wie to clean hands, then discard wipe. Sanitize with a second wipe. Discard after single use.
+inactive_ingredient:
+  Inactive ingredients water
+package_label_principal_display_panel:
+  label image
+set_id:
+  7ff92ced-bfcc-45d2-8e7a-c2ea812ed8b7
+id:
+  490a8c15-6dfd-4c77-925e-dfe43c46455d
+effective_time:
+  20200720
+version:
+  1
+openfda:

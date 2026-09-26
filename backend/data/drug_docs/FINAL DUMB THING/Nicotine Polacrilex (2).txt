@@ -1,0 +1,43 @@
+effective_time:
+  20140728
+inactive_ingredient:
+  Inactive Ingredients corn starch, D&C yellow #10, gum base, noncrystallizing sorbitol solution, peppermint oil, sodium bicarbonate, sodium carbonate, sorbitol
+purpose:
+  Purpose Stop Smoking Aid
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. Pieces of nicotine gum may have enough nicotine to make children and pets sick. Wrap used pieces of gum in paper and throw away in the trash. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings If you are pregnant or breastfeeding, only use this medicine on the advice of your healthcare provider. Smoking can seriously harm your child. Try to stop smoking without using any nicotine replacement medicine. This medicine is believed to be safer than smoking. However, the risks to your child from this medicine are not fully known. Do not use • if you continue to smoke, chew tobacco, use snuff, or use a nicotine patch or other nicotine containing products. Ask a doctor before use if you have • a sodium-restricted diet. • heart disease, recent heart attack, or irregular heartbeat. Nicotine can increase your heart rate. • high blood pressure not controlled with medication. Nicotine can increase blood pressure. • stomach ulcer or diabetes. Ask a doctor or pharmacist before use if you are • using a non-nicotine stop smoking drug. • taking prescription medicine for depression or asthma. Your prescription dose may need to be adjusted. Stop use and ask a doctor if • mouth, teeth or jaw problems occur. • irregular heart beat or palpitations occur. • you get symptoms of nicotine overdose such as nausea, vomiting, dizziness, diarrhea, weakness and rapid heartbeat. Keep out of reach of children and pets. Pieces of nicotine gum may have enough nicotine to make children and pets sick. Wrap used pieces of gum in paper and throw away in the trash. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? call TEVA Pharmaceuticals USA Medical Affairs Department at 1-888-838-2872 weekdays (8:30 a.m. to 5:00 p.m. EST).
+spl_product_data_elements:
+  Nicotine Polacrilex NICOTINE NICOTINE NICOTINE STARCH, CORN PEPPERMINT OIL SODIUM BICARBONATE SORBITOL SODIUM CARBONATE D&C YELLOW NO. 10
+ask_doctor:
+  Ask a doctor before use if you have • a sodium-restricted diet. • heart disease, recent heart attack, or irregular heartbeat. Nicotine can increase your heart rate. • high blood pressure not controlled with medication. Nicotine can increase blood pressure. • stomach ulcer or diabetes.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • if you are under 18 years of age, ask a doctor before use • before using this product, read the enclosed User's Guide for complete directions and other important information • stop smoking completely when you begin using the gum • if you smoke less than 25 cigarettes a day; use 2 mg nicotine gum • if you smoke 25 or more cigarettes a day; use according to the following 12 week schedule: Weeks 1 to 6 Weeks 7 to 9 Weeks 10 to 12 1 piece every 1 to 2 hours 1 piece every 2 to 4 hours 1 piece every 4 to 8 hours • nicotine gum is a medicine and must be used a certain way to get the best results • chew the gum slowly until it tingles. Then park it between your cheek and gum. When the tingle is gone, begin chewing again, until the tingle returns. • repeat this process until most of the tingle is gone (about 30 minutes) • do not eat or drink for 15 minutes before chewing the nicotine gum, or while chewing a piece • to improve your chances of quitting, use at least 9 pieces per day for the first 6 weeks • if you experience strong or frequent cravings, you may use a second piece within the hour. However, do not continuously use one piece after another since this may cause you hiccups, heartburn, nausea or other side effects. • do not use more than 24 pieces a day • it is important to complete treatment. Stop using the nicotine gum at the end of 12 weeks. If you still feel the need to use nicotine gum, talk to your doctor.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if • mouth, teeth or jaw problems occur. • irregular heart beat or palpitations occur. • you get symptoms of nicotine overdose such as nausea, vomiting, dizziness, diarrhea, weakness and rapid heartbeat.
+storage_and_handling:
+  Other Information • each piece contains: calcium 61 mg, sodium 8.44 mg • Store at 20° to 25°C (68° to 77°F) • Protect from light
+do_not_use:
+  Do not use • if you continue to smoke, chew tobacco, use snuff, or use a nicotine patch or other nicotine containing products.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 4 mg Carton NDC 0172- 6731 -27 Compare to the active ingredient in Nicorette ® NICOTINE POLACRILEX GUM USP 4 mg (nicotine) Original Stop Smoking Aid Starter Kit: Includes stop smoking plan with User's Guide For those who smoke 25 or more cigarettes a day If you smoke less than 25 cigarettes a day: use nicotine polacrilex gum USP 2 mg Free Audio CD upon request. See inside. 108 Pieces, 4 mg Each TEVA PRINCIPAL DISPLAY PANEL - 4 mg Carton
+indications_and_usage:
+  Use • reduces withdrawal symptoms, including nicotine craving, associated with quitting smoking.
+set_id:
+  4e01f028-f7d2-4dbd-a56e-e6e2ba67eabc
+id:
+  c575d382-3ba0-4665-b5fb-4a7e1e3669b1
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • using a non-nicotine stop smoking drug. • taking prescription medicine for depression or asthma. Your prescription dose may need to be adjusted.
+active_ingredient:
+  Active Ingredient (in each chewing piece) Nicotine polacrilex USP (equal to 4 mg nicotine)
+dosage_and_administration_table:
+  <table width="70%"> <col width="23%"/> <col width="23%"/> <col width="23%"/> <thead> <tr> <th align="left" styleCode="Botrule Lrule Toprule " valign="top"> <content styleCode="bold">Weeks 1 to 6</content> </th> <th align="left" styleCode="Botrule Lrule Toprule " valign="top"> <content styleCode="bold">Weeks 7 to 9</content> </th> <th align="left" styleCode="Rrule Botrule Lrule Toprule " valign="top"> <content styleCode="bold">Weeks 10 to 12</content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Botrule Lrule Toprule "> <paragraph>1 piece every 1 to 2 hours</paragraph> </td> <td styleCode="Botrule Lrule Toprule "> <paragraph>1 piece every 2 to 4 hours</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule "> <paragraph>1 piece every 4 to 8 hours</paragraph> </td> </tr> </tbody> </table>

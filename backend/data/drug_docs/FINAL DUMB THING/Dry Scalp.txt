@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Dry Scalp Pyrithione Zinc WATER SODIUM LAURYL SULFATE SODIUM LAURETH SULFATE GLYCOL DISTEARATE SODIUM CHLORIDE ZINC CARBONATE SODIUM XYLENESULFONATE AMODIMETHICONE (800 CST) COCAMIDOPROPYL BETAINE SODIUM BENZOATE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) MAGNESIUM CARBONATE HYDROXIDE CITRIC ACID MONOHYDRATE ALMOND OIL METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE PYRITHIONE ZINC PYRITHIONE ZINC
+active_ingredient:
+  Active ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Use Helps prevent recurrence of flaking and itching associated with dandruff
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use as directed
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions shake well for maximum dandruff control, use every time you shampoo wet hair, massage onto scalp, rinse, repeat if desired for best results use at least twice a week or as directed by a doctor
+inactive_ingredient:
+  inactive ingredients water, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, sodium chloride, zinc carbonate, sodium xylenesulfonate, amodimethicone, cocamidopropyl betaine, fragrance, sodium benzoate, guar hydroxypropyltrimonium chloride, magnesium carbonate hydroxide, citric acid, prunus amygdalus dulcis (sweet almond) oil, methylchloroisothiazolinone, methylisothiazolinone
+questions:
+  questions Or to report an adverse even call 800-824-1706 Monday - Friday 9am - 4pm MST
+adverse_reactions:
+  Adverse Reactions DISTRIBUTED BY: WINCO FOODS, LLC BOISE, ID 83704 100% SATISFACTION GUARANTEE Comments & Questions? www.wincofoods.com
+spl_unclassified_section:
+  Disclaimer *This product is not manufactured or distributed by PROCTOR & GAMBLE, distributor of HEAD & SHOULDERS ® Dry Scalp Care Dandruff Shampoo.
+package_label_principal_display_panel:
+  Principal display panel *Compare to HEAD & SHOULDERS ® Dry Scalp Care Shampoo WinCo ® FOODS DRY SCALP Dandruff Shampoo FOR NORMAL OR DRY HAIR Helps Relieve & Moisturize Scalp Dryness, Itch, Irritation & Helps Prevent Flakes pH Balanced Formula Leaves Hair Soft & Manageable 12.5 FL OZ (370 mL) image description image description
+set_id:
+  4fca1200-dc6c-4e6e-b09c-2ec8ac0fa411
+id:
+  4aa234fe-f06d-ade8-e063-6294a90a200d
+effective_time:
+  20260212
+version:
+  11
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Dry Scalp
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    WinCo Foods, LLC
+  product_ndc:
+    67091-179
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+  spl_id:
+    4aa234fe-f06d-ade8-e063-6294a90a200d
+  spl_set_id:
+    4fca1200-dc6c-4e6e-b09c-2ec8ac0fa411
+  package_ndc:
+    67091-179-14
+    67091-179-02
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

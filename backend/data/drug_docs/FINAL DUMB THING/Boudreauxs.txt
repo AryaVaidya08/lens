@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Boudreauxs Zinc Oxide ZINC OXIDE ZINC OXIDE BALSAM PERU MINERAL OIL PARAFFIN PETROLATUM CASTOR OIL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Zinc Oxide, 40%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Helps treat and prevent diaper rash Protects chafed skin due to diaper rash and helps seal out wetness
+warnings:
+  Warnings For external use only When using this product avoid contact with the eyes Stop use and ask a doctor if condition worsens or does not improve after 7 days Keep out of reach of children If swallowed, seek medical help or call Poison Control Center (1-800-222-1222) immediately
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, seek medical help or call Poison Control Center (1-800-222-1222) immediately
+dosage_and_administration:
+  Directions Change wet and soiled diaper immediately Cleanse the diaper area and allow to dry Apply ointment liberally and as often as necessary with each diaper change and especially when exposed to wet diapers for a prolonged period of time, such as bedtime
+other_safety_information:
+  Other Information Store at room temperature, 15C to 25 C ( 59F to 77F) Remove foil seal from the tube's tip Use with infants, children and adults Will stain clothing and fabric
+inactive_ingredient:
+  Inactive Ingredients myroxylon pereirae (balsam peru) resin, mineral oil, paraffin, petrolatum, ricinus communis (castor) seed oil
+questions:
+  Questions ? 1-855-785-2888 www.buttpaste.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL TREATS & PROTECTS BOUDREAUX’S BUTT PASTE MAX STRENGTH NET WT. 2 OZ (57 g) TREATS & PROTECTS BOUDREAUX’S BUTT PASTE MAX STRENGTH NET WT. 2 OZ (57 g)
+  PRINCIPAL DISPLAY PANEL BOUDREAUX’S BUTT PASTE Zinc oxide 40% MAX STRENGTH NET WT. 4 OZ (113 g) BOUDREAUX’S BUTT PASTE Zinc oxide 40% MAX STRENGTH NET WT. 4 OZ (113 g)
+  PRINCIPAL DISPLAY PANEL BOUDREAUX’S BUTT PASTE Zinc oxide 40% MAX STRENGTH NET WT. 14 OZ (396 g) BOUDREAUX’S BUTT PASTE Zinc oxide 40% MAX STRENGTH NET WT. 14 OZ (396 g)
+set_id:
+  59d90652-a471-4f77-a3d5-88aad9dc9e13
+id:
+  a378c7d3-f792-4c05-b35b-03c8fbb1a5b4
+effective_time:
+  20251030
+version:
+  13
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Boudreauxs
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    C.B. Fleet Company, Inc.
+  product_ndc:
+    0132-0323
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    a378c7d3-f792-4c05-b35b-03c8fbb1a5b4
+  spl_set_id:
+    59d90652-a471-4f77-a3d5-88aad9dc9e13
+  package_ndc:
+    0132-0323-44
+    0132-0323-22
+    0132-0323-14
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

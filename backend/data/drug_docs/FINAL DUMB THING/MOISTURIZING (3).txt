@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  MOISTURIZING SANITIZER TOWELETTES GREEN TEA Ethyl alcohol Alcohol ALCOHOL Water Glycerin CHAMAEMELUM NOBILE FLOWER MELALEUCA ALTERNIFOLIA LEAF .ALPHA.-HEXYLCINNAMALDEHYDE ISOMETHYL-.ALPHA.-IONONE ALOE VERA LEAF Hyaluronic Acid
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl alcohol 70%
+inactive_ingredient:
+  INACTIVE INGREDIENT Aqua/Water, Glycerin, Cymbopogon Citratus Extract, Anthemis Nobilis Flower Extract, Aspalathus Linearis Extract, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Hexyl Cinnamal, Alpha-Isomethyl Ionone, Fragrance, Aloe Barbadensis Extract, Hyaluronic Acid
+purpose:
+  PURPOSE Antiseptic
+warnings:
+  WARNINGS For external use only: hands -------------------------------------------------------------------------------------------------------- Flammable. Keep away from fire or flame -------------------------------------------------------------------------------------------------------- When using this product ㆍkeep out of eyes. In case of contact with eyes, flush thoroughly with water. ㆍavoid contact with broken skin ㆍdo not inhale or ingest -------------------------------------------------------------------------------------------------------- Stop use and ask a doctor if ㆍirritation or redness develops ㆍcondition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses ㆍto decrease bacteria on the skin that could cause disease ㆍrecommended for repeated use
+dosage_and_administration:
+  Directions ㆍuse towelette to throughly wipe hands or surfaces ㆍfor children under 6, use only under adult supervision ㆍnot recommended for infants
+other_safety_information:
+  Other Information ㆍstore below 110℉ (43℃) ㆍmay discolor some fabrics ㆍharmful to wood finishes and plastics
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of packet
+set_id:
+  90839fe9-df8e-4e3d-a9e3-eb714f62bde6
+id:
+  22aada32-5239-45ac-97e0-f66b31dfd270
+effective_time:
+  20200619
+version:
+  1
+openfda:

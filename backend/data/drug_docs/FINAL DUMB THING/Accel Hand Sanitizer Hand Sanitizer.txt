@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Accel Hand Sanitizer Hand Sanitizer GLYCERIN WATER ALCOHOL ALCOHOL ALOE VERA LEAF CUCUMBER LEMON AMINOMETHYLPROPANOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+active_ingredient:
+  Active Ingredient(s) Ethyl alcohol 75% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on skin when soap & water not available
+warnings:
+  Warnings Flammable.keep away from fire or flame.for external use only.when using this product do not use in or near the eyes.in case of contact rinse eyes thoroughly with water Stop use and ask a doctoir ii irritation or rash appears andi lasts. Keep out of reach Orf children. If swallowed get medical help or contact a Poison Control Center immediatelly.
+do_not_use:
+  Do not use do not use in or near the eyes.in case of contact rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctoir ii irritation or rash appears andi lasts.
+when_using:
+  when using this product do not use in or near the eyes.in case of contact rinse eyes thoroughly with water Stop use and ask a doctoir ii irritation or rash appears andi lasts. Keep out of reach Orf children. If swallowed get medical help or contact a Poison Control Center immediatelly.
+keep_out_of_reach_of_children:
+  Keep out of reach Orf children. If swallowed get medical help or contact a Poison Control Center immediatelly.
+dosage_and_administration:
+  Directions Put enough product in your palm to cover hands when rubibing together rubbriskly until dry children under 6 years of age should be supervised when using
+storage_and_handling:
+  Other information store below 110°F (43°C) May discollor certairn fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water(aqua), Carbomer, Cucumber Extract, Lemon Extract, Aminomethyl Proparnol, Aloe Leaf Extract, Glycerin
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 79740-004-01 60ml 79740-004-02 240ml
+set_id:
+  b1ada702-f90c-2b2a-e053-2995a90acbc1
+id:
+  126dff0c-5ca4-d8d2-e063-6294a90ae76b
+effective_time:
+  20240228
+version:
+  3
+openfda:

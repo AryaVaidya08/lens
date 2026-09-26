@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  KLEAN 4 IN 1 Hand Sanitizer Alcohol ALCOHOL ALCOHOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) PROPYLENE GLYCOL WATER METHYL GLUCETH-20 PEG-90 DIISOSTEARATE AMINOMETHYLPROPANOL
+spl_unclassified_section:
+  
+active_ingredient:
+  Active Ingredient(s) Alcohol 80.16 % v/v. 73.68 % m/m Purpose: Antiseptic
+purpose:
+  Purpose Topical Antiseptic
+indications_and_usage:
+  Use Hand Sanitizer for the hygienic treatment of hands by friction. For use when soap and water unavailable.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, purified water USP
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 001 L (000 mL) NDC: 82122-005-01 1000 ml - 1 liter Label
+set_id:
+  9b4d1fb4-a784-4ad3-b927-2eb0a9221681
+id:
+  4d589d69-678b-425e-bf31-2148c22dc59a
+effective_time:
+  20210830
+version:
+  1
+openfda:

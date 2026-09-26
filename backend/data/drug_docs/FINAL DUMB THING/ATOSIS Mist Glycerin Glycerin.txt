@@ -1,0 +1,27 @@
+effective_time:
+  20180511
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredients: Water, Butylene Glycol, Alcohol, Glycyrrhiza Glabra (Licorice) Root Extract, Zingiber Officinale (Ginger) Root Extract, Schizandra Chinensis Fruit Extract, Coptis Chinensis Root Extract, Camellia Sinensis Leaf Extract, Saccharomyces/Viscum Album (Mistletoe) Ferment Extract, Lactobacillus/Soybean Ferment Extract, Saccharomyces/Imperata Cylindrica Root Ferment Extract, Aloe Barbadensis Leaf Juice, Centella Asiatica Extract, Sodium Hyaluronate, PEG-60 Hydrogenated Castor Oil, Sodium Citrate, Disodium EDTA, Citric Acid, Propolis Wax, Phenoxyethanol, Caprylyl Glycol, 1,2-Hexanediol, Fragrance
+purpose:
+  PURPOSE Purpose: Skin Protectant
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS Warnings: For external use only Avoid contact with the eyes. In case of contact, rinse eyes thoroughly with water. Keep out of reach of children. If swallowed, seek medical assistance or contact a Poison Control Center immediately Stop use and ask a doctor if condition worsens or does not improve after regular use.
+spl_product_data_elements:
+  ATOSIS Mist Glycerin Glycerin GLYCERIN Water Butylene Glycol
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Directions: 1. Apply an appropriate amount of ATOSIS Powder to clean face. 2. Spray ATOSIS Mist to cover entire face. 3. Massage gently for maximum absorption.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  Use Use: Helps to moisturize and firm the skin.
+set_id:
+  b180cd93-8443-464f-ac76-e0a42f6a01d7
+id:
+  acb822b5-6c61-4bf9-a3f4-4120c8c471c7
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredient: Glycerin 0.1%

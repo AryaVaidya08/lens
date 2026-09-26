@@ -1,0 +1,41 @@
+effective_time:
+  20181019
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C red no. 33, FD&C blue no. 1, FD&C red no. 40, flavor, glycerin, high fructose corn syrup, menthol, microcrystalline cellulose and carboxymethylcellulose sodium, polyethylene glycol, povidone, propylene glycol, purified water, saccharin sodium, sodium benzoate, sorbitol solution, xanthan gum
+purpose:
+  Purposes Cough suppressant Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  Good Sense Adult Tussin DM dextromethorphan hbr, guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID D&C RED NO. 33 FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP MENTHOL CELLULOSE, MICROCRYSTALLINE CARBOXYMETHYLCELLULOSE SODIUM POLYETHYLENE GLYCOL POVIDONE PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SORBITOL XANTHAN GUM opaque, viscous
+ask_doctor:
+  Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • shake well before using • do not take more than 6 doses in any 24-hour period • measure only with dosing cup provided • keep dosing cup with produce • mL - milliliter • this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 10 mL every 4 hours children under 12 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+storage_and_handling:
+  Other information • each 10 mL contains: sodium 7 mg • store at 20-25°C (68-77°F)
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Non-Drowsy Tussin DM MAX Cough Suppressant (Dextromethorphan HBr) Expectorant (Guaifenesin) Maximum Strength Cough & Chest Congestion Relieves: Cough Mucus Peak Cold Adult For Ages 12 & Over Mixed Berry Flavor Compare to active ingredients of Robitussin® Maximum Strength Cough + Chest Congestion DM 4 FL OZ (118 mL) Good Sense Tussin DM MAX Image 1 Good Sense Tussin DM MAX Image 2
+indications_and_usage:
+  Uses • temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold • helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes
+set_id:
+  bca91b57-524c-4099-bcdb-249aeddf87a6
+id:
+  dcb76f6e-8c86-442e-aa78-8e787aeb7671
+active_ingredient:
+  Active ingredients (in each 10 mL) Dextromethorphan HBr, USP 20 mg Guaifenesin, USP 400 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="24%"/> <col width="21%"/> <tbody> <tr> <td align="center" styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>age</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>dose</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>adults and children</paragraph> <paragraph>12 years and over</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>10 mL every 4 hours</paragraph> </td> </tr> <tr> <td align="center" styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

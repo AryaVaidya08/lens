@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Lycopodium clavatum LYCOPODIUM CLAVATUM SPORE LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE SUCROSE LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE
+active_ingredient:
+  Tube - Lycopodium clavatum 30C (**contains 0.443 mg of the active ingredient per pellet) Box - Lycopodium clavatum 30C HPUS (**contains 0.443 mg of the active ingredient in each pellet) The letters "HPUS" indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  Box - Relieves bloated abdomen improved by passing gas*
+indications_and_usage:
+  Tube - Bloated Abdomen Improved By Passing Gas* Box - temporarily relieves symptoms referred to as gas such as: bloating, discomfort, pressure, gas due to constipation, slow digestion improved by passing gas
+warnings:
+  
+stop_use:
+  Tube - Stop use and ask a doctor if symptoms persist for more than 3 days or worsen. Box - Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  Tube - If pregnant or breast-feeding, ask a health professional before use. Box - If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Tube - Keep out of reach of children. Box - Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+spl_unclassified_section:
+  Tube - Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details. Box - Do not use if glued carton end flaps are open or if pellet dispenser seal is broken. 3 Tubes approx 80 pellets 16 Doses per tube Total 240 pellets How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed. Remove cap and pour pellets under the tongue. Discreet & Portable Tube Take before or after meals Meltaway Pellets *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  Tube - lactose, sucrose Box - lactose, sucrose
+dosage_and_administration:
+  Tube - Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor. Box - Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor. If desired, dissolve 5 pellets under the tongue 15 minutes before or after meals.
+questions:
+  Tube - 1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073 Box - 1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label
+set_id:
+  861fe7b3-3100-73bb-e053-2991aa0a4f9a
+id:
+  f7e80a83-1d5a-cf8d-e053-6394a90aeba6
+effective_time:
+  20230327
+version:
+  3
+openfda:
+  brand_name:
+    Lycopodium clavatum
+  generic_name:
+    LYCOPODIUM CLAVATUM SPORE
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-3187
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LYCOPODIUM CLAVATUM SPORE
+  spl_id:
+    f7e80a83-1d5a-cf8d-e053-6394a90aeba6
+  spl_set_id:
+    861fe7b3-3100-73bb-e053-2991aa0a4f9a
+  package_ndc:
+    0220-3187-41
+    0220-3187-43
+  is_original_packager:
+    True
+  unii:
+    C88X29Y479

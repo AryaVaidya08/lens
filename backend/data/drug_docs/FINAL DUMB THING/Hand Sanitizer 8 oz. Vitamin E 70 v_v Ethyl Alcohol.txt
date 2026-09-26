@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Hand Sanitizer 8 oz. Vitamin E 70 v/v Ethyl Alcohol PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE GLYCERIN ALCOHOL ALCOHOL WATER ALPHA-TOCOPHEROL ACETATE ALOE VERA LEAF
+active_ingredient:
+  Ethyl Alcohol 70.0% v/v
+purpose:
+  Antimicrobial
+indications_and_usage:
+  For handwashing to decrease bacteria on the skin Recommended for repeated use
+warnings:
+  For external use only. Flammable, keep away from fire or flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Wet hands thoroughly with product Briskly rub hands together until dry Supervise children under 6 years in the use of this product
+other_safety_information:
+  Other Information store at room temperature may discolor certain fabrics
+inactive_ingredient:
+  water, glycerin, carbomer, fragrance, triethanolamine, propylene glycol, tocopheryl acetate,
+package_label_principal_display_panel:
+  label
+set_id:
+  a26abfef-3c6f-cef9-e053-2a95a90acedc
+id:
+  a26abfef-3c70-cef9-e053-2a95a90acedc
+effective_time:
+  20200403
+version:
+  1
+openfda:

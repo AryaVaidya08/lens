@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Medrox-Rx methyl salicylate, menthol, capsaicin CARBOMER COPOLYMER TYPE A ALOE VERA LEAF WATER CETYL ALCOHOL ETHYLHEXYLGLYCERIN GLYCERIN ISOPROPYL MYRISTATE PEG-150 DISTEARATE PHENOXYETHANOL POLYSORBATE 20 SODIUM LAURYL SULFATE TROLAMINE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 METHYL SALICYLATE SALICYLIC ACID MENTHOL MENTHOL CAPSAICIN CAPSAICIN
+active_ingredient:
+  methyl salicylate 20.00 % topical analgesic menthol 7.00 % topical analgesic capsaicin 0.050 % external analgesic
+inactive_ingredient:
+  acrylates copolymer, aloe barbadensis leaf (aloe vera gel) juice, aqua (deionized water), cetyl alcohol, ethylhexylglycerin, glycerin, isopropyl myristate, peg-150 disterate, phenoxyethanol, polysorbate-20, sodium lauryl sulfate, triethanolamine
+keep_out_of_reach_of_children:
+  keep out of reach of children. if swallowed, consult physician.
+dosage_and_administration:
+  apply directly to affected area. do not use more than four times per day.
+purpose:
+  for temporary relief of minor aches and pains of the muscles and joints associated with simple arthritis, sprains, bruises and simple backache.
+indications_and_usage:
+  For temporary relief of minor aches and pains of the muscles and joints associated with simple arthritis, sprains, bruises and simple backache.
+warnings:
+  for external use only avoid contact with eyes do not bandage or wrap tightly do not apply to wounds or damages skin if symptoms persist for more than seven days, discontinue use and consult physician keep out of reach of children . if swallowed consult physician.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Rx Only Medrox-Rx (medroxcin) Pain relief ointment effecive, soothing, long lasting, paraben-free box image
+set_id:
+  d9475b6c-edd1-4ea7-a22c-243e63c4d0f7
+id:
+  2f128b4a-600c-d396-e063-6294a90adc4b
+effective_time:
+  20250226
+version:
+  12
+openfda:

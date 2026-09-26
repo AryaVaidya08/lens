@@ -1,0 +1,27 @@
+effective_time:
+  20181220
+inactive_ingredient:
+  Inactive Ingredients Water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, glycereth-17 cocoate, citric acid, fragrance
+purpose:
+  Purpose Skin Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops or if condition persists for more than 72 hours. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  EZ-SAN Instant-Hand Sanitizer Alcohol-Free Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE CITRIC ACID MONOHYDRATE water white, dispensed as a white foam
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+package_label_principal_display_panel:
+  4 x 1000 mL Bottles
+indications_and_usage:
+  Use Hand sanitizing to decrease bacteria on the skin. Recommended for repeated use.
+set_id:
+  a249cb55-2ffe-4fb9-a29a-b112801174bc
+id:
+  6c3e5494-2c6e-4217-9bd5-7ee75a720192
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1%

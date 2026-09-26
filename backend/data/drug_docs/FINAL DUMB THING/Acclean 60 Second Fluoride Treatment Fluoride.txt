@@ -1,0 +1,25 @@
+effective_time:
+  20201209
+inactive_ingredient:
+  Non-Medicinal Non-Medicinal ingredients: Carboxy methyl cellulose sodium, phosphoric acid, water, yellow dye, saccharin sodium, titanium dioxide, orange flavor.
+spl_product_data_elements:
+  Acclean 60 Second Fluoride Treatment Fluoride SODIUM FLUORIDE FLUORIDE ION
+description:
+  Description Henry Schein 900-4447 Orange Gel Acclean 60 Second Fluoride Treatment 1.23% APF 16.2 fl oz (480 mL) NDC 0404-4447-01 A topical anticaries preparation for professional use only. 1.23% fluoride ion from sodium fluoride. Optimized low pH for penetration. Ideal thixotropic action. Artificially flavored.
+warnings_and_cautions:
+  Warning Cautions: Keep out of reach of children. RX only
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Directions: 1.Shake well before using 2.Use after thorough prophylaxis 3.To dispense, fill tray(s) 1/3 with gel 4.Dry teeth completely. Insert tray(s) in mouth and have patient bite down lightly for 60 seconds or up to four minutes for optimal uptake 5.Advise patient not to eat, drink or rinse for 30 minutes after the treatment
+spl_unclassified_section:
+  Distributed by (in US only): Henry Schein Inc., 135 Duryea Road, Melville, NY 11747 USA Made in USA Rev.03
+storage_and_handling:
+  Storage Cautions: Store at room temperature. Do not expose to excessive heat over 40°C, 104°F.
+package_label_principal_display_panel:
+  Main Panel 900-4447 Panel 1 900-4447 Panel 2
+set_id:
+  4967da0b-eb4b-279b-e054-00144ff8d46c
+id:
+  b60de17c-0ae8-505b-e053-2a95a90acbb2

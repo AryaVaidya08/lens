@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  RITE AID lubricant drops polyethylene glycol 400 and propylene glycol BORIC ACID EDETATE DISODIUM HYDROCHLORIC ACID SODIUM CHLORIDE POTASSIUM CHLORIDE SODIUM BORATE CALCIUM CHLORIDE WATER SODIUM HYDROXIDE MAGNESIUM CHLORIDE HYPROMELLOSE, UNSPECIFIED POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 PROPYLENE GLYCOL PROPYLENE GLYCOL
+active_ingredient:
+  Active Ingredients Purpose Polyethylene Glycol 400 0.4% Lubricant Propylene Glycol 0.3% Lubricant
+active_ingredient_table:
+  <table border="1" cellpadding="4" cellspacing="0"><col width="250"/><col/><tbody><tr><td><content styleCode="bold">Active Ingredients</content></td><td><content styleCode="bold">Purpose</content></td></tr><tr><td>Polyethylene Glycol 400 0.4% </td><td>Lubricant</td></tr><tr><td>Propylene Glycol 0.3% </td><td>Lubricant</td></tr></tbody></table>
+purpose:
+  Active Ingredients Purpose Polyethylene Glycol 400 0.4% Lubricant Propylene Glycol 0.3% Lubricant
+purpose_table:
+  <table border="1" cellpadding="4" cellspacing="0"><col width="250"/><col/><tbody><tr><td><content styleCode="bold">Active Ingredients</content></td><td><content styleCode="bold">Purpose</content></td></tr><tr><td>Polyethylene Glycol 400 0.4% </td><td>Lubricant</td></tr><tr><td>Propylene Glycol 0.3% </td><td>Lubricant</td></tr></tbody></table>
+indications_and_usage:
+  Uses for the temporary relief of burning and irritation due to dryness of the eye for use as a protectant against further irritation or to relieve dryness of the eye
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product
+when_using:
+  When using this product do not touch tip of container to any surface to avoid contamination replace cap after each use
+stop_use:
+  Stop use and ask a doctor if you experience any of the following: you feel eye pain changes in vision continued redness or irritation of the eye condition worsens or persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions shake well before using put 1 or 2 drops in the affected eye(s) as needed
+other_safety_information:
+  Other information store at room temperature
+inactive_ingredient:
+  Inactive ingredients Boric Acid, Calcium Chloride, Disodium edetate, Hypromellose, Magnesium Chloride, Potassium Chloride, Purified Water, Sodium borate, Sodium Chloride, Stabilized oxychloro complex, Zinc chloride may contain hydrochloric acid and/or Sodium hydroxide to adjust pH.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL 3
+set_id:
+  dbddc099-06df-1f53-e053-2995a90a08ce
+id:
+  0fa874ba-6438-5b74-e063-6394a90a9cdd
+effective_time:
+  20240123
+version:
+  4
+openfda:

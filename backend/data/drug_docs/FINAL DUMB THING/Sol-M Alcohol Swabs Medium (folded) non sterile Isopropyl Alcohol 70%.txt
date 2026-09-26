@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Sol-M Alcohol Swabs Medium (folded) non sterile Isopropyl Alcohol 70% WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Isopropyl Alcohol 70%
+purpose:
+  Purpose Isopropyl Alcohol 70%................Antiseptic Cleanser
+indications_and_usage:
+  Uses For preparation of the skin prior to an injection
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame
+do_not_use:
+  Do not use with electrocautery procedures In the eyes. If contact occurs, flush eyes with water
+stop_use:
+  Stop use If irritation and redness develop. If condition persists consult your health care practitioner
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wipe injection site vigorously and discard
+storage_and_handling:
+  Other Information Store at room temperature 15 - 30 C (59 - 86 F)
+inactive_ingredient:
+  Inactive Ingredients purified water
+package_label_principal_display_panel:
+  pdp
+set_id:
+  abbf9e7e-4e66-1001-e053-2a95a90a425a
+id:
+  e20a53b1-208c-6373-e053-2995a90a47b3
+effective_time:
+  20220622
+version:
+  2
+openfda:

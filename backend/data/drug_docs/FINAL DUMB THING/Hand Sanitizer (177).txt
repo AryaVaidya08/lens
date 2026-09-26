@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE WATER ALCOHOL ALCOHOL GLYCERIN
+active_ingredient:
+  Active Ingredient Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Uses for hand sanitizing.
+warnings:
+  Warnings Flammable, keep away from fire and flame For external use only
+when_using:
+  When using this product Keep out of eyes In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops and persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep our of reach of Children. If swallowed, get medical help or call a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product, brisky rub together until dry. Always supervise children in the use of this product. Children under the age of 6 months: Ask a doctor.
+other_safety_information:
+  Other information Store at 66 to 77 F (22 to 25 C) May discolor some fabrics Harmful to wood finishes and platics
+inactive_ingredient:
+  Inactive ingredients Carbomer, Glycerin, Triethanolamine, Water
+questions:
+  Question? 1-800-873-7746 M-F 8am-5pm EST
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 360 mL NDC: 80017-002-01 PDP
+set_id:
+  add5887d-f97c-6134-e053-2a95a90a4eb1
+id:
+  add5ac88-8736-9898-e053-2995a90a75e0
+effective_time:
+  20200827
+version:
+  1
+openfda:

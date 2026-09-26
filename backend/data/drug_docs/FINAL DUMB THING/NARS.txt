@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  NARS PURE SHEER SPF LIP TREATMENT Bianca OCTINOXATE and TITANIUM DIOXIDE OCTINOXATE OCTINOXATE TITANIUM DIOXIDE TITANIUM DIOXIDE HEPTYLUNDECYL HYDROXYSTEARATE HIGH DENSITY POLYETHYLENE CYCLOMETHICONE 5 POLYBUTENE (1400 MW) YELLOW WAX MICROCRYSTALLINE WAX DIISOSTEARYL MALATE C10-30 CHOLESTEROL/LANOSTEROL ESTERS ALUMINUM HYDROXIDE OCTYLDODECANOL STEARIC ACID HYDROGENATED COCO-GLYCERIDES IRVINGIA GABONENSIS SEED BUTTER .ALPHA.-TOCOPHEROL GLYCERIN ACAI OIL STANNIC OXIDE BUTYLATED HYDROXYTOLUENE RIBES NIGRUM SEED OIL DIMETHICONE RASPBERRY SEED OIL WATER RUBUS CHAMAEMORUS SEED OIL HYALURONATE SODIUM MICA FERRIC OXIDE RED D&C RED NO. 6 SODIUM OXIDE D&C RED NO. 7 LIME (CALCIUM OXIDE) FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 FD&C BLUE NO. 1 ALUMINUM OXIDE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose OCTINOXATE 7.4% Sunscreen TITANIUM DIOXIDE 3.2% Sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="75%" align="left" valign="top"/><col width="25%" align="left" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>OCTINOXATE 7.4%</td><td>Sunscreen</td></tr><tr><td>TITANIUM DIOXIDE 3.2%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose OCTINOXATE 7.4% Sunscreen TITANIUM DIOXIDE 3.2% Sunscreen
+purpose_table:
+  <table width="50%"><col width="75%" align="left" valign="top"/><col width="25%" align="left" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>OCTINOXATE 7.4%</td><td>Sunscreen</td></tr><tr><td>TITANIUM DIOXIDE 3.2%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Use helps prevent sunburn
+warnings:
+  Warnings Skin Cancer/Skin Aging Alert Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to prevent sunburn, not skin cancer or early skin aging. For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  For external use only Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months: Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients HEPTYLUNDECYL HYDROXYSTEARATE , POLYGLYCERYL-2 TRIISOSTEARATE , POLYETHYLENE, CYCLOPENTASILOXANE, POLYBUTENE, BEESWAX, MICROCRYSTALLINE WAX, DIISOSTEARYL MALATE, DIMETHICONE CROSSPOLYMER, C10-30 CHOLESTEROL/LANOSTEROL ESTERS, ALUMINUM HYDROXIDE, OCTYLDODECANOL, STEARIC ACID, HYDROGENATED COCO-GLYCERIDES, IRVINGIA GABONENSIS KERNEL BUTTER, SODIUM MAGNESIUM SILICATE, TOCOPHEROL, GLYCERIN, LINSEED OIL/PALM OIL AMINOPROPANEDIOL ESTERS, EUTERPE OLERACEA FRUIT OIL, TIN OXIDE, BHT, RIBES NIGRUM (BLACK CURRANT) SEED OIL, DIMETHICONE, RUBUS IDAEUS (RASPBERRY) SEED OIL, WATER, RUBUS CHAMAEMORUS SEED OIL, SODIUM HYALURONATE [May Contain: MICA • TITANIUM DIOXIDE, IRON OXIDES, RED 6 LAKE, RED 7 LAKE, YELLOW 5 LAKE, YELLOW 6 LAKE, BLUE 1 LAKE]
+storage_and_handling:
+  Other information protect this product in this container from excessive heat and direct sun.
+questions:
+  Questions or comments? Call toll free 1-888-788-NARS
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1.7 g Cartridge Carton NARS PURE SHEER SPF LIP TREATMENT SPF 15 SUNSCREEN NET WT. 0.06 Oz. 1.7 g PRINCIPAL DISPLAY PANEL - 1.7 g Cartridge Carton
+set_id:
+  70f13727-72a5-4d6a-aa3b-d7ec316c7128
+id:
+  b668f5b6-63e1-4b4a-a5e4-98a171f662e6
+effective_time:
+  20230908
+version:
+  3
+openfda:

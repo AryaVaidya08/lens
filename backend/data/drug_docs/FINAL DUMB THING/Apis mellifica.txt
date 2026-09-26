@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Apis mellifica APIS MELLIFERA SUCROSE LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE APIS MELLIFERA APIS MELLIFERA
+active_ingredient:
+  Apis mellifica 9C HPUS Active ingredient**: See product name on front panel (contains 0.443 mg of the active ingredient per pellet).
+purpose:
+  
+indications_and_usage:
+  Uses: See symptoms on front panel. Relieves swelling from insect stings or allergies improved by cold *
+warnings:
+  Warning: Do not use if you are allergic to Apis.
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+inactive_ingredient:
+  lactose, sucrose
+questions:
+  BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+package_label_principal_display_panel:
+  Label LABEL Label Label
+set_id:
+  84606086-b4e0-4430-e053-2a91aa0ab677
+id:
+  2f892dcc-6934-fdc0-e063-6294a90a822e
+effective_time:
+  20250304
+version:
+  4
+openfda:
+  brand_name:
+    Apis mellifica
+  generic_name:
+    APIS MELLIFERA
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-0403
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    APIS MELLIFERA
+  spl_id:
+    2f892dcc-6934-fdc0-e063-6294a90a822e
+  spl_set_id:
+    84606086-b4e0-4430-e053-2a91aa0ab677
+  package_ndc:
+    0220-0403-41
+  is_original_packager:
+    True
+  nui:
+    N0000185021
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0002274
+  pharm_class_epc:
+    Standardized Insect Venom Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Bee Venoms [CS]
+  unii:
+    7S82P3R43Z

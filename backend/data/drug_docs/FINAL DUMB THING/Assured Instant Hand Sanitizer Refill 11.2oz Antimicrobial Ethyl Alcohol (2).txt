@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Assured Instant Hand Sanitizer Refill 11.2oz Antimicrobial Ethyl Alcohol ALPHA-TOCOPHEROL ACETATE WATER CARBOMER COPOLYMER TYPE A TROLAMINE GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Purpose Ethyl Alcohol 70.0% v/v..................... Antimicrobial
+purpose:
+  Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses for handwashing to decrease bacteria on the skin recommended for repeated use
+dosage_and_administration:
+  Directions wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product
+warnings:
+  Warnings For external use only. Flammable, keep away from heat and flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water.
+inactive_ingredient:
+  Inactive Ingredients water, carbomer, triethanolamine, glycerin, propylene glycol, fragrance, aloe barbadensis leaf juice, tocopheryl acetate
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+other_safety_information:
+  Other Information store at 20C to 25C (68F to 77F) may discolor certain fabrics
+package_label_principal_display_panel:
+  label
+set_id:
+  9dae0b4c-c9ac-7b41-e053-2995a90a009a
+id:
+  9dae3d23-fc95-5417-e053-2995a90ad338
+effective_time:
+  20200203
+version:
+  2
+openfda:

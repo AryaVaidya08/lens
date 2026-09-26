@@ -1,0 +1,43 @@
+effective_time:
+  20181220
+inactive_ingredient:
+  Inactive Ingredients Cajuput Oil, Cassia Oil, Clove Oil, Dementholised Mint Oil and Paraffin Petrolatum.
+purpose:
+  Active Ingredients Purpose Camphor 11% Topical Analgesic Menthol 11% Topical Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only When using this product Use only as directed Avoid contact with eyes and mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with wrap or use heating pad Do not use 1 hour prior to bathing or 30 minutes after bathing. Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Pain clears up and then recurs a few days later. If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product Use only as directed Avoid contact with eyes and mucous membranes Do not apply to wounds, damaged or irritated skin Do not bandage or cover with wrap or use heating pad Do not use 1 hour prior to bathing or 30 minutes after bathing.
+questions:
+  Questions/Comments (510) 887-1899
+spl_product_data_elements:
+  Tiger Balm Ultra Strength Camphor (Synthetic) and Menthol Camphor (Synthetic) Camphor (Synthetic) MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM Cajuput oil Chinese Cinnamon Oil Clove oil
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions For adults and children over 12, rub well on the affected area. Repeat 3 to 4 times daily For children 12 years of age or younger, consult a doctor before use.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, or if you have sensitive skin, ask a healthcare professional before use.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if Condition worsens Severe skin irritation occurs Pain persists for more than 7 days Pain clears up and then recurs a few days later.
+storage_and_handling:
+  Other Information This product may cause allergic reaction in some individuals. Test on small area before use.
+active_ingredient_table:
+  <table width="75%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active Ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Camphor 11%</td> <td>Topical Analgesic</td> </tr> <tr styleCode="Botrule"> <td>Menthol 11%</td> <td>Topical Analgesic</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 18 g Carton NDC 66403-315-35 TIGER BALM ® Ultra STRENGTH "WORKS WHERE IT HURTS" PAIN RELIEVING OINTMENT SPORTS RUB Principal Display Panel - 18 g Carton
+indications_and_usage:
+  Uses For temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthritis, bruises, strains and sprains.
+set_id:
+  1dfc4535-3b8d-455c-ae10-4c89773ad63e
+id:
+  3302831b-d9a5-4051-978b-0786cebd9b2c
+purpose_table:
+  <table width="75%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active Ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Camphor 11%</td> <td>Topical Analgesic</td> </tr> <tr styleCode="Botrule"> <td>Menthol 11%</td> <td>Topical Analgesic</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Camphor 11% Topical Analgesic Menthol 11% Topical Analgesic

@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  bareMinerals Skinlongevity Vital Power Moisturizer Broad Spectrum SPF 30 TITANIUM DIOXIDE and ZINC OXIDE CITRIC ACID MONOHYDRATE VINYLPYRROLIDONE/EICOSENE COPOLYMER CETYL ALCOHOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM GERANIOL LINALOOL, (+/-)- LIMONENE, (+/-)- CITRAL SODIUM BENZOATE PHENOXYETHANOL MICA TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE WATER DIMETHICONE PROPANEDIOL GLYCERIN POLYETHYLENE GLYCOL 1500 POLYETHYLENE GLYCOL 300 POLYSORBATE 60 ARABICA COFFEE OIL DECYL ISOSTEARATE COCO-CAPRYLATE/CAPRATE ISOHEXADECANE ISOSTEARYL ISOSTEARATE CETYL STEARATE CAPRYLYL GLYCOL .ALPHA.-TOCOPHEROL AMMONIUM ACRYLOYLDIMETHYLTAURATE, DIMETHYLACRYLAMIDE, LAURYL METHACRYLATE AND LAURETH-4 METHACRYLATE COPOLYMER, TRIMETHYLOLPROPANE TRIACRYLATE CROSSLINKED (45000 MPA.S) SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYLTAURATE COPOLYMER (4000000 MW) SODIUM METHYL STEAROYL TAURATE SORBITAN SESQUIISOSTEARATE POTASSIUM CETYL PHOSPHATE DECYL GLUCOSIDE POLYSORBATE 80 STEARIC ACID SORBITAN MONOOLEATE ISOSTEARIC ACID HEXYLENE GLYCOL TERT-BUTYL ALCOHOL BUTYLENE GLYCOL HYDROGEN DIMETHICONE (13 CST) SILICON DIOXIDE SODIUM CITRATE, UNSPECIFIED FORM TRIETHOXYCAPRYLYLSILANE ALUMINUM HYDROXIDE ALCOHOL EDETATE DISODIUM TREHALOSE POTASSIUM SORBATE
+spl_unclassified_section:
+  Drug Facts
+  Dist.by bareMinerals, New York, NY 10022, USA
+active_ingredient:
+  Active ingredients Purpose Titanium Dioxide 3.28% Sunscreen Zinc Oxide 12.506% Sunscreen
+active_ingredient_table:
+  <table width="75%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Titanium Dioxide 3.28%</td><td>Sunscreen</td></tr><tr><td>Zinc Oxide 12.506%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Titanium Dioxide 3.28% Sunscreen Zinc Oxide 12.506% Sunscreen
+purpose_table:
+  <table width="75%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Titanium Dioxide 3.28%</td><td>Sunscreen</td></tr><tr><td>Zinc Oxide 12.506%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months: ask a doctor Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses
+inactive_ingredient:
+  Inactive Ingredients water, c9-12 alkane, dimethicone, propanediol, glycerin, peg-32, peg-6, polyglyceryl-4 laurate/succinate, polysorbate 60, peucedanum japonicum leaf/stem extract, paeonia lactiflora root extract, coffea arabica (coffee) seed oil, decyl isostearate, coco-caprylate/caprate, isohexadecane, isostearyl isostearate, aminopropyl dimethicone, cetyl stearate, succinoglycan, caprylyl glycol, tocopherol, dimethylacrylamide/sodium acryloyldimethyltaurate crosspolymer, polyacrylate crosspolymer-6, sodium acrylate/sodium acryloyldimethyl taurate copolymer, sodium methyl stearoyl taurate, potassium cetyl phosphate, sorbitan sesquiisostearate, polysorbate 80, stearic acid, sorbitan oleate, decyl glucoside, isostearic acid, hexylene glycol, t-butyl alcohol, butylene glycol, polysilicone-11, hydrogen dimethicone, silica, sodium citrate, triethoxycaprylylsilane, aluminum hydroxide, alcohol, disodium edta, trehalose, potassium sorbate, citric acid, vp/eicosene copolymer, cetyl alcohol, cellulose gum, fragrance, geraniol, linalool, limonene, citral, sodium benzoate, phenoxyethanol. may contain: mica, titanium dioxide.
+storage_and_handling:
+  Other information Protect this product in this container from excessive heat and direct sun.
+questions:
+  Questions or comments? Call toll free 1-800-795-4747
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Tube Carton bareMinerals ® SKINLONGEVITY™ VITAL POWER MOISTURIZER POWERED BY LONG LIFE HERB, GREEN COFFEE BEAN, AND PEONY EXTRACT FOR ALL SKIN TYPES BROAD SPECTRUM SPF30 50 ml / 1.7 fl. oz. PRINCIPAL DISPLAY PANEL - 50 ml Tube Carton
+set_id:
+  29c25bc3-902a-41af-996a-8c7e8a4bf574
+id:
+  06e77370-10c3-6354-e063-6294a90ad20f
+effective_time:
+  20231004
+version:
+  4
+openfda:
+  application_number:
+    M020
+  brand_name:
+    bareMinerals Skinlongevity Vital Power Moisturizer Broad Spectrum SPF 30
+  generic_name:
+    TITANIUM DIOXIDE AND ZINC OXIDE
+  manufacturer_name:
+    Orveon Global US LLC
+  product_ndc:
+    98132-252
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    06e77370-10c3-6354-e063-6294a90ad20f
+  spl_set_id:
+    29c25bc3-902a-41af-996a-8c7e8a4bf574
+  package_ndc:
+    98132-252-50
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

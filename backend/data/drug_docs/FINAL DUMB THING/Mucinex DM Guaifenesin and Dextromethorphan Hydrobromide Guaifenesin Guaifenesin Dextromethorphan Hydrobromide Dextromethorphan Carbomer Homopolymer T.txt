@@ -1,0 +1,48 @@
+effective_time:
+  20160505
+purpose:
+  Active ingredients (in each extended-release bi-layer tablet) Purposes Dextromethorphan HBr 30 mg Cough suppressant Guaifenesin 600 mg Expectorant
+keep_out_of_reach_of_children:
+  In case of overdose, get medical help or contact a Poison Control Center right away. Keep out of reach of children.
+when_using:
+  When using this product do not use more than directed
+questions:
+  Questions? You may also report side effects to this phone number. 1-866-MUCINEX (1-866-682-4639)
+pregnancy_or_breast_feeding:
+  ask a health professional before use. If pregnant or breast-feeding,
+storage_and_handling:
+  Other information tamper evident: do not use if carton is open or if printed seal on blister is broken or missing store between 20-25°C (68-77°F)
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves: cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep
+set_id:
+  728b1b6f-a846-44e1-bab6-6a4ff16cab24
+id:
+  c772e11e-3070-4fff-82c2-9ce203ee70e6
+active_ingredient:
+  Active ingredients (in each extended-release bi-layer tablet) Purposes Dextromethorphan HBr 30 mg Cough suppressant Guaifenesin 600 mg Expectorant
+inactive_ingredient:
+  Inactive ingredients carbomer homopolymer type B; D&C yellow #10 aluminum lake; hypromellose, USP; magnesium stearate, NF; microcrystalline cellulose, NF; sodium starch glycolate, NF
+warnings:
+  Warnings Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product do not use more than directed Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness. ask a health professional before use. If pregnant or breast-feeding, In case of overdose, get medical help or contact a Poison Control Center right away. Keep out of reach of children.
+spl_product_data_elements:
+  Mucinex DM Guaifenesin and Dextromethorphan Hydrobromide Guaifenesin Guaifenesin Dextromethorphan Hydrobromide Dextromethorphan Carbomer Homopolymer Type B (Allyl Pentaerythritol Crosslinked) D&C yellow no. 10 aluminum oxide hypromelloses magnesium stearate cellulose, microcrystalline yellow and white Mucinex;600
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regard for timing of meals adults and children 12 years and older: 1 or 2 tablets every 12 hours; not more than 4 tablets in 24 hours children under 12 years of age: do not use
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Reckitt Benckiser Parsippany, NJ 07054-0224 Made in England
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+do_not_use:
+  Do not use for children under 12 years of age if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="60%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients (in each extended-release bi-layer tablet)</content> </td> <td> <content styleCode="bold italics">Purposes</content> </td> </tr> <tr> <td>Dextromethorphan HBr 30 mg</td> <td>Cough suppressant</td> </tr> <tr styleCode="Botrule"> <td>Guaifenesin 600 mg</td> <td>Expectorant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  MUCINEX DM (GUAIFENESIN AND DEXTROMETHORPHAN HYDROBROMIDE) TABLET, EXTENDED RELEASE Label Image
+purpose_table:
+  <table width="60%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients (in each extended-release bi-layer tablet)</content> </td> <td> <content styleCode="bold italics">Purposes</content> </td> </tr> <tr> <td>Dextromethorphan HBr 30 mg</td> <td>Cough suppressant</td> </tr> <tr styleCode="Botrule"> <td>Guaifenesin 600 mg</td> <td>Expectorant</td> </tr> </tbody> </table>

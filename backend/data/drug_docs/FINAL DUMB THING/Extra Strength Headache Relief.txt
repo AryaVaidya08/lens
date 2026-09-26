@@ -1,0 +1,91 @@
+spl_product_data_elements:
+  Extra Strength Headache Relief acetaminophen, aspirin, and caffeine ACETAMINOPHEN ACETAMINOPHEN ASPIRIN ACETYLSALICYLIC ACID CAFFEINE CAFFEINE CROSCARMELLOSE SODIUM MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLACRILIN POTASSIUM POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED TALC SODIUM LAURYL SULFATE SODIUM STARCH GLYCOLATE TYPE A STARCH, CORN TITANIUM DIOXIDE S142
+spl_unclassified_section:
+  Drug Facts
+  DG™ health Compare to the active ingredients of Excedrin ® Extra Strength†† READ AND KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING ++ This product is not manufactured or distributed by GSK Consumer Healthcare, distributor of Excedrin ® Extra Strength. DISTRIBUTED BY OLD EAST MAIN CO. 100 MISSION RIDGE GOODLETTSVILLE, TN 37072 MADE IN INDIA 100% Satisfaction Guaranteed! (888) 309-9030
+active_ingredient:
+  Active ingredients (in each caplet) Acetaminophen 250 mg Aspirin 250 mg (NSAID*) Caffeine 65 mg *nonsteroidal anti-inflammatory drug
+purpose:
+  Purposes Pain reliever Pain reliever Pain reliever aid
+indications_and_usage:
+  Uses Temporarily relieves minor aches and pains due to: • headache • a cold • arthritis • muscular aches • toothache • premenstrual & menstrual cramps
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Acetaminophen may cause sever skin reactions. Symptoms may include: • skin reddening • blisters • rash if a skin reaction occurs, stop use and seek medical help right away. Allergy alert: Aspirin may cause a severe allergic reaction which may include: • hives • facial swelling • asthma (wheezing) • shock Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take • more than 8 caplets in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you • are age 60 or older • have had stomach ulcers or bleeding problems • take a blood thinning (anticoagulant) or steroid drug • take other drugs containing prescription or no prescription NSAIDs (aspirin, ibuprofen, naproxen, or others) • have 3 or more alcoholic drinks every day while using this product • take more or for a longer time than directed Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness and occasional rapid heart beat. Do not use • if you have ever had an allergic reaction to acetaminophen, aspirin, or any other pain reliever/ fever reducer • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if • you have liver disease • stomach bleeding warning applies to you • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, or kidney disease • you are taking a diuretic • you have asthma Ask a doctor or pharmacist before use if you are taking • a prescription drug for diabetes, gout, or arthritis • any other drug, or are under a doctor's care for any serious condition Stop use and ask a doctor if • an allergic reaction occurs. Seek medical help right away. • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • ringing in the ears or loss of hearing occurs • painful area is red or swollen pain gets worse or lasts for more than 3 days any new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. Overdose warning: Taking more than directed can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: Taking more than directed can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions • do not use more than directed (see overdose warning) • drink a full glass of water with each dose • adults and children 12 years and over: take 2 caplets every 6 hours; not more than 8 caplets in 24 hours • children under 12 years: ask a doctor
+storage_and_handling:
+  Other information • each tablet contains: sodium 5.1mg (low sodium) • store at room temperature between 20-25C (68 to 77F) • avoid excessive heat, cold and humidity • close cap tightly after use • read all products information before using.
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, magnesium stearate, microcrystalline cellulose, polacrilin potassium, polyethylene glycol, polyvinyl alcohol, povidone, purified talc, sodium lauryl sulphate, sodium starch glycolate, starch, titanium dioxide
+questions:
+  Questions or comments? 1-888-577-8033 Monday-Friday 8am-4pm
+package_label_principal_display_panel:
+  Packaging Extra Strength Headache Relief
+set_id:
+  4907056d-6013-46b1-ae86-469dc3001591
+id:
+  eb2591f6-5a74-4393-97b2-6f416a55a69f
+effective_time:
+  20241231
+version:
+  2
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Extra Strength Headache Relief
+  generic_name:
+    ACETAMINOPHEN, ASPIRIN, AND CAFFEINE
+  manufacturer_name:
+    Dollar General
+  product_ndc:
+    55910-440
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    ASPIRIN
+    CAFFEINE
+  rxcui:
+    308297
+  spl_id:
+    eb2591f6-5a74-4393-97b2-6f416a55a69f
+  spl_set_id:
+    4907056d-6013-46b1-ae86-469dc3001591
+  package_ndc:
+    55910-440-01
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    N0000008836
+    M0001335
+    N0000175722
+    N0000175578
+    N0000008832
+    N0000175739
+    N0000175729
+    N0000175790
+    M0023046
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_pe:
+    Decreased Prostaglandin Production [PE]
+    Decreased Platelet Aggregation [PE]
+    Central Nervous System Stimulation [PE]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+    Xanthines [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+    Platelet Aggregation Inhibitor [EPC]
+    Central Nervous System Stimulant [EPC]
+    Methylxanthine [EPC]
+  unii:
+    362O9ITL9D
+    R16CO5Y76E
+    3G6A5W338E

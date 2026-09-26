@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  alcohol Bluelene Moisturizing Hand Sanitizer AMINOMETHYLPROPANOL CARBOXYPOLYMETHYLENE 3-O-ETHYL ASCORBIC ACID ALOE VERA LEAF POLYSORBATE 20 METHYLENE BLUE WATER GLYCERIN ALCOHOL ALCOHOL LAVENDER OIL
+warnings:
+  Hand Sanitizer Travel Size For external use only. Flammable. Keep away from heat or flame. Warning Section
+inactive_ingredient:
+  Hand Sanitizer travel Size 2-amino-2-methyl-1-propanol, 3-o-ethyl ascorbic acid, aloe barbadensis leaf extract,carbomer, glycerin, methylene blue, lavendula angustifolia oil (LAVENDER),polysorbate 20, water.
+do_not_use:
+  Hand Sanitizer Travel Size in children less than 2 months of age - on open wounds
+when_using:
+  Hand Sanitizer Travel Size When using this product keep out of eyes, ears, mouth. In case od contact with eyes, rinse yes thoroughly with water.
+stop_use:
+  Hand Sanitizer Travel Size Stop use and seek a doctor if irritation or rash occurs.
+keep_out_of_reach_of_children:
+  Hand Sanitizer Travel Size Keep out of reach of children, If swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  Hand Sanitizer Travel Size Antiseptic
+questions:
+  Hand Sanitizer Travel Size questions and Comments: 1-800-988-8068
+dosage_and_administration:
+  Hand Sanitizer Travel Size Directions: Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+indications_and_usage:
+  Hand Sanitizer Travel Size Use hand sanitizer to help reduce bacteria that potentially can cause diseases.
+active_ingredient:
+  Hand Sanitizer Travel Size ethyl alcohol 70% v/v
+package_label_principal_display_panel:
+  Hand Sanitizer Travel Size Bluelene Moisturizing Hand Sanitizer Kills 99.99% of germs With antioxidant Methylene Blue Vit C+ aloe Vera 2fl oz (60ml) 2oz Moisturizing Hand Sanitizer
+set_id:
+  a4ead49f-65a0-3c1b-e053-2a95a90ae73d
+id:
+  41eaee14-48aa-4c5c-95ca-57a0b0556545
+effective_time:
+  20240125
+version:
+  4
+openfda:

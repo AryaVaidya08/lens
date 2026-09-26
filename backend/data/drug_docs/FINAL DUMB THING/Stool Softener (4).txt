@@ -1,0 +1,40 @@
+effective_time:
+  20130423
+inactive_ingredient:
+  Inactive Ingredients D &C Red #33, edible ink, FD&C Blue #1, FD&C Red #40, FD&C Yellow #6, gelatin, glycerin, polyethylene glycol, propylene glycol, purified water, sorbitol special, titanium dioxide.
+purpose:
+  Purpose Stool softener
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings - Do not use if you are presently taking mineral oil, unless told to do so by a doctor Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition you need to use a stool softener for more than 1 week. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? 1-888-287-1915
+spl_product_data_elements:
+  Stool Softener DOCUSATE SODIUM DOCUSATE SODIUM DOCUSATE D&C RED NO. 33 FD&C BLUE NO. 1 FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SORBITOL TITANIUM DIOXIDE P10;51A
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Take only by mouth. Doses may be taken as a single daily dose or in divided doses. adults and children 12 years and over take 1 - 3 softgels daily children 2 to under 12 years of age take 1 softgel daily children under 2 years of age ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition you need to use a stool softener for more than 1 week.
+storage_and_handling:
+  Other information each softgel contains: sodium 6 mg store at controlled room temperature 15º-30ºC (59º-86ºF)
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient in Colace® * Stool Softener Docusate Sodium, 100 mg Relieves constipation Gentle and effective Stimulant free for comfortable relief *This product is not manufactured or distributed by Purdue Products L.P., owner of the registered trademark Colace® Gluten free DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION Satisfaction guaranteed- for questions or comments please call 1-888-287-1915
+  Product Labeling Docusate sodium 100 mg capsules Equate stool softener
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces a bowel movement in 12 to 72 hours
+set_id:
+  8790de36-d6f4-4fe8-bfc8-c31be0eeddc7
+id:
+  93df5e1d-3502-494d-9fe3-96d8575132ab
+active_ingredient:
+  Active Ingredients (in each softgel) Docusate Sodium 100 mg Purpose Stool softener
+dosage_and_administration_table:
+  <table> <col/> <col/> <tbody> <tr> <td styleCode="     Botrule          Toprule          Rrule     "> adults and children 12 years and over </td> <td styleCode="     Botrule          Toprule     "> take 1 - 3 softgels daily </td> </tr> <tr> <td styleCode="     Botrule          Rrule     "> children 2 to under 12 years of age</td> <td styleCode="     Botrule     "> take 1 softgel daily</td> </tr> <tr> <td styleCode="     Botrule          Rrule     "> children under 2 years of age</td> <td styleCode="     Botrule     "> ask a doctor</td> </tr> </tbody> </table>

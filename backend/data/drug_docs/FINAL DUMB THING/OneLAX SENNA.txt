@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  OneLAX SENNA SENNA METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SUCROSE SENNOSIDES A AND B SENNOSIDES A AND B
+active_ingredient:
+  Active Ingredient Active ingredient (in each teaspoonful) Purpose Sennosides 8.8 mg …………………………................Laxative
+purpose:
+  Uses relieves occasional constipation (irregularity), generally causes bowel movement in 6 to 12 hours
+warnings:
+  Warnings ask a doctor before use if you have • stomach pain • nausea • vomiting • noticed a sudden change in bowel movements that continues over a period of 2 weeks Do not use laxative products for longer than 1 week unless directed by a doctor Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two more hours before or after other drugs. Laxatives may affect how other drugs work. Stop use and ask a doctor if you have rectal bleeding or fail to have bowel movement after use of laxative. This may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two more hours before or after other drugs. Laxatives may affect how other drugs work.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have bowel movement after use of laxative. This may indicate a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+  KEEP OUT OF REACH OF CHILDREN SECTION In case of accidental overdose, get medical help or contact a Poison Control Center immediately Questions? To Report Adverse Drug Event Call 1(877) 225-6999 DISTRIBUTED BY: ATLANTIC BIOLOGICALS CORP. MIAMI, FL 33179
+indications_and_usage:
+  Directions take preferably at bedtime or as directed by a doctor. Shake Well Before Using.
+dosage_and_administration:
+  age starting dose maximum dosage Adults and children 12 yeart and older 2-3 teaspoons once a day 3 teaspoons twice a day Children 6 years to under 12 yeart 1 - 1 1/2 teaspoons once a day 1 1/2 teaspoons twice a day Children 2 years to under 6 yeart l/2 - 3/4 teaspoon once a day 3/4 teaspoon twice a day Children under 2 years ask a doctor ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td><content styleCode="bold"> age</content></td><td><content styleCode="bold"> starting dose</content></td><td><content styleCode="bold"> maximum dosage</content></td></tr><tr><td> Adults and children 12 yeart and older</td><td> 2-3 teaspoons once a day</td><td> 3 teaspoons twice a day</td></tr><tr><td> Children 6 years to under 12 yeart</td><td> 1 - 1 <sup>1/2</sup>teaspoons once a day </td><td> 1 <sup>1/2</sup>teaspoons twice a day </td></tr><tr><td> Children 2 years to under 6 yeart</td><td><sup>l/2</sup>- <sup>3/4</sup>teaspoon once a day </td><td> 3/4 teaspoon twice a day</td></tr><tr><td> Children under 2 years</td><td> ask a doctor</td><td> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other Information Avoid accessive heat. Store at room temperature 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive Ingredients flavor choclate, mythylparaben, propylene glycol, propylparaben, purified water and sucrose
+package_label_principal_display_panel:
+  1 LABEL 2 LABEL 3 9
+set_id:
+  d2a5a13a-e7e4-488a-b60b-4dd467efa971
+id:
+  471b1175-9499-7889-e063-6394a90aa6dd
+effective_time:
+  20251229
+version:
+  4
+openfda:
+  application_number:
+    M007
+  brand_name:
+    OneLAX SENNA
+  generic_name:
+    SENNA
+  manufacturer_name:
+    ATLANTIC BIOLOGICALS CORP.
+  product_ndc:
+    17856-1127
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SENNOSIDES A AND B
+  rxcui:
+    702311
+  spl_id:
+    471b1175-9499-7889-e063-6394a90aa6dd
+  spl_set_id:
+    d2a5a13a-e7e4-488a-b60b-4dd467efa971
+  package_ndc:
+    17856-1127-5
+    17856-1127-1
+    17856-1127-6
+    17856-1127-2
+    17856-1127-7
+    17856-1127-3
+    17856-1127-8
+    17856-1127-4
+    17856-1127-9
+  original_packager_product_ndc:
+    71399-0027
+  unii:
+    1B5FPI42EN

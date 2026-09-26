@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Isopropyl alcohol 70 percent Isopropyl alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+active_ingredient:
+  Active ingredient (by volume) Isopropyl alcohol (70% conc.)
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Uses first aid to help prevent the risk of infection in minor cuts, scrapes and burns
+warnings:
+  Warnings For external use only flammable, keep away from fire or flame if taken internally serious gastric disturbances will result Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns When using this product do not get into eyes do not apply over large areas of the body do not use longer than one week unless directed by a doctor Stop use and ask a doctor if condition persists or gets worse Keep out of reach of children. In case of ingestion, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns
+when_using:
+  When using this product do not get into eyes do not apply over large areas of the body do not use longer than one week unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of ingestion, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+dosage_and_administration:
+  Directions clean affected area apply small amount of this product on the area 1-3 times daily if bandaged, let dry first may be covered with a sterile bandage
+spl_unclassified_section:
+  Other information store at room temperature does not contain, nor is intended as a substitute for grain or ethyl alcohol
+inactive_ingredient:
+  Inactive ingredient purified water
+package_label_principal_display_panel:
+  Principal Display Panel Isopropyl Alcohol 70% USP First Aid Antiseptic Distributed By AmerisourceBergen 1300 Morris Drive.Chesterbrook, PA 19087 Visit us at www.goodneighborpharmacy.com FL OZ (mL) TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY FOIL UNDER THE CAP IS BROKEN OR MISSING . Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+  Package Label GOOD NEIGHBOR PHARMACY Isopropyl Alcohol 70% USP Isopropyl alcohol 70% conc.
+set_id:
+  c2b6e4b6-c5fb-4c45-b38d-483b380564d6
+id:
+  096a3bfe-b25d-4b92-bc1c-a2849952868e
+effective_time:
+  20191108
+version:
+  2
+openfda:

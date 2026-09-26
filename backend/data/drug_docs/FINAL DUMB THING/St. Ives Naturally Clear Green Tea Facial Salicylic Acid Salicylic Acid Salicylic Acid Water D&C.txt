@@ -1,0 +1,35 @@
+effective_time:
+  20100108
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Propylene Glycol, Disodium Laureth Sulfosuccinate, Hydroxyethyl Urea, Camellia Sinensis Leaf Extract Green Tea , Olea Europaea (Olive) Leaf Extract, Ascophyllum Nodosum Extract, Alteromonas Ferment Extract, Epilobium Angustifolium Extract, Yeast Extract (Faex, Extrait de Levure), Menthyl Lactate, Fragrance (Parfum), Disodium EDTA, PEG-150 Distearate, Phenethyl Alcohol, Methylisothiazolinone, Sodium Hydroxide, PPG-2 Methyl Ether, Green 5 (CI 61570), Yellow 5 (CI 19140), Red 4 (CI 14700), Red 33 (CI 17200), Blue 1 (CI 42090).
+purpose:
+  Purpose Acne Treatment
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. If this occurs, only one product should be used unless directed by a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  Using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. If this occurs, only one product should be used unless directed by a doctor.
+questions:
+  Questions? 1-888-912-9867
+spl_product_data_elements:
+  St. Ives Naturally Clear Green Tea Facial Salicylic Acid Salicylic Acid Salicylic Acid Water D&C Red No. 33 Fd&C Red No. 4 Fd&C Blue No. 1 Fd&C Yellow No. 5 D&C Green No. 5 Edetate Disodium Sodium Laureth Sulfate Cocamidopropyl Betaine Propylene Glycol Sodium Hydroxide Disodium Laureth Sulfosuccinate Menthyl Lactate Glycerin Phenethyl Alcohol Green Tea Leaf
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Wet face. Apply a generous amount of product over face and neck with fingertips. Rinse with water. Use twice daily for best results. Avoid contact with eyes. In case of contact with eyes, flush thoroughly with water. Use with Naturally Clear Green Tea Scrub.
+spl_unclassified_section:
+  DRUG FACTS
+do_not_use:
+  For external use only.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 200 mL Bottle Label NEW! ST. Ives ® NATURALLY CLEAR GREEN TEA CLEANSER CLEARS BREAKOUTS & REDUCES REDNESS OIL-FREE salicylic acid acne medication with 100% natural green tea 6.75 fl oz | 200ml PRINCIPAL DISPLAY PANEL - 200 mL Bottle Label
+indications_and_usage:
+  USE Treats Acne
+set_id:
+  0edb1c21-e8b6-4479-9a2d-dfb66ee27cc8
+id:
+  488df815-5438-42ad-9ff7-7efec1b767d2
+active_ingredient:
+  Active Ingredient Salicylic Acid 2%

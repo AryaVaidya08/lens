@@ -1,0 +1,88 @@
+spl_product_data_elements:
+  Dial Antibacterial Defense Sandalwood Vanilla BENZALKONIUM CHLORIDE FD&C BLUE NO. 1 ZINC SULFATE ALCOHOL LAURAMIDOPROPYLAMINE OXIDE MYRISTAMIDOPROPYLAMINE OXIDE TRISODIUM ETHYLENEDIAMINE DISUCCINATE DIMETHYL LAURAMINE LAURAMINE OXIDE CITRIC ACID MONOHYDRATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF CETRIMONIUM CHLORIDE SODIUM BENZOATE GLYCERIN PEG-120 METHYL GLUCOSE DIOLEATE SODIUM CHLORIDE FD&C YELLOW NO. 5 D&C RED NO. 33 Dial Antibacterial Defense Orchid Rose Bliss Scent BENZALKONIUM CHLORIDE ZINC SULFATE ALCOHOL LAURAMIDOPROPYLAMINE OXIDE MYRISTAMIDOPROPYLAMINE OXIDE TRISODIUM ETHYLENEDIAMINE DISUCCINATE DIMETHYL LAURAMINE LAURAMINE OXIDE CITRIC ACID MONOHYDRATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF CETRIMONIUM CHLORIDE SODIUM BENZOATE GLYCERIN PEG-120 METHYL GLUCOSE DIOLEATE SODIUM CHLORIDE FD&C YELLOW NO. 5 D&C RED NO. 33 Dial Antibacterial Defense Eucalyptus Mint BENZALKONIUM CHLORIDE FD&C BLUE NO. 1 ZINC SULFATE ALCOHOL LAURAMIDOPROPYLAMINE OXIDE MYRISTAMIDOPROPYLAMINE OXIDE TRISODIUM ETHYLENEDIAMINE DISUCCINATE DIMETHYL LAURAMINE LAURAMINE OXIDE CITRIC ACID MONOHYDRATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF CETRIMONIUM CHLORIDE SODIUM BENZOATE GLYCERIN PEG-120 METHYL GLUCOSE DIOLEATE SODIUM CHLORIDE FD&C YELLOW NO. 6 D&C RED NO. 33 Dial Antibacterial Defense Peach Citrus Punch Scent BENZALKONIUM CHLORIDE ZINC SULFATE ALCOHOL LAURAMIDOPROPYLAMINE OXIDE MYRISTAMIDOPROPYLAMINE OXIDE TRISODIUM ETHYLENEDIAMINE DISUCCINATE DIMETHYL LAURAMINE LAURAMINE OXIDE CITRIC ACID MONOHYDRATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF CETRIMONIUM CHLORIDE SODIUM BENZOATE GLYCERIN PEG-120 METHYL GLUCOSE DIOLEATE SODIUM CHLORIDE FD&C RED NO. 4 D&C RED NO. 33
+spl_unclassified_section:
+  Drug Facts Sandalwood and Vanilla DFB Peach Citrus DFB
+  Legal Entity www.dialsoap.com henkel Bean Logo R,TM,c2024 Distributed by Henkel Corporation,Rocky Hill, CT 06067
+  ^Encountered in household settings #Antibacterial Hand Soap
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+  Uses For Handwashing to decreases bacteria on the skin.
+warnings:
+  Warnings For external use only.
+when_using:
+  When Using this Product Avoid Contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and ask doctor if Irritation or redness develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+instructions_for_use:
+  Directions Pump into hands, wet as needed. Lather vigorously for at least 30 seconds. Wash skin, rinse thoroughly and dry.
+inactive_ingredient:
+  Inactive Ingredients Variant Orchid Rose Bliss (Limited Edition): Aqua (Water, Eau) · Lauramidopropylamine Oxide · Glycerin · Cetrimonium Chloride · Lauramine Oxide · Sodium Chloride · PEG-120 Methyl Glucose Dioleate · Citric Acid · Sodium Benzoate · Myristamidopropylamine Oxide · Parfum (Fragrance) · Aloe Barbadensis Leaf Juice · Zinc Sulfate · Trisodium Ethylenediamine Disuccinate · Dimethyl Lauramine · Alcohol · CI 17200 (Red 33) · CI 19140 (Yellow 5) Variant Peach Citrus Punch (Limited Edition): Aqua (Water, Eau) · Lauramidopropylamine Oxide · Glycerin · Cetrimonium Chloride · Lauramine Oxide · Sodium Chloride · PEG-120 Methyl Glucose Dioleate · Citric Acid · Sodium Benzoate · Myristamidopropylamine Oxide · Parfum (Fragrance) · Aloe Barbadensis Leaf Juice · Zinc Sulfate · Trisodium Ethylenediamine Disuccinate · Dimethyl Lauramine · Alcohol · CI 14700 (Red 4) · CI 17200 (Red 33) Variant Sandalwood and Vanilla: Aqua (Water, Eau) · Lauramidopropylamine Oxide · Glycerin · Cetrimonium Chloride · Sodium Chloride · Lauramine Oxide · PEG-120 Methyl Glucose Dioleate · Citric Acid · Sodium Benzoate · Parfum (Fragrance) · Myristamidopropylamine Oxide · Aloe Barbadensis Leaf Juice · Zinc Sulfate · Trisodium Ethylenediamine Disuccinate · Dimethyl Lauramine · Alcohol · CI 19140 (Yellow 5) · CI 17200 (Red 33) · CI 42090 (Blue 1) Variant Eucalyptus & Mint: Aqua (Water, Eau) · Lauramidopropylamine Oxide · Glycerin · Cetrimonium Chloride · Lauramine Oxide · Sodium Chloride · PEG-120 Methyl Glucose Dioleate · Citric Acid · Sodium Benzoate · Myristamidopropylamine Oxide · Parfum (Fragrance) · Aloe Barbadensis Leaf Juice · Zinc Sulfate · Trisodium Ethylenediamine Disuccinate · Dimethyl Lauramine · Alcohol · CI 15985 (Yellow 6) · CI 42090 (Blue 1) · CI 17200 (Red 33)
+questions:
+  Questions call 1-800-258-DIAL(3425)
+indications_and_usage:
+  Indications & Usage For handwasing to decrease bacteria on the skin.
+dosage_and_administration:
+  Topical Liquid Liquid Hand Soap Peach Citrus Peach Citrus FOP Euclyptus Mint FOP Orchid Rose FOP SandalVanilla FOP
+recent_major_changes:
+  No change
+package_label_principal_display_panel:
+  Front and the back of the pack Orchid Rose DFB Orchid Rose Bliss FOP Peach citrus punch FOP Peach citrus DFB Sandal and Vani DFB Sandal and Vani FOP Euc and Mint FOP Euc and Mint DFB
+set_id:
+  285f8493-d4bf-0da1-e063-6394a90a42cc
+id:
+  433ee5d9-272e-feb2-e063-6394a90ababe
+effective_time:
+  20251110
+version:
+  4
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Dial Antibacterial Defense Orchid Rose Bliss Scent
+    Dial Antibacterial Defense Peach Citrus Punch Scent
+    Dial Antibacterial Defense Sandalwood Vanilla
+    Dial Antibacterial Defense Eucalyptus Mint
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Henkel Corporation
+  product_ndc:
+    54340-131
+    54340-133
+    54340-134
+    54340-132
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1046593
+  spl_id:
+    433ee5d9-272e-feb2-e063-6394a90ababe
+  spl_set_id:
+    285f8493-d4bf-0da1-e063-6394a90a42cc
+  package_ndc:
+    54340-133-02
+    54340-133-01
+    54340-131-02
+    54340-131-01
+    54340-134-02
+    54340-134-01
+    54340-132-02
+    54340-132-01
+  is_original_packager:
+    True
+  upc:
+    0017000355221
+    0017000355146
+    0017000358352
+    0017000358437
+  unii:
+    F5UM2KM3W7

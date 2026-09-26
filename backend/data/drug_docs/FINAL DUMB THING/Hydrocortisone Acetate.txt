@@ -1,0 +1,35 @@
+effective_time:
+  20110608
+contraindications:
+  CONTRAINDICATIONS Hydrocortisone Acetate Suppositories are contraindicated in those patients having a history of hypersensitivity to any of the components.
+drug_abuse_and_dependence:
+  DRUG ABUSE AND DEPENDENCE Drug abuse and dependence have not been reported in patients treated with hydrocortisone acetate suppositories.
+precautions:
+  PRECAUTIONS Do not use unless adequate proctologic examination is made. If irritation develops, the product should be discontinued and appropriate therapy instituted. In the presence of an infection, the use of an appropriate antifungal or antibacterial agent should be instituted. If a favorable response does not occur promptly, the hydrocortisone acetate should be discontinued until the infection has been adequately controlled. Carcinogenesis : No long term studies in animals have been performed to evaluate the carcinogenic potential of corticosteroid suppositories. Pregnancy Category C : In laboratory animals, topical steroids have been associated with an increase in the incidence of fetal abnormalities when gestating females have been exposed to rather low dosage levels. There are no adequate and well controlled studies in pregnant women. Hydrocortisone Acetate Suppositories should only be used during pregnancy if the potential benefit justifies the risk to the fetus. Drugs of this class should not be used extensively on pregnant patients, in large amounts, or for prolonged periods of time. It is not known whether this drug is excreted in human milk and because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from Hydrocortisone Acetate Suppositories, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+spl_product_data_elements:
+  Hydrocortisone Acetate HYDROCORTISONE ACETATE HYDROCORTISONE ACETATE HYDROCORTISONE HYDROGENATED PALM OIL COLLOIDAL SILICON DIOXIDE BUTYLATED HYDROXYANISOLE
+description:
+  DESCRIPTION Each Hydrocortisone Acetate 25 mg Suppository contains 25 mg hydrocortisone acetate in a hydrogenated vegetable oil base. Hydrocortisone acetate is a corticosteroid. Chemically, hydrocortisone acetate is a pregn-4-ene-3, 20-dione, 21-(acetyloxy)-11, 17-dihydroxy-(11β) with the following structural formula: Proctocort Structural Formula
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION For rectal administration. Detach one suppository from strip of suppositories. Remove the wrapper. Avoid excessive handling of the suppository which is designed to melt at body temperature. Insert suppository into the rectum with gentle pressure, pointed end first. Insert one suppository in the rectum twice daily, morning and night for two weeks, in nonspecific proctitis. In more severe cases, one suppository three times a day or two suppositories twice daily. In factitial proctitis, the recommended duration of therapy is six to eight weeks or less, according to the response of the individual case.
+adverse_reactions:
+  ADVERSE REACTIONS The following local adverse reactions have been reported with hydrocortisone acetate suppositories; burning, itching, irritation, dryness, folliculitis, hypopigmentation, allergic contact dermatitis, secondary infection.
+spl_unclassified_section:
+  PROCTOCORT ® Hydrocortisone Acetate Rectal Suppositories, 25 mg
+how_supplied:
+  HOW SUPPLIED Box of 12 suppositories - NDC 21695-731-12 Rx only. Store at 20°–25°C (68°–77°F). See USP Controlled Room Temperature. Store away from heat. Protect from freezing. For Inquiries call: 1-866-207-5636 Distributed by: County Line Pharmaceuticals, LLC Brookfield, WI 53005 Repackaged by: Rebel Distributors Corp Thousand Oaks, CA 91320
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Hydrocortisone Acetate 25mg
+indications_and_usage:
+  INDICATIONS AND USAGE For use in inflamed hemorrhoids, postirradiation (factitial) proctitis; as an adjunct in the treatment of chronic ulcerative colitis; cryptitis; and other inflammatory conditions of anorectum and pruritus ani.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY In normal subjects, about 26% of hydrocortisone acetate is absorbed when the suppository is applied to the rectum. Absorption of hydrocortisone acetate may vary across abraded or inflamed surfaces. Topical steroids are primarily effective because of their anti-inflammatory, anti-pruritic and vasoconstrictive action.
+set_id:
+  d98e8ba0-5d0d-4a1e-9907-953e7d1e45b7
+id:
+  d98e8ba0-5d0d-4a1e-9907-953e7d1e45b7
+overdosage:
+  OVERDOSAGE If signs and symptoms of systemic overdosage occur, discontinue use.

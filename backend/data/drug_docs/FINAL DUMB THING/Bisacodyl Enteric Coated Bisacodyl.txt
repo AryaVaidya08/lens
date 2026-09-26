@@ -1,0 +1,45 @@
+effective_time:
+  20191001
+purpose:
+  Purpose Stimulant laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product -do not use within 1 hour after taking an antacid or milk -do not chew or crush tablet(s) -you may have stomach discomfort, faintness or cramps
+questions:
+  Questions To Report Adverse Drug Event call: (800) 616-2471
+pregnancy_or_breast_feeding:
+  Pregnancy/Breastfeeding ask a health professions before use.
+storage_and_handling:
+  Storage
+indications_and_usage:
+  Use(s) -relieves occasional constipation and irregularity -this product generally produces bowel movement in 6 to 12 hours
+set_id:
+  bce3277e-2022-4c12-add5-8447590f6e46
+id:
+  ef59dfa9-6841-4df3-9167-4dffd9a8b7ce
+ask_doctor_or_pharmacist:
+  
+active_ingredient:
+  Active ingredient(s) Bisacodyl 5mg
+inactive_ingredient:
+  Inactive ingredients acacia, bees wax, calcium sulfate, carnauba wax, cellulose, corn starch, D&C Yellow No. 10 lake, FD&C Yellow No. 6 lake, gelatin, lactose, magnesium stearate, pharmaceutical glaze, polyvinyl acetate phthalate, silica gel, sodium starch glycolate, stearinc acid, sugar, talc, titanium dioxide.
+warnings:
+  Warnings Do not use Do not use if you cannot swallow without chewing Ask a doctor before use if -you have a sudden change in bowel habits that lasts more than 2 weeks -stomach pain, nausea or vomiting When using this product -do not use within 1 hour after taking an antacid or milk -do not chew or crush tablet(s) -you may have stomach discomfort, faintness or cramps Stop use and ask a doctor if -you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. -you need to use a laxative for more than 1 week Pregnancy/Breastfeeding ask a health professions before use. Keep out of reach of children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Bisacodyl Enteric Coated Bisacodyl BISACODYL DEACETYLBISACODYL ACACIA CALCIUM SULFATE ANHYDROUS ANHYDROUS LACTOSE CARNAUBA WAX SILICON DIOXIDE STARCH, CORN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 GELATIN, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE AMMONIUM NONOXYNOL-4 SULFATE SHELLAC SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID TALC TITANIUM DIOXIDE Polyvinyl Acetate Phthalate 5
+ask_doctor:
+  Ask a doctor before use if -you have a sudden change in bowel habits that lasts more than 2 weeks -stomach pain, nausea or vomiting
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions -take with a glass of water adults and children 12 years and over- take 1 to 3 tablets in a single daily dose children 6 to under 12 years of age - take 1 tablet in a single daily dose children under 6 years of age - ask a doctor
+stop_use:
+  Stop use and ask a doctor if -you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. -you need to use a laxative for more than 1 week
+spl_unclassified_section:
+  Other information -store at 25 degrees C (77 degrees F) excursions permitted between 15 degrees-30 degrees C (59 degrees-86 degrees F) -use by expiration date on package -protect from excessive humidity
+do_not_use:
+  Do not use Do not use if you cannot swallow without chewing
+package_label_principal_display_panel:
+  Principal Display Panel Bisacodyl Enteric Coated Tabs, USP 5mg Bisacodyl 5 mg EC Tabs

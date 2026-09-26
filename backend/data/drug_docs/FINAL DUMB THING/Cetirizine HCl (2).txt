@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Cetirizine HCl Cetirizine STARCH, CORN LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYSORBATE 80 POVIDONE, UNSPECIFIED HYPROMELLOSE, UNSPECIFIED TITANIUM DIOXIDE POLYETHYLENE GLYCOL, UNSPECIFIED CETIRIZINE HYDROCHLORIDE CETIRIZINE C;2
+active_ingredient:
+  Cetirizine HCl 10 mg
+purpose:
+  Antihistamine
+indications_and_usage:
+  Uses Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing, itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or an antihistamine containing hydroxyzine Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product drowsiness may occur Avoid alcoholic drinks Alcohol, sedatives and tranquilizers may increase drowsiness Be careful when driving a motor vehicle or operating machinery. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. Adults 65 years and over ask a doctor Children under 6 years of age ask a doctor Consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table border="1" width="75%"><tbody><tr><td>Adults and   children 6   years and over </td><td>one 10 mg tablet   once daily;   do not take more   than one 10 mg   tablet in 24 hours.   A 5 mg product   may be appropriate   for less severe   symptoms. </td></tr><tr><td>Adults 65 years   and over </td><td>ask a doctor</td></tr><tr><td>Children under   6 years of age </td><td>ask a doctor</td></tr><tr><td>Consumers with   liver or kidney   disease </td><td>ask a doctor</td></tr></tbody></table>
+other_safety_information:
+  Other information store between 20° to 25°C (68° to 77°F).
+inactive_ingredient:
+  hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate, povidone, pregelatinized starch, and titanium dioxide.
+questions:
+  Questions or comments? 1-800-540-3765 Weekdays 9AM-5PM EST
+package_label_principal_display_panel:
+  1
+set_id:
+  3389e947-b7d1-6caf-e063-6294a90a2238
+id:
+  3389e955-a045-abfd-e063-6394a90a4e02
+effective_time:
+  20250424
+version:
+  1
+openfda:
+  application_number:
+    ANDA076047
+  brand_name:
+    Cetirizine HCl
+  generic_name:
+    CETIRIZINE
+  manufacturer_name:
+    GERI-CARE PHARMACEUTICAL CORP
+  product_ndc:
+    57896-992
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CETIRIZINE HYDROCHLORIDE
+  rxcui:
+    1014678
+  spl_id:
+    3389e955-a045-abfd-e063-6394a90a4e02
+  spl_set_id:
+    3389e947-b7d1-6caf-e063-6294a90a2238
+  package_ndc:
+    57896-992-01
+  is_original_packager:
+    True
+  upc:
+    0357896992019
+  unii:
+    64O047KTOA

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  The Clean Club HAND SANITIZER Alcohol GLYCERIN WATER CARBOMER 934 ALOE VERA WHOLE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  NA
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 62% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand sanitizer to help decrease bacteria on the skin when water and soap are not available Recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable,keep away from heat and flame
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash develops and persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Pump as needed into your palm and thoroughly spread on both hands Rub into skin until dry without wiping Children under 6 years of age should be supervised when using this product
+storage_and_handling:
+  Other Information Store at 59-86 F (15-30C) Aviod freezing and ecessive heat above 104F (40C)
+inactive_ingredient:
+  Inactive ingredients Water, glycerin aloe barbadensis gel, carbomer, fragrance.
+package_label_principal_display_panel:
+  image description
+set_id:
+  3e0d9970-a288-44da-8da9-6e0cd74d0e04
+id:
+  cdc8226e-dc58-3ad6-e053-2a95a90a7e41
+effective_time:
+  20211007
+version:
+  2
+openfda:

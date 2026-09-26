@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitizer Ethanol WATER ISOPROPYL ALCOHOL GLYCERIN GLYCERYL LAURATE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Manufactured for: Sloan Valve Company 10500 Seymour Avenue Franklin Park, IL 60131 SDS-18-15002
+active_ingredient:
+  Active ingredients Ethanol 71%
+purpose:
+  Purpose Hand Sanitizer
+indications_and_usage:
+  Uses Handwash to help reduce bacteria that potentially can cause diseases Recommended for repeated use Helps prevent drying of the skin
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame
+stop_use:
+  When using this product Do not use in or near eyes For external use only Discontinue use if irritation or redness develop
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact poison control center immediately.
+dosage_and_administration:
+  Directions Wet hands thoroughly with spray, covering entire surface of hands, especially the fingernails and cuticles Rub hands together until dry
+storage_and_handling:
+  Other information Store in a cool, dry place below 104ºF
+inactive_ingredient:
+  Inactive ingredients Purified water, isopropanol, glycerin, glycerol monolaurate.
+questions:
+  Questions? Contact Sloan Mon.-Fri 9am-4pm CST at 1-877-652-6726
+package_label_principal_display_panel:
+  SJS-1451 Sensor Misting Alcohol Hand Sanitizer Fragrance-free Hand sanitizer mist with natural emollients to soften hands Kills 99.999% of germs Manufactured for: Sloan Valve Company 1-877-652-6726 Net Contents: 1000 mL (34 fl.oz.) Sloan Valve Mist HS
+  SJS-1401 Manual Alcohol Hand Sanitizer Fragrance-free Hand sanitizer spray with natural emollients to soften hands Kills 99.999% of germs Manufactured for: Sloan Valve Company 10500 Seymour Avenue Franklin Park, IL 60131 Net Contents: 1000 mL (34 fl. oz.) Sloan Manual HS
+set_id:
+  225371d6-5a65-6fac-e054-00144ff88e88
+id:
+  2990932e-4ce5-a369-e063-6294a90a4fea
+effective_time:
+  20241218
+version:
+  3
+openfda:

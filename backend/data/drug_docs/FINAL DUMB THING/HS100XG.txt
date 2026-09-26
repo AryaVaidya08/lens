@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  HS100XG ETHYL ALCOHOL ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient[s] Alcohol 80% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use(s) Health care personnel hand rub to help reduce bacteria that potentially can cause disease.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use • On children less than 2 months of age • On open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Place enough product on hands to cover all surfaces. Rub hands together until dry. • Supervise children under 6 years of age when using the product to avoid swallowing.
+other_safety_information:
+  Other information • Store between 15-30C (59-86F) • Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive Ingredients: glycerin, hydrogen peroxide, water
+package_label_principal_display_panel:
+  Package Label INTEGRITY BIOCHEM Hand Sanitizer HS100XG 80% Alcohol 3.79 L (1 US gal.) Moisturizing Solution Manufactured by: INTEGRITY BIOCHEM CRESSON, TX 76035 www.integritybiochem.com NDC : 75512-001-01 0 51497 17031 8 res Integrity 1Gal
+set_id:
+  40431e11-3782-4f0e-94ff-3afc8ec8f059
+id:
+  3163b35f-0fec-4330-be0e-67c7704028ee
+effective_time:
+  20220718
+version:
+  7
+openfda:

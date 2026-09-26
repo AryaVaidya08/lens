@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  FUHOP Wart Remover Liquid Wart Remover Liquid GARLIC MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL WATER ALLANTOIN GLYCERIN TOLNAFTATE TOLNAFTATE
+active_ingredient:
+  Active ingredients Tolnaftate 1%
+purpose:
+  Purpose Anti-fungal
+indications_and_usage:
+  Use Proven effective in the treatment of most athlete’s foot (tinea pedis)and ringworm(tinea corporis).
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use ■On irritated skin and any area that is infected or reddened. ■If pregnant or if there is any allergic reaction to this product.
+when_using:
+  When Using avoid contact witheyes
+stop_use:
+  Stop Use If discomfort persists.
+ask_doctor:
+  Ask Doctor before you use If you have diabetes or poor blood circulation.
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children ■If product gets into eyes, flush with water for 15 minutes ■If swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive ingredients Water,Glycerin, Allantoin, Alum Sativum (Garlic) Bulb Extact, Melaleuca Alternifolia (Tea Tree) Leaf Oil
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION One patch per day, each patch contains 1 mg of tolnaftate
+package_label_principal_display_panel:
+  lable lable lable
+set_id:
+  2158323d-2733-2556-e063-6294a90aad78
+id:
+  21584dc7-6b97-ddc6-e063-6394a90a9955
+effective_time:
+  20240905
+version:
+  1
+openfda:

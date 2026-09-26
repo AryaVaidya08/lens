@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  SEVERE NIGHTTIME COLD AND FLU ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE, and PHENYLEPHRINE HYDROCHLORIDE D&C YELLOW NO. 10 FD&C BLUE NO. 1 GELATIN GLYCERIN POLYETHYLENE GLYCOL 400 POVIDONE K30 PROPYLENE GLYCOL WATER SHELLAC SODIUM HYDROXIDE SORBITOL TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE 116
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each softgel) Purposes Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Doxylamine succinate 6.25 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant
+active_ingredient_table:
+  <table width="60%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each softgel)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/fever reducer</td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Doxylamine succinate 6.25 mg</td><td>Antihistamine</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each softgel) Purposes Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Doxylamine succinate 6.25 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant
+purpose_table:
+  <table width="60%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each softgel)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/fever reducer</td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Doxylamine succinate 6.25 mg</td><td>Antihistamine</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: nasal congestion sinus congestion & pressure cough due to minor throat & bronchial irritation cough to help you sleep minor aches & pains headache fever sore throat runny nose & sneezing reduces swelling of nasal passages temporarily restores freer breathing through the nose promotes nasal and/or sinus drainage
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hours, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Allergy Alert Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleep Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis, or emphysema trouble urinating due to enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin When using this product do not use more than directed excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness Stop use and ask a doctor if you get nervous, dizzy or sleepless pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than directed can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleep
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis, or emphysema trouble urinating due to enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin
+when_using:
+  When using this product do not use more than directed excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy or sleepless pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions take only as directed - see Overdose warning do not exceed 4 doses per 24 hours adults & children 12 years & over 2 softgels with water every 4 hours children 4 to under 12 years ask a doctor children under 4 years do not use
+dosage_and_administration_table:
+  <table width="55%" styleCode="Noautorules"><col width="50%" valign="top" align="left"/><col width="50%" valign="top" align="left"/><tbody><tr styleCode="Botrule"><td styleCode="Toprule Rrule Lrule">adults &amp; children 12 years &amp; over</td><td styleCode="Rrule Toprule">2 softgels with water every 4 hours</td></tr><tr styleCode="Botrule"><td styleCode="Rrule Lrule">children 4 to under 12 years</td><td styleCode="Rrule">ask a doctor</td></tr><tr styleCode="Botrule"><td styleCode="Rrule Lrule">children under 4 years</td><td styleCode="Rrule">do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information store at room temperature
+inactive_ingredient:
+  Inactive ingredients D&C Yellow No. 10, FD&C Blue No. 1, gelatin, glycerin, polyethylene glycol 400, povidone K30, propylene glycol, purified water, shellac, sorbitol sorbitan, sodium hydroxide, titanium dioxide
+questions:
+  Questions or comments? Questions or comments? 1-888-287-1915
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Compare to Vicks® NyQuil® Severe Cold & Flu active ingredients NIGHTTIME Severe Cold & Flu ACETAMINOPHEN/ PAIN RELIEVER/ FEVER REDUCER DEXTROMETHORPHAN HBR/ COUGH SUPPRESSANT DOXYLAMINE SUCCINATE/ ANTIHISTAMINE PHENYLEPHRINE HCL/ NASAL DECONGESTANT MAXIMUM STRENGTH Relieves headache, fever, sore throat, minor aches & pains, nasal/sinus congestion & sinus pressure, sneezing, runny nose & cough 24 SOFTGELS image description
+set_id:
+  d0dde6df-80e2-4b51-ba22-28a3249e03b2
+id:
+  2a7fe636-4939-0c7b-e063-6394a90ac2c9
+effective_time:
+  20241230
+version:
+  6
+openfda:

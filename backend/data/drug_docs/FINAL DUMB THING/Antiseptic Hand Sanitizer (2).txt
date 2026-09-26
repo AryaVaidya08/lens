@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Antiseptic Hand Sanitizer ALCOHOL ALOE VERA LEAF GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame. Do not use in the eyes Stop use and ask a doctor if: Irritation and redness develop Condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the eyes
+stop_use:
+  Stop use and ask a doctor if: Irritation and redness develop Condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping
+inactive_ingredient:
+  Inactive ingredients Aloe Vera Leaf Extract, Glycerin, Hydrogen Peroxide, Water
+questions:
+  Questions or Comments: 1 (956) 568-6565
+package_label_principal_display_panel:
+  Package Labeling: Bottle
+set_id:
+  acafcffd-0f4d-77a5-e053-2a95a90ae4d7
+id:
+  acafd792-e595-77a9-e053-2a95a90afdd2
+effective_time:
+  20200812
+version:
+  1
+openfda:

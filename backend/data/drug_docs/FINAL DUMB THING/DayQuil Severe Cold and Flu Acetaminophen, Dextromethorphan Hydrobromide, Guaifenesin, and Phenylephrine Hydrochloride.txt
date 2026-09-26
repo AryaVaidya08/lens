@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  DayQuil Severe Cold and Flu Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, and Phenylephrine Hydrochloride DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CROSCARMELLOSE SODIUM CROSPOVIDONE (15 MPA.S AT 5%) FD&C YELLOW NO. 6 MALTODEXTRIN MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED SILICON DIOXIDE STEARIC ACID TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN DQ
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant
+active_ingredient_table:
+  <table width="60%"><col width="55" align="left" valign="top"/><col width="45" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each caplet)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/fever reducer</td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 200 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant
+purpose_table:
+  <table width="60%"><col width="55" align="left" valign="top"/><col width="45" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each caplet)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/fever reducer</td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 200 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: nasal congestion sinus congestion & pressure cough due to minor throat & bronchial irritation minor aches & pains headache fever sore throat reduces swelling of nasal passages temporarily restores freer breathing through the nose promotes nasal and/or sinus drainage helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive.
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hrs, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy Alert Allergy Alert: acetaminophen may cause severe skin reactions. Symptoms may include: Skin reddening Blisters Rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product, do not use more than directed. Stop use and ask a doctor if you get nervous, dizzy or sleepless pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+when_using:
+  When using this product, do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy or sleepless pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions take only as directed do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 2 caplets with water every 4 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use
+dosage_and_administration_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults &amp; children 12 yrs &amp; over</td><td>2 caplets with water every 4 hrs</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 4 to under 12 yrs</td><td>ask a doctor</td></tr><tr><td styleCode="Rrule">children under 4 yrs</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each caplet contains: sodium 4 mg do not exceed 25°C
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, crospovidone, FD&C Yellow No. 6 Aluminum Lake, flavor, maltodextrin, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, silicon dioxide, stearic acid, sucralose, talc, titanium dioxide
+questions:
+  Questions? 1-800-251-3374
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 4 Caplet Pouch Carton DayQuil ™ SEVERE+ VICKS® VapoCOOL™ COLD & FLU Acetaminophen , Phenylephrine HCl, Dextromethorphan HBr, Guaifenesin Minor Aches & Pains, Fever Nasal/Sinus Congestion & Sinus Pressure Cough Chest Congestion [caplet image] Non-Drowsy 4 Coated Caplets [Lil' Drug Store ® logo] PDP/Package
+set_id:
+  fdf4ee2c-fab8-43a8-84e8-e6ff0d262e01
+id:
+  0658d4ba-b8cc-aa54-e063-6394a90ad3a1
+effective_time:
+  20230927
+version:
+  8
+openfda:

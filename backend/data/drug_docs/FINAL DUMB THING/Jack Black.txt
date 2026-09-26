@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Jack Black Titanium Dioxide, Zinc Oxide DECAMETHYLTETRASILOXANE HYDROGENATED SOYBEAN LECITHIN HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) ROSEMARY WATER ALUMINUM OXIDE NIACINAMIDE AZELAIC ACID MEDIUM-CHAIN TRIGLYCERIDES GLYCERIN PROPANEDIOL SORBITAN ISOSTEARATE HYDROGENATED SOYBEAN PHOSPHATIDYLCHOLINE ANHYDROUS CITRIC ACID XANTHAN GUM XYLITOL AMINOMETHYLPROPANOL SILICON DIOXIDE PHENOXYETHANOL TRIETHOXYCAPRYLYLSILANE HYALURONATE SODIUM TITANIUM DIOXIDE TITANIUM DIOXIDE POLYHYDROXYSTEARIC ACID (2300 MW) PEG-60 SORBITAN STEARATE GREEN TEA LEAF ZINC OXIDE ZINC OXIDE RICE GERM ALLANTOIN BUTYLOCTYL SALICYLATE ISOHEXADECANE CRANBERRY STEARIC ACID
+active_ingredient:
+  Active Ingredient Titanium Dioxide 3.9% Zinc Oxide 3.2%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Use Helps prevent sunburn
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use • on damaged or broken skin
+when_using:
+  When using this product • keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if • rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions • Apply liberally 15 minutes before sun exposure • Children under 6 months of age: Ask a doctor • Reapply at least every 2 hours • Use a water-resistant sunscreen if swimming or sweating • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses.
+storage_and_handling:
+  Other Information ■ Protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive Ingredients Water, Caprylic/Capric Triglyceride, Glycerin, Butyloctyl Salicylate, Propanediol, Dimethicone, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Silica, Azelaic Acid, Allantoin, Sodium Hyaluronate, Camellia Sinensis Leaf Extract*, Vaccinium Macrocarpon (Cranberry) Fruit Extract*, Rosmarinus Officinalis (Rosemary) Leaf Extract*, Niacinamide, Oryza Sativa (Rice) Extract, Alumina, Isohexadecane, Hydrogenated Lecithin, Polyhydroxystearic Acid, Xylitol, Stearic Acid, Polysorbate 60, Triethoxycaprylylsilane, Xanthan Gum, Aminomethyl Propanol, Sorbitan Isostearate, Hydrogenated Phosphatidylcholine, Citric Acid, Phenoxyethanol. 24012 *Certified Organic
+questions:
+  Questions? www.getJackBlack.com 1-877-766-3388; 1-469-341-2700
+package_label_principal_display_panel:
+  Principal Display Panel Jack Black Authentic and Original Dual Defense Face Moisturizer 100% Mineral Sunscreen Broad Spectrum SPF 30 with Hyaluronic Acid & Niacinamide SPF 30 59 mL / 2 FL OZ Jack Black Authentic and Original Dual Defense Face Moisturizer 100% Mineral Sunscreen Broad Spectrum SPF 30 with Hyaluronic Acid & Niacinamide SPF 30 59 mL / 2 FL OZ Jack Black Authentic and Original Dual Defense Face Moisturizer 100% Mineral Sunscreen Broad Spectrum SPF 30 with Hyaluronic Acid & Niacinamide SPF 30 15 mL / 0.5 FL OZ Tube Carton Packet
+set_id:
+  181d5bf3-ce91-cb2c-e063-6294a90a51c4
+id:
+  181d5bf3-ce92-cb2c-e063-6294a90a51c4
+effective_time:
+  20240510
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Jack Black
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    Jack Black L.L.C
+  product_ndc:
+    66738-502
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    181d5bf3-ce92-cb2c-e063-6294a90a51c4
+  spl_set_id:
+    181d5bf3-ce91-cb2c-e063-6294a90a51c4
+  package_ndc:
+    66738-502-22
+    66738-502-01
+    66738-502-21
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

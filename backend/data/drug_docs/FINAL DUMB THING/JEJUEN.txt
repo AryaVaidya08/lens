@@ -1,0 +1,27 @@
+effective_time:
+  20190116
+inactive_ingredient:
+  water, niaciinamide, butylene glycol, adenosine, dimethicone, etc
+purpose:
+  whitening anti wrinkle
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ・Stop using the product when you have skin problems or the product disagrees with your skin ・Stop using the product immediately and consult a dermatologist if you have redness, swelling, itching or irritation on the skin while or after using the product. ・If the product gets into the eyes, don't rub but rinse with water. ・Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  JEJUEN CALMING ALOE ICE PACK Glycerin WATER NIACINAMIDE BUTYLENE GLYCOL GLYCERIN GLYCERIN
+openfda:
+version:
+  3
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  l
+indications_and_usage:
+  apply moderate amount of this product on the skin
+set_id:
+  c6d62bcc-4768-4dfa-ac2e-34c44f3c007d
+id:
+  7f99902f-f333-8c92-e053-2a91aa0a699f
+active_ingredient:
+  glycerin

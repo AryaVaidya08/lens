@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Alcohol Wipes Alcohol WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Alcohol 75% v/v. Purpose: Anti-bacteria/virus
+purpose:
+  Purpose Anti-bacteria/virus.
+when_using:
+  When Using When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes throughly with water.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+stop_use:
+  Stop use Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Indications & usage Alcohol wipe help to reduce bacteria and virus that potentially can cause disease. For use when soap and water are not available.
+dosage_and_administration:
+  Directions Peel back flap on front to pull out a towelettle. Unfold and wipes hands thoroughly. Reseal the flap. No need to rinse.
+warnings:
+  Warnings For external use only. Flammable, keep away from heat, spark, electrical, fire or flame.
+storage_and_handling:
+  Other information Store at room temperature.
+inactive_ingredient:
+  Inactive ingredient RO pure water.
+package_label_principal_display_panel:
+  Package label. Principal display panel 50
+set_id:
+  a7ab80e6-c12f-bc7d-e053-2a95a90a1da7
+id:
+  a7ab80e6-c130-bc7d-e053-2a95a90a1da7
+effective_time:
+  20200609
+version:
+  1
+openfda:

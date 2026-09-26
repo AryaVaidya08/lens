@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Medique Guaicon DMS Guaifenesin, Dextromethorphan Hbr GLYCERIN CITRIC ACID MONOHYDRATE PROPYLENE GLYCOL FD&C RED NO. 40 GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN METHYLPARABEN PROPYLPARABEN SODIUM CITRATE SUCRALOSE WATER CHERRY RED SOUR CHERRY
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Guaifenesin 100 mg, Dextromethorphan Hydrobromide 10 mg
+purpose:
+  Purpose Expectorant/Cough suppressant
+indications_and_usage:
+  Uses Temporarily helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passages of bothersome mucus, drain bronchial tubes, and make coughs more productive suppresses cough due to minor throat and bronchial irritation associated with a cold or inhaled irritants
+warnings:
+  Warnings
+do_not_use:
+  Do not use more than the recommended dose if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping MAOI drug. If you do not know if your prescription drug contains an MAOI, consult a doctor or pharmacist before using this product
+stop_use:
+  Stop use and ask a doctor if new symptoms occur cough lasts more than 7 days, comes back, or is accompanied by a fever, rash, or persistent headache. These are signs of a serious condition.
+ask_doctor:
+  Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by excessive phlegm (mucus)
+pregnancy_or_breast_feeding:
+  If preganant or breast feeding , ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Adults and children (12 years of age and older) Take 2 teaspoons (10 ml) every 4 hours as needed, do not exceed 12 teaspoons (6 doses) in 24 hours, or as directed by a doctor. Children under 12 years of age Do not give to children under 12 years of age.
+other_safety_information:
+  Other information tamper evident, do not use if container is torn, cut or opened store at controlled room temperature 15°-30°C (59°-86°F) avoid excessive heat and humidity
+inactive_ingredient:
+  Inactive ingredients citric acid, FD&C red 40, flavor, glycerin, methylparaben, propylene glycol, propylparaben, purified water, sodium citrate, sucralose
+questions:
+  Questions or comments Call 1-800-634-7680
+package_label_principal_display_panel:
+  Medique® Guaicon DMS InstyDose® Sugar-Free/Alcohol Free Liquid Cough Relief Expectorant • Guaifenesin 200 mg Cough Suppressant • Dextromethorphan HBr 20 mg 20 - 10 ml Liquid Packets Tamper evident Unit Dose Packets 217R Guaicon DMS InstyDose Label
+set_id:
+  21ade7e3-3b17-4ed4-bbbd-28efef68254b
+id:
+  f26594b7-70a3-19eb-e053-2995a90a9d80
+effective_time:
+  20230116
+version:
+  10
+openfda:

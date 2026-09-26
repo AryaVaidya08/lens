@@ -1,0 +1,27 @@
+effective_time:
+  20110801
+inactive_ingredient:
+  Inactive Ingredients: Sucrose/lactose
+purpose:
+  Uses: For the temporary relief of migraines, tension and general headaches.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings: If symptoms persist or worsen or if pregnant or nursing, consult a doctor. Do not use if cap seal is broken. Keep out of reach of children.
+spl_product_data_elements:
+  Lab1796 Headache Ease Atropa Belladonna, Cyclamen purpurascens tuber, Coffee Bean, Iris versicolor root, Strychnos nux-vomica seed, Sanguinaria canadensis root, Spigelia marilandica root, Viburnum opulus bark ATROPA BELLADONNA ATROPA BELLADONNA CYCLAMEN PURPURASCENS TUBER CYCLAMEN PURPURASCENS TUBER COFFEE BEAN COFFEE BEAN IRIS VERSICOLOR ROOT IRIS VERSICOLOR ROOT STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED SANGUINARIA CANADENSIS ROOT SANGUINARIA CANADENSIS ROOT SPIGELIA MARILANDICA ROOT SPIGELIA MARILANDICA ROOT VIBURNUM OPULUS BARK VIBURNUM OPULUS BARK SUCROSE LACTOSE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Dissolve 3 pellets directly in mouth 3 times a day or as needed. Twist cap to break seal and release pellets. Let pellets drop directly from cap into mouth. Take away from meals.
+package_label_principal_display_panel:
+  image of label
+indications_and_usage:
+  Directions: Dissolve 3 pellets directly in mouth 3 times a day or as needed. Twist cap to break seal and release pellets. Let pellets drop directly from cap into mouth. Take away from meals.
+set_id:
+  bf4a75fd-c315-4885-bae1-52d0007c4ad0
+id:
+  27c8c1b9-1bb8-4385-9f7d-af595d6d09f9
+active_ingredient:
+  Active Ingredients: (HPUS) Belladonna 8C, Cyclamen 8C, Coffea tosta 4C, Iris versicolor 8C, Nux vomica 9C, Sanguinaria 8C, Spigelia 8C, Viburnum opulus 4C

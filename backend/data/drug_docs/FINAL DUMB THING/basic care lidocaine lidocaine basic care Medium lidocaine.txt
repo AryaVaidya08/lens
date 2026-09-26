@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  basic care lidocaine lidocaine basic care Medium lidocaine LIDOCAINE LIDOCAINE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED DIHYDROXYALUMINUM AMINOACETATE EDETATE DISODIUM GLYCERIN KAOLIN METHYLPARABEN POLYVINYL ALCOHOL, UNSPECIFIED PROPYLENE GLYCOL PROPYLPARABEN WATER SORBITOL TARTARIC ACID UREA basic care lidocaine lidocaine LIDOCAINE LIDOCAINE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED DIHYDROXYALUMINUM AMINOACETATE EDETATE DISODIUM GLYCERIN KAOLIN METHYLPARABEN POLYVINYL ALCOHOL, UNSPECIFIED PROPYLENE GLYCOL PROPYLPARABEN WATER SORBITOL TARTARIC ACID UREA basic care lidocaine lidocaine LIDOCAINE LIDOCAINE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED DIHYDROXYALUMINUM AMINOACETATE EDETATE DISODIUM GLYCERIN KAOLIN METHYLPARABEN POLYVINYL ALCOHOL, UNSPECIFIED PROPYLENE GLYCOL PROPYLPARABEN WATER SORBITOL TARTARIC ACID UREA
+active_ingredient:
+  Active ingredient Lidocaine 4%
+purpose:
+  Purpose Topical anesthetic
+indications_and_usage:
+  Uses For temporary relief of pain
+warnings:
+  Warnings For external use only Do not use • more than 1 patch at a time • on wounds or damaged skin • with a heating pad • if you have ever had an allergic reaction to this product or any of its ingredients When using this product • use only as directed • avoid contact with the eyes, mucous membranes or rashes • do not bandage tightly Stop use and ask a doctor if • localized skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering • conditions worsen • symptoms persist for more than 7 days • symptoms clear up and occur again within a few days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • more than 1 patch at a time • on wounds or damaged skin • with a heating pad • if you have ever had an allergic reaction to this product or any of its ingredients
+when_using:
+  When using this product • use only as directed • avoid contact with the eyes, mucous membranes or rashes • do not bandage tightly
+stop_use:
+  Stop use and ask a doctor if • localized skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering • conditions worsen • symptoms persist for more than 7 days • symptoms clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions Adults and children 12 years of age and over: • clean and dry affected area • remove film from patch and apply to the skin (see illustration) • apply 1 patch at a time to affected area, not more than 3 to 4 times daily • remove patch from the skin after at most 8 hours of application Children under 12 years of age: consult a doctor
+storage_and_handling:
+  Other information • avoid storing product in direct sunlight • protect product from excessive moisture • store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients carboxymethylcellulose sodium, dihydroxyaluminum aminoacetate, edetate disodium, glycerin, kaolin, methylparaben, polyacrylic acid, polyvinyl alcohol, propylene glycol, propylparaben, purified water, sodium polyacrylate, sodium polyacrylate starch, sorbitol solution, tartaric acid, urea
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Maximum Strength Compare to Aspercreme ® Lidocaine Patch active ingredient Lidocaine Patch 4% Lidocaine Topical Anesthectic Numbs Away Pain Desensitizes Aggravated Nerves Fast acting Non Irritating Unscented Variety of sizes to target pain points 5 PATCHES ASSORTED SIZES SEE SIDE PANEL FOR SIZES lidocaine patch image
+set_id:
+  c6f222d6-732b-4b1e-a060-988ab44ec867
+id:
+  761cf55c-c022-4947-ae62-0b365b36aea7
+effective_time:
+  20241121
+version:
+  3
+openfda:

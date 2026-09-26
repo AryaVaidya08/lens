@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Altra Non-Alcohol Foaming Hand Sanitizer with Allantoin and Aloe Benzalkonium Chloride METHYLCHLOROISOTHIAZOLINONE LAURAMINE OXIDE ALOE VERA LEAF ALLANTOIN COCAMIDOPROPYL BETAINE WATER EDETATE SODIUM METHYLISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.12%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria on the skin that could cause disease Recommended for repeated use
+warnings:
+  Warnings For external use only. When using this product do not use in or near eyes. If in eyes, flush thoroughly with water. If irritation or rash appears and persists , stop use and see a physician. Keep out of reach of children. If swallowed, call a physician or Poison Control Center immediately.
+when_using:
+  When using this product do not use in or near eyes. If in eyes, flush thoroughly with water.
+stop_use:
+  If irritation or rash appears and persists , stop use and see a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, call a physician or Poison Control Center immediately.
+dosage_and_administration:
+  Directions Dispense an adequate amount of hand sanitizer Rub hads together until completely dry
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Cocamidopropyl Betaine, Lauramine Oxide, Tetrasodium EDTA, Allantoin, Fragrance (Parfum), Aloe Barbadensis Leaf Juice, Methylchloroisothiazolinone, Methylisothiazolinone
+questions:
+  Questions? Call Buckeye International, Inc. 314-291-1900 Monday through Friday 8:00 a.m. to 5:00 p.m. CST
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  ALTRA Non-Alcohol Foaming hand Sanitizer with Allantoin and Aloe Hand Hygiene Manufactured by Buckeye International 2700 Wagner Place Maryland Heights MO 63043 USA (314) 291-1900 Product # 71151120 Net Contents 1250 mL (42.2 fl oz) container label
+set_id:
+  a35ad6ce-700c-5b42-e053-2995a90a7da6
+id:
+  26f6ae6d-2fc2-f283-e063-6394a90aa676
+effective_time:
+  20241115
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Altra Non-Alcohol Foaming Hand Sanitizer with Allantoin and Aloe
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Buckeye International, Inc.
+  product_ndc:
+    30805-015
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1046310
+  spl_id:
+    26f6ae6d-2fc2-f283-e063-6394a90aa676
+  spl_set_id:
+    a35ad6ce-700c-5b42-e053-2995a90a7da6
+  package_ndc:
+    30805-015-05
+    30805-015-07
+    30805-015-09
+    30805-015-02
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

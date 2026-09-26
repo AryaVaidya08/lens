@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Orbitol SODIUM MONOFLUOROPHOSPHATE WATER SILICON DIOXIDE SORBITOL CALCIUM CARBONATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM SODIUM LAURYL SULFATE BENZOIC ACID SACCHARIN SODIUM SODIUM BENZOATE LIMONENE, (+)- SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+active_ingredient:
+  Active ingredients Sodium Monofluorophosphate 0.8% (928 PPM Fluoride Ion)
+purpose:
+  Purpose Cavity Prevention
+indications_and_usage:
+  Uses: Aids in the prevention of cavities,gingivitis and plaque
+warnings:
+  Warnings: keep out of reach of children under 6 years of age If more than used for brushing is accidentally swallowed, get medical help or contact a poison control center immediately. Do not use if you have known sensitivities to any one of the ingredients. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. This product should be used only for the purpose it was intended and according to its instructions. Do not ingest.
+keep_out_of_reach_of_children:
+  keep out of reach of children under 6 years of age If more than used for brushing is accidentally swallowed, get medical help or contact a poison control center immediately.
+do_not_use:
+  Do not use if you have known sensitivities to any one of the ingredients.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+other_safety_information:
+  This product should be used only for the purpose it was intended and according to its instructions. Do not ingest.
+dosage_and_administration:
+  Directions: Adults and children 6 years of age and older brush teeth thoroughly. Preferably after each meal or at least twice a day or as directed by a dentist or a physician. Children under 6 years ask a dentist or physician
+inactive_ingredient:
+  Inactive ingredients: Sorbitol, Water, Calcium Carbonate, Silica, Cellulose Gum, Sodium Lauryl Sulfate, Flavour, Sodium Saccharin, Sodium Benzoate, Benzoic Acid, Limonene.
+spl_unclassified_section:
+  Other information:
+questions:
+  Questions? Call 718-369-4600
+package_label_principal_display_panel:
+  Principal Display Panel ORBITOL Toothpaste with fluoride and Mint FLUORIDE and MINT For preventing Cavities and for a cool, fresh feeling nt wt 3.5 fl oz (145 gr) NDC 69939-311-02 Label
+set_id:
+  243464f9-2474-44ce-b3f7-4fad8e5910f2
+id:
+  90b48ad5-b8f7-5ee7-e053-2995a90a8097
+effective_time:
+  20190822
+version:
+  4
+openfda:

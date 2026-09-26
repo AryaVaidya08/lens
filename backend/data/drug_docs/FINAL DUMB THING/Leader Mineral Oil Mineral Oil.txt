@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Leader Mineral Oil Mineral Oil MINERAL OIL MINERAL OIL
+active_ingredient:
+  Active ingredient (in each 118 mL delivered dose) Mineral oil 100%
+purpose:
+  Purpose Lubricant laxative
+indications_and_usage:
+  Uses • for relief of occasional constipation
+warnings:
+  Warnings For rectal use only Ask a doctor before use if you have • abdominal pain, nausea or vomiting • notice a sudden change in bowel habits that persists over a period of 2 weeks Stop use and ask a doctor if • you have rectal bleeding or failure to have a bowel movement after use of a laxative because this may indicate a serious condition • you need to use a laxative for more than one week If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+ask_doctor:
+  Ask a doctor before use if you have • abdominal pain, nausea or vomiting • notice a sudden change in bowel habits that persists over a period of 2 weeks
+stop_use:
+  Stop use and ask a doctor if • you have rectal bleeding or failure to have a bowel movement after use of a laxative because this may indicate a serious condition • you need to use a laxative for more than one week
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions Single daily dose adults & children 12 years and over 1 bottle once daily children 2 to under 12 years 1/2 bottle once daily Discard unused portion children under 2 years do not use How to use this enema: REMOVE GREEN PROTECTIVE SHIELD BEFORE INSERTING; HOLD BOTTLE UPRIGHT, GRASPING BOTTLE CAP WITH FINGERS. GRASP PROTECTIVE SHIELD WITH OTHER HAND AND PULL GENTLY TO REMOVE. Positioning: Left-side position: Lie on left side with knee bent and arms at rest. Knee-chest position: Kneel, then lower head and chest forward until left side of face is resting on surface. Position arms comfortably. Administering enema: • With steady pressure, gently insert enema tip into rectum with a slight side-to-side movement, with tip pointing toward navel. Insertion may be easier if person receiving enema bears down, as if having a bowel movement. This helps relax the muscles around the anus. • Do not force the enema tip into rectum as this can cause injury. • Squeeze bottle until nearly all liquid is gone. It is not necessary to empty the bottle completely, as it contains more liquid than needed. • Remove enema tip from rectum. • Retain enema in accordance with doctor's instructions. Hand Positioning Left-side Positioning Knee-chest Positioning
+dosage_and_administration_table:
+  <table width="100%"><col width="45%"/><col width="55%"/><tbody><tr><td styleCode="Botrule Lrule Toprule " valign="top"><paragraph>adults &amp; children </paragraph><paragraph>12 years and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>1 bottle once daily</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>children 2 to under</paragraph><paragraph>12 years</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>1/2 bottle once daily</paragraph><paragraph>Discard unused portion</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>children under</paragraph><paragraph>2 years</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>do not use</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other Information • store at room temperature 20-25 deg C (68-77 deg F) • this product generally produces bowel movement in 2-15 minutes
+inactive_ingredient:
+  Inactive ingredient none
+questions:
+  Questions or comments? 1-800-633-5463
+package_label_principal_display_panel:
+  Principal Display Panel Leader Compare to Fleet® Mineral Oil Enema active ingredient Ready-To-Use Enema Mineral Oil Sodium Free Lubricant Laxative For Relief of Occasional Constipation Comfortable, Lubricated Tip Works In Minutes Latex Free Satisfaction Guaranteed 4.5 FL OZ (133ml) Principal Display Panel
+  Side and Back Panel - Box LEADER MINERAL OIL ENEMA DRUG FACTS
+set_id:
+  ab752f48-277c-4ed0-8167-ef22f89b56bd
+id:
+  2b5b894a-0450-4968-bd9e-3e702e0480d3
+effective_time:
+  20250424
+version:
+  4
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Clearly Better Foaming Hand Sanitizer CETRIMONIUM CHLORIDE DIGLYCERIN DISODIUM COCOAMPHODIACETATE GLYCERIN HYDROCHLORIC ACID METHOXY PEG/PPG-7/3 AMINOPROPYL DIMETHICONE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE EDETATE SODIUM WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  claims Clearly Better by INTRTCON ALCOHOL FREE FOAMING HAND SANITIZER
+active_ingredient:
+  Active ingredient Benzalkonium chloride 0.13%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use to decrease bacteria on the skin that could cause disease
+warnings:
+  Warnings For exterenal use only-hands
+when_using:
+  When using this product avoid contact with eyes. if contact occurs, rinse eyes thoroughly with water. avoid contact with broken skin
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for mre than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contract a Poison Control Cener right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+inactive_ingredient:
+  Inactive ingredients cetrimonium chloride, diglycerol, disodium cocoamphodiacetate, fragrance, glycerin, hydrochloric acid, methoxy PEG/PPG-7/3 aminopropyl dimethicone, methylchloroisothiazolinone, methylisothiazolinone, tetrasodium EDTA, water
+adverse_reactions:
+  Adverse Reactions Section DISTRIBUTED BY: INTERCON CHEMICAL CO. 1100 CENTRAL INDUSTRIAL DR. ST. LOUIS, MO 63110
+package_label_principal_display_panel:
+  Principal display panel ClearlyBetter BY INTERCON ALCOHOL FREE FOAMING HAND SANITIZER 1150 mL (39 FL OZ) image description
+set_id:
+  83af148f-ad6f-4b1b-a0f8-c34e4a5eafb5
+id:
+  24b3f292-d6d4-60aa-e063-6394a90a354d
+effective_time:
+  20241017
+version:
+  10
+openfda:

@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Sankaijo docusate sodium, sennosides CELLULOSE, MICROCRYSTALLINE PAEONIA SUFFRUTICOSA ROOT BARK IPOMOEA NIL SEED PEG/PPG-105/5 COPOLYMER SILICON DIOXIDE DIMETHICONE FERRIC OXIDE RED TALC DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES CARAMEL CARBOXYMETHYLCELLULOSE CALCIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS FD&C BLUE NO. 2 FENNEL HYPROMELLOSE 2910 (15000 MPA.S) MAGNESIUM STEARATE greenish brown SATO;9
+active_ingredient:
+  Active ingredients (in each tablet) Docusate sodium 8.33mg Sennosides 1.36mg
+purpose:
+  Purposes Docusate sodium Stool softener laxative Sennosides Stimulant laxative
+indications_and_usage:
+  Uses ■for the relief of occasional constipation (irregularity) ■generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use laxative products for a period longer than 1 week unless directed by a doctor Ask a doctor before use if you have ■abdominal pain, nausea, or vomiting ■noticed a sudden change in bowel habits that persists over a period of 2 weeks Ask a doctor or pharmacist before use if you are presently taking mineral oil Stop use and ask a doctor if ■you have rectal bleeding or failure to have a bowel movement after use of a laxative (may indicate a serious condition) If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Frequent or prolonged use of this preparation may result in dependence on laxatives.
+do_not_use:
+  Do not use laxative products for a period longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have ■abdominal pain, nausea, or vomiting ■noticed a sudden change in bowel habits that persists over a period of 2 weeks
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking mineral oil
+stop_use:
+  Stop use and ask a doctor if ■you have rectal bleeding or failure to have a bowel movement after use of a laxative (may indicate a serious condition)
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+general_precautions:
+  Frequent or prolonged use of this preparation may result in dependence on laxatives.
+dosage_and_administration:
+  Directions adults and children 12 years and older - take 6 to 12 tablets once or twice a day children 6 to under 12 years - take 5 to 7 tablets once or twice a day children 2 to under 6 years - take 3 to 5 tablets once or twice a day children under 2 years - consult a doctor ■once or twice daily, preferably morning and evening, when needed or as directed by a doctor ■start initial dosage with minimum dose, then adjust it to suit to bowel condition
+other_safety_information:
+  Other information ■each tablet contains calcium 5 mg
+inactive_ingredient:
+  Inactive ingredients caramel, carmellose calcium, cinnamon, dibasic calcium phosphate, FDandC Blue No. 2, fennel, hydroxypropyl methylcellulose, magnesium stearate, mentha oil, microcrystalline cellulose, moutan bark, pharbitis seed, polyoxyethylene (105) polyoxypropylene (5) glycol, silicon dioxide, simethicone, synthetic iron oxide, talc
+package_label_principal_display_panel:
+  Carton
+set_id:
+  83c0d52b-f7e2-40b0-a01b-1ccee78f8f1b
+id:
+  0b54b2d1-83e7-3a18-e063-6394a90a5b58
+effective_time:
+  20231129
+version:
+  11
+openfda:
+  application_number:
+    M007
+  brand_name:
+    Sankaijo
+  generic_name:
+    DOCUSATE SODIUM, SENNOSIDES
+  manufacturer_name:
+    Sato Pharmaceutical Co., Ltd.
+  product_ndc:
+    49873-404
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DOCUSATE SODIUM
+    SENNOSIDES
+  rxcui:
+    1235252
+  spl_id:
+    0b54b2d1-83e7-3a18-e063-6394a90a5b58
+  spl_set_id:
+    83c0d52b-f7e2-40b0-a01b-1ccee78f8f1b
+  package_ndc:
+    49873-404-01
+  is_original_packager:
+    True
+  unii:
+    F05Q2T2JA0
+    3FYP5M0IJX

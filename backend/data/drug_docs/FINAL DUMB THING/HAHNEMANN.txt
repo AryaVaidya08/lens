@@ -1,0 +1,27 @@
+effective_time:
+  20120114
+inactive_ingredient:
+  Inactive Ingredients INACTIVE INGREDIENTS: sucrose. lactose
+purpose:
+  Purpose SNEEZING
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children Keep out of reach of children.
+warnings:
+  Warnings Warning: If pregnant, nursing, or if symptoms persist consult your practitioner.
+spl_product_data_elements:
+  HAHNEMANN SNEEZING GLYCERIN GLYCERIN GLYCERIN SUCROSE LACTOSE white pellet none
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions DIRECTIONS: Dissolve one dose under tongue. Repeat as needed or as directed. Stop taking if symptoms worsen. DOSE: Adults and children take 10 -15 pellets once or as directed by your prescriber.
+package_label_principal_display_panel:
+  Package Label GLYCERINUM 200C SNEEZING EST 63545 Contains 5g HOMEOPATHIC MEDICINE Hahnemann Laboratories Inc. 1940 Fourth St. San Rafael, CA 94901 TWIST TO OPEN-USE ONLY IF SEALED QUESTIONS: Toll free 888-427-6422 Hahnemann SNEEZING
+indications_and_usage:
+  Use USE according to standard Homeopathic indications for self-limiting conditions, such as listed above. SNEEZING
+set_id:
+  560dfc60-88cd-4d5c-8fe5-2cba2edb6fe4
+id:
+  cb2e4476-08a3-41fc-8893-e02d25ea6b0b
+active_ingredient:
+  Active Ingredient ACTIVE INGREDIENT listed above GLYCERINUM

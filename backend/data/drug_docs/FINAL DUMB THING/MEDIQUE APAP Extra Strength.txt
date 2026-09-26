@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  MEDIQUE APAP Extra Strength Acetaminophen POLYETHYLENE GLYCOL, UNSPECIFIED CROSPOVIDONE, UNSPECIFIED SODIUM STARCH GLYCOLATE TYPE A POTATO STARCH, CORN HYPROMELLOSE, UNSPECIFIED STEARIC ACID TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN white ROUND AZ;235
+spl_unclassified_section:
+  Drug Facts
+  Other information • store at room temperature 59º-86ºF (15º-30ºC) • tamper-evident sealed packets • do not use any opened or torn packets
+active_ingredient:
+  Active ingredient (in each tablet) Acetaminophen 500 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains associated with • headache • toothache • minor arthritis pain • muscular aches • common cold • menstrual cramps For the reduction of fever.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take: • more than 8 tablets in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • for more than 10 days for pain unless directed by a doctor • for more than 3 days for fever unless directed by a doctor Ask a doctor before use if you have • liver disease Ask a doctor or pharmacist before use if • you are taking the blood thinning drug warfarin Stop using and ask a doctor if • symptoms do not improve • pain or fever persists or gets worse • new symptoms occur • redness or swelling is present If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • for more than 10 days for pain unless directed by a doctor • for more than 3 days for fever unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have • liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if • you are taking the blood thinning drug warfarin
+stop_use:
+  Stop using and ask a doctor if • symptoms do not improve • pain or fever persists or gets worse • new symptoms occur • redness or swelling is present If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions • do not use more than directed Adults and children: (12 years and older) Take 2 tablets every 4 to 6 hours as needed. Do not take more than 8 tablets in 24 hours. Children under 12 years: Do not give this adult strength product to children under 12 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage.
+inactive_ingredient:
+  Inactive ingredients corn starch, hypromellose, maltodextrin*, microcrystalline cellulose*, polyethylene glycol, povidone*, pregelatinized corn starch*, sodium starch glycolate*, stearic acid, titanium dioxide* * May contain
+questions:
+  Questions or comments? 1-800-634-7680
+package_label_principal_display_panel:
+  XS APAP 500 mg Label Extra Strength APAP Non-Aspirin Tablets This Package is For Households Without Young Children Pull to Open Pain Reliever/Fever Reducer ● Acetaminophen 500mg 8 Tablets (2 x 4) Tamper Evident Unit Dose Packets Relabeled By: Proficient Rx LP Thousand Oaks, CA 91320 71205-461-08
+set_id:
+  c466a07f-2339-4cf5-8377-e0f109649c52
+id:
+  c398d777-fd40-4ba7-94ab-0476bc8b5e44
+effective_time:
+  20240201
+version:
+  4
+openfda:
+  application_number:
+    M013
+  brand_name:
+    MEDIQUE APAP Extra Strength
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    Proficient Rx LP
+  product_ndc:
+    71205-461
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    198440
+  spl_id:
+    c398d777-fd40-4ba7-94ab-0476bc8b5e44
+  spl_set_id:
+    c466a07f-2339-4cf5-8377-e0f109649c52
+  package_ndc:
+    71205-461-08
+  original_packager_product_ndc:
+    47682-175
+  upc:
+    0371205461089
+  unii:
+    362O9ITL9D

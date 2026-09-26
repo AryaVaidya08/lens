@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Softlips Oasis Watermelon Blackberry dimethicone, oxybenzone, octinoxate CERESIN PETROLATUM MINERAL OIL OCTYLDODECANOL ETHYLHEXYL PALMITATE POLYGLYCERYL-6 DISTEARATE CETOSTEARYL ALCOHOL POLYGLYCERYL-3 RICINOLEATE AMMONIUM GLYCYRRHIZATE BUTYLENE GLYCOL SAFFLOWER OIL CETEARYL GLUCOSIDE WATERMELON ETHYLHEXYLGLYCERIN HYALURONIC ACID MEADOWFOAM SEED OIL MENTHOL, UNSPECIFIED FORM PHYMATOLITHON CALCAREUM PENTYLENE GLYCOL PHENOXYETHANOL PHYTOSTERYL/OCTYLDODECYL LAUROYL GLUTAMATE PORPHYRA UMBILICALIS BLACKBERRY SODIUM CHLORIDE SILANETRIOL SILYBUM MARIANUM SEED OIL TETRAHEXYLDECYL ASCORBATE .ALPHA.-TOCOPHEROL ACETATE EICOSYL POVIDONE DIMETHICONE DIMETHICONE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE
+active_ingredient:
+  Active ingredient Dimethicone 2% Octinoxate 7.5% Oxybenzone 4%
+purpose:
+  Purpose Dimethicone - Skin protectant Octinoxate - Sunscreen Oxybenzone – Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn temporarily protects chapped or cracked lips
+warnings:
+  Warnings Skin Cancer/Skin Aging Alert: Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to prevent sunburn, not skin cancer or early skin aging. For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months: ask a doctor
+inactive_ingredient:
+  Inactive ingredients ozokerite, petrolatum, mineral oil, octyldodecanol, ethylhexyl palmitate, flavor, polyglyceryl-6 octastearate, cetearyl alcohol, polyglyceryl-6 polyricinoleate, ammonium glycyrrhizate, butylene glycol, carthamus tinctorius (safflower) seed oil, cetearyl glucoside, citrullus lanatus (watermelon) fruit extract, ethylhexylglycerin, hyaluronic acid, limnanthes alba (meadowfoam) seed oil, menthol, nannochloropsis oculata extract, pentylene glycol, phenoxyethanol, phytosteryl/octyldodecyl lauroyl glutamate, porphyra umbilicalis extract, rubus fruticosus (blackberry) fruit extract, sea water, silanetriol, silybum marianum seed oil, tetrahexyldecyl ascorbate, tocopheryl acetate, VP/eicosene copolymer
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Softlips Oasis Watermelon Blackberry
+  Principal Display Panel Drug Facts
+set_id:
+  e1213808-4dad-4fd0-871a-04bba094a3cc
+id:
+  2979d20c-f97a-246c-e063-6294a90a2df5
+effective_time:
+  20241217
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Softlips Oasis Watermelon Blackberry
+  generic_name:
+    DIMETHICONE, OXYBENZONE, OCTINOXATE
+  manufacturer_name:
+    The Mentholatum Company
+  product_ndc:
+    10742-8747
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+    OCTINOXATE
+    OXYBENZONE
+  spl_id:
+    2979d20c-f97a-246c-e063-6294a90a2df5
+  spl_set_id:
+    e1213808-4dad-4fd0-871a-04bba094a3cc
+  package_ndc:
+    10742-8747-1
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O
+    4Y5P7MUD51
+    95OOS7VE0Y

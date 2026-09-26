@@ -1,0 +1,25 @@
+effective_time:
+  20090916
+spl_unclassified_section_table:
+  <table border="0" width="90%"> <thead> <tr> <th align="left">Active Ingredient</th> <th align="right">Purpose</th> </tr> </thead> <tbody> <tr> <td>1.8% Salicylic Acid</td> <td align="right">Anti-dandruff, anti seborrheic dermatitis, anti-psoriasis</td> </tr> </tbody> </table>
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive ingedients: Water(Aqua), SD Alcohol 40B, Propylene Glycol, Cyclo-pentasiloxane, Isopropyl Palmitate, Phenyl Trimethicone, Sodium Citrate, Sodium Hydroxide, PPG-5 Ceteth-20, Olea Europaea (Olive) Oil, Aloe Barbadensis Leaf Juice, Mentha Piperita (Peppermint) Oil, Camphor, Menthol, Cetrimonium Chloride, Sulfur, Polysorbate-20, Methylparaben, Propylparaben, Tocopherol Acetate (Vitamin E), Retinyl Palmitate (Vitmin A), Rosmarinus Officinalis (Rosemary) Leaf Extract, Equisetum Arvense Extract, Pinus Sylvestris Leaf Extract, Humulus Lupulus (Hops) Extract, Citrus Limonum (Lemon) Peel Extract, Fragrance (Parfum)
+warnings:
+  WARNINGS SECTION Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately. Flammable. Keep away from heat and open flame. For external use only Ask a physician before use it you have a condition that covers a large area of your body. Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. If condition worsens or does not improve, after regular use of this product as directed, consult a physician.
+spl_product_data_elements:
+  Vitale Sensitive Scalp 12 in 1 Instant Relief Anti Dandruff Spray Salicylic Acid Salicylic Acid Salicylic Acid Water Alcohol Propylene Glycol Isopropyl Palmitate Sodium Citrate Sodium Hydroxide Olive Oil Aloe Vera Leaf Peppermint Oil Camphor Menthol Cetrimonium Chloride Sulfur Polysorbate 20 Methylparaben Propylparaben Alpha-tocopherol Acetate Vitamin A Palmitate Equisetum Arvense Extract Cyclomethicone 5 Vitale 12 in 1 Spray Label
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION SECTION Directions: Hold bottle 6 inches away from hair and spray evenly. Massage into hair and scalp and style. For curly hair and braids, use daily. On relaxed hair use before drying. Other Information: Store away from direct sunlight.
+spl_unclassified_section:
+  Drug Facts Active Ingredient Purpose 1.8% Salicylic Acid Anti-dandruff, anti seborrheic dermatitis, anti-psoriasis
+package_label_principal_display_panel:
+  AFAM CONCEPT, INC. Chicago, IL 60629 LONDON NW 10 6JH, UK www.vitaleproducts.com (773)838-1336, (800) 262-2326 Registered # 1,387,930
+indications_and_usage:
+  USE Controls the symptoms of dandruff, seborrheic dermatitis and psoriasis.
+set_id:
+  2ea0ccef-2f41-813b-6fe3-d695fc8775eb
+id:
+  4666b310-b806-f603-4c2d-2e94761169bb

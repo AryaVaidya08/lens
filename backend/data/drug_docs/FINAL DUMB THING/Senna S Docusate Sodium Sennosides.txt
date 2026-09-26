@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Senna S Docusate Sodium Sennosides DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES CARNAUBA WAX CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C YELLOW NO. 6 HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE SODIUM BENZOATE STEARIC ACID TITANIUM DIOXIDE ALUMINUM OXIDE TCL081
+active_ingredient:
+  Active ingredients (in each tablet) Docusate sodium 50 mg Sennosides 8.6 mg
+purpose:
+  Purpose Stool softener Laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 6-12 hours
+warnings:
+  Warnings Do not use if you are now taking mineral oil, unless directed by a doctor laxative products for longer than 1 week unless directed by a doctor Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that continues over a periodof 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are now taking mineral oil, unless directed by a doctor laxative products for longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that continues over a periodof 2 weeks
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take preferably at bedtime or as directed by a doctor age starting dosage maximum dosage adults and children 12 years of age and over 2 tablets once a day 4 tablets twice a day children 6 to under 12 years 1 tablet once a day 2 tablets twice a day children 2 to under 6 years 1/2 tablet once a day 1 tablet twice a day children under 2 years ask a doctor ask a doctor
+dosage_and_administration_table:
+  <table><col/><col/><col/><tbody><tr><td align="center" styleCode=" Botrule Toprule Rrule"> age</td><td align="center" styleCode=" Botrule Toprule Rrule">starting dosage </td><td align="center" styleCode=" Botrule Toprule">maximum dosage </td></tr><tr><td styleCode=" Botrule Rrule">adults and children 12 years of age and over</td><td styleCode=" Botrule Rrule">2 tablets once a day</td><td>4 tablets twice a day </td></tr><tr><td styleCode=" Botrule Rrule">children 6 to under 12 years</td><td styleCode=" Botrule Rrule">1 tablet once a day</td><td styleCode=" Botrule Toprule">2 tablets twice a day </td></tr><tr><td styleCode=" Botrule Rrule">children 2 to under 6 years</td><td styleCode=" Botrule Rrule">1/2 tablet once a day </td><td styleCode=" Botrule">1 tablet twice a day </td></tr><tr><td styleCode=" Botrule Rrule">children under 2 years</td><td styleCode=" Botrule Rrule">ask a doctor </td><td styleCode=" Botrule">ask a doctor </td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains : calcium 20 mg each tablet contains : sodium 6 mg VERY LOW SODIUM store at 25ºC (77ºF); excursions permitted between 15-30ºC (59-86ºF)
+inactive_ingredient:
+  Inactive ingredients carnauba wax, croscarmellose sodium, D&C yellow #10 aluminum lake, dibasic calcium phosphate dihydrate, FD&C yellow #6 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, silicon dioxide, sodium benzoate, stearic acid, titanium dioxide
+questions:
+  Questions or comments? Call toll free 1-855-423-2630
+package_label_principal_display_panel:
+  Principal Display Panel compare to Senokot-S® active ingredients† dual action senna-S laxative plus Stool Softener docusate sodium, 50 mg and Sennosides 8.6 mg natural vegetable laxative ingredient effective, comfortable, overnight relief, gentle dependable TABLETS TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING . KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. †This product is not manufactured or distributed by Avrio Health L.P., distributor of Senokot-S®. DISTRIBUTED BY UNFI PROVIDENCE, RI 02908 USA
+  Product Labeling EQUALINE Senna S Tablets Docusate Sodium 50 mg, Sennosides 8.6 mg
+set_id:
+  29aa7000-0dc1-4e55-b7f9-eaf81c730113
+id:
+  690c60d7-0223-4a9c-ab7d-9110ad0dcba5
+effective_time:
+  20231009
+version:
+  3
+openfda:

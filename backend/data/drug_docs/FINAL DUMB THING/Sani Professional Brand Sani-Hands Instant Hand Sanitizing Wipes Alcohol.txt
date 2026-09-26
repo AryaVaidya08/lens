@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Sani Professional Brand Sani-Hands Instant Hand Sanitizing Wipes Alcohol WATER PROPYLENE GLYCOL GLYCERIN ALCOHOL ALCOHOL ALOE VERA LEAF ALPHA-TOCOPHEROL ACETATE
+active_ingredient:
+  Active ingredient Alcohol 65.9% by volume
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand sanitizer to decrease bacterai on the slin. For repeated use. Dries in seconds.
+warnings:
+  Warnings Flammable, keep away from fire or flame. For external use only. Do not use in or contact the eyes. Discontinue use if irritation and redness develop. If condition persists for more than 72 hours, consult a doctor.
+dosage_and_administration:
+  Directions To dispense, lift cover, remove seal, pull center sheet form roll, twist to a point, feed through dispenser hole in cover. Keep cap closed to prevent moisture loss. Use entire wipe to thoroughly wipe hands, fingers, and wrists. To sanitize, use multiple wipes. Dicard after single use.
+inactive_ingredient:
+  Inactive ingredients Water, Propylene Glycol, Glycerin, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate
+spl_unclassified_section:
+  Food code compliant Nonfood Compounds Program Listed E3 REgistrartion #151433
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+package_label_principal_display_panel:
+  Principal display panel - 150ct kills 99.99% of germs cleans more effectively than gels DFDA Food Code Compliant 150 wipes pre-moistened 6.0 x 5.0 in (15.2 x 12.7 cm) Effective against foodborne pathogens ideal for hand sanitizing when soap and water are not reaily available. front label: back label: frontlabel backlabel
+set_id:
+  ebba69d1-74af-49f7-82c4-53983942d4a6
+id:
+  ce6ad47d-3e7c-009f-e053-2a95a90a64b6
+effective_time:
+  20211015
+version:
+  4
+openfda:

@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  e.l.f Skin Acne-Treating Body Mist SALICYLIC ACID PROPANEDIOL ALCOHOL NIACINAMIDE WATER TREHALOSE PURSLANE MELALEUCA ALTERNIFOLIA LEAF TRANEXAMIC ACID LACTOBIONIC ACID ZINC PIDOLATE GLYCYRRHIZINATE DIPOTASSIUM GLYCERIN ETHYLHEXYLGLYCERIN CITRIC ACID MONOHYDRATE EDETATE DISODIUM ANHYDROUS SODIUM HYDROXIDE FYTIC ACID PHENOXYETHANOL SODIUM BENZOATE DENATONIUM BENZOATE SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Salicylic Acid 2% Purpose Acne Treatment
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Uses For the treatment of acne Helps prevent new acne blemishes
+warnings:
+  Warnings For external use only, When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Cleanse the skin thoroughly before applying medication. Cover the entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day. Sensitivity Test for a New User. Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, follow the directions stated elsewhere on this label.
+inactive_ingredient:
+  Inactive ingredients Water (Aqu), Propanediol, Alcohol, Niacinamide, Trehalose, Portulaca Oleracea Extract, Melaleuca Alternifolia (Tea Tree) Extract, Tranexamic Acid, Lactobionic Acid, Zinc PCA, Dipotassium Glycyrrhizate, Glycerin, Ethylhexylglycerin, Citric Acid, Disodium EDTA, Sodium Hydroxide, Phytic Acid, Phenoxyethanol, Sodium Benzoate, Denatonium Benzoate
+questions:
+  Questions? 1-888-315-9814
+package_label_principal_display_panel:
+  Package Labeling: label8 Label9
+set_id:
+  f575b71f-d2bf-7469-e053-2995a90a02eb
+id:
+  4307e35c-ec03-4e6b-e063-6394a90a640a
+effective_time:
+  20251107
+version:
+  6
+openfda:
+  application_number:
+    M006
+  brand_name:
+    e.l.f Skin Acne-Treating Body Mist
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    e.l.f. Cosmetics, Inc
+  product_ndc:
+    76354-418
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    1048903
+  spl_id:
+    4307e35c-ec03-4e6b-e063-6394a90a640a
+  spl_set_id:
+    f575b71f-d2bf-7469-e053-2995a90a02eb
+  package_ndc:
+    76354-418-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

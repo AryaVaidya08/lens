@@ -1,0 +1,47 @@
+effective_time:
+  20130802
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+questions:
+  Questions? call 1-800-343-7805
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use.
+storage_and_handling:
+  Other information store between 20° to 25°C (68° to 77°F) do not use if imprinted foil inner seal on bottle is broken or missing
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+set_id:
+  573d0a6d-5228-475b-b645-f797a2f9e0a8
+id:
+  dfb03693-c0a0-4a95-b8dd-6a3d29ddfdfd
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+active_ingredient:
+  Active ingredient (in each tablet) Cetirizine HCl 10 mg
+dosage_and_administration_table:
+  <table width="80%"> <col width="50%" valign="top" align="left"/> <col width="50%" valign="top" align="left"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults and children 6 years and over</td> <td>one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">adults 65 years and over</td> <td>ask a doctor</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children under 6 years of age</td> <td>ask a doctor</td> </tr> <tr> <td styleCode="Rrule">consumers with liver or kidney disease</td> <td>ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients carnauba wax, corn starch, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, titanium dioxide
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  ZYRTEC Cetirizine Hydrochloride Cetirizine Hydrochloride Cetirizine carnauba wax starch, corn hypromelloses lactose monohydrate magnesium stearate polyethylene glycols povidones titanium dioxide ZYRTEC;10;MG
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Original Prescription Strength NDC 50580-729-45 ZYRTEC ® ALLERGY Cetirizine HCl/ antihistamine 10 mg tablets Indoor & Outdoor Allergies 24 hour Relief of Sneezing Runny Nose Itchy, Watery Eyes Itchy Throat or Nose 45 Tablets 10 mg each Principal Display Panel

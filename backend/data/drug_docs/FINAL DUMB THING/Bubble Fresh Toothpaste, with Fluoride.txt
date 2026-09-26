@@ -1,0 +1,76 @@
+spl_product_data_elements:
+  Bubble Fresh Toothpaste, with Fluoride Bubble Fresh Toothpaste, with Fluoride HYDRATED SILICA POLYETHYLENE GLYCOL 1450 SODIUM FLUORIDE FLUORIDE ION SORBITOL SACCHARIN SODIUM SODIUM LAURYL SULFATE SODIUM BENZOATE WATER CARBOXYMETHYLCELLULOSE SODIUM
+active_ingredient:
+  Active Ingredient Sodium Fluoride 0.22%
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use(s) Helps protect against cavities
+warnings:
+  Warnings Do Not Swallow Keep our to reach of children under 6 years of age If you accidentally swallow more than used for brushing, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+keep_out_of_reach_of_children:
+  Keep our to reach of children under 6 years of age If you accidentally swallow more than used for brushing, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+dosage_and_administration:
+  Directions • Adults and children 2 years of age and older: Brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist or physician. • Children under 6 years: To minimize swallowing, use a pea size amount and supervise child's brushing and rinsing until good habits are established. • Children under 2 years: Use as directed by a dentist or physician
+inactive_ingredient:
+  Inactive Ingredients Carboxymethylcellulose Sodium, Flavor (Bubble Gum Flavor), Hydrated Silica Polyethylene Glycol 1450, Purified Water, Saccharin Sodium, Sodium Benzoate, Sodium Lauryl Sulfate, Sorbitol
+other_safety_information:
+  Other Information Store between 15º - 35ºC (59º - 95ºF)
+questions:
+  Questions? 1-888-396-2739 Monday - Friday 9AM - 5PM EST
+package_label_principal_display_panel:
+  Label 5917 Bubble Fresh Toothpaste with Fluoride 5917_BX_MASTER
+  Label 5918 Bubble Fresh Toothpaste with Fluoride 5918_IN_MASTER
+  Label 5919 Bubble Fresh Toothpaste with Fluoride 5919_IN-MASTER
+  Label 5920 Bubble Fresh Toothpaste with Fluoride 5920_BX_MASTER
+set_id:
+  2a2f5ed9-31ec-f6c8-e063-6394a90a44d6
+id:
+  2a2f5ed9-31ed-f6c8-e063-6394a90a44d6
+effective_time:
+  20241226
+version:
+  1
+openfda:
+  application_number:
+    M021
+  brand_name:
+    Bubble Fresh Toothpaste, with Fluoride
+  generic_name:
+    BUBBLE FRESH TOOTHPASTE, WITH FLUORIDE
+  manufacturer_name:
+    Dynarex Corporation
+  product_ndc:
+    67777-191
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    DENTAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    245598
+  spl_id:
+    2a2f5ed9-31ed-f6c8-e063-6394a90a44d6
+  spl_set_id:
+    2a2f5ed9-31ec-f6c8-e063-6394a90a44d6
+  package_ndc:
+    67777-191-01
+    67777-191-02
+    67777-191-03
+    67777-191-04
+    67777-191-05
+    67777-191-06
+    67777-191-07
+    67777-191-08
+    67777-191-09
+    67777-191-10
+  is_original_packager:
+    True
+  upc:
+    0840117341661
+    0840117341685
+    0840117341708
+    0840117341630
+  unii:
+    8ZYQ1474W7

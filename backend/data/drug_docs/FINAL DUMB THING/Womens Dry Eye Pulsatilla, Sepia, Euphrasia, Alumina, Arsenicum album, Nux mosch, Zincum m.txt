@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Womens Dry Eye Pulsatilla, Sepia, Euphrasia, Alumina, Arsenicum album, Nux mosch, Zincum m WATER POLYSORBATE 80 CITRIC ACID MONOHYDRATE SODIUM CHLORIDE PULSATILLA VULGARIS PULSATILLA VULGARIS SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE EUPHRASIA STRICTA EUPHRASIA STRICTA ALUMINUM OXIDE ALUMINUM OXIDE ARSENIC TRIOXIDE ARSENIC CATION (3+) NUTMEG NUTMEG ZINC ZINC
+purpose:
+  Homeopathic Purpose Pulsatilla 8x Indicated for dry eye associated with hormonal fluctuation, both on a monthly basis or with menopause. Sepia 8x Indicated for dryness which develops after menopause or hormonal imbalance. Euphrasia (Eyebright) 5x Eyebright is often referred to as a "tonic for the eyes" and is indicated for inflammation of the conjunctiva, cornea and lids, including meibomian glands. Symptoms include redness, dryness, lachrymation and burning of the lid margin. Alumina 10x Indicated for dryness of the eyes and other mucous membranes due to lack of aqueous secretion, "Sjogren's Syndrome". Arsenicum album 12x Indicated for severe dryness due to inflammation and ulceration. Nux mosch 6x Nux m. is the main remedy indicated for severe aqueous deficiency such as with Sjogren's Syndrome. Zincum met 10x Indicated for extreme dryness, inflammation and burning.
+purpose_table:
+  <table><tbody><tr><td>Pulsatilla</td><td>8x</td><td>Indicated for dry eye associated with hormonal fluctuation, both on a monthly basis or with menopause.</td></tr><tr><td>Sepia</td><td>8x</td><td>Indicated for dryness which develops after menopause or hormonal imbalance.</td></tr><tr><td>Euphrasia (Eyebright)</td><td>5x</td><td>Eyebright is often referred to as a &quot;tonic for the eyes&quot; and is indicated for inflammation of the conjunctiva, cornea and lids, including meibomian glands. Symptoms include redness, dryness, lachrymation and burning of the lid margin.</td></tr><tr><td>Alumina</td><td>10x</td><td>Indicated for dryness of the eyes and other mucous membranes due to lack of aqueous secretion, &quot;Sjogren&apos;s Syndrome&quot;.</td></tr><tr><td>Arsenicum album</td><td>12x</td><td>Indicated for severe dryness due to inflammation and ulceration.</td></tr><tr><td>Nux mosch</td><td>6x</td><td>Nux m. is the main remedy indicated for severe aqueous deficiency such as with Sjogren&apos;s Syndrome.</td></tr><tr><td>Zincum met</td><td>10x</td><td>Indicated for extreme dryness, inflammation and burning.</td></tr></tbody></table>
+active_ingredient:
+  Active Ingredients Pulsatilla 8x Sepia 8x Euphrasia (Eyebright) 5x Alumina 10x Arsenicum album 12x Nux mosch 6x Zincum m 10x
+active_ingredient_table:
+  <table><tbody><tr><td>Pulsatilla</td><td>8x</td></tr><tr><td>Sepia</td><td>8x</td></tr><tr><td>Euphrasia (Eyebright)</td><td>5x</td></tr><tr><td>Alumina</td><td>10x</td></tr><tr><td>Arsenicum album</td><td>12x</td></tr><tr><td>Nux mosch</td><td>6x</td></tr><tr><td>Zincum m</td><td>10x</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive Ingredients Sterile water (non-preserved) Polysorbate 80 Citrates Sodium chloride
+inactive_ingredient_table:
+  <table><tbody><tr><td>Sterile water (non-preserved)</td></tr><tr><td>Polysorbate 80</td></tr><tr><td>Citrates</td></tr><tr><td>Sodium chloride</td></tr></tbody></table>
+indications_and_usage:
+  Uses According to homeopathic principles these drops are indicated for Women with acute or chronic dry eyes, often associated with hormone imbalance, Sjogren's or excessive watering secondary to dry eye.
+dosage_and_administration:
+  Directions Instill one or two drops in the affected eye(s) as needed.
+warnings:
+  Warnings - For ophthalmic use only. - If you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours, discontinue use and consult a doctor. - For Professional Use Only
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+storage_and_handling:
+  Storage - Store at room temperature. - Discard 30 days after opening.
+questions:
+  Natural Ophthalmics, Inc Dillon, CO, 80435 1-877-220-9710 www.natoph.com
+package_label_principal_display_panel:
+  Label image Label image
+set_id:
+  2adc2c1e-0ef4-4d52-979f-b37096cef55a
+id:
+  46aa0b61-fedd-9b70-e063-6394a90a87eb
+effective_time:
+  20251223
+version:
+  3
+openfda:

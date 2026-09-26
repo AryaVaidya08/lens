@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Diabet Aid Capsicum Oleoresin CAPSICUM OLEORESIN CAPSICUM OLEORESIN CAPSAICIN ALLANTOIN ALOE VERA LEAF MEDIUM-CHAIN TRIGLYCERIDES CARBOXYPOLYMETHYLENE CETYL ALCOHOL DIMETHICONE METHYLPARABEN CITRIC ACID MONOHYDRATE GREEN TEA LEAF LACTIC ACID MALIC ACID PEG-20 GLYCERYL LAURATE PEG-30 GLYCERYL LAURATE PROPYLPARABEN WATER QUATERNIUM-15 SODIUM CITRATE STEARYL ALCOHOL TITANIUM DIOXIDE
+spl_unclassified_section:
+  DIABET AID- capsicum oleoresin lotion ---------- Diabet Aid® Drug Facts
+active_ingredient:
+  Active ingredient Capsicum oleoresin (containing capsaicin 0.025%)
+purpose:
+  Purpose Topical analgesic
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains of muscles and joints
+warnings:
+  Warnings For external use only Do not use on wounds or damaged skin with a heating pad immediately before or after taking a shower or bath When using this product avoid contact with eyes do not bandage tightly do not apply to wounds or damaged skin Stop use and ask a doctor if condition gets worse symptoms last for more than 7 days symptoms clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use on wounds or damaged skin with a heating pad immediately before or after taking a shower or bath
+when_using:
+  When using this product avoid contact with eyes do not bandage tightly do not apply to wounds or damaged skin
+stop_use:
+  Stop use and ask a doctor if condition gets worse symptoms last for more than 7 days symptoms clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions Adults and children 8 years of age and older apply to affected area not more than 3 to 4 times daily Children under 8 years of age consult a doctor
+dosage_and_administration_table:
+  <table><col width="146"/><col width="251"/><tbody><tr><td styleCode="Toprule Lrule Rrule ">Adults and children 8 years of age and older </td><td styleCode="Toprule Lrule Rrule ">apply to affected area not more than 3 to 4 times daily</td></tr><tr><td styleCode="Toprule Lrule Rrule ">Children under 8 years of age</td><td styleCode="Toprule Lrule Rrule ">consult a doctor</td></tr></tbody></table>
+other_safety_information:
+  Other i nformation as part of the warming action, temporary redness may occur store at room temperature 15° - 25°C (59° - 77°F) keep carton for full drug facts
+inactive_ingredient:
+  Inactive ingredients allantoin, aloe vera gel, caprylic/capric triglyceride, carbomer, cetyl alcohol, dimethicone, fragrance, methylparaben, mixed fruit acid complex (citric acid, green tea extract, lactic acid, malic acid), PEG-20 glyceryl laurate, PEG-30 glyceryl laurate, propylparaben, purified water, quaternium-15, sodium citrate, stearyl alcohol, titanium dioxide.
+questions:
+  Questions? call 1-800-344-7239
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Diabet Aid ® Capsaicin 0.025% Topical Analgesic Lotion Net Wt 4 oz (113.2 g) Diabet Aid® Capsaicin 0.025% Topical Analgesic Lotion Net Wt 4 oz (113.2 g)
+set_id:
+  bd6a8947-1268-4db4-a602-fa41e476b9c4
+id:
+  7760deda-c1c5-4774-8015-84610aecbbc2
+effective_time:
+  20230818
+version:
+  4
+openfda:

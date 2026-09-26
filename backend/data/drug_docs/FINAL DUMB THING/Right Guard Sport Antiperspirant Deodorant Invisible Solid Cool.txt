@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Right Guard Sport Antiperspirant Deodorant Invisible Solid Cool Right Guard Sport Antiperspirant Deodorant Invisible Solid Cool ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY STEARYL ALCOHOL -
+dosage_and_administration:
+  Dosage & Administration
+warnings:
+  Warnings
+inactive_ingredient:
+  Inactive Ingredient
+indications_and_usage:
+  Indications & Usage
+active_ingredient:
+  OTC-Active Ingredient
+ask_doctor:
+  OTC-Ask Doctor
+do_not_use:
+  OTC Do Not Use
+keep_out_of_reach_of_children:
+  OTC Keep out of the reach of children
+purpose:
+  OTC Purpose
+package_label_principal_display_panel:
+  Package Label Principal Display Panel
+set_id:
+  298a4fdb-010f-ed5d-e063-6394a90a18a6
+id:
+  49791a4f-b20c-fc91-e063-6394a90a2954
+effective_time:
+  20260128
+version:
+  2
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Right Guard Sport Antiperspirant Deodorant Invisible Solid Cool
+  generic_name:
+    RIGHT GUARD SPORT ANTIPERSPIRANT DEODORANT INVISIBLE SOLID COOL
+  manufacturer_name:
+    Thriving Brands LLC
+  product_ndc:
+    82699-305
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY
+  spl_id:
+    49791a4f-b20c-fc91-e063-6394a90a2954
+  spl_set_id:
+    298a4fdb-010f-ed5d-e063-6394a90a18a6
+  package_ndc:
+    82699-305-04
+  is_original_packager:
+    True
+  upc:
+    0850042203330
+  unii:
+    T27D6T99LH

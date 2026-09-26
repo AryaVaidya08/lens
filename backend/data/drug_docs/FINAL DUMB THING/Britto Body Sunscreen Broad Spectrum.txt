@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Britto Body Sunscreen Broad Spectrum SPF 50 Avobenzone, Homosalate, Octinoxate, Octisalate, Octocrylene, Oxybenzone GLYCERYL PALMITATE WATER OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE GLYCERYL MONOSTEARATE PROPYLENE GLYCOL GLYCERYL DIPALMITATE XANTHAN GUM POLYESTER-7 STEARIC ACID CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) ALPHA-TOCOPHEROL ACETATE METHYLPARABEN GLYCERYL DISTEARATE OXYBENZONE OXYBENZONE ETHYLHEXYL STEARATE POTASSIUM CETYL PHOSPHATE NEOPENTYL GLYCOL DIHEPTANOATE POTASSIUM STEARATE GLYCERIN BUTYLATED HYDROXYTOLUENE PROPYLPARABEN EDETATE SODIUM HOMOSALATE HOMOSALATE OCTINOXATE OCTINOXATE
+statement_of_identity:
+  Principal Display Panel - Statement of Identity PDP - Britto Body Sunscreen SPF50_100ml_REV01.jpg
+active_ingredient:
+  Drug Facts Panel - Active Ingredients Labelling - Britto Body Sunscreen SPF50_100ml_REV01_
+purpose:
+  Drug Facts Panel - Purpose Labelling - Britto Body Sunscreen SPF50_100ml_REV01
+indications_and_usage:
+  Drug Facts Panel - Uses Labelling - Britto Body Sunscreen SPF50_100ml_REV01_.jpg
+warnings:
+  Drug Facts Panel - Warnings Labelling - Britto Body Sunscreen SPF50_100ml Drug Facts Panel - Warnings - Do not use Warnings - Do Not Use Drug Facts Panel - Warnings - Stop use Warnings - Stop Use Drug Facts Panel - Warnings - Ask a doctor Warnings - Stop Use and Ask a Doctor Drug Facts Panel - Warnings - When using this product Warnings - When using Drug Facts Panel - Warnings - Keep out of reach of children Warnings - Keep out of reach of children
+do_not_use:
+  Drug Facts Panel - Warnings - Do not use Warnings - Do Not Use
+stop_use:
+  Drug Facts Panel - Warnings - Stop use Warnings - Stop Use
+ask_doctor:
+  Drug Facts Panel - Warnings - Ask a doctor Warnings - Stop Use and Ask a Doctor
+when_using:
+  Drug Facts Panel - Warnings - When using this product Warnings - When using
+keep_out_of_reach_of_children:
+  Drug Facts Panel - Warnings - Keep out of reach of children Warnings - Keep out of reach of children
+instructions_for_use:
+  Drug Facts Panel - Directions Directions
+storage_and_handling:
+  Durg Facts Panel - Other Information Other Information
+inactive_ingredient:
+  Drug Facts Panel - Inactive Ingredients Inactive Ingredients
+questions:
+  Questions and reporting of adverse events Questions or comments
+package_label_principal_display_panel:
+  Principal Display Panel PDP - Britto Body Sunscreen SPF50_100ml_REV01
+set_id:
+  a92d6720-aabf-a168-e053-2a95a90a4172
+id:
+  b77c5598-1da6-198b-e053-2a95a90a3385
+effective_time:
+  20201227
+version:
+  2
+openfda:

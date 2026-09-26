@@ -1,0 +1,35 @@
+effective_time:
+  20210118
+inactive_ingredient:
+  Inactive ingredients Water, Butylene Glycol. Carbomer, Triethanolamine
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  MEA PROTECT HAND SANITIZER Alcohol CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALCOHOL ALCOHOL WATER BUTYLENE GLYCOL TROLAMINE
+ask_doctor:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Use Hand Sanitizer to help reduce bacteria that can potentially cause disease. For use when soap and water are not available.
+storage_and_handling:
+  Other information Store between 59-86F (15-30C) Avoid freezing and excessive heat above 104F (40C)
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds
+package_label_principal_display_panel:
+  Package Label 500ml NDC: 73984-322-01 Label
+indications_and_usage:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+set_id:
+  a37fd368-2ee4-eba4-e053-2a95a90a3fa2
+id:
+  b9387daf-0d38-63b4-e053-2995a90a2771
+active_ingredient:
+  Active ingredient Alcohol 62%

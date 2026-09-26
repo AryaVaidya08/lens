@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Superguard Advanced Hand Sanitizer ALCOHOL ISOBUTANE PROPANE BUTANE .ALPHA.-TOCOPHEROL ACETATE PANTHENOL BENZALKONIUM CHLORIDE GLYCERIN WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Do not expose to heat or store at temperatures above 120° F. Use with adequate ventilation.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 90% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+inactive_ingredient:
+  Inactive Ingredients: Tocopherol Acetate (Vitamin E), Panthenol (Vitamin B5), Benzalkonium Chloride, Glycerol, Propellants, Water.
+indications_and_usage:
+  Advanced Hand Sanitizer Spray for general public use. Helps cleanse your hands without the use of water & soap or the requirement of drying. Alcohol based, not rinsed. To help reduce bacteria on the skin that may cause disease.
+warnings:
+  Warnings: For external use only. Avoid contact with face, eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical attention. Keep out of reach of children. Store at room temperature or in a cool place. When using this product: It is used for local disinfection of hands and skin. It is effective against microbes and bacteria. It provides easiness and hygiene in at home, at work, in crowded environments. Take a sufficient amount in your palm and spread over the entirety of your hand and fingers. Wait for about 30 seconds for your hands to dry. Stop use and ask a doctor if Irritation and redness develops. DANGER: Flammable. Contents Under Pressure. Do not use near heat, sparks, or flames, Vapors may ignite explosively & cause flash fire. Prevent build-up of vapors. Do not smoke . Turn off pilot lights, stoves, heaters, and other sources of ignition during use and until all vapors are gone. Do not puncture or incinerate container. Keep out of reach of children and pets. Children under 6 years of age should be supervised by an adult when using. If swallowed, get medical help or contact your Poison Control Center right away.
+when_using:
+  When using this product: It is used for local disinfection of hands and skin. It is effective against microbes and bacteria. It provides easiness and hygiene in at home, at work, in crowded environments. Take a sufficient amount in your palm and spread over the entirety of your hand and fingers. Wait for about 30 seconds for your hands to dry.
+stop_use:
+  Stop use and ask a doctor if Irritation and redness develops. DANGER: Flammable. Contents Under Pressure.
+do_not_use:
+  Do not use near heat, sparks, or flames, Vapors may ignite explosively & cause flash fire. Prevent build-up of vapors. Do not smoke . Turn off pilot lights, stoves, heaters, and other sources of ignition during use and until all vapors are gone. Do not puncture or incinerate container.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. Children under 6 years of age should be supervised by an adult when using. If swallowed, get medical help or contact your Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray hands thoroughly with product and rub into hands until dry.
+package_label_principal_display_panel:
+  Package Labeling Lable
+set_id:
+  74127943-7b15-4003-95b0-551b4277c7e6
+id:
+  e3b3e8b3-5a45-e2e6-e053-2995a90a57ca
+effective_time:
+  20220713
+version:
+  3
+openfda:

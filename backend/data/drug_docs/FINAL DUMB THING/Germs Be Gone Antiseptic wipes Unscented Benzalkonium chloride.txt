@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Germs Be Gone Antiseptic wipes Unscented Benzalkonium chloride EDETATE SODIUM BENZOIC ACID PROPYLENE GLYCOL DEHYDROACETIC ACID POLYSORBATE 20 GLYCERIN PHENOXYETHANOL WATER LAURYL GLUCOSIDE POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE GLYCERYL OLEATE DICAPRYLYL CARBONATE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Kills (harmful) bacteria/germs to provide antiseptic cleansing
+indications_and_usage:
+  Use Kills (harmful) bacteria/germs.
+warnings:
+  Warnings For extenal use only.
+when_using:
+  Avoid contact with eyes. if contact occurs, rinse thoroughly with water.
+stop_use:
+  If irritation develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults, adolescents and children over 2 years: For occasional and personal domestic use. Supervise children when they use this product. Rub thoroughly into hands for at least 30 seconds. Allow to dry.
+storage_and_handling:
+  Other information store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Dicaprylyl Carbonate, Glyceryl Oleate, Lauryl glucoside, Olus oil, Polyglyceryl-2Dipolyhydroxystearate Phenoxyethanol, Polysorbate 20, Benzoic acid, Tetrasodium EDTA, Dehydroacetic acid, Propylene glycol
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1 2
+set_id:
+  c9890948-8911-9a9b-e053-2995a90a11b2
+id:
+  c98909b5-a144-9c1a-e053-2995a90a5e7d
+effective_time:
+  20210814
+version:
+  1
+openfda:

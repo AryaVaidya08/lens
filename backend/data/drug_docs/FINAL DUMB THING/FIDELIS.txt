@@ -1,0 +1,25 @@
+effective_time:
+  20190214
+inactive_ingredient:
+  Inactive Ingredients: Citric Acid, FD&C Blue #1, Flavor, Magnesium Aluminum Silicate, Phosphoric Acid, Polysorbate 20, Sodium Benzoate, Sodium Saccharin, Titanium Dioxide, Water, Xanthan Gum, Xylitol.
+warnings:
+  Warnings: Keep out of reach of children. Do not swallow. If product is accidentally swallowed in quantities greater than would normally occur with a treatment gel, seek medical help or contact a Poison Control Center right away. Read directions carefully before using.
+spl_product_data_elements:
+  FIDELIS APF Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 Magnesium Aluminum Silicate Phosphoric Acid Polysorbate 20 Sodium Benzoate SACCHARIN SODIUM TITANIUM DIOXIDE WATER XANTHAN GUM XYLITOL
+other_safety_information:
+  Other Information: Store at controlled room temperature 59° to 86°F (15°-30°C). Protect from freezing.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Dosage and Administration: Shake well before use. This is a one minute or four minute fluoride gel for in-office patient use. It is normally used as a preventative caries treatment two times a year. 1. After thorough prophylaxsis, fill two single or one dual tray, one third full with gel. Air dry teeth and insert trays into the mouth. 2. Instruct patient to bite down lightly but firmly for one minute (80% effectiveness) or four minutes (100% effectiveness). 3. Remove trays. Instruct patient to expectorate any excess gel and not to eat or drink for at least 30 minutes.
+spl_unclassified_section:
+  Active Ingredient: Purpose: Fluoride Ion 1.23%..............................................Flouride Treatment Gel Available from 2.09% Sodium Fluoride and Hydrofluoric Acid
+package_label_principal_display_panel:
+  FIDELISAPFGELCTNCNDY
+indications_and_usage:
+  Indications and Usage: A stable thixotropic fluoride treatment gel used to help prevent dental decay. For Professional Use Only. This product is not intended for home or unsupervised consumer use.
+set_id:
+  afa361ed-9331-41e8-a445-78d7e9c496f8
+id:
+  97561cf2-b838-4687-80a7-6d86921b0e80

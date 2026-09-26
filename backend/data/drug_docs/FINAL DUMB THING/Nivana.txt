@@ -1,0 +1,27 @@
+effective_time:
+  20200611
+inactive_ingredient:
+  Purified water USP, Glycerin, Propylene Glycol, Carbomer, Triethanolamine, Fragrance ,Aloe Barbadensis (Aloe Vera) Gel ，Tocopheryl Acetate (Vitamin E)
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only. Flammable.Keep away from heat or flame
+spl_product_data_elements:
+  Nivana HAND SANITIZER Alcohol GLYCERIN ALCOHOL ALCOHOL FRAGRANCE LAVENDER & CHIA F-153480 ALOE VERA LEAF PROPYLENE GLYCOL WATER TROLAMINE .ALPHA.-TOCOPHEROL ACETATE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+openfda:
+version:
+  1
+dosage_and_administration:
+  ●Store between 15-30°C(59-86°F) ●Avoid freezing and excessive heat above 40°C (104°F)
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  ●Place enough product on hands to cover all surfaces. Rub hands together until dry. ●Supervise children under 6 years of age when using this product to avoid swal lowing.
+set_id:
+  a7cba4b8-fa86-1c44-e053-2995a90a86eb
+id:
+  a7cba4b8-fa87-1c44-e053-2995a90a86eb
+active_ingredient:
+  Alcohol

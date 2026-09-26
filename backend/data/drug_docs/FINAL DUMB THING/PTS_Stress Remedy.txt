@@ -1,0 +1,107 @@
+spl_product_data_elements:
+  PTS/Stress Remedy Kali Phosphoricum, Ambra Grisea, Cacao, Phosphoricum Acidum, Arnica Montana, Calcarea Carbonica, Cerebrum Suis, Glandula Suprarenalis Suis, Lithium Carbonicum, Aconitum Napellus, Argemone Mexicana, Arsenicum Album, Cicuta Virosa, Hyoscyamus Niger, Ignatia Tigrinum, Natrum Muriaticum, Tarentula Hispanica, Stramonium, Buthus Australis DIBASIC POTASSIUM PHOSPHATE PHOSPHATE ION AMBERGRIS AMBERGRIS COCOA COCOA PHOSPHORIC ACID PHOSPHORIC ACID ARNICA MONTANA ARNICA MONTANA OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE SUS SCROFA CEREBRUM SUS SCROFA CEREBRUM SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND LITHIUM CARBONATE LITHIUM CATION ACONITUM NAPELLUS ACONITUM NAPELLUS ARGEMONE MEXICANA ARGEMONE MEXICANA ARSENIC TRIOXIDE ARSENIC CATION (3+) CICUTA VIROSA ROOT CICUTA VIROSA ROOT HYOSCYAMUS NIGER HYOSCYAMUS NIGER STRYCHNOS IGNATII SEED STRYCHNOS IGNATII SEED LILIUM LANCIFOLIUM WHOLE FLOWERING LILIUM LANCIFOLIUM WHOLE FLOWERING SODIUM CHLORIDE CHLORIDE ION LYCOSA TARANTULA LYCOSA TARANTULA DATURA STRAMONIUM DATURA STRAMONIUM ANDROCTONUS AUSTRALIS VENOM ANDROCTONUS AUSTRALIS VENOM WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Kali Phosphoricum 3X, Ambra Grisea 6X, Cacao 6X, Phosphoricum Acidum 6X, Arnica Montana 6X, 12X, 30X, Calcarea Carbonica 8X, Cerebrum Suis 8X, Glandula Suprarenalis Suis 8X, Lithium Carbonicum 8X, Aconitum Napellus 8X, 30X, Argemone Mexicana 12X, Arsenicum Album 12X, Cicuta Virosa 12X, Hyoscyamus Niger 12X, Ignatia Tigrinum 12X, Natrum Muriaticum 12X, Tarentula Hispanica 12X, Stramonium 12X, 30X, 60X, Buthus Australis 6C.
+purpose:
+  HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of stress such as terror, horror, post traumatic stress, fight or flight response, recurring nightmares, difficulty sleeping, difficulty concentrating, restlessness, and easy irritability.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 2 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of stress such as terror, horror, post traumatic stress, fight or flight response, recurring nightmares, difficulty sleeping, difficulty concentrating, restlessness, and easy irritability.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol.
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DES BIO NDC 43742-1322-1 HOMEOPATHIC PTS/STRESS REMEDY 1 FL OZ (30 ml) PTS/Stress Remedy
+set_id:
+  05341147-789a-4844-9412-6a3044e5eb18
+id:
+  57eaf84a-12fd-4a9d-b4ff-68e78f5ca2b9
+effective_time:
+  20240304
+version:
+  2
+openfda:
+  brand_name:
+    PTS/Stress Remedy
+  generic_name:
+    KALI PHOSPHORICUM, AMBRA GRISEA, CACAO, PHOSPHORICUM ACIDUM, ARNICA MONTANA, CALCAREA CARBONICA, CEREBRUM SUIS, GLANDULA SUPRARENALIS SUIS, LITHIUM CARBONICUM, ACONITUM NAPELLUS, ARGEMONE MEXICANA, ARSENICUM ALBUM, CICUTA VIROSA, HYOSCYAMUS NIGER, IGNATIA TIGRINUM, NATRUM MURIATICUM, TARENTULA HISPANICA, STRAMONIUM, BUTHUS AUSTRALIS
+  manufacturer_name:
+    Deseret Biologicals, Inc.
+  product_ndc:
+    43742-1322
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIBASIC POTASSIUM PHOSPHATE
+    AMBERGRIS
+    COCOA
+    PHOSPHORIC ACID
+    ARNICA MONTANA
+    OYSTER SHELL CALCIUM CARBONATE, CRUDE
+    SUS SCROFA CEREBRUM
+    SUS SCROFA ADRENAL GLAND
+    LITHIUM CARBONATE
+    ACONITUM NAPELLUS
+    ARGEMONE MEXICANA
+    ARSENIC TRIOXIDE
+    CICUTA VIROSA ROOT
+    HYOSCYAMUS NIGER
+    STRYCHNOS IGNATII SEED
+    LILIUM LANCIFOLIUM WHOLE FLOWERING
+    SODIUM CHLORIDE
+    LYCOSA TARANTULA
+    DATURA STRAMONIUM
+    ANDROCTONUS AUSTRALIS VENOM
+  spl_id:
+    57eaf84a-12fd-4a9d-b4ff-68e78f5ca2b9
+  spl_set_id:
+    05341147-789a-4844-9412-6a3044e5eb18
+  package_ndc:
+    43742-1322-1
+  is_original_packager:
+    True
+  nui:
+    N0000185371
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    CI71S98N1Z
+    XTC0D02P6C
+    D9108TZ9KG
+    E4GA8884NN
+    O80TY208ZW
+    2E32821G6I
+    4GB5DQR532
+    398IYQ16YV
+    2BMD2GNA4V
+    U0NQ8555JD
+    6X68976407
+    S7V92P67HO
+    YEA9P21S8N
+    4WRK2153H3
+    1NM3M2487K
+    X67Z2963PI
+    451W47IQ8X
+    86M454L2TT
+    G6W4F0V8Z3
+    25IMQ489AW

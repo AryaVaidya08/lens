@@ -1,0 +1,42 @@
+pediatric_use:
+  Pediatric Use: Safety and effectiveness in neonates have not been established.
+effective_time:
+  20100924
+contraindications:
+  CONTRAINDICATIONS: GARAMYCIN Ophthalmic Ointment is contraindicated in patients with known hypersensitivity to any of the components.
+precautions:
+  PRECAUTIONS General: Prolonged use of topical antibiotics may give rise to overgrowth of non-susceptible organisms including fungi. Bacterial resistance to gentamicin may also develop. If purulent discharge, inflammation or pain becomes aggravated, the patient should discontinue use of the medication and consult a physician. If irritation or hypersensitivity to any component of the drug develops, the patient should discontinue use of this preparation, and appropriate therapy should be instituted. Ophthalmic ointments may retard corneal healing. Information For Patients: To avoid contamination, do not touch tip of container to the eye, eyelid, or any surface. Carcinogenesis, Mutagenesis and Impairment of Fertility: There are no published carcinogenicity or impairment of fertility studies on gentamicin. Aminoglycoside antibiotics have been found to be non-mutagenic. Pregnancy: Teratogenic effects - Pregnancy Category C . Gentamicin has been shown to depress body weights, kidney weights, and median glomerular counts in newborn rats when administered systemically to pregnant rats in daily doses approximately 500 times the maximum recommended ophthalmic human dose. There are no adequate and well-controlled studies in pregnant women. Gentamicin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. Pediatric Use: Safety and effectiveness in neonates have not been established.
+warnings:
+  WARNINGS: NOT FOR INJECTION INTO THE EYE. Gentamicin Sulfate Ophthalmic Ointment is not for injection. It should never be injected subconjunctivally, nor should it be directly introduced into the anterior chamber of the eye.
+pregnancy:
+  Pregnancy: Teratogenic effects - Pregnancy Category C . Gentamicin has been shown to depress body weights, kidney weights, and median glomerular counts in newborn rats when administered systemically to pregnant rats in daily doses approximately 500 times the maximum recommended ophthalmic human dose. There are no adequate and well-controlled studies in pregnant women. Gentamicin should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+spl_product_data_elements:
+  GARAMYCIN GENTAMICIN SULFATE GENTAMICIN SULFATE GENTAMICIN MINERAL OIL PETROLATUM
+description:
+  DESCRIPTION: Gentamicin sulfate is a water soluble antibiotic of the aminoglycoside group. Gentamicin Sulfate Ophthalmic Ointment USP is a sterile ointment for topical ophthalmic use. Each gram contains gentamicin sulfate (equivalent to 3 mg gentamicin) in a base of white petrolatum and mineral oil. Gentamicin is obtained from cultures of Micromonospora purpurea . Gentamicin sulfate is a mixture of the sulfate salts of gentamicin C 1 , C 2 and C 1A . All three components appear to have similar antimicrobial activities. Gentamicin sulfate occurs as a white powder and is soluble in water and insoluble in alcohol. The structural formula is as follows: Fera Garamycin Structural Formula
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Apply a small amount (about 1/2 inch) to the affected eye(s) two to three times a day.
+adverse_reactions:
+  ADVERSE REACTIONS: Bacterial and fungal corneal ulcers have developed during treatment with gentamicin ophthalmic preparations. The most frequently reported adverse reactions are ocular burning and irritation upon drug instillation, non-specific conjunctivitis, conjunctival epithelial defects, and conjunctival hyperemia. Other adverse reactions which have occurred rarely are allergic reactions, thrombocytopenic purpura, and hallucinations. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday - Friday 9am-5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch .
+general_precautions:
+  General: Prolonged use of topical antibiotics may give rise to overgrowth of non-susceptible organisms including fungi. Bacterial resistance to gentamicin may also develop. If purulent discharge, inflammation or pain becomes aggravated, the patient should discontinue use of the medication and consult a physician. If irritation or hypersensitivity to any component of the drug develops, the patient should discontinue use of this preparation, and appropriate therapy should be instituted. Ophthalmic ointments may retard corneal healing.
+how_supplied:
+  HOW SUPPLIED: GARAMYCIN Ophthalmic Ointment (equivalent to 3 mg gentamicin) is supplied as follows: NDC 48102-009-35 3.5 gram tubes Store at 25 o C (77 o F); excursions permitted to 15-30 o C (59-86 o F) [see USP Controlled Room Temperature]. GARAMYCIN is a Trademark of Fera Pharmaceuticals, LLC. Mfd. for: Fera Pharmaceuticals, LLC Locust Valley, NY 11560 Fera Pharmaceuticals Logo
+information_for_patients:
+  Information For Patients: To avoid contamination, do not touch tip of container to the eye, eyelid, or any surface.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - CARTON NDC 48102-009-35 STERILE Rx only Garamycin TM brand of GENTAMICIN SULFATE OPHTHALMIC OINTMENT, USP Gentamicin Sulfate, USP equivalent to 3 mg gentamicin per gram. Net Wt. 3.5g (1/8 Oz) Fera Garamycin Carton Label Fera Pharmaceuticals Logo
+  PRINCIPAL DISPLAY PANEL - TUBE NDC 48102-009-35 STERILE Rx only Garamycin TM brand of GENTAMICIN SULFATE OPHTHALMIC OINTMENT, USP Gentamicin Sulfate, USP equivalent to 3 mg gentamicin per gram. Each gram contains: Gentamicin sulfate, USP equivalent to 3 mg gentamicin base, in a base of white petrolatum and mineral oil. Net Wt. 3.5 g (1/8 Oz) Fera Pharmaceuticals Logo Fera Garamycin Tube Label
+indications_and_usage:
+  INDICATIONS AND USAGE: GARAMYCIN Ophthalmic Ointment is indicated in the topical treatment of ocular bacterial infections, including conjunctivitis, keratitis, keratoconjunctivitis, corneal ulcers, blepharitis, blepharoconjunctivitis, acute meibomianitis, and dacryocystitis caused by susceptible strains of the following microorganisms: Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus pneumoniae, Enterobacter aerogenes, Escherichia coli, Haemophilus influenzae, Klebsiella pneumoniae, Neisseria gonorrhoeae, Pseudomonas aeruginosa, and Serratia marcescens.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Microbiology: Gentamicin sulfate is active in vitro against many strains of the following microorganisms: Staphylococcus aureus, Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus pneumoniae, Enterobacter aerogenes, Escherichia coli, Haemophilus influenzae, Klebsiella pneumoniae, Neisseria gonorrhoeae, Pseudomonas aeruginosa, and Serratia marcescens.
+set_id:
+  eed34897-8455-4556-bfe6-eedb08ff54cd
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis and Impairment of Fertility: There are no published carcinogenicity or impairment of fertility studies on gentamicin. Aminoglycoside antibiotics have been found to be non-mutagenic.
+id:
+  698ccb57-5b82-4fd4-b695-98a59b5457d5

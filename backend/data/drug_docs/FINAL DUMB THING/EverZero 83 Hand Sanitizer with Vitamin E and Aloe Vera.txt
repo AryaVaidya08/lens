@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  EverZero 83 Hand Sanitizer with Vitamin E and Aloe Vera ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL AMINOMETHYLPROPANOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information Do not store above 105°F( 41°C ). May discolor some fabrics or surfaces.
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 83% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: As a hand sanitizer to help reduce bacteria on the skin that potentially could cause disease. For use when soap and water are not available. Recommended for repeated use.
+warnings:
+  WARNINGS: Flammable. Keep away from fire or flame. For external use only. When Using This Product: In case of contact with eyes, rinse eyes throughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if irritation or redness develops. Condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When Using This Product: In case of contact with eyes, rinse eyes throughly with water. Avoid contact with broken skin. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops. Condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping. For children under 6, use only under adult supervision. Not recommended for infants.
+inactive_ingredient:
+  Inactive Ingredients Water, Amine, Carbomer, Glycerin, Aloe Barbadensis Leaf Juice (Aloe Vera), Tocopheryl Acetate (Vitamine E).
+package_label_principal_display_panel:
+  Package Labeling:(3785 ml) Bottle
+  Package Labeling:(946 ml) Bottle2
+  Package Labeling:(946 ml) Bottle3
+  Package Labeling:(473 ml) Bottle4
+  Package Labeling:(473 ml) Bottle5
+  Package Labeling:(236 ml) Bottle6
+  Package Labeling:(59 ml) Bottle7
+  Package Labeling:(1.33 ml) Bottle8
+set_id:
+  b2e51f8c-ce4d-3de8-e053-2995a90ab88d
+id:
+  d22fcf9c-b57e-9d65-e053-2a95a90aed15
+effective_time:
+  20211202
+version:
+  2
+openfda:

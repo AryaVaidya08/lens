@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Calcarea Carbonic 200ck OYSTER SHELL CALCIUM CARBONATE, CRUDE SUCROSE OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE
+active_ingredient:
+  ACTIVE INGREDIENT HOMEOPATHIC DILUTION OF HPUS CALCAREA CARBONICA 200ck ** C, K, CK, AND X ARE HOMEOPATHIC DILUTIONS
+purpose:
+  TRADITIONALLY USED FOR: Late dentition & walking - Cradle cap*
+dosage_and_administration:
+  Directions: (adults/children) Dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a physician.
+indications_and_usage:
+  USE Condition listed above or as directed by a physician.
+warnings:
+  WARNINGS Stop use and ask a physician if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+other_safety_information:
+  OTHER INFORMATION Store at room temperature.
+do_not_use:
+  Do not use if pellet-dispenser seal is broken.
+inactive_ingredient:
+  INACTIVE INGREDIENT SUCROSE
+questions:
+  QUESTIONS? INFO@OLLOIS.COM * www.ollois.com * MADE IN FRANCE. NOT REVIEWED BY THE FDA AND NOT GUARANTEED TO BE EFFECTIVE. THIS HOMEOPATHIC DILUTION MAY NOT BE SUSEPTIBLE TO SCIENTIFIC MEASUREMENT.
+recent_major_changes:
+  USE: Condition listed above or as directed by a physician.
+package_label_principal_display_panel:
+  calcarea carbonica 200k p1 calcarea carbonica 200k p2 calcarea carbonica 200k p3
+set_id:
+  c8d4f3b3-166d-2411-e053-2a95a90abb4a
+id:
+  35b7c0bd-0148-0928-e063-6294a90aad27
+effective_time:
+  20250522
+version:
+  5
+openfda:
+  brand_name:
+    Calcarea Carbonic 200ck
+  generic_name:
+    OYSTER SHELL CALCIUM CARBONATE, CRUDE
+  manufacturer_name:
+    SEVENE USA
+  product_ndc:
+    76472-3008
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    SUBLINGUAL
+  substance_name:
+    OYSTER SHELL CALCIUM CARBONATE, CRUDE
+  spl_id:
+    35b7c0bd-0148-0928-e063-6294a90aad27
+  spl_set_id:
+    c8d4f3b3-166d-2411-e053-2a95a90abb4a
+  package_ndc:
+    76472-3008-1
+  is_original_packager:
+    True
+  upc:
+    0850022941276
+  unii:
+    2E32821G6I

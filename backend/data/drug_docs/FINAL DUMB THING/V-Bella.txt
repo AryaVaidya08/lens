@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  V-Bella BORIC ACID MALTODEXTRIN .ALPHA.-TOCOPHEROL ACETATE, DL- ASCORBIC ACID LACTICASEIBACILLUS CASEI LACTOBACILLUS GASSERI PULLULAN BORIC ACID BORIC ACID
+active_ingredient:
+  Active Ingredient Boricum Acidum 3X* HPUS** *X is a homeopathic dilution. **The letters HPUS indicates that this ingredient is officially monographed in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  Purpose Restores vaginal pH and relieves vaginal itching, burning and irritation.
+indications_and_usage:
+  Uses treats and relieves symptoms of vaginal and urinary infections. rebalances vaginal pH and restores normal vaginal health. helps relieve symptoms of external and internal vaginal burning, itching, irritation and dryness. helps reduce vaginal odor due to vaginal infections.
+warnings:
+  Warnings For vaginal use only
+do_not_use:
+  Do not use Do not use if you have never had a vaginal yeast infection diagnosed by a doctor.
+when_using:
+  Ask a doctor before use if you have vaginal itching and discomfort for the first time lower abdominal, back or shoulder pain, fever, chills, nausea, vomiting, or foul-smelling vaginal discharge. You may have a more serious condition. vaginal yeast infection often (such as once a month or 3 in 6 months). You could be pregnant or a serious underlying medical cause for your symptoms, including diabetes or a weakened immune system. been exposed to human immunodeficiency virus (HIV) that causes AIDS. Ask a doctor or pharmacist before use if you are taking prescription blood thinning medicine warfarin, because bleeding or bruising may occur. When using this product do not use tampons, douches, spermicides or other vaginal products. Condoms and diaphragms may be damaged and fail to prevent pregnancy or sexual transmitted disease (STDs). do not have vaginal intercourse mild increase in vaginal burning, itching or irritation may occur if you do not get complete relief ask a doctor before using another product
+stop_use:
+  Stop use and ask a doctor if symptoms do not get better in 3 days symptoms last more than 7 days you get a rash or hives, abdominal pain, fever, chills, nausea, vomiting, or foul-smelling vaginal discharge. If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1- 800-222-1222) right away.
+how_supplied:
+  How supplied, storage and handling V-Bella ™ is supplied in a clear natural plantcap capsule in three (3) individual foil packets of one (1) capsule each, NDC # 52747-0155-03 with three (3) disposable vaginal applicators in each carton. Avoid sunlight and store unopened pouches at 15˚ to 30˚ C (59˚ to 86˚ F) Other information V-Bella ™ is not a contraceptive and should not be used to prevent pregnancy or to prevent or treat sexually transmitted diseases (STDs). do not use if suppository pouch seal is compromised do not use if seal over applicator has been punctured do not purchase if carton is open
+dosage_and_administration:
+  Directions before using this product, read all consumer information provided on carton and insert, Adults and children 12 years of age and over: place vaginal capsule suppository in applicator and gently insert into the vagina. for acute infection, use one (1) capsule suppository a day for three (3) days for chronic infection, use an additional package of three (3) vaginal capsule suppositories throw applicator away after each use Children under 12 years of age: ask a doctor
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Maltodextrin, Antioxidants-Vitamin E (DL-Alpha-Tocopheryl Acetate) & Vitamin C (Ascorbic Acid), Lactobacillus casei (KE-99), Lactobacillus gasseri and Capsule Ingredient (Pullulan). Adverse reactions and side effects The adverse effects are considered mild and may include watery discharge, erythema, or slight burning sensation. You should contact your healthcare provider for medical advice about adverse events or report a serious adverse event, by contacting BeBe & Bella, LLC. at the address listed below. Distributed by : BeBe & Bella, LLC 2443 Park Central Blvd. Decatur, GA 30035, USA
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+set_id:
+  3c3a423c-805d-4146-b16e-0138617a8dc6
+id:
+  f55f0e5d-a5a6-4bd4-ba3a-839dcf34eeac
+effective_time:
+  20221117
+version:
+  4
+openfda:
+  brand_name:
+    V-Bella
+  generic_name:
+    BORIC ACID
+  manufacturer_name:
+    U.S. PHARMACEUTICAL CORPORATION
+  product_ndc:
+    52747-155
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    VAGINAL
+  substance_name:
+    BORIC ACID
+  spl_id:
+    f55f0e5d-a5a6-4bd4-ba3a-839dcf34eeac
+  spl_set_id:
+    3c3a423c-805d-4146-b16e-0138617a8dc6
+  package_ndc:
+    52747-155-03
+  is_original_packager:
+    True
+  unii:
+    R57ZHV85D4

@@ -1,0 +1,94 @@
+spl_product_data_elements:
+  coro-CALM aconitum napellus, Selenicereus grandiflorus Whole, arabica coffee bean, lobelia inflata, ferula sumbul root, Convallaria majalis Flowering Top, prunus laurocerasus leaf, and Leonurus cardiaca Flowering Top ACONITUM NAPELLUS WHOLE ACONITUM NAPELLUS WHOLE SELENICEREUS GRANDIFLORUS WHOLE SELENICEREUS GRANDIFLORUS WHOLE ARABICA COFFEE BEAN ARABICA COFFEE BEAN LOBELIA INFLATA WHOLE LOBELIA INFLATA WHOLE FERULA SUMBUL ROOT FERULA SUMBUL ROOT CONVALLARIA MAJALIS FLOWERING TOP CONVALLARIA MAJALIS FLOWERING TOP PRUNUS LAUROCERASUS LEAF PRUNUS LAUROCERASUS LEAF LEONURUS CARDIACA FLOWERING TOP LEONURUS CARDIACA FLOWERING TOP WATER ALCOHOL
+active_ingredient:
+  Ingredients: Aconitum napellus 6X Selenicereus grandiflorus (Cactus) 2X Coffea arabica 10X Convallaria majalis 12X Prunus laurocerasus 3X Leonurus cardiaca 6X Lobelia inflata 4X Ferula moschata (Sumbulus moschatus) 4X Selected ingredients prepared by spagyric processes.
+active_ingredient_table:
+  <table width="75%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th colspan="2">Ingredients:</th></tr></thead><tbody><tr><td>Aconitum napellus</td><td>6X</td></tr><tr><td>Selenicereus grandiflorus (Cactus)</td><td>2X</td></tr><tr><td>Coffea arabica</td><td>10X</td></tr><tr><td>Convallaria majalis</td><td>12X</td></tr><tr><td>Prunus laurocerasus</td><td>3X</td></tr><tr><td>Leonurus cardiaca</td><td>6X</td></tr><tr><td>Lobelia inflata</td><td>4X</td></tr><tr><td>Ferula moschata (Sumbulus moschatus)</td><td>4X</td></tr></tbody></table>
+inactive_ingredient:
+  Contains 38% alcohol by volume.
+indications_and_usage:
+  Indications For relief of occasional stress due to overexertion. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated.
+purpose:
+  For relief of occasional stress due to overexertion. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated.
+dosage_and_administration:
+  Dosage Unless otherwise prescribed, adults take 15-20 drops, 3 times per day. For pediatric dosages, consult your practitioner.
+warnings:
+  Warning If symptoms persist, contact a licensed practitioner. If you have known sensitivity to any of the ingredients, please consult your licensed practitioner before use. If you are pregnant or nursing a baby, seek the advice of a health care professional before use. Keep out of the reach of children. Protect from light and heat.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+storage_and_handling:
+  Protect from light and heat.
+spl_unclassified_section:
+  Tamper Evident Do not use this product if tamper evident strip is broken or removed from base of cap. Oral Drops Homeopathic Medicine For relief of occasional stress due to overexertion
+  Distributed by: BioResource Inc. Cotati, CA 94931 Manufactured by: PEKANA ® GmbH D-88353 Kisslegg
+questions:
+  To report adverse events, contact BioResource at 321B Blodgett Street, Cotati, CA 94931
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Box coro-CALM ™ Oral Drops Homeopathic Medicine For relief of occasional stress due to overexertion 1.7 FL OZ (50 ml) PEKANA ® PRINCIPAL DISPLAY PANEL - 50 ml Bottle Box
+set_id:
+  b41e84c1-a522-43e5-96f9-0f6bf90fc42d
+id:
+  85be782e-ba79-437a-b7da-b7c41f7c0145
+effective_time:
+  20230111
+version:
+  2
+openfda:
+  brand_name:
+    coro-CALM
+  generic_name:
+    ACONITUM NAPELLUS, SELENICEREUS GRANDIFLORUS WHOLE, ARABICA COFFEE BEAN, LOBELIA INFLATA, FERULA SUMBUL ROOT, CONVALLARIA MAJALIS FLOWERING TOP, PRUNUS LAUROCERASUS LEAF, AND LEONURUS CARDIACA FLOWERING TOP
+  manufacturer_name:
+    PEKANA Naturheilmittel GmbH
+  product_ndc:
+    59469-325
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACONITUM NAPELLUS WHOLE
+    SELENICEREUS GRANDIFLORUS WHOLE
+    ARABICA COFFEE BEAN
+    LOBELIA INFLATA WHOLE
+    FERULA SUMBUL ROOT
+    CONVALLARIA MAJALIS FLOWERING TOP
+    PRUNUS LAUROCERASUS LEAF
+    LEONURUS CARDIACA FLOWERING TOP
+  spl_id:
+    85be782e-ba79-437a-b7da-b7c41f7c0145
+  spl_set_id:
+    b41e84c1-a522-43e5-96f9-0f6bf90fc42d
+  package_ndc:
+    59469-325-10
+  is_original_packager:
+    True
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    M0516536
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+    Seed Storage Proteins [CS]
+  unii:
+    U0NQ8555JD
+    X8H7HS7MRM
+    3SW678MX72
+    9PP1T3TC5U
+    GLA4808EHQ
+    4G7VTP9FC4
+    F26P2D4757
+    IJ4SXX96Y4

@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  Excedrin Extra Strength and Excedrin Tension Headache Acetaminophen, Aspirin (NSAID), and Caffeine Excedrin Tension Headache Acetaminophen, Caffeine BENZOIC ACID D&C RED NO. 27 ALUMINUM LAKE FD&C BLUE NO. 2 FD&C YELLOW NO. 6 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED STARCH, CORN STEARIC ACID TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN CAFFEINE CAFFEINE Caplet ETH Excedrin Extra Strength Pain Reliever Acetaminophen, Aspirin (NSAID), and Caffeine BENZOIC ACID CARNAUBA WAX FD&C BLUE NO. 1 HYDROXYPROPYL CELLULOSE, UNSPECIFIED HYPROMELLOSE, UNSPECIFIED LIGHT MINERAL OIL MICROCRYSTALLINE CELLULOSE POLYSORBATE 20 POVIDONE, UNSPECIFIED PROPYLENE GLYCOL DIMETHICONE, UNSPECIFIED SORBITAN MONOLAURATE STEARIC ACID TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN ASPIRIN ASPIRIN CAFFEINE CAFFEINE White Capsule-Shaped Tablet E
+spl_unclassified_section:
+  Excedrin Tension Headache
+  Other information store at 20°-25°C (68°-77°F). close cap tightly after use. read all product information before using. Keep this box for important information.
+  Excedrin Extra Strength
+  Other information store at 20°-25°C (68°-77°F) close cap tightly after use read all product information before using. Keep this box for important information.
+active_ingredient:
+  Active ingredients (in each caplet) Acetaminophen 500 mg Caffeine 65 mg
+  Active ingredients (in each caplet) Acetaminophen 250 mg Aspirin 250 mg (NSAID*) Caffeine 65 mg *nonsteroidal anti-inflammatory drug
+purpose:
+  Purposes Pain reliever Pain reliever aid
+  Purpose s Pain reliever Pain reliever Pain reliever aid
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: headache muscular aches
+  Uses temporarily relieves minor aches and pains due to: headache a cold arthritis muscular aches toothache premenstrual & menstrual cramps
+warnings:
+  Warnings Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 6 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heartbeat. Do not use if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin Stop use and ask a doctor if any new symptoms occur painful area is red or swollen pain gets worse or lasts for more than 10 days fever gets worse or lasts for more than 3 days These could be signs of a serious condition If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+  Warnings Reye’s syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Allergy alert: Aspirin may cause a severe allergic reaction which may include: hives facial swelling asthma (wheezing) shock Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 8 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heart beat. Do not use if you have ever had an allergic reaction to acetaminophen, aspirin or any other pain reliever/fever reducer with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis any other drug, or are under a doctor’s care for any serious condition Stop use and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better ringing in the ears or a loss of hearing occurs painful area is red or swollen pain gets worse or last for more than 10 days fever gets worse or lasts for more than 3 days any new symptoms occur These could be signs of a serious condition If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last three months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use if you are allergic to acetaminophen with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.
+  Do not use if you have ever had an allergic reaction to acetaminophen, aspirin or any other pain reliever/fever reducer with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.
+ask_doctor:
+  Ask a doctor before use if you have liver disease
+  Ask a doctor before use if you have liver disease stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis any other drug, or are under a doctor’s care for any serious condition
+stop_use:
+  Stop use and ask a doctor if any new symptoms occur painful area is red or swollen pain gets worse or lasts for more than 10 days fever gets worse or lasts for more than 3 days These could be signs of a serious condition
+  Stop use and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better ringing in the ears or a loss of hearing occurs painful area is red or swollen pain gets worse or last for more than 10 days fever gets worse or lasts for more than 3 days any new symptoms occur These could be signs of a serious condition
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last three months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions do not use more than directed adults and children 12 years and over: take 2 caplets every 6 hours; not more than 6 caplets in 24 hours children under 12 years: ask a doctor
+  Directions do not use more than directed drink a full glass of water with each dose adults and children 12 years and over: take 2 caplets every 6 hours; not more than 8 caplets in 24 hours children under 12 years: ask a doctor
+inactive_ingredient:
+  Inactive ingredients benzoic acid, D&C red no. 27 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C yellow no. 6 aluminum lake, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, stearic acid, talc, titanium dioxide
+  Inactive ingredients benzoic acid, carnauba wax, FD&C blue #1, hydroxypropylcellulose, hypromellose, light mineral oil, microcrystalline cellulose, polysorbate 20, povidone, propylene glycol, simethicone emulsion, sorbitan monolaurate, stearic acid, titanium dioxide
+questions:
+  Questions or comments? 1-800-468-7746
+  Questions or comments? 1-800-468-7746
+package_label_principal_display_panel:
+  Principal Display Panel (Excedrin Tension Headache) NDC 0067-8139-01 EXCEDRIN ® TENSION HEADACHE Acetaminophen and Caffeine Pain Reliever / Pain Reliever Aid Aspirin Free 24 CAPLETS TAMPER-EVIDENT BOTTLE DO NOT USE IF INNER FOIL SEAL IMPRINTED WITH “SEALED for YOUR PROTECTION” IS BROKEN OR MISSING Distributed by: GSK Consumer Healthcare, Warren, NJ 07059 ©2016 GSK group of companies or its licensor. All rights reserved. Trademarks are owned by or licensed to the GSK group of companies Visit us at www.excedrin.com 46177299 46177299_Excedrin Tension HA_24 caps.JPG
+  Principal Display Panel (Excedrin Extra Strength) NDC 0067-2000-91 EXCEDRIN ® EXTRA STRENGTH Acetaminophen, Aspirin (NSAID) and Caffeine Pain Reliever / Pain Reliever Aid 100 CAPLETS TAMPER-EVIDENT BOTTLE DO NOT USE IF INNER FOIL SEAL IMPRINTED WITH “SEALED for YOUR PROTECTION” IS BROKEN OR MISSING Distributed by: GSK Consumer Healthcare, Warren, NJ 07059 ©2015 GSK group of companies or its licensor. All rights reserved. Visit us at www.excedrin.com DO NOT TAKE BOTH PRODUCTS AT THE SAME TIME. USE PRODUCTS AS DIRECTED. 46172044 46172044_Excedrin Extra Strength Caplets_100 ct
+set_id:
+  2c8df1c7-7864-48df-939c-d9ae22e0f52c
+id:
+  4b80ea7d-b5ef-e06c-e063-6294a90aafac
+effective_time:
+  20260223
+version:
+  5
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Excedrin Extra Strength and Excedrin Tension Headache
+  generic_name:
+    ACETAMINOPHEN, ASPIRIN (NSAID), AND CAFFEINE
+  manufacturer_name:
+    Haleon US Holdings LLC
+  product_ndc:
+    0067-8151
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    209468
+    307686
+    308297
+    404172
+  spl_id:
+    4b80ea7d-b5ef-e06c-e063-6294a90aafac
+  spl_set_id:
+    2c8df1c7-7864-48df-939c-d9ae22e0f52c
+  package_ndc:
+    0067-8151-01
+    0067-8139-01
+    0067-2000-91
+  is_original_packager:
+    True

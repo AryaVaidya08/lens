@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Grape Fruit Hand Sanitizer Ethyl Alcohol WATER ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE VITIS VINIFERA FRUIT OIL GLYCERIN TROLAMINE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  DRUG FACTS
+  Other information Do not store above 105°F May discolor some fabrics Hamful to wood finishes and plastics.
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For Hand Sanitizing
+warnings:
+  Warnings Warnings: For external use only-hands. Flammable: Keep away from heat and flame. When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water.●Avoid contact with broken skin.●Do not inhale or ingest. Stop use and ask a doctor if skin irritation develops. Keep out of reach of children. Keep out of reach of children If swallowed, get medical help or call a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children If swallowed, get medical help or call a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping●For children under 6 use only under adult Supervision.●Not recommended for infants.
+inactive_ingredient:
+  Inactive ingredients Aloe Vera Leaf Juice,Grapefruit Oil, Glycerin,Triethanolamine,Carbomer,Water.
+package_label_principal_display_panel:
+  Package Labeling 11
+set_id:
+  aa78e298-c8a4-697d-e053-2a95a90add86
+id:
+  aa78d5cc-a380-c6c9-e053-2995a90af043
+effective_time:
+  20200715
+version:
+  1
+openfda:

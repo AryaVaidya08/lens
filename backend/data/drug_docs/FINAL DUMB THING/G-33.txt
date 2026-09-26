@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  G-33 RUBUS IDAEUS LEAF ALCOHOL WATER RUBUS IDAEUS LEAF RUBUS IDAEUS LEAF
+spl_unclassified_section:
+  NDC 58264-0396-2
+  Rx CAUTION Federal law prohibits dispensing without a prescription.
+  To be used according to standard homeopathic indications.
+indications_and_usage:
+  INDICATIONS Supports the vagina and ovaries, painful menses.
+purpose:
+  Supports the vagina and ovaries, painful menses.
+active_ingredient:
+  INGREDIENTS ACTIVE Rubus idaeus (Raspberry) 1DH INACTIVE 36.6% alcohol (V/V) Glycerin Macerate
+inactive_ingredient:
+  INACTIVE 36.6% alcohol (V/V) Glycerin Macerate
+dosage_and_administration:
+  SUGGESTED DOSAGE One dropper full twice daily.
+storage_and_handling:
+  SHAKE WELL
+warnings:
+  Warnings Use only if cap seal is unbroken. If pregnant or breastfeeding, ask a healthcare professional before use. Keep this and all medication out of the reach of children.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a healthcare professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all medication out of the reach of children.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 2 FL. OZ. Bottle Label DYNAMIC NUTRITIONAL ASSOCIATES, INC. G-33 RUBUS IDAEUS GEMMOTHERAPY 2 FL. OZ. PRINCIPAL DISPLAY PANEL - 2 FL. OZ. Bottle Label
+set_id:
+  64d8d12f-85ad-442b-8b21-94f74fe155ec
+id:
+  2b531e4a-4cbf-7089-e063-6394a90ae44f
+effective_time:
+  20250109
+version:
+  3
+openfda:
+  brand_name:
+    G-33
+  generic_name:
+    RUBUS IDAEUS LEAF
+  manufacturer_name:
+    DNA Labs, Inc.
+  product_ndc:
+    58264-0396
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    SUBLINGUAL
+  substance_name:
+    RUBUS IDAEUS LEAF
+  spl_id:
+    2b531e4a-4cbf-7089-e063-6394a90ae44f
+  spl_set_id:
+    64d8d12f-85ad-442b-8b21-94f74fe155ec
+  package_ndc:
+    58264-0396-2
+  is_original_packager:
+    True
+  unii:
+    8O2V33JG64

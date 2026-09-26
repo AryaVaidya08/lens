@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Alcohol wipes Alcohol wipes ALCOHOL ALCOHOL BENZALKONIUM CHLORIDE BENZALKONIUM METHYLISOTHIAZOLINONE METHYLISOTHIAZOLINONE PROPYLENE GLYCOL PROPYLENE GLYCOL PHENOXYETHANOL PHENOXYETHANOL WATER
+dosage_and_administration:
+  store between 15-30°C(59-86°F),avoid freezing and excessive heat above 40°C(104°F)
+inactive_ingredient:
+  pure water
+indications_and_usage:
+  1.Open cover and remove seal. 2.Pull out wipe corner from center of the roll. 3.Thread through hole in the cover. 4.Close lid after use to retain moisture.
+active_ingredient:
+  alcohol Benzalkamine 2-methyl-4-isothiazoline-3-one propylene glyco 2-phenoxyethanol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only. Flammable. Keep away from heat or flame.
+package_label_principal_display_panel:
+  label
+set_id:
+  b28b9058-014c-f7e6-e053-2995a90a5a6a
+id:
+  b28bc4b1-0805-31be-e053-2995a90aa8ed
+effective_time:
+  20201025
+version:
+  1
+openfda:

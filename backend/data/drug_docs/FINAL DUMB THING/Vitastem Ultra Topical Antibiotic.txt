@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Vitastem Ultra Topical Antibiotic BACITRACIN ZINC ASCORBIC ACID CHOLECALCIFEROL DIMETHYL SULFOXIDE PROPANEDIOL BACITRACIN ZINC BACITRACIN
+spl_unclassified_section:
+  Drug Facts
+  Other Information Keep refrigerated
+active_ingredient:
+  Active Ingredient Bacitracin Zinc (500 units Bacitracin in 1g) Purpose First Aid/Antibiotic
+purpose:
+  Purpose First Aid/Antibiotic
+indications_and_usage:
+  Indications First aid to help prevent the risk of skin infection in minor cuts, scrapes, or burns.
+warnings:
+  Warnings For external use only. May be harmful if swallowed. Allergy Alert Do not use if allergic to any ingredients in VitaStem™ ULTRA. Do not use in eyes over large areas of the body longer than 1 week unless directed by doctor Ask a doctor before use if you have deep or punture wounds animal bites serious trauma Stop use and ask a doctor if condition persists or gets worse. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in eyes over large areas of the body longer than 1 week unless directed by doctor
+ask_doctor:
+  Ask a doctor before use if you have deep or punture wounds animal bites serious trauma
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage this product is an OTC antibiotic for human use contains no alcohol, no animal ingredients blended for typical skin color no claims regarding stem cell healing are implied for this product Stop use if product is misused
+inactive_ingredient:
+  Inactive Ingredients ascorbic acid, cholecalciferol, dimethyl sulfoxide, propanediol
+package_label_principal_display_panel:
+  Package Labeling: Outer Package Inner Package
+set_id:
+  0ae5c58d-8a84-4193-8831-c7c8fc45b03e
+id:
+  2b61354f-1665-8b57-e063-6394a90a2a57
+effective_time:
+  20250110
+version:
+  3
+openfda:

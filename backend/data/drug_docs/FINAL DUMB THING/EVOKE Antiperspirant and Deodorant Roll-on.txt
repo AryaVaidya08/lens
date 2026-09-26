@@ -1,0 +1,29 @@
+effective_time:
+  20180222
+inactive_ingredient:
+  Inactive Ingrdients Ceteareth-20, Cetyl alcohol, fragrance, isopropyl palmitate, magnesium aluminum silicate, methylparaben, mineral oil, propylparaben, sodium benzoate, water.
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Do not use on broken skin. Stop use if rash or irritation occurs. Ask a doctor before use if you have kidney disease
+spl_product_data_elements:
+  EVOKE Antiperspirant and Deodorant Roll-on ALUMINUM CHLOROHYDRATE POLYOXYL 20 CETOSTEARYL ETHER CETYL ALCOHOL ISOPROPYL PALMITATE MAGNESIUM ALUMINUM SILICATE METHYLPARABEN MINERAL OIL PROPYLPARABEN SODIUM BENZOATE WATER ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Apply to underarms only.
+spl_unclassified_section:
+  EVOKE Antiperspirant & Deodorant Roll On
+package_label_principal_display_panel:
+  EVOKE Antiperspirant & Deodorant Roll-On 44.36mL (68345-850-20) Evoke Roll On
+indications_and_usage:
+  Uses Reduces underarm perspiration
+set_id:
+  4bb21a5b-6097-407d-9410-36104059abee
+id:
+  65d1bcc4-4e64-054c-e053-2991aa0af94c
+active_ingredient:
+  Active Ingredient Aluminum chlorohydrate 7.8%

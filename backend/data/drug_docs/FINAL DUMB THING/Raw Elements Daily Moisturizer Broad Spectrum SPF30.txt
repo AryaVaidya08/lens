@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Raw Elements Daily Moisturizer Broad Spectrum SPF30 ZINC OXIDE WATER SUNFLOWER OIL COCOA BUTTER YELLOW WAX LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ARGAN OIL .ALPHA.-TOCOPHEROL ACETATE CANNABIS SATIVA SEED OIL ROSEMARY LEVOMENOL ROSEMARY OIL ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information protect this product from excessive heat and direct sun
+active_ingredient:
+  Active Ingredients Zinc oxide 20% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Sun Protection Measures. limit time in the sun, especially from 10 a.m.-2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses children under 6 months: Ask a doctor
+inactive_ingredient:
+  Inactive ingredients Purified Water, Helianthus Annuus (Sunflower) Seed Oil*, Brassica Campestris/Aleurites Fordi Oil Copolymer, Theobroma Cacao (Cocoa) Seed Butter*, Polyglyceryl-3 Polyricinoleate, Cera Flava (Beeswax)*, Leuconostoc/Radish Root Ferment Filtrate, Argania Spinosa (Argan) Kernel Oil, Tocopheryl Acetate, Cannabis Sativa (Hemp) Seed Oil, Hawaiian Sea Salt, Polyhydroxystearic Acid, Rosmarinus Officinalis (Rosemary) Extract, Bisabolol, Rosmarinus Officinalis (Rosemary) Oil *Certified Organic
+questions:
+  Questions or comments? Call toll free 1-888-442-6676
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  92c5f11b-5585-4479-8ee3-315c7e72574f
+id:
+  09c2a962-02d8-050f-e063-6394a90a6f8a
+effective_time:
+  20231109
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Raw Elements Daily Moisturizer Broad Spectrum SPF30
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Raw Elements LLC
+  product_ndc:
+    70680-305
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    09c2a962-02d8-050f-e063-6394a90a6f8a
+  spl_set_id:
+    92c5f11b-5585-4479-8ee3-315c7e72574f
+  package_ndc:
+    70680-305-00
+  is_original_packager:
+    True
+  upc:
+    0858855002157
+  unii:
+    SOI2LOH54Z

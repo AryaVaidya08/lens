@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Adrenal Cortex Drops 5031 Adrenal Cortex Drops SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND ALCOHOL WATER
+active_ingredient:
+  ACTIVE INGREDIENTS Adrenal cortex 6X
+questions:
+  QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035
+indications_and_usage:
+  INDICATIONS For the temporary relief of fatigue or tiredness, dizziness, lightheadedness, sweating, excessive hunger, irritability, anxiousness, or occasional headache.*
+purpose:
+  *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a healthcare professional before use.
+dosage_and_administration:
+  DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age.
+other_safety_information:
+  OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat.
+inactive_ingredient:
+  INACTIVE INGREDIENTS 20% ethanol, purified water.
+package_label_principal_display_panel:
+  LABEL Est 1985 Professional Formulas Complementary Health Adrenal Cortex Drops Homeopathic Remedy 2 FL. OZ. (59 mL) Label image
+set_id:
+  adba33ce-c1ad-4b92-89e2-8ad04fd4c899
+id:
+  9a23966e-47cd-449b-a191-97c44acc4813
+effective_time:
+  20260108
+version:
+  2
+openfda:
+  brand_name:
+    Adrenal Cortex Drops 5031
+  generic_name:
+    ADRENAL CORTEX DROPS
+  manufacturer_name:
+    Professional Complementary Health Formulas
+  product_ndc:
+    63083-5031
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SUS SCROFA ADRENAL GLAND
+  spl_id:
+    9a23966e-47cd-449b-a191-97c44acc4813
+  spl_set_id:
+    adba33ce-c1ad-4b92-89e2-8ad04fd4c899
+  package_ndc:
+    63083-5031-2
+  is_original_packager:
+    True
+  unii:
+    398IYQ16YV

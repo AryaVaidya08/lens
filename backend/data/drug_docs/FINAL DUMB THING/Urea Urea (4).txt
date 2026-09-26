@@ -1,0 +1,39 @@
+effective_time:
+  20170818
+contraindications:
+  CONTRAINDICATIONS: Known hypersensitivity to any of the listed ingredients.
+precautions:
+  PRECAUTIONS: This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes, lips or mucous membranes.
+spl_product_data_elements:
+  Urea Urea UREA UREA CAPRYLIC/CAPRIC MONO/DIGLYCERIDES CARBOMER HOMOPOLYMER TYPE C CETYL ALCOHOL EDETATE DISODIUM GLYCERIN HYDROXYETHYL CELLULOSE (2000 CPS AT 1%) LACTIC ACID LINOLEIC ACID PEG-6 STEARATE POLYSORBATE 60 PROPYLENE GLYCOL WATER SALICYLIC ACID SORBITAN MONOSTEARATE TITANIUM DIOXIDE TROLAMINE ALPHA-TOCOPHEROL XANTHAN GUM
+description:
+  DESCRIPTION: Each gram of Urea Topical Suspension 50% contains urea 50% caprylic/capric triglyceride carbomer, cetyl alcohol, edetate disodium, glycerin, hydroxyethylcellulose, lactic acid, linoleic acid, PEG-6, polysorbate 60, propylene glycol, purified water, salicylic acid, sorbitan stearate, titanium dioxide, trolamine, vitamin E and xanthan gum. UREA is a diamide of carbonic acid with the following chemical structure: Urea Structural Formula
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Apply Urea Topical Suspension 50% to affected skin twice per day, or as directed by a physician. Rub in until completely absorbed.
+adverse_reactions:
+  ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear upon discontinuing the medication. Call your doctor for medical advice about side effects.
+spl_unclassified_section:
+  For external use only. Not for ophthalmic use. Do not use on eyes, lips or mucous membranes.
+  PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus; however, there are no adequate and well controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response. Urea Topical Suspension 50% should be given to pregnant women only if clearly needed.
+  NURSING MOTHERS: It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when Urea Topical Suspension 50% is administered to nursing women. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+storage_and_handling:
+  STORAGE: Store at controlled room temperature 15 to 30°C (59 to 86°F). Protect from freezing. Manufactured in the U.S.A. for Exact-Rx, Inc., Melville, NY 11747 00-0201-10-205-00 Iss:5/11
+how_supplied:
+  HOW SUPPLIED: Urea Topical Suspension 50% , NDC # 42808-0201-10, is supplied in a 10 oz (283.5 g) tube.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 10 oz (284 g) For External Use Only NDC 42808-0201-10 Rx Only Urea In a lactic acid & salicylic acid vehicle 50% SUSPENSION Exact-Rx. INCORPORATED Net Wt. 10 oz (284 g) Carton
+pharmacokinetics:
+  PHARMACOKINETICS: The mechanism of action of topically applied urea is not yet known.
+indications_and_usage:
+  INDICATIONS AND USES: For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis, keratoderma, corns and calluses, as well as damaged, devitalized, and ingrown nails.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Urea gently dissolves the intercellular matrix, which results in loosening the horny layer of skin and shedding scaly skin at regular intervals, which then softens the hyperkeratotic areas.
+set_id:
+  50677dcb-d3f3-4f2b-a433-a193c05d861f
+id:
+  43aad2dd-cca5-405a-9a42-3283520e394d

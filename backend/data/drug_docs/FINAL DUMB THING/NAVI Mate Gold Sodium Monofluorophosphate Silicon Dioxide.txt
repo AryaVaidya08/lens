@@ -1,0 +1,27 @@
+effective_time:
+  20191226
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredients: Xylitol, Erythritol, Chitosan, D-Sorbitol Solution, L-Menthol, Green Tea Extract, Hydroxyapatite
+purpose:
+  PURPOSE Purpose: Anticavity
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children under 6 years old
+warnings:
+  WARNINGS If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away
+spl_product_data_elements:
+  NAVI Mate Gold Sodium Monofluorophosphate Silicon Dioxide SILICON DIOXIDE SILICON DIOXIDE SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION XYLITOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION - Brush teeth twice daily or after each meal as directed by a dentist or doctor
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  INDICATIONS & USAGE - Supervise children as necessary until being capable of using without supervision - Instruct children under 6 years old in good brushing and rinsing habits
+set_id:
+  118f5c6a-c00f-48e4-b722-5554982778d5
+id:
+  6a875fd8-e9dd-40ae-bd01-899b5941864b
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredients: Silicon Dioxide 17.8%, Sodium Monofluorophosphate 0.46%

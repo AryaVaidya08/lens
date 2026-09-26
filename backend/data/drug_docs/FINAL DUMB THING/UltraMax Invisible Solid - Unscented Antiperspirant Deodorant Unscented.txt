@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  UltraMax Invisible Solid - Unscented Antiperspirant Deodorant Unscented Aluminum Chlorohydrate ETHYLENE BRASSYLATE C12-20 ALKYL BENZOATE PETROLATUM CYCLOMETHICONE 5 STEARYL ALCOHOL PPG-14 BUTYL ETHER TALC HYDROGENATED CASTOR OIL SODIUM BICARBONATE STARCH, CORN XANTHAN GUM MALTODEXTRIN ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+active_ingredient:
+  Aluminum Chlorohydrate 19%
+purpose:
+  Antiperspirant
+indications_and_usage:
+  Use reduces underarm perspiration
+warnings:
+  For external use only
+do_not_use:
+  Do not use on broken skin
+stop_use:
+  Stop use if rash or irritation occurs
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply a thin layer to underarms only
+inactive_ingredient:
+  PPG-14 Butyl Ether, Cyclopentasiloxane, Stearyl Alcohol, C12-15 Alkyl Benzoate, Talc, Hydrogenated Castor Oil, Petrolatum, Ethylene Brassylate, Sodium Bicarbonate (Baking Soda), Corn Starch Modified, Polysaccharides, Maltodextrin
+questions:
+  Questions or Comments? Call 1-800-248-8820 M-F 9am-5pm ET or visit www.ahultramax.com
+package_label_principal_display_panel:
+  REDUCES UNDERARM SWEAT DUE TO STRESS ARM AND HAMMER THE STANDARD OF PURITY ULTRA MAX unscented Antiperspirant Deodorant SOLID NET WT. 2.6 OZ. (73g) UMLBF-19460-10_front
+set_id:
+  b59340cb-4480-266b-e053-2995a90ac82d
+id:
+  2763645d-72fa-24ee-e063-6394a90af5de
+effective_time:
+  20241120
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    UltraMax Invisible Solid - Unscented Antiperspirant Deodorant Unscented
+  generic_name:
+    ALUMINUM CHLOROHYDRATE
+  manufacturer_name:
+    Church & Dwight Co., Inc.
+  product_ndc:
+    10237-873
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM CHLOROHYDRATE
+  spl_id:
+    2763645d-72fa-24ee-e063-6394a90af5de
+  spl_set_id:
+    b59340cb-4480-266b-e053-2995a90ac82d
+  package_ndc:
+    10237-873-26
+    10237-873-28
+  is_original_packager:
+    True
+  unii:
+    HPN8MZW13M

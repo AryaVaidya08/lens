@@ -1,0 +1,43 @@
+effective_time:
+  20190604
+inactive_ingredient:
+  Inactive ingredients aloe vera gel, anhydrous citric acid, butylated hydroxyanisole, carboxymethylcellulose sodium, cetyl alcohol, citric acid monohydrate, edetate disodium, glyceryl monostearate, methylparaben, mineral oil, polyoxyl lauryl ether, polyoxyl stearyl ether, propylene glycol, propylparaben, purified water, stearyl alcohol, white soft paraffin, xanthan gum
+purpose:
+  Active ingredients Purposes Glycerin 14.4% Protectant Lidocaine 5% Local anesthetic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product do not exceed the recommended daily dosage unless directed by a doctor do not put into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if rectal bleeding occurs condition worsens or does not improve within 7 days an allergic reaction develops the symptom being treated does not subside or if redness, irritation, swelling, pain, or other symptoms develop or increase If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not exceed the recommended daily dosage unless directed by a doctor do not put into the rectum by using fingers or any mechanical device or applicator
+questions:
+  Questions or comments? Call 888-309-9030
+spl_product_data_elements:
+  Hemorrhoidal Glycerin, Lidocaine ALOE VERA LEAF ANHYDROUS CITRIC ACID BUTYLATED HYDROXYANISOLE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM CETYL ALCOHOL CITRIC ACID MONOHYDRATE DEXPANTHENOL EDETATE DISODIUM GLYCERYL MONOSTEARATE METHYLPARABEN MINERAL OIL LAURETH-23 PETROLATUM STEARETH-2 STEARETH-20 PROPYL GALLATE PROPYLENE GLYCOL PROPYLPARABEN WATER STEARYL ALCOHOL TOCOPHEROL .ALPHA.-TOCOPHEROL ACETATE XANTHAN GUM GLYCERIN GLYCERIN LIDOCAINE LIDOCAINE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing wipe. Gently dry by patting or blotting with a tissue or a soft cloth before applying this cream. apply externally to the affected area up to 6 times daily, especially at night, in the morning or after each bowel movement children under 12 years of age: ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if rectal bleeding occurs condition worsens or does not improve within 7 days an allergic reaction develops the symptom being treated does not subside or if redness, irritation, swelling, pain, or other symptoms develop or increase
+storage_and_handling:
+  Other information store at 20–25°C (68–77°F)
+active_ingredient_table:
+  <table width="75%"> <col width="75%" align="left" valign="middle"/> <col width="25%" align="right" valign="middle"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purposes</content> </th> </tr> </thead> <tbody> <tr> <td>Glycerin 14.4%</td> <td>Protectant</td> </tr> <tr> <td>Lidocaine 5%</td> <td>Local anesthetic</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Hemacream
+indications_and_usage:
+  Uses for temporary relief of pain, soreness and burning helps relieve the local itching and discomfort associated with hemorrhoids temporarily provides a coating for relief of anorectal discomforts temporarily protects the inflamed irritated anorectal surface to help make bowel movements less painful
+set_id:
+  874f6f42-2c7e-4ecd-a376-aa4d8cf67669
+id:
+  8a80a5e9-0faa-51fe-e053-2995a90aa4f1
+purpose_table:
+  <table width="75%"> <col width="75%" align="left" valign="middle"/> <col width="25%" align="right" valign="middle"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purposes</content> </th> </tr> </thead> <tbody> <tr> <td>Glycerin 14.4%</td> <td>Protectant</td> </tr> <tr> <td>Lidocaine 5%</td> <td>Local anesthetic</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purposes Glycerin 14.4% Protectant Lidocaine 5% Local anesthetic

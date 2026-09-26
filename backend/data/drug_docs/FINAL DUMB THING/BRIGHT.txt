@@ -1,0 +1,27 @@
+effective_time:
+  20190117
+inactive_ingredient:
+  water, Hippophae Rhamnoides Fruit Extract, butylene glycol, panthenol, alcohol, sodium stearate, tocopheryl acetate, xylitol, peg-12 dimethicone, glycerin, niacinamide, peg-8, xanthan gum, lavender extract, borago officinalis extract, matricaria flower/leaf extract, clary extract, hyacinth flower, extract, licorice root extract, raspberry fruit extract, orange fruit extract, grape fruit extract, Glyceryl Linolenate, Glyceryl Linoleate, Cyanocobalamin, Retinyl Palmitate, biotin ascorbic acid, folic acid, pyridoxine hci, adenosine, lemon fruit extract, fragrance phenoxyethanol
+purpose:
+  whitening, anti-aging
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ■ For external use only. ■ Avoid contact with eyes. ■ Do not swallow. If swallowed, get medical help. ■ Stop use and ask doctor if rash and irritation develops.
+spl_product_data_elements:
+  BRIGHT EYE VITALIZER DIMETHICONE WATER PANTHENOL .ALPHA.-TOCOPHEROL ACETATE NIACINAMIDE GLYCERIN SODIUM STEARATE XANTHAN GUM BUTYLENE GLYCOL DIMETHICONE DIMETHICONE
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package insert
+indications_and_usage:
+  after cleansing, tone the skin. Smooth it over the dull and wrinkled eye rims. It can be applied to freckles, liver spots and wrinkle around mouth.
+set_id:
+  64515ff6-764e-4710-8d1e-bf0095597933
+id:
+  7fa1cb5b-6f8f-33a2-e053-2991aa0a806e
+active_ingredient:
+  dimethicone

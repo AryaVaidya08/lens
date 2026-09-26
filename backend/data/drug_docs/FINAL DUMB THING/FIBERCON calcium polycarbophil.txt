@@ -1,0 +1,46 @@
+effective_time:
+  20210609
+purpose:
+  Active ingredient (in each caplet) Purpose Calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil Bulk-forming laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product • do not use for more than 7 days unless directed by a doctor • do not take more than 8 caplets in a 24 hour period unless directed by a doctor
+questions:
+  Questions or comments? Call weekdays from 9 AM to 5 PM EST at 1-800-282-8805
+indications_and_usage:
+  Uses • relieves occasional constipation to help restore and maintain regularity • this product generally produces bowel movement in 12 to 72 hours
+set_id:
+  80e507f2-d9bd-bc7b-2249-f5bfc8ac1845
+id:
+  9341f6a2-084c-4974-bc6b-c350c8a2b064
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. All laxatives may affect how other drugs work.
+active_ingredient:
+  Active ingredient (in each caplet) Purpose Calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil Bulk-forming laxative
+dosage_and_administration_table:
+  <table width="100%"><col width="40%"/><col width="28%"/><col width="32%"/><thead><tr><th align="center" styleCode="Botrule Lrule Toprule " valign="middle"><content styleCode="bold">age</content></th><th align="center" styleCode="Botrule Toprule " valign="middle"><content styleCode="bold">recommended dose</content></th><th align="center" styleCode="Rrule Botrule Toprule " valign="middle"><content styleCode="bold">daily maximum </content></th></tr></thead><tbody><tr><td align="center" styleCode="Lrule Toprule Botrule " valign="middle"><paragraph>adults and children 12 years of age and over</paragraph></td><td align="center" styleCode="Toprule Botrule " valign="middle"><paragraph>2 caplets once a day</paragraph></td><td align="center" styleCode="Rrule Toprule Botrule " valign="middle"><paragraph>up to 4 times a day</paragraph></td></tr><tr><td align="center" styleCode="Botrule Lrule " valign="middle"><paragraph>children under 12 years</paragraph></td><td align="center" styleCode="Botrule " valign="middle"><paragraph>consult a physician</paragraph></td><td align="center" styleCode="Rrule Botrule " valign="middle"><paragraph> </paragraph></td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients caramel, crospovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, silicon dioxide, sodium lauryl sulfate
+warnings:
+  Warnings Choking: Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking. Do not take this product if you have difficulty in swallowing. If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention. Ask a doctor before use if you have • abdominal pain, nausea, or vomiting • a sudden change in bowel habits that persists over a period of 2 weeks Ask a doctor or pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. All laxatives may affect how other drugs work. When using this product • do not use for more than 7 days unless directed by a doctor • do not take more than 8 caplets in a 24 hour period unless directed by a doctor Stop use and ask a doctor if rectal bleeding occurs or if you fail to have a bowel movement after use of this or any other laxative. These could be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  FIBERCON calcium polycarbophil CALCIUM POLYCARBOPHIL POLYCARBOPHIL CARAMEL MICROCRYSTALLINE CELLULOSE CROSPOVIDONE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE SODIUM LAURYL SULFATE LL;F1
+ask_doctor:
+  Ask a doctor before use if you have • abdominal pain, nausea, or vomiting • a sudden change in bowel habits that persists over a period of 2 weeks
+openfda:
+version:
+  9
+dosage_and_administration:
+  Directions • take each dose of this product with at least 8 ounces (a full glass) of water or other fluid. Taking this product without enough liquid may cause choking. See choking warning. • FiberCon works naturally so continued use for one to three days is normally required to provide full benefit. Dosage may vary according to diet, exercise, previous laxative use or severity of constipation. age recommended dose daily maximum adults and children 12 years of age and over 2 caplets once a day up to 4 times a day children under 12 years consult a physician
+spl_unclassified_section:
+  Drug Facts
+  Other information • each caplet contains: 140 mg calcium and 10 mg magnesium • protect contents from moisture • store at 20-25°C (68-77°F)
+stop_use:
+  Stop use and ask a doctor if rectal bleeding occurs or if you fail to have a bowel movement after use of this or any other laxative. These could be signs of a serious condition.
+active_ingredient_table:
+  <table width="75%"><col width="55%"/><col width="20%"/><thead><tr><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Active ingredient (in each caplet)</content></content></th><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Purpose</content></content></th></tr></thead><tbody><tr><td styleCode="Botrule Toprule " valign="top"><paragraph>Calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil</paragraph></td><td styleCode="Botrule Toprule " valign="top"><paragraph>Bulk-forming laxative</paragraph></td></tr></tbody></table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 36 Caplet Blister Pack Carton FiberCon ® Calcium Polycarbophil Bulk-Forming Laxative Fiber Therapy for Regularity 1. Gentle Enough for Everyday Use* 2. Won't Ferment to Cause Gas or Bloating 3. As Effective as Fiber Powders *when used as directed CONVENIENT TRAVEL PACK! 36 Caplets Principal Display Panel - 36 Caplet Blister Pack Carton
+purpose_table:
+  <table width="75%"><col width="55%"/><col width="20%"/><thead><tr><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Active ingredient (in each caplet)</content></content></th><th align="left" styleCode="Botrule Toprule " valign="top"><content styleCode="bold"><content styleCode="italics">Purpose</content></content></th></tr></thead><tbody><tr><td styleCode="Botrule Toprule " valign="top"><paragraph>Calcium polycarbophil 625 mg equivalent to 500 mg polycarbophil</paragraph></td><td styleCode="Botrule Toprule " valign="top"><paragraph>Bulk-forming laxative</paragraph></td></tr></tbody></table>

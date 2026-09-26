@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  CTx4 Rinse Mint Anticaries MENTHOL POLYSORBATE 20 SODIUM BENZOATE WATER XYLITOL SODIUM HYDROXIDE SODIUM HYPOCHLORITE SODIUM FLUORIDE FLUORIDE ION hazy CTx4 Rinse Apple Anticaries SODIUM BENZOATE WATER XYLITOL SODIUM HYDROXIDE SODIUM HYPOCHLORITE SODIUM FLUORIDE FLUORIDE ION hazy
+active_ingredient:
+  Active ingredients: Sodium Fluoride 0.05% when mixed with part B
+purpose:
+  Purpose: Anticavity
+indications_and_usage:
+  Use: Aids in the prevention of dental caries (cavities)
+warnings:
+  Warnings: Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away. If you experience any unusual symptoms, stop use and contact your dentist.
+keep_out_of_reach_of_children:
+  Warnings: Keep out of reach of children.
+dosage_and_administration:
+  Directions: Do not use before mixing with Part B. Adults and children 6 years of age and older: Use once daily after brushing. Shake each bottle before use. Using the measuring cup, combine 5 mL of component A with 5 mL of component B (10 mL, total). Vigorously swish the combined 10 mL of rinse between teeth for one minute, then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in good rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Consult a dentist or physician. Do not dilute. Do not use either component alone. Store below 30 degrees C (86 degrees F). Do not freeze.
+inactive_ingredient:
+  Inactive ingredients: Menthol, Natural Flavors, Polysorbate 20, Sodium Benzoate, Sodium Hydroxide, Sodium Hypochlorite, Water, Xylitol.
+package_label_principal_display_panel:
+  CTx4 Rinse Mint and Apple enclosure and carton labels: Bottle Principle Display Panel Bottle Principle Display Panel Bottle Principle Display Panel Box Principle Display Panel Box Principle Display Panel
+set_id:
+  da4cf9be-34ef-4190-88ab-75600b57a773
+id:
+  f1259bec-b6ff-a478-e053-2a95a90a3cb2
+effective_time:
+  20221231
+version:
+  3
+openfda:

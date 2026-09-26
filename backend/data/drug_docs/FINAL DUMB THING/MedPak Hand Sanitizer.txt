@@ -1,0 +1,29 @@
+effective_time:
+  20210510
+inactive_ingredient:
+  Inactive Ingredients: Deionized Water, Propylene Glycol, Glycerin 96%, Certrimonium Chloride and Triethylene Glycol.
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Warning: For external use only. Keep away from eyes. Keep out of reach of children
+spl_product_data_elements:
+  MedPak Hand Sanitizer BENZALKONIUM CHLORIDE WATER PROPYLENE GLYCOL GLYCERIN CETRIMONIUM CHLORIDE TRIETHYLENE GLYCOL BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions: Dispense an adequate amount on your palm to cover all surfaces of hand completely. Rub hands together until dry.
+spl_unclassified_section:
+  Drug Facts
+package_label_principal_display_panel:
+  Package Labeling: Label
+indications_and_usage:
+  Use: For handwashing to decrease bacteria on skin without soap and water
+set_id:
+  aab166f8-81d5-4f05-a73c-ad333b4fea8c
+id:
+  c1fde88a-d6dd-2f6e-e053-2995a90a23e1
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial

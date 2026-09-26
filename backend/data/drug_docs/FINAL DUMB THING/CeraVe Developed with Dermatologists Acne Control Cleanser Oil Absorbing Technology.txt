@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  CeraVe Developed with Dermatologists Acne Control Cleanser Oil Absorbing Technology Salicylic Acid Salicylic Acid Salicylic Acid WATER SODIUM LAUROYL SARCOSINATE COCAMIDOPROPYL HYDROXYSULTAINE GLYCERIN NIACINAMIDE GLUCONOLACTONE SODIUM COCOYL ISETHIONATE SODIUM METHYL COCOYL TAURATE PEG-150 PENTAERYTHRITYL TETRASTEARATE XANTHAN GUM SODIUM BENZOATE SODIUM CHLORIDE SODIUM HYDROXIDE HECTORITE TRISODIUM ETHYLENEDIAMINE DISUCCINATE SODIUM LAUROYL LACTYLATE CHOLESTEROL COCONUT ACID EDETATE SODIUM CALCIUM GLUCONATE CERAMIDE NP TRIETHYL CITRATE CAPRYLYL GLYCOL CERAMIDE AP PHYTOSPHINGOSINE HYALURONIC ACID CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE BENZOIC ACID CERAMIDE 1
+active_ingredient:
+  Active ingredient Salicylic acid 2%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Uses clears acne blemishes and allows skin to heal helps prevent new acne blemishes from forming
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. if irritation occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use twice daily shake well, wet face, then work product into a lather massage onto face avoiding the eyes rinse well
+inactive_ingredient:
+  Inactive ingredients water, cocamidopropyl hydroxysultaine, glycerin, sodium lauroyl sarcosinate, niacinamide, sodium methyl cocoyl taurate, PEG-150 pentaerythrityl tetrastearate, gluconolactone, sodium cocoyl isethionate, ceramide NP, ceramide AP, ceramide EOP, carbomer, calcium gluconate, triethyl citrate, sodium hydroxide, sodium benzoate, sodium chloride, sodium lauroyl lactylate, cholesterol, coconut acid, tetrasodium EDTA, caprylyl glycol, hydrolyzed hyaluronic acid, trisodium ethylenediamine disuccinate, hectorite, phytosphingosine, xanthan gum, acrylates copolymer, benzoic acid
+package_label_principal_display_panel:
+  image of a label
+  image of a label
+  10 ml sample packer
+set_id:
+  7b622b57-21be-4870-a2fe-11447a9e321a
+id:
+  8d852066-28d3-4952-8112-05af7639b748
+effective_time:
+  20250328
+version:
+  6
+openfda:
+  application_number:
+    M006
+  brand_name:
+    CeraVe Developed with Dermatologists Acne Control Cleanser Oil Absorbing Technology
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-840
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    8d852066-28d3-4952-8112-05af7639b748
+  spl_set_id:
+    7b622b57-21be-4870-a2fe-11447a9e321a
+  package_ndc:
+    49967-840-01
+    49967-840-02
+    49967-840-03
+    49967-840-04
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

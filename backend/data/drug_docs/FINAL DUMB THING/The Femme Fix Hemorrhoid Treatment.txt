@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  The Femme Fix Hemorrhoid Treatment LIDOCAINE, PHENYLEPHRINE HYDROCHLORIDE ALCOHOL ALOE VERA LEAF YELLOW WAX BUTYLATED HYDROXYANISOLE ALKYL (C12-15) BENZOATE MEDIUM-CHAIN TRIGLYCERIDES CAPRYLYL GLYCOL CITRIC ACID MONOHYDRATE COCONUT OIL CANDELILLA WAX GLYCERIN GLYCERYL LAURATE HAMAMELIS VIRGINIANA TOP WATER SUNFLOWER OIL LANOLIN LANOLIN ALCOHOLS MAGNESIUM SULFATE, UNSPECIFIED FORM PETROLATUM STARCH, TAPIOCA WATER LIDOCAINE LIDOCAINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE
+spl_unclassified_section:
+  Drug Facts
+  Other Information –Store at 20-25°C (68-77°F). Excursions permitted to 10-30°C (59-86°F).
+active_ingredient:
+  Active Ingredients Lidocaine 4% Phenylephrine HCL 0.25% Purpose Local Anesthetic Vasoconstrictor
+purpose:
+  Purpose Local Anesthetic Vasoconstrictor
+indications_and_usage:
+  Uses –Helps relieve the pain, itching, and burning associated with hemorrhoids. –Temporarily reduce the swelling associated with irritated hemorrhoidal tissue and other anorectal disorders. –Temporarily provides a coating for relief of anorectal discomforts. –Temporarily protects irritated areas and inflamed perianal skin.
+warnings:
+  Warnings For external use only. Allergy Alert Certain persons can develop allergic reactions to ingreadients in this product Ask a doctor before use if you have: –Heart disease; high blood pressure; thyroid disease; diabetes. –Difficulty in urination due to enlargement of the prostate gland. Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression. When using this product –Avoid contact with eyes. –Do not exceed recommended daily dosage unless directed by a doctor. –Do not put this product into the rectum by using fingers or any mechanical device or applicator. Stop use and ask a doctor if –Bleeding occurs. –Condition worsens or does not improve within 7 days. –Allergic reaction occurs to ingredients in this product. –Symptom being treated does not subside or if redness, irritation, swelling, pain or other symptoms develop or increase. If pregnant or breast-feeding, ask a doctor before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have: –Heart disease; high blood pressure; thyroid disease; diabetes. –Difficulty in urination due to enlargement of the prostate gland.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug for high blood pressure or depression.
+when_using:
+  When using this product –Avoid contact with eyes. –Do not exceed recommended daily dosage unless directed by a doctor. –Do not put this product into the rectum by using fingers or any mechanical device or applicator.
+stop_use:
+  Stop use and ask a doctor if –Bleeding occurs. –Condition worsens or does not improve within 7 days. –Allergic reaction occurs to ingredients in this product. –Symptom being treated does not subside or if redness, irritation, swelling, pain or other symptoms develop or increase.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a doctor before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions –When practical, cleanse the affected area with mild soap and warm water and rinse thoroughly. Gently dry by patting or blotting with toilet tissue or soft cloth before applying. –Adults and children 12 years and older: apply externally to the affected area up to 4 times daily. –Children under 12 years of age: consult a doctor.
+inactive_ingredient:
+  Inactive Ingredients alcohol, aloe barbadensis leaf extract, beeswax, BHA, C12-15 alkyl benzoate, caprylic/capric triglyceride, caprylyl glycol, citric acid, cocos nucifera (coconut) oil, euphorbia cerifera (candelilla) wax, glycerin, glyceryl laurate, glyceryl undecylenate, hamamelis virginiana (witch hazel) water, helianthus annuus (sunflower) seed oil, lanolin, lanolin alcohol, lavandula angustifolia (lavender) flower oil, magnesium sulfate, petrolatum, tapioca starch, water (aqua).
+package_label_principal_display_panel:
+  Package Labeling: Label - Carton Label Tube
+set_id:
+  5217b5d9-b835-4428-a6b3-e6b255630742
+id:
+  35b65b6c-4694-b4f1-e063-6394a90a4325
+effective_time:
+  20250527
+version:
+  1
+openfda:
+  application_number:
+    M015
+  brand_name:
+    The Femme Fix Hemorrhoid Treatment
+  generic_name:
+    LIDOCAINE, PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    POPPY COLLECTIVE LLC
+  product_ndc:
+    82433-946
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    2673304
+  spl_id:
+    35b65b6c-4694-b4f1-e063-6394a90a4325
+  spl_set_id:
+    5217b5d9-b835-4428-a6b3-e6b255630742
+  package_ndc:
+    82433-946-00
+  is_original_packager:
+    True
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987
+    04JA59TNSJ

@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Avobenzone, Homosalate, Octisalate Avobenzone, Homosalate, Octisalate WATER DIETHYLHEXYL 2,6-NAPHTHALATE BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) BUTYLOCTYL SALICYLATE SILICON DIOXIDE GLYCERYL MONOSTEARATE PEG-100 STEARATE POTASSIUM CETYL PHOSPHATE YELLOW WAX DOCOSANOL BUTYL ACRYLATE/C16-C20 ALKYL METHACRYLATE/METHACRYLIC ACID/METHYL METHACRYLATE COPOLYMER BENZYL ALCOHOL XANTHAN GUM CHLORPHENESIN SODIUM POLYACRYLATE (8000 MW) GLYCERIN EDETATE DISODIUM ANHYDROUS BUTYLATED HYDROXYTOLUENE TRIDECETH-6 PENTYLENE GLYCOL AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE
+active_ingredient:
+  Active Ingredients Avobenzone 3% Homosalate 15% Octisalate 5%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (See Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control right away.
+dosage_and_administration:
+  Directions apply liberaly 15 minutes before sun exposure apply to all skin exposed to the sun reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especialy from 10 a.m.-2 p.m. wear long-sleeved shirts, pants, hats and sunglasses children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, diethylhexyl 2,6-naphthalate, styrene/acrylates copolymer, butyloctyl salicylate, silica, glyceryl stearate, PEG-100 stearate, potassium cetyl phosphate, beeswax, behenyl alcohol, acrylates/C12-22 alkyl methacrylate copolymer, benzyl alcohol, fragrance, xanthan gum, chlorphenesin, sodium polyacrylate, glycerin, disodium EDTA, BHT, trideceth-6, pentylene glycol
+adverse_reactions:
+  Adverse Reaction May stain or damage some fabrics or surfaces. DISTRIBUTED BY OLD EAST MAIN CO. 100 MISSION RIDGE, GOODLETTSVILLE, TN 37072 100% Satisfaction Guaranteed! (888) 309-9030 OCTINOXATE FREE OXYBENZONE FREE
+package_label_principal_display_panel:
+  Principal display panel STUDIO SELECTION™ SUN SHEER TOUCH SUNSCREEN LOTION BROAD SPECTRUM SPF 100 WATER RESISTANT (80 MINUTES) LIGHTWEIGHT, clean skin feel SPF 100 Dermatologist-Tested UVA/UVB Sunscreen 3 FL OZ (88 mL) image description
+set_id:
+  cea1c223-c9d4-42ac-8c5b-c0ca647d57a1
+id:
+  4c10d447-9184-5d06-e063-6394a90a7f1a
+effective_time:
+  20260302
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Avobenzone, Homosalate, Octisalate
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE
+  manufacturer_name:
+    Old East Main Co.
+  product_ndc:
+    75712-934
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+  spl_id:
+    4c10d447-9184-5d06-e063-6394a90a7f1a
+  spl_set_id:
+    cea1c223-c9d4-42ac-8c5b-c0ca647d57a1
+  package_ndc:
+    75712-934-21
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W

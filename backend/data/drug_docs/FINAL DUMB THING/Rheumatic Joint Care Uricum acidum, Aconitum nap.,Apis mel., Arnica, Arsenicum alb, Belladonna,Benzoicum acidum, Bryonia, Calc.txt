@@ -1,0 +1,31 @@
+effective_time:
+  20110301
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane dispensing alcohol 20%
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with uric acid build-up such as joint pain, inflammation and discomfort.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Rheumatic Joint Care Uricum acidum, Aconitum nap.,Apis mel., Arnica, Arsenicum alb, Belladonna,Benzoicum acidum, Bryonia, Calc. carb., Chamomilla, Cinchona, Colchicum, Eupatorium perf., Gaultheriaprocumbens, Guaiacum, Iodium, Kali bic, Kalmia,Ledum, Pulsatilla, Rhus toxicodendron, Ruta,Sabina, Strychninum, Lappa, Phytolacca, Symphytum, Uric Acid Uric Acid Aconitum Napellus Aconitum Napellus Apis Mellifera Apis Mellifera Arnica Montana Arnica Montana Arsenic Trioxide Arsenic Cation (3+) Atropa Belladonna Atropa Belladonna Benzoic Acid Benzoic Acid Bryonia Alba Root Bryonia Alba Root Oyster Shell Calcium Carbonate, Crude Oyster Shell Calcium Carbonate, Crude Matricaria Recutita Matricaria Recutita Cinchona Officinalis Bark Cinchona Officinalis Bark Colchicum Autumnale Bulb Colchicum Autumnale Bulb Eupatorium Perfoliatum Flowering Top Eupatorium Perfoliatum Flowering Top Gaultheria Procumbens Top Gaultheria Procumbens Top Guaiacum Officinale Resin Guaiacum Officinale Resin Iodine Iodine Potassium Dichromate Dichromate Ion Kalmia Latifolia Leaf Kalmia Latifolia Leaf Ledum Palustre Twig Ledum Palustre Twig Pulsatilla Vulgaris Pulsatilla Vulgaris Toxicodendron Pubescens Leaf Toxicodendron Pubescens Leaf Ruta Graveolens Flowering Top Ruta Graveolens Flowering Top Juniperus Sabina Leafy Twig Juniperus Sabina Leafy Twig Strychnine Strychnine Arctium Lappa Root Arctium Lappa Root Phytolacca Americana Root Phytolacca Americana Root Comfrey Root Comfrey Root Alcohol package label
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: ORAL USE ONLY - SHAKE WELL. Ages 12 and up, take 6 drops orally (ages 0 to 11, give 3 drops) one to four times daily or as directed by a healthcare professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Rheumatic - Joint Care Formulated for symptoms associated with uric acid build-up such as joint pain, inflammation and discomfort.
+set_id:
+  7e7f186f-b6f4-1f25-620b-83cb3e8363f6
+id:
+  4d6fdfdb-fe73-450a-cfe8-cec6fc35ec5a
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Uricum acidum 15x, Aconitum nap. 10x, Apis mel. 10x, Arnica 10x, Arsenicum alb. 10x, Belladonna 10x, Benzoicum acidum 10x, Bryonia 10x, Calc. carb. 10x, Chamomilla 10x, Cinchona 10x, Colchicum 10x, Eupatorium perf. 10x, Gaultheria procumbens 10x, Guaiacum 10x, Iodium 10x, Kali bic. 10x, Kalmia 10x, Ledum 10x, Pulsatilla 10x, Rhus toxicodendron 10x, Ruta 10x, Sabina 10x, Strychninum 10x, Lappa 3x, Phytolacca 3x, Symphytum 3x.

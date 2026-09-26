@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Good Molecules Acne Foaming Cleanser Salicylic Acid SODIUM LAURYL GLYCOL CARBOXYLATE CORN SYRUP PROPANEDIOL GLYCERIN SODIUM BENZOATE SALICYLIC ACID SALICYLIC ACID ALOE VERA LEAF SODIUM CITRATE SODIUM GLUCONATE LAURYL GLUCOSIDE POTASSIUM SORBATE SORBIC ACID WATER HAMAMELIS VIRGINIANA LEAF ANHYDROUS CITRIC ACID
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Use For the treatment of acne
+active_ingredient:
+  Active Ingredient Salicylic Acid 2%
+dosage_and_administration:
+  Directions Wet face Gently massage into face for 20-30 seconds Rinse thoroughly and pat dry.
+warnings:
+  For external use only
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+when_using:
+  When using this product When using this product Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Skin irritation and dryness are more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne treatment at a time.
+inactive_ingredient:
+  Inactive Ingredients Water, Propanediol, Sodium Lauryl Glucose Carboxylate, Lauryl Glucoside, Hydrolyzed Corn Starch, Sodium Citrate, Glycerin, Potassium Sorbate, Sodium Benzoate, Sodium Gluconate, Hamamelis Virginiana (Witch Hazel) Leaf Extract, Sorbic Acid, Aloe Barbadensis Leaf Juice Powder, Citric Acid.
+spl_unclassified_section:
+  Other Information Store at room temperature
+questions:
+  Questions? Call toll-free 1-877-992-5474 weekdays between 7 AM and 4 PM (PST). Visit online at www.goodmolecules.com
+package_label_principal_display_panel:
+  Acne Foaming Cleanser secondary label Good Molecules Acne Foaming Cleanser Primary Label
+set_id:
+  1e142db9-c53c-db03-e063-6394a90a9d6e
+id:
+  46a1e63e-ea0e-0535-e063-6294a90a7edc
+effective_time:
+  20251223
+version:
+  2
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Good Molecules Acne Foaming Cleanser
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Good Molecules, LLC
+  product_ndc:
+    82730-100
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    46a1e63e-ea0e-0535-e063-6294a90a7edc
+  spl_set_id:
+    1e142db9-c53c-db03-e063-6394a90a9d6e
+  package_ndc:
+    82730-100-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

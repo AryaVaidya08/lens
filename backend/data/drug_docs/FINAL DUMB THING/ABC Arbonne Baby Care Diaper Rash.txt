@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  ABC Arbonne Baby Care Diaper Rash DIMETHICONE and ZINC OXIDE ALOE VERA LEAF ARNICA MONTANA FLOWER CALENDULA OFFICINALIS FLOWER CHAMOMILE CHLORPHENESIN CARNAUBA WAX DICAPRYLYL CARBONATE DIISOPROPYL SEBACATE DIPENTAERYTHRITYL TRI-POLYHYDROXYSTEARATE GLYCERIN GLYCERYL BEHENATE/EICOSADIOATE SUNFLOWER OIL UNSAPONIFIABLES MAGNESIUM SULFATE ANHYDROUS PHENOXYETHANOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE POLYGLYCERYL-4 ISOSTEARATE SODIUM CHLORIDE SODIUM STEARATE .ALPHA.-TOCOPHEROL, DL- WATER DIMETHICONE DIMETHICONE ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by Arbonne International, LLC Greenwood, IN 46143 USA
+active_ingredient:
+  Active ingredients Dimethicone 1% Zinc Oxide 12%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses helps treat and prevent diaper rash protects chafed skin due to diaper rash and helps protect from wetness
+warnings:
+  Warnings For external use only When using this product do not get into eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions change wet or soiled diapers promptly, cleanse the diaper area and dry apply cream liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged
+storage_and_handling:
+  Other information Store between 20°C–25°C/68°F–77°F
+inactive_ingredient:
+  Inactive ingredients water, dicaprylyl carbonate, diisopropyl sebacate, polyglyceryl-2 dipolyhydroxystearate, polyglyceryl-4 isostearate, dipentaerythrityl tri-polyhydroxystearate, glycerin, glyceryl behenate/eicosadioate, helianthus annuus (sunflower) seed oil unsaponifiables, arnica montana flower extract, calendula officinalis flower extract, chamomilla recutita (matricaria) flower extract, aloe barbadensis leaf juice, cera carnauba/copernicia cerifera (carnauba) wax, tocopherol, magnesium sulfate, sodium chloride, sodium stearate, chlorphenesin, phenoxyethanol.
+questions:
+  Questions or comments? 1.800.272.6663 Monday–Friday 6 a.m.–6 p.m. Pacific time
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 141 g Tube Carton ABC ARBONNE BABY CARE ® DIAPER RASH CREAM Net wt. 5 oz./141 g ABC Diaper Rash Cream
+set_id:
+  dd1d8198-bb9d-4508-a971-ae3bc624cdd1
+id:
+  266ee9ae-7f66-26d9-e063-6394a90a851e
+effective_time:
+  20241108
+version:
+  2
+openfda:
+  application_number:
+    M016
+  brand_name:
+    ABC Arbonne Baby Care Diaper Rash
+  generic_name:
+    DIMETHICONE AND ZINC OXIDE
+  manufacturer_name:
+    Arbonne International, LLC
+  product_ndc:
+    42508-331
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+    ZINC OXIDE
+  rxcui:
+    637565
+  spl_id:
+    266ee9ae-7f66-26d9-e063-6394a90a851e
+  spl_set_id:
+    dd1d8198-bb9d-4508-a971-ae3bc624cdd1
+  package_ndc:
+    42508-331-03
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O
+    SOI2LOH54Z

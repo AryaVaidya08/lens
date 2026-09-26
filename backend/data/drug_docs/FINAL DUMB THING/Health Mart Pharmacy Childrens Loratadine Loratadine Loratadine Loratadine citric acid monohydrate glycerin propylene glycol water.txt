@@ -1,0 +1,46 @@
+effective_time:
+  20210907
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+questions:
+  Questions? Call 1-866-923-4914
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information safety sealed: do not use if imprinted safety seal is torn or missing store between 20° and 25°C (68°and 77°F)
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+set_id:
+  d8c4639d-3bef-408e-bcb4-9b0c3ba3873c
+id:
+  64624168-c563-4632-8ff4-0f1ac4453f22
+active_ingredient:
+  Active ingredient (in each 5 mL teaspoonful) Loratadine 5 mg
+dosage_and_administration_table:
+  <table width="75%"><col width="30%" align="left" valign="top"/><col width="70%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 6 years and over</td><td>2 teaspoonfuls (TSP) daily; do not take more than 2 teaspoonfuls (TSP) in 24 hours</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to under 6 years of age</td><td>1 teaspoonful (TSP) daily; do not take more than 1 teaspoonful (TSP) in 24 hours</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children under 2 years of age</td><td>ask a doctor</td></tr><tr><td styleCode="Rrule">consumers with liver or kidney disease</td><td>ask a doctor</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients artificial grape flavor, citric acid monohydrate, glycerin, propylene glycol, purified water, sodium benzoate, sodium metabisulfite, sucrose
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  Health Mart Pharmacy Childrens Loratadine Loratadine Loratadine Loratadine citric acid monohydrate glycerin propylene glycol water sodium benzoate sodium metabisulfite sucrose colorless to slightly yellow
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions use only with enclosed dosing cup adults and children 6 years and over 2 teaspoonfuls (TSP) daily; do not take more than 2 teaspoonfuls (TSP) in 24 hours children 2 to under 6 years of age 1 teaspoonful (TSP) daily; do not take more than 1 teaspoonful (TSP) in 24 hours children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Distributed by McKesson One Post Street San Francisco, CA 94104
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 120 ml Bottle Carton NDC 62011-0072-1 Health Mart ® PHARMACY compare to Children's Claritin ® active ingredient* children's loratadine syrup (loratadine oral solution) 5 mg/5 mL antihistamine indoor & outdoor allergies original prescription strength 24 hour non-drowsy † relief of: sneezing; runny nose; itchy, watery eyes; itchy throat or nose 2 Yrs. & older grape flavor dosing cup included alcohol free • gluten free 4 FL OZ (120 ml) † when taken as directed. see drug facts panel. Principal Display Panel - 120 ml Bottle Carton

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Hand Sanitizer Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL Hand Sanitizer Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Isopropyl Alcohol (75%, v/v) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Isopropyl Alcohol 70% v/v. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial, Hand Sanitizer
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin. Good for repeated use.
+warnings:
+  Warnings External use only. Keep out of reach of children. Flammable.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Briskly rub generous amount on hands and rub together until dry.
+inactive_ingredient:
+  Inactive ingredients Water, distilled
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 59.2mL NDC: 80428-109-01 118.3mL NDC: 80428-209-02 2 OZ Bottle 4 OZ Bottle
+set_id:
+  ae8202ce-ddb0-8e41-e053-2a95a90a8a79
+id:
+  ae8202ce-dda2-8e41-e053-2a95a90a8a79
+effective_time:
+  20200330
+version:
+  1
+openfda:

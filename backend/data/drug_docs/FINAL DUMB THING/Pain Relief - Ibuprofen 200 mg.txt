@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  Pain Relief - Ibuprofen 200 mg Ibuprofen SILICON DIOXIDE STARCH, CORN HYPROMELLOSE 2208 (100 MPA.S) FERRIC OXIDE RED LACTOSE MONOHYDRATE POVIDONE K30 SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID TITANIUM DIOXIDE TRIACETIN IBUPROFEN IBUPROFEN G2
+active_ingredient:
+  Active ingredient(in each tablet) Ibuprofen 200 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain reliever/Fever reducer
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: headache toothache backache menstrual cramps the common cold muscular aches minor pain of arthritis temporarily reduces fever
+warnings:
+  Warnings Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: hives facial swelling asthma (wheezing) shock skin reddening rash blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood-thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery Ask a doctor before use if stomach bleeding warning applies to you you have problems or serious side effects from taking pain relievers or fever reducers you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease, or asthma you are taking a diuretic Ask a doctor or pharmacist before use if you are under a doctor’s care for any serious condition taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin taking any other drug When using this product take with food or milk if stomach upset occurs the risk of heart attack or stroke may increase if you use more than directed or for longer than directed Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings_and_cautions:
+  Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood-thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed
+do_not_use:
+  Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery
+ask_doctor:
+  Ask a doctor before use if stomach bleeding warning applies to you you have problems or serious side effects from taking pain relievers or fever reducers you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease, or asthma you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are under a doctor’s care for any serious condition taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin taking any other drug
+when_using:
+  When using this product take with food or milk if stomach upset occurs the risk of heart attack or stroke may increase if you use more than directed or for longer than directed
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: do not take more than directed the smallest effective dose should be used adults and children 12 years and over: take 1 tablet every 4 to 6 hours while symptoms persist if pain or fever does not respond to 1 tablet, 2 tablets may be used do not exceed 6 tablets in 24 hours, unless directed by a doctor children under 12 years: ask a doctor
+spl_unclassified_section:
+  Other information each tablet contains: sodium 0.030 mg store at 20° to-25°C (68° to-77°F) avoid excessive heat above 40°C (104°F) read all product information before using TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, corn starch. hypromellose, iron oxide red, lactose monohydrate, povidone k30, sodium starch glycolate, stearic acid, titanium dioxide, triacetin
+questions:
+  Questions or Comments Call toll free 1-844-832-1138 Monday through Friday 9AM – 5PM EST or www.healthpharma.us
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO ACTIVE INGREDIENT IN Advil®† Ibuprofen 200 mg Pain Reliever/Fever Reducer (NSAID) †This product is not manufactured or distributed by Pfizer Healthcare, owner of the registered trademark of Advil® ibu
+set_id:
+  d60a6a11-8c06-cede-e053-2a95a90af7f9
+id:
+  d60a6772-4667-6b30-e053-2995a90a7516
+effective_time:
+  20220120
+version:
+  1
+openfda:
+  application_number:
+    ANDA079174
+  brand_name:
+    Pain Relief - Ibuprofen 200 mg
+  generic_name:
+    IBUPROFEN
+  manufacturer_name:
+    Health Pharma USA LLC
+  product_ndc:
+    71679-111
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    IBUPROFEN
+  rxcui:
+    310965
+  spl_id:
+    d60a6772-4667-6b30-e053-2995a90a7516
+  spl_set_id:
+    d60a6a11-8c06-cede-e053-2a95a90af7f9
+  package_ndc:
+    71679-111-05
+  is_original_packager:
+    True
+  upc:
+    0371679111053
+  nui:
+    N0000000160
+    M0001335
+    N0000175722
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+  unii:
+    WK2XYI10QM

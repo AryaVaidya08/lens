@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Power Rangers Hand Sanitizer PWR 102 Alcohol ALCOHOL ALCOHOL WATER GLYCERIN D&C RED NO. 33 FD&C BLUE NO. 1 CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) SODIUM HYDROXIDE POLYSORBATE 20
+active_ingredient:
+  Active ingredient Alcohol Denat. 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Use for hand-washing to decrease bacteria on the skin, only when water is not available.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire and flames. When using this product do not get into eyes if contact occurs, rinse eyes thoroughly with water Stop use and ask a doctor if irritation and redness develop Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes if contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hand thoroughly with product and allow to dry without wiping
+storage_and_handling:
+  Other information Store at 68 to 77F (20-25C） Do not store above 110F (43C) You may report a serious adverse reaction to this product to Report Reaction, LLC, PO Box 22, Plainsboro, NJ 08536
+inactive_ingredient:
+  Inactive ingredient Water, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Polysorbate 20, Sodium Hydroxide, Red 33, Blue 1
+package_label_principal_display_panel:
+  Label Label
+set_id:
+  aad6fd0c-bc32-a796-e053-2a95a90a61fc
+id:
+  aad6fd0c-bc33-a796-e053-2a95a90a61fc
+effective_time:
+  20200720
+version:
+  1
+openfda:

@@ -1,0 +1,40 @@
+effective_time:
+  20100111
+inactive_ingredient:
+  Inactive Ingredients Acesulfame Potassium, Citric Acid, D&C Yellow No.10, Eucalyptus Oil, Isomalt, Lemon Oil, Other N&A Flavors, Sodium Citrate
+purpose:
+  Purposes Cough Suppressant/Oral Anesthetic
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you have chronic cough that lasts or occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) When using this product do not use more than directed, taking more may have a laxative effect Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or headache that lasts. These could be signs of a serious condition. sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, swelling, nausea or vomiting sore mouth symptoms last more than 7 days, or irritation, pain or redness continues or worsens Keep out of reach of children.
+when_using:
+  When using this product do not use more than directed, taking more may have a laxative effect
+questions:
+  QUESTIONS? Call 1-800-344-7239 or visit us on the web at www.insightpharma.com
+spl_product_data_elements:
+  Nice Citrus Menthol MENTHOL MENTHOL ACESULFAME POTASSIUM CITRIC ACID MONOHYDRATE D&C YELLOW NO. 10 EUCALYPTUS OIL SODIUM CITRATE
+ask_doctor:
+  Ask a doctor before use if you have chronic cough that lasts or occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus)
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions dissolve a lozenge slowly in mouth may be repeated every hour for coughs as needed or as directed by a doctor may be repeated every 2 hours for sore throat do not take more than 10 lozenges per day adults and children 6 years and older 5 mg children under 6 years ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: INSIGHT Pharmaceuticals Corp. Langhorne, PA 19047-1749
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or headache that lasts. These could be signs of a serious condition. sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, swelling, nausea or vomiting sore mouth symptoms last more than 7 days, or irritation, pain or redness continues or worsens
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 24 Lozenges Box N'ICE ® SUGAR FREE DIABETIC-SAFE ƒor Coughs and Minor Sore Throat Pain MENTHOL • COUGH SUPPRESSANT/ORAL ANESTHETIC Citrus 24 LOZENGES Principle Display Panel - 24 Lozenges Box
+indications_and_usage:
+  Uses temporarily suppresses/relieves: coughs due to minor throat and bronchial irritation from a cold or inhaled irritants occasional minor sore throat pain
+set_id:
+  a012fa8c-e0d6-48da-937b-35fb55c77e5a
+id:
+  4ea14c23-3284-4055-b213-a7e4a05d50cd
+active_ingredient:
+  Active Ingredient (in each lozenge) menthol 5 mg
+dosage_and_administration_table:
+  <table> <col width="60%"/> <col width="40%"/> <tbody> <tr> <td styleCode="     Botrule          Rrule     "> adults and children 6 years and older</td> <td styleCode="     Botrule     "> 5 mg</td> </tr> <tr> <td styleCode="     Rrule     "> children under 6 years</td> <td styleCode="     Botrule     "> ask a doctor</td> </tr> </tbody> </table>

@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Circatrix Capsaicin POLYOXYL 100 STEARATE WATER ALOE VERA LEAF ARNICA MONTANA FLOWER GLYCERIN PHENOXYETHANOL CAPSICUM OLEORESIN CAPSICUM OLEORESIN CAPSAICIN LAURETH-7 CALCIUM PANTOTHENATE CETOSTEARYL ALCOHOL NIACINAMIDE PYRIDOXINE HYDROCHLORIDE CALENDULA OFFICINALIS FLOWER CHAMOMILE DIMETHICONE .ALPHA.-TOCOPHEROL ACETATE, DL- GINKGO LAVENDER OIL MALTODEXTRIN ALKYL (C12-15) BENZOATE MYRISTYL MYRISTATE HYALURONATE SODIUM OCTENYLSUCCINIC ACID GLYCERYL MONOSTEARATE GINGER LEVOMENOL C13-14 ISOPARAFFIN CARTHAMUS TINCTORIUS (SAFFLOWER) OLEOSOMES SODIUM ASCORBYL PHOSPHATE ISOPROPYL MYRISTATE POLYACRYLAMIDE (10000 MW) SILICON DIOXIDE
+active_ingredient:
+  Active ingredient Capsicum Oleoresin (Containing Capsaicin 0.05%)
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthritis, strains, bruises, and sprains.
+warnings:
+  Warnings For external use only This is not a face cream. Do not apply to the face. Do not use at the same time with other topical analgesics Do not use if allergic to chili peppers or if past allergic reaction to capsaicin. Do not apply to wounds or damaged, broken, sunburned, chapped, or irritated skin. Do not bandage tightly. Do not apply within 1 hour before or after bath, shower, hot tub, sauna, or vigorous exercise. Warm water, perspiration, or open pores can intensify the impact of this product and burning sensation. Do not use with heating pad, hot water bottle or other source of heat. Doing so can increase risk of serious burn. When using this product Do not get into the eyes and avoid contact with other mucous membranes. If contact occurs or if pain, discomfort, or skin redness occurs, continually rinse with cool water and seek medical help. Discontinue use and consult a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days. Stop using and get immediate medical attention if experience burning, pain, swelling, or blistering of the skin. Rare cases of severe burning or blistering have been reported. If pregnant, breast- feeding or any medical conditions exist, ask a health professional before use. Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away. If inhaled, remove to fresh air. If breathing is difficult, get medical attention immediately.
+do_not_use:
+  This is not a face cream. Do not apply to the face. Do not use at the same time with other topical analgesics Do not use if allergic to chili peppers or if past allergic reaction to capsaicin. Do not apply to wounds or damaged, broken, sunburned, chapped, or irritated skin. Do not bandage tightly. Do not apply within 1 hour before or after bath, shower, hot tub, sauna, or vigorous exercise. Warm water, perspiration, or open pores can intensify the impact of this product and burning sensation. Do not use with heating pad, hot water bottle or other source of heat. Doing so can increase risk of serious burn.
+when_using:
+  When using this product Do not get into the eyes and avoid contact with other mucous membranes. If contact occurs or if pain, discomfort, or skin redness occurs, continually rinse with cool water and seek medical help.
+stop_use:
+  Discontinue use and consult a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days. Stop using and get immediate medical attention if experience burning, pain, swelling, or blistering of the skin. Rare cases of severe burning or blistering have been reported. If pregnant, breast- feeding or any medical conditions exist, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away. If inhaled, remove to fresh air. If breathing is difficult, get medical attention immediately.
+dosage_and_administration:
+  Directions Before using on children under 18 years of age consult a physician. Apply sparingly to affected area not more than 4 times daily. However, for first use, apply to small area to test for sensitivity or skin reaction Gently massage into the skin until fully absorbed Wash hands with soap and water thoroughly after each application to avoid spreading to the eyes or other sensitive mucous membranes.
+storage_and_handling:
+  Storage WARNING: FLAMMABLE PRODUCT Store in a cool well-ventilated area away from heat. Keep away from sparks or open flame. Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]. Avoid excessive heat. Do not use if package is damaged.
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Aqua (Purified Water), Arnica Montana Flower Extract, Bisabolol, C12- 15 Alkyl Benzoate, C13- 14 Isoparaffin, Calcium D-Pantothenate, Calendula Officinalis Flower Extract, Carthamus Tinctorius (Safflower) Oleosomes, Cetearyl Alcohol, Chamomilla Recutita (Matricaria) Flower Extract, Dimethicone, DL- α- Tocopheryl Acetate, Ginkgo Biloba Leaf Extract, Glycerin, Glyceryl Stearate, Isopropyl Myristate, Laureth- 7, Lavandula Angustifolia (Lavender) Oil, Maltodextrin, Myristyl Myristate, Niacinamide, PEG- 100 Stearate, Phenoxyethanol, Polyacrylamide, Pyridoxine Hydrochloride, Silicon Dioxide, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Sodium Starch Octenylsuccinate, Zingiber Officinale ( Ginger) Root Extract
+questions:
+  Questions or comments? For questions or information call toll-free: 877-921-7873
+package_label_principal_display_panel:
+  Circatrix​™ Manufactured in the USA by: PureTek Corporation Panorama City, CA 91402 For questions or information call toll-free: 877-921-7873 label
+set_id:
+  cd3b1256-2df8-dc26-e053-2a95a90ad049
+id:
+  2384159e-f2c3-9d21-e063-6394a90a20a8
+effective_time:
+  20241002
+version:
+  4
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Circatrix
+  generic_name:
+    CAPSAICIN
+  manufacturer_name:
+    PureTek Corporation
+  product_ndc:
+    59088-479
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CAPSICUM OLEORESIN
+  rxcui:
+    200083
+  spl_id:
+    2384159e-f2c3-9d21-e063-6394a90a20a8
+  spl_set_id:
+    cd3b1256-2df8-dc26-e053-2a95a90ad049
+  package_ndc:
+    59088-479-05
+  is_original_packager:
+    True
+  upc:
+    0359088479056
+  unii:
+    UW86K581WY

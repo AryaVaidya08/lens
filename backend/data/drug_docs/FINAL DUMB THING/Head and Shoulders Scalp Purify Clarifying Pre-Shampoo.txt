@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Head and Shoulders Scalp Purify Clarifying Pre-Shampoo Salicylic Acid SALICYLIC ACID SALICYLIC ACID WATER SODIUM METHYL COCOYL TAURATE GLYCERIN POLYSORBATE 20 CITRIC ACID HYDROXYPROPYL METHYLCELLULOSE MENTHOL BUTYLENE GLYCOL PENTYLENE GLYCOL NIACINAMIDE PIROCTONE OLAMINE
+spl_unclassified_section:
+  Drug Facts
+  DIST. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active Ingredient Salicylic Acid 1.8%
+purpose:
+  Purpose Anti-Dandruff
+indications_and_usage:
+  Uses help prevent recurrence of flaking and itching associated with dandruff
+warnings:
+  Warnings For external use only When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep this and all out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor. for maximum dandruff protection control, use every time you shampoo. use on wet hair before shampooing. Apply directly to scalp, moving front to back. Repeat to cover, massage, let sit for 3 minutes, rinse, then shampoo.
+inactive_ingredient:
+  Inactive Ingredients water, sodium methyl cocoyl taurate, citric acid, hydroxypropyl methylcellulose, fragrance, menthol, butylene glycol, glycerin, polysorbate 20, pentylene glycol, neosetophoma cerealis extract, niacinamide, piroctone olamine
+questions:
+  Questions (or comments)? 1-800-723-9569
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 225 ml Bottle Label Head & Shoulders SCALP PURIFY CLARIFYING PRE-SHAMPOO FOR OILY SCALPS 2% HydraSC plus SALICYLIC ACID DANDRUFF TREATMENT 7.6 fl oz (225 ml) HS
+set_id:
+  5a84c545-4570-b078-e063-6394a90a8c5a
+id:
+  5a84c2d3-c66a-af61-e063-6394a90a70fc
+effective_time:
+  20260902
+version:
+  1
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Head and Shoulders Scalp Purify Clarifying Pre-Shampoo
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    The Procter & Gamble Manufacturing Company
+  product_ndc:
+    84126-907
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    5a84c2d3-c66a-af61-e063-6394a90a70fc
+  spl_set_id:
+    5a84c545-4570-b078-e063-6394a90a8c5a
+  package_ndc:
+    84126-907-22
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

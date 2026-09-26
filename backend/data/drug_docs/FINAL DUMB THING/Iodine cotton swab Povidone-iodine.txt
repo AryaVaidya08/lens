@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Iodine cotton swab Povidone-iodine POVIDONE-IODINE IODINE WATER
+active_ingredient:
+  Povidone-iodine 1.5%
+purpose:
+  Disinfect
+indications_and_usage:
+  This is an external product, Used fordisinfectingskin injection, puncture, and other areas, as wellasdisinfecting skin wounds and wounds.
+warnings:
+  Unsuitable crowd Pregnant women & those allergic to this productare prohibited. External disinfectants should not be taken orally andplacedout of reach of children .People with allergies should use with caution. .Use within the validity period .Avoid co use with antagonistic drugs.
+do_not_use:
+  Pregnant women & those allergic to this productare prohibited.
+when_using:
+  It is suitable for skin wounds.
+keep_out_of_reach_of_children:
+  External disinfectants should not be taken orally andplacedout of reach of children
+dosage_and_administration:
+  Disposable External use. Wipe the skin area thatneedsto be disinfected 1-2 times
+inactive_ingredient:
+  Water
+package_label_principal_display_panel:
+  label1
+set_id:
+  3c27824f-34a0-d8a0-e063-6394a90a7238
+id:
+  44a444d9-8145-e964-e063-6294a90ac4c5
+effective_time:
+  20251128
+version:
+  2
+openfda:

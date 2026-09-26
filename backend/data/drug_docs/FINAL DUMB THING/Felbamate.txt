@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Felbamate Felbamate FELBAMATE FELBAMATE ALUMINUM OXIDE CELLULOSE, MICROCRYSTALLINE FD&C RED NO. 40 FERRIC OXIDE YELLOW LACTOSE MONOHYDRATE MAGNESIUM STEARATE POVIDONE K30 SILICON DIOXIDE SODIUM STARCH GLYCOLATE TYPE A POTATO STARCH, CORN OFF-WHITE TO PALE YELLOW COLOR CAPSULE 10;53 Felbamate Felbamate FELBAMATE FELBAMATE ALUMINUM OXIDE CELLULOSE, MICROCRYSTALLINE D&C YELLOW NO. 10 FD&C RED NO. 40 FERRIC OXIDE YELLOW LACTOSE MONOHYDRATE MAGNESIUM STEARATE POVIDONE K30 SILICON DIOXIDE SODIUM STARCH GLYCOLATE TYPE A POTATO STARCH, CORN LIGHT PINK TO PINK CAPSULE 10;54
+spl_unclassified_section:
+  
+spl_medguide:
+  SPL MEDGUIDE
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 70771-1077-1 Felbamate tablets USP, 400 mg 100 Tablets Rx only NDC 70771-1078-1 Felbamate tablets USP, 600 mg 100 Tablets Rx only 400 mg 600 mg
+set_id:
+  efa55cb2-b625-4392-9ddb-0a8ad8ee58c4
+id:
+  785f1747-e29d-432a-82e7-fcaeea202327
+effective_time:
+  20240816
+version:
+  6
+openfda:
+  application_number:
+    ANDA208970
+  brand_name:
+    Felbamate
+  generic_name:
+    FELBAMATE
+  manufacturer_name:
+    Zydus Lifesciences Limited
+  product_ndc:
+    70771-1077
+    70771-1078
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    ORAL
+  substance_name:
+    FELBAMATE
+  rxcui:
+    198358
+    198359
+  spl_id:
+    785f1747-e29d-432a-82e7-fcaeea202327
+  spl_set_id:
+    efa55cb2-b625-4392-9ddb-0a8ad8ee58c4
+  package_ndc:
+    70771-1077-3
+    70771-1077-9
+    70771-1077-1
+    70771-1077-5
+    70771-1077-4
+    70771-1078-3
+    70771-1078-9
+    70771-1078-1
+    70771-1078-5
+    70771-1078-4
+    70771-1078-8
+  is_original_packager:
+    True
+  nui:
+    N0000175753
+    N0000008486
+  pharm_class_epc:
+    Anti-epileptic Agent [EPC]
+  pharm_class_pe:
+    Decreased Central Nervous System Disorganized Electrical Activity [PE]
+  unii:
+    X72RBB02N8

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Bellis Perennis Bellis Perennis ALCOHOL BELLIS PERENNIS BELLIS PERENNIS WATER
+active_ingredient:
+  Bellis Perennis 200C
+inactive_ingredient:
+  Alcohol Purified Water
+warnings:
+  Stop use and ask doctor if symptoms worsen or persist longer than 7 days. Do not use if tamper evident seal is missing or broken.
+indications_and_usage:
+  Temporary relief from bruising, soreness
+purpose:
+  Temporary relief from bruising, soreness
+dosage_and_administration:
+  Adults and children 12 years of age and older: Four drops of water in teaspoon of water 3 times a day as needed. Children under 12 years of age: Consult doctor prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  bellis perennis 200.jpg
+set_id:
+  b3c6ec4a-3055-5639-e053-2a95a90ad07b
+id:
+  b3c6ec4a-3057-5639-e053-2a95a90ad07b
+effective_time:
+  20201110
+version:
+  1
+openfda:

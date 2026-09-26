@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL GLYCERIN HYDROXYPROPYL CELLULOSE, UNSPECIFIED WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (78%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerin (1.72% v/v). Hydroxypropylcellulose (1.28% v/v). Sterile distilled water or boiled cold water.
+active_ingredient:
+  Active Ingredient(s) Alcohol 78% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients water (aqua), glycerin, hydroxypropylcellulose
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 59 mL NDC: 72686-180-02 Viva2oztube.jpg Viva2oztube
+set_id:
+  a3d156a6-60e3-77e9-e053-2995a90a0a1c
+id:
+  b2d563cd-8026-0a3a-e053-2995a90a1696
+effective_time:
+  20201029
+version:
+  3
+openfda:

@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Vaseline Healing Jelly WATER PETROLATUM PETROLATUM
+description:
+  VASELINE HEALING JELLY - (petrolatum) jelly
+active_ingredient:
+  Active ingredient WHITE PETROLATUM, USP (100%)
+purpose:
+  Purpose skin protectant
+indications_and_usage:
+  Uses temporarily protects minor cuts scrapes burns temporarily protects and helps relieve chapped or cracked skin and lips helps protect from the drying effects of wind and cold weather
+warnings:
+  Warnings For external use only When using this product do not get into eyes See a doctor if condition last more than 7 days Do not use on deep or puncture wounds animal bites serious burns
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed
+inactive_ingredient:
+  Inactive Ingredient Water
+questions:
+  Questions? Call 1-800-457-7084
+package_label_principal_display_panel:
+  Package Vaseline Healing Jelly
+set_id:
+  bd4418b7-c6aa-5e71-e053-2995a90a4cc4
+id:
+  4d263aff-9ee2-4980-e063-6394a90a95c0
+effective_time:
+  20260316
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Vaseline
+  generic_name:
+    HEALING JELLY
+  manufacturer_name:
+    Conopco Inc. d/b/a Unilever
+  product_ndc:
+    64942-1874
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PETROLATUM
+  rxcui:
+    204754
+    210871
+  spl_id:
+    4d263aff-9ee2-4980-e063-6394a90a95c0
+  spl_set_id:
+    bd4418b7-c6aa-5e71-e053-2995a90a4cc4
+  package_ndc:
+    64942-1874-1
+    64942-1874-2
+    64942-1874-3
+    64942-1874-4
+    64942-1874-5
+    64942-1874-6
+    64942-1874-7
+  is_original_packager:
+    True
+  unii:
+    4T6H12BN9U

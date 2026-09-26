@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Guard Alcohol-Free Hand Sanitizer Benzalkonium chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER HYDROXYETHYL CELLULOSE (5000 CPS AT 1%) EDETATE SODIUM CITRIC ACID MONOHYDRATE SODIUM HYDROXIDE DMDM HYDANTOIN
+active_ingredient:
+  Active ingredient Benzalkonium chloride 0.13% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to help reduce bacteria on the skin. For use when soap and water are not available.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Do not use on children less than 2 months of age on open skin wounds Stop use and ask a doctor if irritation develops Keep out of reach of children. If swallowed, call or contact a Poison Control Center or get medical help right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Do not use on children less than 2 months of age on open skin wounds Stop use and ask a doctor if irritation develops Keep out of reach of children. If swallowed, call or contact a Poison Control Center or get medical help right away.
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds Stop use and ask a doctor if irritation develops Keep out of reach of children. If swallowed, call or contact a Poison Control Center or get medical help right away.
+stop_use:
+  Stop use and ask a doctor if irritation develops Keep out of reach of children. If swallowed, call or contact a Poison Control Center or get medical help right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, call or contact a Poison Control Center or get medical help right away.
+dosage_and_administration:
+  Directions put enough product in your palm to cover hands, rub hands together for at least 30 seconds. Allow to dry. Children under 6 years should be supervised when using this product.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Hydroxyethylcellulose, Tetrasodium EDTA, Citric Acid, Sodium Hydroxide, DMDM Hydantoin.
+questions:
+  Questions? 1-866-695-3030
+package_label_principal_display_panel:
+  Label copy image of the label
+set_id:
+  00b1c798-f5af-4536-8dc4-c60b8b2c0708
+id:
+  9e7da0d1-fd83-42dc-b5c8-b16f0d8c0e9b
+effective_time:
+  20200420
+version:
+  1
+openfda:

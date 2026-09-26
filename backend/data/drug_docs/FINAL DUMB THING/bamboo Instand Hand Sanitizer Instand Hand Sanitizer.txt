@@ -1,0 +1,27 @@
+effective_time:
+  20200413
+inactive_ingredient:
+  Water Glycerin, Propylene glycol,Carbomer, Triethanolamine, Aloe, Fragrance, pigment
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  This product contains alcohol,it should not be used if you are allergicto alcohol. Avoid eyes and ears contact.lf accidentally contact eyes, please rinse the eyes with water immediately. Seek medical attention if you feel unwell. This product is not suitable for disinfecting the surface of fat-solubleObjects.
+spl_product_data_elements:
+  bamboo Instand Hand Sanitizer Instand Hand Sanitizer ALCOHOL ALCOHOL AMINOMETHYLPROPANOL WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE bamboo
+openfda:
+version:
+  2
+dosage_and_administration:
+  This product is for external use, strictly forbidden to be takenorally. Please put it away from the touch of kids.
+package_label_principal_display_panel:
+  label2
+indications_and_usage:
+  Squeeze proper amount of hand washing liquid into the palm, rub your hands together until your hands dry, and do not need to rinse with water.
+set_id:
+  a20d3a14-48b2-2550-e053-2a95a90a6a15
+id:
+  a3288b86-202f-083a-e053-2a95a90a4284
+active_ingredient:
+  Ethyl Alcohol

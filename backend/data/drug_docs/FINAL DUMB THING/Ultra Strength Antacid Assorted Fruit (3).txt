@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Ultra Strength Antacid Assorted Fruit Calcium carbonate CALCIUM CARBONATE CALCIUM CATION ADIPIC ACID STARCH, CORN CROSPOVIDONE, UNSPECIFIED DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 ALUMINUM LAKE MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC D&C RED NO. 27 ALUMINUM LAKE D&C RED NO. 30 ALUMINUM LAKE D&C YELLOW NO. 10 ALUMINUM LAKE FD&C YELLOW NO. 6 ALUMINUM LAKE reddish pink G171
+active_ingredient:
+  ACTIVE INGREDIENT (in each tablet) Calcium carbonate 1000 mg
+purpose:
+  PURPOSE Antacid
+indications_and_usage:
+  USE(S) relieves: acid indigestion heartburn
+warnings:
+  WARNINGS .
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  WHEN USING THIS PRODUCT do not take more than 7 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREASTFEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN .
+dosage_and_administration:
+  DIRECTIONS adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor.
+storage_and_handling:
+  OTHER INFORMATION each tablet contains: elemental calcium 400 mg do not use if printed seal under cap is torn or missing store at room temperature. keep the container tightly closed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS adipic acid, corn starch, crospovidone, D&C red 27 lake, D&C red 30 lake, D&C yellow 10 lake, dextrose, FD&C blue 1 lake, FD&C yellow 6 lake, flavors, magnesium stearate, maltodextrin, sucrose, talc.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL MARKET BASKET "MORE FOR YOUR DOLLAR" ANTACID ULTRA STRENGTH Calcium Carbonate 1000 mg *Compare to the active ingredient in TUMS® ASSORTED FRUIT FLAVORS 72 Tablets 171af-72-dem.jpg
+set_id:
+  a7257be7-bef3-4fe7-8789-cc3da4516875
+id:
+  a7257be7-bef3-4fe7-8789-cc3da4516875
+effective_time:
+  20250305
+version:
+  1
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Ultra Strength Antacid Assorted Fruit
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    DeMoulas Market Basket
+  product_ndc:
+    53942-171
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308892
+  spl_id:
+    a7257be7-bef3-4fe7-8789-cc3da4516875
+  spl_set_id:
+    a7257be7-bef3-4fe7-8789-cc3da4516875
+  package_ndc:
+    53942-171-68
+  is_original_packager:
+    True
+  upc:
+    0049705831496
+  unii:
+    H0G9379FGK

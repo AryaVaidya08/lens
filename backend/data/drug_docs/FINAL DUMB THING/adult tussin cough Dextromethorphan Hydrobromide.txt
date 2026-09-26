@@ -1,0 +1,39 @@
+effective_time:
+  20171127
+inactive_ingredient:
+  Inactive ingredients alcohol, anhydrous citric acid, FD&C red no. 40, flavor, glycerin, high fructose corn syrup, menthol, purified water, saccharin sodium, sodium benzoate
+purpose:
+  Purpose Cough suppressant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Do not use • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  adult tussin cough Dextromethorphan Hydrobromide DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ALCOHOL ANHYDROUS CITRIC ACID FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP WATER SACCHARIN SODIUM SODIUM BENZOATE MENTHOL
+ask_doctor:
+  Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma or emphysema
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • do not take more than 4 doses in any 24-hour period • measure only with dosing cup provided • keep dosing cup with product • mL = milliliter • this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 10 mL every 6 to 8 hours children under 12 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition.
+storage_and_handling:
+  Other information • store at 20-25°C (68-77°F)
+do_not_use:
+  Do not use • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Principal Display Panel ADULT TUSSIN LONG-ACTING COUGH COUGH SUPPRESSANT (DEXTROMETHORPHAN HBr) NON-DROWSY Relieves: COUGH UP TO 8 HOURS For Ages 12 & Over ALCOHOL 1.4% Gluten Free COMPARE TO ROBITUSSIN® LONG-ACTING COUGH active ingredient 4 FL OZ (118 mL) Tussin Carton Image 1 Tussin Carton Image 2
+indications_and_usage:
+  Use • temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold
+set_id:
+  561eee7a-edde-44eb-b7a4-43c595159343
+id:
+  75a16b80-0359-48ae-9a11-46824db8d37d
+active_ingredient:
+  Active ingredient (in each 10 mL) Dextromethorphan HBr, USP 30 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="49%"/> <col width="37%"/> <tbody> <tr> <td align="center" styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>age</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>dose</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>adults and children</paragraph> <paragraph>12 years and over </paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>10 mL</paragraph> <paragraph>every 6 to 8 hours</paragraph> </td> </tr> <tr> <td align="center" styleCode="Botrule Lrule " valign="middle"> <paragraph>children under 12 years</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

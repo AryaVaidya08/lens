@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  PINXAV DAIPER RASH Zinc Oxide ZINC OXIDE ZINC OXIDE PETROLATUM LANOLIN STEARIC ACID ALUMINUM HYDROXIDE CETYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE METHYL SALICYLATE EUCALYPTOL CLOVE LEAF OIL FERRIC OXIDE RED ALOE VERA LEAF MENTHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Zinc oxide 30%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses helps treat and prevent diaper rash. Protects chafed skin due to diaper rash and helps seal out wetness. dries the oozing and weeping of poison ivy, poison oak and poison sumac.
+warnings:
+  Warnings For external use only When using this product, avoid contact with the eyes Stop use and ask a doctor if condition worsens or does not improve within 7 days Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+when_using:
+  When using this product, avoid contact with the eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve within 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions apply liberally as often as necessary For diaper rash: change wet or soiled diapers promptly cleanse the diaper area and allow to dry apply ointment liberally, as often as necessary, with each diaper change and especially at bedtime or anytime when exposure to wet diapers may be prolonged
+inactive_ingredient:
+  Inactive ingredients Aloe Vera Gel, Aluminum Hydroxide, Cetyl Alcohol, Clove Leaf Oil, Eucayptol, Lanolin, Menthol, Methyl Salicylate, Petrolatum, Red Ferric Oxide, Stearic Acid, Tocopherol
+questions:
+  Questions or comments? Call 1-888-4-PINXAV or visit us at www.pinxav.com Store at room temperature 15° - 30°C (59° - 86°F).
+package_label_principal_display_panel:
+  Principal Display Panel – Jar Label PINXAV NDC SKIN PROTECTANT • helping to Soothe ,Heal and prevent Diaper rash Net Wt 16 OZ (454 g) Principal Display Panel – Jar Label
+  Principal Display Panel - 4.0 OZ Tube PINXAV DIAPER RASH Ointment Skin protectant Zinc Oxide 30% Help Soothe & Protect Chafed Skin NET WT 4.0 OZ (113.4g) Principal Display Panel - 4.0 OZ Tube
+  Principal Display Panel - 4.0 OZ Carton PINXAV DIAPER RASH Ointment Skin protectant Zinc Oxide 30% Help Soothe & Protect Chafed Skin NET WT 4.0 OZ (113.4 g) Principal Display Panel - 4.0 OZ Carton
+set_id:
+  14daf592-8edf-4679-9abf-de1b9d0799ff
+id:
+  447c3eda-2f4c-48c4-b926-2867577945e3
+effective_time:
+  20241121
+version:
+  2
+openfda:
+  application_number:
+    M016
+  brand_name:
+    PINXAV DAIPER RASH
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Emjay Laboratories Inc.
+  product_ndc:
+    82778-342
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    418822
+  spl_id:
+    447c3eda-2f4c-48c4-b926-2867577945e3
+  spl_set_id:
+    14daf592-8edf-4679-9abf-de1b9d0799ff
+  package_ndc:
+    82778-342-04
+    82778-342-16
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

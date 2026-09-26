@@ -1,0 +1,31 @@
+effective_time:
+  20120417
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Isopropyl Alcohol, Honey Extract (Mel, Extrait de miel), Elaeis Guineensis (Palm) Extract, Cocos Nucifera (Coconut) Fruit Extract, Olea Europaea (Olive) Fruit Extract, Wheat Amino Acids, Retinyl Palmitate, Tocopheryl Acetate, Hydroxypropyl Methylcellulose, Glycerin, Fragrance (Parfum), Carbomer, Cellulose, Hydroxyethyl Urea, Lactose, Aminomethyl Propanol, Isopropyl Myristate, Propylene Glycol, Ultramarines (CI 77007), Blue 1 (CI 42090), Yellow 5 (CI 19140), Red 33 (CI 17200).
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF THE REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  WARNINGS For external use only . When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation and redness develop or increase.
+spl_product_data_elements:
+  Anti-Bacterial Hand Charmed Life Alcohol ALCOHOL ALCOHOL WATER
+warnings_and_cautions:
+  FLAMMABLE Keep away from flame or high heat.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Rub a dime sized drop into hands.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr. Reynoldsburg, Ohio 43068 1-800-395-1001 www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING Front Label Back Label
+indications_and_usage:
+  USE Decrease bacteria on hands.
+set_id:
+  d7822e7f-efe5-4c12-ac11-4894d319bfce
+id:
+  b0f65b4c-581a-4270-8cce-a8471eaa4e98
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 68%

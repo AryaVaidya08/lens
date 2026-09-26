@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  ZIMS MAX FREEZE MENTHOL, LIDOCAINE and MENTHYL SALICYLATE ALOE VERA LEAF ALUMINUM HYDROXIDE ALCOHOL ARNICA MONTANA BORNEOL CAMPHOR (SYNTHETIC) EDETATE DISODIUM GLYCERIN COPOVIDONE K25-31 TARTARIC ACID TITANIUM DIOXIDE WATER MENTHOL MENTHOL LIDOCAINE LIDOCAINE MENTHYL SALICYLATE, (+/-)- SALICYLIC ACID
+active_ingredient:
+  ACTIVE INGREDIENTS: NATURAL Menthol USP 5% Lidocaine 4% Methyl Salicylate 0.04%
+purpose:
+  PURPOSE: Topical Analgesic Topical Analgesic Topical Analgesic
+indications_and_usage:
+  *USES: For the temporary relief of minor aches and pains of muscles and joints associated with: SIMPLE BACKACHE ARTHRITIS STRAINS BRUISES SPRAINS
+warnings:
+  WARNINGS: Use only as directed. For external use only Do Not use if you are allergic to any ingredient in Zim's Max-Freeze Patch Do Not use if you have had allergic reaction to aspirin or other salicylate products Use caution with blood thinning medications, NSAIDS, steroids or nonsteroidal anti-inflammatory drugs If conditions worsens or symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician Avoid contact with eyes or mucous membranes PREGNANCY - Breast Feeding Warning: If pregnant or breastfeeding, ask a physician before use. Do not use with other topical products. Do not use with heating devices. Do not use on open wounds, damaged or irritated skin Keep away from excessive heat. Keep this and all medicine out of reach of children. Accidental ingestion: Seek professional help and contact Poison Control immediately Under age 12 Consult a physician before use.
+do_not_use:
+  Do Not use if you are allergic to any ingredient in Zim's Max-Freeze Patch Do Not use if you have had allergic reaction to aspirin or other salicylate products Use caution with blood thinning medications, NSAIDS, steroids or nonsteroidal anti-inflammatory drugs If conditions worsens or symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician Avoid contact with eyes or mucous membranes
+pregnancy_or_breast_feeding:
+  PREGNANCY - Breast Feeding Warning: If pregnant or breastfeeding, ask a physician before use. Do not use with other topical products. Do not use with heating devices. Do not use on open wounds, damaged or irritated skin Keep away from excessive heat.
+keep_out_of_reach_of_children:
+  Keep this and all medicine out of reach of children. Accidental ingestion: Seek professional help and contact Poison Control immediately Under age 12 Consult a physician before use.
+dosage_and_administration:
+  DIRECTIONS: Adults/children 12 years and older Strip off the polyethylene film and place adhesive pad over affected area. Change pad 1 or 2 times a day. Wash Hands after applying patch.
+other_safety_information:
+  OTHER: Store at room temperature - do not exceed 86° Fahrenheit
+inactive_ingredient:
+  INACTIVE INGREDIENTS: †Aloe Barbadensis Leaf Extract, Aluminum Hydroxide, Alcohol, Arnica Extract, Borneol, Camphor, EDTA-2Na, Glycerin, NP-700, PVPP, Tartaric Acid, Titanium Dioxide, Water. Distributed by: Perfecta Products, Inc., North Lima, OH 44452 (800) 319-2225-www.ZimsUSA.com ©2015 Perfecta Products, Inc.®
+package_label_principal_display_panel:
+  Principal Display Panel - Medium Pouch Label ZIM's MAX FREEZE PATCHES MUSCLE & JOINT* Description: Zim's Max-Freeze Patch Size: Medium Lot#: 123456 Expiration Date - 1/1/19 Principal Display Panel - Medium Pouch Label
+  Principal Display Panel - Large Pouch Label ZIM's MAX FREEZE PATCHES MUSCLE & JOINT* Description: Zim's Max-Freeze Patch Size: Large Lot#: 123456 Expiration Date - 12/25/18 Principal Display Panel - Large Pouch Label
+  Principal Display Panel - Extra Large Pouch Label ZIM's MAX FREEZE PATCHES MUSCLE & JOINT* Description: Zim's Max-Freeze Patch Size: Extra Large Lot#: 123456 Expiration Date - 1/5/19 Principal Display Panel - Extra Large Pouch Label
+set_id:
+  ce4a477a-f947-422e-85ac-72b16f7b92f2
+id:
+  2b0f0042-f21d-174f-e063-6394a90a40ab
+effective_time:
+  20250106
+version:
+  2
+openfda:

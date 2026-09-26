@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Vicks Sinex Severe No Drip Oxymetazoline Hydrochloride SODIUM PHOSPHATE, DIBASIC EUCALYPTOL MENTHOL MICROCRYSTALLINE CELLULOSE CARBOXYMETHYLCELLULOSE SODIUM SODIUM PHOSPHATE, MONOBASIC POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE PROPYLENE GLYCOL CAMPHOR (NATURAL) BENZALKONIUM CHLORIDE BENZYL ALCOHOL EDETATE DISODIUM WATER OXYMETAZOLINE HYDROCHLORIDE OXYMETAZOLINE
+spl_unclassified_section:
+  Drug Facts
+  DIST.BYPROCTER&GAMBLE, CINCINNATIOH45202
+active_ingredient:
+  Active ingredient Oxymetazoline HCl 0.05%
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to a cold, hay fever, or other upper respiratory allergies sinus congestion and pressure
+warnings:
+  Warnings Ask a doctor before use if you have heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland When using this product do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection Stop use and ask a doctor if symptoms persist. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+ask_doctor:
+  Ask a doctor before use if you have heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland
+when_using:
+  When using this product do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection
+stop_use:
+  Stop use and ask a doctor if symptoms persist.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Shake well before use. Remove protective cap. Before using for the first time, prime the pump by firmly depressing its rim several times. Hold container with thumb at base and nozzle between first and second fingers.Without tilting your head, insert nozzle into nostril. Fully depress rim with a firm, even stroke and inhale deeply. adults & children 6 yrs. & older (with adult supervision) 2 or 3 sprays in each nostril, not more often than every 10 to 12 hours. Do not exceed 2 doses in 24 hours. children 2 to under 6 yrs ask a doctor children under 2 yrs. do not use
+storage_and_handling:
+  Other information do not exceed 25C
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride solution, benzyl alcohol, camphor, dibasic sodium phosphate, edetate disodium, eucalyptol, menthol, microcrystalline cellulose and carboxymethylcellulose sodium, monobasic sodium phosphate, polyethylene glycol, povidone, propylene glycol, purified water
+questions:
+  Questions? 1-800-873-8276
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton VICKS ® Sinex™ SEVERE Oxymetazoline HCl | Nasal Decongestant NO DRIP NASAL SPRAY Fast Sinus Congestion & Pressure Relief Powerful Vicks Vapors 12 HOUR ½ FL OZ (15 ml) SSND
+set_id:
+  6f2b46cd-59c5-4196-e053-2991aa0a61cb
+id:
+  051bf195-0aa1-c17f-e063-6394a90a81ea
+effective_time:
+  20230911
+version:
+  4
+openfda:

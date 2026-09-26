@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Motion Sickness Relief Dimenhydrinate DIMENHYDRINATE DIPHENHYDRAMINE 8-CHLOROTHEOPHYLLINE CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE STEARIC ACID 44;198
+active_ingredient:
+  Active ingredient (in each tablet) Dimenhydrinate 50 mg
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Uses for prevention and treatment of these symptoms associated with motion sickness: nausea vomiting dizziness
+warnings:
+  Warnings Do not use for children under 2 years of age unless directed by a doctor. Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use for children under 2 years of age unless directed by a doctor.
+ask_doctor:
+  Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than directed to prevent motion sickness, the first dose should be taken 1/2 to 1 hour before starting activity to prevent or treat motion sickness, see below: adults and children 12 years and over take 1 to 2 tablets every 4-6 hours do not take more than 8 tablets in 24 hours, or as directed by a doctor children 6 to under 12 years give 1/2 to 1 tablet every 6-8 hours do not give more than 3 tablets in 24 hours, or as directed by a doctor children 2 to under 6 years give 1/2 tablet every 6-8 hours do not give more than 1 1/2 tablets in 24 hours, or as directed by a doctor
+dosage_and_administration_table:
+  <table width="344.4px"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule Lrule Rrule">adults and children 12 years and over</td><td styleCode=" Botrule Toprule Lrule Rrule"><list listType="unordered" styleCode="Disk"><item>take 1 to 2 tablets every 4-6 hours</item><item>do not take more than 8 tablets in 24 hours, or as directed by a doctor</item></list></td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children 6 to under 12 years</td><td styleCode=" Botrule Toprule Lrule Rrule"><list listType="unordered" styleCode="Disk"><item>give 1/2 to 1 tablet every 6-8 hours</item><item>do not give more than 3 tablets in 24 hours, or as directed by a doctor</item></list></td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children 2 to under 6 years</td><td styleCode=" Botrule Toprule Lrule Rrule"><list listType="unordered" styleCode="Disk"><item>give 1/2 tablet every 6-8 hours</item><item>do not give more than 1 1/2 tablets in 24 hours, or as directed by a doctor</item></list></td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 35 mg TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) protect from moisture see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, dibasic calcium phosphate dihydrate, magnesium stearate, microcrystalline cellulose, silicon dioxide, stearic acid
+questions:
+  Questions or comments? 1-888-423-0139
+package_label_principal_display_panel:
+  Principal display panel +TopCare ® health NDC 36800-930-12 COMPARE TO THE ACTIVE INGREDIENT IN DRAMAMINE ® ORIGINAL FORMULA* ORIGINAL FORMULA Motion Sickness Relief DIMENHYDRINATE, 50 mg - ANTIEMETIC Prevents & Relieves Nausea, Dizziness & Vomiting Dye-Free 12 TABLETS For Children & Adults actual size TopCare 44-198 TopCare 44-198
+set_id:
+  503a70db-d564-4ea0-851e-8ff617e70728
+id:
+  704d67a1-ba8e-48d1-b25d-98825d20ff5a
+effective_time:
+  20260616
+version:
+  12
+openfda:
+  application_number:
+    M009
+  brand_name:
+    Motion Sickness Relief
+  generic_name:
+    DIMENHYDRINATE
+  manufacturer_name:
+    Topco Associates, LLC
+  product_ndc:
+    36800-930
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMENHYDRINATE
+  rxcui:
+    198603
+  spl_id:
+    704d67a1-ba8e-48d1-b25d-98825d20ff5a
+  spl_set_id:
+    503a70db-d564-4ea0-851e-8ff617e70728
+  package_ndc:
+    36800-930-12
+  is_original_packager:
+    True
+  upc:
+    0036800127326
+  unii:
+    JB937PER5C

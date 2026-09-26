@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Anti-Bacterial Hand Sanitizer Benzalkonium Chloride CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM WATER COCO GLUCOSIDE LAURTRIMONIUM CHLORIDE COCAMIDOPROPYLAMINE OXIDE
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antimicrobial
+dosage_and_administration:
+  Directions ▪ Pump a small amount of foam into palm of hand ▪ Rub thoroughly over all surfaces of both hands for 15 seconds ▪ Rinse with potable water
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+indications_and_usage:
+  Uses For hand washing to decrease bacteria on the skin Recommended for repeated use
+inactive_ingredient:
+  Inactive ingredients Water, coco-glucoside, laurtrimonium chloride, cocamidopropylamine oxide, citric acid
+package_label_principal_display_panel:
+  Anti-bacterial Hand Sanitizer anti bacterial hand sanitizer
+set_id:
+  a300c9aa-64e1-dc93-e053-2a95a90a1b30
+id:
+  b84015ae-9c72-b1d7-e053-2a95a90a2cc8
+effective_time:
+  20210106
+version:
+  2
+openfda:

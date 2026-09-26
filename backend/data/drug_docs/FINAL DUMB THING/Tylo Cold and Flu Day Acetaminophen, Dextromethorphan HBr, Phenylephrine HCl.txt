@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Tylo Cold and Flu Day Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE PROPYLENE GLYCOL WATER SORBITOL TITANIUM DIOXIDE SN2;WHITE;INK
+active_ingredient:
+  Active ingredients (in each LiquiCap) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg
+purpose:
+  Purpose Pain reliever/fever reducer Cough suppressant Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: nasal congestion cough due to minor throat and bronchial irritation sore throat headache minor aches & pains fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hrs, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease cough that occurs with too much phlegm (mucus) high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, or emphysema. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product do not use more than directed. Stop use and ask a doctor if you get nervous, dizzy or sleepless pain, nasal congestion or cough get worse or last more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Other Information Keep out of reach of children. Overdose warning Taking more than directed can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults & for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease cough that occurs with too much phlegm (mucus) high blood pressure thyroid disease diabetes trouble urinating due to enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, or emphysema.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+when_using:
+  When using this product do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy or sleepless pain, nasal congestion or cough get worse or last more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Other Information Keep out of reach of children.
+dosage_and_administration:
+  Directions take only as directed - see Overdose warning do not exceed 4 doses per 24 hrs adults & children 12 yrs & over: 2 Softgels with water every 4 hrs children 4 to under 12 yrs: ask a doctor children under 4 yrs: do not use
+  when using other Tylo Cold & Flu Day or Night products, carefully read each label to ensure correct dosing
+storage_and_handling:
+  Other information: store at room temperature
+inactive_ingredient:
+  Inactive ingredients FD&C Red No. 40, FD&C Yellow No. 6, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol sorbitan solution, titanium dioxide
+questions:
+  Questions? 1-855-470-6722
+package_label_principal_display_panel:
+  TYLO COLD & FLU (Day) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg image description
+set_id:
+  7ba22bc1-6d5a-4e1e-87e3-c9f69fae0cb7
+id:
+  817a1dca-29d7-4ba0-9573-86f36bb0e632
+effective_time:
+  20190122
+version:
+  1
+openfda:

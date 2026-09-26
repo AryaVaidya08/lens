@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Head and Shoulders Ginger 2in1 Pyrithione Zinc SODIUM LAURETH SULFATE SODIUM LAURYL SULFATE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) WATER DIMETHICONE ZINC CARBONATE GLYCOL DISTEARATE SODIUM XYLENESULFONATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE SODIUM BENZOATE MAGNESIUM CARBONATE HYDROXIDE PYRITHIONE ZINC PYRITHIONE ZINC
+spl_unclassified_section:
+  Drug Facts
+  MADE IN U.S.A. of U.S. and/or Imported Ingredients Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Uses helps prevent recurrence of flaking and itching associated with dandruff.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed. Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor. for maximum dandruff control, use every time you shampoo. shake before use. wet hair, massage onto scalp, rinse, repeat if desired.
+inactive_ingredient:
+  Inactive ingredients Water, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, sodium chloride, zinc carbonate, dimethicone, cocamidopropyl betaine, sodium xylenesulfonate, fragrance, sodium benzoate, guar hydroxypropyltrimonium chloride, magnesium carbonate hydroxide
+questions:
+  Questions (or comments)? 1-800-723-9569
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 835 mL Bottle Label head & shoulders ® PYRITHIONE ZINC DANDRUFF SHAMPOO + CONDITIONER GINGER 2IN1 Invigorates scalp with antioxidant action INFUSED WITH GINER SCENT CLINICALLY PROVEN UP TO 100% DANDRUFF PROTECTION 28.2 FL OZ (835 mL) HS
+set_id:
+  f80a83cc-1174-3ec3-e053-6394a90ab012
+id:
+  4745f618-0a3c-a9ae-e063-6394a90a5cf6
+effective_time:
+  20251231
+version:
+  4
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Head and Shoulders Ginger 2in1
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    The Procter & Gamble Manufacturing Company
+  product_ndc:
+    69423-670
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+    1043244
+  spl_id:
+    4745f618-0a3c-a9ae-e063-6394a90a5cf6
+  spl_set_id:
+    f80a83cc-1174-3ec3-e053-6394a90ab012
+  package_ndc:
+    69423-670-37
+    69423-670-83
+    69423-670-95
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

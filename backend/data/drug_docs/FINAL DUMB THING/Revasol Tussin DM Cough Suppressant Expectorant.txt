@@ -1,0 +1,80 @@
+spl_product_data_elements:
+  Revasol Tussin DM Cough Suppressant Expectorant Dextromethorphan HBr, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN SODIUM BENZOATE GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID GLYCERIN MENTHOL XANTHAN GUM SUCRALOSE PROPYLENE GLYCOL WATER
+active_ingredient:
+  Dextromethorphan HBr 10 mg Guaifenesin 100 mg
+purpose:
+  Cough Suppressant Expectorant
+indications_and_usage:
+  Uses • temporarily relieves cough as may occur with the common cold • helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus.
+warnings:
+  Warnings Do not use • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have • a cough that is accompanied by excessive phlegm (mucus) • a persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+stop_use:
+  Stop use and ask a doctor if • cough persists for more than 1 week, tends to recur, or is accompanied by a fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • do not exceed more than 6 doses in any 24-hour period • measure only with dosing cup provided • keep dosing cup with product • mL=mililiter • TSP=teaspoonful Age Dose adults and children 12 years of age and over 10 mL every 4 hours children 6 to under 12 years of age 5 mL every 4 hours children under 6 years of age do not use
+dosage_and_administration_table:
+  <table border="1" width="100%"><tbody><tr><td><content styleCode="bold">Age</content></td><td><content styleCode="bold">Dose</content></td></tr><tr><td>adults and children 12 years of age and over</td><td>10 mL every 4 hours</td></tr><tr><td>children 6 to under 12 years of age</td><td>5 mL every 4 hours</td></tr><tr><td>children under 6 years of age</td><td>do not use</td></tr></tbody></table>
+other_safety_information:
+  Other Information • Store at room temperature 15-30°C (59-86°F). Do not refrigerate. TAMPER-EVIDENT FEATURE: Do not use if printed safety seal is torn, broken or missing.
+inactive_ingredient:
+  Inactive ingredients citric acid, flavors, glycerin, menthol, propylene glycol, sodium benzoate, sucralose, water.
+questions:
+  Questions or comments? 1-888-446-4753 Monday - Friday (9 AM - 5 PM EST)
+spl_unclassified_section:
+  Made in USA Distributed by: RNV LLC 14501 NW 60 Ave, Miami Lakes, FL 33014
+package_label_principal_display_panel:
+  LABEL REVASOL DM 316
+set_id:
+  4b7fd320-2f39-fa1a-e063-6294a90ada9e
+id:
+  4b7fd320-2f3a-fa1a-e063-6294a90ada9e
+effective_time:
+  20260223
+version:
+  1
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Revasol Tussin DM Cough Suppressant Expectorant
+  generic_name:
+    DEXTROMETHORPHAN HBR, GUAIFENESIN
+  manufacturer_name:
+    Rnv LLC
+  product_ndc:
+    84379-316
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  rxcui:
+    996520
+  spl_id:
+    4b7fd320-2f3a-fa1a-e063-6294a90ada9e
+  spl_set_id:
+    4b7fd320-2f39-fa1a-e063-6294a90ada9e
+  package_ndc:
+    84379-316-16
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

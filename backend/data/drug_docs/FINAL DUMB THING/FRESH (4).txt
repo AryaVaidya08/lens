@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  FRESH PURE HAND ALCOHOL WATER BUTYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE POLYSORBATE 60 ISOPROPYL MYRISTATE ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: ALCOHOL 70%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water, Butylene Glycol, Carbomer, Triethanolamine, Polysorbate 60, Isopropyl Myristate, Fragrance
+purpose:
+  PURPOSE Purpose: ANTISEPTIC
+warnings:
+  WARNINGS Warnings: Flammable, Keep away from fire or flame For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep our of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses Uses: For handwashing when water is not available to decrease bacteria on the skin - After changing diapers - After assisting ill persons - Before contact with a person under medical care or treatment - Recommended for repeated use
+dosage_and_administration:
+  Directions Directions: - Apply palmful to hands - Rub hands together vigorously until dry - Supervise children in the use of this product
+other_safety_information:
+  Other Information Other Information: Store at room temperature: 15°~30 °C (59°~86 °F)
+package_label_principal_display_panel:
+  PACKAGE LABEL - FRESH PURE HAND GEL 30mL * 20ea Carton Image of carton
+  PACKAGE LABEL - FRESH PURE HAND GEL 500mL Bottle Image of bottle
+set_id:
+  c56c0300-ef45-4d54-968e-74d0ba1fec64
+id:
+  b3e0bc1d-2112-c005-e053-2a95a90a89d6
+effective_time:
+  20201111
+version:
+  2
+openfda:

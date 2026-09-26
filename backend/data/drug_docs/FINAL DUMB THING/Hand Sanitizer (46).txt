@@ -1,0 +1,35 @@
+effective_time:
+  20210518
+recent_major_changes:
+  
+inactive_ingredient:
+  Inactive ingredients Aqua (water), Ammonium Acryloyldimethylteurate/VP Copolymer, Eucalyptus globulus (Eucalyptus) Oil
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable, keep away from fire and flames. For external use only
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER EUCALYPTUS OIL WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop.
+storage_and_handling:
+  Other information Store in a cool, dry place below 104F
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 100 mL NDC: 76584-005-10 Principle Display Panel and Drug Facts
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin, only when water is not available.
+set_id:
+  a517dfe5-e49b-5f2d-e053-2a95a90a2ec1
+id:
+  c29f7129-aa9d-09e0-e053-2a95a90acd40
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 75%. Purpose: Antiseptic

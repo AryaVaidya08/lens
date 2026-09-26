@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Kroger Cool Mint Boost Mouth Eucalyptol, Menthol, Methyl Salicylate, Thymol EUCALYPTOL EUCALYPTOL MENTHOL MENTHOL METHYL SALICYLATE SALICYLIC ACID THYMOL THYMOL WATER ALCOHOL POLOXAMER 407 BENZOIC ACID SACCHARIN SODIUM SODIUM BENZOATE SUCRALOSE FD&C GREEN NO. 3
+active_ingredient:
+  Active ingredients Eucalyptol 0.92%, Menthol 0.042%, Methyl Salicylate 0.060%, Thymol 0.064% Purpose Antigingivitis, Antiplaque
+purpose:
+  Purpose Antigingivitis, Antiplaque
+indications_and_usage:
+  Uses helps control plaque that leads to gingivitis, an early form of gum disease.
+warnings:
+  Warnings Stop use and ask a dentist if gingivitis, bleeding, or redness persists for more than 2 weeks. you have painful or swollen gums, pus from the gum line, loose teeth, increasing space between the teeth. These may be signs or symptoms of periodontitis, a serious form of gum disease. Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally ingested, get medical help or contact a Poison Control Center immediately.
+stop_use:
+  Stop use and ask a dentist if gingivitis, bleeding, or redness persists for more than 2 weeks. you have painful or swollen gums, pus from the gum line, loose teeth, increasing space between the teeth. These may be signs or symptoms of periodontitis, a serious form of gum disease. Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally ingested, get medical help or contact a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally ingested, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: vigorously swish 20 milliliters of rinse between your teeth twice a day for 30 seconds and then spit out. Do not swallow Children 6 years to under 12 years of age: supervise use. Children under 6 years of age: do not use
+storage_and_handling:
+  Other information this rinse is not intended to replace brushing or flossing. store at room temperature. cold weather may cloud this product. Its antiseptic properties are not affected.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Alcohol (21.6%), Poloxamer 407, Flavor, Benzoic Acid, Sodium Saccharin, Sodium Benzoate, Sucralose, Green 3 (CI 42053).
+questions:
+  Questions or comments? 1-800-632-6900
+package_label_principal_display_panel:
+  Label Copy Image of the label
+set_id:
+  24ad0af2-8694-4bf1-8cfd-0b43ba4514b5
+id:
+  b5204373-20bd-46c6-8ec3-7f99d745ebbe
+effective_time:
+  20180215
+version:
+  1
+openfda:

@@ -1,0 +1,23 @@
+spl_product_data_elements:
+  Sun Screen Octinoxate, Octisalate, Oxybenzone, Titanium Dioxide DMDM HYDANTOIN PROPYLPARABEN GLYCERYL STEARATE SE CETETH-25 CETOSTEARYL ALCOHOL CAPRYLIC/CAPRIC/LAURIC TRIGLYCERIDE GLYCERIN ALKYL (C12-15) BENZOATE ISOPROPYL MYRISTATE WATER METHYLPARABEN TITANIUM DIOXIDE TITANIUM DIOXIDE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE OXYBENZONE OXYBENZONE
+purpose:
+  Purpose Purpose Sun Screen
+active_ingredient:
+  Drug Facts Octinoxate 7.0% Octisalate 4.0% Titanium Dioxide 4.0% Benzophenone 3.0%
+intended_use_of_the_device:
+  Directions Apply to all exposed skin prior to sun exposure. Reapply as needed especially after swimming or perspiring. Consult a physician before using on children under 6 months.
+warnings:
+  Warnings FOR EXTERNAL USE ONLY Avoid contact with eyes. Keep out of reach of children.
+inactive_ingredient:
+  Inactive Ingredients
+package_label_principal_display_panel:
+  SPF 30 Sunscreen Lotion- 2oz ASI: 95838 ssl2
+set_id:
+  3f2509c7-2d22-6a8f-e054-00144ff8d46c
+id:
+  d4c71a45-c07e-5b55-e053-2a95a90a4228
+effective_time:
+  20220104
+version:
+  6
+openfda:

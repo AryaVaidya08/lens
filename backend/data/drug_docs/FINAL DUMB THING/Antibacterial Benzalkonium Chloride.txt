@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Antibacterial Benzalkonium Chloride GLYCERIN DITETRACYCLINE TETRASODIUM EDETATE METHYLCHLOROISOTHIAZOLINONE WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE ANHYDROUS CITRIC ACID METHYLISOTHIAZOLINONE FD&C YELLOW NO. 5 FD&C RED NO. 4 BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Benzalkonium Chloride - 0.13%......................Purpose - Antibacterial
+purpose:
+  Purpose - Antibacterial
+indications_and_usage:
+  Uses for handwashing or decrease bacteria to the skin
+warnings:
+  For external use only
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops
+when_using:
+  When using the product do not get into eyes. If contact occurs, rinse eye thoroughly with water
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Wet Hands Apply palmful to hands Scrub thoroughly Rinse
+inactive_ingredient:
+  Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Citric Acid, Glycerin, Fragrance, Tetrasodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, Yellow# 5 (Cl 19140), Red# 4 (Cl14700)
+package_label_principal_display_panel:
+  32
+  image
+set_id:
+  1c38b650-e5c0-4115-ba7e-78457c0bff2f
+id:
+  a7381c83-d8a6-404d-e053-2a95a90a909b
+effective_time:
+  20200603
+version:
+  2
+openfda:

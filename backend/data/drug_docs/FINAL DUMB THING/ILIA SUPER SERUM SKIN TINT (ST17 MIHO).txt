@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) Zinc Oxide FERRIC OXIDE YELLOW SHEA BUTTER ISOAMYL LAURATE POLYGLYCERYL-3 DIISOSTEARATE ISOPROPYL ISOSTEARATE .ALPHA.-BISABOLOL, (+)- CAPRYLYL GLYCOL LECITHIN, SOYBEAN ALOE VERA LEAF ALLANTOIN SILICON DIOXIDE SQUALANE BUTYLOCTYL SALICYLATE HYALURONATE SODIUM TITANIUM DIOXIDE SODIUM MYRISTOYL GLUTAMATE ZINC OXIDE ZINC OXIDE ALUMINUM HYDROXIDE WATER NIACINAMIDE PROPANEDIOL SODIUM CHLORIDE PHENYLPROPANOL METHYLPROPANEDIOL FERRIC OXIDE RED FERROSOFERRIC OXIDE
+dosage_and_administration:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) Dosage and Administration
+inactive_ingredient:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) Inactive ingredients
+indications_and_usage:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) Indications & usage
+active_ingredient:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) Active Ingredients
+keep_out_of_reach_of_children:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) keep out of reach of children
+purpose:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) purpose
+warnings:
+  ILIA SUPER SERUM SKIN TINT (ST17 MIHO) Warning Label
+package_label_principal_display_panel:
+  ILIA ST17 PDP
+set_id:
+  b595f875-b774-f847-e053-2995a90a2886
+id:
+  5259f017-a841-7473-e063-6294a90afade
+effective_time:
+  20260521
+version:
+  9
+openfda:
+  application_number:
+    M020
+  brand_name:
+    ILIA SUPER SERUM SKIN TINT (ST17 MIHO)
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Ilia, Inc.
+  product_ndc:
+    81110-765
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    5259f017-a841-7473-e063-6294a90afade
+  spl_set_id:
+    b595f875-b774-f847-e053-2995a90a2886
+  package_ndc:
+    81110-765-01
+    81110-765-02
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

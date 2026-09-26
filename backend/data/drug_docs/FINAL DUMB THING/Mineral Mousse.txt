@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Mineral Mousse Titanium Dioxide, Zinc Oxide DIMETHICONE CROSSPOLYMER CI 77492 ALPHA-TOCOPHEROL ACETATE CI 77499 TITANIUM DIOXIDE TITANIUM DIOXIDE PEG-10 DIMETHICONE (600 CST) CI 77491 TETRAHEXYLDECYL ASCORBATE DIMETHICONE CYCLOHEXASILOXANE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) ALUMINA LAURYL PEG/PPG-18/18 METHICONE ZINC OXIDE ZINC OXIDE CYCLOPENTASILOXANE HYDROGEN DIMETHICONE (20 CST) DIMETHICONOL (2000 CST)
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Package Label
+set_id:
+  35d00778-3857-ce8f-e063-6394a90ab375
+id:
+  4603984e-7bdc-3f25-e063-6394a90a885f
+effective_time:
+  20251215
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Mineral Mousse
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    CLARITY SKIN CARE STUDIO, INC.
+  product_ndc:
+    85629-203
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    4603984e-7bdc-3f25-e063-6394a90a885f
+  spl_set_id:
+    35d00778-3857-ce8f-e063-6394a90ab375
+  package_ndc:
+    85629-203-50
+  original_packager_product_ndc:
+    58892-203
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

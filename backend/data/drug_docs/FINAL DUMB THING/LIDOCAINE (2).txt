@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  LIDOCAINE LIDOCAINE HYDROCHLORIDE LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS CHONDROITIN SULFATE (BOVINE) DIMETHYL SULFONE POLYACRYLAMIDE (10000 MW) SODIUM POLYACRYLATE (2500000 MW) WATER ARNICA MONTANA FLOWER INDIAN FRANKINCENSE CETOSTEARYL ALCOHOL ETHYLHEXYLGLYCERIN GLUCOSAMINE SULFATE GLYCERIN GLYCERYL MONOSTEARATE C13-14 ISOPARAFFIN ISOSTEARYL PALMITATE LAURETH-7 PEG-100 STEARATE PHENOXYETHANOL PROPYLENE GLYCOL STEARIC ACID TROLAMINE
+spl_unclassified_section:
+  LIDOCAINE - L idocaine 4% cream 7T Pharma, LLC Disclaimer: Most OTC drugs are not reviewed and approved by FDA, however they may be marketed if they comply with applicable regulations and policies. FDA has not evaluated whether this product complies. ---------- Lidocaine 4% Cream ​Drug Facts
+active_ingredient:
+  Active ingredient Lidocaine HCl 4% w/w
+purpose:
+  Purpose Topical anesthetic
+indications_and_usage:
+  Uses Temporarily relieves pain and itching due to: minor cuts sunburn minor scrapes minor burns insect bites minor skin irritations
+warnings:
+  Warnings ​For external use only. When using this product do not use in or near the eyes do not use in large quantities, particularly over raw surfaces or blistered areas Stop use and ask a doctor if allergic reaction occurs condition worsens or does not improve within 7 days symptoms clear up and return within a few days redness, irritation, swelling, pain or other symptoms begin or increase Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes do not use in large quantities, particularly over raw surfaces or blistered areas
+stop_use:
+  Stop use and ask a doctor if allergic reaction occurs condition worsens or does not improve within 7 days symptoms clear up and return within a few days redness, irritation, swelling, pain or other symptoms begin or increase
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years and older apply externally to the affected area up to 3 to 4 times a day children under 2 years ask a doctor
+dosage_and_administration_table:
+  <table><col width="199"/><col width="312"/><tbody><tr><td styleCode="Rrule "> adults and children 2 years and older</td><td styleCode="Lrule ">apply externally to the affected area up to 3 to 4 times a day</td></tr><tr><td styleCode="Toprule Rrule "> children under 2 years</td><td styleCode="Toprule Lrule "> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information May be applied under occlusive dressing. Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F). See USP Controlled Room Temperature.
+inactive_ingredient:
+  Inactive ingredients Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, Cetearyl Alcohol, Chondroitin Sulfate, Dimethyl Sulfone (MSM), Ethylhexylglycerin, Glucosamine Sulfate, Glycerin, Glyceryl Stearate, C13-14 Isoparaffin, Isostearyl Palmitate, Laureth-7, PEG-100 Stearate, Phenoxyethanol, Polyacrylamide, Propylene Glycol, Sodium Polyacrylate, Stearic Acid, Triethanolamine. Lidocaine 4% C ream NDC 70645-262-11 Topical Anesthetic Cream 120 grams 7T Pharma, LLC Los Angeles, CA 90064
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 70645-262-11 LIDOCAINE 4% Cream 120 grams PRINCIPAL DISPLAY PANEL NDC 70645-262-11 LIDOCAINE 4% Cream 120 grams
+set_id:
+  8be4ae79-554a-47d6-8057-bc1e6bd3a859
+id:
+  82e455b4-c339-431c-8dfd-71e0371a3bf1
+effective_time:
+  20240311
+version:
+  2
+openfda:

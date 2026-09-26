@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Kiehls Since 1851 Blue Herbal Acne Cleanser Treatment Salicylic Acid SALICYLIC ACID SALICYLIC ACID WATER COCO GLUCOSIDE PROPYLENE GLYCOL GLYCERIN COCO-BETAINE SODIUM COCOYL ISETHIONATE SODIUM METHYL COCOYL TAURATE DIPROPYLENE GLYCOL SODIUM CHLORIDE BUTYLENE GLYCOL PHENOXYETHANOL SODIUM HYDROXIDE CITRIC ACID MONOHYDRATE HYDROGENATED COCONUT OIL CAPRYLOYL SALICYLIC ACID COCONUT ACID SODIUM PYRROLIDONE CARBOXYLATE CAMPHOR (SYNTHETIC) MENTHOL INDIAN FRANKINCENSE SODIUM ISETHIONATE HAMAMELIS VIRGINIANA TOP WATER PEUMUS BOLDUS LEAF EDETATE DISODIUM ALCOHOL GINGER SANGUISORBA OFFICINALIS ROOT CHINESE CINNAMON XANTHAN GUM
+active_ingredient:
+  Active ingredient Salicylic acid 1.5%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Use for the treatment of acne
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time .
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet face, then work product into a lather massage onto face avoiding the eye area rinse well use twice daily
+inactive_ingredient:
+  Inactive ingredients water, coco-glucoside, propylene glycol, ammonium polyacryloyldimethyl taurate, glycerin, coco-betaine, sodium cocoyl isethionate, sodium methyl cocoyl taurate, dipropylene glycol, sodium chloride, butylene glycol, phenoxyethanol, sodium hydroxide, citric acid, hydrogenated coconut acid, capryloyl salicylic acid, coconut acid, sodium PCA, camphor, menthol, boswellia serrata resin extract, sodium isethionate, hamamelis virginiana (witch hazel) water, peumus boldus leaf extract, disodium EDTA, alcohol, zingiber officinale (ginger) root extract, sanguisorba officinalis root extract, cinnamomum cassia bark extract, xanthan gum
+questions:
+  Questions or comments? Call toll free 1-800-946-4453
+package_label_principal_display_panel:
+  image of a label
+set_id:
+  09e7f362-6187-4e49-b703-8249c70e5124
+id:
+  ed72f45f-ed6f-446a-b244-38308c03662f
+effective_time:
+  20231230
+version:
+  5
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Kiehls Since 1851 Blue Herbal Acne Cleanser Treatment
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-618
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    1234456
+  spl_id:
+    ed72f45f-ed6f-446a-b244-38308c03662f
+  spl_set_id:
+    09e7f362-6187-4e49-b703-8249c70e5124
+  package_ndc:
+    49967-618-01
+    49967-618-02
+    49967-618-03
+    49967-618-04
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

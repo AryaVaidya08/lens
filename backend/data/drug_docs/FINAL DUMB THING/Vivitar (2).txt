@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Vivitar ANTIBACTERIAL HAND SANITIZER Lavender Scented Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE AMINOMETHYLPROPANOL ALOE .ALPHA.-TOCOPHEROL
+spl_unclassified_section:
+  Drug Facts
+  Lavender Scented KILLS 99.99% OF BACTERIA* 70% ETHYL ALCOHOL VIVITA R ® © 2021 Sakar International 195 Carter Drive Edison, NJ 08817 Support: 800 592 9541 www.vivitar.com Made in china *Escherichia Coli and Staphylococcus Aureus Keep All Relevant Information for Future Reference. * All brand, product names and logos are trademarks or registered trademarks of their respective companies.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% +/- 5%
+purpose:
+  Purpose Antimicrobial Agent
+indications_and_usage:
+  Use: Hand sanitizer to help reduce bacteria on skin.
+warnings:
+  Warnings: Flammable. Keep away from fire or flame. For external use only. When using this product do not use in or near the eyes. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions: Put enough product in your palm to cover hands and rub hands together briskly until dry. Children under 6 years of age should be supervised when using.
+storage_and_handling:
+  Other Information: Store below 110°F (43°C)
+inactive_ingredient:
+  Inactive Ingredients: Water, Glycerol, Carbomer, Parfum, Aminomethylpropanol, Aloe, Vitamin E
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  50054de1-78e0-4cd8-a769-7db1f6b6414b
+id:
+  9c3ce99b-ff5c-43a6-a8c4-f8dbb03791e8
+effective_time:
+  20210729
+version:
+  2
+openfda:

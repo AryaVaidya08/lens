@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SaniSuds Foam Instant Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER GLYCERIN DIETHANOLAMINE BIS(C8-C18 PERFLUOROALKYLETHYL)PHOSPHATE water white - colorless, dispensed as white foam
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 65% v/v
+purpose:
+  Purpose Skin Sanitizer
+indications_and_usage:
+  Use To help reduce the amount of bacteria on skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. If swallowed seek medical attention. When using this product do not use around or near the eyes. If contact occurs, flus eyes with water and contact a doctor immediately. Stop use and consult a doctor when skin irritation appears and lasts. KEEP OUT OF REACH OF CHILDREN.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+dosage_and_administration:
+  Directions Activate sensor to dispense a small amount of foam into palm of hand. Spread on hands rub into skin until dry. Activate sensor to dispense 2.5 grams onto one hand and spread over both hands and wrists. Rub into skin until dry. Children should be supervised while using this product.
+inactive_ingredient:
+  Inactive Ingredients Water, DEA-C8-18 Perfluoroalkylethyl Phosphate, Glycerin
+package_label_principal_display_panel:
+  Case Label - 3 x 1000 mL
+set_id:
+  801cc5b3-4ec3-47f3-a2ae-95a1110ae952
+id:
+  5186d7e7-0014-4d25-9228-b222fc09cce2
+effective_time:
+  20211130
+version:
+  7
+openfda:

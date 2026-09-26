@@ -1,0 +1,31 @@
+effective_time:
+  20110531
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Isopropyl Alcohol, Fragrance (Parfum), Honey Extract (Mel, Extrait de miel), Elaeis Guineensis (Palm) Extract, Olea Europaea (Olive) Fruit Extract, Cocos Nucifera (Coconut) Fruit Extract, Wheat Amino Acids, Retinyl Palmitate, Tocopheryl Acetate, Carbomer, Lactose, Cellulose, Hydroxyethyl Urea, Hydroxypropyl Methylcellulose, Glycerin, Isopropyl Myristate, Propylene Glycol, Aminomethyl Propanol, Ultramarines (CI 77007), Red 33 (CI 17200), Yellow 5 (CI 19140), Red 40 (CI 16035), Blue 1 (CI 42090).
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF THE REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  WARNINGS For external use only . When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation and redness develop or increase.
+spl_product_data_elements:
+  Anti-Bacterial Hand Vixens Sweet Mint Alcohol ALCOHOL ALCOHOL WATER
+warnings_and_cautions:
+  FLAMMABLE Keep away from flame or high heat.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Rub a dime sized drop into hands.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr. Reynoldsburg, Ohio 43068 1-800-395-1001 www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING Front Label Back Label
+indications_and_usage:
+  USE Decrease bacteria on hands.
+set_id:
+  2e91d031-c583-44a5-95df-65da8847ef98
+id:
+  9b609fe6-2d3b-41d6-824e-0ea217f890e8
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 68%

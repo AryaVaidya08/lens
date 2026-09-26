@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Life Quality Hand Sanitzer ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information Clinically and Dermatologically Tested. *Without therapeutic action. *Escherichia coli - Psedomonas aeruginasa - Staphylococcus aureus - Bacillus subtilis - Candida albicans - Aspergyllius sp - Pencillium sp Store below 110°F (43°C) May discolor certain fabrics or surfaces.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. Do not swallow. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Do not swallow. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply a little quantity to the palm of the hand, rub until completely absorbed. Do not rinse. Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Carbomer, Triethanolamine.
+package_label_principal_display_panel:
+  Package Labeling:65ml Bottle
+  Package Labeling:250ml Bottle2
+set_id:
+  b8654c18-8d16-5f36-e053-2a95a90ad84b
+id:
+  ec82b351-6b44-c060-e053-2a95a90a97a4
+effective_time:
+  20221102
+version:
+  2
+openfda:

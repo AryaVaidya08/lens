@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Oxalis Montana 6X Oxalis Montana 6X SUCROSE OXALIS ACETOSELLA WHOLE OXALIS ACETOSELLA WHOLE
+active_ingredient:
+  Oxalis Montana 6X, HPUS The letters HPUS indicate that these ingredients are officially included in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  For temporary relief of fatigue. Helps to overcome metabolic sluggishness. May also be used for standard homeopathic indications or as directed by your physician.
+indications_and_usage:
+  Use: For temporary relief of fatigue. Helps to overcome metabolic sluggishness. May also be used for standard homeopathic indications or as directed by your physician.
+warnings:
+  Warnings: Consult your health care provider if symptoms persist more than 5 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+do_not_use:
+  TAMPER EVIDENT: Do not use if safety seal is broken before first use.
+dosage_and_administration:
+  Directions for Use: Place globules under tongue for 30 seconds. Adults~3-5 globules 3 times a day. Children 2-12 years ~ 1-3 globules 3 times a day. Under 2 years, consult your doctor. Use until symptoms are relieved or as directed by your health care provider.
+inactive_ingredient:
+  Other Ingredients: Sucrose
+questions:
+  Developed and Made by True Botanica, LLC 1005 Richards Rd., Suite D Hartland, WI 53029 800-315-8783 www.truebotanica.com
+package_label_principal_display_panel:
+  Principal Display Panel Oxalis Montana 6X
+set_id:
+  fd27af7b-6f5e-aa84-e053-6294a90aae0a
+id:
+  fd277f13-f1e8-033d-e053-6294a90a0250
+effective_time:
+  20230602
+version:
+  1
+openfda:
+  brand_name:
+    Oxalis Montana 6X
+  generic_name:
+    OXALIS MONTANA 6X
+  manufacturer_name:
+    True Botanica, LLC
+  product_ndc:
+    53645-1950
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    OXALIS ACETOSELLA WHOLE
+  spl_id:
+    fd277f13-f1e8-033d-e053-6294a90a0250
+  spl_set_id:
+    fd27af7b-6f5e-aa84-e053-6294a90aae0a
+  package_ndc:
+    53645-1950-2
+  is_original_packager:
+    True
+  unii:
+    GON5VU1D0Z

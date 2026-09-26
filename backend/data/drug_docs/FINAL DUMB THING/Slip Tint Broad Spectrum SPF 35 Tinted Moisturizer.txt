@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Slip Tint Broad Spectrum SPF 35 Tinted Moisturizer ZINC OXIDE JOJOBA OIL, RANDOMIZED WATER COCO-CAPRYLATE/CAPRATE GRAPE SEED OIL C15-19 ALKANE ISOCETYL STEAROYL STEARATE ARGAN OIL .ALPHA.-TOCOPHEROL ACETATE TRIBEHENIN YELLOW WAX GLYCERYL MONOSTEARATE LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE GLYCERIN ACACIA XANTHAN GUM VIOLA TRICOLOR WHOLE LEVOMENOL GLYCYRRHIZA GLABRA HYALURONATE SODIUM ALOE VERA LEAF COCONUT LACTOBACILLUS ACIDOPHILUS ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+  Other information Protect this product from excessive heat and direct sun
+active_ingredient:
+  Active ingredient Zinc Oxide (15%) Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see ), decreases the risk of skin cancer and early skin aging caused by the sun. Directions
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measure including: Sun Protection Measures: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours limit time in the sun, especially from 10 A.M.-2 P.M. wear long-sleeve shirts, pants, hats and sunglasses children under 6 months: Ask a doctor
+inactive_ingredient:
+  Inactive ingredients Water, Coco-caprylate/caprate, Vitis Vinifera (Grape) Seed Oil, C15-19 Alkane, Isocetyl Stearoyl Stearate, Argania Spinosa Kernel Oil, Tocopheryl Acetate, Sodium Hyaluronate Crosspolymer, Jojoba Esters, Tribehenin, Beeswax, Glyceryl Stearate, Leuconostoc/radish Root Ferment Filtrate, Glycerin, Lactobacillus, Acacia Senegal Gum, Xanthan Gum, Viola Tricolor Extract, Bisabolol, Glycyrrhiza Glabra (Licorice) Root Extract, Sodium Hyaluronate, Aloe Barbadensis Leaf Extract, Cocos Nucifera (Coconut) Fruit Extract. Titanium Dioxide, Iron Oxides, Mica. May Contain:
+questions:
+  Questions? Call 877-SAIE-HEY Monday-Friday from 10 A.M.-6 P.M. EST
+package_label_principal_display_panel:
+  Package Labeling: Label Label2 Label3 Label4
+set_id:
+  ccf9daf4-0bf0-2610-e053-2a95a90a3f07
+id:
+  0c5d598a-dad6-d236-e063-6294a90abf85
+effective_time:
+  20231212
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Slip Tint Broad Spectrum SPF 35 Tinted Moisturizer
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Clean Beauty For All, Inc
+  product_ndc:
+    90086-012
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    0c5d598a-dad6-d236-e063-6294a90abf85
+  spl_set_id:
+    ccf9daf4-0bf0-2610-e053-2a95a90a3f07
+  package_ndc:
+    90086-012-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Garb2art Cosmetics Fairy Dust Hand Sanitizer Isopropyl Alcohol MICA ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ALOE VERA LEAF FRAGRANCE FLORAL ORC0902236 Garb2art Cosmetics Glitter-rita Hand Sanitizer Isopropyl Alcohol MICA FRAGRANCE FLORAL ORC0902236 ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ALOE VERA LEAF
+active_ingredient:
+  Active Ingredient Active Ingredient
+purpose:
+  Purpose Section Purpose Section
+indications_and_usage:
+  Indications & Usage Indications & Usage
+warnings:
+  Warning Warning
+keep_out_of_reach_of_children:
+  Keep out of reach Keep out of reach
+dosage_and_administration:
+  Dosage and Admin Dosage and Admin
+inactive_ingredient:
+  Inactive ingredients Inactive ingredients
+package_label_principal_display_panel:
+  Principal display Panel Principal display Panel
+set_id:
+  b97fadb3-fa6c-26b0-e053-2a95a90abfd5
+id:
+  b97fadb3-fa6d-26b0-e053-2a95a90abfd5
+effective_time:
+  20210108
+version:
+  1
+openfda:

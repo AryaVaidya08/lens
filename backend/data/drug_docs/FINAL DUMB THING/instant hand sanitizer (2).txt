@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  instant hand sanitizer ETHYL ALCOHOL ALCOHOL ALCOHOL FD&C BLUE NO. 1 WATER ALOE VERA LEAF GLYCERIN PROPYLENE GLYCOL CARBOMER INTERPOLYMER TYPE A (55000 CPS) TROLAMINE FD&C YELLOW NO. 5 FD&C RED NO. 4
+active_ingredient:
+  Active Ingredient: Ethyl Alcohol 62%
+purpose:
+  Purpose: Antimicrobial
+warnings:
+  WARNING: FLAMMABLE. KEEP AWAY FROM FIRE OR FLAME. FOR EXTERNAL USE ONLY.DO NOT USE IN THE EYES.
+stop_use:
+  DISCONTINUE USE IF IRRITATION AND REDNESS DEVELOP. IF CONDITION PERSISTS FOR MORE THAN 72 HOURS, CONSULT A DOCTOR OR PHYSICIAN.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+dosage_and_administration:
+  Directions: Rub into hands until dry.
+inactive_ingredient:
+  Water, Aloe barbadenis Leaf Juice, Glycerin,Propylene Glycol, Fragrance, Carbomer, Triethanolamine, FD&C Blue No.1, FD&C Yellow No.5, FD&C Red No.4.
+storage_and_handling:
+  Other Information: Store below 110 F.
+indications_and_usage:
+  KILLS MORE THAN 99.99% OF COMMON GERMS
+package_label_principal_display_panel:
+  image of bottle label
+set_id:
+  1b5e7620-66d5-43f6-e054-00144ff88e88
+id:
+  29acd01b-c884-06b9-e054-00144ff8d46c
+effective_time:
+  20160119
+version:
+  2
+openfda:

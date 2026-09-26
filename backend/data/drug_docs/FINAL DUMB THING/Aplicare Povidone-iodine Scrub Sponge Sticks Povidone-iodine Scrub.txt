@@ -1,0 +1,39 @@
+effective_time:
+  20170531
+inactive_ingredient:
+  Inactive ingredients ammonium nonoxynol-4 sulfate, citric acid, disodium phosphate, nonoxynol-9, sodium hydroxide, water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately.
+warnings:
+  Warnings Do not use if allergic to iodine in the eyes Ask a doctor before use if injuries are deep wounds puncture wounds serious burns Stop use and ask a doctor if redness, irritation, swelling or pain persists or increases infection occurs For external use only Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately. Avoid pooling beneath the patient. Prolonged exposure to wet solution may cause skin irritation. Avoid excessive heat. Store at room temperature.
+questions:
+  For questions, comments, or to report serious side effects: 800-760-3236 Monday-Friday 8:30 a.m.-5:00 p.m. EST
+spl_product_data_elements:
+  Aplicare Povidone-iodine Scrub Sponge Sticks Povidone-iodine Scrub SODIUM PHOSPHATE, DIBASIC ANHYDROUS CITRIC ACID SODIUM HYDROXIDE NONOXYNOL-9 AMMONIUM NONOXYNOL-4 SULFATE WATER POVIDONE-IODINE IODINE
+ask_doctor:
+  Ask a doctor before use if injuries are deep wounds puncture wounds serious burns
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions use sponges to prep desired area
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if redness, irritation, swelling or pain persists or increases infection occurs
+storage_and_handling:
+  Other information 1% titratable iodine for single use only not made with natural rubber latex for hospital or professional use only
+do_not_use:
+  Do not use if allergic to iodine in the eyes
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 2 Sponge Stick Packet NDC 52380-4124-2 A PLICARE ◀ Tear Here Hold Upright Tear Here ▸ TWO POVIDONE-IODINE SCRUB SPONGE STICKS ANTISEPTIC Non-Sterile Solution Two 8-inch Sponge Sticks Saturated with Povidone-Iodine Scrub USP PRINCIPAL DISPLAY PANEL - 2 Sponge Stick Packet
+indications_and_usage:
+  Use antiseptic skin preparation
+set_id:
+  0b17ae69-0f5d-4425-a4c6-49791630d3c0
+id:
+  5a660f4f-841a-4c66-8218-952ac0515621
+active_ingredient:
+  Active ingredient Povidone-iodine USP 10%

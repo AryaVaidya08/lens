@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  SHISEIDO SUNCARE EXTRA SMOOTH Octinoxate and Zinc Oxide Octinoxate Octinoxate Zinc Oxide Zinc Oxide WATER
+spl_unclassified_section:
+  Drug Facts
+  SHISEIDO AMERICA INC. NEW YORK, N.Y. 10022 MADE IN U.S.A. SHISEIDO DIST. NEW YORK • PARIS • MILANO GLO. 12605 www.shiseido.com
+active_ingredient:
+  Active ingredients Purpose OCTINOXATE 7.4% Sunscreen ZINC OXIDE 9.6% Sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="70%" align="left" valign="top"/><col width="30%" align="left" valign="top"/><tbody><tr styleCode="Toprule"><td><content styleCode="bold italics">Active ingredients</content></td><td><content styleCode="bold italics">Purpose</content></td></tr><tr><td>OCTINOXATE 7.4%</td><td>Sunscreen</td></tr><tr styleCode="Botrule"><td>ZINC OXIDE 9.6%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose OCTINOXATE 7.4% Sunscreen ZINC OXIDE 9.6% Sunscreen
+purpose_table:
+  <table width="50%"><col width="70%" align="left" valign="top"/><col width="30%" align="left" valign="top"/><tbody><tr styleCode="Toprule"><td><content styleCode="bold italics">Active ingredients</content></td><td><content styleCode="bold italics">Purpose</content></td></tr><tr><td>OCTINOXATE 7.4%</td><td>Sunscreen</td></tr><tr styleCode="Botrule"><td>ZINC OXIDE 9.6%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn higher SPF gives more sunburn protection retains SPF after 80 minutes of activity in the water
+warnings:
+  Warnings For external use only When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply generously to face and body before sun exposure. children under 6 months of age: ask a doctor. reapply as needed or after towel drying, swimming or perspiring.
+storage_and_handling:
+  Other information high sun protection product. Sun alert: Limiting sun exposure, wearing protective clothing, and using sunscreens may reduce the risks of skin aging, skin cancer, and other harmful effects of the sun. Broad spectrum sunscreen; provides protection against UVA and UVB radiation.
+inactive_ingredient:
+  Inactive ingredients CYCLOMETHICONE, WATER, DIPROPYLENE GLYCOL, DIMETHICONE, SD ALCOHOL 40-B, TALC, POLYBUTYLENE GLYCOL/PPG-9/1 COPOLYMER, TRIMETHYLSILOXYSILICATE, GLYCERIN, PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE, XYLITOL, METHYL GLUCETH-10, SCUTELLARIA BAICALENSIS ROOT EXTRACT, ECTOIN, ISOSTEARIC ACID, TRIETHOXYCAPRYLYLSILANE, DISTEARDIMONIUM HECTORITE, ALUMINUM HYDROXIDE, BUTYLENE GLYCOL, CALCIUM STEARATE, STEARIC ACID, TRISODIUM EDTA, BHT, SYZYGIUM JAMBOS LEAF EXTRACT, PHENOXYETHANOL, FRAGRANCE, TITANIUM DIOXIDE
+questions:
+  Questions? 1-800-906-7503
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 100 mL Carton SHISEIDO Anti-Aging Suncare UVA and UVB Protection 38 Extra Smooth Sun Protection Lotion N SPF 38•PA++ For Face/Body VERY WATER-RESISTANT SUNSCREEN 100mL 3.3 FL. OZ. Principal Display Panel - 100 mL Carton
+set_id:
+  53e1a869-7320-40be-831a-4b54238ca72c
+id:
+  d5e72053-f321-46de-88f9-88fcd0878d61
+effective_time:
+  20230926
+version:
+  2
+openfda:

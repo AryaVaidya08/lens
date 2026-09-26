@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  BAC OFF BENZALKONIUM CHLORIDE WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredients Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses: For hand sanitizing to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inactive ingredients: Water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, glycereth-17 cocoate, citric acid, fragrance
+package_label_principal_display_panel:
+  Wayne Select Line BAC OFF Instant Foam Hand Sanitizer Manufactured by: Wayne Concept Manufacturing Co., Inc. Fort Wayne, IN 46825 260-482-8615 Net Contents: 1 U.S. Gallon (3.785 L) Serving the maintenance community since 1933 container label
+set_id:
+  eb0360db-dd0d-4ba2-aae4-0ef815f7cbb5
+id:
+  ed1fbafc-9164-84eb-e053-2995a90a47c8
+effective_time:
+  20221110
+version:
+  3
+openfda:

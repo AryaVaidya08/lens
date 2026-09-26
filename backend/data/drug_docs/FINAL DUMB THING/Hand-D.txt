@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Hand-D HAND SANITIZER Alcohol ALCOHOL ALCOHOL POLYETHYLENE GLYCOL, UNSPECIFIED GLYCERIN CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) HYDROGEN PEROXIDE WATER
+spl_unclassified_section:
+  Drug Facts
+  Advanced Gel Formula 70% ALCOHOL with HYDROGEN PEROXIDE LEAVES HANDS FEELING SOFT ETHYL ALCOHOL ANTISEPTIC 70% / TOPICAL SOLUTION HAND SANITIZER / NON-STERILE SOLUTION DANGER! HIGHLY FLAMMABLE LIQUID AND VAPOR Directions: Wet hands thoroughly with product and allow to dry without wiping. For children under 6, use only under adult supervision. Not recommended for infants. This product is not a substitute for proper handwashing. This product has not been tested to determine its efficacy against viruses, e.g., COVID-19 or any coronavirus. User is solely responsible for the selection of appropriate sanitizing/disinfecting product for the setting and application. Emergency Telephone Number: INFOTRAC 800-535-5053 International Telephone Number: +1-352-323-3500 HEALTH: Causes serious eye irritation. PRECAUTIONARY: READ SDS BEFORE USE. Keep away from children. Keep away from sparks and open flames - No smoking. For external use only. RESPONSE: IF IN EYES: Rinse cautiously with water for at least 15 minutes. If eye irritation persists, get medical attention. In case of fire use foam, carbon dioxide, dry chemical to extinguish the fire. STORAGE: Store in a well-ventilated place and keep cool. DISPOSAL: Dispose of content and container in accordance with local, regional, national or international regulations. B3C 124 Daytona St, Conway, SC 29526 843-347-0482 www.B3CFuel.com MADE IN USA MADE IN FDA REGISTERED FACILITY
+active_ingredient:
+  Active Ingredient(s) Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use(s) Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame Do not use • in children less than 2 months of age • on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Place enough product on hands to cover all surfaces. Rub hands together until dry. • Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other Information • Store between 15-30C (59-86F) • Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive Ingredients polyethylene glycol, glycerol, acrylate polymer, hydrogen peroxide, purified water USP
+package_label_principal_display_panel:
+  Packaging Dsant1 Dsant2
+set_id:
+  dbe9da48-e67f-4317-81ec-8245fedfe469
+id:
+  1252fd5d-fbbb-4415-9f53-fba6aaa9222a
+effective_time:
+  20210709
+version:
+  2
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SWIMMERS ITCH GUARD EUCALYPTUS EUCALYPTUS OIL EUCALYPTUS OIL MEDIUM-CHAIN TRIGLYCERIDES OLIVE OIL SAFFLOWER OIL .ALPHA.-TOCOPHEROL ACETATE, D- AVOCADO OIL CINNAMON OIL
+active_ingredient:
+  ACTIVE INGREDIENT EUCALYPTUS OIL 20%
+purpose:
+  PURPOSE SKIN PROTECTANT
+indications_and_usage:
+  USES PREVENT SWIMMER'S ITCH SAFE FOR CHILDREN LONG LASTING PROTECTION
+warnings:
+  WARNINGS TOPICAL CREAM - FOR EXTERNAL USE ONLY - KEEP OUT OF EYES. FLUSH THOROUGHLY AND GENTLY WITH WARM WATER FOR 10-15 MINUTES. STOP USE AND CONSULT PHYSICIAN IF RASH OR IRRITATION DEVELOPS. CONSULT PHYSICIAN BEFORE USING IF PREGNANT OR NURSING.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER IMMEDIATELY.
+dosage_and_administration:
+  DIRECTIONS (FOR CHILDREN 2 YEARS AND OLDER AND ADULTS): Apply sunscreen first, especially spray-on sunscreens which contain alcohol (alcohol removes our product). Before entering the water, apply Swimmer’s Itch Guard to all uncovered skin that will be under water continuously for 5 minutes or longer. Apply liberally and evenly. When coming out of the water, light toweling off is best because it minimizes removal of Swimmer’s Itch Guard. Reapply after 60 minutes of water activity, taking a shower or hot-tub, or repeated hard toweling offs. Wash swimsuits separately in warm water.
+inactive_ingredient:
+  OTHER INGREDIENTS: Fractionated Coconut Oil, Olive Oil, Avocado Oil, High Oleic Safflower Oil, Cinnamon Oil, d-alpha Tocopherol (Vitamin E).
+package_label_principal_display_panel:
+  01b LBL_2022 Revised SwimmersItchGuard_Label_2x8.5_2017_01
+set_id:
+  d84ed5cb-9e0d-977d-e053-2995a90aadc1
+id:
+  d84ed2d3-219c-7907-e053-2995a90a3764
+effective_time:
+  20220217
+version:
+  1
+openfda:

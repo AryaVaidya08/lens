@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  HANDSOAP CHLOROXYLENOL WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE GLYCERIN COCOYL METHYL MONOETHANOLAMINE SODIUM CHLORIDE DMDM HYDANTOIN ANHYDROUS CITRIC ACID EDETATE DISODIUM CHLOROXYLENOL CHLOROXYLENOL
+active_ingredient:
+  Active ingredients Chloroxylenol 0.3%
+purpose:
+  Antibacterial
+indications_and_usage:
+  Uses： For hanbwashing to decrease bacteria on the skin.
+warnings:
+  Warnings: For external use only.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed，get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Apply onto wet hands, lather for at least 30 second and rinse thoroughly. To refill a small size bottle, pour as needed.
+inactive_ingredient:
+  Inactive Ingredients: WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, COCAMIDE METHYL MEA, SODIUM CHLORIDE, FRAGRANCE, DMDM HYDANTION, CITRIC ACID, DISODIUM EDTA, DYE.
+package_label_principal_display_panel:
+  image of Hand Sanitizer 473ml
+set_id:
+  c90e214f-51a6-411f-81cc-603a1542c69d
+id:
+  b3681014-b879-638f-e053-2995a90a533d
+effective_time:
+  20201105
+version:
+  2
+openfda:

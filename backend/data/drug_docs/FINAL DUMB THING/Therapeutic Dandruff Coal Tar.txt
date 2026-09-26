@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Therapeutic Dandruff Coal Tar COAL TAR COAL TAR WATER SODIUM LAURETH SULFATE COCO MONOISOPROPANOLAMIDE LAURETH-4 COCAMIDOPROPYL BETAINE CITRIC ACID MONOHYDRATE SODIUM CHLORIDE EDETATE SODIUM METHYLPARABEN PROPYLPARABEN IMIDUREA CARAMEL FD&C RED NO. 4
+active_ingredient:
+  Active ingredient 2.5% Coal Tar Topical Solution USP (0.5% Coal Tar)
+purpose:
+  Purpose Anti-Dandruff
+indications_and_usage:
+  Use Controls the symptoms of: dandruff seborrheic dermatitis psoriasis
+warnings:
+  Warnings For external use only
+ask_doctor:
+  Ask a doctor before use if you have a condition which covers a large part of the body
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water. use caution in exposing skin to sunlight after applying this product. It may increase your tendency to sunburn for up to 24 hours after application. do not use for prolonged periods without consulting a doctor do not use with other forms of psoriasis therapy such as ultraviolet radiation or prescription dugs unless directed to do so by a doctor
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after reqular use of this product as directed
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hair thoroughly massage shampoo into the scalp lather. Leave on hair and scalp for several minutes. rinse and repeat for best results use at leat twice a week or as directed by a doctor
+other_safety_information:
+  Other information store away from direct sunlight in rare instances, discoloration of gray, blonde, bleached or tinted hair may occur
+inactive_ingredient:
+  Inactive ingredients water, sodium laureth sulfate, cocamide MIPA, laureth-4, fragrance, cocamidopropyl betaine, citric acid, sodium chloride, tetrasodium EDTA, methylparaben, propylparaben, imidazolidinyl urea, caramel, red 4
+questions:
+  Questions Call 1-800-748-3243
+spl_unclassified_section:
+  look great feel great 100% GUARANTEE or your money back *This product is not manufactured or distributed by the Neutorgena Corp., distributor of Neutrogena T/Gel Therapeutic Shampoo MADE IN THE U.S.A. WITH FOREIGN AND DOMESTIC COMPONENTS DISTRIBUTED BY: RITE AID 30 HUNTER LANE CAMP HILL, PA 17011
+package_label_principal_display_panel:
+  principal display panel daylogic COAL TAR therapeutic DANDRUFF SHAMPOO ORIGINAL STRENGTH Controls the Symptoms of Dandruff, Psoriasis & Seborrheic Dermatitis With 2.5% Coal Tar Topical Solution USP (0.5% Coal Tar) Compare to Neutrogena T/Gel 16 FL OZ (473mL) image description
+set_id:
+  a0d66890-6648-470c-be32-0190758fb4e1
+id:
+  7c030c79-6ce9-4704-b15f-023a65358ec5
+effective_time:
+  20220131
+version:
+  12
+openfda:

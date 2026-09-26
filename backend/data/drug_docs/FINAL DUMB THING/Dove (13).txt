@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Dove Men plus Care Ultimate Coconut Scent 48H Antiperspirant GLYCINE COUMARIN CYCLOMETHICONE 5 ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE SUNFLOWER OIL WATER ALKYL (C12-15) BENZOATE GLYCERIN SYNTHETIC WAX (1200 MW) CALCIUM CHLORIDE CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) BENZYL ALCOHOL BENZYL SALICYLATE LIMONENE, (+)- LINALOOL, (+/-)-
+description:
+  DOVE MEN + CARE ULTIMATE COCONUT SCENT 48H ANTIPERSPIRANT - aluminum sesquichlorohydrate stick
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Sesquichlorohydrate (12.2 %)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Cyclopentasiloxane, C12-15 Alkyl Benzoate, Synthetic Wax, Glycerin, Calcium Chloride, Cetyl PEG/PPG-10/1 Dimethicone, Glycine, Fragrance (Parfum), Helianthus Annuus (Sunflower) Oil, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Limonene, Linalool
+questions:
+  Questions? Call 1-800-761-3683
+package_label_principal_display_panel:
+  Dove Men Ultimate Coconut AP IS
+set_id:
+  e4cae63f-70fc-ae81-e053-2995a90a7e0d
+id:
+  2646de13-b4a3-d78c-e063-6394a90a30eb
+effective_time:
+  20241106
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Dove
+  generic_name:
+    MEN PLUS CARE ULTIMATE COCONUT SCENT 48H ANTIPERSPIRANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2075
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    2646de13-b4a3-d78c-e063-6394a90a30eb
+  spl_set_id:
+    e4cae63f-70fc-ae81-e053-2995a90a7e0d
+  package_ndc:
+    64942-2075-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Extra Strength Antacid Smooth Dissolve Assorted Fruit Calcium carbonate CALCIUM CARBONATE CALCIUM CATION ADIPIC ACID STARCH, CORN DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 ALUMINUM LAKE FD&C RED NO. 40 ALUMINUM LAKE MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC SORBITOL MICROCRYSTALLINE CELLULOSE D&C RED NO. 30 ALUMINUM LAKE D&C YELLOW NO. 10 ALUMINUM LAKE light red light pink light orange light yellow G173
+active_ingredient:
+  ACTIVE INGREDIENT (in each tablet) Calcium carbonate 750 mg
+purpose:
+  PURPOSE Antacid
+indications_and_usage:
+  USE(S) relieves: acid indigestion heartburn
+warnings:
+  WARNINGS .
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  WHEN USING THIS PRODUCT do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST FEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN .
+dosage_and_administration:
+  DIRECTIONS adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor.
+storage_and_handling:
+  OTHER INFORMATION each tablet contains: elemental calcium 300 mg store at room temperature. keep the container tightly closed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS adipic acid, corn starch, D&C red 30 lake, D&C yellow 10 lake, dextrose, FD&C blue 1 lake, FD&C red 40 lake, FD&C yellow 6 lake, flavors, magnesium stearate, maltodextrin, microcrystalline cellulose, sorbitol, sucrose, talc.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL DC 83455-173-23 Compare to Tums® Smoothies TM Extra Strength 750 active ingredient* EQUALINE ® extra strength antacid tablets Calcium Carbonate 750 mg smooth dissolve relieves heartburn and acid indigestion assorted fruit flavors 60 CHEWABLE TABLETS 173af-f.jpg 173af-b.jpg
+set_id:
+  1b6a48a7-0703-2d3d-e063-6394a90a4641
+id:
+  9679dcb5-30b5-4a03-adda-04eeb66ecb1f
+effective_time:
+  20241211
+version:
+  2
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Extra Strength Antacid Smooth Dissolve Assorted Fruit
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    UNITED NATURAL FOODS, INC. DBA UNFI
+  product_ndc:
+    83455-173
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308915
+  spl_id:
+    9679dcb5-30b5-4a03-adda-04eeb66ecb1f
+  spl_set_id:
+    1b6a48a7-0703-2d3d-e063-6394a90a4641
+  package_ndc:
+    83455-173-23
+  is_original_packager:
+    True
+  upc:
+    0041163498594
+  unii:
+    H0G9379FGK

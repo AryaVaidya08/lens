@@ -1,0 +1,27 @@
+effective_time:
+  20191019
+inactive_ingredient:
+  water, liquid fructose
+purpose:
+  for cure fatigue, physical weakness, and illness such as cold sweats
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  do not intake if the product is found to have expired or corrupted when using this product be aware that the contents may flow when opening stop use and ask a doctor if you have certain body types and allergies, it can cause a severe allergic reaction
+spl_product_data_elements:
+  SSANGGI TANG ssanghwa extract FRUCTOSE WATER PAEONIA LACTIFLORA ROOT PAEONIA LACTIFLORA ROOT REHMANNIA GLUTINOSA ROOT REHMANNIA GLUTINOSA ROOT LIGUSTICUM SINENSE SUBSP. CHUANXIONG ROOT LIGUSTICUM SINENSE SUBSP. CHUANXIONG ROOT ASTRAGALUS GUMMIFER ROOT ASTRAGALUS GUMMIFER ROOT
+openfda:
+version:
+  1
+dosage_and_administration:
+  For oral use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  take 1 pouch 3 times a day
+set_id:
+  95493d64-b312-6ba2-e053-2995a90ab04b
+id:
+  95494fe5-4800-d36f-e053-2a95a90a13ff
+active_ingredient:
+  ssanghwa extract (peony root, rehmannia root, cnidium rhizome, astragalus root, angelica gias root, cinnamon bark, licorice, raw ginger, jujube)

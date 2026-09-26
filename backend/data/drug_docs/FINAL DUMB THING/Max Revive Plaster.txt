@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Max Revive Plaster menthol, methyl salicylate FD&C BLUE NO. 2 ZINC OXIDE YELLOW OB CLEMATIS CHINENSIS ROOT MOMORDICA COCHINCHINENSIS SEED RICINUS COMMUNIS SEED MYRRH FRANKINCENSE SESAME OIL YELLOW WAX PINUS MASSONIANA RESIN MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM METHYL SALICYLATE SALICYLIC ACID
+purpose:
+  Backache, Arthritis, Strains, Bruises, Sprains
+spl_unclassified_section:
+  Drug Facts Active Ingredients Purpose Menthol 4% External Analgesic Methyl Salicylate 1 % External Analgesic
+  Drug Facts(continued) Stop use and ask doctor if ■ condition worsens ■ symptoms persist for more than 7 days ■ symptoms clear up and occur again within a few days ■ excessive irritation of the skin develops ■ rashes, itching or redness are present ■ side effects occur. If pregnant , ask a health professional before use. Keep out of reach of children to avoid accidental poisoning. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use otherwise than as directed. Directions ■ Adults and children 12 years of age and older:clean and dry affected area. Remove plaster from the protective layer, apply to the affected area, rub the area with your hand to secure the patch. ■ Plaster will remain effective for 8 hours. ■ Avoid using the same patch on the same area for more than 2 days. ■Do not apply to area with excessive hair. Adhesive plaster may hurt skin upon removal.
+  Drug Facts(continued) Directions (continued) ■ Wet patch with warm water before removing from skin. ■ Children under 12 years of age: Do not use or consult a doctor. Other information ■ Store unused patch in the pouch ■ Store at room temperature, 20 to 25°C(68 to 77°F) Inactive ingredients Chinese Clematidis Root & Rhizome, Yellow wax, Momordica cochinchinensis seeds, Castor Seeds, Myrrh, Frankincense, Sesame Oil, Resin, FD&C Blue No. 2, FD&C Yellow No. 4, Zinc Oxide Questions or comments Call:1-800-617-2021
+spl_unclassified_section_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active Ingredients</content></content></td><td><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Menthol 4%</td><td>External Analgesic</td></tr><tr><td>Methyl Salicylate 1 %</td><td>External Analgesic</td></tr></tbody></table>
+active_ingredient:
+  Active Ingredients Purpose Menthol 4% External Analgesic Methyl Salicylate 1 % External Analgesic
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active Ingredients</content></content></td><td><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Menthol 4%</td><td>External Analgesic</td></tr><tr><td>Methyl Salicylate 1 %</td><td>External Analgesic</td></tr></tbody></table>
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of muscles and joints associated with: ■ arthritis ■ strains ■ bruises ■ sprains ■ simple backache
+warnings:
+  Warnings For external use only Do not use ■ on wounds ■ irritated or damaged skin ■ sensitive skin ■ with a heating pad ■ if pregnant ■ with, or as the same time as, other external analgesic products ■ if allergic to aspirin or salicylates ■ if allergic to any ingredients of this product When using this product ■ avoid contact with the eyes ■ do not bandage tightly ■ do not apply to wounds or damaged skin ■ do not use more than 3 plasters a day ■ do not use 1 hour before or after bathing
+do_not_use:
+  Do not use ■ on wounds ■ irritated or damaged skin ■ sensitive skin ■ with a heating pad ■ if pregnant ■ with, or as the same time as, other external analgesic products ■ if allergic to aspirin or salicylates ■ if allergic to any ingredients of this product
+  Do not use otherwise than as directed.
+when_using:
+  When using this product ■ avoid contact with the eyes ■ do not bandage tightly ■ do not apply to wounds or damaged skin ■ do not use more than 3 plasters a day ■ do not use 1 hour before or after bathing
+stop_use:
+  Stop use and ask doctor if ■ condition worsens ■ symptoms persist for more than 7 days ■ symptoms clear up and occur again within a few days ■ excessive irritation of the skin develops ■ rashes, itching or redness are present ■ side effects occur.
+pregnancy_or_breast_feeding:
+  If pregnant , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children to avoid accidental poisoning.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Adults and children 12 years of age and older:clean and dry affected area. Remove plaster from the protective layer, apply to the affected area, rub the area with your hand to secure the patch. ■ Plaster will remain effective for 8 hours. ■ Avoid using the same patch on the same area for more than 2 days. ■Do not apply to area with excessive hair. Adhesive plaster may hurt skin upon removal.
+  Directions (continued) ■ Wet patch with warm water before removing from skin. ■ Children under 12 years of age: Do not use or consult a doctor.
+other_safety_information:
+  Other information ■ Store unused patch in the pouch ■ Store at room temperature, 20 to 25°C(68 to 77°F)
+inactive_ingredient:
+  Inactive ingredients Chinese Clematidis Root & Rhizome, Yellow wax, Momordica cochinchinensis seeds, Castor Seeds, Myrrh, Frankincense, Sesame Oil, Resin, FD&C Blue No. 2, FD&C Yellow No. 4, Zinc Oxide
+questions:
+  Questions or comments Call:1-800-617-2021
+package_label_principal_display_panel:
+  Package Label Back Front
+set_id:
+  ce4a0aca-ef70-3a05-e053-2a95a90ae99e
+id:
+  0aa34a75-7a11-a1f9-e063-6394a90ac052
+effective_time:
+  20231120
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Max Revive Plaster
+  generic_name:
+    MENTHOL, METHYL SALICYLATE
+  manufacturer_name:
+    Big 5 Nutrition LLC
+  product_ndc:
+    82198-0002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL, UNSPECIFIED FORM
+    METHYL SALICYLATE
+  rxcui:
+    1874174
+  spl_id:
+    0aa34a75-7a11-a1f9-e063-6394a90ac052
+  spl_set_id:
+    ce4a0aca-ef70-3a05-e053-2a95a90ae99e
+  package_ndc:
+    82198-0002-1
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A
+    LAV5U5022Y

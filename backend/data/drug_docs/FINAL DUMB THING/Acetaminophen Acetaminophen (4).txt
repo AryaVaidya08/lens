@@ -1,0 +1,46 @@
+effective_time:
+  20180702
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+questions:
+  Questions or comments? Call 1-800-845-8210. You may also report serious side effects to this phone number.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information • sodium content: 2 mg/5 mL • store at 20° to 25°C (68° to 77°F). [See USP controlled room temperature] • keep tightly closed • protect from light • a red, cherry flavored solution supplied in the following oral dosage forms: NDC 0121-0657-05 (unit dose cups of 5 mL, 10 × 10's), NDC 0121-0657-11 (unit dose cups of 10.15 mL, 10 × 10's), and NDC 0121-0657-21 (unit dose cups of 20.3 mL, 10 × 10's).
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: • headache • muscular aches • backache • minor pain of arthritis • the common cold • toothache • premenstrual and menstrual cramps temporarily reduces fever
+set_id:
+  a7c93c8a-2f95-40b6-a132-7055f5fe7050
+id:
+  28b6d300-1cfb-4eed-99b7-c0c8ff26e414
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredient (in each 5 mL teaspoonful) Acetaminophen 160 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="10%"/> <col width="10%"/> <thead> <tr styleCode="Toprule"> <th align="center" styleCode="Botrule Lrule " valign="top"> <content styleCode="bold">age</content> </th> <th align="center" styleCode="Rrule Botrule Lrule " valign="top"> <content styleCode="bold">dose</content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Lrule " valign="top"> <paragraph>adults and children 12 years of age and over</paragraph> </td> <td styleCode="Rrule Lrule " valign="top"> <paragraph>20.3 mL (650 mg) every 4 to 6 hours  not to exceed 6 doses in a 24-hour period</paragraph> </td> </tr> <tr> <td styleCode="Lrule " valign="top"> <paragraph>children 6 to under 12 years of age</paragraph> </td> <td styleCode="Rrule Lrule " valign="top"> <paragraph>10.15 mL (325 mg) every 4 hours  not to exceed 5 doses in a 24-hour period</paragraph> </td> </tr> <tr> <td styleCode="Lrule " valign="top"> <paragraph>children 4 to under 6 years of age</paragraph> </td> <td styleCode="Rrule Lrule " valign="top"> <paragraph>7.5 mL (240 mg) every 4 hours  not to exceed 5 doses in a 24-hour period</paragraph> </td> </tr> <tr> <td styleCode="Lrule " valign="top"> <paragraph>children 2 to under 4 years of age</paragraph> </td> <td styleCode="Rrule Lrule " valign="top"> <paragraph>5 mL (160 mg) every 4 hours  not to exceed 5 doses in a 24-hour period</paragraph> </td> </tr> <tr styleCode="Botrule"> <td styleCode="Lrule " valign="top"> <paragraph>children under 2 years of age</paragraph> </td> <td styleCode="Rrule Lrule " valign="top"> <paragraph>consult a doctor</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Citric acid, FD&C Red No. 40, flavoring, glycerin, polyethylene glycol, propylene glycol, purified water, sodium benzoate, sodium citrate, sorbitol and sucrose.
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if: • adult takes more than 6 doses in 24 hours, which is the maximum daily amount • child takes more than 5 doses in 24 hours • adult has 3 or more alcoholic drinks everyday while using this product Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are allergic to acetaminophen or any of the inactive ingredients of this product Ask a doctor before use if the user has liver disease. Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin. Stop use and ask a doctor if • pain gets worse or lasts more than 10 days in adults and children • pain gets worse or lasts more than 5 days in children under 12 years • fever gets worse or lasts more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222). Quick medical attention is critical for adults as well as children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  Acetaminophen Acetaminophen ACETAMINOPHEN ACETAMINOPHEN CITRIC ACID MONOHYDRATE FD&C RED NO. 40 GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SODIUM BENZOATE SODIUM CITRATE, UNSPECIFIED FORM SORBITOL SUCROSE
+ask_doctor:
+  Ask a doctor before use if the user has liver disease.
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions • do not take more than directed (see overdose warning ) age dose adults and children 12 years of age and over 20.3 mL (650 mg) every 4 to 6 hours not to exceed 6 doses in a 24-hour period children 6 to under 12 years of age 10.15 mL (325 mg) every 4 hours not to exceed 5 doses in a 24-hour period children 4 to under 6 years of age 7.5 mL (240 mg) every 4 hours not to exceed 5 doses in a 24-hour period children 2 to under 4 years of age 5 mL (160 mg) every 4 hours not to exceed 5 doses in a 24-hour period children under 2 years of age consult a doctor
+spl_unclassified_section:
+  Drug Facts
+  Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com Repackaged by Cardinal Health Zanesville, OH 43701 R04/10
+stop_use:
+  Stop use and ask a doctor if • pain gets worse or lasts more than 10 days in adults and children • pain gets worse or lasts more than 5 days in children under 12 years • fever gets worse or lasts more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are allergic to acetaminophen or any of the inactive ingredients of this product
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 5 mL Cup ACETAMINOPHEN ORAL SOLUTION USP 160 mg/5 mL 5 CUPS bag label

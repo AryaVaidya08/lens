@@ -1,0 +1,39 @@
+effective_time:
+  20201124
+inactive_ingredient:
+  Inactive Ingredients none
+purpose:
+  Purpose Osmotic Laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Allergy Alert: Do not use if you are allergic to polyethylene glycol Do not use if you have kidney disease, except under the advice and supervision of a doctor When using this product, you may have loose, watery, more frequent bowel movements
+questions:
+  Questions or comments? 1-866-822-0068
+spl_product_data_elements:
+  EZ2go POLYETHYLENE GLYCOL 3350 SUCRALOSE POLYETHYLENE GLYCOL 3350 POLYETHYLENE GLYCOL 3350
+ask_doctor:
+  Ask a doctor before use if you have -nausea, vomiting or abdominal pain -a sudden change in bowel habits that lasts over 2 weeks -irritable bowel syndrome Ask a doctor or pharmacist before use if you are taking a prescription drug
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions -do not take more than directed unless advised by your doctor -the bottle top is a measuring cap marked to contain 17 grams of powder when filled to the indicated line -adults and children 17 years of age and older: -fill to 17 grams line in cap for the correct dose -stir and dissolve in any 4 to 8 ounces of beverage (cold, hot or room temperature) and then drink -use once a day -use no more than 7 days -Children 16 years of age or under: ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if - you have rectal bleeding or your nausea, bloating, cramping or abdominal pain gets worse.These may be signs of a serious condition. - you get diarrhea - you need to use a laxative for longer than 1 week
+spl_unclassified_section:
+  Drug Facts: peel
+storage_and_handling:
+  Other Information -store at 20 - 25 C (68 - 77 F) -tamper-evident; do not use if printed foil seal under cap is missing, open or broken
+package_label_principal_display_panel:
+  copy of label
+indications_and_usage:
+  Use -relieves occasional constipation (irregularity) -generally produces a bowel movement in 1 to 3 days
+set_id:
+  afc33f82-2149-4c98-bc74-4d7e516eeb67
+id:
+  b4df30d5-76d6-6b08-e053-2a95a90a01e3
+active_ingredient:
+  Active Ingredient (in each dose) Polyethylene Glycol 3350, 17 g (cap filled to line)

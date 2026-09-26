@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Sodium Bicarbonate Antacid Sodium Bicarbonate CROSCARMELLOSE SODIUM CELLULOSE, MICROCRYSTALLINE STEARIC ACID SILICON DIOXIDE TALC SODIUM BICARBONATE SODIUM CATION CPC76
+active_ingredient:
+  Drug Facts Active ingredient (in each tablet) Sodium bicarbonate 5 gr (325 mg)
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves acid indigestion heartburn sour stomach upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor before use if you have a sodium restricted diet Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children.
+ask_doctor:
+  Ask a doctor before use if you have a sodium restricted diet
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if symptoms last more than 2 weeks
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not use the maximum dosage for more than 2 weeks tablets may be swallowed whole or dissolved in water prior to use adults 60 years of age and over: 2-4 tablets every 4 hours, not more than 24 tablets in 24 hours adults under 60 years of age: 2-8 tablets every 4 hours, not more than 48 tablets in 24 hours
+other_safety_information:
+  Other information each tablet contains: sodium 89 mg Store in a dry place at 15º - 30ºC (59º - 86º F)
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, microcrystalline cellulose, silica, stearic acid, and talc
+questions:
+  Questions or comments? 1-800-231-4670
+spl_unclassified_section:
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING WARNING: This product can expose you to chemicals including lead and mercury which are known to the State of California to cause birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov. DISTRIBUTED BY: RUGBY® LABORATORIES INDIANAPOLIS, IN 46268 Questions or comments? Call (800) 616-2471 www.majorpharmaceuticals.com Rev. 10/23 R-29
+package_label_principal_display_panel:
+  Rugby NDC 0536-1046-10 Sodium Bicarbonate 5 gr (325 mg) ANTACID 1000 WHITE TABLETS Rugby Label
+set_id:
+  e73b5871-4a87-4473-ab00-5e5395be017d
+id:
+  0bde3e63-1c4c-3d9c-e063-6394a90ac09c
+effective_time:
+  20231206
+version:
+  5
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Sodium Bicarbonate Antacid
+  generic_name:
+    SODIUM BICARBONATE
+  manufacturer_name:
+    Rugby Laboratories
+  product_ndc:
+    0536-1046
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM BICARBONATE
+  rxcui:
+    198859
+  spl_id:
+    0bde3e63-1c4c-3d9c-e063-6394a90ac09c
+  spl_set_id:
+    e73b5871-4a87-4473-ab00-5e5395be017d
+  package_ndc:
+    0536-1046-10
+  is_original_packager:
+    True
+  upc:
+    0305361046101
+  unii:
+    8MDF5V39QO

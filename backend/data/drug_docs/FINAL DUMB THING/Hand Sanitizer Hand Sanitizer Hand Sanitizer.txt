@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Sanitizer Hand Sanitizer Hand Sanitizer ALCOHOL ALCOHOL WATER .ALPHA.-TOCOPHEROL ACETATE AMINOMETHYLPROPANOL GLYCERIN ALOE VERA LEAF PROPYLENE GLYCOL POLYACRYLIC ACID (250000 MW)
+active_ingredient:
+  Active Ingredient: Ethyl Alcohol, 75% v/v
+purpose:
+  Purpose Antimicrobial
+dosage_and_administration:
+  Uses: Hand sanitizer to decrease bacteria on skin.
+warnings:
+  Warnings: For external use only.
+warnings_and_cautions:
+  Flammable. Keep away from heat and flame.
+when_using:
+  When using this product avoid contacting with face, eyes, and broken skin. In case of eye contacting, flush with plenty of water and seek medical attention.
+stop_use:
+  Stop Use and consult a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact Poison Control Center.
+indications_and_usage:
+  Directions: Rub hands thoroughly with this products until try, children younger than 6 should be supervised by an adult when using.
+other_safety_information:
+  Other Information: Store below 105 ºF. May discolor some fabrics.
+inactive_ingredient:
+  Inactive Ingredients: Water (Aqua), Triethanolamine, Polyacrylic Acid, Aloe Barbadensis (Aloe Vera) Gel, Glycerin, Propylence Glycol, Tocophery Acetate (Vitamin E).
+package_label_principal_display_panel:
+  GREIGHT Hand Sanitizer - 1fl oz GR8-HS-1
+set_id:
+  a69e1274-2ff5-958e-e053-2a95a90afe7f
+id:
+  cef7d296-299f-5c20-e053-2a95a90a289b
+effective_time:
+  20211022
+version:
+  3
+openfda:

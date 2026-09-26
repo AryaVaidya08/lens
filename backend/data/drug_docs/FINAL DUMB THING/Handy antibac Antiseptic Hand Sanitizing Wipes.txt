@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Handy antibac Antiseptic Hand Sanitizing Wipes ALCOHOL WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE For hand washing to decrease bacteria on the skin.
+warnings:
+  Warning Flammable, keep away from fire or flame . For external use only. When using this product , Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor, if irritaion and redness develop; condition persists for ore than 72 hours Other Information： Do not store above 100℉ (38 ℃) May discolor some fabrics or surface ●If swallowed, get medical help or contact a Poison Contrl Center right away.
+keep_out_of_reach_of_children:
+  ●If swallowed, get medical help or contact a Poison Contrl Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughluy with produt and allow to dry without wiping
+inactive_ingredient:
+  Inactive ingredients Water, aloe vera
+package_label_principal_display_panel:
+  label image
+set_id:
+  3a0fd708-c259-4f57-8f08-7bf22fd8d238
+id:
+  d3712e0f-5632-432d-9a13-8dfa95a4c3c2
+effective_time:
+  20200813
+version:
+  30
+openfda:

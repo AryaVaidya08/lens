@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Gallium Oxydatum Gallium Oxydatum GALLIUM OXIDE GALLIUM OXIDE SUCROSE Gallium Oxydatum Gallium Oxydatum SUCROSE GALLIUM OXIDE GALLIUM OXIDE Gallium Oxydatum Gallium Oxydatum GALLIUM OXIDE GALLIUM OXIDE SUCROSE Gallium Oxydatum Gallium Oxydatum GALLIUM OXIDE GALLIUM OXIDE SUCROSE Gallium Oxydatum Gallium Oxydatum GALLIUM OXIDE GALLIUM OXIDE SUCROSE Gallium Oxydatum Gallium Oxydatum SUCROSE GALLIUM OXIDE GALLIUM OXIDE Gallium Oxydatum Gallium Oxydatum SUCROSE GALLIUM OXIDE GALLIUM OXIDE Gallium Oxydatum Gallium Oxydatum GALLIUM OXIDE GALLIUM OXIDE SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Gallium Oxydatum 6C 5g Gallium Oxydatum 6C 30g Gallium Oxydatum 6C 100g Gallium Oxydatum 12C 5g Gallium Oxydatum 12C 30g Gallium Oxydatum 12C 100g Gallium Oxydatum 30C 1g Gallium Oxydatum 30C 5g Gallium Oxydatum 30C 30g Gallium Oxydatum 30C 100g Gallium Oxydatum 100C 1g Gallium Oxydatum 100C 5g Gallium Oxydatum 100C 30g Gallium Oxydatum 100C 100g Gallium Oxydatum 200C 1g Gallium Oxydatum 200C 5g Gallium Oxydatum 200C 30g Gallium Oxydatum 200C 100g Gallium Oxydatum 500C 1g Gallium Oxydatum 500C 5g Gallium Oxydatum 500C 30g Gallium Oxydatum 500C 100g Gallium Oxydatum 1M 1g Gallium Oxydatum 1M 5g Gallium Oxydatum 1M 30g Gallium Oxydatum 1M 100g Gallium Oxydatum LM1 30g
+set_id:
+  04ba7eb9-db5d-fa7f-e063-6294a90aff7e
+id:
+  04ba7ec2-1ea0-b828-e063-6394a90abb12
+effective_time:
+  20230906
+version:
+  1
+openfda:
+  brand_name:
+    Gallium Oxydatum
+  generic_name:
+    GALLIUM OXYDATUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-3864
+    37662-3867
+    37662-3870
+    37662-3865
+    37662-3866
+    37662-3868
+    37662-3871
+    37662-3869
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GALLIUM OXIDE
+  spl_id:
+    04ba7ec2-1ea0-b828-e063-6394a90abb12
+  spl_set_id:
+    04ba7eb9-db5d-fa7f-e063-6294a90aff7e
+  package_ndc:
+    37662-3867-1
+    37662-3867-2
+    37662-3867-3
+    37662-3867-4
+    37662-3870-1
+    37662-3870-2
+    37662-3870-3
+    37662-3870-4
+    37662-3865-1
+    37662-3865-2
+    37662-3865-3
+    37662-3866-1
+    37662-3866-2
+    37662-3866-3
+    37662-3866-4
+    37662-3868-1
+    37662-3868-2
+    37662-3868-3
+    37662-3868-4
+    37662-3871-1
+    37662-3869-1
+    37662-3869-2
+    37662-3869-3
+    37662-3869-4
+    37662-3864-1
+    37662-3864-2
+    37662-3864-3
+  is_original_packager:
+    True
+  unii:
+    46F059V66A

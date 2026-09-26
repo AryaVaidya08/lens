@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Supersmile Sodium Monofluorophosphate CARBOXYMETHYLCELLULOSE SODIUM CALCIUM PEROXIDE SODIUM PERBORATE TETRAHYDRATE STARCH, CORN MAGNESIUM CARBONATE SODIUM LAURYL SULFOACETATE SACCHARIN SODIUM SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION MINT WATER SORBITOL DIBASIC CALCIUM PHOSPHATE DIHYDRATE SODIUM BICARBONATE CALCIUM CARBONATE TITANIUM DIOXIDE ORIGINAL MINT
+active_ingredient:
+  Active Ingredient: Sodium Monoflurophosphate (0.14% w/v Fluoride Ion)
+purpose:
+  Purpose: Anticavity toothpaste
+indications_and_usage:
+  Uses: Aids in the prevention of dental cavities.
+warnings:
+  Warnings:
+keep_out_of_reach_of_children:
+  K eep out of reach of children under 6 years old . If you accidentally swallow more than used for brushing, get medical help or call a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Adults and children 2 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or a doctor.
+inactive_ingredient:
+  Inactive Ingredients: Water, Sorbitol, Dicalcium Phoshate, Calcium Carbonate, Sodium Bicarbonate, Titanium Dioxide, Cellulose Gum, Calprox®, Sodium Perborate, Corn Starch, Flavor, Magnesium Carbonate, Sodium Lauryl Sulfoacetate, Sodium Saccharin
+package_label_principal_display_panel:
+  Principal Display Panel supersmile® ORIGINAL MINT professional whitening toothpaste Powered by Calprox® contains fluoride. Net wt. 4.2 oz / 119 g supersmile_originalmint_image
+set_id:
+  87489290-c2de-4fee-97b5-3639374e0eeb
+id:
+  e6fe1aee-a52a-e008-e053-2a95a90af202
+effective_time:
+  20220824
+version:
+  14
+openfda:

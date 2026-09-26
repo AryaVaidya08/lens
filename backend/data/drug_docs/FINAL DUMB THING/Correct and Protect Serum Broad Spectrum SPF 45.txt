@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Correct and Protect Serum Broad Spectrum SPF 45 Zinc Oxide ZINC OXIDE ZINC OXIDE ISODODECANE WATER DIMETHICONE PROPANEDIOL MEDIUM-CHAIN TRIGLYCERIDES POLYGLYCERYL-6 POLYRICINOLEATE ALKYL (C12-15) BENZOATE COCOYL CAPRYLOCAPRATE ETHYLHEXYL PALMITATE POLYMETHYLSILSESQUIOXANE/TRIMETHYLSILOXYSILICATE GLYCERIN STARCH, TAPIOCA POLYGLYCERYL-10 DIOLEATE POLYHYDROXYSTEARIC ACID (2300 MW) BETA VULGARIS ROOT FRUCTOOLIGOSACCHARIDES JOJOBA OIL SOYBEAN LECITHIN SHEA BUTTER BEET HEDYCHIUM CORONARIUM ROOT TOMATO NIACINAMIDE SQUALANE UREA AMINO ACIDS, SOURCE UNSPECIFIED TREHALOSE TAURINE INOSITOL BETAINE .ALPHA.-TOCOPHEROL ACETATE ASCORBIC ACID VITAMIN A PALMITATE POTASSIUM LACTATE ETHYLHEXYLGLYCERIN LACTIC ACID, DL- LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) DISTEARDIMONIUM HECTORITE CAPRYLYL/CAPRYL OLIGOGLUCOSIDE DECYL GLUCOSIDE PROPYLENE CARBONATE CAPRYLYL GLYCOL HEXYLENE GLYCOL TRIETHOXYCAPRYLYLSILANE CHLORPHENESIN PHENOXYETHANOL FERRIC OXIDE YELLOW POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) Off-White
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Zinc Oxide 17.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ) decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 40 minutes of swimming or sweating immediately after towel drying at least every 2 hours children under 6 months of age: ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  Inactive ingredients Isododecane, Water (Aqua), Dimethicone, Propanediol, Caprylic/Capric Triglyceride, Polyglyceryl-6 Polyricinoleate, Polymethylsilsesquioxane/Trimethylsiloxysilicate, C12-15 Alkyl Benzoate, Coco-Caprylate/Caprate, Ethylhexyl Palmitate, Polymethylsilsesquioxane, Glycerin, Tapioca Starch, Polyglyceryl-10 Dioleate, Polyhydroxystearic Acid, Fructooligosaccharides, Simmondsia Chinensis (Jojoba) Seed Oil, Lecithin, Butyrospermum Parkii (Shea) Butter, Beta Vulgaris (Beet) Root Extract, Hedychium Coronarium Root Extract, Solanum Lycopersicum (Tomato) Fruit Extract, Niacinamide, Squalane, Urea, Yeast Amino Acids, Trehalose, Taurine, Inositol, Betaine, Tocopheryl Acetate, Ascorbic Acid, Retinyl Palmitate, Potassium Lactate, Ethylhexylglycerin, Lactic Acid, Leuconostoc/Radish Root Ferment Filtrate, Polysilicone-11, Disteardimonium Hectorite, Caprylyl/Capryl Glucoside, Decyl Glucoside, Propylene Carbonate, Caprylyl Glycol, Hexylene Glycol, Triethoxycaprylylsilane, Chlorphenesin, Phenoxyethanol, Iron Oxides (CI 77492)
+storage_and_handling:
+  Other information protect this product from excessive heat and direct sun
+questions:
+  Questions or comments? 1.800.33.MURAD or Murad.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton STEP 3 Moisturize | Protect Murad ® ENVIRONMENTAL SHIELD™ Correct & Protect Serum Broad Spectrum SPF 45 | PA++++ mineral sunscreen water resistant (40 mins) DEVELOPED BY +Murad+ EST. 1989 DOCTOR MURAD ℮ 30 mL NET VOL 1 FL OZ PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton
+set_id:
+  60c62108-6806-4722-a44b-f1c300d59c1e
+id:
+  85372f9a-0f66-4685-a5a7-1b095b7ac16a
+effective_time:
+  20250110
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Correct and Protect Serum Broad Spectrum SPF 45
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Murad, LLC
+  product_ndc:
+    70381-120
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    85372f9a-0f66-4685-a5a7-1b095b7ac16a
+  spl_set_id:
+    60c62108-6806-4722-a44b-f1c300d59c1e
+  package_ndc:
+    70381-120-01
+    70381-120-02
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

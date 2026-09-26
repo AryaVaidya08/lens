@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Pharma-C-Wipes 3 Hydrogen Peroxide Wipes HYDROGEN PEROXIDE WATER HYDROGEN PEROXIDE HYDROGEN PEROXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information • do not apply internally • keep canister tightly closed and stored at room temperature • hold away from face when opening
+active_ingredient:
+  Active ingredient Hydrogen Peroxide (stabilized) 3% Purpose First aid antiseptic
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Uses first aid to help prevent the risk of infection in: • minor cuts • scrapes • burns
+warnings:
+  Warnings For external use only. Ask a doctor before use if you have • deep or puncture wounds • animal bites • serious burns When using this product • do not get in eyes • do not apply over large areas • do not use longer than 1 week unless directed by a doctor Stop use and ask doctor if condition persists or gets worse. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have • deep or puncture wounds • animal bites • serious burns
+when_using:
+  When using this product • do not get in eyes • do not apply over large areas • do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and ask doctor if condition persists or gets worse.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • clean the affected area • apply product on the affected area of the body 1 to 3 times a day • may be covered with a sterile bandage • if bandaged, let dry first
+inactive_ingredient:
+  Inactive ingredient purified water
+questions:
+  Questions or comments? 1-844-308-8600
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  b431aac0-2b92-4fd4-8184-e59090fdd5a8
+id:
+  0a09ed6a-3f52-a55c-e063-6394a90ae7f6
+effective_time:
+  20231113
+version:
+  4
+openfda:

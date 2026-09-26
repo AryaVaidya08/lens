@@ -1,0 +1,27 @@
+effective_time:
+  20191007
+inactive_ingredient:
+  magnesium stearate, microcrystalline cellulose, sodium starch glycolate, colloidal silicon dioxide, povidone K30
+purpose:
+  Periodontal disease [Dental caries disease, gingivitis, periodontitis (periodontal periodontitis)]
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Do not take this medicine if ■ people who are hypersensitive to the drugs and ingredients contained in this medicine Consult a doctor, dentist, or pharmacist before taking this medicine ■ Patients who are overreacting to substrates of azoic pigment, acetyl salicylic acid or other prostaglandin syncase inhibitors should be careful about the use of this drug ■ Be careful because this drug may interfere with the absorption of cholesterol medicines. ■ Pregnancy and lactation (for pregnant women or wives who are likely to be pregnant, only if the therapeutic benefit exceeds the risk) ■ Since this drug contains yellow 4 (tartrazine), consult a doctor, dentist, or pharmacist before taking it (for that item only) Immediately stop taking this medicine and consult a doctor or pharmacist if: ■ the drug is administered to patients with asthma or chronic stomatosis or is overreacting to non-steroidal anti-inflammatory drugs, it may cause anaphylaxis or respiratory system to overreact
+spl_product_data_elements:
+  INSADOL Corn sterilized quantitative extract (beta sitosterol) POVIDONE K30 SODIUM STARCH GLYCOLATE TYPE A CORN POWDERED CELLULOSE MAGNESIUM STEARATE .BETA.-SITOSTEROL .BETA.-SITOSTEROL ISD
+openfda:
+version:
+  1
+dosage_and_administration:
+  For oral use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  ■ adult: two tablets once, three times a day before meal ■ as a maintenance dose, one tablet once, three times a day before meal
+set_id:
+  945bd5ac-088d-06f1-e053-2a95a90a33ff
+id:
+  945bd5ac-088f-06f1-e053-2a95a90a33ff
+active_ingredient:
+  Corn sterilized quantitative extract (beta sitosterol)

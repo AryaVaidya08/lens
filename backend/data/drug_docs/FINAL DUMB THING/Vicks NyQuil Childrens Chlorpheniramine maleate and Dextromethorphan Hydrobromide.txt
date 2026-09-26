@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  Vicks NyQuil Childrens Chlorpheniramine maleate and Dextromethorphan Hydrobromide ANHYDROUS CITRIC ACID FD&C RED NO. 40 PROPYLENE GLYCOL WATER SODIUM CITRATE SUCRALOSE SACCHARIN SODIUM SODIUM BENZOATE GLYCERIN XANTHAN GUM SORBITOL CHLORPHENIRAMINE MALEATE CHLORPHENIRAMINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN
+spl_unclassified_section:
+  Drug Facts
+  TAMPER EVIDENT: Do not use if printed shrinkband is broken or missing.
+  DIST. BY PROCTER & GAMBLE, CINCINNATI OH 45202
+active_ingredient:
+  Active ingredients (in each 15 mL) Chlorpheniramine maleate 2 mg Dextromethorphan HBr 15 mg Purpose Antihistamine Cough suppressant
+purpose:
+  Purpose Antihistamine Cough suppressant
+indications_and_usage:
+  Uses temporarily relieves cold symptoms: cough due to minor throat & bronchial irritation sneezing runny nose
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleepy
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleepy
+ask_doctor:
+  Ask a doctor before use if you have glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, & tranquilizers may increase drowsiness
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take only as directed only use the dose cup provided do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 6 hrs children 6 to under 12 yrs 15 mL every 6 hrs children 4 to under 6 yrs do not use unless directed by a doctor children under 4 yrs do not use
+dosage_and_administration_table:
+  <table width="100%"><tbody><tr><td>adults &amp; children 12 yrs &amp; over</td><td>30 mL every 6 hrs</td></tr><tr><td>children 6 to under 12 yrs</td><td>15 mL every 6 hrs</td></tr><tr><td>children 4 to under 6 yrs</td><td>do not use unless directed by a doctor</td></tr><tr><td>children under 4 yrs</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each 15 mL contains: sodium 13 mg Store at no greater than 25°C
+inactive_ingredient:
+  Inactive ingredients citric acid, FD&C Red No. 40, flavor, glycerin, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate, sorbitol, sucralose, xanthan gum
+questions:
+  Questions? 1-800-362-1683
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 236 ml Bottle Label VICKS ® NyQuil ™ children's COLD & COUGH Chlorpheniramine maleate, Dextromethorphan HBr Sneezing, Runny Nose Cough Free of Alcohol & Acetaminophen 8FL OZ (236 mL) AGES 6+ 984
+set_id:
+  ecf75e75-b7d5-0135-e053-2995a90a2f41
+id:
+  05f693ae-a0f5-17ee-e063-6394a90a3e3c
+effective_time:
+  20230922
+version:
+  5
+openfda:

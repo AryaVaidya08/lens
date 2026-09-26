@@ -1,0 +1,36 @@
+effective_time:
+  20120124
+inactive_ingredient:
+  Inactive ingredients sorbitol, water, hydrated silica, PEG-12, cellulose gum, flavor, sodium lauryl sulfate, sodium saccharin, mica, titanium dioxide, FC&C blue no. 1
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? 1-800-468-6502
+spl_product_data_elements:
+  Colgate Junior Sponge Bob SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA POLYETHYLENE GLYCOL 600 CARBOXYMETHYLCELLULOSE SODIUM SODIUM LAURYL SULFATE SACCHARIN SODIUM DIHYDRATE MICA TITANIUM DIOXIDE FD&C BLUE NO. 1
+ask_doctor:
+  If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 24 g Tube Carton Clinically Proven Cavity & Enamel Protection Colgate ® Fluoride Toothpaste nickelodeon ™ SpongeBob SQUAREPANTS ™ ADA Accepted American Dental Association ® NET WT 0.85 OZ (24 g) BUBBLE FRUIT ® FLAVOR PRINCIPAL DISPLAY PANEL - 24 g Tube Carton
+indications_and_usage:
+  Use helps protect against cavities
+set_id:
+  6cbcfab2-67c5-4d8f-9060-34432e788fd1
+id:
+  d5264524-53e8-4562-991d-d68629aa5fd4
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+dosage_and_administration_table:
+  <table width="65%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">adults and children 2 years of age and older</td> <td styleCode="Rrule">brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td> </tr> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">children 2 to 6 years</td> <td styleCode="Rrule">use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td> </tr> <tr> <td styleCode="Lrule Rrule">children under 2 years</td> <td styleCode="Rrule">ask a dentist or physician</td> </tr> </tbody> </table>

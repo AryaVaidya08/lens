@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  BIO SPECTRA ATTITUDE ZINC OXIDE WATER MEDIUM-CHAIN TRIGLYCERIDES POLYHYDROXYSTEARIC ACID (2300 MW) CETOSTEARYL ALCOHOL GLYCERYL MONOSTEARATE CETEARYL GLUCOSIDE ETHYLHEXYLGLYCERIN GLYCERIN C10-18 TRIGLYCERIDES DOCOSANOL SODIUM CHLORIDE XANTHAN GUM CAPRYLYL GLYCOL SODIUM GLUCONATE ZINC OXIDE ZINC OXIDE Opaque
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active ingredient Zinc oxide (20%)
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn.
+warnings:
+  Warnings Allergens: soybeans (glycerin). For external use only. Do not use on broken skin. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Stop use and consult a doctor if rash occurs.
+do_not_use:
+  Do not use on broken skin.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and consult a doctor if rash occurs.
+dosage_and_administration:
+  Directions Adults and children older than 6 months. Apply generously 15 minutes before sun exposure. Reapply at least every 2 hours. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPFvalue of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10am-2pm; and wear long-sleeved shirts, pants, hats and sunglasses. Use a water resistant sunscreen if swimming or sweating. Children under 6 months of age: Ask a doctor.
+inactive_ingredient:
+  Inactive or non-medicinal ingredients Aqua / Water / Eau, Caprylic/Capric Triglyceride, Cetearyl Glucoside, Glyceryl Stearate, Cetearyl Alcohol, Polyhydroxystearic Acid, C10-18 Triglycerides, Glycerin, Ethylhexylglycerin, Caprylyl Glycol, Behenyl Alcohol, Sodium Chloride, Xanthan Gum, Sodium Gluconate.
+storage_and_handling:
+  Other Information Store at temperatures below 90°F and protect from direct sun.
+recent_major_changes:
+  Dosage and administration : update of the Directions
+questions:
+  Questions ? 1-855-509-7225
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 150 g Tube Label ATTITUDE ® natural care SPF 30 Unscented Mineral sunscreen Broad spectrum SPF 30 UVA/UVB - Non nano SUNLY VEGAN Dermatologically tested EWG Verified NPN 80047088 • 150 g e / 5.2 OZ. Label
+set_id:
+  954713fe-c84c-41b4-913d-3507ed91e55d
+id:
+  273701b7-3462-bd2d-e063-6294a90a1a94
+effective_time:
+  20241201
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    BIO SPECTRA ATTITUDE
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    9055-7588 Quebec Inc. DBA Attitude
+  product_ndc:
+    61649-110
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    273701b7-3462-bd2d-e063-6294a90a1a94
+  spl_set_id:
+    954713fe-c84c-41b4-913d-3507ed91e55d
+  package_ndc:
+    61649-110-15
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

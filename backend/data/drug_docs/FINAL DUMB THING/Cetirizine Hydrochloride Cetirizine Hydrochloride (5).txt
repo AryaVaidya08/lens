@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Cetirizine Hydrochloride Cetirizine Hydrochloride POVIDONE K30 LACTOSE MONOHYDRATE STARCH, CORN MAGNESIUM STEARATE HYPROMELLOSES TITANIUM DIOXIDE POLYETHYLENE GLYCOL TALC CETIRIZINE HYDROCHLORIDE CETIRIZINE rectangular RI52
+spl_unclassified_section:
+  Drug Facts:
+  Other information store between 20° to 25°C (68° to 77°F)
+  Manufactured for: Ohm Laboratories Inc. 14 Terminal Road New Brunswick, NJ 08901 Manufactured by: Ipca Laboratories Limited 1, Pharma Zone, SEZ Indore, Pithampur 454775, (M.P.), India
+active_ingredient:
+  Active Ingredient ( in each tablet) Cetirizine HCl 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+when_using:
+  When using this product drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breat-feeding if breast-feeding: not recommended if pregnant: ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 6 yearsand over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table ID="ID56" width="99%"><col width="40%"/><col width="59%"/><tbody><tr><td align="left" styleCode=" Botrule" valign="top">adults and children 6 yearsand over  </td><td align="left" styleCode=" Lrule Botrule" valign="top">one 10 mg tablet once daily; do not take more than one   10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms.  </td></tr><tr><td align="left" styleCode=" Botrule Toprule" valign="top">adults 65 years and over  </td><td align="left" styleCode=" Lrule Botrule Toprule" valign="top">ask a doctor  </td></tr><tr><td align="left" styleCode=" Botrule Toprule" valign="top">children under 6 years of age  </td><td align="left" styleCode=" Lrule Botrule Toprule" valign="top">ask a doctor  </td></tr><tr><td align="left" styleCode=" Toprule" valign="top">consumers with liver or kidney disease  </td><td align="left" styleCode=" Lrule Toprule" valign="top">ask a doctor  </td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients povidone, lactose monohydrate, corn starch, magnesium stearate, hypromelloses, titanium dioxide, polyethylene glycol, talc.
+questions:
+  Questions? call 1-800-406-7984
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Ohm Laboratories Inc.\Ranbaxy Group Company NDC: 57451-5067-1 Cetirizine Hydrochloride Tablets 10 mg 1x 10000 Tablets Each tablet contains: Cetirizine hydrochloride 10 mg Store between 20° to 25°C (68° to 77°F) Code : MP/DRUGS/25/1/2008 Batch No. : Mfg. Dt. : Exp. Dt. : Manufactured for: Ohm Laboratories Inc. 14 Terminal Road New Brunswick, NJ 08901 Manufactured by: Ipca Laboratories Limited 1, Pharma Zone, SEZ, Indore Pithampur- 454775 (M.P.), India 10-mg
+set_id:
+  57293f46-e0ba-4f7b-a3f2-db1a798012cd
+id:
+  2924dd00-fc72-9f91-e063-6294a90a5770
+effective_time:
+  20241224
+version:
+  2
+openfda:

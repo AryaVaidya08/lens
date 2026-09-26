@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  iVizia Dry Eye Povidone POVIDONE POVIDONE HYDROCHLORIC ACID WATER SODIUM CHLORIDE HYALURONATE SODIUM TREHALOSE TROMETHAMINE
+spl_unclassified_section:
+  
+active_ingredient:
+  Active Ingredient Povidone 0.5%
+purpose:
+  Purpose Eye lubricant
+indications_and_usage:
+  Uses (one or more of these) For the temporary relief of burning and irritation due to dryness of the eye For the temporary relief of discomfort due to minor irritations of the eye or to exposure to wind and sun For use as a protectant against further irritation or to relieve dryness of the eye For use as a lubricant to prevent further irritation or to relieve dryness of the eye.
+warnings:
+  Warnings: For external use only (in the eye) Wait at least 10 minutes between using two different eye products Do not use if you are allergic to any of the ingredients. If solution changes color or becomes cloudy, do not use. To avoid contamination, do not touch the tip of container to any surface. Replace cap after using. Use up to 90 days after opening. Store below 77°F. Do not use after the expiration date on the carton. Expiration date refers to the product in intact packaging, stored correctly. If you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours, discontinue use and consult a doctor. After first use, if exposed to low atmospheric pressure, the bottle can leak. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. When using this product Rare possibility of mild eye irritation and ocular redness. In such cases, contact lens wearers should remove their contact lenses. You might experience bothersome symptoms such as a burning sensation, stinging sensation, foreign body sensation in the eye and blurred vision for a short time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Rare possibility of mild eye irritation and ocular redness. In such cases, contact lens wearers should remove their contact lenses. You might experience bothersome symptoms such as a burning sensation, stinging sensation, foreign body sensation in the eye and blurred vision for a short time.
+dosage_and_administration:
+  Directions: Wash hands well before use. Twist cap counterclockwise to break tamper evident seal. Press firmly on bottle sides. Dispensing drops is slower due to preservative-free filter. Dispense 1-2 drops in the affected eye as needed. Safe with contacts. *To limit blurriness when using contact lenses: remove contacts, apply drops, then insert contacts.
+inactive_ingredient:
+  Inactive Ingredients Purified water, sodium chloride, sodium hyaluronate, trehalose, tromethamine. May contain hydrochloric acid to adjust pH.
+questions:
+  Questions? 1-800-240-9780 or info@ivizia.com.
+package_label_principal_display_panel:
+  Principle Display Panel iVizia Sterile Lubricant Eye Drops For Dry Eyes 0. 33 FL OZ ( 10 ml) Principle Display Panel iVizia Sterile Lubricant Eye Drops For Dry Eyes 0.33 FL OZ (10ml)
+package_label_principal_display_panel_table:
+  <table><col width="1419"/><tbody><tr><td> <renderMultiMedia referencedObject="MM03000001"/></td></tr></tbody></table>
+set_id:
+  103bd292-8247-46b7-9f9b-daa48ad8f9fa
+id:
+  cd185f99-fd1c-4bb4-8ccb-a57de2e23d8f
+effective_time:
+  20250311
+version:
+  9
+openfda:

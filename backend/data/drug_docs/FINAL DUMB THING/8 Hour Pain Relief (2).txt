@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  8 Hour Pain Relief Acetaminophen HYDROXYETHYL CELLULOSE (140 MPA.S AT 5%) HYPROMELLOSE 2910 (6 MPA.S) MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL 400 POVIDONE K30 STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A CORN STEARIC ACID ACETAMINOPHEN ACETAMINOPHEN G650
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each caplet) Acetaminophen 650 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: muscular aches backache minor pain of arthritis toothache premenstrual and menstrual cramps headache the common cold temporarily reduces fever
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 6 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if you have liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning ) adults and children 12 years and over take 2 caplets every 8 hours with water swallow whole; do not crush, chew, split or dissolve do not take more than 6 caplets in 24 hours, unless directed by a doctor do not use for more than 10 days unless directed by a doctor children under 12 years do not use
+dosage_and_administration_table:
+  <table width="60%"><col width="30%" align="left" valign="top"/><col width="70%" align="left" valign="top"/><tbody><tr styleCode="Botrule First"><td align="left" styleCode="Rrule Toprule">adults and children 12 years and over</td><td align="left" styleCode="Toprule"><list listType="unordered" styleCode="Square"><item>take 2 caplets every 8 hours with water</item><item>swallow whole; do not crush, chew, split or dissolve</item><item>do not take more than 6 caplets in 24 hours, unless directed by a doctor</item><item>do not use for more than 10 days unless directed by a doctor</item></list></td></tr><tr><td align="left" styleCode="Rrule">children under 12 years</td><td align="left"><list listType="unordered" styleCode="Square"><item>do not use</item></list></td></tr></tbody></table>
+storage_and_handling:
+  Other information store between 20-25°C (68-77°F) retain carton for complete product information and warnings
+inactive_ingredient:
+  Inactive ingredients hydroxyethyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, pregelatinized starch, sodium starch glycolate, stearic acid
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL QUALITY CHOICE® NDC 83324-082-50 †Compare to Active Ingredient in Tylenol® 8HR Muscle Aches and Pain 8 Hour Pain Relief Acetaminophen Extended Release Tablets, 650 mg Pain Reliever | Fever Reducer For up to 8 Hour Relief of Minor Muscle Aches and Pain Actual Size 50 CAPLETS** - 650 MG EACH (**Capsule-Shaped Bi-Layer Tablets) image description
+set_id:
+  3ec966f5-bdcb-4bd8-b265-c776ba778f25
+id:
+  1ac6f30c-93b7-2082-e063-6294a90ad90d
+effective_time:
+  20240613
+version:
+  2
+openfda:
+  application_number:
+    ANDA211544
+  brand_name:
+    8 Hour Pain Relief
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    CHAIN DRUG MARKETING ASSOCIATION, INC.
+  product_ndc:
+    83324-082
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    1148399
+  spl_id:
+    1ac6f30c-93b7-2082-e063-6294a90ad90d
+  spl_set_id:
+    3ec966f5-bdcb-4bd8-b265-c776ba778f25
+  package_ndc:
+    83324-082-50
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D

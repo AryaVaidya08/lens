@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Triclosan Free Antibacterial 7.5 oz (Strawberry Pomegranate) Antibacterial Chloroxylenol CHLOROXYLENOL CHLOROXYLENOL SODIUM LAURETH SULFATE CITRIC ACID MONOHYDRATE DISODIUM EDTA-COPPER COCO MONOETHANOLAMIDE SODIUM CHLORIDE .ALPHA.-TOCOPHEROL ACETATE METHYLCHLOROISOTHIAZOLINONE PEG-150 DISTEARATE POLYOXYL 40 HYDROGENATED CASTOR OIL METHYLISOTHIAZOLINONE D&C RED NO. 33 WATER GLYCERIN SODIUM C14-16 OLEFIN SULFONATE
+purpose:
+  Purpose Antibacterial
+active_ingredient:
+  Active Ingredient Chloroexylenol, 0.3%
+indications_and_usage:
+  USAGE For hand washing to decrease bacteria on the skin
+dosage_and_administration:
+  Directions Pump into hands Lather vigorously for at least 15 seconds Rinse and dry thoroughly
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a poison control center right away.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes; in case of eye contact, flush with water Stop use and ask a doctor if irritation and redness develops
+inactive_ingredient:
+  WATER, SODIUM LAURETH SULFATE, COCAMIDE MEA, SODIUM C14-16 OLEFIN SULFONATE, SODIUM CHLORIDE, PEG-150 DISTEARATE, FRAGRANCE, CITRIC ACID, GLYCERIN, PEG-40 HYDROGENATED CASTOR OIL, DISODIUM EDTA, TOCOPHERYL ACETATE, METHYLCHLOROTHIAZOLINONE, METHYLISOTHIAZOLINONE, D&C RED NO. 33
+package_label_principal_display_panel:
+  image
+set_id:
+  5152d510-e9b9-3e14-e054-00144ff8d46c
+id:
+  92d4dbcf-695e-2551-e053-2995a90a7d99
+effective_time:
+  20190918
+version:
+  2
+openfda:

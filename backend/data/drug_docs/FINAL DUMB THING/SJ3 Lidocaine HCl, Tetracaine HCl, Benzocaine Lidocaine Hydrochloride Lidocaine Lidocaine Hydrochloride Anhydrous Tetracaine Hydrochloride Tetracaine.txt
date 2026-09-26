@@ -1,0 +1,41 @@
+effective_time:
+  20210716
+inactive_ingredient:
+  Inactive Ingredients: Propylene Glycol, Ethoxydiglycol, Tetrasodium EDTA.
+purpose:
+  Active Ingredients Purpose Lidocaine Hydrochloride 4% Topical Anesthetic Tetracaine Hydrochloride 2% Topical Anesthetic Benzocaine 12% Topical Anesthetic
+keep_out_of_reach_of_children:
+  
+warnings:
+  WARNINGS: Keep out reach of children
+when_using:
+  When using this product you may notice temporary blanching or redness of the skin where liquid is applied.
+questions:
+  Questions? Contact distributor on product label.
+spl_product_data_elements:
+  SJ3 Lidocaine HCl, Tetracaine HCl, Benzocaine Lidocaine Hydrochloride Lidocaine Lidocaine Hydrochloride Anhydrous Tetracaine Hydrochloride Tetracaine Benzocaine Benzocaine Propylene Glycol Diethylene Glycol Monoethyl Ether Edetate Sodium label
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Sensitivity test advised prior to use. Apply to intact skin to clean prior to application of predeadener. Use to wipe off predeadener. During procedure, swipe across skin and wait for numbness to develop (90 seconds). Not appropriate for eyeliner. You may reapply as necessary to continue anesthesia. Discontinue use if sensitivity occurs. Remove product before continuing with procedure.
+stop_use:
+  
+storage_and_handling:
+  Other information: Store in a cool dark place or refrigerate. Discard after expiration date.
+do_not_use:
+  Do not use if you have seizures or liver disease if pregnant or breast feeding a known allergy or sensitivity to any of the components of this product. If sensitivity occurs, discontinue use, and seek medical attention. If condition worsens or symptoms persist for more than seven days or clear up and occur again within a few days, discontinue use of this product and consult a doctor. Do not use in large quantities, particularly over raw surfaces or blistered areas. Avoid contact with eyes, in case of accidental contact with eyes, rinse immediately with copious amounts of eyewash and seek treatment by an eye care specialist. If accidentally swallowed, get medical help immediately.
+active_ingredient_table:
+  <table cellpadding="4" cellspacing="0" width="40%"><colgroup><col/><col/><col align="center"/></colgroup><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active Ingredients </content></content></td><td> </td><td align="center"><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Lidocaine Hydrochloride </td><td> 4% </td><td align="center">Topical Anesthetic</td></tr><tr><td>Tetracaine Hydrochloride </td><td> 2% </td><td align="center">Topical Anesthetic</td></tr><tr><td>Benzocaine </td><td>12% </td><td align="center">Topical Anesthetic</td></tr></tbody></table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL SJ3 SuperJuice 3 Anesthetic for use during painful procedures. Contains 4 oz. Distributed by: DERMAL SOURCE Portland, OR 97232 www.dermalsource.com 1-866-568-3223 SP2268-4
+indications_and_usage:
+  Uses: External Use Only. Do Not Swallow. Temporarily supplies pain relief to either intact or open skin due to pain sensitive procedures.
+set_id:
+  0a5618bc-69e4-47b6-9b86-f1578ee9c87a
+id:
+  19607380-4e46-4f22-b9cb-e118a8fea2d2
+purpose_table:
+  <table cellpadding="4" cellspacing="0" width="40%"><colgroup><col/><col/><col align="center"/></colgroup><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active Ingredients </content></content></td><td> </td><td align="center"><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Lidocaine Hydrochloride </td><td> 4% </td><td align="center">Topical Anesthetic</td></tr><tr><td>Tetracaine Hydrochloride </td><td> 2% </td><td align="center">Topical Anesthetic</td></tr><tr><td>Benzocaine </td><td>12% </td><td align="center">Topical Anesthetic</td></tr></tbody></table>
+active_ingredient:
+  Active Ingredients Purpose Lidocaine Hydrochloride 4% Topical Anesthetic Tetracaine Hydrochloride 2% Topical Anesthetic Benzocaine 12% Topical Anesthetic

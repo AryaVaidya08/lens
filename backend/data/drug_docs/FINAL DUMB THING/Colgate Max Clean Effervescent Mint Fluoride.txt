@@ -1,0 +1,34 @@
+effective_time:
+  20180627
+inactive_ingredient:
+  Inactive ingredients water, sorbitol, hydrated silica, PEG-12, poloxamer 407, sodium lauryl sulfate, flavor, xanthan gum, cocamidopropyl betaine, tetrasodium pyrophosphate, sodium saccharin, methylcellulose, mica, titanium dioxide, FD&C blue no. 1
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? 1-800-468-6502
+spl_product_data_elements:
+  Colgate Max Clean Effervescent Mint Fluoride SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA POLYETHYLENE GLYCOL 600 SODIUM LAURYL SULFATE XANTHAN GUM SODIUM PYROPHOSPHATE COCAMIDOPROPYL BETAINE SACCHARIN SODIUM METHYLCELLULOSE (100 MPA.S) POLOXAMER 407 MICA TITANIUM DIOXIDE FD&C BLUE NO. 1
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 170 g Tube Carton Colgate ® Anticavity Fluoride Toothpaste MaxClean ™ SMARTFOAM ® 30% More Foam* Cleans Tough to Reach Spaces NET WT 6.0 OZ (170 g) EFFERVESCENT MINT™ WITH WHITENING PRINCIPAL DISPLAY PANEL - 170 g Tube Carton
+indications_and_usage:
+  Use helps protect against cavities
+set_id:
+  daf00085-877b-4d48-8c30-c906749fbf32
+id:
+  19db4d54-a7bc-4ade-83c2-aeb02137023b
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.14% w/v fluoride ion)
+dosage_and_administration_table:
+  <table width="65%" styleCode="Noautorules"> <col width="35%" align="left" valign="top"/> <col width="65%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults and children 2 years of age and older</td> <td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children 2 to 6 years</td> <td>use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td> </tr> <tr> <td styleCode="Rrule">children under 2 years</td> <td>ask a dentist or physician</td> </tr> </tbody> </table>

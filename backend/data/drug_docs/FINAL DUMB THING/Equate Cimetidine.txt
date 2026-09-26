@@ -1,0 +1,77 @@
+spl_product_data_elements:
+  Equate Cimetidine Cimetidine CIMETIDINE CIMETIDINE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 POVIDONE, UNSPECIFIED SODIUM LAURYL SULFATE TITANIUM DIOXIDE L022
+active_ingredient:
+  Active ingredient (in each tablet) Cimetidine 200 mg
+purpose:
+  Purpose Acid reducer
+indications_and_usage:
+  Uses • relieves heartburn associated with acid indigestion and sour stomach • prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages
+warnings:
+  Warnings Allergy alert: Do not use if you are allergic to cimetidine or other acid reducers Do not use • if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. • with other acid reducers Ask a doctor before use if you have • frequent chest pain • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain • had heartburn over 3 months. This may be a sign of a more serious condition. • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • kidney disease • liver disease Ask a doctor or pharmacist before use if you are taking • a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if • you need to take this product for more than 14 days • stomach pain continues • your heartburn continues or worsens If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. • with other acid reducers
+ask_doctor:
+  Ask a doctor before use if you have • frequent chest pain • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain • had heartburn over 3 months. This may be a sign of a more serious condition. • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • kidney disease • liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking • a prescription drug. Acid reducers may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if • you need to take this product for more than 14 days • stomach pain continues • your heartburn continues or worsens
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • adults and children 12 years and over: • to relieve symptoms, swallow 1 tablet with a glass of water • to prevent symptoms, swallow 1 tablet with a glass of water right before or any time up to 30 minutes before eating food or drinking beverages that cause heartburn • do not take more than 2 tablets in 24 hours • children under 12 years: ask a doctor
+storage_and_handling:
+  Other information • store at 20°-25°C (68°-77°F)
+inactive_ingredient:
+  Inactive ingredients hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, povidone, pregelatinized starch, sodium lauryl sulfate, sodium starch glycolate, titanium dioxide
+questions:
+  Questions or comments? 1-888-287-1915
+package_label_principal_display_panel:
+  Principal Display Panel equate™ Compare to Tagamet ® HB 200 active ingredient Cimetidine Tablets, 200 mg Acid Reducer Heartburn Prevention Just one tablet relieves and prevents heartburn and acid indigestion Take Anytime You Need It: • Before meal • During meal • After meal Actual Size 200 mg 60 TABLETS (60 DOSES) 0222e-cimetidine
+set_id:
+  ad3e8f6a-8e35-42c2-a98c-566a2868e923
+id:
+  4c4930d7-ec4b-45eb-8706-d06523a0d198
+effective_time:
+  20220310
+version:
+  6
+openfda:
+  application_number:
+    ANDA075285
+  brand_name:
+    Equate Cimetidine
+  generic_name:
+    CIMETIDINE
+  manufacturer_name:
+    Wal-Mart Stores Inc
+  product_ndc:
+    49035-820
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CIMETIDINE
+  rxcui:
+    197505
+  spl_id:
+    4c4930d7-ec4b-45eb-8706-d06523a0d198
+  spl_set_id:
+    ad3e8f6a-8e35-42c2-a98c-566a2868e923
+  package_ndc:
+    49035-820-72
+    49035-820-76
+  is_original_packager:
+    True
+  nui:
+    N0000000151
+    N0000175784
+  pharm_class_moa:
+    Histamine H2 Receptor Antagonists [MoA]
+  pharm_class_epc:
+    Histamine-2 Receptor Antagonist [EPC]
+  unii:
+    80061L1WGD

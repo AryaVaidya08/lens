@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Foaming Hand Sanitizer Benzalkonium Chloride CETRIMONIUM CHLORIDE DIGLYCERIN DISODIUM COCOAMPHODIACETATE GLYCERIN HYDROCHLORIC ACID METHOXY PEG/PPG-7/3 AMINOPROPYL DIMETHICONE SODIUM BENZOATE EDETATE SODIUM WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use to decrease bacteria on the skin
+warnings:
+  Warnings for external use only: hands only
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. avoid contact with broken skin
+stop_use:
+  Stop use and ask a doctor if if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+inactive_ingredient:
+  Inactive ingredients cetrimonium chloride, diglycerin, disodium cocoamphodiacetate, fragrance, glycerin, hydrochloric acid, methoxy PEG/PPG-7/3 aminopropyl dimethicone, sodium benzoate, tetrasodium EDTA, water
+spl_unclassified_section:
+  Rear label text Distributed by Veritiv Operating Company Atlanta, GA 30328 reliablebrand.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL ALCOHOL FREE FOAM HAND SANITIZER Manual push style 1 L (33.8 FL OZ) image description
+set_id:
+  194147d6-3452-467a-818b-bfad761e09c0
+id:
+  253a89dd-165c-ea75-e063-6294a90a0428
+effective_time:
+  20241024
+version:
+  4
+openfda:

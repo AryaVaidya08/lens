@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  The creme shop BT21 MOISTURIZING SANITIZERSpray GREEN TEA SCENTED Ethyl alcohol ALOE VERA LEAF GLYCERIN .ALPHA.-TOCOPHEROL ACETATE WATER ALCOHOL ALCOHOL FD&C BLUE NO. 1 FD&C YELLOW NO. 5
+package_label_principal_display_panel:
+  81123-073-01 Active ingredient Ethyl alcohol 70 % Purpose Antiseptic Other Information Do not store above 86 °F May discolor some fabrics Harmful to wood finishes and plastics Inactive ingredients Aqua, Glycerin, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Fragrance, FD&C BLUE NO. 1, FD&C YELLOW NO. 5 Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Directions Spray hands thoroughly and rub until dry For children under 6, use only under adult supervision Not recommended for infants Warnings For external use only: hands Flammable, keep away from fire or flame. Stop use and ask a doctor if Irritation or redness develops Conditions persists for more than 72 hours
+active_ingredient:
+  Active ingredient Ethyl alcohol 70 %
+dosage_and_administration:
+  
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Other Information Do not store above 86 °F May discolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Aqua, Glycerin, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, Fragrance, FD&C BLUE NO. 1, FD&C YELLOW NO. 5
+do_not_use:
+  
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest.
+instructions_for_use:
+  Directions Spray hands thoroughly and rub until dry For children under 6, use only under adult supervision Not recommended for infants
+warnings:
+  Warnings For external use only: hands Flammable, keep away from fire or flame.
+stop_use:
+  Stop use and ask a doctor if Irritation or redness develops Conditions persists for more than 72 hours
+set_id:
+  be553264-26ff-204a-e053-2a95a90a04b5
+id:
+  be553264-2700-204a-e053-2a95a90a04b5
+effective_time:
+  20210324
+version:
+  1
+openfda:

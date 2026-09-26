@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  SOOTHE Moisturizing Rescue Cream OATMEAL OATMEAL OATMEAL ASCORBYL PALMITATE BEHENIC ACID SHEA BUTTER C12-16 ALCOHOLS CALCIUM GLUCONATE N-HEXANOYLSPHINGOSINE MEDIUM-CHAIN TRIGLYCERIDES CAPRYLYL GLYCOL CERAMIDE AP CERAMIDE 1 CERAMIDE EOS CERAMIDE NP CERAMIDE NG CETEARETH-25 CETYL ALCOHOL CHOLESTEROL CURCUMA KWANGSIENSIS ROOT CYNARA SCOLYMUS LEAF DECYL GLUCOSIDE DIMETHICONE GLYCYRRHIZINATE DIPOTASSIUM EDETATE DISODIUM ANHYDROUS ETHYLHEXYLGLYCERIN GLUCONOLACTONE GLYCERIN SUNFLOWER OIL HEXYLENE GLYCOL HYDROGENATED SOYBEAN LECITHIN LECITHIN, SOYBEAN MALTODEXTRIN OPHIOPOGON JAPONICUS ROOT PRICKLY PEAR FRUIT PALMITIC ACID PANTHENOL PHENOXYETHANOL DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) POTASSIUM SORBATE PROPANEDIOL SODIUM BENZOATE TOCOPHEROL WATER XANTHAN GUM YEAST, UNSPECIFIED
+active_ingredient:
+  Active Ingredient Colloidal Oatmeal 1 %
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritation and itching due to • rashes • eczema.
+warnings:
+  Warnings For external use only. When using this product do not get into eyes. Stop use and ask a doctor if Condition worsens. Symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children. If product is swallowed, get medical help right away.
+when_using:
+  When using this product do not get into eyes.
+stop_use:
+  Stop use and ask a doctor if Condition worsens. Symptoms last more than 7 days or clear up and occur again within a few days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help right away.
+dosage_and_administration:
+  Directions Apply an even layer over face and neck as needed. Avoid eye area. Use AM + PM after Sensitive Skin Treatment.
+inactive_ingredient:
+  Inactive Ingredients Aqua/Eau/Water, Ascorbyl Palmitate, Behenic Acid, Butyrospermum Parkii (Shea) Butter, C12-16 Alcohols, Calcium Gluconate, Caprooyl Phytosphingosine, Caprooyl Sphingosine, Caprylic/Capric Triglyceride, Caprylyl Glycol, Ceramide AP, Ceramide EOP, Ceramide EOS, Ceramide NP, Ceramide NS, Ceteareth-25, Cetyl Alcohol, Cholesterol, Curcuma Wenyujin/Curcuma Kwangsiensis Rhizome Extract, Cynara Scolymus (Artichoke) Leaf Extract, Decyl Glucoside, Dimethicone, Dipotassium Glycyrrhizate, Disodium EDTA, Ethylhexylglycerin, Gluconolactone, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Hexylene Glycol, Hydrogenated Lecithin, Lecithin, Maltodextrin, Ophiopogon Japonicus Root Extract, Opuntia Ficus-lndica Fruit Extract, Palmitic Acid, Panthenol, Phenoxyethanol, Polysilicone-11, Potassium Sorbate, Propanediol, Sodium Acrylates Copolymer, Sodium Benzoate, Tocopherol, Xanthan Gum, Yeast Extract.
+questions:
+  Questions? 1-888-995-5656
+package_label_principal_display_panel:
+  Principal Display Panel - 50 mL Carton Label RODAN+FIELDS SOOTHE Moisturizing Rescue Cream 3 50 mL/ 1.7 Fl. Oz. U.S. Colloidal Oatmeal Cream Principal Display Panel - 50 mL Carton Label
+  Principal Display Panel - 50 mL Tube Label RODAN+FIELDS SOOTHE Moisturizing Rescue Cream 3 Colloidal Oatmeal Skin Protectant Principal Display Panel - 50 mL Tube Label
+set_id:
+  91163267-c2aa-47b3-b290-d1605536d806
+id:
+  695fafcf-e87a-4e92-8e85-bb1a6b9429d9
+effective_time:
+  20231204
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    SOOTHE Moisturizing Rescue Cream
+  generic_name:
+    OATMEAL
+  manufacturer_name:
+    Rodan & Fields
+  product_ndc:
+    14222-2430
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OATMEAL
+  rxcui:
+    240651
+  spl_id:
+    695fafcf-e87a-4e92-8e85-bb1a6b9429d9
+  spl_set_id:
+    91163267-c2aa-47b3-b290-d1605536d806
+  package_ndc:
+    14222-2430-1
+    14222-2430-2
+    14222-2430-3
+  is_original_packager:
+    True
+  upc:
+    0884164014239
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    N0000185016
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    8PI54V663Y

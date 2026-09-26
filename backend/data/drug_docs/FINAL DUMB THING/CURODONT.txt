@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  CURODONT REPAIR FLUORIDE PLUS SODIUM FLUORIDE WATER CHLORHEXIDINE GLUCONATE TROMETHAMINE TREHALOSE DIHYDRATE OLIGOPEPTIDE-10 HYPROMELLOSE, UNSPECIFIED SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+active_ingredient:
+  ACTIVE INGREDIENTS SODIUM FLUORIDE 0.05% (0.02% W/V FLUORIDE ION)
+purpose:
+  PURPOSE ANTICAVITY
+indications_and_usage:
+  USES AIDS IN THE PREVENTION OF DENTAL CAVITIES ANTICAVITY DENTAL RINSE RESTORES ENAMEL FOR THE TREATMENT OF WHITE SPOTS
+warnings:
+  WARNING FOR TOPICAL INTRAORAL USE ONLY. FOR PROFESSIONAL OFFICE USE ONLY. THIS PRODUCT IS NOT INTENDED FOR HOME OR UNSUPERVISED CONSUMER USE.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+dosage_and_administration:
+  DIRECTIONS Usual dosage is one treatment per tooth. After prophylaxis treatment, remove the pellicle of the concerned tooth by using 2% sodium hypochlorite for 10 seconds. rinse the tooth surface with water. Remove inorganic deposits by pushing together the two cylinders and apply product with sponge on treatment area. After treatment time of five minutes have patient expectorate residues. For maximum benefits for the prevention of caries, instruct patient not to rinse, eat or drink for 30 minutes. For patients with rampant or active caries, repeat treatment once or twice every six months.
+other_safety_information:
+  OTHER INFORMATION DO NOT USE IF SAFETY PACHAGING IS BROKEN OR MISSING. SINGLE USE ONLY. STORE IN A DRY AND COOL PLACE.
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER, CHLORHEXIDINE DIGLUCONATE, TROMETHAMINE, TREHALOSE DIHYDRATE, OLIGOPEPTIDE-104, HYDROXYPROPYL METHYLCELLULOSE
+package_label_principal_display_panel:
+  Curodont Repair Fluid_Outer_1 Curodont Repair Fluid_Outer_2 Curodont Repair Fluid_Primary
+set_id:
+  0dae079d-1f99-447b-8a02-295198538500
+id:
+  fecdecf4-0b25-e19c-e053-6394a90a9dce
+effective_time:
+  20230623
+version:
+  9
+openfda:

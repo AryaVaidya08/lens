@@ -1,0 +1,43 @@
+effective_time:
+  20150107
+inactive_ingredient:
+  Inactive Ingredients artificial flavor enhancer, FD&C Red #40, FD&C yellow #10, F-Melt-C, magnesium aluminometasilicate, magnesium stearate, natural orange flavor, purified water, pyridoxine HCl, sodium starch glycolate, sucralose, talc, zytan (galloquinate)
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (800) 222-1222
+warnings:
+  Warnings May cause excitability, especially in children Ask a doctor before use if you or your child has glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you or your child are taking sedatives or tranquilizers When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (800) 222-1222
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+questions:
+  Questions? Call 1-800-793-2145
+spl_product_data_elements:
+  Aldex AN DOXYLAMINE SUCCINATE DOXYLAMINE SUCCINATE DOXYLAMINE FD&C RED NO. 40 D&C YELLOW NO. 10 MAGNESIUM ALUMINOMETASILICATE TYPE I-A MAGNESIUM STEARATE ORANGE WATER PYRIDOXINE HYDROCHLORIDE SODIUM STARCH GLYCOLATE TYPE A POTATO SUCRALOSE TALC TANNIC ACID AN
+ask_doctor:
+  Ask a doctor before use if you or your child has glaucoma a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions take every 4-6 hours do not take more than 6 doses in 24 hours or as directed by a doctor Adults and children 12 years of age and older 2 tablets Children 6 to under 12 years of age 1 tablet Children under 6 years of age Ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+spl_unclassified_section:
+  Drug Facts
+storage_and_handling:
+  Other Information store at controlled room temperature 20°-25°C (68°-77°F) Tamper Evident: Do not use if seal is broken or missing.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label NDC 65224-542-01 PERNIX THERAPEUTICS, LLC. ALDEX ® AN Antihistamine (Doxylamine succinate) Orange Flavored Chewable Tablets 100 Count Principal Display Panel - 100 Tablet Bottle Label
+indications_and_usage:
+  Uses temporarily relieves runny nose relieves sneezing itching of nose and throat itchy, watery eyes due to hay fever or other upper respiratory allergies
+set_id:
+  bf64865f-4cf8-444a-9106-62abf2f22879
+id:
+  4b48d87b-68c6-4ae7-831d-d22a22bd5c70
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you or your child are taking sedatives or tranquilizers
+active_ingredient:
+  Active ingredients (in each chewable tablet) Doxylamine succinate, 5 mg
+dosage_and_administration_table:
+  <table width="40%"> <col width="66%" align="left" valign="top"/> <col width="34%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td styleCode="Rrule Botrule">Adults and children 12 years of age and older</td> <td styleCode="Botrule">2 tablets</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">Children 6 to under 12 years of age</td> <td>1 tablet</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">Children under 6 years of age</td> <td>Ask a doctor</td> </tr> </tbody> </table>

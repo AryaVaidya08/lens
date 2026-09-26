@@ -1,0 +1,41 @@
+effective_time:
+  20200624
+inactive_ingredient:
+  Inactive ingredients aspartame, benzoic acid, flavor, glycerin, hydroxyethyl cellulose, menthol, polyethylene glycol, purified water
+purpose:
+  Purposes Cough suppressant Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+questions:
+  Questions or comments? 1-800-616-2471
+spl_product_data_elements:
+  robafen dm Dextromethorphan HBr, Guaifenesin ASPARTAME BENZOIC ACID GLYCERIN POLYETHYLENE GLYCOL WATER MENTHOL DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN
+ask_doctor:
+  Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions do not take more than 6 doses in any 24-hour period measure only with dosing cup provided keep dosing cup with product mL = milliliter this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 10 mL every 4 hours children under 12 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+storage_and_handling:
+  Other information Phenylketonurics: Contains Phenylalanine 30 mg per 10 mL store at 20-25°C (68-77°F). Do not refrigerate.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  DRUG: robafen dm GENERIC: Dextromethorphan HBr, Guaifenesin DOSAGE: SOLUTION ADMINSTRATION: ORAL NDC: 70518-2126-0 FLAVOR: CHERRY PACKAGING: 118 mL in 1 BOTTLE OUTER PACKAGING: 1 in 1 CARTON ACTIVE INGREDIENT(S): DEXTROMETHORPHAN HYDROBROMIDE 20mg in 10mL GUAIFENESIN 200mg in 10mL INACTIVE INGREDIENT(S): ASPARTAME POLYETHYLENE GLYCOL WATER BENZOIC ACID GLYCERIN MENTHOL Remedy_Label
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes
+set_id:
+  b1622dca-2e21-4f88-b9a0-1dbb0cdb01d3
+id:
+  a8d6b351-8294-1d23-e053-2a95a90a4c70
+active_ingredient:
+  Active ingredients (in each 10 mL) Dextromethorphan HBr, USP 20 mg Guaifenesin, USP 200 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="24%"/> <col width="15%"/> <tbody> <tr> <td align="center" styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>age</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>dose</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>adults and children</paragraph> <paragraph>12 years and over</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>10 mL</paragraph> <paragraph>every 4 hours</paragraph> </td> </tr> <tr> <td align="center" styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

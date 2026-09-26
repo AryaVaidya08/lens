@@ -1,0 +1,29 @@
+effective_time:
+  20201020
+inactive_ingredient:
+  Inactive ingredients glycerin, water
+purpose:
+  Purpose Anti-bacteria
+keep_out_of_reach_of_children:
+  supervise children under 6 years of age when using this product to avoid swallowing. If swallowed get medical.
+warnings:
+  warnings: For external use only. Flabbable, keep away from fire or flame. When using this product, avoid contact with eyes, If contact occurs, rinse thoroughly. Stop use and ask a doctor if irritation and rash occurs. Avoid freezing and excessive heat above 40℃ (104℉) Store beween 15-30 ℃ （59-86℉）
+spl_product_data_elements:
+  PH5B Disinfectant Alcohol ALCOHOL ALCOHOL WATER GLYCERIN
+openfda:
+version:
+  1
+dosage_and_administration:
+  spray directly onto surface. To sanitize allow to remain wet for 30 seconds and allow surface to air dry.
+spl_unclassified_section:
+  Drug Facts
+package_label_principal_display_panel:
+  Packaging image description
+indications_and_usage:
+  disinfectant spray to kill illness-causing viruses ad bacteria. It can be used on household srufaces including the kitchen, bathroom, and other high-activity areas.
+set_id:
+  c5fe6c9c-a002-401e-9831-b3091fda8d91
+id:
+  1829405b-c1f6-4ed2-a5c5-a75cb5a59fca
+active_ingredient:
+  Active ingredient Alcohol 75% (±5%)

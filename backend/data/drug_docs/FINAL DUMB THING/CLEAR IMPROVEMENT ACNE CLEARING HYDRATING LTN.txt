@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  CLEAR IMPROVEMENT ACNE CLEARING HYDRATING LTN SALICYLIC ACID SACCHARINA LATISSIMA GLYCYRRHIZINATE DIPOTASSIUM CETEARYL OLIVATE BUTYLENE GLYCOL DICAPRYLYL CARBONATE LAUROYL LYSINE CAFFEINE TOCOPHEROL METHYL SALICYLATE ROSEMARY OIL LEMON OIL SPEARMINT OIL CANANGA OIL SALICYLIC ACID SALICYLIC ACID OCTYLDODECANOL HAMAMELIS VIRGINIANA TOP WATER POTASSIUM SORBATE SUCROSE XANTHAN GUM PHENOXYETHANOL WATER SOYBEAN OIL LIMONENE, (+)- GERANIOL PORPHYRIDIUM PURPUREUM SODIUM PYRROLIDONE CARBOXYLATE CLOVE OIL CITRAL SILICON DIOXIDE GLYCERIN SODIUM POLYACRYLOYLDIMETHYL TAURATE SORBITAN OLIVATE ACTIVATED CHARCOAL ZINC PIDOLATE HYALURONATE SODIUM SOYBEAN SODIUM CITRATE SODIUM HYDROXIDE LAVENDER OIL LINALOOL, (+/-)- EUGENOL SODIUM BENZOATE BENZOIC ACID
+active_ingredient:
+  Active Ingredient Salicylic Acid 1.5%
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Use for the treatmenet of acne
+warnings:
+  Warnings For External use only When using this product skin irritattion and dryness is more likely to occur if you use another topical acne medication at the same time. If this occurs, only use one topical acne medication at a time. Keep out of reach of children If swallowed, get medical help or contact a poison control center right away.
+when_using:
+  When using this product skin irritattion and dryness is more likely to occur if you use another topical acne medication at the same time. If this occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Cleanse skin throughly before applying Cover the entire affected area with one application daily Because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day
+inactive_ingredient:
+  Inactive Ingredients water\aqua\eau,glycerin,octyldodecanol,butylene glycol,dicaprylyl carbonate,hamamelis virginiana (witch hazel) water,cetearyl olivate,sodium polyacryloyldimethyl taurate,sorbitan olivate,charcoal powder,saccharomyces/zinc ferment,zinc pca,sodium hyaluronate,algae extract,laminaria saccharina extract,lactobacillus ferment,sodium pca,dipotassium glycyrrhizate,glycine soja (soybean) seed extract,glycine soja (soybean) oil,caffeine,sucrose,tocopherol,lauroyl lysine,xanthan gum,sodium phytate,sodium citrate,sodium hydroxide,lavandula angustifolia (lavender) oil*, citrus limon (lemon) peel oil*, mentha viridis (spearmint) leaf oil*, gaultheria procumbens (wintergreen) leaf oil*, cananga odorata flower oil*, eugenia caryophyllus (clove) bud oil*, rosmarinus officinalis (rosemary) leaf oil*,linalool,citral,limonene,eugenol,geraniol,silica,phenoxyethanol,potassium sorbate,sodium benzoate,benzoic acid <iln52347> * essential oil
+package_label_principal_display_panel:
+  ORIGINS CLEAR IMPROVEMENT ACNE CLEANSING HYDRATING LOTION SALICYLIC ACID ACNE MEDICATION 1.7 FL.OZ./OZ.LIQ/50ML Principal Display Panel
+set_id:
+  10a4bae1-bbbb-0bf3-e063-6294a90a4af6
+id:
+  10a4bae1-bbbc-0bf3-e063-6294a90a4af6
+effective_time:
+  20240205
+version:
+  1
+openfda:
+  application_number:
+    M006
+  brand_name:
+    CLEAR IMPROVEMENT ACNE CLEARING HYDRATING LTN
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    ORIGINS NATURAL RESOURCES INC.
+  product_ndc:
+    59427-117
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    422997
+  spl_id:
+    10a4bae1-bbbc-0bf3-e063-6294a90a4af6
+  spl_set_id:
+    10a4bae1-bbbb-0bf3-e063-6294a90a4af6
+  package_ndc:
+    59427-117-01
+    59427-117-02
+    59427-117-03
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

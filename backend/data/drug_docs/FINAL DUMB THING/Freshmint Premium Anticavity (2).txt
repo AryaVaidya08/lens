@@ -1,0 +1,29 @@
+effective_time:
+  20080825
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Sorbitol, Silica, Treated Water (Aqua), Glycerin, Polyethylene Glycol 1500, Sodium Lauryl Sulphate, Flavor, Titanium Dioxide, Cellulose Gum, Carrageenan, Trisodium Orthophosphate, Sodium Saccharin, Sodium Benzoate, Tetrasodium Pyrophosphate, Methylparaben, Propylparaben, Color: FD & C Blue # 1.
+purpose:
+  PURPOSE: Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If you accidentally swallow more than used for brushing, seek professional help or contact a Poison Control Center immediately.
+warnings:
+  WARNINGS: Keep out of reach of children under 6 years of age. If you accidentally swallow more than used for brushing, seek professional help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  Freshmint Premium Anticavity SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL SILICON DIOXIDE WATER GLYCERIN POLYETHYLENE GLYCOL 1500 SODIUM LAURYL SULFATE TITANIUM DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM CARRAGEENAN SODIUM PHOSPHATE, TRIBASIC, DODECAHYDRATE SACCHARIN SODIUM DIHYDRATE SODIUM BENZOATE SODIUM PYROPHOSPHATE METHYLPARABEN PROPYLPARABEN FD&C BLUE NO. 1 MINT
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS: Adults and children 2 years & older: Brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist. Do not swallow. To minimize swallowing use a pea-sized amount in children under 6 years of age. Supervise children's brushing until good habits are established. Children under 2 years: Ask a dentist.
+spl_unclassified_section:
+  Drug Facts
+package_label_principal_display_panel:
+  Principal Display Panel – Tube Label ADA Accepted American Dental Association ® freshmint ® Premium Anticavity Toothpaste NET WT. 1.5 oz Principal Display Panel – Tube Label
+indications_and_usage:
+  USES: Helps protect teeth and roots against cavities.
+set_id:
+  b7174b69-6158-42de-b122-1752cd184ca9
+id:
+  75c4b06a-1942-49b5-bcf9-27c936e14051
+active_ingredient:
+  ACTIVE INGREDIENT: Sodium Fluoride - 0.243% (0.15% w/v fluoride ion)

@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  ANTIFUNGAL MICONAZOLE CAPRYLIC/CAPRIC TRIGLYCERIDE CETEARETH-20 MICONAZOLE MICONAZOLE SODIUM CETEARYL SULFATE PETROLATUM CETEARYL ALCOHOL CHLOROCRESOL IMIDAZOLIDINYL UREA CASTOR OIL GLYCERYL STEARATE XANTHAN GUM
+active_ingredient:
+  Active Ingredient
+inactive_ingredient:
+  Inactive Ingredient
+indications_and_usage:
+  Indications and Usage
+purpose:
+  OTC Purpose
+dosage_and_administration:
+  Dosage and Administration
+warnings:
+  Warnings
+keep_out_of_reach_of_children:
+  OTC Keep out of reach of children
+package_label_principal_display_panel:
+  Package label and Principle Panel Package label Package label Package label Package Label
+set_id:
+  33d9c724-d4c4-2597-e063-6294a90aa5f3
+id:
+  33d9c724-d4c5-2597-e063-6294a90aa5f3
+effective_time:
+  20250428
+version:
+  1
+openfda:
+  application_number:
+    M005
+  brand_name:
+    ANTIFUNGAL
+  generic_name:
+    MICONAZOLE
+  manufacturer_name:
+    VIVE HEALTH LLC
+  product_ndc:
+    84722-3060
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MICONAZOLE
+  rxcui:
+    998442
+  spl_id:
+    33d9c724-d4c5-2597-e063-6294a90aa5f3
+  spl_set_id:
+    33d9c724-d4c4-2597-e063-6294a90aa5f3
+  package_ndc:
+    84722-3060-0
+  is_original_packager:
+    True
+  upc:
+    0810178883172
+  nui:
+    N0000175487
+    M0002083
+  pharm_class_epc:
+    Azole Antifungal [EPC]
+  pharm_class_cs:
+    Azoles [CS]
+  unii:
+    7NNO0D7S5M

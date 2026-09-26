@@ -1,0 +1,23 @@
+effective_time:
+  20180417
+inactive_ingredient:
+  INACTIVES: PROPYLENE GLYCOL USP, MINERAL OIL, PEPPERMINT OIL, PRESERVATIVES
+spl_product_data_elements:
+  NAIL CYCLOSPORIN-A CYCLOSPORINE-A CYCLOSPORINE CYCLOSPORINE PROPYLENE GLYCOL MINERAL OIL PEPPERMINT OIL
+openfda:
+version:
+  2
+dosage_and_administration:
+  USUAL DOSAGE: APPLY TWICE DAILY FOR PSORIATIC NAILS, NON MYCOTIC ALLERGIC CONDITIONS.
+dosage_forms_and_strengths:
+  ACTIVE: CYCLOSPORINE-A 0.25%
+storage_and_handling:
+  STORAGE: STORE AT 20° TO 25°C (68° TO 77°F)
+package_label_principal_display_panel:
+  Nail Cyclosporin-A 10ml
+indications_and_usage:
+  USE: FOR TOPICAL APPLICATION TO THE NAIL.
+set_id:
+  d726ece4-860b-44df-9944-c6c5d096e465
+id:
+  836774b1-de76-40c3-8a4e-9694d0d5ea0f

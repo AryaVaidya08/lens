@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Walgreens Cold Therapy Pain Relief Foot Cream Menthol WATER GLYCERIN .ALPHA.-TOCOPHEROL ACETATE ILEX PARAGUARIENSIS LEAF CETOSTEARYL ALCOHOL DIMETHICONE ETHYLHEXYLGLYCERIN PHENOXYETHANOL POLYSORBATE 60 SODIUM HYDROXIDE GRAPE SEED OIL GLUCONOLACTONE EDETATE DISODIUM MEDIUM-CHAIN TRIGLYCERIDES GLYCERYL MONOSTEARATE MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM
+active_ingredient:
+  Active ingredient Menthol 10%
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Uses Temporary relief from minor aches and pains of sore muscles and joints associated with: arthritis simple backache strains sprains
+warnings:
+  Warnings For external use only When using this product Avoid contact with the eyes or mucous membranes Do not apply to wounds or damaged skin Do not use with other ointments, creams, sprays or liniments Do not apply to irritated skin or if excessive irritation develops Do not bandage Wash hands after use with cool water Do not use with heating pad or device Stop use and ask a doctor if Condition worsens, or if symptoms persist for more than 7 days, or clear up and recur If pregnant or breastfeeding Ask a health professional before use. Keep out of reach of children. If accidientally ingested, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product Avoid contact with the eyes or mucous membranes Do not apply to wounds or damaged skin Do not use with other ointments, creams, sprays or liniments Do not apply to irritated skin or if excessive irritation develops Do not bandage Wash hands after use with cool water Do not use with heating pad or device
+stop_use:
+  Stop use and ask a doctor if Condition worsens, or if symptoms persist for more than 7 days, or clear up and recur
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding Ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If accidientally ingested, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: shake well. Apply to affected area not more than 3-4 times daily. Children under 12 years of age: Consult a physician.
+other_safety_information:
+  Other information Store in a cool dry place away from direct sunlight.
+inactive_ingredient:
+  Inactive ingredients Caprylic/Capric Triglyceride, Cetearyl Alcohol, Dimethicone, Disodium EDTA, Ethylhexylglycerin, Gluconolactone, Glycerin, Ilex Paraguariensis Leaf Extract, Phenoxyethanol, Sodium Hydroxide, Tocopheryl Acetate (Vitamin E), Vitis Vinifera (Grape) Seed Oil, Water.
+questions:
+  Questions or comments? Call 1-800-925-4733
+package_label_principal_display_panel:
+  Principal Display Panel - 133 g Tube Label Walgreens Compare to the active ingredient in Biofreeze ® Pain Relieving Foot Cream †† NEW Cold Therapy Pain Relief Foot Cream Menthol 10%/Topical analgesic Cooling Pain Relief For the temporary relief of painful, achy feet Soothing menthol Paraben free NET WT 4 OZ (113.3 g) Cold Therapy Tube
+set_id:
+  3bc8ece3-d555-3efb-e063-6394a90a1981
+id:
+  4d29da93-9321-934c-e063-6394a90a74af
+effective_time:
+  20260316
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Walgreens Cold Therapy Pain Relief Foot Cream
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    Walgreen Co.
+  product_ndc:
+    0363-1292
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL, UNSPECIFIED FORM
+  rxcui:
+    253020
+  spl_id:
+    4d29da93-9321-934c-e063-6394a90a74af
+  spl_set_id:
+    3bc8ece3-d555-3efb-e063-6394a90a1981
+  package_ndc:
+    0363-1292-04
+  is_original_packager:
+    True
+  upc:
+    0311917077482
+  unii:
+    L7T10EIP3A

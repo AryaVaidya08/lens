@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Glazed Pear Ethyl Alcohol WATER GLYCERIN CARBOXYPOLYMETHYLENE FD&C YELLOW NO. 5 FD&C BLUE NO. 1 ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only: hands Flammable. Keep away from fire or flame.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hand thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+other_safety_information:
+  Other information do not store above 105°F may discolor some fabrics harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients water, glycerin, carbomer, fragrance, yellow 5, blue 1
+adverse_reactions:
+  Adverse reactions DISTRIBUTED BY THE KROGER CO., CINCINNATI, OHIO 45202 QUALITY GUARANTEE 800-632-6900 www.kroger.com
+spl_unclassified_section:
+  disclaimer EFFECTIVE AT ELIMINATING 99.99% OF MANY COMMON HARMFUL GERMS AND BACTERIA IN AS LITTLE AS 15 SECONDS
+package_label_principal_display_panel:
+  Kroger GLAZED PEAR Kills 99.99% of germs HAND SANITIZER 2 FL OZ (59 mL) image description
+set_id:
+  1b41ff53-cee3-4e66-9f65-4e9ce6d06e20
+id:
+  25141503-e969-b6c1-e063-6394a90a03ad
+effective_time:
+  20241022
+version:
+  13
+openfda:

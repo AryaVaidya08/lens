@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  citroma Magnesium Citrate BENZOIC ACID CITRIC ACID MONOHYDRATE EDETATE DISODIUM ANHYDROUS SUCRALOSE WATER MAGNESIUM CITRATE MAGNESIUM CATION
+active_ingredient:
+  Active Ingredient Magnesium citrate 1.745g per fl oz
+purpose:
+  Purpose Saline Laxative
+indications_and_usage:
+  use for relief of occasional constipation (irregularity). Generally produces bowel movement in 1/2 to 6 hours
+warnings:
+  Warnings for this product
+ask_doctor:
+  Ask A Doctor before use if you have kidney disease a magnesium restricted diet abdorominal pain, nausea, or vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks already used a laxative for a period longer than 1 week
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. Laxatives may affect how other drugs work.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  if pregnant or breast-feeding ask health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away Store at temperatures between 46° and 86°F (8° and 30° C)
+dosage_and_administration:
+  Directions drink a full glass (8 ounces) of liquid with each dose may be taken as a single daily dose or in divided doses adults and children 12 years of age and over - 6.5 to 10 fl oz maximum 10 fl oz in 24 hours children 6 to under 12 years of age - 3 to 7 fl oz maximum 7 fl oz in 24 hours children 2 to under 6 years of age - 2 to 3 fl oz in 24 hours maximum 3 fl oz in 24 hours children under 2 years of age - ask a doctor
+other_safety_information:
+  other information each fl oz contains: magnesium 295 mg each fl oz contains: sodium 1 mg
+inactive_ingredient:
+  Inactive ingredients benzoic acid, citric acid, disodium EDTA, flavor, sucralose, water
+adverse_reactions:
+  Adverse Reaction DISTRIBUTED BY: WALGREENS CO 200 WILMOT RD., DEERFIELD, IL 60015 100% SATISFACTION GUARANTEED walgreens.com @2018 Walgreen.co 162.000/162AA
+package_label_principal_display_panel:
+  principal display panel Walgreens Dye-Free Magnesium Citrate SALINE LAXATIVE ORAL SOLUTION SUGAR FREE LOW SODIUM GRAPE FLAVOR Alcohol content 0.0012% (from flavoring) 10 FL OZ (296 mL) TAMPER EVIDENT: DO NOT USE IF THE BREAKAWAY BAND ON CAP IS BROKEN OR MISSING image description
+set_id:
+  3ee478b1-d8f6-4698-bed2-81b2a4a942fc
+id:
+  2e6f67b5-31ab-50df-e063-6294a90a0366
+effective_time:
+  20250218
+version:
+  5
+openfda:

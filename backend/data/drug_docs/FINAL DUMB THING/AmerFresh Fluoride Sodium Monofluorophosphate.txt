@@ -1,0 +1,27 @@
+effective_time:
+  20160914
+inactive_ingredient:
+  Inactive Ingredients SODIUM MONOFLUOROPHOSPHATE, CALCIUM CARBONATE, ANHYDROUS DIBASIC CALCIUM PHOSPHATE, CARBOXYMETHYLCELLULOSE, GLYCERIN, ALUMINUM HYDROXIDE, HYDRATED SILICA, POTASSIUM SORBATE, SODIUM LAURYL SULFATE, SORBITAN MONOOLEATE, SORBITOL, TITANIUM DIOXIDE, WATER, XANTHAN GUM.
+purpose:
+  Purpose Anticavity toothpaste
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 yrs. of age
+warnings:
+  Warnings If more than used for brushing is accidently swallowed, get medical help or contact a poison control center
+spl_product_data_elements:
+  AmerFresh Fluoride Sodium Monofluorophosphate CALCIUM CARBONATE ANHYDROUS DIBASIC CALCIUM PHOSPHATE CARBOXYMETHYLCELLULOSE GLYCERIN ALUMINUM HYDROXIDE HYDRATED SILICA POTASSIUM SORBATE SODIUM LAURYL SULFATE SORBITAN MONOOLEATE SORBITOL TITANIUM DIOXIDE WATER XANTHAN GUM SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Adults and children 2 yrs. and older: Brush teeth throughtly after meals or at least twice a day or as directed by a dentist. Do not swallow To minimize swallowing, use a pea-sized amount in children under 6 years old. Supervise children's brushing until good habits are established. Children under 2 yrs.: ask a dentist before use.
+package_label_principal_display_panel:
+  AmerFresh Fluoride Toothpaste image description
+indications_and_usage:
+  Use Aids in the prevention of dental cavities
+set_id:
+  93d84b6e-880f-4a75-8088-f21b3e7cb5a1
+id:
+  3c7a66a1-44a6-460a-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredient Sodium Monofluorophosphate 0.76%

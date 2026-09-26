@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  CLARINS BROAD SPECTRUM SPF 20 - SUNSCREEN CARE AVOBENZONE, HOMOSALATE, OCTOCRYLENE WATER ALKYL (C12-15) BENZOATE BUTYLOCTYL SALICYLATE BUTYLENE GLYCOL ALCOHOL DIMETHICONE DIPROPYLENE GLYCOL DIBENZOATE CETOSTEARYL ALCOHOL POLYESTER-7 POTASSIUM CETYL PHOSPHATE NEOPENTYL GLYCOL DIHEPTANOATE ALOE VERA LEAF MANNITOL PHENOXYETHANOL AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER PPG-15 STEARYL ETHER BENZOATE CETEARYL GLUCOSIDE GLYCERIN .ALPHA.-TOCOPHEROL ACETATE EDETATE DISODIUM XANTHAN GUM TOCOPHEROL .ALPHA.-HEXYLCINNAMALDEHYDE PEA HYDROXYISOHEXYL 3-CYCLOHEXENE CARBOXALDEHYDE LINALOOL, (+/-)- SENNA ALATA LEAF YEAST .ALPHA.-AMYLCINNAMALDEHYDE ICODEXTRIN COUMARIN SUNFLOWER OIL .BETA.-CITRONELLOL, (R)- OLEA EUROPAEA LEAF ISOMETHYL-.ALPHA.-IONONE GERANIOL PLATANUS OCCIDENTALIS BARK CITRIC ACID MONOHYDRATE POTASSIUM SORBATE SODIUM BENZOATE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE
+spl_unclassified_section:
+  CLARINS BROAD SPECTRUM SPF 20 - SUNSCREEN CARE CREAM
+  Other information: protect this product from excessive heat and direct sun
+active_ingredient:
+  Active Ingredients AVOBENZONE 3% HOMOSALATE 10% OCTOCRYLENE 2.7%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses: helps prevent sunburn if used as directed with other sun protection measures ( see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings: For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get me dical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get me dical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: apply liberally 15 minutes before sun exposure apply to all skin exposed to the sun children under 6 months: Ask a doctor Sun Protection Measures. Spending time in the sun in creases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with broad spectru m SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats and sunglasses reapply after 40 minutes of swimming or sweating immediately after towel drying at least every 2 hours
+questions:
+  Questions or comments? Call 1-866-252-7467 Monday-Friday, 8 a.m. to 5 p.m.
+inactive_ingredient:
+  Inactive ingredients AQUA/WATER/EAU . C12-15 ALKYL BENZOATE . BUTYLOCTYL SALICYLATE . BUTYLENE GLYCOL . ALCOHOL . DIMETHICONE . DIPROPYLENE GLYCOL DIBENZOATE . CETEARYL ALCOHOL . POLYESTER-7 . POTASSIUM CETYL PHOSPHATE . NEOPENTYL GLYCOL DIHEPTANOATE . ALOE BARBADENSIS LEAF JUICE . MANNITOL . PHENOXYETHANOL .AMMONIUM ACRYLOYLDIMETHYL - TAURATE/VP COPOLYMER . PARFUM/FRAGRANCE . PPG-15 STEARYL ETHER BENZOATE . CETEARYL GLUCOSIDE . GLYCERIN . TOCOPHERYL ACETATE . DISODIUM EDTA . XANTHAN GUM . TOCOPHEROL . HEXYL CINNAMAL . CYCLODEXTRIN . PISUM SATIVUM (PEA) EXTRACT . HYDROXYISOHEXYL 3-CYCLOHEXENE CARBOXALDEHYDE . LINALOOL . CASSIA ALATA LEAF EXTRACT . FAEX EXTRACT/YEAST EXTRACT/EXTRAIT DE LEVURE . LIMONENE . AMYL CINNAMAL . DEXTRIN . HYDROLYZED ADANSONIA DIGITATA EXTRACT . COUMARIN . HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL . CITRONELLOL . OLEA EUROPAEA (OLIVE) LEAF EXTRACT .ALPHA-ISOMETHYL IONONE . GERANIOL . PLATANUS OCCIDENTALIS BARK EXTRACT . CITRIC ACID . POTASSIUM SORBATE . SODIUM BENZOATE. [S1070B]
+package_label_principal_display_panel:
+  CLARINS BROAD SPECTRUM SPF 20 - SUNSCREEN CARE CREAM 200ml (58668-4081-1) Inner Package Outer Package
+set_id:
+  e9f59209-38bc-4fd3-86a8-0058e5b2f102
+id:
+  d04217c7-a8ca-3256-e053-2995a90aae10
+effective_time:
+  20211108
+version:
+  4
+openfda:

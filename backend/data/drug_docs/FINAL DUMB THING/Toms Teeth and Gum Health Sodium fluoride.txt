@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Toms Teeth and Gum Health Sodium fluoride SODIUM FLUORIDE FLUORIDE ION WATER SORBITOL HYDRATED SILICA XYLITOL GLYCERIN SODIUM CHLORIDE SODIUM LAURYL SULFATE ZINC CITRATE XANTHAN GUM CARRAGEENAN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or dial (412) 390-3381 right away (Poison Control Center).
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or dial (412) 390-3381 right away (Poison Control Center).
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea-sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="50%" styleCode="Noautorules"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to 6 years</td><td>use only a pea-sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode="Rrule">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients water, sorbitol, hydrated silica, xylitol, glycerin, sodium chloride, sodium lauryl sulfate, zinc citrate, natural flavor, xanthan gum, carrageenan.
+questions:
+  Questions? 1-800-FOR-TOMS (1-800-367-8667)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 113 g Tube Carton Certified B ® Corporation NEW THE ORIGINAL Tom's OF MAINE NATURAL • WITH FLUORIDE TEETH + GUM HEALTH* anticavity toothpaste SOOTHING EXPERIENCE DEEP CLEAN pureactiv: SOLUTIONS COOL MINT 4.0 OZ (113 g) PRINCIPAL DISPLAY PANEL - 113 g Tube Carton
+set_id:
+  e4393409-5e7c-08b8-48fa-1c0408827917
+id:
+  2ad831d6-04cc-4e58-84bd-74c8bf7ada16
+effective_time:
+  20241118
+version:
+  4
+openfda:

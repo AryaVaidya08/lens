@@ -1,0 +1,28 @@
+effective_time:
+  20180517
+inactive_ingredient:
+  Inactive ingredients Benzoic Acid, Bubble Gum Flavor, Citric Acid, Glycerine, Magnesium Aluminum Silicate, Methyl Paraben, Natural Masking Flavor, Opalux Pink, Propylene Glycol, Purified Water, Saccharin Sodium, Sodium Citrate, Tannic Acid, and Xanthan Gum
+warnings:
+  Warnings Do not use in patients under the age of 12 unless directed by a doctor, in patients who are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+spl_product_data_elements:
+  Entre-B Suspension BROMPHENIRAMINE, PHENYLEPHRINE HYDROCHLORIDE BROMPHENIRAMINE BROMPHENIRAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE BENZOIC ACID NEATSFOOT OIL CITRIC ACID MONOHYDRATE GLYCERIN MAGNESIUM ALUMINUM SILICATE METHYLPARABEN PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM CITRATE TANNIC ACID XANTHAN GUM
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children 12 years of age and over Take 5 mL every 6 hours Children 6 years to under 12 years Do not use unless directed by a doctor Other information store at controlled room temperature 20 - 25°C (68-77°F) protect from light shake well before use
+spl_unclassified_section:
+  Antihistamine • Decongestant
+  Drug Facts Active Ingredients (in each 5 mL teaspoonful) Brompheniramine 6 mg Phenylephrine HCl 10 mg Purpose Antihistamine Decongestant
+  Ask a doctor before use if you or your child have heart disease high blood pressure thyroid disease diabetes glaucoma breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland. Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product do not exceed recommended dosage marked drowsiness may occur sedatives and tranquilizers may increase drowsiness excitability may occur, especially in children avoid alcoholic beverages while taking this product use caution when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness or sleeplessness occurs symptoms do not improve within 7 days or occur with a fever Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away
+  Questions or comments? 1-800-541-4802 Manufactured for: Acella Pharmaceuticals, LLC Alpharetta, GA 30009 rev.0911v4
+package_label_principal_display_panel:
+  NDC 42192-512-04 Entre-B Suspension Antihistamine • Decongestant Bubblegum Flavor SHAKE WELL 4 fl oz (118 mL) Tamper evident foil seal under cap. Do not use if foil seal is broken or missing. Acella PHARMACEUTICALS, LLC label principal display panel
+indications_and_usage:
+  Uses Temporary relief of sneezing itching of the nose or throat runny nose itchy, watery eyes due to hay fever nasal and sinus congestion
+set_id:
+  ed6731cf-5803-4386-986e-ccd76aaf4dd6
+id:
+  9d9ec1e1-152c-402e-a104-ec3c451e9846
+dosage_and_administration_table:
+  <table width="55%"> <tbody> <tr> <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">Adults and children  12 years of age and over</td> <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">Take 5 mL every 6 hours</td> </tr> <tr> <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">Children 6 years to under 12 years</td> <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">Do not use unless directed by a doctor</td> </tr> </tbody> </table>

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Target Up and Up Pain Relieving Cleansing Benzalkonium Chloride and Lidocaine Hydrochloride WATER BENZALKONIUM CHLORIDE BENZALKONIUM LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS SODIUM HYDROXIDE EDETATE DISODIUM ALCOHOL PROPYLENE GLYCOL
+active_ingredient:
+  Active Ingredients Benzalkonium Cl 0.13% Lidocaine HCL 2.5%
+purpose:
+  Purpose First aid antiseptic Pain relieving spray
+indications_and_usage:
+  Uses first aid to help prevent bacterial contamination or skin infection and for temporary relief of pain and itching associated with minor: cuts scrapes minor burns sunburn minor skin irritations
+warnings:
+  Warnings For external use only
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+when_using:
+  When using this product do not use in or near the eyes do not apply over large areas of the body or in large quantities do not apply over raw surfaces or blistered areas
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years and older: clean the affected area; apply a small amount on the area 1-3 times daily may be covered with a sterile bandage if bandaged, llet dry first children under 2 years, ask a doctor
+storage_and_handling:
+  Other information avoid excessive heat store at room temperature
+inactive_ingredient:
+  Inactive ingredients alcohol, disodium EDTA, fragrance, propylene glycol, purified water, sodium hydroxide
+package_label_principal_display_panel:
+  Label 82938EF
+set_id:
+  0f964747-be02-c715-e063-6294a90ad91e
+id:
+  0fca10a6-b204-4d3b-e063-6294a90a61d9
+effective_time:
+  20240125
+version:
+  2
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Target Up and Up Pain Relieving Cleansing
+  generic_name:
+    BENZALKONIUM CHLORIDE AND LIDOCAINE HYDROCHLORIDE
+  manufacturer_name:
+    TARGET CORPORATION
+  product_ndc:
+    11673-252
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+    LIDOCAINE HYDROCHLORIDE
+  rxcui:
+    1012099
+  spl_id:
+    0fca10a6-b204-4d3b-e063-6294a90a61d9
+  spl_set_id:
+    0f964747-be02-c715-e063-6294a90ad91e
+  package_ndc:
+    11673-252-21
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7
+    V13007Z41A

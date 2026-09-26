@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  less drowsy motion sickness relief Meclizine Hydrochloride FD&C RED NO. 40 CALCIUM STEARATE LACTOSE CELLULOSE, MICROCRYSTALLINE SILICON DIOXIDE SODIUM STARCH GLYCOLATE TYPE A POTATO MECLIZINE HYDROCHLORIDE MECLIZINE 25
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each tablet) Meclizine HCI 25 mg
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Uses prevents and treats nausea, vomiting, or dizziness associated with motion sickness
+warnings:
+  Warnings Do not use for children under 12 years of age unless directed by a doctor Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urinating due to an enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives tranquilizers When using this product drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a doctor before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center.
+do_not_use:
+  Do not use for children under 12 years of age unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urinating due to an enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives tranquilizers
+when_using:
+  When using this product drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a doctor before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions take first dose one hour before starting activity adults and children 12 years and over: 1 to 2 tablets once daily, or as directed by a doctor
+inactive_ingredient:
+  Inactive ingredients calcium stearate, FD&C red #40 aluminum lake, lactose, microcrystalline cellulose, silicon dioxide, Sodium starch glycolate
+other_safety_information:
+  Other Information store at room temperature between 59º - 86ºF (15 - 30ºC) protect from excessive moisture.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Compare to Dramamine® LESS DROWSY FORMULA active ingredients* DISCOUNT drug mart FOOD FAIR less drowsy motion sickness relief tabs Meclizine Hydrochloride antiemetic provides Up To 24 Hours of Motion Sickness Protection prevents nausea, dizziness, vomiting 8 TABLETS (25 mg EACH) new smaller size Retain carton for complete product information. Distributed by: Drug Mart-Food Fair 211 Commerce Dr., Medina, Ohio 44256 Questions?: 866-467-2748 carton label
+set_id:
+  ba2186f3-e217-4aa3-ae21-50a557e37dad
+id:
+  2ea905a7-4dff-942d-e063-6394a90a4cce
+effective_time:
+  20250221
+version:
+  4
+openfda:

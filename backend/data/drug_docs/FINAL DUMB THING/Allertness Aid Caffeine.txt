@@ -1,0 +1,29 @@
+effective_time:
+  20121015
+inactive_ingredient:
+  Inactive Ingredients: carnauba wax, colloidal silicon dioxide, dextrates, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide
+purpose:
+  Alertness Aid
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: For occasional use only. Do not use • in children under 12 years of age • as a substitute for sleep Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heart beat. Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur.
+spl_product_data_elements:
+  Allertness Aid Caffeine TITANIUM DIOXIDE SILICON DIOXIDE CARNAUBA WAX POLYETHYLENE GLYCOL 300 CELLULOSE, MICROCRYSTALLINE MAGNESIUM STEARATE DEXTRATES CAFFEINE CAFFEINE snow white TCL363 TCL363
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: • adults and children 12 years and over: take 1 tablet not more often than every 3 to 4 hours
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+package_label_principal_display_panel:
+  MM1 Alertness Packet
+indications_and_usage:
+  Uses: helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness
+set_id:
+  3cc17fc6-d143-47af-be65-86301873a522
+id:
+  3e14dfb0-e890-4e1f-9d45-851240ce33db
+active_ingredient:
+  Active Ingredients Caffeine 200mg

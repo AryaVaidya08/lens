@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Baby Diaper Rash Cream Zinc oxide WATER MEDIUM-CHAIN TRIGLYCERIDES JOJOBA OIL CARROT SEED OIL YELLOW WAX CAPRYLYL GLYCOL LAVENDER OIL TEA TREE OIL CARTHAMUS TINCTORIUS (SAFFLOWER) OLEOSOMES ZINC OXIDE ZINC OXIDE SHEA BUTTER
+active_ingredient:
+  Zinc Oxide 25% Zinc Oxide
+purpose:
+  Skin protectant Drug Facts
+indications_and_usage:
+  Uses • Helps treat and prevent diaper rash • Protects chafed skin due to diaper rash and helps seal out wetness
+warnings:
+  For external use only. Drug Facts
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if • condition worsens • symptoms last more than 7 days or clear up and occur again within a few days DF Diaper Cream
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+other_safety_information:
+  Other information • Store between 20º to 25ºC (68º to 77ºF) • Do not use if quality seal is broken
+inactive_ingredient:
+  Inactive ingredients: Caprylic/Capric Triglyceride, Simmondsia chinensis (Jojoba) Seed Oil, Beeswax (Cera Alba), Butyrospermum parkii (Shea) Butter, Carthamus tinctorius (Safflower) Oleosomes, Water (Aqua), Caprylyl Glycol, Lavandula angustifolia (Lavender) Oil, Daucus carota sativa (Carrot) Seed Oil, Melaleuca alternifolia (Tea Tree) Leaf Oil DFP
+questions:
+  Questions? Call 1-800-411-8151
+dosage_and_administration:
+  Active ingredient Purpose Zinc Oxide 25%...........................Skin Protectant Directions • Change wet or soiled diapers promptly • Cleanse the diaper area and allow to dry • Apply cream liberally as often as necessary with each diaper change especially at bedtime or any time exposure to wet diapers may be prolonged
+package_label_principal_display_panel:
+  Principal Display Panel and Package Label doTERRA® baby Diaper Rash Cream Helps Treat, Soothe, and Prevent Diaper Rash Net wt. 2.1 oz/60 g PDP
+set_id:
+  641465a1-0daf-1bb9-e053-2a91aa0ab25d
+id:
+  2ccb71b9-14a3-ffee-e063-6294a90a8285
+effective_time:
+  20250128
+version:
+  6
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Baby Diaper Rash Cream
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    doTERRA International, LLC
+  product_ndc:
+    71630-549
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    1125471
+  spl_id:
+    2ccb71b9-14a3-ffee-e063-6294a90a8285
+  spl_set_id:
+    641465a1-0daf-1bb9-e053-2a91aa0ab25d
+  package_ndc:
+    71630-549-60
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

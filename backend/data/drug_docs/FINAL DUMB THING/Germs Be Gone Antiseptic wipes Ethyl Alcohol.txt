@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Germs Be Gone Antiseptic wipes Ethyl Alcohol POLYSORBATE 20 GLYCERIN PANTHENOL WATER LAURYL GLUCOSIDE POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE GLYCERYL OLEATE DICAPRYLYL CARBONATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 75%
+purpose:
+  Purpose Kills (harmful) bacteria/germs.
+indications_and_usage:
+  Use Kills (harmful) bacteria/germs.
+warnings:
+  Warnings Flammabillty Warning : Keep away from open flame & sources of heat. For extenal use only.
+when_using:
+  Avoid contact with eyes. if contact occurs, rinse thoroughly with water.
+stop_use:
+  A doctor/physician care practitoner/health care provider care professional if irritation develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Open and get enough wipes from inside wipe your hand genlty with the wipes at least 30 second.
+storage_and_handling:
+  Other information store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin,Parfume,Dicaprylyl Carbonate,Glyceryl Oleate,Lauryl glucoside,Olus oil,Polyglyceryl-2Dipolyhydroxystearate Panthenol,Polysorbate 20.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 7 8 9 10 6
+set_id:
+  da10b6d2-1977-47d1-91b6-47ddf2a00016
+id:
+  e72b0ad0-3315-7538-e053-2995a90aecba
+effective_time:
+  20220826
+version:
+  4
+openfda:

@@ -1,0 +1,44 @@
+effective_time:
+  20110815
+inactive_ingredient:
+  Inactive ingredients Sorbitol, and separating agents magnesium stearate and sterilized talc.
+purpose:
+  Purpose To reduce jet lag The letters HPUS indicate that these ingredients are officially included in the Homeopathic Pharmacopeia of the United States.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Do not use if the blister pack is broken. Ask a doctor before use in children under 2 years of age. Stop use and ask a doctor if symptoms persist for more than 3 days or worsen. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+spl_product_data_elements:
+  NO-JET-LAG Lite Arnica Montana, Bellis Perennis, Matricaria Recutita, Ipecac, and Lycopodium Clavatum Spore Arnica Montana Arnica Montana Bellis Perennis Bellis Perennis Matricaria Recutita Matricaria Recutita Ipecac Ipecac Lycopodium Clavatum Spore Lycopodium Clavatum Spore Sorbitol Talc Magnesium stearate ML
+ask_doctor:
+  Ask a doctor before use in children under 2 years of age.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Age Dose Adults and Children 2 years and over Chew one tablet on each take-off, one about every two hours, and one after landing. However, intervals of up to four hours between tablets are acceptable if sleeping. Best taken separately from meals. Under 2 yrs Ask a doctor.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Imported and Distributed by CABDC Distributors Distribution New York, NY 10007 Tel 212-791-6932 Fax 212-791-0271
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+storage_and_handling:
+  Other Information Store under 86°F (30°C) No drug interactions Non-drowsy
+do_not_use:
+  Do not use if the blister pack is broken.
+active_ingredient_table:
+  <table width="50%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td>Arnica Montana</td> <td>30C HPUS</td> </tr> <tr> <td>Bellis Perennis</td> <td>30C HPUS</td> </tr> <tr> <td>Chamomilla</td> <td>30C HPUS</td> </tr> <tr> <td>Ipecacuanha</td> <td>30C HPUS</td> </tr> <tr styleCode="Botrule"> <td>Lycopodium</td> <td>30C HPUS</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 16 Tablet Carton Made in New Zealand The Perfect Travel Companion NDC 59672-0116-1 NO-JET-LAG ® Homeopathic Jet Lag Prevention Safe • Natural • Effective • No Side Effects or Drug Interactions NET 16 TABLETS: SUFFICIENT FOR 30 HOURS OF FLYING PRINCIPAL DISPLAY PANEL - 16 Tablet Carton
+indications_and_usage:
+  Uses For the relief of tiredness and jet lag associated with flying
+set_id:
+  2defab16-865c-4ee3-8699-68c71c464c23
+id:
+  d9023951-af32-4f16-aced-c101afd6e06c
+active_ingredient:
+  Active Ingredients Arnica Montana 30C HPUS Bellis Perennis 30C HPUS Chamomilla 30C HPUS Ipecacuanha 30C HPUS Lycopodium 30C HPUS
+dosage_and_administration_table:
+  <table width="75%"> <col width="25%" align="left" valign="top"/> <col width="75%" align="left" valign="top"/> <thead> <tr> <th styleCode="Lrule Rrule">Age</th> <th styleCode="Rrule">Dose</th> </tr> </thead> <tbody> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">Adults and Children 2 years and over</td> <td styleCode="Rrule">Chew one tablet on each take-off, one about every two hours, and one after landing. However, intervals of up to four hours between tablets are acceptable if sleeping. Best taken separately from meals.</td> </tr> <tr> <td styleCode="Lrule Rrule">Under 2 yrs</td> <td styleCode="Rrule">Ask a doctor.</td> </tr> </tbody> </table>

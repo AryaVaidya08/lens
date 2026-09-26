@@ -1,0 +1,45 @@
+effective_time:
+  20160217
+inactive_ingredient:
+  Inactive ingredients Ginger lemon flavor, glycerin, purified water, saccharin sodium, sodium benzoate
+purpose:
+  Purpose Saline laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Dosage warning Taking more than the recommended dose in 24 hours can be harmful. Do not use if you have a previous kidney problem, congestive heart failure, impaired renal functions, decreased intervascular volume, dehydration, uncorrected electrolyte abnormalities in children under 5 years of age for bowel cleansing Ask a doctor before use if you have abdominal pain, nausea, or vomiting kidney disease heart problems a sudden change in bowel habits lasting more than 2 weeks already used a laxative for more than a week a dehydration condition Ask a doctor or pharmacist before use if you are on a sodium restricted diet under a doctor’s care for any medical condition taking any other prescription or non-prescription medications. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work. Stop use and ask a doctor if you have any rectal bleeding do not have a bowel movement within 6 hours have any symptoms that your body is losing more fluid than you are drinking have early symptoms of dehydration including feeling thirsty, dizziness, urinating less often than normal, vomiting. These symptoms may indicate a serious condition. If pregnant or breast feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.
+questions:
+  Questions 1-800-633-5463
+spl_product_data_elements:
+  Curad Oral Saline Laxative dibasic sodium phosphate, monobasic sodium phosphate GLYCERIN WATER SACCHARIN SODIUM SODIUM BENZOATE SODIUM PHOSPHATE, DIBASIC PHOSPHATE ION SODIUM PHOSPHATE, MONOBASIC PHOSPHATE ION
+ask_doctor:
+  Ask a doctor before use if you have abdominal pain, nausea, or vomiting kidney disease heart problems a sudden change in bowel habits lasting more than 2 weeks already used a laxative for more than a week a dehydration condition
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions use as a laxative for relief of occasional constipation dilute dose in the table below with one glass (8 fl. oz.) cool water. Drink, then follow with at least one additional glass (8 fl. oz.) cool water. There is significant loss of liquid when using this product. To prevent dehydration drink plenty of clear liquid after use. Do not use for bowel cleansing. Do not take more unless directed by a doctor. See Warning. There are three Teaspoons in one Tablespoon. Ages (Years) Dosage Maximum Dose 12 & Older 3 Teaspoons 6 or 9 Teaspoons* 10 & 11 3 Teaspoons* 3 Teaspoons* 5 to 9 1 1/2 Teaspoons* 1 1/2 Teaspoons* under 5 Do Not Use Do Not Use *SINGLE DAILY DOSAGE. DO NOT TAKE MORE OF THIS PRODUCT IN A 24-HOUR PERIOD
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if you have any rectal bleeding do not have a bowel movement within 6 hours have any symptoms that your body is losing more fluid than you are drinking have early symptoms of dehydration including feeling thirsty, dizziness, urinating less often than normal, vomiting. These symptoms may indicate a serious condition.
+storage_and_handling:
+  Other information Each Teaspoon contains: sodium 556 mg Saline laxatives increase retention of water in the intestine, promoting bowel movements. this product generally produces a bowel movement in 30 minutes to 6 hours this product is sugar free do not freeze store at room temperature TAMPER EVIDENT: Mouth of bottle sealed for your safety. If foil seal is missing or broken, do not use.
+do_not_use:
+  Do not use if you have a previous kidney problem, congestive heart failure, impaired renal functions, decreased intervascular volume, dehydration, uncorrected electrolyte abnormalities in children under 5 years of age for bowel cleansing
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel NDC 53329-111-12 Oral SALINE LAXATIVE Ginger Lemon Flavor For relief of occasional constipation Single dose container 1.5 fl oz (45 mL) CURAD Oral Saline Laxative box
+  Package Drug Facts 1 CURAD Saline Laxative Box Drug Facts 1
+  Package Drug Facts 2 CURAD Saline Laxative Box Drug Facts 2
+indications_and_usage:
+  Use for relief of occasional constipation
+set_id:
+  d04480a0-2c7a-4370-87a1-f92e13ff78d5
+id:
+  2bfcef6e-8594-24e3-e054-00144ff8d46c
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are on a sodium restricted diet under a doctor’s care for any medical condition taking any other prescription or non-prescription medications. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work.
+active_ingredient:
+  Active ingredient (in each tablespoon) Dibasic sodium phosphate 2.7 g Monobasic sodium phosphate 7.2 g
+dosage_and_administration_table:
+  <table width="0.000" ID="id_254c0a0c-5fdf-44af-a8d1-8b5cd0b5b367"> <col/> <col/> <col/> <tbody> <tr ID="id_28557092-8e8d-437f-a402-fb3be94d5118"> <td align="left" styleCode="Botrule Rrule" valign="top"> <content styleCode="bold">Ages (Years)</content> </td> <td align="left" styleCode="Botrule Rrule" valign="top"> <content styleCode="bold">Dosage</content> </td> <td align="left" styleCode="Lrule Botrule" valign="top"> <content styleCode="bold">Maximum Dose</content> </td> </tr> <tr ID="id_7202165d-f548-43d8-ab50-59291c85e77a"> <td align="left" styleCode="Botrule Rrule" valign="top">12 &amp; Older</td> <td align="left" styleCode="Botrule Rrule" valign="top">3 Teaspoons</td> <td align="left" styleCode="Lrule Botrule" valign="top">6 or 9 Teaspoons*</td> </tr> <tr ID="id_5ca3868e-b758-4dfe-a209-7f23458b271a"> <td align="left" styleCode="Botrule Rrule" valign="top">10 &amp; 11</td> <td align="left" styleCode="Botrule Rrule" valign="top">3 Teaspoons*</td> <td align="left" styleCode="Lrule Botrule" valign="top">3 Teaspoons*</td> </tr> <tr ID="id_25fac44f-dfdf-4b46-95a9-091df3a5b9a0"> <td align="left" styleCode="Botrule Rrule" valign="top">5 to 9</td> <td align="left" styleCode="Botrule Rrule" valign="top">1 1/2 Teaspoons*</td> <td align="left" styleCode="Lrule Botrule" valign="top">1 1/2 Teaspoons*</td> </tr> <tr ID="id_5c732ea6-68c7-42ae-8b4c-6e8ae9707d1c"> <td align="left" styleCode="Rrule" valign="top">under 5</td> <td align="left" styleCode="Rrule" valign="top">Do Not Use</td> <td align="left" styleCode="Botrule" valign="top">Do Not Use</td> </tr> </tbody> </table>

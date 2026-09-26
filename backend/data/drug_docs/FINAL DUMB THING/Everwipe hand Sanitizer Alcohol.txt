@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Everwipe hand Sanitizer Alcohol ISOPROPYL MYRISTATE WATER PROPYLENE GLYCOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) GLYCERIN ALOE VERA LEAF AMINOMETHYLPROPANOL .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Ethyl Alcohol, 70% v/v
+indications_and_usage:
+  Antiseptic skin cleanser
+purpose:
+  Purpose Antiseptic (skin) cleanser
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. When using this product. If contact occurs, rinse thoroughly with water. avoid contact with eyes. Stop use and ask a doctor if irritation develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product. If contact occurs, rinse thoroughly with water. avoid contact with eyes.
+stop_use:
+  Stop use and ask a doctor if irritation develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions place enough product on your plam to thoroughly cover your hands rub thoroughly into hands for at least 30 seconds Allow to dry
+other_safety_information:
+  Other Information Store below 43°C (110°F) may discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive Ingredients Carbomer, Aloe Barbadensis Leaf Extract, Aminomethyl Propanol, Glycerin, Propylene glycol, Water, Tocopheryl Acetate (Vit E). Isopropyl Alcohol
+package_label_principal_display_panel:
+  1 2
+set_id:
+  6edbc0fd-1ece-4017-8cc9-25ea4caf274e
+id:
+  bd49c4a8-4ed1-477c-e053-2995a90a98a8
+effective_time:
+  20210311
+version:
+  2
+openfda:

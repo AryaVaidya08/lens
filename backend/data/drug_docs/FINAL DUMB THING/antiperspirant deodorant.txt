@@ -1,0 +1,29 @@
+effective_time:
+  20100319
+inactive_ingredient:
+  Drug Facts (continued) Inactive Ingredients water, corn starch, cetearyl alcohol, fragrance, iodopropynyl butylcarbamate, dimethicone, limonene, benzyl alcohol, benzyl salicylate, linalool, alpha-isomehtyl ionone, geraniol, ceteareth-33, citronellol
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use on broken skin. Stop use if rash or irritation occurs. Ask a doctor before use if you have kidney disease
+spl_product_data_elements:
+  antiperspirant deodorant ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE ALUMINUM CATION WATER STARCH, CORN CETOSTEARYL ALCOHOL IODOPROPYNYL BUTYLCARBAMATE DIMETHICONE LIMONENE, D- BENZYL ALCOHOL BENZYL SALICYLATE LINALOOL, DL- GERANIOL CITRONELLOL, DL-
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Apply to underarms only
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+package_label_principal_display_panel:
+  Package Label Package Label image of package label
+indications_and_usage:
+  Uses Reduces underarm perspiration
+set_id:
+  feb449bb-8bc0-4474-994f-665de20e1e1d
+id:
+  0fe7be41-1ff2-43f4-9831-3fc1983b5d69
+active_ingredient:
+  Active Ingredient Aluminum chlorohydrate 15%

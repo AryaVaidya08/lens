@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Handy Solutions Antibacterial Hand Wipes benzalkonium chloride DECYL GLUCOSIDE ALOE WATER GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses for hand sanitizing to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of contact, flush eyes thouroughly with water. Stop use and ask a dcotor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of contact, flush eyes thouroughly with water.
+stop_use:
+  Stop use and ask a dcotor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Take wipe and rub thoroughly over all surfaces of both hands. Rub hands together briskly to dry. Dispose of wipe.
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf Juice, Purified Water (Aqua), Glycerin, Nonionic Surfactant
+package_label_principal_display_panel:
+  Principal Display Panel Antibacterial Hand Wipes
+set_id:
+  a49839fe-42fb-1406-e053-2995a90ad56a
+id:
+  15aef7b9-987c-179e-e063-6394a90a23fd
+effective_time:
+  20240409
+version:
+  5
+openfda:

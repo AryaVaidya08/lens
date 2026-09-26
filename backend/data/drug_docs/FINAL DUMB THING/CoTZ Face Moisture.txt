@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  CoTZ Face Moisture Zinc Oxide Zinc Oxide Zinc Oxide MEDIUM-CHAIN TRIGLYCERIDES CERAMIDE NP Cyclomethicone 6 Cyclomethicone 5 Dimethicone 20 Dimethicone Crosspolymer (450000 MPA.S AT 12% in Cyclopentasiloxane) Dimethicone/Vinyl Dimethicone Crosspolymer (Soft Particle) Dimethiconol (2000 CST) Brown Iron Oxide Hydrogen Dimethicone (20 CST) PEG-10 Dimethicone (600 CST) POLYHYDROXYSTEARIC ACID (2300 MW) VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER
+active_ingredient:
+  Active Ingredients: Zinc Oxide 16%
+purpose:
+  Purpose: Sunscreen
+indications_and_usage:
+  Uses: Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings: For external use only. Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  For external use only. Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Apply liberally 15 minutes before sun exposure. Reapply: - After 80 minutes of swimming or sweating - Immediately after towel drying - At least every two hours Children under 6 months: Ask a doctor Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.-2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses
+inactive_ingredient:
+  Inactive Ingredients: Capric/Caprylic Triglyceride, Ceramide 3, Cyclohexasiloxane, Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethiconol, Iron Oxide, Methicone, PEG-10 Dimethicone, Polyhydroxystearic Acid, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer
+other_safety_information:
+  Other Information: Protect this product from excessive heat and direct sun May stain some fabrics Manufactured Exclusively For: CoTZ ® Skincare Norristown, PA 19403 www.cotzskincare.com
+package_label_principal_display_panel:
+  Principal Display Panel – Carton Label CoTZ ® the HEALTHIER SUNSCREEN ® Face Moisture Lightly Tinted SPF 35 Hydrate & Protect MINERAL SUNCREEN FACE Broad Spectrum SPF 35 Water Resistant (80 Minutes) Net Wt. 1.5 oz/42.5 g Principal Display Panel – Carton Label
+  Principal Display Panel – Tube Label CoTZ ® the HEALTHIER SUNSCREEN ® Face Moisture Lightly Tinted SPF 35 Hydrate & Protect MINERAL SUNCREEN FACE Broad Spectrum SPF 35 Water Resistant (80 Minutes) Net Wt. 1.5 oz/42.5 g Principal Display Panel – Tube Label
+set_id:
+  db682516-6c8f-4009-a9ec-e21dfc64ce15
+id:
+  fdaec1a9-d74a-4eb7-97f6-a0e47d983b22
+effective_time:
+  20250109
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    CoTZ Face Moisture
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Fallien Cosmeceuticals, LTD
+  product_ndc:
+    58892-360
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    fdaec1a9-d74a-4eb7-97f6-a0e47d983b22
+  spl_set_id:
+    db682516-6c8f-4009-a9ec-e21dfc64ce15
+  package_ndc:
+    58892-360-42
+  is_original_packager:
+    True
+  upc:
+    0358892360420
+  unii:
+    SOI2LOH54Z

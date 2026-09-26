@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Lifebuoy Hand Sanitizer Professional Alcohol ALCOHOL ALCOHOL BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) AMINOMETHYLPROPANOL DENATONIUM BENZOATE GLYCERIN WATER TERT-BUTYL ALCOHOL TROLAMINE
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol (75% v/v)
+purpose:
+  PURPOSE ANTISEPTIC
+indications_and_usage:
+  USE Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  WARNINGS For External Use only. Highly flammable liquid and vapour. Keep away from/do not spray near heat, hot surfaces, sparks, electrical appliances, open flames and other ignition sources. Do not store in car. No smoking. Keep containers tightly closed. Do Not Use On children less than 2 months of age On open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact, rinse cautiously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing. If eye irritation persists: Get medical advice/attention. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children. Causes serious eye irritation. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Wet hands thoroughly with product and rub lightly until dry. Do not wipe off or rinse.
+other_safety_information:
+  OTHER INFORMATION Store between 15-30ºC (59-86ºF) Avoid freezing and excessive heat above 40ºC (104ºF)
+inactive_ingredient:
+  INACTIVE INGREDIENTS Acrylates Copolymer, Aminomethyl Propanol, Denatonium Benzoate, Glycerin, Purified Water USP, Tert-butyl Alcohol, Triethanolamine
+package_label_principal_display_panel:
+  01b LBL_Lifebuoy_Hand Sanitizer Gel_75pct EtOH_1-L 01b LBL_Lifebuoy_Hand Sanitizer Gel_75pct EtOH_5L 01b LBL_Lifebuoy_Hand Sanitizer Gel_75pct EtOH_50mL 01b LBL_Lifebuoy_Hand Sanitizer Gel_75pct EtOH_500mL
+set_id:
+  2690539d-6494-4862-b623-80533073805c
+id:
+  4d32f536-fbf0-49c7-bf3c-f45de0ad4d9e
+effective_time:
+  20201104
+version:
+  7
+openfda:

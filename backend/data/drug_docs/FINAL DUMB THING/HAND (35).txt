@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  HAND SANITIZER ALCOHOL WATER ALCOHOL ALCOHOL CARBOXYMETHYLCELLULOSE GLYCERIN
+active_ingredient:
+  Active Ingredients Alcohol 70% v/v. Porpuse: Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  uses - Hand sanitizer to decrease virus and bacteria on the skin that could cause disease -Recomended for repeated use
+  Directions -Put enough product in your palm to cover hands and rub hands together briskly until dry without wiping -For children under 6 years of age should be supervised when using OZO -Not recommended for infants
+warnings_and_cautions:
+  warnings For external use only: hands Flammable, keep away from fire or flame.
+do_not_use:
+  Stop use and ask a doctor if -irritation and redness develop -condition persist for more than 72 hours. Keep out of reach of childre. If swallowed, get medical help or contact a Poison Control Center right away
+keep_out_of_reach_of_children:
+  keep out of reach of children If swallowed, get medical help or contact a Poison Control center right away
+when_using:
+  when using this product keep out of eyes, do not use in or near the eyes. In case of contact with eyes, flush thoroughly with water avoid contact with broken skin do not inhale or ingest
+storage_and_handling:
+  Other information -Store below 105 F (40 C) -May discolor certain fabrics -Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Purified water (Aqua), Vegetable Glycerin, and Carboxymethyl cellulose
+questions:
+  Questions or comments? Visit www.supplycengineering.com
+dosage_and_administration:
+  directions -Put enough product in your palm to cover hands and rub hands together briskly until dry without wiping -For Children under 6 years of age should be supervised when using OZO -Not recommended for infants
+warnings:
+  Warnings For external use only: hands Flammable, keep away from fire or flame
+package_label_principal_display_panel:
+  principal display efficiently kills 99.9% of most illnes causing germs OZONE hand sanitizer gel antibacterial ozonized gel luxury formula leaves hands soft contain moisturizers paraben free phthalate free formaldehyde donor free 33.8 FL OZ (1 Liter) 33.8 FL OZ (1 Liter)
+set_id:
+  a4ef357d-5486-b47d-e053-2a95a90a818d
+id:
+  a4ef357d-5487-b47d-e053-2a95a90a818d
+effective_time:
+  20200505
+version:
+  1
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  FUHOP Fungal Nail Patches Fungal Nail Patches GARLIC MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL ALLANTOIN CNIDIUM MONNIERI FRUIT OIL TOLNAFTATE TOLNAFTATE GLYCERIN
+active_ingredient:
+  Active ingredients Tolnaftate 1%
+purpose:
+  Purpose bacteriostatic, sterilizing.
+indications_and_usage:
+  Use Use for fungal nail infections.
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use It is prohibited for those who are allergic to this product and pregnant women,and should be used with caution on open wounds.
+when_using:
+  When Using Do not put in eves,lf it accidentally gets into your eyes, rinse with water or seek medical advice,f irritation or rash occurs, discontinye use and ask a doctor. lf swallowed, get medical help or contact a Poison Control Center immediately
+stop_use:
+  Stop Use Stop use and ask a doctor if irritation or rash occurs.
+ask_doctor:
+  Ask Doctor Do not put in eves,lfit accidentally gets into your eyes, rinse with water or seekmedical advice.lfirritation or rash occurs, discontinue use and ask a doctor. if swallowed, get medical help orcontact a Poison Control Centerimmediatel
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children Please keep this product out of reach of children.
+inactive_ingredient:
+  Inactive ingredients Glycerin, Alantoin,Alium Sativum (Garlic) Bulb Extract, Cnidium,Monnieri Fruit Oil,Melaleuca Alternifolia (Tea Tree) Leaf oi
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION One patch per day, each patch contains 1 mg of tolnaftate
+package_label_principal_display_panel:
+  label label label label label label label label label label label label label label label label label label label label label label label label
+set_id:
+  1a87f33f-a714-3b2d-e063-6394a90ae977
+id:
+  1a87f33f-a715-3b2d-e063-6394a90ae977
+effective_time:
+  20240610
+version:
+  1
+openfda:

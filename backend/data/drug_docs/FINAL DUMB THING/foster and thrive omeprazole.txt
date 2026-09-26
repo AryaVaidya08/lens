@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  foster and thrive omeprazole Omeprazole OMEPRAZOLE OMEPRAZOLE BENZYL ALCOHOL CARMINIC ACID CARNAUBA WAX FD&C BLUE NO. 2 HYPROMELLOSE, UNSPECIFIED HYPROMELLOSE ACETATE SUCCINATE, UNSPECIFIED LACTOSE MONOHYDRATE MENTHOL, UNSPECIFIED FORM MONOETHANOLAMINE POLYETHYLENE GLYCOL 3350 SODIUM LAURYL SULFATE SODIUM STEARATE SODIUM STEARYL FUMARATE SUCRALOSE TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE 20
+active_ingredient:
+  Active ingredient (in each tablet) Omeprazole 20 mg
+purpose:
+  Purpose Acid reducer
+indications_and_usage:
+  Use • treats frequent heartburn (occurs 2 or more days a week) • not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect
+warnings:
+  Warnings Allergy alert: • do not use if you are allergic to omeprazole. • omeprazole may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor. Ask a doctor before use if you have: • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if: • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor.
+ask_doctor:
+  Ask a doctor before use if you have: • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if: • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • for adults 18 years of age and older • this product is to be used once a day (every 24 hours), every day for 14 days • it may take 1 to 4 days for full effect; some people get complete relief of symptoms within 24 hours 14-Day Course of Treatment • swallow 1 tablet with a glass of water before eating in the morning • take every day for 14 days • do not take more than 1 tablet a day • do not use for more than 14 days unless directed by your doctor • swallow whole. Do not chew, crush, or suck tablets. Repeated 14-Day Courses (if needed) • you may repeat a 14-day course every 4 months • do not take for more than 14 days or more often than every 4 months unless directed by a doctor • children under 18 years of age: ask a doctor. Heartburn in children may sometimes be caused by a serious condition.
+storage_and_handling:
+  Other information • read the directions and warnings before use • keep the carton. It contains important information. • store at 20-25°C (68-77°F) and protect from moisture
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, carmine, carnauba wax, FD&C blue #2/indigo carmine aluminum lake, flavor, hypromellose, hypromellose acetate succinate, lactose monohydrate, menthol, modified starch, monoethanolamine, polyethylene glycol 3350, sodium lauryl sulfate, sodium starch glycolate, sodium stearate, sodium stearyl fumarate, sucralose, talc, titanium dioxide, triacetin, triethyl citrate
+questions:
+  Questions or comments? Call 833-358-6431 Monday to Friday 9:00am to 7:00pm EST
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Foster & Thrive™ COMPARE TO PRILOSEC OTC ® Omeprazole Delayed Release Tablets 20 mg Wildberry Mint Coated Tablet ACID REDUCER ACTUAL SIZE Treats Frequent Heartburn! 24 HR | SWALLOW – DO NOT CHEW THREE 14-DAY COURSES OF TREATMENT MAY TAKE 1 TO 4 DAYS FOR FULL EFFECT 3 Bottles – 14 Tablets each TOTAL 42 TABLETS 401-km-omeprazole-1.jpg 401-km-omeprazole-2.jpg
+set_id:
+  51bcc19d-acfc-487b-870b-251c8953741f
+id:
+  07de4a08-07e5-444b-8d1b-7f259b32936e
+effective_time:
+  20241120
+version:
+  2
+openfda:
+  application_number:
+    NDA022032
+  brand_name:
+    foster and thrive omeprazole
+  generic_name:
+    OMEPRAZOLE
+  manufacturer_name:
+    Strategic Sourcing Services LLC
+  product_ndc:
+    70677-1275
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    OMEPRAZOLE
+  rxcui:
+    402014
+  spl_id:
+    07de4a08-07e5-444b-8d1b-7f259b32936e
+  spl_set_id:
+    51bcc19d-acfc-487b-870b-251c8953741f
+  package_ndc:
+    70677-1275-2
+    70677-1275-1
+  is_original_packager:
+    True
+  nui:
+    N0000175525
+    N0000000147
+    N0000182140
+  pharm_class_epc:
+    Proton Pump Inhibitor [EPC]
+  pharm_class_moa:
+    Proton Pump Inhibitors [MoA]
+    Cytochrome P450 2C19 Inhibitors [MoA]
+  unii:
+    KG60484QX9

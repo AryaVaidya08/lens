@@ -1,0 +1,32 @@
+effective_time:
+  20180503
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product do not get into eyes.
+spl_product_data_elements:
+  Petroleum Jelly White Petrolatum PETROLATUM PETROLATUM
+ask_doctor:
+  See a doctor if condition lasts more than 7 days.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Apply as needed
+do_not_use:
+  Do not use on deep or puncture wounds, animal bites, serious burns.
+package_label_principal_display_panel:
+  Front Label Front Label
+  Back Label Back Label
+indications_and_usage:
+  Uses temporarily protects minor: cuts, scrapes, burns. temporarily protects and helps relieve chapped or cracked skin and lips. helps protect from the drying effects of wind and cold weather
+set_id:
+  6442a79c-65c1-422e-b68c-53ce4edf86cc
+id:
+  dec31c08-5821-44e1-abe4-fa5e5a593e96
+active_ingredient:
+  Active Ingredient White Petrolatum USP (100%)

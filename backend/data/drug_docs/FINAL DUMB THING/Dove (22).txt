@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Dove Hand Sanitizer Wipes Aloe and Eucalyptus Scent STEARIC ACID .ALPHA.-TOCOPHEROL ACETATE BUTYLENE GLYCOL WATER ALCOHOL ALCOHOL GLYCERIN LIMONENE, (+)- EDETATE SODIUM .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- NIACINAMIDE
+description:
+  DOVE MOISTURIZING HAND SANITIZER WIPES ALOE & EUCALYPTUS SCENT - ethyl alcohol cloth Dove Nourishing Hand Sanitizer Shea Butter & Warm Vanilla 8h Moisturization
+active_ingredient:
+  Drug Facts Active ingredient Ethyl Alcohol 76%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses • Hand sanitizer to help reduce bacteria on the skin. For use when soap and water are not available.
+warnings:
+  Warnings For external use only Flammable. Keep away from fire or flame Do not store in car. Do not use in children less than 12 months of age Do not use on open skin wounds When using this product , do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask doctor if irritation or redness develop
+keep_out_of_reach_of_children:
+  • Keep out of reach of children except under adult supervision. If swallowed, get medical help or contact a poison control Center right away.
+dosage_and_administration:
+  Directions • Wet hands thoroughly with product and rub lightly until dry.
+other_safety_information:
+  Other information • Avoid excessive heat. Store below 105˚F (40˚C). • May discolor fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Glycerin, Butylene Glycol, Fragrance (Parfum), Niacinamide, Tocopheryl Acetate, Stearic Acid, Tetrasodium EDTA, Hexyl Cinnamal, Limonene, Linalool.
+questions:
+  Questions? 1-800-761-3683
+package_label_principal_display_panel:
+  Packaging Dove Sanitizer Wipes Aloe
+set_id:
+  df74d901-c86c-ed71-e053-2995a90a39c2
+id:
+  265757ed-58b5-8bf5-e063-6394a90a881a
+effective_time:
+  20241107
+version:
+  2
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Dove
+  generic_name:
+    HAND SANITIZER WIPES ALOE AND EUCALYPTUS SCENT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2042
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    2397694
+  spl_id:
+    265757ed-58b5-8bf5-e063-6394a90a881a
+  spl_set_id:
+    df74d901-c86c-ed71-e053-2995a90a39c2
+  package_ndc:
+    64942-2042-1
+    64942-2042-2
+    64942-2042-3
+    64942-2042-4
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

@@ -1,0 +1,42 @@
+effective_time:
+  20110408
+inactive_ingredient:
+  Inactive ingredients Water, Dimethicone, Butylene Glycol, Glyceryl Stearate, Aluminum Starch Octenylsuccinate, Butyloctyl Salicylate, Silica, PEG-100 Stearate, PEG-12 Glyceryl Dimyristate, Cetyl Alcohol, Polyethylene, Sucrose, Ascorbyl Glucoside, Barium Sulfate, Stearoxymethicone/Dimethicone Copolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, PEG-75 Stearate, Ceteth-20, Steareth-20, PVP, Ferula Foetida Root Extract, Acetyl Glucosamine, Caffeine, Tocopheryl Acetate, Retinyl Palmitate, Tocopherol, Sodium Hyaluronate, Caprylyl Glycol, Phenylethyl Resorcinol, Ethoxydiglycol, Caprylic/Capric Triglyceride, Linoleic Acid, Lecithin, Phytostearyl Canola Glycerides, Oleic Acid, Palmitic Acid, Stearic Acid, Triolein, Polysorbate 60, BHT, Sodium Hydroxide, Disodium EDTA, Phenoxyethanol, Sorbic Acid, Chlorphenesin, Dodecahydro-3A, 6, 6, 9A-Tetramethylnaphtho (2,1-B) Furan, Hexamethylindanopyran, Isopropyl Myristate, Oxacyclohexadecenone, Methyldihydrojasmonate, Myristica Fragrans (Nutmeg) Kernel Oil.
+purpose:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Homosalate 10.0% Sunscreen Octinoxate 3.5% Sunscreen Octisalate 5.0% Sunscreen Octocrylene 2.79% Sunscreen Oxybenzone 6.0% Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+questions:
+  Questions or comments? 1.800.272.6663 Monday–Friday 6 a.m.–6 p.m. Pacific time
+spl_product_data_elements:
+  Arbonne Revelage Age Spot Brightening Day with SPF 30 Avobenzone, Homosalate, Octinoxate, Octisalate, Octocrylene, and Oxybenzone AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE WATER DIMETHICONE BUTYLENE GLYCOL GLYCERYL MONOSTEARATE ALUMINUM STARCH OCTENYLSUCCINATE BUTYLOCTYL SALICYLATE SILICON DIOXIDE PEG-100 STEARATE CETYL ALCOHOL LOW DENSITY POLYETHYLENE SUCROSE BARIUM SULFATE PEG-75 STEARATE CETETH-20 STEARETH-20 POVIDONE FERULA ASSA-FOETIDA ROOT N-ACETYLGLUCOSAMINE CAFFEINE .ALPHA.-TOCOPHEROL ACETATE, D- VITAMIN A PALMITATE ALPHA-TOCOPHEROL HYALURONATE SODIUM CAPRYLYL GLYCOL PHENYLETHYL RESORCINOL DIETHYLENE GLYCOL MONOETHYL ETHER MEDIUM-CHAIN TRIGLYCERIDES LINOLEIC ACID LECITHIN, SOYBEAN OLEIC ACID PALMITIC ACID STEARIC ACID TRIOLEIN POLYSORBATE 60 BUTYLATED HYDROXYTOLUENE SODIUM HYDROXIDE EDETATE DISODIUM PHENOXYETHANOL SORBIC ACID CHLORPHENESIN SCLAREOLIDE HEXAMETHYLINDANOPYRAN ISOPROPYL MYRISTATE METHYL DIHYDROJASMONATE NUTMEG OIL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions apply generously and evenly to face, massage in well before sun exposure and as needed. for adult use only.
+spl_unclassified_section:
+  Drug Facts
+  Sun Alert Limiting sun exposure, wearing protective clothing and using sunscreens may reduce the risks of skin aging, skin cancer and other harmful effects of the sun.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+storage_and_handling:
+  Other information Store at 20°C–25°C (68°F–77°F)
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Avobenzone 3.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Homosalate 10.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octinoxate 3.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Octisalate 5.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octocrylene 2.79%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Oxybenzone 6.0%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Carton Revelâge ™ ARBONNE ® AGE SPOT BRIGHTENING DAY CREAM WITH SPF 30 DERMATOLOGIST TESTED 1 fl. oz./30 mL Principal Display Panel - 30 mL Carton
+indications_and_usage:
+  Uses helps prevent sunburn higher SPF gives more sunburn protection for skin highly sensitive to sunburn
+set_id:
+  24bf2dbc-198b-4c15-a5ea-cc7e94d1239a
+id:
+  9a8aa9b5-3edf-4a41-b315-101c329b6093
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Avobenzone 3.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Homosalate 10.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octinoxate 3.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Octisalate 5.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octocrylene 2.79%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Oxybenzone 6.0%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Homosalate 10.0% Sunscreen Octinoxate 3.5% Sunscreen Octisalate 5.0% Sunscreen Octocrylene 2.79% Sunscreen Oxybenzone 6.0% Sunscreen

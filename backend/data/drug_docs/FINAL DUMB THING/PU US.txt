@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  PU US PURE Peroxy acetic acid PERACETIC ACID PERACETIC ACID Water
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Peroxy acetic acid 0.26%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water
+purpose:
+  PURPOSE Purpose: SANITIZER, ANTISEPTIC
+warnings:
+  WARNINGS Warnings: 1.Do not use the product on the following areas: Around the eyes and ears, in the mouth, large body parts and damaged skin(Irritation may occur) 2.If you experience any of the following symptoms, discontinue use of the product immediately and consult a physician or pharmacist. If symptoms such as rash, itching, edema, and skin irritation occur, please stop using it. 3.Other precautions 1) For external use only (do not swallow). 2) Avoid contact with eyes. If contact occurs, wash with clean water and consult a doctor or pharmacist. 3)Do not use in anal or vaginal areas as they may cause irritation. 4) Use only for the intended purposes. 4.Precautions for storage 1) Keep away from direct sunlight and do not expose the product to heating devices or flame. 2) Keep out of reach of children and go to the hospital immediately if swallowed. 3) After use, close the lid completely to prevent the product from drying or foreign objects from getting inside the container. 4) Storing the product in a different container may cause accidents or deterioration of quality. Therefore, keep the product in its original container.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children and go to the hospital immediately if swallowed.
+indications_and_usage:
+  Uses Uses: Disinfection of Human’s hands and skin TLCUO, made of active peracetic acid,(PAA) is an effective sterilizing agent for bacillus, viruses, bacteria, etc. as well as odor removal for Human Body
+dosage_and_administration:
+  Directions Directions: Take an appropriate amount on your hands and rub thoroughly to dry. Rub evenly over areas of your hands or feet to dry naturally. For infants, the skin is weak and sensitive, preferably not to be used.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of bottle
+set_id:
+  0d6253f8-14d0-49e7-add3-8755981c4bb8
+id:
+  850da61e-d947-4c9a-bf86-542ed7cc3b20
+effective_time:
+  20200502
+version:
+  1
+openfda:

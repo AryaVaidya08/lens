@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Antibacterial Hand Sugar Cookie BENZALKONIUM CHLORIDE PEG-7 STEARATE WATER COCAMIDOPROPYL BETAINE PROPYLENE GLYCOL POLYAMINOPROPYL BIGUANIDE PEG-150 DISTEARATE EDETATE DISODIUM ANHYDROUS CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 D&C RED NO. 33 BENZALKONIUM CHLORIDE BENZALKONIUM OLIVE OIL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Benzalkonium Chloride 0.10% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses For hand washing to decrease bacteria on the skin.
+warnings:
+  Warnings • For external use only, hands only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use & ask a doctor if irritation or rash appears & lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use & ask a doctor if irritation or rash appears & lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Wet hands with water. Lather vigorously and wash skin. Rinse and dry thoroughly.
+inactive_ingredient:
+  Inactive Ingredients • Water, Cocamidopropyl Betaine, Glycol Propylene, Polyaminoproproyl Biguanide, Fragrance, PEG-150 Distearate, Olive Oil PEG-7 Esters, Disodium EDTA, Citric Acid, FD&C Blue No.1, D&C Red No.33.
+questions:
+  Questions? • Call 212-391-6970
+package_label_principal_display_panel:
+  Package Labeling: 295 ml
+set_id:
+  b5a85916-4e38-41cc-e053-2a95a90a8212
+id:
+  2f2ee06a-b7dc-9cf8-e063-6394a90a8b0e
+effective_time:
+  20250228
+version:
+  4
+openfda:

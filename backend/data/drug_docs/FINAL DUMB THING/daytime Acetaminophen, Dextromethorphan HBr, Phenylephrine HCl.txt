@@ -1,0 +1,45 @@
+effective_time:
+  20171122
+purpose:
+  Purpose Pain reliever/fever reducer Cough suppressant Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+when_using:
+  When using this product do not use more than directed
+questions:
+  Questions or comments? 1-800-719-9260
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information • store at 20°-25°C (68°-77°F)
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: • nasal congestion • cough due to minor throat and bronchial irritation • sore throat • headache • minor aches and pains • fever
+set_id:
+  eb6b1949-6156-4152-8357-a0bd37f0c137
+id:
+  e790e652-e848-4150-ac9a-555a019bb166
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredients (in each softgel) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="50%"/> <col width="50%"/> <tbody> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>adults &amp; children 12 yrs &amp; over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>2 softgels with water every 4 hrs</paragraph> </td> </tr> <tr> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>children 4 to under 12 yrs</paragraph> </td> <td styleCode="Rrule Lrule Toprule Botrule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>children under 4 yrs</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients edible ink, FD&C red no. 40, FD&C yellow no. 6, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol sorbitan solution
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. The maximum daily dose of this product is 8 softgels (2,600 mg acetaminophen) in 24 hours. Severe liver damage may occur if you take • more than 4,000 mg of acetaminophen in 24 hours • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Sore throat warning: If sore throat is severe, lasts for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  daytime Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN MANNITOL POLYETHYLENE GLYCOLS POVIDONES PROPYLENE GLYCOL WATER L994
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough as occurs with smoking, asthma, or emphysema
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • take only as directed – see Liver warning • do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 2 softgels with water every 4 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use • when using other Daytime or Nighttime products, carefully read each label to insure correct dosing
+stop_use:
+  Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredients in Vicks® DayQuil® See new warnings and directions Non-Drowsy WITH PHENYLEPHRINE DAYTIME MULTI-SYMPTOM COLD / FLU RELIEF Nasal decongestant, Pain reliever, Cough suppressant, Fever reducer Acetaminophen – aches, fever Dextromethorphan HBr – cough Phenylephrine HCl – nasal congestion Alcohol free Antihistamine free Relieves congested/stuffy head, sore throat, coughing, aching, and fever so you can get through the day DayTime Carton Image

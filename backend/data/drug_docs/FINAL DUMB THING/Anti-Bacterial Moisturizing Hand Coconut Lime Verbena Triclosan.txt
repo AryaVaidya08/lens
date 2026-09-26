@@ -1,0 +1,33 @@
+effective_time:
+  20100101
+inactive_ingredient:
+  INACTIVE INGREDIENT Water (Aqua, Eau), Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Acrylates Copolymer, Fragrance (Parfum), Glycol Distearate, Olea Europaea (Olive) Fruit Extract, Cocos Nucifera (Coconut) Fruit Extract, Honey Extract (Mel, Extrait de Miel), Morus Alba Fruit Extract, Hydrolyzed Silk, Panthenol, Tocopheryl Acetate, Sodium Chloride, Glycerin, Glycereth-26, Coco-Glucoside, Lauryl Lactyl Lactate, Glyceryl Oleate, Glyceryl Stearate, Triethylene Glycol, Butylene Glycol, Propylene Glycol, Disodium EDTA, Benzophenone-4, Sodium Hydroxide, Benzoic Acid, Benzyl Alcohol, Methylchloroisothiazolinone, Methylisothiazolinone, Mica, Titanium Dioxide (CI 77891), Yellow 5 (CI 19140), Blue 1 (CI 42090), Red 40 (CI 16035), Yellow 10 (CI 47005).
+purpose:
+  PURPOSE Antibacterial
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only. WHEN USING THIS PRODUCT avoid contact with eyes. If contact occurs, rinse thoroughly with water. STOP USE AND ASK A DOCTOR if irritation and redness develop. KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  WHEN USING THIS PRODUCT avoid contact with eyes. If contact occurs, rinse thoroughly with water.
+spl_product_data_elements:
+  Anti-Bacterial Moisturizing Hand Coconut Lime Verbena Triclosan TRICLOSAN TRICLOSAN WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Wet hands, work into a rich lather. Rinse well.
+stop_use:
+  STOP USE AND ASK A DOCTOR if irritation and redness develop.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr. Reynoldsburg, Ohio 43068 1-800-395-1001 www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING Front Label Back Label
+indications_and_usage:
+  USE Handwashing to decrease bacteria on skin
+set_id:
+  a5fbaef0-1061-4021-a285-573976505c57
+id:
+  23a9caec-f061-4fe9-ac86-ffa81eae161b
+active_ingredient:
+  ACTIVE INGREDIENT Triclosan 0.3%

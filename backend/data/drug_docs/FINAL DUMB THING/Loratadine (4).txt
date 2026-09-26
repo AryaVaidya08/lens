@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Loratadine Loratadine LACTOSE MONOHYDRATE STARCH, CORN MAGNESIUM STEARATE SODIUM STARCH GLYCOLATE TYPE A POTATO LORATADINE LORATADINE G;10
+active_ingredient:
+  Active ingredient (in each tablet) Loratadine 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table cellspacing="0" cellpadding="0"><tbody><tr styleCode="Botrule First"><td styleCode="Lrule Rrule" valign="top"><content styleCode="bold">adults and children 6 years and over</content></td><td styleCode="Rrule" valign="top">1 tablet daily; not more than 1 tablet in 24 hours</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="top"><content styleCode="bold">children under 6 years of age</content></td><td styleCode="Rrule" valign="top">ask a doctor</td></tr><tr><td styleCode="Lrule Rrule" valign="top"><content styleCode="bold">consumers with liver or kidney disease</content></td><td styleCode="Rrule" valign="top">ask a doctor</td></tr></tbody></table>
+spl_unclassified_section:
+  Other information store between 20° and 25°C (68° and 77°F) protect from excessive moisture
+inactive_ingredient:
+  Inactive ingredients ​ lactose monohydrate, magnesium stearate, pregelatinized starch (maize), sodium starch glycolate
+questions:
+  Questions? call 1-800-630-8895
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 80513-711-03 Compare to the Active Ingredient in Claritin ® * Loratadine 10 mg Allergy Relief Non-Drowsy** Antihistamine 24 Hour Relief of: Sneezing, runny nose Itchy, watery eyes Itchy throat or nose Original Prescription Strength **When Taken as Directed. See Drug Facts Panel. 300 Tablets DO NOT USE IF PRINTED SEAL UNDER CAP IS MISSING OR DAMAGED *This product is not manufactured or distributed by the owner of the registered trademark Claritin ® Distributed by: ADVANCED RX LLC, 1942 NE 163rd St North Miami Beach, FL 33162 U.S.A. loratadine-10mg-blisterlabel-jpg
+set_id:
+  e96b4671-82dc-4cc6-a8bf-ef6f1efd8a7d
+id:
+  2efad4c4-593e-fa4d-e063-6294a90a0ebc
+effective_time:
+  20250225
+version:
+  3
+openfda:
+  application_number:
+    ANDA210722
+  brand_name:
+    Loratadine
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    Advanced Rx LLC
+  product_ndc:
+    80513-711
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    311372
+  spl_id:
+    2efad4c4-593e-fa4d-e063-6294a90a0ebc
+  spl_set_id:
+    e96b4671-82dc-4cc6-a8bf-ef6f1efd8a7d
+  package_ndc:
+    80513-711-03
+    80513-711-01
+  is_original_packager:
+    True
+  upc:
+    0380513001184
+  unii:
+    7AJO3BO7QN

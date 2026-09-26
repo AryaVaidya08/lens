@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  HYR Hydrogen Peroxide First Aid Antiseptic Hydrogen Peroxide WATER HYDROGEN PEROXIDE HYDROGEN PEROXIDE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: General Resources 227 S Smith Rd Suite 102 Tempe, AZ 85281 www.gen-resources.com
+active_ingredient:
+  Active ingredient Hydrogen Peroxide 3%
+purpose:
+  Purpose First Aid Antiseptic
+indications_and_usage:
+  Uses First aid to help prevent infection in minor cuts, scrapes, and burns
+warnings:
+  Warnings For external use only. Do not use In eyes or apply over large areas of the body Longer than one week Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns. ​Stop use and ask a doctor if condition persists or gets worse Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use In eyes or apply over large areas of the body Longer than one week
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns.
+stop_use:
+  ​Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Hold sprayer tip away from face when opening Clean the affected area If bandaged, let dry first Apply a small amount of product on affected area 1-3 times a day May be covered with a sterile bandage
+storage_and_handling:
+  Other information Keep tightly closed and in a dark place at room temperature.
+inactive_ingredient:
+  Inactive ingredient purified water
+package_label_principal_display_panel:
+  HYR 3% HYDROGEN PEROXIDE FIRST AID ANTISEPTIC SPRAY 8 fl oz (0.5 pt) 237 mL Proudly made in the USA HydrogenPeroxde-8oz-01
+set_id:
+  adcacfb9-4ae2-4998-e053-2995a90a4b48
+id:
+  b1bd04e7-c29a-6e01-e053-2995a90a7760
+effective_time:
+  20201015
+version:
+  2
+openfda:

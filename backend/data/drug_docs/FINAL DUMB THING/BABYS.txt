@@ -1,0 +1,40 @@
+effective_time:
+  20140101
+inactive_ingredient:
+  Inactive ingredients boric acid, castor oil, microcrystalline wax, mineral oil, paraffin, peruvian balsam, petrolatum
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  Purpose Skin Protectant
+warnings:
+  Warnings For external use only. When using this product, avoid contact with eyes. Stop use and ask a doctor if condition worsens or does not improve within 7 days. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes or mucous membranes use only in a well-ventilated area
+  When using this product, avoid contact with eyes.
+spl_product_data_elements:
+  BABYS BUTT AID ZINC OXIDE ZINC OXIDE ZINC OXIDE BORIC ACID CASTOR OIL MINERAL OIL PARAFFIN PETROLATUM
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Change wet and soiled diapers promptly. Cleanse the diaper area and allow to dry. Apply ointment liberally as often as necessary, with each diaper change, especially at bedtime or any time when exposure to wet diapers may be prolonged.
+spl_unclassified_section:
+  DRUG FACTS For external use only flammable, keep away from fire and flame will produce serious gastric disturbances if taken internally Ask a doctor before use if you have deep puncture wounds or serious burns When using this product do not get into eyes or mucous membranes use only in a well-ventilated area Stop use and ask a doctor if condition persists or gets worse. Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse.
+  Stop use and ask a doctor if condition worsens or does not improve within 7 days.
+storage_and_handling:
+  Other information store at 20 to 27 C (68 to 80.6 F)
+package_label_principal_display_panel:
+  Enter section text here Baby Butt Aid Label
+indications_and_usage:
+  Uses Helps treat and prevent diaper rash Prevents chafed skin due to diaper rash and helps seal out wetness.
+set_id:
+  349d27e8-df53-4d4f-8833-b249e948acee
+id:
+  c67b9ae5-feb9-461b-b4b9-9474f7ebc28d
+ask_doctor_or_pharmacist:
+  Ask a doctor before use if you have deep puncture wounds or serious burns
+active_ingredient:
+  Active ingredient Zinc Oxide 16%

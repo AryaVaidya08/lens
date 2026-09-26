@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Cepacol Sore Throat Dyclonine Hydrochloride and Glycerin CETYLPYRIDINIUM CHLORIDE D&C RED NO. 33 WATER FD&C YELLOW NO. 6 MENTHOL, UNSPECIFIED FORM PHOSPHORIC ACID POLOXAMER 338 POTASSIUM SORBATE SODIUM PHOSPHATE, DIBASIC, UNSPECIFIED FORM SORBITOL DYCLONINE HYDROCHLORIDE DYCLONINE GLYCERIN GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: Reckitt Benckiser Parsippany, NJ 07054-0224
+active_ingredient:
+  Active ingredients Purpose Dyclonine Hydrochloride 0.1% Oral pain reliever Glycerin 33% Oral demulcent
+active_ingredient_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr styleCode="Toprule"><td>Dyclonine Hydrochloride 0.1%</td><td>Oral pain reliever</td></tr><tr styleCode="Botrule"><td>Glycerin 33%</td><td>Oral demulcent</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Dyclonine Hydrochloride 0.1% Oral pain reliever Glycerin 33% Oral demulcent
+purpose_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr styleCode="Toprule"><td>Dyclonine Hydrochloride 0.1%</td><td>Oral pain reliever</td></tr><tr styleCode="Botrule"><td>Glycerin 33%</td><td>Oral demulcent</td></tr></tbody></table>
+indications_and_usage:
+  Uses for temporary relief of: occasional minor irritation, pain, sore mouth, and sore throat pain associated with canker sores minor discomfort and protection of irritated areas in sore mouth and sore throat
+warnings:
+  Warnings Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea or vomiting, consult a doctor promptly. Stop use and ask a doctor or dentist if sore mouth symptoms do not improve in 7 days If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not exceed recommended dosage. When using this product try to avoid swallowing spray.
+stop_use:
+  Stop use and ask a doctor or dentist if sore mouth symptoms do not improve in 7 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product try to avoid swallowing spray.
+dosage_and_administration:
+  Directions adults and children 4 years of age and older: Spray 4 times into throat or affected area. Gargle, swish around or allow to remain in place at least 1 minute and then spit out. Repeat up to 4 times daily or as directed by a dentist or doctor. Children 4 to under 12 years of age should be supervised in the use of this product. children under 4 years of age: do not use
+storage_and_handling:
+  Other information store at room temperature 20-25°C (68-77°F) do not freeze
+inactive_ingredient:
+  Inactive ingredients cetylpyridinium chloride, D&C red #33, deionized water, FD&C yellow #6, flavor, menthol, phosphoric acid, poloxamer 338, potassium sorbate, sodium phosphate dibasic, sorbitol
+questions:
+  Questions? 1-888-963-3382 You may also report side effects to this phone number.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label NDC 63824-781-74 Cēpacol ® SORE THROAT SPRAY Dyclonine HCl 0.1% • Oral Pain Reliever Glycerin 33% • Oral Demulcent Fast Sore Throat Relief Instant Acting Coats & Soothes 4 FL OZ (118 mL) SUGAR FREE cherry PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label
+set_id:
+  af621c32-ec5d-4f5a-ae19-6ff260675ac8
+id:
+  0650e5e8-122a-6c92-e063-6394a90ac9c0
+effective_time:
+  20230927
+version:
+  3
+openfda:

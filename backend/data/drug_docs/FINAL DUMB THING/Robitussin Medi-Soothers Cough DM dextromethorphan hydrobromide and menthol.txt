@@ -1,0 +1,48 @@
+effective_time:
+  20181112
+purpose:
+  Active ingredients (in each lozenge) Purposes Dextromethorphan HBr 5 mg Cough suppressant Menthol 5 mg Oral anesthetic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? Call weekdays from 9 AM to 5 PM EST at 1-800-762-4675 For most recent product information, visit www.robitussin.com
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information store at 20-25°C (68-77°F). Store in a dry place.
+indications_and_usage:
+  Uses Temporarily relieves: cough due to minor throat and bronchial irritation as may occur with a cold occasional minor irritation, pain, sore mouth, and sore throat
+set_id:
+  40a9b571-64cc-473b-9d79-8be6634b11cb
+id:
+  2ee53258-3ef2-4b3c-8ecb-cf897fb611e6
+active_ingredient:
+  Active ingredients (in each lozenge) Purposes Dextromethorphan HBr 5 mg Cough suppressant Menthol 5 mg Oral anesthetic
+dosage_and_administration_table:
+  <table width="75%"> <col width="50%" align="center" valign="top"/> <col width="50%" align="center" valign="top"/> <thead> <tr> <th styleCode="Lrule Rrule">age</th> <th styleCode="Rrule">dose</th> </tr> </thead> <tbody> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">adults and children 12 years of age and over</td> <td styleCode="Rrule">2 lozenges every 4 hours</td> </tr> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">children under 12 years</td> <td styleCode="Rrule">do not use</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients acacia, ascorbyl palmitate, beta-carotene, caramel, corn syrup, dehydrated alcohol, dextrin, glycerin, high fructose corn syrup, lecithin, natural & artificial flavors, propylene glycol, purified water, sucralose, sucrose, sunflower oil, vitamin E
+warnings:
+  Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have a cough that occurs with too much phlegm (mucus) a cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema Stop use and ask a doctor or dentist if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore mouth symptoms do not improve in 7 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Robitussin Medi-Soothers Cough DM dextromethorphan hydrobromide and menthol DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN MENTHOL, UNSPECIFIED FORM MENTHOL ACACIA ASCORBYL PALMITATE .BETA.-CAROTENE CARAMEL CORN SYRUP ALCOHOL ICODEXTRIN GLYCERIN HIGH FRUCTOSE CORN SYRUP EGG PHOSPHOLIPIDS PROPYLENE GLYCOL WATER SUCRALOSE SUCROSE SUNFLOWER OIL .ALPHA.-TOCOPHEROL R
+ask_doctor:
+  Ask a doctor before use if you have a cough that occurs with too much phlegm (mucus) a cough that lasts or is chronic such as occurs with smoking, asthma, or emphysema
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions do not take more than 12 lozenges in any 24-hour period this adult product is not intended for use in children under 12 years of age allow lozenges (one immediately after the other) to dissolve slowly in the mouth age dose adults and children 12 years of age and over 2 lozenges every 4 hours children under 12 years do not use
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Pfizer, Madison, NJ 07940 USA
+stop_use:
+  Stop use and ask a doctor or dentist if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore mouth symptoms do not improve in 7 days
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="75%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each lozenge)</content> </th> <th> <content styleCode="italics">Purposes</content> </th> </tr> </thead> <tbody> <tr> <td>Dextromethorphan HBr 5 mg</td> <td>Cough suppressant</td> </tr> <tr> <td>Menthol 5 mg</td> <td>Oral anesthetic</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 16 Lozenge Blister Pack Carton ADULT NEW! Robitussin ® Medi-Soothers ™ Cough DEXTROMETHORPHAN HBr (Cough Suppressant) MENTHOL (Oral Anesthetic) DM Relieves: ✔ Cough ✔ Sore Throat REAL MEDICINE + SOOTHING LIQUID CENTER! HONEY LEMON For Ages 12 & Over 16 MEDICATED LOZENGES PRINCIPAL DISPLAY PANEL - 16 Lozenge Blister Pack Carton
+purpose_table:
+  <table width="75%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each lozenge)</content> </th> <th> <content styleCode="italics">Purposes</content> </th> </tr> </thead> <tbody> <tr> <td>Dextromethorphan HBr 5 mg</td> <td>Cough suppressant</td> </tr> <tr> <td>Menthol 5 mg</td> <td>Oral anesthetic</td> </tr> </tbody> </table>

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Good To Go Grab and Go Sanitizing Kit benzalkonium chloride Handy Solutions Antibacterial Hand Wipes benzalkonium chloride GLYCERIN DECYL GLUCOSIDE WATER ALOE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses for hand sanitizing to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of contact, flush eyes thouroughly with water. Stop use and ask a dcotor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of contact, flush eyes thouroughly with water.
+stop_use:
+  Stop use and ask a dcotor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Take wipe and rub thoroughly over all surfaces of both hands. Rub hands together briskly to dry. Dispose of wipe.
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf Juice, Purified Water (Aqua), Glycerin, Nonionic Surfactant
+package_label_principal_display_panel:
+  Principal Display Panel Good To Go Grab & Go Sanitizing Kit
+set_id:
+  ad2d72c8-0b05-ed6e-e053-2a95a90a9d35
+id:
+  e4e44178-14de-0bdf-e053-2a95a90af4c4
+effective_time:
+  20240415
+version:
+  2
+openfda:

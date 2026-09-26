@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Alcare OR Foamed Antiseptic Handrub ALCOHOL ALCOHOL ALCOHOL WATER 1,1-DIFLUOROETHANE ISOBUTANE CETOSTEARYL ALCOHOL POLYSORBATE 60 POLYQUATERNIUM-6 (15000 MW) SODIUM BENZOATE PROPANE SODIUM SESQUICARBONATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Ethyl Alcohol 62% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Surgical Scrub significantly reduces the number of micro-organisms on the hands and forearms prior to surgery or patient care. Healthcare Personnel Handwash to decrease transient bacteria on the skin before contact with patients under medical care or treatment.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product avoid contact with eyes. If splashed in eyes, rinse promptly and thoroughly with water. do not puncture or incinerate; contents under pressure. Stop use and ask a doctor if irritation and redness develop. If irritation persists for more than 3 days, consult a physician. Keep out of reach of children In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+when_using:
+  When using this product avoid contact with eyes. If splashed in eyes, rinse promptly and thoroughly with water. do not puncture or incinerate; contents under pressure.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop. If irritation persists for more than 3 days, consult a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Surgical Scrub Clean under nails with a pick. Nails should be maintained with a 1 mm free edge. Dispense 5 grams (tennis ball) onto one hand. Spread on both hands, paying particular attention to the nails, cuticles, and interdigital spaces and forearms. Rub into skin until dry. Dispense 2.5 grams (golf ball) onto one hand and spread over both hands to the wrists and rub into the skin until dry. Healthcare Personnel Handwash Apply product to hands and rub until thoroughly dry.
+storage_and_handling:
+  Other information Do not store above 120°F (49°C). For best foam density store and use at 55 - 85°F (13 - 29°C).
+inactive_ingredient:
+  Inactive ingredients Aqua (Water), Hydrofluorocarbon 152A, Isobutane, Emulsifying Wax, Polyquaternium-6, Sodium Benzoate, Propane, Sodium Sesquicarbonate
+questions:
+  Questions or comments? 1-866-783-0422
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 482 g Can Label SCJ PROFESSIONAL HEALTHCARE Alcare OR ® NDC 11084-802-80 Hand Sanitizer Foamed Antiseptic Handrub Excellent Moisturization Surgical Scrub CHG Compatible Net Weight: 482 g (17 oz) SAP # 4000000090 Manufactured for: SC Johnson Professional USA, Inc. Charlotte, NC 28217 1-866-783-0422 www.scjp.com Pat. www.scjp.com/patents REORDER # 6396-80 deb SKIN CARE 6396-71H(817) Principal Display Panel - 482 g Can Label
+set_id:
+  acc2f83f-6b9b-4552-8330-33e7b99397d8
+id:
+  2bb9aa00-e7ed-46d0-9092-4e1f4a26d0bc
+effective_time:
+  20241220
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Alcare OR Foamed Antiseptic Handrub
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    SC Johnson Professional USA, Inc.
+  product_ndc:
+    11084-802
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    616763
+  spl_id:
+    2bb9aa00-e7ed-46d0-9092-4e1f4a26d0bc
+  spl_set_id:
+    acc2f83f-6b9b-4552-8330-33e7b99397d8
+  package_ndc:
+    11084-802-80
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  CALC PHOS 6X TRIBASIC CALCIUM PHOSPHATE ACACIA LACTOSE MONOHYDRATE TRIBASIC CALCIUM PHOSPHATE PHOSPHATE ION White to Off White
+purpose:
+  Gum or Tooth Sensitivity Teething Pain
+spl_unclassified_section:
+  Drug Facts Active ingredient Purpose Calcarea Phosphorica 6X HPUS gum or tooth sensitivity "HPUS" is the Homeopathic Pharmacopoeia of the United States.
+  *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE, NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED.
+spl_unclassified_section_table:
+  <table border="0" width="100%"><tbody><tr><td><paragraph><content styleCode="bold"><content styleCode="italics">Active ingredient</content></content></paragraph></td><td><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Calcarea Phosphorica 6X HPUS</td><td>gum or tooth sensitivity</td></tr></tbody></table>
+active_ingredient:
+  Active ingredient Purpose Calcarea Phosphorica 6X HPUS gum or tooth sensitivity "HPUS" is the Homeopathic Pharmacopoeia of the United States.
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><paragraph><content styleCode="bold"><content styleCode="italics">Active ingredient</content></content></paragraph></td><td><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Calcarea Phosphorica 6X HPUS</td><td>gum or tooth sensitivity</td></tr></tbody></table>
+indications_and_usage:
+  Uses ■ Helps temporarily relieve gum or tooth sensitivity
+warnings:
+  Warnings Stop use and ask a doctor if ■ symptoms persist for more than 7 days or worsen. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist. ■ swelling increases; nasal congestion, rash or fever is present or develops. ■ irritation, pain or redness persists or worsens. If pregnant or breastfeeding Ask a health professional before use. Keep out of reach of children.
+stop_use:
+  Stop use and ask a doctor if ■ symptoms persist for more than 7 days or worsen. Sensitive teeth may indicate a serious problem that may need prompt care by a dentist. ■ swelling increases; nasal congestion, rash or fever is present or develops. ■ irritation, pain or redness persists or worsens.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding Ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions ■ Use as directed. ■ Adults and children 6 years and over: Dissolve 1 tablet under tongue 3 times per day.
+inactive_ingredient:
+  Inactive ingredients Acacia Gum, Lactose.
+questions:
+  Questions? www.hylands.com or care@hylands.com
+when_using:
+  DO NOT USE IF TAMPER-EVIDENT SEAL IS BROKEN OR MISSING.
+recent_major_changes:
+  Indications and Usage (Uses) update to (add bullet): Helps temporarily relieve gum or tooth sensitivity
+package_label_principal_display_panel:
+  Principal Display Panel Hyland's CELL SALT #2 CALC PHOS 6X Gum & Tooth Sensitivity* 100 QUICK-DISSOLVING SINGLE TABLET DOSES HOMEOPATHIC CAPH6X--T100 CTN
+set_id:
+  dbef661a-26e9-7c2b-e053-2995a90a80e0
+id:
+  265b81a7-40db-5907-e063-6394a90aa383
+effective_time:
+  20241107
+version:
+  4
+openfda:
+  brand_name:
+    CALC PHOS 6X
+  generic_name:
+    TRIBASIC CALCIUM PHOSPHATE
+  manufacturer_name:
+    Hyland's Inc.
+  product_ndc:
+    54973-4088
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TRIBASIC CALCIUM PHOSPHATE
+  spl_id:
+    265b81a7-40db-5907-e063-6394a90aa383
+  spl_set_id:
+    dbef661a-26e9-7c2b-e053-2995a90a80e0
+  package_ndc:
+    54973-4088-1
+  is_original_packager:
+    True
+  unii:
+    91D9GV0Z28

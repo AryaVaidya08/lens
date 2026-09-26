@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Axe Anarchy Dark Pomegrante and Sandalwood 48H Antiperspirant CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY STEARYL ALCOHOL PPG-14 BUTYL ETHER MINERAL OIL PEG-8 DISTEARATE ISOPROPYL PALMITATE LIMONENE, (+)- HIGH DENSITY POLYETHYLENE LINALOOL, (+/-)- COUMARIN BENZYL ALCOHOL ISOMETHYL-.ALPHA.-IONONE EUGENOL BENZYL SALICYLATE
+description:
+  AXE ANARCHY DARK POMEGRANATE & SANDALWOOD 48H ANTIPERSPIRANT - aluminum zirconium tetrachlorohydrex gly stick Axe Dark Temptation 48H Anti Sweat Antiperspirant
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (18.2 %)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings For external use only Do not use on broken skin Stop use if rash or irritation occurs Ask a doctor before use if you have kidney disease
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, PPG-14 Butyl Ether, Stearyl Alcohol, Isopropyl Palmitate, Mineral Oil, Hydrogenated Castor Oil, PEG-8 Distearate, Fragrance (Parfum), Polyethylene, BHT, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Eugenol, Limonene, Linalool
+questions:
+  Questions? Call toll-free 1-800-450-7580
+package_label_principal_display_panel:
+  Packaging Axe Anarchy AP Stick
+set_id:
+  12122ff9-38ea-45f8-e063-6294a90a4796
+id:
+  12123a34-ebaa-65f8-e063-6394a90a51c0
+effective_time:
+  20240223
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Axe
+  generic_name:
+    ANARCHY DARK POMEGRANTE AND SANDALWOOD 48H ANTIPERSPIRANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2261
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    12123a34-ebaa-65f8-e063-6394a90a51c0
+  spl_set_id:
+    12122ff9-38ea-45f8-e063-6294a90a4796
+  package_ndc:
+    64942-2261-1
+    64942-2261-2
+    64942-2261-3
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

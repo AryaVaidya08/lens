@@ -1,0 +1,35 @@
+effective_time:
+  20181226
+inactive_ingredient:
+  Inactive Ingredient Purified Water
+instructions_for_use:
+  Uses Preparation of the skin prior to injection.
+purpose:
+  Purpose: Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For esternal use only. Flammable, keep away from fire of flame. Do not use With electrocautery procedures In the eyes Stop Use If irriration or redness develops. if condition persist for more than 72 hours, consult a doctor. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  First Aid Kit alcohol First Aid Kit Alcohol Pad alcohol WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Wipe Injection site Vigorously and discard.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop Use If irriration or redness develops. if condition persist for more than 72 hours, consult a doctor.
+do_not_use:
+  Do not use With electrocautery procedures In the eyes
+package_label_principal_display_panel:
+  Labels image description image description image description
+indications_and_usage:
+  
+set_id:
+  45700112-2458-119a-e054-00144ff88e88
+id:
+  7dec8140-064c-88ba-e053-2a91aa0a1302
+active_ingredient:
+  Active Ingredient Isoprophyl Alcohol 70%

@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Panadol Cold and Flu NonDrowsy acetaminophen and phenyleprine HCl CROSPOVIDONE (120 .MU.M) D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED STARCH, CORN STEARIC ACID SUCRALOSE TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE PAN;CF
+active_ingredient:
+  Active ingredients (in each caplet) Acetaminophen 325 mg Phenylephrine HCl 5 mg
+purpose:
+  Purposes Pain reliever/Fever reducer Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold or flu: nasal congestion stuffy nose sore throat headache sinus congestion and pressure minor aches and pains temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea or vomiting, ask a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease diabetes heart disease high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommend dosage Stop use and ask a doctor if you get nervous, dizzy or sleepless pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if you have liver disease diabetes heart disease high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recommend dosage
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy or sleepless pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning) adults and children 12 years of age and over: take 2 caplets every 4 hours, while symptoms persist or as directed by a doctor do not take more than 12 caplets in 24 hours, unless directed by a doctor children under 12 years of age: ask a doctor swallow whole – do not crush, chew or dissolve
+other_safety_information:
+  Other information store below 25°C (77°F)
+inactive_ingredient:
+  Inactive ingredients crospovidone, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, FD&C red no. 40 aluminum lake, flavor, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, silicon dioxide, sodium starch glycolate, stearic acid, sucralose, talc, titanium dioxide
+package_label_principal_display_panel:
+  Principal Display Panel NDC 0135-7031-01 Panadol COLD+FLU NON-DROWSY ACETAMINOPHEN Pain Reliever/Fever Reducer PHENYLEPHRINE HCl Nasal Decongestant 50 PACKETS 2 CAPLETS PER PACKET TAMPER-EVIDENT FEATURE: This product is protected in a sealed blister. Do not use if blister or printed foil is broken. READ AND KEEP CARTON FOR COMPLETE INFORMATION Trademarks are owned by or licensed to the GSK group of companies. Distributed by: GSK Consumer Healthcare Warren, NJ 07059 ©2022 GSK group of companies or its licensor. 000079491 Front Carton Panadol Cold and Flu 50 packets
+set_id:
+  fa0ce51f-441d-4409-8617-b3402b00f187
+id:
+  1cbe5e2d-4776-3d99-e063-6294a90a10a9
+effective_time:
+  20240708
+version:
+  4
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Panadol Cold and Flu NonDrowsy
+  generic_name:
+    ACETAMINOPHEN AND PHENYLEPRINE HCL
+  manufacturer_name:
+    Haleon US Holdings LLC
+  product_ndc:
+    0135-7031
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1046378
+  spl_id:
+    1cbe5e2d-4776-3d99-e063-6294a90a10a9
+  spl_set_id:
+    fa0ce51f-441d-4409-8617-b3402b00f187
+  package_ndc:
+    0135-7031-01
+    0135-7031-02
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D
+    04JA59TNSJ

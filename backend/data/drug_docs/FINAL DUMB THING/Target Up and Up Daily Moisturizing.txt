@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  Target Up and Up Daily Moisturizing Dimethicone DIMETHICONE DIMETHICONE POLYQUATERNIUM 37 (200 MPA.S) BEHENTRIMONIUM CHLORIDE WATER GLYCERIN CETOSTEARYL ALCOHOL PETROLATUM ISOPROPYL PALMITATE CETYL ALCOHOL OATMEAL BENZYL ALCOHOL SODIUM CHLORIDE
+active_ingredient:
+  Active ingredients Dimethicone 1.2%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+when_using:
+  Do not use • deep or puncture wounds • animal bites • serious burns
+do_not_use:
+  When using this product • keep out of eyes. Rinse with water to remove.
+ask_doctor:
+  Stop use and ask a doctor if • condition worsens • symptoms last more than seven days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed to hands or body when skin feels dry or irritated
+other_safety_information:
+  Other information may stain some fabrics
+inactive_ingredient:
+  Inactive ingredients avena sativa (oat) kernel flour, behenrimonium chloride, benzyl alcohol, cetearyl alcohol, cetyl alcohol, glycerin, isopropyl palmitate, petrolatum, polyquaterium-37, sodium chloride, water.
+package_label_principal_display_panel:
+  Label 82845E8F9
+set_id:
+  f118e0eb-1e66-50ab-e053-2995a90a2cb9
+id:
+  2475ef86-7ed0-734a-e063-6394a90a6ddd
+effective_time:
+  20241014
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Target Up and Up Daily Moisturizing
+  generic_name:
+    DIMETHICONE
+  manufacturer_name:
+    TARGET CORPORATION
+  product_ndc:
+    11673-087
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    876980
+  spl_id:
+    2475ef86-7ed0-734a-e063-6394a90a6ddd
+  spl_set_id:
+    f118e0eb-1e66-50ab-e053-2995a90a2cb9
+  package_ndc:
+    11673-087-18
+    11673-087-43
+    11673-087-98
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

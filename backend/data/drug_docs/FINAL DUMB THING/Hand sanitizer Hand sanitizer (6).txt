@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand sanitizer Hand sanitizer CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALCOHOL ALCOHOL GLYCERIN TROLAMINE PHENOXYETHANOL WATER
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75%.
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on skin.
+warnings:
+  Warnings Flammable.Keep away from fire or flame. For external use only.
+do_not_use:
+  
+when_using:
+  When using this product do not use in or near the eyes.In case of contact,rinse eyes thoroughly with water.Stop use and ask doctor if irritation or rash appears and lasts.Keep out of reach for children. If swallowed,get medical help or contact a Poison Control Center right away.
+stop_use:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions Place enough Product in your palm to thoroughly spread on both handsand rub into the skin until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other Information Store below 106°F.(41℃) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  INACTIVE INGREDIENTS Glycerin, Triethanolamine, Carbomer,Phenoxyethanol,Fragrance,Water(aqua)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 3 2 1
+set_id:
+  a317fccf-5468-5d03-e053-2a95a90ac2cf
+id:
+  aa4eea7d-3b48-bc58-e053-2a95a90ac733
+effective_time:
+  20200713
+version:
+  4
+openfda:

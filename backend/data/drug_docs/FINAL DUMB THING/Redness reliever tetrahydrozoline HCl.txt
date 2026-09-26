@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Redness reliever tetrahydrozoline HCl BORIC ACID SODIUM BORATE EDETATE DISODIUM BENZALKONIUM CHLORIDE SODIUM CHLORIDE WATER HYDROCHLORIC ACID TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE
+active_ingredient:
+  Active Ingredient Tetrahydrozoline HCl 0.5%
+purpose:
+  Purpose Redness reliever
+indications_and_usage:
+  Use for the relief of redness of the eye due to minor eye irritations
+warnings:
+  Warnings Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily overuse may cause more eye redness remove contact lenses before using do not use if this solution changes color or become cloudy do not touch tip of container to any surface to avoid contamination replace cap after each use Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product pupils may become enlarged temporarily overuse may cause more eye redness remove contact lenses before using do not use if this solution changes color or become cloudy do not touch tip of container to any surface to avoid contamination replace cap after each use
+stop_use:
+  Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Put 1 to 2 drops in the affected eye(s) up to 4 times daily children under 6 years of age: ask a doctor carton
+storage_and_handling:
+  Other information store between 15° to 25°C (59°F to 77°F)
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, hydrochloric acid, purified water, sodium borate, sodium chloride
+package_label_principal_display_panel:
+  package label Redness relief image of carton label
+set_id:
+  a304607a-c92c-4ee3-a59c-69d01401c4e8
+id:
+  f4eb549f-3dcd-7ab8-e053-2995a90a74c7
+effective_time:
+  20230217
+version:
+  3
+openfda:

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  SOFSKIN TRIPLE ANTIBIOTIC PLUS PAIN RELIEF BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B, PRAMOXINE HCL POLYMYXIN B SULFATE POLYMYXIN B PRAMOXINE HYDROCHLORIDE PRAMOXINE BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN WHITE PETROLATUM
+active_ingredient:
+  ACTIVE INGREDIENTS Bacitracin Zinc (500 units) Neomycin Sulfate 5 mg (equivalent to 3.5 mg Neomycin) Polymyxin B Sulfate (10,000 units) Pramoxine Hydrochloride (10 mg)
+purpose:
+  PURPOSE First aid antibiotic First aid antibiotic First aid antibiotic External analgesic
+indications_and_usage:
+  USES First aid to help prevent infection and for the temporary relief of pain in minor: cuts scrapes burns
+warnings:
+  WARNINGS For external use only. Do not use if you are allergic to any of the ingredients in the eyes over large areas of the body Ask a doctor before use if you have deep or puncture wounds, animal bites, or serious burns. Stop use and ask a doctor if you need to use longer than 1 week condition persists or gets worse symptoms persist for more than 1 week, or clear up and occur again within a few days rash or other allergic reaction develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  DIRECTIONS adults and children 2 years of age and older: clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage children under 2 years of age: ask a doctor
+other_safety_information:
+  OTHER INFORMATION do not use if seal on the tube is damaged or is not visible to open, unscrew cap, pull tab to remove foil seal store at 20° to 25°C (68° to 77°F) avoid excessive heat and humidity see crimp of tube or carton for Lot Number and Expiry Date
+inactive_ingredient:
+  INACTIVE INGREDIENT WHITE PETROLATUM
+package_label_principal_display_panel:
+  LABEL UC-FRONT UC-BACK
+set_id:
+  1d4dac91-a044-77e7-e063-6294a90ab497
+id:
+  47d50c97-df5f-6ebb-e063-6294a90ae702
+effective_time:
+  20260107
+version:
+  4
+openfda:

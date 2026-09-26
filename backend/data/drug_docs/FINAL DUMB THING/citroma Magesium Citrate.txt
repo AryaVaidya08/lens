@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  citroma Magesium Citrate MAGNESIUM CITRATE MAGNESIUM CATION CITRIC ACID MONOHYDRATE LEMON OIL POLYETHYLENE GLYCOL, UNSPECIFIED WATER SODIUM BICARBONATE SACCHARIN SODIUM SUCROSE
+active_ingredient:
+  Active ingredient Magnesium citrate 1.745g per fl oz
+purpose:
+  Purpose Saline laxative
+indications_and_usage:
+  use for relief of occasional constipation (irregularity). Generally produces bowel movement in 1/2 to 6 hours
+warnings:
+  Warnings for this product
+do_not_use:
+  Do Not use if you are on a low salt diet
+ask_doctor:
+  Ask A Doctor before use if you have kidney disease a magnesium or sodium restricted diet abdorominal pain, nausea, or vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks already used a laxative for a period longer than 1 week
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. Laxatives may affect how other drugs work.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  if pregnant or breast-feeding ask help professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions drink a full glass (8 ounces) of liquid with each dose may be taken as a single daily dose or in divided doses adults and children 12 years of age and over - 6.5 to 10 fl oz in 24 hours children 6 to under 12 years of age - 3 to 7 fl oz maximum 7 fl oz in 24 hours children 2 to under 6 years of age - 2 to 3 fl oz children under 2 years of age - ask a doctor discard unused product within 24 hours of opening bottle
+other_safety_information:
+  other information magnesium content 290 mg per 1 fl oz (30 mL) sodium content 48 mg per 1 fl oz (30 mL) store at temperatures between 46º and 86º F (8º and 30º C)
+inactive_ingredient:
+  Inactive ingredients citric acid, lemon oil, polyethylene glycol, prified water, sodium bicarbonate, sodium saccharin, sucrose
+adverse_reactions:
+  Adverse Reaction Manufactured by Vi-Jon, Inc., One Swan Dr., Smyrna, TN 37167 Shopko Sotres Operting Co. LLC www.shopko.com For Consumer Questions call 1-888-593-0593
+package_label_principal_display_panel:
+  principal display panel SHOPKO Lemon Flavor Magnesium Citrate Oral Solution Saline Laxative For Fast Relief of Occasional Constipation Do not us if tamperevident twist-0ff cap is missing, broken or separated from neckring 10 FL OZ (296 mL) image description
+set_id:
+  f0c17838-495c-4e78-b0fa-03f3629e949e
+id:
+  8facc9ef-e6d3-4081-88fd-c1d5245373b6
+effective_time:
+  20220816
+version:
+  14
+openfda:

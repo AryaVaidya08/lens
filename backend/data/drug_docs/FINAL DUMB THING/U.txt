@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  U INSTANT HAND SANITIZER LAVENDER 8OZ Ethyl Alcohol FD&C BLUE NO. 1 D&C RED NO. 33 PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE LAVANDULA ANGUSTIFOLIA FLOWER CARBOMER 934 TRIETHANOLAMINE BENZOATE GLYCERIN WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Drug Facts Active Ingredient Ethyl Alcohol 62 percent
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on skin.
+warnings:
+  WARNINGS Flammable. Keep away from fire or flame. For external use only.
+when_using:
+  When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach for children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough Product in your palm to thoroughly spread on both hands and rub into the skin until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other Information: Store below 106 Fahrenheit (41 Degree Celsius) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water (Aqua), Lavandula Angustufolia (Lavender) Flower Extract, Carbomer, Fragrance, Glycerin, Propylene Glycol, Triethanolamine, Tocopheryl Acetate, FD&C Blue No. 1, D&C Red No.33.
+package_label_principal_display_panel:
+  label
+set_id:
+  a8b7eb00-86a4-368b-e053-2995a90ae7af
+id:
+  a8b7eb00-86a5-368b-e053-2995a90ae7af
+effective_time:
+  20200501
+version:
+  1
+openfda:

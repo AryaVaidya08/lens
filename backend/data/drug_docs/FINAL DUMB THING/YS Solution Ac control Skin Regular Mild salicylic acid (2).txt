@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  YS Solution Ac control Skin Regular Mild salicylic acid WATER ALCOHOL BUTYLENE GLYCOL ARGININE ALLANTOIN GLYCYRRHIZINATE DIPOTASSIUM CHLORELLA VULGARIS WITCH HAZEL ZINC HOUTTUYNIA CORDATA FLOWERING TOP ALOE VERA LEAF SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  a
+inactive_ingredient:
+  a
+purpose:
+  a
+keep_out_of_reach_of_children:
+  a
+indications_and_usage:
+  a
+warnings:
+  a
+dosage_and_administration:
+  Apply Proper Amount of the toner on the skin.
+package_label_principal_display_panel:
+  package label
+set_id:
+  c302c6f9-87cb-41c8-8db2-c437ae99ad25
+id:
+  dce5a5b3-c5b0-35f6-e053-2a95a90a99c3
+effective_time:
+  20220417
+version:
+  2
+openfda:

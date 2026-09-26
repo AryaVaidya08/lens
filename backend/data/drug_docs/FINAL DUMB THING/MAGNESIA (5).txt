@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  MAGNESIA PHOSPHORICA Magnesium hydrogen phosphate MAGNESIUM PHOSPHATE, DIBASIC MAGNESIUM PHOSPHATE, DIBASIC LACTOSE SUCROSE
+active_ingredient:
+  Active Ingredient MAGNESIA PHOSPHORICA 12CH GR MAGNESIA PHOSPHORICA 15 CH GR MAGNESIA PHOSPHORICA 200K GR MAGNESIA PHOSPHORICA 30K GR MAGNESIA PHOSPHORICA 30CH GR MAGNESIA PHOSPHORICA 5CH GR MAGNESIA PHOSPHORICA 6CH GR
+purpose:
+  Indications For the temporary relief of cramp and pain
+warnings:
+  Warning: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose, sucrose.
+dosage_and_administration:
+  Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+questions:
+  QUESTIONS? 1-888-737-6925.
+indications_and_usage:
+  Indications For the temporary relief of cramp and pain Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken Homeopathic Remedy NDC : 62106-5145-4 MAGNESIA PHOSPHORICA Magnesium hydrogen phosphate 140 granules Indications For the temporary relief of cramp and pain 62106-5145
+set_id:
+  1194de8e-d51b-4315-e054-00144ff8d46c
+id:
+  06c0d0c7-4aee-7c72-e063-6294a90a63a7
+effective_time:
+  20231002
+version:
+  4
+openfda:

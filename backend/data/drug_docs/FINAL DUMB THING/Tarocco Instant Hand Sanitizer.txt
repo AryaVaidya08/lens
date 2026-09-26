@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Tarocco Instant Hand Sanitizer ALCOHOL WATER GLYCERIN CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) TOCOPHEROL SOYBEAN OIL HYDROLYZED JOJOBA ESTERS (ACID FORM) ALOE VERA LEAF ORANGE OLIVE OIL PHENOXYETHANOL AMINOMETHYLPROPANOL ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store below 110°F (43°C).
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 72% (v/v) Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses To help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product Avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop using and ask a doctor if Irritation or redness develop and lasts. Keep out of reach of children. In case of accidental ingestion, get medical help or contact a poison contol center immediately.
+when_using:
+  When using this product Avoid contact with eyes. If contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop using and ask a doctor if Irritation or redness develop and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a poison contol center immediately.
+dosage_and_administration:
+  Directions Squeeze a significant amount in your palm and rub hands until fully dry. Rinse free.
+inactive_ingredient:
+  Inactive ingredients Aqua (Water), Glycerin, Acrylates/ C10-30 Alkyl Crosspolymer, Tocopherol, Glycine Max (Soybean) Oil, Hydrolyzed Jojoba Esters, Parfum (Fragrance), Aloe Barbadensis Leaf Juice, Citrus Aurantinum Dulcis (Orange) Fruit Extract, Olea Europea (Olive) Fruit Oil, Phenoxyethanol, Aminomethyl Propanol
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  b452d8f8-e382-a47a-e053-2a95a90a114b
+id:
+  f7ab228a-4389-9793-e053-6394a90a8ddd
+effective_time:
+  20230324
+version:
+  2
+openfda:

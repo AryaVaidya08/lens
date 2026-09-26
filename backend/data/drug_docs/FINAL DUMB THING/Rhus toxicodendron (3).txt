@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Rhus toxicodendron Rhus toxicodendron SUCROSE TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Poison ivy; Muscle and joint pain; Eczema; Sprains; Cough; Flu: Inflammation
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 pellets by mouth, (ages 0 to 11, give 3 pellets) as needed or as directed by a health professional. Under age 2, crush/dissolve pellets in purified water. Sensitive persons begin with 1 pellet and gradually increse to full dose.
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Rhus toxicodendron 30c
+purpose:
+  OTC - PURPOSE SECTION Poison ivy; Muscle and joint pain; Eczema; Sprains; Cough; Flu: Inflammation
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: Gluten-free, non-GMO, organic beet-derived sucrose (lactose free) pellets
+questions:
+  QUESTIONS SECTION newtonlabs.net – Questions? 800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013
+warnings:
+  WARNINGS SECTION Warning: Keep out of reach of children. Do not use if tamper - evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding, ask a doctor before use.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding, ask a doctor before use.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+package_label_principal_display_panel:
+  PACKAGE LABEL package label
+set_id:
+  9e67cfa5-b944-f4a7-e053-2a95a90a38a8
+id:
+  2dd219e3-0d8a-34e6-e063-6394a90afb88
+effective_time:
+  20250210
+version:
+  2
+openfda:
+  brand_name:
+    Rhus toxicodendron
+  generic_name:
+    RHUS TOXICODENDRON
+  manufacturer_name:
+    Newton Laboratories, Inc.
+  product_ndc:
+    55714-9012
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TOXICODENDRON PUBESCENS LEAF
+  spl_id:
+    2dd219e3-0d8a-34e6-e063-6394a90afb88
+  spl_set_id:
+    9e67cfa5-b944-f4a7-e053-2a95a90a38a8
+  package_ndc:
+    55714-9012-1
+  is_original_packager:
+    True
+  upc:
+    0788199954587
+  unii:
+    6IO182RP7A

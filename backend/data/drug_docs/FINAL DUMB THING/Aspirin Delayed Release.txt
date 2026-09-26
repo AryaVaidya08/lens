@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  Aspirin Delayed Release Aspirin ANHYDROUS LACTOSE FERROSOFERRIC OXIDE CARNAUBA WAX SILICON DIOXIDE CROSCARMELLOSE SODIUM FD&C RED NO. 40 FD&C YELLOW NO. 6 FERRIC OXIDE YELLOW METHACRYLIC ACID - ETHYL ACRYLATE COPOLYMER (1:1) TYPE A CELLULOSE, MICROCRYSTALLINE POLYSORBATE 80 POTASSIUM HYDROXIDE PROPYLENE GLYCOL SHELLAC DIMETHICONE SODIUM HYDROXIDE SODIUM LAURYL SULFATE TALC TRIETHYL CITRATE ASPIRIN ASPIRIN PEACH L277
+active_ingredient:
+  Active ingredient (in each tablet) Aspirin 81 mg (NSAID*) *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose PAIN RELIEVER
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains for other uses, see your doctor, but do not use for more than 10 days without consulting your doctor because serious side effects may occur
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction, which may include: hives facial swelling shock asthma (wheezing) Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed
+do_not_use:
+  Do not use if you are allergic to aspirin or any other pain reliever/fever reducer
+ask_doctor:
+  Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma you have not been drinking fluids
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout, or arthritis taking any other drug under a doctor's care for any serious condition
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding feel faint have bloody or black stools vomit blood have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear ringing in the ears or a loss of hearing occurs
+pregnancy_or_breast_feeding:
+  IF pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions drink a full glass of water with each dose adults and children 12 years and over: take 4 to 8 tablets every 4 hours not to exceed 48 tablets in 24 hours unless directed by a doctor children under 12 years: consult a doctor
+storage_and_handling:
+  Other information store at 25°C (77°F) excursions permitted between 15°-30°C (59°-86°F) use by expiration date on package
+inactive_ingredient:
+  Inactive ingredients anhydrous lactose, black iron oxide, carnauba wax, colloidal silicon dioxide, croscarmellose sodium, FD-C red 40 aluminum lake, FD-C yellow 6 aluminum lake, iron oxide ochre, methacrylic acid copolymer, microcrystalline cellulose, polysorbate 80, potassium hydroxide, propylene glycol, shellac, simethicone, sodium hydroxide, sodium lauryl sulfate, triethyl citrate
+package_label_principal_display_panel:
+  ASPIRIN 81MG PEACH TABLETS 349R BULK LABEL
+set_id:
+  70d8ba6c-8dfe-402a-817d-22544141d160
+id:
+  7cff0ad4-677a-03f7-e053-2a91aa0af7ae
+effective_time:
+  20181214
+version:
+  3
+openfda:
+  application_number:
+    part343
+  brand_name:
+    Aspirin Delayed Release
+  generic_name:
+    ASPIRIN
+  manufacturer_name:
+    Time-Cap Labs, Inc
+  product_ndc:
+    49483-349
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ASPIRIN
+  rxcui:
+    308416
+  spl_id:
+    7cff0ad4-677a-03f7-e053-2a91aa0af7ae
+  spl_set_id:
+    70d8ba6c-8dfe-402a-817d-22544141d160
+  package_ndc:
+    49483-349-00
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    N0000008836
+    M0001335
+    N0000175722
+    N0000175578
+    N0000008832
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_pe:
+    Decreased Prostaglandin Production [PE]
+    Decreased Platelet Aggregation [PE]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+    Platelet Aggregation Inhibitor [EPC]
+  unii:
+    R16CO5Y76E

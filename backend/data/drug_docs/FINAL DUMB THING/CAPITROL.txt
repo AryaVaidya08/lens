@@ -1,0 +1,47 @@
+effective_time:
+  20130819
+precautions:
+  PRECAUTIONS Information for Patients Exercise care to prevent Capitrol from entering the eyes. If contact occurs, the patient should flush eyes with cool water. Discoloration of light-colored hair (e.g. blond, gray or bleached) may follow use of this preparation. Irritation and a burning sensation on the scalp and adjacent areas have been reported. Drug/Laboratory Test Interactions There is no known interference of Capitrol with laboratory tests. Carcinogenesis, Mutagenesis No long term studies in animals have been performed to evaluate the carcinogenic potential of Capitrol. Results of the in vitro Ames Salmonella/Microsome Plate test show that Capitrol does not demonstrate genetic activity and is considered non-mutagenic. Pregnancy Category C Animal reproduction studies have not been conducted with Capitrol. It is also not known whether Capitrol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Capitrol should be given to a pregnant woman only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Capitrol is administered to a nursing woman. Pediatric Use Specific studies to demonstrate the safety and effectiveness for use of Capitrol in children have not been conducted.
+description:
+  DESCRIPTION CAPITROL is an antibacterial shampoo containing 2% (w/w) chloroxine (each gram contains 20 mg chloroxine) suspended in a base of sodium octoxynol-2 ethane sulfonate, water, PEG-6 lauramide, dextrin, sodium lauryl sulfoacetate, sodium dioctyl sulfosuccinate, 1% benzyl alcohol, PEG-14M, magnesium aluminum silicate, fragrance, EDTA, and color. May contain citric acid to adjust pH. Chloroxine is a synthetic antibacterial compound that is effective in the treatment of dandruff and seborrheic dermatitis when incorporated in a shampoo. The chemical name of chloroxine is 5,7-dichloro-8-hydroxyquinoline. The chemical structure of chloroxine is: chloroxine chemical structure
+storage_and_handling:
+  Store at room temperature.
+indications_and_usage:
+  INDICATIONS AND USAGE Capitrol is indicated in the treatment of dandruff and mild to - moderately severe seborrheic dermatitis of the scalp. Clinical studies indicate that improvement may be observed after 14 days of therapy.
+set_id:
+  aae9e7f2-c7b8-5431-8265-7af04c18fc20
+id:
+  9cb19994-317d-476c-9a1c-4a595554e31c
+pediatric_use:
+  Pediatric Use Specific studies to demonstrate the safety and effectiveness for use of Capitrol in children have not been conducted.
+contraindications:
+  CONTRAINDICATIONS Capitrol is contraindicated in those patients with a history of hypersensitivity to any of the listed ingredients.
+warnings:
+  WARNINGS Capitrol should not be used on acutely inflamed (exudative) lesions of the scalp.
+pregnancy:
+  Pregnancy Category C Animal reproduction studies have not been conducted with Capitrol. It is also not known whether Capitrol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Capitrol should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Capitrol is administered to a nursing woman.
+spl_product_data_elements:
+  CAPITROL CHLOROXINE chloroxine chloroxine water ICODEXTRIN sodium lauryl sulfoacetate benzyl alcohol magnesium aluminum silicate EDETIC ACID CITRIC ACID MONOHYDRATE
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Shake well. Capitrol should be massaged thoroughly onto the wet scalp, avoiding contact with the eyes. Lather should remain on the scalp for approximately three minutes, then rinsed. The application should be repeated and the scalp rinsed thoroughly. Two treatments per week are usually sufficient.
+adverse_reactions:
+  ADVERSE REACTION One patient out of 225 in clinical studies was reported to have contact dermatitis.
+spl_unclassified_section:
+  © 1988, 1990 Westwood-Squibb Pharmaceuticals Inc. Buffalo, N.Y., U.S.A. 14213 A Bristol-Myers Squibb Company 03-2776-2
+how_supplied:
+  HOW SUPPLIED Capitrol shampoo contains 2% (w/w) chloroxine (20 mg chloroxine per gram) and is supplied in 110 g plastic bottles (NDC 0072-6850-04). Store at room temperature.
+information_for_patients:
+  Information for Patients Exercise care to prevent Capitrol from entering the eyes. If contact occurs, the patient should flush eyes with cool water. Discoloration of light-colored hair (e.g. blond, gray or bleached) may follow use of this preparation. Irritation and a burning sensation on the scalp and adjacent areas have been reported.
+package_label_principal_display_panel:
+  ----------------------------------------- REPRESENTATIVE PACKAGING Not Applicable - No Longer Marketed PDP Not Applicable
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Well controlled studies demonstrate Capitrol effectively reduces the excess scaling in patients with dandruff or seborrheic dermatitis. Though the cause of dandruff is not known, it is thought to be the result of accelerated mitotic activity in the epidermis. The presumed mechanism of action to reduce scaling would be to slow down the mitotic activity. The role of microbes in seborrheic dermatitis is not known; however, Staphylococcus aureus and Pityrosporon species are often present in increased numbers during the course of the disease. Chloroxine is antibacterial, inhibiting the growth of Gram-positive as well as some Gram-negative organisms. Antifungal activity against some dermatophytes and yeasts also has been shown. The absorption, metabolism and pharmacokinetics of Capitrol in humans have not been studied.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis No long term studies in animals have been performed to evaluate the carcinogenic potential of Capitrol. Results of the in vitro Ames Salmonella/Microsome Plate test show that Capitrol does not demonstrate genetic activity and is considered non-mutagenic.
+overdosage:
+  OVERDOSAGE The acute oral LD 50 in mice was found tobe 200 mg/kg and in rats 450 mg/kg. On the basis of these animal studies, Capitrol may be considered practically non-toxic.

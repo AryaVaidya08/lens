@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Clean Force Foam Hand Sanitizer Benzalkonium chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER ISOPROPYL ALCOHOL PROPYLENE GLYCOL FD&C RED NO. 40 FD&C BLUE NO. 1
+active_ingredient:
+  Active ingredient Benzalkonium chloride, 0.1%
+purpose:
+  Purpose Antiseptic handwash
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Do not use In eyes When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use In eyes
+when_using:
+  When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop
+ask_doctor:
+  Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wash hands to remove soil Dispense palmful Spread to cover hands, rub in well Air dry, do not rinse or towel dry
+references:
+  Other Information READ SAFETY DATA SHEET (SDS) BEFORE USING THIS PRODUCT EMERGENCY HEALTH INFORMATION: 1 800 328 0026. If located outside the United States and Canada, call collect 1 651 222 5352 (number is in the US).
+inactive_ingredient:
+  Inactive ingredients water (aqua), isopropyl alcohol, propylene glycol, FDC red 40, FDC blue 1
+questions:
+  Questions? call 1.866.444.7450
+package_label_principal_display_panel:
+  Principal Display Panel and Representative Label MONOGRAM ™ CLEAN FORCE ® CLEANING DISPOSABLES FOAM HAND SANITIZER 648499 Hand Care 8000180 25 FL OZ (750 mL) H16 Active Ingredient: Benzalkonium chloride 0.1% For questions or comments, call 1-866-444-7450. Distributed by: © 2015 Ecolab USA Inc PureForce All Rights Reserved 370 Wabasha Street North Made in U.S.A St. Paul, MN 55102 755506/7100/0115 image description
+set_id:
+  29bc0ea4-5fb1-4903-8ad9-4bd091da6b9e
+id:
+  d283cb9a-4040-45a2-94c2-499a4f6b5eee
+effective_time:
+  20230531
+version:
+  5
+openfda:

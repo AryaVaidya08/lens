@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  ST Geneve Advanced Hand Sanitizer ALCOHOL WATER GLYCERIN CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) AMINOMETHYLPROPANOL .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at 20°C (68° to 77°F). May discolor fabrics.
+active_ingredient:
+  Active ingredients Ethyl Alcohol 70% v/v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Hand sanitizer to help decrease bacteria on the skin. When water, soap & towel are not available. Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. Do not apply around eyes. Do not use in ears & mouth. When using this product, avoid contact with eyes. In case of contact flush eyes with water. Stop use and ask a doctor if redness or irritation develop and persist for more than 72 hours. Keep out of reach of children. Children must be supervised in use of this product.
+do_not_use:
+  Do not use in ears & mouth.
+when_using:
+  When using this product, avoid contact with eyes. In case of contact flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if redness or irritation develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children must be supervised in use of this product.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product. Briskly rub hands together until dry.
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Tocopheryl Acetate, Fragrance.
+questions:
+  Questions or Comments? Call 1-844-842-9169, M-F 8-5 CST
+package_label_principal_display_panel:
+  Package Labeling:1000ml Bottle
+  Package Labeling:532ml Bottle2
+  Package Labeling:221ml Bottle3
+  Package Labeling:60ml Bottle4
+  Package Labeling:100ml Bottle5
+set_id:
+  796f3014-c580-456e-b936-b34d214c4c05
+id:
+  d2cd06c0-cb8c-f8c7-e053-2995a90a411d
+effective_time:
+  20211210
+version:
+  10
+openfda:

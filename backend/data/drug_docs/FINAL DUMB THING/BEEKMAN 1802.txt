@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  BEEKMAN 1802 HAPPY PLACE Hand Sanitizer BENZALKONIUM CHLORIDE WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.1% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses When using this product, avoid contact with eyes. In case of eye contact flush eyes with water.
+warnings:
+  Warnings For external use only . When using this product, avoid contact with eyes. In case of eye contact flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray a small amount of product into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry
+inactive_ingredient:
+  Inactive ingredients Water, Cetrimonium Chloride, Laurtrimonium Chloride, Dihydroxyethyl Cocamine Oxide, Glycereth-17 Cocoate, Citric Acid
+package_label_principal_display_panel:
+  Product Label image description image description
+set_id:
+  abd3fb58-4529-4f4c-86f6-980ed3c90ee1
+id:
+  dd93c206-8f4c-5b2b-e053-2995a90a995a
+effective_time:
+  20220426
+version:
+  3
+openfda:

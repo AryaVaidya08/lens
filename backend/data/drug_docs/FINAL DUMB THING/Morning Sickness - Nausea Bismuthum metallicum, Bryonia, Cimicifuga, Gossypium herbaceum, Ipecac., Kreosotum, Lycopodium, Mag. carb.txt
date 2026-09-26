@@ -1,0 +1,31 @@
+effective_time:
+  20201201
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane alcohol 20%.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+purpose:
+  OTC - PURPOSE SECTION Formulated for associated symptoms such as dizziness, discomfort, indigestion, nausea, vomiting and loss of appetite.
+warnings:
+  WARNINGS SECTION Warning: Keep out of reach of children. Do not use ​if tamper-evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If ​pregnant or breast-feeding, ​ ask a doctor before use.
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Morning Sickness - Nausea Bismuthum metallicum, Bryonia, Cimicifuga, Gossypium herbaceum, Ipecac., Kreosotum, Lycopodium, Mag. carb., Nux vom., Pulsatilla, Sepia, Symphoricarpus racemosus, Tabacum, Zingiber, Chamomilla, Hydrastis, Iris versicolor ALCOHOL BISMUTH BISMUTH BRYONIA ALBA ROOT BRYONIA ALBA ROOT BLACK COHOSH BLACK COHOSH GOSSYPIUM HERBACEUM ROOT BARK GOSSYPIUM HERBACEUM ROOT BARK IPECAC IPECAC WOOD CREOSOTE WOOD CREOSOTE LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE MAGNESIUM CARBONATE CARBONATE ION STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PULSATILLA VULGARIS PULSATILLA VULGARIS SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE SYMPHORICARPOS ALBUS FRUIT SYMPHORICARPOS ALBUS FRUIT TOBACCO LEAF TOBACCO LEAF GINGER GINGER MATRICARIA RECUTITA MATRICARIA RECUTITA GOLDENSEAL GOLDENSEAL IRIS VERSICOLOR ROOT IRIS VERSICOLOR ROOT
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Adults, take 6 drops by mouth as needed or as directed by a health professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If ​pregnant or breast-feeding, ​ as a doctor before use.
+package_label_principal_display_panel:
+  PACKAGE LABEL package label
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Morning Sickness - Nausea ​: Formulated for associated symptoms such as dizziness, discomfort, indigestion, nausea, vomiting and loss of appetite.
+set_id:
+  6063a374-1839-3ae6-e053-2991aa0ae031
+id:
+  b56d6034-cac1-a9e2-e053-2a95a90aebf0
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Equal parts of Chamomilla 3x, Hydrastis 3x, Iris versicolor 3x, Bismuthum metallicum 15x, Bryonia 15x, Cimicifuga 15x, Gossypium herbaceum 15x, Ipecac. 15x, Kreosotum 15x, Lycopodium 15x, Mag. carb. 15x, Nux vom. 15x, Pulsatilla 15x, Sepia 15x, Symphoricarpus racemosus 15x, Tabacum 15x, Zingiber 15x.

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  YNOT Alcohol APG-1387 WATER BENZALKONIUM CHLORIDE N-ALKYL ETHYLBENZYL DIMETHYL AMMONIUM CHLORIDE (C12-C14) CETYLPYRIDINIUM CHLORIDE CHLORPHENESIN EDETATE DISODIUM ANHYDROUS GLYCERIN PROPYLENE GLYCOL ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Alcohol 75%v/v
+purpose:
+  Purpose Antiseptic
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Do not use In or near the eyes On open skin wounds or burns. When using this product Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if Irritation or rash occurs. These may be signs of a serious condition.
+indications_and_usage:
+  Uses For sanitizing to help reduce bacteria on the skin.
+dosage_and_administration:
+  Directions Gently pull back resealable label,remove and use wipe required. Reseal back after use to avoid evaporation of alcohol.
+spl_unclassified_section:
+  Other Information This product is insoluble in water, dispose of used wipes in trash. Do not flush into toilet. This product may discolour certain fabrics or surfaces.
+keep_out_of_reach_of_children:
+  keep out of reach of children Unless under adult supervision. If swallowed, medical get help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredient Alkyl polyglucoside, Aqua, Benzalkonium chloride, C12-14 Alkyl dimethyl ethylbenzyl ammonium chloride, Cetylpyridinium Chloride, Chlorphenesin, Disodium EDTA, Glycerin, Propylene glycol.
+package_label_principal_display_panel:
+  Product label image description
+set_id:
+  fd8d1237-6d26-43eb-9528-577005cb91c5
+id:
+  101631c5-890e-b9dd-e063-6294a90a5832
+effective_time:
+  20240129
+version:
+  3
+openfda:

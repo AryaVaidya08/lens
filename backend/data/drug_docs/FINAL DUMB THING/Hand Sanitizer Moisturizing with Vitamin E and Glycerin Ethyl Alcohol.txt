@@ -1,0 +1,29 @@
+effective_time:
+  20160919
+inactive_ingredient:
+  Inactive Ingredients Aqua (Water), Polysorbate 20, Carbomer, Isopropyl Alcohol, Triethanolamine, Glycerin, Disodium EDTA, Tocopheryl Acetate, Parfum, FD C Yellow 5, FD C Blue 1, Denatonium Benzoate.
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only. Flammable. Keep away from open flame and sources of heat. Keep out of reach of children. Children under 6 years of age should be supervised when using this product. Store between 59 and 86F. Avoid contact with eyes. If contact occurs, flush eyes thoroughly with water. Discontinue use and consult a physician if irritation develops or increases. In case of accidental ingestion contact your physician or a Poison Control Centre. Keep out of reach of children.
+spl_product_data_elements:
+  Hand Sanitizer Moisturizing with Vitamin E and Glycerin Ethyl Alcohol ALCOHOL ALCOHOL WATER POLYSORBATE 20 CARBOMER HOMOPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) ISOPROPYL ALCOHOL TROLAMINE GLYCERIN EDETATE DISODIUM ANHYDROUS .ALPHA.-TOCOPHEROL ACETATE FD&C YELLOW NO. 5 DENATONIUM BENZOATE FD&C BLUE NO. 1
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Put a small amount onto your palms and rub hands together until dry.
+  Dosage Use as needed
+package_label_principal_display_panel:
+  mm1
+  Label Label
+indications_and_usage:
+  Uses As needed as part of your daily cleansing routine.
+set_id:
+  70078957-6c3e-486d-a21b-ce04f966be4a
+id:
+  3cdd7d51-9bf6-34cb-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredient Ethyl Alcohol (62% W/W) Antiseptic

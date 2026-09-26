@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Marvel Captain America Hand Sanitizer 01 alcohol CARBOMER 940 AMINOMETHYLPROPANOL WATER ALCOHOL ALCOHOL DENATONIUM BENZOATE FD&C BLUE NO. 1 D&C RED NO. 33 LATHYRUS ODORATUS SEED
+description:
+  Drug Facts Marvel Captain America Hand sanitizer
+active_ingredient:
+  Active Ingredient Active Ingredient Purpose Ethyl Alcohol 62%（V/V） Antiseptic Use Hand sanitizer helps to reduce bacteria that potentially can cause disease.For use when soap and water are not available.
+purpose:
+  Use Hand sanitizer helps to reduce bacteria that potentially can cause disease.For use when soap and water are not available.
+  Use(s) To help reduce bacteria and germs on the skin.
+  Purpose Antiseptic
+warnings:
+  Warning For external use only,Flammable,Keep away from heat or flame. For external use only. Flammable, keep away from heat and flame. Discontinue if skin becomes irritated and ask a doctor . Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+warnings_and_cautions:
+  For external use only. Flammable, keep away from heat and flame.
+stop_use:
+  Discontinue if skin becomes irritated and ask a doctor .
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+  keep out of reach of children In case of accidental ingestion,seek professional assistant or contact a Poison Control Center immediately. Recommended for repeated use. use anywhere without water.
+dosage_and_administration:
+  Recommended for repeated use. use anywhere without water.
+inactive_ingredient:
+  Inactive ingredients Water(Aqua),Carbomer,Fragrance, Aminomethyl Propanol,Denatonium Benzoate,Blue 1,Red 33
+indications_and_usage:
+  Directions Put a thumbnail size smount in your palm and rub your hands together briskly until dry. Children under 6 years of age should be supervised when using this product Not recommended for infants. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin. Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+do_not_use:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin.
+cleaning:
+  Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+when_using:
+  When using this product Keep out of eyes,ears Do not inhale or ingest. In case of contact with eyes,flush thoroughly with water Avoid contact with broken skin.
+other_safety_information:
+  Other information Do not store above 100℉（38℃）. May discolor some fabrics. Harmful to wood finishes&plastics.
+package_label_principal_display_panel:
+  Marvel Captain America Hand sanitizer
+set_id:
+  ac7e25d5-560d-4ad0-e053-2995a90ae91e
+id:
+  ac7e25bc-6606-970a-e053-2995a90aa835
+effective_time:
+  20200809
+version:
+  24
+openfda:

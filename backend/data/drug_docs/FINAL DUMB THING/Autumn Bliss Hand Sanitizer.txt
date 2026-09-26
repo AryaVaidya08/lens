@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Autumn Bliss Hand Sanitizer Ethyl Alcohol WATER POLYETHYLENE GLYCOL 300 ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER (10000 MPA.S NEUTRALIZED AT 0.5%) FRAGRANCE CLEAN ORC0600327 ISOPROPYL MYRISTATE GLYCERIN ISOPROPYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE, DL- ALOE VERA LEAF FD&C YELLOW NO. 6 FD&C BLUE NO. 1 ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Ethyl Alcohol (70%)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For Personal hand hygiene to help prevent the spread of bacteria. Can be used in place of hand washing if soap and water are not available.
+warnings:
+  Warnings For External use only Flammable Keep away from source of heat or fire. When using this product Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Do not Inhale. Do not use on children less than 2 months of age on open skin wounds on broken or damaged skin Stop use and ask a doctor If Irritation or redness develops and lasts. Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Centre immediately
+when_using:
+  When using this product Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Do not Inhale.
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds on broken or damaged skin
+stop_use:
+  Stop use and ask a doctor If Irritation or redness develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Centre immediately
+dosage_and_administration:
+  Directions For occasional and personal use Rub thoroughly into hands for at least 30 seconds. Allow to dry Children under 6 years should be supervised when using this product
+storage_and_handling:
+  Other Information Store at a temperature below 110 0 F (43 0 C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), PEG-6, AMP-Acrylates/Vinyl Isodecanate Crosspolymer, Fragrance (Parfum), Isopropyl Myristate, Glycerin, Isopropyl Alcohol, Tocopheryl Acetate, Aloe Barbadensis Leaf Juice, Yellow 6 (Cl15985), Blue 1 (Cl42090)
+package_label_principal_display_panel:
+  Principal Display Panel Front Panel Back Panel
+set_id:
+  a259d254-52ae-4612-aa9e-a36480ad151a
+id:
+  515359ba-93f5-595c-e063-6294a90a6d75
+effective_time:
+  20260508
+version:
+  5
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Autumn Bliss Hand Sanitizer
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Apollo Health and Beauty Care
+  product_ndc:
+    63148-725
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    581662
+  spl_id:
+    515359ba-93f5-595c-e063-6294a90a6d75
+  spl_set_id:
+    a259d254-52ae-4612-aa9e-a36480ad151a
+  package_ndc:
+    63148-725-02
+  is_original_packager:
+    True
+  upc:
+    0030034943905
+  unii:
+    3K9958V90M

@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  ABSORBINE jr. PLUS Pain Relief MICRO Camphor, Menthol Menthol, Unspecified Form Menthol, Unspecified Form Camphor (synthetic) Camphor (Synthetic) Eucalyptus Globulus Leaf Methyl Salicylate Clove Oil carton
+active_ingredient:
+  Active Ingredient Purpose Camphor 7.0% Topical Analgesic Menthol 7.0% Topical Analgesic
+active_ingredient_table:
+  <table border="1" cellpadding="4" cellspacing="0" width="40%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active Ingredient</content></content></td><td align="right"><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Camphor 7.0%</td><td align="right">Topical Analgesic</td></tr><tr><td>Menthol 7.0%</td><td align="right">Topical Analgesic</td></tr></tbody></table>
+purpose:
+  Active Ingredient Purpose Camphor 7.0% Topical Analgesic Menthol 7.0% Topical Analgesic
+purpose_table:
+  <table border="1" cellpadding="4" cellspacing="0" width="40%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active Ingredient</content></content></td><td align="right"><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Camphor 7.0%</td><td align="right">Topical Analgesic</td></tr><tr><td>Menthol 7.0%</td><td align="right">Topical Analgesic</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves minor pain associated with: arthritis simple backache muscle strains sprains bruises
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product use only as directed do not bandage tightly or use with a heating pad avoid contact with eyes and mucous membranes do not apply to wounds or damaged, broken or irritated skin do not use at the same time as other topical analgesics
+stop_use:
+  Stop use and ask a doctor if condition worsens redness is present irritation develops symptoms persist for more that 7 days or clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children over 12 years: clean and dry the affected area apply to the affected area no more than 3 to 4 times daily use 1 patch for 8 to 12 hours, once a day children 12 years or younger: ask a doctor
+storage_and_handling:
+  Other information store at room temperature below 86ºF (30ºC)
+inactive_ingredient:
+  Inactive ingredients adhesive plaster, eucalyptus globulus leaf oil, gaultheria fragrantissima (wintergreen) oil, clove (syzygum aromaticum) flower oil
+questions:
+  Questions? Call 1-844-922-7672
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Lasts Up to 12 Hours! NEW! Absorbine jr. ® Plus Pain Relief MICRO PATCH 7% Menthol, 7% Camphor Deep Penetrating Targeted Pain Relief • Sweat Proof Technology to Stay in Place Securely • Lasts up to 12 Hours 60 Patches Medicated Patch 2.55 × 1.65 in (65mm × 42mm) ◎ Back ◎ Neck ◎ Arm ◎ Hand & Wrist Absorbine Jr. Plus Targeted Micro Patch Formula has a unique blend of pain relievers specially developed to provide deep penetrating relief in small, hard to reach places Distributed by: Absorbine jr. LLC 27070 Miles Rd., Suite A, Solon, OH 44139 Made in India NC/DL-378-A&U PR13460USA ©2021 www.absorbinejr.com 1000039
+set_id:
+  734b33c7-03a9-4348-9a43-660e4a56f06d
+id:
+  3dfc9420-a51b-40ae-8a3d-3757119fe4e7
+effective_time:
+  20241220
+version:
+  5
+openfda:

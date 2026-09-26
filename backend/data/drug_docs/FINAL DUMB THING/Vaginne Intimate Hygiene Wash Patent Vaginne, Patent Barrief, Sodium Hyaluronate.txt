@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Vaginne Intimate Hygiene Wash Patent Vaginne, Patent Barrief, Sodium Hyaluronate HYALURONATE SODIUM HYALURONIC ACID XANTHAN GUM LACTIC ACID LACTIC ACID EVENING PRIMROSE OIL YLANG-YLANG OIL HELICHRYSUM ITALICUM FLOWER OIL SORBITAN MONOLAURATE SORBITAN MONOLAURATE WATER
+active_ingredient:
+  Active ingredient (in each dosage unit) Purpose Patent Vaginne (30g/100mL) Skin conditioning Patent Barrief (10g/100mL) Emulsion stabilizing Sodium Hyaluronate (0.5g/100mL) Moisturizing label
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td>Active ingredient (in each dosage unit)</td><td>Purpose</td></tr><tr><td>Patent Vaginne (30g/100mL)</td><td>Skin conditioning</td></tr><tr><td>Patent Barrief (10g/100mL)</td><td>Emulsion stabilizing</td></tr><tr><td>Sodium Hyaluronate (0.5g/100mL)</td><td>Moisturizing</td></tr></tbody></table>
+description:
+  Uses Take an appropriate amount of product onto your palm and add water to create a lather. Gently cleanse your intimate skin and rinse off with water. Suitable for both men and women.
+  Directions The product can be used during daily shower. There is no restriction on daily usage, and it can be used whenever needed.
+keep_out_of_reach_of_children:
+  Warnings Please store in a cool, dry place to avoid sunlight, high temperatures and humidity. Please keep this product away from children.
+ask_doctor:
+  Ask a doctor before use if you have A history of allergies or adverse reactions to any of the ingredients in this product.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are Pregnant or those who been advised by a doctor to use feminine intimate products with caution.
+when_using:
+  When using this product This product uses a micro-foam formula.
+do_not_use:
+  Stop use and ask a doctor if Any physical or intimate discomfort, or obvious allergic reactions.
+other_safety_information:
+  Other information The natural plant-based materials used in this product are cultivated naturally. Slight differences in scent, color, and texture are normal phenomena. Please use it with peace of mind.
+inactive_ingredient:
+  Inactive ingredients Evening Primrose Oil Helichrysum Essential Oil Ylang Ylang Essential Oil Xanthan Gum Aqua
+questions:
+  Questions
+dosage_and_administration:
+  Uses Take an appropriate amount of product onto your palm and add water to create a lather. Gently cleanse your intimate skin and rinse off with water. Suitable for both men and women.
+warnings:
+  Warnings Please store in a cool, dry place to avoid sunlight, high temperatures and humidity. Please keep this product away from children.
+indications_and_usage:
+  Directions The product can be used during daily shower. There is no restriction on daily usage, and it can be used whenever needed.
+purpose:
+  Purpose Skin conditioning Emulsion stabilizing Moisturizing
+package_label_principal_display_panel:
+  Vaginne® Intimate Hygiene Wash Vaginne® Intimate Hygiene Wash product label
+set_id:
+  fca370da-e6c6-d0f4-e053-6394a90adddd
+id:
+  fca370da-e6c7-d0f4-e053-6394a90adddd
+effective_time:
+  20230526
+version:
+  1
+openfda:

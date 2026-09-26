@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  McD Foaming Antibacterial Hand CHLOROXYLENOL WATER POTASSIUM COCOATE HEXYLENE GLYCOL SODIUM SULFATE EDETATE SODIUM SODIUM LAURYL SULFATE GLYCERIN CITRIC ACID MONOHYDRATE COCO GLUCOSIDE GLYCERYL OLEATE METHYLCHLOROISOTHIAZOLINONE FD&C YELLOW NO. 5 METHYLISOTHIAZOLINONE FD&C RED NO. 4 CHLOROXYLENOL CHLOROXYLENOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information for additional information, see Safety Data Sheet (SDS) (586) 275-2646 Medical Emergency:
+active_ingredient:
+  Active ingredient Chloroxylenol 0.5% Purpose Antiseptic Handwash
+purpose:
+  Purpose Antiseptic Handwash
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Do not use In eyes When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop Stop use and ask a doctor if Skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use In eyes
+when_using:
+  When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop
+stop_use:
+  Stop use and ask a doctor if Skin irritation or redness occurs for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands and forearms. Apply palmful to hands and forearms. Scrub thoroughly. Rinse and dry.
+inactive_ingredient:
+  Inactive ingredients water (aqua), potassium cocoate, hexylene glycol, sodium sulfate, tetrasodium EDTA, sodium lauryl sulfate, glycerin, citric acid, coco-glucoside, glyceryl oleate, fragrance, methylchloroisothiazolinone, CI 19140 (FD&C Yellow No. 5), methylisothiazolinone,, CI 14700 (FD&C Red. No. 4)
+questions:
+  Questions? Call (586) 275-2646
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  c2215737-8e8f-4461-b38e-996c8c038507
+id:
+  4ffacf6f-be98-b787-e063-6394a90a9666
+effective_time:
+  20260421
+version:
+  7
+openfda:

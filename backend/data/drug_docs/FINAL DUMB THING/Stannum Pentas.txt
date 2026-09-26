@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Stannum Pentas Stannum Pentas 7X, 11X, 18X, 30X POTASSIUM SORBATE CITRIC ACID MONOHYDRATE WATER TIN TIN
+active_ingredient:
+  Stannum Metallicum (7X, 11X, 18X, 30X)
+purpose:
+  For constitutional treatments based on homeopathic and anthroposophic indications or as directed by your physician.
+indications_and_usage:
+  Use: For constitutional treatments based on homeopathic and anthroposophic indications or as directed by your physician.
+warnings:
+  Warnings: Consult your health care provider if symptoms persist more than 5 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+do_not_use:
+  TAMPER EVIDENT: Do not use if safety seal is broken before first use.
+dosage_and_administration:
+  Directions for Use: Place drops under tongue for 30 seconds. Adults 7 drops 3 times a day. Children 2-12 years, 7 drops 3 times a day. Under 2 years, consult your doctor. Use until symptoms are relieved or as directed by your health care provider.
+inactive_ingredient:
+  Other Ingredients: Citric Acid, Potassium Sorbate, Water
+questions:
+  Developed and Made by True Botanica, LLC 1005 Richards Rd., Suite D Hartland, WI 53029 800-315-8783 www.truebotanica.com
+package_label_principal_display_panel:
+  Principal Display Panel Stannum Pentas
+set_id:
+  557cee68-b53b-fb81-e063-6394a90a18eb
+id:
+  557cf570-b344-acde-e063-6294a90ac3b7
+effective_time:
+  20260630
+version:
+  1
+openfda:
+  brand_name:
+    Stannum Pentas
+  generic_name:
+    STANNUM PENTAS 7X, 11X, 18X, 30X
+  manufacturer_name:
+    True Botanica, LLC
+  product_ndc:
+    53645-2570
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TIN
+  spl_id:
+    557cf570-b344-acde-e063-6294a90ac3b7
+  spl_set_id:
+    557cee68-b53b-fb81-e063-6394a90a18eb
+  package_ndc:
+    53645-2570-6
+  is_original_packager:
+    True
+  unii:
+    387GMG9FH5

@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  TRIPROLIDINE HYDROCHLORIDE Triprolidine Hydrochloride CITRIC ACID MONOHYDRATE GLYCERIN METHYLPARABEN POTASSIUM SORBATE PROPYLENE GLYCOL PROPYLPARABEN WATER SUCRALOSE POTASSIUM CITRATE TRIPROLIDINE HYDROCHLORIDE TRIPROLIDINE AMMONIUM GLYCYRRHIZINATE TRIHYDRATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each 1 mL dropperful) Triprolidine HCl 0.938 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever (allergic rhinitis) or other upper respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes
+warnings:
+  Warnings Do not exceed recommended dosage. Ask a doctor before use if the child has a breathing problem such as emphysema or chronic bronchitis glaucoma Ask a doctor before use if the child is taking sedatives or tranquilizers When using this product excitability may occur, especially in children may cause drowsiness sedatives and tranquilizers may increase the drowsiness effect Stop use and ask a doctor if new symptoms occur Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if the child has a breathing problem such as emphysema or chronic bronchitis glaucoma Ask a doctor before use if the child is taking sedatives or tranquilizers
+when_using:
+  When using this product excitability may occur, especially in children may cause drowsiness sedatives and tranquilizers may increase the drowsiness effect
+stop_use:
+  Stop use and ask a doctor if new symptoms occur
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. ■ use only with enclosed dropper ■ do not use enclosed dropper for any other drug product ■ mL= milliliter ■ Professional Labeling: Take under guidance of Health Professionals. AGE DOSE Childen 4 to under 6 years of age: 1 dropperful (1.0 mL) every 4 to 6 hours, not to exceed 4 doses (4.0 mL) in 24 hours, or as directed by a Doctor. Children 2 to under 4 years of age ⅔ dropperful (0.67 mL) every 4 to 6 hours, not to exceed 4 doses (2.67 mL) in 24 hours, or as directed by a Doctor. Infants 4 months to under 2 years of age ⅓ dropperful (0.33 mL) every 4 to 6 hours, not to exceed 4 doses (1.33 mL) in 24 hours, or as directed by a Doctor.
+dosage_and_administration_table:
+  <table width="75%"><colgroup><col align="left" valign="top" width="45%"/><col align="left" valign="top" width="55%"/></colgroup><thead><tr><th styleCode="Lrule Rrule">AGE</th><th styleCode="Rrule">DOSE</th></tr></thead><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Childen 4 to under 6 years of age:</td><td styleCode="Rrule">1 dropperful (1.0 mL) every 4 to 6 hours, not to exceed 4 doses (4.0 mL) in 24 hours, or as directed by a Doctor.</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Children 2 to under 4 years of age</td><td styleCode="Rrule">&#x2154; dropperful (0.67 mL) every 4 to 6 hours, not to exceed 4 doses (2.67 mL) in 24 hours, or as directed by a Doctor.</td></tr><tr><td styleCode="Lrule Rrule">Infants 4 months to under 2 years of age</td><td styleCode="Rrule">&#x2153; dropperful (0.33 mL) every 4 to 6 hours, not to exceed 4 doses (1.33 mL) in 24 hours, or as directed by a Doctor.</td></tr></tbody></table>
+storage_and_handling:
+  Other Information store at room temperature 15-30°C (59-86°F) Tamper evident by foil seal under cap. Do not use if foil seal is missing or broken.
+inactive_ingredient:
+  Inactive ingredients bubble gum flavor, citric acid, glycerin, methylparaben, monoammonium glycyrrhizinate, potassium citrate, potassium sorbate, propylene glycol, propylparaben, purified water, sucralose
+questions:
+  Questions? Comments? Call 1-844-696-6627 9 a.m. - 5 p.m. CST.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton Do not use if foil seal under cap is missing or broken. Usual Dosage: See attached labeling for complete product information. store at °30-15C (°86-68F) KEEP OUT OF REACH OF CHILDREN. This product includes professional labeling for medical practioners only. Manufactured by: Monarch PCM, LLC. Fort Worth, TX 76118 PDP Drug Facts
+set_id:
+  91206c6e-f122-6a66-e053-2995a90afdc9
+id:
+  911fd39d-9c95-52ae-e053-2a95a90a13f3
+effective_time:
+  20230101
+version:
+  1
+openfda:

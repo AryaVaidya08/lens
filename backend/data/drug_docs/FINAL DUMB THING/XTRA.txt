@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  XTRA Benzalkonium Chloride SODIUM LAURETH SULFATE PHENOXYETHANOL DECYL GLUCOSIDE CITRIC ACID METHYLISOTHIAZOLINONE SODIUM BENZOATE BENZALKONIUM CHLORIDE BENZALKONIUM WATER
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for handwashing, to reduce bacteria on skin
+warnings:
+  Warnings For external use only. Keep out of reach of children Keep out of reach of children Do not use Do not use with chlorine bleach to avoid irritating fumes. Avoid contact with eyes. If eye contact occures fush thoroughly with water. Do not ingest Do not ingest. If ingested, drink plenty of water, contact a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children
+do_not_use:
+  Do not use Do not use with chlorine bleach to avoid irritating fumes.
+when_using:
+  Avoid contact with eyes. If eye contact occures fush thoroughly with water.
+ask_doctor_or_pharmacist:
+  Do not ingest Do not ingest. If ingested, drink plenty of water, contact a physician.
+storage_and_handling:
+  Store in a cool and dry pleace, and avoid direct sunlight.
+dosage_and_administration:
+  Directions Spray to wet hand. Scrub and rinse thoroughly.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua） Sodium Laureth Sulfate Decyl Glucoside Citric Acid Methylisothiazlione Phenoxyethanol Sodium Benzoate Fragrance
+package_label_principal_display_panel:
+  label
+set_id:
+  27df3fce-3958-d4ea-e063-6394a90a1785
+id:
+  2fb7059d-5d89-3836-e063-6394a90a976c
+effective_time:
+  20250306
+version:
+  2
+openfda:
+  application_number:
+    M003
+  brand_name:
+    XTRA
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Zhejiang Jifu Daily Chemical Co., Ltd.
+  product_ndc:
+    84987-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  spl_id:
+    2fb7059d-5d89-3836-e063-6394a90a976c
+  spl_set_id:
+    27df3fce-3958-d4ea-e063-6394a90a1785
+  package_ndc:
+    84987-001-01
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

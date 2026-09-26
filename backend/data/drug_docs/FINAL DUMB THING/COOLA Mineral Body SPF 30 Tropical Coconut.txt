@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  COOLA Mineral Body SPF 30 Tropical Coconut Zinc Oxide CAPRYLYL GLYCOL ACACIA SHEA BUTTER COCOA BUTTER MEDIUM-CHAIN TRIGLYCERIDES VANILLIN OPUNTIA FICUS-INDICA FLOWER CAPRYLHYDROXAMIC ACID ARACHIDYL GLUCOSIDE SODIUM STEAROYL GLUTAMATE COCO GLUCOSIDE BUTYLOCTYL SALICYLATE .GAMMA.-OCTALACTONE CAMELINA SATIVA SEED OIL COCONUT OIL CAESALPINIA SPINOSA RESIN MEADOWFOAM SEED OIL .GAMMA.-NONALACTONE MALTOL CETOSTEARYL ALCOHOL LAMINARIA DIGITATA LEVOMENOL CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) SAFFLOWER OIL MAURITIA FLEXUOSA FRUIT OIL BRASSICA RAPA SUBSP. OLEIFERA OIL CARTHAMUS TINCTORIUS (SAFFLOWER) OLEOSOMES DOCOSANOL WATER CITRIC ACID MONOHYDRATE ZINC OXIDE ZINC OXIDE ORANGE METHYL DIHYDROABIETATE HYALURONATE SODIUM GLYCERIN RASPBERRY SEED OIL SODIUM GLUCONATE ARACHIDYL ALCOHOL 2-HEXENAL, (2E)- ROSEMARY SUNFLOWER OIL AVOCADO OIL 2,6-DIMETHYL-5-HEPTENAL
+active_ingredient:
+  Zinc Oxide - 14.2%
+purpose:
+  Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if skin rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Shake well Apply liberally 15 minutes before sun exposure Reapply: • After 80 minutes of swimming or sweating. • Immediately after towel drying. • At least every 2 hours Sun Protection Measure : Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10 a.m. to 2 p.m. • Wear long-sleeved shirts, pants, hats, and sun glasses.
+inactive_ingredient:
+  Citrus Aurantium Dulcis (Orange) Fruit Water (ORGANIC), Cocos Nucifera (Coconut) Oil (ORGANIC), Butyloctyl Salicylate, Cetearyl Alcohol, Carthamus Tinctorius (Safflower) Seed Oil (ORGANIC), Methyl Dihydroabietate, Sodium Stearoyl Glutamate, Coco-Glucoside, Acacia Senegal Gum (ORGANIC), Caesalpinia Spinosa Gum (ORGANIC), Sodium Hyaluronate, Glycerin, Laminaria Digitata Extract (ORGANIC), Butyrospermum Parkii (Shea) Butter (ORGANIC), Theobroma Cacao (Cocoa) Seed Butter (ORGANIC), Bisabolol (ORGANIC), Rosmarinus Officinalis (Rosemary) Leaf Extract (ORGANIC), Helianthus Annuus (Sunflower) Seed Oil (ORGANIC), Mauritia Flexuosa Fruit Oil (ORGANIC), Limnanthes Alba (Meadowfoam) Seed Oil, Persea Gratissima (Avocado) Oil (ORGANIC), Rubus Idaeus (Raspberry) Seed Oil (ORGANIC), Brassica Campestris (Rapeseed) Seed Oil, Camelina Sativa Seed Oil, Opuntia Ficus-Indica Flower Extract, Carthamus Tinctorius (Safflower) Oleosomes, Caprylhydroxamic Acid, Caprylyl Glycol, Sodium Gluconate, Arachidyl Alcohol, Arachidyl Glucoside, Behenyl Alcohol, Capryloyl Glycerin/Sebacic Acid Copolymer, Water, Citric Acid, Gamma-Nonalactone, Gamma-Octalactone, Caprylic/Capric Triglyceride, Trans-2-hexenal, Vanillin, Maltol, Dimethyl Heptenal
+other_safety_information:
+  May stain fabrics Protect this product from excessive heat and direct sun
+questions:
+  Call 760-940-2125
+package_label_principal_display_panel:
+  2 1
+set_id:
+  eeb5d4f1-8cba-9ef6-e053-2a95a90a823f
+id:
+  29b70f22-a6e3-4c0b-e063-6294a90a8d1d
+effective_time:
+  20241220
+version:
+  4
+openfda:
+  application_number:
+    M020
+  brand_name:
+    COOLA Mineral Body SPF 30 Tropical Coconut
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    COOLA, LLC
+  product_ndc:
+    79753-053
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    29b70f22-a6e3-4c0b-e063-6294a90a8d1d
+  spl_set_id:
+    eeb5d4f1-8cba-9ef6-e053-2a95a90a823f
+  package_ndc:
+    79753-053-01
+    79753-053-02
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

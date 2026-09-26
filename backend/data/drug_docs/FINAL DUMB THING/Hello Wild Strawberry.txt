@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Hello Wild Strawberry Sodium fluoride SODIUM FLUORIDE FLUORIDE ION WATER GLYCERIN XYLITOL SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS POLOXAMER 407 PHOSPHORIC ACID POTASSIUM CITRATE
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Hello Products LLC Montclair, NJ 07042
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.05% (0.02% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use aids in the prevention of dental cavities.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 6 years of age and older: use once a day after brushing your teeth with a toothpaste vigorously swish 10 mL (2 teaspoonfuls) of rinse between your teeth for 1 minute and then spit out do not swallow the rinse do not eat or drink for 30 minutes after rinsing instruct children under 12 years of age in good rinsing habits (to minimize swallowing) supervise children as necessary until capable of using without supervision Children under 6 years of age: consult a dentist or doctor
+storage_and_handling:
+  Other information store at room temperature do not use if printed band around cap is broken or missing
+inactive_ingredient:
+  Inactive ingredients purified water, vegetable glycerin, xylitol, sodium phosphate monobasic, flavor, poloxamer 407, phosphoric acid, potassium citrate.
+questions:
+  Questions? 1-855-444-3556
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label naturally friendly ™ hello ® ADA Accepted American Dental Association ® kids fluoride rinse anticavity + no alcohol wild strawberry natural flavor rinses away stuff brushing misses. prevents cavities. tastes awesome. 16 FL OZ (1 PT) 473 mL 44949 PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+set_id:
+  e80a7eea-5de6-4096-b8b1-036afb38572c
+id:
+  37a39645-db26-46f7-9ee4-1401b240e112
+effective_time:
+  20250217
+version:
+  6
+openfda:
+  application_number:
+    M021
+  brand_name:
+    Hello Wild Strawberry
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Colgate-Palmolive Company
+  product_ndc:
+    35000-685
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    DENTAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    240698
+  spl_id:
+    37a39645-db26-46f7-9ee4-1401b240e112
+  spl_set_id:
+    e80a7eea-5de6-4096-b8b1-036afb38572c
+  package_ndc:
+    35000-685-10
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

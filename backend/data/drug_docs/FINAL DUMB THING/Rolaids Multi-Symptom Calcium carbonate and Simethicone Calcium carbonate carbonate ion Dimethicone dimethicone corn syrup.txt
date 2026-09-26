@@ -1,0 +1,43 @@
+effective_time:
+  20140331
+inactive_ingredient:
+  Inactive ingredients confectioner's sugar, corn syrup, corn syrup solids, FD&C red #40, flavors, glycerin, gum acacia, hydrogenated coconut oil, maltodextrin, sorbitol, soy lecithin, soy protein isolate, titanium dioxide
+purpose:
+  Active ingredients (in each chew) Purpose Calcium carbonate 1177 mg Antacid Simethicone 80 mg Antigas
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs. Do not take more than 6 chews in a 24-hour period, or use the maximum dosage for more than 2 weeks, except under the advice and supervision of a physician. Keep out of reach of children.
+when_using:
+  Do not take more than 6 chews in a 24-hour period, or use the maximum dosage for more than 2 weeks, except under the advice and supervision of a physician.
+questions:
+  Questions? call 1-800-223-0182
+spl_product_data_elements:
+  Rolaids Multi-Symptom Calcium carbonate and Simethicone Calcium carbonate carbonate ion Dimethicone dimethicone corn syrup FD&C red no. 40 glycerin acacia hydrogenated coconut oil maltodextrin sorbitol lecithin, soybean soy protein titanium dioxide Off-white Tropical Fruit
+ask_doctor:
+  Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs.
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions chew and swallow 2 to 3 chews, hourly if needed
+package_label_principal_display_panel_table:
+  <table width="50%"> <col width="20%" align="left" valign="top"/> <col width="38%" align="left" valign="top"/> <col width="42%" align="left" valign="top"/> <tbody> <tr styleCode="toprule"> <td> <content styleCode="bold italics">Relieves</content> </td> <td> <content styleCode="bold italics">&#x25B8;Heartburn &#x25B8;Acid Indigestion</content> </td> <td> <content styleCode="bold italics">&#x25B8;Bloating &amp;  Pressure from Gas</content> </td> </tr> </tbody> </table>
+spl_unclassified_section:
+  Drug Facts
+storage_and_handling:
+  Other information each chew contains: calcium 510 mg, magnesium 5 mg, sodium 2 mg contains soy store between 20-25° C (68-77° F) in a dry place do not use if pouch is torn or open see back panel of the pouch for lot number and expiration date
+active_ingredient_table:
+  <table width="75%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr styleCode="toprule"> <th> <content styleCode="italics">Active ingredients (in each chew)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="toprule"> <td>Calcium carbonate 1177 mg </td> <td>Antacid</td> </tr> <tr styleCode="botrule"> <td>Simethicone 80 mg</td> <td>Antigas</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NEW LOOK! Same Trusted Relief RESEALABLE BAG MULTI-SYMPTOM NDC 50580-750-12 Rolaids ® Antacid PLUS Anti-Gas Softchews FAST ACTING Relieves ▸Heartburn ▸Acid Indigestion ▸Bloating & Pressure from Gas 12 Chews Individually Wrapped Tropical Fruit Principal Display Panel
+indications_and_usage:
+  Uses relieves: heartburn sour stomach acid indigestion upset stomach due to these symptoms bloating, pressure, and discomfort commonly referred to as gas
+set_id:
+  acac6037-2bb5-4222-b348-d7e83d1dd90f
+id:
+  fc9a122b-10ef-40b4-aa87-740435344c1c
+purpose_table:
+  <table width="75%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr styleCode="toprule"> <th> <content styleCode="italics">Active ingredients (in each chew)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="toprule"> <td>Calcium carbonate 1177 mg </td> <td>Antacid</td> </tr> <tr styleCode="botrule"> <td>Simethicone 80 mg</td> <td>Antigas</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients (in each chew) Purpose Calcium carbonate 1177 mg Antacid Simethicone 80 mg Antigas

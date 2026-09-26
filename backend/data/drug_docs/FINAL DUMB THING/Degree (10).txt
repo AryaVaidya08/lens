@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Degree Motionsense Dry Spray Coconut and Hibiscus 48H Antiperspirant Deodorant PPG-14 BUTYL ETHER BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 ISOBUTANE DISTEARDIMONIUM HECTORITE MEDIUM-CHAIN TRIGLYCERIDES PROPANE BUTYLATED HYDROXYTOLUENE CARBOXYMETHYLCELLULOSE SODIUM PROPYLENE CARBONATE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE HYDRATED SILICA MALTODEXTRIN SILICON DIOXIDE SODIUM BENZOATE
+description:
+  DEGREE MOTIONSENSE DRY SPRAY COCONUT & HIBISCUS 48H ANTIPERSPIRANT DEODORANT - aluminum chlorohydrate aerosol, spray Degree Motionsense Dry Spray Coconut & Hibiscus 48H Antiperspirant Deodorant
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Chlorohydrate (23.3%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH • Keep away from face and mouth to avoid breathing in. • Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not expose to heat or store at temperatures above 120°F/50°C or in enclosed places that could overheat • Do not use on broken skin. Stop use if rash or irritation occurs. • Ask a doctor before using if you have kidney disease. • USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL. Help stop inhalation abuse. For information visit www.inhalant.org
+keep_out_of_reach_of_children:
+  • KEEP OUT OF REACH OF CHILDREN
+dosage_and_administration:
+  Directions For underarms use only
+inactive_ingredient:
+  Inactive ingredients Butane, Cyclopentasiloxane, I Hydrofluorocarbon 152a, Isobutane, PPG-14 Butyl Ether, Fragrance (Parfum), Disteardimonium Hectorite, Propane, BHT, Caprylic/Capric Triglyceride, Sodium Starch Octenylsuccinate, Propylene Carbonate, Maltodextrin, Hydrated Silica, Hydrolyzed Corn Starch Octenylsuccinate, Gelatin Crosspolymer, Silica, Cellulose Gum, Sodium Benzoate
+questions:
+  Questions? Call toll-free 1-866-334-7331
+package_label_principal_display_panel:
+  Packaging DegreeDrySprayCoconutHibiscusAPDeoAE
+set_id:
+  a911629b-e9c0-ee6f-e053-2995a90ab466
+id:
+  2690ba4f-75af-1da1-e063-6394a90a4f57
+effective_time:
+  20241110
+version:
+  4
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Degree
+  generic_name:
+    MOTIONSENSE DRY SPRAY COCONUT AND HIBISCUS 48H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco, Inc. d/b/a Unilever
+  product_ndc:
+    64942-1765
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM CHLOROHYDRATE
+  spl_id:
+    2690ba4f-75af-1da1-e063-6394a90a4f57
+  spl_set_id:
+    a911629b-e9c0-ee6f-e053-2995a90ab466
+  package_ndc:
+    64942-1765-1
+  is_original_packager:
+    True
+  unii:
+    HPN8MZW13M

@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Crane Safety Cherry Cough Drops MENTHOL MENTHOL MENTHOL FD&C RED NO. 40 CORN SYRUP EUCALYPTUS OIL SUCROSE P
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each drop) Menthol 7.6 mg
+purpose:
+  Purpose Antitussive (cough suppressant)/oral anesthetic
+indications_and_usage:
+  Uses Temporarily relieves cough as may occur with a cold or inhaled irritants occasional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. These symptoms may be serious.
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore mouth does not improve in 7 days irritation, pain, or redness persists or worsens
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+dosage_and_administration:
+  Directions do not use more than directed Adults and children: (12 years and older) Allow 1 drop to dissolve slowly in the mouth. May be repeated every 2 hours as necessary or as directed by a doctor. Children under 12 years: ask a doctor
+other_safety_information:
+  Other information 15 calories per drop store at 59-86°F (15°-30°C) protect from moisture & heat
+inactive_ingredient:
+  Inactive ingredients cherry flavor, corn syrup, eucalyptus oil, FD&C red #40 lake, sucrose
+questions:
+  Questions or comments? 877.506.4291
+package_label_principal_display_panel:
+  Crane Safety Cherry Cough Drops Label Cherry Cough Drops Cough Suppressant/Oral Anesthetic CRANE Safety® Pull to Open Menthol 7.6 MG 50/Box Individually Wrapped Lozenges 050B
+set_id:
+  9686778b-d436-a90c-e053-2995a90a0755
+id:
+  d6692a88-331d-71f2-e053-2a95a90a6f4c
+effective_time:
+  20220125
+version:
+  5
+openfda:

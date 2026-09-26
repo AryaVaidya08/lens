@@ -1,0 +1,33 @@
+effective_time:
+  20131205
+inactive_ingredient:
+  Inactive ingredients Water, Sodium Lauryl Sulfoacetate (and) Disodium Laurethsulfosuccinate, Sodium Cocoyl Sarcosinate, Cocamidopropyl PG-Dimonium Chloride Phosphate, Glycerine, Hexylene Glycol, PEG-75 Lanolin, Tetrasodium EDTA, Methylchloroisothiazolinone (and) Methylisothiazoline, Fragrance, Glutaral
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product If swallowed, seek medical attention. If eye contact occurs, flush eyes with water and contact a physician. Discontinue use if irritation and redness develop. If condition persists for more than 72 hours, consult a doctor.
+spl_product_data_elements:
+  Zep Professional Healthcare Worker Triclosan TRICLOSAN TRICLOSAN WATER SODIUM LAURYL SULFOACETATE DISODIUM LAURETH SULFOSUCCINATE SODIUM COCOYL SARCOSINATE COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE GLYCERIN HEXYLENE GLYCOL PEG-75 LANOLIN METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE GLUTARAL
+other_safety_information:
+  Other information Store at room temperature. Do not freeze.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Wet hands with water Place hands under dispenser Apply foamed soap Massage soap into hands and wrists, emphasizing back of hands, knuckles and cuticles Rinse thoroughly
+do_not_use:
+  Do not use in the eyes.
+package_label_principal_display_panel:
+  r210.jpg
+indications_and_usage:
+  Uses Hand washing to decrease bacteria on skin.
+set_id:
+  03db4236-f6e2-413e-8f43-e9e95b89d8c4
+id:
+  0ba7caaf-35b1-4923-8321-3d0c8bd777e5
+active_ingredient:
+  Active ingredient Triclosan 0.1%

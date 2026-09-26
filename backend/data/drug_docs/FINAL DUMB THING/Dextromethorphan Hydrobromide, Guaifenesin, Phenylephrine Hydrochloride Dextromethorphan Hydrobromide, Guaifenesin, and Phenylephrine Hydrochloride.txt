@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride Dextromethorphan Hydrobromide, Guaifenesin, and Phenylephrine Hydrochloride DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C YELLOW NO. 6 D&C YELLOW NO. 10 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A POTATO WP;198
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active ingredients (in each tablet) Purpose Dextromethorphan HBr 17.5mg Cough Suppressant Guaifenesin 385mg Expectorant Phenylephrine HCl 10mg Nasal Decongestant
+active_ingredient_table:
+  <table width="60%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each tablet)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Dextromethorphan HBr 17.5mg</td><td>Cough Suppressant</td></tr><tr><td>Guaifenesin 385mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 10mg</td><td>Nasal Decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each tablet) Purpose Dextromethorphan HBr 17.5mg Cough Suppressant Guaifenesin 385mg Expectorant Phenylephrine HCl 10mg Nasal Decongestant
+purpose_table:
+  <table width="60%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each tablet)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Dextromethorphan HBr 17.5mg</td><td>Cough Suppressant</td></tr><tr><td>Guaifenesin 385mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 10mg</td><td>Nasal Decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses Temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other upper respiratory allergies: cough due to minor throat and bronchial irritation helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes and make coughs more productive nasal congestion reduces swelling of nasal passages
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have a cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema a cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlargement of the prostate gland Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. new symptoms occur If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have a cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema a cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes trouble urinating due to enlargement of the prostate gland
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. new symptoms occur
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. Adults and children 12 years of age and over: 1 tablet every 4 hours, not to exceed 6 tablets in 24 hours. Children 6 to under 12 years of age: 1/2 tablet every 4 hours, not to exceed 3 tablets in 24 hours. Children under 6 years of age: Consult a doctor.
+dosage_and_administration_table:
+  <table width="50%" styleCode="Noautorules"><col width="45%" align="center" valign="middle"/><col width="55%" align="left" valign="middle"/><tbody><tr styleCode="Botrule"><td styleCode="Toprule Rrule">Adults and children 12 years of age and over:</td><td styleCode="Toprule">1 tablet every 4 hours, not to exceed 6 tablets in 24 hours.</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">Children 6 to under 12 years of age:</td><td>1/2 tablet every 4 hours, not to exceed 3 tablets in 24 hours.</td></tr><tr><td styleCode="Rrule">Children under 6 years of age:</td><td>Consult a doctor.</td></tr></tbody></table>
+storage_and_handling:
+  Other Information Store at 15°-30°C (59°-86°F) Supplied in a tight, light-resistant container with a child-resistant cap. Dextromethorphan HBr; Guaifenisan; Phenylephrine HCl tablets are orange, oblong, capsule shaped, scored tablets, debossed "WP" bisect "198" on one side and plain on the other.
+inactive_ingredient:
+  Inactive ingredients FD&C Yellow #6, D&C Yellow #10, Magnesium Stearate, Microcrystalline Cellulose, Sodium Starch Glycolate
+questions:
+  Questions? Comments? Call 1-844-221-7294
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Label NDC 69367-198-90 Dextromethorphan HBr Guaifenesin Phenylephrine HCl Cough Suppressant • Expectorant Nasal Decongestant Each tablet contains: Dextromethorphan HBr 17.5 mg Guaifenesin 385 mg Phenylephrine HCl 10 mg 90 Tablets Westminster Pharmaceuticals PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Label
+set_id:
+  5630060f-553a-442e-bc1e-8fa124993023
+id:
+  5eda0c05-7c22-4189-8594-7e5d39ac4c17
+effective_time:
+  20221212
+version:
+  4
+openfda:

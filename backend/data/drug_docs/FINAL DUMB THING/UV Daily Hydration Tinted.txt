@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  UV Daily Hydration Tinted octisalat and zinc oxide sunscreen OCTISALATE ETHYLHEXYL SALICYLATE ZINC OXIDE ZINC CATION WATER POLYETHER-1 (2800 MPA.S) PHENOXYETHANOL ETHYLHEXYLGLYCERIN PETROLATUM ETHYLHEXYL METHOXYCRYLENE TRIETHOXYCAPRYLYLSILANE BUTYLOCTYL SALICYLATE PONGAMIA PINNATA SEED OLETH-3 PHOSPHATE PEG-20 METHYL GLUCOSE SESQUISTEARATE DIMETHICONE ISOPROPYL PALMITATE CITRIC ACID CARNOSINE BISABOLOL ZINGIBER OFFICINALE (GINGER) ROOT OIL TOCOPHEROL CANOLA OIL SODIUM HYALURONATE .ALPHA.-TOCOPHEROL ACETATE, DL- HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) PEG-7 TRIMETHYLOLPROPANE COCONUT ETHER POLYISOBUTYLENE (1000 MW) CETEARYL ALCOHOL CETEARYL GLUCOSIDE OCTYLDODECYL NEOPENTANOATE OCTYL STEARATE FERRIC OXIDE YELLOW FERRIC OXIDE RED FERROSOFERRIC OXIDE tan
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a physician if rash occurs. If product is swallowed get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measure (See Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+purpose:
+  Purpose Sunscreen
+active_ingredient:
+  Active Ingredients Octisalate 5.0% Zinc Oxide 11.0%
+dosage_and_administration:
+  Directions Apply liberally to face and neck 15 minutes before sun exposure. Use a water resistant sunsccreen if swimming or sweating, reapply at least every 2 hours. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad-spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 am to 2 pm. Wear long-sleeve shirts, pants, hats, and sunglasses. Children under 6 months: ask a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children
+inactive_ingredient:
+  Inactive ingredients water, petrolatum, isopropyl palmitate, butyloctyl salicylate, ethylhexyl methoxycrylene, cetearyl alcohol, dimethicone, phenoxyethanol, oleth-3 phosphate, hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer, PEG-20 methyl glucose seesquistearate, polyisobutene, cetearyl glucoside, pongamia pinnata seed extract, octyldodecyl neopentanoate, ethylhexyl stearate, polyether-1, tocopheryl acetate, carnosine, ethylhexylglycerin, bisabolol, tocopherol, PEG-7 trimethylolpropaane cocunt ether, sodium hyaluronate, triethoxycaprylylsilane, zingier officinale (ginger) root extract, iron oxides
+other_safety_information:
+  Other infomration Protect this product from excessive heat and direct sun.
+questions:
+  Questions or Comments? Call toll free 1-800-663-8872
+package_label_principal_display_panel:
+  Labeling RM10974 Box UC EMD UV Daily Hydration+ Tinted
+set_id:
+  02e71602-13e1-43b3-9cba-a75e46cccacc
+id:
+  09093650-89f5-421a-b7e9-372a48f7fc16
+effective_time:
+  20260625
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    UV Daily Hydration Tinted
+  generic_name:
+    OCTISALAT AND ZINC OXIDE SUNSCREEN
+  manufacturer_name:
+    CP Skin Health Group, Inc
+  product_ndc:
+    72043-2816
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTISALATE
+    ZINC OXIDE
+  spl_id:
+    09093650-89f5-421a-b7e9-372a48f7fc16
+  spl_set_id:
+    02e71602-13e1-43b3-9cba-a75e46cccacc
+  package_ndc:
+    72043-2816-1
+    72043-2816-2
+  is_original_packager:
+    True
+  upc:
+    0827854022466
+  unii:
+    4X49Y0596W
+    SOI2LOH54Z

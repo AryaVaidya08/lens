@@ -1,0 +1,41 @@
+effective_time:
+  20170405
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, carboxymethylcellulose sodium, cellulose, citric acid, flavors, glycerin, high fructose corn syrup, purified water, red 33, red 40, sodium benzoate, sorbitol, xanthan gum
+purpose:
+  Purpose Pain reliever/fever reducer Cough Suppressant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Enter section text here
+warnings:
+  Warnings Sore throat warning Severe or persistent sore throat or sore throat accompanied by fever, headache, nausea, and vomiting may be serious. Consult physician promptly. Do not use more than 2 days or administer to children under 2 years of age unless directed by a physician.
+when_using:
+  When using this product • do not exceed recommended dosage (see overdose warning)
+spl_product_data_elements:
+  Childrens Plus Cough and Sore Throat Acetaminophen, DEXTROMETHORPHAN HYDROBROMIDE ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN SODIUM BENZOATE ACESULFAME POTASSIUM CARBOXYMETHYLCELLULOSE SODIUM CELLULOSE, MICROCRYSTALLINE CITRIC ACID MONOHYDRATE GLYCERIN WATER SORBITOL XANTHAN GUM FD&C BLUE NO. 1 D&C RED NO. 33 grape flavor
+ask_doctor:
+  Ask a doctor before use if the child has • chronic cough that lasts as occurs with asthma • cough that occurs with too much phlegm (mucus)
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • do not exceed recommended dosage (see overdose warning) • do not use in infants • shake well before using • if needed, repeat dose every 4 hours while symptoms last • do not give more than 5 times in 24 hours Weight (lb) Age (yr) Dose (tsp or mL) under 24 under 2 ask a doctor 24-47 2-5 1 teaspoon or 5 mL 48-95 6-11 2 teaspoons or 10 mL
+stop_use:
+  Stop use and ask a doctor if • new symptoms occur • fever gets worse or lasts for more than 3 days • redness or swelling is present • nervousness, dizziness or sleeplessness occurs • pain or cough gets worse or lasts for more than 5 days • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+spl_unclassified_section:
+  Other information • dosage cup provided • store at controlled room temperature
+do_not_use:
+  Do not use • in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product. • with any other acetaminophen containing products. This may lead to an overdose, which may cause liver damage. (see overdose warning)
+package_label_principal_display_panel:
+  Principal Display Panel Best Choice Childrens Plus Cough and Sore Throat Cherry Flavor Oral Suspension 4 FL OZ (118 mL) image of label
+indications_and_usage:
+  Uses • temporarily relieves the following cold/flu symptoms: • minor aches and pains • cough • headache • sore throat • temporarily reduces fever
+set_id:
+  32169fd2-3893-4b6e-8108-32a7c93708c0
+id:
+  c8531b60-96d7-422c-86d4-982857cc7688
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin.
+overdosage:
+  Overdose Warning Taking more than the recommended dose (overdose) could cause serious health problems, including liver damage. In case of overdose, get medical help or contact the Poison Control Center right away. Quick medical attention is critical even if you do not notice any signs or symptoms.
+active_ingredient:
+  Active ingredient Acetaminophen 160 mg Dextromethorphan HBr 5mg

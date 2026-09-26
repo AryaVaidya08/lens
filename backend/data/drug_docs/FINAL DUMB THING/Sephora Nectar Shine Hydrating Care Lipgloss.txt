@@ -1,0 +1,22 @@
+effective_time:
+  20131120
+inactive_ingredient:
+  Inactive Ingredients Polybutene, Triisostearin, Octyldodecanol, Disteardimonium Hectorite, Trimethylolpropane Triisostearate, Diisostearyl Malate, Silica Dimethyl Silylate, Bis-Diglyceryl Polyacyladipate-2, Propylene Carbonate,Mica, Dicalcium Phosphate, Polyethylene, Dipentaerythrityl Hexahydroxystearate, Dextrin Palmitate, Fragrance, Calcium Sodium Borosilicate, Propylparaben, Tocopheryl Acetate, Carthamus Tinctorius (Safflower) Seed Oil, Passiflora Edulis Seed Oil, Carica Papaya (Papaya) Fruit Extract, Citrus Grandis (Grapefruit) Fruit Extract, Tin Oxide, BHT, Calcium Aluminum Borosilicate, Silica +/- Titanium Dioxide, Iron Oxides, Carmine, Red 7 Lake, Red 6, Red 28, Blue 1 Lake, Yellow 6 Lake, Yellow 5 Lake
+warnings:
+  Warnings For external use only. Keep out of reach of children. Stop use and ask a doctor if rash or irritation develops and lasts. Minimal sun protection.
+package_label_principal_display_panel:
+  SephoraFrontPanel
+  SephoraBarCode
+  SephoraSticker
+  SephoraIngredients
+spl_product_data_elements:
+  Sephora Nectar Shine Hydrating Care Lipgloss SPF 8 Grape OCTINOXATE OCTINOXATE OCTINOXATE TRISTEARIN OCTYLDODECANOL MAGNESIUM ALUMINUM SILICATE TRIMETHYLOLPROPANE METYRAPONE TARTRATE PROPYLENE CARBONATE ANHYDROUS DIBASIC CALCIUM PHOSPHATE PROPYLPARABEN .ALPHA.-TOCOPHEROL ACETATE, D- SAFFLOWER OIL PASSIFLORA INCARNATA TOP PAPAYA GRAPEFRUIT STANNOUS CATION BUTYLATED HYDROXYTOLUENE SILICON DIOXIDE TITANIUM DIOXIDE FERRIC OXIDE RED INDIGOTINDISULFONATE SODIUM D&C RED NO. 7 D&C RED NO. 6 D&C RED NO. 28 FD&C BLUE NO. 1 FD&C YELLOW NO. 6 FD&C YELLOW NO. 5
+set_id:
+  bc256de6-95ba-46ad-8dee-a94ef5cba105
+id:
+  75d1aa48-80cc-4669-acb3-b4bf6fc0acb7
+openfda:
+version:
+  3
+active_ingredient:
+  Active Ingredient Octinoxate 2 percent

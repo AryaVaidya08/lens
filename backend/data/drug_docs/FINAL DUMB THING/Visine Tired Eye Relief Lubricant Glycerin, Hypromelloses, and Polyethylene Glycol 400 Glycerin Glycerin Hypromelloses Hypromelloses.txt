@@ -1,0 +1,44 @@
+effective_time:
+  20160323
+inactive_ingredient:
+  Inactive ingredients ascorbic acid, benzalkonium chloride, boric acid, dextrose, glycine, magnesium chloride, potassium chloride, purified water, sodium borate, sodium chloride, sodium citrate, sodium lactate, sodium phosphate dibasic
+purpose:
+  Active ingredients Purpose Glycerin 0.2% Lubricant Hypromellose 0.36% Lubricant Polyethylene glycol 400 1% Lubricant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product remove contact lenses before using do not use if this solution changes color or becomes cloudy do not touch tip of container to any surface to avoid contamination replace cap after each use Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product remove contact lenses before using do not use if this solution changes color or becomes cloudy do not touch tip of container to any surface to avoid contamination replace cap after each use
+questions:
+  Questions? call toll-free 888-734-7648 or 215-273-8755 (collect)
+spl_product_data_elements:
+  Visine Tired Eye Relief Lubricant Glycerin, Hypromelloses, and Polyethylene Glycol 400 Glycerin Glycerin Hypromelloses Hypromelloses Polyethylene Glycol 400 Polyethylene Glycol 400 Ascorbic Acid Benzalkonium Chloride Boric Acid Dextrose, Unspecified Form Glycine Magnesium Chloride Potassium Chloride Water Sodium Borate Sodium Chloride Sodium Citrate, Unspecified Form Sodium Lactate Sodium Phosphate, Dibasic
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions put 1 or 2 drops in the affected eye(s) as needed children under 6 years of age: ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Dist: Johnson & Johnson Healthcare Products Division of McNEIL-PPC, Inc., Skillman, NJ 08558 USA
+stop_use:
+  Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours
+storage_and_handling:
+  Other information store at 15° and 25°C (59° to 77°F)
+active_ingredient_table:
+  <table width="50%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Glycerin 0.2%</td> <td>Lubricant</td> </tr> <tr> <td>Hypromellose 0.36%</td> <td>Lubricant</td> </tr> <tr> <td>Polyethylene glycol 400 1%</td> <td>Lubricant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton Sterile Visine ® TIRED EYE Relief LUBRICANT EYE DROPS UP TO 10 HOURS COMFORT HYDROBLEND ® Soothes + revives tired, overworked eyes with HYDROBLEND ® moisturizers for up to 10 hours of comfort 1/2 FL OZ (15 mL) PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton
+indications_and_usage:
+  Uses for the temporary relief of burning, irritation, and discomfort due to dryness of the eye or exposure to wind or sun for protection against further irritation
+set_id:
+  2d3f9d75-72e8-47c9-bc73-eabc827b2a11
+id:
+  80803f2d-3bc0-4817-aee0-2d18ae916f33
+purpose_table:
+  <table width="50%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Glycerin 0.2%</td> <td>Lubricant</td> </tr> <tr> <td>Hypromellose 0.36%</td> <td>Lubricant</td> </tr> <tr> <td>Polyethylene glycol 400 1%</td> <td>Lubricant</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Glycerin 0.2% Lubricant Hypromellose 0.36% Lubricant Polyethylene glycol 400 1% Lubricant

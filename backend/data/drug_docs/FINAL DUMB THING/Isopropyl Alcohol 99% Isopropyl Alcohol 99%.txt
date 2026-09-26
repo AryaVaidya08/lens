@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Isopropyl Alcohol 99% Isopropyl Alcohol 99% ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+dosage_and_administration:
+  Topical
+inactive_ingredient:
+  Purified Water
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+active_ingredient:
+  Isopropyl Alcohol Anhydrous not less than 99% by volume.
+warnings:
+  Keep away from spark, heat, or flame
+indications_and_usage:
+  Use as a solvent for cleaning gums, shellac, and essential oils.
+purpose:
+  Solvent
+package_label_principal_display_panel:
+  Isopropyl Alcohol 99%
+set_id:
+  73800e50-580d-008d-e053-2a91aa0a0821
+id:
+  b6da0e20-2302-c362-e053-2995a90a3497
+effective_time:
+  20201219
+version:
+  6
+openfda:

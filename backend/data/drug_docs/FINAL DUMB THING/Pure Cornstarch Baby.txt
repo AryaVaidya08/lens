@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Pure Cornstarch Baby Corn Starch TRICALCIUM PHOSPHATE ALOE VERA LEAF .ALPHA.-TOCOPHEROL STARCH, CORN STARCH, CORN
+active_ingredient:
+  Active ingredient Corn Starch (Zea Mays) 99%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses gently absorbs excess moisture for soft, dry skin. helps protect against irritating friction, leaving your skin feeling cool and comfortable.
+warnings:
+  Warnings Avoid contact with eyes. For external use only. Do not use on broken skin. Keep powder away from child’s face to avoid inhalation, which can cause breathing problems. Close tightly after use.
+keep_out_of_reach_of_children:
+  Keep this product out of reach of children.
+dosage_and_administration:
+  Directions Shake powder into your hand and smooth onto skin.
+storage_and_handling:
+  Storage Store in a cool, dry place.
+inactive_ingredient:
+  Inactive ingredients Tricalcium Phosphate, Fragrance, Aloe Barbadensis Leaf Juice, Tocopheryl (Vitamin E).
+spl_unclassified_section:
+  Package/Label Principal Display Panel Pure Cornstarch Baby Powder Gently absorbs excess moisture for soft, dry skin Clinically Tested NET WT 15 OZ (425 g)
+package_label_principal_display_panel:
+  15 OZ Bottle Label Jar Label
+  22 OZ Bottle Label Jar Label
+set_id:
+  d0e9bd13-b568-4f7e-b036-8d23e71ad8bf
+id:
+  1480393c-df6e-05f5-e063-6294a90a3da7
+effective_time:
+  20240325
+version:
+  6
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Pure Cornstarch Baby
+  generic_name:
+    CORN STARCH
+  manufacturer_name:
+    Walgreen Company
+  product_ndc:
+    0363-0911
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    STARCH, CORN
+  spl_id:
+    1480393c-df6e-05f5-e063-6294a90a3da7
+  spl_set_id:
+    d0e9bd13-b568-4f7e-b036-8d23e71ad8bf
+  package_ndc:
+    0363-0911-15
+    0363-0911-24
+  is_original_packager:
+    True
+  unii:
+    O8232NY3SJ

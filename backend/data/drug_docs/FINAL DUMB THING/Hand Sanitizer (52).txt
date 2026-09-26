@@ -1,0 +1,37 @@
+effective_time:
+  20200331
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, purified water USP
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (81%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (1.45% v/v). Hydrogen peroxide (0.125% v/v). Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1.75L NDC: 74252-001-01 Front and Back label
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+set_id:
+  a22d98c9-7063-72fd-e053-2995a90a5340
+id:
+  a22d5924-bb80-537e-e053-2995a90a28c5
+active_ingredient:
+  Active Ingredient(s) Alcohol 81% v/v. Purpose: Antiseptic

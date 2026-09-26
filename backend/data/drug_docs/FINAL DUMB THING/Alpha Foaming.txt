@@ -1,0 +1,27 @@
+effective_time:
+  20121024
+inactive_ingredient:
+  Inactive Ingredients Water, Cocamine Oxide, Hydrogenated Starch Hydrolysate, Undeceth-7, Hydroxypropyl Methylcellulose, DMDM Hydantoin, Sodium Hydroxide, Citric Acid, Iodopropynyl Butylcarbamate
+purpose:
+  Purpose Skin Sanitizer
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings KEEP OUT OF REACH OF CHILDREN.
+spl_product_data_elements:
+  Alpha Foaming E-2 Benzethonium Chloride BENZETHONIUM CHLORIDE BENZETHONIUM WATER COCAMINE OXIDE UNDECETH-7 HYDROXYPROPYL METHYLCELLULOSE E5 [II] DMDM HYDANTOIN SODIUM HYDROXIDE CITRIC ACID MONOHYDRATE IODOPROPYNYL BUTYLCARBAMATE water-white, dispensed as a white foam
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Hands need not be washed prior to using. Enough foam should be dispensed to cover hands. Scrub thoroughly for at least 15 seconds with potable water. Repeat as needed.
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Use sanitizes hands
+set_id:
+  334eb38f-1d73-406c-86c0-19c9759f51fa
+id:
+  b5926ecc-73b8-42f3-a814-c014dbc537bb
+active_ingredient:
+  Active Ingredient Benzethonium Chloride 1.255

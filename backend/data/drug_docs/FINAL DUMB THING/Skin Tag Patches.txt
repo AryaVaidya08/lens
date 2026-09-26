@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Skin Tag Patches SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID REHMANNIA GLUTINOSA ROOT CAMELLIA SINENSIS SEED OIL CENTELLA ASIATICA TRITERPENOIDS TOCOPHEROL HYALURONIC ACID
+active_ingredient:
+  SALICYLIC ACID 2%
+purpose:
+  wart remover
+keep_out_of_reach_of_children:
+  Please keep out of reach of children.
+indications_and_usage:
+  for symptomatic treatment of skin tags
+warnings:
+  Please keep out of reach of children For external use only. Please clean your hands before use to ensure the best results from the product. Discontinue use if signs ofirritation or rash occur. Store in a cool and dry place
+dosage_and_administration:
+  1.Clean the area of skin tag and dry well. 2.Apply skin tag on desired area. 3.Leave it for a few hours or overnight 4.Replace the kin tag removal patches when it dries completely
+storage_and_handling:
+  Store in a cool and dry place. SHELF LIFE: 3 years
+inactive_ingredient:
+  Camellia Sinensis Seed Oil Rehmannia Glutinosa Extract Tocopherol Centella Asiatica Extract Hyaluronic Acid
+package_label_principal_display_panel:
+  label
+set_id:
+  196a77b6-8c9f-1947-e063-6394a90a7735
+id:
+  1b26856b-7087-7f14-e063-6394a90a715f
+effective_time:
+  20240618
+version:
+  2
+openfda:
+  application_number:
+    M028
+  brand_name:
+    Skin Tag Patches
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Dongkou County Hecheng Network Technology Co., Ltd.
+  product_ndc:
+    84288-002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    1546588
+  spl_id:
+    1b26856b-7087-7f14-e063-6394a90a715f
+  spl_set_id:
+    196a77b6-8c9f-1947-e063-6394a90a7735
+  package_ndc:
+    84288-002-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

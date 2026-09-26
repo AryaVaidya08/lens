@@ -1,0 +1,29 @@
+effective_time:
+  20170302
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+purpose:
+  INDICATIONS: For the temporary relief of symptoms related to Peptostrep infection including nasal or sinus congestion, earache, urinary tract infections, and Chronic Fatigue Syndrome.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+spl_product_data_elements:
+  Peptostrep Remedy Peptostreptococcus anaerobius, PEPTOSTREPTOCOCCUS ANAEROBIUS PEPTOSTREPTOCOCCUS ANAEROBIUS WATER ALCOHOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DES BIO NDC 43742-0436-1 HOMEOPATHIC PEPTOSTREP REMEDY 1 FL OZ (30 ml) Peptostrep Remedy
+indications_and_usage:
+  INDICATIONS: For the temporary relief of symptoms related to Peptostrep infection including nasal or sinus congestion, earache, urinary tract infections, and Chronic Fatigue Syndrome.
+set_id:
+  651f9de1-5546-45d3-80a2-24dfdea5e7e4
+id:
+  c626b374-4885-4393-befb-96cf6b2a2288
+active_ingredient:
+  ACTIVE INGREDIENTS: Peptostreptococcus Anaerobius 19X, 20X, 30X, 60X, 90X, 120X, 150X, 200X, 500X, 1000X.

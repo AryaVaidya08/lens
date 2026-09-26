@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  HAIR STIM Pediculus Capitis, Thyroidinum (Suis), Baryta Carbonica, Borax, Calcarea Carbonica, Cinchona Officinalis, Glandula Suprarenalis Suis, Hydrofluoricum Acidum, Mercurius Solubilis, Mezereum, Natrum Muriaticum, Phosphorus, Pulsatilla (Pratensis), Sepia, Silicea, Sulphur, Thuja Occidentalis, Vinca Minor PEDICULUS HUMANUS VAR. CAPITIS PEDICULUS HUMANUS VAR. CAPITIS THYROID, PORCINE SUS SCROFA THYROID BARIUM CARBONATE BARIUM CATION SODIUM BORATE BORATE ION OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND HYDROFLUORIC ACID FLUORIDE ION MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS DAPHNE MEZEREUM BARK DAPHNE MEZEREUM BARK SODIUM CHLORIDE CHLORIDE ION PHOSPHORUS PHOSPHORUS PULSATILLA PRATENSIS PULSATILLA PRATENSIS SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE SILICON DIOXIDE SILICON DIOXIDE SULFUR SULFUR THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG VINCA MINOR VINCA MINOR WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Pediculus Capitis 4X, Thyroidinum (Suis) 4C, 6C, Baryta Carbonica 30C, Borax 30C, Calcarea Carbonica 30C, Cinchona Officinalis 30C, Glandula Suprarenalis Suis 30C, Hydrofluoricum Acidum 30C, Mercurius Solubilis 30C, Mezereum 30C, Natrum Muriaticum 30C, Phosphorus 30C, Pulsatilla (Pratensis) 30C, Sepia 30C, Silicea 30C, Sulphur 30C, Thuja Occidentalis 30C, Vinca Minor 30C.
+purpose:
+  INDICATIONS: Hair loss, brittle, dry, falling out, premature greying, tangled in bunches.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 2 sprays orally twice daily, 5 days per week. Take at least 20 minutes before or after food and drink. Avoid caffeine and mint. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: Hair loss, brittle, dry, falling out, premature greying, tangled in bunches.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol.
+questions:
+  QUESTIONS: Manufactured for: The Wellness Center for Research and Education, Inc. 1237 S. Victoria Ave. Suite. 169 Oxnard, CA 93035
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: Dr. Theresa Dale's HOMEOPATHY Hair Stim ORAL FORMULA 1 FL. OZ. (30 ML) Hair Stim 1 oz
+set_id:
+  a7378cfe-9619-4f2e-872b-ef90fb07ce9e
+id:
+  6fe987e5-890b-4901-ad15-8adaf8138711
+effective_time:
+  20211102
+version:
+  4
+openfda:

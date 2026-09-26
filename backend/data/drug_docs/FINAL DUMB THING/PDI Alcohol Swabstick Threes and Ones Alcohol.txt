@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  PDI Alcohol Swabstick Threes and Ones Alcohol WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Isopropyl Alcohol 70% v/v
+purpose:
+  Antiseptic Use For preparation of the skin prior to an injection
+indications_and_usage:
+  Use For preparation of the skin prior to an injection
+warnings:
+  For external use only. Flammable, keep away from fire or flame. ___________________________________________________ Do not use with electrocautery procedures use in the eyes apply to irritated skin ___________________________________________________ Stop use if pain, irritation, redness, or swelling occurs, discontinue use and consult a physician.
+keep_out_of_reach_of_children:
+  keep out of reach of children
+spl_unclassified_section:
+  Store at room temperature 15-30 o C (59-86 o F)
+inactive_ingredient:
+  Purified water
+dosage_and_administration:
+  Dosage & Administration Use one Swabstick at a time.
+package_label_principal_display_panel:
+  Principal Display Panel PDI (R) Alcohol Swabstick (3's) and (1's) For Professional and Hospital Use Professional Disposables International, Inc. Orangeburg, NY 10962-1376 USA - 1800-999-6423 www.pdipdi.com Made in USA 1 Swabstick 50 Packets [1 Swabstick per Packet] 3 Swabsicks 25 Packets [3 Swabsticks per Packet] Packet Label Ones Box Label Ones Packet Label Threes Box Label Threes Image of Packet Label Ones Image of Box Label Ones Image of Packet Label Threes Image of Box Label Threes
+set_id:
+  2e489217-0557-4b79-bda0-e8e55284948c
+id:
+  434004c7-eba6-9e4d-e063-6394a90a7d8c
+effective_time:
+  20251110
+version:
+  3
+openfda:

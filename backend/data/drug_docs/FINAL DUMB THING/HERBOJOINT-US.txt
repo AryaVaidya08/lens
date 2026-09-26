@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  HERBOJOINT-US HERBOJOINT-US MENTHOL MENTHOL WATER PROPANEDIOL CYMBOPOGON CITRATUS LEAF CETOSTEARYL ALCOHOL GLYCERYL MONOSTEARATE JOJOBA OIL TROLAMINE GLYCERIN HEDYCHIUM SPICATUM ROOT ZANTHOXYLUM ARMATUM FRUIT GLUCONOLACTONE SODIUM BENZOATE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CETETH-10 STEARETH-30
+active_ingredient:
+  Active Ingredient Purpose Menthol 7.0% Topical Analgesic Cream
+purpose:
+  Purpose: Penetrating Pain Relief-Arthritis
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of muscles and joint associated with arthritis
+warnings:
+  Warnings For external use only. Avoid contact with the eyes. If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of ages: consult a physician.
+storage_and_handling:
+  Other information Store in a cool place. Protect from freezing and excessive heat.
+inactive_ingredient:
+  Inactive ingredients: Water, Propanediol, Cymbopogon Citratus Leaf Oil, Cetearyl Alcohol, Glyceryl Stearate, Simmondsia Chinensis (Jojoba) Seed Oil, Triethanolamine, Glycerin, Hedychium Spicatum Extract, Zanthoxylum Alatum Fruit Extract, Gluconolactone, Sodium Benzoate, Carbomer, Ceteth-10, Steareth-30.
+how_supplied:
+  Distributed By: Bordoloi Biotech, LLC., Bridgewater, NJ 08807 www.HerboJoint.com Made in India
+package_label_principal_display_panel:
+  cartonlabel tubelabel
+set_id:
+  15757500-8f0c-4a3d-980e-31bab1d5e746
+id:
+  6866f3ed-c00f-4cd1-bad5-bd441833ac95
+effective_time:
+  20210720
+version:
+  4
+openfda:

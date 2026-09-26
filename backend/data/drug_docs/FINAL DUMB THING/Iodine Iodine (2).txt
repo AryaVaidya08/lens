@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Iodine Iodine SODIUM IODIDE ALCOHOL WATER IODINE IODINE
+active_ingredient:
+  Active Ingredient Iodine tincture U.S.P. 100% (2% Iodine)
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Use First aid to help prevent skin infection in minor cuts scrapes burns
+warnings:
+  Warnings For external use only
+ask_doctor:
+  Ask a doctor if you have deep or puncture wounds, animal bites or serious burns
+when_using:
+  When using this product do not use in eyes or apply over large areas of the body do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the affected area apply a small amount on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first
+inactive_ingredient:
+  Inactive ingredients alcohol(47% v/v), purified water, sodium iodide
+spl_unclassified_section:
+  Other information product will stain skin and clothing
+  Manufactured by: Vi-Jon, Inc., St. Louis, MO 63114 Questions or Comments? 1-888-593-0593
+package_label_principal_display_panel:
+  Principal display panel moutain falls ™ iodine tincture u.s.p. first aid antiseptic For external use only CAUTION: POISON 1 FL OZ (30 mL) image description
+  Principal display panel FOR EXTERNAL USE ONLY Swan Iodine Tincture USP First Aid Antiseptic Caution: Poison 1 FL OZ (30 mL) image description
+set_id:
+  9ceedfda-a3cd-44ff-a09e-b2258bcc31cb
+id:
+  15472e82-bb41-d68b-e063-6394a90a89ab
+effective_time:
+  20240404
+version:
+  25
+openfda:

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Antiperspirant Deodorant Extra Dry Men ALUMINUM CHLOROHYDRATE GLYCERYL MONOSTEARATE WATER MEDIUM-CHAIN TRIGLYCERIDES POLYOXYL 20 CETOSTEARYL ETHER CETYL ALCOHOL ALOE VERA LEAF PHENOXYETHANOL CAPRYLYL GLYCOL CHLORPHENESIN PROPYLENE GLYCOL ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active Ingredient Aluminum Chlorohydrate 25% Purpose antiperspirant
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses: Reduces underarm perspiration
+warnings:
+  Warnings: Do not use on broken skin. Stop use an ask a doctor if rash or irritation occurs. Ask a doctor before use if you have kindney disease. Keep out of reach of children.
+do_not_use:
+  Do not use on broken skin.
+stop_use:
+  Stop use an ask a doctor if rash or irritation occurs. Ask a doctor before use if you have kindney disease.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions: Apply to underarms only.
+inactive_ingredient:
+  Inactive Ingredients: Water (Aqua/Eau), Glyceryl Stearate, Caprylic/Capric Triglyceride, Ceteareth-20, Cetereth-21, Cetyl Alcohol, Aloe Barbadensis Leaf Juice (Aloe Vera Gel from Aruba), Fragrance (Parfum), Phenoxyethanol, Caprylyl Glycol, Chlorphenesin, Propylene Glycol, Methylcellulose.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  30f98a0b-2bd3-4dae-b323-233ee207505f
+id:
+  54b07df0-2da6-b2b2-e063-6394a90a0f48
+effective_time:
+  20260620
+version:
+  5
+openfda:

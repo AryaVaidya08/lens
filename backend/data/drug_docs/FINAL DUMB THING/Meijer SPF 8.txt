@@ -1,0 +1,65 @@
+effective_time:
+  20160519
+inactive_ingredient:
+  Inactive ingredients Water, Diisopropyl Adipate, Mineral Oil, Propylene Glycol, Petrolatum, Polyglyceryl-3 Methylglucose Distearate, Caprylyl Glycol, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, VP/Eicosene Copolymer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea), Butter, Cocos Nucifera (Coconut) Oil, Glycine Soja (Soybean) Oil, Helianthus Annuus (Sunflower) Seed Oil, Disodium EDTA, Camellia Sinensis Leaf Extract, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Aloe Barbadensis Leaf Juice Powder, Panthenol, Daucus Carota Sativa (Carrot) Root Extract, Musa Sapientum (Banana) Fruit Extract, Phenoxyethanol, Methylparaben, Benzyl Alcohol, Propylparaben, Fragrance.
+purpose:
+  Purpose Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. May stain some fabrics.
+warnings:
+  Warnings Skin Cancer/Skin Aging Alert : Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to prevent sunburn, not skin cancer or early aging. For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. May stain some fabrics.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  Meijer SPF 8 AVOBENZONE, OCTOCRYLENE, OXYBENZONE AVOBENZONE AVOBENZONE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE WATER DIISOPROPYL ADIPATE MINERAL OIL PROPYLENE GLYCOL PETROLATUM CAPRYLYL GLYCOL CETYL ALCOHOL GLYCERYL MONOSTEARATE PEG-100 STEARATE TROLAMINE COCOA BUTTER SHEA BUTTER COCONUT OIL SOYBEAN OIL SUNFLOWER OIL EDETATE DISODIUM GREEN TEA LEAF SODIUM ASCORBYL PHOSPHATE .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF BANANA PHENOXYETHANOL METHYLPARABEN BENZYL ALCOHOL PROPYLPARABEN
+ask_doctor:
+  Stop use and ask a doctor if rash occurs.
+openfda:
+  application_number:
+    part352
+  brand_name:
+    Meijer SPF 8
+  generic_name:
+    AVOBENZONE, OCTOCRYLENE, OXYBENZONE
+  manufacturer_name:
+    Meijer Distribution Inc
+  product_ndc:
+    41250-360
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTOCRYLENE
+    OXYBENZONE
+  spl_id:
+    25f5a29f-8969-4a9e-b6c3-205ac6462049
+  spl_set_id:
+    cb9d12eb-6645-43f4-9f81-31af13c5c68d
+  package_ndc:
+    41250-360-57
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    5A68WGF6WM
+    95OOS7VE0Y
+version:
+  1
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours children under 6 months of age: Ask a doctor
+spl_unclassified_section:
+  Other information protect this product from excessive heat and direct sun
+do_not_use:
+  Do not use on damaged or broken skin.
+package_label_principal_display_panel:
+  Principal Display Panel NDC 41250-360-57 meijer Sunscreen lotion hypoallergenic moisturizing 8 SPF 8 Water Resistant (80 minutes) 10 Fl. Oz. (295 mL) Label
+indications_and_usage:
+  Uses helps prevent sunburn
+set_id:
+  cb9d12eb-6645-43f4-9f81-31af13c5c68d
+id:
+  25f5a29f-8969-4a9e-b6c3-205ac6462049
+active_ingredient:
+  Active Ingredients AVOBENZONE 0.9%, OCTOCRYLENE 2.0%, OXYBENZONE 1.5%

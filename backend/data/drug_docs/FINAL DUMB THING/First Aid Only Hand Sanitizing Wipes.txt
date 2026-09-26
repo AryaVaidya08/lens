@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  First Aid Only Hand Sanitizing Wipes Isoprpoyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Purpose For handwashing to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. Avoid contact with eyes Stop Use if irritation occurs Keep our of reach of children Keep out of the reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep our of reach of children Keep out of the reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions for use: Open packet and unfold wipe. Thoroughly wipe hands, fingers, and wrists. Discard after use.
+inactive_ingredient:
+  Inactive Ingredient purified water.
+package_label_principal_display_panel:
+  Pouch Label Pouch Label
+set_id:
+  f54e7c1e-f7a0-d92e-e053-2a95a90ad05a
+id:
+  274ac564-aa36-90a3-e063-6294a90ac340
+effective_time:
+  20241119
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    First Aid Only Hand Sanitizing Wipes
+  generic_name:
+    ISOPRPOYL ALCOHOL
+  manufacturer_name:
+    Acme United Corporation
+  product_ndc:
+    0924-0252
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ISOPROPYL ALCOHOL
+  rxcui:
+    797544
+  spl_id:
+    274ac564-aa36-90a3-e063-6294a90ac340
+  spl_set_id:
+    f54e7c1e-f7a0-d92e-e053-2a95a90ad05a
+  package_ndc:
+    0924-0252-00
+  is_original_packager:
+    True
+  unii:
+    ND2M416302

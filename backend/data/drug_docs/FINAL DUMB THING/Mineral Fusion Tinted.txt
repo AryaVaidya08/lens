@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Mineral Fusion Tinted Titanium Dioxide, Zinc Oxide HYDROGEN DIMETHICONE (20 CST) ALPHA-TOCOPHEROL ACETATE TETRAHEXYLDECYL ASCORBATE DIMETHICONOL (2000 CST) PEG-10 DIMETHICONE (600 CST) CI 77499 LAURYL PEG/PPG-18/18 METHICONE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) CYCLOPENTASILOXANE CI 77492 TITANIUM DIOXIDE TITANIUM DIOXIDE DIMETHICONE CROSSPOLYMER DIMETHICONE CI 77491 ALUMINA ZINC OXIDE ZINC OXIDE CYCLOHEXASILOXANE
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Product Label
+set_id:
+  334ec844-5560-50f7-e063-6394a90a01be
+id:
+  457632ec-dde4-ba16-e063-6394a90a192a
+effective_time:
+  20251208
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Mineral Fusion Tinted
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    FOREFRONT DERMATOLOGY, S.C.
+  product_ndc:
+    85416-203
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    457632ec-dde4-ba16-e063-6394a90a192a
+  spl_set_id:
+    334ec844-5560-50f7-e063-6394a90a01be
+  package_ndc:
+    85416-203-50
+  original_packager_product_ndc:
+    58892-203
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

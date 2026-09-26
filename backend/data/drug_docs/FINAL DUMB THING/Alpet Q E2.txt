@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Alpet Q E2 Benzalkonium Chloride WATER GLYCERIN COCAMIDOPROPYL BETAINE POLYETHYLENE GLYCOL, UNSPECIFIED BENZYL ALCOHOL PHENOXYETHANOL EDETIC ACID DEHYDROACETIC ACID BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.12%
+purpose:
+  Purpose Antiseptic Hand Cleanser
+indications_and_usage:
+  Uses Hanwash to help reduce bacteria that potentially can cause diseases Helps to prevent cross contamination by hand contact Helps to prevent drying of the skin Recommended for repeated use
+warnings:
+  Warnings For external use only
+when_using:
+  When Using this product Do not use in or near eyes
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, seek medical attention or contact a poison control center immediately.
+dosage_and_administration:
+  Directions Wet hands and forearms Apply an application to hands and forearms Scrub thoroughly for at least 30 seconds (include the fingernails and the cuticles) Rinse
+storage_and_handling:
+  Other information Store in a cool dry place below 104° F
+inactive_ingredient:
+  Inactive ingredients water, glycerine, cocoamidopropy betaine, polyethylene-polypropylene glycol, benzyl alcohol, phenoxyethanol, tetra sodium EDTA, dehydroacetic acid
+questions:
+  Questions? Contact Best Sanitizers Mon-Fri 9am-4pm PST at 888-225-3267
+package_label_principal_display_panel:
+  Alpet Q E2 Sanitizing Foam Soap NSF Principal Display Panel
+set_id:
+  b5701ea7-60a8-4dcd-8a32-42029960c559
+id:
+  288cec55-fa05-a87d-e063-6394a90a8212
+effective_time:
+  20241205
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Alpet Q E2
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Best Sanitizers, Inc
+  product_ndc:
+    59900-130
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1053188
+  spl_id:
+    288cec55-fa05-a87d-e063-6394a90a8212
+  spl_set_id:
+    b5701ea7-60a8-4dcd-8a32-42029960c559
+  package_ndc:
+    59900-130-01
+    59900-130-02
+    59900-130-03
+    59900-130-04
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

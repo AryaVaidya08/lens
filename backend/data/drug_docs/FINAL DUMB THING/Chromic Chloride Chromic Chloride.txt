@@ -1,0 +1,37 @@
+effective_time:
+  20170718
+contraindications:
+  CONTRAINDICATIONS Chromic Chloride Injection, USP should not be given undiluted by direct injection into a peripheral vein because of the potential for infusion phlebitis and increased renal loss of chromium from a bolus injection.
+precautions:
+  PRECAUTIONS In assessing the contribution of chromium supplements to maintenance of normal glucose hemostasis, consideration should be given to the possibility that the patient may be diabetic, in which case oral or intravenous antidiabetic medication may be indicated. Pregnancy Safety for use in pregnancy has not been established. Use of chromium in women of childbearing potential requires that anticipated benefits be weighed against possible hazards.
+warnings:
+  WARNINGS This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration.
+pregnancy:
+  Pregnancy Safety for use in pregnancy has not been established. Use of chromium in women of childbearing potential requires that anticipated benefits be weighed against possible hazards.
+spl_product_data_elements:
+  Chromic Chloride Chromic Chloride CHROMIC CHLORIDE CHROMIC CATION HYDROCHLORIC ACID WATER
+description:
+  DESCRIPTION Chromic Chloride Injection, USP is a sterile, nonpyrogenic solution intended for use as an additive to solutions for Total Parenteral Nutrition (TPN). Each mL contains Chromic Chloride Hexahydrate 20.5 mcg, Water for Injection q.s. pH adjusted with Hydrochloric Acid if necessary. It delivers elemental Chromium 4 mcg/mL. The 10 mL vial is a single dose preservative free vial. Discard any unused portion.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Chromic Chloride Injection, USP provides 4 mcg chromium/mL. For the metabolically stable adult receiving TPN, the suggested additive dosage level is 10-15 mcg chromium/day. The metabolically stable adult with intestinal fluid loss may require 20 mcg chromium/day, with frequent monitoring of blood levels as a guideline for subsequent administration. For pediatric patients, the suggested additive dosage level is 0.14 to 0.20 mcg/kg/day. Aseptic addition of Chromic Chloride Injection, USP to the TPN solution under a laminar flow hood is recommended. Chromium is physically compatible with the electrolytes and vitamins usually present in the amino acid/dextrose solution used for TPN. Parenteral drug products should be inspected visually for particulate matter and discoloration, whenever solution and container permit.
+adverse_reactions:
+  ADVERSE REACTIONS The amount of chromium present in Chromic Chloride Injection, USP is very small, symptoms from chromium toxicity are considered unlikely to occur. Symptoms of toxic chromium reactions include nausea, vomiting, ulcers of the gastrointestinal tract, renal and hepatic damage, and abnormalities of the central nervous system culminating in convulsions and coma.
+spl_unclassified_section:
+  Rx Only STERILE, NONPYROGENIC, TRACE ELEMENT ADDITIVE FOR IV USE AFTER DILUTION (Chromium 4 mcg/mL) PRESERVATIVE FREE
+how_supplied:
+  HOW SUPPLIED Chromic Chloride Injection, USP (Chromium 4 mcg/mL) NDC 0517-6310-25 10 mL SDV packed in a box of 25 Store at 20 to 25 C (68 to 77 F); excursions permitted to 15 to 30 C (59 to 86 F) (See USP Controlled Room Temperature). AMERICAN REGENT, INC. SHIRLEY, NY 11967 IN6310 Rev. 1/09
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL PRINCIPAL DISPLAY PANEL – 10 mL Carton CHROMIC CHLORIDE INJECTION, USP Chromium 40 mcg/10 mL (4 mcg/mL) Trace Element Additive NDC 0517-6310-25 25 x 10 mL SINGLE DOSE VIALS FOR INTRAVENOUS USE AFTER DILUTION PRESERVATIVE FREE Rx Only Each mL contains: Chromic Chloride (Hexahydrate) 20.5 mcg, Water for Injection q.s. pH adjusted with Hydrochloric Acid if necessary. Sterile, nonpyrogenic. WARNING: DISCARD UNUSED PORTION. Store at 20 -25 C (68 -77 F); excursions permitted to 15 - 30 C (59 -86 F) (See USP Controlled Room Temperature). Directions for Use: See Package Insert. AMERICAN REGENT, INC. SHIRLEY, NY 11967 Rev. 11/05 b91ec5d3-figure-01
+indications_and_usage:
+  INDICATIONS AND USAGE Chromic Chloride Injection, USP is indicated for use as a supplement to intravenous solutions given for Total Parenteral Nutrition (TPN). Administration helps to maintain plasma levels and to prevent depletion of endogenous stores and subsequent deficiency symptoms.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Trivalent chromium is part of glucose tolerance factor, an activator of insulin-mediated reactions. Chromium helps to maintain normal glucose metabolism and peripheral nerve function. Providing chromium during TPN prevents development of the following deficiency symptoms: impaired glucose tolerance, ataxia, peripheral neuropathy and a confusional state similar to mild/moderate hepatic encephalopathy.
+set_id:
+  6c6d8d3b-fd30-4cbc-a988-92cc73d0414c
+id:
+  1162d0aa-7482-4c1a-844e-ee245ed661a3
+overdosage:
+  OVERDOSAGE Trivalent chromium administered intravenously to TPN patients has been shown to be nontoxic when given at dosage levels up to 250 mcg/day for two consecutive weeks.

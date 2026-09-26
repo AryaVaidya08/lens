@@ -1,0 +1,29 @@
+effective_time:
+  20160817
+inactive_ingredient:
+  Inactive ingredients sucrose, tartaric acid, silicon dioxide
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  < Keep out of reach of children
+warnings:
+  Warnings Do not use more than 4 packets in 24 hours more than 3 packets in 24 hours if you are 60 years and older the maximum dosage of this product for more than 2 weeks, except under the advise and supervision of a physician. If pregnant or breast-feeding, ask a health professional before use Ask a doctor or pharmacist before use if you are presently taking a prescription drug (antacids may interact with certain prescription drugs) presently on a sodium diet In case of overdose, get medical help or contact a Poison Control Center right away
+spl_product_data_elements:
+  Sal de Uvas Picot Antacid SILICON DIOXIDE SUCROSE TARTARIC ACID SODIUM BICARBONATE SODIUM CATION CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions * adults and children 12 years and over dissolve one packet in 1/2 glass of water every 4 hours or as directed by your doctor * children under 12 years consult a doctor
+storage_and_handling:
+  Other information * each packet contains 712 mg of sodium * store in a cool, dry place
+package_label_principal_display_panel:
+  Sal de uvas Picot Instant Relief 37c9fe1d-dc1a-0861-e054-00144ff88e88
+indications_and_usage:
+  Uses for the relief of: * heartburn * sour stomach and acid indigestion * upset stomach associated with these symptoms
+set_id:
+  b3f27015-ca5e-49aa-b226-44ec8e5c35cd
+id:
+  3a49b087-00b2-1c3a-e054-00144ff88e88
+active_ingredient:
+  Drug Facts Active Ingredients (in each packet) Sodium Bicarbonate 2.485 g Citric Acid 1.9485 g

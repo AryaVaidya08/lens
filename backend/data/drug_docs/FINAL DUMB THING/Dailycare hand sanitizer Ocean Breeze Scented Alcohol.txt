@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Dailycare hand sanitizer Ocean Breeze Scented Alcohol ALCOHOL ALCOHOL WATER CARBOMER COPOLYMER TYPE A AMINOMETHYLPROPANOL .ALPHA.-TOCOPHEROL ACETATE, D-
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Alcohol ............. 65%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Decreases bacteria on skin
+warnings:
+  Warnings For external use only. Flammable. Keep product away from fire or flame. When using this product avoid contact with eyes. In case of contact, flush eyes with water. Stop use and ask a doctor if redness or irritation develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Aloe Barbadensis Leaf Extract, Tocopheryl Acetate
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  96a456e6-9766-45c2-9fa8-dfc84842349c
+id:
+  7a125d8e-3768-468d-91c4-19301ddb53c1
+effective_time:
+  20200708
+version:
+  1
+openfda:

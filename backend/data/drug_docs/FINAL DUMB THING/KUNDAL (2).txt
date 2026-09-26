@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  KUNDAL PURE and SAFE SANITIZING TISSUE (BENZALKONIUM CHLORIDE) BENZALKONIUM CHLORIDE SODIUM BENZOATE ALOE VERA LEAF GREEN TEA LEAF WATER CITRIC ACID MONOHYDRATE MATRICARIA RECUTITA SODIUM CITRATE POLYSORBATE 20 BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  benzalkonium chloride
+inactive_ingredient:
+  Water Aloe Barbadensis Leaf Extract Camellia Sinensis Leaf Extract Chamomilla Recutita (Matricaria) Extract Phenoxyethanol Cetylpyridinium Chloride Caprylyl Glycol Cocamidopropyl PG-Dimonium Chloride Phosphate Citric Acid
+purpose:
+  hand sanitizing tissue to help reduce bacteria on the skin
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  pull ouy wipes and sanitize hands when necessary
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  aee84f2d-6bf7-3212-e053-2995a90a9c87
+id:
+  b4371a56-92af-5e39-e053-2a95a90af624
+effective_time:
+  20201116
+version:
+  2
+openfda:

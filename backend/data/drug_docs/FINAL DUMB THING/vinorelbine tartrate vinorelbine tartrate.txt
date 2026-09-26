@@ -1,0 +1,18 @@
+effective_time:
+  20140325
+warnings:
+  Warning WARNING Vinorelbine Injection USP should be administered under the supervision of a physician experienced in the use of cancer chemotherapeutic agents. This product is for intravenous (IV) use only. Intrathecal administration of other vinca alkaloids has resulted in death. Syringes containing this product should be labeled "WARNING – FOR IV USE ONLY. FATAL if given intrathecally.” Severe granulocytopenia resulting in increased susceptibility to infection may occur. Granulocyte counts should be ≥1,000 cells/mm3 prior to the administration of Vinorelbine Injection USP. The dosage should be adjusted according to complete blood counts with differentials obtained on the day of treatment. Caution - It is extremely important that the intravenous needle or catheter be properly positioned before Vinorelbine Injection USP is injected. Administration of Vinorelbine Injection USP may result in extravasation causing local tissue necrosis and/or thrombophlebitis (see DOSAGE AND ADMINISTRATION: Administration Precautions).
+package_label_principal_display_panel:
+  Principal Display Panel – 1mL Vial Label Virtual Label - We will be using a PLD to market this product NDC 57884-3003-1 1 mL Single-Use Vial VINORELBINE INJECTION USP, 10mg/mL Principal Display Panel – 1mL Vial Label
+  Principal Display Panel – 1mL Carton Label Virtual Label - We will be using a PLD to market this product NDC 57884-3003-1 1 mL Single-Use Vial VINORELBINE INJECTION USP, 10mg/mL Principal Display Panel – 1mL Carton Label
+  Principal Display Panel – 5mL Vial Label Virtual Label - We will be using a PLD to market this product NDC 57884-3003-2 5 mL Single-Use Vial VINORELBINE INJECTION USP, 50mg/5mL Principal Display Panel – 5mL Vial Label
+  Principal Display Panel – 5mL Carton Label Virtual Label - We will be using a PLD to market this product NDC 57884-3003-2 5 mL Single-Use Vial VINORELBINE INJECTION USP, 50mg/5mL Principal Display Panel – 5mL Carton Label
+spl_product_data_elements:
+  vinorelbine tartrate vinorelbine tartrate VINORELBINE TARTRATE VINORELBINE WATER
+set_id:
+  145fb50b-7bde-408c-b81d-91fe9f128bf6
+id:
+  b49e388b-6d66-4ee7-8aa2-855bfae5f89e
+openfda:
+version:
+  4

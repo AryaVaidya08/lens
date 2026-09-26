@@ -1,0 +1,29 @@
+effective_time:
+  20180101
+inactive_ingredient:
+  Inactive Ingredient Carbomer, Glycerin, Jojoba Particles, Lime Extract, Pigment Red GB106-3040, Pigment Yellow 109C, Propylene Glycol, Triethanolamine, Water.
+purpose:
+  Purpose Antiseptic Hand Sanitizer
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings External Use Only. DONO EAT. Keep out of reach of children if swallowed get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Hand Sanitizer Lime Alcohol PROPYLENE GLYCOL WATER GLYCERIN CARBOMER HOMOPOLYMER TYPE B (ALLYL SUCROSE CROSSLINKED) TRIETHANOLAMINE 2-CYCLOHEXYL-4,6-DINITROPHENOLATE ALCOHOL ALCOHOL PIGMENT RED 1 PIGMENT YELLOW 109 JOJOBA ACID LIME OIL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Rub hands thoroughly with product and allow to dry.
+stop_use:
+  Stop and Ask a doctor if Irritation or redness develop.
+package_label_principal_display_panel:
+  HAND SANITIZER (ALCOHOL) GEL Label Image
+indications_and_usage:
+  Use Decrease bacteria on hands
+set_id:
+  298b86a8-e8ab-42fd-9fb0-3856f31343f8
+id:
+  bc13a96d-47d7-4ffb-a4c0-0c7603cefa55
+active_ingredient:
+  Active ingredient Alcohol 62% Purpose Antiseptic Hand Sanitizer

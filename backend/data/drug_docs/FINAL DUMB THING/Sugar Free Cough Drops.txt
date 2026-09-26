@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  Sugar Free Cough Drops Menthol STEVIOL CITRIC ACID MONOHYDRATE ISOMALT MENTHOL MENTHOL Transparent None
+active_ingredient:
+  Active Ingredient: Menthol 5.8 mg.............cough suppresant/ oral anesthetic Front Panel
+purpose:
+  Uses temporarily relieves: cough as may occur with a cold ocassional minor irritation and sore throat
+indications_and_usage:
+  Uses temporarily relieves: cough as may occur with a cold ocassional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: severe or persistence sore throat accompanied by high fever, headache, nausea and vomiting may be serious. Consult a doctor promptly. Do not use more than 2 days or administer to children under 12 years of age.
+ask_doctor:
+  Ask a doctor before use if you have a severe throat accompanied by difficulty in breathing or that last more than 2 days a sore throat accompanied by fever, headache, rash, swelling, nausea or vomiting
+stop_use:
+  Stop use and consult a doctor if sore mouth symptons do not improve in 7 days or if irritation, pains or redness persists or worsens.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+overdosage:
+  In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 12 years and over: dissolve 1 drop slowly in mouth. Repeated every 2 hours as needed or as directed by a doctor. Children under 12 years and under do not use
+other_safety_information:
+  Store in a cool and dry place 5 calories per drop May be useful for diabetics on the advice of a doctor Excess consumption may cause a laxative effect
+inactive_ingredient:
+  citric acid, isomalt, stevia Back Panel
+questions:
+  Questions? or to report and adverse event call: 1-833-552-1767
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Back
+set_id:
+  fcd053e9-92ef-70ba-e053-6294a90aa4dd
+id:
+  23e592e0-157f-4b0c-e063-6294a90a48bd
+effective_time:
+  20241007
+version:
+  2
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Sugar Free Cough Drops
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    CVS Pharmacy
+  product_ndc:
+    51316-851
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    476973
+  spl_id:
+    23e592e0-157f-4b0c-e063-6294a90a48bd
+  spl_set_id:
+    fcd053e9-92ef-70ba-e053-6294a90aa4dd
+  package_ndc:
+    51316-851-01
+  is_original_packager:
+    True
+  upc:
+    0050428399620
+  unii:
+    L7T10EIP3A

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  DERMASIL ADVANCED DIMETHICONE DIMETHICONE DIMETHICONE WATER GLYCERIN PETROLATUM MINERAL OIL STEARIC ACID GLYCOL STEARATE GLYCERYL MONOSTEARATE PEG-40 STEARATE CETYL ALCOHOL CETYL OLEATE SODIUM HYDROXIDE PHENOXYETHANOL CARBOMER HOMOPOLYMER TYPE C SUNFLOWER OIL EDETATE DISODIUM ACETYLATED LANOLIN ALCOHOLS METHYLISOTHIAZOLINONE IODOPROPYNYL BUTYLCARBAMATE MAGNESIUM ALUMINUM SILICATE LECITHIN, SOYBEAN BORAGE OIL CHOLESTEROL ASCORBYL PALMITATE ALMOND OIL ETHYLENE BRASSYLATE SANDALWOOD OIL ROSA DAMASCENA FLOWER VANILLA NIACINAMIDE INOSITOL
+active_ingredient:
+  Active Ingredient Dimethicone 1%
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve chapped or cracked skin. Helps protect from the drying effects of wind and cold weather.
+warnings:
+  Warnings For external use only. Do not get into eyes. Stop use and ask a doctor if: Condition worsens, Symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if: Condition worsens, Symptoms last more than 7 days or clear up and occur again within a few days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to Hands and Body every day.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: WATER (AQUA), GLYCERIN, PETROLATUM, MINERAL OIL (PARAFFINUM LIQUIDUM), STEARIC ACID, GLYCOL STEARATE, GLYCERYL STEARATE, PEG-40 STEARATE, CETYL ALCOHOL, CETYL ACETATE, SODIUM HYDROXIDE, PHENOXYETHANOL, CARBOMER, HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL, DISODIUM EDTA, ACETYLATED LANOLIN ALCOHOL, METHYLISOTHIAZOLINONE, IODOPROPYNYL BUTYLCARBAMATE, FRAGRANCE, MAGNESIUM ALUMINUM SILICATE, LECITHIN, BORAGO OFFICINALIS SEED OIL, CHOLESTEROL, ASCORBYL PALMITATE, PRUNUS AMYGDALUS DULCIS (SWEET ALMOND) OIL, ETHYLENE BRASSYLATE, SANTALUM ALBUM (SANDALWOOD) OIL, ROSA DAMASCENA EXTRACT, VANILLA PLANIFOLIA FRUIT EXTRACT, NIACINAMIDE, INOSITOL.
+package_label_principal_display_panel:
+  Principal Display Panel - Dermasil Advanced 8 Tube Label Dermasil ® LABS Pharmaceutical Research Controls Even Sever Dry Skin Skin Lipid & EFA Treatment Hypo-Allergenic Dermasil ® Advanced Treatment CREAMY LOTION 8 FL OZ (236 ml) Principal Display Panel - Dermasil Advanced 8 Tube Label
+set_id:
+  ba3b89c3-7fe8-4985-a149-30657e4c46ec
+id:
+  d17048f2-a358-4255-aa4c-7622f85dac0a
+effective_time:
+  20231005
+version:
+  3
+openfda:

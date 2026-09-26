@@ -1,0 +1,48 @@
+spl_product_data_elements:
+  Rugby Travel Sickness Meclizine HCl, 25 mg Each (Antiemetic) Meclizine HCl ASPARTAME CROSCARMELLOSE SODIUM DEXTROSE, UNSPECIFIED FORM FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE SODIUM SULFATE SUCROSE TRICALCIUM PHOSPHATE MECLIZINE HYDROCHLORIDE MECLIZINE Biconvex Uncoated Tablet with Bisect 21G
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Rugby Laboratories 17177 N. Laurel Park Drive, Suite 233, Livonia, MI 48152
+active_ingredient:
+  Active ingredient (in each chewable tablet) Meclizine HCl USP 25 mg
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Uses prevents and treats nausea, vomiting or dizziness due to motion sickness
+warnings:
+  Warnings Do not use in children under 12 years of age unless directed by a doctor Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use it you are taking sedatives or tranquilizers. When using this product may cause drowsiness alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact the poison control center immediately.
+do_not_use:
+  Do not use in children under 12 years of age unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use it you are taking sedatives or tranquilizers.
+when_using:
+  When using this product may cause drowsiness alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks use caution when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact the poison control center immediately.
+dosage_and_administration:
+  Directions Dosage should be taken one hour before travel starts Adults and children 12 years of age and older: Chew 1-2 tablets once daily, or as directed by a doctor Children under 12 years: do not give this product to children under 12 years of age unless directed by a doctor
+storage_and_handling:
+  Other information Phenylketonurics: Contains Phenylalanine 0.28 mg per tablet Store at room temperature in a dry place Keep lid tightly closed
+inactive_ingredient:
+  Inactive ingredients aspartame, croscarmellose sodium, dextrose, FD&C Red #40 Lake, magnesium stearate, maltodextrin, microcrystalline cellulose, natural and artificial flavors, silicon dioxide, sodium sulfate, sugar, tricalcium phosphate.
+questions:
+  Questions or comments? call 1-800-645-2158
+other_safety_information:
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+how_supplied:
+  HOW SUPPLIED NDC: 63629-6655-1: 30 Tablets in a BOTTLE NDC: 63629-6655-2: 60 Tablets in a BOTTLE NDC: 63629-6655-3: 20 Tablets in a BOTTLE NDC: 63629-6655-4: 90 Tablets in a BOTTLE
+package_label_principal_display_panel:
+  340B MECLIZINE 25MG CHEWABLE TAB. Label
+set_id:
+  a34f10df-84d8-4956-9774-69cf91354a12
+id:
+  a34f10df-84d8-4956-9774-69cf91354a12
+effective_time:
+  20220208
+version:
+  4
+openfda:

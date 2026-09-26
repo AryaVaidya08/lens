@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  dermveda ULTRA Dark Spot Remedy Serum Glycyrrhiza Glabra, Curcuma Longa GLYCYRRHIZA GLABRA (LICORICE) ROOT POWDER GLYCYRRHIZA GLABRA (LICORICE) RHIZOME/ROOT TURMERIC TURMERIC AZADIRACHTA INDICA BARK GLYCERIN HYDROXYETHYL CELLULOSE, UNSPECIFIED PEPPERMINT OIL OLIVE OIL KARUM SEED OIL CALAMUS OIL WRIGHTIA TINCTORIA WHOLE XANTHAN GUM WATER
+spl_unclassified_section:
+  ​Drug Facts
+  ​Brightening & Exfoliating, Hyperpigmentation NATURAL SKIN DISCOLORATION TREATMENT SERUM HOMEOPATHIC Plant Anti-Fungal Soothing Solution Use Directions: Apply a few drops on the affected area often or as Needed. Safe for multiple use. No Synthetics No Parabens No Alcohol No Chlorides ​made with Love NO ANIMAL TESTING www.Celsiusherbs.com Made in Michigan Distributed by: Celcius Corp 21415 Civic center drive Southfield, MI 48076 Sales@celcius.us
+active_ingredient:
+  ​Active ingredient Glycyrrhiza Glabra 10x HPUS Curcuma Longa 10C HPUS
+purpose:
+  ​Purpose Skin Brightening Anti-Microbial
+indications_and_usage:
+  ​Uses • Temporary relieves swelling, itching, rash or skin irritation/inflammation • Dark Spot corrector, Skin Brightening.
+warnings:
+  ​Warnings ​ For external use only. Do not use • on children under 2 years of age unless directed by a doctor • Avoid contact with eyes. ​When using this product • mild increase in irritation or burning may occur. Stop use and ask a doctor if • Symptoms persist or inflammation increases after weeks of use or if the itch increases. • Increase in redness on skin. ​Pregnant or Breast Feeding • Ask a Health Professional before use. ​Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  ​Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  ​Directions ​Do Not use on Children less than 2 Years • Please perform a patch test for sensitive skin. Take a small amount with your finger and gently apply it on the affected area. Apply Liberally and use often till symptoms subside.
+storage_and_handling:
+  ​Other information Store in a cool dry place.
+inactive_ingredient:
+  ​Inactive ingredients Azadirachta Indica, Glycerin, Hydroxyethylcellulose, Peppermint Oil, Olive Oil, Karanja Oil, Sweet Flag Oil, Sweet Indrajao Oil, Xanthan Gum, Water (Aqua).
+questions:
+  ​Question? ​+1-734-726-0148 You may also report serious side effects to this phone number. Mon-Fri 9:00 AM - 5:00 PM
+package_label_principal_display_panel:
+  Packaging dULTRADarkSpotRemedySerum
+set_id:
+  7367a870-fc0e-4e13-a9f3-5b0064956c38
+id:
+  ae62dcef-c5a4-4073-9e47-4ae0a9a5bd97
+effective_time:
+  20260318
+version:
+  1
+openfda:
+  brand_name:
+    dermveda ULTRA Dark Spot Remedy Serum
+  generic_name:
+    GLYCYRRHIZA GLABRA, CURCUMA LONGA
+  manufacturer_name:
+    Celcius Corp.
+  product_ndc:
+    83819-609
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    GLYCYRRHIZA GLABRA (LICORICE) ROOT POWDER
+    TURMERIC
+  spl_id:
+    ae62dcef-c5a4-4073-9e47-4ae0a9a5bd97
+  spl_set_id:
+    7367a870-fc0e-4e13-a9f3-5b0064956c38
+  package_ndc:
+    83819-609-02
+  is_original_packager:
+    True
+  unii:
+    2788Z9758H
+    856YO1Z64F

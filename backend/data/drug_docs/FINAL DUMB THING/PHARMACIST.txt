@@ -1,0 +1,27 @@
+effective_time:
+  20160714
+inactive_ingredient:
+  Inactive ingredients Water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of children If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warning For external use only. Flammable, keep away from fire and flame.
+spl_product_data_elements:
+  PHARMACIST CHOICE ALCOHOL STERILE PREP PAD isopropyl alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions Wipe injection site vigorously.
+package_label_principal_display_panel:
+  Drug Facts Active Ingredients Isopropyl Alcohol USP, 70% v/v Purpose: Antiseptic Use: For preparation of skin prior to injection; to decrease germs in minor cuts and scrapes; to clean medical equipment and supplies. Warning: For external use only. Flammable, keep away from fire and flame. Keep out of children. If swallowed, get medical help or contact a Poison Control Center immediately. Caution: Don’t apply to a irritated skin. Don’t use in the eyes, or on mucous membranes. In case of deep or puncture wounds, consult a doctor. Directions: wipe injection site vigorously. Other information: Store at room temperature. Inactive ingredients: Water Alcohol Prep Pads
+indications_and_usage:
+  Use For preparation of skin prior to injection; to decrease germs in minor cuts and scrapes.
+set_id:
+  379f99c1-30c6-5d5c-e054-00144ff8d46c
+id:
+  379f99c1-30c7-5d5c-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredients Isopropyl Alcohol USP, 70% v/v

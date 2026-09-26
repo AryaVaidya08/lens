@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Mineral Sunscreen Dry Touch NT Titanium Dioxide, Zinc Oxide TETRAHEXYLDECYL ASCORBATE DIMETHICONE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) LAURYL PEG/PPG-18/18 METHICONE ALPHA-TOCOPHEROL ACETATE CYCLOPENTASILOXANE HYDROGEN DIMETHICONE (20 CST) PEG-10 DIMETHICONE (600 CST) DIMETHICONOL (2000 CST) DIMETHICONE CROSSPOLYMER TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE CYCLOHEXASILOXANE ALUMINA
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Product Label
+set_id:
+  334ffc49-3196-0995-e063-6394a90ad559
+id:
+  458708b4-56b7-8d18-e063-6294a90a8c47
+effective_time:
+  20251209
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Mineral Sunscreen Dry Touch NT
+  generic_name:
+    TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    Cutis Wellness Dermatology And Dermatopathology PLLC
+  product_ndc:
+    85431-202
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    458708b4-56b7-8d18-e063-6294a90a8c47
+  spl_set_id:
+    334ffc49-3196-0995-e063-6394a90ad559
+  package_ndc:
+    85431-202-50
+  original_packager_product_ndc:
+    58892-202
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

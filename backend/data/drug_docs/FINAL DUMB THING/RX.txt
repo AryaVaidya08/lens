@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  RX FRESH Moisturizing Hand Sanitizer Ethyl Alcohol 67% CUCUMBER ALOE VERA LEAF MINT ALCOHOL ALCOHOL LEMON PEEL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 67% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand Sanitizer to help reduce bacteria on the skin that could cause disease. Recommended for repeated use.
+warnings:
+  Warnings Flammable Keep away from fire or flame For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask a doctor if irritation or rash appears Keep out of reach of children. If swallowed, get medical help or contact a Poison Contol Center right away.
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children If swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Aloe Vera, Cucumber, Lemon Peel, Mint
+dosage_and_administration:
+  Directions Shake and spray product on your palm to thoroughly cover your hands. Rub hands together until dry. Children under 6 years of age should be supervised when using this product.
+other_safety_information:
+  Other Information Store below 104F (40C) May discolor certain fabrics or surfaces Pulp from aloe is natural
+package_label_principal_display_panel:
+  Label Label
+set_id:
+  a0c30633-08f8-3926-e053-2a95a90a1a79
+id:
+  a0c30633-08f9-3926-e053-2a95a90a1a79
+effective_time:
+  20200318
+version:
+  1
+openfda:

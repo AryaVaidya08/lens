@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Panrosa Antibacterial Hand Green Apple CHLOROXYLENOL WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE COCO MONOETHANOLAMIDE SODIUM CHLORIDE GLYCERIN EDETATE DISODIUM ANHYDROUS PEG-150 DISTEARATE CITRIC ACID MONOHYDRATE METHYLISOTHIAZOLINONE METHYLCHLOROISOTHIAZOLINONE FD&C YELLOW NO. 5 FD&C BLUE NO. 1 CHLOROXYLENOL CHLOROXYLENOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Chloroxylenol 0.25% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for hand washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask a doctor if irritation and redness develops. If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions pump into hands, wet as needed lather vigorously for at least 15 seconds wash skin, rinse and dry thoroughly
+inactive_ingredient:
+  Inactive ingredients Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide MEA, Sodium Chloride, Glycerin, Disodium EDTA, PEG-150 Distearate, Citric Acid, Fragrance (Parfum), Methylisothiazolinone, Methylchloroisothiazolinone, FD&C Yellow No.5, FD&C Blue No.1.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  3f4be546-0286-4222-ad05-ba7d0732c2c9
+id:
+  acc3bb64-27e8-5aed-e053-2995a90a9c71
+effective_time:
+  20200813
+version:
+  1
+openfda:

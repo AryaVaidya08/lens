@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Armor Benzalkonium Chloride CYCLOMETHICONE 5 DIMETHYLOCTADECYL(3-(TRIMETHOXYSILYL)PROPYL)AMMONIUM CHLORIDE PPG-3 BENZYL ETHER ETHYLHEXANOATE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses For hand sanitizing to decrease bacteria.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of contact, flush eyes with water. Stop use and ask a doctor if irritation develops or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+when_using:
+  When using this product avoid contact with eyes. In case of contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation develops or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions Wash hands Rub in 2 to 4 drops For Healthcare, repeat process every 4 hours
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, Dimethicone Crosspolymer, Octadecyldimethyl Trimethoxysilylproply Ammonium Chloride, PPG-3 Benzyl Ether Ethylhexanoate
+questions:
+  Questions or commetns? 248-342-8040
+package_label_principal_display_panel:
+  image description
+set_id:
+  f9dc5264-3fe7-47de-a2c2-3debade8448a
+id:
+  ce6a21ba-4e62-e08e-e053-2a95a90a46be
+effective_time:
+  20211015
+version:
+  6
+openfda:

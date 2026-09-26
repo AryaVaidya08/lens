@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  LOA NEW-FREEDOM S sulfate WATER SULFATE ION SULFATE ION
+active_ingredient:
+  sulfate
+inactive_ingredient:
+  sulfate
+purpose:
+  anti oxident, anti inflammatory
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  take one capsule two times per day with water
+warnings:
+  store in a cool dry place
+dosage_and_administration:
+  for oral use only
+package_label_principal_display_panel:
+  label
+set_id:
+  c0c15088-0ef2-97a2-e053-2995a90a1cb0
+id:
+  c0c150a1-24fc-eb01-e053-2a95a90af14b
+effective_time:
+  20210424
+version:
+  1
+openfda:

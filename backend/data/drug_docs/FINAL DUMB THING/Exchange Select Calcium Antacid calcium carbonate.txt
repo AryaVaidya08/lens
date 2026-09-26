@@ -1,0 +1,37 @@
+effective_time:
+  20171126
+inactive_ingredient:
+  Inactive ingredients adipic acid, blue #1 aluminum lake, dextrose, flavors, maltodextrin, mineral oil, polyethylene glycol, powdered cellulose, red #40 aluminum lake, talc, yellow #5 aluminum lake (tartrazine), yellow #6 aluminum lake
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you have • kidney stones • a calcium-restricted diet Ask a doctor or pharmacist before use if you are • now taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product • do not take more than 15 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks Keep out of reach of children.
+when_using:
+  When using this product • do not take more than 15 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks
+questions:
+  Questions? 1-800-719-9260
+spl_product_data_elements:
+  Exchange Select Calcium Antacid calcium carbonate CALCIUM CARBONATE CARBONATE ION ADIPIC ACID DEXTROSE MALTODEXTRIN MINERAL OIL POLYETHYLENE GLYCOLS POWDERED CELLULOSE TALC L478 Cherry, lemon, lime, orange
+ask_doctor:
+  Ask a doctor before use if you have • kidney stones • a calcium-restricted diet
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • chew 2 - 4 tablets as symptoms occur, or as directed by a doctor
+storage_and_handling:
+  Other information • each tablet contains: calcium 215 mg and magnesium 5 mg • store at 20-25°C (68-77°F)
+package_label_principal_display_panel:
+  Principal Display Panel Regular Strength CALCIUM ANTACID calcium carbonate 500 mg Compare to the active ingredient of Tums® Regular Strength Antacid/Calcium Supplement Assorted Fruit Naturally and Artificially Flavored Calcium Antacid Front Label Calcium Antacid Front Label Calcium Antacid Back Label Calcium Antacid Front Label Calcium Antacid Back Label
+indications_and_usage:
+  Uses relieves • heartburn • sour stomach • acid indigestion • upset stomach associated with these symptoms
+set_id:
+  06ed726f-71e7-43c8-bf83-c28c139eda87
+id:
+  f8430d71-782c-42cc-97f7-b0176de0871b
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • now taking a prescription drug. Antacids may interact with certain prescription drugs.
+active_ingredient:
+  Active ingredient (in each tablet) Calcium carbonate USP 500mg

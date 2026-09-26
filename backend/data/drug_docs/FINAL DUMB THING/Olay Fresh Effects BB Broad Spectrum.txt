@@ -1,0 +1,44 @@
+effective_time:
+  20150706
+inactive_ingredient:
+  Inactive ingredients Water, glycerin, polyethylene, niacinamide vitamin B3, , dimethicone, titanium dioxide, isopropyl isostearate, stearyl alcohol, cetyl alcohol, behenyl alcohol, lonicera japonica (honeysuckle) flower extract, camellia sinensis leaf extract white tea , panthenol pro-vitamin B5, , tocopheryl acetate vitamin E, , sorbitan stearate, aluminum starch octenylsuccinate, benzyl alcohol, hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer, isohexadecane, methylparaben, fragrance, dimethiconol, PEG-100 stearate, ethylparaben, propylparaben, stearic acid, sodium ascorbyl phosphate, cetearyl glucoside, cetearyl alcohol, polysorbate 60, sorbitan isostearate, iodopropynyl butylcarbamate, silica, ammonium polyacrylate, palmitic acid, myristic acid, iron oxides.
+purpose:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Homosalate 4.0% Sunscreen Octisalate 4.5% Sunscreen Octocrylene 2.6% Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+questions:
+  Questions or comments? Call 1-800-285-5170
+spl_product_data_elements:
+  Olay Fresh Effects BB Broad Spectrum SPF 15 Light to Medium Avobenzone, Homosalate, Octisalate, and Octocrylene Avobenzone Avobenzone Homosalate Homosalate Octisalate Octisalate Octocrylene Octocrylene Water glycerin high density polyethylene niacinamide dimethicone titanium dioxide isopropyl isostearate stearyl alcohol cetyl alcohol docosanol lonicera japonica flower green tea leaf panthenol .alpha.-tocopherol acetate sorbitan monostearate aluminum starch octenylsuccinate benzyl alcohol isohexadecane methylparaben PEG-100 stearate ethylparaben propylparaben stearic acid sodium ascorbyl phosphate cetearyl glucoside cetostearyl alcohol polysorbate 60 sorbitan isostearate iodopropynyl butylcarbamate silicon dioxide palmitic acid myristic acid ferric oxide red
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply at least every 2 hours use water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in sun, especially from 10 a.m. - 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months: ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Distr. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+stop_use:
+  Stop use and ask a doctor if rash occurs
+storage_and_handling:
+  Other information protect this product from excessive heat and direct sun
+do_not_use:
+  Do not use on damaged or broken skin
+active_ingredient_table:
+  <table width="60%"> <col width="60%" valign="top" align="left"/> <col width="40%" valign="top" align="right"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Avobenzone 3.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Homosalate 4.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octisalate 4.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Octocrylene 2.6%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 75 mL Tube Carton OLAY ® fresh effects SUNSCREEN + 5 SKIN PERFECTING BENEFITS {BB CREAM!} Essence of Honeysuckle & White Tea SKIN PERFECTING TINTED MOISTURIZER WITH SUNSCREEN BROAD SPECTRUM SPF 15 15 LIGHT TO MEDIUM 75 mL (2.5 FL OZ) Principal Display Panel - 75 mL Tube Carton
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+set_id:
+  b1c1303a-a67d-4aef-89bc-923a8480ddc5
+id:
+  5cbfd203-8a4d-46f8-9d1a-4d1eba5cf47a
+purpose_table:
+  <table width="60%"> <col width="60%" valign="top" align="left"/> <col width="40%" valign="top" align="right"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Avobenzone 3.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Homosalate 4.0%</td> <td>Sunscreen</td> </tr> <tr> <td>Octisalate 4.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Octocrylene 2.6%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3.0% Sunscreen Homosalate 4.0% Sunscreen Octisalate 4.5% Sunscreen Octocrylene 2.6% Sunscreen

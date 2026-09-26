@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SUN SHIELD SUNSCREEN SPF 30 AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE STEARIC ACID GLYCERETH-2 COCOATE ALKYL (C12-15) BENZOATE VITAMIN A PALMITATE MATRICARIA CHAMOMILLA FLOWERING TOP TROLAMINE WATER HOMOSALATE HOMOSALATE OXYBENZONE OXYBENZONE GLYCERIN OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE AVOBENZONE AVOBENZONE ALOE VERA LEAF DIETHANOLAMINE CETYL PHOSPHATE PHENOXYETHANOL .ALPHA.-TOCOPHEROL ACETATE IODOPROPYNYL BUTYLCARBAMATE VINYLPYRROLIDONE/EICOSENE COPOLYMER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE DIMETHICONE TITANIUM DIOXIDE CETYL ALCOHOL
+active_ingredient:
+  Active Ingredient AVOBENZONE 2.0% HOMOSALATE 10.0% OCTISALATE 5.0% OCTOCRYLENE 5.0% OXYBENZONE 5.0%
+purpose:
+  Purpose SUNSCREEN
+indications_and_usage:
+  Uses HELPS PREVENT SUNBURN
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control center right away.
+dosage_and_administration:
+  Directions apply generously 15 minutes before sun exposure. Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours under 6 months of age: ask a doctor Sun protection measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m.-2 p.m. and wear long-sleeved shirts, pants, hats and sunglasses. For use on skin only.
+inactive_ingredient:
+  Inactive ingredients water, glycerin, stearic acid, cetyl alcohol, aloe barbadensis leaf, c12-15 alkyl benzoate, dea-cetyl phosphate, vp/eicosene copolymer, phenoxyethanol, dimethicone, triethanolamine, carbomer, titanium dioxide, glycereth-2 cocoate, tocopheryl acetate, retinyl palmitate, iodopropynyl butylcarbamate, chamomilla recutitita (matricaria) flower extract
+package_label_principal_display_panel:
+  01b LBL_Sun Shield SPF 30_30mL
+set_id:
+  f332a0b6-639b-3f46-e053-2995a90a7966
+id:
+  f33361a7-e049-4681-e053-2a95a90ab909
+effective_time:
+  20230126
+version:
+  2
+openfda:

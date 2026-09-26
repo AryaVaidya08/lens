@@ -1,0 +1,33 @@
+effective_time:
+  20161201
+inactive_ingredient:
+  INACTIVE INGREDIENT Water
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only. Flammable, keep away from fire or flame. Do not use with electrocautery procedures longer than 1 week unless directed by a doctor Stop use and ask a doctor if irritation and redness develop condition gets worse or persists for more than 72 hours Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Antiseptic Swab isopropyl alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Apply to skin as needed Discard after single use
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition gets worse or persists for more than 72 hours
+storage_and_handling:
+  Other information Protect from freezing and avoid excessive heat.
+do_not_use:
+  Do not use with electrocautery procedures longer than 1 week unless directed by a doctor
+package_label_principal_display_panel:
+  NDC 37205-155-78 STERILE EXTRA-THICK LEADER Compare to BD Alcohol Prep Pads Alcohol Prep Pads 70% Isopropyl Alcohol For preparation of the skin prior to an injection First aid antiseptic Individually wrapped packets Latex free 100 pads label
+indications_and_usage:
+  USE For preparation of the skin prior to an injection First aid to decrease germs in minor cuts, scrapes and burns
+set_id:
+  207424a2-83b5-4b68-b00a-7d25c2e286c2
+id:
+  429dcb15-50dc-279a-e054-00144ff8d46c
+active_ingredient:
+  ACTIVE INGREDIENT Isopropyl Alcohol 70% v/v

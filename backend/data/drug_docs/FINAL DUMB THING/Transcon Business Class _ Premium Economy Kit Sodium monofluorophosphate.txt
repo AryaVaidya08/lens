@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Transcon Business Class / Premium Economy Kit Sodium monofluorophosphate COLGATE ANTICAVITY Sodium monofluorophosphate DIBASIC CALCIUM PHOSPHATE DIHYDRATE WATER SORBITOL SODIUM LAURYL SULFATE METHYL SALICYLATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM SODIUM PYROPHOSPHATE SACCHARIN SODIUM SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium monofluorophosphate 0.76% (0.15% w/v fluoride ion) Purpose Anticavity
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years : use only apea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years : ask a dentist or physician
+inactive_ingredient:
+  Inactive ingredients dicalcium phosphate dihydrate, water, sorbitol, sodium lauryl sulfate, flavor, cellulose gum, tetrasodium pyrophosphate, sodium saccharin
+questions:
+  Questions or comments? Call toll-free 1-800-468-6502
+package_label_principal_display_panel:
+  Package Labeling colgate-01
+set_id:
+  4b438a86-8e00-4937-9a27-77b0dfa3a866
+id:
+  d0d9bf4e-0355-3f7d-e053-2a95a90afbb1
+effective_time:
+  20211115
+version:
+  3
+openfda:

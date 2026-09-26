@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  Advanced Eye Relief Eye Wash water solution BORIC ACID SODIUM BORATE SODIUM CHLORIDE BENZALKONIUM WATER WATER
+active_ingredient:
+  Active ingredient Purified water (99.05%)
+purpose:
+  Purpose Eyewash
+indications_and_usage:
+  Uses washes the eye to help relieve irritation stinging discomfort itching burning by removing loose foreign material air pollutants (smog or pollen) chlorinated water
+warnings:
+  Warnings For external use only Do not use if you have open wounds in or near the eyes, and get medical help right away if solution changes color or becomes cloudy When using this product remove contact lenses before using do not touch tip of container to any surface to avoid contamination replace cap after use Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye condition worsens or persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For use with nozzle applicator. flush the affected eye(s) as needed control the rate of flow of solution by pressure on the bottle do not touch dropper tip to eye [image eye] Without Eye Cup [image eye] With Eye Cup When using an eye cup rinse the cup with Bausch + Lomb Advanced Eye Relief ® Eye Wash solution immediately before each use avoid contamination of the rim and inside surfaces of the cup fill the cup half full with Bausch + Lomb Advanced Eye Relief ® Eye Wash solution and apply the cup to the affected eye(s), pressing tightly to prevent spillage tilt the head backward. Open eyelids wide and rotate eyeball to thoroughly wash the eye rinse cup with clean water after each use replace cap after use
+spl_unclassified_section:
+  Other information store at 15–25°C (59–77 °F) keep tightly closed does not contain thimerosal enclosed eye cup is sterile if packaging is intact use before expiration date marked on the carton or bottle
+  Questions or comments? [phone icon] Call: 1-800-553-5340 FOR USE IN THE EYES ONLY Marketed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, sodium borate and sodium chloride.
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel-Carton BAUSCH + LOMB ADVANCED Eye Relief ® Eye Wash EYE IRRIGATING SOLUTION Cleans, refreshes, soothes For daily or emergency eye cleansing Sterile eye cup enclosed [image cup] Contoured Cup Design STERILE 4 FL OZ (118 mL) 6319425 carton
+set_id:
+  9caccce1-4530-441d-bf76-244edeb9dedc
+id:
+  2e5ebd4d-dda3-1a52-e063-6394a90a7e29
+effective_time:
+  20250217
+version:
+  6
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Advanced Eye Relief Eye Wash
+  generic_name:
+    WATER SOLUTION
+  manufacturer_name:
+    Bausch & Lomb Incorporated
+  product_ndc:
+    24208-005
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    WATER
+  rxcui:
+    1053429
+  spl_id:
+    2e5ebd4d-dda3-1a52-e063-6394a90a7e29
+  spl_set_id:
+    9caccce1-4530-441d-bf76-244edeb9dedc
+  package_ndc:
+    24208-005-04
+  is_original_packager:
+    True
+  unii:
+    059QF0KO0R

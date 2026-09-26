@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Lemongrass Hand Sanitizer Alcohol ALCOHOL ALCOHOL ALOE VERA LEAF WATER DIMETHICONE LEMONGRASS OIL
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 62%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire of flame. For external use only. When using this product Do not use in eyes. In case of contact with eyes, rinse with water. Stop use and ask a doctor if irritation and redness develop and persist. Keep out of reach of children If swallowed, get medical help promptly.
+when_using:
+  When using this product Do not use in eyes. In case of contact with eyes, rinse with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persist.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help promptly.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+other_safety_information:
+  Other information Store under 105°F
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf, Dimethicone, Lemongrass Essential Oil, Water
+package_label_principal_display_panel:
+  Alcohol-Based Aromatherapy Hand Sanitizer Spray Lemongrass 2 fl. oz Lemongrass Label
+set_id:
+  25ca3908-24aa-5e4f-e063-6394a90a7a88
+id:
+  25ca3908-24ab-5e4f-e063-6394a90a7a88
+effective_time:
+  20241031
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Lemongrass Hand Sanitizer
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Natural Essentials, Inc.
+  product_ndc:
+    66902-547
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1020364
+  spl_id:
+    25ca3908-24ab-5e4f-e063-6394a90a7a88
+  spl_set_id:
+    25ca3908-24aa-5e4f-e063-6394a90a7a88
+  package_ndc:
+    66902-547-02
+  is_original_packager:
+    True
+  upc:
+    0111280149423
+  unii:
+    3K9958V90M

@@ -1,0 +1,31 @@
+effective_time:
+  20110301
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: Gluten-free, non-GMO, beet-derived sucrose pellets.
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with bites and stings such as pain, burning, itching and swelling.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children.
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Bug Bites - Itch Stopper Pyrogenium, Apis mel., Aranea diadema, Arnica, Arsenicum alb., Azadirachta indica, Bryonia, Caladium seguinum, Calendula, Formica, Grindelia, Hypericum, Lachesis, Latrodectus mactans, Ledum, Mezereum, Nux vom., Pulex irritans, Rhus toxicodendron, Tarentula cubensis, Tarentula hispana, Theridion, Thuja occ., Vespa crabro, Echinacea, Hamamelis, Solidago Rancid Beef Rancid Beef Apis Mellifera Apis Mellifera Araneus Diadematus Araneus Diadematus Arnica Montana Arnica Montana Arsenic Trioxide Arsenic Cation (3+) Azadirachta Indica Bark Azadirachta Indica Bark Bryonia Alba Root Bryonia Alba Root Dieffenbachia Seguine Dieffenbachia Seguine Calendula Officinalis Flowering Top Calendula Officinalis Flowering Top Formica Rufa Formica Rufa Grindelia Hirsutula Flowering Top Grindelia Hirsutula Flowering Top Hypericum Perforatum Hypericum Perforatum Lachesis Muta Venom Lachesis Muta Venom Latrodectus Mactans Latrodectus Mactans Ledum Palustre Twig Ledum Palustre Twig Daphne Mezereum Bark Daphne Mezereum Bark Strychnos Nux-vomica Seed Strychnos Nux-vomica Seed Pulex Irritans Pulex Irritans Toxicodendron Pubescens Leaf Toxicodendron Pubescens Leaf Citharacanthus Spinicrus Citharacanthus Spinicrus Lycosa Tarantula Lycosa Tarantula Theridion Curassavicum Theridion Curassavicum Thuja Occidentalis Leafy Twig Thuja Occidentalis Leafy Twig Vespa Crabro Vespa Crabro Echinacea, Unspecified Echinacea, Unspecified Hamamelis Virginiana Root Bark/stem Bark Hamamelis Virginiana Root Bark/stem Bark Solidago Virgaurea Flowering Top Solidago Virgaurea Flowering Top Sucrose package label
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 pellets orally (ages 0 to 11, give 3 pellets) as needed or as directed by a healthcare professional. Under age 2, crush or dissolve pellets in purified water. Sensitive persons begin with 1 pellet and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Bug Bites - Itch Stopper Formulated for symptoms associated with bites and stings such as pain, burning, itching and swelling.
+set_id:
+  b6dc19e4-f1cf-a9cc-458f-952f656ef204
+id:
+  da159cbd-50d9-a529-fd44-f595bd34f9d5
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Pyrogenium 30x, Apis mel. 15x, Aranea diadema 15x, Arnica 15x, Arsenicum alb. 15x, Azadirachta indica 15x, Bryonia 15x, Caladium seguinum 15x, Calendula 15, Formica 15x, Grindelia 15x, Hypericum 15x, Lachesis 15x, Latrodectus mactans 15x, Ledum 15x, Mezereum 15x, Nux vom. 15x, Pulex irritans 15x, Rhus toxicodendron 15x, Tarentula cubensis 15x, Tarentula hispana 15x, Theridion 15x, Thuja occ. 15x, Vespa crabro 15x, Echinacea 3x, Hamamelis 3x, Solidago 3x.

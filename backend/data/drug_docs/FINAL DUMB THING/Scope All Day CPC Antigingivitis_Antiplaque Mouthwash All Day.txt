@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Scope All Day CPC Antigingivitis/Antiplaque Mouthwash All Day Cetylpyridinium chloride CETYLPYRIDINIUM CHLORIDE CETYLPYRIDINIUM SACCHARIN SODIUM WATER GLYCERIN METHYLPARABEN PROPYLPARABEN POLOXAMER 407 SUCRALOSE ZINC LACTATE
+spl_unclassified_section:
+  Drug Facts
+  DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Cetylpyridinium chloride 0.07%
+purpose:
+  Purpose Antigingivitis/Antiplaque
+indications_and_usage:
+  Uses helps prevent and reduce plaque and gingivitis helps control plaque bacteria that contribute to the development of gingivitis and bleeding gums
+warnings:
+  Warning Ask a dentist if symptoms persist or condition worsens after regular use. Keep out of reach of children 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+  Ask a dentist if symptoms persist or condition worsens after regular use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children 6 years of age. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use after your normal brushing and flossing routine, rinse toothpaste from mouth prior to use adults and children 6 yrs. & older: Rinse for 30 seconds with 20 mL (4 teaspoonfuls) twice a day do not swallow children 6 years to under 12 years of age: supervise use children under 6 years of age: do not use
+questions:
+  Questions? 1-800-285-9139
+inactive_ingredient:
+  Inactive ingredients water, glycerin, flavor, zinc lactate, methylparaben, sodium saccharin, sucralose, propylparaben, poloxamer 407
+package_label_principal_display_panel:
+  Principal Display Panel 1L bottle Clean Mint ALL FRESH no stress™ Scope® CPC ANTIGINGIVITIS/ANTIPLAQUE MOUTHWASH ALL DAY plus 24 HR breath protection* Kills 99% of bad breath bacteria MILD FLAVOR ALCOHOL FREE 1 L (33.8 FL OZ) Scope All Day CPC Mouthwash
+set_id:
+  d5f69341-b659-c74a-e053-2a95a90a317e
+id:
+  47e467fc-eff9-fd58-e063-6394a90a1965
+effective_time:
+  20260108
+version:
+  6
+openfda:
+  application_number:
+    M022
+  brand_name:
+    Scope All Day CPC Antigingivitis/Antiplaque Mouthwash All Day
+  generic_name:
+    CETYLPYRIDINIUM CHLORIDE
+  manufacturer_name:
+    The Procter & Gamble Manufacturing Company
+  product_ndc:
+    69423-856
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CETYLPYRIDINIUM CHLORIDE
+  spl_id:
+    47e467fc-eff9-fd58-e063-6394a90a1965
+  spl_set_id:
+    d5f69341-b659-c74a-e053-2a95a90a317e
+  package_ndc:
+    69423-856-33
+  is_original_packager:
+    True
+  unii:
+    D9OM4SK49P

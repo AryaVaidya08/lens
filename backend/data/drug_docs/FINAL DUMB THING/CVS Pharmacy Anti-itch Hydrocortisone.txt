@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  CVS Pharmacy Anti-itch Hydrocortisone ALOE VERA LEAF BUTYLATED HYDROXYTOLUENE CETETH-20 CETYL ALCOHOL METHYLPARABEN MINERAL OIL PROPYLENE GLYCOL PROPYLPARABEN SORBITAN MONOSTEARATE STEARYL ALCOHOL WATER HYDROCORTISONE HYDROCORTISONE
+active_ingredient:
+  Active ingredient Purpose Hydrocortisone 1%.............................................................Anti-itch
+purpose:
+  Uses temporary relief of external anal itching temporary relief of itching associated with minor skin irritations and rashes other uses of this product should be only under the advice and supervision of a doctor
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use for the treatment of diaper rash. Consult a doctor.
+when_using:
+  When using this product avoid contact with the eyes do not exceed the recommended daily dosage unless directed by a doctor do not put into the rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if bleeding occurs condition worsens symptoms persist for more than 7 days or clear up and occur again within a few days. Do not being use of any other hydrocortisone product unless you have consulted a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Directions adults: when practical, cleanse the affected area by patting or blotting with an appropriate cleansing wipe. Gently dry by patting or blotting with a tissue or soft cloth before application of this product. adults and children 12 years of age and older: apply to the affected area not more than 3 to 4 times daily children under 12 of age: do not use, consult a doctor
+storage_and_handling:
+  Other information store at 20° and 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients aloe vera leaf, butylated hydroxytoluene, ceteth-20, cetyl alcohol, methylparaben, mineral oil, propylene glycol, propylparaben, sorbitan monostearate, stearyl alcohol, water
+dosage_and_administration:
+  Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 Made in Korea
+package_label_principal_display_panel:
+  38364
+set_id:
+  42c6bd26-dc13-4dfb-80ee-ae289d6cdb76
+id:
+  621254e2-d0eb-366d-e053-2991aa0a8e12
+effective_time:
+  20180105
+version:
+  4
+openfda:

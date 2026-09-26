@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  REZAMID SULFUR AND RESORCINOL WATER ALCOHOL ZINC OXIDE TALC TITANIUM DIOXIDE PROPYLENE GLYCOL ATTAPULGITE LAURIC DIETHANOLAMIDE FERRIC OXIDE RED SODIUM BISULFITE PEG-8 LAURATE CHLOROXYLENOL HYDROXYETHYL CELLULOSE (140 MPA.S AT 5%) SODIUM CHLORIDE SODIUM NAPHTHALENESULFONATE EDETIC ACID METHYLPARABEN XANTHAN GUM BUTYLPARABEN DIMETHICONE SILICON SULFUR SULFUR RESORCINOL RESORCINOL
+active_ingredient:
+  ACTIVE INGREDIENTS SULFUR 5% RESORCINOL 2%
+purpose:
+  PURPOSE ACNE TREATMENT LOTION
+indications_and_usage:
+  USE DRIES UP ACNE PIMPLES, HELPS PREVENT NEW PIMPLES
+warnings:
+  WARNINGS FOR EXTERNAL USE ONLY
+do_not_use:
+  DO NOT USE ON BROKEN SKIN ON LARGE AREAS OF THE BODY
+when_using:
+  WHEN USING THIS PRODUCT APPLY TO AFFECTED AREAS ONLY DO NOT GET INTO EYES skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time
+stop_use:
+  STOP USE AND ASK A DOCTOR IF IF SKIN IRRITATION OCCURS OR GETS WORSE KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY.
+dosage_and_administration:
+  DIRECTIONS shake very well before using clean the skin thoroughly before applying this product cover the entire affected area with a thin layer one to three times daily because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application to once a day or every other day
+inactive_ingredient:
+  INACTIVE INGREDIENTS water, SD-40 alcohol 28%, zinc oxide, talc, titanium dioxide, propylene glycol, attapulgite, lauramide DEA, iron oxides, sodium bisulfite, PEG-8 laurate, parachlorometaxylenol, hydroxyethylcellulose, sodium chloride, sodium polynapthalene sulfonate, EDTA, methyl paraben, xanthan gum, butylparaben, fragrance, simethicone.
+package_label_principal_display_panel:
+  Rezamid_Unit Carton
+set_id:
+  d02ace0b-7244-45d4-987f-eb569303a426
+id:
+  074cf888-7213-31ad-e063-6394a90a16d8
+effective_time:
+  20231009
+version:
+  9
+openfda:

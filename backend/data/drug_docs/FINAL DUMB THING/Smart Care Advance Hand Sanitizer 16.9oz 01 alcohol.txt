@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Smart Care Advance Hand Sanitizer 16.9oz 01 alcohol ISOPROPYL ALCOHOL PROPYLENE GLYCOL ALOE VERA LEAF WATER GLYCERIN ALCOHOL ALCOHOL AMINOMETHYLPROPANOL CARBOMER 940 VANILLA ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE
+description:
+  Drug Facts drug facts Drug Facts Drug Facts Drug Facts
+active_ingredient:
+  Active Ingredient Active Ingredient Purpose Ethyl Alcohol 70%V/V Antiseptic Use Health care personel hand rub to help reduce bacteria that potentially can cause disease.
+purpose:
+  Use Health care personel hand rub to help reduce bacteria that potentially can cause disease.
+  use To help reduce bacteria and germs on the skin.
+warnings:
+  Warning For external use only;hands Flammable,keep away from fire or flame. For external use only. Flammable, keep away from heat and flame. Discontinue if skin becomes irritated and ask a doctor . Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+warnings_and_cautions:
+  For external use only. Flammable, keep away from heat and flame.
+stop_use:
+  Discontinue if skin becomes irritated and ask a doctor .
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+  keep out of reach of children If swallowed,get medical help or contact a Poison Control Center right away. Recommended for repeated use. use anywhere without water.
+dosage_and_administration:
+  Recommended for repeated use. use anywhere without water.
+indications_and_usage:
+  Directions Put a thumbnail size amount in your palm and rub your hands together briskly until dry.Children under 6 years of age should be supervised when using this product.Not recommended for infants. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin. Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+do_not_use:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin.
+cleaning:
+  Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+inactive_ingredient:
+  Inactive ingredients Alcohol，Aqua，Isopropyl Alcohol，Glycerin，Carbomer，Aminomethyl Propanol，Parfum，Propylene Glycol，Isopropyl Myristate，Aloe Barbadensis Leaf Water，Tocopheryl Acetate.
+when_using:
+  When using this product Keep out of eyes,ears,and mouth.In case of contact with eyes,flush thoroughly with water. avoid contact with broken skin. do not inhale or ingest.
+other_safety_information:
+  Other information Do not store above 100℉（38℃） May discolor some fabrics Harmful to wood finishes and plastics.
+package_label_principal_display_panel:
+  Packaging Packaging Packaging Packaging
+set_id:
+  fb79d1cd-84fd-e730-e053-6394a90a3973
+id:
+  fb79c551-080f-fd6e-e053-6294a90a076a
+effective_time:
+  20230512
+version:
+  29
+openfda:

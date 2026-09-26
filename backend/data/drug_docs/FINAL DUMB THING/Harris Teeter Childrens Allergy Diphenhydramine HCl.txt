@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Harris Teeter Childrens Allergy Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ANHYDROUS CITRIC ACID D&C RED NO. 33 FD&C RED NO. 40 HIGH FRUCTOSE CORN SYRUP POLOXAMER 407 WATER SODIUM BENZOATE SODIUM CHLORIDE SODIUM CITRATE, UNSPECIFIED FORM SORBITOL GLYCERIN Bluish-Red
+active_ingredient:
+  Active ingredient (in each 5 mL) Diphenhydramine HCl 12.5 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses • temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • sneezing • itching of the nose or throat • runny nose • itchy, watery eyes
+warnings:
+  Warnings Do not use • with any other product containing diphenhydramine, even one used on skin • to make a child sleepy Ask a doctor before use if the child has • a breathing problem such as chronic bronchitis • glaucoma • a sodium-restricted diet Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers When using this product • marked drowsiness may occur • excitability may occur, especially in children • sedatives and tranquilizers may increase drowsiness Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • with any other product containing diphenhydramine, even one used on skin • to make a child sleepy
+ask_doctor:
+  Ask a doctor before use if the child has • a breathing problem such as chronic bronchitis • glaucoma • a sodium-restricted diet
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers
+when_using:
+  When using this product • marked drowsiness may occur • excitability may occur, especially in children • sedatives and tranquilizers may increase drowsiness
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • find right dose on chart below • mL = milliliter • take every 4 to 6 hours, or as directed by a doctor • do not take more than 6 doses in 24 hours Age (yr) Dose (mL) children under 2 years do not use children 2 to 5 years do not use unless directed by a doctor children 6 to 11 years 5 mL to 10 mL Attention: use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device.
+dosage_and_administration_table:
+  <table width="100%"><col width="33%"/><col width="49%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Age (yr)</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>Dose (mL)</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>children under 2 years</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="middle"><paragraph>do not use</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>children 2 to 5 years</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>do not use unless directed by a doctor</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>children 6 to 11 years</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>5 mL to 10 mL</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • each 5 mL contains: sodium 15 mg • store at 20-25°C (68-77°F). Protect from light. Store in outer carton until contents used. • do not use if printed neckband is broken or missing
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C red #33, FD&C red #40, flavor, glycerin, high fructose corn syrup, poloxamer 407, purified water, sodium benzoate, sodium chloride, sodium citrate, sorbitol solution
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient in Children’s Benadryl® Allergy Liquid Children’s Allergy Liquid 12.5 mg/5 mL Diphenhydramine HCl Oral Solution ANTIHISTAMINE Relieves: Runny Nose Sneezing Itchy, Watery Eyes Itchy Throat 4-6 Hours/Dose Alcohol Free Cherry Flavored Liquid 8 FL OZ (237 mL) Harris Teeter Allergy Image
+set_id:
+  07026d7f-3034-410b-90b6-67e98f38bdb7
+id:
+  53505c91-c993-4d5d-86f1-627e819962f9
+effective_time:
+  20240719
+version:
+  4
+openfda:

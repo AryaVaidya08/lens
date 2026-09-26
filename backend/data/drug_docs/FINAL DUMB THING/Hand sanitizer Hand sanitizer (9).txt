@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Hand sanitizer Hand sanitizer ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATER TROLAMINE
+dosage_and_administration:
+  Please store in a cool and dry place away from light ,to avoid direct sunlight and high temperature.
+inactive_ingredient:
+  Water,Carbomer, Triethanolamine
+indications_and_usage:
+  Apply appropriate amount to the palm and rub until dry.
+active_ingredient:
+  Ethanol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  FLAMMABLE. Keep away from fire or flame FOR EXTERNAL USE ONLY. If swallowed, seek medical advice immediately and show this label.Avoid contact with eyes. If contact occurs, wash thoroughly with warm water and seek medical advice. Do not apply to damaged,inflamed or broken skin.If iritation occurs, discontinue use. KEEP OUT OF REACH OF CHILDREN. Use only under adult supervision. Non staining. May discolour fabrics.
+package_label_principal_display_panel:
+  label
+set_id:
+  a82e09e3-41a7-4a41-e053-2a95a90a61c9
+id:
+  ef403d3a-7f67-532c-e053-2995a90adb0a
+effective_time:
+  20221207
+version:
+  2
+openfda:

@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Healing Hand Cream Allantoin ALLANTOIN ALLANTOIN COCONUT OIL BENZYL ALCOHOL GLYCERIN BEEF TALLOW XANTHAN GUM STEARIC ACID DEHYDROACETIC ACID JOJOBA OIL PEG-8 BEESWAX ALMOND OIL CETEARYL OLIVATE ROSEMARY OIL RICE BRAN OIL SHEA BUTTER CANNABIDIOL ARNICA MONTANA FLOWER WATER SODIUM PHYTATE WATER CEDRUS ATLANTICA WOOD OIL TOCOPHEROL SORBITAN OLIVATE
+active_ingredient:
+  Active Ingredients Allantoin 0.72% .................................................................................................. Skin Protectant Purpose Allantoin 0.72% .................................................................................................. Skin Protectant
+purpose:
+  Purpose Allantoin 0.72% .................................................................................................. Skin Protectant
+indications_and_usage:
+  Uses helps prevent and temporarily protects and helps relieve chafed, chapped, or cracked skin • helps prevent and protect from the drying effects of wind and cold weather
+warnings:
+  Warnings FOR EXTERNAL USE ONLY.
+when_using:
+  When using this product Do not get into eyes on deep or puncture wounds • animal bites • serious burns
+do_not_use:
+  on deep or puncture wounds • animal bites • serious burns
+stop_use:
+  Stop use and ask a doctor if The condition worsens, symptoms last more than 7 days, the condition clears but occurs again within a few days. Stop use and ask a doctor if Condition worsens, Symptoms last more than 7 days, Condition clears up but occurs again within a few days.
+ask_doctor:
+  Stop use and ask a doctor if Condition worsens, Symptoms last more than 7 days, Condition clears up but occurs again within a few days.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding Consult a health professional before use In case of an overdose seek medical help or contact a poison control center right away
+overdosage:
+  In case of an overdose seek medical help or contact a poison control center right away
+dosage_and_administration:
+  Directions • Adults and children 2 years of age and older: Apply as needed • Children under 2 years of age: Do not use, consult a doctor Keep out of reach of children keep out of reach of children Keep out of reach of children keep out of reach of children
+keep_out_of_reach_of_children:
+  Keep out of reach of children keep out of reach of children
+  Keep out of reach of children keep out of reach of children
+other_safety_information:
+  Other information Store at 68-77 degrees F, Avoid direct sunlight
+inactive_ingredient:
+  Inactive ingredients Arnica oil, Beeswax, Cedarwood oil, Cetearyl olivate, Coconut oil, Glycerin, Hemp extract (Full Spectrum), Jojoba oil, Rice bran oil, Rosemary oil, Shea butter, Sodium phytate, Sorbitan olivate, Stearic acid, Sweet almond oil, Tocopherol, Water
+package_label_principal_display_panel:
+  Jar label Jar back label
+  Jar front label
+set_id:
+  3dd5887f-a26b-01ef-e063-6394a90a0c52
+id:
+  3dd58fb7-b461-d5f6-e063-6294a90a1c0c
+effective_time:
+  20250902
+version:
+  1
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Healing Hand Cream
+  generic_name:
+    ALLANTOIN
+  manufacturer_name:
+    Carolina Cannabis Creations LLC
+  product_ndc:
+    82876-224
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALLANTOIN
+  spl_id:
+    3dd58fb7-b461-d5f6-e063-6294a90a1c0c
+  spl_set_id:
+    3dd5887f-a26b-01ef-e063-6394a90a0c52
+  package_ndc:
+    82876-224-40
+    82876-224-02
+  is_original_packager:
+    True
+  upc:
+    0850024328211
+  unii:
+    344S277G0Z
