@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function ChatView({ chat, onSendMessage }) {
+function ChatView({ chat, onSendMessage, onRenameChat }) {
   const [input, setInput] = useState("");
 
   if (!chat) {
@@ -30,25 +30,68 @@ function ChatView({ chat, onSendMessage }) {
       <div className="chat-header">
         <div>
           <span className="eyebrow">Conversation</span>
-          <h3>{chat.drugName}</h3>
+
+          <div className="chat-title-row">
+            <h3>{chat.title || `${chat.drugName} - ${chat.question}`}</h3>
+
+            <button
+              type="button"
+              className="rename-chat-button"
+              onClick={() => {
+                const newTitle = window.prompt(
+                  "Rename conversation:",
+                  chat.title || chat.drugName
+                );
+
+                if (newTitle === null) return;
+
+                const trimmedTitle = newTitle.trim();
+
+                if (!trimmedTitle) return;
+
+                onRenameChat(chat.id, trimmedTitle);
+              }}
+              title="Rename conversation"
+              aria-label="Rename conversation"
+            >
+              ✏️
+            </button>
+          </div>
         </div>
 
         <span className="chat-date">{chat.timestamp}</span>
       </div>
 
       <div className="messages">
-        {chat.messages.map((message) => (
-          <div
-            key={message.id}
-            className={`message ${message.role}`}
-          >
-            <strong>
-              {message.role === "user" ? "You" : "Copilot"}
-            </strong>
+        {chat.messages.map((message) =>
+          message.loading ? (
+            <div
+              key={message.id}
+              className="message assistant"
+            >
+              <strong>Copilot</strong>
 
-            <p>{message.text}</p>
-          </div>
-        ))}
+              <div className="typing-indicator">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+          ) : (
+            <div
+              key={message.id}
+              className={`message ${message.role}`}
+            >
+              <strong>
+                {message.role === "user"
+                  ? "You"
+                  : "Copilot"}
+              </strong>
+
+              <p>{message.text}</p>
+            </div>
+          )
+        )}
       </div>
 
       <form className="chat-input-area" onSubmit={handleSubmit}>

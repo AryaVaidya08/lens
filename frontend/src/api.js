@@ -52,6 +52,16 @@ export async function getChats(hcpId) {
   return data.chats;
 }
 
+export async function deleteChat(hcpId, conversationId) {
+  return request(
+    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    {
+      method: "DELETE",
+      headers: authHeaders(),
+    }
+  );
+}
+
 export async function getDrugSummary(drugId, hcpId) {
   return request(
     `/drug/${drugId}/summary?hcp_id=${encodeURIComponent(hcpId)}`,
@@ -100,6 +110,17 @@ export async function getPatient(hcpId, patientId) {
     `/profile/${hcpId}/patients/${encodeURIComponent(patientId)}`,
     {
       headers: authHeaders(),
+    }
+  );
+}
+
+export async function renameChat(hcpId, conversationId, title) {
+  return request(
+    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    {
+      method: "PATCH",
+      headers: authHeaders(),
+      body: JSON.stringify({ title }),
     }
   );
 }

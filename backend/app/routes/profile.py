@@ -43,6 +43,8 @@ class ProfileUpdate(BaseModel):
     region: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
     country: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
 
+class RenameChatRequest(BaseModel):
+    title: str = Field(min_length=1, max_length=100)
 
 @router.get("/{hcp_id}/chats")
 @router.get("/{hcp_id}/chats")
@@ -110,6 +112,8 @@ def list_chats(
                 "drug_id": latest_row["drug_id"],
                 "question": first_row["question"],
                 "answer": first_row["answer"],
+                "title": latest_row.get("title")
+                or first_row["question"][:50],
                 "preview": latest_row["question"],
                 "asked_at": (
                     latest_row["asked_at"].isoformat()
@@ -119,12 +123,49 @@ def list_chats(
                 "messages": messages,
             }
         )
-
     # Most recently active conversation first.
     chats.sort(key=lambda chat: chat.get("asked_at") or "", reverse=True)
 
     return {"chats": chats}
 
+@router.delete("/{hcp_id}/chats/{conversation_id}")
+def delete_chat(
+    hcp_id: str,
+    conversation_id: str,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    # New conversations store conversation_id directly.
+    result = db.chats.delete_many(
+        {
+            "hcp_id": hcp["_id"],
+            "conversation_id": conversation_id,
+        }
+    )
+
+    # Legacy conversations did not have conversation_id.
+    # Their conversation ID is represented by their MongoDB _id.
+    if result.deleted_count == 0:
+        from bson import ObjectId
+
+        try:
+            object_id = ObjectId(conversation_id)
+        except Exception:
+            object_id = None
+
+        if object_id:
+            result = db.chats.delete_many(
+                {
+                    "hcp_id": hcp["_id"],
+                    "_id": object_id,
+                }
+            )
+
+    return {
+        "deleted": result.deleted_count > 0,
+    }
 
 @router.get("/{hcp_id}/patients")
 def list_patients(
@@ -248,3 +289,59 @@ def update_profile(
     if stored is None:
         raise HTTPException(status_code=404, detail="Unknown hcp_id: %s" % hcp_id)
     return public_hcp(stored, db)
+
+@router.patch("/{hcp_id}/chats/{conversation_id}")
+def rename_chat(
+    hcp_id: str,
+    conversation_id: str,
+    payload: RenameChatRequest,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    title = payload.title.strip()
+
+    if not title:
+        raise HTTPException(
+            status_code=400,
+            detail="Conversation title cannot be empty.",
+        )
+
+    result = db.chats.update_many(
+        {
+            "hcp_id": hcp["_id"],
+            "conversation_id": conversation_id,
+        },
+        {
+            "$set": {
+                "title": title,
+            }
+        },
+    )
+
+    # Support old conversations that use the MongoDB _id as their conversation ID.
+    if result.matched_count == 0:
+        from bson import ObjectId
+
+        try:
+            object_id = ObjectId(conversation_id)
+        except Exception:
+            object_id = None
+
+        if object_id:
+            result = db.chats.update_one(
+                {
+                    "hcp_id": hcp["_id"],
+                    "_id": object_id,
+                },
+                {
+                    "$set": {
+                        "title": title,
+                    }
+                },
+            )
+
+    return {
+        "title": title,
+    }

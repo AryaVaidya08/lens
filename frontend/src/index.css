@@ -1083,3 +1083,184 @@ h4 {
 .primary-button:hover {
   background: #1d4ed8;
 }
+
+.list-item {
+  position: relative;
+}
+
+.list-item-content {
+  min-width: 0;
+  padding-right: 28px;
+}
+
+.delete-chat-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+
+  background: transparent;
+  color: #98a2b3;
+
+  cursor: pointer;
+  opacity: 0;
+  transition:
+    opacity 0.15s ease,
+    background 0.15s ease,
+    color 0.15s ease;
+}
+
+.list-item:hover .delete-chat-button {
+  opacity: 1;
+}
+
+.delete-chat-button:hover {
+  background: #fee2e2;
+  color: #dc2626;
+}
+
+.typing-indicator {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  height: 20px;
+}
+
+.typing-indicator span {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #98a2b3;
+  animation: typing 1.2s infinite ease-in-out;
+}
+
+.typing-indicator span:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.typing-indicator span:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+@keyframes typing {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+
+  30% {
+    transform: translateY(-4px);
+    opacity: 1;
+  }
+}
+
+.chat-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.chat-title-row h3 {
+  margin: 0;
+}
+
+.rename-chat-button {
+  padding: 4px 6px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: #98a2b3;
+  cursor: pointer;
+  opacity: 0;
+  transition:
+    opacity 0.15s ease,
+    background 0.15s ease,
+    color 0.15s ease;
+}
+
+.chat-title-row:hover .rename-chat-button {
+  opacity: 1;
+}
+
+.rename-chat-button:hover {
+  background: #eef2f7;
+  color: #172033;
+}
+.chat-list-title {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  min-width: 0;
+}
+
+.chat-list-title strong {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.chat-list-title .rename-chat-button {
+  flex-shrink: 0;
+  padding: 2px 4px;
+  border: none;
+  border-radius: 5px;
+  background: transparent;
+  color: #98a2b3;
+  cursor: pointer;
+  opacity: 0;
+  font-size: 12px;
+
+  transition:
+    opacity 0.15s ease,
+    background 0.15s ease,
+    color 0.15s ease;
+}
+
+.list-item:hover .chat-list-title .rename-chat-button {
+  opacity: 1;
+}
+
+.chat-list-title .rename-chat-button:hover {
+  background: #eef2f7;
+  color: #172033;
+}
+
+.chat-title-edit {
+  min-width: 0;
+  flex: 1;
+}
+
+.chat-title-input {
+  width: 100%;
+  min-width: 0;
+  padding: 3px 6px;
+
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+
+  outline: none;
+  background: white;
+  color: #172033;
+
+  font: inherit;
+  font-weight: 600;
+}
+
+.chat-title-input:focus {
+  border-color: #64748b;
+  box-shadow: 0 0 0 2px rgba(100, 116, 139, 0.1);
+}
+
+.list-item:hover .rename-chat-button {
+  opacity: 1;
+}
+
+.chat-list-title .rename-chat-button:hover {
+  background: #eef2f7;
+  color: #172033;
+}

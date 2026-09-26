@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import {
   getChats,
+  deleteChat,
+  renameChat,
   getDrugSummary,
   askDrugQuestion,
   logEngagement,
-  getPatients,
-  getPatient,
+  getPatients
 } from "./api";
 import { drugs } from "./data/mockData";
 import Sidebar from "./components/Sidebar";
@@ -47,7 +48,6 @@ function App() {
   function handleLogout() {
     localStorage.removeItem("lens_session_token");
     localStorage.removeItem("lens_hcp_id");
-    sessionStorage.removeItem("lens_active_patient");
 
     setHcpId(null);
     setChats([]);
@@ -55,6 +55,34 @@ function App() {
     setSelectedDrug(null);
     setPatients([]);
     setSelectedPatient(null);
+  }
+
+  async function handleDeleteChat(chatId) {
+    if (!hcpId) return;
+
+    const chat = chats.find((item) => item.id === chatId);
+    if (!chat) return;
+
+    const confirmed = window.confirm(
+      "Delete this conversation? This cannot be undone."
+    );
+
+    if (!confirmed) return;
+
+    try {
+      await deleteChat(hcpId, chat.conversationId || chat.id);
+
+      setChats((currentChats) =>
+        currentChats.filter((item) => item.id !== chatId)
+      );
+
+      setSelectedChat((currentChat) =>
+        currentChat?.id === chatId ? null : currentChat
+      );
+    } catch (err) {
+      console.error("Failed to delete chat:", err);
+      setError(`Failed to delete conversation: ${err.message}`);
+    }
   }
 
   useEffect(() => {
@@ -74,6 +102,9 @@ function App() {
           drugName:
             drugs.find((drug) => drug.id === chat.drug_id)?.name ||
             chat.drug_id,
+          title:
+            chat.title ||
+            `${chat.drugName} - ${chat.question}`,
           timestamp: chat.asked_at
             ? new Date(chat.asked_at).toLocaleString()
             : "",
@@ -172,24 +203,53 @@ function App() {
       text,
     };
 
-    setChats((currentChats) =>
-      currentChats.map((item) =>
+    const loadingMessage = {
+      id: `loading-${Date.now()}`,
+      role: "assistant",
+      text: "",
+      loading: true,
+    };
+
+    // Immediately update the chat and move it to the top.
+    setChats((currentChats) => {
+      const updatedChats = currentChats.map((item) =>
         item.id === chatId
           ? {
               ...item,
-              messages: [...item.messages, userMessage],
+              messages: [
+                ...item.messages,
+                userMessage,
+                loadingMessage,
+              ],
               preview: text,
               timestamp: "Just now",
             }
           : item
-      )
-    );
+      );
 
+      const updatedChat = updatedChats.find(
+        (item) => item.id === chatId
+      );
+
+      const otherChats = updatedChats.filter(
+        (item) => item.id !== chatId
+      );
+
+      return updatedChat
+        ? [updatedChat, ...otherChats]
+        : updatedChats;
+    });
+
+    // Immediately update the open conversation.
     setSelectedChat((currentChat) =>
       currentChat?.id === chatId
         ? {
             ...currentChat,
-            messages: [...currentChat.messages, userMessage],
+            messages: [
+              ...currentChat.messages,
+              userMessage,
+              loadingMessage,
+            ],
             preview: text,
             timestamp: "Just now",
           }
@@ -210,14 +270,21 @@ function App() {
         text: response.answer_text,
       };
 
+      // Remove loading message and add the real response.
       setChats((currentChats) =>
         currentChats.map((item) =>
           item.id === chatId
             ? {
                 ...item,
                 conversationId:
-                  response.conversation_id || item.conversationId,
-                messages: [...item.messages, assistantMessage],
+                  response.conversation_id ||
+                  item.conversationId,
+                messages: [
+                  ...item.messages.filter(
+                    (message) => !message.loading
+                  ),
+                  assistantMessage,
+                ],
               }
             : item
         )
@@ -228,8 +295,14 @@ function App() {
           ? {
               ...currentChat,
               conversationId:
-                response.conversation_id || currentChat.conversationId,
-              messages: [...currentChat.messages, assistantMessage],
+                response.conversation_id ||
+                currentChat.conversationId,
+              messages: [
+                ...currentChat.messages.filter(
+                  (message) => !message.loading
+                ),
+                assistantMessage,
+              ],
             }
           : currentChat
       );
@@ -242,14 +315,73 @@ function App() {
         text: `Sorry, I couldn't get an answer: ${err.message}`,
       };
 
+      // Remove loading message even when the request fails.
+      setChats((currentChats) =>
+        currentChats.map((item) =>
+          item.id === chatId
+            ? {
+                ...item,
+                messages: [
+                  ...item.messages.filter(
+                    (message) => !message.loading
+                  ),
+                  errorMessage,
+                ],
+              }
+            : item
+        )
+      );
+
       setSelectedChat((currentChat) =>
         currentChat?.id === chatId
           ? {
               ...currentChat,
-              messages: [...currentChat.messages, errorMessage],
+              messages: [
+                ...currentChat.messages.filter(
+                  (message) => !message.loading
+                ),
+                errorMessage,
+              ],
             }
           : currentChat
       );
+    }
+  }
+  async function handleRenameChat(chatId, title) {
+    if (!hcpId) return;
+
+    const chat = chats.find((item) => item.id === chatId);
+    if (!chat) return;
+
+    try {
+      const response = await renameChat(
+        hcpId,
+        chat.conversationId || chat.id,
+        title
+      );
+
+      setChats((currentChats) =>
+        currentChats.map((item) =>
+          item.id === chatId
+            ? {
+                ...item,
+                title: response.title,
+              }
+            : item
+        )
+      );
+
+      setSelectedChat((currentChat) =>
+        currentChat?.id === chatId
+          ? {
+              ...currentChat,
+              title: response.title,
+            }
+          : currentChat
+      );
+    } catch (err) {
+      console.error("Failed to rename chat:", err);
+      setError(`Failed to rename conversation: ${err.message}`);
     }
   }
 
@@ -274,12 +406,14 @@ function App() {
               chats={chats}
               selectedChat={selectedChat}
               setSelectedChat={setSelectedChat}
+              onDeleteChat={handleDeleteChat}
+              onRenameChat={handleRenameChat}
               loading={loading}
             />
-
             <ChatView
               chat={selectedChat}
               onSendMessage={handleSendMessage}
+              onRenameChat={handleRenameChat}
             />
           </div>
         )}
