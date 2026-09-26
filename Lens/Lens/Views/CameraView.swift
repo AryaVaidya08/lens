@@ -76,11 +76,14 @@ struct CameraView: View {
     @StateObject private var resolver = DrugResolver()
     @State private var bubbleSize: CGSize = CGSize(width: 150, height: 70)
     @State private var flashOpacity: Double = 1.0
-    /// Personalized content from GET /drug/{id}/summary. Nil until it arrives
-    /// (or if the backend is unreachable), in which case the offline catalog
-    /// fills the bubble so the HUD is never blank.
+    /// Personalized content; the offline catalog is used only after failure.
     @State private var summary: DrugSummary?
     @State private var loadingDrugId: String?
+    @State private var failedSummaryDrugId: String?
+    @State private var checkError: String?
+    @State private var patientScanDrug: Drug?
+    @State private var summaryRequestID = UUID()
+    @State private var expandedMessage: ScanMessageDetails?
 
     var body: some View {
         GeometryReader { geometry in
@@ -92,16 +95,43 @@ struct CameraView: View {
 
                 VStack {
                     scanPatientChip
+                    if let patient = appState.scanSessionPatient, let drug = patientScanDrug {
+                        HUDOverlayView(
+                            summary: patientSummary(for: drug),
+                            patient: patient,
+                            isLoading: loadingDrugId == drug.id,
+                            checkError: checkError,
+                            retry: { Task { await loadPersonalizedContent(for: drug, logTouch: false) } },
+                            onExpand: {
+                                expandedMessage = ScanMessageDetails(summary: patientSummary(for: drug), patient: patient, error: checkError)
+                            }
+                        )
+                        .padding(.horizontal, 16)
+                    }
                     Spacer()
+
                 }
                 .padding(.top, 12)
 
-                if let detection = arManager.activeDetection {
+                if appState.scanSessionPatient == nil, let detection = arManager.activeDetection {
+                    let drugId = resolver.cachedDrug(forRawPayload: detection.rawPayload)?.id ?? detection.drugId
+                    let phase = ScanSummaryPhase.resolve(drugId: drugId, summary: summary, failedDrugId: failedSummaryDrugId)
                     let scale = proximityScale(for: detection.screenAnchor)
                     let scaledBubbleSize = CGSize(width: bubbleSize.width * scale, height: bubbleSize.height * scale)
 
                     HUDOverlayView(
-                        summary: displaySummary(for: detection)
+                        summary: displaySummary(for: detection, phase: phase),
+                        patient: appState.scanSessionPatient,
+                        isLoading: phase == .loading,
+                        checkError: checkError,
+                        retry: {
+                            guard let drug = appState.currentDrug else { return }
+                            Task { await loadPersonalizedContent(for: drug, logTouch: false) }
+                        },
+                        isOffline: phase == .offline,
+                        onExpand: {
+                            expandedMessage = ScanMessageDetails(summary: displaySummary(for: detection, phase: phase), isOffline: phase == .offline)
+                        }
                     )
                         .background(
                             GeometryReader { bubbleGeometry in
@@ -122,6 +152,9 @@ struct CameraView: View {
                         .transition(.opacity)
                 }
             }
+        }
+        .fullScreenCover(item: $expandedMessage) { message in
+            ScanMessageDetailView(message: message)
         }
         .onPreferenceChange(SizePreferenceKey.self) { bubbleSize = $0 }
         .onAppear {
@@ -157,10 +190,25 @@ struct CameraView: View {
                   let drug = resolver.cachedDrug(forRawPayload: detection.rawPayload) else { return }
             adopt(drug)
         }
-        .onChange(of: appState.scanSessionPatient?.id) { _, _ in
-            guard let drug = appState.currentDrug else { return }
+        .onChange(of: appState.scanSessionPatient?.id) { _, patientId in
+            summaryRequestID = UUID()
+            failedSummaryDrugId = nil
+            checkError = nil
             summary = nil
             loadingDrugId = nil
+            patientScanDrug = nil
+            guard let detection = arManager.activeDetection else { return }
+            let drug = resolver.cachedDrug(forRawPayload: detection.rawPayload)
+                ?? Drug(id: detection.drugId, name: detection.name)
+            appState.currentDrug = drug
+            if patientId != nil { patientScanDrug = drug }
+            Task { await loadPersonalizedContent(for: drug, logTouch: false) }
+        }
+        .onChange(of: appState.selectedHCP?.specialty) { _, _ in
+            guard let drug = appState.currentDrug else { return }
+            summaryRequestID = UUID()
+            failedSummaryDrugId = nil
+            summary = nil
             Task { await loadPersonalizedContent(for: drug, logTouch: false) }
         }
         .onChange(of: arManager.isStale) { _, stale in
@@ -237,13 +285,14 @@ struct CameraView: View {
         return CGPoint(x: x, y: y)
     }
 
-    /// The personalized summary once it arrives, otherwise the offline catalog
-    /// so the bubble is populated the instant something is detected.
-    private func displaySummary(for detection: DetectionResult) -> DrugSummary {
-        if let summary, summary.drugId == appState.currentDrug?.id {
+    private func displaySummary(for detection: DetectionResult, phase: ScanSummaryPhase) -> DrugSummary {
+        let drugId = resolver.cachedDrug(forRawPayload: detection.rawPayload)?.id ?? detection.drugId
+        if let summary, summary.drugId == drugId {
             return summary
         }
-        let drugId = appState.currentDrug?.id ?? detection.drugId
+        guard phase == .offline else {
+            return DrugSummary(drugId: drugId, name: detection.name, tier: "new", headline: "", bullets: [])
+        }
         // `detection` only ever exists because resolvePayload matched a
         // known demo drug (see ARSessionManager.handleObjectSeen), so
         // `drugId` is always in the catalog — the empty summary below is
@@ -253,12 +302,19 @@ struct CameraView: View {
             ?? DrugSummary(drugId: detection.drugId, name: detection.name, tier: "new", headline: "", bullets: [])
     }
 
+    private func patientSummary(for drug: Drug) -> DrugSummary {
+        if let summary, summary.drugId == drug.id { return summary }
+        return DrugSummary(drugId: drug.id, name: drug.name, tier: "new", headline: "", bullets: [])
+    }
+
     private func adopt(_ drug: Drug) {
+        if appState.scanSessionPatient != nil { patientScanDrug = drug }
         if appState.currentDrug != drug {
             appState.currentDrug = drug
             summary = nil
+            failedSummaryDrugId = nil
         }
-        guard summary?.drugId != drug.id, loadingDrugId != drug.id else { return }
+        guard summary?.drugId != drug.id, loadingDrugId != drug.id, failedSummaryDrugId != drug.id else { return }
         loadingDrugId = drug.id
         Task { await loadPersonalizedContent(for: drug, logTouch: true) }
     }
@@ -269,7 +325,7 @@ struct CameraView: View {
     /// "returning" rather than both showing the post-scan tier.
     private var scanPatientChip: some View {
         Group {
-            if let patient = appState.selectedPatient {
+            if let patient = appState.scanSessionPatient {
                 HStack(spacing: 8) {
                     Image(systemName: "person.crop.circle")
                     Text(patient.displayName)
@@ -292,31 +348,51 @@ struct CameraView: View {
     }
 
     private func loadPersonalizedContent(for drug: Drug, logTouch: Bool) async {
-        guard let hcpId = appState.selectedHCP?.id else { return }
+        guard let hcpId = appState.selectedHCP?.id else {
+            failedSummaryDrugId = drug.id
+            loadingDrugId = nil
+            return
+        }
+        failedSummaryDrugId = nil
+        let patientId = appState.scanSessionPatient?.id
+        let requestID = UUID()
+        summaryRequestID = requestID
+        loadingDrugId = drug.id
+        checkError = nil
+        defer {
+            if summaryRequestID == requestID { loadingDrugId = nil }
+        }
         do {
-            let patientId = appState.scanSessionPatient?.id
             let fetched = try await APIClient.shared.getSummary(
                 drugId: drug.id,
                 hcpId: hcpId,
                 patientId: patientId
             )
-            guard appState.currentDrug?.id == fetched.drugId else { return }
+            guard summaryRequestID == requestID,
+                  appState.selectedHCP?.id == hcpId,
+                  appState.scanSessionPatient?.id == patientId,
+                  appState.currentDrug?.id == fetched.drugId else { return }
             summary = fetched
             appState.familiarityTier = fetched.tier
+            // Display the result without waiting for engagement logging.
+            loadingDrugId = nil
             if logTouch {
                 try await APIClient.shared.logEngagement(
                     hcpId: hcpId,
                     drugId: drug.id,
                     patientId: patientId
                 )
-                appState.finishScanSelection()
+                if summaryRequestID == requestID,
+                   appState.scanSessionPatient?.id == patientId {
+                    appState.finishScanSelection()
+                }
             }
         } catch {
-            // Offline: the catalog summary stays on screen and the scan simply
-            // isn't logged. Nothing to surface mid-demo.
-        }
-        if loadingDrugId == drug.id {
-            loadingDrugId = nil
+            guard summaryRequestID == requestID else { return }
+            if summary?.drugId != drug.id { failedSummaryDrugId = drug.id }
+            if patientId != nil, summary == nil {
+                checkError = "Patient check unavailable. Interactions and allergy risks have not been assessed."
+            }
         }
     }
 }

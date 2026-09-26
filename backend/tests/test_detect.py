@@ -34,3 +34,13 @@ def test_detect_ocr_short_fragment_does_not_false_match(client):
 def test_detect_ocr_similar_but_wrong_name_does_not_match(client):
     resp = client.post("/detect", json={"barcode": None, "ocr_text": "qxv9-not-a-label"})
     assert resp.status_code == 404
+
+
+def test_detect_ocr_common_english_does_not_match_a_drug_named_real(client):
+    assert client.post("/detect", json={"ocr_text": "not a real drug at all"}).status_code == 404
+
+
+def test_detect_ativan_alias_resolves_to_lorazepam(client):
+    resp = client.post("/detect", json={"ocr_text": "Ativan 1mg"})
+    assert resp.status_code == 200
+    assert resp.json()["drug_id"] == "lorazepam"

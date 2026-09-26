@@ -24,11 +24,6 @@ enum Endpoints {
         "/patients/\(pathSegment(patientId))/medication-reviews/\(pathSegment(reviewId))"
     }
     static let detect = "/detect"
-    static let accessPolicies = "/medication-access/policies"
-    static func medicationAccess(patientId: String) -> String { "/patients/\(pathSegment(patientId))/medication-access" }
-    static func medicationAccessCase(patientId: String, caseId: String) -> String {
-        "\(medicationAccess(patientId: patientId))/\(pathSegment(caseId))"
-    }
     static func summary(drugId: String) -> String { "/drug/\(pathSegment(drugId))/summary" }
     static func ask(drugId: String) -> String { "/drug/\(pathSegment(drugId))/ask" }
     static let engagementLog = "/engagement/log"

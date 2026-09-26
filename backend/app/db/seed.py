@@ -139,42 +139,22 @@ def seed(db: Optional[Database] = None) -> None:
     # the larger llm-rag dossier corpus rather than a small hard-coded
     # list of drugs.
     dossiers = load_dossiers(settings.drug_docs_path)
-    already = db.drugs.count_documents({})
-    if already < len(dossiers):
-        for dossier in dossiers.values():
-            codes = list(DEMO_BARCODES.get(dossier.drug_id, []))
-            if dossier.barcode:
-                codes.append(dossier.barcode)
-            codes = list(dict.fromkeys(code for code in codes if code))
-            db.drugs.update_one(
-                {"_id": dossier.drug_id},
-                {
-                    "$set": {
-                        "name": dossier.name,
-                        "barcode": codes[0] if codes else "",
-                        "barcodes": codes,
-                    }
-                },
-                upsert=True,
-            )
-    else:
-        for drug_id, extra in DEMO_BARCODES.items():
-            dossier = dossiers.get(drug_id)
-            codes = list(extra)
-            if dossier and dossier.barcode:
-                codes.append(dossier.barcode)
-            codes = list(dict.fromkeys(code for code in codes if code))
-            if not codes:
-                continue
-            db.drugs.update_one(
-                {"_id": drug_id},
-                {
-                    "$set": {
-                        "barcode": codes[0],
-                        "barcodes": codes,
-                    }
-                },
-            )
+    for dossier in dossiers.values():
+        codes = list(DEMO_BARCODES.get(dossier.drug_id, []))
+        if dossier.barcode:
+            codes.append(dossier.barcode)
+        codes = list(dict.fromkeys(code for code in codes if code))
+        db.drugs.update_one(
+            {"_id": dossier.drug_id},
+            {
+                "$set": {
+                    "name": dossier.name,
+                    "barcode": codes[0] if codes else "",
+                    "barcodes": codes,
+                }
+            },
+            upsert=True,
+        )
 
     # ------------------------------------------------------------------
     # Demo engagement history

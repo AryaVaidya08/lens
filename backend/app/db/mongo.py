@@ -85,7 +85,6 @@ def ensure_indexes(db: Database) -> None:
     db.chats.create_index([("hcp_id", 1), ("asked_at", -1)])
     db.patients.create_index("hcp_id")
     db.medication_reviews.create_index([("hcp_id", 1), ("patient_id", 1), ("updated_at", -1)])
-    db.medication_access.create_index([("hcp_id", 1), ("patient_id", 1), ("updated_at", -1)])
     db.sessions.create_index("token_hash", unique=True)
     db.sessions.create_index("hcp_id")
     db.sessions.create_index("expires_at")

@@ -1,4 +1,3 @@
-from app.personalization.access_prefill import build_access_prefill
 from app.personalization.patient_check import check_patient_chart
 from tests.auth_util import login
 
@@ -36,13 +35,6 @@ def test_empty_chart_is_clear():
     assert check["flags"] == []
 
 
-def test_access_prefill_reads_dossier():
-    prefill = build_access_prefill("adderall", "Adderall")
-    assert prefill["medication"] == "Adderall"
-    assert prefill["strength"]
-    assert prefill["formulation"] == "tablet"
-
-
 def test_summary_route_uses_owned_patient_only(client):
     headers, _ = login(client, "hcp_001")
     flagged = client.get(
@@ -53,7 +45,6 @@ def test_summary_route_uses_owned_patient_only(client):
     assert flagged.status_code == 200
     body = flagged.json()
     assert body["patient_check"]["status"] == "flag"
-    assert body["access_prefill"]["medication"] == "Adderall"
     assert (
         client.get(
             "/drug/adderall/summary",

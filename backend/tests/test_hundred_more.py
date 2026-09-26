@@ -1,8 +1,7 @@
-"""Broad regression cases for detect, chart flags, access prefill, and authz."""
+"""Broad regression cases for detect, chart flags, and authz."""
 
 import pytest
 
-from app.personalization.access_prefill import build_access_prefill
 from app.personalization.patient_check import check_patient_chart
 from tests.auth_util import login
 
@@ -151,22 +150,11 @@ CHART_FLAGS = [
     ),
 ]
 
-PREFILL_DRUGS = [
-    ("adderall", "Adderall"),
-    ("lorazepam", "Lorazepam"),
-    ("biofreeze", "Biofreeze"),
-    ("ibuprofen", "Ibuprofen"),
-    ("tylenol", "Tylenol"),
-    ("advil", "Advil"),
-]
-
 PRIVATE_GETS = [
     "/profile/hcp_001",
     "/profile/hcp_001/patients",
     "/patients/pat_001",
-    "/patients/pat_001/medication-access",
     "/patients/pat_001/medication-reviews",
-    "/medication-access/policies",
     "/drug/adderall/summary?hcp_id=hcp_001",
 ]
 
@@ -237,13 +225,6 @@ def test_each_chart_flag(pid, first, last, allergies, meds, drug_id, drug_name, 
         assert check["flags"] == []
 
 
-@pytest.mark.parametrize("drug_id,name", PREFILL_DRUGS)
-def test_each_access_prefill(drug_id, name):
-    prefill = build_access_prefill(drug_id, name)
-    assert prefill["medication"] == name
-    assert set(prefill) == {"medication", "strength", "formulation", "directions", "indication"}
-
-
 @pytest.mark.parametrize("path", PRIVATE_GETS)
 def test_each_private_get_requires_auth(client, path):
     assert client.get(path).status_code in {401, 403, 422}
@@ -271,7 +252,6 @@ def test_blank_patient_id_is_no_check(client, empty):
         headers=headers,
     ).json()
     assert body["patient_check"] is None
-    assert body["access_prefill"]["medication"]
 
 
 @pytest.mark.parametrize("drug_id", ["adderall", "lorazepam", "biofreeze", "ibuprofen", "tylenol"])
@@ -289,7 +269,7 @@ def test_summary_shape_for_demo_drugs(client, drug_id):
         "headline",
         "bullets",
         "patient_check",
-        "access_prefill",
+        "full_bullets",
     }
     assert body["tier"] in {"new", "returning", "expert"}
     assert isinstance(body["bullets"], list)

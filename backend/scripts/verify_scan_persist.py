@@ -1,4 +1,4 @@
-"""Login, sync clinic, check HUD flags, store an access case, confirm Mongo."""
+"""Login, sync clinic, check HUD flags, and confirm engagement persist."""
 
 from __future__ import annotations
 
@@ -6,7 +6,6 @@ import json
 import sys
 import urllib.error
 import urllib.request
-from uuid import uuid4
 
 BASE = "http://127.0.0.1:8000"
 
@@ -65,33 +64,7 @@ def main() -> int:
         print("live server is on old code; restart uvicorn to load scan check")
         return 2
     check = summary.get("patient_check") or {}
-    prefill = summary.get("access_prefill") or {}
     print("check", check.get("status"), check.get("flags"))
-    print("prefill", prefill.get("medication"), prefill.get("strength"), prefill.get("formulation"))
-
-    case_id = str(uuid4())
-    code, saved = request(
-        "PUT",
-        "/patients/pat_001/medication-access/" + case_id,
-        token,
-        body={
-            "medication": prefill.get("medication") or "Adderall",
-            "strength": prefill.get("strength") or "",
-            "formulation": prefill.get("formulation") or "",
-            "indication": prefill.get("indication") or "",
-            "medication_source": "Lens scan · Adderall",
-            "patient_dob": elena.get("birth_date") or "",
-            "prescriber": "Dr. Maya Patel",
-        },
-    )
-    print("save access", code, "case", saved.get("case_id"), "med", saved.get("medication"))
-    if code != 200:
-        print(saved)
-        return 1
-
-    code, listed = request("GET", "/patients/pat_001/medication-access", token)
-    ids = [row.get("case_id") for row in listed.get("cases", [])]
-    print("listed", case_id in ids, "count", len(ids))
 
     code, logged = request(
         "POST",
@@ -100,7 +73,7 @@ def main() -> int:
         body={"hcp_id": "hcp_001", "drug_id": "adderall", "patient_id": "pat_001"},
     )
     print("engagement", code, logged)
-    return 0 if check.get("status") == "flag" and case_id in ids else 1
+    return 0 if check.get("status") == "flag" else 1
 
 
 if __name__ == "__main__":

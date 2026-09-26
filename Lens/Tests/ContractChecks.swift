@@ -15,10 +15,50 @@ struct ContractChecks {
         decodeProfileWithAccountFields()
         decodePatientFolder()
         decodeSummary()
+        patientCheckIsolation()
+        patientConcernVisibility()
+        scanSummaryPhases()
         decodeAsk()
         decodeEngagement()
         rejectStaleCachePolicy()
         print("PASS: API contract encoding, decoding, URL joining, session cache")
+    }
+
+    private static func scanSummaryPhases() {
+        let summary = DrugSummary(drugId: "a", name: "A", tier: "new", headline: "Live", bullets: [])
+        precondition(ScanSummaryPhase.resolve(drugId: "a", summary: nil, failedDrugId: nil) == .loading)
+        precondition(ScanSummaryPhase.resolve(drugId: "a", summary: summary, failedDrugId: nil) == .loaded)
+        precondition(ScanSummaryPhase.resolve(drugId: "a", summary: nil, failedDrugId: "a") == .offline)
+        precondition(ScanSummaryPhase.resolve(drugId: "b", summary: summary, failedDrugId: "a") == .loading)
+        precondition(ScanSummaryPhase.resolve(drugId: "a", summary: summary, failedDrugId: "a") == .loaded)
+        print("PASS: scan loading, live result, offline fallback, and drug-switch isolation")
+    }
+
+    private static func patientConcernVisibility() {
+        func check(_ status: String, _ flags: [String]) -> PatientChartCheck {
+            PatientChartCheck(status: status, patientId: "patient-a", patientName: "Patient A", headline: "Check result", flags: flags, disclaimer: "Name matching only")
+        }
+        precondition(check("clear", []).hasNoMatches)
+        precondition(!check("clear", []).hasConcerns)
+        precondition(check("clear", [" ", "\n"]).hasNoMatches)
+        precondition(check("flag", ["Allergy list mentions penicillin."]).hasConcerns)
+        precondition(check("flag", ["  Concern  "]).displayFlags == ["Concern"])
+        precondition(!check("flag", []).hasNoMatches)
+        precondition(!check("unavailable", []).hasNoMatches)
+        precondition(check("clear", ["Concern"]).hasConcerns)
+        print("PASS: concerns shown, no-match section hidden, unavailable checks retained")
+    }
+
+    private static func patientCheckIsolation() {
+        var summary = DrugSummary(drugId: "drug-a", name: "Drug A", tier: "new", headline: "General info", bullets: [])
+        precondition(summary.chartCheck(for: "patient-a") == nil)
+        let check = PatientChartCheck(status: "flag", patientId: "patient-a", patientName: "Patient A", headline: "Review chart", flags: ["Recorded concern"], disclaimer: "Limited chart check")
+        summary.patientCheck = check
+        precondition(summary.chartCheck(for: "patient-a") == check)
+        precondition(summary.chartCheck(for: "patient-b") == nil)
+        summary.patientCheck = nil
+        precondition(summary.chartCheck(for: "patient-a") == nil)
+        print("PASS: patient scan rejects missing and other-patient checks")
     }
 
     private static func urlJoining() {
@@ -147,11 +187,17 @@ struct ContractChecks {
         precondition(summary.drugId == "adderall" && summary.tier == "new")
         precondition(summary.bullets.count == 1)
         precondition(summary.patientCheck == nil)
+        precondition(summary.expandedBullets == summary.bullets)
+        let expanded = try! JSONDecoder().decode(DrugSummary.self, from: Data("""
+        {"drug_id":"a","name":"A","tier":"new","headline":"Details","bullets":["Preview..."],"full_bullets":["The complete source text."]}
+        """.utf8))
+        precondition(expanded.expandedBullets == ["The complete source text."])
+
         let flagged = try! JSONDecoder().decode(DrugSummary.self, from: Data("""
-        {"drug_id":"adderall","name":"Adderall","tier":"new","headline":"What it is","bullets":["ADHD"],"patient_check":{"status":"flag","patient_id":"pat_001","patient_name":"Elena Vasquez","headline":"Chart flag","flags":["Allergy list mentions amphetamines."],"disclaimer":"Name match."},"access_prefill":{"medication":"Adderall","strength":"5 mg","formulation":"tablet","directions":"","indication":"ADHD"}}
+        {"drug_id":"adderall","name":"Adderall","tier":"new","headline":"What it is","bullets":["ADHD"],"patient_check":{"status":"flag","patient_id":"pat_001","patient_name":"Elena Vasquez","headline":"Chart flag","flags":["Allergy list mentions amphetamines."],"disclaimer":"Name match."}}
         """.utf8))
         precondition(flagged.patientCheck?.isFlag == true)
-        precondition(flagged.accessPrefill?.strength == "5 mg")
+        precondition(flagged.patientCheck?.patientId == "pat_001")
     }
 
     private static func decodeAsk() {

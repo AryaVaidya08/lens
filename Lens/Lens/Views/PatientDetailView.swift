@@ -19,12 +19,6 @@ struct PatientDetailView: View {
                     Label("Medication Review", systemImage: "pills")
                 }
                 .accessibilityIdentifier("patient.medicationReviews")
-                NavigationLink {
-                    MedicationAccessView(patient: patient)
-                } label: {
-                    Label("Medication Access", systemImage: "doc.text.magnifyingglass")
-                }
-                .accessibilityIdentifier("patient.medicationAccess")
             }
             Section("Chart") {
                 LabeledContent("Name", value: patient.displayName)
@@ -53,7 +47,7 @@ struct PatientDetailView: View {
         }
         .navigationTitle(patient.displayName)
         .safeAreaInset(edge: .bottom) {
-            Text("Chart is read-only. Medication reviews and access cases are saved separately.")
+            Text("Chart is read-only. Medication reviews are saved separately.")
                 .font(.footnote)
                 .foregroundStyle(.secondary)
                 .frame(maxWidth: .infinity)

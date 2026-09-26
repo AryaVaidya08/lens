@@ -18,7 +18,7 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
 
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Models/HCP.swift Lens/Lens/Models/Drug.swift \
-    Lens/Lens/Models/Patient.swift Lens/Lens/Models/MedicationAccess.swift \
+    Lens/Lens/Models/Patient.swift \
     Lens/Lens/Models/ScanHistory.swift \
     Lens/Lens/App/AppState.swift Lens/Tests/SessionChecks.swift \
     -o "$check_dir/session-checks"
@@ -43,14 +43,14 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Networking/Endpoints.swift Lens/Lens/Networking/APIClient.swift \
     Lens/Lens/Models/HCP.swift Lens/Lens/Models/Patient.swift Lens/Lens/Models/Drug.swift \
-    Lens/Lens/Models/DrugSummary.swift Lens/Lens/Models/MedicationReview.swift Lens/Lens/Models/MedicationAccess.swift Lens/Tests/ContractChecks.swift \
+    Lens/Lens/Models/DrugSummary.swift Lens/Lens/Models/MedicationReview.swift Lens/Tests/ContractChecks.swift \
     -o "$check_dir/contract-checks"
 "$check_dir/contract-checks"
 
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Networking/DrugResolver.swift Lens/Lens/Models/DemoDrugCatalog.swift \
     Lens/Lens/Models/HCP.swift Lens/Lens/Models/Patient.swift Lens/Lens/Models/Drug.swift Lens/Lens/Models/DrugSummary.swift \
-    Lens/Lens/Networking/APIClient.swift Lens/Lens/Networking/Endpoints.swift Lens/Lens/Models/MedicationReview.swift Lens/Lens/Models/MedicationAccess.swift \
+    Lens/Lens/Networking/APIClient.swift Lens/Lens/Networking/Endpoints.swift Lens/Lens/Models/MedicationReview.swift \
     Lens/Tests/ResolverChecks.swift \
     -o "$check_dir/resolver-checks"
 "$check_dir/resolver-checks"
@@ -59,7 +59,7 @@ if [[ "${LENS_SKIP_LIVE_API:-0}" != "1" ]] && curl -sf --max-time 2 http://127.0
     swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
         Lens/Lens/Networking/Endpoints.swift Lens/Lens/Networking/APIClient.swift \
         Lens/Lens/Models/HCP.swift Lens/Lens/Models/Patient.swift Lens/Lens/Models/Drug.swift \
-        Lens/Lens/Models/DrugSummary.swift Lens/Lens/Models/MedicationReview.swift Lens/Lens/Models/MedicationAccess.swift Lens/Tests/LiveAPIChecks.swift \
+        Lens/Lens/Models/DrugSummary.swift Lens/Lens/Models/MedicationReview.swift Lens/Tests/LiveAPIChecks.swift \
         -o "$check_dir/live-api-checks"
     "$check_dir/live-api-checks"
 else
@@ -70,12 +70,6 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Models/MedicationReview.swift Lens/Tests/MedicationReviewChecks.swift \
     -o "$check_dir/medication-review-checks"
 "$check_dir/medication-review-checks"
-
-swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
-    Lens/Lens/Models/Patient.swift Lens/Lens/Models/MedicationAccess.swift \
-    Lens/Tests/MedicationAccessChecks.swift \
-    -o "$check_dir/medication-access-checks"
-"$check_dir/medication-access-checks"
 
 if [[ "${LENS_RUN_VISION_OCR_CHECKS:-0}" == "1" ]]; then
     swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \

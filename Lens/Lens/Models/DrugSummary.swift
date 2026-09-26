@@ -7,6 +7,16 @@
 
 import Foundation
 
+enum ScanSummaryPhase {
+    case loading, loaded, offline
+
+    static func resolve(drugId: String, summary: DrugSummary?, failedDrugId: String?) -> Self {
+        if summary?.drugId == drugId { return .loaded }
+        if failedDrugId == drugId { return .offline }
+        return .loading
+    }
+}
+
 struct PatientChartCheck: Codable, Equatable {
     let status: String
     let patientId: String
@@ -17,19 +27,19 @@ struct PatientChartCheck: Codable, Equatable {
 
     var isFlag: Bool { status == "flag" }
 
+    var displayFlags: [String] {
+        flags.map { $0.trimmingCharacters(in: .whitespacesAndNewlines) }
+            .filter { !$0.isEmpty }
+    }
+
+    var hasConcerns: Bool { !displayFlags.isEmpty }
+    var hasNoMatches: Bool { status == "clear" && !hasConcerns }
+
     enum CodingKeys: String, CodingKey {
         case status, headline, flags, disclaimer
         case patientId = "patient_id"
         case patientName = "patient_name"
     }
-}
-
-struct AccessPrefill: Codable, Equatable {
-    var medication: String
-    var strength: String
-    var formulation: String
-    var directions: String
-    var indication: String
 }
 
 struct DrugSummary: Codable {
@@ -39,12 +49,19 @@ struct DrugSummary: Codable {
     let headline: String
     let bullets: [String]
     var patientCheck: PatientChartCheck? = nil
-    var accessPrefill: AccessPrefill? = nil
+    var fullBullets: [String]? = nil
+
+    var expandedBullets: [String] { fullBullets ?? bullets }
+
+    func chartCheck(for patientId: String) -> PatientChartCheck? {
+        guard patientCheck?.patientId == patientId else { return nil }
+        return patientCheck
+    }
 
     enum CodingKeys: String, CodingKey {
         case drugId = "drug_id"
         case name, tier, headline, bullets
         case patientCheck = "patient_check"
-        case accessPrefill = "access_prefill"
+        case fullBullets = "full_bullets"
     }
 }

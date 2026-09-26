@@ -13,9 +13,8 @@ from app.db.accounts import owned_patient, reject_path_id
 from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
 from app.llm.client import generate_answer
-from app.personalization.access_prefill import build_access_prefill
 from app.personalization.patient_check import check_patient_chart
-from app.personalization.scorer import build_summary_content, score_familiarity
+from app.personalization.scorer import build_summary_content, score_familiarity, _truncate
 from app.retrieval.index import retrieve
 
 router = APIRouter(prefix="/drug", tags=["drug"])
@@ -39,7 +38,7 @@ def get_summary(
     """
     Personalized HUD content for a drug, tailored to the HCP's
     familiarity tier. Optional patient_id adds a chart name-match
-    check and access-case prefill from the dossier.
+    check from the patient folder.
     """
     assert_same_hcp(hcp, hcp_id)
     drug_id = reject_path_id(drug_id, "drug_id")
@@ -51,10 +50,13 @@ def get_summary(
         )
 
     tier = score_familiarity(hcp["_id"], drug_id, db)
-    headline, bullets = build_summary_content(drug_id, tier)
+    specialty = hcp.get("specialty") or ""
+    requested = (patient_id or "").strip()
+    headline, full_bullets = build_summary_content(
+        drug_id, tier, specialty=specialty, compact=False
+    )
     name = drug.get("name", drug_id)
     check = None
-    requested = (patient_id or "").strip()
     if requested:
         patient = owned_patient(db, hcp, requested)
         check = check_patient_chart(patient, drug_id, name)
@@ -64,9 +66,9 @@ def get_summary(
         "name": name,
         "tier": tier,
         "headline": headline,
-        "bullets": bullets[:MAX_BULLETS],
+        "bullets": [_truncate(text) for text in full_bullets[:MAX_BULLETS]],
+        "full_bullets": full_bullets[:MAX_BULLETS],
         "patient_check": check,
-        "access_prefill": build_access_prefill(drug_id, name),
     }
 
 
@@ -100,9 +102,10 @@ def ask_question(
         )
 
     tier = score_familiarity(hcp["_id"], drug_id, db)
+    specialty = hcp.get("specialty") or ""
 
     try:
-        context = retrieve(drug_id, query)
+        context = retrieve(drug_id, query, specialty=specialty)
     except Exception as exc:
         raise HTTPException(
             status_code=500,
@@ -116,7 +119,7 @@ def ask_question(
         )
 
     try:
-        answer = generate_answer(query, context, tier)
+        answer = generate_answer(query, context, tier, specialty=specialty)
     except ValueError as exc:
         raise HTTPException(
             status_code=400,

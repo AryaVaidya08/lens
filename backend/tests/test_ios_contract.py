@@ -48,12 +48,11 @@ def test_ios_summary_query_item(client):
         "headline",
         "bullets",
         "patient_check",
-        "access_prefill",
+        "full_bullets",
     }
     assert body["tier"] in {"new", "returning", "expert"}
     assert isinstance(body["bullets"], list)
     assert body["patient_check"] is None
-    assert body["access_prefill"]["medication"]
 
 
 def test_trailing_slash_does_not_eat_post_body(client):

@@ -32,7 +32,7 @@ from app.db.seed import seed
 from app.retrieval import index
 from app.retrieval.embed import using_model
 from app.retrieval.ingest import ingest_docs
-from app.routes import auth, detect, drug, engagement, patients, profile, medication_reviews, medication_access
+from app.routes import auth, detect, drug, engagement, patients, profile, medication_reviews
 
 logger = logging.getLogger("uvicorn.error")
 
@@ -87,7 +87,6 @@ app.include_router(auth.router)
 app.include_router(profile.router)
 app.include_router(patients.router)
 app.include_router(medication_reviews.router)
-app.include_router(medication_access.router)
 app.include_router(detect.router)
 app.include_router(drug.router)
 app.include_router(engagement.router)

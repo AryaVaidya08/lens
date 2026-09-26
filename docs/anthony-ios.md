@@ -104,3 +104,65 @@ Silent input and errors during active recording still report an error. Added
 regressions cover those paths, cancellation before a late error, and 100 repeated
 recordings. This reproduces a missing-reply path in the coordinator; audible
 playback and live recognition still require checking on the iPhone.
+
+### Patient-specific scan presentation
+
+When a scan session has a patient, the scan bubble shows only the drug name,
+patient name, recorded allergies/current medications, and the existing backend
+patient-check results. General drug headlines and bullets remain exclusive to
+scans without a patient. Loading, missing checks, and offline failures never
+fall back to general information or imply that interactions were ruled out;
+unavailable checks offer Retry. Checks for a different patient are rejected,
+and late requests cannot overwrite a newer patient/drug scan. The patient chip
+remains visible for the session, including after engagement logging.
+
+### Specialty-aware general scans
+
+General scan summaries now use the authenticated HCP's saved specialty as well
+as familiarity. Initial display preferences cover primary care (including family
+and internal medicine), cardiology, endocrinology, pediatrics, geriatrics,
+obstetrics/gynecology, psychiatry, nephrology, and oncology. The backend selects
+existing dossier sections, reserving a slot for a prominent warning when
+available, then familiarity and specialty content. These are editorial section
+priorities, not validated clinical recommendations. The headline identifies the
+specialty when relevant content exists. Unknown specialties or missing relevant
+sections use the existing general summary; offline catalog content remains
+general. Patient-specific scan checks are unchanged. Editing specialty refreshes
+the active general scan without logging another engagement.
+
+Patient-check display follow-up: after detecting a drug in patient mode, keep
+its check panel visible even when live detection goes stale. The panel is fixed
+below the patient chip instead of shrinking/flashing with the bottle. Results
+(or an unavailable/retry message) appear before the chart details in a bounded
+scroll area. Scanning another drug replaces the retained result; changing or
+clearing the patient resets it. The existing checker remains chart/dossier name
+matching, not a comprehensive clinical allergy or interaction assessment.
+
+The concerns heading and details now appear only when the patient-check response
+contains nonblank flags. A completed `clear` response with no flags omits that
+section entirely; errors or incomplete responses retain an unavailable/retry
+message. Recorded chart allergies remain visible independently of a match to the
+scanned drug. The panel sizes to its text and scrolls only beyond its height cap,
+so an empty concerns section no longer reserves a large blank area. Contract
+checks cover flagged, clear, whitespace-only, inconsistent, and unavailable
+results. No-match results are not proof of clinical safety; the backend currently
+performs name matching only.
+
+General scan loading now shows only the detected drug name and a loading
+indicator until its personalized response arrives. The built-in catalog appears
+only after a request failure, labeled Offline information with Retry live details.
+A failed request stays in that state until retry or a different scan instead of
+repeatedly swapping content on detection updates. Engagement-log failures do not
+replace a successfully loaded summary. Patient checks keep their separate
+loading/error presentation and never use generic offline information.
+
+### Full-screen scan messages
+
+Tap a loaded scan card or its expand arrow to read it full-screen. The reader
+uses normal-sized, selectable text in a scroll view, with an X at the top-right.
+It snapshots the selected drug/patient result so changing camera detections do
+not replace it while reading. Patient messages keep the patient-only content.
+The summary API now includes optional `full_bullets` alongside compact `bullets`;
+the reader uses the untruncated selected dossier sections when available. Older
+backends and offline summaries fall back to the text they provide. Restart the
+backend to serve the new full-text field.

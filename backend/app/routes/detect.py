@@ -24,6 +24,22 @@ router = APIRouter(prefix="/detect", tags=["detect"])
 _TOKEN = re.compile(r"[a-z0-9]+")
 _FUZZY_CUTOFF = 0.72
 _WHOLE_WORD_SCORE = 0.95
+_WHOLE_WORD_MIN = 4
+_GENERIC_OCR_WORDS = {
+    "real",
+    "oral",
+    "plus",
+    "extra",
+    "daily",
+    "tablet",
+    "tablets",
+    "capsule",
+    "capsules",
+    "cream",
+    "spray",
+    "gel",
+    "solution",
+}
 
 
 class DetectRequest(BaseModel):
@@ -121,7 +137,12 @@ def _match_ocr(
     for drug in drugs:
         for name in _names_for(drug):
             name_tokens = _tokenize(name)
-            if not name_tokens or not all(token in tokens for token in name_tokens):
+            if (
+                not name_tokens
+                or len(name) < _WHOLE_WORD_MIN
+                or name in _GENERIC_OCR_WORDS
+                or not all(token in tokens for token in name_tokens)
+            ):
                 continue
             position = lowered.find(name)
             if position == -1:

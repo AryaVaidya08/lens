@@ -203,19 +203,6 @@ final class APIClient {
 
     // MARK: - Transport
 
-    func accessPolicies() async throws -> [AccessPolicy] {
-        try await get(Endpoints.accessPolicies, as: AccessPolicyList.self).policies
-    }
-
-    func medicationAccess(patientId: String) async throws -> [SavedMedicationAccess] {
-        try await get(Endpoints.medicationAccess(patientId: patientId), as: MedicationAccessList.self).cases
-    }
-
-    func saveMedicationAccess(patientId: String, caseId: String, draft: MedicationAccessDraft) async throws -> SavedMedicationAccess {
-        try await sendJSON(Endpoints.medicationAccessCase(patientId: patientId, caseId: caseId),
-                           method: "PUT", body: draft, as: SavedMedicationAccess.self)
-    }
-
     func medicationReviews(patientId: String) async throws -> [SavedMedicationReview] {
         try await get(Endpoints.medicationReviews(patientId: patientId), as: MedicationReviewList.self).reviews
     }

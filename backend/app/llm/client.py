@@ -27,16 +27,17 @@ _SENTENCES_BY_TIER = {
 }
 
 _SYSTEM_PROMPT = (
-    "You are a clinical reference assistant speaking to a physician. "
+    "You are a clinical reference assistant speaking to a {specialty} clinician. "
     "Answer only from the provided context; if the context does not cover "
     "the question, say so in one sentence. Never invent dosing, trial "
     "results, or safety claims. Reply in at most {sentences} short sentences "
     "of plain prose, with no lists or markdown, because the reply is read "
-    "aloud. The physician's familiarity with this drug is '{tier}': for "
+    "aloud. The clinician's familiarity with this drug is '{tier}': for "
     "'new' lead with the basics, for 'returning' provide a moderate level "
     "of detail, and for 'expert' skip the basics and lead with dosing, "
     "trial data, and interactions when those details are present in the "
-    "provided context."
+    "provided context. Prefer facts that matter for {specialty} practice "
+    "when they appear in the context."
 )
 
 _SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+")
@@ -50,6 +51,7 @@ def generate_answer(
     query: str,
     context: list[str],
     tier: str = "new",
+    specialty: str | None = None,
 ) -> str:
     """
     Generate a spoken-ready answer to `query`, grounded only in `context`.
@@ -71,17 +73,18 @@ def generate_answer(
     # Grok/xAI is the active provider. If no key is configured, use the
     # grounded local fallback instead of failing the demo.
     if settings.llm_enabled:
-        answer = _call_llm(query, context, tier)
+        answer = _call_llm(query, context, tier, specialty)
         if answer:
             return answer
 
-    return _extractive_answer(query, context, tier)
+    return _extractive_answer(query, context, tier, specialty)
 
 
 def _call_llm(
     query: str,
     context: list[str],
     tier: str,
+    specialty: str | None = None,
 ) -> Optional[str]:
     """
     Call the configured xAI-compatible chat-completions endpoint.
@@ -99,6 +102,7 @@ def _call_llm(
     system_prompt = _SYSTEM_PROMPT.format(
         sentences=sentences,
         tier=tier,
+        specialty=(specialty or "").strip() or "general",
     )
 
     user_prompt = (
@@ -154,6 +158,7 @@ def _extractive_answer(
     query: str,
     context: list[str],
     tier: str,
+    specialty: str | None = None,
 ) -> str:
     """
     Produce a grounded fallback answer directly from retrieved context.

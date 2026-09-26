@@ -22,6 +22,7 @@ from app.text import content_terms
 # on that section even when another section happens to repeat the same word
 # more often.
 _SECTION_MATCH_BONUS = 0.2
+_SPECIALTY_SECTION_BONUS = 0.05
 
 # Temporary compatibility with the existing llm-rag ingest.py.
 # Once ingest.py is resolved, it should call load() directly.
@@ -67,6 +68,7 @@ def retrieve(
     drug_id: str,
     query: str,
     top_k: int | None = None,
+    specialty: str | None = None,
 ) -> list[str]:
     """
     Return the most relevant context chunks for `query` about `drug_id`.
@@ -101,6 +103,11 @@ def retrieve(
 
     query_vector = embed_text(query)
     query_terms = set(content_terms(query))
+    from app.personalization.scorer import specialty_section_keys
+
+    specialty_terms: set[str] = set()
+    for key in specialty_section_keys(specialty):
+        specialty_terms |= set(content_terms(key.replace("_", " ")))
 
     def score(chunk: Chunk) -> float:
         semantic_score = _cosine(
@@ -110,10 +117,12 @@ def retrieve(
 
         section_terms = set(content_terms(chunk.section))
         section_overlap = query_terms & section_terms
+        specialty_overlap = section_terms & specialty_terms
 
         return (
             semantic_score
             + _SECTION_MATCH_BONUS * len(section_overlap)
+            + _SPECIALTY_SECTION_BONUS * len(specialty_overlap)
         )
 
     ranked = sorted(
