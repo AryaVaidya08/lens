@@ -16,3 +16,9 @@ venv/
 # Secrets / local data
 .env
 *.db
+
+# Training photos are large, numerous, and personal — collect them
+# locally per training/README.md, don't commit them. Exported .mlmodel/
+# .mlpackage files are NOT ignored — the app needs those checked in.
+training/data/*
+!training/data/.gitkeep

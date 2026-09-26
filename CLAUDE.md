@@ -76,6 +76,8 @@ Each lane has a dedicated context doc — read yours, and paste it into your own
 - [`docs/team-context/voice-llm.md`](docs/team-context/voice-llm.md) — speech I/O, RAG retrieval weighting, LLM integration
 - [`docs/team-context/content-demo.md`](docs/team-context/content-demo.md) — mock drug dossiers, personalization tuning, demo script
 
+Once the actual demo drug bottles are settled, see [`training/README.md`](training/README.md) for training a Create ML image classifier on them — a real upgrade over the generic objectness detector in `ObjectDetector.swift`, for when barcode/OCR isn't reliable enough on its own.
+
 ## Running things
 
 Everything runs locally on a laptop for now — no containers, no deployment. There is no `Dockerfile`; don't add one back without asking.
