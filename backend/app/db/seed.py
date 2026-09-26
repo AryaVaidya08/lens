@@ -1,8 +1,9 @@
 """
 Demo data seeding.
 
-Populates mock HCPs and drugs before the demo. Patient charts come
-from clinic/EHR ingest (`app/clinic/sync.py`), not from this file.
+Populates mock HCPs and drugs before the demo. Patients are not seeded
+here: they live only in Mongo, created through
+`POST /profile/{hcp_id}/patients` (see `app/routes/profile.py`).
 
 Seeding is idempotent and safe to run on every backend startup.
 """
@@ -12,7 +13,6 @@ from typing import Optional
 
 from pymongo.database import Database
 
-from app.clinic.sync import sync_clinic_records
 from app.config import settings
 from app.db.mongo import get_database
 from app.db.passwords import hash_password
@@ -179,8 +179,4 @@ def seed(db: Optional[Database] = None) -> None:
             upsert=True,
         )
 
-    # ------------------------------------------------------------------
-    # Clinic/EHR demo patients
-    # ------------------------------------------------------------------
-    sync_clinic_records(db)
     load_detect_catalog(db)

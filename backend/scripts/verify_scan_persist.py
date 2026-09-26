@@ -1,4 +1,4 @@
-"""Login, sync clinic, check HUD flags, and confirm engagement persist."""
+"""Login, read a chart from Mongo, check HUD flags, and confirm engagement persist."""
 
 from __future__ import annotations
 
@@ -48,10 +48,8 @@ def main() -> int:
         return 1
     token = login["session_token"]
 
-    code, synced = request("POST", "/patients/sync", token)
-    print("sync", code, "imported", synced.get("imported"))
-
-    code, elena = request("GET", "/patients/pat_001", token)
+    code, fetched = request("GET", "/profile/hcp_001/patients/pat_001", token)
+    elena = fetched.get("patient", {})
     print("elena allergies", elena.get("allergies"), "dob", elena.get("birth_date"))
 
     code, summary = request(

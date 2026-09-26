@@ -17,8 +17,6 @@ enum Endpoints {
     static let resetPassword = "/auth/reset-password"
     static func profile(hcpId: String) -> String { "/profile/\(pathSegment(hcpId))" }
     static func patients(hcpId: String) -> String { "/profile/\(pathSegment(hcpId))/patients" }
-    static let syncPatients = "/patients/sync"
-    static func patient(_ id: String) -> String { "/patients/\(pathSegment(id))" }
     static func medicationReviews(patientId: String) -> String { "/patients/\(pathSegment(patientId))/medication-reviews" }
     static func medicationReview(patientId: String, reviewId: String) -> String {
         "/patients/\(pathSegment(patientId))/medication-reviews/\(pathSegment(reviewId))"

@@ -40,8 +40,8 @@ final class ObjectDetector {
     private let request: VNCoreMLRequest
 
     init() {
-        guard let model = try? VNCoreMLModel(for: PillBottleDetectorv1(configuration: MLModelConfiguration()).model) else {
-            fatalError("Failed to load PillBottleDetectorv1.mlmodel")
+        guard let model = try? VNCoreMLModel(for: BottleDetection(configuration: MLModelConfiguration()).model) else {
+            fatalError("Failed to load BottleDetection.mlmodel")
         }
         let request = VNCoreMLRequest(model: model)
         // The model's bounding-box coordinates are relative to the full

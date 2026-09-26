@@ -1,4 +1,3 @@
-from app.clinic.ingest import parse_clinic_record
 from tests.auth_util import login
 
 
@@ -191,18 +190,18 @@ def login_email(client, email, password):
 def test_no_account_backdoors(client):
     assert client.get("/profile/hcp_001").status_code == 401
     assert client.get("/profile/hcp_001/patients").status_code == 401
-    assert client.get("/patients/pat_001").status_code == 401
-    assert client.post("/patients/sync").status_code == 401
+    assert client.get("/profile/hcp_001/patients/pat_001").status_code == 401
     assert client.post("/engagement/log", json={"hcp_id": "hcp_001", "drug_id": "adderall"}).status_code == 401
 
     maya, _ = login(client, "hcp_001")
     james, _ = login(client, "hcp_002")
     assert client.get("/profile/hcp_002", headers=maya).status_code == 403
     assert client.get("/profile/hcp_002/patients", headers=maya).status_code == 403
-    assert client.get("/patients/pat_003", headers=maya).status_code == 404
-    chart = client.get("/patients/pat_003", headers=james)
+    assert client.get("/profile/hcp_002/patients/pat_003", headers=maya).status_code == 403
+    assert client.get("/profile/hcp_001/patients/pat_003", headers=maya).status_code == 404
+    chart = client.get("/profile/hcp_002/patients/pat_003", headers=james)
     assert chart.status_code == 200
-    assert chart.json()["last_name"] == "Shah"
+    assert chart.json()["patient"]["last_name"] == "Shah"
     assert client.patch(
         "/profile/hcp_002",
         json={"specialty": "Hacked"},
@@ -215,7 +214,7 @@ def test_no_account_backdoors(client):
     ).status_code == 403
 
 
-def test_demo_login_and_clinic_imported_folders(client):
+def test_demo_login_and_patient_folders(client):
     headers, body = login(client, "hcp_001")
     assert body["hcp_id"] == "hcp_001"
     assert "pat_001" in body["patient_ids"]
@@ -236,65 +235,64 @@ def test_demo_login_and_clinic_imported_folders(client):
     assert [row["patient_id"] for row in rows] == ["pat_003"]
 
 
-def test_patients_are_read_only_in_the_api(client):
-    headers, _ = login(client)
-    assert (
-        client.post(
-            "/patients",
-            json={"hcp_id": "hcp_001", "first_name": "Nina", "last_name": "Cole"},
-            headers=headers,
-        ).status_code
-        == 404
+def test_create_patient_writes_directly_to_mongo(client):
+    headers, _ = login(client, "hcp_001")
+
+    created = client.post(
+        "/profile/hcp_001/patients",
+        json={
+            "first_name": "Nina",
+            "last_name": "Cole",
+            "sex": "Female",
+            "allergies": "Penicillin",
+        },
+        headers=headers,
     )
+    assert created.status_code == 200, created.text
+    patient = created.json()["patient"]
+    assert patient["first_name"] == "Nina"
+    assert patient["last_name"] == "Cole"
+    assert patient["hcp_id"] == "hcp_001"
+    assert patient["patient_id"].startswith("pat_")
+
+    listed = client.get("/profile/hcp_001/patients", headers=headers).json()["patients"]
+    assert any(row["patient_id"] == patient["patient_id"] for row in listed)
+
+    fetched = client.get(
+        "/profile/hcp_001/patients/%s" % patient["patient_id"], headers=headers
+    ).json()["patient"]
+    assert fetched["allergies"] == "Penicillin"
+
+    # No route exists to edit or delete a chart once created.
     assert (
         client.patch(
-            "/patients/pat_001",
-            json={"first_name": "Elena", "last_name": "Vasquez"},
+            "/profile/hcp_001/patients/%s" % patient["patient_id"],
+            json={"first_name": "Changed"},
             headers=headers,
         ).status_code
         == 405
     )
-    assert client.delete("/patients/pat_001", headers=headers).status_code == 405
-    chart = client.get("/patients/pat_001", headers=headers)
-    assert chart.status_code == 200
-    assert chart.json()["first_name"] == "Elena"
-
-
-def test_sync_refreshes_signed_in_doctor_only(client):
-    headers, _ = login(client, "hcp_003")
-    body = client.post("/patients/sync", headers=headers).json()
-    assert body["imported"] == 1
-    assert body["patients"][0]["patient_id"] == "pat_004"
-    assert body["patients"][0]["hcp_id"] == "hcp_003"
-    assert client.get("/patients/pat_missing", headers=headers).status_code == 404
-
-
-def test_fhir_and_export_records_parse_to_the_same_shape():
-    fhir = parse_clinic_record(
-        {
-            "resourceType": "Patient",
-            "id": "MRN-9",
-            "patient_id": "pat_fhir",
-            "hcp_id": "hcp_001",
-            "name": [{"family": "Ng", "given": ["Lina"]}],
-            "gender": "female",
-            "birthDate": "1990-01-01",
-            "chart": {"weight_kg": 60, "allergies": "None"},
-        }
+    assert (
+        client.delete(
+            "/profile/hcp_001/patients/%s" % patient["patient_id"], headers=headers
+        ).status_code
+        == 405
     )
-    export = parse_clinic_record(
-        {
-            "patient_id": "pat_export",
-            "hcp_id": "hcp_001",
-            "first_name": "Lina",
-            "last_name": "Ng",
-            "age": 20,
-            "weight_kg": 60,
-        }
+
+    other_headers, _ = login(client, "hcp_002")
+    assert (
+        client.post(
+            "/profile/hcp_001/patients",
+            json={"first_name": "Evil", "last_name": "Twin"},
+            headers=other_headers,
+        ).status_code
+        == 403
     )
-    assert fhir["first_name"] == "Lina"
-    assert fhir["last_name"] == "Ng"
-    assert fhir["external_id"] == "MRN-9"
-    assert fhir["weight_kg"] == 60
-    assert export["first_name"] == "Lina"
-    assert parse_clinic_record({"first_name": "Missing", "last_name": "Owner"}) is None
+    assert (
+        client.post(
+            "/profile/hcp_001/patients",
+            json={"first_name": "", "last_name": ""},
+            headers=headers,
+        ).status_code
+        == 422
+    )

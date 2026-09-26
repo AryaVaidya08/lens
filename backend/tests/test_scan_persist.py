@@ -4,9 +4,7 @@ from tests.auth_util import login
 
 def test_chart_check_and_scan_engagement_persist(client):
     headers, _ = login(client, "hcp_001")
-    synced = client.post("/patients/sync", headers=headers)
-    assert synced.status_code == 200
-    elena = client.get("/patients/pat_001", headers=headers).json()
+    elena = client.get("/profile/hcp_001/patients/pat_001", headers=headers).json()["patient"]
     assert "amphet" in elena["allergies"].lower()
     assert elena.get("birth_date") == "1972-03-14"
 

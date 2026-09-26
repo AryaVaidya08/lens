@@ -33,7 +33,7 @@ from app.detection import catalog as detect_catalog
 from app.retrieval import index
 from app.retrieval.embed import using_model
 from app.retrieval.ingest import ingest_docs
-from app.routes import auth, detect, drug, engagement, patients, profile, medication_reviews
+from app.routes import auth, detect, drug, engagement, profile, medication_reviews
 
 logger = logging.getLogger("uvicorn.error")
 
@@ -98,7 +98,6 @@ app.add_middleware(
 
 app.include_router(auth.router)
 app.include_router(profile.router)
-app.include_router(patients.router)
 app.include_router(medication_reviews.router)
 app.include_router(detect.router)
 app.include_router(drug.router)
