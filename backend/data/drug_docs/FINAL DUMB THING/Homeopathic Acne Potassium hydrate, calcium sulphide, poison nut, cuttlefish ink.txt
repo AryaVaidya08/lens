@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Homeopathic Acne Potassium hydrate, calcium sulphide, poison nut, cuttlefish ink CAUSTICUM CAUSTICUM CALCIUM SULFIDE CALCIUM SULFIDE STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE WATER CETOSTEARYL ALCOHOL POLYSORBATE 60 TRICAPRYLIN PROPYLENE GLYCOL MINERAL OIL TROLAMINE CARBOMER 934 IMIDUREA
+spl_unclassified_section:
+  Drug Facts
+  *The letters H.P.U.S. indicate that the components in this product are officially monographed in the Homeopathic Pharmacopoeia of the U.S. **The letters AR indicate Acne Relief.
+  Drug Facts (cont.) Drug Facts (cont.)
+  Distributed by: Indiana Botanic Gardens, Inc. 3401 W. 37th Avenue Hobart, IN 46342
+active_ingredient:
+  Active Ingredients Potassium Hydrate 10X H.P.U.S.* Calcium Sulphide 10X H.P.U.S.* Poison nut 10X H.P.U.S.* Cuttlefish ink10X H.P.U.S.*
+purpose:
+  Purpose **AR **AR **AR **AR
+inactive_ingredient:
+  Other Ingredients: D.I. Water, Emulsifying Wax, Caprylic/Capric Triglyceride, Propylene Glycol, Mineral Oil, Triethanolamine, Carbomer and Imidazolidinyl urea.
+dosage_and_administration:
+  Directions: Cleanse skin, dry then apply twice daily to affected areas.
+indications_and_usage:
+  Uses: For use of affected areas of acute acne
+warnings:
+  WARNING: for external use only Avoid contact with the eyes. If contact occurs, rinse eyes thoroughly with water Keep out of reach of children If condition worsens or does not improve after regular use of this product as directed or if local irritation or rash occurs, discontinue use and consult a physician. Use only if seal is unbroken.
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+stop_use:
+  If condition worsens or does not improve after regular use of this product as directed or if local irritation or rash occurs, discontinue use and consult a physician.
+questions:
+  Other Information: Any Questions? 1-800-644-8327 Website: BotanicChoice.com
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Homeopathic Acne Cream For the treatment of acute acne 1 oz. image of label
+set_id:
+  4010a427-e5c1-4b90-9d0a-f7c1111c771a
+id:
+  58b3dbc5-6b26-45f4-e063-6294a90ab099
+effective_time:
+  20260810
+version:
+  2
+openfda:

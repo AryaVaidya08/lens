@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  MECLIZINE Meclizine HCl 12.5mg CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE SILICON DIOXIDE STEARIC ACID MECLIZINE HYDROCHLORIDE MECLIZINE Capsule shaped tablet PH049
+active_ingredient:
+  Active ingredient (in each caplet) Meclizine HCl 12.5 mg
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Uses prevents and treats nausea, vomiting or dizziness associated with motion sickness
+warnings:
+  Warnings
+do_not_use:
+  Do not use in children under 12 years of age unless directed by a doctor. Do not take this product, unless directed by a doctor, if you have glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland Do not take this product if you are taking sedatives or tranquilizers, without first consulting your doctor.
+when_using:
+  When using this product do not exceed recommended dosage may cause drowsiness alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks use causion when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions dosage should be taken one hour before travel starts adults and children 12 years and over take 2 or 4 caplets once daily or as directed by a doctor
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr styleCode="First Last"><td>adults and children 12 years and over</td><td>take 2 or 4 caplets once daily or as directed by a doctor </td></tr></tbody></table>
+storage_and_handling:
+  Other information each caplet contains: calcium 28 mg store at 20 o -25°C (68 o -77°F)
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, dicalcium phosphate, magnesium stearate, microcrystalline cellulose, silicon dioxide, stearic acid
+questions:
+  Questions or comments? (866) 562-2756 (Mon-Fri 8 AM to 4 PM EST)
+package_label_principal_display_panel:
+  PHARBEST NDC 73057-386-11 Manufactured in the USA Motion Sickness Relief MECLIZINE Meclizine HCl 12.5 mg Antiemetic • Motion Sickness • Nausea • Vomiting 1000 CAPLETS Ulai Meclizine 12.5 mg Caplet 1000 ct. Label
+set_id:
+  d304e205-85fa-494a-9a68-ae6855b139b1
+id:
+  2c27a466-defa-b729-e063-6394a90a61d3
+effective_time:
+  20250120
+version:
+  3
+openfda:
+  application_number:
+    M009
+  brand_name:
+    MECLIZINE
+  generic_name:
+    MECLIZINE HCL 12.5MG
+  manufacturer_name:
+    Ulai Health LLC
+  product_ndc:
+    73057-386
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MECLIZINE HYDROCHLORIDE
+  rxcui:
+    995624
+  spl_id:
+    2c27a466-defa-b729-e063-6394a90a61d3
+  spl_set_id:
+    d304e205-85fa-494a-9a68-ae6855b139b1
+  package_ndc:
+    73057-386-11
+    73057-386-08
+  is_original_packager:
+    True
+  upc:
+    0373057386114
+  unii:
+    HDP7W44CIO

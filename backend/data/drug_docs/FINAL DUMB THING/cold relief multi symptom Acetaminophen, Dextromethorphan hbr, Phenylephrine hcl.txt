@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  cold relief multi symptom Acetaminophen, Dextromethorphan hbr, Phenylephrine hcl ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ACESULFAME POTASSIUM CARNAUBA WAX MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED STEARIC ACID TALC TITANIUM DIOXIDE caplet L371 (menthol)
+active_ingredient:
+  Active ingredients (in each caplet) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg
+purpose:
+  Purposes Pain reliever/fever reducer Cough suppressant Nasal decongestant
+indications_and_usage:
+  Uses • temporarily relieves these common cold/flu symptoms: • minor aches and pains • headache • sore throat • nasal congestion • cough • sinus congestion and pressure • helps clear nasal passages • promotes nasal and sinus drainage • temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take • more than 4,000 mg of acetaminophen in 24 hours • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • persistent or chronic cough such as occurs with smoking, asthma, or emphysema • cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommended dosage Stop use and ask a doctor if • nervousness, dizziness, or sleeplessness occur • pain, nasal congestion or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • persistent or chronic cough such as occurs with smoking, asthma, or emphysema • cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recommended dosage
+stop_use:
+  Stop use and ask a doctor if • nervousness, dizziness, or sleeplessness occur • pain, nasal congestion or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions • do not take more than directed (see overdose warning) adults and children 12 years and over • take 2 caplets every 4 hours • swallow whole – do not crush, chew or dissolve • do not take more than 10 caplets in 24 hours children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table width="453.9pt"><col width="33%"/><col width="62%"/><tbody><tr><td styleCode="Rrule Botrule Toprule " valign="top"><paragraph>adults and children 12 years and over</paragraph></td><td styleCode="Botrule Lrule Toprule " valign="top"><list listType="unordered"><item><caption>&#x2022;</caption>take 2 caplets every 4 hours</item><item><caption>&#x2022;</caption>swallow whole &#x2013; do not crush, chew or dissolve</item><item><caption>&#x2022;</caption>do not take more than 10 caplets in 24 hours</item></list></td></tr><tr><td styleCode="Rrule Botrule Toprule " valign="top"><paragraph>children under 12 years</paragraph></td><td styleCode="Botrule Lrule Toprule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, carnauba wax, crospovidone, flavor, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, stearic acid, talc, titanium dioxide
+package_label_principal_display_panel:
+  Principal Display Panel MULTI-SYMPTOM cold relief ACETAMINOPHEN – FEVER/HEADACHE/SORE THROAT PHENYLEPHRINE HCl – NASAL CONGESTION DEXTROMETHORPHAN HBr – COUGHING pain reliever/fever reducer – nasal decongestant – cough suppressant For Adults 24 CAPLETS ACTUAL SIZE Compare to the Active Ingredients in Tylenol ® Cold Max 371-63-cold relief -1.jpg 371-63-cold relief -2.jpg
+set_id:
+  72be27fb-a0a1-4f1a-b7f6-91a8498e1a85
+id:
+  7e7d4548-65ba-457a-ac90-a713649eb79b
+effective_time:
+  20241014
+version:
+  6
+openfda:

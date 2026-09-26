@@ -1,0 +1,27 @@
+effective_time:
+  20170524
+inactive_ingredient:
+  Alcohol, Chi Shao, Dang Gui Wei, Gan Cao, Gui Zhi, Hong Hua, Kuan Jin Teng, Lia Zi, Long Gu, Mo Yao, Ru Xiang, Shen Jin Cao, Su Mu, Chuan Duan, Zi Ran Tong
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+purpose:
+  External analgesic
+warnings:
+  External use only.
+spl_product_data_elements:
+  MHS Wong Family Iron Palm Jow menthol liniment CHINESE CINNAMON PAEONIA LACTIFLORA FLOWER GLYCYRRHIZA URALENSIS CARTHAMUS TINCTORIUS WHOLE NELUMBO NUCIFERA SEED MAMMAL BONE, FOSSILIZED COMMIPHORA MYRRHA WHOLE LYCOPODIUM CLAVATUM SPORE CAESALPINIA SAPPAN WOOD CAMPHOR (NATURAL) CAMPHOR (NATURAL) ANGELICA SINENSIS ROOT TINOSPORA CORDIFOLIA STEM FRANKINCENSE FERROUS SULFIDE ALCOHOL MENTHOL MENTHOL DIPSACUS ASPER ROOT
+openfda:
+version:
+  2
+dosage_and_administration:
+  Apply to affected area 2-3x daily or as needed.
+package_label_principal_display_panel:
+  MHS Wong Family Iron Palm Jow
+indications_and_usage:
+  For the temporary relief of minor aches and pains of muscles and joints due to: simple backache, arthritis, strains, bruises, and sprains
+set_id:
+  3afa9355-02f7-5ec8-e054-00144ff8d46c
+id:
+  503ec80e-618c-5b0e-e054-00144ff88e88
+active_ingredient:
+  menthol .5% camphor .5%

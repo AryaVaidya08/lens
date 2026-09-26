@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  The Zoeun Skin Total Cleanser Sturgeon extract STURGEON, UNSPECIFIED STURGEON, UNSPECIFIED HYALURONIC ACID SODIUM COCOYL APPLE AMINO ACIDS ZANTHOXYLUM PIPERITUM FRUIT PULP COCAMIDOPROPYL BETAINE TOCOPHEROL FRAGRANCE 13576 PROPANEDIOL MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL
+active_ingredient:
+  Active Ingredients Sturgeon extract 40.45%
+purpose:
+  Purposes Skin Cleansing, Moisturizing
+indications_and_usage:
+  Uses Skin Cleansing, Moisturizing, Skin Brightening, Wrinkle Care
+keep_out_of_reach_of_children:
+  Warnings Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Warnings Stop using and ask a doctor if irritation or rash appears and lasts.
+when_using:
+  Warnings When using this product keep out of eyes. Rinse with water to remove
+warnings:
+  Warnings For external use only.
+dosage_and_administration:
+  Directions • All ages can use. • Whenever wish to, apply directly to the skin, and let the skin absorb without wiping.
+inactive_ingredient:
+  Inactive Ingredients Sodium Cocoyl Apple Amino Acids, Coco-Betaine, Fragrance, Hyaluronic acid, Propanediol, Zanthoxylum Piperitum Fruit Extract, Tocopherol, Tea tree flavor
+package_label_principal_display_panel:
+  Display panel Total Cleanser
+set_id:
+  04466c3e-d67d-f7f8-e063-6394a90ae562
+id:
+  2c1e5b9b-44ca-a5f0-e063-6294a90a8af3
+effective_time:
+  20250120
+version:
+  2
+openfda:
+  brand_name:
+    The Zoeun Skin Total Cleanser
+  generic_name:
+    STURGEON EXTRACT
+  manufacturer_name:
+    Sturgeonbio Co.,Ltd.
+  product_ndc:
+    83636-601
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    STURGEON, UNSPECIFIED
+  spl_id:
+    2c1e5b9b-44ca-a5f0-e063-6294a90a8af3
+  spl_set_id:
+    04466c3e-d67d-f7f8-e063-6394a90ae562
+  package_ndc:
+    83636-601-01
+  is_original_packager:
+    True
+  unii:
+    X502F5DQD4

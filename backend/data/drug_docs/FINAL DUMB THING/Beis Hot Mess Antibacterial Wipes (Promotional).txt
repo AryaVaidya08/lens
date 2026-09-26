@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Beis Hot Mess Antibacterial Wipes (Promotional) ALCOHOL WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Ethyl alcohol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame. Do not use in the eyes Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the eyes
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with wipe and allow to dry without wiping
+inactive_ingredient:
+  Inactive Ingredients Purified water
+package_label_principal_display_panel:
+  Package Labeling: Bottle02
+set_id:
+  9267cf4f-2a2f-41bf-ae13-a20e349f3ded
+id:
+  cd8a0f51-8c64-ff87-e053-2a95a90a87c6
+effective_time:
+  20211004
+version:
+  1
+openfda:

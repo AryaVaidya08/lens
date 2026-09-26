@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  DermacinRx Skin Moisturizing Ultra SPF 50 Sunscreen avobenzone, octinoxate, octisalate, titanium dioxide WATER POLAWAX POLYSORBATE SHEA BUTTER STEARIC ACID ETHYLHEXYL PALMITATE PHENOXYETHANOL BENZOIC ACID DEHYDROACETIC ACID SUNFLOWER OIL ISOPROPYL ISOSTEARATE .ALPHA.-TOCOPHEROL POTASSIUM SORBATE XANTHAN GUM SODIUM BENZOATE AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE TITANIUM DIOXIDE TITANIUM DIOXIDE
+active_ingredient:
+  Active ingredients (% w/w) Avobenzone 2.5% Octinoxate 3% Octisalate 3% Titanium Dioxide 1.25%
+purpose:
+  Purposes Sunscreen (Avobenzone 2.5%) Sunscreen (Octinoxate 3%) Sunscreen (Octisalate 3%) Sunscreen (Titanium Dioxide 1.25%)
+indications_and_usage:
+  Uses ■ Helps prevent sunburn. ■ If used as a directed with other sun protection measures (see Directions), decreases the risk of cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only Do not use ■ on damaged or broken skin When using this product ■ keep out of eyes ■ Rinse with water to remove Stop use and ask a doctor if ■ rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use ■ on damaged or broken skin
+when_using:
+  When using this product ■ keep out of eyes ■ Rinse with water to remove
+stop_use:
+  Stop use and ask a doctor if ■ rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Apply liberally 15 minutes before sun exposure ■ Use a water-resistant sunscreen if swimming or sweating or immediately after towel drying ■ Reaply: ■ at least every 2 hours. ■ Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: ■ Limit time in the sun, especially from 10 a.m. - 2 p.m. ■ Wear long-sleeve shirts, pants, hats, and sunglasses. ■ Children under six months of age: Ask a doctor.
+inactive_ingredient:
+  Inactive ingredients Water, Emulsifying Wax, Shea butter, Stearic Acid, Ethylhexyl Palmitate, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Sunflower Seed Oil, Isopropyl Isostearate, Vitamin E, Potassium Sorbate, Xanthan Gum, Sodium Benzoate.
+storage_and_handling:
+  Other information ■ Protect this product from excessive heat and direct sun
+questions:
+  Questions? 1.800.611.4270
+package_label_principal_display_panel:
+  Dermacin ® Rx Skin Moisturizing Ultra SPF 50 Sunscreen Lotion (Label) DISTRIBUTED BY: PureTek Corporation San Fernando, CA 91340 image description
+set_id:
+  86eb06cc-d63f-4500-a52e-14ef99a56532
+id:
+  23848119-f005-7528-e063-6394a90a9a0e
+effective_time:
+  20241002
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    DermacinRx Skin Moisturizing Ultra SPF 50 Sunscreen
+  generic_name:
+    AVOBENZONE, OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE
+  manufacturer_name:
+    PureTek Corporation
+  product_ndc:
+    59088-568
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTINOXATE
+    OCTISALATE
+    TITANIUM DIOXIDE
+  spl_id:
+    23848119-f005-7528-e063-6394a90a9a0e
+  spl_set_id:
+    86eb06cc-d63f-4500-a52e-14ef99a56532
+  package_ndc:
+    59088-568-05
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4Y5P7MUD51
+    4X49Y0596W
+    15FIX9V2JP

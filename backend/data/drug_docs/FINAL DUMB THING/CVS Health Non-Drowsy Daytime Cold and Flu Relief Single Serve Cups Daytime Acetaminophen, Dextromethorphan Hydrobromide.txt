@@ -1,0 +1,54 @@
+effective_time:
+  20190726
+purpose:
+  Active ingredients (in each single serve cup) Purposes Acetaminophen 650 mg Pain reliever/fever reducer Dextromethorphan HBr 20 mg Cough suppressant Phenylephrine HCl 10 mg Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+when_using:
+  When using this product, do not use more than directed.
+questions:
+  Questions or comments? 1-866-467-2748
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health care professional before use.
+storage_and_handling:
+  Other information • store at room temperature
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: • nasal congestion • cough due to minor throat & bronchial irritation • sore throat • headache • minor aches and pains • fever
+set_id:
+  200f5aef-dcc8-4f08-af66-0f7ff880493e
+id:
+  f94bcd29-9f87-4367-a957-ed7b379b174f
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredients (in each single serve cup) Purposes Acetaminophen 650 mg Pain reliever/fever reducer Dextromethorphan HBr 20 mg Cough suppressant Phenylephrine HCl 10 mg Nasal decongestant
+dosage_and_administration_table:
+  <table width="100%"> <col width="51%"/> <col width="49%"/> <tbody> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="ordered"> <item> <caption> </caption>adults &amp; children 12 yrs &amp; over</item> </list> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>One cup every 4 hrs</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule Lrule " valign="top"> <list listType="unordered"> <item> <caption> </caption>children under 12yrs</item> </list> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients citric acid, FD&C Red No. 40, flavors, isomalt, silica, sucralose
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take • more than 4 doses in 24 hours, which is the maximum daily amount for this product • with other drugs containing acetaminophen • 3 or more alcoholic drinks daily while using this product Sore throat warning: If sore throat is severe, lasts for more than 2 days, is accompanied with or is followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other products containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drugs. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough as occurs with smoking, asthma, or emphysema Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product, do not use more than directed. Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  CVS Health Non-Drowsy Daytime Cold and Flu Relief Single Serve Cups Daytime Acetaminophen, Dextromethorphan Hydrobromide, and Phenylephrine Hydrochloride Acetaminophen Acetaminophen Dextromethorphan Hydrobromide Dextromethorphan Phenylephrine Hydrochloride phenylephrine ANHYDROUS CITRIC ACID FD&C RED NO. 40 ISOMALT SILICON DIOXIDE sucralose
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to enlarged prostate gland • cough that occurs with too much phlegm (mucus) • persistent or chronic cough as occurs with smoking, asthma, or emphysema
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • take only as directed - see Overdose warning • do not exceed 4 doses per 24 hours adults & children 12 yrs & over One cup every 4 hrs children under 12yrs do not use
+package_label_principal_display_panel_table:
+  <table width="100%"> <col width="100%"/> <tbody> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph> <content styleCode="bold">TAMPER EVIDENT: DO NOT USE IF SEALED CUP IS TORN OR BROKEN.</content> </paragraph> </td> </tr> </tbody> </table>
+  <table width="100%"> <col width="100%"/> <tbody> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph> <content styleCode="bold">READ ALL WARNINGS AND DIRECTIONS ON CARTON BEFORE USE.</content> </paragraph> <paragraph> <content styleCode="bold">KEEP CARTON FOR REFERENCE. DO NOT DISCARD.</content> </paragraph> </td> </tr> </tbody> </table>
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back, or occurs with rash or headache that lasts. These could be signs of a serious condition.
+do_not_use:
+  Do not use • with any other products containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drugs. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="75%"> <col width="39%"/> <col width="37%"/> <thead> <tr> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Active ingredients (in each single serve cup)</content> </content> </th> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Purposes</content> </content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Toprule " valign="top"> <paragraph>Acetaminophen 650 mg</paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph>Pain reliever/fever reducer</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph>Dextromethorphan HBr 20 mg</paragraph> </td> <td valign="top"> <paragraph>Cough suppressant</paragraph> </td> </tr> <tr> <td styleCode="Botrule " valign="top"> <paragraph>Phenylephrine HCl 10 mg</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph>Nasal decongestant</paragraph> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL CVS Health ™ Compare to the active ingredients in Vicks ® DayQuil ® Cold & Flu* NDC# 59779-688-08 Non -Drowsy Daytime Cold & Flu Relief Single Serve Cups COMPATIBLE WITH ALL KEURIG ® K- CUP MACHINES † TAMPER EVIDENT: DO NOT USE IF SEALED CUP IS TORN OR BROKEN. ACETAMINOPHEN – Pain reliever/Fever reducer DEXTROMETHORPHAN HBr - Cough suppressant PHENYLEPHRINE HCl – Nasal decongestant Relieves: • Headache, fever , sore throat • Minor aches & pains • Nasal congestion, cough Berry infused with Menthol & Green Tea Flavors Naturally and Artificially Flavored Alcohol free Actual Product Size on Side panel 8 SINGLE SERVE CUPS CVS Health™ Daytime Cold and Flu Relief Single Serve Cups are a warm and easy way to feel better fast. Just use our cups as you would any other single serve cup in your Keurig ® machine for a great-tasting, flu-relieving drink. When you’re facing a long day ahead, take a moment for yourself and toast to relief. CVS Health ™ Non –Drowsy Daytime Cold & Flu Relief Single Serve Cups Acetaminophen – Pain reliever/Fever reducer Dextromethorphan HBr- Cough suppressant Phenylephrine HCl – Nasal decongestant READ ALL WARNINGS AND DIRECTIONS ON CARTON BEFORE USE. KEEP CARTON FOR REFERENCE. DO NOT DISCARD. *This product is not manufactured or distributed by Procter & Gamble. distributor of Vicks ® DayQuil ® Cold & Flu. Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 ©2016 CVS /Pharmacy CVS.com® 1-800-SHOP CVS Made in the U.S.A with domestic and foreign ingredients V-12431 PATENT PENDING CVS Quality Money back Guarantee †COMPATIBLE WITH KEURIG ® K -CUP ® BREWERS & 2.0 BREWING SYSTEMS. THIS PRODUCT IS NOT AFFILIATED WITH KEURIG, INC. CVS Health Non -Drowsy Daytime Cold & Flu Relief Single Serve Cups 8 Count
+purpose_table:
+  <table width="75%"> <col width="39%"/> <col width="37%"/> <thead> <tr> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Active ingredients (in each single serve cup)</content> </content> </th> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Purposes</content> </content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Toprule " valign="top"> <paragraph>Acetaminophen 650 mg</paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph>Pain reliever/fever reducer</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph>Dextromethorphan HBr 20 mg</paragraph> </td> <td valign="top"> <paragraph>Cough suppressant</paragraph> </td> </tr> <tr> <td styleCode="Botrule " valign="top"> <paragraph>Phenylephrine HCl 10 mg</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph>Nasal decongestant</paragraph> </td> </tr> </tbody> </table>

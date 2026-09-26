@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Allergy Relief Cetirizine HCl CETIRIZINE HYDROCHLORIDE CETIRIZINE GELATIN GLYCERIN MANNITOL POLYETHYLENE GLYCOL 400 WATER SODIUM HYDROXIDE SORBITAN SORBITOL BUTYLATED HYDROXYTOLUENE 10
+active_ingredient:
+  Active Ingredient (in each capsule) Cetirizine HCl 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+warnings:
+  Warning
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+when_using:
+  When using this product drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding if breast-feeding: not recommended if pregnant: ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions Adults and children 6 years and over One 10 mg capsule once daily; do not take more than one 10 mg capsule in 24 hours. A 5 mg product may be appropriate for less severe symptoms. Adults 65 years and over ask a doctor. Children under 6 years of age ask a doctor Consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="665px"><col/><col/><tbody><tr><td>Adults and children 6 years and over</td><td>One 10 mg capsule once daily; do not take more than one 10 mg capsule in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</td></tr><tr><td>Adults 65 years and over</td><td> ask a doctor.</td></tr><tr><td>Children under 6 years of age</td><td> ask a doctor</td></tr><tr><td>Consumers with liver or kidney disease</td><td> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other Information store at 20º to 25 o C (68 o to 77 o F) avoid high humidity and excessive heat above 40 o C (104 o F) protect from light
+inactive_ingredient:
+  Inactive Ingredients Butylated hydroxytolene, gelatin, glycerin, mannitol, pharmaceutical ink, polyethylene glycol 400, purified water, sodium hydroxide, Sorbitan, Sorbitol
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+spl_unclassified_section:
+  Principal Display Panel COMPARE TO THE ACTIVE INGREDIENT IN ZYRTEC®* ALL DAY Allergy Relief 24-Hour relief of indoor/outdoor allergy symptoms including: Runny nose Sneezing Itchy, watery eyes Itchy throat or nose SOFTGELS (**Liquid-filled capsules) Antihistamine • Cetirizine HCI, 10 mg *This product is not manufactured or distributed by McNeil Consumer Healthcare, distributor of Zyrtec®. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARD FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY GREENBRIER INTERNATIONAL, INC. 500 VOLVO PARKWAY, CHESAPEAKE, VA 23320
+package_label_principal_display_panel:
+  Product Label ASSURED All Day Allergy Relief Cetirizine HCI 10 mg
+set_id:
+  82d06004-7966-48a1-9ed3-ddfa0b631992
+id:
+  22c0f54c-aef7-4e4c-b085-6345678b11ab
+effective_time:
+  20240930
+version:
+  4
+openfda:

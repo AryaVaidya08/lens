@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Titanium Dioxide Sunscreen POLYGLYCERYL-3 DIISOSTEARATE WATER AVOCADO OIL OPUNTIA FICUS-INDICA STEM GLYCYRRHIZA GLABRA POTASSIUM SORBATE ETHYLHEXYL PALMITATE KONJAC MANNAN TOCOPHEROL DIMETHICONE OCTYLDODECANOL DISTEARDIMONIUM HECTORITE TREMELLA FUCIFORMIS WHOLE HYDROGENATED CASTOR OIL TRIHYDROXYSTEARIN ASCORBYL PALMITATE ALUMINUM OXIDE DIMETHICONOL/TRIMETHYLSILOXYSILICATE CROSSPOLYMER (35/65 W/W; 10000000 PA.S) 1,2-HEXANEDIOL PEG-9 DIGLYCIDYL ETHER/SODIUM HYALURONATE CROSSPOLYMER CETYL DIMETHICONE/BIS-VINYLDIMETHICONE CROSSPOLYMER MAGNESIUM SULFATE, UNSPECIFIED CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) FERRIC OXIDE RED SODIUM BENZOATE BUTYLENE GLYCOL SODIUM DEHYDROACETATE SQUALANE CAPRYLYL GLYCOL STEARIC ACID XANTHAN GUM FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE OCTYLDODECYL STEAROYL STEARATE GLYCERIN PHENYL TRIMETHICONE ALOE VERA LEAF METHICONE (20 CST) SODIUM PHOSPHATE, DIBASIC, ANHYDROUS TITANIUM DIOXIDE TITANIUM DIOXIDE
+active_ingredient:
+  Active Ingredients Titanium Dioxide 9.90%
+purpose:
+  Purpose Suncreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Stop use and ask doctor if rash occurs. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask doctor if rash occurs.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Shake before use. Apply liberally 15 minutes before sun exposure Use a water resistant sunscreen if swimming or sweating. Reapply at least every 2 hours. Children under 6 months: Ask a doctor. Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: - Limit time in the sun, especially from 10 a.m.-2 p.m. - Wear long-sleeved shirts, pants, hats and sunglasses
+other_safety_information:
+  Other information Protect the product in this container from excessive heat and direct sunlight. You may report a serious adverse reaction to tarte c/o Report Reaction, LLC, P.O. Box 22, Plainsboro, NJ 08536-0222.
+inactive_ingredient:
+  Inactive Ingredients Water/Aqua/Eau, dimethicone, octyldodecyl stearoyl stearate, glycerin, phenyl trimethicone, magnesium sulfate, octyldodecanol, hydrogenated castor oil, cetyl PEG/PPG-10/1 dimethicone, polyglyceryl-3 diisostearate, cetyl dimethicone, disteardimonium hectorite, tremella fuciformis (mushroom) extract, aloe barbadensis leaf juice powder, persea gratissima (avocado) oil, opuntia ficus-indica stem extract, squalane, sodium hyaluronate, glycyrrhiza glabra (licorice) root extract, caprylyl glycol, stearic acid, alumina, potassium sorbate, sodium dehydroacetate, trimethylsiloxysilicate, sodium benzoate, xanthan gum, tocopherol, ethylhexyl palmitate, methicone, butylene glycol, 1,2-hexanediol, trihydroxystearin, sodium hyaluronate, disodium phosphate, ascorbyl palmitate, glucomannan, titanium dioxide (CI 77891), iron oxides (CI 77491, CI 77492, CI 77499), TE111FL000831.
+package_label_principal_display_panel:
+  Principal Display Panel tarte high performance naturals shape tape cloud coverage Broad Spectrum SPF 15 Sunscreen tube 1 box1
+set_id:
+  cda0f5bd-dc2e-4faf-e053-2995a90ad4ae
+id:
+  2d3e498d-cde9-e5bf-e063-6394a90ae278
+effective_time:
+  20250203
+version:
+  5
+openfda:

@@ -1,0 +1,29 @@
+effective_time:
+  20160907
+inactive_ingredient:
+  OTHER INGREDIENTS : Aloe Barbadensis Leaf (Aloe Vera Juice) Gel, Aqua (Deionized Water), Arnica Montana Extract, Boswellia Serrata Extract, Camelia Sinensis Leaf (Green Tea) Extract, Carbomer, Ethylhexylglycerin, Glycerin, Isopropyl Myristate, PEG - 8, Phenoxyethanol, Polysorbate - 80, Sodium Lauryl Sulfate, Triethanolamine, FD C Blue No. 1, FD C Yellow No. 5.
+purpose:
+  Lidocaine HCL 4.00 % Topical Analgesic Menthol 1.00 % External Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, consult physician.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes. Do not apply on open wounds or damaged skin. If symptoms persist for more than seven days, discontinue use and consult physician. Keep out of reach of children . If swallowed, consult physician. Do not bandage tightly. If pregnant or breast feeding, contact physician before use. Do not use in large quantities, particularly over raw surfaces or blistered areas.
+spl_product_data_elements:
+  Bene Patch LIDOCAINE HCL, MENTHOL MENTHOL MENTHOL LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE FD&C BLUE NO. 1 GREEN TEA LEAF GLYCERIN PEG-8 STEARATE ISOPROPYL MYRISTATE PHENOXYETHANOL ALOE VERA LEAF POLYSORBATE 80 SODIUM LAURYL SULFATE TROLAMINE ARNICA MONTANA INDIAN FRANKINCENSE FD&C YELLOW NO. 5 ETHYLHEXYLGLYCERIN CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) WATER
+openfda:
+version:
+  4
+dosage_and_administration:
+  DIRECTIONS : Clean and dry affected area. Remove patch from backing and apply to affected area. Use only one patch at a time, and a maximum of four patches / day. Leave patch on affected area for up to 8 hours. Do not use patches for longer than 5 consecutive days. Children under 12 should consult physician prior to use.
+storage_and_handling:
+  Store below 25 degrees Avoid direct sunlight.
+package_label_principal_display_panel:
+  copy of label
+indications_and_usage:
+  USES : For temporary relief of pain associated with minor cuts, scrapes and minor skin irritations
+set_id:
+  cf747144-f15f-47eb-984d-17a701799315
+id:
+  2ed0986a-720d-49b2-9e75-be334efa5a01
+active_ingredient:
+  ACTIVE INGREDIENTS : Lidocaine HCL 4.00 % Menthol 1.00 %

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  ALL A ECO CLEANER Ethanol ALCOHOL ALCOHOL Water
+active_ingredient:
+  ACTIVE INGREDIENT Ethanol 75 % v/v
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water
+purpose:
+  PURPOSE Antimicrobial
+warnings:
+  WARNINGS For external use only Flammable. Keep away from heat and flame. When using this product ■ Keep out of eyes. In case of contact with eyes, flush thoroughly with water. ■ Avoid contact with broken skin. ■ Do not inhale or ingest. Stop use and ask a doctor if skin irritation or rash develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses ■ Disinfectant to help reduce bacteria on the skin and surfaces ■ Recommended for repeated use
+dosage_and_administration:
+  Directions ■ Place enough product on hands to cover all surfaces. Rub hands together until dry. ■ Supervise children under 6 years of age when using this product to avoid swallowing.
+other_safety_information:
+  Other information ■ Store between 15-30℃(59-86℉) ■ Avoid freezing and excessive heat above 40℃(104℉)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of container
+set_id:
+  adf451a2-de08-4539-a1b3-371da7bcd541
+id:
+  228e347e-37c1-4cd3-8f64-65ac20cf04d8
+effective_time:
+  20201023
+version:
+  1
+openfda:

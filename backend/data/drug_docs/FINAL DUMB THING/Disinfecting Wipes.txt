@@ -1,0 +1,35 @@
+effective_time:
+  20200722
+inactive_ingredient:
+  Inactive ingredients water
+purpose:
+  Purpose Antiseptic, Alcohol wipes
+keep_out_of_reach_of_children:
+  This product is for external use, please do not put into mouth. Not suitable for baby under 3 years old.
+warnings:
+  Warnings This product is for external use, please do not put into mouth. Not suitable for baby under 3 years old. Normal temperture perservation, avoid sunlight irradiate. Avoid directly touch with eyes. If accidentally get in your eyes, please wash with water immediately and seek medical attention. If you got an anaphylactic reaction, stop using it immediately and consult to doctor. Keep away from fire.
+when_using:
+  Avoid directly touch with eyes. If accidentally get in your eyes, please wash with water immediately and seek medical attention. If you got an anaphylactic reaction, stop using it immediately and consult to doctor.
+spl_product_data_elements:
+  Disinfecting Wipes ALCOHOL WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Open the pack by tearing along the serration
+stop_use:
+  If you got an anaphylactic reaction, stop using it immediately and consult to doctor.
+storage_and_handling:
+  Other information avoid sunlight irradiate.
+do_not_use:
+  Not suitable for baby under 3 years old.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1 PC NDC: 79288-004-01 PDP
+indications_and_usage:
+  Use Daily cleaning
+set_id:
+  a97bc3b8-2642-5fcd-e053-2995a90ae9a9
+id:
+  ab019cba-b6ad-23f3-e053-2a95a90ad965
+active_ingredient:
+  Active Ingredient(s) Alcohol 70%. Purpose: Antiseptic

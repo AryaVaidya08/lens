@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Hand cleanser Hand cleanser(amber) AMBER AMBER WATER WHITE WAX LAURETH-10 LAURETH-10 GLYCERIN GLYCERIN AMINO ACIDS, APRICOT KERNEL
+active_ingredient:
+  LAURETH-10 6% Glycerin 3% Amber extract 10.2%
+inactive_ingredient:
+  Deionized water AMINO ACIDS, APRICOT KERNEL WHITE WAX
+dosage_and_administration:
+  HOW TO USE Squeeze an appropriate amount of this product in your hands and scrub it, then rinse it with clean water.
+indications_and_usage:
+  DIRECTIONS This product is used to clean hands. Children should be supervised when using this product
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+purpose:
+  clean
+storage_and_handling:
+  Keep in a cool and dry place
+warnings:
+  Do not take orally, for external use only. When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask doctor if irritation or rash appears and lasts.Keep out of reach of children. lf swallowed, get medical help or contact a Poison Control Center right away.
+package_label_principal_display_panel:
+  label
+set_id:
+  d43fac49-bbd9-4923-e053-2a95a90aee4a
+id:
+  d43fac49-bbda-4923-e053-2a95a90aee4a
+effective_time:
+  20211228
+version:
+  1
+openfda:

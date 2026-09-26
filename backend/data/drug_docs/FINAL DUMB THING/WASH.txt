@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  WASH FREE DISINFECTION WASH FREE DISINFECTION TROLAMINE GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethanol 75% v/v
+purpose:
+  Purpose /
+indications_and_usage:
+  Use 1、Contain 75% alcohol with protection rate reaching 99.9%, keep your hands clean and create a healthy environment.2、With refreshing and non-greasy nature, it can be used for wiping your hands anytime and anywhere, clean the hands with skincare function, and keep skin moist and tender
+warnings:
+  Warnings For external use only, please keep it out of the reach of children; the product contains alcohol, please keep it away from fire;
+do_not_use:
+  Do not use /
+when_using:
+  When using section store in the cool and dry place; user who are sensitive to alcohol shall be cautious to use it; please stop using immediately if it causes discomfort to you.
+stop_use:
+  please stop using immediately if it causes discomfort to you.
+keep_out_of_reach_of_children:
+  please keep it out of the reach of children;
+dosage_and_administration:
+  Directions Apply an appropriate amount of it to the palm of the hand, rub the hands for at least 30 seconds till dry, note to rub the back of the hands, fingertips and finger joints. It doesn't need to be rinsed off with water.
+inactive_ingredient:
+  Inactive ingredients water, glycerin, carbomer, triethanolamine
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 500
+set_id:
+  a64d0285-bfad-5b57-e053-2a95a90a7124
+id:
+  a64d01d5-85a1-d511-e053-2a95a90a1c31
+effective_time:
+  20200523
+version:
+  1
+openfda:

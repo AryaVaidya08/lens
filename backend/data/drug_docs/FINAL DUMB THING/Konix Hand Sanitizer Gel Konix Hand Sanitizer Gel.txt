@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  Konix Hand Sanitizer Gel Konix Hand Sanitizer Gel ALCOHOL ALCOHOL WATER GLYCERIN ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE AMINOMETHYLPROPANOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED)
+active_ingredient:
+  Active Ingredient(s) Ethyl alcohol 70%
+purpose:
+  Purpose Antiseptic, Hand Sanitizer Gel
+indications_and_usage:
+  Use Uses To decrease bacteria on the skin that could cause disease
+warnings:
+  Warnings For external use only: hands. Flammable, keep away from fire or flame.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if Irritation and redness develop Condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6 year of age, use only under adult supervision Not recommended for infants
+storage_and_handling:
+  Other information do not store above 105°F may discolor some fabrics harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Isopropyl Myristate,Tocopheryl Acetate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Fragrance
+package_label_principal_display_panel:
+  Konix Consumer sanitizer gel 30 ml Konix Consumer sanitizer gel 30 ml
+  Konix Consumer sanitizer gel 50 ml Konix Consumer sanitizer gel 50 ml
+  Konix Consumer sanitizer gel 85 ml Konix Consumer sanitizer gel 85 ml
+  Konix Consumer sanitizer gel 100 ml Konix Consumer sanitizer gel 100 ml
+  Konix Consumer sanitizer gel 150 ml Konix Consumer sanitizer gel 150 ml
+  Konix Consumer sanitizer gel 200 ml Konix Consumer sanitizer gel 200 ml
+  Konix Consumer sanitizer gel 250 ml Konix Consumer sanitizer gel 250 ml
+  Konix Consumer sanitizer gel 500 ml Konix Consumer sanitizer gel 500 ml
+  Konix Consumer sanitizer gel 1000 ml Konix Consumer sanitizer gel 1000 ml
+  Konix Consumer sanitizer gel 5000 ml Konix Consumer sanitizer gel 5000 ml
+  2 FL OZ (59 ML) NDC 73107-104-41 Konix Consumer sanitizer gel 59ml
+  4 FL OZ (118 ML) NDC 73107-104-42 Konix Consumer sanitizer gel 118ml
+  8 FL OZ (236 ML) NDC 73107-104-43 Konix Consumer sanitizer gel 236ml
+  12 FL OZ (354 ML) NDC 73107-104-44 Konix Consumer sanitizer gel 354ml
+  16 FL OZ (473 ML) NDC 73107-104-45 Konix Consumer sanitizer gel 473ml
+  20 FL OZ (591 ML) NDC 73107-104-46 Konix Consumer sanitizer gel 591ml
+  24 FL OZ (710 ML) NDC 73107-104-47 Konix Consumer sanitizer gel 710ml
+  32 FL OZ (946 ML) NDC 73107-104-48 Konix Consumer sanitizer gel 946ml
+  1 GALLON (3785 ML) NDC 73107-104-49 Konix Consumer sanitizer gel 3785ml
+set_id:
+  f7fde9a3-cb0b-4e57-bee8-8d381b730baf
+id:
+  9ce2f04e-1164-4efe-9ec7-b68c0beecd75
+effective_time:
+  20200519
+version:
+  3
+openfda:

@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  BISUTANG Sunscreen BISUTANG Sunscreen GLYCERYL STEARATE CETEARYL ALCOHOL TITANIUM DIOXIDE TITANIUM DIOXIDE DIAZOLIDINYL UREA XANTHAN GUM CAPRYLIC/CAPRIC TRIGLYCERIDE C12-20 ALKYL GLUCOSIDE ETHYLHEXYL METHOXYCINNAMATE BISABOLOL METHYLPARABEN PROPYLPARABEN BUTYL METHOXYDIBENZOYLMETHANE OCTOCRYLENE 4-METHYLBENZYLIDENE CAMPHOR SQUALANE AQUA
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION
+warnings:
+  
+inactive_ingredient:
+  
+indications_and_usage:
+  
+keep_out_of_reach_of_children:
+  
+purpose:
+  
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+set_id:
+  37fdb01b-929e-6a60-e063-6394a90a94e0
+id:
+  37fdb01b-929f-6a60-e063-6394a90a94e0
+effective_time:
+  20250620
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    BISUTANG Sunscreen
+  generic_name:
+    BISUTANG SUNSCREEN
+  manufacturer_name:
+    Guangdong Bisutang Biotechnology Co Ltd
+  product_ndc:
+    84753-034
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    CUTANEOUS
+  substance_name:
+    TITANIUM DIOXIDE
+  spl_id:
+    37fdb01b-929f-6a60-e063-6394a90a94e0
+  spl_set_id:
+    37fdb01b-929e-6a60-e063-6394a90a94e0
+  package_ndc:
+    84753-034-01
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP

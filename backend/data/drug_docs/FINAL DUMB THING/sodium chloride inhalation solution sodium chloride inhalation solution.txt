@@ -1,0 +1,15 @@
+spl_product_data_elements:
+  sodium chloride inhalation solution sodium chloride inhalation solution SODIUM CHLORIDE CHLORIDE ION
+description:
+  15 ml shipper
+package_label_principal_display_panel:
+  asr0159
+set_id:
+  7e06511c-42f8-b52f-e053-2a91aa0afc6a
+id:
+  18e13c58-37d6-39e2-e063-6294a90ad585
+effective_time:
+  20240520
+version:
+  3
+openfda:

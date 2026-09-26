@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  77 Disinfection Ethanol Liqui d Alcohol Alcohol ALCOHOL Water
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 83% v/v
+inactive_ingredient:
+  INACTIVE INGREDIENT Water
+purpose:
+  PURPOSE Antiseptic
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame -------------------------------------------------------------------------------------------------------- Do not use • in children less than 2 months of age • on open skin wounds -------------------------------------------------------------------------------------------------------- When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. -------------------------------------------------------------------------------------------------------- Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses • disinfection of hard object surfaces
+dosage_and_administration:
+  Directions • Apply to clean, dry hands. Apply sufficient amount to thoroughly wet all surfaces of hands and fingers. Rub onto hands until dry. • Supervise children in the use of this product.
+other_safety_information:
+  Other information • Store between 59-86℉ (15-30℃) • Avoid freezing and excessive heat above 104℉ (40℃)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of bottle
+set_id:
+  0f6b3d59-63b1-4a67-b875-9b2a24368922
+id:
+  d9e492dc-68e5-4858-8f3d-7b9b03886094
+effective_time:
+  20200911
+version:
+  1
+openfda:

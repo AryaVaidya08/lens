@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Clorox Antibacterial Chloroxylenol WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE GLYCERIN COCOYL METHYL MONOETHANOLAMINE SODIUM CHLORIDE CITRIC ACID MONOHYDRATE EDETATE DISODIUM ANHYDROUS METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FRAGRANCE FLORAL ORC0902236 CHLOROXYLENOL CHLOROXYLENOL
+spl_unclassified_section:
+  DRUG FACTS
+  Clorox Antibacterial Hand Soap washes away dirt and bacteria from hands. This gentle antibacterial hand soap is perfect for frequent handwahing and leaves a fresh smelling scent. Developed in USA Responsibly Made in China ©2021 Distributed by Brand Buzz LLC, 1407 Broadway, New York, NY 10018 The Clorox name and logo are registered trademarks of The Clorox Company and are used under license by Brand Buzz LLC.
+active_ingredient:
+  Active Ingredient Chloroxylenol 0.3%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only. When using this product avoid contact with the eyes. If contact occurs, rinse eyes with water. Stop use and ask a doctor if irritation or redness develops and condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with the eyes. If contact occurs, rinse eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops and condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply onto wet hands, lather for at least 30 seconds and rinse thoroughly.
+inactive_ingredient:
+  Inactive ingredients WATER, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, GLYCERIN, COCAMIDE METHYL MEA, SODIUM CHLORIDE, PARFUM, CHLOROXYLENOL, CITRIC ACID, DISODIUM EDTA, METHYLCHLOROISOTHIAZOLINONE AND METHYLISOTHIAZOLINONE, DYE.
+questions:
+  Questions or Comments? Call us at 1-888-508-4750 or visit us at www.brandbuzzcp.com
+package_label_principal_display_panel:
+  CLOROX ™ Antibacterial Hand Soap Strawberry Bleach-Free 16 fl. oz. (1pt) 473ml 34 fl oz. (1L) 473 1L
+set_id:
+  9b674eda-f1bb-4ac1-ac31-5aafb508312b
+id:
+  f12d5c87-eb66-0b6d-e053-2995a90a6163
+effective_time:
+  20221231
+version:
+  2
+openfda:

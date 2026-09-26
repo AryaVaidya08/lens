@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Visor Clear Body Mist Hydrating Sunscreen SPF 50 AVOBENZONE, OCTISALATE, OCTOCRYLENE KIWI FRUIT ALCOHOL ALOE VERA LEAF ASCORBYL PALMITATE BUTYLOCTYL SALICYLATE SAFFLOWER OIL CITRIC ACID MONOHYDRATE COCONUT OIL GLYCERIN SUNFLOWER OIL LYCIUM BARBARUM FRUIT METHYL DIHYDROABIETATE PHENOXYETHANOL PUNICA GRANATUM ROOT BARK .ALPHA.-TOCOPHEROL ACETATE WATER AVOBENZONE AVOBENZONE OCTISALATE ETHYLHEXYL SALICYLATE OCTOCRYLENE OCTOCRYLENE
+spl_unclassified_section:
+  Drug Facts
+  Other information. Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active Ingredient Avobenzone, 3.00% Octisalate 5.00% Octocrylene 10.00% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses. Helps prevent sunburn. higher SPF gives more sunburn protection retains SPF after 80 minutes of swimming or sweating If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin agingcaused by the sun.
+warnings:
+  Warnings. For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Do not puncture or incinerate. Contents under pressure. Do not store it at temperatures above 120°F. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove. Do not puncture or incinerate. Contents under pressure. Do not store it at temperatures above 120°F.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+dosage_and_administration:
+  Directions. Apply liberally 15 minutes before sun exposure and as needed. Children under 6 months of age: ask a doctor. Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours do not spray directly on face. Spray into hands and apply to face. Use in well-ventilated areas. Sun Protection Measures. Spending time in the sun increase your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.-2p.m. Wear long-sleeved shirts, pants,hats,and sunglasses.
+inactive_ingredient:
+  Inactive Ingredients Actinidia Chinensis (Kiwi) Fruit Extract, Alcohol, Aloe Barbadensis Leaf Extract, Ascorbyl Palmitate, Butyloctyl Salicylate, Carthamus Tinctorius (Safflower) Seed Oil, Citric Acid, Cocos Nucifera (Coconut) Oil, Fragrance (Parfum), Garcinia Mangostana (Mangosteen) Extract, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Linum Usitatissimum Seed Oil, Lycium Barbarum Fruit Extract, Methyl Dihydroabietate, Phenoxyethanol, Punica Granatum Extract, Tocopheryl Acetate, Water (Aqua)
+questions:
+  undefined Call 203-293-3057 or email info@visorskincare.com
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  b2d7639c-cbfb-4127-8ee4-7355e0d021e1
+id:
+  34627d47-c9f3-1e72-e063-6294a90a2a6f
+effective_time:
+  20250505
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Visor Clear Body Mist Hydrating Sunscreen SPF 50
+  generic_name:
+    AVOBENZONE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    VISOR SKINCARE LLC
+  product_ndc:
+    85335-597
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    34627d47-c9f3-1e72-e063-6294a90a2a6f
+  spl_set_id:
+    b2d7639c-cbfb-4127-8ee4-7355e0d021e1
+  package_ndc:
+    85335-597-00
+  is_original_packager:
+    True
+  upc:
+    0199284346741
+  unii:
+    G63QQF2NOX
+    4X49Y0596W
+    5A68WGF6WM

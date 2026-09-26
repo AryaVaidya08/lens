@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Childrens TYLENOL Acetaminophen ANHYDROUS CITRIC ACID D&C RED NO. 33 FD&C BLUE NO. 1 GLYCERIN HIGH FRUCTOSE CORN SYRUP MICROCRYSTALLINE CELLULOSE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM WATER SODIUM BENZOATE SORBITOL SOLUTION SUCRALOSE XANTHAN GUM ACETAMINOPHEN ACETAMINOPHEN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each 5 mL) Acetaminophen 160 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses temporarily: reduces fever relieves minor aches and pains due to: the common cold flu headache sore throat toothache
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if your child takes more than 5 doses in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if your child is allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if your child has liver disease Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin When using this product do not exceed recommended dose (see overdose warning ) Stop use and ask a doctor if pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if your child is allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if your child has liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recommended dose (see overdose warning )
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions this product does not contain directions or complete warnings for adult use. do not give more than directed (see overdose warning ) shake well before using mL = milliliter find right dose on chart below. If possible, use weight to dose; otherwise, use age. remove the child protective cap and pour your child's dose into the dosing cup repeat dose every 4 hours while symptoms last do not give more than 5 times in 24 hours Weight (lb) Age (yr) Dose (mL) or as directed by a doctor under 24 under 2 years ask a doctor 24-35 2-3 years 5 mL 36-47 4-5 years 7.5 mL 48-59 6-8 years 10 mL 60-71 9-10 years 12.5 mL 72-95 11 years 15 mL Attention: use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device.
+dosage_and_administration_table:
+  <table width="75%"><col align="center" valign="top" width="33%"/><col align="center" valign="top" width="34%"/><col align="center" valign="top" width="33%"/><thead><tr><th styleCode="Lrule Rrule">Weight (lb)</th><th styleCode="Rrule">Age (yr)</th><th styleCode="Rrule">Dose (mL) <footnote ID="K637">or as directed by a doctor</footnote></th></tr></thead><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule">under 24</td><td styleCode="Rrule">under 2 years</td><td styleCode="Rrule">ask a doctor</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">24-35</td><td styleCode="Rrule">2-3 years</td><td styleCode="Rrule">5 mL</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">36-47</td><td styleCode="Rrule">4-5 years</td><td styleCode="Rrule">7.5 mL</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">48-59</td><td styleCode="Rrule">6-8 years</td><td styleCode="Rrule">10 mL</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">60-71</td><td styleCode="Rrule">9-10 years</td><td styleCode="Rrule">12.5 mL</td></tr><tr><td styleCode="Lrule Rrule">72-95</td><td styleCode="Rrule">11 years</td><td styleCode="Rrule">15 mL</td></tr></tbody></table>
+storage_and_handling:
+  Other information each 5 mL contains: sodium 2 mg store between 20-25°C (68-77°F) do not use if carton tape or bottle wrap imprinted with "TYLENOL" is broken or missing
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C red no. 33, FD&C blue no. 1, flavors, glycerin, high fructose corn syrup, microcrystalline cellulose and carboxymethylcellulose sodium, purified water, sodium benzoate, sorbitol solution, sucralose, xanthan gum
+questions:
+  Questions or comments? call 1-800-458-1635 (toll-free) or 215-273-8755 (collect)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 50580-579-02 Children's TYLENOL ® Acetaminophen (160 mg per 5 mL) Oral Suspension Pain Reliever-Fever Reducer Pain+Fever Ages 2-11 Years For In-Patient Use Only Hospital/Government Not For Retail Sale Alcohol Free Ibuprofen Free Aspirin Free No Parabens 4 fl oz (120 mL) 160 mg per 5 mL Grape Flavor PRINCIPAL DISPLAY PANEL
+set_id:
+  ce0a1fbc-7345-462b-b0da-c7149bdc288c
+id:
+  22d91a96-0b05-5f31-e063-6394a90aae0b
+effective_time:
+  20241107
+version:
+  7
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Childrens TYLENOL
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    50580-579
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    307668
+    828555
+  spl_id:
+    22d91a96-0b05-5f31-e063-6394a90aae0b
+  spl_set_id:
+    ce0a1fbc-7345-462b-b0da-c7149bdc288c
+  package_ndc:
+    50580-579-02
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D

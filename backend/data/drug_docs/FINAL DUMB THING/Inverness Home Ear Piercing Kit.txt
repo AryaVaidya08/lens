@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Inverness Home Ear Piercing Kit BENZALKONIUM CHLORIDE Inverness Hygienic Ear Care Antiseptic BENZALKONIUM CHLORIDE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.12% W/V Purpose Ear Care Antiseptic
+  Active ingredient Benzalkonium Chloride 0.12% W/V Purpose Ear Care Antiseptic
+purpose:
+  Purpose Ear Care Antiseptic
+  Purpose Ear Care Antiseptic
+indications_and_usage:
+  Use for care of your pierced ears
+  Use for care of your pierced ears
+warnings:
+  For external use only Do not ingest. If swallowed, get medical help or contact Poison Control Center immediately In case of contact with eyes, flush with water. Stop use and ask a doctor if you experience pain, redness, or swelling.
+  Warnings For external use only Do not ingest. If swallowed, get medical help or contact Poison Control Center immediately In case of contact with eyes, flush with water. Keep out of reach of children. Stop use and ask a doctor if you experience pain, redness, or swelling.
+stop_use:
+  Stop use and ask a doctor if you experience pain, redness, or swelling.
+  Stop use and ask a doctor if you experience pain, redness, or swelling.
+dosage_and_administration:
+  Directions For optimal results, follow these steps everyday • Clean hands thoroughly with soap before touching ears and studs. • Using cotton swabs, cleanse front and back of ears 3 times a day with Ear Care Antiseptic. Gently rotate the studs while cleansing. DO NOT remove earrings. • Keep hair, hair spray, shampoo, soap, cosmetics, perfume, hot tubs, or use of any of the above products, rinse your ears in clear water and reapply Ear Care Antiseptic
+  Directions For optimal results, follow these steps everyday. • Clean hands thoroughly with antibacterial soap before touching ears and earrings. • Using cotton swabs, cleanse front and back of ears 3 times a day with Ear Care Antiseptic. Gently rotate the earrings while cleansing. DO NOT remove earrings. • Keep hair, hair spray, shampoo, soap, cosmetics, perfume, etc. away from newly pierced ears. After shampooing, exercising, swimming, hot tubs, or use of any of the above products, rinse your ears in clear water and reapply Ear Care Antiseptic.
+inactive_ingredient:
+  Inactive ingredients Purified Water
+  Inactive ingredients Purified Water
+questions:
+  Questions? Call 1-800-255-8556
+  Questions? Call 1-800-255-8556
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  Package Labeling:70094-004-03 Kit
+  Package Labeling:70094-005-03 Label1
+set_id:
+  80909a34-21da-4c54-bb62-fd986fd24b04
+id:
+  2e5c8659-3b45-bf9f-e063-6294a90aed12
+effective_time:
+  20250217
+version:
+  2
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Inverness Home Ear Piercing Kit
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    The Richline Group, Inc.
+  product_ndc:
+    70094-004
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1052949
+  spl_id:
+    2e5c8659-3b45-bf9f-e063-6294a90aed12
+  spl_set_id:
+    80909a34-21da-4c54-bb62-fd986fd24b04
+  package_ndc:
+    70094-004-03
+    70094-005-03
+  is_original_packager:
+    True
+  upc:
+    0020409007011

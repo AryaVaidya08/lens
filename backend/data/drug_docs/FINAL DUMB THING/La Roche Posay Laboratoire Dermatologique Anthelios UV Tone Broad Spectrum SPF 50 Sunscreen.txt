@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  La Roche Posay Laboratoire Dermatologique Anthelios UV Tone Broad Spectrum SPF 50 Sunscreen Avobenzone, Homosalate, Octisalate and Octocrylene WATER GLYCERIN C15-19 ALKANE NIACINAMIDE PROPANEDIOL TOCOPHEROL SODIUM STEAROYL GLUTAMATE CETEARYL ALCOHOL SCLEROTIUM GUM HYDROXYACETOPHENONE CAPRYLYL GLYCOL GLYCERYL STEARATE HYDROLYZED JOJOBA ESTERS HELIANTHUS ANNUUS (SUNFLOWER) SEED WAX TRISODIUM ETHYLENEDIAMINE DISUCCINATE PENTYLENE GLYCOL DIETHYLHEXYL SYRINGYLIDENEMALONATE MALTODEXTRIN SODIUM HYDROXIDE CAPRYLIC/CAPRIC TRIGLYCERIDE POLYGLYCERIN-3 CITRIC ACID AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE ETHYLHEXYL SALICYLATE OCTOCRYLENE OCTOCRYLENE
+active_ingredient:
+  Active ingredients Avobenzone 3% Homosalate 7% Octisalate 5% Octocrylene 7%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses · helps prevent sunburn · if used as directed with other sun protection measures (see Directions ) , decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: · apply generously 15 minutes before sun exposure · reaply at least every 2 hours · use a water resistant sunscreen if swimming or sweating · Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: · limit time in the sun, especially from 10 a.m – 2 p.m · wear long-sleeved shirts, pants, hats, and sunglasses · children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information · protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, glycerin, C15-19 alkane, niacinamide, propanediol, C12-22 alkyl acrylate/hydroxyethylacrylate copolymer, tocopherol, sodium stearoyl glutamate, cetearyl alcohol, sclerotium gum, hydroxyacetophenone, caprylyl glycol, sodium starch octenylsuccinate, glyceryl stearate, jojoba esters, helianthus annuus (sunflower) seed wax, hydroxypropyl starch phosphate, trisodium ethylenediamine disuccinate, pentylene glycol, diethylhexyl syringylidenemalonate, cassia alata leaf extract, maltodextrin, sodium hydroxide, caprylic/capric triglyceride, polyglycerin-3, citric acid
+questions:
+  Questions or comments? 1-888- LRP-LABO 1-888-577-5226 Monday - Friday (9a.m. -5 p.m. EST)
+package_label_principal_display_panel:
+  image description
+  image description
+set_id:
+  46aa9917-52ac-4c57-afde-366d2d3ca200
+id:
+  30e06498-a38a-439b-9aaa-d7a56cfd37d3
+effective_time:
+  20241223
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    La Roche Posay Laboratoire Dermatologique Anthelios UV Tone Broad Spectrum SPF 50 Sunscreen
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE AND OCTOCRYLENE
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-212
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    30e06498-a38a-439b-9aaa-d7a56cfd37d3
+  spl_set_id:
+    46aa9917-52ac-4c57-afde-366d2d3ca200
+  package_ndc:
+    49967-212-01
+    49967-212-02
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

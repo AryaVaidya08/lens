@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Byoma Acne Clearing Cleanser SALICYLIC ACID SODIUM BENZOATE PROPYLENE GLYCOL WATER BAKUCHIOL HAMAMELIS VIRGINIANA TOP WATER PHYTOSPHINGOSINE COCAMIDOPROPYL BETAINE SODIUM HYDROXIDE SALICYLIC ACID SALICYLIC ACID COCONUT ACID ETHYL LINOLEATE GREEN TEA LEAF POTASSIUM SORBATE STEARIC ACID GLYCERIN SODIUM METHYL COCOYL TAURATE ZINC GLUCONATE PHENOXYETHANOL GLYCOL DISTEARATE HYDROXYCINNAMIC ACID SODIUM CHLORIDE ETHYLHEXYLGLYCERIN ALLANTOIN PROPANEDIOL CERAMIDE NP GLUCOMANNAN RUTIN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Salicylic Acid 2%
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Use for the treatment of acne
+warnings:
+  Warnings For external use only When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. rinse right away with water if it gets in eyes. Stop use and ask a doctor if irritation becomes severe. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Centre right away.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. rinse right away with water if it gets in eyes.
+stop_use:
+  Stop use and ask a doctor if irritation becomes severe.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Centre right away.
+dosage_and_administration:
+  Directions Wet the skin and gently massage for 1-2 minutes and rinse well. If bothersome dryness or peeling occurs, reduce frequency of use.
+other_safety_information:
+  Other Information Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive Ingredients Aqua (Water), Glycerin, Hamamelis Virginiana (Witch Hazel) Water, Stearic Acid, Propylene Glycol, Cocamidopropyl Betaine, Glyceryl Stearate, Sodium Methyl Cocoyl Taurate, Sodium Hydroxide, Zinc Gluconate, Glycol Distearate, Ethyl Linoleate, Phenoxyethanol, Sodium Chloride, Camellia Sinensis (Green Tea) Leaf Extract, Coconut Acid, Ethylhexylglycerin, Allantoin, Bakuchiol, Phytosphingosine, Ceramide NP, Propanediol, Rutin, Potassium Sorbate, Hydroxycinnamic Acid, Sodium Benzoate.
+questions:
+  Questions or Comments? Contact hello@byoma.com
+package_label_principal_display_panel:
+  Product Labeling 1 2
+set_id:
+  30036070-f5f1-c082-e063-6294a90a66e1
+id:
+  3373d226-ecf9-0763-e063-6294a90a8e32
+effective_time:
+  20250423
+version:
+  2
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Byoma Acne Clearing Cleanser
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Byoma Ltd
+  product_ndc:
+    84821-007
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    3373d226-ecf9-0763-e063-6294a90a8e32
+  spl_set_id:
+    30036070-f5f1-c082-e063-6294a90a66e1
+  package_ndc:
+    84821-007-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

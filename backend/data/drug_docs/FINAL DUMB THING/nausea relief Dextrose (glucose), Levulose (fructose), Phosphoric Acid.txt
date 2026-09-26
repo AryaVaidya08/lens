@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  nausea relief Dextrose (glucose), Levulose (fructose), Phosphoric Acid DEXTROSE, UNSPECIFIED FORM ANHYDROUS DEXTROSE FRUCTOSE FRUCTOSE PHOSPHORIC ACID PHOSPHORIC ACID FD&C RED NO. 40 GLYCERIN METHYLPARABEN WATER clear
+active_ingredient:
+  Active ingredients (per 5 mL) Dextrose (glucose) 1.87g Levulose (fructose) 1.87g Phosphoric acid 21.5mg
+purpose:
+  Purpose Upset stomach reliever
+indications_and_usage:
+  Uses • for relief of upset stomach associated with nausea
+warnings:
+  Warnings • this product contains fructose and should not be taken by persons with hereditary fructose intolerance (HFI) Do not use if if you have • allergic reactions to any of the ingredients in this product Ask a doctor before use if you have • diabetes Stop use and ask a doctor if • symptoms persist, return or get worse If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if if you have • allergic reactions to any of the ingredients in this product
+ask_doctor:
+  Ask a doctor before use if you have • diabetes
+stop_use:
+  Stop use and ask a doctor if • symptoms persist, return or get worse
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • for maximum effectiveness, never dilute or drink fluids of any kind immediately before or after taking this product • repeat dose every 15 minutes or until distress subsides • do not take more than 5 doses in 1 hour without consulting a doctor • measure only with dosing cup provided. Dosing cup to be used with this product only. Do not use with other products. • mL = milliliters age dose adults and children 12 years of age and over 15 mL or 30 mL children 2 to under 12 years of age 5 mL or 10 mL
+dosage_and_administration_table:
+  <table styleCode="Noautorules" width="100%"><col width="50%"/><col width="50%"/><tbody><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>age</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>dose</paragraph></td></tr><tr><td align="center" styleCode="Rrule Lrule Botrule " valign="top"><paragraph>adults and children 12 years of age and over</paragraph></td><td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>15 mL or 30 mL</paragraph></td></tr><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>children 2 to under 12 years of age</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>5 mL or 10 mL</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • store at 20-25 ° C (68-77 ° F) away from heat and direct light; keep from freezing. • do not use if printed neckband is broken or missing
+inactive_ingredient:
+  Inactive ingredients FD&C red no. 40 aluminum lake, flavor, glycerin, methylparaben, purified water
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Compare to the active ingredients of Emetrol® nausea relief dextrose (glucose) 1.87 g levulose (fructose) 1.87 g phosphoric acid 21.5 mg for children and adults relief for nausea due to upset stomach no antihistamines no aspirin no alcohol no caffeine cherry flavor 4 FL OZ (118 mL) 291-83-nausea-relief.jpg
+set_id:
+  6e7ae3f0-68b6-4176-a05b-330ffce141cd
+id:
+  9f45e0f8-a991-4d03-9cf0-0476208a1d78
+effective_time:
+  20241127
+version:
+  4
+openfda:

@@ -1,0 +1,33 @@
+effective_time:
+  20100824
+inactive_ingredient:
+  Inactive ingredients glycerin, water, calcium carbonate, hydrated silica, natural flavors , Chondrus crispus (carrageenan), sodium lauryl sulfate.
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or dial (412) 390-3381 right away (Poison Control Center).
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or dial (412) 390-3381 right away (Poison Control Center).
+questions:
+  Questions? 1-800-FOR-TOMS (1-800-367-8667) M - F 8:30 a.m. - 5:30 p.m. ET
+spl_product_data_elements:
+  Childrens Outrageous Orange Mango Sodium Monofluorophosphate Sodium Monofluorophosphate fluoride ion Glycerin Water Calcium carbonate Hydrated silica Orange Carrageenan sodium lauryl sulfate Orange-mango with other natural fruit flavors Childrens Outrageous Orange Mango Sodium Monofluorophosphate Sodium Monofluorophosphate fluoride ion Glycerin Water Calcium carbonate Hydrated silica Orange Carrageenan sodium lauryl sulfate Orange-mango with other natural fruit flavors
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions adults and children 2 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician. children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+spl_unclassified_section:
+  Drug Facts
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 119 g Tube SINCE 1970 Tom's ™ OF MAINE ADA Accepted American Dental Association ® natural children's prevents cavities tastes great fluoride toothpaste outrageous orange mango ™ NET WT 4.2 OZ (119 g) Principal Display Panel – 119 g Tube
+indications_and_usage:
+  Use helps protect against cavities.
+set_id:
+  4d4cf5c7-bac2-46b2-bd71-bb27f2038286
+id:
+  14754960-8e32-4c3c-b41d-f5ed6fdc2c74
+active_ingredient:
+  Active ingredient Sodium monofluorophosphate 0.76% (0.13% w/v fluoride ion)
+dosage_and_administration_table:
+  <table width="93%"> <col width="42%" align="left" valign="top"/> <col width="58%" align="left" valign="top"/> <tbody> <tr styleCode="toprule"> <td styleCode="Rrule">adults and children 2 years of age and older:</td> <td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician.</td> </tr> <tr> <td styleCode="Rrule toprule">children 2 to 6 years</td> <td styleCode="toprule">use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td> </tr> <tr styleCode="toprule"> <td styleCode="Rrule toprule">children under 2 years</td> <td styleCode="toprule">ask a dentist or physician</td> </tr> </tbody> </table>

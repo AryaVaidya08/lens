@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Lubricant Eye carboxymethylcellulose sodium BORIC ACID CALCIUM CHLORIDE MAGNESIUM CHLORIDE POTASSIUM CHLORIDE WATER SODIUM CHLORIDE HYDROCHLORIC ACID SODIUM HYDROXIDE CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE
+active_ingredient:
+  Active ingredient Carboxymethylcellulose sodium 0.5%
+purpose:
+  Purpose Eye lubricant
+indications_and_usage:
+  Uses For the temporary relief of burning, irritation, and discomfort due to dryness of the eye or exposure to wind or sun. May be used as a protectant against further irritation.
+warnings:
+  Warnings For external use only. To avoid contamination, do not touch tip of container to any surface. Replace cap after using. If solution changes color or becomes cloudy, do not use. Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Instill 1 or 2 drops in the affected eye(s) as needed.
+questions:
+  Other information Use before expiration date marked on the container. Discard 30 days after opening Store at 59°-86°F (15°-30°C). RETAIN THIS CARTON FOR FUTURE REFERENCE.
+inactive_ingredient:
+  Inactive ingredients Boric acid; calcium chloride; magnesium chloride; potassium chloride; purified water; stabilized oxychloro complex; and sodium chloride. May also contain hydrochloric acid and/or sodium hydroxide to adjust pH.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL 3
+set_id:
+  daef3302-ecc2-856b-e053-2a95a90a74cc
+id:
+  0fa89b2a-96e8-6add-e063-6394a90af9ab
+effective_time:
+  20240123
+version:
+  3
+openfda:

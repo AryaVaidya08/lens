@@ -1,0 +1,29 @@
+effective_time:
+  20160210
+inactive_ingredient:
+  Ingredients: Natural Magnesium Sulfate
+purpose:
+  Uses (Internal) Relieves occasional constipation (irregularity) Generally produces bowel movements in 1/2 to 6 hours Uses (External) Relieves pain from minor sprains and bruises
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children. In case of accidental overdose, seek professional assistance or contact a Poison Control Center immediately.
+warnings:
+  Warnings • Ask a doctor before use if you have: Kidney disease a magnesium restricted diet abdominal pain, nausea or vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks already used a laxative for a period longer than 1 week Ask a doctor or pharmacist before use if you are presently taking any other drug. Take this product 2 or more hours before or after other drugs. Laxatives may affect how other drugs work. When using this product, do not use more than directed. Stop and consult a doctor if: As laxative: • you have rectal bleeding or fail to have a bowel movement after use. This may indicate a serious condition. • You need to use a laxative for more than 1 week As soaking solution: • you have redness, irritation, swelling, or infection occurs • hot or warm soaks should not be used by individuals with diabetes except with the advice of a physician If pregnant or breast-feeding, ask a health professional before use. EPSOM SALT WITHOUT SCENT CAN BE APPLIED FOR BOTH INTERNAL AND EXTERNAL USE, SCENTED EPSOM SALTS CAN BE APPLIED FOR EXTERNAL USE ONLY.
+spl_product_data_elements:
+  Natural Epsom Salt Lavender magnesium sulfate MAGNESIUM SULFATE MAGNESIUM CATION LAVENDER OIL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions - For Internal Use as a Laxative do not exceed more than 2 doses per day may be taken as a single daily dose or in divided doses dissolve each dose in a full (8 ounces) of liquid Age Dose adults and children 12 years and older 2 to 4 level teaspoons (10 to 20 grams) daily children 6 to under 12 years 1 to 2 level teaspoons (5 to 10 grams) daily Not recommended for children under 6 years of age.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Natural Epsom Salt Magnesium Sulfate U.S.P. Soaking Solution Saline Laxative Soothes Minor Aches, Sprains & Sore Muscles Calming & Rejuvenating SORE FEET RELIEF: Add one cup of Amoray Care® Epsom Salt to one gallon of warm water and soak for at least 5 minutes at a time. BATH SOAK: Add two cups of Amoray Care® Epsom Salt under warm running bath water to release its gentle aroma. Amoray Care® Epsom Salt helps relieve tension and provides a soothing, relaxing experience. Soak for at least 20 minutes. First Aid Compress: Dissolve 2 cups of Amoray Care® Epsom Salt into two cups of hot water to make a compress, apply as a wet dressing with a towel to: soothe bruises & sprains, take the sting out of insect bites, draw out splinters, alleviate pain from sports and overexertion. Kkeep out of reach of children. Where prompt relief is not obtained or where there is evidence of infection, discontinue use and consult a physician. Hot or warm soaks should not be used by individuals with diabetes except on advice of a physician. Avoid contact with eyes. EPSOM SALT WITHOUT SCENT CAN BE APPLIED FOR BOTH INTERNAL AND EXTERNAL USE, SCENTED EPSOM SALTS CAN BE APPLIED FOR EXTERNAL USE ONLY. Store in a cool, dry place out of direct sunlight. Package sold by weight not volume, some settling may occur during shipment. If caking occurs, tap pouch gently to free granules.
+set_id:
+  2b701beb-362e-381f-e054-00144ff88e88
+id:
+  2b70e780-5b7e-2d97-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredient ..................................................................... Purpose Magnesium Sulfate USP (Epsom Salt) Internal Use ....................................................................... Saline Laxative External Use .................................................................... Soaking Solution
+dosage_and_administration_table:
+  <table width="50%"> <caption/> <tbody> <tr> <td> Age</td> <td>Dose </td> </tr> <tr> <td> adults and children 12 years and older</td> <td>2 to 4 level teaspoons (10 to 20 grams) daily </td> </tr> <tr> <td> children 6 to under 12 years</td> <td>1 to 2 level teaspoons (5 to 10 grams) daily </td> </tr> </tbody> </table>

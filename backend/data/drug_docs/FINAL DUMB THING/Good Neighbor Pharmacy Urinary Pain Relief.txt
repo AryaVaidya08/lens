@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Good Neighbor Pharmacy Urinary Pain Relief PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE HYDROCHLORIDE PHENAZOPYRIDINE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SHELLAC CROSCARMELLOSE SODIUM SODIUM STARCH GLYCOLATE TYPE A CORN LACTOSE, UNSPECIFIED FORM MAGNESIUM SILICATE P95
+active_ingredient:
+  Active Ingredient Phenazopyridine Hydrochloride 95 mg
+purpose:
+  Purpose Urinary Analgesic
+indications_and_usage:
+  Uses fast relief from urinary pain,burning,urgency and frequency associated with urinary tract infections.
+warnings:
+  Warning Do not exceed recommended dosage
+ask_doctor:
+  Ask Doctor before use if you have ■ kidney disease ■ allergies to foods, preservatives or dyes ■ had a hypersensitive reaction to Phenazopyridine
+when_using:
+  When using this product ■ When using this product stomach upset may occur, taking this product with or after meals may reduce stomach upset ■ your urine will become reddish-orange in color. This is not harmful, but care should be taken to avoid staining clothing or other items.
+stop_use:
+  Stop use and ask a doctor if ■ your symptoms last for more than 2 days ■ you suspect you are having an adverse reaction to the medication
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children in case of an overdose,get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Adults and children 12 and over: take 2 tablets 3 times daily with a full glass of water, with or after meals as needed ■ Children under 12: consult a doctor ■ Do not use for more than 2 days (12 tablets) without consulting a doctor
+inactive_ingredient:
+  Inactive Ingredients lactose, magnesium silicate, magnesium stearate, microcrystalline cellulose, pharmaceutical glaze, and sodium starch glycolate. May also contain: corn starch, croscarmellose sodium, polyvinylpyrrolidone, pregelatinized starch and silicon dioxide.
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel 71205-584-30
+set_id:
+  9281da67-6e41-43e3-b8af-290657aa80db
+id:
+  1f61dcb1-c108-433a-963c-215cd2239a3e
+effective_time:
+  20220901
+version:
+  2
+openfda:
+  brand_name:
+    Good Neighbor Pharmacy Urinary Pain Relief
+  generic_name:
+    PHENAZOPYRIDINE HYDROCHLORIDE
+  manufacturer_name:
+    Proficient Rx LP
+  product_ndc:
+    71205-584
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PHENAZOPYRIDINE HYDROCHLORIDE
+  rxcui:
+    1094126
+  spl_id:
+    1f61dcb1-c108-433a-963c-215cd2239a3e
+  spl_set_id:
+    9281da67-6e41-43e3-b8af-290657aa80db
+  package_ndc:
+    71205-584-30
+  original_packager_product_ndc:
+    46122-337
+  upc:
+    0371205584306
+  unii:
+    0EWG668W17

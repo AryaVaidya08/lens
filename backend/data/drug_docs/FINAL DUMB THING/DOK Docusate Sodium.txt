@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  DOK Docusate Sodium DOCUSATE SODIUM DOCUSATE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN, UNSPECIFIED GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL SORBITOL WATER ANHYDROUS CITRIC ACID 655
+active_ingredient:
+  Active ingredient (in each liquid-filled capsule) Docusate sodium 100 mg
+purpose:
+  Purpose Stool softener laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 12 to 72 hours
+warnings:
+  Warnings Do not use if you are presently taking mineral oil, unless told to do so by a doctor. Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you are presently taking mineral oil, unless told to do so by a doctor.
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions take with a glass of water take only by mouth. Doses may be taken as a single daily dose or in divided doses. adults and children 12 years and over take 1 to 3 capsules daily children 2 to under 12 years take 1 capsule daily children under 2 years ask a doctor
+dosage_and_administration_table:
+  <table width="450px"><col/><col/><tbody><tr><td styleCode="     Botrule          Toprule         Lrule          Rrule     "> adults and children 12 years and over</td><td styleCode="     Botrule          Toprule         Lrule          Rrule     "> take 1 to 3 capsules daily</td></tr><tr><td styleCode="     Botrule          Toprule         Lrule          Rrule     "> children 2 to under 12 years</td><td styleCode="     Botrule          Toprule         Lrule          Rrule     "> take 1 capsule daily</td></tr><tr><td styleCode="     Botrule          Toprule         Lrule          Rrule     "> children under 2 years</td><td styleCode="     Botrule          Toprule         Lrule          Rrule     "> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each capsule contains: sodium 6 mg Very Low Sodium store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) protect from excessive humidity TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, edible white ink, FD&C red #40, FD&C yellow #6, gelatin, glycerin, polyethylene glycol, propylene glycol, purified water, sorbitol
+questions:
+  Questions or comments? (800) 616-2471
+how_supplied:
+  HOW SUPPLIED Product: 50090-2842 NDC: 50090-2842-0 1 CAPSULE, LIQUID FILLED in a BLISTER PACK / 33 in a BOX, UNIT-DOSE
+package_label_principal_display_panel:
+  Docusate Sodium Label Image
+set_id:
+  ae457a19-ad08-49e6-94f0-3e5799fbef7d
+id:
+  80170a14-fac1-4764-9ad5-6b2fa615b19b
+effective_time:
+  20210301
+version:
+  10
+openfda:

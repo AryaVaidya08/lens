@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  ARC After Whitening Rinse Sodium Fluoride WATER BENZOIC ACID PHOSPHORIC ACID SODIUM BENZOATE POLYSORBATE 80 POLOXAMER 407 SUCRALOSE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS PROPYLENE GLYCOL SODIUM FLUORIDE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+  DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.02% (0.01% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use Aids in the prevention of dental cavities
+warnings:
+  Warning Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 6 years & older: Use twice a day after brushing your teeth with a toothpaste. Vigorously swish 10 mL of rinse between your teeth for 1 minute and then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in good rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: consult a dentist or doctor.
+inactive_ingredient:
+  Inactive ingredients water, propylene glycol, poloxamer 407, polysorbate 80, benzoic acid, flavor, sucralose, sodium benzoate, phosphoric acid, disodium phosphate
+questions:
+  Questions? 1-866-989-3951
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 475 mL Bottle Label ENAMEL STRENGTHENING ARC AFTER WHITENING ANTICAVITY FLUORIDE RINSE 475 mL (16 FL OZ) IMPORTANT: Read directions for proper use. ARC After Whitening Rinse
+set_id:
+  dad50805-dd1a-fc0b-e053-2995a90a1bb8
+id:
+  4093a9f0-8595-842b-e063-6394a90aea56
+effective_time:
+  20251007
+version:
+  8
+openfda:

@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Colgate Cavity Protection Fresh Mint SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA SODIUM LAURYL SULFATE POLYETHYLENE GLYCOL 600 CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED SACCHARIN SODIUM FD&C BLUE NO. 1 FD&C YELLOW NO. 5
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE CO. New York, NY 10022 U.S.A.
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="75%" styleCode="Noautorules"><col width="40%" align="left" valign="top"/><col width="60%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to 6 years</td><td>use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode="Rrule">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients Sorbitol, Water, Hydrated Silica, Sodium Lauryl Sulfate, Flavor, PEG-12, Cellulose Gum, Sodium Saccharin, Blue 1, Yellow 5.
+questions:
+  Questions? 1-800-468-6502
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 113 g Tube Label Colgate ® ages 8+ Fluoride Toothpaste FRESH MINT flavor Clinically Proven Cavity and Enamel Protection Toothpaste NET WT 4.0 OZ (113 g) Principal Display Panel - 113 g Tube Label
+set_id:
+  ae679038-396e-4335-9678-48126c430a0f
+id:
+  ae82170e-e398-4020-9397-ac7250172bfa
+effective_time:
+  20260713
+version:
+  5
+openfda:

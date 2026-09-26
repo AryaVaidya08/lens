@@ -1,0 +1,78 @@
+spl_product_data_elements:
+  Stomach Relief, Ultra Strength BISMUTH SUBSALICYLATE BISMUTH SUBSALICYLATE SALICYLIC ACID BENZOIC ACID D&C RED NO. 22 D&C RED NO. 28 WATER SACCHARIN SODIUM SALICYLIC ACID SODIUM SALICYLATE XANTHAN GUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each 30 mL dose cup or 2 tablespoons) Bismuth subsalicylate 1050 mg
+purpose:
+  Purposes Bismuth subsalicylate ....................... Upset stomach reliever and antidiarrheal
+indications_and_usage:
+  Uses relieves ■ travelers' diarrhea ■ diarrhea ■ upset stomach due to overindulgence of food and drink including: ■ heart burn ■ indigestion ■ nausea ■ gas ■ belching
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Contains salicylate. Do not take if you are ■ allergic to salicylates (including aspirin) ■ taking other salicylate products
+do_not_use:
+  Do not use if you have ■ an ulcer ■ a bleeding problem ■ black or bloody stool
+ask_doctor:
+  Ask a doctor before use if you have ■ fever ■ mucus in stool
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any drug for ■ anticoagulation (thinning of the blood) ■ diabetes ■ gout ■ arthritis
+when_using:
+  When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur
+stop_use:
+  Stop use and ask a doctor if ■ diarrhea lasts more than 2 days ■ symptoms get worse or last more than 2 days ■ ringing in the ears or loss of hearing occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Shake well before use ■ use dose cup or tablespoon (TBSP) ■ adults and children 12 years and over: 1 dose (30 mL or 2 TBSP) every 1 hour as needed ■ do not exceed 4 doses (120 mL or 8 TBSP) in 24 hours ■ use until diarrhea stops but not more than 2 days ■ children under 12 years: ask a doctor ■ drink plenty of clear fluids to help prevent dehydration caused by diarrhea
+other_safety_information:
+  Other information ■ each 30 mL dose cup contains: sodium 13 mg, salicylate 455 mg ■ protect from freezing ■ avoid excessive heat (over 104°F or 40°C) ■ low sodium
+inactive_ingredient:
+  Inactive ingredients benzoic acid, D&C red #22, D&C red #28, flavor, purified water, saccharin sodium, salicylic acid, sodium salicylate, xantham gum
+package_label_principal_display_panel:
+  Marc's Product Label NDC 68998-558-28 * Compare to the active ingredients in Pepto-Bismol TM Maximum Strength Marc's ULTRA STRENGTH Stomach Relief Antidiarrheal / Upset Stomach Reliever Bismuth subsalicylate 5 Symptoms Relief of • Nausea • Upset Stomach• • Heartburn • Diarrhea • Indigestion 12 FL OZ (354 mL) TAMPER EVIDENT: Do not use if imprinted shrinkband is missing or broken *Thls product is not manufactured or dlstnbuted by Procter & Gamble, Inc" distributor of Pepto Bismol TM Distributed by: LR-144 Marc Glassman, Inc. West 130th Street Cleveland, OH 44130 Lot. Exp. res 558-28
+set_id:
+  8e47d007-237c-45c7-88c5-83953a06e4bd
+id:
+  182ef664-b0b4-47c0-9453-27bc5d80d0f0
+effective_time:
+  20251226
+version:
+  3
+openfda:
+  application_number:
+    M008
+  brand_name:
+    Stomach Relief, Ultra Strength
+  generic_name:
+    BISMUTH SUBSALICYLATE
+  manufacturer_name:
+    Marc Glassman, Inc.
+  product_ndc:
+    68998-558
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BISMUTH SUBSALICYLATE
+  rxcui:
+    308763
+  spl_id:
+    182ef664-b0b4-47c0-9453-27bc5d80d0f0
+  spl_set_id:
+    8e47d007-237c-45c7-88c5-83953a06e4bd
+  package_ndc:
+    68998-558-28
+  is_original_packager:
+    True
+  nui:
+    M0002611
+    N0000180183
+  pharm_class_cs:
+    Bismuth [CS]
+  pharm_class_epc:
+    Bismuth [EPC]
+  unii:
+    62TEY51RR1

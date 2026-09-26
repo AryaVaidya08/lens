@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Acetaminophen Acetaminophen AMMONIA GELATIN FERRIC OXIDE RED POLYETHYLENE GLYCOL, UNSPECIFIED HYDROXYPROPYL CELLULOSE, UNSPECIFIED ISOPROPYL ALCOHOL PROPYLENE GLYCOL SHELLAC CROSCARMELLOSE SODIUM CROSCARMELLOSE ACETAMINOPHEN ACETAMINOPHEN FERROSOFERRIC OXIDE SILICON DIOXIDE HYPROMELLOSES BUTYL ALCOHOL POVIDONE STARCH, PREGELATINIZED CORN STEARIC ACID TITANIUM DIOXIDE FERRIC OXIDE YELLOW Encapsulated with red opaque and blue gray opaque hard gelatin shells G1
+active_ingredient:
+  Active ingredient (in each Gelcap) Acetaminophen, USP 500 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses ■ temporarily relieves minor aches and pains due to: ■ headache ■ muscular aches ■ backache ■ minor pain of arthritis ■ toothache ■ he common cold ■ premenstrual and menstrual cramps ■ temporarily reduces fever
+warnings:
+  Liver warning This product contains acetaminophen. Severe liver damage may occur if you take: ■ more than 4,000 mg of acetaminophen in 24 hours ■ with other drugs containing acetaminophen ■ 3 or more alcoholic drinks every day while using this product
+  Allergy alert acetaminophen may cause severe skin reactions. Symptoms may include: ■ skin reddening ■ blisters ■ rash If a skin reaction occurs, stop use and seek medical help right away.
+do_not_use:
+  Do not use ■ with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist ■ if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+stop_use:
+  Stop use and ask a doctor if ■ pain gets worse or lasts more than 10 days ■ fever gets worse or lasts more than 3 days ■ new symptoms occur ■ redness or swelling is present These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+overdosage:
+  overdose warning In case of accidental overdose, get medical help or contact a Poison Control Centerright away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions ■ do not take more than directed (see overdose warning) adults and children 12 years and over ■ take 2 gelcaps every 6 hours while symptoms last ■ do not take more than 6 gelcaps in 24 hours, unless directed by a doctor ■ do not take more than 10 days unless directed by a doctor children under 12 years ■ ask a doctor
+storage_and_handling:
+  Other information ■ store at 20°-25°C (68°-77°F). See USP Controlled Room Temperature ■ avoid high humidity ■ see end panel for lot number and expiration date
+inactive_ingredient:
+  Inactive ingredients ammonium hydroxide, black iron oxide, black iron oxide irradiated, colloidal silicon dioxide, croscarmellose sodium, gelatin, hydroxypropyl cellulose, hydroxypropyl methyl cellulose, hypromellose, iron oxide red, isopropyl alcohol, n-butyl alcohol, polyethylene glycol, povidone, pregelatinized starch, propylene glycol, shellac glaze, stearic acid, titanium dioxide, yellow iron oxide.
+questions:
+  Questions or comments? call 1-877-770-3183 Mon-Fri 8:00 AM EST to 5:00 PM PST.
+package_label_principal_display_panel:
+  100 count
+set_id:
+  a58e21de-20e1-fc81-e053-2995a90a5645
+id:
+  b19a5856-bc9f-5340-e053-2a95a90a9a41
+effective_time:
+  20201013
+version:
+  2
+openfda:

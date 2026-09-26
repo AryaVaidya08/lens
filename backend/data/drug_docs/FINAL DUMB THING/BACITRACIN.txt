@@ -1,0 +1,32 @@
+effective_time:
+  20170110
+contraindications:
+  CONTRAINDICATIONS This product should not be used in patients with a history of hypersensitivity to Bacitracin.
+precautions:
+  PRECAUTIONS Bacitracin ophthalmic ointment should not be used in deep-seated ocular infections or in those that are likely to become systemic. The prolonged use of antibiotic containing preparations may result in overgrowth of nonsusceptible organisms particularly fungi. If new infections develop during treatment appropriate antibiotic or chemotherapy should be instituted.
+spl_product_data_elements:
+  BACITRACIN BACITRACIN MINERAL OIL PETROLATUM BACITRACIN BACITRACIN
+description:
+  DESCRIPTION Each gram of ointment contains 500 units of Bacitracin in a low melting special base containing White Petrolatum and Mineral Oil.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION The ointment should be applied directly into the conjunctival sac 1 to 3 times daily. In blepharitis all scales and crusts should be carefully removed and the ointment then spread uniformly over the lid margins. Patients should be instructed to take appropriate measures to avoid gross contamination of the ointment when applying the ointment directly to the infected eye.
+adverse_reactions:
+  ADVERSE REACTIONS Bacitracin has such a low incidence of allergenicity that for all practical purposes side reactions are practically non-existent. However, if such reaction should occur, therapy should be discontinued. To report SUSPECTED ADVERSE REACTIONS, contact Fera Pharmaceuticals, LLC at (414) 434-6604, Monday - Friday 9am - 5pm EST, or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+spl_unclassified_section:
+  SPL UNCLASSIFIED Rx Only
+  SPL UNCLASSIFIED Manufactured for: Fera Pharmaceuticals, LLC Locust Valley, NY 11560 PF00735A R1111 MM1
+mechanism_of_action:
+  MECHANISM OF ACTION The antibiotic, Bacitracin, exerts a profound action against many gram-positive pathogens, including the common Streptococci and Staphylococci. It is also destructive for certain gram-negative organisms. It is ineffective against fungi.
+how_supplied:
+  HOW SUPPLIED NDC 48102-007-13 3 - 1 g sterile tamper evident tubes with ophthalmic tip. NDC 48102-007-35 3.5 g (1/8 oz.) sterile tamper evident tubes with ophthalmic tip. Store at 20°-25° C (68°-77° F) (See USP Controlled room temperature).
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION DRUG: BACITRACIN GENERIC: BACITRACIN DOSAGE: OINTMENT ADMINSTRATION: OPHTHALMIC NDC: 52125-454-01 ACTIVE INGREDIENT(S): BACITRACIN 500[iU] in 1g INACTIVE INGREDIENT(S): MINERAL OIL PETROLATUM PACKAGING: 3.5 g in 1 TUBE MM2 MM3
+indications_and_usage:
+  INDICATIONS & USAGE For the treatment of superficial ocular infections involving the conjunctiva and/or cornea caused by Bacitracin susceptible organisms.
+set_id:
+  ae4ea58f-131d-48fe-b192-dd4c3b127df0
+id:
+  45c5afe6-9c5b-3658-e054-00144ff88e88

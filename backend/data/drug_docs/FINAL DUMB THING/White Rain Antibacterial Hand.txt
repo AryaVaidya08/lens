@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  White Rain Antibacterial Hand WHITE TEA BENZALKONIUM CHLORIDE WATER LAURAMINE OXIDE COCO GLUCOSIDE GLYCERYL OLEATE CETRIMONIUM CHLORIDE PEG-150 DISTEARATE MYRISTAMINE OXIDE GLYCERIN CITRIC ACID MONOHYDRATE SODIUM CHLORIDE EDETATE DISODIUM ANHYDROUS SULISOBENZONE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C BLUE NO. 1 BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for hand washing to decrease bacteria on the skin. External
+warnings:
+  Warnings for external use only. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop and consult a doctor if: irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop and consult a doctor if: irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Pump into DRY hands, Lather vigorously for at least 15 seconds. Rinse and dry thoroughly.
+inactive_ingredient:
+  Inactive Ingredients Water(Aqua), Lauramine Oxide, Coco-Glucoside, Glyceryl Oleate, Cetrimonium Chloride, PEG-150 Distearate, Myristamine Oxide, Glycerin, Fragrance(Parfum), Citric Acid, Sodium Chloride, Disodium EDTA, Benzophenone-4, Methylchloroisothiazolinone, Methylisothiazolinone, FD&C Yellow No. 4, FD&C Blue No. 1.
+package_label_principal_display_panel:
+  Package Labeling: Label4
+set_id:
+  7b8ca764-5a33-44d6-93f4-2154a7de206a
+id:
+  0a4d52aa-f85c-f3d6-e063-6394a90ae9da
+effective_time:
+  20231116
+version:
+  3
+openfda:

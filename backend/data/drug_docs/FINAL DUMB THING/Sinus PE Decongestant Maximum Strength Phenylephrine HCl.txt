@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Sinus PE Decongestant Maximum Strength Phenylephrine HCl PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CROSCARMELLOSE SODIUM DEXTROSE MONOHYDRATE FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE TITANIUM DIOXIDE SILICON DIOXIDE TRISODIUM CITRATE DIHYDRATE LECITHIN, SOYBEAN CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM DIBASIC CALCIUM PHOSPHATE DIHYDRATE 44;453
+active_ingredient:
+  Active ingredient (in each tablet) Phenylephrine HCl 10 mg
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies temporarily relieves sinus congestion and pressure
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland When using this product do not exceed recommended dose. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease diabetes thyroid disease high blood pressure difficulty in urination due to enlargement of the prostate gland
+when_using:
+  When using this product do not exceed recommended dose.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or occur with fever
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions adults and children 12 years and over: take 1 tablet every 4 hours. Do not take more than 6 tablets in 24 hours. children under 12 years: ask a doctor
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, dextrose monohydrate, dicalcium phosphate dihydrate, FD&C red #40, lecithin, magnesium stearate, maltodextrin, microcrystalline cellulose, silica gel, sodium carboxymethylcellulose, sodium citrate dihydrate, titanium dioxide
+questions:
+  Questions or comments? 1-800-426-9391
+package_label_principal_display_panel:
+  Principal Display Panel ♥︎CVS Health ™ Compare to the active ingredient in Sudafed PE ® Congestion* NDC 59779-953-23 Non-Drowsy Sinus PE Decongestant PHENYLEPHRINE HYDROCHLORIDE Nasal decongestant MAXIMUM STRENGTH Relieves • Sinus pressure • Nasal congestion 72 TABLETS Actual Size TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING *This product is not manufactured or distributed by McNeil Consumer Healthcare, owner of the registered trademark Sudafed PE ® Congestion. 50844 REV0715A45323 Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2015 CVS/pharmacy CVS.com ® 1-800-SHOP CVS V-19849 √ CVS ® Quality Money Back Guarantee CVS Health 44-453 CVS Health 44-453
+set_id:
+  ac7ee445-f430-4189-82ff-add6e8f65aea
+id:
+  c96d9cfd-0705-4e93-89af-046cb6d7624e
+effective_time:
+  20211119
+version:
+  8
+openfda:

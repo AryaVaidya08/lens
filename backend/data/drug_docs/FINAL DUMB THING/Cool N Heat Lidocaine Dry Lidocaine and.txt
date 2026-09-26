@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Cool N Heat Lidocaine Dry Lidocaine and MENTHOL, UNSPECIFIED FORM LIDOCAINE LIDOCAINE MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM MEDIUM-CHAIN TRIGLYCERIDES ISOBUTANE PROPYLENE GLYCOL
+spl_unclassified_section:
+  Drug Facts
+  DISTRIBUTED BY TOPCO ASSOCIATES LLC, ELK GROVE VILLAGE, IL 60007
+active_ingredient:
+  Active ingredients Purposes Lidocaine 4% Topical anesthetic Menthol 1% Topical analgesic
+active_ingredient_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Lidocaine 4%</td><td>Topical anesthetic</td></tr><tr><td>Menthol 1%</td><td>Topical analgesic</td></tr></tbody></table>
+purpose:
+  Active ingredients Purposes Lidocaine 4% Topical anesthetic Menthol 1% Topical analgesic
+purpose_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td>Lidocaine 4%</td><td>Topical anesthetic</td></tr><tr><td>Menthol 1%</td><td>Topical analgesic</td></tr></tbody></table>
+indications_and_usage:
+  Use temporarily relieves minor pain
+warnings:
+  Warnings For external use only Do not use on large areas of the body or on cut, irritated or swollen skin on puncture wounds for more than one week without consulting a doctor When using this product use only as directed. Read and follow all directions and warnings on this label do not allow contact with the eyes and mucous membranes rare cases of serious burns have been reported with products of this type do not apply to wounds or damaged, broken or irritated skin avoid spraying on face avoid inhalation of spray do not bandage or apply local heat (such as heating pads) or a medicated patch to area of use do not use at the same time as other topical analgesics a transient burning sensation may occur upon application but generally disappears in several days avoid applying into skin folds Stop use and ask a doctor if condition worsens redness is present irritation develops symptoms persist for more than 7 days or clear up and occur again within a few days you experience signs of skin injury, such as pain, swelling, or blistering where the product was applied Extremely Flammable do not use near heat or flame or while smoking avoid long term storage above 104°F (40°C) do not puncture or incinerate. Contents under pressure do not store at temperatures above 120°F (49°C) If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on large areas of the body or on cut, irritated or swollen skin on puncture wounds for more than one week without consulting a doctor
+when_using:
+  When using this product use only as directed. Read and follow all directions and warnings on this label do not allow contact with the eyes and mucous membranes rare cases of serious burns have been reported with products of this type do not apply to wounds or damaged, broken or irritated skin avoid spraying on face avoid inhalation of spray do not bandage or apply local heat (such as heating pads) or a medicated patch to area of use do not use at the same time as other topical analgesics a transient burning sensation may occur upon application but generally disappears in several days avoid applying into skin folds
+stop_use:
+  Stop use and ask a doctor if condition worsens redness is present irritation develops symptoms persist for more than 7 days or clear up and occur again within a few days you experience signs of skin injury, such as pain, swelling, or blistering where the product was applied
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children over 12 years : spray affected area every 6 to 8 hours, not to exceed 3 applications in a 24 hour period product will dry quickly on its own, and does not need to be rubbed in children 12 years or younger: ask a doctor
+inactive_ingredient:
+  Inactive ingredients caprylic/capric triglyceride, isobutane, propylene glycol, SD alcohol 40B (30 %)
+questions:
+  Questions or comments? 1-888-577-8033
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 113 g Can Label NDC 36800-908-35 TopCare health ® COMPARE TO ICY HOT ® LIDOCAINE PLUS MENTHOL DRY SPRAY ACTIVE INGREDIENTS* MAXIMUM STRENGTH Cool n' Heat Dry Spray Pain Relief with Lidocaine + Menthol LIDOCAINE 4% / TOPICAL ANESTHETIC MENTHOL 1% / TOPICAL ANALGESIC •OUR PHARMACISTS• RECOMMEND CONTINUOUS SPRAY Temporarily Numbs Pain Away Dries Instantly Non-Greasy ✓QUALITY GUARANTEED NET WT 4 OZ (113 g) Scan here for more information or call 1-888-423-0139 PRINCIPAL DISPLAY PANEL - 113 g Can Label
+set_id:
+  a0df12b6-d721-48fc-9eca-49f5431df04e
+id:
+  e78e00d4-40d8-4ca6-9e06-0b8ee220c20d
+effective_time:
+  20210308
+version:
+  2
+openfda:

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Alcohol Wipes Wipe EM Alcohol Wipes ALCOHOL ALCOHOL WATER
+active_ingredient:
+  Active ingredient Alcohol 75%
+inactive_ingredient:
+  Inactive ingredients water
+warnings:
+  Warnings - Avoid contact with eyes or inner mouth. If contact occurs, rinse eyes thoroughly with running water. - Do not use on compromised skin. - Discontinue use if rash or irritation occurs and consult a doctor. Wash hands thoroughly after handling. - Keep out of reach of children
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+ask_doctor_or_pharmacist:
+  Discontinue use if rash or irritation occurs and consult a doctor.
+do_not_use:
+  Do not use on compromised skin.
+when_using:
+  When using this product, avoid contact with eyes and mouth. If products get in the eyes, flush thoroughly with water.
+dosage_and_administration:
+  Wipe skin area and allow to dry with one to two pieces each time.
+disposal_and_waste_handling:
+  Dispose dired wipe in trash bin.
+indications_and_usage:
+  General skin cleaning
+purpose:
+  General skin cleaning
+package_label_principal_display_panel:
+  Use For hand sanitizing to decrease bacteria on skin. WIPE EM!
+set_id:
+  1f373096-d3d5-af7f-e063-6394a90a3b55
+id:
+  1f373096-d3d6-af7f-e063-6394a90a3b55
+effective_time:
+  20240808
+version:
+  1
+openfda:
+  application_number:
+    M014
+  brand_name:
+    Alcohol Wipes
+  generic_name:
+    WIPE EM ALCOHOL WIPES
+  manufacturer_name:
+    Shaoxing Elite Bio-Tech Co., Ltd.
+  product_ndc:
+    81079-003
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1307051
+  spl_id:
+    1f373096-d3d6-af7f-e063-6394a90a3b55
+  spl_set_id:
+    1f373096-d3d5-af7f-e063-6394a90a3b55
+  package_ndc:
+    81079-003-01
+  is_original_packager:
+    True
+  upc:
+    0198168967058
+  unii:
+    3K9958V90M

@@ -1,0 +1,33 @@
+effective_time:
+  20180329
+inactive_ingredient:
+  Inactive ingredients water, gylcerin, xylitol, anhydroxylitol, xylitylglucoside, carbomer, aminomethyl propanol, fragrance, aloe barbadensis leaf extract, melaleuca alternifolia leaf oil, polysorbate 20, tocopheryl acetate, jojoba esters, butyrospermum parkii, theobroma cacao seed butter, mangifera indica seed butter, blue 1 lake, titanium dioxide, yellow 5 lake
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings: For external use only
+spl_product_data_elements:
+  Clear Defense Harvest Apple Ethyl alcohol .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF AMINOMETHYLPROPANOL ANHYDROXYLITOL CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) COCOA BUTTER FD&C BLUE NO. 1 GLYCERIN MANGIFERA INDICA SEED BUTTER POLYSORBATE 20 FD&C YELLOW NO. 5 SHEA BUTTER TITANIUM DIOXIDE TEA TREE OIL WATER XYLITOL XYLITYLGLUCOSIDE ALCOHOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions ■ place enough product in your palm to thoroughly cover your hands ■ rub hands together briskly until dry ■ children under 6 years of age should be supervised when using this product
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+storage_and_handling:
+  Other information ■ store below 82°F (28°C) ■ may discolor certain fabrics or surfaces ■ alcohol derived from corn
+do_not_use:
+  Do not use in or near eyes. In case of contact, rinse eyes thoroughly with water.
+package_label_principal_display_panel:
+  CD Harvest Apple CD Harvest Apple
+indications_and_usage:
+  Uses ■ for handwashing to reduce bacteria on the skin ■ recommended for repeated use
+set_id:
+  688fe4e4-573c-8ce2-e053-2991aa0af5db
+id:
+  688fe4e4-573d-8ce2-e053-2991aa0af5db
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%

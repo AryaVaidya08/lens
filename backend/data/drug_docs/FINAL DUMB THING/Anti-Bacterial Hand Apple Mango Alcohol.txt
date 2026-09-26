@@ -1,0 +1,35 @@
+effective_time:
+  20130613
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Isopropyl Alcohol, Fragrance (Parfum), Honey Extract (Mel, Extrait de miel), Elaeis Guineensis (Palm) Extract, Cocos Nucifera (Coconut) Fruit Extract, Olea Europaea (Olive) Fruit Extract, Retinyl Palmitate, Tocopheryl Acetate, Wheat Amino Acids, Hydroxypropyl Methylcellulose, Glycerin, Carbomer, Lactose, Aminomethyl Propanol, Isopropyl Myristate, Cellulose, Propylene Glycol, Hydroxyethyl Urea, Ultramarines (CI 77007), Yellow 10 (CI 47005), Yellow 5 (CI 19140), Yellow 6 (CI 15985), Blue 1 (CI 42090).
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only.
+when_using:
+  WHEN USING THIS PRODUCT keep out of eyes.
+spl_product_data_elements:
+  Anti-Bacterial Hand Apple Mango Alcohol ALCOHOL ALCOHOL WATER
+warnings_and_cautions:
+  FLAMMABLE Keep away from flame or high heat.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Rub a dime sized drop into hands.
+stop_use:
+  STOP USE AND ASK A DOCTOR if irritation or redness develops.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr. Reynoldsburg, Ohio 43068 1-800-395-1001 www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING MM1
+indications_and_usage:
+  USE Decreases bacteria on hands.
+set_id:
+  98b616d2-85df-4cbb-8069-6d7acc536287
+id:
+  fc0cc396-1270-44d8-b832-b2e720de40af
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 68%

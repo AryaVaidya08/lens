@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Hand Sanitizer ETHYL ALCOHOL MALTODEXTRIN ALOE VERA LEAF WATER GLYCERIN PROPYLENE GLYCOL CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) FD&C YELLOW NO. 5 ALCOHOL ALCOHOL TROLAMINE .ALPHA.-TOCOPHEROL ACETATE FD&C BLUE NO. 1
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: For hand washing to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings: Not recommended for infants. Flammable. Keep away from fire or flame. For external use only. Avoid contact with broken skin.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help. Children under 6 years of age should be supervised when using this product.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping. .
+other_safety_information:
+  Other Information Do not store above 110 °F, May discolor some fabrics.
+inactive_ingredient:
+  Inactive Ingredients Water, Aloe Barbadensis Leaf Juice, Maltodextrin, Glycerin, Propylene Glycol, Acrylates/C 10-30 Alkyl Acrylate crosspolymer, Triethanoamine, Fragrance, Tocopheryl Acetate, FD&C Yellow No. 5. FD&C Blue No.1
+package_label_principal_display_panel:
+  image of bottle label
+set_id:
+  ac55bf20-47ee-49da-e053-2a95a90ac988
+id:
+  ac558a95-79b2-8fb1-e053-2995a90a9fa6
+effective_time:
+  20200807
+version:
+  1
+openfda:

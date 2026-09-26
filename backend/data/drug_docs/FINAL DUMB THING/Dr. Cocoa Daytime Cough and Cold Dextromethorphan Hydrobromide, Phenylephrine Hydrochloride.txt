@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Dr. Cocoa Daytime Cough and Cold Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride ANHYDROUS CITRIC ACID COCOA MALTITOL METHYLPARABEN PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SUCRALOSE TRISODIUM CITRATE DIHYDRATE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE
+active_ingredient:
+  Drug Facts Active ingredient (in each 5 mL) Dextromethorphan HBr 5 mg Phenylephrine HCl 2.5 mg Purpose Cough suppressant Nasal decongestant
+purpose:
+  Purpose Cough suppressant Nasal decongestant
+indications_and_usage:
+  Uses • temporarily relieves: • cough due to minor throat and bronchial irritation as may occur with a cold • nasal congestion
+warnings:
+  Warnings Do not use in a child under 4 years of age, in a child now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before using this product. Ask a doctor before use if your child has • heart disease • diabetes • high blood pressure • thyroid disease • trouble urinating due to an enlarged prostate gland • persistent or chronic cough such as occurs with asthma • cough that occurs with too much phlegm (mucus) • sodium restricted diet When using this product do not use more than directed. Stop use and ask a doctor if • nervousness, dizziness, or sleeplessness occur • symptoms do not improve within 7 days or occur with a fever • cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition. Keep out of reach of children. Dr. Cocoa TM is a medicine. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-122-1222).
+do_not_use:
+  Do not use in a child under 4 years of age, in a child now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before using this product.
+ask_doctor:
+  Ask a doctor before use if your child has • heart disease • diabetes • high blood pressure • thyroid disease • trouble urinating due to an enlarged prostate gland • persistent or chronic cough such as occurs with asthma • cough that occurs with too much phlegm (mucus) • sodium restricted diet
+when_using:
+  When using this product do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if • nervousness, dizziness, or sleeplessness occur • symptoms do not improve within 7 days or occur with a fever • cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Dr. Cocoa TM is a medicine. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-122-1222).
+dosage_and_administration:
+  Directions • shake well before use • measure only with the provided double-ended dosing spoon • read dosing spoon carefully and select the correct spoon: • large dosing spoon holds 5 mL when filled to the top rim • small spoon holds 2.5 mL when filled to the top rim • do not use dosing spoon with other products • mL = milliliter Age (year) Dose (mL) children 12 and 13 years of age 20 mL every 4 hours; do not take more than 120 mL in 24 hours children 6 to under 12 years of age 10 mL every 4 hours; do not take more than 60 mL in 24 hours children 4 to under 6 years of age consult your doctor before use • 5 mL every 4 hours; do not take more than 30 mL in 24 hours children under 4 years of age do not use
+dosage_and_administration_table:
+  <table width="50%"><col width="23%"/><col width="27%"/><tbody><tr><td styleCode="Toprule " valign="top"><paragraph><content styleCode="bold">Age </content>(year) </paragraph></td><td styleCode="Toprule " valign="top"><paragraph><content styleCode="bold">Dose </content>(mL) </paragraph></td></tr><tr><td valign="top"><paragraph>children 12 and 13</paragraph><paragraph>years of age</paragraph></td><td valign="top"><paragraph>20 mL every 4 hours; do not take</paragraph><paragraph>more than 120 mL in 24 hours</paragraph></td></tr><tr><td valign="top"><paragraph>children 6 to under</paragraph><paragraph>12 years of age</paragraph></td><td valign="top"><paragraph>10 mL every 4 hours; do not take</paragraph><paragraph>more than 60 mL in 24 hours</paragraph></td></tr><tr><td valign="top"><paragraph>children 4 to under</paragraph><paragraph>6 years of age</paragraph></td><td valign="top"><paragraph>consult your doctor before use</paragraph><list listType="unordered"><item><caption>&#x2022;</caption>5 mL every 4 hours; do not take </item></list><paragraph>more than 30 mL in 24 hours</paragraph></td></tr><tr><td styleCode="Botrule " valign="top"><paragraph>children under 4 years</paragraph><paragraph>of age</paragraph></td><td styleCode="Botrule " valign="top"><paragraph>do not use</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • each 5 mL contains: sodium 7 mg • store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, cocoa, maltitol, methylparaben, natural flavor, propylene glycol, purified water, sodium benzoate, sorbitol, sucralose, trisodium citrate dihydrate
+questions:
+  Questions or comments? call 1-855-848-3284 toll free
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 120 mL Bottle Label Dr. Cocoa™ .................... for Children Daytime Cough+Cold Dextromethorphan HBr (Cough Suppressant) Phenylepherine HCl (Nasal Decongestant) For Ages 4-13 4 FL OZ (120 mL) Product Label
+  PRINCIPAL DISPLAY PANEL - 120 mL Carton NDC 62372-721-04 NEW! Dr. Cocoa™ .................... for Children Daytime Cough+Cold Dextromethorphan HBr (Cough Suppressant) Phenylephrine HCl (Nasal Decongestant) Relieves: Cough Stuffy Nose For Ages 4-13 Real Chocolate Taste 4 FL OZ (120 mL) Product Carton
+set_id:
+  2b89083e-3e79-4de1-87f4-dc452d3195e8
+id:
+  5ed53b26-1980-433f-8426-03d79d6cd765
+effective_time:
+  20220720
+version:
+  6
+openfda:

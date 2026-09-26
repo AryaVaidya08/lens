@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  RE9 Advanced Restorative Broad Spectrum SPF 15 Sunscreen Zinc oxide ZINC OXIDE ZINC OXIDE WATER ALKYL (C12-15) BENZOATE GLYCERIN ISONONYL ISONONANOATE STEARETH-21 MEDIUM-CHAIN TRIGLYCERIDES SQUALANE DIMETHICONE SORBITAN MONOOLEATE STEARETH-2 ALOE VERA LEAF CUCUMBER LAMINARIA DIGITATA LAVANDULA STOECHAS FLOWERING TOP APPLE NASTURTIUM OFFICINALE TRIFOLIUM PRATENSE FLOWER OLIVE OIL HYALURONATE SODIUM TETRAHEXYLDECYL ASCORBATE PALMITOYL LYSYLDIOXYMETHIONYLLYSINE POLYGLYCERYL-3 LAURATE GLUCONOLACTONE XANTHAN GUM CALCIUM GLUCONATE MAGNESIUM ASCORBYL PHOSPHATE TOCOPHEROL DEHYDROXANTHAN GUM TRIETHOXYCAPRYLYLSILANE POLYSORBATE 60 SORBITAN ISOSTEARATE ANHYDROUS TRISODIUM CITRATE CAPRYLHYDROXAMIC ACID FYTIC ACID AMINOMETHYL PROPANEDIOL CITRIC ACID MONOHYDRATE PHENOXYETHANOL CHLORPHENESIN POTASSIUM SORBATE SODIUM BENZOATE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by Arbonne International, LLC 9400 Jeronimo Road Irvine, CA 92618 USA
+active_ingredient:
+  Active ingredient Zinc Oxide 4.9%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally and evenly 15 minutes before sun exposure reapply at least every 2 hours use a water-resistant sunscreen if swimming or sweating children under 6 months of age: ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m.–2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, C12-15 alkyl benzoate, glycerin, isononyl isononanoate, steareth-21, caprylic/capric triglyceride, squalane, dimethicone, sodium acryloyldimethyltaurate/VP crosspolymer, sorbitan oleate, steareth-2, aloe barbadensis leaf juice, citrus aurantium dulcis (orange) callus culture extract, cucumis sativus (cucumber) fruit extract, laminaria digitata extract, lavandula stoechas extract, pyrus malus (apple) fruit extract, nasturtium officinale extract, trifolium pratense (clover) flower extract, hippophae rhamnoides oil, olea europaea (olive) fruit oil, sodium hyaluronate, tetrahexyldecyl ascorbate, palmitoyl tripeptide-38, polyglyceryl-3 laurate, gluconolactone, xanthan gum, calcium gluconate, magnesium ascorbyl phosphate, tocopherol, hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer, dehydroxanthan gum, triethoxycaprylylsilane, polysorbate 60, sorbitan isostearate, sodium citrate, caprylhydroxamic acid, phytic acid, hydroxypropyl cyclodextrin, aminomethyl propanediol, citric acid, phenoxyethanol, chlorphenesin, potassium sorbate, sodium benzoate.
+questions:
+  Questions or comments? 1.800.272.6663 Monday–Friday 6 a.m.–6 p.m. Pacific time
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 g Bottle Carton ARBONNE ® RE9 ADVANCED ® RESTORATIVE CREAM BROAD SPECTRUM SPF 15 SUNSCREEN Net wt. 1.7 oz. / 50 g PRINCIPAL DISPLAY PANEL - 50 g Bottle Carton
+set_id:
+  dd7511b9-3be0-4079-96f9-b885adb5c678
+id:
+  d7dcc2b8-0204-410d-bafe-44b2bb4d1c5d
+effective_time:
+  20220915
+version:
+  2
+openfda:

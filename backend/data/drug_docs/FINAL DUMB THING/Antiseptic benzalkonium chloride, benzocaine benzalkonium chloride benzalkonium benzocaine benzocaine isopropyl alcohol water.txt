@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Antiseptic benzalkonium chloride, benzocaine benzalkonium chloride benzalkonium benzocaine benzocaine isopropyl alcohol water
+active_ingredient:
+  Active Ingredients Benzalkonium Chloride 0.1% Benzocaine 5.0%
+purpose:
+  Purpose First aid antiseptic Topical pain relief
+indications_and_usage:
+  Uses First aid to help prevent infection and for temporary pain relief in minor cuts, scrapes and burns
+warnings:
+  Warnings For external use only. Flammable keep away from fire or flame Do not use near eyes or mucous membranes on deep or puncture wounds, animal bites or serious burns over large areas of the body more than one week unless directed by a doctor Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Stop use and ask a doctor if condition persists or gets worse
+do_not_use:
+  Do not use near eyes or mucous membranes on deep or puncture wounds, animal bites or serious burns over large areas of the body more than one week unless directed by a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+dosage_and_administration:
+  Directions clean affected area and spray 1 to 3 times daily may be covered with a sterile bandage children under 2 ask a doctor
+inactive_ingredient:
+  Inactive Ingredients isopropyl alcohol, purified water
+package_label_principal_display_panel:
+  Principal Display Panel – 2 fl. oz Packet Label The Provision First Aid Line™ Antiseptic Spray For Temporary Pain Relief and to Help Prevent Infection in Minor Cuts, Scrapes and Abrasions. 2 fl. oz. (59.1 ml) Reorder no. 3501 Principal Display Panel – 2 fl. oz Packet Label
+set_id:
+  0f6d3ee2-9106-43f9-957a-c1cce4c38ad1
+id:
+  7a4c6b17-2bb0-40e8-a855-4c88c7acae49
+effective_time:
+  20131111
+version:
+  1
+openfda:

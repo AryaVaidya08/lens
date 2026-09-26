@@ -1,0 +1,27 @@
+effective_time:
+  20180111
+inactive_ingredient:
+  Calcium hydroxide, Citric acid, Tea catechin, Hydroxypropylmethylcellulose, Distilled water
+purpose:
+  Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Warnings Use only according to instruction When using this product Avoid direct sunlight, keep in cool place.
+spl_product_data_elements:
+  FOOD-S POTASSIUM CARBONATE HYPROMELLOSE, UNSPECIFIED CALCIUM HYDROXIDE POTASSIUM CARBONATE CARBONATE ION
+openfda:
+version:
+  3
+dosage_and_administration:
+  For external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  For hygienic disinfection, this product can be used directly to the surface. Also, you can dilute one part product with two parts water.
+set_id:
+  62792284-91ca-16bd-e053-2991aa0a3d61
+id:
+  628afb5f-46e1-11ec-e053-2991aa0ad4e2
+active_ingredient:
+  Potassium carbonate

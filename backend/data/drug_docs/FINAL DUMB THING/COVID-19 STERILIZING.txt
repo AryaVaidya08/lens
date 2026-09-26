@@ -1,0 +1,51 @@
+effective_time:
+  20200801
+inactive_ingredient:
+  Water
+purpose:
+  Antibacterial, anti-fungal, indoor air purification, humidity control and insect repellent, sick house syndrome, formaldehyde neutralization, forest bathing effect and stress relief, sterilization deodorization, hand sanitizer, super bacteria inhibition, sleep effect, house mite avoidance, allergy and atopy improvement
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children
+warnings:
+  Do not drink. Beware of fire. Keep out of reach of children. Avoid direct sunlight. Do not use directly on the skin
+spl_product_data_elements:
+  COVID-19 STERILIZING phytoncide CHAMAECYPARIS OBTUSA WOOD OIL CHAMAECYPARIS OBTUSA WOOD OIL WATER
+openfda:
+  brand_name:
+    COVID-19 STERILIZING
+  generic_name:
+    PHYTONCIDE
+  manufacturer_name:
+    DONGYANG SPECIAL WOOD CORPORATION
+  product_ndc:
+    73645-0002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CHAMAECYPARIS OBTUSA WOOD OIL
+  spl_id:
+    abd90219-27a3-a0b2-e053-2a95a90a3cbe
+  spl_set_id:
+    abd90235-9655-32d0-e053-2a95a90ada4e
+  package_ndc:
+    73645-0002-1
+  is_original_packager:
+    True
+  unii:
+    P2OMP71Y62
+version:
+  1
+dosage_and_administration:
+  for topical use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Dilute with 5g of oil in 500ml of water
+set_id:
+  abd90235-9655-32d0-e053-2a95a90ada4e
+id:
+  abd90219-27a3-a0b2-e053-2a95a90a3cbe
+active_ingredient:
+  phytoncide (CHAMAECYPARIS OBTUSA WOOD) OIL

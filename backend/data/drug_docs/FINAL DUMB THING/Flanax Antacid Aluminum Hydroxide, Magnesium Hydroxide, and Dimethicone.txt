@@ -1,0 +1,42 @@
+effective_time:
+  20160831
+inactive_ingredient:
+  Inactive ingredients flavors, hypromellose, parabens, sodium hypochlorite, saccharin, sorbitol, xanthan gum and water.
+purpose:
+  Active ingredients (in each 5 ml) (One teaspoonful) Purpose Aluminum Hydroxide (Equi. to Dried Gel, USP) 200 mg Antacid Magnesium Hydroxide 200 mg Antacid Simethicone 20 mg Antigas
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Ask a doctor before use if you have kidney disease a magnesium-restricted diet Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. If pregnant or breast-feading , ask a health professional before use. Stop use and ask a doctor if symptoms last more than 2 weeks Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  Flanax Antacid Aluminum Hydroxide, Magnesium Hydroxide, and Dimethicone ALUMINUM HYDROXIDE Aluminum Hydroxide MAGNESIUM HYDROXIDE Magnesium Cation DIMETHICONE Dimethicone CELLULOSE, MICROCRYSTALLINE CARBOXYMETHYLCELLULOSE SODIUM HYPROMELLOSE 2910 (4000 MPA.S) GLYCERIN PROPYLENE GLYCOL SORBITOL BUTYLPARABEN PROPYLPARABEN SACCHARIN SODIUM WATER
+ask_doctor:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs.
+openfda:
+version:
+  11
+dosage_and_administration:
+  Directions shake well before each use Adults/ children 12 years and older take 2 to 4 teaspoons four times a day or as directed by a physician do not take more than 12 teaspoonsful in 24 hours or use the maximum dosage for more than 2 weeks Children under 12 years: consult a physician
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feading , ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Belmora LLC, PO Box 3063, Arlington, VA 22203
+stop_use:
+  Stop use and ask a doctor if symptoms last more than 2 weeks
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF BREAKAWAY BAND ON CAP IS BROKEN OR MISSING. store at room temperature 15°-30°C (59°-86°F) keep tightly closed protect from freezing each teaspoon (5 mL) contains: magnesium 83 mg each teaspoon (5 mL) contains: sodium 1 mg
+active_ingredient_table:
+  <table width="60%"> <col width="70%" align="left" valign="bottom"/> <col width="30%" align="right" valign="bottom"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each 5 ml) (One teaspoonful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Aluminum Hydroxide (Equi. to Dried Gel, USP) 200 mg</td> <td>Antacid</td> </tr> <tr> <td>Magnesium Hydroxide 200 mg</td> <td>Antacid</td> </tr> <tr> <td>Simethicone 20 mg</td> <td>Antigas</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  Packaging Flanax1
+indications_and_usage:
+  Uses relieves heartburn acid indigestion sour stomach associated symptoms of gas and upset stomach overindulgence of food and drink
+set_id:
+  5a884039-89a3-4c24-b399-f7369628be17
+id:
+  19ce8d2e-bc65-44d3-bc40-3e579623b98c
+purpose_table:
+  <table width="60%"> <col width="70%" align="left" valign="bottom"/> <col width="30%" align="right" valign="bottom"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each 5 ml) (One teaspoonful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Aluminum Hydroxide (Equi. to Dried Gel, USP) 200 mg</td> <td>Antacid</td> </tr> <tr> <td>Magnesium Hydroxide 200 mg</td> <td>Antacid</td> </tr> <tr> <td>Simethicone 20 mg</td> <td>Antigas</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients (in each 5 ml) (One teaspoonful) Purpose Aluminum Hydroxide (Equi. to Dried Gel, USP) 200 mg Antacid Magnesium Hydroxide 200 mg Antacid Simethicone 20 mg Antigas

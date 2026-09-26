@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitizer Alcohol Alcohol Alcohol Glycerin Hydrogen Peroxide Water
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active ingredient(s) Alcohol 80% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USES Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame. Do not use: on children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use: on children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years when using this product to avoid swallowing.
+storage_and_handling:
+  OTHER INFORMATION Store between 15°- 30°C (59°- 86°F) Avoid freezing and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  INACTIVE INGREDIENTS Glycerin, Hydrogen Peroxide, Purifi‹ed Water USP
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1892.71 ML Container Label Hand SANITIZER ALCOHOL ANTISEPTIC 80% TOPICAL NON-STERILE SOLUTION CASEY JONES DISTILLERY MADE and BOTTLED in HOPKINSVILLE, KENTUCKY 2 QUART ( 1892.71 ML) PRINCIPAL DISPLAY PANEL - 1892.71 ML Container Label
+set_id:
+  88a02a36-7547-40d4-9231-81f81423b872
+id:
+  d2b60bd1-7ac1-4972-8d15-f0a5b6c6c15e
+effective_time:
+  20211012
+version:
+  2
+openfda:

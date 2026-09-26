@@ -1,0 +1,39 @@
+effective_time:
+  20200603
+inactive_ingredient:
+  glycerin, hydrogen peroxide, carbomer 940, triethanolamine, purified water USP
+instructions_for_use:
+  Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+purpose:
+  Hand sanitizer to help reduce bacteria that potentially can cause disease.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings for external use only-hands
+when_using:
+  For external use only. Flammable. Keep away from heat or flame When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  Ethyl Alcohol Ethyl Alcohol HYDROGEN PEROXIDE WATER GLYCERIN ALCOHOL ALCOHOL TROLAMINE CARBOMER 940
+other_safety_information:
+  Other Information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+openfda:
+version:
+  3
+dosage_and_administration:
+  Topical - Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL
+dosage_forms_and_strengths:
+  Gel form
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+do_not_use:
+  In children less than 2 months of age On open skin wounds
+package_label_principal_display_panel:
+  ME Bio Ethyl Alcohol
+indications_and_usage:
+  To help reduce bacteria on the hands that can potentially cause disease.
+set_id:
+  a1ba4cc4-969e-1c96-e053-2995a90ad2ff
+id:
+  a736596e-6da4-37a1-e053-2995a90ac312
+active_ingredient:
+  Ethanol alcohol 80% v/v ……………………………………..………………………………………………………………………...Antiseptic

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Sani ALCOHOL WATER CARBOMER 934 PROPYLENE GLYCOL DMDM HYDANTOIN ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE, DL- DIISOPROPYLAMINE ALCOHOL ALCOHOL
+active_ingredient:
+  Drug Facts Box OTC-Active Ingredient Section Ethyl Alcohol 62%
+purpose:
+  Drug Facts Box OTC-Purpose Section Antiseptic
+indications_and_usage:
+  Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin, only when water is not available
+warnings:
+  Drug Facts Box OTC-Warnings Section FLAMMABLE, keep away from fire and flames For external use only
+when_using:
+  Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Drug Facts Box OTC-Stop Use Section irritation and redness develop
+keep_out_of_reach_of_children:
+  Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Drug Facts Box OTC-Dosage & Administration Section wet hands thoroughly with product and allow to dry without wiping
+inactive_ingredient:
+  Drug Facts Box OTC-Inactive Ingredient Section water, diisopropylamine, carbomer, propylene glycol, DMDM hydantoin, tocopheryl acetate, aloe barbadensis
+package_label_principal_display_panel:
+  Sani-Gel 6605 5oz Sani-Gel 5oz product label
+set_id:
+  573360f2-d5f6-452e-89d0-17766534584a
+id:
+  43e39790-b3ca-6d8a-e063-6394a90aae6a
+effective_time:
+  20251118
+version:
+  4
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  P D ALL calcium PANAX GINSENG WHOLE CALCIUM CALCIUM
+active_ingredient:
+  ACTIVE INGREDIENT Oystershell powder
+inactive_ingredient:
+  INACTIVE INGREDIENT freeze-dried silkworm powder, chaga mushroom powder, red ginseng powder
+purpose:
+  PURPOSE calcium (covid therapy aids)
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children.
+warnings:
+  WARNING Please check product ingredients if you have any allergies before taking. Please be careful during open the product package. Keep product out of direct sunlight, high temperature and humidity. Store in a cool dry place. Any items past the expiration date or damaged in transit can be exchanged where you originally purchased the item. consult your doctor if any abnormal symptoms occur
+dosage_and_administration:
+  USES for oral use only
+indications_and_usage:
+  INDICATION & USAGE SECTION take two capsules once, two times a day
+package_label_principal_display_panel:
+  label
+set_id:
+  b9e7d869-d218-d60c-e053-2995a90af542
+id:
+  bcb38a08-7ca8-1e46-e053-2a95a90afef6
+effective_time:
+  20210304
+version:
+  2
+openfda:

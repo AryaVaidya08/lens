@@ -1,0 +1,39 @@
+effective_time:
+  20180917
+inactive_ingredient:
+  Inactive Ingredients: Boric Acid, Ethanol, Glycerin, Hydrochloric Acid, Hypromellose, Menthol, Polysorbate 20, Propylene Glycol, Purified Water
+purpose:
+  Active Ingredient Purpose Aluminum Acetate 0.5% Astringent
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS: For external use only
+when_using:
+  When using this product: avoid contact with eyes. If contact occurs, rinse thoroughly with water. do not apply to open wounds
+questions:
+  Questions or comments Call 1-(800) 345-0032 or visit www.domeboro.com Distributed by Moberg Pharma North America LLC Cedar Knolls, NJ 07927 © 2015 All Rights Reserved. Made in the USA.
+spl_product_data_elements:
+  Domeboro Cooling Aluminum Acetate Aluminum Acetate Aluminum Cation Boric Acid Alcohol Glycerin Hydrochloric Acid Hypromelloses Menthol Polysorbate 20 Propylene Glycol Water carton
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Use only as directed Apply liberally to the affected area as needed or as directed by a doctor. Repeat three times a day or as directed by a doctor.
+stop_use:
+  Stop use and ask a doctor if condition worsens or symptoms persis for more than 7 days
+storage_and_handling:
+  Other Information: Store below 77°F with cap closed.
+active_ingredient_table:
+  <table border="1" cellpadding="4" cellspacing="0" width="20%"> <tbody> <tr> <td align="left"> <content styleCode="bold"> <content styleCode="italics">Active Ingredient</content> </content> </td> <td align="right"> <content styleCode="bold"> <content styleCode="italics">Purpose</content> </content> </td> </tr> <tr> <td align="left">Aluminum Acetate 0.5%</td> <td align="right">Astringent</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL New! Domeboro ® Aluminum Acetate Astringent Cooling gel Complete Rash Relief for rashes caused by Poison Ivy, Oak, Sumac & Skin Irritants • Relieves Itch • Cools on Contact PLUS • Dries ozzing rashes • Reduces redness No Mess, Hands-Free Application 3 FL OZ (90mL) Hands Free Application Clear, Odorless and Fast Drying Trusted for over 50 years Domeboro ® provides soothing effective relief of skin irritations. Distributed by Moberg Pharma North America LLC Cedar Knolls, NJ 07927 © 2015 All Rights Reserved. Made in the USA. Questions of comments? 1-800-345-0032 www.domeboro.com 82-4101-02
+indications_and_usage:
+  Uses: temporarily relives minor skin irritations due to: poison ivy poison oak poison sumac insect bites athlete's foot rashes caused by soaps, detergents, cosmetics, or jewelry
+set_id:
+  bf91802f-210f-1875-88f0-14be2c00457b
+id:
+  39c2f318-9c6c-46a2-889d-51bdfadaa7c6
+purpose_table:
+  <table border="1" cellpadding="4" cellspacing="0" width="20%"> <tbody> <tr> <td align="left"> <content styleCode="bold"> <content styleCode="italics">Active Ingredient</content> </content> </td> <td align="right"> <content styleCode="bold"> <content styleCode="italics">Purpose</content> </content> </td> </tr> <tr> <td align="left">Aluminum Acetate 0.5%</td> <td align="right">Astringent</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredient Purpose Aluminum Acetate 0.5% Astringent

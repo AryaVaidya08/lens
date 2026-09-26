@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  75% Alcohol Wipes 75% Alcohol Wipes ALCOHOL ALCOHOL WATER GLYCERIN AROMADENDRIN
+dosage_and_administration:
+  Keep in a 000 and dry place away from ligh, direct sunlight and high temperature
+inactive_ingredient:
+  Water,Glycerin,Aroma
+indications_and_usage:
+  Pull out the wipes and unfold them.Wipe thoroughly, clean the skin or any necessary items, and let dry naturally.
+active_ingredient:
+  Alcohol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  Do not apply to eyes, wounds, elc.
+package_label_principal_display_panel:
+  label
+set_id:
+  a82e9bb2-6fbc-4c0f-e053-2995a90a2fcb
+id:
+  ef3fba45-6a81-8bb9-e053-2995a90a8bdb
+effective_time:
+  20221207
+version:
+  2
+openfda:

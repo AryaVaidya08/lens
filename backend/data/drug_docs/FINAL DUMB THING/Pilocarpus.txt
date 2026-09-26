@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Pilocarpus PILOCARPUS JABORANDII LEAF LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE PILOCARPUS JABORANDI LEAF PILOCARPUS JABORANDI LEAF SUCROSE
+active_ingredient:
+  Pilocarpus 5C (**contains 0.443 mg of the active ingredient per pellet)
+purpose:
+  
+indications_and_usage:
+  Hypersalivation*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label
+set_id:
+  7c7675e8-97f3-faf3-e053-2a91aa0abefd
+id:
+  0a2156c6-f8bf-4d37-e063-6394a90ae8d4
+effective_time:
+  20231114
+version:
+  3
+openfda:
+  brand_name:
+    Pilocarpus
+  generic_name:
+    PILOCARPUS JABORANDII LEAF
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-4050
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PILOCARPUS JABORANDI LEAF
+  spl_id:
+    0a2156c6-f8bf-4d37-e063-6394a90ae8d4
+  spl_set_id:
+    7c7675e8-97f3-faf3-e053-2a91aa0abefd
+  package_ndc:
+    0220-4050-41
+  is_original_packager:
+    True
+  unii:
+    26ZE1BZ2US

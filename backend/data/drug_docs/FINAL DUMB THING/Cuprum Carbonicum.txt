@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION Cuprum Carbonicum Cuprum Carbonicum SUCROSE BASIC CUPRIC CARBONATE CUPRIC CATION
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Cuprum Carbonicum 6C 5g Cuprum Carbonicum 6C 30g Cuprum Carbonicum 6C 100g Cuprum Carbonicum 12C 5g Cuprum Carbonicum 12C 30g Cuprum Carbonicum 12C 100g Cuprum Carbonicum 30C 1g Cuprum Carbonicum 30C 5g Cuprum Carbonicum 30C 30g Cuprum Carbonicum 30C 100g Cuprum Carbonicum 100C 1g Cuprum Carbonicum 100C 5g Cuprum Carbonicum 100C 30g Cuprum Carbonicum 100C 100g Cuprum Carbonicum 200C 1g Cuprum Carbonicum 200C 5g Cuprum Carbonicum 200C 30g Cuprum Carbonicum 200C 100g Cuprum Carbonicum 500C 1g Cuprum Carbonicum 500C 5g Cuprum Carbonicum 500C 30g Cuprum Carbonicum 500C 100g Cuprum Carbonicum 1M 1g Cuprum Carbonicum 1M 5g Cuprum Carbonicum 1M 30g Cuprum Carbonicum 1M 100g Cuprum Carbonicum LM1 30g
+set_id:
+  e1958178-cf2c-290a-e053-2995a90a926c
+id:
+  e1958178-cf2d-290a-e053-2995a90a926c
+effective_time:
+  20220616
+version:
+  1
+openfda:
+  brand_name:
+    Cuprum Carbonicum
+  generic_name:
+    CUPRUM CARBONICUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-0594
+    37662-0597
+    37662-0598
+    37662-0601
+    37662-0599
+    37662-0596
+    37662-0600
+    37662-0595
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BASIC CUPRIC CARBONATE
+  spl_id:
+    e1958178-cf2d-290a-e053-2995a90a926c
+  spl_set_id:
+    e1958178-cf2c-290a-e053-2995a90a926c
+  package_ndc:
+    37662-0594-1
+    37662-0594-2
+    37662-0594-3
+    37662-0597-1
+    37662-0597-2
+    37662-0597-3
+    37662-0597-4
+    37662-0598-1
+    37662-0598-2
+    37662-0598-3
+    37662-0598-4
+    37662-0601-1
+    37662-0599-1
+    37662-0599-2
+    37662-0599-3
+    37662-0599-4
+    37662-0596-1
+    37662-0596-2
+    37662-0596-3
+    37662-0596-4
+    37662-0600-1
+    37662-0600-2
+    37662-0600-3
+    37662-0600-4
+    37662-0595-1
+    37662-0595-2
+    37662-0595-3
+  is_original_packager:
+    True
+  unii:
+    GIK928GH0Y

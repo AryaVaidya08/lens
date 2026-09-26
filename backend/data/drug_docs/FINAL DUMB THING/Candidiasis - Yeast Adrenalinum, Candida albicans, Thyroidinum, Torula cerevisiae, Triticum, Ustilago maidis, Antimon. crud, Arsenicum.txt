@@ -1,0 +1,31 @@
+effective_time:
+  20210708
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified water; USP Gluten-free, non-GMO, organic cane alcohol 20%
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms such as vaginal itching or discharge, mental fogginess, fatigue, gas and bloating.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION WARNINGS: Keep out of reach of children. Do not use if tamper-evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding, ask a doctor before use.
+questions:
+  QUESTIONS SECTION newtonlabs.net - Questions? 800 448-7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013
+spl_product_data_elements:
+  Candidiasis - Yeast Adrenalinum, Candida albicans, Thyroidinum, Torula cerevisiae, Triticum, Ustilago maidis, Antimon. crud, Arsenicum alb., Baptisia, Berber. aqui., Bryonia, Calc. phos., Cinchona, Helonias dioica, Hydrastis, Iodium, Iris versicolor, Kali carb., Lachesis, Lycopodium, Merc. viv., Nat.carb., Nat. phos, Nitricum ac., Phosphorus, Podoph. pelt, Pulsatilla, Sepia, Echinacea, Ginkgo, Juglans regia, Lappa, Thuja occ. NITRIC ACID NITRIC ACID PHOSPHORUS PHOSPHORUS PODOPHYLLUM PODOPHYLLUM ANEMONE PULSATILLA ANEMONE PULSATILLA SEPIA OFFICINALIS JUICE SEPIA OFFICINALIS JUICE ECHINACEA, UNSPECIFIED ECHINACEA, UNSPECIFIED GINKGO GINKGO JUGLANS REGIA LEAF JUGLANS REGIA LEAF ARCTIUM LAPPA ROOT ARCTIUM LAPPA ROOT THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG WATER ALCOHOL EPINEPHRINE EPINEPHRINE CANDIDA ALBICANS CANDIDA ALBICANS THYROID, UNSPECIFIED THYROID, UNSPECIFIED SACCHAROMYCES CEREVISIAE SACCHAROMYCES CEREVISIAE ELYMUS REPENS ROOT ELYMUS REPENS ROOT USTILAGO MAYDIS USTILAGO MAYDIS ANTIMONY TRISULFIDE ANTIMONY TRISULFIDE ARSENIC TRIOXIDE ARSENIC CATION (3+) BAPTISIA TINCTORIA BAPTISIA TINCTORIA BERBERIS AQUIFOLIUM ROOT BARK BERBERIS AQUIFOLIUM ROOT BARK BRYONIA ALBA ROOT BRYONIA ALBA ROOT TRIBASIC CALCIUM PHOSPHATE PHOSPHATE ION CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK CHAMAELIRIUM LUTEUM ROOT CHAMAELIRIUM LUTEUM ROOT GOLDENSEAL GOLDENSEAL IODINE IODINE IRIS VERSICOLOR ROOT IRIS VERSICOLOR ROOT POTASSIUM CARBONATE CARBONATE ION LACHESIS MUTA VENOM LACHESIS MUTA VENOM LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE MERCURY MERCURY SODIUM CARBONATE CARBONATE ION SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE PHOSPHATE ION
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 drops by mouth (ages 0 to 11, give 3 drops) one to four times daily or as directed by a health professional.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding, ask a doctor before use.
+package_label_principal_display_panel:
+  PACKAGE LABEL package label
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Formulated for symptoms such as vaginal itching or discharge, mental fogginess, fatigue, gas and bloating.
+set_id:
+  98d1fa0a-8aac-b89f-e053-2a95a90a5dbb
+id:
+  c6a40aee-ef2f-e40b-e053-2995a90ae048
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Equal parts of Echinacea 11x, Ginkgo 11x, Juglans reg. 11x, Lappa 11x, Thuja occ. 11x, Antimon. crud. 15x, Baptisia 15x, Berber. aqui. 15x, Bryonia 15x, Calc. phos. 15x, Cinchona 15x, Helonias 15x, Hydrastis 15x, Iodium 15x, Iris vers. 15x, Kali carb. 15x, Lachesis 15x, Lycopodium 15x, Merc. viv. 15x, Nat.carb. 15x, Nat. phos. 15x, Nitricum ac. 15x, Phos. 15x, Podoph. pelt. 15x, Pulsatilla 15x, Sepia 15x, Adrenalinum 20x, Arsenium alb. 20x, Candida alb. 20x, Thyroidinum 20x, Torula cerevisiae 20x, Triticum 20x, Ustilago maidis 20x.

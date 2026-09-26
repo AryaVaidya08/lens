@@ -1,0 +1,33 @@
+effective_time:
+  20130701
+inactive_ingredient:
+  Inactive Ingredients carbomer 940, CI 17200, CI 42090, Peg-12 dimethicone, propylene glycol, tocopheryl acetate, triethanolamine, water
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For external use only
+spl_product_data_elements:
+  Modesa Ethyl Alcohol ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) D&C RED NO. 33 FD&C BLUE NO. 1 PEG-12 DIMETHICONE (300 CST) PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER
+other_safety_information:
+  Flammable. Keep away from fire or flame
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions - Put a dime sized drop onto hands and rub together briskly until dry.
+storage_and_handling:
+  Other Information. Store below 110 F (43C)
+do_not_use:
+  Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+package_label_principal_display_panel:
+  copy of label
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on skin
+set_id:
+  afaf9c7f-2d91-4a20-a3af-ccf6f164f891
+id:
+  28256b1f-829d-4b87-b172-4b752337ec86
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 68% v/v

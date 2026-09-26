@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Instant Hand Sanitizer (Ethanol 75%) Instant Hand Gel (Ethanol 75%) ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER INTERPOLYMER TYPE A (55000 CPS) EDETOL GLYCERIN WATER
+dosage_and_administration:
+  Keep away from light and store in a cool, dry and ventilated place.
+inactive_ingredient:
+  Aloe Barbadensis Leaf Extract、Acrylates / C10-30 Alkyl Acrylate Crosspolymer、Tetrahydroxypropyl Ethylenediamine、Glycerol、Aqua
+indications_and_usage:
+  Apply an appropriate amount of the product evenly on the hands,faces and skin of other necessary parts of the body, gently rub and massage until it is absorbed.
+active_ingredient:
+  Ethanol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  1. This product is a topical disinfectant and should not be taken orally. 2. Place the product out of reach of children. 3. Inflammable, keep away from fire source. 4. Store the product in a cool, dark and dry place. 5. This product is not suitable for disinfection of fat-soluble surfaces.
+package_label_principal_display_panel:
+  label
+set_id:
+  a6c544fe-46ae-2a9b-e053-2a95a90a0471
+id:
+  a6c56168-49b8-e00f-e053-2a95a90a51d7
+effective_time:
+  20200529
+version:
+  1
+openfda:

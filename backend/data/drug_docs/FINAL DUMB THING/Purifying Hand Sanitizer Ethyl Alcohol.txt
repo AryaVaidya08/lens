@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Purifying Hand Sanitizer Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN LAVENDER OIL
+active_ingredient:
+  Active Ingredients: Ethyl Alcohol - 65%
+purpose:
+  Purpose: Antimicrobial
+indications_and_usage:
+  Uses: Helps to reduce bacteria on skin. Recommended for repeated use.
+warnings:
+  Warning: For External use only - Hands Flammable: Keep away from heat and Flame.
+when_using:
+  When using this products: Keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin.
+stop_use:
+  Stop use and ask a doctor if skin irritation develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children: If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Wet hands throughly with product and allow to dry without wiping. For children under 6, use only under adult supervision. Not recommended for infants.
+inactive_ingredient:
+  Inactive Ingredients: Water (Aqua), Glycerin, Lavandula angustifolia (lavender) oil.
+package_label_principal_display_panel:
+  True Botanicals San Francisco, CA 94111 Hand Sanitizer
+set_id:
+  72f3761a-b144-49fb-959f-01ab5f1f95d6
+id:
+  fc5efc96-3ae9-448c-95c5-1e0539dd2b1d
+effective_time:
+  20200428
+version:
+  1
+openfda:

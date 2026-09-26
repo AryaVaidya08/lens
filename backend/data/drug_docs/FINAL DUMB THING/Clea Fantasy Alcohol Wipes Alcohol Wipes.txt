@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Clea Fantasy Alcohol Wipes Alcohol Wipes ALCOHOL ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER COCAMIDOPROPYL BETAINE GLYCERIN
+active_ingredient:
+  Active Ingredient Section
+  OTC Active OTC Principle Display Panel
+dosage_and_administration:
+  Dosage & Administration Section
+recent_major_changes:
+  
+warnings:
+  Warning Section
+inactive_ingredient:
+  Inactive Ingredients Section
+indications_and_usage:
+  Indications & usage section
+keep_out_of_reach_of_children:
+  OTC-keep out of reach of children section
+purpose:
+  OTC-Purpose section
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+set_id:
+  a98fa752-457a-54c5-e053-2995a90aea9f
+id:
+  a98fa752-457b-54c5-e053-2995a90aea9f
+effective_time:
+  20200703
+version:
+  1
+openfda:

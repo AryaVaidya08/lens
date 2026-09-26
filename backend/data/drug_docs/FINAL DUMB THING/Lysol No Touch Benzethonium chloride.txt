@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Lysol No Touch Benzethonium chloride WATER GLYCERIN CETRIMONIUM CHLORIDE LAURIC DIETHANOLAMIDE PEG-150 DISTEARATE LAURAMINE OXIDE CITRIC ACID MONOHYDRATE EDETATE SODIUM SULISOBENZONE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE D&C RED NO. 33 D&C ORANGE NO. 4 BENZETHONIUM CHLORIDE BENZETHONIUM
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Reckitt Benckiser LLC Parsippany, NJ 07054-0224
+active_ingredient:
+  Active Ingredient Benzethonium chloride, 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only When using this product Avoid contact with eyes. In case of eye contact, flush with water. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands. Place hands under dispenser until soap is dispensed. Wash hands. Rinse hands with water. Dry hands after rinsing.
+storage_and_handling:
+  Other Information store at room temperature
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Cetrimonium Chloride, Lauramide DEA, PEG-150 Distearate, Lauramine Oxide, Fragrance, Citric Acid, Tetrasodium EDTA, Benzophenone-4, Di-PPG-2 Myreth-10 Adipate, Methylchloroisothiazolinone, Methylisothiazolinone, D&C Red 33 and D&C Orange 4.
+questions:
+  Questions? Comments? Call 1-800-228-4722
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 251 mL Bottle Label Lysol ® BRAND KILLS 99.9% OF BACTERIA No -Touch™ Antibacterial Hand Soap No -Touch™ Hand Soap System Cranberry Cheer includes dispenser, hand soap refill and AA batteries Helps stop the spread of bacteria 8.5 FL. OZ. (251 mL) Principal Display Panel - 251 mL Bottle Label
+set_id:
+  d18f0132-fef2-4de5-a4ff-c6e0df9d7f11
+id:
+  fceed1b3-c84b-7e03-e053-6394a90af260
+effective_time:
+  20230530
+version:
+  3
+openfda:

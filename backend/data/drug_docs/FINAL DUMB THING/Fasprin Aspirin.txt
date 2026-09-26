@@ -1,0 +1,41 @@
+effective_time:
+  20101130
+inactive_ingredient:
+  Inactive Ingredients: Citric Acid, Crospovidone, D and C Yellow #10, Flavor, Glucosamine Sulfate-K, Mannitol, Sodium Stearyl Fumarate, Sorbitol, Sunnette K, Zinc Gluconate
+purpose:
+  Purpose Pain Reliever/Fever Reducer
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings: Reye's syndrome: Children and teenagers should not use this medicine for chicken pox or flu symptoms before a doctor is consulted about Reye's syndrome, a rare but serious illness reported to be associated with aspirin. Alcohol Warning: If you consume 3 or more alcoholic drinks every day, ask your doctor whether you should take aspirin or other pain relievers/fever reducers. Aspirin may cause stomach bleeding. If you are allergic to aspirin With any other pain reliever/fever reducer If you have ever had an allergic reaction to any other pain reliever/fever reducer For pain for more than 10 days or for fever for more than 3 days unless directed by a doctor With any other product containing aspirin Ask doctor before using if you have: Asthma Bleeding problems Stomach problems (such as heartburn, upset stomach or stomach pain) gastric ulcers Ask a doctor or pharmacist before use if you are taking a prescription drug for: Anticoagulation (thinning of blood) Diabetes Gout Arthritis Stop use and ask a doctor if: Ringing in the ears or loss of hearing occurs Pain or fever persists or gets worse New symptoms occur Redness or swelling is present If pregnant or breast-feeding baby, ask a health professional before use. IT IS ESPECIALLY IMPORTANT NOT TO USE ASPIRIN DURING THE LAST 3 MONTHS OF PREGNANCY UNLESS SPECIFICALLY DIRECTED TO DO SO BY A DOCTOR BECAUSE IT MAY CAUSE PROBLEMS IN THE UNBORN CHILD OR COMPLICATIONS DURING DELIVERY.
+spl_product_data_elements:
+  Fasprin Aspirin ASPIRIN ASPIRIN CITRIC ACID MONOHYDRATE CROSPOVIDONE D&C YELLOW NO. 10 GLUCOSAMINE MANNITOL SODIUM STEARYL FUMARATE SORBITOL ZINC GLUCONATE Round F yellow
+ask_doctor:
+  Ask doctor before using if you have: Asthma Bleeding problems Stomach problems (such as heartburn, upset stomach or stomach pain) gastric ulcers
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Directions: Remove tablet from backing by bending at perforation and peeling back cover. Place tablet on tongue and allow saliva to dissolve the tablet for rapid absorption. Adults: Take 1 tablet daily, do not exceed 36 tablets in 24 hours, or as directed by a doctor. Children: Consult a doctor.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding baby, ask a health professional before use. IT IS ESPECIALLY IMPORTANT NOT TO USE ASPIRIN DURING THE LAST 3 MONTHS OF PREGNANCY UNLESS SPECIFICALLY DIRECTED TO DO SO BY A DOCTOR BECAUSE IT MAY CAUSE PROBLEMS IN THE UNBORN CHILD OR COMPLICATIONS DURING DELIVERY.
+stop_use:
+  Stop use and ask a doctor if: Ringing in the ears or loss of hearing occurs Pain or fever persists or gets worse New symptoms occur Redness or swelling is present
+spl_unclassified_section:
+  Manufactured for: Nobel Laboratories, LLC 3413 Spanish Oak Drive Austin, TX 787314 www.NobelLabs.com
+storage_and_handling:
+  Store Product Below 90 degrees F. Protect from heat, light and moisture. U.S Patents 6,596,708 / 6,930,099 and Patents Pending
+do_not_use:
+  If you are allergic to aspirin With any other pain reliever/fever reducer If you have ever had an allergic reaction to any other pain reliever/fever reducer For pain for more than 10 days or for fever for more than 3 days unless directed by a doctor With any other product containing aspirin
+package_label_principal_display_panel:
+  Package Label Section image of carton label
+indications_and_usage:
+  Uses For temporary relief of minor aches and pains
+set_id:
+  73859ea9-01a0-4c3d-97d4-17b9d3378899
+id:
+  5108bdca-1454-4353-b55f-e31da8ed4f4f
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for: Anticoagulation (thinning of blood) Diabetes Gout Arthritis
+active_ingredient:
+  Active Ingredient (In Each Tablet) Aspirin 81 mg

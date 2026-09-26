@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  5% minoxidil hair regrowth treatment SANNUO 5% minoxidil hair regrowth treatment WATER MINOXIDIL MINOXIDIL ALCOHOL GLYCERIN
+active_ingredient:
+  Minoxidil 5%
+ask_doctor:
+  Ask a Doctor before use if you have Heart disease.
+warnings:
+  Warnings -For external use only. -Keep away from fire and flame. -Avoid contact with eyes.
+do_not_use:
+  Do not use -You have no family history of hair loss,hair loss is sudden and/orpatchy. -You do not know the reason for your hair loss. -You are under 18 years of age. Do not use it on babies and children. -Your scalp is red,inflamed, infect-edirritated,or painful. -You use other medicines on the scalp.
+when_using:
+  When using -Do not apply on other parts of the body. -void contact with eyes. In case of accidental contact, rinse eyes with a large amount of cool tap water. -It takes time to regrow hair. You may need to use this product 2 times a day for a least 4 months before you see results, The amount of hair regrowth is different for each person
+stop_use:
+  Stop use and ask doctor if -chest pain,rapid heart beat,faintness,or dizziness occurs sudden, unexplained weight gain occurs your hands or feet swell scalp irritation or redness occurs -May be harmful when pregnant or breast-feeding
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+purpose:
+  Hair Regrowth Treatment
+other_safety_information:
+  Other information -Before use, read all information on the carton. -Store at controlled room temperature 20 to 25 ℃ (68 to 77°F)
+dosage_and_administration:
+  Directions -Apply 1ml (7 Sprays) twice a day. Once in the morning and another time in the evening before bed. -Spray directly on top of the scalp in the area to be treated. -Using more than directed or more often will not improve results. -Continued use is necessary to increase and then maintain your hair regrowth. -Discontinuing use may result in hair loss.
+inactive_ingredient:
+  Inactive ingredients Propylene Glycol, Ethyl Alcohol, Aqua.
+indications_and_usage:
+  Use to regrow hair on the top of the scalp.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+set_id:
+  08c6d31f-f685-63e9-e063-6394a90a04b4
+id:
+  08c6d31f-f686-63e9-e063-6394a90a04b4
+effective_time:
+  20231028
+version:
+  1
+openfda:

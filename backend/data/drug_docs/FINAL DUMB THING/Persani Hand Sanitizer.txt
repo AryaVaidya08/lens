@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Persani Hand Sanitizer ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts Active Ingredient(s) Active ingredient Purpose Alcohol 80% v/v Antiseptic
+spl_unclassified_section_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredient</content></content></td><td><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Alcohol 80% v/v</td><td>Antiseptic</td></tr></tbody></table>
+active_ingredient:
+  Active Ingredient(s) Active ingredient Purpose Alcohol 80% v/v Antiseptic
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredient</content></content></td><td><content styleCode="bold"><content styleCode="italics">Purpose</content></content></td></tr><tr><td>Alcohol 80% v/v</td><td>Antiseptic</td></tr></tbody></table>
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Uses ■ Hand sanitizer to help reduce bacteria that can potentially cause disease. ■ For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Do not use ■ on children less than 2 months of age ■ on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use ■ on children less than 2 months of age ■ on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ Place enough product on hands to cover all surfaces. Rub hands together until dry. ■ Supervise children under 6 years of age when using this product to avoid swallowing. ■ Allow to dry without wiping.
+storage_and_handling:
+  Other information ■ Store between 15-30ºC (59-86ºF) ■ Avoid freezing and excessive heat above 40ºC (104ºF)
+inactive_ingredient:
+  Inactive ingredients Glycerin, Hydrogen peroxide, Purified water USP
+questions:
+  Questions or comments? 1-800-635-3696
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel PERSÀNI Alcohol Antiseptic 80% TOPICAL SOLUTION Hand Sanitizer Non-Sterile Solution NET WT 4 FL OZ (118 mL) Label
+set_id:
+  a34f94ae-4ed3-5c2c-e053-2995a90ac376
+id:
+  d57c21a5-c799-0c91-e053-2a95a90a045c
+effective_time:
+  20220113
+version:
+  2
+openfda:

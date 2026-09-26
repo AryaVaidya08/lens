@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  PURELL Alcohol Hand Sanitizing Wipes alcohol WATER ISOPROPYL ALCOHOL GLYCERIN ISOPROPYL MYRISTATE PROPYLENE GLYCOL VITAMIN A PALMITATE .ALPHA.-TOCOPHEROL ACETATE CORN OIL ALCOHOL ALCOHOL
+package_label_principal_display_panel:
+  Label
+set_id:
+  1a756198-e93a-490f-822f-fbaf9af0da8a
+id:
+  4301854e-641d-e240-e063-6394a90a1a75
+effective_time:
+  20251107
+version:
+  5
+openfda:

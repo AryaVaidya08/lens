@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  Chamomilla Dec Cupro culta 3X Chamomilla Dec Cupro culta 3X ALCOHOL MATRICARIA CHAMOMILLA MATRICARIA CHAMOMILLA WATER
+indications_and_usage:
+  Directions: FOR ORAL USE ONLY.
+dosage_and_administration:
+  Take 3-4 times daily. Ages 12 and older: 10 drops. Ages 2-11: 5 drops. Under age 2: Consult a doctor.
+active_ingredient:
+  Active Ingredient: Chamomilla Cupro (Chamomile) 3X
+inactive_ingredient:
+  Inactive Ingredient: Water, 20% Organic cane alcohol Prepared using rhythmical processes.
+purpose:
+  Use: Temporary relief of headache.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use. Do not use if safety seal is broken or missing.
+questions:
+  Made with care by Uriel, East Troy, WI 53120 shopuriel.com Lot:
+package_label_principal_display_panel:
+  Chamomilla Dec Cupro culta 3X Liquid
+set_id:
+  4d7af784-9f92-0dd5-e063-6394a90ab33b
+id:
+  4d7af784-9f93-0dd5-e063-6394a90ab33b
+effective_time:
+  20260320
+version:
+  1
+openfda:
+  brand_name:
+    Chamomilla Dec Cupro culta 3X
+  generic_name:
+    CHAMOMILLA DEC CUPRO CULTA 3X
+  manufacturer_name:
+    Uriel Pharmacy, Inc
+  product_ndc:
+    48951-3284
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MATRICARIA CHAMOMILLA
+  spl_id:
+    4d7af784-9f93-0dd5-e063-6394a90ab33b
+  spl_set_id:
+    4d7af784-9f92-0dd5-e063-6394a90ab33b
+  package_ndc:
+    48951-3284-3
+  is_original_packager:
+    True
+  unii:
+    G0R4UBI2ZZ

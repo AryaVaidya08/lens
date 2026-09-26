@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Total Body Block Sunscreen Zinc Oxide DIMETHICONOL (2000 CST) SODIUM CHLORIDE TETRAHEXYLDECYL ASCORBATE ALPHA-TOCOPHEROL ACETATE PEG-10 DIMETHICONE (600 CST) POLYSORBATE 20 MICROCRYSTALLINE WAX STEARYL DIMETHICONE (400 MPA.S AT 50C) ZINC OXIDE ZINC OXIDE CYCLOHEXASILOXANE C12-15 ALKYL BENZOATE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) PEG-30 DIPOLYHYDROXYSTEARATE POLYGLYCERYL-4 ISOSTEARATE TRIETHANOLAMINE CYCLOPENTASILOXANE CAPRYLHYDROXAMIC ACID HYDROGEN DIMETHICONE (20 CST) WATER POLYHYDROXYSTEARIC ACID (2300 MW) TRIETHOXYCAPRYLYLSILANE CAPRYLYL GLYCOL CETYL PEG/PPG-10/1 DIMETHICONE (HLB 4) DIMETHICONE DIMETHICONE CROSSPOLYMER EDETATE DISODIUM ANHYDROUS GLYCERIN
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  Package Label
+set_id:
+  38f4928c-6389-5aa1-e063-6294a90a8f9d
+id:
+  45b3e891-2bef-73a7-e063-6394a90a0e6d
+effective_time:
+  20251211
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Total Body Block Sunscreen
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    ADR SUNCARE
+  product_ndc:
+    85861-205
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    45b3e891-2bef-73a7-e063-6394a90a0e6d
+  spl_set_id:
+    38f4928c-6389-5aa1-e063-6294a90a8f9d
+  package_ndc:
+    85861-205-04
+  original_packager_product_ndc:
+    58892-205
+  upc:
+    0385861205048
+  unii:
+    SOI2LOH54Z

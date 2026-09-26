@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Diphenhydramine HCl Diphenhydramine HCl ANHYDROUS CITRIC ACID D&C RED NO. 33 FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP WATER SODIUM BENZOATE SODIUM CHLORIDE TRISODIUM CITRATE DIHYDRATE SUCROSE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE
+active_ingredient:
+  Active ingredient (in each teaspoonful (5 mL)) Diphenhydramine HCl 12.5 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness excitability may occur, especially in children marked drowsiness may occur use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness excitability may occur, especially in children marked drowsiness may occur use caution when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than 6 doses in 24 hours mL = milliliter; FL OZ = fluid ounce find right dose on chart below take every 4 to 6 hours, or as directed by a doctor Age Dose adults and children 12 years and over 2 - 4 teaspoonsful (25 mg to 50 mg) children 6 to 11 years 1 - 2 teaspoonsful (12.5 mg to 25 mg) children 2 to 5 years do not use unless directed by a doctor children under 2 years do not use
+dosage_and_administration_table:
+  <table width="350px"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule Lrule Rrule"><content styleCode="bold">Age</content></td><td styleCode=" Botrule Toprule Lrule Rrule"><content styleCode="bold">Dose</content></td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">adults and children 12 years and over</td><td styleCode=" Botrule Toprule Lrule Rrule">2 - 4 teaspoonsful (25 mg to 50 mg)</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children 6 to 11 years</td><td styleCode=" Botrule Toprule Lrule Rrule">1 - 2 teaspoonsful (12.5 mg to 25 mg)</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children 2 to 5 years</td><td styleCode=" Botrule Toprule Lrule Rrule">do not use unless directed by a doctor</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children under 2 years</td><td styleCode=" Botrule Toprule Lrule Rrule">do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each teaspoonful (5 mL) contains: sodium 5 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) use by expiration date on package
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C red #33, FD&C red #40, flavors, glycerin, high fructose corn syrup, purified water, sodium benzoate, sodium chloride, sodium citrate dihydrate, sucrose
+questions:
+  Questions or comments? (800) 616-2471
+package_label_principal_display_panel:
+  Principal display panel pdp
+set_id:
+  ebf42e5e-df98-65e5-e053-2a95a90a7ac3
+id:
+  ebf42e5e-df99-65e5-e053-2a95a90a7ac3
+effective_time:
+  20221026
+version:
+  1
+openfda:

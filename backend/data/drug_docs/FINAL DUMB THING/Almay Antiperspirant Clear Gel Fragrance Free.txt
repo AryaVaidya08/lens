@@ -1,0 +1,56 @@
+spl_product_data_elements:
+  Almay Antiperspirant Clear Gel Fragrance Free ALUMINUM SESQUICHLOROHYDRATE WATER CYCLOPENTASILOXANE DIMETHICONE GLYCERIN DIPROPYLENE GLYCOL PEG-12 DIMETHICONE PEG/PPG-19/19 DIMETHICONE PEG/PPG-18/18 DIMETHICONE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE
+active_ingredient:
+  Aluminum Sesquicholorhydrate 25%
+purpose:
+  Purpose Antiperspirant
+warnings:
+  Warnings: For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irriation occurs
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients AQUA ((WATER) EAU), CYCLOPENTASILOXANE, DIMETHICONE, DIPROPYLENE GLYCOL, GLYCERIN, PEG-12 DIMETHICONE CROSSPOLYMER, PEG/PPG-18/18 DIMETHICONE, PEG/PPG-19/19 DIMETHICONE, LINALOOL, BUTYLPHENYL METHYLPROPIONAL
+indications_and_usage:
+  Reduces underarm wetness
+dosage_and_administration:
+  
+package_label_principal_display_panel:
+  Almay Clear Gel Powder Fresh Net Wt. 2.25oz/65g 2477
+  Almay Clear Gel Unscented Net Wt. 2.25oz/65g 3664
+set_id:
+  2a982dd7-c52e-0a5b-e063-6294a90aafd3
+id:
+  2a982e0e-4723-797e-e063-6294a90a43c1
+effective_time:
+  20241231
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Almay Antiperspirant Clear Gel Fragrance Free
+  generic_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  manufacturer_name:
+    Almay, Inc.
+  product_ndc:
+    0311-0736
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    2a982e0e-4723-797e-e063-6294a90a43c1
+  spl_set_id:
+    2a982dd7-c52e-0a5b-e063-6294a90aafd3
+  package_ndc:
+    0311-0736-22
+  is_original_packager:
+    True
+  upc:
+    0309972477002
+  unii:
+    UCN889409V

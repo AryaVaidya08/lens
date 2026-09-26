@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Play-Doh Hand Sanitizer (PLYD 100) ALCOHOL POLYSORBATE 20 D&C RED NO. 33 SODIUM HYDROXIDE GLYCERIN CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) 1. Alcohol 62% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand-washing to decrease bacteria on the skin, only when water is not available
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  · Do not get into eyes. · if contact occurs, rinse eyes thoroughly with water
+stop_use:
+  irritation and redness develop
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping.
+storage_and_handling:
+  Other information Store between 66 to 77F (20-25C) Do not store above 110F (43C) You may report a serious adverse reaction to this product to Report Reaction, LLC, PO Box 22 Plainsboro, NJ 08536
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Acrylates/ C10-30 Alkyl Acrylates Crosspolymer, Fragrance, Polysorbate 20, Sodium Hydroxide, Red 33
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label Artwork
+set_id:
+  ab1d32a2-f8fe-81c6-e053-2a95a90ad99c
+id:
+  ab1d32a2-f8f0-81c6-e053-2a95a90ad99c
+effective_time:
+  20200723
+version:
+  1
+openfda:

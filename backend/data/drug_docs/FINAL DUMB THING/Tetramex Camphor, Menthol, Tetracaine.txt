@@ -1,0 +1,29 @@
+effective_time:
+  20160129
+inactive_ingredient:
+  Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, Dimethyl Sulfone, Emu Oil, Ethoxydiglycol, Glucosamine HCL, Glycrrhiza glabra (Licorice) Root Extract, PEG-40 Hydrogenated Castor Oil, Propylene Glycol (and) Diazolidinyl Urea (and) Lodopropynyl Butylcarbamate, SD Alcohol 40B, Fragrance.
+keep_out_of_reach_of_children:
+  KEEP THIS AND ALL MEDICATIONS OUT OF REACH OF CHILDREN
+spl_patient_package_insert:
+  ACTIVE INGREDIENTS: Camphor 3% Menthol 1% Tetracaine HCL 2% INDICATIONS AND USAGE: For temporary relief of minor aches and pains of the muscles and joints associated with simple backache, arthritis, strains, bruises and sprains. CLINICAL PHARMACOLOGY: Camphor is used topically to increase local blood flow and as a “counterirritant.” When applied externally, camphor numbs the nerve ending. The nerve endings then no longer transmit the sensation of pain. Menthol instantly brings cool, soothing pain relief to aching muscles. Menthol also has a natural analgesic attribute when applied topically. It has molecules called ligands, which attach themselves to receptors (Kappa Opioid Receptors) in your cell, which produces a numbing effect. Using Menthol topically causes vasodilation, which increases blood flow to the affected area, allowing other medicinal ingredients found in the topical spray to work faster. When applied externally, camphor numbs the nerve ending. The nerve endings then no longer transmit the sensation of pain. Tetracaine is a local anesthetic (numbing medicine). It works by blocking nerve signals in your body. It does this by stopping the sodium entering the nerve ending at the site of the pain. This prevents an electrical signal building up and passing along the nerve fibers to the brain. CONTRAINDICATIONS: Tetramex is contraindicated in patients with known history of hypersensitivity to local anesthetics, Menthol, camphor, and to other components of Tetramex topical spray. Directions: Adults and children 12 years and over apply directly to affected area. Do not use more than four times per day. Children under 12 years of age, consult a physician prior to use. Wash hands with soap before and after use. Avoid contact with eyes and mucous membranes. WARNING: -For external use only. Use only as directed. -Avoid contact with eyes and mucous membranes. -Do not apply to open wounds or damaged skin. -Do not use in combination with any external heat source. -Do not use on irritated or broken skin, or use in combination with any bandage, wrap, stocking or similar device or garment. -KEEP OUT OF REACH OF CHILDREN. Consult physician for children under 12 years of age. -Do not use if allergic to Menthol, Lidocaine, or any other components. -Stop use and consult physician if symptoms worsen or persist for more than 7 days. -Stop use if itching or excessive skin irritation occurs. -If pregnant or breast feeding, contact physician prior to use. Other Ingredients: Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia serrata extract, Dimethyl Sulfone, Emu Oil, Ethoxydiglycol, Glucosamine HCL, Glycrrhiza glabra (Licorice) Root Extract, PEG-40, Hydrogenated Castor Oil, Propylene Glycol (and) Diazolidinyl Urea (and) Iodopropynyl Butylcarbamate, SD Alcohol 40B. How Supplied: Mentholix is supplied in a 4 ounce (120ml) plastic bottle with a fine mist sprayer for topical application. Storage: Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Avoid direct sunlight.
+spl_product_data_elements:
+  Tetramex Camphor, Menthol, Tetracaine WATER ARNICA MONTANA FLOWER BOSWELLIA SERRATA WHOLE DIMETHYL SULFONE EMU OIL DIETHYLENE GLYCOL MONOETHYL ETHER GLUCOSAMINE HYDROCHLORIDE LICORICE CASTOR OIL PROPYLENE GLYCOL DIAZOLIDINYL UREA BUTYL CARBAMATE ALCOHOL CAMPHOR (NATURAL) CAMPHOR (NATURAL) TETRACAINE HYDROCHLORIDE TETRACAINE MENTHOL MENTHOL
+warnings_and_cautions:
+  Warnings For external use only. Use only as directed. Avoid contact with eyes and mucous membranes. Do not apply to open wounds or damaged skin. Do not use in combination with any external heat source. Do not use on irritated or broken skin, or use in combination with any bandage, wrap, stocking or similar device or garment. Consult physician for children under 12 years of age. Do not use if allergic to Camphor, Histamine, Menthol or any other components. Stop use and consult physician if symptoms worsen or persist for more than 7 days. Stop use if itching or excessive skin irritation occurs. If pregnant or breast feeding, contact physician prior to use.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Apply directly to affected area. Do not use more than four times per day. Children under 12 years of age: Consult a Physician.
+storage_and_handling:
+  Store in 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]
+package_label_principal_display_panel:
+  T
+indications_and_usage:
+  For temporary relief of minor aches and pains of the muscles and joints associated with simple backache, arthritis, strains, bruises and sprains.
+set_id:
+  9b8fc62a-3b6e-433f-a6d6-3c265ee1b799
+id:
+  2a7ea170-a6a3-4dd2-e054-00144ff8d46c
+active_ingredient:
+  Camphor............................3.0% Menthol USP......................1.0% Tetracaine HCL..................2.0%

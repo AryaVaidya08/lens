@@ -1,0 +1,77 @@
+spl_product_data_elements:
+  Facial Skin Shield Broad Spectrum SPF50 Plus avobenzone, ensulizole, homosalate, octisalate, and octocrylene AVOBENZONE AVOBENZONE ENSULIZOLE ENSULIZOLE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER CARTHAMUS TINCTORIUS SEED OLEOSOMES C15-19 ALKANE GLYCERIN PROPANEDIOL DIMETHYL CAPRAMIDE ALOE VERA LEAF STARCH, TAPIOCA CELLULOSE ACETATE COCOYL CAPRYLOCAPRATE CETOSTEARYL ALCOHOL GLYCERYL MONOSTEARATE PEG-100 STEARATE POTASSIUM CETYL PHOSPHATE AMINOMETHYLPROPANOL PEG-40 MONOSTEARATE PHENOXYETHANOL HYDROGENATED PALM GLYCERIDES TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES GERANIOL .BETA.-CITRONELLOL, (R)- LEDIKITE SODIUM HYDROXIDE XANTHAN GUM GLUCONOLACTONE CHLORPHENESIN SODIUM CITRATE, UNSPECIFIED FORM 1,2-HEXANEDIOL CAPRYLYL GLYCOL DIDECYLDIMONIUM CHLORIDE SODIUM BENZOATE POTASSIUM SORBATE CITRIC ACID MONOHYDRATE BIOSACCHARIDE GUM-4 ALLANTOIN MENTHA PIPERITA LEAF
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Avobenzone 2.84% sunscreen Ensulizole 3% sunscreen Homosalate 7.3% sunscreen Octisalate 5% sunscreen Octocrylene 9.89% sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 2.84%</td><td>sunscreen</td></tr><tr><td>Ensulizole 3%</td><td>sunscreen</td></tr><tr><td>Homosalate 7.3%</td><td>sunscreen</td></tr><tr><td>Octisalate 5%</td><td>sunscreen</td></tr><tr><td>Octocrylene 9.89%</td><td>sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Avobenzone 2.84% sunscreen Ensulizole 3% sunscreen Homosalate 7.3% sunscreen Octisalate 5% sunscreen Octocrylene 9.89% sunscreen
+purpose_table:
+  <table width="50%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 2.84%</td><td>sunscreen</td></tr><tr><td>Ensulizole 3%</td><td>sunscreen</td></tr><tr><td>Homosalate 7.3%</td><td>sunscreen</td></tr><tr><td>Octisalate 5%</td><td>sunscreen</td></tr><tr><td>Octocrylene 9.89%</td><td>sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn
+warnings:
+  Warnings For External Use Only Do not use on damaged or broken skin. Stop use and consult a doctor if rash or irritation develops and lasts. When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+stop_use:
+  Stop use and consult a doctor if rash or irritation develops and lasts.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours children under 6 months: Ask a doctor Sun Protection Measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m.-2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  Inactive Ingredients Aqua (Mineral Spring Water), Carthamus Tinctorius (Safflower) Oleosomes, C15-19 Alkane, Glycerin, Propanediol, Dimethyl Capramide, Aloe Barbadensis (Aloe-Vera) Leaf Juice, Tapioca Starch, Cellulose Acetate, Coco-Caprylate/ Caprate, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Potassium Cetyl Phosphate, Aminomethyl Propanol, PEG-40 Stearate, Phenoxyethanol, Hydrogenated Palm Glycerides, Parfum (Fragrance), Tetramethyl Acetyloctahydronaphthalenes, Geraniol, Citronellol, Illite, Disodium Cetearyl Sulfosuccinate, Sodium Hydroxide, Xanthan Gum, Gluconolactone, Chlorphenesin, Sodium Citrate, 1,2-Hexanediol, Caprylyl Glycol, Didecyldimonium Chloride, Sodium Benzoate, Potassium Sorbate, Citric Acid, Biosaccharide Gum-4, Allantoin, Mentha Piperita (Peppermint) Leaf Juice, Maris Aqua (Dead Sea Water/Osmoter).
+storage_and_handling:
+  Other information Protect this product from excessive heat and direct sun.
+questions:
+  Questions or comments Call toll free 1-800-366-7254
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Carton AHAVA SPF 50 + Facial Skin Shield Broad Specrtum SPF 50+ PA++++ BROAD SPECTRUM UVB UVA SUN PRINCIPAL DISPLAY PANEL - 50 ml Bottle Carton
+set_id:
+  bb62c700-be07-4fe3-b007-425a5f760b30
+id:
+  a68b535e-91c6-44ba-86c1-917cb31b4847
+effective_time:
+  20241120
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Facial Skin Shield Broad Spectrum SPF50 Plus
+  generic_name:
+    AVOBENZONE, ENSULIZOLE, HOMOSALATE, OCTISALATE, AND OCTOCRYLENE
+  manufacturer_name:
+    AHAVA - Dead Sea Laboratories Ltd
+  product_ndc:
+    60289-302
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    ENSULIZOLE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    a68b535e-91c6-44ba-86c1-917cb31b4847
+  spl_set_id:
+    bb62c700-be07-4fe3-b007-425a5f760b30
+  package_ndc:
+    60289-302-24
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    9YQ9DI1W42
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

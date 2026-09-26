@@ -1,0 +1,41 @@
+effective_time:
+  20171119
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, butylparaben, calcium sulfate, carrageenan, FD&C red #40, flavor, glycerin, high fructose corn syrup, hydroxyethyl cellulose, microcrystalline cellulose and carboxymethylcellulose sodium, propylene glycol, purified water, sodium benzoate, sorbitol solution, tribasic sodium phosphate
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes • more than 5 doses in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if your child has ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if your child has liver disease Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin Stop use and ask a doctor if • pain gets worse or lasts more than 5 days • fever gets worse or lasts more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical even if you do not notice any signs or symptoms.
+questions:
+  Questions or comments? 1-888-SAFEWAY
+spl_product_data_elements:
+  aspirin free Acetaminophen ACETAMINOPHEN ACETAMINOPHEN ANHYDROUS CITRIC ACID BUTYLPARABEN CALCIUM SULFATE CARRAGEENAN FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP CELLULOSE, MICROCRYSTALLINE CARBOXYMETHYLCELLULOSE SODIUM PROPYLENE GLYCOL WATER SODIUM BENZOATE SORBITOL SODIUM PHOSPHATE, TRIBASIC opaque
+ask_doctor:
+  Ask a doctor before use if your child has liver disease
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • this product does not contain directions or complete warnings for adult use • do not give more than directed (see Liver warning) • shake well before using • find right dose on chart. If possible, use weight to dose; otherwise, use age. • use only enclosed dosing cup designed for use with this product. Do not use any other dosing device. • if needed, repeat dose every 4 hours while symptoms last • do not give more than 5 times in 24 hours • do not give for more than 5 days unless directed by a doctor Weight (lb) Age (yr) Dose (tsp or mL) under 24 under 2 years ask a doctor 24-35 2-3 years 1 tsp or 5 mL 36-47 4-5 years 1 ½ tsp or 7.5 mL 48-59 6-8 years 2 tsp or 10 mL 60-71 9-10 years 2 ½ tsp or 12.5 mL 72-95 11 years 3 tsp or 15 mL Attention: use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device.
+stop_use:
+  Stop use and ask a doctor if • pain gets worse or lasts more than 5 days • fever gets worse or lasts more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition.
+storage_and_handling:
+  Other information • each teaspoon contains: sodium 3 mg • store at 20°-25°C (68°-77°F) • do not use if printed neckband is broken or missing
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if your child has ever had an allergic reaction to this product or any of its ingredients
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Children’s Tylenol® Oral Suspension active ingredient Children’s For Ages 2 to 11 Aspirin Free Suspension Liquid Acetaminophen 160 mg per 5 ml Pain Reliever Fever Reducer Alcohol Free Cherry Flavor 80 mg per 1/2 teaspoon (160 mg per 5 ml) Aspirin Free Suspension Liquid Carton Image 1 Aspirin Free Suspension Liquid Carton Image 1 Aspirin Free Suspension Liquid Carton Image 2 Aspirin Free Suspension Liquid Carton Image 1 Aspirin Free Suspension Liquid Carton Image 2
+indications_and_usage:
+  Uses temporarily: • reduces fever • relieves minor aches and pains due to: • the common cold • flu • headache • sore throat • toothache
+set_id:
+  f17bf6f9-f36b-458b-a648-0a808e90c603
+id:
+  b3fa20e6-32c9-4257-bd1c-dbf802bcbb6e
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredient (in each 5 mL = 1 teaspoon) Acetaminophen 160 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="27%"/> <col width="25%"/> <col width="41%"/> <tbody> <tr> <td align="center" styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>Weight (lb) </paragraph> </td> <td align="center" styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>Age (yr)</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>Dose (tsp or mL)</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>under 24</paragraph> </td> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>under 2 years</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>24-35</paragraph> </td> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>2-3 years</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>1 tsp or 5 mL</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>36-47</paragraph> </td> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>4-5 years</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>1 &#xBD; tsp or 7.5 mL</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>48-59</paragraph> </td> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>6-8 years</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>2 tsp or 10 mL</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>60-71 </paragraph> </td> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>9-10 years</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>2 &#xBD; tsp or 12.5 mL</paragraph> </td> </tr> <tr> <td align="center" styleCode="Botrule Lrule " valign="top"> <paragraph>72-95</paragraph> </td> <td align="center" styleCode="Botrule Lrule " valign="top"> <paragraph>11 years</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>3 tsp or 15 mL</paragraph> </td> </tr> </tbody> </table>

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Halls Orange Menthol ANHYDROUS CITRIC ACID FD&C RED NO. 40 FD&C YELLOW NO. 5 POTASSIUM CITRATE LECITHIN, SOYBEAN SUCROSE WATER MENTHOL MENTHOL Orange H
+active_ingredient:
+  Active Ingredient <(per drop) Menthol 2.5 mg>
+purpose:
+  Purposes <Cough Suppressant, Oral Anesthetic>
+indications_and_usage:
+  Uses <temporarily relieves:> cough due to a cold occasional minor irritation or sore throat
+warnings:
+  Warnings <Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied by fever, headache, rash, swelling, or vomiting, consult a doctor promptly. These may be serious.>
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore mouth does not improve in 7 days irritation, pain, or redness persists or worsens
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions adults and children 5 years and over: dissolve 2 drops (one at a time) slowly in the mouth. Repeat every 2 hours as needed. children under 5 years: ask a doctor
+spl_unclassified_section:
+  Other information 10 calories per drop Contains: SOY.
+inactive_ingredient:
+  Inactive ingredients <citric acid, FDC red 40, FDC yellow 5 (tartrazine), flavors, glucose syrup, potassium citrate, soy lecithin, sucrose, water>
+questions:
+  Questions <Call 1-800-524-2854 , Monday to Friday, 9AM-6PM Eastern Time or visit our website at www.gethalls.com>
+package_label_principal_display_panel:
+  OTC Principal Display Panel <NDC 12546-335-30 Halls Orange 30ct Bag> MM1
+set_id:
+  58542332-d63a-4124-98d0-9a29099a2d72
+id:
+  d322f15b-55c4-65a9-e053-2995a90a0a32
+effective_time:
+  20211214
+version:
+  4
+openfda:

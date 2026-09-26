@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Sentia Lubricant Eye Drops Propylene Glycol WATER BORIC ACID POTASSIUM CHLORIDE SORBITOL GLYCERIN HYALURONIC ACID AMINOMETHYLPROPANOL BENZETHONIUM CHLORIDE SODIUM CHLORIDE HYDROCHLORIC ACID SODIUM HYDROXIDE PROPYLENE GLYCOL PROPYLENE GLYCOL
+active_ingredient:
+  Active Ingredient Propylene Glycol 0.6%
+purpose:
+  Purpose Lubricant
+indications_and_usage:
+  Uses For the temporary relief of burning and irritation due to dryness of the eye, for the temporary relief of discomfort due to minor irritations of the eye or to exposure to wind or sun
+warnings:
+  Warnings For external use only Do not use if this product changes color or becomes cloudy if you are sensitive to any ingredient in this product When using this product do not touch tip of container to any surface to avoid contamination replace cap after each use Stop use and ask a doctor if you experience any of the following: eye pain change in vision continued redness or irritation of the eye condition worsens or persists for more than 72 hours Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions Shake well before using. Put 1 or 2 drops in the affected eye (s) as needed.
+spl_unclassified_section:
+  Other Information store at room temperature.
+  Questions ? 888-811-2634
+inactive_ingredient:
+  Inactive Ingredients Water, Boric Acid, Potassium Chloride, Sorbitol, Glycerin, Hyluronic Acid, Amynomethylpropanol, Benzalhonium Chloride, Sodium Chorlide, Hydrochloric Acid, Sodium Hydroxide
+package_label_principal_display_panel:
+  Product label image description image description
+set_id:
+  2caf86c3-bf71-4fce-9fc0-28aa8dc2d256
+id:
+  2733c22c-7836-11d7-e063-6394a90a8344
+effective_time:
+  20241118
+version:
+  3
+openfda:

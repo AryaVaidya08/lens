@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Cosco Hand Saniitizer 80% Alcohol ALCOHOL ALCOHOL GLYCERIN AMINOMETHYLPROPANOL WATER ETHYLHEXYLGLYCERIN PHENOXYETHANOL CARBOMER 940
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 80% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Amniomethylpropanol, Carbomer, Ethylhexylglycerin, Glycerin, Phenoxyethanol, Water
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 60ml Label
+  Package Label - Principal Display Panel 120ml Label
+  Package Label - Principal Display Panel 240ml Label
+set_id:
+  85eb63ae-666f-48f6-90c0-cf4ef4ca4c09
+id:
+  66ae38d4-613b-424b-a0af-247dbf70d85d
+effective_time:
+  20200429
+version:
+  4
+openfda:

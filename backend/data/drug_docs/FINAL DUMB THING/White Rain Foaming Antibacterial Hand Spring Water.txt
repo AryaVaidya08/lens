@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  White Rain Foaming Antibacterial Hand Spring Water BENZALKONIUM CHLORIDE LAURAMINE OXIDE CETRIMONIUM CHLORIDE MYRISTAMINE OXIDE WATER GLYCERIN COCO GLUCOSIDE GLYCERYL OLEATE CITRIC ACID MONOHYDRATE SODIUM CHLORIDE EDETATE DISODIUM ANHYDROUS METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C BLUE NO. 1 BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses External for hand washing to decrease bacteria on the skin.
+warnings:
+  Warnings for external use only. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and consult a doctor if: irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and consult a doctor if: irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Pump into DRY hands. Lather vigorously for at least 15 seconds. Rinse and dry thoroughly.
+inactive_ingredient:
+  Inactive Ingredients Water(Aqua), Lauramine Oxide, Cetrimonium Chloride, Myristamine Oxide, Glycerin, Coco-Glucoside, Glyceryl Oleate, Fragrance(Parfum), Citric Acid, Sodium Chloride, Disodium EDTA, Methylchloroisothiazolinone, Methylisothiazolinone, FD&C Blue No.1, FD&C Red 33.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  b695b136-24be-4ee1-8452-8c45f9dcafd1
+id:
+  0a4d3bb3-2a76-06ab-e063-6394a90ac197
+effective_time:
+  20231116
+version:
+  4
+openfda:

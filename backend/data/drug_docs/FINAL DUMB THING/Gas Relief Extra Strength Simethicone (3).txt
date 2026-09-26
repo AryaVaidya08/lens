@@ -1,0 +1,33 @@
+effective_time:
+  20121026
+inactive_ingredient:
+  Inactive ingreients FD&C blue 1, FD&C yellow 5, gelatin, glycerin, purified water, titanium dioxide
+purpose:
+  Purpose Antiflatulent
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Stop use and ask a doctor if condition persists If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Gas Relief Extra Strength Simethicone DIMETHICONE DIMETHICONE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 GELATIN GLYCERIN WATER TITANIUM DIOXIDE GR
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions adults: swallow with water 1 or 2 softgels as needed after meals or at bedtime. Do not exceed 4 softgels per day, unless directed by doctor.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health care professional before use.
+stop_use:
+  Stop use and ask a doctor if condition persists
+storage_and_handling:
+  Other information store at a controlled room temperature 15-30°C (59-86°F) protect from heat and moisture
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel image description
+indications_and_usage:
+  Uses For Relief of: Bloating Pressure Fullness stuffed feeling commonly referred to as gas
+set_id:
+  f424e579-4a1a-4973-8386-6eec6b57fc0b
+id:
+  f9c0247e-48e0-40c8-8c96-26b081ade220
+active_ingredient:
+  Active Ingredients (in each softgel) Simethicone 125mg

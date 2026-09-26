@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Sea Salt Anticavity SALT47 gently scrubs away surface stains / fights bad breath germs / strengthens enamel Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION WATER SORBITOL HYDRATED SILICA XYLITOL GLYCERIN SODIUM CHLORIDE SODIUM LAURYL SULFATE ZINC CITRATE PEPPERMINT OIL XANTHAN GUM CARRAGEENAN Refreshing Mint
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or dial (412) 390-3381 right away (Poison Control Center).
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or dial (412) 390-3381 right away (Poison Control Center).
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea-sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="60%" styleCode="Noautorules"><col width="30%" align="left" valign="top"/><col width="70%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to 6 years</td><td>use only a pea-sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode="Rrule">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients water, sorbitol, hydrated silica, xylitol, glycerin, sodium chloride, sodium lauryl sulfate, zinc citrate, natural flavor peppermint oil and other natural flavor , xanthan gum, carrageenan.
+questions:
+  Questions? 1-800-FOR-TOMS (1-800-367-8667)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 133 g Tube Carton 4.7 OZ (133 g) SINCE 1970 Tom's ® OF MAINE natural with fluoride SEA SALT anticavity toothpaste gently scrubs away surface stains fights bad breath germs strengthens enamel refreshing mint with purified sea salt PRINCIPAL DISPLAY PANEL - 133 g Tube Carton
+set_id:
+  a743bb22-bf93-4d10-820a-0a43bd1cb1d7
+id:
+  8fad49ca-e8f0-4b1c-bf86-5b3c1e5b7168
+effective_time:
+  20251029
+version:
+  6
+openfda:

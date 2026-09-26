@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  VENISHOO MY1CART HAND SANITIZER alcohol GLYCERIN WATER TROLAMINE ALCOHOL ALCOHOL BUTYLENE GLYCOL
+active_ingredient:
+  ethanol
+purpose:
+  ■ sterilization of hands and skin
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+warnings:
+  ■ Flammable. Keep away from fire or flame. ■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children.
+dosage_and_administration:
+  for external use only
+inactive_ingredient:
+  Water, Alcohol,Butylene Glycol, Polyoxyethylene, Glycerin, Carbomer, Fragrance, Triethanolamine
+indications_and_usage:
+  wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+package_label_principal_display_panel:
+  label
+set_id:
+  a64f31fd-4271-5a26-e053-2a95a90adb14
+id:
+  a64f31fd-4272-5a26-e053-2a95a90adb14
+effective_time:
+  20200523
+version:
+  1
+openfda:

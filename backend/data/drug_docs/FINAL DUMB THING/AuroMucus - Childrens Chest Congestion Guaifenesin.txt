@@ -1,0 +1,35 @@
+effective_time:
+  20201209
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, edetate disodium, FD&C blue #1, FD&C red #40, flavor, glycerin, propylene glycol, propyl gallate, purified water, sodium benzoate, sodium citrate, sorbitol, sucralose, xanthan gum.
+purpose:
+  Purpose Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+warnings:
+  Warnings Ask a doctor before use if the child has cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with asthma
+questions:
+  Questions or Comments? 1-855-274-4122 You may also report side effects to this phone number. Distributed by : Aurohealth LLC. 2572 Brunswick Pike, Lawrenceville, NJ 08648
+spl_product_data_elements:
+  AuroMucus - Childrens Chest Congestion Guaifenesin GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C BLUE NO. 1 FD&C RED NO. 40 GRAPE GLYCERIN PROPYLENE GLYCOL PROPYL GALLATE WATER SODIUM BENZOATE SODIUM CITRATE, UNSPECIFIED FORM SORBITOL SUCRALOSE XANTHAN GUM
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions measure only with dosing cup provided do not use dosing cup with other products mL = milliliter; tsp = teaspoon Age Dose Children 6 years to under 12 years 5 mL (1 tsp) to 10 mL (2 tsp) orally every 4 hours, not to exceed 6 doses in 24 hours Children 4 years to under 6 years 2.5 mL (1/2 tsp) to 5 mL (1 tsp) orally every 4 hours, not to exceed 6 doses in 24 hours Children under 4 years do not use unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+storage_and_handling:
+  Other information tamper evident: do not use if printed seal under cap is torn or missing store at 20-25°C (68-77°F) do not refrigerate dosing cup provided see bottom panel for lot number and expiration date
+package_label_principal_display_panel:
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL 4 FL OZ (118 mL Bottle) AUROHEALTH NDC 58602-107-24 Compare to the active ingredient in Children's MUCINEX® Chest Congestion* AuroMucus Children's Chest Congestion Guaifenesin oral solution 100 mg per 5 mL Expectorant Chest Congestion Breaks up Mucus DOSING CUP INCLUDED Alcohol-free Grape Flavor Syrup 4 FL OZ (118 mL) PACKAGE LABEL-PRINCIPAL DISPLAY PANEL 4 FL OZ (118 mL Bottle)
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+set_id:
+  34f2b315-5144-42c1-89b7-b8a55ef5ad84
+id:
+  346dc7c4-e820-453e-9c00-5e023a30e16d
+active_ingredient:
+  Drug Facts Active ingredient (in each 5 mL (tsp) dose) Guaifenesin, USP 100 mg
+dosage_and_administration_table:
+  <table cellspacing="0" cellpadding="0" border="0" width="636.804"><colgroup><col width="39.6616541353384%"/><col width="60.3383458646617%"/></colgroup><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule" align="center" valign="top"><content styleCode="bold">Age</content> </td><td styleCode="Rrule" align="center" valign="top"><content styleCode="bold">Dose</content> </td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="top">Children 6 years to under 12 years </td><td styleCode="Rrule" valign="top">5 mL (1 tsp) to 10 mL (2 tsp) orally every 4 hours, not to exceed 6 doses in 24 hours </td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="top">Children 4 years to under 6 years </td><td styleCode="Rrule" valign="top">2.5 mL (1/2 tsp) to 5 mL (1 tsp) orally every 4 hours, not to exceed 6 doses in 24 hours </td></tr><tr><td styleCode="Lrule Rrule" valign="top">Children under 4 years </td><td styleCode="Rrule" valign="top">do not use unless directed by a doctor </td></tr></tbody></table>

@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Walgreens Saline Mist Extra Strength Sodium Chloride WATER SODIUM CHLORIDE CHLORIDE ION
+active_ingredient:
+  Active Ingredient Sodium Chloride 3.0% Sterile, Hypertonic Saline Solution, Sodium Bicarbonate to adjust pH
+purpose:
+  Purpose Nasal Wash
+inactive_ingredient:
+  Inactive ingredients Purfied Water
+indications_and_usage:
+  Uses Nasal congestion Removes inhaled irritants (dust, dirt, pollen) Moisturizes dry nasal passages
+dosage_and_administration:
+  Directions For nasal use only. Before use, expel a shoet stream of mist into the air. Insert tip of nozzle into one nostril and press down on the textured area at the base of the nozzle so that a gentle mist coats nasal passages. Blow your nose very gently to clear the mucus out. Repeat for the other nostriil. To flush and irrigate, tilt head to the side over sink. Insert top of nozzle into the top nostril, pressing down on the textured area at the base of the nozzle so that a gentle mist fills sinus passages and flows out the opposite nostril. Repeat in other nostril. Wipe nozzle after each use. USE AS OFTEN AS NEEDED NON-HABIT FORMING NON-ADDICTING
+warnings:
+  Warnings Warnings Use of this product by more than one person may spread infection Contents under pressure Do not puncture or incinerate Avoid spraying in eyes
+keep_out_of_reach_of_children:
+  Keep out of reach of chlidren. Adults and children 4 years and over: Use as often as needed Children under 4 years: Consult a physician See directions on can for complere instructions
+keep_out_of_reach_of_children_table:
+  <table border="0" width="100%"><tbody><tr><td>Adults and children 4 years and over:</td><td>Use as often as needed</td></tr><tr><td>Children under 4 years:</td><td>Consult a physician</td></tr></tbody></table>
+package_label_principal_display_panel:
+  Saline Nasal Spray product label label
+set_id:
+  90cbe2dc-36b6-77fb-e053-2995a90a2897
+id:
+  29916ddc-d3ee-e4d8-e063-6294a90a369a
+effective_time:
+  20241218
+version:
+  3
+openfda:
+  brand_name:
+    Walgreens Saline Mist Extra Strength
+  generic_name:
+    SODIUM CHLORIDE
+  manufacturer_name:
+    Walgreen's Corporation
+  product_ndc:
+    0363-1505
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    SODIUM CHLORIDE
+  rxcui:
+    724590
+  spl_id:
+    29916ddc-d3ee-e4d8-e063-6294a90a369a
+  spl_set_id:
+    90cbe2dc-36b6-77fb-e053-2995a90a2897
+  package_ndc:
+    0363-1505-60
+  is_original_packager:
+    True
+  unii:
+    451W47IQ8X

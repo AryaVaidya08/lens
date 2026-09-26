@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  COOLA Mineral Liplux Lip Balm SPF 30 Summer Crush Zinc Oxide SCHINZIOPHYTON RAUTANENII SEED OIL OCTYLDODECYL OLEATE THEOBROMA GRANDIFLORUM SEED BUTTER TITANIUM DIOXIDE TITANIUM DIOXIDE STANNIC OXIDE POLYHYDROXYSTEARIC ACID (2300 MW) OLIVE OIL D&C RED NO. 7 HYDROGENATED CASTOR OIL OCTYLDODECYL PCA FERRIC OXIDE RED ZINC OXIDE ZINC OXIDE COCONUT OIL CARNAUBA WAX AVOCADO OIL COCOA BUTTER HELIANTHUS ANNUUS SEED WAX ACACIA DECURRENS FLOWER WAX POLYGLYCERIN-3 CAESALPINIA SAPPAN BARK MICA ROSEMARY SHEA BUTTER JOJOBA OIL, RANDOMIZED SUNFLOWER OIL C18-38 ALKYL HYDROXYSTEAROYL STEARATE STEVIA REBAUDIANA WHOLE TRIETHOXYCAPRYLYLSILANE SILICON DIOXIDE
+active_ingredient:
+  Titanium Dioxide 3.6% Zinc Oxide 3.0%
+purpose:
+  Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Stop use and ask doctor if skin rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure & again after 80 minutes of swimming or sweating. Apply at least every 2 hours. Sun Protection Measures - To decrease your risk of cancer and early skin aging, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. to 2 p.m. and wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  Acacia Decurrens Flower Wax, Butyrospermum Parkii (ORGANIC Shea Butter), C18-38 Alkyl Hydroxystearoyl Stearate, Caesalpinia Sappan Bark Extract, Cocos Nucifera (ORGANIC Coconut) Oil, Copernicia Cerifera (ORGANIC Carnauba) Wax, Flavor, Helianthus Annuus (ORGANIC Sunflower) Seed Oil, Helianthus Annuus (Sunflower) Seed Wax, Hydrogenated Castor Oil, Iron Oxides, Jojoba Esters, Mica, Octyldodecyl Oleate, Octyldodecyl PCA, Olea Europaea (ORGANIC Olive) Fruit Oil, Persea Gratissima (ORGANIC Avocado) Oil, Polyglycerin-3, Polyhydroxystearic Acid, Red Lake 7, Rosmarinus Officinalis (ORGANIC Rosemary) Leaf Extract, Schinziophyton Rautanenii Kernel Oil (ORGANIC), Silica, Stevia Rebaudiana Extract, Theobroma Cacao (ORGANIC Cocoa) Seed Butter, Theobroma Grandiflorum Seed Butter (ORGANIC), Tin Oxide, Triethoxycaprylsilane
+other_safety_information:
+  Protect this product from excessive heat and direct sun.
+questions:
+  Call 760-940-2125
+package_label_principal_display_panel:
+  1
+set_id:
+  edc6754e-dabb-5bff-e053-2a95a90a7390
+id:
+  106b77f6-5900-2120-e063-6294a90af8d0
+effective_time:
+  20240202
+version:
+  4
+openfda:
+  application_number:
+    M020
+  brand_name:
+    COOLA Mineral Liplux Lip Balm SPF 30 Summer Crush
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    COOLA, LLC
+  product_ndc:
+    79753-057
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    106b77f6-5900-2120-e063-6294a90af8d0
+  spl_set_id:
+    edc6754e-dabb-5bff-e053-2a95a90a7390
+  package_ndc:
+    79753-057-01
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

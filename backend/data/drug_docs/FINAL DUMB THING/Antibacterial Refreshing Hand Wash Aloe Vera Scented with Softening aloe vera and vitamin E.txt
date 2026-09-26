@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Antibacterial Refreshing Hand Wash Aloe Vera Scented with Softening aloe vera and vitamin E BENZALKONIUM CHLORIDE WATER COCAMIDOPROPYL BETAINE COCAMIDOPROPYLAMINE OXIDE BENZYL ALCOHOL GLYCERIN ACETYLTRIETHYL CITRATE PHENOXYETHANOL .ALPHA.-TOCOPHEROL ACETATE, D- FD&C RED NO. 3 FD&C BLUE NO. 1 FD&C YELLOW NO. 5 BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.15% Purpose Antibacterial USE Helps eliminate bacteria on hands
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  USE Helps eliminate bacteria on hands
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes; in case of contact, flush eyes with water. Stop use and ask a doctor if irritation and redness develops and persists. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  When using this product avoid contact with eyes; in case of contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops and persists.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply onto wet hands working into a lather. Rinse thorougly.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Cocamidopropyl Betaine, Cocamidopropylamine Oxide, Hydroxethylcellulose, Fragrance (Parfum), Phenoxyethanol, Bezyl Alcohol, Glycerin, Citric Acid, Tocopheryl Acetate, Aloe Barbadensis Leaf Extract, D&C Red No. 33 (Cl 17200), FD&C Yellow 5, FD&C Blue No. 1 (Cl 42090).
+package_label_principal_display_panel:
+  Hand wash 480 ml label image
+set_id:
+  99ab1837-dbb7-421b-bb93-ab89693b8ffc
+id:
+  852df19e-6b51-457a-906f-4df32eb48a0d
+effective_time:
+  20200617
+version:
+  1
+openfda:

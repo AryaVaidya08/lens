@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Sleep Aid Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ANHYDROUS CITRIC ACID GLYCERIN PROPYLENE GLYCOL WATER SODIUM BENZOATE SODIUM CHLORIDE SUCRALOSE XANTHAN GUM TRISODIUM CITRATE DIHYDRATE Mixed
+active_ingredient:
+  Active ingredient (in each 30 mL dose cup) Diphenhydramine HCl 50 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Uses for relief of occasional sleeplessness reduces time to fall asleep if you have difficulty falling asleep
+warnings:
+  Warnings Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product avoid alcoholic beverages. Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use for children under 12 years of age with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product avoid alcoholic beverages.
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of a serious underlying medical illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions do not take more than directed mL = milliliter; TBSP = tablespoon; FL OZ = fluid ounce use only enclosed dosing cup designed for use with this product. Do not use any other dosing device. take only one dose per day (24 hours) adults and children 12 years and over: take 30 mL (2 TBSP) in the dosing cup provided at bedtime if needed or as directed by a doctor children under 12 years: do not use
+storage_and_handling:
+  Other information each 30 mL dose cup contains: sodium 17 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) use by expiration date on package
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, flavor, glycerin, propylene glycol, purified water, sodium benzoate, sodium chloride, sodium citrate dihydrate, sucralose, xanthan gum
+questions:
+  Questions or comments? 1-800-426-9391
+package_label_principal_display_panel:
+  Principal display panel CVS Health ™ Compare to the active ingredient in VICKS ® ZzzQuil™ NIGHTTIME SLEEP-AID* Alcohol Free Nighttime Sleep Aid DIPHENHYDRAMINE HCl, 50 mg Nighttime Sleep Aid Non-habit forming Not for treating cold or flu DYE FREE Berry Flavor 12 FL OZ (355 mL) *This product is not manufactured or distributed by Procter & Gamble, owner of the registered trademark VICKS® ZzzQuil™ NIGHTTIME SLEEP-AID. Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2019 CVS/pharmacy CVS.com® 1-800-SHOP CVS V-11112 50844 ORG101704402 CVS Health 44-044 CVS Health 44-044
+set_id:
+  94710df9-c095-449c-9353-15c2d1873232
+id:
+  a78d946c-0842-4a67-be5d-8b8fa86ae5c3
+effective_time:
+  20201123
+version:
+  4
+openfda:

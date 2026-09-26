@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Isopropyl Alcohol Isopropyl Alcohol FD&C BLUE NO. 1 GLYCERIN METHYL SALICYLATE WATER FD&C YELLOW NO. 5 ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active ingredients Isopropyl alcohol 70%
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Uses first aid to help prevent the risk of infection in: minor cuts scrapes burns
+warnings:
+  Warnings For external use only. If taken internally serious gastric disturbances will result.
+spl_unclassified_section:
+  Flammable keep away from fire or flame, heat, spark, electrical
+  Caution Fumes can be acutely irritating to skin, eyes and the respiratory system. Do not apply to irritated skin or if excessive irritation develops. Avoid gettting into the eyes or on mucous membranes. Avoid inhaling this product.
+  Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol
+  DISTRIBUTED BY: Walmart Inc., Bentonville, AR 72716
+ask_doctor:
+  Ask a doctor before use for deep or puncture wounds, animal bites or serious burns
+when_using:
+  When using this product do not get into eyes do not inhale do not apply over large areas of the body do not use longer than 1 week
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions clean the affected area apply a small amount of this product on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first
+inactive_ingredient:
+  Inactive ingredients blue 1, glycerin, methyl salicylate, water, yellow 5
+questions:
+  Questions or Comments? 1-888-2871915
+package_label_principal_display_panel:
+  Principal display panel NDC 49035-651-43 equate 70% Isopropyl Alcohol with WINTERGREEN & GLYCERIN First Aid Antiseptic WARNING FLAMMABLE - Keep away from heat, spark, electrical, fire or flame Use only in a well-ventilated area; fumes can be harmful CAUTION: Do not point at self or others; product will squirt when squeezed. Discard Seal & Empty Before Recycling PLASTIC BOTTLE how2recycle.info 16 FL OZ (1 PT) 473mL image description
+set_id:
+  614b1c93-17b4-45ad-9f0f-5b2b6bb6d343
+id:
+  248864ee-f0e2-9e57-e063-6394a90a3265
+effective_time:
+  20241015
+version:
+  9
+openfda:

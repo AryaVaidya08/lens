@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Moonlite Antibacterial Benzalkonium Chloride LAURAMIDOPROPYLAMINE OXIDE LAURYL GLUCOSIDE PEG-150 DISTEARATE GLYCOL STEARATE WATER PEG-7 GLYCERYL COCOATE CITRIC ACID MONOHYDRATE CETRIMONIUM CHLORIDE EDETATE SODIUM ISOPROPYL MYRISTATE ALOE VERA LEAF METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM .ALPHA.-TOCOPHEROL ACETATE
+active_ingredient:
+  Benzalkonium Chloride - 0.13%
+purpose:
+  Purpose - Antiseptique(skin)cleanser
+indications_and_usage:
+  Uses Effective in destorying(harmful) bacteria to provide antiseptic cleansing.
+warnings:
+  Warning For external use only
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops
+when_using:
+  When using the product avoid contact wiith eyes. If contact occurs rinse eye thoroughly with water
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Direction Adults and children over 2 year For occasional and personal domestic use Supervise children when use this product Lather in hands with water for at least 30 seconds Rinse well
+other_safety_information:
+  S tore below 110F(43) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Water,Lauramidopropylamine Oxide ( Triaminox LO ), Lauryl Glucoside, Citric Acid, PEG-150 distearate, Glycol Stearate, PEG-7 Glyceryl Cocoate,Cetrimonium Chloride, Tetrasodium EDTA,Isopropyl myristate, Aloe Leaf, Tocopheryl Acetate, Methylchloroisothiazolinone, Methylisothiazolinone,
+package_label_principal_display_panel:
+  1
+set_id:
+  9fce89e5-812f-405e-a42a-3bda4cf4030d
+id:
+  b0000e40-a63a-9263-e053-2a95a90a2f5f
+effective_time:
+  20200923
+version:
+  2
+openfda:

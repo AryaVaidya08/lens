@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Oil Free Acne Wash Salicylic Acid 2% SALICYLIC ACID SALICYLIC ACID SODIUM C14-16 OLEFIN SULFONATE WATER COCAMIDOPROPYL BETAINE GLYCERIN SODIUM CHLORIDE DECYL GLUCOSIDE EDETATE DISODIUM ANHYDROUS LINOLEAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE PROPYLENE GLYCOL ALOE VERA LEAF CHAMAEMELUM NOBILE FLOWER CHAMOMILE FD&C YELLOW NO. 5 FD&C RED NO. 40
+active_ingredient:
+  Active ingredient Salicylic acid 2%
+purpose:
+  Purpose Acne medication
+indications_and_usage:
+  Use for the treatment of acne
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use up to twice daily. Wet face, apply to hands, add water and work into lather. Massage face gently. Rinse well. avoid contact with eyes. If contact occurs, flush thoroughly with water.
+other_safety_information:
+  Other information Store between 32°F and 105°F (0°C and 41C)
+inactive_ingredient:
+  Inactive ingredients water, sodium C14-16 olefin sulfonate, cocamidopropyl betaine, glycerin, sodium chloride, decyl glucoside, disodium EDTA, fragrance, linoleamidopropyl PG-dimonium chloride phosphate, propylene glycol, Aloe barbadensis leaf extract, Anthemis nobilis flower extract, Chamomilla recutita (matricaria) flower extract, yellow 5, red 40
+spl_unclassified_section:
+  Disclaimer *This product is not manufactured or distributed by Kenvue, Inc., distributer of Neutrogena ® Oil Free Acne Wash.
+adverse_reactions:
+  ADVERSE REACTION "SATISFACTION GUARANTEED OR YOUR MONEY BACK." Manufactured For Your Military Exchanges By: Nice-Pak Products, LLC St. Louis, MO 63114 1-888-593-0593
+package_label_principal_display_panel:
+  Principal display panel Compare to Neutrogena ® Oil-Free Acne Wash* exchange select™ Acne Wash Salicylic acid acne treatment PARABEN FREE dermatologist tested effective yet gentle cleanser quality value 6 FL OZ (177 mL) image description image description
+set_id:
+  57f06989-3ffa-4cd3-bde5-9d3cc639ac4d
+id:
+  5a1ddafa-da22-edc6-e063-6394a90ae802
+effective_time:
+  20260828
+version:
+  15
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Oil Free Acne Wash
+  generic_name:
+    SALICYLIC ACID 2%
+  manufacturer_name:
+    Your Military Exchanges
+  product_ndc:
+    55301-947
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    5a1ddafa-da22-edc6-e063-6394a90ae802
+  spl_set_id:
+    57f06989-3ffa-4cd3-bde5-9d3cc639ac4d
+  package_ndc:
+    55301-947-06
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

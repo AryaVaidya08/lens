@@ -1,0 +1,27 @@
+effective_time:
+  20140717
+inactive_ingredient:
+  water, ethanol, hydrolized collagen, tocopheryl acetate, polysorbate 80, niacinamide, phenoxy ethanol, citric acid, methyl paragen, menthol, green tea ext, fragrance
+purpose:
+  hair loss prevention and hair grower
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - do not use the product on wounds or areas with abnomalities such as eczema and inflammation - storage and handling make sure to close the lid after use keep away from children and infants store away from too high or low temperatures and direct sunlight
+spl_product_data_elements:
+  Narasoo Hair Tonic SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID NIACINAMIDE MENTHOL WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package insert
+indications_and_usage:
+  apply a proper amount on the scalp and massage with your finger
+set_id:
+  f1a7fbbb-8bc0-475d-ace3-808ab94ee3cf
+id:
+  bbdc50eb-77ac-4b8b-b0ac-a046f4487890
+active_ingredient:
+  salicylic acid

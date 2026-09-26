@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  Laxative Pills Maximum Strength Sennosides SENNOSIDES SENNOSIDES ACACIA AMMONIA CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE CALCIUM SULFATE ANHYDROUS CARNAUBA WAX STARCH, CORN CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS FD&C BLUE NO. 1 ALUMINUM OXIDE HYPROMELLOSES FERRIC OXIDE RED FERROSOFERRIC OXIDE FERRIC OXIDE YELLOW ISOPROPYL ALCOHOL KAOLIN MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE BUTYL ALCOHOL POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE PROPYLENE GLYCOL SHELLAC SILICON DIOXIDE SODIUM LAURYL SULFATE STEARIC ACID SUCROSE TALC TITANIUM DIOXIDE WHITE WAX CALCIUM CARBONATE MALTODEXTRIN POLYVINYL ALCOHOL, UNSPECIFIED TCL083;S25
+active_ingredient:
+  Active ingredient (in each tablet) Sennosides USP, 25 mg
+purpose:
+  Purpose Stimulant laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use laxative products when abdominal pain, nausea, or vomiting are present unless directed by a doctor. Ask a doctor before use if you have noticed a sudden change in bowel habits that persists over a period of 2 weeks Ask a doctor or pharmacist before use if you are taking a prescription drug. Laxatives may affect how other drugs work. Take this product 2 or more hours before or after other drugs. When using this product do not use for a period longer than 1 week Stop use and ask a doctor if rectal bleeding or failure to have a bowel movement occur after use of a laxative. These may be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use laxative products when abdominal pain, nausea, or vomiting are present unless directed by a doctor.
+ask_doctor:
+  Ask a doctor before use if you have noticed a sudden change in bowel habits that persists over a period of 2 weeks
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Laxatives may affect how other drugs work. Take this product 2 or more hours before or after other drugs.
+when_using:
+  When using this product do not use for a period longer than 1 week
+stop_use:
+  Stop use and ask a doctor if rectal bleeding or failure to have a bowel movement occur after use of a laxative. These may be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions swallow tablet(s) with a glass of water swallow tablet(s) whole, do not crush, break, or chew adults and children 12 years of age and older take 2 tablets once or twice daily children 6 to under 12 years of age take 1 tablet once or twice daily children under 6 years of age ask a doctor
+dosage_and_administration_table:
+  <table><col/><col/><tbody><tr><td styleCode=" Botrule Rrule"> adults and children 12 years of age and older</td><td styleCode=" Botrule"> take 2 tablets once or twice daily</td></tr><tr><td styleCode=" Botrule Rrule"> children 6 to under 12 years of age</td><td styleCode=" Botrule"> take 1 tablet once or twice daily</td></tr><tr><td styleCode=" Botrule Rrule"> children under 6 years of age</td><td styleCode=" Botrule"> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 50 mg very low sodium store between 20-25ºC (68-77ºF)
+inactive_ingredient:
+  Inactive ingredients acacia, ammonium hydroxide*, calcium carbonate*,, calcium phosphate dihydrate*, calcium sulfate anhydrous*, carnauba wax, corn starch*, croscarmellose sodium, dicalcium phosphate*, FD&C blue #1 aluminum lake, hypromellose*, iron oxide*, iron oxide black, iron oxide yellow*, isopropyl alcohol*, kaolin*, magnesium stearate, maltodextrin, microcrystalline cellulose, mineral oil*, n-butyl alcohol*, polyethylene glycol, polyvinyl alcohol*, povidone*, propylene glycol*, shellac, silicon dioxide*, sodium lauryl sulfate*, stearic acid*, sucrose, talc, titanium dioxide, white wax* *contains one or more of these ingredients
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the Active Ingredient in ex-lax® Maximum Strength† MAXIMUM STRENGTH LAXATIVE PILLS Sennosides 25 mg FOR GENTLE, DEPENDABLE OVERNIGHT RELIEF STIMULANT LAXATIVE Pills †This product is not manufactured or distributed by GlaxoSmithKline plc, distributor of Ex-Lax®. TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY FOODHOLD U.S.A. LLC LANDOVER, MD 20785 1-877-846-9949
+  Product Label CAREONE Maximum Strength Laxative Pills Sennosides USP, 25 mg
+set_id:
+  f3614681-d4fe-449c-b7c7-f2bce50cf85f
+id:
+  82e9a243-8e33-4a65-bf68-32e923031d62
+effective_time:
+  20221121
+version:
+  5
+openfda:

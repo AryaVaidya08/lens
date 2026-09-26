@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  anti itch Diphenhydramine Hydrochloride, Zinc Acetate DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ZINC ACETATE ZINC CATION CETYL ALCOHOL DIAZOLIDINYL UREA METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER DIETHYLENE GLYCOL MONO- AND DIPALMITOSTEARATE PEG-20 STEARATE
+active_ingredient:
+  Active ingredients Diphenhydramine hydrochloride 2% Zinc acetate 0.1%
+purpose:
+  Purpose Topical analgesic Skin protectant
+indications_and_usage:
+  Uses • temporarily relieves pain and itching associated with: • insect bites • minor burns • sunburn • minor skin irritations • minor cuts • scrapes • rashes due to poison ivy, poison oak and poison sumac • dries the oozing and weeping of poison ivy, poison oak and poison sumac
+warnings:
+  Warnings For external use only Do not use • on large areas of the body • with any other product containing diphenhydramine, even one taken by mouth Ask a doctor before use • on chicken pox • on measles When using this product • avoid contact with the eyes Stop use and ask a doctor if • condition worsens or does not improve within 7 days • symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use • on large areas of the body • with any other product containing diphenhydramine, even one taken by mouth
+ask_doctor:
+  Ask a doctor before use • on chicken pox • on measles
+when_using:
+  When using this product • avoid contact with the eyes
+stop_use:
+  Stop use and ask a doctor if • condition worsens or does not improve within 7 days • symptoms persist for more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • do not use more than directed • adults and children 2 years of age and older: apply to affected area no more than 3 to 4 times daily • children under 2 years of age: ask a doctor
+storage_and_handling:
+  Other information • store at 20°-25°C (68°-77°F)
+inactive_ingredient:
+  Inactive ingredients cetyl alcohol, diazolidinyl urea, methylparaben, PEG-2 stearate, PEG-20 stearate, propylene glycol, propylparaben, purified water
+questions:
+  Questions or comments? 1-800-632-6900
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO active ingredients of EXTRA STRENGTH BENADRYL® ITCH STOPPING CREAM See back panel Extra Strength Anti-Itch Cream Topical Analgesic/Skin Protectant Relieves Itches from Insect Bites & Skin Irritations NET WT 1 OZ (28g) 622-45-anti-itch-cream.jpg
+set_id:
+  067e718a-ec0b-4895-8f9f-82d64ab4c7b4
+id:
+  0094038d-3be4-4d91-b75d-f5a29c8dbb4b
+effective_time:
+  20240924
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    anti itch
+  generic_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE, ZINC ACETATE
+  manufacturer_name:
+    Kroger Company
+  product_ndc:
+    30142-582
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+    ZINC ACETATE
+  rxcui:
+    1087026
+  spl_id:
+    0094038d-3be4-4d91-b75d-f5a29c8dbb4b
+  spl_set_id:
+    067e718a-ec0b-4895-8f9f-82d64ab4c7b4
+  package_ndc:
+    30142-582-64
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40
+    FM5526K07A

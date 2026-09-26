@@ -1,0 +1,41 @@
+effective_time:
+  20130128
+contraindications:
+  CONTRAINDICATIONS Known hypersensitivity to any of the listed ingredients.
+precautions:
+  PRECAUTIONS This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use. PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Urea Cream 40% should be given to a pregnant woman only if clearly needed. NURSING MOTHERS: It is not known whether or not this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Urea Cream 40% is administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+warnings:
+  WARNINGS For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Urea Cream 40% should be given to a pregnant woman only if clearly needed.
+spl_patient_package_insert:
+  INSTRUCTIONS FOR USE fougera ® UREA CREAM 40% Rx only Steps to help gently thin and soften areas of thick, rough or dry skin, as well as damaged, diseased or devitalized and ingrown nails. See back page for full prescribing information, including Indications and Uses. For skin: Apply Urea Cream 40% to affected skin twice per day, or as directed by a physician. Rub in until completely absorbed. For nail(s): Apply Urea Cream 40% to affected nail(s) twice per day, or as directed by a physician. Let dry uncovered or apply and cover with adhesive bandage or gauze secured with adhesive tape.
+nursing_mothers:
+  NURSING MOTHERS: It is not known whether or not this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Urea Cream 40% is administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+spl_product_data_elements:
+  Urea Urea UREA UREA WATER CARBOMER HOMOPOLYMER TYPE C PROPYLENE GLYCOL XANTHAN GUM PETROLATUM MINERAL OIL CETYL ALCOHOL TROLAMINE
+description:
+  DESCRIPTION Urea Cream 40% is a keratolytic emollient which is a gentle, yet potent, tissue softener for nails and/or skin. Each gram of Urea Cream 40% contains 40% urea and the following inactive ingredients: carbomer, cetyl alcohol, glyceryl stearate, mineral oil, petrolatum, propylene glycol, purified water, triethanolamine and xanthan gum. Urea is a diamide of carbonic acid with the following chemical structure: Chemical Structure
+openfda:
+version:
+  4
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Apply Urea Cream 40% to affected skin twice per day, or as directed by a physician. Rub in until cream is completely absorbed. Apply to diseased or damaged nail(s) twice per day, or as directed by a physician.
+adverse_reactions:
+  ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+spl_unclassified_section:
+  Rx only For external use only. Not for ophthalmic use.
+how_supplied:
+  HOW SUPPLIED Urea Cream 40% is supplied as a: 85 g (3 oz) tube, NDC 54868-5880-1 198.6 g (7 oz) tube, NDC 54868-5880-0 Store at room temperature 15˚-30˚ C (59˚-86˚ F). Protect from freezing. Manufactured for: E. FOUGERA & CO. A division of Nycomed US Inc. Melville, New York 11747 Manufactured by: Groupe PARIMA, Inc. Montreal, QC H4S 1X6 CANADA IL273A R9/08 Relabeling of "Additional Barcode Label" by: Physicians Total Care, Inc. Tulsa, OK 74146
+package_label_principal_display_panel:
+  PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 7 OZ Rx only Urea Cream 40% For Topical Use Only NET WT. 7 OZ (198.6 g) image of package label
+pharmacokinetics:
+  PHARMACOKINETICS: The mechanism of action of topically applied urea is not yet known.
+indications_and_usage:
+  INDICATIONS AND USES For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis pilaris, keratosis palmaris, keratoderma, corns and calluses, as well as damaged, ingrown and devitalized nails.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Urea gently dissolves the intercellular matrix which results in loosening the horny layer of skin and shedding scaly skin at regular intervals, thereby softening hyperkeratotic areas. Urea also hydrates and gently dissolves the intercellular matrix of the nail plate, which can result in the softening and eventual debridement of the nail plate. PHARMACOKINETICS: The mechanism of action of topically applied urea is not yet known.
+set_id:
+  28616619-32a7-4048-a9d7-2bccfc652653
+id:
+  cf3e156c-c066-4117-882e-8aba0861f2c4

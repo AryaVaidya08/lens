@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  Nystatin Nystatin ALGELDRATE CETEARETH-15 GLYCERYL MONOSTEARATE PROPYLENE GLYCOL AQUA DIMETHICONE SORBITOL CI 77891 PETROLATUM METHYLPARABEN PROPYLPARABEN SODIUM HYDROXIDE POLYETHYLENE GLYCOL 400 NYSTATIN NYSTATIN
+description:
+  DESCRIPTION Nystatin is a polyene antifungal antibiotic obtained from Streptomyces nursei . Structural formula: C 47 H 75 NO 17 Molecular Weight: 926.13 Nystatin Cream, USP is for dermatologic use. Nystatin cream for topical use, contains 100,000 USP nystatin units per gram in a cream base containing aluminum hydroxide gel, ceteareth-15, glyceryl monostearate, polyethylene glycol 400 monostearate, propylene glycol, purified water, simethicone emulsion, sorbitol solution, titanium dioxide, white petrolatum, methylparaben, propylparaben, and sodium hydroxide. image description
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY
+pharmacokinetics:
+  Pharmacokinetics Nystatin is not absorbed from intact skin or mucous membrane.
+microbiology:
+  Microbiology Nystatin is an antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi, including Candida albicans, C. parapsilosis, C. tropicalis, C. guilliermondi, C. pseudotropicalis, C. krusei, Torulopsis glabrata, Tricophyton rubrum, T. mentagrophytes . Nystatin acts by binding to sterols in the cell membrane of susceptible species resulting in a change in membrane permeability and the subsequent leakage of intracellular components. On repeated subculturing with increasing levels of nystatin, Candida albicans does not develop resistance to nystatin. Generally, resistance to nystatin does not develop during therapy. However, other species of Candida (C. tropicalis, C. guilliermondi, C. krusei, and C. stellatoides) become quite resistant on treatment with nystatin and simultaneously become cross resistant to amphotericin as well. This resistance is lost when the antibiotic is removed. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.
+indications_and_usage:
+  INDICATIONS AND USAGE Nystatin Cream, USP is indicated in the treatment of cutaneous or mucocutaneous mycotic infections caused by Candida albicans and other susceptible Candida species. This cream is not indicated for systemic, oral, intravaginal or ophthalmic use.
+contraindications:
+  CONTRAINDICATIONS Nystatin cream is contraindicated in patients with a history of hypersensitivity to any of its components.
+precautions:
+  PRECAUTIONS General Nystatin cream should not be used for the treatment of systemic, oral, intravaginal or ophthalmic infections. If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated. It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens.
+information_for_patients:
+  INFORMATION FOR THE PATIENT Patients using this medication should receive the following information and instructions: 1. The patient should be instructed to use this medication as directed (including the replacement of missed doses). This medication is not for any disorder other than that for which it is prescribed. 2. Even if symptomatic relief occurs within the first few days of treatment, the patient should be advised not to interrupt or discontinue therapy until the prescribed course of treatment is completed. 3. If symptoms of irritation develop, the patient should be advised to notify the physician promptly.
+laboratory_tests:
+  Laboratory Tests If there is a lack of therapeutic response, KOH smears, cultures or other diagnostic methods should be repeated.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, and Impairment of Fertility No long-term animal studies have been performed to evaluate the carcinogenic potential of nystatin. No studies have been performed to determine the mutagenicity of nystatin or the effects on male or female fertility.
+pregnancy:
+  Pregnancy Teratogenic Effects Category C Animal reproduction studies have not been conducted with any nystatin cream. It also is not known whether this cream can cause fetal harm when used by a pregnant woman or can affect reproductive capacity. Nystatin cream should be prescribed for a pregnant woman only if the potential benefit to the mother outweighs the potential risk to the fetus.
+nursing_mothers:
+  Nursing Mothers It is not known whether nystatin is excreted in human milk. Caution should be exercised when nystatin is prescribed for a nursing woman.
+pediatric_use:
+  Pediatric Use Safety and effectiveness have been established in the pediatric population from birth to 16 years. (See DOSAGE AND ADMINISTRATION . )
+geriatric_use:
+  Geriatric Use Clinical studies with nystatin cream did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+adverse_reactions:
+  ADVERSE REACTIONS The frequency of adverse events reported in patients using nystatin cream is less than 0.1%. The more common events that were reported include allergic reactions, burning, itching, rash, eczema, and pain on application. (See PRECAUTIONS: General . ) To report SUSPECTED ADVERSE REACTIONS, contact Cosette Pharmaceuticals, Inc. at 1-800-922-1038 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch .
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Adults and Pediatric Patients (Neonates and Older) Apply liberally to affected areas twice daily or as indicated until healing is complete.
+how_supplied:
+  HOW SUPPLIED Product: 50090-3772 NDC: 50090-3772-0 30 g in a TUBE / 1 in a CARTON
+package_label_principal_display_panel:
+  Nystatin Cream Label Image
+set_id:
+  a1b5ccb2-d0d6-46cc-b792-6920b50d0a03
+id:
+  0d638967-5c49-4e6f-9f51-2258ff5099a0
+effective_time:
+  20250515
+version:
+  10
+openfda:
+  application_number:
+    ANDA061966
+  brand_name:
+    Nystatin
+  generic_name:
+    NYSTATIN
+  manufacturer_name:
+    A-S Medication Solutions
+  product_ndc:
+    50090-3772
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    TOPICAL
+  substance_name:
+    NYSTATIN
+  rxcui:
+    543546
+  spl_id:
+    0d638967-5c49-4e6f-9f51-2258ff5099a0
+  spl_set_id:
+    a1b5ccb2-d0d6-46cc-b792-6920b50d0a03
+  package_ndc:
+    50090-3772-0
+  original_packager_product_ndc:
+    0713-0678
+  nui:
+    N0000175498
+    M0017172
+  pharm_class_epc:
+    Polyene Antifungal [EPC]
+  pharm_class_cs:
+    Polyenes [CS]
+  unii:
+    BDF1O1C72E

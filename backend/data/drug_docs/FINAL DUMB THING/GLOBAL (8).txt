@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  GLOBAL CARE INSTANT HAND SANITIZER 2OZ Ethyl Alcohol PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF CARBOMER 934 TRIETHANOLAMINE BENZOATE GLYCERIN WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Drug Facts Active ingredient Ethyl Alcohol 62 percent
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame.
+when_using:
+  When using this product, avoid contact with face, eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical advice. Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and rub into skin until dry. Children under 6 years of age should be supervised by an adult when using this product.
+inactive_ingredient:
+  Inactive ingredients: Water (Aqua), Aloe Barbadensis Leaf Juice, Carbomer, Fragrance, Glycerin, Propylene Glycol, Tocopheryl Acetate (Vitamin E), Triethanolamine
+package_label_principal_display_panel:
+  label
+set_id:
+  a69ffe66-e211-fbb2-e053-2995a90a1fdc
+id:
+  a69ffe66-e210-fbb2-e053-2995a90a1fdc
+effective_time:
+  20200501
+version:
+  1
+openfda:

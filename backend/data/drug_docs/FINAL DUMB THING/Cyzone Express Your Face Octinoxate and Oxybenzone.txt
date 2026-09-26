@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Cyzone Express Your Face Octinoxate and Oxybenzone WATER PROPYLENE GLYCOL CYCLOMETHICONE 6 CYCLOMETHICONE 5 GLYCERYL MONOSTEARATE ALKYL (C12-15) BENZOATE CETOSTEARYL ALCOHOL CETYL ALCOHOL GLYCERIN PANTHENOL PHENOXYETHANOL ISOPROPYL PALMITATE DIMETHICONE METHYLPARABEN PROPYLPARABEN ASIAN GINSENG XANTHAN GUM POLYOXYL 20 CETOSTEARYL ETHER ISOHEXADECANE TILIA CORDATA WOOD EDETATE SODIUM MANNITOL BUTYLPARABEN ETHYLPARABEN TROLAMINE HORSE CHESTNUT POLYSORBATE 80 ISOBUTYLPARABEN GLYCOGEN YEAST OAT WHEAT GERM WHEAT GERM OIL KIWI FRUIT SUNFLOWER OIL CALCIUM PANTOTHENATE CUCUMBER BIOTIN OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Purpose Octinoxate 5.5 % sunscreen OXYBENZONE 4.00% sunscreen
+active_ingredient_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th><content styleCode="italics">Active Ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr styleCode="Toprule"><td>Octinoxate 5.5 %</td><td>sunscreen</td></tr><tr styleCode="Botrule"><td>OXYBENZONE 4.00%</td><td>sunscreen</td></tr></tbody></table>
+purpose:
+  Active Ingredients Purpose Octinoxate 5.5 % sunscreen OXYBENZONE 4.00% sunscreen
+purpose_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th><content styleCode="italics">Active Ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr styleCode="Toprule"><td>Octinoxate 5.5 %</td><td>sunscreen</td></tr><tr styleCode="Botrule"><td>OXYBENZONE 4.00%</td><td>sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses Helps prevent sunburn Higher SPF gives more sunburn protection Provides minimal protection against sunburn
+warnings:
+  Warnings For external use only When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away. Directions Apply liberally before sun exposure and as needed
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally before sun exposure and as needed
+storage_and_handling:
+  Other information Sun alert: Limiting sun exposure, waring protective clothing, and using sunscreen may reduce the risk of skin aging, skin cancer, and other harmful effects of the sun.
+inactive_ingredient:
+  Inactive ingredients AQUA (WATER), PROPYLENE GLYCOL, CYCLOHEXASILOXANE, CYCLOPENTASILOXANE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, GLYCERYL STEARATE SE, C12-15 ALKYL BENZOATE, CETEARYL ALCOHOL, CETYL ALCOHOL, GLYCERIN, PANTHENOL, C12-14 PARETH-12, PHENOXYETHANOL, ISOPROPYL PALMITATE, GLYCERYL STEARATE, METHYL METHACRYLATE CROSSPOLYMER, DIMETHICONE, METHYLPARABEN, PROPYLPARABEN, PANAX GINSENG ROOT EXTRACT, XANTHAN GUM, CETEARETH-20, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, DIMETHICONE CROSSPOLYMER, PARFUM (FRAGRANCE), SODIUM ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, DIMETHICONOL, ISOHEXADECANE, TILIA CORDATA WOOD EXTRACT, TETRASODIUM EDTA, HYDROLYZED WHEAT PROTEIN, MANNITOL, BUTYLPARABEN, ETHYLPARABEN, TRIETHANOLAMINE, AESCULUS HIPPOCASTANUM SEED EXTRACT (AESCULUS HIPPOCASTANUM (HORSE CHESTNUT) SEED EXTRACT), POLYSORBATE 80, ISOBUTYLPARABEN, GLYCOGEN, PEG-60 ACEITE DE RICINO HIDROGENADO, FAEX EXTRACT (YEAST EXTRACT), AVENA SATIVA KERNEL EXTRACT (AVENA SATIVA (OAT) KERNEL EXTRACT), TRITICUM VULGARE GERM EXTRACT (TRITICUM VULGARE (WHEAT) GERM EXTRACT), TRITICUM VULGARE GERM OIL (TRITICUM VULGARE (WHEAT) GERM OIL), ACTINIDIA CHINENSIS FRUIT EXTRACT (ACTINIDIA CHINENSIS (KIWI) FRUIT EXTRACT), HELIANTHUS ANNUUS SEED OIL (HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL), CALCIUM PANTOTHENATE, CUCUMIS SATIVUS FRUIT EXTRACT (CUCUMIS SATIVUS (CUCUMBER) FRUIT EXTRACT), BIOTINUM (BIOTIN)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 60 g Bottle xpress your face crema facial hidratante multibeneficios FPS 10 cy°zone 60 g e (2.1 oz.) PRINCIPAL DISPLAY PANEL - 60 g Bottle
+set_id:
+  c8f8800f-d0e9-4479-9eeb-f670a84b5bba
+id:
+  342e9477-bb04-0a69-e063-6394a90a5cbe
+effective_time:
+  20250502
+version:
+  2
+openfda:

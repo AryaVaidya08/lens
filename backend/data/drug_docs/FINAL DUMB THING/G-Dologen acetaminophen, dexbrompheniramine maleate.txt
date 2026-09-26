@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  G-Dologen acetaminophen, dexbrompheniramine maleate DEXBROMPHENIRAMINE MALEATE DEXBROMPHENIRAMINE ACETAMINOPHEN ACETAMINOPHEN STARCH, CORN HYPROMELLOSE, UNSPECIFIED MALTODEXTRIN MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL 400 POVIDONE K30 SODIUM STARCH GLYCOLATE TYPE A CORN STEARIC ACID IVORY WHITE D D
+spl_unclassified_section:
+  Drug Facts
+  Compare to Dologen ® Pain Reliever Fever Reducer Antihistamine Sugar & Dye Free Manufactured in the USA for: Kramer-Novis, San Juan, PR 00917. Tel: (787) 767-2072 www.kramernovis.com
+active_ingredient:
+  Active Ingredients (in each caplet) Acetaminophen 650 mg Dexbrompheniramine Maleate 2 mg
+purpose:
+  Purpose Analgesic, Antipyretic (Fever Reducer) Antihistamine
+indications_and_usage:
+  Uses: temporarily relieves minor aches and pains due to: • headache • common cold • toothache • backache • muscular aches • menestrual cramps • minor pain of arthritis • relieves runny nose, and sneezing, itching of the nose or throat, and itchy, watery eyes due to hay fever or other respiratory allergies. Temporarily reduces fever.
+warnings:
+  Warnings: Liver Warning: This product contains acetaminophen. Severe liver damage may occur if you take: • more than 6 caplets (3,900 mg) in 24 hours • with other drugs containing acetaminophen • 3 or more alcoholic drinks while using this product. Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash. If skin reaction occurs, stop use and seek medical help right away. Do not use : with any other product containing acetaminophen (prescription or nonprescription), this will provide more than the recommended dose (overdose) of acetaminophen and could cause serious health concerns. If you are not sure whether a drug contains acetaminophen , ask a doctor or pharmacist. When using this product do not exceed recommended dose. Ask a doctor before use if you have: • liver disease • breathing problems such as emphysema or chronic bronchitis • glaucoma or difficulty in urination due to enlargement of the prostate gland. Ask a doctor or pharmacist before use if you are taking • the blood thinning drug warfarin • sedatives or tranquilizers. While using this product: • excitability may occur • drowsiness may occur; alcohol, sedatives and tranquilizers may increase the drowsiness effect. Avoid alcoholic beverages while taking this product. Use caution when driving a motor vehicle or operating machinery. Stop use and ask a doctor if: • pain gets worse or lasts for more than 10 days • fever gets worse or lasts for more than 3 days • new symptoms occur • redness or swelling is present. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. KEEP OUT OF REACH OF CHILDREN. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-122) Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-122) Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions: Adults and children 12 years of age and older: Take 1 caplet every 4-6 hours, or directed by a doctor. Do not exceed 6 caplets in 24 hours. Children under 12 years: consult doctor.
+dosage_and_administration_table:
+  <table width="30%"> <caption/> <tbody> <tr> <td styleCode="Lrule Rrule Toprule Botrule">Adults and children 12 years of age and older:</td> <td styleCode="Lrule Rrule Toprule Botrule">Take 1 caplet every 4-6 hours, or directed by a doctor. <content styleCode="bold">Do not exceed 6 caplets in 24 hours.</content> </td> </tr> <tr> <td styleCode="Lrule Rrule Toprule Botrule" colspan="2">Children under 12 years: consult doctor. </td> </tr> </tbody> </table>
+storage_and_handling:
+  Other Information: • Tamper Evident. Do not use if seal is broken. • Store at controlled room temperature 15° to 30° C (59° to 86°F). • Avoid excessive heat and humidity.
+inactive_ingredient:
+  Inactive Ingredients: corn starch, hydroxypropylmethylcellulose, maltodextrin, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate and stearic acid.
+package_label_principal_display_panel:
+  Packaging G-dolo
+set_id:
+  1bd74da3-9c5b-46e9-b599-999cd6eac1d8
+id:
+  4cb59387-f450-457d-bc0b-571a7a408c2a
+effective_time:
+  20181214
+version:
+  3
+openfda:

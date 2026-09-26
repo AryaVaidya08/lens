@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  enMotion Foam with Moisturizers fragrance free Ethyl Alcohol ISOPROPYL ALCOHOL WATER PEG-12 DIMETHICONE GLYCERIN HYDROLYZED JOJOBA ESTERS (ACID FORM) GLYCERYL CAPRYLATE/CAPRATE PANTHENOL ISOPROPYL MYRISTATE ALOE VERA LEAF FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Claims enMotion ® Foam Hand Sanitizer with Moisturizers Fragrance Free • SKU 42334
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses To decrease bacteria on skin that could cause disease Recommended for repeated use
+warnings:
+  Warnings FLAMMABLE, keep away from fire or flame For external use only
+when_using:
+  When using this product do not use in or near eyes.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops. If condition persists for more than 72 hours consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek immediate medical attention or call a poison control center.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+inactive_ingredient:
+  Inactive ingredients Water, Isopropyl Alcohol, PEG-12 Dimethicone, Glycerin, Hydrolyzed Jojoba Esters, Caprylic/Capric Triglyceride, Panthenol, Isopropyl Myristate, Aloe Barbadensis Leaf Juice, FD&C Blue #1, FD&C Yellow #5.
+adverse_reactions:
+  ADVERSE REACTION Manufactured for Georgia-Pacific Consumer Products LP. Atlanta, GA 30303 Questions? Call 1-866-HELLOGP (435-5647) or visit us online at www.gppro.com ©2016 Georgia Pacific Consumer Products LP. All rights reserved. alcohol permit SDS-MO-15036, DSP-MO-28, DSP-MO-34 42334-1 PRDRevA16
+package_label_principal_display_panel:
+  principal display panel Foam Hand Sanitizer with Moisturizers G-100520-PRDRevA16 1000 mL (33.8 FL OZ) image description image description
+set_id:
+  6f0b8537-fe1f-4265-ab1a-e869d16fb60e
+id:
+  4a039a6b-70d8-e5b0-e063-6294a90adcae
+effective_time:
+  20260204
+version:
+  22
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    enMotion Foam with Moisturizers fragrance free
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Georgia-Pacific Consumer Products LP
+  product_ndc:
+    54622-708
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  spl_id:
+    4a039a6b-70d8-e5b0-e063-6294a90adcae
+  spl_set_id:
+    6f0b8537-fe1f-4265-ab1a-e869d16fb60e
+  package_ndc:
+    54622-708-01
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

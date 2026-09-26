@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Silicea 30X Silicea 30X LACTOSE MONOHYDRATE SILICON DIOXIDE SILICON DIOXIDE SBL
+active_ingredient:
+  Silicea 30X
+inactive_ingredient:
+  Lactose
+warnings:
+  Stop use and ask doctor if symptoms worsen or persist longer than 7 days. Do not use if tamper evident seal is missing or broken.
+indications_and_usage:
+  Temporary relief from brittle hair, brittle nails, swelling, seeping wounds, low stamina.
+purpose:
+  Temporary relief from brittle hair, brittle nails, swelling, seeping wounds, low stamina.
+dosage_and_administration:
+  Adults and children 12 years of age and older: Four tablets every thirty minutes for six doses followed by four tablets every 4-6 hours as needed. Children 2 years to 12 years of age: Four tablets every thirty minutes for six doses followed by two tablets every 4-6 hours as needed. Children under 2 years of age: Consult doctor prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  silicea 30.jpg
+set_id:
+  b2c156f0-6d13-1eba-e053-2995a90a6db8
+id:
+  b2c156f0-6d14-1eba-e053-2995a90a6db8
+effective_time:
+  20201028
+version:
+  1
+openfda:

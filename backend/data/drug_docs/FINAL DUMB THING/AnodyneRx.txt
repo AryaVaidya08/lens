@@ -1,0 +1,27 @@
+effective_time:
+  20160718
+inactive_ingredient:
+  Other Ingredients Acrylic Acid, Aluminum Hydroxide, Carmellose Sodium, 2-Ethylhexyl Acrylate, Glycerin, Isopropyl Myristate, Methyl Acrylate, Nonoxynol-30, Polyacrylic Acid, Polysorbate 80, Sorbitan Sesquioleate, Talc, Tartaric Acid, Titanium Dioxide, Water
+contraindications:
+  CONTRAINDICATIONS AnodyneRx Patch is contraindicated for those patients with a history of hypersensitivity to any of the components of the preparation.
+warnings:
+  Warnings For external use only. Avoid contact with eyes and mucous membranes. Do not apply to open wounds or damaged skin or use with a heating pad. Does not require additional cover bandage. Do not use if allergic or sensitive to Menthol or Lidocaine. Stop use and ask a doctor if condition worsen, symptoms persist for more than 7 days. Stop use and ask a doctor if condition worsen, symptoms persist for more than 7 days or clear up and occur again within a few days. Contact physician if rash, blistering, itching or excessive skin irritation occurs. If swallowed, consult physician. If pregnant or breast feeding, contact a physician prior to use. KEEP OUT OF REACH OF CHILDREN.
+spl_product_data_elements:
+  AnodyneRx MENTHOL, UNSPECIFIED FORM, LIDOCAINE, CAPSAICIN MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM LIDOCAINE LIDOCAINE CAPSAICIN CAPSAICIN ACRYLIC ACID ALUMINUM HYDROXIDE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM 2-ETHYLHEXYL ACRYLATE GLYCERIN ISOPROPYL MYRISTATE METHYL ACRYLATE NONOXYNOL-30 POLYACRYLIC ACID (250000 MW) POLYSORBATE 80 SORBITAN SESQUIOLEATE TALC TARTARIC ACID TITANIUM DIOXIDE WATER
+description:
+  DESCRIPTION AnodyneRx Patch contains menthol, lidocaine and capsaicin in a localized topical dermal delivery system. The capsaicin in AnodyneRx is a synthetic equivalent of the naturally occurring compound found in chili peppers. Capsaicin is soluble in alcohol, acetone, and ethyl acetate and very slightly soluble in water. The menthol is slightly soluble in water. AnodyneRx is a single-use patch stored in a foil pouch. Each AnodyneRx patch is 8.5 cm x 12.5 cm and consists of a polyester backing film coated with an ingredient containing silicone adhesive formulation, and covered with a removable polyester release liner. The empirical formula for capsaicin is C18H27NO3, with a molecular weight of 305.42. The chemical compound capsaicin [(E)-8-methyl-N-vanillyl-6-nonenamide] is an activating ligand for transient receptor potential vanilloid 1 receptor (TRPV1) and it has the following structure: The empirical formula for menthol is C10H20O, with a molecular weight of 156.27. The chemical compound menthol [(1R,2S,5R)-2-isopropyl-5-methylcyclohexanol ] is an activating ligand for transient receptor potential cation channel subfamily M member 8 (TRPM8). It has the following structure: The empirical formula for lidocaine is C14H22N2O, with a molecular weight of 234.34. It has the following structure: Each AnodyneRx Patch contains 5.00% menthol (5 grams of menthol per patch) 2.50% lidocaine (2.5 grams of lidocaine per patch) and 0.05% capsaicin (0.05 grams of capsaicin per patch). The AnodyneRx patch contains the following inactive ingredients: Acrylic Acid, Aluminum Hydroxide, Carmellose Sodium, 2-Ethylhexyl Acrylate, Glycerin, Isopropyl Myristate, Methyl Acrylate, Nonoxynol-30, Polyacrylic Acid, Polysorbate 80, Sorbitan Sesquioleate, Talc, Tartaric Acid, Titanium Dioxide, Water. GenPak Anodyne Label GenPak Anodyne1 Label GenPak Anodyne2 Label
+openfda:
+version:
+  2
+dosage_and_administration:
+  Dosage and Administration Directions AnodyneRx patch contains 5.00% menthol, 2.5% lidocaine and 0.05% capsaicin. Directions: Adults and children 12 years and over Apply to affected area Children under 12 years Consult physician before use Instructions for use: Clean and dry affected area. Remove patch from backing and apply to affected area. Use only one patch at a time, and a maximum of 3 patches per day. Leave patch on affected area for up eight hours. Reseal pouch containing unused patches. Children under 12 should consult a physician prior to use. Wash hands with soap and water after use.
+storage_and_handling:
+  Store Store at 20°-25° C (68°-77° F) (See UP controlled room temperature). Avoid direct sunlight.
+package_label_principal_display_panel:
+  AnodyneRx Patch Label NDC 75840-090-15 Rx only AnodyneRx Patch MEDICATED PATCH (5% Menthol, 2.5% Lidocaine 0.05% Capsaicin) For Topical Use Only 15 PATCHES Patch Size: 8cm x 12 cm Qty: 15 Patches Distributed By: GenPak Solutions LLC 4324 Reynolds Drive Hilliard, Ohio 43026 Lot #: Expiration Date: GenPak Anodyne4 Label
+indications_and_usage:
+  INDICATIONS AND USAGE AnodyneRx Patch is indicated for the temporary relief of minor aches and muscle strains associated with arthritis, simple backache, strains, muscle soreness and stiffness. AnodyneRX Patch is an external counterirritant.
+set_id:
+  e495f18f-4c42-4126-a4c2-f5641aa163a7
+id:
+  e77e9f10-33f3-49c0-804f-c026653b1826

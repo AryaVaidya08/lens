@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Vicks Sinex SEVERE CONGESTION MOISTURIZING ULTRA FINE MIST Oxymetazoline Hydrochloride OXYMETAZOLINE HYDROCHLORIDE OXYMETAZOLINE ACESULFAME POTASSIUM ALOE BENZALKONIUM CHLORIDE BENZYL ALCOHOL EDETATE DISODIUM POLYSORBATE 80 WATER SODIUM CITRATE SORBITOL ANHYDROUS CITRIC ACID Clear
+spl_unclassified_section:
+  Drug Facts
+  Only selected information is listed on the bottle label. Keep this carton for future reference. TAMPER EVIDENT: CARTON SEALED FOR YOUR PROTECTION.
+  MADE IN GERMANY DIST. BY PROCTER & GAMBLE, CINCINNATI OH 45202
+active_ingredient:
+  Active ingredient Oxymetazoline HCl 0.05%
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses temporarily relieves nasal congestion due to a cold, hay fever, or other upper respiratory allergies sinus congestion and pressure
+warnings:
+  Warnings Ask a doctor before use if you have heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland
+ask_doctor:
+  Ask a doctor before use if you have heart disease thyroid disease diabetes high blood pressure trouble urinating due to enlarged prostate gland
+when_using:
+  When using this product do not exceed recommended dosage do not use this product for more than 3 days. Use only as directed. Frequent or prolonged use may cause nasal congestion to recur or worsen temporary discomfort such as burning, stinging, sneezing, or increased nasal discharge may occur use of this container by more than one person may spread infection
+stop_use:
+  Stop use and ask a doctor if symptoms persist.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Remove protective cap. Before using for the first time, prime the pump by firmly depressing its rim several times. Hold container with thumb at base and nozzle between first and second fingers. Without tilting your head, insert nozzle into nostril. Fully depress rim with a firm, even stroke and inhale deeply. adults & children 6 yrs. & older (with adult supervision) 2 or 3 sprays in each nostril, not more often than every 10 to 12 hours. Do not exceed 2 doses in 24 hours. children 2 to under 6 yrs. ask a doctor children under 2 yrs. do not use
+dosage_and_administration_table:
+  <table width="75%" styleCode="Noautorules"><col align="left" valign="top" width="50%"/><col align="left" valign="top" width="50%"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule Toprule">adults &amp; children 6 yrs. &amp; older (with adult supervision)</td><td styleCode="Toprule">2 or 3 sprays in each nostril, not more often than every 10 to 12 hours. Do not exceed 2 doses in 24 hours.</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to under 6 yrs.</td><td>ask a doctor</td></tr><tr><td styleCode="Rrule">children under 2 yrs.</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information store at no greater than 25°C
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, aloe, benzalkonium chloride, benzyl alcohol, citric acid anhydrous, edetate disodium, fragrance, polysorbate 80, purified water, sodium citrate, sorbitol.
+questions:
+  Questions? 1-800-873-8276
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 ml Bottle Carton VICKS ® Sinex™ SEVERE CONGESTION Oxymetazoline HCl Nasal Decongestant MOISTURIZING ULTRA FINE MIST Fast Relief for Sinus & Nasal Congestion Sinus Pressure With Aloe 12 HOUR RELIEF 0.5 FL OZ (15 mL) 004
+set_id:
+  464534ee-15f8-3af8-e063-6394a90a3f18
+id:
+  59ca71ce-0d96-903e-e063-6394a90a818a
+effective_time:
+  20260824
+version:
+  4
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Vicks Sinex SEVERE CONGESTION MOISTURIZING ULTRA FINE MIST
+  generic_name:
+    OXYMETAZOLINE HYDROCHLORIDE
+  manufacturer_name:
+    Procter & Gamble Manufacturing GmbH
+  product_ndc:
+    64336-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    OXYMETAZOLINE HYDROCHLORIDE
+  rxcui:
+    1000990
+  spl_id:
+    59ca71ce-0d96-903e-e063-6394a90a818a
+  spl_set_id:
+    464534ee-15f8-3af8-e063-6394a90a3f18
+  package_ndc:
+    64336-004-01
+    64336-004-02
+    64336-004-03
+  is_original_packager:
+    True
+  upc:
+    0323900023260
+  unii:
+    K89MJ0S5VY

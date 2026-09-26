@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  HAND SANITIZER HAND SANITIZER .ALPHA.-HEXYLCINNAMALDEHYDE ALCOHOL ALCOHOL CETEARETH-6 OLIVATE LINALOOL, (+/-)- METHYL DIHYDROJASMONATE (SYNTHETIC) HYDROXYCITRONELLAL ISOMETHYL-.ALPHA.-IONONE FD&C YELLOW NO. 5 TROLAMINE BUTYLPHENYL METHYLPROPIONAL .BETA.-CITRONELLOL, (+/-)- 1-(2,3,8,8-TETRAMETHYL-1,2,3,4,5,6,7,8-OCTAHYDRONAPHTHALEN-2-YL)ETHANONE WATER GLYCERIN CARBOMER INTERPOLYMER TYPE A (55000 CPS)
+active_ingredient:
+  Active Ingredient ALCOHOL 75%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: Hand Sanitizer to help reduce bacteria that potentially cause disease. For use when soap and water are not available.
+warnings:
+  Warnings Flammable. Keep away from fire.For external use only.
+when_using:
+  When using this product avoid contact with or near the eyes. In case of contact,rinse eyes thoroughly with water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children,if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Put enough product in your palm to thoroughly cover hands and rub hands together briskly until dry. Use as part of your daily cleansing routine.
+storage_and_handling:
+  Other Information Store below 110°F (43°C) and keep seal after use.
+inactive_ingredient:
+  Inactive Ingredients: Aqua, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Triethanolamine, Ceteareth-6 Olivate, Parfum (Linalool, Lilial, Hedione, Hydroxycitronellal, Iso Methyl Ionon e, Citronellol, iso E Super), FD&C Yellow No.5 (CI 19140).
+package_label_principal_display_panel:
+  Package Label External Application Chamomile HAND SANITIZER Rinse free&non sticky Clean/antibacterial Disinfection/skin care Net Wt:60ml / 2.0fl.oz NDC: 54823-005-01 60ml label
+set_id:
+  a4c8cb73-317c-31fa-e053-2a95a90a7d4e
+id:
+  a5067f7f-8dfd-5cf7-e053-2a95a90a76a1
+effective_time:
+  20200506
+version:
+  2
+openfda:

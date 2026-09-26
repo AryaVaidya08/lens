@@ -1,0 +1,105 @@
+spl_product_data_elements:
+  Dysbio Plus Echinacea (Angustifolia), Aloe, Colchicum Autumnale, Colocynthis, Mercurius Corrosivus, Nux Vomica, Arsenicum Album, Aceticum Acidum, Chininum Sulphuricum, Cholera Nosode, Proteus (Vulgaris), Colibacillinum Cum Natrum Muriaticum, Helicobacter Pylori, Botulinum, Salmonella Typhi Nosode, Morgan Gaertner, Clostridium Difficile, Brugia Malayi ECHINACEA ANGUSTIFOLIA WHOLE ECHINACEA ANGUSTIFOLIA ALOE ALOE COLCHICUM AUTUMNALE BULB COLCHICUM AUTUMNALE BULB CITRULLUS COLOCYNTHIS FRUIT PULP CITRULLUS COLOCYNTHIS FRUIT PULP MERCURIC CHLORIDE MERCURIC CATION STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED ARSENIC TRIOXIDE ARSENIC CATION (3+) ACETIC ACID ACETIC ACID QUININE SULFATE QUININE VIBRIO CHOLERAE VIBRIO CHOLERAE PROTEUS VULGARIS PROTEUS VULGARIS ESCHERICHIA COLI ESCHERICHIA COLI HELICOBACTER PYLORI HELICOBACTER PYLORI CLOSTRIDIUM BOTULINUM CLOSTRIDIUM BOTULINUM SALMONELLA ENTERICA ENTERICA SEROVAR TYPHI SALMONELLA ENTERICA ENTERICA SEROVAR TYPHI SALMONELLA ENTERICA ENTERICA SEROVAR ENTERITIDIS SALMONELLA ENTERICA ENTERICA SEROVAR ENTERITIDIS CLOSTRIDIUM DIFFICILE CLOSTRIDIUM DIFFICILE BRUGIA MALAYI BRUGIA MALAYI WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Echinacea 3X, Aloe 7X, Colchicum Autumnale 8X, Colocynthis 8X, Mercurius Corrosivus 8X, Nux Vomica 8X, Arsenicum Album 8X, 12X, 30X, Aceticum Acidum 12X, Chininum Sulphuricum 12X, Cholera Nosode 16X, 30X, Proteus (Vulgaris) 16X, 30X, Colibacillinum Cum Natrum Muriaticum 30X, Helicobacter Pylori 30X, Botulinum 30X, 60X, Salmonella Typhi Nosode 33X, Morgan Gaertner 30C, Clostridium Difficile 30C, 45C, 60C, Brugia Malayi 39C, 60C, 200C.
+purpose:
+  PURPOSE: For temporary relief of symptoms related of occasional diarrhea, stomach cramps, nausea, vomiting, flatulence and bloating.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS For temporary relief of symptoms related of occasional diarrhea, stomach cramps, nausea, vomiting, flatulence and bloating.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DES BIO NDC 43742-2084-1 HOMEOPATHIC DYSBIO PLUS 1 FL OZ (30 ml) DYSBIO PLUS
+set_id:
+  974f23e5-9062-42c1-9df3-12168edee141
+id:
+  7287390d-e064-4ee5-b8d9-9d72d33f6a8d
+effective_time:
+  20240207
+version:
+  2
+openfda:
+  brand_name:
+    Dysbio Plus
+  generic_name:
+    ECHINACEA (ANGUSTIFOLIA), ALOE, COLCHICUM AUTUMNALE, COLOCYNTHIS, MERCURIUS CORROSIVUS, NUX VOMICA, ARSENICUM ALBUM, ACETICUM ACIDUM, CHININUM SULPHURICUM, CHOLERA NOSODE, PROTEUS (VULGARIS), COLIBACILLINUM CUM NATRUM MURIATICUM, HELICOBACTER PYLORI, BOTULINUM, SALMONELLA TYPHI NOSODE, MORGAN GAERTNER, CLOSTRIDIUM DIFFICILE, BRUGIA MALAYI
+  manufacturer_name:
+    Deseret Biologicals, Inc.
+  product_ndc:
+    43742-2084
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ECHINACEA ANGUSTIFOLIA WHOLE
+    ALOE
+    COLCHICUM AUTUMNALE BULB
+    CITRULLUS COLOCYNTHIS FRUIT PULP
+    MERCURIC CHLORIDE
+    STRYCHNOS NUX-VOMICA SEED
+    ARSENIC TRIOXIDE
+    ACETIC ACID
+    QUININE SULFATE
+    VIBRIO CHOLERAE
+    PROTEUS VULGARIS
+    ESCHERICHIA COLI
+    HELICOBACTER PYLORI
+    CLOSTRIDIUM BOTULINUM
+    SALMONELLA ENTERICA ENTERICA SEROVAR TYPHI
+    SALMONELLA ENTERICA ENTERICA SEROVAR ENTERITIDIS
+    CLOSTRIDIUM DIFFICILE
+    BRUGIA MALAYI
+  spl_id:
+    7287390d-e064-4ee5-b8d9-9d72d33f6a8d
+  spl_set_id:
+    974f23e5-9062-42c1-9df3-12168edee141
+  package_ndc:
+    43742-2084-1
+  is_original_packager:
+    True
+  nui:
+    N0000185375
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0016962
+    M0516536
+  pharm_class_epc:
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Plant Proteins [CS]
+    Seed Storage Proteins [CS]
+  unii:
+    VB06AV5US8
+    V5VD430YW9
+    993QHL78E6
+    23H32AOH17
+    53GH7MZT1R
+    269XH13919
+    S7V92P67HO
+    Q40Q9N063P
+    KF7Z0E0Q2B
+    4M0784008H
+    11T9HCO30O
+    514B9K0L10
+    U09W5JOL3Z
+    0296055VE0
+    760T5R8B3O
+    Y3V16D4PV4
+    PJX89V9R6N
+    V1NN02KTF0

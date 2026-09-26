@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Base Laboratories Saline SODIUM CHLORIDE WATER SODIUM CHLORIDE CHLORIDE ION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium Chloride 0.9% Purpose Moisturizer
+purpose:
+  Purpose Moisturizer
+indications_and_usage:
+  Uses : For dry nasal membranes
+warnings:
+  Warnings NOT FOR INJECTION Only use sealed vials do not use if vial is broken or already open • Keep out of reach of children • Do not use after expiration date Discontinue if you experience any adverse reaction and call your physician
+keep_out_of_reach_of_children:
+  • Keep out of reach of children
+do_not_use:
+  • Do not use after expiration date Discontinue if you experience any adverse reaction and call your physician
+dosage_and_administration:
+  Directions If using with an OTC ear, nose, or throat device, the follow the directions provided with the device and only use as directed.
+inactive_ingredient:
+  Inactive ingredients USP Water
+package_label_principal_display_panel:
+  Package Labelling: Label1.jpg
+set_id:
+  49309411-9af4-4f19-a3bf-dbeabc106827
+id:
+  29f201c3-b8c8-de30-e063-6394a90a14be
+effective_time:
+  20241223
+version:
+  2
+openfda:
+  brand_name:
+    Base Laboratories Saline
+  generic_name:
+    SODIUM CHLORIDE
+  manufacturer_name:
+    Joonem LLC
+  product_ndc:
+    80327-012
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    SODIUM CHLORIDE
+  spl_id:
+    29f201c3-b8c8-de30-e063-6394a90a14be
+  spl_set_id:
+    49309411-9af4-4f19-a3bf-dbeabc106827
+  package_ndc:
+    80327-012-00
+  is_original_packager:
+    True
+  upc:
+    0860010902653
+  unii:
+    451W47IQ8X

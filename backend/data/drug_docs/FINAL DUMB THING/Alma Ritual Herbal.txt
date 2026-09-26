@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Alma Ritual Herbal HAND SANITIZER LAVANDULA ANGUSTIFOLIA FLOWER MENTHA PIPERITA WATER ALCOHOL ALCOHOL CITRUS AURANTIUM FRUIT OIL GLYCERIN EUCALYPTUS OIL ROSMARINUS OFFICINALIS FLOWERING TOP OIL LAVENDER OIL
+active_ingredient:
+  Active Ingredient Alcohol 70% v/v Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only Flammable. Keep away from heat and flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product Keep out of eyes, ears and, mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry Supervise children under 6 years of age when using this product to avoid swallowing
+other_safety_information:
+  Other information: Store between 15-35 C (59-95 F) Avoid freezing and excessive heat above 40 C (104 F)
+inactive_ingredient:
+  Inactive Ingredients: Citrus Aurantium Dulcis Peel Oil, Eucalyptus Globulus Leaf Oil, Glycerin, Lavandula Hybrida Oil, Mentha Pipperita (Peppermint) Oil, Rosmarinus Officinalis (Rosemary) Extract, Water
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  P.D.P. 100 mL NDCc: 82933-100-01
+set_id:
+  e5e8d2fc-7525-8bd6-e053-2995a90a9ab3
+id:
+  1f82414c-22d5-9e72-e063-6394a90a56d1
+effective_time:
+  20240101
+version:
+  2
+openfda:

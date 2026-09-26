@@ -1,0 +1,102 @@
+spl_product_data_elements:
+  Povidone Iodine Povidone Iodine 10% ANHYDROUS CITRIC ACID GLYCERIN NONOXYNOL-9 SODIUM HYDROXIDE WATER POVIDONE-IODINE IODINE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Povidone-Iodine 10% (1% available iodine)
+purpose:
+  Purpose First Aid Antiseptic
+indications_and_usage:
+  Use First aid antiseptic to prevent infection in minor cuts and burns.
+warnings:
+  Warnings For External Use Only
+ask_doctor:
+  Ask a doctor before use if you have deep punture wounds animal bites serious burns
+stop_use:
+  Stop use and consult a doctor if the condition persists or gets worse irritation and redness develop and persits for more than 72 hours
+when_using:
+  When using this product do not use in eyes use on individuals who are allergic or sensitive to iodine or use for longer thn 1 week unless directed by a doctor apply over large areas of the body
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Clean the affected area. Apply a small amount on the area 1 to 3 times daily. May be covered with sterile bandage. If badaged, let it dry first.
+other_safety_information:
+  Other information store at room temperature, 20-25C (68-77F)
+inactive_ingredient:
+  Inactive Ingredients Citric Acid, Disodium Phosphate, Glycerin, nonoxynol-9. Sodium Hydroxide and Purified Water.
+package_label_principal_display_panel:
+  Sunmark Label 8 fl oz 16 fl oz SM 8 SM 16
+  Good Neighbor Label GNPPov.jpg GNP
+  Leader Label LDRPov.jpg Leader
+  Quality Choice Label QCPov.jpg QC
+  Select Brand Label SB
+  Publix Label Publix
+  Premier Value Label PV
+  Fred's Label Freds
+  DDM Label DDM
+  Rite Aid Label RAPov.jpg RA
+  CVS Label CVS
+  Vida MIaa Label VM
+  HEB Label HEB
+  Health Mart Label HMPov.jpg HM
+  Purdue Betadine Label Purdue Betadine 10.jpg
+  Top Care Label Top Care Povidone TCPov.jpg
+set_id:
+  6064c23b-7c15-208d-e053-2991aa0a00f6
+id:
+  0c936cb3-8393-0603-e063-6394a90a0640
+effective_time:
+  20231215
+version:
+  7
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Povidone Iodine
+  generic_name:
+    POVIDONE IODINE 10%
+  manufacturer_name:
+    Humco Holding Group, Inc.
+  product_ndc:
+    0395-9123
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    POVIDONE-IODINE
+  rxcui:
+    312564
+  spl_id:
+    0c936cb3-8393-0603-e063-6394a90a0640
+  spl_set_id:
+    6064c23b-7c15-208d-e053-2991aa0a00f6
+  package_ndc:
+    0395-9123-98
+    0395-9123-16
+  is_original_packager:
+    True
+  upc:
+    0041220676088
+    0635515992306
+    0087701408960
+    0010939142337
+    0052569135037
+    0011822377577
+    0840986012945
+    0041415185739
+    0036800091009
+    0096295106732
+    0012345678905
+    0393351127947
+    0015127004688
+  nui:
+    N0000175486
+    M0011640
+  pharm_class_epc:
+    Antiseptic [EPC]
+  pharm_class_cs:
+    Iodine [CS]
+  unii:
+    85H0HZU99M

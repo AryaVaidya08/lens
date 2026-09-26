@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  As I Am Dry and Itchy Scalp Care PYRITHIONE ZINC COCAMIDOPROPYL BETAINE BETAINE DISODIUM LAURETH SULFOSUCCINATE COCO MONOISOPROPANOLAMIDE CETYL ALCOHOL 2-(CYCLOHEXYLAMINO)ETHANESULFONIC ACID CAPRYLYL GLYCOL MENTHOL CETEARETH-60 MYRISTYL GLYCOL EDETATE SODIUM EDETIC ACID PYRITHIONE ZINC PYRITHIONE ZINC TEA TREE OIL OLIVE OIL GLYCERIN CAPRYLIC ACID PHENOXYETHANOL WATER SODIUM COCOYL ISETHIONATE LINSEED OIL GLYCOL STEARATE POLYQUATERNIUM-10 (125 MPA.S AT 2%) PIROCTONE OLAMINE PIROCTONE PEPPERMINT OIL PEPPERMINT ALOE VERA LEAF PROPANEDIOL OREGANO
+active_ingredient:
+  Active Ingredient Zinc Pyrithione 1%
+purpose:
+  Purpose Anti-Dandruff, Seborrheic Dermatitis
+indications_and_usage:
+  Uses For the relief of scalp itching, flaking, and irritation associated with dandruff and seborrheic dermatitis.
+warnings:
+  Warnings For external use only.
+when_using:
+  When Using This Product Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if Condition worsens or does not improve with regular use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For best results, use at least twice a week, or as directed by a doctor. Shake well before use. Apply by massaging onto wet hair and scalp. Rinse and repeat. Follow with As I Am Dry & Itchy Scalp Care Conditioner and As I Am Dry & Itchy Scalp Care Oil Treatment for best results.
+inactive_ingredient:
+  Inactive Ingredient Aqua/Water/Eau, Aloe Barbadensis Leaf Juice, Disodium Laureth Sulfosuccinate, Cocamidopropyl Betaine, Betaine, Cocamide MIPA, Sodium Cocoyl Isethionate, Cetyl Alcohol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Olea Europaea (Olive) Fruit Oil, Glycerin, Caprylic Acid, Linum Usitatissimum (Linseed) Seed Extract, Glycol Stearate, Polyquaternium-10, Piroctone Olamine, Phenoxyethanol, Mentha Piperita (Peppermint) Oil, Quaternium-80, Caprylyl Glycol, Menthol, Propanediol, Ceteareth-60 Myristyl Glycol, Origanum Vulgare Leaf Extract, Tetrasodium EDTA
+questions:
+  Questions or comments? www.asiamnaturally.com
+package_label_principal_display_panel:
+  As I Am - Dry & Itchy Scalp Care - Olive and Tea Tree Oil Shampoo 12 FL OZ (355 ml) NDC 72474-100-01 Label
+set_id:
+  71ea4820-4160-41c2-e053-2a95a90a127d
+id:
+  2413c81a-dd1f-0eaf-e063-6394a90aef5e
+effective_time:
+  20241009
+version:
+  3
+openfda:
+  application_number:
+    M032
+  brand_name:
+    As I Am Dry and Itchy Scalp Care
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    Salon Commodities, Inc.
+  product_ndc:
+    72474-100
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+  spl_id:
+    2413c81a-dd1f-0eaf-e063-6394a90aef5e
+  spl_set_id:
+    71ea4820-4160-41c2-e053-2a95a90a127d
+  package_ndc:
+    72474-100-01
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

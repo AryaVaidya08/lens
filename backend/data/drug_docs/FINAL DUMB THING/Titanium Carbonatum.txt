@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM Titanium Carbonatum Titanium Carbonatum SUCROSE TITANIUM CARBIDE TITANIUM
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Titanium Carbonatum 6C 5g Titanium Carbonatum 6C 30g Titanium Carbonatum 6C 100g Titanium Carbonatum 12C 5g Titanium Carbonatum 12C 30g Titanium Carbonatum 12C 100g Titanium Carbonatum 30C 1g Titanium Carbonatum 30C 5g Titanium Carbonatum 30C 30g Titanium Carbonatum 30C 100g Titanium Carbonatum 100C 1g Titanium Carbonatum 100C 5g Titanium Carbonatum 100C 30g Titanium Carbonatum 100C 100g Titanium Carbonatum 200C 1g Titanium Carbonatum 200C 5g Titanium Carbonatum 200C 30g Titanium Carbonatum 200C 100g Titanium Carbonatum 500C 1g Titanium Carbonatum 500C 5g Titanium Carbonatum 500C 30g Titanium Carbonatum 500C 100g Titanium Carbonatum 1M 1g Titanium Carbonatum 1M 5g Titanium Carbonatum 1M 30g Titanium Carbonatum 1M 100g Titanium Carbonatum LM1 30g
+set_id:
+  f90af565-8aba-44f2-e053-6394a90a0c84
+id:
+  f90af565-8abb-44f2-e053-6394a90a0c84
+effective_time:
+  20230411
+version:
+  1
+openfda:
+  brand_name:
+    Titanium Carbonatum
+  generic_name:
+    TITANIUM CARBONATUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-2958
+    37662-2959
+    37662-2960
+    37662-2961
+    37662-2963
+    37662-2964
+    37662-2962
+    37662-2965
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TITANIUM CARBIDE
+  spl_id:
+    f90af565-8abb-44f2-e053-6394a90a0c84
+  spl_set_id:
+    f90af565-8aba-44f2-e053-6394a90a0c84
+  package_ndc:
+    37662-2959-1
+    37662-2959-2
+    37662-2959-3
+    37662-2960-1
+    37662-2960-2
+    37662-2960-3
+    37662-2960-4
+    37662-2961-1
+    37662-2961-2
+    37662-2961-3
+    37662-2961-4
+    37662-2963-1
+    37662-2963-2
+    37662-2963-3
+    37662-2963-4
+    37662-2964-1
+    37662-2964-2
+    37662-2964-3
+    37662-2964-4
+    37662-2962-1
+    37662-2962-2
+    37662-2962-3
+    37662-2962-4
+    37662-2965-1
+    37662-2958-1
+    37662-2958-2
+    37662-2958-3
+  is_original_packager:
+    True
+  unii:
+    7SHTGW5HBI

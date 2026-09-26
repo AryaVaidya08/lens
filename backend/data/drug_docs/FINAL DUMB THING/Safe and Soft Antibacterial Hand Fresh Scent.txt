@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Safe and Soft Antibacterial Hand Fresh Scent BENZALKONIUM CHLORIDE WATER POLYSORBATE 20 GLYCERIN PHENOXYETHANOL ALOE METHYLPARABEN .ALPHA.-TOCOPHEROL ACETATE EDETATE SODIUM DISODIUM COCOAMPHODIACETATE BUTYLPARABEN CITRIC ACID MONOHYDRATE ETHYLPARABEN PROPYLPARABEN BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium chloride 0.13% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand sanitizer to reduce bacteria on the skin
+warnings:
+  Warnings For external use only-hands When using this product Do not use in or near eyes In case of contact with eyes, flush thoroughly with water Avoid contact with broken skin Stop use and ask a doctor if skin irritation develops Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Do not use in or near eyes In case of contact with eyes, flush thoroughly with water Avoid contact with broken skin
+stop_use:
+  Stop use and ask a doctor if skin irritation develops
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wipe hands thoroughly with product and allow to dry for children under 6, use only under adult supervision not recommended for infants
+inactive_ingredient:
+  Inactive ingredients water, polysorbate 20, glycerin, phenoxyethanol, aloe (aloe barbadensis) leaf juice, fragrance, methylparaben, tocopheryl acetate, tetrasodium EDTA, disodium cocoamphodiacetate, butylparaben, citric acid, ethylparaben, propylparaben
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  251d6a23-fd6b-4ffe-ac4f-bad844f1d007
+id:
+  de1de718-38c5-5e66-e053-2995a90a0f24
+effective_time:
+  20220503
+version:
+  2
+openfda:

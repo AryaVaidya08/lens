@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Promedic Benzalkonium chloride Benzalkonium chloride BENZALKONIUM WATER GLYCERIN PHENOXYETHANOL POLYSORBATE 20 ALOE VERA LEAF FRAGRANCE LAVENDER & CHIA F-153480
+active_ingredient:
+  Active Ingredients Benzalkonium chloride 0.13%.
+purpose:
+  Purpose Antiseptic
+warnings:
+  Warnings For external use only. When using the product Keep out of eyes, in case of contact with eyes, flush thoroughly with water Avoid contact with broken skin Do not inhale or ingest Stop use and ask a doctor if skin irritation develops.
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease.
+dosage_and_administration:
+  Directions Wipe down surface thoroughly and allow to air-dry. For children under 6, use only under adult supervision. Not recommended for infants.
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children. If swallowed, get medical help or contact a poison control center right away.
+spl_unclassified_section:
+  Other Information do not store above 105F.
+inactive_ingredient:
+  Inactive Ingredients Purified water, glycerin, phenoxyethanol, polysorbate 20 (Polyoxyethylene (20) sorbitan monolaurate), aloe vera leaf juice.
+package_label_principal_display_panel:
+  Product label image description image description
+set_id:
+  10796529-26d2-4e67-b18c-8ef73203ba3d
+id:
+  27dd463b-bf63-4591-87d1-f815a28da796
+effective_time:
+  20200916
+version:
+  3
+openfda:

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  G3Tech Sanitizing Wipes Sanitizing Wipes DECYL GLUCOSIDE ALOE VERA LEAF ETHYLHEXYLGLYCERIN PHENOXYETHANOL GLYCERIN WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.13% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Cloth
+indications_and_usage:
+  Use Sanitizing wipes to help kill 99.99% of germs and help prevent the spread of diseases. Effective in removing dirt and oil, and ideal for quick clean-ups. For use when soap and water are not available.
+warnings:
+  Warnings For External Use Only.
+dosage_and_administration:
+  Directions Lift cover Remove wipes as required Close the lid, ensuring that wipes are not outside the cover to prevent product from drying out
+storage_and_handling:
+  Other information Store in a cool dry place Keep away from direct sunlight
+inactive_ingredient:
+  Inactive ingredients Aqua Glycerin Ethylhexylglycerin Phenoxyethanol Propylene Glycol Decyl Glucoside Aloe Barbadensis Leaf Extract
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 50pcs NDC: 80062-002-01 50 pcs wipes
+set_id:
+  aca74c9a-3818-d627-e053-2a95a90a5cc4
+id:
+  acbb40f5-2ae4-1337-e053-2995a90a98f0
+effective_time:
+  20200813
+version:
+  4
+openfda:

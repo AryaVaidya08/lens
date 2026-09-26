@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Hand Sanitizer Hand Sanitizer ALOE GLYCERIN CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) WATER ALCOHOL ALCOHOL TOCOPHEROL ecofinest
+dosage_and_administration:
+  Do not store above 105°F
+active_ingredient:
+  Alcohol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+warnings:
+  For external use only: hands Flammable keep away from fire or flame.
+inactive_ingredient:
+  Acrylates/C10-30 Alkyl acrylate Crosspolymer, Aloe Extract,Glycerin,Tocopherol,Water
+purpose:
+  Disinfection Sterilization No Rinseing
+indications_and_usage:
+  wet hands thoroughly with product and allow to dry without wiping.
+package_label_principal_display_panel:
+  label
+set_id:
+  a418e998-ef1a-c229-e053-2a95a90a8bb7
+id:
+  a418e998-ef1b-c229-e053-2a95a90a8bb7
+effective_time:
+  20200425
+version:
+  1
+openfda:

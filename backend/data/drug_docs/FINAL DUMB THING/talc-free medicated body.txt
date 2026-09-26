@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  talc-free medicated body Menthol STARCH, CORN ZINC OXIDE TRICALCIUM PHOSPHATE SODIUM BICARBONATE SALICYLIC ACID EUCALYPTUS OIL ZINC STEARATE PEPPERMINT OIL MENTHOL MENTHOL
+active_ingredient:
+  Active Ingredient Menthol 0.15%
+purpose:
+  Purpose External Analgesic
+indications_and_usage:
+  Uses Temporary relief of pain and itch associated with: minor cuts sunburn insect bites scrapes minor burns minor skin irritations
+warnings:
+  Warning For external use only Avoid contact with eyes Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within few days Keep out of reach of children In case of accidental ingestion, get medical help or contact a poison control center right away.
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Remove seal beneath cap before first use. Do not use if seal is broken or missing. adults and children 2 years and older - apply freely upto 3 or 4 times daily children under 2 years - ask a doctor For best results, dry skin throughly before applying
+inactive_ingredient:
+  Inactive ingredients Zea Mays (Corn) Starch, zinc oxide, Tricalcium Phosphate, Sodium Bicarbonate, salicylic acid, zinc stearate, Eucalyptus oil, Peppermint Oil
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 42669-209-01 Compare to active ingredient in Gold Bond® Medicated Body Powder* talc-free medicated body powder triple relief formulahelps absorb moisture helps soothe skin and relieves itching NET WT 10oz (283 g) Label
+set_id:
+  27b9b4dc-4d4f-4e9d-b388-a7c6807a0e9b
+id:
+  60964e7d-58f7-411e-8af2-5d77e50ba659
+effective_time:
+  20251229
+version:
+  4
+openfda:
+  application_number:
+    M017
+  brand_name:
+    talc-free medicated body
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    Davion, Inc
+  product_ndc:
+    42669-209
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    1431703
+  spl_id:
+    60964e7d-58f7-411e-8af2-5d77e50ba659
+  spl_set_id:
+    27b9b4dc-4d4f-4e9d-b388-a7c6807a0e9b
+  package_ndc:
+    42669-209-01
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

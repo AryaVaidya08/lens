@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Sunscreen Zinc Oxide Sunscreen ZINC OXIDE ZINC OXIDE COCONUT OIL SUNFLOWER OIL ALOE VERA LEAF MICA FERRIC OXYHYDROXIDE CARNAUBA WAX COCOA BUTTER SHEA BUTTER .BETA.-TOCOPHEROL CASTOR OIL FERRIC OXIDE RED FERROSOFERRIC OXIDE WHITE WAX CANDELILLA WAX Medium Brown
+active_ingredient:
+  OTC-Active Ingredients Active Ingredients
+dosage_and_administration:
+  Dosage and Administration Dosage & Administration
+inactive_ingredient:
+  Inactive Ingredients Inactive Ingredients
+indications_and_usage:
+  Indications & Usage Indications & Usage
+purpose:
+  OTC-Purpose Purpose
+warnings:
+  Warnings PART 1 Warnings Part One
+  Warnings Part Two Warnings Part Two
+keep_out_of_reach_of_children:
+  OTC Keep out of reach of children OTC Keep out of reach of children
+package_label_principal_display_panel:
+  Back Label Back Label
+  Front Label Front Label
+set_id:
+  a14f5bba-906b-4a1c-e053-2a95a90ae046
+id:
+  a14f5bba-906c-4a1c-e053-2a95a90ae046
+effective_time:
+  20200320
+version:
+  1
+openfda:

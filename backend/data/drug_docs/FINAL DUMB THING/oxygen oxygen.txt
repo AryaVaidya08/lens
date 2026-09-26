@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  oxygen oxygen OXYGEN OXYGEN
+package_label_principal_display_panel:
+  Patient label, transfil and julian date label transfil and julian date
+set_id:
+  25fff096-b39c-24db-e054-00144ff8d46c
+id:
+  eb680a3e-445b-b1a9-e053-2995a90acfc8
+effective_time:
+  20221019
+version:
+  10
+openfda:

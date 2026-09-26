@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  ODLUMIVIE Tinted Mineral Sunscreen Zinc Oxide,Titanium Dioxide STEARIC ACID ALUMINUM HYDROXIDE FULLERENES POTASSIUM CETYL PHOSPHATE WATER NIACINAMIDE SODIUM HYALURONATE GREEN TEA LEAF ASCORBYL GLUCOSIDE PANTHENOL TITANIUM DIOXIDE TITANIUM DIOXIDE HYDROXYPROPYL TETRAHYDROPYRANTRIOL BISABOLOL TRICETEARETH-4 PHOSPHATE SILICA SODIUM PCA GLYCERYL STEARATE CETEARYL ALCOHOL PENTAERYTHRITYL TETRAETHYLHEXANOATE BUTYLOCTYL SALICYLATE BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE CETYL ETHYLHEXANOATE ETHYLHEXYL PALMITATE ZINC OXIDE ZINC OXIDE ASCORBYL TOCOPHERYL MALEATE
+active_ingredient:
+  Zinc Oxide ..... 6.0% ..... Sunscreen Titanium Dioxide ..... 4.5% ..... Sunscreen
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water Ethylhexyl Palmitate Cetyl Ethylhexanoate Tinosorb S (Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine) Butyloctyl Salicylate Pentaerythrityl Tetraethylhexanoate Potassium Cetyl Phosphate Cetearyl Alcohol Hemisqualane Silica Glyceryl Stearate Sodium PCA Panthenol Niacinamide Ascorbyl Glucoside Sodium Hyaluronate Acetylated Sodium Hyaluronate Cross-linked Sodium Hyaluronate Hydrolyzed Sodium Hyaluronate Polypodium Leucotomos Extract Green Tea Extract Fullerene Collagen Peptide Pro-Xylane Tri(Cetearyl-4) Phosphate Aluminum Hydroxide Stearic Acid Tocopheryl Acetate Natural Bisabolol
+purpose:
+  Helps prevent sunburn. If used as directed with other sun protection measures (see Directions), it helps minimize signs of UV-induced skin aging.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes. Discontinue use if irritation occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  DO NOT USE: Do not use on damaged or broken skin. Do not use if you are allergic to any of the ingredients in this product.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  STOP USE AND ASK A DOCTOR IF: Irritation or rash develops.
+indications_and_usage:
+  DIRECTIONS: Apply to clean, dry skin 15 minutes before sun exposure. Reapply every 2 hours or after swimming, sweating, or towel drying.
+when_using:
+  WHEN USING THIS PRODUCT: Keep out of eyes. Rinse with water to remove.
+dosage_and_administration:
+  Apply to clean, dry skin 15 minutes before sun exposure. Reapply every 2 hours or after swimming, sweating, or towel drying. use 1-2ml on targeting areas
+package_label_principal_display_panel:
+  DRUG FACTS Active Ingredients Purpose Zinc Oxide 6.0% Sunscreen Titanium Dioxide 4.5% Sunscreen USES: Helps prevent sunburn. If used as directed with other sun protection measures (see Directions), it helps minimize signs of UV-induced skin aging. WARNINGS: For external use only. Avoid contact with eyes. Discontinue use if irritation occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. DIRECTIONS: Apply to clean, dry skin 15 minutes before sun exposure. Reapply every 2 hours or after swimming, sweating, or towel drying. OTHER INFORMATION: Store at 15–40°C (59–104°F). Keep container tightly closed and avoid extreme heat or direct sun exposure. INACTIVE INGREDIENTS: Water, Ethylhexyl Palmitate, Cetyl Ethylhexanoate, Tinosorb S (Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine), Butyloctyl Salicylate, Pentaerythrityl Tetraethylhexanoate, Potassium Cetyl Phosphate, Cetearyl Alcohol, Hemisqualane, Silica, Glyceryl Stearate, Sodium PCA, Panthenol, Niacinamide, Ascorbyl Glucoside, Sodium Hyaluronate, Acetylated Sodium Hyaluronate, Cross-linked Sodium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Polypodium Leucotomos Extract, Green Tea Extract, Fullerene, Collagen Peptide, Pro-Xylane, Tri(Cetearyl-4) Phosphate, Aluminum Hydroxide, Stearic Acid, Tocopheryl Acetate, Natural Bisabolol design
+set_id:
+  480d6e65-f6dc-d2a5-e063-6294a90a24a1
+id:
+  480d71a9-30b7-01b0-e063-6294a90a30eb
+effective_time:
+  20260110
+version:
+  35
+openfda:
+  application_number:
+    M020
+  brand_name:
+    ODLUMIVIE Tinted Mineral Sunscreen
+  generic_name:
+    ZINC OXIDE,TITANIUM DIOXIDE
+  manufacturer_name:
+    Guangzhou Meijiao Medical Biotechnology Co., Ltd.
+  product_ndc:
+    87036-036
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    CUTANEOUS
+  substance_name:
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    480d71a9-30b7-01b0-e063-6294a90a30eb
+  spl_set_id:
+    480d6e65-f6dc-d2a5-e063-6294a90a24a1
+  package_ndc:
+    87036-036-01
+  is_original_packager:
+    True
+  unii:
+    15FIX9V2JP
+    SOI2LOH54Z

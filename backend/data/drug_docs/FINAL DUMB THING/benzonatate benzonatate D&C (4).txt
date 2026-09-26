@@ -1,0 +1,43 @@
+pediatric_use:
+  Pediatric Use Safety and effectiveness in children below the age of 10 have not been established. Accidental ingestion resulting in death has been reported in children below age 10. Keep out of reach of children.
+effective_time:
+  20150323
+contraindications:
+  CONTRAINDICATIONS Hypersensitivity to benzonatate or related compounds.
+precautions:
+  PRECAUTIONS Benzonatate is chemically related to anesthetic agents of the para-amino-benzoic acid class (e.g. procaine; tetracaine) and has been associated with adverse CNS effects possibly related to a prior sensitivity to related agents or interaction with concomitant medication.
+warnings:
+  WARNINGS Hypersensitivity Severe hypersensitivity reactions (including bronchospasm, laryngospasm and cardiovascular collapse) have been reported which are possibly related to local anesthesia from sucking or chewing the capsule instead of swallowing it. Severe reactions have required intervention with vasopressor agents and supportive measures. Psychiatric Efects Isolated instances of bizarre behavior, including mental confusion and visual hallucinations, have also been reported in patients taking benzonatate in combination with other prescribed drugs. Accidental Ingestion and Death in Children Keep benzonatate capsules out of reach of children. Accidental ingestion of benzonatate resulting in death has been reported in children below age 10. Signs and symptoms of overdose have been reported within 15-20 minutes and death has been reported within one hour of ingestion. If accidental ingestion occurs, seek medical attention immediately (see OVERDOSAGE ).
+pregnancy:
+  Usage in Pregnancy PREGNANCY CATEGORY C Animal reproduction studies have not been conducted with benzonatate. It is also not known whether benzonatate can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Benzonatate should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk caution should be exercised when benzonatate is administered to a nursing woman.
+spl_product_data_elements:
+  benzonatate benzonatate D&C YELLOW NO. 10 GELATIN GLYCERIN WATER METHYLPARABEN PROPYLPARABEN TITANIUM DIOXIDE BENZONATATE BENZONATATE ASC;105
+description:
+  DESCRIPTION Benzonatate, a non-narcotic oral antitussive agent, is 2, 5, 8, 11, 14, 17, 20, 23, 26-nonaoxaoctacosan-28-yl p-(butylamino) benzoate; with a molecular weight of 603.7. Each soft gelatin capsule, for oral administration, contains 100 mg, 150 mg or 200 mg of benzonatate USP. Benzonatate Capsules, USP also contain the following inactive ingredients: D&C Yellow #10, gelatin, glycerin, purified water, methylparaben, propylparaben and titanium dioxide Structure
+openfda:
+version:
+  5
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Adults and Children over 10 years of age: Usual dose is one 100 mg, 150 mg or 200 mg capsule three times a day as needed for cough. If necessary to control cough, up to 600 mg daily in three divided doses may be given. Benzonatate should be swallowed whole. Benzonatate capsules are not to be broken, chewed, dissolved, cut or crushed.
+adverse_reactions:
+  ADVERSE REACTIONS Potential Adverse Reactions to benzonatate may include: Hypersensitivity reactions including bronchospasm, laryngospasm, cardiovascular collapse possibly related to local anesthesia from chewing or sucking the capsule. CNS: sedation; headache; dizziness; mental confusion; visual hallucinations. GI: constipation; nausea; GI upset. Dermatologic: pruritus; skin eruptions. Other: nasal congestion; sensation of burning in the eyes; vague “chilly” sensation; numbness of the chest; hypersensitivity. Deliberate or accidental overdose has resulted in death, particularly in children.
+how_supplied:
+  HOW SUPPLIED Benzonatate Capsules USP, 100 mg: Yellow soft gelatin capsules, imprinted “ASC” on one side and “105” on the other side, available in bottles of 100’s (NDC 67877-105-01), and 500’s (NDC 67877-105-05). Benzonatate Capsules USP, 150 mg: Yellow soft gelatin capsules, imprinted “ASC” on one side and “128” on the other side, available in bottles of 100 (NDC 67877-128-01) and 500's (NDC 67877-128-05). Benzonatate Capsules USP, 200 mg: Yellow soft gelatin capsules, imprinted “ASC” on one side and “106” on the other side, available in bottles of 100’s (NDC 67877-106-01) and 500’s (NDC 67877-106-05). Store at 20° to 25° C (68° to 77°F). [See USP Controlled Room Temperature]. PROTECT FROM LIGHT. Manufactured by Intergel Division of IVC Industries, Inc. Irvington, NJ 07111 Manufactured for Ascend Laboratories, LLC Montvale, NJ 07645 Rev 10/14 210082
+information_for_patients:
+  Information for Patients Swallow benzonatate capsules whole. Do not break, chew, dissolve, cut, or crush Benzonatate Capsules. Release of benzonatate from the capsule in the mouth can produce a temporary local anesthesia of the oral mucosa and choking could occur. If numbness or tingling of the tongue, mouth, throat, or face occurs, refrain from oral ingestion of foods or liquids until the numbness has resolved. If the symptoms worsen or persist, seek medical attention. Keep benzonatate out of reach of children. Accidental ingestion resulting in death has been reported in children. Signs and symptoms of overdose have been reported within 15-20 minutes and death has been reported within one hour of ingestion. Signs and symptoms may include restlessness, tremors, convulsions, coma and cardiac arrest. If accidental ingestion occurs, seek medical attention immediately. Overdosage resulting in death may occur in adults. Do not exceed a single dose of 200 mg and a total daily dosage of 600 mg. If you miss a dose of benzonatate capsule, skip that dose and take the next dose at the next scheduled time. Do not take 2 doses of benzonatate at one time.
+package_label_principal_display_panel:
+  Principal Display Panel Benzonatate Capsules, USP 100mg 20 Capsules NDC 10544-094-20 100mg 20ct
+indications_and_usage:
+  INDICATIONS AND USAGE Benzonatate USP is indicated for the symptomatic relief of cough.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Benzonatate acts peripherally by anesthetizing the stretch receptors located in the respiratory passages, lungs, and pleura by dampening their activity and thereby reducing the cough reflex at its source. It begins to act within 15 to 20 minutes and its effect lasts for 3 to 8 hours. Benzonatate has no inhibitory effect on the respiratory center in recommended dosage.
+set_id:
+  11f47c1a-98c1-28eb-e054-00144ff88e88
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenicity, mutagenicity, and reproduction studies have not been conducted with benzonatate.
+id:
+  11f47c1a-98c2-28eb-e054-00144ff88e88
+overdosage:
+  OVERDOSAGE Intentional and unintentional overdose may result in death, particularly in children. The drug is chemically related to tetracaine and other topical anesthetics and shares various aspects of their pharmacology and toxicology. Drugs of this type are generally well absorbed after ingestion. Signs and Symptoms The signs and symptoms of overdose of benzonatate have been reported within 15-20 minutes. If capsules are chewed or dissolved in the mouth, oropharyngeal anesthesia will develop rapidly, which may cause choking and airway compromise. CNS stimulation may cause restlessness and tremors which may proceed to clonic convulsions followed by profound CNS depression. Convulsions, coma, cerebral edema and cardiac arrest leading to death have been reported within 1 hour of ingestion. Treatment In case of overdose, seek medical attention immediately. Evacuate gastric contents and administer copious amounts of activated charcoal slurry. Even in the conscious patient, cough and gag reflexes may be so depressed as to necessitate special attention to protection against aspiration of gastric contents and orally administered materials. Convulsions should be treated with a short-acting barbiturate given intravenously and carefully titrated for the smallest effective dosage. Intensive support of respiration and cardiovascular-renal function is an essential feature of the treatment of severe intoxication from overdosage. Do not use CNS stimulants.

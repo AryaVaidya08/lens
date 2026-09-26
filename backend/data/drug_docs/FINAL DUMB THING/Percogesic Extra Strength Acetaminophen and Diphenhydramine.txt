@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Percogesic Extra Strength Acetaminophen and Diphenhydramine ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE DIPHENHYDRAMINE POVIDONE K30 CROSCARMELLOSE SODIUM FD&C YELLOW NO. 6 HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE MINERAL OIL SILICON DIOXIDE STARCH, CORN STEARIC ACID TALC TITANIUM DIOXIDE TRIACETIN ESP
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient (in each caplet) Acetaminophen 500 mg
+  Active Ingredient (in each caplet) Diphenhydramine HCl 12.5 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+  Purpose Antihistamine
+indications_and_usage:
+  Uses: for temporary relief of minor aches and pains due to: headache backache muscular aches arthritis pain colds flu fever toothache premenstrual and menstrual cramps
+warnings:
+  Warnings Liver Warning: This product contains acetaminophen. Severe liver damage may occur if: adult or child 12 years and older takes more than 8 caplets in 24 hours, which is the maximum daily amount taken with other drugs containing acetaminophen adult has 3 or more alcoholic drinks every day while using this product. Allergy Alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash. If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. with any other product containing diphenhydramine, even one used on skin If you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma Ask a doctor or pharmacist before use if your are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may cause drowsiness may cause excitability, especially in children be careful driving a motor vehicle or operating machinery. Stop use and ask a doctor if pain persists for more than 10 days fever persists for more than 3 days (unless directed by a doctor) condition worsens or new symptoms occur redness or swelling is present. These may be signs of a serious condition. If you are pregnant or breast-feeding, ask a health professional before use. Keep this and all drugs out of the reach of children. Overdose warning: Taking more than the recommended dose (overdose) could cause serious health problems, including liver damage. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms. Do not exceed recommended dosage.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. with any other product containing diphenhydramine, even one used on skin If you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your are taking the blood thinning drug warfarin taking sedatives or tranquilizers
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may cause drowsiness may cause excitability, especially in children be careful driving a motor vehicle or operating machinery.
+stop_use:
+  Stop use and ask a doctor if pain persists for more than 10 days fever persists for more than 3 days (unless directed by a doctor) condition worsens or new symptoms occur redness or swelling is present. These may be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If you are pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children. Overdose warning: Taking more than the recommended dose (overdose) could cause serious health problems, including liver damage. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms. Do not exceed recommended dosage.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: take 2 caplets every 6 hours. Maximum daily dose is 8 caplets. Children under 12 years of age: ask a doctor.
+other_safety_information:
+  Other i nformation store at 15°-30°C (59°-86°F) avoid excessive heat
+inactive_ingredient:
+  Inactive i ngredients croscarmellose sodium, FD&C yellow no. 6 lake, hypromellose, magnesium stearate, microcrystalline cellulose, mineral oil, polyvinylpyrrolidone, silica, sodium carboxymethyl starch, starch, stearic acid, talc, titanium dioxide, triacetin
+questions:
+  Questions? 1-800-443-4908
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL FAST ACTING EXTRA STRENGTH Percogesic ® Acetaminophen/ Diphenhydramine for ENCHANCED RELIEF of PAIN Aspirin-Free, Pain Reliever, Fever Reducer/ Antihistamine 4 0 EASY TO SWALLOW COATED TABLETS PRINCIPAL DISPLAY PANEL FAST ACTING EXTRA STRENGTH Percogesic® Acetaminophen/ Diphenhydramine for ENCHANCED RELIEF of PAIN Aspirin-Free, Pain Reliever, Fever Reducer/ Antihistamine 40 EASY TO SWALLOW COATED TABLETS
+set_id:
+  7a07713f-98c4-4e32-bb7a-89155f14b07f
+id:
+  c37a1873-7412-424d-bc84-ed5b6801c337
+effective_time:
+  20240315
+version:
+  9
+openfda:

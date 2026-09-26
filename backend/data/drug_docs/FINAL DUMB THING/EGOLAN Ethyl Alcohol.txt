@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  EGOLAN Ethyl Alcohol ALCOHOL ALCOHOL WATER ALOE VERA LEAF EDETATE DISODIUM ANHYDROUS
+spl_unclassified_section:
+  DRUG FACTS
+  Kills 99.99% of germs Refreshing Moisturizers Manufacturer: Sanrace Biotechnology Co., Ltd Manufacturer Address: 268, Yanzhou Road, Lanxi Development Zone, Zhejiang Province. Made In China.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE: Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. do not inhale or ingest. Do not use in, or near the eyes. In case of contact with eyes, rinse thoroughly with water. Avoid contact with broken skin. Stop use and ask a doctor if irritation or rash develops and persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions • Wet hands thoroughly with product and allow to dry without wiping. • For children under 6, use only under adult supervision. • Not recommended for infants
+storage_and_handling:
+  Other Information • Store at room temperature (66°F-77°F) • May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water, Aloe Vera Gel, Disodium EDTA
+package_label_principal_display_panel:
+  Packaging IMAGE1 IMAGE2
+set_id:
+  f9aa7566-37ae-4713-bfeb-b07a2a20ad11
+id:
+  80406f70-6dc9-4414-9a07-813271134d0a
+effective_time:
+  20200615
+version:
+  1
+openfda:

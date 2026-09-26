@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Docosanol Docosanol DOCOSANOL DOCOSANOL BENZYL ALCOHOL LIGHT MINERAL OIL PROPYLENE GLYCOL WATER SUCROSE DISTEARATE SUCROSE STEARATE
+active_ingredient:
+  Active ingredient Docosanol 10%
+purpose:
+  Purpose Cold sore/fever blister treatment
+indications_and_usage:
+  Uses treats cold sores/fever blisters on the face or lips shortens healing time and duration of symptoms: • tingling, pain, burning, and/or itching
+warnings:
+  Warnings Allergy Alert This product may cause a severe allergic reaction. Symptoms may include: hives facial swelling wheezing/difficulty breathing shock rash If an allergic reaction occurs, stop use and seek medical help right away. For external use only
+do_not_use:
+  Do not use if you are allergic to any ingredient in this product
+when_using:
+  When using this product apply only to the affected areas do not use in or near the eyes avoid applying directly inside your mouth do not share this product with anyone. This may spread the infection.
+stop_use:
+  Stop use and ask a doctor if your cold sore gets worse or the cold sore is not healed within 10 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years or over: wash hands before and after applying cream apply to affected area on the face or lips at the first sign of cold sore/fever blister (tingle). early treatment ensures the best results rub in gently but completely use 5 times a day until healed children under 12 years: ask a doctor
+spl_unclassified_section:
+  Other information store at 20° to 25°C (68° to 77°F) do not freeze
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, light mineral oil, propylene glycol, purified water, sucrose distearate, sucrose stearate
+questions:
+  Questions or Comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal display panel Compare to active ingredient in Abreva®† Docosanol Cream 10% COLD SORE TREATMENT Non-prescription medicine to shorten healing time.* For topical use only NET WT 2g (0.07 OZ) †This product is not manufactured or distributed by GSK Consumer Healthcare, distributor of Abreva®. *Non-prescription cold sore medicine to shorten healing time and duration of symptoms. RETAIN THIS INSERT FOR FULL PRODUCT USES, DIRECTION AND WARNINGS. DISTRIBUTED BY: FOODHOLD U.S.A., LLC LANDOVER, MD 20785
+  Package label CARE ONE Docosanol Cream 10% Cold Sore Treatment Docosanol 10%
+set_id:
+  3587f8f0-99ab-4493-adde-0dfd0911170d
+id:
+  7647f893-702f-486f-92d4-5b7cccd2d714
+effective_time:
+  20221021
+version:
+  2
+openfda:
+  application_number:
+    ANDA208754
+  brand_name:
+    Docosanol
+  generic_name:
+    DOCOSANOL
+  manufacturer_name:
+    Care One (Retail Business Services, LLC.)
+  product_ndc:
+    72476-492
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DOCOSANOL
+  rxcui:
+    797534
+  spl_id:
+    7647f893-702f-486f-92d4-5b7cccd2d714
+  spl_set_id:
+    3587f8f0-99ab-4493-adde-0dfd0911170d
+  package_ndc:
+    72476-492-07
+  is_original_packager:
+    True
+  upc:
+    0341520005084
+  unii:
+    9G1OE216XY

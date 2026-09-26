@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  ANIOSGEL 85 NPC Ethanol ISOPROPYL ALCOHOL GLYCERIN ALCOHOL ALCOHOL ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) DIETHYLAMINOETHYL PEG-5 COCOATE LEVOMENOL AMINOMETHYLPROPANOL METHYLPROPANEDIOL
+active_ingredient:
+  Ethanol 70.0% (w/w) (equivalent to 76.91% v/v)
+purpose:
+  Antiseptic Hand Rub
+indications_and_usage:
+  Uses A hand rub to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only FLAMMABLE. Keep away from fire or flame, heat sparks and sources of static discharge. Do not use In eyes When using this product If in eyes, rinse promptly and thoroughly with water. Discontinue use if irritation and redness develop. Stop use and ask a doctor if skin irritatin or redness occurs for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a poison Control Center right away.
+do_not_use:
+  Do not use In eyes
+when_using:
+  When using this product If in eyes, rinse promptly and thoroughly with water. Discontinue use if irritation and redness develop.
+ask_doctor:
+  Stop use and ask a doctor if skin irritatin or redness occurs for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison Control Center right away.
+dosage_and_administration:
+  Apply product onto hands, spread thoroughly and rub until dry.
+references:
+  Other information Store at 41 - 77 °F (5 - 25 °C) See Safety Data Sheet (SDS) For emergency medical information in USA, call (800)726-2308
+inactive_ingredient:
+  Inactive ingredients Water (aqua), Isopropyl Alcohol, Glycerin, Acrylates/C10-30 Alkyl Acrylate Cross-polymer, PEG-5 Cocoate, Bisabolol, Aminomethyl Propanol, Methylpropanediol
+questions:
+  Questions or comments? Call (800)726-2308 Monday/Friday 9:00am to 5:00pm (UTC-4)
+package_label_principal_display_panel:
+  Principal display panel and representative label ANIOSGEL 85 NPC HAND SANITIZING GEL HAND-RUB Active ingredient: ethanol 70.0% w/w (equivalent to 76.91% v/v) 17 fl oz (500 mL) Manu factured by: Laboratoires Anios and Ecolab Company 1, rue de l'Espoir, Lezennes, France representative label PDP representative label DFT
+set_id:
+  5ee820cd-2dca-40d5-bd96-bbd54131c2f0
+id:
+  530314cb-fd9a-465d-af15-8ce5c5f4f454
+effective_time:
+  20250211
+version:
+  12
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    ANIOSGEL 85 NPC
+  generic_name:
+    ETHANOL
+  manufacturer_name:
+    Laboratoires Anios
+  product_ndc:
+    62169-203
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  spl_id:
+    530314cb-fd9a-465d-af15-8ce5c5f4f454
+  spl_set_id:
+    5ee820cd-2dca-40d5-bd96-bbd54131c2f0
+  package_ndc:
+    62169-203-17
+    62169-203-12
+  is_original_packager:
+    True
+  upc:
+    8980210003003
+  unii:
+    3K9958V90M

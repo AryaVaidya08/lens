@@ -1,0 +1,37 @@
+effective_time:
+  20150114
+inactive_ingredient:
+  
+purpose:
+  Purpose Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  
+spl_product_data_elements:
+  Tussin Guifenesin Expectrorant Syrup Guifenesin GUAIFENESIN GUAIFENESIN SODIUM BENZOATE SACCHARIN SODIUM MENTHOL, UNSPECIFIED FORM PROPYLENE GLYCOL GLYCERIN CORN SYRUP CITRIC ACID MONOHYDRATE FD&C RED NO. 40 WATER
+ask_doctor:
+  Ask a doctor before use if you have chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough occurs with too much mach phlegm (mucus)
+openfda:
+version:
+  1
+dosage_and_administration:
+  
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 1 week, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a seriuos conditions.
+package_label_principal_display_panel:
+  tussin
+indications_and_usage:
+  Helps loosen phlegn (mucus) to make coughs more productive.
+set_id:
+  0ca25fb1-c9b6-481d-e054-00144ff88e88
+id:
+  0ca25fb1-c9b7-481d-e054-00144ff88e88
+ask_doctor_or_pharmacist:
+  
+active_ingredient:
+  Active Ingredients (in each 5ml teaspoonful) Guaifenesin, USP 100 mg

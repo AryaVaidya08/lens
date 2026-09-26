@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Sovereign SilverBio-Active Silver Bio-Active Silver Hydrosol Silver WATER SILVER SILVER
+active_ingredient:
+  Active Ingredient: Silver
+inactive_ingredient:
+  Inactive Ingredient water
+purpose:
+  Silver has a long history of safe use in a diverse range of applications on heathcare, personal hygiene (including feminine douching) and water purification.
+keep_out_of_reach_of_children:
+  Enter section text here
+indications_and_usage:
+  Silver has a long history of safe use in a diverse range of applications in healthcare, personal hygiene (including feminine douching) and water purification. Can also be used on animals and plants affected by fungus, bacteria or viruses. Apply or spray as needed.
+dosage_and_administration:
+  Apply topically as necessary. Use droppers for ears and nostrils. For oral use, swish 1 or 2 teaspoons around the mouth for 1 to 2 minutes, then expel.
+warnings:
+  Precautions: There are no known safety issues associated with typical use of this product for adults, children, animal or plants. In the event of oral consumption, the US Environmental Protection Agency has established a daily oral Reference Dose for silver ingestion at 350 ug / day, over a 70 - year lifetime.
+package_label_principal_display_panel:
+  Package Labeling: 52166-003-01 Nat003_01
+  Package Labeling: 52166-003-02 Nat003_02
+  Package Labeling: 52166-003-03 Nat003_03
+  Package Labeling: 52166-003-04 Nat003_04
+  Package Labeling: 52166-003-05 Nat003_05
+  Package Labeling: 52166-003-06 Nat003_06
+  Package Labeling: 52166-003-08 Nat003_08
+  Package Labeling: 52166-003-09 Nat003_09
+set_id:
+  fcc5a925-3513-4289-8dd1-130ec989fc99
+id:
+  fc5ea734-6fff-bf7a-e053-6394a90aa080
+effective_time:
+  20230523
+version:
+  20
+openfda:

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  CVS Naturals calcium carbonate CALCIUM CARBONATE CALCIUM CATION CARBONATE ION DEXTROSE, UNSPECIFIED FORM ACACIA STARCH, CORN STEARIC ACID STEVIA REBAUDIANA LEAF SUCROSE TUMS;N
+active_ingredient:
+  Active ingredient (per tablet) Calcium carbonate 1000 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves • heartburn • acid indigestion • sour stomach • upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product • do not take more than 7 tablets in 24 hours • If pregnant do not take more than 5 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks, except under the advice and supervision of a doctor Keep out of reach of children
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  When using this product • do not take more than 7 tablets in 24 hours • If pregnant do not take more than 5 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks, except under the advice and supervision of a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions • adults and children 12 years of age and over: chew or crush 2-3 tablets completely as symptoms occur, or as directed by a doctor. Do not swallow tablets whole. • do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+other_safety_information:
+  Other information • each tablet contains: calcium 400 mg • Store at room temperature. Keep the container tightly closed
+inactive_ingredient:
+  Inactive ingredients (Coconut Pineapple) Dextrose, gum, Arabic, natural flavors, starch, stearic acid, stevia extract, sucrose,
+questions:
+  Questions or comments? 1-866-467-2748
+package_label_principal_display_panel:
+  Principal Display Panel *Compare to the active ingredient in Ultra Strength Tums Naturals NDC 51316-300-56 ULTRA STRENGTH Antacid Tablets Calcium Carbonate 1000 mg NO ARTIFICIAL FLAVORS OR DYES Natural Coconut Pineapple Flavor 56 CHEWABLE TABLETS Do not use if printed inner safety seal under cap is broken or missing. Distributed by: *This product is not manufactured or distributed by GlaxoSmithKline, the distributer of Ultra Strength Tums Naturals. CVS Ultra Strength Antacid 56 Chewable Tablets
+set_id:
+  899f057a-914d-49ca-a9fd-9fc48149782a
+id:
+  2cbff28f-1868-4b6d-8332-235531642a28
+effective_time:
+  20260814
+version:
+  7
+openfda:
+  application_number:
+    M001
+  brand_name:
+    CVS Naturals
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    CVS PHARMACY
+  product_ndc:
+    51316-300
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308892
+  spl_id:
+    2cbff28f-1868-4b6d-8332-235531642a28
+  spl_set_id:
+    899f057a-914d-49ca-a9fd-9fc48149782a
+  package_ndc:
+    51316-300-56
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

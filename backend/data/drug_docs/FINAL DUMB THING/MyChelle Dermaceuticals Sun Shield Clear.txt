@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  MyChelle Dermaceuticals Sun Shield Clear SPF 30 Protect Zinc Oxide Zinc Oxide Zinc Oxide Water Bentonite Butyloctyl Salicylate Caprylhydroxamic Acid Medium-Chain Triglycerides Caprylyl Glycol Safflower Oil Cetostearyl Alcohol Coco Glucoside Glycerin Heptyl Undecylenate HYDROGENATED JOJOBA OIL, RANDOMIZED Methyl Dihydroabietate Vanillin
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active Ingredients Zinc Oxide 12%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings Do not puncture or incinerate can. Keep away from fire and flames. For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash and irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash and irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions SHAKE WELL BEFORE USE. Spray liberally and evenly 15 minutes before sun exposure. Hold container 4 to 6 inches from skin to apply. Do not spray directly on face. Spray on hands and apply to face. Avoid inhaling or exposing others to spray. Reapply: After 80 minutes of swimming or sweating. Immediately after towel drying At least every 2 hours. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. – 2 p.m. Wear long-sleeve shirts, pants, hats and sunglasses. Children under 6 months: ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Bentonite, Butyloctyl Salicylate, Caprylhydroxamic Acid, Caprylic/Capric Triglyceride, Caprylyl Glycol, Carthamus Tinctorius (Safflower) Seed Oil, Cetearyl Alcohol, Coco-Glucoside, Glycerin, Heptyl Undecylenate, Jojoba Esters, Methyl Dihydroabietate, Vanillin, Water
+storage_and_handling:
+  Other information Protect this product from excessive heat and direct sun. May stain some fabrics
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 177 mL Bottle Label MyCHELLE ® DERMACEUTICALS PROTECT Sun Shield Clear Spray SPF 30 Water Resistant Broad-spectrum Protection Mineral-Rich Bentonite Clay & Jojoba, Condition & Balance REEF SAFE SAME FORMULA NEW LOOK clean label PROJECT ® CERTIFIED 6.0 fl oz/177 mL Principal Display Panel - 177 mL Bottle Label
+set_id:
+  6d2b0af6-e570-4085-8456-2509ebaea37c
+id:
+  48e71612-e5d6-43a1-88fb-793d0673aeda
+effective_time:
+  20220107
+version:
+  2
+openfda:

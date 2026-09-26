@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  HAND SANITIZER ALCOHOL ALCOHOL ALCOHOL WATER GLYCERIN DMDM HYDANTOIN IODOPROPYNYL BUTYLCARBAMATE
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active ingredient Ethyl alcohol 70% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only . Do not ingest, if swallowed seek medical help. Avoid contact with eyes. Keep out of reach of children. Children under 6yrs old to use under adult supervision. In case of irritation, discontinue use and consult your doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children under 6yrs old to use under adult supervision. In case of irritation, discontinue use and consult your doctor.
+dosage_and_administration:
+  Directions Apply the gel on the hands and rub gently for 20 seconds until the product evaporates.
+storage_and_handling:
+  Other information Store below 106ºF (41 ºC). May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Demineralized water, glycerin, carbomero, May contain this ingredient. fragrance, trietanolamina, dmdm hydantoin, aloe barbadensis extract, iodopropynyl butylcarbamate.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 250 ml Bottle Label projectc.u.r.e. www.projectcure.org HAND SANITIZER 70% ALCOHOL NDC: XXXXXXX 8.45 FL OZ (250ml) PRINCIPAL DISPLAY PANEL - 250 ml Bottle Label
+set_id:
+  f71b1b32-dc30-4093-a9c2-61d851642240
+id:
+  b3478e7c-a976-431f-b7b1-74efc864f783
+effective_time:
+  20220913
+version:
+  2
+openfda:

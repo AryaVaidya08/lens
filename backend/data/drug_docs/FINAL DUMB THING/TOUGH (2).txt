@@ -1,0 +1,31 @@
+effective_time:
+  20200831
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Isopropyl Alcohol, Diisopropyl Sebacate, Glycerin, Isopropyl Myristate, Propylene Glycol, Tocopheryl Acetate, Aminomethyl Propanol, Carbomer, Fragrance (Parfum)
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  TOUGH GUY Instant Hand Sanitizer ALCOHOL ALCOHOL ALCOHOL WATER ISOPROPYL ALCOHOL DIISOPROPYL SEBACATE GLYCERIN ISOPROPYL MYRISTATE PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE AMINOMETHYLPROPANOL CARBOXYPOLYMETHYLENE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Place enough product in your palm to thoroughly cover your hands Rub hands together briskly until dry Children under 6 years of age should be supervised when using this product.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+package_label_principal_display_panel:
+  Product Label
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin that could cause disease
+set_id:
+  bf755b7b-bfaa-4be4-b387-30699b6b1c2b
+id:
+  ccc7aae9-4b1b-46a6-82ad-b0a285d8e7e3
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%

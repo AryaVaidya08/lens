@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  K2 Cold Therapy Menthol ALOE VERA LEAF CAMPHOR (NATURAL) EUCALYPTUS GLOBULUS LEAF FD&C BLUE NO. 1 FD&C YELLOW NO. 5 POLYSORBATE 80 ROSMARINUS OFFICINALIS WHOLE ALCOHOL SIMMONDSIA CHINENSIS WHOLE SORBITAN SESQUIOLEATE STEARETH-2 STEARETH-20 UREA VITIS VINIFERA SEED WATER MENTHOL MENTHOL
+active_ingredient:
+  Active ingredient: Menthol 10%
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Uses TEMPORARILY RELIEVES MINOR PAIN ASSOCIATED WITH: ARTHRITIS SIMPLE BACKACHE MUSCLE STRAINS SPRAINS
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product Use only as directed Do not bandage tighlty or use with a heating pad Avoid contact with eyes and mucous membranes Do not apply to wounds or damaged, broken, or irritated skin.
+stop_use:
+  Stop use and ask a doctor if Condition worsens Redness is present Irritation develops Symptoms persist for more than 7 days or clear up and reoccur within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: Apply a thin layer over the affected area not more than 3 to 4 times daily. Children 12 years of age or younger: Consult a doctor. Close cap tightly after use.
+storage_and_handling:
+  Other information Store at controlled room temperature. Do not shake bottle with cap removed.
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf Juice, Camphor, Eucalyptus Globulus Leaf Oil, FD&C Blue #1, FD&C Yellow #5, Polysorbate 80, Rosmarinus Officinalis (Rosemary) Oil, SD 40 Alcohol (5%) Simmondsia Chinensis (Jojoba) Seed Oil, Sorbitan Sesquioleate, Steareth 2, Steareth 20, Urea, Vitis Vinifera (Grape) Seed Extract, Water (Purified)
+questions:
+  Questions or Suggestions? 1.855.763.8733 or visit us at www.thepodiatreecompany.com . Our commitment to you is 100% satisf ication. If you are not completely satisfied, please contact us for a full refund.
+package_label_principal_display_panel:
+  label
+set_id:
+  60dce1ad-125e-396d-e053-2a91aa0a670f
+id:
+  47e35d17-8734-e55a-e063-6294a90a82ee
+effective_time:
+  20260108
+version:
+  4
+openfda:
+  application_number:
+    M017
+  brand_name:
+    K2 Cold Therapy
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    The Podiatree Co
+  product_ndc:
+    54633-414
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    259249
+  spl_id:
+    47e35d17-8734-e55a-e063-6294a90a82ee
+  spl_set_id:
+    60dce1ad-125e-396d-e053-2a91aa0a670f
+  package_ndc:
+    54633-414-03
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

@@ -1,0 +1,76 @@
+spl_product_data_elements:
+  Always Save Chest Congestion Relief DM Dextromethorphan Hydrobromide / Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN Guaifenesin Guaifenesin SILICON DIOXIDE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE MALTODEXTRIN STEARIC ACID PH073
+active_ingredient:
+  Active ingredient - (per tablet) Dextromethorphan Hydrobromide 20mg Guaifenesin 400mg
+purpose:
+  Purpose Cough Suppressant Expectorant
+indications_and_usage:
+  Uses ■ Temporarily relieves cough due to minor throat and bronchial irritation as may occur with a common cold ■ Helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus ■ Helps make coughs more productive.
+warnings:
+  Warnings Do not use ■ if you are now taking a prescription monoamine oxidase (inhiMor~MAIO) (Certain drugs for depression, psychiatric or emotional conditioners or Parkinson's disease)or for 2 weeks after stopping MAIO drug, If you do not know if your prescription drug contains an MAIO, ask your doctor or pharmacist before using this product.
+ask_doctor:
+  Ask doctor before use if you have ■ persistent or chronic cough, such as occurs with smoking, asthma, bronchitis or emphysma ■ cough is accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask doctor if ■ symptoms are accompanied by fever, rash or persistent headache ■ cough persists for more than 1 week or tends to recur. A persistent cough may be a sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Center immediately.
+dosage_and_administration:
+  Directions ■ Adults and children 12 years of age and over : take 1 tablet every 4 hours as needed. ■ Children 6 to 10 under 12 years of age: take 1/2 tablet every 4 hours as needed. ■ Children under 6 years of age: consult a doctor. Do not exceed 6 doses in a 24 hour period or as directed by a doctor
+storage_and_handling:
+  Other Information Store at 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive Ingredients magnesium stearate, microcrystalline cellulose. May also contain (colloidal) silicon dioxide, (co) povidone, dicalcium phosphate, maltodextrin, sodium starch glycolate, stearic acid. image of display
+package_label_principal_display_panel:
+  
+set_id:
+  a72b6a97-f97f-44bb-8d55-ac48b8ba45c5
+id:
+  81dcb715-19e9-44b7-ab73-a7def56a7633
+effective_time:
+  20241218
+version:
+  7
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Always Save Chest Congestion Relief DM
+  generic_name:
+    DEXTROMETHORPHAN HYDROBROMIDE / GUAIFENESIN
+  manufacturer_name:
+    Valu Merch
+  product_ndc:
+    63941-985
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  rxcui:
+    1147685
+  spl_id:
+    81dcb715-19e9-44b7-ab73-a7def56a7633
+  spl_set_id:
+    a72b6a97-f97f-44bb-8d55-ac48b8ba45c5
+  package_ndc:
+    63941-985-50
+  is_original_packager:
+    True
+  upc:
+    0070038666936
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

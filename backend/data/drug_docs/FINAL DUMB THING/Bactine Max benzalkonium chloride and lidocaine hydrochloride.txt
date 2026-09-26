@@ -1,0 +1,44 @@
+effective_time:
+  20190308
+inactive_ingredient:
+  Inactive ingredients edetate disodium, fragrances, nonoxynol 9, propylene glycol, purified water
+purpose:
+  Active ingredients Purpose Benzalkonium Cl 0.13% w/w First aid antiseptic Lidocaine HCl 4% w/w Pain relieving spray
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Ask a doctor before use if you have deep or puncture wounds animal bites serious burns When using this product do not use in or near the eyes do not apply over large areas of the body or in large quantities do not apply over raw surfaces or blistered areas Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes do not apply over large areas of the body or in large quantities do not apply over raw surfaces or blistered areas
+questions:
+  Questions? 1-844-241-5454 Mon-Fri (8-5 EST) or www.bactine.com
+spl_product_data_elements:
+  Bactine Max benzalkonium chloride and lidocaine hydrochloride EDETATE DISODIUM NONOXYNOL-9 PROPYLENE GLYCOL WATER BENZALKONIUM CHLORIDE BENZALKONIUM LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions adults and children 2 years and older: clean the affected area; apply a small amount on the area 1-3 times daily; may be covered with a sterile bandage (let dry first) children under 2 years, ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Money Back Guarantee Manufactured for: WellSpring, Sarasota, FL 34243 ©2018 *germs commonly associated with skin infections.
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days
+storage_and_handling:
+  Other information avoid excessive heat
+active_ingredient_table:
+  <table> <col/> <col/> <thead> <tr> <th valign="top"> <content styleCode="italics">Active ingredients</content> </th> <th align="right" valign="top"> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td valign="top"> Benzalkonium Cl 0.13% w/w</td> <td align="right" valign="top"> First aid antiseptic</td> </tr> <tr> <td valign="top"> Lidocaine HCl 4% w/w</td> <td align="right" valign="top"> Pain relieving spray</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  back label
+indications_and_usage:
+  Uses first aid to help prevent bacterial contamination or skin infection, and for temporary relief of pain and itching associated with minor: cuts scrapes minor burns sunburn minor skin irritations
+set_id:
+  839c78aa-3b01-fb8d-e053-2a91aa0ab199
+id:
+  839c78aa-3b02-fb8d-e053-2a91aa0ab199
+purpose_table:
+  <table> <col/> <col/> <thead> <tr> <th valign="top"> <content styleCode="italics">Active ingredients</content> </th> <th align="right" valign="top"> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td valign="top"> Benzalkonium Cl 0.13% w/w</td> <td align="right" valign="top"> First aid antiseptic</td> </tr> <tr> <td valign="top"> Lidocaine HCl 4% w/w</td> <td align="right" valign="top"> Pain relieving spray</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Benzalkonium Cl 0.13% w/w First aid antiseptic Lidocaine HCl 4% w/w Pain relieving spray

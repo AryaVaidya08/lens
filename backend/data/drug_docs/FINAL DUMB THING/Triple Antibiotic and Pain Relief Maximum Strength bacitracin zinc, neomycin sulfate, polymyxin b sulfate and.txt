@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Triple Antibiotic and Pain Relief Maximum Strength bacitracin zinc, neomycin sulfate, polymyxin b sulfate and pramoxine hydrochloride BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN POLYMYXIN B SULFATE POLYMYXIN B PRAMOXINE HYDROCHLORIDE PRAMOXINE PETROLATUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each gram) Bacitracin zinc, USP 500 units Neomycin 3.5 mg Polymyxin B sulfate, USP 10,000 units Pramoxine hydrochloride, USP 10 mg
+purpose:
+  Purposes First aid antibiotic/Pain reliever
+indications_and_usage:
+  Uses First aid to help prevent infection and for temporary relief of pain or discomfort due to minor cuts scrapes burns
+warnings:
+  Warnings For external use only Allergy alert: do not use if allergic to any of the ingredients Do not use in the eyes over large areas of the body Ask a doctor before use if you have deep or puncture wounds animal bites serious burns When using this product do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if condition persists or gets worse symptoms last for more than 7 days or clear up and come back within a few days a rash or other allergic reaction develops Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the eyes over large areas of the body
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+when_using:
+  When using this product do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse symptoms last for more than 7 days or clear up and come back within a few days a rash or other allergic reaction develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: clean affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage Children under 2 years of age: ask a doctor
+storage_and_handling:
+  Other information Store at 59°-86°F (15°-30°C). Before using any medication, read all label directions. Keep carton, it contains important information.
+inactive_ingredient:
+  Inactive ingredient white petrolatum
+questions:
+  Questions? 1-800-432-8534 between 9 am and 4 pm EST, Monday-Friday.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL CVSHealth ™ Compare to the active ingredients in Neosporin ® + Pain Relief * NDC 59779-823-34 Infection prevention for: • Burns • Cuts • Scrapes MAXIMUM STRENGTH OINTMENT Triple Antibiotic & Pain Relief BACITRACIN ZINC–NEOMYCIN SULFATE-POLYMYXIN B SULFATE-PRAMOXINE HCl First aid antibiotic/pain relieving ointment NET WT 0.5 OZ (14 g) Triple Antibiotic & Pain Relief
+set_id:
+  2d22e35c-e7cf-41af-8f60-eb4261a7a40b
+id:
+  5e900ecc-7701-4d6d-a908-37c68eb6c66c
+effective_time:
+  20231009
+version:
+  7
+openfda:

@@ -1,0 +1,37 @@
+effective_time:
+  20200914
+inactive_ingredient:
+  Inactive ingredients Glycerin Fragrance Phenoxyethanol Ethylhexylglycerin Propylene Glycol Didecyldimonium Chloride Alcohol Water
+purpose:
+  Purpose Antiseptic, DISINFECTING WIPES
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  DISINFECTING WIPES BENZALKONIUM CHLORIDE GLYCERIN FRAGRANCE LAVENDER & CHIA F-153480 WATER BENZALKONIUM CHLORIDE BENZALKONIUM PHENOXYETHANOL .ALPHA.-TOCOPHEROL ACETATE POLYSORBATE 20 PROPYLENE GLYCOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Wipe the surface of the skin and let it dry naturally. Supervise children under 6 years of age when using this product to avoid swallowing.
+spl_unclassified_section:
+  DISINFECTING WIPES
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel label
+indications_and_usage:
+  Use DISINFECTING WIPES to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+set_id:
+  af52d785-a20a-ac6b-e053-2995a90acda6
+id:
+  af52c5a4-df85-5a26-e053-2a95a90adbea
+active_ingredient:
+  Active Ingredient(s) BENZALKONIUM CHLORIDE 0.0052mg/pcs. Purpose: Antiseptic

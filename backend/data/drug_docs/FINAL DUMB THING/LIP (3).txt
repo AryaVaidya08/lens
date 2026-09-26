@@ -1,0 +1,19 @@
+spl_product_data_elements:
+  LIP BALM ZINC OXIDE LIP BALM .DELTA.-TOCOPHEROL .BETA.-TOCOPHEROL CASTOR OIL OLIVE OIL JOJOBA OIL SUNFLOWER OIL .ALPHA.-TOCOPHEROL, D- .GAMMA.-TOCOPHEROL ZINC OXIDE ZINC OXIDE WHITE WAX SHEA BUTTER COCONUT OIL
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION OTC A
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN OTC Keep Out Of Reach Of Children
+purpose:
+  OTC - PURPOSE OTC Purpose
+package_label_principal_display_panel:
+  ARTWORK Artwork
+set_id:
+  b7b687d3-e29a-7a18-e053-2a95a90aafad
+id:
+  b7b687d3-e29b-7a18-e053-2a95a90aafad
+effective_time:
+  20201230
+version:
+  1
+openfda:

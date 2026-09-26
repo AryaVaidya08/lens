@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Clorox Antimicrobial Benzalkonium Chloride SODIUM LAURETH SULFATE SODIUM CHLORIDE SODIUM C14-16 OLEFIN SULFONATE COCAMIDOPROPYL BETAINE C12-14 PARETH-12 EDETATE DISODIUM ANHYDROUS SODIUM BICARBONATE METHYLCHLOROISOTHIAZOLINONE WATER PONCEAU 4R FD&C YELLOW NO. 6 BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use For handwashing to decrease bacteria on skin
+warnings:
+  Warnings For external use only. In case of accidental ingestion, drink a glass of water to dilute. If eye contact occurs, rinse thoroughly with water. If irritation persists, contact a Poison Control Center right away. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Apply onto wet hands, lather for 30 seconds and rinse thoroughly.
+spl_unclassified_section:
+  Other Information Avoid freezing and excessive heat above 40C (104F).
+  Do not add bleach. Not for use in dishwashers. PHOSPATE-FREE BLEACH-FREE Distributed by: Brand Buzz LLC., 1407 Broadway, New York, NY 10018 Clorox and logo are registered trademarks of the Clorox Company and are used under license by Brand Buzz LLC. All Rights Reserved.
+inactive_ingredient:
+  Inactive ingredients Water, Sodium Laureth Sulfate, Sodium Chlroride, Sodium C14-16 Olefin Sulfonate, Cocamidopropyl Betaine, Laureth-3, Sodium Bicarbonate, Disodium EDTA, Fragrance, Methylchloroisothiazolinone, Methylisothiazoline, Yellow 6(Ci 15985), Red 7(Ci 16255).
+questions:
+  Questions or Comments? Visit us at www.brandbuzzcp.com or call us at: 1-888-508-4750 For more product ingredient information, visit www.brandbuzzcp.com/ingredients
+package_label_principal_display_panel:
+  Clorox Antimicrobial HandSoap Ultra Concentrated Dishwashing Liquid Orange Fusion with Oxi Bleach-Free 8FL OZ (0.5 PT) 236 mL Label 22FL OZ (1.375 PT) 650 mL Label Label2
+set_id:
+  524dcf04-3a8e-4132-b18d-804481bcf11e
+id:
+  f12d5c87-eb65-0b6d-e053-2995a90a6163
+effective_time:
+  20221231
+version:
+  3
+openfda:

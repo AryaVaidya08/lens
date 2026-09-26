@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE Sabina Sabina JUNIPERUS SABINA LEAFY TWIG JUNIPERUS SABINA LEAFY TWIG SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Sabina 6C 5g Sabina 6C 30g Sabina 6C 100g Sabina 12C 5g Sabina 12C 30g Sabina 12C 100g Sabina 30C 1g Sabina 30C 5g Sabina 30C 30g Sabina 30C 100g Sabina 100C 1g Sabina 100C 5g Sabina 100C 30g Sabina 100C 100g Sabina 200C 1g Sabina 200C 5g Sabina 200C 30g Sabina 200C 100g Sabina 500C 1g Sabina 500C 5g Sabina 500C 30g Sabina 500C 100g Sabina 1M 1g Sabina 1M 5g Sabina 1M 30g Sabina 1M 100g Sabina LM1 30g
+set_id:
+  f21eceaf-b411-28a5-e053-2995a90a6fcd
+id:
+  f21eceaf-b412-28a5-e053-2995a90a6fcd
+effective_time:
+  20230112
+version:
+  1
+openfda:
+  brand_name:
+    Sabina
+  generic_name:
+    SABINA
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-2364
+    37662-2366
+    37662-2369
+    37662-2370
+    37662-2367
+    37662-2365
+    37662-2368
+    37662-2371
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    JUNIPERUS SABINA LEAFY TWIG
+  spl_id:
+    f21eceaf-b412-28a5-e053-2995a90a6fcd
+  spl_set_id:
+    f21eceaf-b411-28a5-e053-2995a90a6fcd
+  package_ndc:
+    37662-2366-1
+    37662-2366-2
+    37662-2366-3
+    37662-2366-4
+    37662-2369-1
+    37662-2369-2
+    37662-2369-3
+    37662-2369-4
+    37662-2370-1
+    37662-2370-2
+    37662-2370-3
+    37662-2370-4
+    37662-2367-1
+    37662-2367-2
+    37662-2367-3
+    37662-2367-4
+    37662-2365-1
+    37662-2365-2
+    37662-2365-3
+    37662-2364-1
+    37662-2364-2
+    37662-2364-3
+    37662-2368-1
+    37662-2368-2
+    37662-2368-3
+    37662-2368-4
+    37662-2371-1
+  is_original_packager:
+    True
+  unii:
+    Z5BEX9K2G1

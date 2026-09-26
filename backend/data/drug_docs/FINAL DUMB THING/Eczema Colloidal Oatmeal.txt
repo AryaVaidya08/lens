@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Eczema Colloidal Oatmeal WATER SQUALANE MEDIUM-CHAIN TRIGLYCERIDES GLYCERIN SUNFLOWER SEED OIL GLYCERETH-8 ESTERS 12-HYDROXYSTEARIC ACID SHEA BUTTER HYDROGENATED JOJOBA OIL, RANDOMIZED CETOSTEARYL ALCOHOL PROPANEDIOL HYDROXYACETOPHENONE SODIUM STEAROYL LACTYLATE XANTHAN GUM CITRIC ACID MONOHYDRATE ETHYLHEXYLGLYCERIN POTASSIUM SORBATE CERAMIDE NP HEXASODIUM PHYTATE TOCOPHEROL OATMEAL OATMEAL
+active_ingredient:
+  Active Ingredients Colloidal Oatmeal 1% Purpose Skin Protectant
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritation and itching due to eczema rashes
+warnings:
+  Warnings For external use only When using this product do not get into eyes Stop use and aks a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes Stop use and aks a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and aks a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply as needed
+other_safety_information:
+  Other information Protect this product from excessive heat and direct sunlight
+inactive_ingredient:
+  Inactive Ingredients Water, Squalane, Caprylic/Capric Triglyceride, Glycerin, Hydrogenated Sunflower Seed Oil Polyglyceryl-3 Esters, Hydroxystearic/Linolenic/Oleic Polyglycerides, Butyrospermum Parkii (Shea ) Butter, Jojoba Esters. Cetearyl Alcohol, Hydrogenated Sunflower Seed Oil Glyceryl Esters, Propanediol, Hydroxyacetophenone, Sodium Stearoyl Lactylate, Xanthan Gum, Citric Acid, Ethylhexylglycerin, Potassium Sorbate, Ceramide NP, Sodium Phytate, Tocopherol.
+package_label_principal_display_panel:
+  eczemaUC
+set_id:
+  25bd4368-0cb5-4396-8f26-ac0dac8e1be2
+id:
+  ec9769f6-68e7-7c92-e053-2a95a90a0bf6
+effective_time:
+  20221103
+version:
+  7
+openfda:

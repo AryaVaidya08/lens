@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  LISTERINE Original Antiseptic Eucalyptol, Menthol, Unspecified Form, Methyl Salicylate, and Thymol WATER ALCOHOL BENZOIC ACID POLOXAMER 407 SODIUM BENZOATE CARAMEL EUCALYPTOL EUCALYPTOL MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM METHYL SALICYLATE SALICYLIC ACID THYMOL THYMOL
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Kenvue Brands LLC Summit, NJ 07901
+active_ingredient:
+  Active ingredient Purpose Eucalyptol (0.092%) Antiplaque/antigingivitis Menthol (0.042%) Antiplaque/antigingivitis Methyl Salicylate (0.060%) Antiplaque/antigingivitis Thymol (0.064%) Antiplaque/antigingivitis
+active_ingredient_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><thead><tr><th styleCode="Lrule Rrule"><content styleCode="italics">Active ingredient</content></th><th styleCode="Rrule"><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Eucalyptol (0.092%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Menthol (0.042%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Methyl Salicylate (0.060%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr><tr><td styleCode="Lrule Rrule">Thymol (0.064%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr></tbody></table>
+purpose:
+  Active ingredient Purpose Eucalyptol (0.092%) Antiplaque/antigingivitis Menthol (0.042%) Antiplaque/antigingivitis Methyl Salicylate (0.060%) Antiplaque/antigingivitis Thymol (0.064%) Antiplaque/antigingivitis
+purpose_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><thead><tr><th styleCode="Lrule Rrule"><content styleCode="italics">Active ingredient</content></th><th styleCode="Rrule"><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Eucalyptol (0.092%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Menthol (0.042%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule">Methyl Salicylate (0.060%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr><tr><td styleCode="Lrule Rrule">Thymol (0.064%)</td><td styleCode="Rrule">Antiplaque/antigingivitis</td></tr></tbody></table>
+indications_and_usage:
+  Use helps prevent and reduce: plaque gingivitis
+warnings:
+  Warnings Do not use in children under 12 years of age Ask a dentist if symptoms persist, new symptoms appear, or conditions worsen after regular use Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children under 12 years of age
+ask_doctor:
+  Ask a dentist if symptoms persist, new symptoms appear, or conditions worsen after regular use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions rinse full strength for 30 seconds with 20mL (2/3 fluid ounce or 4 teaspoonfuls) morning and night do not swallow
+storage_and_handling:
+  Other information this rinse is not intended to replace brushing or flossing store at room temperature cold weather may cloud this product. Its antiseptic properties are not affected.
+inactive_ingredient:
+  Inactive ingredients water, alcohol (26.9% v/v), benzoic acid, poloxamer 407, sodium benzoate, caramel
+questions:
+  Questions? call toll-free 888-222-0182 or 215-273-8755 (collect)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1.0 L Bottle Label ANTIGINGIVITIS / ANTIPLAQUE MOUTHWASH LISTERINE® ORIGINAL ANTISEPTIC FOR A FRESHER & CLEANER MOUTH THAN BRUSHING ALONE 1.0 L (1 Qt 1.8 Fl Oz) Listerine_1
+set_id:
+  78e2e172-09a4-4bf1-9871-d099c49087be
+id:
+  2f2db917-d08b-0560-e063-6394a90aba42
+effective_time:
+  20250228
+version:
+  11
+openfda:
+  application_number:
+    M022
+  brand_name:
+    LISTERINE Original Antiseptic
+  generic_name:
+    EUCALYPTOL, MENTHOL, UNSPECIFIED FORM, METHYL SALICYLATE, AND THYMOL
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0400
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    EUCALYPTOL
+    MENTHOL, UNSPECIFIED FORM
+    METHYL SALICYLATE
+    THYMOL
+  rxcui:
+    1043619
+    1043623
+  spl_id:
+    2f2db917-d08b-0560-e063-6394a90aba42
+  spl_set_id:
+    78e2e172-09a4-4bf1-9871-d099c49087be
+  package_ndc:
+    69968-0400-2
+    69968-0400-5
+    69968-0400-3
+    69968-0400-1
+    69968-0400-9
+    69968-0400-8
+  is_original_packager:
+    True
+  upc:
+    0312547701525
+  unii:
+    RV6J6604TK
+    L7T10EIP3A
+    LAV5U5022Y
+    3J50XA376E

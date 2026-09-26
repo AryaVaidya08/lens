@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Saline Saline SODIUM PHOSPHATE, DIBASIC SODIUM PHOSPHATE, MONOBASIC BENZYL ALCOHOL BENZALKONIUM CHLORIDE SODIUM CHLORIDE CHLORIDE ION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Sodium Chloride 0.65%
+purpose:
+  Purpose For allergies: cold, flu, sinusitis, rhinitis and dry irritated nasal passages
+inactive_ingredient:
+  Ingredients A solution of sodium chloride 0.65% in purified water (USP), made isotonic with sodium phosphate dibasic and sodium phosphate monobasic, with benzyl alcohol and benzalkonium chloride as preservatives.
+indications_and_usage:
+  Uses for dry nasal membranes squeeze twice in each nostril as needed.
+dosage_and_administration:
+  Directions upright delivers as a spray, horizontally as a stream, upside down as a drop.
+warnings:
+  Warnings If pregnant or breast-feeding, ask a healthcare professional before use. Use of this container by more than one person may spread infection.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? Call 1-844-832-1138 *This product is not manufactured or distributed by Valeant Consumer Products, Distributors of Ocean Saline Nasal Spray.
+package_label_principal_display_panel:
+  Saline Nasal Spray Distributed by: Healthlife of USA 1600 Hart Street, Rahway, NJ 07065 www.healthlifeofusa.com image description
+set_id:
+  70bfb707-e86e-44da-9a2e-f18f81348180
+id:
+  08470a52-4d52-8699-e063-6394a90ac901
+effective_time:
+  20231021
+version:
+  2
+openfda:

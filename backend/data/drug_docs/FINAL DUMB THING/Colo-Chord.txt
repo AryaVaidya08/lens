@@ -1,0 +1,116 @@
+spl_product_data_elements:
+  Colo-Chord Homeopathic Liquid ABELMOSCHUS MOSCHATUS SEED ABELMOSCHUS MOSCHATUS SEED ARANEUS DIADEMATUS ARANEUS DIADEMATUS ASAFETIDA ASAFETIDA BAPTISIA TINCTORIA ROOT BAPTISIA TINCTORIA ROOT BERBERIS VULGARIS ROOT BARK BERBERIS VULGARIS ROOT BARK CANDIDA ALBICANS CANDIDA ALBICANS ACTIVATED CHARCOAL ACTIVATED CHARCOAL ESCHERICHIA COLI ESCHERICHIA COLI BOS TAURUS COLOSTRUM BOS TAURUS COLOSTRUM MARSDENIA CONDURANGO BARK MARSDENIA CONDURANGO BARK BOS TAURUS BILE BOS TAURUS BILE PORK LIVER PORK LIVER COW MILK COW MILK LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE MANDRAGORA OFFICINARUM ROOT MANDRAGORA OFFICINARUM ROOT MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS SUS SCROFA NASAL MUCOSA SUS SCROFA NASAL MUCOSA FRANGULA PURSHIANA BARK FRANGULA PURSHIANA BARK RHEUM OFFICINALE ROOT RHEUM OFFICINALE ROOT SELENIUM SELENIUM VERATRUM ALBUM ROOT VERATRUM ALBUM ROOT WATER GLYCERIN ALCOHOL
+active_ingredient:
+  Active ingredients 59.1 mL contains 4.16% of Abelmos 12X; Aranea 12X; Asafoetida 12X; Baptisia 30X; Berber vulg 4X; Candida alb 18X; Carbo veg 15X, 30X; Colibacillinum 24C; Colostrum 8X; Condurango 12X; Fel tauri 8X; Hepar suis 9X, 12X, 6C; Lac vac 12X; Lycopodium 12X; Mandragora 12X; Merc solub 12X; Mucosa nas 9X; Rhamnus pursh 4X; Rheum 4X; Selenium 15X; Veratrum alb 12X. Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+indications_and_usage:
+  Uses Temporary relief of abdominal discomfort, flatulence, diarrhea, constipation.
+warnings:
+  Warnings In case of overdose, get medical help or contact a Poison Control Center right away. If pregnant or breast feeding , ask a health professional before use. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Take 30 drops orally twice daily or as directed by a healthcare professional. Consult a physician for use in children under 12 years of age or if symptoms worsen or persist.
+other_safety_information:
+  Other information Store at room temperature out of direct sunlight. Do not use if neck wrap is broken or missing. Shake well before use.
+inactive_ingredient:
+  Inactive ingredients Cane Alcohol, Vegetable Glycerin, Purified Water.
+questions:
+  Distributed by Energetix Corp. Dahlonega, GA 30533 Questions? Comments? 800.990.7085 www.energetix.com
+package_label_principal_display_panel:
+  energetix® Colo-Chord Homeopathic Remedy Abdominal discomfort, flatulence, diarrhea, constipation. 2 fl oz (59.1 mL) / 15% Cane Alcohol Colo-Chord r02-26 02081 Purpose Temporary relief of abdominal discomfort, flatulence, diarrhea, constipation.
+purpose:
+  Purpose Temporary relief of abdominal discomfort, flatulence, diarrhea, constipation.
+set_id:
+  0b7c876b-05c6-4d70-a420-76c5470ac503
+id:
+  58c8a8dc-99c5-136b-e063-6394a90a8fb0
+effective_time:
+  20260811
+version:
+  10
+openfda:
+  brand_name:
+    Colo-Chord
+  generic_name:
+    HOMEOPATHIC LIQUID
+  manufacturer_name:
+    Energetix Corporation
+  product_ndc:
+    64578-0061
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ABELMOSCHUS MOSCHATUS SEED
+    ARANEUS DIADEMATUS
+    ASAFETIDA
+    BAPTISIA TINCTORIA ROOT
+    BERBERIS VULGARIS ROOT BARK
+    CANDIDA ALBICANS
+    ACTIVATED CHARCOAL
+    ESCHERICHIA COLI
+    BOS TAURUS COLOSTRUM
+    MARSDENIA CONDURANGO BARK
+    BOS TAURUS BILE
+    PORK LIVER
+    COW MILK
+    LYCOPODIUM CLAVATUM SPORE
+    MANDRAGORA OFFICINARUM ROOT
+    MERCURIUS SOLUBILIS
+    SUS SCROFA NASAL MUCOSA
+    FRANGULA PURSHIANA BARK
+    RHEUM OFFICINALE ROOT
+    SELENIUM
+    VERATRUM ALBUM ROOT
+  spl_id:
+    58c8a8dc-99c5-136b-e063-6394a90a8fb0
+  spl_set_id:
+    0b7c876b-05c6-4d70-a420-76c5470ac503
+  package_ndc:
+    64578-0061-1
+  is_original_packager:
+    True
+  nui:
+    N0000185372
+    N0000175629
+    N0000184306
+    N0000185001
+    M0008890
+    M0000728
+    N0000185371
+    M0006342
+    M0013890
+  pharm_class_epc:
+    Non-Standardized Fungal Allergenic Extract [EPC]
+    Non-Standardized Food Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Fungal Proteins [CS]
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Milk Proteins [CS]
+  unii:
+    UN2QZ55I88
+    6T6CO7R3Z5
+    W9FZA51AS1
+    5EF0HWI5WU
+    1TH8Q20J0U
+    4D7G21HDBC
+    2P3VWU3H10
+    514B9K0L10
+    S256WJ3OFQ
+    ET3651ZLOU
+    6EC706HI7F
+    917J3173FT
+    C88X29Y479
+    I2XCB174VB
+    324Y4038G2
+    ID3Z1X61WY
+    4VBP01X99F
+    A47JP5ZG9M
+    H6241UJ22B
+    QNS6W5US1Z

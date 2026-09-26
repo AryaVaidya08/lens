@@ -1,0 +1,33 @@
+effective_time:
+  20120418
+inactive_ingredient:
+  Inactive Ingredient: Mica, Silica, Talc, Bismuth Oxychloride, Boron Nitride, Aluminum Hydroxide, Vitis Vinifera (Grape) Seed Extract, Aloe Barbadensis Leaf Extract, Retinyl Palmitate (VA), Tocopheryl Acetate (VE), Magnesium Ascorbyl Phosphate (VC), Sodium Dehydroacetate May contain: Iron Oxides (CI 77491, CI 77492, CI 77499), Manganese Violet (CI 77742)
+purpose:
+  Purpose: Sunscreen
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children: If swallowed get medical help or contact a Poison Control Center immediately
+warnings:
+  Warning: For external use only Skin Cancer/Skin Aging Alert Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown to only help prevent sunburn, not skin cancer and skin aging.
+when_using:
+  When Using This Product: Keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  ELF SPF 45 Sunscreen UVA/UVB Protection TITANIUM DIOXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE BISMUTH OXYCHLORIDE .ALPHA.-TOCOPHEROL ACETATE, DL- MICA FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE SILICON DIOXIDE TALC ALUMINUM HYDROXIDE SODIUM DEHYDROACETATE ALOE VERA LEAF GRAPE SEED OIL VITAMIN A PALMITATE MAGNESIUM ASCORBYL PHOSPHATE
+ask_doctor:
+  Stop Use and Ask a Doctor if: Rash or irritation develops and lasts
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions: Apply as needed for 15-20 minutes of sun exposure
+storage_and_handling:
+  Other Imformation: Store at room temperature 15-30C (59-86F) Protect this product in its container away from excessive heat and direct sun
+package_label_principal_display_panel:
+  labe label
+indications_and_usage:
+  Uses: Help prevent sunburns
+set_id:
+  f5077133-ada2-4df2-bf51-7e4ff30fc86f
+id:
+  e8fb6c31-6feb-4f31-a272-9cbcb04b2bae
+active_ingredient:
+  Active Ingredient: Titanium Dioxide: 23.3% Zinc Oxide: 18.7%

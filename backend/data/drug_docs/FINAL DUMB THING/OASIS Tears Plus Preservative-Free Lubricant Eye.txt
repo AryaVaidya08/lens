@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  OASIS Tears Plus Preservative-Free Lubricant Eye Glycerin GLYCERIN GLYCERIN HYALURONATE SODIUM SODIUM CHLORIDE SODIUM PHOSPHATE, MONOBASIC, UNSPECIFIED FORM SODIUM PHOSPHATE, DIBASIC, UNSPECIFIED FORM WATER
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Glycerin (0.22%)
+purpose:
+  Purpose Lubricant Eye Drops
+indications_and_usage:
+  Uses for the temporary relief of burning and irritation due to dryness of the eye. for the temporary relief of discomfort due to minor irritations of the eye or to exposure to wind or sun. for use as a protectant against further irritation or to relieve dryness of the eye. for use as a lubricant to prevent further irritation or to relieve dryness of the eye.
+warnings:
+  Warnings For external use only Do not use if solution changes color or becomes cloudy. if you are sensitive to any ingredient in this product. When using this product to avoid contamination do not touch tip of container to any surface. once opened, discard do not reuse Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the conditions worsens or persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if solution changes color or becomes cloudy. if you are sensitive to any ingredient in this product.
+when_using:
+  When using this product to avoid contamination do not touch tip of container to any surface. once opened, discard do not reuse
+stop_use:
+  Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the conditions worsens or persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions instill 1 or 2 drops in the affected eye(s) as needed.
+questions:
+  Questions, or to report an adverse event call (800) 631-7180 or (909) 305-5400 or log onto www.oasistears.com
+storage_and_handling:
+  Other Information protect from light and freezing store at or below 77°F (25°C) and above 32°F (0°C).
+inactive_ingredient:
+  Inactive Ingredients Sodium chloride, sodium hyaluronate, sodium phosphate dibasic, sodium phosphate monobasic, water.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 0.3 ML Vial Pouch Carton N 42126-6200-1 Oasis TEARS ® PLUS PRESERVATIVE-FREE LUBRICANT EYE DROPS VISCOADAPTIVE RELIEF FOR DRY EYES 30 STERILE (0.3 ML/0.01 FL. OZ.) SINGLE USE CONTAINERS PRINCIPAL DISPLAY PANEL - 0.3 ML Vial Pouch Carton
+set_id:
+  ea931c0f-c61e-4771-84f1-0274b1c3e28e
+id:
+  fc4bd9e8-7b98-4778-a115-7f116984661c
+effective_time:
+  20250122
+version:
+  4
+openfda:
+  application_number:
+    M018
+  brand_name:
+    OASIS Tears Plus Preservative-Free Lubricant Eye
+  generic_name:
+    GLYCERIN
+  manufacturer_name:
+    OASIS Medical, Inc.
+  product_ndc:
+    42126-6200
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    GLYCERIN
+  rxcui:
+    2702674
+    2702676
+  spl_id:
+    fc4bd9e8-7b98-4778-a115-7f116984661c
+  spl_set_id:
+    ea931c0f-c61e-4771-84f1-0274b1c3e28e
+  package_ndc:
+    42126-6200-1
+    42126-6200-2
+  is_original_packager:
+    True
+  nui:
+    N0000185370
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0009417
+  pharm_class_epc:
+    Non-Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Glycerol [CS]
+  unii:
+    PDC6A3C0OX

@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  ECZEMA OATMEAL OATMEAL OATMEAL Water decyl glucoside lauryl glucoside quillaja saponaria bark glycerin allantoin calendula officinalis flower VIOLA TRICOLOR WHOLE yucca schidigera root aloe vera leaf jojoba oil quinoa oil xanthan gum panthenol fytic acid gluconolactone sodium benzoate
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Colloidal Oatmeal 1%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritation and itching due to: Rashes Eczema Poison ivy, oak, or sumac Insect bites
+warnings:
+  Warnings External use only. When using this product patch test before use keep out of eyes clean with soap and water to remove to avoid slipping, use mat in tub or shower Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact Poison Control within the U.S. (1-800-222-1222)
+when_using:
+  When using this product patch test before use keep out of eyes clean with soap and water to remove to avoid slipping, use mat in tub or shower
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control within the U.S. (1-800-222-1222)
+dosage_and_administration:
+  Directions dispense a dime-to-quarter sized amount into palm, massage into wet hair starting at the scalp and working to the ends. Rinse. for extra cleansing, allow to sit for 30 seconds and then rinse.
+adverse_reactions:
+  Other information You may report a serious adverse reaction event from using this product to: 5933 Bowcroft St. Los Angeles, CA 90016
+inactive_ingredient:
+  Inactive ingredients Water, decyl glucoside, lauryl glucoside, quillaja saponaria bark extract, glycerine, allantoin, calendula officinalis flower extract, viola tricolor extract, yucca schidigera root extract, aloe barbadensis leaf juice, simmondsia chinensis (jojoba) seed oil, hydrolyzed quinoa, xanthan gum, panthenol, phytic acid, gluconolactone, sodium benzoate.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 562 mL Bottle Label CALIF♥RNIA BABY ® TRUSTED SINCE 1995 eczema therapy SHAMPOO & BODYWASH SKIN PROTECTANT GLUTEN FREE + STEROID FREE GENTLE • NON-DRYING • NO ADDED FRAGRANCE BABIES + KIDS + ADULTS ALLERGY TESTED © 2019 562 mL/19 fl. oz. Principal Display Panel - 562 mL Bottle Label
+set_id:
+  81eb3df4-5beb-45aa-82ca-e8b4b37e45f4
+id:
+  9bcc07a8-7007-4b41-83e2-d147abb7dbb1
+effective_time:
+  20241105
+version:
+  3
+openfda:
+  application_number:
+    M016
+  brand_name:
+    ECZEMA
+  generic_name:
+    OATMEAL
+  manufacturer_name:
+    ORGANIC & SUSTAINABLE BEAUTY
+  product_ndc:
+    52915-010
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OATMEAL
+  rxcui:
+    1437616
+  spl_id:
+    9bcc07a8-7007-4b41-83e2-d147abb7dbb1
+  spl_set_id:
+    81eb3df4-5beb-45aa-82ca-e8b4b37e45f4
+  package_ndc:
+    52915-010-19
+    52915-010-05
+    52915-010-85
+  is_original_packager:
+    True
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    N0000185016
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    8PI54V663Y

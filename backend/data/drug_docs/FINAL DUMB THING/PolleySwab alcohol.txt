@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  PolleySwab alcohol ALCOHOL ALCOHOL WATER
+active_ingredient:
+  alcohol 65%
+inactive_ingredient:
+  Water, Glycerin, Sodium Chloride, lavender oil, coco-betaine, sodium benzoate
+purpose:
+  two-step method to clean and sanitize the skin of the inner nostrils ■ protect from excessive moisture ■ Avoid freezing and excessive heat above 40° C (104° F) Inactive Ingredients ■ cleans ■ sanitizes
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+indications_and_usage:
+  Adults and children over 12 years of age Step 1. Cleaning. Open Step 1 packet and hold handle, inserting one swab tip into each nostril. Swab lower interior lining inside the nose in a circular motion 7 times. Handle guard protects against insertion of swab tip beyond the nostrils. Discard. Step 2. Sanitizing. Repeat Step 1 with Step 2 packet. Discard
+warnings:
+  Flammable, keep away from fire and flames For external use only
+dosage_and_administration:
+  For external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  fac20ce2-18ff-cc29-e053-6294a90aa112
+id:
+  04aaccef-0a94-5232-e063-6394a90aeaed
+effective_time:
+  20230906
+version:
+  5
+openfda:

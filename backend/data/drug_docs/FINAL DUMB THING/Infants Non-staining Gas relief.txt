@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Infants Non-staining Gas relief Simethicone DIMETHICONE DIMETHICONE BENZOIC ACID MAGNESIUM ALUMINUM SILICATE WATER SORBITOL XANTHAN GUM off-white
+active_ingredient:
+  ACTIVE INGREDIENT (in each 0.3 mL) Simethicone 20 mg
+purpose:
+  PURPOSE Antigas
+indications_and_usage:
+  USE(S) relieves the symptoms of gas frequently caused by air swallowing or certain formulas or foods
+warnings:
+  WARNINGS When using this product do not exceed 12 doses per day
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS shake well before using all dosages may be repeated as needed, after meals and at bedtime or as directed by a physician. fill enclosed dropper to recommended dosage level dispense liquid slowly into baby's mouth, toward the inner cheek may mix with 1 oz. of cool water, infant formula or other suitable liquids. clean dropper after each use and close the bottle to maintain child resistance age (yr) weight (lb) dose infants under 2 under 24 0.3 mL children over 2 over 24 0.6 mL
+dosage_and_administration_table:
+  <table cellspacing="0" cellpadding="0" border="0"><tbody><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="middle"> age (yr)</td><td styleCode="Rrule" valign="middle">weight (lb)</td><td styleCode="Rrule" valign="middle">dose</td></tr><tr styleCode="Botrule"><td styleCode="Lrule Rrule" valign="middle"> infants under 2</td><td styleCode="Rrule" valign="middle"> under 24</td><td styleCode="Rrule" valign="middle">0.3 mL</td></tr><tr><td styleCode="Lrule Rrule" valign="middle"> children over 2</td><td styleCode="Rrule" valign="middle">over 24</td><td styleCode="Rrule" valign="middle">0.6 mL</td></tr></tbody></table>
+storage_and_handling:
+  OTHER INFORMATION store at room temperature
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION benzoic acid, flavor, magnesium aluminum silicate, purified water, simethicone emulsion, sorbitol, xanthan gum.
+questions:
+  QUESTIONS? You may report serious side effects to 1-609-860-2600 (Monday-Friday 8 am-4 pm EST).
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Compare to Infants' Mylicon ® Drops Non-Staining active ingredient* NDC 37808-014-09 HEB Infants' Non-Staining Gas Relief Drops simethicone 20 mg Anti-Gas Fast Relief of Gas Symptoms No Artificial flavor Gentle & Safe** Alcohol Free Dye free **Use only as directed, do not exceed more than 12 doses per day. 1 FL OZ (30 mL) 520-heb
+set_id:
+  99d94de2-9550-4d2d-99d4-1be0ef7b7880
+id:
+  aaa20f93-6044-4e3e-8757-9e73a9701932
+effective_time:
+  20231204
+version:
+  2
+openfda:
+  application_number:
+    part332
+  brand_name:
+    Infants Non-staining Gas relief
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    H E B
+  product_ndc:
+    37808-014
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE
+  spl_id:
+    aaa20f93-6044-4e3e-8757-9e73a9701932
+  spl_set_id:
+    99d94de2-9550-4d2d-99d4-1be0ef7b7880
+  package_ndc:
+    37808-014-09
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

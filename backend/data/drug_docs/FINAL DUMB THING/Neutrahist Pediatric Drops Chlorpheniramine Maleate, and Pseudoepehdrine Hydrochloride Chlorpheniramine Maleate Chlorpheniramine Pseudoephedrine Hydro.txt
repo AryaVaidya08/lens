@@ -1,0 +1,43 @@
+effective_time:
+  20110824
+inactive_ingredient:
+  Inactive ingredients Cherry Flavor, Citric Acid, FD and C Red #40, Glycerin, Propylene Glycol, Purified Water, Sodium Citrate, Sodium Saccharin, and Sorbitol.
+purpose:
+  Purpose Antihistamine Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product in a child who is taking a prescription monoamine oxidase inhibitor (MAOI)(certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product. Ask a doctor before use if the child has a breathing problem such as chronic bronchitis glaucoma heart disease high blood pressure thyroid disease diabetes mellitus Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers. When using this product excitability may occur, especially in children may cause marked drowsiness sedatives and tranquilizers may increase drowsiness Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or are accompanied by a fever new symptoms occur Keep out of the reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product excitability may occur, especially in children may cause marked drowsiness sedatives and tranquilizers may increase drowsiness
+questions:
+  Questions? Comments? 1-800-856-4393 M-F: 8:00 a.m. - 5:00 p.m. CT Serious side effects associated with use of this product may be reported to this number. Manufactured for: Cypress Pharmaceutical, Inc. Madison, MS 39110
+spl_product_data_elements:
+  Neutrahist Pediatric Drops Chlorpheniramine Maleate, and Pseudoepehdrine Hydrochloride Chlorpheniramine Maleate Chlorpheniramine Pseudoephedrine Hydrochloride Pseudoephedrine Citric Acid Glycerin Propylene Glycol Water Sodium Citrate Saccharin Sodium Sorbitol
+ask_doctor:
+  Ask a doctor before use if the child has a breathing problem such as chronic bronchitis glaucoma heart disease high blood pressure thyroid disease diabetes mellitus
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Administer each dose four times per day using provided dropper. Do not exceed recommended dosage. AGE DOSE* Children 6 to under 12 years of age: 2 dropperfuls (2 mL) every 4 - 6 hours, not to exceed 4 doses (8 dropperfuls) per 24 hrs. Children under 6 years of age: Consult a physician. *In mild cases or in particularly sensitive patients, less frequent or reduced doses may be adequate.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not improve within 7 days or are accompanied by a fever new symptoms occur
+storage_and_handling:
+  Other information Store at 77 o F (25 o C); excursions permitted 15 o to 30 o C (59 o -86 o F) Protect from freezing.
+do_not_use:
+  Do not use this product in a child who is taking a prescription monoamine oxidase inhibitor (MAOI)(certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product.
+package_label_principal_display_panel:
+  PRODUCT PACKAGING: The packaging below represents the labeling currently used: Principal Display Panel and Side Panel for 30 mL Label: NDC 60258-395-30 Neutrahist Pediatric Drops Antihistamine / Nasal Decongestant Each dropperful (1 mL) for oral administration contains: Chlorpheniramine Maleate, USP........... 0.8 mg Pseudoephedrine Hydrochloride, USP..... 9 mg Cherry Flavor Sugar Free/Alcohol Free Cypress Pharmaceutical, Inc. 1 fl oz (30 mL) Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing. Supplied in a tight, light-resistant container with a child-resistant cap. Mfg. for: Cypress Pharmaceutical, Inc. Madison, MS 39110 L643 Rev. 10/09 Neutrahist Pediatric Drops Packaging Neutrahist Pediatric Drops Packaging Neutrahist Pediatric Drops Packaging
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other upper respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes nasal congestion reduces swelling of nasal passages
+set_id:
+  9157b702-a822-4c45-a150-269665b9c7a3
+id:
+  4b1da530-b2b4-4c9a-ad57-134702500e15
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers.
+active_ingredient:
+  Drug Facts Active ingredients (in each 1 mL dropperful) Chlorpheniramine Maleate, USP 0.8 mg Pseudoephedrine Hydrochloride, USP 9 mg Purpose Antihistamine Nasal Decongestant
+dosage_and_administration_table:
+  <table ID="i8902d171-4f23-4da6-8f29-de98caa647ac" border="2" width="342"> <tbody> <tr> <td> <content styleCode="bold">AGE</content> </td> <td> <content styleCode="bold">DOSE*</content> </td> </tr> <tr> <td>Children 6 to under 12 years of age:  </td> <td>2 dropperfuls (2 mL) every 4 - 6 hours, not to exceed 4 doses (8 dropperfuls) per 24 hrs.  </td> </tr> <tr> <td>Children under 6 years of age:  </td> <td>Consult a physician.  </td> </tr> </tbody> </table>

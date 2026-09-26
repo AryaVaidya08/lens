@@ -1,0 +1,35 @@
+effective_time:
+  20201204
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, anhydrous citric acid, FD&C blue #1, FD&C red #40, flavor, glycerin, maltitol solution, propylene glycol, purified water, saccharin sodium, sodium benzoate, sorbitol solution, sucralose, xanthan gum
+purpose:
+  Purpose Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+warnings:
+  Warnings Ask a doctor before use if the child has • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with asthma Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+spl_product_data_elements:
+  childrens mucus relief Guaifenesin GUAIFENESIN GUAIFENESIN ACESULFAME POTASSIUM ANHYDROUS CITRIC ACID FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SUCRALOSE XANTHAN GUM SORBITOL clear
+ask_doctor:
+  Ask a doctor before use if the child has • cough that occurs with too much phlegm (mucus) • persistent or chronic cough such as occurs with asthma
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions • do not take more than 6 doses in any 24-hour period • measure only with dosing cup provided • do not use dosing cup with other products • mL = milliliter Age Dose children 6 years to under 12 years 5 mL – 10 mL every 4 hours children 4 years to under 6 years 2.5 mL – 5 mL every 4 hours children under 4 years do not use
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious condition.
+storage_and_handling:
+  Other information • do not use if printed neckband is broken or missing • store at 20-25 ° C (68-77 ° F) • do not refrigerate • dosing cup provided
+package_label_principal_display_panel:
+  Principal Display Panel AGE 4+ CHILDREN’S mucusrelief EXPECTORANT GUAIFENESIN GRAPE FLAVOR LIQUID Chest Congestion Breaks Up Mucus Alcohol-Free 4 FL OZ (118 mL) Compare to Active Ingredient in Children’s Mucinex® Chest Congestion Publix Children's Mucus Relief image 1 Publix Children's Mucus Relief image 2
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+set_id:
+  8b2d8ce4-da28-48ed-9454-d5f13b50f846
+id:
+  86af44fd-e367-4fae-9029-e95f3fafa590
+active_ingredient:
+  Active ingredient (in each 5 mL) Guaifenesin, USP 100 mg
+dosage_and_administration_table:
+  <table width="100%"><col width="34%"/><col width="29%"/><tbody><tr><td align="center" styleCode="Botrule Lrule Toprule " valign="top"><paragraph>Age</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Dose</paragraph></td></tr><tr><td align="center" styleCode="Lrule Botrule " valign="top"><paragraph>children 6 years to under 12 years</paragraph></td><td align="center" styleCode="Rrule Lrule Botrule " valign="top"><paragraph>5 mL &#x2013; 10 mL every 4 hours</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>children 4 years to under 6 years</paragraph></td><td align="center" styleCode="Rrule Lrule Botrule " valign="top"><paragraph>2.5 mL &#x2013; 5 mL every 4 hours</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>children under 4 years</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>do not use</paragraph></td></tr></tbody></table>

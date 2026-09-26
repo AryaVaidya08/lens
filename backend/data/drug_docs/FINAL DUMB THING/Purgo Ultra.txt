@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Purgo Ultra TRICLOSAN WATER PROPYLENE GLYCOL SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE BORIC ACID ALCOHOL CHLOROXYLENOL ALOE VERA LEAF PROPYLPARABEN METHYLPARABEN SODIUM LAURYL SULFATE LAURAMINE OXIDE PEG-75 LANOLIN EDETATE SODIUM SODIUM CHLORIDE TRICLOSAN TRICLOSAN
+active_ingredient:
+  Drug Facts Box OTC-Active Ingredient Section Triclosan 0.3%
+purpose:
+  Drug Facts Box OTC-Purpose Section Antiseptic
+indications_and_usage:
+  Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin
+warnings:
+  Drug Facts Box OTC-Warnings Section For external use only
+when_using:
+  Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Drug Facts Box OTC-Stop Use Section irritation and redness develop
+keep_out_of_reach_of_children:
+  Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Drug Facts Box OTC-Dosage & Administration Section wet hands and forearms apply 5 milliliters (teaspoonful) or palmful to hands and forearms scrub thoroughly for 1 minute and rinse
+inactive_ingredient:
+  Drug Facts Box OTC-Inactive Ingredient Section water, sodium laureth sulfate, sodium lauryl sulfate, cocamidopropyl betaine, alcohol denat., propylene glycol, tetrasodium EDTA, PEG-75 lanolin, boric acid, lauramine oxide, chloroxylenol, methylparaben, propylparaben, fragrance, aloe barbadensis, acid red 1, reactive green 12
+package_label_principal_display_panel:
+  Purgo Ultra 6953 1000ml 6953M5PM.jpg Purgo Ultra 1000ml image of bag label
+set_id:
+  a7c69670-21d7-4a77-8701-0b82db66ab28
+id:
+  ff445676-c525-56c3-e053-6394a90a8738
+effective_time:
+  20230629
+version:
+  2
+openfda:

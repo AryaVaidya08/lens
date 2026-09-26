@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Lovali hand sanitizer Alcohol WATER GLYCERIN PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl alcohol 75% (v/v)
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Reduce bacteria and viruses on the hands that may cause disease.
+warnings:
+  Warnings For external use only. Flammable. Keep away from open flame. When using this Product: Avoid contact with eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical advice. Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub into skin until dry. Children 6 years and younger need adult supervision when using this product.
+inactive_ingredient:
+  Inactive ingradients Water (Aqua), Glycerin, Propylene Glycol, Carbomer, Fragrance , Triethanolamine, Aloe Barbadensis (Aloe Vera) Gel,Tocopheryl Acetate (Vitamin E).
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+set_id:
+  ea54a03b-648f-4501-b7c6-22207d697650
+id:
+  0014183f-a051-4a1b-a78b-2e0c2d80ead4
+effective_time:
+  20221118
+version:
+  4
+openfda:

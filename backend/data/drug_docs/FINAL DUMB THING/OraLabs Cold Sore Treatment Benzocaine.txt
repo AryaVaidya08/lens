@@ -1,0 +1,27 @@
+effective_time:
+  20140904
+inactive_ingredient:
+  Inactive Ingredients Benzyl Alcohol, Docosanol, Mineral Oil, Propylene Glycol, Sucrose Stearate, Tocopherol, Water.
+purpose:
+  Purpose Cold Sore/Fever Blister Treatment/Pain Reliever
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+warnings:
+  Warnings For external use only: Do not use in the eyes or apply over large areas of the body. In case of deep or puncture wounds, animal bites or serious burns, consult a physician. Allergy Alert: Do not use if you are allergic to any of the ingredients in this product. When using this product avoid contact with eyes. Use only as directed. Stop use and ask a doctor if the condition gets worse. Do not use longer than 1 week unless directed by a doctor.
+spl_product_data_elements:
+  OraLabs Cold Sore Treatment Benzocaine LIGHT MINERAL OIL BENZOCAINE BENZOCAINE DOCOSANOL BENZYL ALCOHOL SUCROSE STEARATE PROPYLENE GLYCOL WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Clean the affected Adults and children 2 years of age and older: Apply to affected area not more than 4 times daily Children under 2 years of age: consult a physician Rub in gently – Applies clear Wash hands before and after applying cream Do not share this product with anyone
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Front and Back of Card for OraLabs CST
+indications_and_usage:
+  Uses For treatment of cold sores/fever blisters on the face and lips
+set_id:
+  792873ae-b15a-408e-92d0-e8bf1e6fc8f1
+id:
+  792873ae-b15a-408e-92d0-e8bf1e6fc8f1
+active_ingredient:
+  Active ingredient Benzocaine

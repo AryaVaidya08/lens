@@ -1,0 +1,40 @@
+effective_time:
+  20140227
+inactive_ingredient:
+  Inactive ingredients cherry flavor, citric acid, glycerin, methylparaben, monoammonium glycyrrhizinate, potassium citrate, potassium sorbate, propylparaben, propylene glycol, purified water, raspberry flavor, sorbitol, sucralose
+purpose:
+  Purpose Cough suppressant Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product. Ask a doctor before use if the child has persistent or chronic cough such as occurs with asthma cough accompanied by excessive phlegm (mucus) Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? Call 1-787-701-3312. You may also report serious side effects to this phone number.
+spl_product_data_elements:
+  TRISPEC DMX Pediatric Drops Cough Suppressant Expectorant CHERRY RASPBERRY Flavor DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CITRIC ACID MONOHYDRATE GLYCERIN METHYLPARABEN AMMONIUM GLYCYRRHIZATE POTASSIUM CITRATE POTASSIUM SORBATE PROPYLPARABEN PROPYLENE GLYCOL WATER SORBITOL SUCRALOSE Cherry Raspberry Flavor
+ask_doctor:
+  Ask a doctor before use if the child has persistent or chronic cough such as occurs with asthma cough accompanied by excessive phlegm (mucus)
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions For children under 6 years of age, use enclosed dropper do not use enclosed dropper for any other drug product Children 2 to under 6 years of age: 2.5 mL every 4 hours not to exceed 15 mL in 24 hours, or as directed by a doctor Children under 2 years of age: Consult a doctor.
+spl_unclassified_section:
+  TRISPEC DMX Pediatric Drops Cough Suppressant Expectorant CHERRY RASPBERRY Flavor
+  Other information Store at room temperature 15°C-30°C (59°F-86°F)
+stop_use:
+  Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+do_not_use:
+  Do not use in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product.
+package_label_principal_display_panel:
+  TRISPEC DMX Pediatric Drops Cough Suppressant Expectorant CHERRY RASPBERRY Flavor 2oz/60ml (58238-229-02) Trispec DMX 1 Trispec DMX 2
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation occurring with a cold or inhaled irritants helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive
+set_id:
+  95f910b0-1bab-4826-868a-a9d0148f23c2
+id:
+  3bb010da-0eb9-4a17-9280-2c14fc3bcef2
+active_ingredient:
+  Active ingredients (in each 5 mL teaspoonful) Dextromethorphan HBr, USP 10 mg Guaifenesin, USP 187 mg Purpose Cough suppressant Expectorant
+dosage_and_administration_table:
+  <table ID="iac167a09-24e4-45d8-8f8a-68ebb286e7fd" border="100" width="100%"> <tbody> <tr> <td>Children 2 to under 6 years of age:  </td> <td>2.5 mL every 4 hours not to exceed 15 mL in 24 hours, or as directed by a doctor  </td> </tr> <tr> <td>Children under 2 years of age:  </td> <td>Consult a doctor.  </td> </tr> </tbody> </table>

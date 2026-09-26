@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Endoplex M Agnus Castus, Aralia Quinquefolia, Lycopodium Clavatum, Petroselinum Sativum, Sabal Serrulata, Urtica Dioica, Xanthoxylum Fraxineum, Pulsatilla (Vulgaris), Glandula Suprarenalis Suis, Hypophysis Suis, Orchitinum (Suis), Prostate (Suis), Clematis Erecta, Juniperus Virginiana CHASTE TREE CHASTE TREE AMERICAN GINSENG AMERICAN GINSENG LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE PETROSELINUM CRISPUM WHOLE PETROSELINUM CRISPUM SAW PALMETTO SAW PALMETTO URTICA DIOICA WHOLE URTICA DIOICA ZANTHOXYLUM AMERICANUM BARK ZANTHOXYLUM AMERICANUM BARK PULSATILLA VULGARIS WHOLE ANEMONE PULSATILLA SUS SCROFA ADRENAL GLAND SUS SCROFA ADRENAL GLAND SUS SCROFA TESTICLE SUS SCROFA TESTICLE SUS SCROFA PITUITARY GLAND SUS SCROFA PITUITARY GLAND SUS SCROFA PROSTATE SUS SCROFA PROSTATE CLEMATIS RECTA FLOWERING TOP CLEMATIS RECTA FLOWERING TOP JUNIPERUS VIRGINIANA TWIG JUNIPERUS VIRGINIANA TWIG WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Agnus Castus 3X, Aralia Quinquefolia 3X, Lycopodium Clavatum 3X, Petroselinum Sativum 3X, Sabal Serrulata 3X, Urtica Dioica 3X, Xanthoxylum Fraxineum 3X, Pulsatilla (Vulgaris) 4X, Glandula Suprarenalis Suis 6X, Hypophysis Suis 6X, Orchitinum (Suis) 6X, Prostate (Suis) 6X, Clematis Erecta 12X, Juniperus Virginiana 12X.
+purpose:
+  INDICATIONS: For temporary relief of lowered vitality with depressed feelings, loss of nervous energy and pressure in the testicles.
+warnings:
+  WARNINGS: If pregnant or breast-feeding , ask a health care professional before use. Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 10 drops orally, 3 times a day. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: For temporary relief of lowered vitality with depressed feelings, loss of nervous energy and pressure in the testicles.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+questions:
+  QUESTIONS: Distributed by: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935 bioactivenutritional.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: BIO Active Nutritional ENDOPLEX M HOMEOPATHIC 1 FL OZ (30 ml) Endoplex M
+set_id:
+  344a27cb-f15e-4a9f-87f4-c2627f02db77
+id:
+  7f928117-dbc5-4ac2-8225-d21d894dd389
+effective_time:
+  20241017
+version:
+  2
+openfda:
+  brand_name:
+    Endoplex M
+  generic_name:
+    AGNUS CASTUS, ARALIA QUINQUEFOLIA, LYCOPODIUM CLAVATUM, PETROSELINUM SATIVUM, SABAL SERRULATA, URTICA DIOICA, XANTHOXYLUM FRAXINEUM, PULSATILLA (VULGARIS), GLANDULA SUPRARENALIS SUIS, HYPOPHYSIS SUIS, ORCHITINUM (SUIS), PROSTATE (SUIS), CLEMATIS ERECTA, JUNIPERUS VIRGINIANA
+  manufacturer_name:
+    BioActive Nutritional, Inc
+  product_ndc:
+    43857-0508
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CHASTE TREE
+    AMERICAN GINSENG
+    LYCOPODIUM CLAVATUM SPORE
+    PETROSELINUM CRISPUM WHOLE
+    SAW PALMETTO
+    URTICA DIOICA WHOLE
+    ZANTHOXYLUM AMERICANUM BARK
+    PULSATILLA VULGARIS WHOLE
+    SUS SCROFA ADRENAL GLAND
+    SUS SCROFA TESTICLE
+    SUS SCROFA PITUITARY GLAND
+    SUS SCROFA PROSTATE
+    CLEMATIS RECTA FLOWERING TOP
+    JUNIPERUS VIRGINIANA TWIG
+  spl_id:
+    7f928117-dbc5-4ac2-8225-d21d894dd389
+  spl_set_id:
+    344a27cb-f15e-4a9f-87f4-c2627f02db77
+  package_ndc:
+    43857-0508-1
+  is_original_packager:
+    True
+  unii:
+    433OSF3U8A
+    8W75VCV53Q
+    C88X29Y479
+    1WZA4Y92EX
+    J7WWH9M8QS
+    710FLW4U46
+    A4KL1HMZ7T
+    I76KB35JEV
+    398IYQ16YV
+    KM02613O28
+    L0PFEMQ1DT
+    O6UD3347K2
+    396421SP9F
+    532BCG080L

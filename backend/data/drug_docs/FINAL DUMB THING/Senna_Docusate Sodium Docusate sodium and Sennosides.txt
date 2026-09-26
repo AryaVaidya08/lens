@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Senna/Docusate Sodium Docusate sodium and Sennosides CARNAUBA WAX SILICON DIOXIDE CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C RED NO. 40 HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL 400 SODIUM BENZOATE STEARIC ACID TITANIUM DIOXIDE SENNOSIDES SENNOSIDES DOCUSATE SODIUM DOCUSATE TCL097
+active_ingredient:
+  Active Ingredients (in each tablet) Docusate Sodium 50 mg Sennosides 8.6 mg
+purpose:
+  Purpose Stool Softener Stimulant Laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity). This product generally produces a bowel movement in 6 to 12 hours.
+warnings:
+  Warnings Ask a doctor before use if you have Stomach pain Nausea Vomiting A sudden change in bowel habits that lasts over a period of 2 weeks. DO NOT USE Laxative products for longer than 1 week unless directed by a doctor If you are presently taking mineral oil, unless directed by a doctor
+ask_doctor_or_pharmacist:
+  Ask Doctor/Pharmacist Ask a doctor or pharmacist before use if you are presently taking mineral oil.
+dosage_and_administration:
+  Take only by mouth. Doses may be taken as a single daily dose, preferably in the evening, or in divided dose. Age Dosage Adults and children 12 years of age and older Take 2-4 tablets daily Children 6 to under 12 years Take 1-2 tablets daily Children 2 to 6 years Take up to 1 tablet daily Children under 2 years Do not use
+dosage_and_administration_table:
+  <table width="100%"><col width="50%"/><col width="50%"/><tbody><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Age</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Dosage</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Adults and children</paragraph><paragraph>12 years of age and older</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>Take 2-4 tablets daily</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Children 6 to under 12 years</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>Take 1-2 tablets daily</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>Children 2 to 6 years</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>Take up to 1 tablet daily</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Children under 2 years</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>Do not use</paragraph></td></tr></tbody></table>
+spl_unclassified_section:
+  Generic Section Other information Each tablet contains: sodium 6 mg/tablet VERY LOW SODIUM Each tablet contains: calcium 20 mg/tablet. Store at 20° - 25°C (68° -77°F); excursions permitted to 15°-30° (59°-86°F). [See USP Controlled Room Temperature]
+inactive_ingredient:
+  Inactive Ingredients: Carnauba Wax, Colloidal Silicon Dioxide, Croscarmellose Sodium, Dibasic Calcium Phosphate Dihydrate, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, sodium benzoate, stearic acid, tapioca starch*, tartaric acie*, and titanium dioxide. *may contain these ingredients.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions Questions? To Report Serious Adverse Effects Call: (800)616-2471 Distributed By: Major® Pharmaceuticals 17177 N Laurel Park Dr., Suite 233 Livonia, MI 48152 USA LHC51790417
+package_label_principal_display_panel:
+  pdp
+set_id:
+  7df0e98a-07c5-94d8-e053-2a91aa0ab227
+id:
+  2e97c0ab-53cc-d988-e063-6394a90a9d84
+effective_time:
+  20250220
+version:
+  3
+openfda:

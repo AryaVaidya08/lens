@@ -1,0 +1,31 @@
+effective_time:
+  20140129
+inactive_ingredient:
+  Inactive ingredients water, sodium xylenesulfonate, ammonium lauryl sulfate, cocamidopropyl betaine, glycerin, propylene glycol, fragrance, polyquaternium-10, benzyl alcohol, methylchloroisothiazolinone, methylisothiazolinone, citric acid, phenoxyethanol, methylparaben, ethylparaben, aloe barbadensis leaf juice, DC yellow no. 10, FDC blue no.1
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings F or external use only. ■ Avoid eye contact. In case of eye contact flush with water. If irritation occurs discontinue use of product
+when_using:
+  When using this product ■ Avoid contact with eyes. In case of eye contact, flush with water.
+spl_product_data_elements:
+  Family Dollar Foaming Antibacterial Hand Wash Triclosan TRICLOSAN TRICLOSAN WATER SODIUM XYLENESULFONATE AMMONIUM LAURYL SULFATE COCAMIDOPROPYL BETAINE GLYCERIN PROPYLENE GLYCOL POLYQUATERNIUM-10 (1000 MPA.S AT 2%) BENZYL ALCOHOL METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE ANHYDROUS CITRIC ACID PHENOXYETHANOL METHYLPARABEN ETHYLPARABEN ALOE VERA LEAF D&C YELLOW NO. 10 FD&C BLUE NO. 1
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions ■ Pump into hands, wet as needed ■ Lather vigorously for at least 15 seconds ■ Wash skin, rinse thoroughly and dry.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+package_label_principal_display_panel:
+  Package Label image description
+indications_and_usage:
+  Use ■ For handwashing to decrease bacteria on the skin
+set_id:
+  6585b764-c53d-40fe-8ef7-9e806071104a
+id:
+  95cc004b-5bf9-43d8-8995-0e1e725d3c90
+active_ingredient:
+  Active Ingredient Triclosan 0.46%

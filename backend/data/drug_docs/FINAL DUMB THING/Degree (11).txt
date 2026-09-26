@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Degree Advanced Adventure Dry Spray 72H Antiperspirant Deodorant PPG-14 BUTYL ETHER BUTANE 1,1-DIFLUOROETHANE CYCLOMETHICONE 5 ISOBUTANE DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE PROPANE BUTYLATED HYDROXYTOLUENE PROPYLENE CARBONATE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE MALTODEXTRIN SILICON DIOXIDE GLYCINE
+description:
+  DEGREE ADVANCED ADVENTURE DRY SPRAY 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate aerosol, spray
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Sesquichlorohydrate (17.6%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH • Keep away from face and mouth to avoid breathing in. • Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not expose to heat or store at temperatures above 120°F/50°C or in enclosed places that could overheat • Do not use on broken skin. Stop use if rash or irritation occurs. • Ask a doctor before using if you have kidney disease. • USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL. Help stop inhalation abuse. For information visit www.inhalant.org
+keep_out_of_reach_of_children:
+  • KEEP OUT OF REACH OF CHILDREN
+dosage_and_administration:
+  Directions For underarms use only
+inactive_ingredient:
+  Inactive ingredients Butane, Cyclopentasiloxane, Hydrofluorocarbon 152a, Isobutane, PPG-14 Butyl Ether, Glycine, Fragrance (Parfum), Disteardimonium Hectorite, Calcium Chloride, Propane, BHT, Propylene Carbonate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, Silica.
+questions:
+  Questions? Call toll-free 1-866-334-7331
+package_label_principal_display_panel:
+  Packaging Degree Adventure Dry Spray AP Deo
+set_id:
+  c33bb0d0-16d7-bfcc-e053-2995a90ac11b
+id:
+  26685e76-fa6a-c058-e063-6394a90a3377
+effective_time:
+  20241108
+version:
+  4
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Degree
+  generic_name:
+    ADVANCED ADVENTURE DRY SPRAY 72H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco, Inc. d/b/a Unilever
+  product_ndc:
+    64942-1901
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    26685e76-fa6a-c058-e063-6394a90a3377
+  spl_set_id:
+    c33bb0d0-16d7-bfcc-e053-2995a90ac11b
+  package_ndc:
+    64942-1901-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

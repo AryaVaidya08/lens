@@ -1,0 +1,41 @@
+effective_time:
+  20131118
+inactive_ingredient:
+  Inactive Ingredients water (aqua), octyldodecyl neopentanoate, c12-15 alkyl benzoate, propylene glycol, cetearyl alcohol, butyrospermum parkii (shea) butter, butylene glycol, coco-glucoside, persea gratissima(avocado) oil, squalane, corylus avellana (hazel) seed oil, simmondsia chinensis (jojoba) seed oil, tocopheyl acetate, ascorbyl palmitate, glyceryl stearate, behenyl alcohol, palmitic acid, stearic acid, lecithin, lauryl alcohol, myristyl alcohol, cetyl alcohol, bisabolol, centella asiatica extract, echinacea purpurea extract, algae extract, panax ginseng (ginseng) root extract, sodium hyaluronate, pentylene glycol, glycerin, sodium lactate, lactic acid, serine, urea, sorbitol, sodium chloride, allantoin, cucumis sativus (cucumber) oil, carbomer, microcrystalline cellulose, dimethicone, sodium hydroxide, disodium edta, phenoxyethanol, o-cymen-5-ol, ethylhexylglycerin, may contain (+/-): red 4 (ci 14700) <iln c111008>.
+purpose:
+  Active Ingredients Purpose Avobenzone 3.00% sunscreen Octisalate 5.00% sunscreen Octinoxate 7.50% sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only. When using this product Keep out of eyes. Stop use and see a doctor if Irritation occurs. Keep out of reach of children. Do not use on infants under 6 months old.
+when_using:
+  When using this product Keep out of eyes.
+spl_product_data_elements:
+  Stila Hydrating Primer Oil-Free SPF 30 (All Shades) Avobenzone, Octisalate, and Octinoxate Avobenzone Avobenzone Octisalate Octisalate Octinoxate Octinoxate water octyldodecyl neopentanoate alkyl (c12-15) benzoate propylene glycol cetostearyl alcohol shea butter butylene glycol coco glucoside avocado oil squalane european hazelnut oil jojoba oil .alpha.-tocopherol acetate ascorbyl palmitate glyceryl monostearate docosanol palmitic acid stearic acid lauryl alcohol myristyl alcohol cetyl alcohol levomenol centella asiatica echinacea purpurea asian ginseng hyaluronate sodium pentylene glycol glycerin sodium lactate lactic acid serine urea sorbitol sodium chloride allantoin cucumber seed oil cellulose, microcrystalline dimethicone sodium hydroxide edetate disodium phenoxyethanol o-cymen-5-ol ethylhexylglycerin fd&c red no. 4
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Blend over entire face with fingertips.
+spl_unclassified_section:
+  Drug Facts
+  Sun Alert The sun may cause sunburn, premature aging of the skin, and skin cancer. Avoiding the sun, wearing protective clothing, and regular use of sunscreens over the years may reduce the chance of harmful effects.
+  dist. by © stila styles, llc los angeles, ca 90027
+stop_use:
+  Stop use and see a doctor if Irritation occurs.
+do_not_use:
+  Do not use on infants under 6 months old.
+active_ingredient_table:
+  <table width="50%"> <col width="25%" align="left" valign="top"/> <col width="15%" align="left" valign="top"/> <col width="35%" align="left" valign="top"/> <col width="25%" align="left" valign="top"/> <thead> <tr> <th colspan="2">Active Ingredients</th> <th> </th> <th>Purpose</th> </tr> </thead> <tbody> <tr> <td> Avobenzone</td> <td>3.00%</td> <td> </td> <td>sunscreen</td> </tr> <tr> <td> Octisalate</td> <td>5.00%</td> <td> </td> <td>sunscreen</td> </tr> <tr> <td> Octinoxate</td> <td>7.50%</td> <td> </td> <td>sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Tube Carton stila hydrating primer oil-free SPF 30 1.7 fl. oz./50 ml Principal Display Panel - 50 ml Tube Carton
+indications_and_usage:
+  Uses Provides moderate protection against sunburn.
+set_id:
+  0773df86-b8a3-48b1-9720-b47ddcf62f17
+id:
+  388fe1a5-c183-4bdd-a6ac-e491714c5161
+purpose_table:
+  <table width="50%"> <col width="25%" align="left" valign="top"/> <col width="15%" align="left" valign="top"/> <col width="35%" align="left" valign="top"/> <col width="25%" align="left" valign="top"/> <thead> <tr> <th colspan="2">Active Ingredients</th> <th> </th> <th>Purpose</th> </tr> </thead> <tbody> <tr> <td> Avobenzone</td> <td>3.00%</td> <td> </td> <td>sunscreen</td> </tr> <tr> <td> Octisalate</td> <td>5.00%</td> <td> </td> <td>sunscreen</td> </tr> <tr> <td> Octinoxate</td> <td>7.50%</td> <td> </td> <td>sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Avobenzone 3.00% sunscreen Octisalate 5.00% sunscreen Octinoxate 7.50% sunscreen

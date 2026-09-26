@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  TheraBreath Fresh Breath Anticavity Mild Mint Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION WATER SORBITOL HYDRATED SILICA GLYCERIN XYLITOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED POTASSIUM PYROPHOSPHATE SODIUM PYROPHOSPHATE AMMONIUM GLYCYRRHIZATE SODIUM BENZOATE CITRIC ACID MONOHYDRATE SODIUM CHLORITE ALOE VERA LEAF ASCORBIC ACID
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Sodium fluoride 0.24% (0.14% W/V fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Uses Aids in the prevention of dental decay.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Do not swallow. Supervise children as necessary until capable of using without supervision. Adults and children 6 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 12 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Do not use unless directed by a dentist or doctor.
+storage_and_handling:
+  Other information If spilled on fabrics, wash out immediately. This product was sealed with protective packaging at the laboratory. If seal is missing, do not use.
+inactive_ingredient:
+  Inactive Ingredients Sorbitol, Water, Hydrated Silica, Glycerin, Xylitol, Natural Flavors, Cellulose Gum, Tetrapotassium Pyrophosphate, Tetrasodium Pyrophosphate, Ammonium Glycyrrhizate, Sodium Benzoate, Citric Acid, Sodium Chlorite, Aloe Barbadensis Leaf Juice, Ascorbic Acid (Vitamin C).
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 113.5 g Tube Carton DENTIST FORMULATED FIGHTS CAVITIES FIGHTS BAD BREATH FOR 12H* ANTICAVITY FLUORIDE TOOTHPASTE TheraBreath ™ DENTIST FORMULATED FRESH BREATH TOOTHPASTE FIGHTS CAVITIES FIGHTS BAD BREATH FOR 12 HOURS * AntiCavity With Aloe Vera Net Wt. 4 oz. • 113.5 g MILD MINT Read back panel for current directions FIGHTS BAD BREATH FOR 12 HOURS* PRINCIPAL DISPLAY PANEL - 113.5 g Tube Carton
+set_id:
+  19ce5324-7d8d-4d70-ad9b-238f7e612eac
+id:
+  679b3591-0e35-4795-b75c-131588fefc34
+effective_time:
+  20240206
+version:
+  1
+openfda:
+  application_number:
+    M021
+  brand_name:
+    TheraBreath Fresh Breath Anticavity Mild Mint
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Church & Dwight Co., Inc.
+  product_ndc:
+    10237-263
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    416783
+  spl_id:
+    679b3591-0e35-4795-b75c-131588fefc34
+  spl_set_id:
+    19ce5324-7d8d-4d70-ad9b-238f7e612eac
+  package_ndc:
+    10237-263-04
+  is_original_packager:
+    True
+  upc:
+    0697029211045
+  unii:
+    8ZYQ1474W7

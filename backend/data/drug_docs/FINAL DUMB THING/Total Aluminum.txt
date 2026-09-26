@@ -1,0 +1,55 @@
+effective_time:
+  20210121
+inactive_ingredient:
+  Inactive Ingredient Inactive ingredients : Alcohol (20%, v/v), Purified water
+keep_out_of_reach_of_children:
+  Keep out of reach of children KEEP OUT OF REACH OF CHILDREN
+purpose:
+  Purpose Temporary relief of anxiety, mouth ulcers, kidney pain and loss of memory
+warnings:
+  WARNING WARNING: Stop use and call a doctor if symptoms persist or worsen. If pregnant or breast-feeding , consult a healthcare professional before use. Contains alcohol : in case of accidental overdose, consult a poison control center immediately.
+spl_product_data_elements:
+  Total Aluminum Aluminum Metal ALCOHOL ALUMINUM ALUMINUM
+other_safety_information:
+  OTHER SAFETY INFORMATION OTHER INFORMATION : Tamper resistant for your protection. Use only if safety seal is intact.
+openfda:
+  brand_name:
+    Total Aluminum
+  generic_name:
+    ALUMINUM METAL
+  manufacturer_name:
+    White Manufacturing Inc. DBA Micro-West
+  product_ndc:
+    61657-0955
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ALUMINUM
+  spl_id:
+    b96fb4f1-3476-1867-e053-2a95a90a2279
+  spl_set_id:
+    28cd6a1c-630d-4ce1-aa2a-1cf3c867a394
+  package_ndc:
+    61657-0955-1
+  is_original_packager:
+    True
+  unii:
+    CPD4NFA903
+version:
+  6
+dosage_and_administration:
+  Directions Directions : Take 6 drops orally, 4 times a day. For ages 2 to adult
+spl_unclassified_section:
+  Manufactured for Manufactured for: Micro-West P.O. Box 950 Douglas WY 1-307-358-5066
+package_label_principal_display_panel:
+  Label NDC 61657-0955-1 MICRO-WEST Homeopathic 3 Tier Multi-Potency TOTAL ALUMINUM Product #: 0955 1.0 fl oz (29.6 mL) Ethanol 20% 1.0 fl oz bottle label
+indications_and_usage:
+  INDICATIONS INDICATIONS : For the temporary relief of anxiety, mouth ulcers, kidney pain and loss of memory
+set_id:
+  28cd6a1c-630d-4ce1-aa2a-1cf3c867a394
+id:
+  b96fb4f1-3476-1867-e053-2a95a90a2279
+active_ingredient:
+  Active Ingredients I ngredients : ALUMIN MET 12X, 30X,200C, 1M

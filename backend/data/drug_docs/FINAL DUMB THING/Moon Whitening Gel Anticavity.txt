@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Moon Whitening Gel Anticavity Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION MAGNESIUM CHLORIDE SODIUM POLYMETAPHOSPHATE CITRIC ACID MONOHYDRATE SODIUM ACID PYROPHOSPHATE TITANIUM DIOXIDE MYRCIARIA DUBIA FRUIT WATER SODIUM BENZOATE MICA SODIUM GLUCONATE SORBITOL SODIUM COCO-SULFATE MENTHA ARVENSIS LEAF OIL SODIUM SULFATE SODIUM COCOYL GLUTAMATE SUCRALOSE COCONUT OIL SEA SALT PEPPERMINT OIL ALCOHOL GREEN TEA LEAF STEVIA REBAUDIUNA LEAF CARVONE, (+/-)- METHYL SALICYLATE ECHINACEA ANGUSTIFOLIA LEAF ASIAN GINSENG HYDRATED SILICA GLYCERIN CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED CARRAGEENAN VANILLIN CRANBERRY SEED OIL PROPANEDIOL
+dosage_and_administration:
+  Directions: Adults and children 2 years and older: Brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist. Do not swallow. To minimize swallowing use a pea-sized amount in children under 6. Supervise children's brushing until good habits are established. Children under 2 years ask a dentist.
+warnings:
+  Contains sodium fluoride. Children of 6 years and younger: Use a pea-sized amount with supervised brushin to minimize swallowing. In case of intake of fluoride from other sources consult a dentist or doctor.
+active_ingredient:
+  Active Ingredient: Sodium Fluoride 0.24% (0.14% w/v active fluoride ion) Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushin is accidentally swallowed, get medical help or contact a Poison Control Center right away. Children of 6 years and younger: Use a pea-sized amount with supervised brushin to minimize swallowing. In case of intake of fluoride from other sources consult a dentist or doctor.
+purpose:
+  Use: Aids in the prevention of dental cavities.
+inactive_ingredient:
+  Hydrated Silica, Glycerin, Water, Sorbitol, Sodium Cocoyl Glutamate, Sodium Coco-Sulfate, Sodium Benzoate, MenthaArvensis Leaf Oil, Xanthan Gum, Mentha Piperita (Peppermint Oil), Alcohol, Mica, Carrageenan, Sodium Gluconate, Sodium Hexametaphosphate, Citric Acid, Cocos Nucifera (Coconut) Oil, Disodium Pyophosphate, Stevia Rebaudiana Leaf/Stem Extract, Sucralose, Titanium Dioxide, Carvone, Vanillin, Sodium Sulfate, Gaultheria Procumbens (Wintergreen) Leaf Oil, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Propanediol, Magnesium Chloride, Sea Salt, Camellia Sinensis Extract, Myrciaria Dubia Fruit Extract, Echinacea Angustifolia Leaf Extract, Panax Ginseng Root Extract
+indications_and_usage:
+  Children of 6 years and younger: Use a pea sized amount for supervised brushing to minimize swallowing.
+package_label_principal_display_panel:
+  Tube
+  Outer
+set_id:
+  0c556a29-a697-3a66-e063-6394a90abfee
+id:
+  0c556a29-a698-3a66-e063-6394a90abfee
+effective_time:
+  20231212
+version:
+  1
+openfda:
+  application_number:
+    M022
+  brand_name:
+    Moon Whitening Gel Anticavity
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Moon Oral Care, LLC
+  product_ndc:
+    82214-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    416783
+  spl_id:
+    0c556a29-a698-3a66-e063-6394a90abfee
+  spl_set_id:
+    0c556a29-a697-3a66-e063-6394a90abfee
+  package_ndc:
+    82214-004-01
+    82214-004-02
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

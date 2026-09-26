@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  Kroger Eye Drops Redness Relief Glycerin, Naphazoline hydrochloride BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM WATER SODIUM BORATE GLYCERIN GLYCERIN NAPHAZOLINE HYDROCHLORIDE NAPHAZOLINE
+active_ingredient:
+  Active Ingredients Glycerin 0.25% Naphazoline hydrochloride 0.012%
+purpose:
+  Purpose Lubricant and redness reliever
+indications_and_usage:
+  Uses relieves redness of the eye due to minor eye irritations for use as a protectant against further irritation or to relieve dryness of the eye temporarily relieves burning and irritation due to dryness of the eye
+warnings:
+  Warnings For external use only Do not use this product if solution changes color or becomes cloudy Ask a doctor before use if you have narrow angle glaucoma When using this product do not touch tip of container to any surface to avoid contamination replace cap after using overuse may cause more redness of the eye pupils may become enlarged temporarily Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens symptoms last for more than 72 hours Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use this product if solution changes color or becomes cloudy
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma
+when_using:
+  When using this product do not touch tip of container to any surface to avoid contamination replace cap after using overuse may cause more redness of the eye pupils may become enlarged temporarily
+stop_use:
+  Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens symptoms last for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Instill 1 or 2 drops in the affected eye(s) up to 4 times daily
+other_safety_information:
+  Other information Tamper Evident. Do not use this product if imprinted neckband is missing or broken. store at room temperature remove contact lenses before using
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, purified water, sodium borate
+package_label_principal_display_panel:
+  Kroger Eey Drops Redness Relief 15mL Kroger Eye Drops Redness Relief 15mL
+set_id:
+  318dea21-2656-36a3-e063-6294a90ac9c4
+id:
+  318dda17-bc19-1b29-e063-6294a90a0ad5
+effective_time:
+  20240101
+version:
+  1
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Kroger Eye Drops Redness Relief
+  generic_name:
+    GLYCERIN, NAPHAZOLINE HYDROCHLORIDE
+  manufacturer_name:
+    The Kroger Co.
+  product_ndc:
+    30142-573
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    GLYCERIN
+    NAPHAZOLINE HYDROCHLORIDE
+  rxcui:
+    1046700
+  spl_id:
+    318dda17-bc19-1b29-e063-6294a90a0ad5
+  spl_set_id:
+    318dea21-2656-36a3-e063-6294a90ac9c4
+  package_ndc:
+    30142-573-01
+  is_original_packager:
+    True
+  upc:
+    0041260377891
+  nui:
+    N0000185370
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0009417
+  pharm_class_epc:
+    Non-Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Glycerol [CS]
+  unii:
+    PDC6A3C0OX
+    MZ1131787D

@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Simply Clean Dandruff Pyrithione Zinc WATER SODIUM LAURYL SULFATE SODIUM LAURETH SULFATE GLYCOL DISTEARATE SODIUM CHLORIDE ZINC CARBONATE SODIUM XYLENESULFONATE AMODIMETHICONE (800 CST) COCAMIDOPROPYL BETAINE SODIUM BENZOATE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE (1.7 SUBSTITUENTS PER SACCHARIDE) MAGNESIUM CARBONATE HYDROXIDE CITRIC ACID MONOHYDRATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C BLUE NO. 1 D&C RED NO. 33 PYRITHIONE ZINC PYRITHIONE ZINC
+spl_unclassified_section:
+  Claims Multiple benefit formula to help: Fight dry scalp Calm itch Relieve irritation Soothe and reduce redness Reduce oilness Prevent flakes Leave hair healthy looking
+  Disclaimer *This product is not manufactured or distributed by Procter & Gamble, distributor of Head & Shoulders ® Classic Clean Dandruff Shampoo.
+active_ingredient:
+  Acitive ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Use helps prevent recurrence of flaking and itching associated with dandruff
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water.
+ask_doctor:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use as directed
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions shake well for maximum dandruff control, use every time you shampoo wet hair, massage onto scalp, rinse, repeat if desired for best results use at least twice a week or as directed by a doctor
+inactive_ingredient:
+  inactive ingredients water, sodium lauryl sulfate, sodium laureth sulfate, glycol distearate, sodium chloride, zinc carbonate, sodium xylenesulfonate, amodimethicone, cocamidopropyl betaine, fragrance, sodium benzoate, guar hydroxypropyltrimonium chloride, magnesium carbonate hydroxide, citric acid, methylchloroisothiazolinone, methylisothiazolinone, blue 1, red 33
+adverse_reactions:
+  Adverse reactions DISTRIBUTED BY OLD EAST MAIN CO. 1OO MISSION RIDGE GOODLETTSVILLE, TN 37072 100% Satisfaction Guaranteed! (888)309-9030
+package_label_principal_display_panel:
+  Principal display panel STUDIO SELECTION ® SIMPLY CLEAN DANDRUFF SHAMPOO PYRITHIONE ZINC 1% Compare to Head & Shoulders ® Classic Clean Dandruff Shampoo* For normal or oily hair pH balanced formula PARABEN - PHTHALATE FREE 28.2 FL OZ (1.76 PT) 834 mL image description
+set_id:
+  643f571a-cf08-4f1f-9ad4-2bc68730ff57
+id:
+  4c0ef887-28f4-dbcf-e063-6294a90ad6f0
+effective_time:
+  20260302
+version:
+  20
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Simply Clean Dandruff
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    Old East Main Co.
+  product_ndc:
+    55910-153
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+  spl_id:
+    4c0ef887-28f4-dbcf-e063-6294a90ad6f0
+  spl_set_id:
+    643f571a-cf08-4f1f-9ad4-2bc68730ff57
+  package_ndc:
+    55910-153-15
+    55910-153-35
+    55910-153-86
+    55910-153-32
+    55910-153-42
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

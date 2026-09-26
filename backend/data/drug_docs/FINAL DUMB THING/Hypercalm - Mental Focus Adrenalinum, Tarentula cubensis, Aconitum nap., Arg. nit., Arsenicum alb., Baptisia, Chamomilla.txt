@@ -1,0 +1,31 @@
+effective_time:
+  20110301
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane dispensing alcohol 20%.
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with hyperactivity such as impulsiveness, lack of focus, irritability and emotional or disruptive behavior.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children.
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Hypercalm - Mental Focus Adrenalinum, Tarentula cubensis, Aconitum nap., Arg. nit., Arsenicum alb., Baptisia, Chamomilla, Coffea cruda, Cypripedium, Digitalis, Gelsemium, Humulus, Hyoscyamus, Ignatia, Impatiens glandulifera flos, Iodium, Lachesis, Lycopodium, Nat. mur., Nux vom., Scutellaria lateriflora, Staphysag., Stramonium, Theridion, Veratrum viride, Echinacea, Hypericum, Passiflora Epinephrine Epinephrine Citharacanthus Spinicrus Citharacanthus Spinicrus Aconitum Napellus Aconitum Napellus Silver Nitrate Silver Cation Arsenic Trioxide Arsenic Cation (3+) Baptisia Tinctoria Baptisia Tinctoria Matricaria Recutita Matricaria Recutita Arabica Coffee Bean Arabica Coffee Bean Cypripedium Parvifolum Root Cypripedium Parvifolum Root Digitalis Digitalis Gelsemium Sempervirens Root Gelsemium Sempervirens Root Hops Hops Hyoscyamus Niger Hyoscyamus Niger Strychnos Ignatii Seed Strychnos Ignatii Seed Impatiens Glandulifera Flower Impatiens Glandulifera Flower Iodine Iodine Lachesis Muta Venom Lachesis Muta Venom Lycopodium Clavatum Spore Lycopodium Clavatum Spore Sodium Chloride Chloride Ion Strychnos Nux-vomica Seed Strychnos Nux-vomica Seed Scutellaria Lateriflora Scutellaria Lateriflora Delphinium Staphisagria Seed Delphinium Staphisagria Seed Datura Stramonium Datura Stramonium Theridion Curassavicum Theridion Curassavicum Veratrum Viride Root Veratrum Viride Root Echinacea, Unspecified Echinacea, Unspecified Hypericum Perforatum Hypericum Perforatum Passiflora Incarnata Flowering Top Passiflora Incarnata Flowering Top Alcohol package label
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION ORAL USE ONLY - SHAKE WELL. Children, ages 0 to 11, give 3 drops orally (ages 12 and up, give 6 drops) one to four times daily or as directed by a healthcare professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Hypercalm - Mental Focus Formulated for symptoms associated with hyperactivity such as impulsiveness, lack of focus, irritability and emotional or disruptive behavior.
+set_id:
+  9727cc48-3103-2655-369a-cc745d0509af
+id:
+  d8fec694-b6b1-555c-f73d-4e8f0408b13d
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Adrenalinum 15x, Tarentula cubensis 15x, Aconitum nap. 10x, Arg. nit. 10x, Arsenicum alb. 10x, Baptisia 10x, Chamomilla 10x, Coffea cruda 10x, Cypripedium 10x, Digitalis 10x, Gelsemium 10x, Humulus 10x, Hyoscyamus 10x, Ignatia 10x, Impatiens glandulifera flos 10x, Iodium 10x, Lachesis 10x, Lycopodium 10x, Nat. mur. 10x, Nux vom. 10x, Scutellaria lateriflora 10x, Staphysag. 10x, Stramonium 10x, Theridion 10x, Veratrum viride 10x, Chamomilla 3x, Echinacea 3x, Hypericum 3x, Passiflora 3x.

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Aloe ALOE FEROX LEAF SUCROSE ALOE FEROX LEAF ALOE FEROX LEAF LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE
+active_ingredient:
+  Aloe 6C (**contains 0.443 mg of the active ingredient per pellet) Less than 10 -12 mg anthraquinone derivatives per pellet
+purpose:
+  
+indications_and_usage:
+  Urgent diarrhea or hemorrhoids*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label
+set_id:
+  83ec645b-ae8e-5979-e053-2991aa0a554f
+id:
+  0051d268-8f32-5d6e-e063-6394a90a01e2
+effective_time:
+  20230712
+version:
+  3
+openfda:
+  brand_name:
+    Aloe
+  generic_name:
+    ALOE FEROX LEAF
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-0190
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ALOE FEROX LEAF
+  spl_id:
+    0051d268-8f32-5d6e-e063-6394a90a01e2
+  spl_set_id:
+    83ec645b-ae8e-5979-e053-2991aa0a554f
+  package_ndc:
+    0220-0190-41
+  is_original_packager:
+    True
+  unii:
+    0D145J8EME

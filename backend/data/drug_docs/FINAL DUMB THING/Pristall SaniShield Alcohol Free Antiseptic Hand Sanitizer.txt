@@ -1,0 +1,36 @@
+effective_time:
+  20100323
+inactive_ingredient:
+  Inactive Ingredients Cocoamidopropyl Betaine, Edetate Sodium USP Dihydrate, Fragrance, Hydroxypropyl Cellulose, Propylene Glycol, Water
+purpose:
+  Uses For hand washing to decrease bacteria on the skin. Recommended for repeated use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only.
+spl_product_data_elements:
+  Pristall SaniShield Alcohol Free Antiseptic Hand Sanitizer BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM COCAMIDOPROPYL BETAINE EDETATE SODIUM HYDROXYPROPYL CELLULOSE PROPYLENE GLYCOL WATER
+description:
+  Lot No. Expiration Date Made in USA Manufactured by: Sani Home Products International, LLC 15 Frowein Road Buiding E Suite 2 Center Moriches, NY 11934
+warnings_and_cautions:
+  If swallowed, get medical help or contact a Poison Control Center right away
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Discontinue if irritation or redness develop. If condition persists for more than 72 hours, consult a doctor.
+do_not_use:
+  Do not use in eyes.
+package_label_principal_display_panel:
+  Pristall SaniShield It's not clean until it's SaniClean Alcohol Free Antiseptic Hand Sanitizer Spray Kills Germs Not Your Skin 8.45 fl oz (250 ml)
+  PristallSaniShieldHandSanitizerSpray250ml
+set_id:
+  6ce271e2-846b-408a-b97e-d251d81890e3
+id:
+  f948039e-0c16-46d4-82a3-5ff69ab9efaa
+active_ingredient:
+  Active Ingredient Purpose Benzalkonium Chloride 0.13 percent Antiseptic

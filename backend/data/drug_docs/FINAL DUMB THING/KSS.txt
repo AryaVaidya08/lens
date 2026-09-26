@@ -1,0 +1,28 @@
+effective_time:
+  20100801
+inactive_ingredient:
+  Inactive Ingredients Water, Cocoate, Oleate, Cocamidopropyl betaine, Hydroxyethyl Cellulose, Polyquaternium 7, Na 4 EDTA, 2-Propanol, Peg-75 Lanolin, Aloe Vera Gel, Fragrance, Triclosan, DMDM Hydantoin.
+purpose:
+  Purpose Antiseptic Hand Cleanser
+warnings:
+  Warnings For external use only Do not use near eyes Keep out of reach of children. In case of eye contact flush with water for 15 minutes If irritation persists, get medical attention In case of accidental ingestion, seek medical attention or contact a poison control center immediately.
+spl_product_data_elements:
+  KSS CLEAN HANDS ANTISEPTIC CLEANER Chloroxylenol chloroxylenol chloroxylenol water potassium oleate cocamidopropyl betaine hydroxyethyl cellulose (2000 CPS at 1%) isopropyl alcohol edetate sodium aloe vera leaf DMDM hydantoin triclosan potassium cocoate POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600 KD)
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Wet hands and forearms Apply appropriate amount to palm and hand Scrub hands and forearms for 60 seconds Rinse well Wipe dry with towel, repeat if necessary.
+spl_unclassified_section:
+  Drug Facts
+  Other Information Assists with OSHA bloodborne pathogen standard compliance
+package_label_principal_display_panel:
+  Principal Display Panel – Bottle Label KSS CLEAN HANDS ANTISEPTIC Antiseptic Lotion Cleaner A Powerful Antiseptic Cleanser for Handwashing Enhanced With Moisturizers Reduces Bacteria on Skin That Can Potentially Cause Disease Assists with OSHA Bloodborne Pathogen Standard Compliance See Drug Facts panel for additional information. Principal Display Panel – Bottle Label
+indications_and_usage:
+  Uses Helps reduce bacteria that potentially can cause disease Helps prevent cross contamination by hand contact
+set_id:
+  e32ea7f5-028b-4863-92fb-9bb3c469ebc6
+id:
+  999446b3-64c8-48a8-8505-48ec151f795d
+active_ingredient:
+  Active Ingredient Chloroxylenol (1% v/v)

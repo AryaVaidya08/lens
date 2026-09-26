@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Histamine Histaminum Hydrochloricum HISTAMINE DIHYDROCHLORIDE HISTAMINE WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Histaminum Hydrochloricum 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C.
+purpose:
+  PURPOSE: Histaminum Hydrochloricum - Hay Fever, Congestion, Stomach Discomfort
+indications_and_usage:
+  USES: • For the temporary relief of symptoms including: • hay fever • congestion • stomach discomfort These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 25% ethanol
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: DesBio Histamine Homeopathic NDC 43742-0696-1 1 FL OZ (30 ml) Histamine
+set_id:
+  f1503ad8-cb3b-4de5-a07c-57e5b80b756f
+id:
+  3a9ff815-750d-4247-970e-0620b5d44ddc
+effective_time:
+  20240314
+version:
+  5
+openfda:
+  brand_name:
+    Histamine
+  generic_name:
+    HISTAMINUM HYDROCHLORICUM
+  manufacturer_name:
+    Deseret Biologials, Inc.
+  product_ndc:
+    43742-0696
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    HISTAMINE DIHYDROCHLORIDE
+  spl_id:
+    3a9ff815-750d-4247-970e-0620b5d44ddc
+  spl_set_id:
+    f1503ad8-cb3b-4de5-a07c-57e5b80b756f
+  package_ndc:
+    43742-0696-1
+  is_original_packager:
+    True
+  upc:
+    0810151880181
+  unii:
+    3POA0Q644U

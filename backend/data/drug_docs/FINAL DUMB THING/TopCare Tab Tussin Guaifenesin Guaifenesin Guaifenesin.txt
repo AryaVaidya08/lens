@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  TopCare Tab Tussin Guaifenesin Guaifenesin Guaifenesin MALTODEXTRIN STEARIC ACID SILICON DIOXIDE POVIDONE K30 MAGNESIUM STEARATE PH063
+active_ingredient:
+  Active ingredient (per tablet) Guaifenesin 400mg
+purpose:
+  Purpose Expectorant3
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus helps make coughs more productive
+warnings:
+  Warnings Ask doctor before use if you have persistent or chronic cough, such as occurs with smoking, asthma, bronchitis or emphysema cough is accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask doctor if Symptoms are accompanied by fever, rash or persistent headache cough persists for more than 1 week or tends to recur A persistent cough may be a sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and over: take 1 tablet every 4 hours as needed Children 6 to 10 under 12 years of age: take 1/2 tablet every 4 hours as needed Children under 6 years of age: consult a doctor Do not exceed 6 doses in a 24 hour period or as directed by a doctor
+storage_and_handling:
+  Other Information store at 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients magnesium stearate, maltodextrin, microcrystalline cellulose, povidone K30, povidone 90F, silicon dioxide, stearic acid.
+package_label_principal_display_panel:
+  image of carton label
+set_id:
+  a164c2a1-5a27-4e16-aea2-48267c2b5c0c
+id:
+  828fdf09-4983-48e9-99d1-861b0561af2a
+effective_time:
+  20210506
+version:
+  3
+openfda:

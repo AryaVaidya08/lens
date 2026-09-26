@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  PureLogic Antibacterial Hand Wipes Citrus Splash Single To Go Packs BENZALKONIUM CHLORIDE ALCOHOL ETHYLHEXYLGLYCERIN PROPYLENE GLYCOL WATER PHENOXYETHANOL DIDECYLDIMONIUM CHLORIDE GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.2%
+purpose:
+  Purpose: Disinfectant
+indications_and_usage:
+  USE Decrease bacteria on skin that could cause disease Recommended for repeated use
+warnings:
+  warnings For external use only on hands. Flammable, keep way from flame or fire
+when_using:
+  When using this product When using this product, keep out of eyes. In case of contact with eyes, flush thoroughly with water Do not ingest or inhale Avoid contact with broken skin
+stop_use:
+  stop use and ask a doctor if irrigation and redness develop and condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  keep out of reach of children if swallowed,get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Directions Wipe product on hands thoroughly and allow to dry, do not wipe off For children under 6, use under adult supervision Not recommended for use with infants
+storage_and_handling:
+  other information Do not store above 105F (40.6C) May discolor some fabrics Harmful to plastics and wood finishes
+inactive_ingredient:
+  inactive ingredients Purified water, Phenoxyethanol, Ethylhexylglycerin, Didecyldimonium Chloride, Propylene Glycol, Glycerin, Fragrance
+package_label_principal_display_panel:
+  image description
+set_id:
+  1c260c1c-0a04-4020-b96f-e554440dc2cb
+id:
+  ab4a6c24-5576-34b6-e053-2a95a90aa650
+effective_time:
+  20200725
+version:
+  1
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  DuroKleen Sanitizer Benzalkonium Chloride DIMETHYLTETRADECYL(3-(TRIMETHOXYSILYL)PROPYL)AMMONIUM CHLORIDE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.10%
+purpose:
+  Purpose Antiseptic, Hand Sanitizer, Antibacterial
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray product on hands to cover and wet all surfaces. Rub thoroughly. Allow to dry without wiping Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Ztrex 72 MUP, purified water USP
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 750mL is one bottle NDC: 77368-901-75 DuroKleanSpray Front DuroKleanSpray Back
+set_id:
+  b8e9f88a-d086-98a2-e053-2a95a90a9666
+id:
+  b9bf87a9-5466-35ce-e053-2a95a90a6d4f
+effective_time:
+  20210125
+version:
+  2
+openfda:

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Freshmint Premium Anticavity Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION SORBITOL SILICON DIOXIDE WATER GLYCERIN POLYETHYLENE GLYCOL 1600 SODIUM LAURYL SULFATE TITANIUM DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED CARRAGEENAN SODIUM PHOSPHATE, TRIBASIC, DODECAHYDRATE SODIUM BENZOATE SODIUM SACCHARIN SODIUM PYROPHOSPHATE FD&C BLUE NO. 1 sky blue mint
+active_ingredient:
+  OTC Active Ingredient Sodium Fluoride - 0.243% (0.15 w/v fluoride ion)
+purpose:
+  OTC Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of Children under 6 years of age If you accidentally swallow more than used for brushing, seek professional help or contact a Poison Control Center immediately.
+indications_and_usage:
+  Uses Aids in the prevention of dental cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. if you accidentally swallow more than used for brushing, seek professional help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 2 years & older: Brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist. Do not swallow. Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing, use a pea-sized amount) Supervise children's brushing until good habits are established. Children under 2 years: Consult a dentist or doctor
+inactive_ingredient:
+  Inactive Ingredients Sorbitol, Silica, Treated Water, Glycerin, PEG-32, Sodium Lauryl Sulfate, Flavor, Titanium Dioxide, Cellulose Gum, Carrageenan, Trisodium Phosphate, Sodium Saccharin, Sodium Benzoate, Tetrasodium Pyrophosphate, FD&C Blue #1
+package_label_principal_display_panel:
+  TPADA Tube
+set_id:
+  ef108fff-a79c-4e8d-8bf0-3fe567f93eb8
+id:
+  5aff4954-53d1-17fe-e063-6294a90a2002
+effective_time:
+  20260908
+version:
+  9
+openfda:
+  application_number:
+    M021
+  brand_name:
+    Freshmint Premium Anticavity
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    New World Imports, Inc
+  product_ndc:
+    51824-029
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    DENTAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    891775
+  spl_id:
+    5aff4954-53d1-17fe-e063-6294a90a2002
+  spl_set_id:
+    ef108fff-a79c-4e8d-8bf0-3fe567f93eb8
+  package_ndc:
+    51824-029-01
+    51824-029-02
+    51824-029-03
+    51824-029-04
+    51824-029-05
+    51824-029-06
+    51824-029-07
+  is_original_packager:
+    True
+  upc:
+    0085317005955
+  unii:
+    8ZYQ1474W7

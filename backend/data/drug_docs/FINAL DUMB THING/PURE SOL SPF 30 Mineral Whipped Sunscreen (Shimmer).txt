@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  PURE SOL SPF 30 Mineral Whipped Sunscreen (Shimmer) Zinc Oxide STEARIC ACID TRIETHANOLAMINE OKRA CALCIUM SODIUM BOROSILICATE HYALURONATE SODIUM ISOBUTANE 1,2-HEXANEDIOL SILVER WATER GLYCERIN BUTANE CETOSTEARYL ALCOHOL GENTIANA SCABRA ROOT EDETATE DISODIUM HYDROGENATED JOJOBA OIL/JOJOBA OIL, RANDOMIZED (IODINE VALUE 64-70) HYDROXYACETOPHENONE BUTYLENE GLYCOL GLYCERYL MONOSTEARATE PEG-100 STEARATE PEG-7 GLYCERYL COCOATE ZINC OXIDE ZINC OXIDE DIPOTASSIUM GLYCYRRHIZATE PROPANE PROPYLENE GLYCOL PALMITIC ACID PEG-12 DIMETHICONE
+active_ingredient:
+  Zinc Oxide-15%
+purpose:
+  helps prevent sunburn • higher SPF gives more sunburn - protection • helps protect the skin against the harmful effects of - UVA and UVB rays
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  For external use only When using this product avoid contact with the eyes. If contact occurs rinse thoroughly with water. Stop use and ask a doctor if rash or irritation develops and lasts.
+indications_and_usage:
+  apply generously and evenly to all exposed areas before sun exposure • reapply as needed or after towel drying, swimming, perspiring or vigorous activity • children under 6 months of age: ask a doctor
+inactive_ingredient:
+  Water (Aqua) Butane Isobutane Propane Glycerin PEG-17 Dimethicone Propylene Glycol Stearic Acid Palmitic Acid Triethanolamine Glyceryl Stearate PEG-100 Stearate PEG-7 Glyceryl Cocoate Jojoba Wax PEG-120 Esters Cetearyl Alcohol Hydroxyacetophenone 1,2-Hexanediol Butylene Glycol Gentiana Scabra Root Extract Dipotassium Glycyrrhizate Calcium SodiumBorosilicate Silver Sodium Hyaluronate Disodium EDTA Hibiscus Esculentus Fruit Extract
+dosage_and_administration:
+  Apply generously and evenly over whole body 20 minutes before sun exposure. Reapply frequently.
+package_label_principal_display_panel:
+  labeling
+set_id:
+  4051ced5-85cf-6211-e063-6394a90a09fc
+id:
+  4051ced5-85d0-6211-e063-6394a90a09fc
+effective_time:
+  20251004
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    PURE SOL SPF 30 Mineral Whipped Sunscreen (Shimmer)
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Brand 2022b LLC
+  product_ndc:
+    84090-002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    4051ced5-85d0-6211-e063-6394a90a09fc
+  spl_set_id:
+    4051ced5-85cf-6211-e063-6394a90a09fc
+  package_ndc:
+    84090-002-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

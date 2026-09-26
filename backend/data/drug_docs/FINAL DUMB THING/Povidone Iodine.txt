@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Povidone Iodine Povidone Iodine GLYCERIN NONOXYNOL-10 WATER POVIDONE-IODINE IODINE
+active_ingredient:
+  Active Ingredients Povidone Iodine 10%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses prepping intact skin and mucous membranes prior to surgery
+warnings:
+  Warnings For external use only Avoid use on persons allergic to iodine
+stop_use:
+  Stop using this product and ask a doctor if Skin shows symptoms of irritation, sensitivity, redness, pain or swelling
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact Poison Control Center right away
+dosage_and_administration:
+  Directions Patient preoperative prep apply solution to operative site following povidone iodine scrub application using a circular motion, start at incision site and move outward remove all soiled underdrapes Do not allow solution to pool
+storage_and_handling:
+  Other information store at room temperature avoid excessive heat (above 104oF/40oC) protect from freezing latex free
+inactive_ingredient:
+  Inactive Ingredients Glycerin, Nonoxynol - 10, Purified Water
+package_label_principal_display_panel:
+  Package Label Pouch Label
+set_id:
+  eb30e5de-9074-4760-8e92-e1d1c127227d
+id:
+  085bbc1a-02e7-ea11-e063-6394a90a3391
+effective_time:
+  20231023
+version:
+  6
+openfda:
+  application_number:
+    M005
+  brand_name:
+    Povidone Iodine
+  generic_name:
+    POVIDONE IODINE
+  manufacturer_name:
+    Jianerkang Medical Co., Ltd
+  product_ndc:
+    34645-4059
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    POVIDONE-IODINE
+  rxcui:
+    312564
+  spl_id:
+    085bbc1a-02e7-ea11-e063-6394a90a3391
+  spl_set_id:
+    eb30e5de-9074-4760-8e92-e1d1c127227d
+  package_ndc:
+    34645-4059-6
+  is_original_packager:
+    True
+  nui:
+    N0000175486
+    M0011640
+  pharm_class_epc:
+    Antiseptic [EPC]
+  pharm_class_cs:
+    Iodine [CS]
+  unii:
+    85H0HZU99M

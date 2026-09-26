@@ -1,0 +1,33 @@
+effective_time:
+  20121004
+inactive_ingredient:
+  Inactive Ingredients Benzophenone-4, Citric Acid, Cocamidopropyl Betaine, Cocamide DEA, Disodium EDTA, Fragrance (Parfum), Methylchloroisothiazolinone, Methylisothiazolinone, PEG-150 Distearate, Sodium Laureth Sulfate, Water (Aqua)
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed contact a doctor or Poison Control Center immediately.
+warnings:
+  Warnings For external use only Flammable, keep away from fire and flame Does not contain grain alcohol; do not drink. If taken internally will produce serious gastric disturbances
+when_using:
+  When using this product Avoid the eyes and mucous membranes In the case of eye or mucous membrane contact; rinse area thoroughly with water
+spl_product_data_elements:
+  simple pleasures antibacterial foaming hand TRICLOSAN TRICLOSAN TRICLOSAN BENZOPHENONE CITRIC ACID MONOHYDRATE COCAMIDOPROPYL BETAINE COCO DIETHANOLAMIDE EDETATE DISODIUM METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE PEG-150 DISTEARATE SODIUM LAURETH SULFATE WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Wet hands, work into a lather. Rinse well Supervise children in the use of this product In the case of eye contact, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if condition worsens redness or irritation develops if condition persists for more than 3 days
+spl_unclassified_section:
+  Other information Store below 105F May discolor some fabrics
+package_label_principal_display_panel:
+  Package Label image description
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin Recommended for repeated use
+set_id:
+  4760b9f8-43ce-4bd8-b2f9-30fa36d18f2a
+id:
+  9c04c602-a1ca-4039-a187-c7914add7948
+active_ingredient:
+  Active Ingredient Triclosan 0.3%

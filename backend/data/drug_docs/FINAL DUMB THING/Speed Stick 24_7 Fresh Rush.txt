@@ -1,0 +1,38 @@
+effective_time:
+  20190429
+inactive_ingredient:
+  Inactive ingredients water, hydrogenated soybean oil, steareth-2, PPG-15 stearyl ether, steareth-20, fragrance, caprylyl glycol, tetrasodium EDTA, BHT
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if skin rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? Call toll-free 1-800-228-7408
+spl_product_data_elements:
+  Speed Stick 24/7 Fresh Rush ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE WATER HYDROGENATED SOYBEAN OIL STEARETH-2 PPG-11 STEARYL ETHER STEARETH-20 CAPRYLYL GLYCOL EDETATE SODIUM BUTYLATED HYDROXYTOLUENE
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Apply to underarms only
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022
+stop_use:
+  Stop use if skin rash or irritation occurs
+do_not_use:
+  Do not use on broken skin
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50mL Bottle Label NON - STOP PROTECTION Speed stick ® 24/7 FRESH RUSH ® ANTIPERSPIRANT / DEODORANT 24 HOUR PROTECTION 1.7 FL OZ (50mL) ROLL-ON 481484 Principal Display Panel - 50mL Bottle Label
+indications_and_usage:
+  Use Reduces underarm wetness
+set_id:
+  5283a5ab-b31d-4cd3-9faf-085e44e367bb
+id:
+  e1651e9d-c9b6-44f8-bcde-a8fa2cbd4d6b
+active_ingredient:
+  Active ingredient Aluminum chlorohydrate 12%

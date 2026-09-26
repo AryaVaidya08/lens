@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  GREEN GUARD First Aid Antiseptic HYDROGEN PEROXIDE WATER HYDROGEN PEROXIDE HYDROGEN PEROXIDE
+active_ingredient:
+  Active ingredient Hydrogen Peroxide 3.0%
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Uses First aid to help prevent infection in minor cuts, scrapes and burns
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use near eyes or mucous membranes on deep or puncture wounds, animal bites, or serious burns consult a doctor on large areas of the body
+stop_use:
+  Stop use and ask a doctor if the condition persists or gets worse. Do not use longer than 1 week unless directed by a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children.
+dosage_and_administration:
+  Directions spray over a affected area if bandaged, let dry first not to be used on children under 12 years of age
+inactive_ingredient:
+  Inactive ingredient purified water
+questions:
+  Questions or comments? 1-800-869-6970
+spl_unclassified_section:
+  Treats minor cuts, scrapes and abrasions Helps prevent infection Store at 68°-77°F(20°-25°℃)
+package_label_principal_display_panel:
+  image of bottle label
+set_id:
+  b6f6a986-a15f-ec0a-e053-2995a90a99f2
+id:
+  b6f6a986-a160-ec0a-e053-2995a90a99f2
+effective_time:
+  20201221
+version:
+  1
+openfda:

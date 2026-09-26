@@ -1,0 +1,36 @@
+effective_time:
+  20161101
+inactive_ingredient:
+  Water(Aqua), Glycerin, Tocopheryl Acetate, Fragrance(Parfum).
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+warnings:
+  Warnings Flammable, Keep away from fire or flame. For external use only.
+when_using:
+  When using this product do not use in or near the eyes. If contact occurs, rinse thoroughly with water.
+spl_product_data_elements:
+  PF HAND SANITIZING ETHYL ALCOHOL WATER GLYCERIN ALCOHOL ALCOHOL
+description:
+  Distributed by: Premium Formulations LLC 220E, Delaware Ave Newark, DE - 19711 Manufactured in China
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Spray enough product in your palm to thoroughly cover and wet your hands. Rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+storage_and_handling:
+  Other information Do not store above 110 degree Fahrenheit (43 degree Celsius). May discolor certain fabrics or surfaces.
+package_label_principal_display_panel:
+  Other Information KILLS 99.9 percent OF GERMS PF Premium Formulations Anti-Bacterial Hand Sanitizing Spray Over 150 Sprays! 0.5 FL OZ (15 ml)
+  SantizingSpray15
+indications_and_usage:
+  Uses Hand sanitizing to help reduce bacteria on the skin that could cause disease.
+set_id:
+  5193efbd-3daf-419d-a04e-c80743ca1582
+id:
+  4041eee8-a7d0-1da2-e054-00144ff88e88
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 70 percent

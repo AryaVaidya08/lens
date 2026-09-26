@@ -1,0 +1,27 @@
+effective_time:
+  20170916
+inactive_ingredient:
+  Inactive ingredients:
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+purpose:
+  Health supplement
+warnings:
+  Warnings: Ask a doctor if side effect occurs.
+spl_product_data_elements:
+  DISTILPURE MSM Cystine,Cysteine,Methionine,Thiamin,Biotin BIOTIN BIOTIN WATER CYSTINE CYSTINE CYSTEINE CYSTEINE METHIONINE METHIONINE THIAMINE THIAMINE ION
+openfda:
+version:
+  3
+dosage_and_administration:
+  These highlights do not include all the information needed to use. See full prescribing information for DISTILPURE MSM One capsule a day
+package_label_principal_display_panel:
+  DISTILPURE MSM MEDI MSM
+indications_and_usage:
+  Do not use this product if you have allergy
+set_id:
+  3c47bff6-8090-4ccb-e054-00144ff8d46c
+id:
+  601d43c2-e11e-d0a4-e053-2a91aa0a3de5
+active_ingredient:
+  Active Ingredients Purposes Cystine Cysteine Methionine Thiamin Biotin

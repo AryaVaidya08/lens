@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Klean GeniX Hand Sanitizer Fluid Alcohol ALCOHOL ALCOHOL GLYCERIN water
+active_ingredient:
+  Active Ingredients Alcohol 70% v/v
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warning Flammable. Keep away from fire or flame. For external use only.
+when_using:
+  When using this product avoid contact with eyes, ears, and mouth. In case of contact with eyes, flush eyes with water immediately. Avoid contact with broken skin. Discontinue use if irritation or redness develops. If condition persists, consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children should only use this product under adult supervison. Do not drink. Not edible. In case of accidential ingestion, seek professional assistance or contact a Poison Control Center immediately.
+storage_and_handling:
+  Other Information Store under 105°F.
+dosage_and_administration:
+  Directions Place hand sanitizer in your palm, thoroughly cover hands, including between fingers, under fingernails, and around wrists. Rub briskly until dry. No rinsing required.
+inactive_ingredient:
+  Inactive Ingredients Purified water, Glycerin USP
+package_label_principal_display_panel:
+  image description
+set_id:
+  fc87d247-eb1c-4a03-9037-b7d0f90dc64b
+id:
+  72be8f0e-c224-41f4-a1fc-11d9aa0186b3
+effective_time:
+  20210215
+version:
+  2
+openfda:

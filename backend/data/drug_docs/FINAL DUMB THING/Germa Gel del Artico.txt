@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Germa Gel del Artico Menthol 1% ISOTHIAZOLINONE FD&C BLUE NO. 1 CAMPHOR (SYNTHETIC) PROPYLENE GLYCOL WATER MENTHOL, UNSPECIFIED FORM MENTHOL EUCALYPTUS OIL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Methyl Salicylate 10%
+when_using:
+  Uses For the temporary relief of minor aches and pains of muscles and joints associated with simple backache, strains, sprains, arthritis and sports injuries.
+indications_and_usage:
+  When using this product do not • heat, microwave, add to hot water or any container where heating water may cause splattering and result in burns • use on eyes or directly on mucous membranes • take by mouth or place in nostrils • apply to wounds or damaged skin • use on bandage skin • use, store, pour or spill near heat or open flame.
+purpose:
+  Purpose Topical Analgesic
+warnings:
+  Warnings For external use only ■ Use only as directed Do not use • on children • with a heating pad • with a tight bandage • on eyes, mucous membranes, wound or irritated skin • over extensive areas of the body.
+keep_out_of_reach_of_children:
+  Warnings KEEP OUT OF THE REACH OF CHILDREN In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+ask_doctor:
+  Consult a doctor and discontinue use • If condition worsens or symptoms persist for more than 7 days • If you have sensitive skin • if prone to allergic reaction from any of the ingredients.
+other_safety_information:
+  Other Information Store at controlled room temperature 15-30ºC (59-86ºF)
+dosage_and_administration:
+  Directions Clean skin of lotions, creams, ointments, liniment or sprays • Apply liberally to affected area and massage until absorbed into skin • Do not apply more than 3 or 4 times daily. • Children under 12 years of age, ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Camphor, D&C Color Red #17, Eucalyptus Oil, Lanolin Oil, Menthol, Mineral Oil, Paraffin Wax, Propylparaben, Tea Tree Oil, White Petrolatum.
+package_label_principal_display_panel:
+  Principal Display Panel gel del artico
+set_id:
+  bff1d37f-e8b7-7b72-e053-2995a90a8254
+id:
+  40d06f08-d4ca-c562-e063-6394a90ab28e
+effective_time:
+  20251010
+version:
+  5
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Germa Gel del Artico
+  generic_name:
+    MENTHOL 1%
+  manufacturer_name:
+    Germa Products, LLC
+  product_ndc:
+    73635-5802
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL, UNSPECIFIED FORM
+  spl_id:
+    40d06f08-d4ca-c562-e063-6394a90ab28e
+  spl_set_id:
+    bff1d37f-e8b7-7b72-e053-2995a90a8254
+  package_ndc:
+    73635-5802-9
+  is_original_packager:
+    True
+  upc:
+    0790933102413
+  unii:
+    L7T10EIP3A

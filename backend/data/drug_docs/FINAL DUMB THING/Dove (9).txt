@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Dove Pecan Butter Crunch Antiperspirant HYDROGENATED CASTOR OIL HIGH DENSITY POLYETHYLENE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY PPG-14 BUTYL ETHER STEARYL ALCOHOL SUNFLOWER OIL SILICON DIOXIDE ALKYL (C12-15) BENZOATE DIMETHICONE STEARETH-100 POLYETHYLENE GLYCOL 400 ISOPROPYL PALMITATE
+description:
+  DOVE PECAN BUTTER CRUNCH ANTIPERSPIRANT - aluminum zirconium tetrachlorohydrex gly stick
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (15.2 %)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Stearyl Alcohol, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Isopropyl Palmitate, PPG-14 Butyl Ether, Hydrogenated Castor Oil, PEG-8, Fragrance (Parfum), Dimethicone, Helianthus Annuus (Sunflower) Seed Oil, Silica, Polyethylene, Steareth-100, BHT
+questions:
+  Questions? Call 1-800-761-3683
+package_label_principal_display_panel:
+  Packaging Dove Pecan Butter Crunch AP IS
+set_id:
+  18f821c1-aa3c-7fe7-e063-6294a90a797b
+id:
+  18f821c1-aa3b-7fe7-e063-6294a90a797b
+effective_time:
+  20240521
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Dove
+  generic_name:
+    PECAN BUTTER CRUNCH ANTIPERSPIRANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2273
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    18f821c1-aa3b-7fe7-e063-6294a90a797b
+  spl_set_id:
+    18f821c1-aa3c-7fe7-e063-6294a90a797b
+  package_ndc:
+    64942-2273-1
+  is_original_packager:
+    True
+  upc:
+    0079400518040
+  unii:
+    8O386558JE

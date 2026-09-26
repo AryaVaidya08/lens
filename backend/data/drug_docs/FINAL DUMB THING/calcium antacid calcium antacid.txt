@@ -1,0 +1,31 @@
+effective_time:
+  20181210
+inactive_ingredient:
+  Inactive ingredients corn starch, crospovidone, dextrose, flavor, magnesium stearate, maltodextrin, sucrose, talc
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Enter section text here
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 16 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor. Keep out of reach of children.
+when_using:
+  When using this product do not take more than 16 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor. Keep out of reach of children.
+spl_product_data_elements:
+  calcium antacid calcium antacid CALCIUM CARBONATE CALCIUM CATION CARBONATE ION STARCH, CORN CROSPOVIDONE DEXTROSE MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC GDC113
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions chew 2-4 tablets as symptoms occur, or as directed by a doctor. Other information do not use if printed seal under the cap is torn or missing. store at room temperature.
+package_label_principal_display_panel:
+  Principal Display Panel Sunmark COMPARE TO TUMS® ACTIVE INGREDIENT calcium anatcid Regular Strength Fast relief of heartburn and acid indigestion Daily source of calcium PEPPERMINT FLAVOR Calcium antacid front label Calcium antacid back label
+indications_and_usage:
+  Uses relieves acid indigestion heartburn
+set_id:
+  935bb2cc-7a13-4d28-807b-f8767e8f9e9f
+id:
+  c37b45da-58cb-44dd-a84a-c2b9913ba755
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs.
+active_ingredient:
+  Active ingredient (in each tablet) Calcium carbonate 500 mg

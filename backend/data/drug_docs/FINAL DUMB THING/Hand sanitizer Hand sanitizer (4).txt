@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Hand sanitizer Hand sanitizer GLYCERIN CARBOMER INTERPOLYMER TYPE A (55000 CPS) WATER ALCOHOL ALCOHOL AMINOMETHYLPROPANOL
+dosage_and_administration:
+  Store below 110°F (43°C)
+inactive_ingredient:
+  AQUA, Glycerin, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER、AMP AMINOMETHYL PROPANOL
+indications_and_usage:
+  Put enough product in your palm to cover hands and rub hands together briskly until dry.
+active_ingredient:
+  ALCOHOL
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  Flammable. Keep away from fire or flame.For external use only。When using this product do not use in or near the eyes. In case of contact,rinse eyes thoroughly with water.Stop use and ask a doctor if iritation or rash appears and lasts.Keep out of reach of children. If swallwed, get medical help or contact a Poison Control Center right away.
+package_label_principal_display_panel:
+  label
+set_id:
+  a868b6ea-a09a-b218-e053-2a95a90a038d
+id:
+  a868b6ea-a09b-b218-e053-2a95a90a038d
+effective_time:
+  20200618
+version:
+  1
+openfda:

@@ -1,0 +1,31 @@
+effective_time:
+  20110301
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane dispensing alcohol 20%.
+purpose:
+  OTC - PURPOSE SECTION Formulated for associated symptoms such as chills, aches, sweating, fatigue, nausea and loss of appetite.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if p. regnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children.
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Fever Infection Influenzinum, Aconitum nap., Arsenicum alb., Belladonna, Bryonia, Camphora, Cina, Cinchona, Eupatorium perf., Ferrum phosphoricum, Gelsemium, Hepar sulph. calc., Ignatia, Nat. mur., Nux vom., Phosphorus, Pulsatilla, Salix nigra,Veratrum viride, Chamomilla, Echinacea, Hydrastis. Influenza A Virus Influenza A Virus Aconitum Napellus Aconitum Napellus Arsenic Trioxide Arsenic Cation (3+) Atropa Belladonna Atropa Belladonna Bryonia Alba Root Bryonia Alba Root Camphor (natural) Camphor (natural) Artemisia Cina Pre-flowering Top Artemisia Cina Pre-flowering Top Cinchona Officinalis Bark Cinchona Officinalis Bark Eupatorium Perfoliatum Flowering Top Eupatorium Perfoliatum Flowering Top Gelsemium Sempervirens Root Gelsemium Sempervirens Root Calcium Sulfide Calcium Sulfide Strychnos Ignatii Seed Strychnos Ignatii Seed Sodium Chloride Chloride Ion Strychnos Nux-vomica Seed Strychnos Nux-vomica Seed Phosphorus Phosphorus Pulsatilla Vulgaris Pulsatilla Vulgaris Salix Nigra Bark Salix Nigra Bark Veratrum Viride Root Veratrum Viride Root Matricaria Recutita Matricaria Recutita Echinacea, Unspecified Echinacea, Unspecified Goldenseal Goldenseal Ferrosoferric Phosphate Ferrosoferric Phosphate Influenza B Virus Influenza B Virus Alcohol package label
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: ORAL USE ONLY - SHAKE WELL. Children, ages 0 to 11, give 3 drops orally (ages 12 and up, give 6 drops) as needed or as directed by a healthcare professional. Sensitive persons begin with 1 drop and gradually increase to full dose. Warning: If symptoms become severe or fever persists for more than 48 hours, consult a licensed health care professional .
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Fever - Infection Formulated for associated symptoms such as chills, aches, sweating, fatigue, nausea and loss of appetite.
+set_id:
+  4ad7fd42-9920-ee07-d076-b4f191608c4f
+id:
+  a99f90e9-d3f8-8fa3-65f8-d531448a33aa
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Influenzinum 30x, Aconitum nap. 15x, Arsenicum alb. 15x, Belladonna 15x, Bryonia 15x, Camphora 15x, Cina 15x, Cinchona 15x, Eupatorium perf. 15x, Ferrum phosphoricum 15x, Gelsemium 15x, Hepar sulph. calc. 15x, Ignatia 15x, Nat. mur.15x, Nux vom. 15x, Phosphorus 15x, Pulsatilla 15x, Salix nigra 15x, Veratrum viride 15x, Chamomilla 3x, Echinacea 3x, Hydrastis 3x.

@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  VRMX 500 PYRANTEL PAMOATE LACTOSE MONOHYDRATE MICROCRYSTALLINE CELLULOSE CROSPOVIDONE CROSCARMELLOSE SODIUM POVIDONE, UNSPECIFIED POTASSIUM SORBATE PYRANTEL PAMOATE PYRANTEL SILICON DIOXIDE MAGNESIUM STEARATE TALC POLYETHYLENE GLYCOL 6000 G
+spl_unclassified_section:
+  Drug Facts
+  Exclusively distributed by OPMX Chula Vista, CA 91910 Questions or comments: 619-600-5632 MADE IN INDIA
+active_ingredient:
+  Active ingredient (in each uncoated tablet) Pyrantel Pamoate USP 180 mg (equivalent to 62.5mg of pyrantel base)
+purpose:
+  Purpose Antihelmintic
+indications_and_usage:
+  Use: for the treatment of pinworms
+warnings:
+  Warnings: Do not exceed recommended dosage Ask a doctor before use if: you're pregnant you're nursing a baby you have liver disease When using this product: abdominal cramps, nausea, vomiting, diarrhea, headache, or dizziness sometimes occur after taking this drug. If any of these symptoms persist consult a doctor. Keep out of reach of children. In case of overdose, get medical help or contact a poison control center rightaway.
+ask_doctor:
+  Ask a doctor before use if: you're pregnant you're nursing a baby you have liver disease
+when_using:
+  When using this product: abdominal cramps, nausea, vomiting, diarrhea, headache, or dizziness sometimes occur after taking this drug. If any of these symptoms persist consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a poison control center rightaway.
+dosage_and_administration:
+  Directions: Adults, children 12 years of age and over, and children 2 years to under 12 years: Oral dossage is a single dose of 5 mg of pyrantel base per pound or 11 mg of pyrantel base per kilogram of body weight. Do not Exceed 1 gram (1000mg). Children Under 25lbs. or 2yrs: Don't use unless directed by a doctor. READ PACKAGE INSERT CAREFULLY BEFORE TAKING THIS MEDICATION Weight Dosage (taken as a single dose) Less than 25 lb. or under 2 yrs. old Do not use unless directed by a doctor 25-37 lb. 2 tablets 38-62 lb. 4 tablets 63-87 lb. 6 tablets 88-112 lb. 8 tablets 113-137 lb. 10 tablets 138-162 lb. 12 tablets 163-187 lb. 14 tablets 188 lb & over 16 tablets
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Weight</content></content></td><td><content styleCode="italics"><content styleCode="bold">Dosage</content></content> (taken as a single dose) </td></tr><tr><td>Less than 25 lb. or under 2 yrs. old</td><td>Do not use unless directed by a doctor</td></tr><tr><td>25-37 lb.</td><td>2 tablets</td></tr><tr><td>38-62 lb.</td><td>4 tablets</td></tr><tr><td>63-87 lb.</td><td>6 tablets</td></tr><tr><td>88-112 lb.</td><td>8 tablets</td></tr><tr><td>113-137 lb.</td><td>10 tablets</td></tr><tr><td>138-162 lb.</td><td>12 tablets</td></tr><tr><td>163-187 lb.</td><td>14 tablets</td></tr><tr><td>188 lb &amp; over</td><td>16 tablets</td></tr></tbody></table>
+storage_and_handling:
+  Other information: store at 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients: Colloidal silicon dioxide, croscarmellose sodium, crospovidone, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, potassium sorbate, talc.
+other_safety_information:
+  TAMPER-EVIDENT: DO NOT USE IF THE BLISTER IS CUT OR BROKEN
+package_label_principal_display_panel:
+  NDC 69729-141-10 VRMX 500 Pyrantel Pamoate Tablets 180 mg TREATMENT FOR PINWORMS Recommended By Health Care Professionals ForThe Entire Family ​10 Tablets carton blister
+set_id:
+  e119cad8-9814-7d5a-e053-2995a90afde5
+id:
+  10c1a1dd-9165-2eec-e063-6294a90a3a38
+effective_time:
+  20240206
+version:
+  6
+openfda:
+  application_number:
+    M024
+  brand_name:
+    VRMX 500
+  generic_name:
+    PYRANTEL PAMOATE
+  manufacturer_name:
+    OPMX LLC
+  product_ndc:
+    69729-141
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PYRANTEL PAMOATE
+  rxcui:
+    199107
+  spl_id:
+    10c1a1dd-9165-2eec-e063-6294a90a3a38
+  spl_set_id:
+    e119cad8-9814-7d5a-e053-2995a90afde5
+  package_ndc:
+    69729-141-10
+  is_original_packager:
+    True
+  unii:
+    81BK194Z5M

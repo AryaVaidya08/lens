@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  KISS New York Tinted Moisturizer Zinc Oxide TITANIUM DIOXIDE METHYL TRIMETHICONE ACETYL HEXAPEPTIDE-8 DIMETHICONE PHENYL TRIMETHICONE PENTYLENE GLYCOL 1,2-HEXANEDIOL PALMITOYL PENTAPEPTIDE-4 TRIPEPTIDE-1 TOCOPHEROL ETHYLHEXYL METHOXYCINNAMATE STEARALKONIUM HECTORITE SODIUM CITRATE SODIUM HYALURONATE BUTYLENE GLYCOL ZINC OXIDE ZINC OXIDE CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) CAPRYLIC/CAPRIC TRIGLYCERIDE CI 77492 CI 77491 POLYGLYCERYL-10 LAURATE CAMELLIA SINENSIS LEAF CI 77499 WATER DIMETHICONE/POLYGLYCERIN-3 CROSSPOLYMER DIPROPYLENE GLYCOL TRIETHOXYCAPRYLYLSILANE COPPER TRIPEPTIDE-1 GLYCERIN PEG-10 DIMETHICONE (600 CST) SODIUM CHLORIDE ETHYLHEXYLGLYCERIN HYALURONIC ACID HEXAPEPTIDE-9 SODIUM ACETYLATED HYALURONATE PEG-9 DIGLYCIDYL ETHER/SODIUM HYALURONATE CROSSPOLYMER SORBITAN SESQUIOLEATE CAPRYLYL GLYCOL DIMETHYLSILANOL HYALURONATE
+active_ingredient:
+  Active ingredient Active ingredient
+ask_doctor:
+  Stop use and ask doctor if Ask doctor
+do_not_use:
+  Do not use : Do not use if
+keep_out_of_reach_of_children:
+  Keep out of reach of children keep out of reach of children
+purpose:
+  Uses - Helps prevent sunburn Purpose - helps prevent sunburn
+questions:
+  Questions contact Contact
+stop_use:
+  Warnings - stop use section warnings
+when_using:
+  When using When using
+inactive_ingredient:
+  Inactive ingredients inactive
+dosage_and_administration:
+  Directions Directions
+warnings:
+  Warning and precautions precautions directions
+indications_and_usage:
+  Usage and indications Usage and indications
+package_label_principal_display_panel:
+  Front label - 335 Cappuccino Front label caramel340 Package barcode barcode Package outer box carton outerboxcarton Sampler KTM335XS080 Sampler KTM335XS080
+  Package barcode barcode
+  Package outer box carton outerboxcarton
+  Sampler KTM335XS080 Sampler KTM335XS080
+set_id:
+  30e1ff3f-0fd0-2880-e063-6294a90a462f
+id:
+  30e1eafa-9ca7-da11-e063-6294a90a20b1
+effective_time:
+  20250324
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    KISS New York Tinted Moisturizer
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    IVY ENTERPRISES, INC.
+  product_ndc:
+    79906-335
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    30e1eafa-9ca7-da11-e063-6294a90a20b1
+  spl_set_id:
+    30e1ff3f-0fd0-2880-e063-6294a90a462f
+  package_ndc:
+    79906-335-01
+    79906-335-00
+    79906-335-03
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

@@ -1,0 +1,15 @@
+spl_product_data_elements:
+  Triferic Solution for Hemodialysis ferric pyrophosphate citrate FERRIC PYROPHOSPHATE CITRATE FERRIC CATION
+spl_unclassified_section:
+  Triferic (ferric pyrophosphate citrate)
+package_label_principal_display_panel:
+  TRIFERIC® 27.2 mg Fe/5 mL NDC Code: 57278-314-02 Mfd. By: Holopack Verpackungstechnik GmbH Bahnhofstr., 74429 Sulzbach-Laufen Germany Holopack Material No.: 011-01190 EXP 06/2020 LOT TEST3 QTY 9 (17)200630(10)TEST(30)9 (01)10357278314023(21)0123456789AB Triferic
+set_id:
+  cf6f526d-9b1c-ff28-e053-2a95a90a681a
+id:
+  cf6f526d-9b1d-ff28-e053-2a95a90a681a
+effective_time:
+  20211028
+version:
+  1
+openfda:

@@ -1,0 +1,39 @@
+effective_time:
+  20160204
+inactive_ingredient:
+  Inactive Ingredients corn syrup, FD&C blue no. 2, lemon, malic acid, sucrose
+purpose:
+  Purpose Sodium Bicarbonate.............Antacid
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children
+warnings:
+  Warnings Do not take more than the maximum recommended daily dosage (see Directions) in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor.
+questions:
+  Questions? 1-844-636-2687 info@neobourne.com
+spl_product_data_elements:
+  Brioschi Effervescent Antacid Sodium bicarbonate SUCROSE CORN SYRUP SODIUM BICARBONATE SODIUM CATION FD&C BLUE NO. 2 LEMON MALIC ACID
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • fully dissolve 5 grams (1 teaspoon) in a 4-6 ounces of water before drinking • do not use more than directed Adults and children 12 years and older One (1 teaspoon) dose each hour Do not exceed 8 doses in 24 hours Adults 60 years and older One (1 teaspoon) dose each hour Do not exceed 4 doses in 24 hours Children under 12 Ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use
+spl_unclassified_section:
+  Drug Facts
+information_for_patients:
+  Other Information • each 6 gram dose contains 280 mg of sodium • store in a cool dry place • reseal cap tightly • do not use if safety seal under cap is broken or missing
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 69276-200-24 The Original Brioschi Say Bree-os-kee Effervescent Antacid For fast relief of Upset Stomach, Acid Indigestion, Heartburn Lemon Flavor ASPIRIN-FREE NET WEIGHT 8.5 OZ (240 GRAMS) Neobourne Pharma Manufactured by Doppel Farmaceutici SRL, Cortemaggiore (PC) Italy for Neobourne Pharma LP Brioschi is a registered trademark of Neobourne Pharma LP. All rights reserved. Made in Italy PRINCIPAL DISPLAY PANEL - BRIOSCHI ANTACID 8.5 OZ
+indications_and_usage:
+  Uses • for the relief of heartburn, sour stomach, acid indigestion, and upset stomach associated with these symptoms
+set_id:
+  19c05011-835c-05ad-e054-00144ff88e88
+id:
+  2afc8bae-615f-0b44-e054-00144ff88e88
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you • are presently taking a prescription drug; antacids may interact with certain prescription drugs • have a sodium restricted diet
+active_ingredient:
+  Active Ingredients (in each 5 gram dose) Sodium Bicarbonate 1.02 grams
+dosage_and_administration_table:
+  <table border="0" width="50%"> <tbody> <tr> <td>Adults and children 12 years and older</td> <td>One (1 teaspoon) dose each hour</td> <td> <content styleCode="bold">Do not exceed </content>8 doses in 24 hours </td> </tr> <tr> <td>Adults 60 years   and older </td> <td>One (1 teaspoon) dose each hour</td> <td> <paragraph> <content styleCode="bold">Do not exceed </content> </paragraph> <paragraph>4 doses in 24 hours</paragraph> </td> </tr> <tr> <td>Children under 12</td> <td colspan="2" rowspan="1"> <content styleCode="bold">Ask a doctor</content> </td> </tr> </tbody> </table>

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Brookstone Value Pack Antibacterial Hand Wipes Clear Fresh BENZALKONIUM CHLORIDE ETHYLHEXYLGLYCERIN PROPYLENE GLYCOL WATER PHENOXYETHANOL DIDECYLDIMONIUM CHLORIDE GLYCERIN ALCOHOL BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.2%
+purpose:
+  Purpose: Antimicrobial
+indications_and_usage:
+  USE Decrease bacteria on skin that could cause diseases Recommended for repeated use
+warnings:
+  warnings For external use only on hands. Flammable, keep way from flame or fire
+when_using:
+  When using this product When using this product, keep out of eyes. In case of contact with eyes, flush thoroughly with water Do not ingest or inhale Avoid contact with broken skin
+stop_use:
+  Stop use and ask a doctor if redness and irritation develop and or condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  keep out of reach of children if swallowed,get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Directions Wipe product on hands thoroughly and allow to dry, do not wipe off For children under 6, use only with adult supervision Not recommended for use with infants
+storage_and_handling:
+  other information Do not store above 105F (40.6C) May discolor some fabrics Harmful to plastics and wood finishes
+inactive_ingredient:
+  inactive ingredients Water, Phenoxyethanol, Ethylhexylglycerin, Didecyldimonium Chloride, Propylene Glycol, Glycerin, Fragrance, Ethyl Alcohol
+package_label_principal_display_panel:
+  image description
+set_id:
+  6658cd50-c72c-4e85-922f-9d2da1e3ce39
+id:
+  ae72bc28-9786-780d-e053-2a95a90a1cf5
+effective_time:
+  20200903
+version:
+  2
+openfda:

@@ -1,0 +1,33 @@
+effective_time:
+  20190925
+inactive_ingredient:
+  Inactive Ingredients none
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+warnings:
+  Warnings For external use only. Stop use and consult a doctor if the condition persists or gets worse. Do not use longer than one week unless directed by a physician. In case of deep or puncture wounds, animal bites, or serious burn, consult a physician. longer than 1 week unless directed by a doctor. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+spl_product_data_elements:
+  Coralite ANTIBACTERIAL BANDAGE BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  100
+dosage_and_administration:
+  Directions Clean and dry the affected area. Apply a sterile bandage on the area 1 to 3 times daily.
+spl_unclassified_section:
+  Coralite ANTIBACTERIAL BANDAGE WITH NON STICK PAD
+  Drug Facts
+  Other Information Not intended for use on delicate or sensitive skin.
+stop_use:
+  Stop use and consult a doctor if the condition persists or gets worse. Do not use longer than one week unless directed by a physician. In case of deep or puncture wounds, animal bites, or serious burn, consult a physician. longer than 1 week unless directed by a doctor.
+package_label_principal_display_panel:
+  Coralite ANTIBACTERIAL BANDAGE WITH NON STICK PAD 30 count (65923-001-00) AntibacterialBandage
+indications_and_usage:
+  Uses First aid to help reduce the risk of infection in minor cuts, scrapes, and burns.
+set_id:
+  7736c2c9-8594-4669-98c8-0f028f455d2a
+id:
+  93628989-adbd-97a5-e053-2995a90ab7e4
+active_ingredient:
+  Active Ingredients Benzalkonium Chloride 0.12%

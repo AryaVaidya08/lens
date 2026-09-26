@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Sennosides,Docusate sodium Sennosides,Docusate sodium CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE MAGNESIUM STEARATE STARCH, CORN STEARIC ACID TITANIUM DIOXIDE FD&C YELLOW NO. 6 FOOD YELLOW 3 FREE ACID MALTODEXTRIN TALC TRIACETIN SENNOSIDES SENNOSIDES FD&C YELLOW NO. 5 CROSCARMELLOSE SODIUM CROSCARMELLOSE HYPROMELLOSES MICROCRYSTALLINE CELLULOSE LIGHT MINERAL OIL SODIUM BENZOATE DOCUSATE SODIUM DOCUSATE POLYETHYLENE GLYCOL 400 SODIUM LAURYL SULFATE CPC;490
+active_ingredient:
+  Drug Facts Active ingredients (in each tablet) Docusate sodium 50 mg Sennosides 8.6 mg
+purpose:
+  Purposes Stool softener Laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity)  generally produces bowel movement in 6-12 hours
+warnings:
+  Do not use  if you are now taking mineral oil, unless directed by a doctor laxative products for longer than 1 week unless directed by a doctor Ask a doctor before use if you have  stomach pain  nausea vomiting  noticed a sudden change in bowel habits that continues over a period of 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use  if you are now taking mineral oil, unless directed by a doctor laxative products for longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have  stomach pain  nausea vomiting  noticed a sudden change in bowel habits that continues over a period of 2 weeks
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take preferably at bedtime or as directed by a doctor age starting dosage maximum dosage adults and children 12 years of age or over 2 tablets once a day 4 tablets twice a day children 6 to under 12 years of age 1 tablet once a day 2 tablets twice a day children 2 to under 6 years of age 1/2 tablet once a day 1 tablets twice a day children under 2 years of age ask a doctor ask a doctor
+dosage_and_administration_table:
+  <table border="1" width="100%"><tbody><tr><td><content styleCode="bold">age</content></td><td><content styleCode="bold">starting dosage</content></td><td><content styleCode="bold">maximum dosage</content></td></tr><tr><td><paragraph>adults and children</paragraph><paragraph>12 years of age or over</paragraph></td><td><paragraph>2 tablets</paragraph><paragraph>once a day</paragraph></td><td><paragraph>4 tablets</paragraph><paragraph>twice a day</paragraph></td></tr><tr><td><paragraph>children 6 to under</paragraph><paragraph>12 years of age</paragraph></td><td><paragraph>1 tablet</paragraph><paragraph>once a day</paragraph></td><td><paragraph>2 tablets</paragraph><paragraph>twice a day</paragraph></td></tr><tr><td><paragraph>children 2 to under</paragraph><paragraph>6 years of age</paragraph></td><td><paragraph>1/2 tablet</paragraph><paragraph>once a day</paragraph></td><td><paragraph>1 tablets</paragraph><paragraph>twice a day</paragraph></td></tr><tr><td><paragraph>children under</paragraph><paragraph>2 years of age</paragraph></td><td><paragraph>ask a doctor</paragraph></td><td><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+other_safety_information:
+  Other information each tablet contains : calcium 11 mg  each tablet contains : sodium 4 mg store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF)
+inactive_ingredient:
+  croscarmellose sodium, dicalcium phosphate, FD&C yellow #5 lake*, FD&C yellow #6 lake, hypromellose, magnesium stearate, maltodextrin, microcrystalline cellulose, mineral oil, polyethylene glycol, sodium benzoate, sodium lauryl sulfate, starch, stearic acid, talc, titanium dioxide, triacetin *contains FD&C yellow #5 lake (tartrazine) as a color additive.
+questions:
+  Questions or comments? (800) 616-2471
+spl_unclassified_section:
+  Tamper Evident: Do not use if sealed blister units are broken or damaged. Product color may slightly vary due to natural changes of ingredients. Distributed by: MAJOR® PHARMACEUTICALS 17177 N Laurel Park Drive, Suite 233 Livonia, MI 48152
+package_label_principal_display_panel:
+  NDC 0904-6724-61 MAJOR Unit Dose SENNA PLUS TABLETS (Stadardized Senna Concentrate & Docusate Sodium) 8.6/50 mg 100 Tablets 0490C-100ct-label
+set_id:
+  780b838c-b1f9-442f-e053-2991aa0a7758
+id:
+  dae821db-98d6-660e-e053-2995a90a4d1b
+effective_time:
+  20220323
+version:
+  4
+openfda:

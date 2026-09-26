@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Winter Apple Hand Sanitizer WATER GLYCERIN CARBOXYPOLYMETHYLENE FD&C RED NO. 40 D&C RED NO. 33 ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only: hands Flammable. Keep away from fire or flame
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hand thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+other_safety_information:
+  Other information do not store above 105°F may discolor some fabrics harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients water, glycerin, carbomer, fragrance, red 40, red 33
+spl_unclassified_section:
+  EFFECTIVE AT ELIMINATING 99.99% OF MANY COMMON HARMFUL GERMS AND BACTERIA IN AS LITTLE AS 15 SECONDS* DISTRIBUTED BY THE KROGER CO., CINCINNATI, OHIO 45202 QUALITY GUARANTEE 800-632-6900 www.kroger.com
+package_label_principal_display_panel:
+  Principal Panel Display Kroger WINTER APPLE Kills 99.99% of Germs HAND SANITIZER 2 FL OZ (59 mL) image description
+set_id:
+  a32618fb-00c2-4448-b332-7a024fb19ab2
+id:
+  25141ca3-9e42-64b8-e063-6394a90a7528
+effective_time:
+  20241022
+version:
+  10
+openfda:

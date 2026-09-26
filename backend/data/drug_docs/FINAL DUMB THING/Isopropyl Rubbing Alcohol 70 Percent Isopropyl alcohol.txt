@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Isopropyl Rubbing Alcohol 70 Percent Isopropyl alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70% by volume
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Use First aid to help prevent the risk of infection in. minor cuts scrapes burns
+warnings:
+  Warnings For external use only. Flammable, keep way from spark, heat and flame.
+ask_doctor:
+  Ask a doctor before use for deep wounds animal bites serious burns
+when_using:
+  When using this product do not get into eyes do not apply over large areas of the body do not use longer than 1 week
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions clean the affected area. apply a small amount of this product on the affected area 1 to 3 times daily. may be covered with sterile bandage. if bandaged, let it dry first.
+other_safety_information:
+  Other Information store at room temperature does not contain, nor is intended as a substitute for grain or ethyl alcohol. will produce serious gastric disturbances if taken internally.
+inactive_ingredient:
+  Inactive Ingredient purified water
+package_label_principal_display_panel:
+  Good Neighbor Label Principal Display Panel NDC 46122-330-43 ISOPROPYL RUBBING ALCOHOL 70% USP First Aid Antiseptic 16 fl oz (1 pt) 473 mL
+  Health Mart Label HM70.jpg HM
+  Sunmark Label SM70.jpg SM
+set_id:
+  60640d1a-07e0-fb0b-e053-2a91aa0ad402
+id:
+  a8850611-71c8-5e5e-e053-2995a90a4922
+effective_time:
+  20200620
+version:
+  3
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Cinchona Officinalis Kit Refill CINCHONA OFFICINALIS BARK SUCROSE LACTOSE CINCHONA OFFICINALIS BARK CINCHONA OFFICINALIS BARK white
+active_ingredient:
+  ACTIVE INGREDIENTS CINCHONA OFFICINALIS 200C
+purpose:
+  USES To relieve the symptoms of debility.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: CINCHONA OFFICINALIS Debility
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Label
+set_id:
+  2f36f8a4-df97-47e3-bcbc-5d3d5b21acc6
+id:
+  01f55fa3-72bf-3cf7-e063-6294a90a09a1
+effective_time:
+  20230802
+version:
+  3
+openfda:

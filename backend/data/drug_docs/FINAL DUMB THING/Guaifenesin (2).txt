@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Guaifenesin Guaifenesin GUAIFENESIN GUAIFENESIN SILICON DIOXIDE HYPROMELLOSE 2208 (15000 MPA.S) HYPROMELLOSE 2910 (10000 MPA.S) MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE 101 MICROCRYSTALLINE CELLULOSE 102 POVIDONE K90 POVIDONE K25 STARCH, CORN white to off-white L;68
+active_ingredient:
+  Active Ingredient (in each extended-release tablet) Guaifenesin USP 600 mg
+purpose:
+  Purpose Expectorant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+warnings:
+  Warnings Do not use for children under 12 years of age
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions do not crush, chew, or break tablet take with a full glass of water this product can be administered without regard for the timing of meals adults and children 12 years of age and over: 1 or 2 tablets every 12 hours. Do not exceed 4 tablets in 24 hours. children under 12 years of age: do not use
+storage_and_handling:
+  Other information store between 20° to 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, povidone and pregelatinised starch (maize)
+questions:
+  Questions? 1-855-274-4122 (Monday – Friday 8:30 AM to 5:00 PM EST) You may also report side effects to this phone number. Distributed by: Aurohealth LLC 279 Princeton-Hightstown Road East Windsor, NJ 08520 Made in India Code: AP/DRUGS/04/2016
+package_label_principal_display_panel:
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg (20 Tablets Label) Healthy Living ™ NDC 58602-853-73 Guaifenesin Extended-Release Tablets 600 mg EXPECTORANT 12 HOUR Relieves Chest Congestion Thins And Loosens Mucus 20 Extended-Release Tablets PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg (20 Tablet Label)
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg (20 Tablets Carton Label) Healthy Living ™ NDC 58602-853-73 Compare to the active ingredient in Mucinex ® * Guaifenesin Extended-release Tablets 600 mg EXPECTORANT •Relieves Chest Congestion •Thins And Loosens Mucus 12 HOUR 20 Extended-Release Tablets PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg (20 Tablet Carton Label)
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg Blister Carton (100 (5 x 20) Tablets) Healthy Living ™ Guaifenesin extended-release tablets 600 mg Expectorant •Relieves Chest Congestion •Thins And Loosens Mucus 12 Hour * Compare to the Active Ingredient in Mucinex ® 100 Extended-Release Tablets PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 600 mg Blister Carton (100 (5 x 20) Tablets)
+set_id:
+  84117b6e-4eeb-42b0-90b1-331f70d5a175
+id:
+  af251c56-1fce-46a6-bd52-cca3425b96f9
+effective_time:
+  20231201
+version:
+  5
+openfda:
+  application_number:
+    ANDA210453
+  brand_name:
+    Guaifenesin
+  generic_name:
+    GUAIFENESIN
+  manufacturer_name:
+    Aurohealth LLC
+  product_ndc:
+    58602-853
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GUAIFENESIN
+  rxcui:
+    636522
+  spl_id:
+    af251c56-1fce-46a6-bd52-cca3425b96f9
+  spl_set_id:
+    84117b6e-4eeb-42b0-90b1-331f70d5a175
+  package_ndc:
+    58602-853-73
+    58602-853-12
+    58602-853-21
+    58602-853-96
+    58602-853-97
+    58602-853-98
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    495W7451VQ

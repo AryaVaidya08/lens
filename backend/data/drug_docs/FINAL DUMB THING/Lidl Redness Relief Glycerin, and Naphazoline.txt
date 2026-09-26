@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Lidl Redness Relief Glycerin, and Naphazoline HCI BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM WATER SODIUM BORATE GLYCERIN GLYCERIN NAPHAZOLINE HYDROCHLORIDE NAPHAZOLINE
+active_ingredient:
+  Active ingredients Purpose Glycerin 0.25%..............................................Lubricant Naphazoline HCI 0.012%.................................Redness reliever
+purpose:
+  Uses relieves redness of the eye due to minor eye irritations temporarily relieves burning and irritation due to dryness of the eye protects against further irritation or dryness of the eye
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use if solution changes color or becomes cloudy.
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma.
+  Stop use and ask a doctor if you feel eye pain changes in vision occur you have continued redness or irritation of the eye condition worsens or persists for more than 72 hours
+when_using:
+  When using this product remove contact lenses before using to avoid contamination, do not touch tip to any surface replace cap after using overuse may cause increased redness of the eye pupils may become enlarged temporarily
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+indications_and_usage:
+  Directions to open bottle, push cap dwn and twist counter-clockwise. To close bottle, twist clockwise until it stops turning istil 1 to 2 drops in the affected eye(s) up to four times daily
+storage_and_handling:
+  Other information Store at room temperature
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, disodium edetate hydrate, purified water, sodium borate
+dosage_and_administration:
+  Distributed by: Lidl US LLC 3500 S. Clark Street Arlington VA, 22202 Made in South Korea
+package_label_principal_display_panel:
+  image description
+set_id:
+  c8e07ab9-0103-474f-9771-91a063b397f9
+id:
+  02adb250-6f4d-0905-e063-6394a90ac057
+effective_time:
+  20230811
+version:
+  2
+openfda:

@@ -1,0 +1,27 @@
+effective_time:
+  20130729
+inactive_ingredient:
+  water, butylene glycol, sodium lactate, hydroxyethyl cellulose, lactic acid, sophora extract, licorice extract, methylparaben, disodium edta, chlorhexidine Digluconate
+purpose:
+  cleansing external genital and revoving odor (keep vagina fresh and clean)
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - stop using the product and consult with a dermatologist or gynecologist if any of the following signs or symptoms appears rash, swelling, itching and irritation during its use in case any sign or symptom above appears on the applied area with the direct sunlight - do not use in the area, such as, of wound, eczema and dermatitis
+spl_product_data_elements:
+  Inclear Glycerin Glycerin Glycerin WATER BUTYLENE GLYCOL SODIUM LACTATE LACTIC ACID EDETATE DISODIUM METHYLPARABEN GLYCYRRHIZA GLABRA
+openfda:
+version:
+  1
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package insert
+indications_and_usage:
+  wash hands before opening the package apply a suitable amount, massage and rinse it well
+set_id:
+  773895fb-cebd-431f-a7bc-fdd72f93df6e
+id:
+  22963d1f-6027-41bc-af47-e998fd7c0c0c
+active_ingredient:
+  glycerin

@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  QUIT SMOKING Proven Patches Nicotine NICOTINE NICOTINE PETROSELINIC ACID ETHYLENE-VINYL ACETATE COPOLYMER (19% VINYLACETATE)
+active_ingredient:
+  Nicotine
+purpose:
+  Stop smoking aid
+when_using:
+  reduces withdrawal symptoms, including nicotine craving, associated with quitting smoking
+warnings:
+  If you are pregnant or breast-feeding, only use this medicine on the advice of your healthcare provider.Smoking can seriously harm your child.Try to stop smoking without using any nicotine replacement medicine.This medicine is believed to safer than smoking.However, the risks to your child from this medicine are not full known.
+ask_doctor:
+  Ask a doctor or pharmacist before use ifyou are"usinga non-nicotine stop smoking drugtaking a prescription medicine for depression or asthma.Your prescription dose may need to be adjusted.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. Used patches have enough nicotine to poison children and pets.If swallowed, get medical help or contact a Poison Control Center right away.Save pouch to use for patch di posal.Dispose of the used patches by folding sticky ends together and putting in pouch.
+indications_and_usage:
+  Uses reduces withdrawal symptoms,includingnicotine craving,associated with quittingsmoking
+  *ifyou smoke 10 orless cigarettes per day, do not useSTEP 1 (21 mg). Start with STEP 2 (14 mg) for 6 weeks,then STEP 3 (7 mg) for 2 weeks and then stop.steps 2 and 3 allow you to gradually reduce yourlevel ofnicotine.Completingthe full program willincrease yourchances ofquittingsuccessfully.apply one new patch every 24 hours on skin that is dry, cleanand hairless. Save pouch for disposingofthe patch after use.remove backingfrom patch andimmediately press onto skin.Hold for 10 seconds.
+dosage_and_administration:
+  STEP1 Use one 21 mgpatch/day Weeks 1-6 STEP 2 Use one 14 mg patch/day Weeks 7-8 STEP 3 Use one7mg patch/day Weeks9-10
+inactive_ingredient:
+  Inactive ingredientsethylene vinylacetate-copolymer, polyisobutylene and high densitypolyethylene between clearpolyester backings
+package_label_principal_display_panel:
+  84867-013
+set_id:
+  35570155-c769-dc4c-e063-6394a90a019d
+id:
+  35570155-c76a-dc4c-e063-6394a90a019d
+effective_time:
+  20250517
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    QUIT SMOKING Proven Patches
+  generic_name:
+    NICOTINE
+  manufacturer_name:
+    Jiashen International Trade Limited
+  product_ndc:
+    84867-013
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    NICOTINE
+  rxcui:
+    198030
+  spl_id:
+    35570155-c76a-dc4c-e063-6394a90a019d
+  spl_set_id:
+    35570155-c769-dc4c-e063-6394a90a019d
+  package_ndc:
+    84867-013-01
+  is_original_packager:
+    True
+  nui:
+    N0000175706
+    M0014836
+  pharm_class_epc:
+    Cholinergic Nicotinic Agonist [EPC]
+  pharm_class_cs:
+    Nicotine [CS]
+  unii:
+    6M3C89ZY6R

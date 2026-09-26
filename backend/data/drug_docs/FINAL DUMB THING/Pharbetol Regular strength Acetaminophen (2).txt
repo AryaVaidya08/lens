@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Pharbetol Regular strength Acetaminophen POVIDONE STARCH, CORN SODIUM STARCH GLYCOLATE TYPE A CORN STEARIC ACID ACETAMINOPHEN ACETAMINOPHEN PH020
+active_ingredient:
+  Active ingredient (per tablet) Acetaminophen 325mg
+purpose:
+  Purpose Pain reliever/Fever reducer
+indications_and_usage:
+  Uses Temporarily relieves minor aches and pains due to the common cold headache backache minor pain of arthritis toothache muscular aches menstrual cramps Temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if Adult takes more than 12 tablets in 24 hours, which is the maximum daily amount Child takes more than 5 doses in 24 hours Taken with other drugs containing acetaminophen Adult has 3 or more alcoholic drinks every day while using this product Do not use With any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if Pain gets worse or lasts more than 10 days in adults and children Pain gets worse or lasts more than 5 days in children under 12 years Fever gets worse or lasts more than 3 days New symptoms occur Redness or swelling is present These could be sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In the case of accidental overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use With any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+stop_use:
+  Stop use and ask a doctor if Pain gets worse or lasts more than 10 days in adults and children Pain gets worse or lasts more than 5 days in children under 12 years Fever gets worse or lasts more than 3 days New symptoms occur Redness or swelling is present These could be sign of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+overdosage:
+  Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In the case of accidental overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning). Adults and children 12 years and over Take 2 tablets every 4 to 6 while symptoms last. Do not take more than 12 tablets in 24 hours. Children 6 to under 12 years Take 1 tablet every 4 to 6 while symptoms last. Do not take more than 5 tablets in 24 hours. Children under 6 years Do not use adult regular strength products in childern under 6 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage.
+dosage_and_administration_table:
+  <table ID="i8bd2032c-ba4c-4caf-8e09-dc0f6844be09" border="1" width="530"><tbody><tr><td>Adults and children 12 years and over  </td><td>Take 2 tablets every 4 to 6 while symptoms last.  Do not take more than 12 tablets in 24 hours.  </td></tr><tr><td>Children 6 to under 12 years  </td><td>Take 1 tablet every 4 to 6 while symptoms last.  Do not take more than 5 tablets in 24 hours.  </td></tr><tr><td>Children under 6 years  </td><td>Do not use adult regular strength products in childern under 6 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage.  </td></tr></tbody></table>
+storage_and_handling:
+  Other information Tamper Evident: do not use if imprinted safety seal under cap is broken or missing store between 20-25°C (68-77°F) use by expiration date on package
+inactive_ingredient:
+  Inactive ingredients: Povidone, pregelatinized starch, sodium starch glycolate, stearic acid.
+questions:
+  Questions? Adverse drug event call: (866) 562-2756
+package_label_principal_display_panel:
+  Acetaminophen 325 mg #30
+set_id:
+  57e5fc8c-8d69-a36d-e053-2a91aa0af949
+id:
+  bc1cdbdb-b3ec-2397-e053-2995a90a9c81
+effective_time:
+  20210224
+version:
+  3
+openfda:

@@ -1,0 +1,68 @@
+effective_time:
+  20211003
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose
+purpose:
+  USES USES: Temporary Relief - Aches, Pains Or Soreness* * Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+keep_out_of_reach_of_children:
+  Keep this and all medication out of reach of children
+warnings:
+  WARNINGS This product is to be used for self-limiting conditions If symptoms do not improve in 4 days, or worsen, discontinue use and seek assistance of health professional As with any drug, if you are preganant, or nursing a baby, seek professional advice before taking this product Keep this and all medication out of reach of children
+questions:
+  QUESTIONS OR COMMENTS www.Rxhomeo.com | 1.888.2796642 | info@rxhomeo.com Rxhomeo, Inc 3200 Commander Dr, Ste 100-W1, Carrollton, TX 75006 USA
+spl_product_data_elements:
+  PHYTOLACCA DECANDRA PHYTOLACCA DECANDRA SUCROSE PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT
+openfda:
+  brand_name:
+    PHYTOLACCA DECANDRA
+  generic_name:
+    PHYTOLACCA DECANDRA
+  manufacturer_name:
+    Rxhomeo Private Limited d.b.a. Rxhomeo, Inc
+  product_ndc:
+    15631-0339
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    PHYTOLACCA AMERICANA ROOT
+  spl_id:
+    cd76d9ca-d583-0394-e053-2a95a90aa4fe
+  spl_set_id:
+    b55e65da-8641-431d-b571-988575d69898
+  package_ndc:
+    15631-0339-0
+    15631-0339-1
+    15631-0339-2
+    15631-0339-3
+    15631-0339-4
+    15631-0339-5
+    15631-0339-6
+    15631-0339-7
+  is_original_packager:
+    True
+  upc:
+    8907460005526
+  unii:
+    11E6VI8VEG
+version:
+  4
+dosage_and_administration:
+  DOSAGE Adults- Take 4 or 6 Pellets by mouth, three times daily or as suggested by physician. Children 2 years and older- take 1/2 the adult dose.
+pregnancy_or_breast_feeding:
+  As with any drug, if you are preganant, or nursing a baby, seek professional advice before taking this product
+stop_use:
+  If symptoms do not improve in 4 days, or worsen, discontinue use and seek assistance of health professional
+storage_and_handling:
+  STORAGE Store in a cool dark place
+package_label_principal_display_panel:
+  Mini-Label Label-Pellets Blister-label carton-label
+indications_and_usage:
+  INDICATIONS Condition listed above or as directed by the physician
+set_id:
+  b55e65da-8641-431d-b571-988575d69898
+id:
+  cd76d9ca-d583-0394-e053-2a95a90aa4fe
+active_ingredient:
+  ACTIVE INGREDIENT PHYTOLACCA DECANDRA HPUS 2X and higher

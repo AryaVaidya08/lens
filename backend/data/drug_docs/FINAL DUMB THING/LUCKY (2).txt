@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  LUCKY SUPER SOFT HAND SANITIZER Benzalkonium chloride WATER COCAMIDOPROPYL BETAINE COCO GLUCOSIDE GLYCERYL OLEATE GLYCERIN CETRIMONIUM CHLORIDE COCO MONOETHANOLAMIDE PEG-150 DISTEARATE SODIUM CHLORIDE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE EDETATE SODIUM CITRIC ACID MONOHYDRATE SULISOBENZONE FD&C YELLOW NO. 6 FD&C YELLOW NO. 5 D&C RED NO. 33 BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for hand washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product ■ avoid contact with the eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ pump into hands, wet as needed ■ lather vigorously for at least 15 seconds ■ wash skin, rinse thoroughly and dry
+inactive_ingredient:
+  Inactive ingredients water, cocamidopropyl betaine, coco-glucoside, glyceryl oleate, glycerin, cetrimonium chloride, cocamide MEA, PEG-150 distearate, sodium chloride, fragrance, methylchloroisothiazolinone, methylisothiazolinone, tetrasodium EDTA, citric acid, benzophenone-4,FDC yellow no 6, FDC yellow no 5, DC red no 33
+package_label_principal_display_panel:
+  Package Label Package Label
+set_id:
+  c0b38d6c-a751-4af8-948b-db4061bde69f
+id:
+  feba4ab4-4556-de12-e053-6394a90a4bc6
+effective_time:
+  20230622
+version:
+  7
+openfda:

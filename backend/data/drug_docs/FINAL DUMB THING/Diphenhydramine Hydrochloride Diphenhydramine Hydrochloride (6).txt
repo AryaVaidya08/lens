@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Diphenhydramine Hydrochloride Diphenhydramine Hydrochloride SILICON DIOXIDE CROSPOVIDONE (120 .MU.M) D&C RED NO. 27 DIBASIC CALCIUM PHOSPHATE DIHYDRATE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 STARCH, CORN WATER TITANIUM DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE Biconvex T;94
+active_ingredient:
+  Drug Facts Active ingredient (in each tablet) Diphenhydramine HCl, USP 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours adults and children 12 years and over 1 to 2 tablets children 6 to under 12 years 1 tablet children under 6 years do not use
+dosage_and_administration_table:
+  <table cellspacing="0" cellpadding="0" border="0" width="100%"><col width="50.04%"/><col width="49.96%"/><tbody><tr styleCode="Botrule"><td align="center" styleCode="Lrule Rrule" valign="middle">adults and children   12 years and over  </td><td align="center" styleCode="Rrule" valign="middle">1 to 2 tablets  </td></tr><tr styleCode="Botrule"><td align="center" styleCode="Lrule Rrule" valign="middle">children 6 to under 12 years  </td><td align="center" styleCode="Rrule" valign="middle">1 tablet  </td></tr><tr><td align="center" styleCode="Lrule Rrule" valign="middle">children under 6 years  </td><td align="center" styleCode="Rrule" valign="middle">do not use  </td></tr></tbody></table>
+spl_unclassified_section:
+  Other information each tablet contains : calcium 10 mg store between 20-25°C (68-77°F). Avoid high humidity. Protect from light. do not use if carton is opened, or seal under cap is torn or missing.
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, crospovidone, D&C red no. 27 aluminium lake, dibasic calcium phosphate dihydrate, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, purified water, titanium dioxide Questions or comments? 1-855-274-4122 * This product is not manufactured or distributed by McNeil Consumer Healthcare, distributor of Benadryl ® Allerg Ultra Tabs. Distributed by: Aurohealth LLC. 2572 Brunswick Pike Lawrenceville, NJ 08648
+package_label_principal_display_panel:
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 25 mg Container Carton (24's Tablets) AUROHEALTH NDC 58602-742-07 *Compare to the active ingredient in Benadryl ® Ultra tabs Allergy Relief Aurodryl Diphenhydramine Hydrochloride 25 mg Mini Tablets Antihistamine Relieves Sneezing Runny nose Itchy, Watery Eyes Itchy Throat 24 Mini Tablets PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 25 mg Container Carton (24's Tablets)
+set_id:
+  eca90b31-3bb5-40d4-8e87-ad3fcd74f887
+id:
+  0ab9202e-1263-d166-e063-6294a90a8891
+effective_time:
+  20231122
+version:
+  4
+openfda:

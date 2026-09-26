@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Shock Doctor Hand Sanitizer- Eucalyptus BENZALKONIUM CHLORIDE WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use For hand sanitizing to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only! When using this product , avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray a small amount of product into palm of hand. Rub thoroughly over all surfaces. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inactive ingredients Water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, glycereth-17 cocoate, citric acid, eucalyptus.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel LABEL
+set_id:
+  559fd920-b1a0-4692-988a-5352cd7e1195
+id:
+  dd943829-35cb-6e5b-e053-2995a90a60a4
+effective_time:
+  20220426
+version:
+  3
+openfda:

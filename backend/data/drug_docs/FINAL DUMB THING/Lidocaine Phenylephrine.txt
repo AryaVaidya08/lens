@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Lidocaine Phenylephrine Lidocaine Phenylephrine LIDOCAINE LIDOCAINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ALOE BARBADENSIS LEAF JUICE CITRIC ACID EDETATE DISODIUM PANTHENOL GLYCERIN ISOPROPYL MYRISTATE PEG-40 HYDROGENATED CASTOR OIL PHENOXYETHANOL POLYSORBATE 20 PROPYLENE GLYCOL WATER
+active_ingredient:
+  Active ingredients Lidocaine 5% Phenylephrine HCl .25%
+purpose:
+  Purpose Local anesthetic Vasoconstrictor
+indications_and_usage:
+  Use temporarily reduces swelling associated with irritated hemorrhoidal tissue and other anorectal disorders
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product avoid contact with eyes do not exceed recommended dosage unless directed by a doctor do not put this product into the rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if rectal bleeding occurs treated symptom does not subside or redness, irritation, swelling, pain, or other symptoms develop or increase
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away
+dosage_and_administration:
+  Directions when practical, cleanse the affected area with mild soap and warm water rinse thoroughly and gently pat dry spray affected area wash hands after applying replace cap after use Adults and children 12 years or older: apply externally to affected area not more than 4 times daily Children under 12 years of age: do not use, ask a doctor
+spl_unclassified_section:
+  Other information Store out of direct sunlight, in a cool dry, well-ventilated area. Do not store at temperature above 120 degrees farenheit (49 degrees celsius)
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Citric Acid, Disodium EDTA, DL-Panthenol, Glycerin, Isopropyl Myristate, PEG-40 Hydrogenated Castor Oil, Phenoxyethanol, Polysorbate 20, Propylene Glycol, Purified Water.
+questions:
+  Questions or comments? Call 1-866-933-6337
+package_label_principal_display_panel:
+  label
+set_id:
+  5a72a190-2129-411e-e063-6394a90a08c2
+id:
+  5a72a190-212a-411e-e063-6394a90a08c2
+effective_time:
+  20260901
+version:
+  1
+openfda:
+  application_number:
+    M015
+  brand_name:
+    Lidocaine Phenylephrine
+  generic_name:
+    LIDOCAINE PHENYLEPHRINE
+  manufacturer_name:
+    YYBA CORP
+  product_ndc:
+    73581-910
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    2590656
+  spl_id:
+    5a72a190-212a-411e-e063-6394a90a08c2
+  spl_set_id:
+    5a72a190-2129-411e-e063-6394a90a08c2
+  package_ndc:
+    73581-910-01
+  is_original_packager:
+    True
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987
+    04JA59TNSJ

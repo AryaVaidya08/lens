@@ -1,0 +1,44 @@
+effective_time:
+  20181210
+inactive_ingredient:
+  Inactive ingredients acacia, anhydrous calcium sulfate, anhydrous lactose, carnauba wax, colloidal silicon dioxide, corn starch, D&C yellow #10 aluminum lake, FD&C yellow #6 aluminum lake, gelatin, iron oxide, iron oxide black, iron oxide yellow, magnesium stearate, microcrystalline cellulose, polyethylene glycol (PEG) 400, polyvinyl acetate phthalate, povidone, shellac, sodium starch glycolate, stearic acid, sugar, talc, titanium dioxide
+purpose:
+  Purpose Stimulant laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if you cannot swallow without chewing. Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks When using this product do not chew or crush tablet(s) do not use within 1 hour after taking an antacid or milk it may cause stomach discomfort, faintness and cramps Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not chew or crush tablet(s) do not use within 1 hour after taking an antacid or milk it may cause stomach discomfort, faintness and cramps
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+spl_product_data_elements:
+  Bisacody Enteric Coated Bisacodyl BISACODYL DEACETYLBISACODYL ACACIA CALCIUM SULFATE ANHYDROUS ANHYDROUS LACTOSE CARNAUBA WAX SILICON DIOXIDE STARCH, CORN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 GELATIN MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE SHELLAC SODIUM STARCH GLYCOLATE TYPE A POTATO STEARIC ACID TALC TITANIUM DIOXIDE Polyvinyl Acetate Phthalate SUCROSE POVIDONE FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE POLYETHYLENE GLYCOL 400 ALUMINUM OXIDE TCL003
+ask_doctor:
+  Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks
+other_safety_information:
+  Other information • store between 20º-25ºC (68º-77ºF)
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions • take with a glass of water adults and children 12 years of age and over take 1 to 3 tablets in a single daily dose children 6 to under 12 years of age take 1 tablet in a single daily dose children under 6 years of age ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+do_not_use:
+  Do not use if you cannot swallow without chewing.
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient in DULCOLAX®* Gentle LAXATIVE BISACODYL, 5 mg Guaranteed relief Gentle yet effective Tablets Enteric coated TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. *This product is not manufactured or distributed by Boehringer Ingelheim Pharmaceuticals Inc., distributor of Dulcolax® Laxative. Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 CVS.COM® 1-800-SHOP CVS
+  Product Label CVS Enteric Coated LaxativeTablets Bisacodyl 5mg
+indications_and_usage:
+  Use for temporary relief of occasional constipation and irregularity this product generally produces a bowel movement in 6 to 12 hours
+set_id:
+  77d31b15-d691-476f-999e-a2ac6127201e
+id:
+  6e4d1cda-7a7a-4692-b42d-633e45a56adc
+active_ingredient:
+  Active ingredient (in each tablet) Bisacodyl USP 5 mg
+dosage_and_administration_table:
+  <table> <col/> <col/> <tbody> <tr> <td styleCode="     Botrule          Toprule     "> adults and children 12 years of age and over </td> <td styleCode="     Botrule          Toprule         Lrule     "> take 1 to 3 tablets in a single daily dose </td> </tr> <tr> <td styleCode="     Botrule     "> children 6 to under 12 years of age</td> <td styleCode="     Botrule         Lrule     "> take 1 tablet in a single daily dose</td> </tr> <tr> <td styleCode="     Botrule     "> children under 6 years of age</td> <td styleCode="     Botrule         Lrule     "> ask a doctor</td> </tr> </tbody> </table>

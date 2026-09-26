@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Chest Rub Camphor, Eucalyptus Oil, Menthol CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) EUCALYPTUS OIL EUCALYPTUS OIL MENTHOL MENTHOL CEDAR LEAF OIL NUTMEG OIL PETROLATUM TURPENTINE OIL THYMOL
+spl_unclassified_section:
+  additional warnings Failure to follow these warnings could result in serious consequences
+  Side Panel Information The active ingredients in CareOne Medicated Chest Rub work naturally by breathing the medicated vapors to help relieve coughing due to cold and minor aches and pains
+  Disclaimer This product is not manufactured or distributed by Procter & Gamble, distributor of Vicks VapoRub
+active_ingredient:
+  Active ingredients Camphor 4.8% Eucalyptus oil 1.2% Menthol 2.6% Purpose Cough suppressant + topical analgesic Cough suppressant Cough suppressant + topical analgesic
+purpose:
+  Purpose Cough suppressant + topical analgesic Cough suppressant Cough suppressant + topical analgesic
+indications_and_usage:
+  Use •on chest and throat, temporarily relieves cough due to the common cold •on muscles and joints, temporarily relieves minor aches and pains
+warnings:
+  Warnings For external use only; avoid contact with eyes. Do not use •by mouth •with tight bandages •in nostrils •on wounds or damaged skin Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smokng, asthma or emphysema When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns. Stop use and ask a doctor if muscle aches and pains persist more than 7 days or come back cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. This could be signs of a serious condition If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use •by mouth •with tight bandages •in nostrils •on wounds or damaged skin
+ask_doctor:
+  Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smokng, asthma or emphysema
+when_using:
+  When using this product, do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns.
+stop_use:
+  Stop use and ask a doctor if muscle aches and pains persist more than 7 days or come back cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. This could be signs of a serious condition
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions See important warnings under "When using this product" •adults & children 2 yrs & over: •rub a thick layer on chest & throat or rub on sore aching muscles •cover with a warm, dry cloth if desired •keep clothing loose about throat/chest to help vapors reach the nose/mouth •repeat up to three times per 24 hours or as directed by doctor •children under 2 years of age: ask a doctor
+other_safety_information:
+  Other information •store at room temperature
+inactive_ingredient:
+  Inactive ingredients cedarleaf oil, nutmeg oil, special petrolatum, spirits of turpentine, thymol
+adverse_reactions:
+  adverse reactions DISTRIBUTED BY FOODHOLD U.S.A., LLC LANDOVER, MD 20785 1-877-846-9949 2017 S & S BRANDS, LLC Quality guaranteed or your money back. 248.001/248AI
+package_label_principal_display_panel:
+  Principal Display Panel CAREONE Compare to the active ingredients in Vicks VapoRub MEDICATED CHEST RUB COUGH SUPPRESSANT TOPICAL ANALGESIC OUR PHARMACISTS RECOMMEND NET WT 3.53 OZ (100g) image description
+set_id:
+  a0bbd20b-a595-4ab1-908a-825eaf2806c1
+id:
+  2bd5cd2e-8eb6-455d-871a-5f863bbb4b4b
+effective_time:
+  20230919
+version:
+  2
+openfda:

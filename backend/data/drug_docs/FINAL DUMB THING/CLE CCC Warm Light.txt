@@ -1,0 +1,58 @@
+effective_time:
+  20181124
+inactive_ingredient:
+  Water, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Cyclomethicone, Butylene Glycol, Isoamyl p-Methoxycinnamate, Cyclohexasiloxane, Cetyl PEG/PPG-10/1 Dimethicone, Niacinamide, Dicaprylyl Carbonate, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ceresin, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone, Iron Oxides (CI 77492), Diisostearyl Malate, Sodium Chloride, Disteardimonium Hectorite, Sorbitan Sesquioleate, Synthetic Wax, Sorbitan Olivate, Mica (CI 77019), Silica, Vegetable Oil, Iron Oxides (CI 77491), Chlorphenesin, Dipropylene Glycol, Polyester-1, Iron Oxides (CI 77499), Dimethicone, Silica Dimethyl Silylate, Citrus Aurantium Bergamia (Bergamot) Fruit Oil, Citrus Aurantium Dulcis (Orange) Oil, Propylene Carbonate, 1,2-Hexanediol, Hydroxyacetophenone, Cananga Odorata Flower Oil, Adenosine, Disodium EDTA, Natto Gum, Saussurea Involucrata Extract, Bambusa Vulgaris Leaf/Stem Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Cocos Nucifera (Coconut) Oil, Tocopheryl Acetate, Hydrolyzed Hyaluronic Acid, Tocopherol
+purpose:
+  Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of the children. If product is swallowed, get medical help or contact a poison control center right away.
+warnings:
+  For external use only. Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to remove. Stop using and ask a doctor if rash occurs.
+spl_product_data_elements:
+  CLE CCC Warm Light Titanium Dioxide, Octinoxate, Octisalate WATER ALKYL (C12-15) BENZOATE CYCLOMETHICONE 5 CYCLOMETHICONE BUTYLENE GLYCOL AMILOXATE CYCLOMETHICONE 6 CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) NIACINAMIDE DICAPRYLYL CARBONATE BEMOTRIZINOL CERESIN LAURYL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE FERRIC OXIDE YELLOW DIISOSTEARYL MALATE SODIUM CHLORIDE DISTEARDIMONIUM HECTORITE SORBITAN SESQUIOLEATE SYNTHETIC WAX (1200 MW) SORBITAN OLIVATE MICA SILICON DIOXIDE CORN OIL FERRIC OXIDE RED CHLORPHENESIN DIPROPYLENE GLYCOL FERROSOFERRIC OXIDE DIMETHICONE SILICA DIMETHYL SILYLATE BERGAMOT OIL ORANGE OIL PROPYLENE CARBONATE 1,2-HEXANEDIOL HYDROXYACETOPHENONE CANANGA OIL ADENOSINE EDETATE DISODIUM ANHYDROUS OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE TITANIUM DIOXIDE TITANIUM DIOXIDE
+openfda:
+  application_number:
+    part352
+  brand_name:
+    CLE CCC Warm Light
+  generic_name:
+    TITANIUM DIOXIDE, OCTINOXATE, OCTISALATE
+  manufacturer_name:
+    KW ABSC, INC.
+  product_ndc:
+    69231-023
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTINOXATE
+    OCTISALATE
+    TITANIUM DIOXIDE
+  spl_id:
+    7b64e812-af99-c18b-e053-2991aa0afc67
+  spl_set_id:
+    14891e26-b3b6-4545-99b1-da914b7f5629
+  package_ndc:
+    69231-023-01
+    69231-023-02
+  is_original_packager:
+    True
+  unii:
+    4Y5P7MUD51
+    4X49Y0596W
+    15FIX9V2JP
+version:
+  1
+dosage_and_administration:
+  Apply liberally 15 minutes before sun exposure. Reapply at least every two hours Sun protection measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 of higher and other sun protection measures including: 1) Limited time in the sun, especially from 10 am to 2 pm. 2) Wear long-sleeve shirts, pants, hats, and sunglasses Ask a doctor to use for children under 6 months
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Helps prevent sunburn
+set_id:
+  14891e26-b3b6-4545-99b1-da914b7f5629
+id:
+  7b64e812-af99-c18b-e053-2991aa0afc67
+active_ingredient:
+  Titanium Dioxide 8.79% Ethylhexyl Methoxycinnamate 7.00% Ethylhexyl Salicylate 3.00%

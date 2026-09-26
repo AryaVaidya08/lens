@@ -1,0 +1,41 @@
+effective_time:
+  20190513
+inactive_ingredient:
+  Inactive Ingredients caster oil, hypromellose, povidone, sodium starch glycolate, starch, stearic acid
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning : This product contains acetaminophen. The maximum daily dose of this product is 6 caplets (3,000 mg) in 24 hours. Severe liver damage may occur if you take: more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+questions:
+  Questions or comments? 1-800-426-9391
+spl_product_data_elements:
+  Pain Reliever Acetaminophen ACETAMINOPHEN ACETAMINOPHEN HYPROMELLOSE, UNSPECIFIED POVIDONE STEARIC ACID CASTOR OIL SODIUM STARCH GLYCOLATE TYPE A POTATO 44;175 Tablet
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+openfda:
+version:
+  11
+dosage_and_administration:
+  Directions do not take more than directed adults and children 12 years and over take 2 caplets every 6 hours while symptoms last do not take more than 6 caplets in 24 hours, unless directed by a doctor do not take for more than 10 days unless directed by a doctor children under 12 years: ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+storage_and_handling:
+  Other information store at 25ºC (77ºF); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product
+package_label_principal_display_panel:
+  Principal Display Panel select brand ® the lower price name brand NDC 15127-735-16 EXTRA STRENGTH/NON-ASPIRIN PAIN RELIEVER ACETAMINOPHEN PAIN RELIEVER/FEVER REDUCER *Compare to the Active Ingredient of Extra Strength Tylenol ® Caplets 50 CAPLETS 500 mg EACH *This product is not manufactured or distributed by McNeil Consumer Healthcare, owner of the registered trademark Extra Strength Tylenol ® Caplets. 50844 REV0715B17515 SATISFACTION GUARANTEED select brand® Distributed by: SELECT BRAND ® DISTRIBUTORS Pine Bluff, AR 71603 USA AC (870) 535-3635 Select Brand 44-175 Select Brand 44-175
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: minor pain of arthritis toothache muscular aches backache headache the common cold premenstrual and menstrual cramps temporarily reduces fever
+set_id:
+  e22f4952-5b2d-b2bd-6d38-4353f77420b0
+id:
+  4f9d438a-1bef-4a63-b43a-ee52498f46e0
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredient (in each caplet) Acetaminophen 500 mg

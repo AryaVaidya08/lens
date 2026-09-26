@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  DISINFECTANT WIPES ALCOHOL GLYCERIN WATER ALCOHOL ALCOHOL PROPYLENE GLYCOL DIDECYLDIMONIUM CHLORIDE BENZALKONIUM CHLORIDE CETYLPYRIDINIUM CHLORIDE N-ALKYL ETHYLBENZYL DIMETHYL AMMONIUM CHLORIDE (C12-C14)
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 75% v/v..............................................Antiseptic
+purpose:
+  Purpose Antiseptic, wipes
+spl_unclassified_section:
+  Specification 15cm x 20cm
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin.
+dosage_and_administration:
+  Directions Open label, remove wipe, and unfold Wet hands thoroughly with product and allow to dry without wiping
+warnings:
+  Warnings For external use only. Do not use in the eyes. Do not flush.
+stop_use:
+  Discontinue use if irritation and redness develops. If condition persists for more than 72 hours, consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+storage_and_handling:
+  Other information Store below 95F (35C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Compound Double-Chain Chlorinated Quaternary Ammonium Salt
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 10PC NDC: 74212-1002-1 LIFETOGO DISINFECTANT WET WIPES 75% ALCOHOL 10 WIPES 10PC NDC: 74212-1002-2 LIFETOGO DISINFECTANT WIPES LifeToGo.com 10 WIPES 75% ALCOHOL 50PC NDC: 74212-1002-3 LIFETOGO DISINFECTANT WIPES 50 WIPES 75% ALCOHOL LifeToGo.com PDP PDP PDP
+set_id:
+  aca10b37-71a3-b67d-e053-2a95a90a33a0
+id:
+  aca11719-c58a-eaa9-e053-2a95a90a1963
+effective_time:
+  20200811
+version:
+  1
+openfda:

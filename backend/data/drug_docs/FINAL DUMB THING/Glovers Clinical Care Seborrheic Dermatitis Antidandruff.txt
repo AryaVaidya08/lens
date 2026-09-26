@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Glovers Clinical Care Seborrheic Dermatitis Antidandruff PYRITHIONE ZINC WATER AMMONIUM LAURYL SULFATE PROPYLENE GLYCOL COCAMIDOPROPYL BETAINE HYPROMELLOSE, UNSPECIFIED GLYCOL DISTEARATE GLYCOL STEARATE ETHYLENE GLYCOL MAGNESIUM ALUMINUM SILICATE BENZYL ALCOHOL METHYLCHLOROISOTHIAZOLINONE TRIETHYLENE GLYCOL MAGNESIUM NITRATE MAGNESIUM CHLORIDE CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 METHYLISOTHIAZOLINONE PYRITHIONE ZINC PYRITHIONE ZINC
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Pyrithione Zinc, 1% Purpose Antidandruff, Seborrheic Dermatitis
+purpose:
+  Purpose Antidandruff, Seborrheic Dermatitis
+indications_and_usage:
+  Use: controls scalp itching and flaking due to • dandruff • seborrheic dermatitis
+warnings:
+  Warnings: For external use only Ask a doctor before use if you have • serborrheic dermatitis that covers a large area of the body. When using this product • avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and consult a doctor if condition worsens or does not improve after regular use of this product as directed. Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have • serborrheic dermatitis that covers a large area of the body.
+when_using:
+  When using this product • avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and consult a doctor if condition worsens or does not improve after regular use of this product as directed.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or call a Poison Control Center right away.
+dosage_and_administration:
+  Directions • shake well • for best results use at least twice a week or as directed by a doctor • wet hair, apply shampoo, lather and rinse.
+inactive_ingredient:
+  Inactive Ingredients Water, Ammonium Lauryl Sulfate, Propylene Glycol, Ammonium Laureth Sulfate, Cocamidopropyl Betaine, PEG-3 Glyceryl Cocoate, Hydroxypropyl Methylcellulose, Sodium Cocoamphopropionate, Glycol Distearate, Glycol Stearate, Glycol, Magnesium Aluminum Silicate, Benzyl Alcohol, Mthylchloriothiazolinone, Triethylene Glycol, Magnesium Nitrate, Magnesium Chloride, Citric Acid, Fragrance, Blue 1.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  fef5701f-c5c7-4932-9a1c-42532e3910a5
+id:
+  083524d9-552f-7c19-e063-6394a90af541
+effective_time:
+  20231021
+version:
+  2
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Glovers Clinical Care Seborrheic Dermatitis Antidandruff
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    J. Strickland and Co.
+  product_ndc:
+    12022-038
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+  spl_id:
+    083524d9-552f-7c19-e063-6394a90af541
+  spl_set_id:
+    fef5701f-c5c7-4932-9a1c-42532e3910a5
+  package_ndc:
+    12022-038-00
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

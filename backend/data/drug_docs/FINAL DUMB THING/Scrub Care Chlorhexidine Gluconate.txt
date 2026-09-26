@@ -1,0 +1,33 @@
+effective_time:
+  20161101
+inactive_ingredient:
+  Inactive ingredients Cocamide DEA, Fragrance POFL 147, Glucono-Delta-Lactone, Hydroxyethylcellulose, Isopropyl Alcohol, Lauramine Oxide, PEG-75 Lanolin, Purified Water, Tridecyl Alcohol
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For external use only. Do not use if you are allergic to chlorhexidine gluconate or any other ingredients in this product. When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter or allowed to remain if contact occurs, rinse with cold water right away do not use routinely if you have wounds which involve more than the superficial layers of the skin
+questions:
+  Questions? Call: 1-800-523-0502 (Mon.-Fri. 8 AM-5 PM CST)
+spl_product_data_elements:
+  Scrub Care Chlorhexidine Gluconate GLUCONOLACTONE ISOPROPYL ALCOHOL WATER LAURAMINE OXIDE COCO DIETHANOLAMIDE PEG-75 LANOLIN TRIDECYL ALCOHOL HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) CHLORHEXIDINE GLUCONATE CHLORHEXIDINE
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions wet hands and forearms to the elbows clean under nails with pick provided wet sponge and squeeze to work up lather scrub thoroughly for 3 minutes. Use the brush side to clean the nails, cuticles, and interdigital spaces between the fingers and the sponge side to scrub the hands and forearms. rinse thoroughly scrub for an additional 3 minutes using the sponge side only. Wet sponge and squeeze to produce additional lather. rinse thoroughly and dry with a sterile towel
+stop_use:
+  Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. If condition persists for more than 72 hours, consult a doctor.
+spl_unclassified_section:
+  Other information store at 20-25°C (68-77°F) avoid freezing and excessive heat above 40°C (above 104°F)
+package_label_principal_display_panel:
+  Principal Display Panel Cat. 4458A Scrub Care ® Chlorhexidine Gluconate Solution, 4% Surgical Hand Scrub NDC 57613-007-25 CareFusion Made in Mexico Vernon Hills, IL 60061 USA 27-10012 Cat. 4458A
+indications_and_usage:
+  Use Surgical Hand Scrub: Significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care
+set_id:
+  905651a9-00a1-4494-8f0d-7eb322f95458
+id:
+  40428526-bb82-4368-e054-00144ff8d46c
+active_ingredient:
+  Active ingredient Chlorhexidine gluconate solution 4%

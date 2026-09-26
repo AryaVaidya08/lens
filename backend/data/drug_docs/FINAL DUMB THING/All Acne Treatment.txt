@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  All Acne Treatment SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID ALOE VERA LEAF AMINOMETHYLPROPANOL BENZALKONIUM CHLORIDE BUTYLENE GLYCOL BUTYLPARABEN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE DECYL GLUCOSIDE WATER ETHYLPARABEN GLYCERIN HYALURONIC ACID EGG SHELL MEMBRANE ISOBUTYLPARABEN METHYLPARABEN PHENOXYETHANOL PROPYLPARABEN
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Salycilic Acid 0.5%
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Uses ■ for the treatment of acne ■ clears acne pimples, blackheads, whiteheads and blemishes ■ allows skin to heal ■ helps prevent new acne pimples, blackheads whiteheads, and acne blemishec
+warnings:
+  Warnings - For external use only
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+other_safety_information:
+  Other Information store in dry area at 20º-25º C (68º-77º F)
+dosage_and_administration:
+  Directions ■ clean the skin thoroughly before applying this product ■ start with1 application daily, then gradually increase to 2 to 3 times daily if needed
+questions:
+  QUESTIONS OR COMMENTS? 800.307.8818 | DrBlaines.com M-F, 8:00 am - 4:00 pm (PST) Contact@BlaineLabs.com
+inactive_ingredient:
+  Inactive Ingredients Aloe barbadensis leaf extract, aminomethyl propanol, benzalkonium chloride, butylene glycol, butylparaben, carbomer, decyl glucoside, deionized water, ethylparaben, glycerin, hyaluronic acid, hydrolyzed eggshell membrane, isobutylparaben, methylparaben, phenoxyethanol, propylparaben
+package_label_principal_display_panel:
+  Product Label Dr. Blaine's ® ​ ALL ACNE TREATMENT FACE & BODY CLEARS ACNE & PREVENTS BREAKOUTS 1.7 OZ (48 g) MANUFACTURED BY: Blaine Labs, Inc. 11037 Lockport Place Santa Fe Springs, CA 90670 res All Acne Box All Acne Can
+set_id:
+  ee85939e-64fc-4b18-af5b-6ebd7e14e572
+id:
+  665e9976-dd83-4b80-8f56-18140f5a1868
+effective_time:
+  20231221
+version:
+  2
+openfda:
+  application_number:
+    M006
+  brand_name:
+    All Acne Treatment
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Blaine Labs Inc.
+  product_ndc:
+    63347-130
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    252296
+  spl_id:
+    665e9976-dd83-4b80-8f56-18140f5a1868
+  spl_set_id:
+    ee85939e-64fc-4b18-af5b-6ebd7e14e572
+  package_ndc:
+    63347-130-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  multipurpose Zinc Oxide Skin Protectant STARCH, CORN ZINC OXIDE ZINC OXIDE YELLOW WAX PEG-10 DIMETHICONE (200 CST) LEVOMENOL PENTAERYTHRITYL TETRAISOSTEARATE DIMETHICONE, UNSPECIFIED CHOLESTEROL OAT SORBITAN OLIVATE WATER GLYCERIN WHITE PETROLATUM
+active_ingredient:
+  Zinc Oxide 12.8%
+purpose:
+  Skin Protectant
+warnings:
+  For external use only. do not get into eyes ■ condition worsens ■ symptoms last more than 7 days or clear up and occur again within a few days If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  do not get into eyes
+stop_use:
+  ■ condition worsens ■ symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  ■ change wet and soiled diapers promptly ■ cleanse the diaper area and allow skin to dry ■ apply ointment liberally as often as necessary, with each diaper change, especially at bedtime or any time exposure to wet diapers may be prolonged
+storage_and_handling:
+  Store at room temperature 15-30C (59-86F)
+inactive_ingredient:
+  avena sativa (oat) kernel extract, beeswax, bisabolol, cholesterol, dimethicone, glycerin, peg-10 dimethicone, pentaerythrityl tetraisostearate, sorbitan olivate, theobroma grandiflorum seed butter, water, white petrolatum, zea mays (corn) starch
+questions:
+  1-800-345-0032 www.triplepaste.com
+spl_unclassified_section:
+  2024 Distributed by Advantice Health, LLC Bridgewater, NJ 08807
+indications_and_usage:
+  ■ helps treat and prevent diaper rash ■ protects chafed skin due to diaper rash and helps protect from wetness
+package_label_principal_display_panel:
+  Triple Paste 12.8% zinc oxide / skin protectant Rash Ointment Multi-Purpose with Sheer Zinc for diaper, face and body rash Powerful portection with a lightweight feel Fragrance free - Hypoallergenic Net Wt. 2oz (57g) Carton
+set_id:
+  291563cc-7491-ce41-e063-6394a90ac6c1
+id:
+  4d63eb8d-9dec-031c-e063-6294a90a74ca
+effective_time:
+  20260319
+version:
+  2
+openfda:
+  application_number:
+    M016
+  brand_name:
+    multipurpose
+  generic_name:
+    ZINC OXIDE SKIN PROTECTANT
+  manufacturer_name:
+    Advantice Health, LLC
+  product_ndc:
+    16864-041
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    637168
+  spl_id:
+    4d63eb8d-9dec-031c-e063-6294a90a74ca
+  spl_set_id:
+    291563cc-7491-ce41-e063-6394a90ac6c1
+  package_ndc:
+    16864-041-01
+  is_original_packager:
+    True
+  upc:
+    0316864000941
+  unii:
+    SOI2LOH54Z

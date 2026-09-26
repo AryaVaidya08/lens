@@ -1,0 +1,31 @@
+effective_time:
+  20210628
+inactive_ingredient:
+  Inactive Ingredients
+purpose:
+  Purpose
+keep_out_of_reach_of_children:
+  KOOROC
+warnings:
+  Warnings
+spl_product_data_elements:
+  Hand Sanitizer Ethyl Alcohol GLYCERIN HYDROGEN PEROXIDE WATER METHACRYLIC ACID - ETHYL ACRYLATE COPOLYMER (4500 MPA.S) ALCOHOL ALCOHOL Clear, Colorless
+ask_doctor:
+  Ask Doctor
+other_safety_information:
+  Other information
+openfda:
+version:
+  3
+dosage_and_administration:
+  Dosage and Admin
+package_label_principal_display_panel:
+  Principal Display Active Ingredient Purpose Uses Warnings Ask Doctor KOOROC Dosage and Admin Other information Inactive Ingredients
+indications_and_usage:
+  Uses
+set_id:
+  a70cfd00-3561-18db-e053-2a95a90ac8b0
+id:
+  c5d3ab35-b57a-a746-e053-2a95a90a69cf
+active_ingredient:
+  Active Ingredient

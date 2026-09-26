@@ -1,0 +1,27 @@
+effective_time:
+  20201228
+inactive_ingredient:
+  Glycerol Aloe extract Pure water
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only,Keep away from heat or flame.
+spl_product_data_elements:
+  75% Alcohol Wipes Wipes ALCOHOL ALCOHOL ALOE GLYCERIN WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Store below 110°F (43°C)
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Rub hands on wipes and use to disfect
+set_id:
+  a8556fb0-9dc0-6bda-e053-2995a90a8a10
+id:
+  b781c464-0760-11e1-e053-2a95a90a6880
+active_ingredient:
+  Ethyl alcohol

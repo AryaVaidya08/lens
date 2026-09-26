@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Warrior Broad Spectrum SPF 50 Sunscreen Minerals Formula Titanium Dioxide, Zinc Oxide DECYL GLUCOSIDE POLYOXYL 20 CETOSTEARYL ETHER C13-15 ALKANE VINYL ACETATE CETYL ALCOHOL CAPRYLYL GLYCOL N-VINYLPYRROLIDINONE ALKYL (C12-15) BENZOATE ISODODECANE CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) TRIETHOXYCAPRYLYLSILANE POLYGLYCERYL-3 DISTEARATE STEARIC ACID ALUMINUM HYDROXIDE GLYCERIN WATER CAMELLIA OLEIFERA LEAF ISOHEXADECANE SODIUM HYDROXIDE PHENOXYETHANOL ETHYL FERULATE STEARYL ALCOHOL BUTYL ACRYLATE/C16-C20 ALKYL METHACRYLATE/METHACRYLIC ACID/METHYL METHACRYLATE COPOLYMER ALLANTOIN TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active Ingredients Titanium Dioxide 4.5% Zinc Oxide 4%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove
+ask_doctor:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply after 80 minutes of swimming or sweating immediately after towel drying at least every two hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses children under 6 months: ask a doctor
+inactive_ingredient:
+  Inactive Ingredients Acrylic Acid/VP Crosspolymer, Allantoin, Aluminum Hydroxide, C12-15 Alkyl Benzoate, C13-15 Alkane, Camellia Oleifera (Green Tea) Leaf Extract, Caprylyl Glycol, Ceteareth-20, Cetyl Alcohol, Decyl Glucoside, Ethyl Ferulate, Glycerin, Isododecane, Isohexadecane, Phenoxyethanol, Polyglyceryl-3 Distearate, Sodium Hydroxide, Stearic Acid, Stearyl Alcohol, Triethoxycaprylylsilane, VP/Acrylates/Lauryl Methacrylate Polymer, Water
+spl_unclassified_section:
+  Other Information protect this product from excessive heat and direct sun
+package_label_principal_display_panel:
+  Warrior 50 Broad Spectrum SPF 50 Sunscreen Minerals Formula Principle Display Label
+set_id:
+  0c673104-4e85-e749-e063-6394a90a3b22
+id:
+  0c6759b5-b40b-f424-e063-6394a90ac84f
+effective_time:
+  20231213
+version:
+  1
+openfda:

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Antibacterial Hand Sanitizer ALCOHOL CARBOMER 980 AMINOMETHYLPROPANOL WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Keep out of eyes, ears & mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask doctor if redness or irritation develop and persist for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use on childeren less than 2 months of age. Do not use on open skin wounds.
+do_not_use:
+  Do not use
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask doctor if redness or irritation develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions Squeeze enough product on hands to cover all surface. Rub hands together until dry.
+storage_and_handling:
+  Other information Store at 20℃ (68-77℉) May discolor fabrics.
+inactive_ingredient:
+  Inactive ingredients Water, Carbomer, 2-Amino-2-Methyl-1-Propanol, Fragrance.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 500 mL NDC: 70445-500-01 500 ml label
+set_id:
+  afca1267-4d93-7453-e053-2995a90a865c
+id:
+  afca2a49-6422-7b6a-e053-2a95a90ad41e
+effective_time:
+  20200920
+version:
+  1
+openfda:

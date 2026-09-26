@@ -1,0 +1,91 @@
+spl_product_data_elements:
+  4212 First Aid Kit 4212 first aid Ammonia Inhalent ammonia inhalent ALCOHOL AMMONIA AMMONIA Burn Jel gel for burns TEA TREE OIL DIAZOLIDINYL UREA METHYLPARABEN EDETATE DISODIUM EDETIC ACID GLYCERIN TROLAMINE CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) PROPYLPARABEN OCTOXYNOL-9 DIPROPYLENE GLYCOL LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS PVP Iodine Wipe povidone-iodine 10% NONOXYNOL-9 WATER POVIDONE-IODINE IODINE Eyesaline Emergency Eyewash purified water SODIUM PHOSPHATE, DIBASIC SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE SODIUM CHLORIDE WATER WATER Triple Antibiotic bacitracin zinc, polymyxin b sulfate, neomycin sulfate PETROLATUM POLYMYXIN B SULFATE POLYMYXIN B BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN Antiseptic Towelette benzalkonium chloride WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Ammonia 15%
+  Burn Jel Active ingredient Lidocaine HCl 2.0%
+  PVP Active ingredient Povidone-iodine solution USP, 10% (equivalent to 1% titratable iodine)
+  Triple Active ingredient Bacitracin zinc 400 units Neomycin sulfate (5 mg equivalent to 3.5 mg Neomycin base) Polymyxin B sulfate 5000 units
+  BZK Wipe Active ingredient Benzalkonium chloride 0.13% w/v
+purpose:
+  Purpose Respiratory stimulant
+  Burn Jel Purpose External analgesic
+  PVP Purpose First aid antisepti
+  Triple Purpose First aid antibiotic First aid antibiotic First aid antibiotic
+  BZK Wipe Purpose First aid antiseptic
+indications_and_usage:
+  Uses to prevent or treat fainting
+  Burn Jel Uses temporarily relieves pain due to minor burns
+  PVP Uses first aid to help prevent the risk of infection in minor cuts, scrapes, and burn
+  Triple Uses first aid to help prevent infection in: minor cuts scrapes burns
+  BzK Wipe Uses Antiseptic cleansing of face, hands, and body without soap and water
+warnings:
+  Warnings For external use only Do not use if you have asthma or emphysema Stop use and ask a doctor if condition persists
+  Burn Jel Warnings For external use only Do not use on large areas of the body, particularly over raw surfaces or blistered areas When using this product avoid contact with eyes Stop use and ask a doctor if the condition gets worse symptoms persist for more than 7 days condition clears up and recurs within a few days Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  PVP Warnings For external use only Do not use in the eyes over large areas of the body on individuals who are allergic or sensitive to iodine Ask a doctor before use if you have deep or puncture wounds, animal bites serious burns When using this product do not use longer than one wek unless directed by a doctor Stop use and ask a doctor if conditions persists or gets worse irritation and redness develops Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+  Triple Warnings For external use only Allergy aler t: do not use if you are allergic to any of the ingredients Do not use in the eyes over large areas of the body Ask a doctor before use if you have a deep or puncture wounds animal bites serious burns Stop use and ask a doctor if the condition persists or gets worse a rash or other allergic reaction develops you need to use longer than 1 week Keep out of the reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  BZK Wipe Warnings For external use only Do not use in the eyes or over large areas of the body on mucous membranes on irritated skin in case of deep puncture wounds, animal bites or serious burns, consult a doctor longer than 1 week unless directed by a doctor Stop use and ask a doctor if if irritation, redness or other symptoms develop the condition persists or gets worse Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you have asthma or emphysema
+  Do not use on large areas of the body, particularly over raw surfaces or blistered areas
+  Do not use in the eyes over large areas of the body on individuals who are allergic or sensitive to iodine
+  Do not use in the eyes over large areas of the body Ask a doctor before use if you have a deep or puncture wounds animal bites serious burns
+  Do not use in the eyes or over large areas of the body on mucous membranes on irritated skin in case of deep puncture wounds, animal bites or serious burns, consult a doctor longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists
+  Stop use and ask a doctor if the condition gets worse symptoms persist for more than 7 days condition clears up and recurs within a few days
+  Stop use and ask a doctor if conditions persists or gets worse irritation and redness develops
+  Stop use and ask a doctor if the condition persists or gets worse a rash or other allergic reaction develops you need to use longer than 1 week
+  Stop use and ask a doctor if if irritation, redness or other symptoms develop the condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+  Keep out of the reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions hold inhalant away from face and crush ampoule between thumb and forefinger at position indicated on sleeve. hold near nostrils for inhalation of volatile vapor
+  Burn JEl Directions adults and children 2 years of age and older; apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor you may report a serious reaction to this product to 800-430-5490
+  PVP Directioons Reverse cardboard sleeve, then crush at dot between thumb and forefinger. Allow solution to saturate tip and apply solution to injury. clean affected area apply to affected area 1 to 3 times daily may be covered with a sterile bandage discard swab after single use
+  Triple Directions clean the affected area apply a small amount of the product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+  BZK Wipe Directions tear open packet and use as a washcloth
+other_safety_information:
+  Other information store at room temperature away from light
+inactive_ingredient:
+  Inactive ingredients alcohol USP, FD&C red #40, lavender oil, lemon oil fcc, nutmeg oil, purified water
+  Burn Jel Inactive ingredients carbopol 940, carbopol 1342, diazolidinyl urea, glycerin, melaleuca alternifolia (tea tree) leaf oil, methylparaben, octoxynol-9, propylene glycol, propylparaben, trolamine, water
+  PVP Inactive ingredients citric acid, disodium phosphate,nonoxynol-9, sodium hydroxide, water
+  Triple Inactive ingredient petrolatum
+  BZK Wipe Other information water
+questions:
+  Questions or Comments 1-800-430-5490
+  Burn Jel Questions 1-800-430-5490
+  PVP Questions and Comments? 1-800-430-5490
+  Triple Questions? 1-800-430-5490
+  BZK Wipe Questions 1-800-430-5490
+when_using:
+  When using this product avoid contact with eyes
+  When using this product do not use longer than one wek unless directed by a doctor
+spl_unclassified_section:
+  Burn Jel Other information store at room temperature - do not use if opened or torn
+  PVP Other information store at room temperature away from light keep from freezing or excessive heat do not use if package is torn or open
+  Triple Other information store at 15 0 to 25 0 C (59 0 to 77 0 F) tamper evident sealed packets do not use if packet is torn or opened
+  BZK Wipe Other information store at room temperature 15 0 to 30 0 C (59 0 - 86 0 F) do not reuse towelette
+  4212 340050F Kit Contents 1 1 X 3 PLASTIC 50/BOX 1 TRIPLE ANTIBIOTIC 10 PER 1 GAUZE BANDAGE, 4" X 6 YD 2 INSTANT COLD PACK 4" X 6" 1 BURN JEL 1/8 OZ, 6 PER 1 PVP IODINE WIPES 10 PER 1 NITRILE GLOVES 2PR BBP 1 ADHESIVE TAPE W/P 1/2"X 5 YD 2 GAUZE BANDAGE 1" x 2 YDS 2 GAUZE BANDAGE 2"X2 YDS STRETCH GZ 1 GAUZE BANDAGE 3"X2 YDS STRETCH GZ 1 FIRST AID GUIDE ASHI 2 ABD COMBINE PAD 5" X 9" 1 GZE PADS STERILE 3"X 3" 10'S 1 OZ, BUFF EYEWASH 1 SCISSOR BDGE 4" RED PLS HDL 1 KIT TWEEZER 3 1/2" SLANTED LBL STOCK 6-3/8"X4" LBL STOCK 4"X2-7/8" 1 LBL STOCK 3"x1-7/8" 10 BZK ANTISEPTIC WIPE, BULK 1 REFILL LABEL 3400-50 KIT 1 KIT STL 36 UN WHT 01 HOR SHELF CORR M/C FOR 3536EB 1 LBL CONTENTS ANSI Z308.1-2009 REV B 2 ADHES TAPE EYE STRIPS 2'S 2 TRI BNDG NON WOVEN 40"X40"X56" 5 GAUZE PADS 2"X2" 12PLY 2 EYE PADS STD OVAL STERILE 10 NON ADHERENT PAD 2" X 3" 4 AMMONIA INHALANT, BULK
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds, animal bites serious burns
+package_label_principal_display_panel:
+  Principal Display Panel Inhalant
+  Burn Jel Principal Display Panel Burn Jel
+  PVP Principal Display Panel PVP Swab
+  Triple Principal Display Panel Triple Antibiotic
+  BZK Wipe Principal Display Panel Antiseptic Wipe
+  4212 Kit Label 340050F 4212 Label
+set_id:
+  8466ed9b-8753-b9ae-e053-2991aa0ab424
+id:
+  0eaf36e9-4848-3c6b-e063-6394a90af148
+effective_time:
+  20240111
+version:
+  6
+openfda:

@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  OHM Mucosa Cleanser Calendula Officinalis, Hydrastis Canadensis, Thuja Occidentalis. ALCOHOL WATER CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP GOLDENSEAL GOLDENSEAL THUJA OCCIDENTALIS LEAFY TWIG THUJA OCCIDENTALIS LEAFY TWIG
+active_ingredient:
+  ACTIVE INGREDIENTS (HPUS*): Equal amounts of: Calendula Officinalis 1X, Hydrastis Canadensis 5X, Thuja Occidentalis 1X. *The letters "HPUS" indicate the components in the product are officially monographed in the Homeopathic Pharmacopeia of the United States.
+indications_and_usage:
+  Temporarily relieves irritation and/or infection of mucosas.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: IF PREGNANT OR BREAST-FEEDING, ask a health professional before use. If symptoms worsen or persist for more than a week, discontinue use and contact a doctor. ​KEEP OUT OF REACH OF CHILDREN.
+keep_out_of_reach_of_children:
+  ​KEEP OUT OF REACH OF CHILDREN.
+dosage_and_administration:
+  DIRECTIONS: Adults & children above 12 years: place 10 to 30 drops in 1oz of purified water and perform mucosa wash. Use 2 to 5 times daily, or as directed by a health care professional. Children under 12: consult a doctor.
+other_safety_information:
+  Do not use if cap seal is broken. Do not use undiluted.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Ethanol Alcohol 70% (Non-GMO, Kosher Certified, Corn, Gluten, Allergen Free), Purified Water.
+questions:
+  Mfg. By: OHM PHARMA, INC. Mineral Wells, TX 76067 www.ohmpharma.com
+package_label_principal_display_panel:
+  HOMEOPATHIC MEDICINE NDC: 66096-144-02 MUCOSA CLEANSER Natural - Safe - Effective No Side Effects 1 fl oz (30mL) / 70% Alcohol 1oz bottle label Mucus Relief
+purpose:
+  Mucus Relief
+set_id:
+  48bcd046-f235-4608-81ef-9005b5adfbf9
+id:
+  d44b40e1-a61d-4469-e053-2a95a90aa702
+effective_time:
+  20211229
+version:
+  4
+openfda:
+  brand_name:
+    OHM Mucosa Cleanser
+  generic_name:
+    CALENDULA OFFICINALIS, HYDRASTIS CANADENSIS, THUJA OCCIDENTALIS.
+  manufacturer_name:
+    OHM PHARMA INC.
+  product_ndc:
+    66096-144
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    CALENDULA OFFICINALIS FLOWERING TOP
+    GOLDENSEAL
+    THUJA OCCIDENTALIS LEAFY TWIG
+  spl_id:
+    d44b40e1-a61d-4469-e053-2a95a90aa702
+  spl_set_id:
+    48bcd046-f235-4608-81ef-9005b5adfbf9
+  package_ndc:
+    66096-144-02
+  is_original_packager:
+    True
+  upc:
+    0366096144029
+  unii:
+    18E7415PXQ
+    ZW3Z11D0JV
+    1NT28V9397

@@ -1,0 +1,36 @@
+effective_time:
+  20161130
+inactive_ingredient:
+  Inactive Ingredients Citric Acid, Cupric Sulfate, Nonoxynol-9, Purified Water, Sodium Hydroxide, Sodium Nitrite
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+warnings:
+  Warnings For external use only.
+spl_product_data_elements:
+  Povidone-Iodine Povidone-Iodine SODIUM NITRITE ANHYDROUS CITRIC ACID NONOXYNOL-9 WATER CUPRIC SULFATE SODIUM HYDROXIDE POVIDONE-IODINE IODINE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Clean the affected area ■ For preparation of the skin prior to surgery: apply product to the operative site prior to surgery ■ For first aid antiseptic: apply a small amount of this product on the area 1 to 3 times daily. May be covered with a sterile bandage. If bandaged, let dry first.
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect from freezing. Avoid excessive heat.
+  www.medline.com Manufactured for: Medline Industries Inc., Mundelein, IL 60060 USA Made in the USA To Order Call: 1-800-MEDLINE RG15AVJ
+stop_use:
+  Stop use and ask a doctor ■ if irritation and redness develop ■ if condition persists for more than 72 hours ■ in case of deep or puncture wounds, animal bites or serious burns.
+do_not_use:
+  Do not use ■ in the eyes ■ longer than 1 week unless directed by a doctor ■ on individuals who are allergic or sensitive to iodine ■ or apply over large areas of the body
+package_label_principal_display_panel:
+  PVP PREP SOLUTION TOPICAL ANTISEPTIC POVIDONE-IODINE 10% Single use only. Not made with natural rubber latex. 2 fl oz. (59 mL) REF 59269 2 oz bottle label
+  PVP PREP SOLUTION TOPICAL ANTISEPTIC POVIDONE-IODINE 10% Single use only. Not made with natural rubber latex. 3 fl oz. (88 mL) REF 59270 3 oz bottle label
+indications_and_usage:
+  Uses ■ Healthcare antiseptic for preparation of the skin prior to surgery ■ First aid antiseptic to help prevent infection in minor cuts, scrapes and burns
+set_id:
+  28ac0482-2327-41f6-e054-00144ff8d46c
+id:
+  428ac6d9-f532-1adc-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredient Povidone-Iodine, 10% (equivalent to 1% available iodine)

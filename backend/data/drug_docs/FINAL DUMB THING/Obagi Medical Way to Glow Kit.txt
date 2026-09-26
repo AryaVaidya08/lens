@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  Obagi Medical Way to Glow Kit homosalate, octisalate, and zinc oxide SUN SHIELD BROAD SPECTRUM SPF 50 MATTE SUNSCREEN HOMOSALATE, OCTISALATE, and ZINC OXIDE POLYGLYCERYL-2 ISOSTEARATE POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) OCTISALATE OCTISALATE 1,2-HEXANEDIOL CAPRYLYL GLYCOL DISTEARDIMONIUM HECTORITE EDETATE DISODIUM ANHYDROUS SODIUM CHLORIDE C15-19 ALKANE DIMETHICONE GLYCERIN POLYGLYCERYL-6 POLYRICINOLEATE POLYHYDROXYSTEARIC ACID (2300 MW) SILICON DIOXIDE SODIUM HYDROXIDE YELLOW WAX HOMOSALATE HOMOSALATE HYDROXYACETOPHENONE OCTYLDODECYL NEOPENTANOATE ZINC OXIDE ZINC OXIDE CANDELILLA WAX SORBITAN OLIVATE TRIETHOXYCAPRYLYLSILANE WATER XANTHAN GUM OBAGI MEDICAL PROFESSIONAL-C SERUM 15 ALCOHOL ASCORBIC ACID OCTOXYNOL-9 PROPYLENE GLYCOL WATER EVERNIA PRUNASTRI GRAPEFRUIT PEEL ASCORBYL GLUCOSIDE PSEUDEVERNIA FURFURACEA OBAGI MEDICAL OBAGI HYDRATE FACIAL MOISTURIZER AVOCADO OIL TARA SPINOSA RESIN CYCLOMETHICONE 5 LEVOMENOL PANTHENOL SACCHARIDE ISOMERATE SHEA BUTTER CAPRYLYL GLYCOL DIMETHICONE HEXYLENE GLYCOL LAURETH-12 MEDIUM-CHAIN TRIGLYCERIDES SOY STEROL SOYBEAN STEARIC ACID DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) GLYCERYL MONOSTEARATE ALLANTOIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CETYL ALCOHOL ETHYLHEXYLGLYCERIN GLYCERIN MANGIFERA INDICA SEED BUTTER PHENOXYETHANOL SODIUM HYDROXIDE SODIUM STEAROYL GLUTAMATE TETRAHYDRODIFERULOYLMETHANE WATER TOCOPHEROL
+spl_unclassified_section:
+  Drug Facts
+  Distributed by Obagi Cosmeceuticals LLC, Long Beach, CA 90806
+active_ingredient:
+  Active ingredients Purpose Homosalate 10% Sunscreen Octisalate 5% Sunscreen Zinc Oxide 16.5% Sunscreen
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredients</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td><paragraph>Homosalate 10%</paragraph></td><td>Sunscreen</td></tr><tr><td><paragraph>Octisalate 5%</paragraph></td><td>Sunscreen</td></tr><tr><td><paragraph>Zinc Oxide 16.5%</paragraph></td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin Stop use and ask a doctor if rash occurs When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m.–2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months: Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), C15-19 Alkane, Octyldodecyl Neopentanoate, Polymethylsilsesquioxane, Sorbitan Olivate, Silica, Polyglyceryl-6 Polyricinoleate, Sodium Chloride, Xanthan Gum, Glycerin, Hydroxyacetophenone, Disodium EDTA, 1,2-Hexanediol, Caprylyl Glycol, Sodium Hydroxide, Triethoxycaprylylsilane, Polyhydroxystearic Acid, Disteardimonium Hectorite, Polyglyceryl-2 Isostearate, Euphorbia Cerifera (candelilla) Wax, Beeswax, Dimethicone
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Kit Carton Way to Glow Defend, Hydrate & Protect OBAGI® MEDICAL Kit Carton
+set_id:
+  f6f6e219-4ef6-be3b-e053-6294a90a660d
+id:
+  a31ef1ba-8304-4d3f-a030-7fac7224faec
+effective_time:
+  20250320
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Obagi Medical Way to Glow Kit
+  generic_name:
+    HOMOSALATE, OCTISALATE, AND ZINC OXIDE
+  manufacturer_name:
+    Obagi Cosmeceuticals LLC
+  product_ndc:
+    62032-690
+  product_type:
+    HUMAN OTC DRUG
+  spl_id:
+    a31ef1ba-8304-4d3f-a030-7fac7224faec
+  spl_set_id:
+    f6f6e219-4ef6-be3b-e053-6294a90a660d
+  package_ndc:
+    62032-690-02
+    62032-140-05
+  is_original_packager:
+    True

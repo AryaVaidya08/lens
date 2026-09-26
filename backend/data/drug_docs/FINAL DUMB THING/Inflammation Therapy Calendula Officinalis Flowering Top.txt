@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Inflammation Therapy Calendula Officinalis Flowering Top SODIUM PALMATE SODIUM PALM KERNELATE WATER GLYCERIN COCONUT ACID PALMITIC ACID SODIUM CHLORIDE SHEA BUTTER TITANIUM DIOXIDE ASPALATHUS LINEARIS LEAF CANNABIS SATIVA SEED D&C YELLOW NO. 10 EDETATE SODIUM ETIDRONATE TETRASODIUM FERRIC OXIDE RED AZADIRACHTA INDICA SEED OIL FD&C RED NO. 4 FD&C GREEN NO. 3 CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP
+spl_unclassified_section:
+  Drug Facts
+  Other information: For use on mild skin inflammation, or as directed by a physician.
+active_ingredient:
+  Active Ingredients Purpose Calendula Officinalis Extract - 1X Reduces inflammation
+active_ingredient_table:
+  <table width="70%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th><content styleCode="bold"><content styleCode="italics">Active Ingredients</content></content></th><th><content styleCode="bold"><content styleCode="italics">Purpose</content></content></th></tr></thead><tbody><tr styleCode="Toprule BotRule"><td>Calendula Officinalis Extract - 1X</td><td>Reduces inflammation</td></tr></tbody></table>
+purpose:
+  Active Ingredients Purpose Calendula Officinalis Extract - 1X Reduces inflammation
+purpose_table:
+  <table width="70%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr styleCode="Toprule"><th><content styleCode="bold"><content styleCode="italics">Active Ingredients</content></content></th><th><content styleCode="bold"><content styleCode="italics">Purpose</content></content></th></tr></thead><tbody><tr styleCode="Toprule BotRule"><td>Calendula Officinalis Extract - 1X</td><td>Reduces inflammation</td></tr></tbody></table>
+indications_and_usage:
+  Uses: Reduces skin inflammation.
+warnings:
+  Warnings: For external use only. When using this product do not get into eyes. Stop use and ask a doctor if condition worsens, symptoms last more than 7 days or clear up and occur again within a few days. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Warnings: For external use only. When using this product do not get into eyes.
+stop_use:
+  Stop use and ask a doctor if condition worsens, symptoms last more than 7 days or clear up and occur again within a few days.
+pregnancy_or_breast_feeding:
+  
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions: Lather in hands or on a washcloth and wash entire body. Rinse thoroughly. Gentle enough for the face and for daily use.
+inactive_ingredient:
+  Inactive ingredients: Sodium Palmate, Sodium Palm Kernelate, Water (Aqua), Glycerin, Fragrance (Parfum), Coconut Acid, Palmitic Acid, Sodium Chloride, Butyrospermum Parkii (Shea) Butter*, Titanium Dioxide (CI 77891), Aspalathus Linearis Leaf, Cannabis Sativa Seed Oil, Yellow 10 (CI 47005), Tetrasodium EDTA, Tetrasodium Etidronate, Iron Oxides (CI 77499), Melia Azadirachta Seed Oil, Red 4 (CI 14700), Green 3 (CI 42053). *Certified Organic Ingredient
+questions:
+  Questions or comments? 631-842-8800 or visit www.SheaMoisture.com
+package_label_principal_display_panel:
+  Boxes
+set_id:
+  8f7c31e9-c389-4b23-8166-2f05e294b614
+id:
+  24b208f5-5faf-af2a-e063-6394a90ad4e0
+effective_time:
+  20241017
+version:
+  2
+openfda:

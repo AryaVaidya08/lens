@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  HAKU PLUMERIA HAND SANITIZER Ethyl alcohol ALCOHOL ALCOHOL Water CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE Glycerin Propylene Glycol TROLAMINE Polysorbate 80 ALOE VERA LEAF
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl alcohol 70%
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, Carbomer, Glycerin, Propylene Glycol, Triethanolamine, Polysorbate 80, Aloe barbadensis leaf extract, Fragrance
+purpose:
+  PURPOSE ANTISEPTIC
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame -------------------------------------------------------------------------------------------------------- Do not use • in children less than 2 months of age • on open skin wounds -------------------------------------------------------------------------------------------------------- When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. -------------------------------------------------------------------------------------------------------- Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses • Hand sanitizer to help reduce bacteria that potentially can cause disease. • Recommended for repeated use.
+dosage_and_administration:
+  Directions • Place enough product on hands to cover all surfaces. Rub hands together until dry. • Supervise children under 6 years of age when using this product to avoid swallowing. • Not recommended for infants
+other_safety_information:
+  Other Information • Store between 1℃-30℃ (33.8℉-86℉) • Avoid freezing and excessive heat above 40℃ (104℉)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of tube
+set_id:
+  f7968dca-0e04-4d70-af41-63008e1fc8c1
+id:
+  4eba5595-0456-43c4-b148-4d4752af94fc
+effective_time:
+  20200612
+version:
+  1
+openfda:

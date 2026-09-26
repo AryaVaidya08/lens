@@ -1,0 +1,21 @@
+effective_time:
+  20190408
+inactive_ingredient:
+  Carboxymethylcellulose sodium, phosphoric acid, purified water, saccharin sodium, cinnamon falvor, peppermint oil
+spl_product_data_elements:
+  DentiCare Pro-Gel Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION
+description:
+  Medicom DentiCare Pro-Gel 2.72% Topical Sodium Fluoride Gel 60 second application Cinnamint 10021-CINM NDC 64778-1212-1
+warnings_and_cautions:
+  Keep out of reach of children. For professional use only. Not recommended for children under 18 months of age. Store at room temperature. Do not expose to excessive heat over 40C or 104F. Do not use if seal is broken.
+openfda:
+version:
+  2
+package_label_principal_display_panel:
+  10021-CINM
+indications_and_usage:
+  Following Prophylaxis treatment, fill 1/3 of tray with gel. Insert tray in the patient's mouth, have patient bite down lightly for 60 seconds, remove tray and have patient expectorate excess. Advise patient not to eat, drink or rinse for 30 minutes after application
+set_id:
+  b4dbb9f5-4355-4d85-ae8b-a46e4fb2af78
+id:
+  860f9a5f-71df-4be4-e053-2991aa0ae617

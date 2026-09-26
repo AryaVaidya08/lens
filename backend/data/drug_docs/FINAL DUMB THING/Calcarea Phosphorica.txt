@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Calcarea Phosphorica Calcarea Phosphorica TRIBASIC CALCIUM PHOSPHATE CALCIUM CATION WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT: (in each spray) Calcarea Phosphorica 12X 100%.
+purpose:
+  PURPOSES: Calcarea Phosphorica - calcium absorption, immunity*
+indications_and_usage:
+  USES: Supports calcium absorption, protein metabolism, strong bones, children during growth spurts, and a healthy immune system.* *Claims based on traditional homeopathic practice, not accepted medial evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: For oral use only. If pregnant or breast-feeding, or if symptoms persist or worsen, ask a health care professional. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. DO NOT USE IF TAMPER EVIDENT SEAL IS BROKEN OR MISSING
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: • Adults: 2 sprays 3 times a day in mouth or half a cup of water. • Children under 12: 1 spray as above. • Consult a physician for use in children under 12 years of age. Store in a cool, dry place.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 20% organic ethanol
+questions:
+  QUESTIONS: www.HomeopathyStore.com (888) 405-7551 Dist. by Ratis, LLC 1201 N Orange St. Ste 7594 Wilmington, DE 19801
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: SCHUESSLER CELL SALTS LACTOSE FREE ANNA KARE Calcarea Phosphorica HOMEOPATHIC ORAL SPRAY 1 FL. OZ (30ML) Calcarea Phosphorica
+set_id:
+  49e0e934-2374-4209-a168-08daa112e939
+id:
+  083b9574-04ba-4c68-91b6-5a36993d8e8f
+effective_time:
+  20230713
+version:
+  3
+openfda:
+  brand_name:
+    Calcarea Phosphorica
+  generic_name:
+    CALCAREA PHOSPHORICA
+  manufacturer_name:
+    Ratis, LLC
+  product_ndc:
+    71753-8002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TRIBASIC CALCIUM PHOSPHATE
+  spl_id:
+    083b9574-04ba-4c68-91b6-5a36993d8e8f
+  spl_set_id:
+    49e0e934-2374-4209-a168-08daa112e939
+  package_ndc:
+    71753-8002-1
+  is_original_packager:
+    True
+  upc:
+    0371753800217
+  unii:
+    91D9GV0Z28

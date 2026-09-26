@@ -1,0 +1,28 @@
+spl_product_data_elements:
+  Sunscreen Zinka, Mineral Zinc Oxide Face Stick SPF 30 CANDELILLA WAX .ALPHA.-TOCOPHEROL, D- .BETA.-TOCOPHEROL .GAMMA.-TOCOPHEROL .DELTA.-TOCOPHEROL ZINC OXIDE ZINC OXIDE SUNFLOWER OIL ALOE VERA LEAF COCONUT OIL WHITE WAX CARNAUBA WAX SHEA BUTTER CASTOR OIL COCOA BUTTER
+active_ingredient:
+  OTC - Active Ingredient Section OTC Active Ingredients
+purpose:
+  OTC - Purpose OTC Purpose
+dosage_and_administration:
+  Dosage & Administration Dosage and Administration
+indications_and_usage:
+  Indications and Usage Indications and Usage
+inactive_ingredient:
+  Inactive Ingredient Section Inactive Ingredients
+keep_out_of_reach_of_children:
+  Keep Out of Reach Of Children Keep out of reach of children
+warnings:
+  Warnings Section Warnings Section
+package_label_principal_display_panel:
+  Artwork - Back Label Back Label
+  Artwork - Front Label Artwork - FRONT
+set_id:
+  d4615204-e533-7d3c-e053-2995a90a0feb
+id:
+  d4615204-e534-7d3c-e053-2995a90a0feb
+effective_time:
+  20211230
+version:
+  1
+openfda:

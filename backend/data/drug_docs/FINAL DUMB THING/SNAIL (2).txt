@@ -1,0 +1,27 @@
+effective_time:
+  20181026
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredients: WATER,GLYCERIN,BUTYLENE GLYCOL,SNAIL SECRETION FILTRATE,PEG-60 HYDROGENATED CASTOR OIL,ETHYLHEXYLGLYCERIN,CARBOMER,TRIETHANOLAMINE,PROPYLENE GLYCOL,SODIUM HYALURONATE, ALLANTOIN,BETAINE,PHENOXYETHANOL,MYROTHAMNUS FLABELLIFOLIA CALLUS CULTURE EXTRACT,XANTHAN GUM,DISODIUM EDTA,FRAGRANCE,LAVANDULA ANGUSTIFOLIA (LAVENDER) EXTRACT,PORTULACA OLERACEA EXTRACT,ALOE BARBADENSIS LEAF EXTRACT,CUCUMIS SATIVUS (CUCUMBER) FRUIT EXTRACT,HYDROLYZED COLLAGEN
+purpose:
+  PURPOSE Purpose: Skin Protectant
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS Warnings: For external use only. Avoid contact with eyes and mouth. Discontinue use if signs of irritation or rashes appear. Keep out of reach of children. Replace the cap after use.
+spl_product_data_elements:
+  SNAIL SOLU TION MASK SHEET WITCH HAZEL WITCH HAZEL WITCH HAZEL WATER GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION Dosage & administration: 1. After applying toner, pull out mask sheet from package and unfold. 2. Apply the mask sheet onto the face from the lower (chin) part of the mask and move upward towards the forehead. 3. Remove mask sheet after 20 minutes. 4. Gently pat any remaining formula into skin. *Use 2-3 times a week for the best result.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of pouch
+indications_and_usage:
+  INDICATIONS & USAGE Indications & usage: The Snail Solution Mask Sheet makes skin look healthy and luminous.
+set_id:
+  be8ed738-c395-4ec0-b40d-96b15f23a692
+id:
+  6d4b2446-2bea-4e45-92bc-4b0626dacba3
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredient: HAMAMELIS VIRGINIANA (WITCH HAZEL) EXTRACT 0.1%

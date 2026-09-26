@@ -1,0 +1,27 @@
+effective_time:
+  20200401
+inactive_ingredient:
+  Other Ingredients Acacia, Castor Oil, Glycerin, and White Petrolatum.
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  Keep this and all medicines out of children's reach.
+warnings:
+  Warnings For external use only. If condition worsens or does not improve within 7 days, consult a doctor. Avoid contact with eyes. Keep this and all medicines out of children's reach.
+spl_product_data_elements:
+  MEDI-PAK Zinc Oxide, Calamine ACACIA CASTOR OIL GLYCERIN PETROLATUM ZINC OXIDE ZINC CATION FERRIC OXIDE RED FERRIC OXIDE RED
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Begin bandaging at base of toes, without pressure, keeping foot and leg at right angle. Continue bandaging beyond ankle, doubling back to ensure molding to contours of leg (STEP 1). Complete bandaging to just below the knee (STEP 2). Apply an elastic adhesive bandage (STEP 3).
+package_label_principal_display_panel:
+  Principal Display Panel NDC 68599-6110-3 McKESSON NDC 68599-6110-4 McKESSON McKesson Medi-pak 3 inch with Calamine Label McKesson Medi-pak 4 inch with Calamine Label
+indications_and_usage:
+  Uses Dries the oozing and weeping of poison ivy, poison oak, or poison sumac. Ideal for the managing extremities (e.g. varicose ulcers) requiring protection and support.
+set_id:
+  b157bcd1-743c-4405-89cf-5aed54fdd83f
+id:
+  a240e93b-8ad4-b5f1-e053-2995a90a5c3b
+active_ingredient:
+  Active Ingredients Zinc Oxide 25% Calamine 1%

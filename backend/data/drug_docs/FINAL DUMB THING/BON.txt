@@ -1,0 +1,27 @@
+effective_time:
+  20190417
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: DL-Malic acid, DL-Camphor, Glyceryl Monostearate, Glycyrrhizinic acid, Sodium Lauroyl Sarcosinate, Mannitol, Menthol, peppermint oil, Sodium Saccharin dihydrate, Magnesium stearate, Xylitol, Tricalcium phosphate, Calcium Carbonate, Colloid Silica, Sodium bicarbonate, PEG-150, Enzymatically Modified Stevia, Hydroxypropylmethylcellulose
+purpose:
+  PURPOSE Purpose: Anticaries & Anticavity
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of the reach of children under 6 years.
+warnings:
+  WARNINGS Warnings: - Keep in a cool and dry place. - Do not swallow. - The fluorine content is 583.21ppm. (Total content should be less than 1,000ppm) - If a child under 6 years of age swallowed large quantities, consult a physician or dentist immediately. - Keep out of the reach of children under 6 years.
+spl_product_data_elements:
+  BON SCENT Sparkling Tooth Wash Sodium Fluoride Sodium Fluoride FLUORIDE ION Mannitol Menthol
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Directions: - Put 1 tablet into your mouth and wash your gums, teeth, and tongue using your tongue and lips. -Lastly rinse several times with water.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of pouch
+indications_and_usage:
+  Uses Uses: Helps protect against cavities
+set_id:
+  a8a409c7-a3c2-49c0-91df-052f2a7a08b3
+id:
+  d95e5a00-3461-47a5-ab94-ae8f33864e65
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Sodium Fluoride 1.1%

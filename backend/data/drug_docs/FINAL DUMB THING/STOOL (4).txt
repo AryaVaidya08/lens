@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  STOOL SOFTENER docusate sodium PROPYLENE GLYCOL WATER DOCUSATE SODIUM DOCUSATE POLYETHYLENE GLYCOL 400 SORBITOL D&C YELLOW NO. 10 FD&C RED NO. 40 GLYCERIN MANNITOL GELATIN FD&C YELLOW NO. 6 A92
+active_ingredient:
+  Docusate Sodium 100 mg
+ask_doctor:
+  
+purpose:
+  Stool Softener Laxative
+when_using:
+  relieves occasional constipation (irregularity) generally produces bowel movement in 12 to 72 hours
+  • adults and children 12 years and older: take 1-2 softgel daily until first bowel movement; 1 softgel daily thereafter, or as directed by doctor • children under 12: consult a doctor • do not exceed recommended dose
+warnings:
+  Ask a doctor before use if you • have stomach pain, nausea or vomiting • have a sudden change in bowel habits that persists over a period of 2 weeks • are presently taking mineral oil Stop use and ask a doctor if • you need to use a laxative longer than 1 week • you have rectal bleeding or fail to have a bowel movement. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+other_safety_information:
+  • each softgel contains: sodium 5 mg. very low sodium • store at 15°C-25°C(59° F-77° F) • keep tightly closed • product from USA or Canada • Tamper Evident: Do not use if imprinted seal under cap is missing or broken.
+inactive_ingredient:
+  FD&C red #40, gelatin, glycerin, edible ink, PEG, propylene glycol, sorbitol special, water. Also contains D&C yellow #10 or FD&C yellow #6 (sunset yellow).
+dosage_and_administration:
+  
+keep_out_of_reach_of_children:
+  
+indications_and_usage:
+  
+package_label_principal_display_panel:
+  195
+set_id:
+  bec3450e-73fe-d223-e053-2a95a90afc00
+id:
+  074a1fcf-ad00-9e02-e063-6394a90ad9e3
+effective_time:
+  20231009
+version:
+  3
+openfda:

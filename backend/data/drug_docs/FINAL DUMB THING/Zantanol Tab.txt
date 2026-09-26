@@ -1,0 +1,27 @@
+effective_time:
+  20170228
+inactive_ingredient:
+  Inactive Ingredients Ranitidine Hydrochloride, Magnesium Aluminosilicate, Low Substituted Hydroxypropylcellulose, Crospovidone, Hydroxypropylcellulose, Magnesium Stearate, Opadry white 80W68912, Purified Water
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children • In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+warnings:
+  Warnings For oral use only Use only the recommended dosage Do not use if you have • hemodyscrasia • kidney, liver, bowel, stomach, and duodenum disease • immunological disorder (asthma,rheumatism) • previously experienced sensitivity to this medication • dialysis Do not use if the user under 15 and over 80 years old. When using this product • do not take other stomach medicine. • do not take alcohol Ask a doctor, dentist, or pharmacist before use if the user • take other medication • take medical treatment • have allergic reaction for drug • are over 65 years old • have sore throat, cough, or fever • are having continuously stomachaches • have kidney disease If pregnant or breast-feeding, ask a health professional before use. Store at cool temperature and dry place with a closed container. Avoid direct sunlight. - Store in a container other than its original container is equivalent to misuse. In order to prevent the reduction of drug efficacy, keep the product in its original container for storage.
+spl_product_data_elements:
+  Zantanol Tab. MAGNESIUM OXIDE, Magnesium Aluminum Hydrate MAGNESIUM OXIDE MAGNESIUM CATION MAGALDRATE MAGALDRATE ANHYDROUS ALMASILATE RANITIDINE HYDROCHLORIDE LOW-SUBSTITUTED HYDROXYPROPYL CELLULOSE (8% HYDROXYPROPYL: 140000 MW) CROSPOVIDONE, UNSPECIFIED HYDROXYPROPYL CELLULOSE, UNSPECIFIED MAGNESIUM STEARATE water
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions • do not take more than the recommended dose • adults (over 15 and under 80 years old): take 2 tablets per session. After 5 hours if symptoms last 0.5-1g per session, 1-3 times per day, before meal. Do not take over 4 tablets a day.
+package_label_principal_display_panel:
+  Zantanol Tab. zantanol
+indications_and_usage:
+  Uses Helps relieve symptoms associated with indigestion: pain in the upper abdomen, heartburn, indigestion, nausea.
+set_id:
+  9b3092fa-86e6-469d-8f73-0626e4c12a28
+id:
+  bcdeaf1a-6dcd-4ebe-b50a-b4bc91aa418f
+active_ingredient:
+  Active Ingredients Magnesium Aluminum Hydrate 100mg Magnesium Oxide 50mg

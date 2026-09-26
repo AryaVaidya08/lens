@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  BM BM10 DROPS Acid Phos, Lycopodium, Nat Sulph, Opuntia vulg, Syzygium jambol, Taraxacum, Uva Ursi TARAXACUM OFFICINALE TARAXACUM OFFICINALE LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE SODIUM SULFATE SODIUM CATION ARCTOSTAPHYLOS UVA-URSI LEAF ARCTOSTAPHYLOS UVA-URSI LEAF SYZYGIUM CUMINI SEED SYZYGIUM CUMINI SEED PHOSPHORIC ACID PHOSPHORIC ACID ALCOHOL OPUNTIA FICUS-INDICA WHOLE OPUNTIA FICUS-INDICA WHOLE TRANSPARENT TASTELESS
+active_ingredient:
+  Acid Phos 12X, Lycopodium 4X, Nat Sulph 7X, Opuntia Vulg 4X, Syzygium Jambol 8X, Taraxacum 8X, Uva Ursi 8X
+indications_and_usage:
+  Uses* Helps temporarily relieve: fatigue, weakness, frequent urination, increased thirst, and urinary discomfort.
+purpose:
+  Acid Phos 12X (HPUS)......fatigue, weakness, low energy Lycopodium 4X (HPUS)......blood sugar imbalance, digestive support Nat Sulph 7X (HPUS)......toxicity, sluggish metabolism Opuntia vulg 4X (HPUS)......glucose irregularities, metabolic support Syzygium jambol 8X (HPUS)......blood sugar imbalance, pancreatic support Taraxacum 8X (HPUS)......detox support, liver support Uva Ursi 8X (HPUS)......urinary discomfort, kidney support "HPUS" is the Homeopathic Pharmacopoeia of the United States.
+dosage_and_administration:
+  Use as directed. Mix with half a cup of water and drink immediately. Repeat this process 3-4 times daily. Ages 12 and older: 10 drops. Ages 3 to 11: 5 drops. Ages under 3: consult your doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If pregnant or breastfeeding, ask a health professional before use. Stop use and ask a doctor if symptoms persist or worsen. If you have severe symptoms, consult a doctor before use.
+warnings:
+  Keep out of reach of children. If pregnant or breastfeeding, ask a health professional before use. Stop use and ask a doctor if symptoms persist or worsen. If you have severe symptoms, consult a doctor before use.
+inactive_ingredient:
+  Alcohol
+health_claim:
+  *Claims based on Traditional Homeopathic Practice, Not Accepted Medical Evidence, Not FDA Evaluated.
+package_label_principal_display_panel:
+  bm10 bm10 bm10
+set_id:
+  540fdc6a-eda2-0daf-e063-6294a90a9452
+id:
+  540fe007-bbd2-f844-e063-6394a90a3afa
+effective_time:
+  20260612
+version:
+  1
+openfda:
+  brand_name:
+    BM BM10 DROPS
+  generic_name:
+    ACID PHOS, LYCOPODIUM, NAT SULPH, OPUNTIA VULG, SYZYGIUM JAMBOL, TARAXACUM, UVA URSI
+  manufacturer_name:
+    Total Operations Management LLC DBA:Bestmade Natural Products Micro
+  product_ndc:
+    82969-2310
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TARAXACUM OFFICINALE
+    LYCOPODIUM CLAVATUM SPORE
+    SODIUM SULFATE
+    ARCTOSTAPHYLOS UVA-URSI LEAF
+    SYZYGIUM CUMINI SEED
+    PHOSPHORIC ACID
+    OPUNTIA FICUS-INDICA WHOLE
+  spl_id:
+    540fe007-bbd2-f844-e063-6394a90a3afa
+  spl_set_id:
+    540fdc6a-eda2-0daf-e063-6294a90a9452
+  package_ndc:
+    82969-2310-1
+  original_packager_product_ndc:
+    85816-2010
+  unii:
+    39981FM375
+    C88X29Y479
+    0YPR65R21J
+    3M5V3D1X36
+    820LSF646I
+    E4GA8884NN
+    23Z87HTQ6P

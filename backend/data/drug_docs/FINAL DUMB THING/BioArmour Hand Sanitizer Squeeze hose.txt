@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  BioArmour Hand Sanitizer Squeeze hose ALCOHOL TROLAMINE PROPYLENE GLYCOL GLYCERIN WATER ALCOHOL ALCOHOL ALOE VERA LEAF ALPHA-TOCOPHEROL ACETATE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Use(s) For handwashing to decrease bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings Warnings For external use only. Flammable, keep away from heat and flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product Briskly rub hands together until dry Supervise children under 6 years in the use of this product
+storage_and_handling:
+  Other information Store at 20 o C to 25 o C (68 o to 77 o F) May discolor certain fabrics
+inactive_ingredient:
+  Inactive ingredients Water (aqua), Triethanolamine, Carbomer, Propylene Glycol, Glycerin, Aloe Barbadensis Extract, Tocopheryl Acetate
+package_label_principal_display_panel:
+  Label
+set_id:
+  a564a4ba-20a4-53d3-e053-2995a90a9beb
+id:
+  a5649a1c-4c8a-c071-e053-2995a90a4e9b
+effective_time:
+  20200511
+version:
+  1
+openfda:

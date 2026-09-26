@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER
+active_ingredient:
+  Active Ingredient Ethanol 80% v/v. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial, Hand Sanitizer
+indications_and_usage:
+  Uses Uses Hand sanitizer to help reduce bacteria on the skin that could cause disease. Recommended for repeated use.
+warnings:
+  Warnings Warnings Flammable. Keep away from fire, flame or any heat source.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Place enough product in your palm to thoroughly cover your hands. Rub hands together briskly until dry.
+storage_and_handling:
+  Other Information Store below 21C (70F); Flash point 25C (77F) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water, Glycerol, Hydrogen Peroxide.
+package_label_principal_display_panel:
+  Satori Hand Sanitizer NDC: 76533-012 NDC: 76533-012
+set_id:
+  d6bdbdce-1dd5-98af-e053-2995a90ab177
+id:
+  d6bdbdce-1dd6-98af-e053-2995a90ab177
+effective_time:
+  20220129
+version:
+  1
+openfda:

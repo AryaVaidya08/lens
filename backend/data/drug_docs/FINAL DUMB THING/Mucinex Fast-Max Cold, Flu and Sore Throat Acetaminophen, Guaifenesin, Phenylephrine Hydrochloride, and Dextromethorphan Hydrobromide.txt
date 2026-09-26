@@ -1,0 +1,50 @@
+spl_product_data_elements:
+  Mucinex Fast-Max Cold, Flu and Sore Throat Acetaminophen, Guaifenesin, Phenylephrine Hydrochloride, and Dextromethorphan Hydrobromide STARCH, CORN CROSPOVIDONE FD&C RED NO. 40 ALUMINUM OXIDE FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED SILICON DIOXIDE STEARIC ACID TALC TITANIUM DIOXIDE SODIUM STARCH GLYCOLATE TYPE A POTATO ACETAMINOPHEN ACETAMINOPHEN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DCH
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: RB Health (US), Parsippany, NJ 07054-0224
+active_ingredient:
+  Active ingredients (in each caplet) Purposes Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant
+active_ingredient_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each caplet)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td><content styleCode="bold">Acetaminophen 325 mg</content></td><td><content styleCode="bold">Pain reliever/fever reducer</content></td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 200 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each caplet) Purposes Acetaminophen 325 mg Pain reliever/fever reducer Dextromethorphan HBr 10 mg Cough suppressant Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant
+purpose_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each caplet)</content></th><th><content styleCode="italics">Purposes</content></th></tr></thead><tbody><tr><td><content styleCode="bold">Acetaminophen 325 mg</content></td><td><content styleCode="bold">Pain reliever/fever reducer</content></td></tr><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough suppressant</td></tr><tr><td>Guaifenesin 200 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves these common cold and flu symptoms: nasal congestion cough minor aches and pains sore throat headache temporarily reduces fever helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take: more than 12 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product Allergy alert Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease diabetes high blood pressure thyroid disease trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product do not use more than directed
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not take more than directed (see Overdose warning ) do not take more than 12 caplets in any 24-hour period adults and children 12 years of age and older: take 2 caplets every 4 hours children under 12 years of age: do not use
+storage_and_handling:
+  Other information store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients corn starch, crospovidone, FD&C red no. 40 aluminum lake, FD&C yellow no. 6 aluminum lake, magnesium stearate, maltodextrin, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, silicon dioxide, sodium starch glycolate, stearic acid, talc, titanium dioxide
+questions:
+  Questions? 1-866-MUCINEX (1-866-682-4639) You may also report side effects to this phone number.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 20 Caplet Blister Pack Carton MAXIMUM STRENGTH NDC 63824-517-01 Mucinex® FAST-MAX ® COLD, FLU & SORE THROAT Acetaminophen – Pain Reliever/Fever Reducer Dextromethorphan HBr – Cough Suppressant Guaifenesin – Expectorant Phenylephrine HCl – Nasal Decongestant Relieves Headache, Fever & Sore Throat Controls Cough Relieves Nasal & Chest Congestion Thins & Loosens Mucus 20 CAPLETS FOR AGES 12+ Principal Display Panel - 20 Caplet Blister Pack Carton
+set_id:
+  492b48ce-2d03-45b4-9af6-c3dd315b74f8
+id:
+  06c28dcc-bea8-ebdd-e063-6394a90a6c91
+effective_time:
+  20231002
+version:
+  4
+openfda:

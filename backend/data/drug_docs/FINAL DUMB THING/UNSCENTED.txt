@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  UNSCENTED HAND SANITIZER SUNMARK ALCOHOL GLYCERIN ALOE VERA LEAF WATER .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on the skin that could cause disease.
+warnings:
+  Warnings For external use only. .
+warnings_and_cautions:
+  Flammable. Keep away from heat or flame. Do not use while smoking
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water to remove. do not puncture or incinerate. Contents under pressure. Do not store at temperatufes above 120ºF.
+stop_use:
+  Stop use and ask a doctor if rash or irritation occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions spray enough product in palm to thoroughly cover your hands rub hands together briskly until dry children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information may discolor or damage some fabrics/materials or surfaces. Avoid freezing and excessive heat above 40ºC (104ºF).
+inactive_ingredient:
+  Inactive ingredients water, glycerin, aloe barbadensis leaf juice, tocopheryl acetate
+package_label_principal_display_panel:
+  MK95385D
+set_id:
+  aa53aa1f-53b1-8ded-e053-2a95a90afde0
+id:
+  f160e707-3209-22f9-e053-2995a90ac056
+effective_time:
+  20230103
+version:
+  3
+openfda:

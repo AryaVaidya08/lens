@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  ALLERGY MIX Phoenix Local Remedy Phoenix ALTERNARIA ALTERNATA ALTERNARIA ALTERNATA PASSALORA FULVA PASSALORA FULVA OLEA EUROPAEA FLOWER OLEA EUROPAEA FLOWER WHITE MULBERRY WHITE MULBERRY JUNIPERUS ASHEI POLLEN JUNIPERUS ASHEI POLLEN NERIUM OLEANDER FLOWER NERIUM OLEANDER FLOWER JUNIPERUS SCOPULORUM POLLEN JUNIPERUS SCOPULORUM POLLEN USTILAGO MAYDIS USTILAGO MAYDIS CYNODON DACTYLON CYNODON DACTYLON AMBROSIA ARTEMISIIFOLIA AMBROSIA ARTEMISIIFOLIA ALCOHOL WATER
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active Ingredients Alternaria Tenuis 6X, Cladosporium Fulvum 6X, European Olive 6X, Fruitless Mulberry 6X, Mountain Cedar 6X, Oleander 6X, Rocky Mountain Juniper 6X, Ustilago Smut 6X, Bermuda Grass 12X, Ragweed 12X
+purpose:
+  Purpose Allergy symptom relief
+indications_and_usage:
+  Uses: Allergy symptom relief For temporary relief of symptoms due to hay fever or other respiratory allergies. Runny nose, sneezing, irritated eyes, nasal congestion, itchy nose and throat, sinus pain.
+warnings:
+  Warnings Children under 12 years of age: consult a physician. If pregnant or breastfeeding, ask a health care professional before use. If symptoms persist or worsen consult a physician.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+dosage_and_administration:
+  Directions Adults & children 12 years of age and older: 10-15 drops under tongue, up to 6 times daily, or as directed by a health care professional. Avoid food and fluids 15 minutes before and after each use.
+inactive_ingredient:
+  Inactive Ingredients 20% USP Ethanol, USP Purified Water.
+package_label_principal_display_panel:
+  Principal Display Package ALLERGY MIX™ – LOCAL REMEDY – Phoenix ALLERGY RELIEF RUNNY NOSE, SNEEZING, IRRITATED EYES, SINUS CONGESTION & MORE NO SIDE EFFECTS HOMEOPATHIC MEDICINE NET WT. 1 FL. OZ. (29.6 ML) NDC# 72617-2002-1 Manufactured for: American Standard Nutraceuticals Las Vegas, Nevada 89120, allergymix.com 800-959-3796 1 81163 00007 3 LOT # XXXX res PHX AlrgyMix Liquid 2002-1
+set_id:
+  ea1f1aba-5b56-42d3-bb2b-7480c066b421
+id:
+  2256b1c1-db67-4e6d-a0ea-eef68a036d8c
+effective_time:
+  20190128
+version:
+  1
+openfda:

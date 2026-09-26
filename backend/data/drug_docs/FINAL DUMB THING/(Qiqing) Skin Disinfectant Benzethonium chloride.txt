@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  (Qiqing) Skin Disinfectant Benzethonium chloride WATER BENZETHONIUM CHLORIDE BENZETHONIUM ALLANTOIN
+active_ingredient:
+  Benzethonium Chloride 1.80g / L ± 10%
+purpose:
+  Antibacterial
+warnings:
+  1. This product is an external disinfectant.Prohibition of oral administration. Keep it out of reach of children. 2. Avoid contact with organics and antagonists. Do not use with soap or other anionic detergents, nor use with iodine or peroxides (such as potassium permanganate, hydrogen peroxide, sulfa powder, etc.).
+when_using:
+  Avoid contact with organics and antagonists. Do not use with soap or other anionic detergents, nor use with iodine or peroxides (such as potassium permanganate, hydrogen peroxide, sulfa powder, etc.).
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+inactive_ingredient:
+  Allantoin, Water
+dosage_and_administration:
+  Topical Liquid
+indications_and_usage:
+  For handwashing to decrease bacteria on the skin
+package_label_principal_display_panel:
+  label content
+set_id:
+  a894146e-e484-9dd8-e053-2995a90a1169
+id:
+  a894146e-e485-9dd8-e053-2995a90a1169
+effective_time:
+  20200621
+version:
+  1
+openfda:

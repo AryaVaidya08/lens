@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  NATRUM MURIATICUM SODIUM CHLORIDE SODIUM STARCH GLYCOLATE TYPE A CORN MAGNESIUM STEARATE LACTOSE SODIUM CHLORIDE CHLORIDE ION None
+active_ingredient:
+  ACTIVE INGREDIENTS Active ingredient (HPUS): Natrum muriaticum 6X The letters “HPUS” indicate that the component in this product is officially monographed in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  USES Sneezing Chilliness
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN As with all medications, keep out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: Relief of symptoms of sneezing, chilliness, loss of smell and taste.* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms worsen or persist for more than 7 days, or if pregnant or nursing, consult a licensed practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 2-4 tablets under the tongue 3 times a day. Children: Half the adult dose. Repeat at greater intervals as condition subsides, or as directed by a licensed practitioner.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Lactose, Magnesium Stearate, Sodium Starch Glycolate
+do_not_use:
+  DO NOT USE Do not use if seal is broken.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NATRUM MURIATICUM 6X Box Label
+set_id:
+  6dcb5df6-50fd-5eee-e053-2a91aa0a60ad
+id:
+  db0c1c84-c695-b19b-e053-2a95a90ab35b
+effective_time:
+  20220325
+version:
+  2
+openfda:

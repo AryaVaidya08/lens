@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Acne Roll On Calendula COCONUT OIL LAVENDER OIL CEDRUS ATLANTICA BARK OIL JUNIPER BERRY OIL JUNIPER BERRY OIL
+purpose:
+  Purpose Astringent
+active_ingredient:
+  Active Ingredients Organic Juniperus Communis (Juniper) Fruit Oil
+indications_and_usage:
+  Indications & Dosage ■ temporarily protects and helps relieve minor skin irritation and itching due to ■ acne ■ rashes ■ raw skin caused by soaps, detergents, cosmetics, or jewelry
+warnings:
+  Warnings Warnings For external use only. ■ Do not use on ■ deep wounds ■ animal bites ■ serious burns ■ Stop use and ask a doctor if ■ condition worsens ■ symptoms last more than 7 days or clear up and occur again within a few days ■ When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children Keep out of Reach of Children.
+dosage_and_administration:
+  Dosage & Administration Roll on a small amount as needed on affected area.
+storage_and_handling:
+  Storage Store at Room Temperature.
+inactive_ingredient:
+  Inactive Ingredients Organic Capric/Caprylic Triglyceride Fractionated (Coconut) Oil, Lavandula Angustifolia (Lavender) Oil, Cedrus Atlantic (Cedarwood) Oil.
+questions:
+  Questions 1-888-613-4972 info@greengoohelps.com ■ www.greengoo.com
+package_label_principal_display_panel:
+  Principal Display Panel Acne Roll On
+set_id:
+  dbd6f2df-5eb3-28e6-e053-2995a90aff0a
+id:
+  4604ca9e-7243-adfd-e063-6394a90afa65
+effective_time:
+  20251215
+version:
+  5
+openfda:
+  brand_name:
+    Acne Roll On
+  generic_name:
+    CALENDULA
+  manufacturer_name:
+    Spry Life LLC
+  product_ndc:
+    70994-310
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    JUNIPER BERRY OIL
+  spl_id:
+    4604ca9e-7243-adfd-e063-6394a90afa65
+  spl_set_id:
+    dbd6f2df-5eb3-28e6-e053-2995a90aff0a
+  package_ndc:
+    70994-310-17
+  is_original_packager:
+    True
+  unii:
+    SZH16H44UY

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Isopropyl Alcohol 70% 4x4 ISOPROPYL ALCOHOL WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information store in a cool, dry place
+active_ingredient:
+  Active ingredient Isopropyl alcohol 7.% Purpose Patient Preoperative Skin Preparation First Aid Antiseptic
+purpose:
+  Purpose Patient Preoperative Skin Preparation First Aid Antiseptic
+indications_and_usage:
+  Uses for preparation of the skin prior to an injection first aid to help decrease the risk of bacterial contamination in minor cuts, scrapes
+warnings:
+  Warnings Flammable, keep away from fire or flame For external use only Do not use with electrocautery procedures in the eyes or apply over large areas of the body longer than 1 week unless directed by a doctor Ask a doctor before use if you have deep or puncture wounds animal bites serious burns Stop use and ask a doctor if irritation and redness develop the condition persists for more than 72 hours the condition gets worse Keep our of reach of children. If swallowed, get medical help o r contact a Poison Control Centre right away
+do_not_use:
+  Do not use with electrocautery procedures in the eyes or apply over large areas of the body longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop the condition persists for more than 72 hours the condition gets worse
+keep_out_of_reach_of_children:
+  Keep our of reach of children. If swallowed, get medical help o r contact a Poison Control Centre right away
+dosage_and_administration:
+  Directions Patient Preoperative Skin Preparation Clean the area Dry and repeat procedure First Aid Antiseptic Clean the affected area Apply a small amount of this product on the area 1 to 3 times daily Maybe covered, let dry first
+inactive_ingredient:
+  Inactive ingredient water
+package_label_principal_display_panel:
+  Package Labeling: Label2 Box2
+set_id:
+  1bb79400-3357-4cf3-b30c-0d1009709112
+id:
+  cea3d3f2-ac70-7cab-e053-2995a90a3bef
+effective_time:
+  20211018
+version:
+  3
+openfda:

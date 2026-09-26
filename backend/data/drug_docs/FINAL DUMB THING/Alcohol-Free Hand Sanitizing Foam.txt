@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Alcohol-Free Hand Sanitizing Foam BENZALKONIUM CHLORIDE WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses For hand sanitizing to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inactive ingredients Water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, glycereth-17 cocoate, citric acid and fragrance.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 2 Ounce Bottle Label UNITED LABORATORIES United 764 MICROMOUSSE Alcohol-Free Hand Sanitizing Foam 2 FLUID OUNCES Eliminates 99.99% of common disease-causing germs. Made in USA 1018 UNITED LABORATORIES, INC. 320 37th Avenue • St. Charles, IL 60174 1-800-323-2594 • www.unitedlabsinc.com PRINCIPAL DISPLAY PANEL - 2 Ounce Bottle Label
+set_id:
+  4f5ddead-1868-45c2-9657-762c9ca3a0e2
+id:
+  27c4d6fe-7567-073f-e063-6394a90afe9f
+effective_time:
+  20241125
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Alcohol-Free Hand Sanitizing Foam
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    United Laboratories Inc.
+  product_ndc:
+    63998-764
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1038799
+  spl_id:
+    27c4d6fe-7567-073f-e063-6394a90afe9f
+  spl_set_id:
+    4f5ddead-1868-45c2-9657-762c9ca3a0e2
+  package_ndc:
+    63998-764-01
+    63998-764-02
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

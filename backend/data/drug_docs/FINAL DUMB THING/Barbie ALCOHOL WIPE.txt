@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  Barbie ALCOHOL WIPE Isopropyl Alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+spl_unclassified_section:
+  Drug Facts
+  © 2025 Mattel.
+active_ingredient:
+  Active ingredient Isopropyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses • To help prevent skin infection in open wounds
+warnings:
+  Warnings For external use only Flammable keep away from fire or flame, heat, spark, electrical Do not use in the eyes or on irritated skin. Ask a doctor before use if you have deep or puncture wounds or serious burns. Stop use and ask a doctor if irritation or redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Clean the affected area
+inactive_ingredient:
+  Inactive ingredients Purified Water
+package_label_principal_display_panel:
+  Packaging Alcohol Wipe
+set_id:
+  a4a6beb0-5781-4d74-9120-7ca64e035c23
+id:
+  ed62ea63-3162-4983-ace1-238afe943c64
+effective_time:
+  20241108
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Barbie ALCOHOL WIPE
+  generic_name:
+    ISOPROPYL ALCOHOL
+  manufacturer_name:
+    Ashtel Studios, Inc.
+  product_ndc:
+    70108-106
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ISOPROPYL ALCOHOL
+  rxcui:
+    797544
+  spl_id:
+    ed62ea63-3162-4983-ace1-238afe943c64
+  spl_set_id:
+    a4a6beb0-5781-4d74-9120-7ca64e035c23
+  package_ndc:
+    70108-106-01
+  is_original_packager:
+    True
+  unii:
+    ND2M416302

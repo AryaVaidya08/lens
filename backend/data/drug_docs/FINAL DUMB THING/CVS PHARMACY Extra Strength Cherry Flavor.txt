@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  CVS PHARMACY Extra Strength Cherry Flavor aluminum hydroxide and magnesium carbonate ALGINIC ACID CALCIUM STEARATE CORN SYRUP SODIUM BICARBONATE STARCH, CORN SUCROSE ALUMINUM HYDROXIDE ALUMINUM HYDROXIDE MAGNESIUM CARBONATE CARBONATE ION RP105
+active_ingredient:
+  Active ingredients (in each tablet) Aluminum hydroxide 160 mg Magnesium carbonate 105 mg
+purpose:
+  Purpose Antacid Antacid
+indications_and_usage:
+  Uses relieves • acid indigestion • heartburn • sour stomach • upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are • taking a prescription drug. Antacids may interact with certain prescription drugs • If you are on a sodium-restricted diet When using this product • do not take more than 16 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.1-800-222-1222
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • taking a prescription drug. Antacids may interact with certain prescription drugs • If you are on a sodium-restricted diet
+when_using:
+  When using this product • do not take more than 16 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.1-800-222-1222
+dosage_and_administration:
+  Directions • chew 2 to 4 tablets four times a day or as directed by a doctor • take after meals and at bedtime or as needed • for best results follow by a half glass of water or other liquid • DO NOT SWALLOW WHOLE
+spl_unclassified_section:
+  Other information • each tablet contains: sodium 19 mg, magnesium 31 mg • Store at room temperature
+inactive_ingredient:
+  Inactive ingredients alginic acid, calcium stearate, compressible sugar, flavor, sodium bicarbonate, starch (corn), sucrose.
+questions:
+  Questions or comments? 1-866-467-2748
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredients in Gaviscon® Extra Strength Antacid* NDC 51316--155-00 Extra Strength Antacid Tablets Aluminum hydroxide Magnesium carbonate • Fast-Acting heartburn relief • Helps keep acid down for hours Cherry Flavor 100 CHEWABLE TABLETS DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING Distributed by: WARNING: Consuming this product can expose you to chemicals including lead, which is known to the State of California to cause birth defects and other reproductive harm. For more information, go to www.P65Warnings.ca.gov. *This product is not manufactured or distributed by GlaxoSmithKline, the distributor of Gaviscon® Extra Strength Antacid.. . CVS Health Extra Strength Antacid Cherry Flavor 100 Chewable Tablets
+set_id:
+  cf7ae053-fa8d-4e6e-af4f-b846699aaf24
+id:
+  7b09bd0a-af28-4e72-bebe-29e69d721a0b
+effective_time:
+  20260813
+version:
+  4
+openfda:
+  application_number:
+    M001
+  brand_name:
+    CVS PHARMACY Extra Strength Cherry Flavor
+  generic_name:
+    ALUMINUM HYDROXIDE AND MAGNESIUM CARBONATE
+  manufacturer_name:
+    CVS Pharmacy,Inc.
+  product_ndc:
+    51316-155
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ALUMINUM HYDROXIDE
+    MAGNESIUM CARBONATE
+  rxcui:
+    308072
+  spl_id:
+    7b09bd0a-af28-4e72-bebe-29e69d721a0b
+  spl_set_id:
+    cf7ae053-fa8d-4e6e-af4f-b846699aaf24
+  package_ndc:
+    51316-155-00
+  is_original_packager:
+    True
+  upc:
+    0050428538166
+  unii:
+    5QB0T2IUN0
+    0E53J927NA

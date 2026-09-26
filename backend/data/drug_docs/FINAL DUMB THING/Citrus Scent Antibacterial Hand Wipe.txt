@@ -1,0 +1,30 @@
+effective_time:
+  20091124
+inactive_ingredient:
+  Inactive Ingredients: Water, Glycerin, Lauryl Glucoside, DMDM, Hydantoin, Aloe Barbadensis Leaf Extract, Disodium EDTA, PEG 12, Dimethicone, Panthenol, Chamomila Recutita (Matricaria) Extract, Lodopropynyl Butlycarbamae, Tocopheryl Acetate (Vitamin E), Allantoin
+purpose:
+  Uses: For hand washing to decrease bacteria on the skin. May be used on face, arms and legs
+warnings:
+  Warnings: For external use only. Keep out of reach of children, except with adult supervision. Keep out of eyes. In case of contact, rinse with water. If irritation or rash develops, discontinue use. Consult doctor if irritation persists for more than 72 hours. If swallowed, seek medical attention or contact a Poison Control Center.
+spl_product_data_elements:
+  Citrus Scent Antibacterial Hand Wipe BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER GLYCERIN ALOE VERA LEAF EDETATE DISODIUM DIMETHICONE PANTHENOL CHAMOMILLA FLOWER IODOPROPYNYL BUTYLCARBAMATE ALPHA-TOCOPHEROL ALLANTOIN
+description:
+  10 wipes wipe size: 7.9 inches x 5.5 inches asi 95838 Made in China
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: Tear pack open. Clean hands or affected area and discard. Re-seal label after each use to keep wipes fresh.
+  Directions: Open resealable label. Pull one sheet from pack. Clean hands or affected area and discard. Re-seal label after each use to keep wipes fresh.
+package_label_principal_display_panel:
+  CITRUSCENT FRESH CLEANING WIPES INSTANT HAND SANITIZER CONTAINS ALOE AND VITAMIN E KILLS 99.9 PERCENT OF ALL COMMON GERMS LOOK FOR OUR HAND SANITIZING PRODUCTS IN STORES NATIONWIDE DISTRIBUTED BY Webb Candy Inc. Rosemount, MN 55068 www.webbcandy.com Made In China 10 ANTIBACTERIAL HAND WIPES
+  HandWipe10Pack
+  Antibacterial Hand Sanitizing Wipes Kills 99.9 percent of germs Antibacterial Wet Wipe Citrus Scent asi: 95838 Made in China
+  HandWipe1Pack
+  HandWipe1PackDrugFacts
+set_id:
+  b4eb0658-63d6-4885-beda-417a62bcf307
+id:
+  926f0d23-a4f5-4d45-a364-e58bf5257b02
+active_ingredient:
+  Active Ingredient Purpose Benzalkonium chloride 0.1 percent Antibacterial

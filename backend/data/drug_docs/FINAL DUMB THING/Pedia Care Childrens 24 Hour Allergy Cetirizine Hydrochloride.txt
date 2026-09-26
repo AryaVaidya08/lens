@@ -1,0 +1,48 @@
+effective_time:
+  20150420
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, seek medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product: drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+questions:
+  Questions? Call 1-888-474-3099 Mon. – Fri. 8 am to 8 pm EST or visit us at www.PediaCare.com
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use.
+storage_and_handling:
+  Other information do not use if carton is opened or if imprinted safety seal is broken or missing store between 20° to 25°C (68° to 77°F) see bottom panel for expiration date
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+set_id:
+  6855116e-ba31-4373-a410-256c38519330
+id:
+  80964f5d-9d76-4536-bcfa-3ca9e9c42c31
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+active_ingredient:
+  Active ingredient (in each 5 mL) Cetirizine HCl 5 mg
+dosage_and_administration_table:
+  <table> <col width="30%"/> <col width="70%"/> <tbody> <tr> <td valign="top" styleCode="     Toprule          Rrule     "> adults and children 6 years and over</td> <td valign="top" styleCode="     Toprule     "> 5 mL or 10 mL once daily depending upon severity of symptoms; do not take more than 10 mL in 24 hours.</td> </tr> <tr> <td valign="top" styleCode="     Rrule     "> adults 65 years and over</td> <td valign="top" styleCode="     Botrule          Toprule     "> 5 mL once daily; do not take more than 5 mL in 24 hours.</td> </tr> <tr> <td valign="top" styleCode="     Rrule     "> children 2 to under 6 years of age</td> <td valign="top" styleCode="     Botrule     "> 2.5 mL once daily. If needed, dose can be increased to a maximum of 5 mL once daily or 2.5 mL every 12 hours. Do not give more than 5 mL in 24 hours.</td> </tr> <tr> <td valign="top" styleCode="     Rrule     "> children under 2 years of age</td> <td valign="top" styleCode="     Botrule     "> ask a doctor</td> </tr> <tr> <td valign="top" styleCode="     Rrule     "> consumers with liver or kidney disease</td> <td valign="top"> ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients artificial grape flavor, glacial acetic acid, glycerin, methylparaben, natural and artificial banana flavor, propylene glycol, propylparaben, purified water, sodium acetate (anhydrous), sucralose
+warnings:
+  Warnings Do not use: if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have: liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product: drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: if breast-feeding: not recommended if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, seek medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  Pedia Care Childrens 24 Hour Allergy Cetirizine Hydrochloride CETIRIZINE HYDROCHLORIDE CETIRIZINE ACETIC ACID GLYCERIN METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER SODIUM ACETATE ANHYDROUS SUCRALOSE colorless to slightly yellow sugar free
+ask_doctor:
+  Ask a doctor before use if you have: liver or kidney disease. Your doctor should determine if you need a different dose.
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions use only with enclosed dosing cup find right dose on chart below mL = milliliter adults and children 6 years and over 5 mL or 10 mL once daily depending upon severity of symptoms; do not take more than 10 mL in 24 hours. adults 65 years and over 5 mL once daily; do not take more than 5 mL in 24 hours. children 2 to under 6 years of age 2.5 mL once daily. If needed, dose can be increased to a maximum of 5 mL once daily or 2.5 mL every 12 hours. Do not give more than 5 mL in 24 hours. children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Distributed by Medtech Products Inc. Tarrytown, NY 10591
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+do_not_use:
+  Do not use: if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 118 mL Bottle Carton AGES 2 years & older Pedia Care ® 100% dedicated to kids™ Children's 24 Hour Allergy CETIRIZINE HYDROCHLORIDE Oral Solution 1 mg/mL Antihistamine Indoor Outdoor ALLERGIES ALL DAY RELIEF OF: Itchy, Watery Eyes Itchy Nose or Throat Sneezing Runny Nose Dye Free Grape Flavor 4 FL OZ (118 mL) Principal Display Panel - 118 mL Bottle Carton

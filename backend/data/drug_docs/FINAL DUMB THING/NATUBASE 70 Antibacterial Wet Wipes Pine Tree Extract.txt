@@ -1,0 +1,33 @@
+effective_time:
+  20210116
+inactive_ingredient:
+  Inactive Ingredients WATER (Purified Water), ALCOHOL (Ethanol), CHAMAECYPARIS OBTUSA WHOLE (Chamaecyparis Obtusa Extract), LAMINARIA JAPONICA (Kelp Extract)
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Caution Keep out of reach of children.
+warnings:
+  Caution Keep in dry cool place, avoiding direct sunlight, heat and flame.
+when_using:
+  Caution Do not use on damaged skin and avoid using on open scars.
+spl_product_data_elements:
+  NATUBASE 70 Antibacterial Wet Wipes Pine Tree Extract ALCOHOL WATER LAMINARIA JAPONICA CHAMAECYPARIS OBTUSA WHOLE PINUS DENSIFLORA WHOLE PINUS DENSIFLORA WHOLE
+ask_doctor:
+  Caution If any irritation develops, stop using and consult a doctor if necessary.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Use Peel front label slowly Pull out wipes as needed
+storage_and_handling:
+  Caution Be careful when handling the packaging edges as they are sharp. There is a risk of deterioration if you put the wipes back inside with contaminated hands. Be sure to keep the sticker or cap closed after use.
+package_label_principal_display_panel:
+  Package Label 390g NDC: 77200-030-60 Label
+indications_and_usage:
+  Use Re-seal label after each use to prevent moisture loss
+set_id:
+  a7892777-f6f6-cb5d-e053-2a95a90a56ea
+id:
+  b9061912-b91c-b4ca-e053-2a95a90a749e
+active_ingredient:
+  Active Ingredient PINUS DENSIFLORA WHOLE (Pine Tree Extract) 0.4%

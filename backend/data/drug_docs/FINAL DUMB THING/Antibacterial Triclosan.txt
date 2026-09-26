@@ -1,0 +1,31 @@
+effective_time:
+  20160506
+inactive_ingredient:
+  Inactive Ingredients - Water (Aqua), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Fragrance (Parfum), Sodium Lauroamphoacetate, Polyquaternium 7, Glycerin, Citric Acid, Aloe Barbadensis Leaf Extract, Tocopheryl (Vitamin E) Acetate, Methylchloroisothiazolinone, Methylisothiazolinone, Yellow 5 (Cl 19140), Red 4 (Cl 14700)
+purpose:
+  Purpose - Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For external use only - hands only
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water
+spl_product_data_elements:
+  Antibacterial Triclosan METHYLISOTHIAZOLINONE FD&C YELLOW NO. 5 FD&C RED NO. 4 METHYLCHLOROISOTHIAZOLINONE TRICLOSAN TRICLOSAN WATER SODIUM LAURETH SULFATE SODIUM CHLORIDE COCAMIDOPROPYL BETAINE SODIUM LAUROAMPHOACETATE POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600 KD) GLYCERIN ANHYDROUS CITRIC ACID ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE, DL-
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops n condition persists for more than 72 hours
+package_label_principal_display_panel:
+  Visibly Clean Antibacterial Hand Soap Refill
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+set_id:
+  3f8e32da-7ccc-605a-e054-00144ff88e88
+id:
+  3f8e32da-7ccd-605a-e054-00144ff88e88
+active_ingredient:
+  Active Ingredient - Triclosan 0.115%

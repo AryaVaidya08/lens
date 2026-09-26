@@ -1,0 +1,37 @@
+effective_time:
+  20100825
+inactive_ingredient:
+  Inactive ingredient: Vegetable glycerin
+purpose:
+  Purpose calmative, pain reliever
+  Purpose pain reliever
+  Purpose pain reliever, anti-itch
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep this and all medicines out of the reach of children.
+warnings:
+  Warnings: - For external use only - A physician should be consulted about earache in children. - Initial exacerbation of symptoms may occur. - Keep this and all medicines out of the reach of children. - If swallowed, get medical help or contact a Poison Control Center right away. Keep out of reach of children Keep this and all medicines out of the reach of children.
+information_for_owners_or_caregivers:
+  Other information: Active ingredients are manufactured according to homeopathic principles and are therefore non-toxic and have no known side effects.
+spl_product_data_elements:
+  Ear Pain Relief Ear Drops Chamomilla and Mercurius solubilis and Sulphur CHAMOMILE CHAMOMILE MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS SULFUR SULFUR GLYCERIN
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions: FOR USE IN THE EAR ONLY For adults and children, including toddlers and infants: - Remove tamper-evident seal from neck of bottle. - Twist cap off bottle. - Tilt head sideways. - Squeeze plastic applicator to release 2-3 drops into ear (applicator should not enter ear canal). - Keep drops in ear by keeping head tilted or placing cotton in ear. - Repeat as needed, use when pain recurs.
+stop_use:
+  Stop use and ask a doctor if: - Symptoms persist for more than 48 hours. - These is discharge from the ear. - There is a fever of 102F or greater.
+do_not_use:
+  Do not use: - If you have ear drainage, discharge, irritation, a rash in the ear, or are dizzy; consult a doctor. - With ear tubes, after ear surgery or with damaged ear drums.
+package_label_principal_display_panel:
+  Principle Display Panel CVS pharmacy Ear Pain Relief Ear Drops Homeopathic 10 ml/ 0.33 fl oz CVS Ear Pain Relief Ear Drops box CVS Ear Pain Relief Ear Drops box
+indications_and_usage:
+  Uses: According to homeopathic principles, the active ingredinets in this medication provide temporary relief from earache (ear pain) in children and adults due to: - Drafts - Colds - Flu - Swimmer's ear
+set_id:
+  a3dde703-c8c8-42fe-ab51-e9bcf4bce1a4
+id:
+  805c7ea8-7448-43ff-9feb-1ce985d469dc
+active_ingredient:
+  Active ingredient Chamomilla 10X
+  Active ingredient Mercurius solubilis 15X
+  Active ingredient Sulphur 12X

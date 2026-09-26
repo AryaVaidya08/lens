@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Surface Cleaner Citric Acid JAMMU LEMONGRASS OIL WATER QUILLAJA SAPONARIA BARK STEARIC ACID CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID
+spl_unclassified_section:
+  Citric Acid Lemon Grass Extract Water Quillaja Saponin (Soap Bark) Stearic Acid
+active_ingredient:
+  Active Ingredient(s) Citric Acid
+purpose:
+  Purpose Surface Cleaner
+indications_and_usage:
+  Use For surface cleaning to decrease bacteria.
+warnings:
+  Warnings DO NOT CONSUME
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+storage_and_handling:
+  Other information Store in a cool, dry area, out of reach of children
+inactive_ingredient:
+  Inactive ingredients Lemon Grass Estract, Water, Soap Bark (Quillaja Saponin), Stearic Acid.
+recent_major_changes:
+  
+description:
+  EPA Excempt Product This Product is excempt from the EPA Registration under minimal risk pesticide exception FIFRA Section 25c
+dosage_and_administration:
+  Directions Apply as needed to cover area targeted for antimicrobial cleansing application.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Package.Label Principal Display Panel Package.Label Principal Display Panel
+set_id:
+  bbedd612-fd22-cb11-e053-2a95a90ab4b2
+id:
+  bbedc7b0-30bd-ce56-e053-2a95a90a5c77
+effective_time:
+  20210222
+version:
+  1
+openfda:

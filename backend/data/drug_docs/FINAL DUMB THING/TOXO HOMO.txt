@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  TOXO HOMO TOXOPLASMA GONDII DNA TOXOPLASMA GONDII DNA TOXOPLASMA GONDII DNA WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Toxoplasma Gondii DNA 15X, 20X, 30X, 60X, 90X, 120X, 150X, 200X, 500X, 1000X.
+purpose:
+  PURPOSE: Toxoplasma Gondii DNA - Body Aches, Headache, Fever, Fatigue
+indications_and_usage:
+  USES: • For the temporary relief of symptoms including: • body aches • headache • fever • fatigue These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, contact a physician or Poison Control Center right away. Tamper Evident: Sealed for your protection. Do not use if seal is broken or missing.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, contact a physician or Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 25% ethanol
+questions:
+  QUESTIONS: Dist. By: Deseret Biologicals, Inc. 469 W. Parkland Drive Sandy, UT 84070 www.desbio.com 800-827-8204
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: Des Bio TOXO:HOMO Homeopathic NDC 43742-2002-1 1 FL OZ (30 ml) TOXO:HOMO
+set_id:
+  149b421a-51f0-409b-8913-c367256488fa
+id:
+  639b723a-bdad-4e0e-9c2e-f1182f4e927c
+effective_time:
+  20240429
+version:
+  3
+openfda:
+  brand_name:
+    TOXO HOMO
+  generic_name:
+    TOXOPLASMA GONDII DNA
+  manufacturer_name:
+    Deseret Biologicals, Inc.
+  product_ndc:
+    43742-2002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TOXOPLASMA GONDII DNA
+  spl_id:
+    639b723a-bdad-4e0e-9c2e-f1182f4e927c
+  spl_set_id:
+    149b421a-51f0-409b-8913-c367256488fa
+  package_ndc:
+    43742-2002-1
+  is_original_packager:
+    True
+  upc:
+    0810151883342
+  unii:
+    JMX3ACIU25

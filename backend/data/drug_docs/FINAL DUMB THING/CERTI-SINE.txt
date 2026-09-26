@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  CERTI-SINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE SILICON DIOXIDE CROSCARMELLOSE SODIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE D&C RED NO. 27 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SHELLAC STARCH, CORN STEARIC ACID TALC 271
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients (each tablet) Phenylephrine HCl 5 mg
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses For the temporary relief of nasal congestion due to a cold, hay fever or other upper respiratory allergies associated with sinusitis. Temporarily relieves stuffy nose, sinus congestion and pressure.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a health professional before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes glaucoma trouble urinating due to an enlarged prostate gland. Stop use and ask a doctor if new symptoms occur symptoms do not improve within 7 days redness or swelling are present you get nervous, dizzy or sleepless. If pregnant or breast-feeding ask a health professional before use. Keep out of the reach of children . In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) immediately. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms. Do not exceed recommended dosage.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a health professional before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes glaucoma trouble urinating due to an enlarged prostate gland.
+stop_use:
+  Stop use and ask a doctor if new symptoms occur symptoms do not improve within 7 days redness or swelling are present you get nervous, dizzy or sleepless.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children . In case of accidental overdose, contact a doctor or Poison Control Center (1-800-222-1222) immediately. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older Take 2 tablets every 4 hours as needed. Do not take more than 12 tablets in 24 hours. Children under 12 years of age Do not use this adult strength product without first speaking to your doctor.
+dosage_and_administration_table:
+  <table width="80%" styleCode="Noautorules"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr><td><list><item><content styleCode="bold">Adults and children 12 years of age and older</content></item></list></td><td>Take 2 tablets every 4 hours as needed.  Do not take more than 12 tablets in 24 hours.</td></tr><tr><td><list><item><content styleCode="bold">Children under 12 years of age</content></item></list></td><td>Do not use this adult strength product without first speaking to your doctor.</td></tr></tbody></table>
+storage_and_handling:
+  Other information read all product information before using store at room temperature 59-86°F (15-30°C) use by expiration date on package.
+inactive_ingredient:
+  Inactive ingredients Colloidal silica, croscarmellose sodium, dicalcium phosphate, D & C Red #27 Lake, Magnesium Stearate, microcrystalline cellulose, pharmaceutical glaze, pregelatinized starch, stearic acid, talc.
+questions:
+  Questions? Call 1-800-854-7474
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 5 mg Tablet Pouch Box Tamper evident packaging: Do not use if open or torn. This package for households without children See New Warnings Information Compare to Sudafed PE ® CERTI-SINE ™ 5 mg Phenylephrine HCl Nasal Decongestant Principal Display Panel - 5 mg Tablet Pouch Box
+set_id:
+  6825b90f-133c-457d-b75b-4a630c0a2030
+id:
+  e6892ae7-39bd-4b98-9879-b25383d3d88a
+effective_time:
+  20250131
+version:
+  2
+openfda:

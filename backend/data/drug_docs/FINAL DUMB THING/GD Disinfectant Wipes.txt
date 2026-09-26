@@ -1,0 +1,32 @@
+effective_time:
+  20211026
+inactive_ingredient:
+  Inactive Ingredients: Water, Phenoxyethanol, Sodium benzoate, Propylene glycol, Aloe barbadensis leaf juice, PEG-8 dimethicone, Disodium EDTA, Citric acid.
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away. For external use only.
+warnings:
+  Warnings: Do not use if you are allergic to any of the ingredients. Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away. For external use only.
+spl_product_data_elements:
+  GD Disinfectant Wipes BENZALKONIUM CHLORIDE WATER PHENOXYETHANOL SODIUM BENZOATE PROPYLENE GLYCOL ALOE VERA LEAF PEG-8 DIMETHICONE EDETATE DISODIUM ANHYDROUS CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Open the lid and tear off the inner seal. Gently pull out the wipe. Thoroughly wip the skin as desired. Dispose of the used wipe in the trash, do not flush it into the toilet.
+spl_unclassified_section:
+  Drug Facts
+do_not_use:
+  Do not use if you are allergic to any of the ingredients.
+package_label_principal_display_panel:
+  Package Labeling:50 Wipes Label
+  Package Labeling:80 Wipes Label2
+indications_and_usage:
+  Uses: For sanitizing and to help reduce bacteria on the skin
+set_id:
+  b6225859-b7fa-e328-e053-2a95a90a5793
+id:
+  cf4294a0-c6ab-09ef-e053-2995a90a8eb7
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride(0.13%) Purpose Antibacterial

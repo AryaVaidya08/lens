@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  ANAL-ESE Desensitizer GLYCERIN BENZOCAINE BENZOCAINE PEG-8 STEARATE SACCHARIN SODIUM FD&C RED NO. 40 PEG-75 STEARATE FD&C YELLOW NO. 6
+active_ingredient:
+  Active Ingredient: Benzocaine 7.5%
+purpose:
+  Purpose: Desensitizer
+indications_and_usage:
+  Uses: Desensitizing Lubricant. Where less painful anal penetration is desired.
+warnings:
+  Warnings: For External use only. Do not use near eyes. Not for prolonged use. If condition for which preparation is used causes discomfort, or if a rash or irritation should develop, discontinue use and consult a physician. For prevention of premature ejaculation.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions: Apply a small amount of ANAL-ESE to rectal area prior to penetration. Wait a few minutes for desensitization before attempting penetration. Proper amount and waiting time will be determined after seferal uses.
+inactive_ingredient:
+  Inactive Ingredients: PEG-8, Glycerin, PEG-75, Sodium Saccharin, Flavor, Red 40, Yellow 6
+package_label_principal_display_panel:
+  ANAL-ESE Cherry Flavored ANAL-ESE Cherry Flavored THE Original Net Weight 1.5 oz. Distributed By: Novelties by Nasswalk Inc, North Bergeb, NJ 07047. WWW.NASSTOYS.COM 1.5 Carton 1.5 Tube 0.5 Carton 0.5 Tube 1.5 Carton 1.5 Tube 0.5 Carton 0.5 Tube
+set_id:
+  03a4a7ce-4cff-a608-e063-6294a90ad65d
+id:
+  434aac7b-e344-df6b-e063-6294a90a8bdf
+effective_time:
+  20251110
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    ANAL-ESE
+  generic_name:
+    DESENSITIZER
+  manufacturer_name:
+    Novelties by Nasswalk, Inc.
+  product_ndc:
+    83608-106
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZOCAINE
+  spl_id:
+    434aac7b-e344-df6b-e063-6294a90a8bdf
+  spl_set_id:
+    03a4a7ce-4cff-a608-e063-6294a90ad65d
+  package_ndc:
+    83608-106-05
+    83608-106-15
+  is_original_packager:
+    True
+  nui:
+    N0000185508
+    N0000175629
+    N0000184306
+    M0000728
+  pharm_class_epc:
+    Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+  unii:
+    U3RSY48JW5

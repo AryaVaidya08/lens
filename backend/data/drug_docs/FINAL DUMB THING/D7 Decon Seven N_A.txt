@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  D7 Decon Seven N/A WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride.........0.1 %
+dosage_and_administration:
+  Uses For hand sanitizing to decrease bacteria on the skin Recommended for repeated use
+purpose:
+  Purpose Antimicrobial
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Do not ingest. Stop use and ask a doctor if irritation or redness develops and conditions persist.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children . If swallowed, get medical help or contact a Poison Conrol Center right away
+indications_and_usage:
+  Directions Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inert Ingredients water cetrimonium chloride laurtrimonium chloride dihydroxyethyl cocamine oxide glycereth-17 cocoate citric acid
+package_label_principal_display_panel:
+  D7 Decon 7 D7 Decon 7 image description
+set_id:
+  b635394a-e24b-48fb-9eee-f5b74a95298c
+id:
+  ca3f4586-ca5f-4900-817a-e1acc7f478f0
+effective_time:
+  20220114
+version:
+  3
+openfda:

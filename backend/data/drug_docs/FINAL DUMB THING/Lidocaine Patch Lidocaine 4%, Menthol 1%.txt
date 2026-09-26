@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Lidocaine Patch Lidocaine 4%, Menthol 1% POLYACRYLIC ACID (250000 MW) SODIUM POLYACRYLATE (2500000 MW) UREA TARTARIC ACID WATER TITANIUM DIOXIDE DIHYDROXYALUMINUM AMINOACETATE ANHYDROUS CARBOXYMETHYLCELLULOSE SILICON DIOXIDE ALUMINUM HYDROXIDE PROPYLENE GLYCOL METHYLPARABEN MENTHOL MENTHOL POLYSORBATE 80 CASTOR OIL LIDOCAINE LIDOCAINE GLYCERIN POLYOXYL 40 HYDROGENATED CASTOR OIL
+spl_unclassified_section:
+  Lidocaine Patch
+active_ingredient:
+  Lidocaine 4%,Menthol 1%
+purpose:
+  For the temporary relief of palin
+indications_and_usage:
+  For the temporary relief of palin, TOPICAL ANESTHETIC
+warnings:
+  For external use only
+do_not_use:
+  more than 1 patch on your body at a time or on cut, irritated or swollen skin
+when_using:
+  use only as directod. Read and follow all directions and warnings on this label. rare cases of serious bums have been reported with products of this type do not apply to wounds or damaged, broken or irritated skin do not allow contact with the eyes and mucous membranes do not bandage tightly or apply local heat (such as heating pads) to the area of use do not use at the same time as other topical analgesics
+stop_use:
+  condition worsens rodness is present irritation develops symptoms persist for more than 7 days or clear up and occur again within a few days you experience sians ot skin injury, such as pain, swelling, or blistering where the product was applied
+keep_out_of_reach_of_children:
+  it swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Adults and children 12 years of age and over: clean and dry aftecied area remove backing from patch by firmly grasping both ends and gently pulling until backing separates in middle carefully remave smaller portion of backing from patch and apply exposed portion of patch to atlected area once exposed portion of patch is positioned, carefully remove remaining backing to completely applypatch to aitected area use 2 patch tor up to 24 hours Children under 12 years of age:consult a doctor
+storage_and_handling:
+  Store in a clean, dry place outside of direct sunlight. Protect product from excessive moisture.
+inactive_ingredient:
+  Aluminum Glycinate Aluminum Hydroxide Cellulose Gum Glycerin Methylparaben PEG-40 Hydrogenated Castor Oil Polyacrylic Acid Polysorbate 80 Propylene Glycol Ricinus Communis Seed Oil (Castor) Silica Sodium Polyacrylate Tartaric Acid Titanium Dioxide Urea Water
+package_label_principal_display_panel:
+  label label2
+set_id:
+  054d357c-6a37-5e39-e063-6394a90a5b74
+id:
+  0a18ac24-4dab-2479-e063-6294a90a52c5
+effective_time:
+  20231114
+version:
+  3
+openfda:

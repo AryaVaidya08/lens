@@ -1,0 +1,40 @@
+effective_time:
+  20140306
+inactive_ingredient:
+  Inactive Ingredients calcium phosphate, colloidal silicon dioxide, crospovidone polyplasdone, FD&C blue #1, magnesium stearate (veg.), microcrystalline cellulose, povidone and silicified microcrystalline cellulose.
+purpose:
+  Purpose Guaifenesin, USP Expectorant Phenylephrine HCl, USP Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson ’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+when_using:
+  When using this product do not exceed the recommended dosage
+questions:
+  Questions or Comments Serious side effects may be reported to this number, call (817) 595-5820 (8 am to 5 pm CST).
+spl_product_data_elements:
+  Liquibid D-R Guaifenesin and Phenylephrine GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE DIBASIC CALCIUM PHOSPHATE DIHYDRATE SILICON DIOXIDE CROSPOVIDONE FD&C BLUE NO. 1 MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE K30 light Star;LD
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by excessive phlegm (mucus)
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions take with a full glass of water this product can be administered without regard for timing of meals adults and children 12 years of age and older: 1 tablet every 4 hours. children 6 to 12 years of age: one half (1/2) tablet every 4 hours.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Other information store at 20°- 25°C (68°- 77°F) tamper evident: do not use if foil seal under the cap is broken or missing. contains less than 1 mg sodium in each tablet contains 13 mg calcium in each tablet
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur. cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition.
+package_label_principal_display_panel:
+  Package Label Figure 1 : 90ct tablet bottle label 3ce0c2e1-figure-01
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive temporarily relieves nasal congestion due to: common cold hay fever upper respiratory allergies temporarily restores freer breathing through the nose promotes sinus drainage temporarily relieves sinus congestion and pressure
+set_id:
+  c29ec55b-1c96-4de3-a0ca-dc950d85948b
+id:
+  6ace6ea7-96cc-4dcc-8f03-39d83df27dde
+active_ingredient:
+  Active Ingredients (in each tablet) Guaifenesin, USP 400 mg Phenylephrine HCl, USP 10 mg

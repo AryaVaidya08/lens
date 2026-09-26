@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  REGAL CARE Alcohol ALCOHOL ALCOHOL WATER GLYCERIN ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER (10000 MPA.S NEUTRALIZED AT 0.5%) AMINOMETHYLPROPANOL PANTHENOL ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE
+active_ingredient:
+  Active Ingredient Alcohol 72% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients water, glycerin, acrylates/vinyl isodecanoate crosspolymer, aminomethylpropanol, fragrance, panthenol, aloe barbadensis leaf juice,tocopherol acetate.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel NDC 78710-072-03 REGAL-CARE TM ​ # 20050 Disinfection and Sterilization HAND SANITIZER 72% ALCOHOL GEL Contains Aloe! Quick-Drying! Rub On Dries Fast Non-Sticky Bacteria Sterilization for Hand Protection 3.38oz/100ml Label
+set_id:
+  6f66f4ca-92cb-417f-9924-0e690f2fd8b4
+id:
+  3613b538-47bf-443d-909c-f155058ef886
+effective_time:
+  20200706
+version:
+  1
+openfda:

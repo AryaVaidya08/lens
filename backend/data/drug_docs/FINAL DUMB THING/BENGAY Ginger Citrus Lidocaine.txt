@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  BENGAY Ginger Citrus Lidocaine CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) AMINOMETHYLPROPANOL BUTYLENE GLYCOL CAPRYLYL GLYCOL CETETH-10 PHOSPHATE CETOSTEARYL ALCOHOL DIHEXADECYL PHOSPHATE DIMETHICONE GLYCERIN GLYCERYL DISTEARATE GLYCERYL MONOSTEARATE HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) PHENOXYETHANOL POLYSORBATE 60 ALCOHOL SQUALANE STEARETH-21 WATER LIDOCAINE LIDOCAINE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: JOHNSON & JOHNSON CONSUMER INC. Skillman, NJ 08558
+active_ingredient:
+  Active ingredient Lidocaine HCl 4%
+purpose:
+  Purpose Topical analgesic
+indications_and_usage:
+  Uses For the temporary relief of pain
+warnings:
+  Warnings For external use only. Do not use in large quantities, particularly over raw surfaces or blistered areas When using this product avoid contact with eyes Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in large quantities, particularly over raw surfaces or blistered areas
+when_using:
+  When using this product avoid contact with eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use only as directed adults and children 12 years of age and older: apply to affected area not more than 3 to 4 times daily children under 12 years of age: ask a doctor
+storage_and_handling:
+  Other information store at 20° to 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients acrylates/C10-30 alkyl acrylate crosspolymer, aminomethyl propanol, butylene glycol, caprylyl glycol, ceteth-10 phosphate, cetostearyl alcohol, dicetyl phosphate, dimethicone, fragrance, glycerin, glyceryl distearate, glyceryl monostearate, hydroxyethyl acrylate/sodium acryloyldimethyl taurate copolymer, phenoxyethanol, polysorbate 60, SD alcohol 40-B, squalane, steareth-21, water
+questions:
+  Questions? call 1-800-223-0182 (toll-free) or 215-273-8755 (collect) or visit www.bengay.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 85 g Tube Carton LIDOCAINE 4% TOPICAL ANALGESIC CREAM BENGAY ® Maximum Strength Lidocaine Ginger Citrus Scent NET WT 3.0 OZ (85 g) PRINCIPAL DISPLAY PANEL - 85 g Tube Carton
+set_id:
+  d81f99ec-c756-4cf1-adf0-bc2cc25cf9d3
+id:
+  2cd9103c-4905-c545-e063-6394a90a6f64
+effective_time:
+  20250129
+version:
+  6
+openfda:

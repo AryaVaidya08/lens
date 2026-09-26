@@ -1,0 +1,21 @@
+spl_product_data_elements:
+  Loratadine Loratadine LORATADINE LORATADINE RX526
+purpose:
+  PURPOSE Antihistamine
+when_using:
+  USE(S) Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  WARNINGS Do not use If you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose. When using this product Do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, Ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  QUESTIONS Call 1-800-406-7984
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC: 51655-027-26 MFG: 51660-526-05 Loratadine 10 MG 90 Tablets Rx Only Lot# Exp. Date: Medication guide is found at www.fda.gov/drugs/drugsafety/ucm085729 Dosage: See prescriber's instructions Each tablet contains 10 mg of loratadine Store at 68 to 77 degrees F. Protect from light and moisture Keep out of the reach of children. Mfg. by Ohm Laboratories, North Brunswick, NJ 08902 Lot# Repackaged by Northwind Pharmaceuticals, Indianapolis, IN 46256 51655-027-26
+set_id:
+  c45c1dba-ba6c-4dfb-a1ee-c5ec61ad4dfb
+id:
+  47cdd4ae-3fcd-2ca4-e063-6294a90a8010
+effective_time:
+  20260107
+version:
+  2
+openfda:

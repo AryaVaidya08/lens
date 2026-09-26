@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  BabyGanics Alcohol Free Foaming Hand Sanitizer BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER CETRIMONIUM CHLORIDE LAURTRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE GLYCERETH-17 COCOATE
+spl_unclassified_section:
+  Drug Facts
+  dist. by KAS direct, LLC Westbury, NY 11590
+active_ingredient:
+  Active ingredient Benzalkonium chloride 0.1%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses for hand sanitizing to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions pump a small amount of foam into palm of hand rub thoroughly over all surfaces of both hands rub hands together briskly until dry
+inactive_ingredient:
+  Inactive ingredients water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, glycereth-17 cocoate, citric acid
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 250 mL Bottle Label babyganics™ alcohol-free foaming hand sanitizer fragrance free moisturizing formula • non-allergenic kills 99.9% of germs* • dermatologist tested formulated without: parabens • sulfates phthalates • dyes • fragrances Discover which of our ingredients are Certified Organic on back panel. 8.45 FL OZ (250 mL) 040-10050-B02 Principal Display Panel - 250 mL Bottle Label
+set_id:
+  16d83c80-a1a6-490b-b065-35a10a36592f
+id:
+  225f865f-29bb-49a0-98c5-645d4b2ac7b0
+effective_time:
+  20251205
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    BabyGanics Alcohol Free Foaming Hand Sanitizer
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    KAS Direct LLC dba BabyGanics
+  product_ndc:
+    59062-3000
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  spl_id:
+    225f865f-29bb-49a0-98c5-645d4b2ac7b0
+  spl_set_id:
+    16d83c80-a1a6-490b-b065-35a10a36592f
+  package_ndc:
+    59062-3000-5
+    59062-3000-2
+    59062-3000-1
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

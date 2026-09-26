@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Dove FIFA 26 Palo Santo and Sage Limited Edition Antiperspirant Body Spray CALCIUM CHLORIDE HYDROFLUOROCARBON 152A HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL BHT DIMETHICONOL (40 CST) GLYCINE C12-15 ALKYL BENZOATE PROPANE PROPYLENE CARBONATE CITRIC ACID BUTANE CYCLOPENTASILOXANE ALPHA-ISOMETHYL IONONE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE ISOPROPYL ISOSTEARATE COUMARIN DISTEARDIMONIUM HECTORITE LIMONENE, (+)- LINALOOL OCTYLDODECANOL ISOBUTANE PPG-14 BUTYL ETHER
+description:
+  Dove FIFA 26 Palo Santo and Sage Limited Edition Antiperspirant Body Spray
+active_ingredient:
+  Aluminum Sesquichlorohydrate 15.2%
+purpose:
+  Antiperspirant
+indications_and_usage:
+  reduces underarm wetness
+warnings:
+  • For external use only. • FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH. • Keep away from face and mouth to avoid breathing it. • Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not expose to heat or store at temperatures above 120°F/50°C or in enclosed places that can overheat. • Do not use on broken skin. • Stop use if rash or irritation occurs.• Ask a doctor before use if you have kidney disease. • USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL.
+keep_out_of_reach_of_children:
+  • KEEP OUT OF REACH OF CHILDREN.
+dosage_and_administration:
+  apply to underarms only
+inactive_ingredient:
+  Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Fragrance (Parfum), Glycine, Helianthus Annuus (Sunflower) Seed Oil, C12-15 Alkyl Benzoate, Disteardimonium Hectorite, Calcium Chloride, Propane, BHT, Octyldodecanol, Propylene Carbonate, Dimethiconol, Citric Acid, Isopropyl Isostearate,Alpha-Isomethyl Ionone,Coumarin,Limonene, Linalool
+package_label_principal_display_panel:
+  Label
+set_id:
+  44e93b81-e860-740b-e063-6394a90a3ebf
+id:
+  44e93b81-e861-740b-e063-6394a90a3ebf
+effective_time:
+  20251201
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Dove
+  generic_name:
+    FIFA 26 PALO SANTO AND SAGE LIMITED EDITION ANTIPERSPIRANT BODY SPRAY
+  manufacturer_name:
+    Conopco d/b/a Unilever
+  product_ndc:
+    64942-2405
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    44e93b81-e861-740b-e063-6394a90a3ebf
+  spl_set_id:
+    44e93b81-e860-740b-e063-6394a90a3ebf
+  package_ndc:
+    64942-2405-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

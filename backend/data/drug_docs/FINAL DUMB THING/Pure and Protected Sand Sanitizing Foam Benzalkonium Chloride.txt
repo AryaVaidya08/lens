@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Pure and Protected Sand Sanitizing Foam Benzalkonium Chloride PPG-1 TRIDECETH-6 POLYQUATERNIUM-37 (25000 MPA.S) PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.1% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product Rub hands together until dry Does not require rinsing
+inactive_ingredient:
+  Inactive ingredients purified water USP, polyquaternium-37, propylene glycol/dicaprylate/dicaprate, ppg-1 trideceth-6, fragrance (parfum), aloe vera barbadenis leaf extract
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 50 mL NDC: 77506-002-08 50 mL Foam label
+  Package Label - Principal Display Panel 100 mL NDC: 77506-002-12 100 mL Foam label
+  Package Label - Principal Display Panel 200 mL NDC: 77506-002-15 200 mL foam label
+  Package Label - Principal Display Panel 1000L NDC: 77506-002-36 foam 1000 L image
+set_id:
+  aa18319f-64e8-6baf-e053-2995a90a0172
+id:
+  db6053c4-f5a0-ba0d-e053-2995a90a5989
+effective_time:
+  20220329
+version:
+  3
+openfda:

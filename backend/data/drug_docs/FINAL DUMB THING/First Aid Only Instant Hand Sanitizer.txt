@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  First Aid Only Instant Hand Sanitizer ALCOHOL SILICON CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATER ALCOHOL ALCOHOL TROLAMINE PROPYLENE GLYCOL GLYCERIN
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% w/w
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use .hand sanitizer to help reduce microbes on the skin
+warnings:
+  Warnings Flammable. Keep away from fire or flame For external use only
+when_using:
+  When using this product, do not use in or near the eyes. If contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if redness or irritation develops and persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions put enough gel in your palm to cover your hands and rub hand together rapidly until dry ■ children under 6 years of age should be supervised when using this product
+storage_and_handling:
+  Other information ■ store below 110°F {43°C) ■ may discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients carbomer, fragrance, glycerin, propylene glycol, silicone, triethanolamine, water (aqua)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 60 mL NDC: 0924-0401-01 Bottle Label
+set_id:
+  a7a8a84d-d0ee-2881-e053-2a95a90a59c4
+id:
+  2511e329-6efd-7199-e063-6394a90ac374
+effective_time:
+  20241022
+version:
+  2
+openfda:

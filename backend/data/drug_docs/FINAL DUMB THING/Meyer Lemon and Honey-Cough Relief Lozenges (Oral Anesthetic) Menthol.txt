@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Meyer Lemon and Honey-Cough Relief Lozenges (Oral Anesthetic) Menthol MEYER LEMON CURCUMA LONGA WHOLE BARLEY MALT SYRUP BARLEY MALT MENTHOL MENTHOL SUGARCANE HONEY ULMUS RUBRA BARK
+active_ingredient:
+  (In each lozenge) Organic Menthol 5mg
+purpose:
+  Antitussive (Cough Suppressant) / Oral Anesthetic
+warnings:
+  Sore Throat Warning: Severe or persistent sore throat or sore throat accompanied by high fever, headache, rash, nausea, and vomiting may be serious. Consult physician promptly. Do not use more than 2 days or administer to children under 5 years of age unless directed by a physician.
+ask_doctor_or_pharmacist:
+  Ask a doctor before use if you have: - persistent or chronic cough as occurs with smoking, asthma, or emphysema. - cough that occurs with excessive phlegm (mucus).
+stop_use:
+  - cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. - sore mouth symptoms do not improve in 7 days.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Adults and children 5 years and over: dissolve lozenge slowly in the mouth. Repeat every 2 hours as needed or as directed by a doctor. Children under 5years of age: ask a doctor.
+other_safety_information:
+  Store in a cool, dry place.
+inactive_ingredient:
+  Organic Brown Rice Syrup, Organic Cane Syrup, Organic Honey, Natural Meyer Lemon Flavor and Other Natural Flavors, Organic Slippery Elm Bark Powder, and Organic Tumeric.
+indications_and_usage:
+  - cough due to minor throat and bronchial irritation occurring with the common cold and inhaled irritation, - occasional minor irritation, pain, sore mouth, and sore throat.
+package_label_principal_display_panel:
+  label
+set_id:
+  99847797-99e9-40d4-e053-2995a90a972a
+id:
+  f1ec79eb-d3b9-628e-e053-2a95a90a02ac
+effective_time:
+  20230110
+version:
+  2
+openfda:

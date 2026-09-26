@@ -1,0 +1,41 @@
+effective_time:
+  20190814
+inactive_ingredient:
+  Inactive ingredients corn starch, hypromellose, polyethylene glycol, propylene glycol
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction which may include: shock facial swelling hives asthma (wheezing) Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you are allergic to aspirin or any other pain reliever/fever reducer if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have asthma you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better an allergic reaction occurs. Seek medical help right away. new symptoms occur pain gets worse or lasts more than 10 days redness or swelling is present fever gets worse or lasts more than 3 days ringing in the ears or loss of hearing occurs If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+questions:
+  Questions or comments? 1-800-426-9391
+spl_product_data_elements:
+  Aspirin Aspirin ASPIRIN ASPIRIN STARCH, CORN HYPROMELLOSE, UNSPECIFIED POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL 44;157
+ask_doctor:
+  Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have asthma you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions drink a full glass of water with each dose adults and children 12 years and over: take 1 to 2 tablets every 4 hours or 3 tablets every 6 hours, not to exceed 12 tablets in 24 hours children under 12 years: ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint vomit blood have bloody or black stools have stomach pain that does not get better an allergic reaction occurs. Seek medical help right away. new symptoms occur pain gets worse or lasts more than 10 days redness or swelling is present fever gets worse or lasts more than 3 days ringing in the ears or loss of hearing occurs
+storage_and_handling:
+  Other information store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) see end flap for expiration date and lot number
+do_not_use:
+  Do not use if you are allergic to aspirin or any other pain reliever/fever reducer if you have ever had an allergic reaction to this product or any of its ingredients
+package_label_principal_display_panel:
+  Principal display panel QUALITY + PLUS NDC 50844-197-12 †Compare to the active ingredient in Genuine Bayer® Aspirin ASPIRIN PAIN RELIEVER/FEVER REDUCER (NSAID) 325 mg 100 Tablets FAST, SAFE PAIN RELIEF ACTUAL SIZE TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING †This product is not manufactured or distributed by Bayer HealthCare LLC, owner of the registered trademark Genuine Bayer® Aspirin. 50844 ORG091515712 Distributed by LNK INTERNATIONAL, INC. 60 Arkay, Drive, Hauppauge, NY 11788 Quality Plus 44-157 Quality Plus 44-157
+indications_and_usage:
+  Uses temporarily relieves: headache pain and fever of colds toothache menstrual pain muscle pain minor pain of arthritis
+set_id:
+  c69f3b5c-9cfd-4b43-92d0-c120a2d972bf
+id:
+  6671e298-df3b-4f3a-a893-4bf125b2a18f
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis
+active_ingredient:
+  Active ingredient (in each tablet) Aspirin 325 mg (NSAID)* *nonsteroidal anti-inflammatory drug

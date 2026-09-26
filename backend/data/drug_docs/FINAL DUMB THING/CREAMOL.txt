@@ -1,0 +1,35 @@
+effective_time:
+  20200907
+inactive_ingredient:
+  ısopropyl alcohol, glycerine, alpha-tocopherol, panthenol, water
+purpose:
+  Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  For external use only. Flammable, keep away from fire and flame.
+when_using:
+  Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes throughly with water.
+spl_product_data_elements:
+  CREAMOL HAND SANITIZING WIPES 80 pcs alcohol BENZALKONIUM CHLORIDE BENZALKONIUM ALCOHOL ALCOHOL PANTHENOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL GLYCERIN .ALPHA.-TOCOPHEROL, D- WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wipe hands, discard
+stop_use:
+  If irritation and redness develops and persist and in case of poisoning stop use and ask a doctor. Symptoms of Poisoning are dizziness, loss of consciousness and speech disorder.
+storage_and_handling:
+  Other informations Store between 15-30 ºC. Avoid freezing and excessive heat above 40ºC
+do_not_use:
+  Do not use on open wounds, in or near the eyes and in children less than 2 months of age.
+package_label_principal_display_panel:
+  NDC: 77892-0012-1
+indications_and_usage:
+  Hand santizer to help reduce bacteria on skin. Kills 99.9% of most common germs that may cause illness.
+set_id:
+  aeb52d87-6619-66e0-e053-2995a90a32b4
+id:
+  aeb5dc13-1dc2-0902-e053-2a95a90a1aeb
+active_ingredient:
+  Alcohol: 75% (w/w) Purpose: Antimicrobial

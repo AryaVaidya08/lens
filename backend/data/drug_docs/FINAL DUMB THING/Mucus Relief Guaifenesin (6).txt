@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Mucus Relief Guaifenesin GUAIFENESIN GUAIFENESIN CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) HYPROMELLOSE 2208 (100000 MPA.S) MICROCRYSTALLINE CELLULOSE POVIDONE, UNSPECIFIED G233
+active_ingredient:
+  ACTIVE INGREDIENT(in each extended-release tablet) Guaifenesin 600 mg
+purpose:
+  PURPOSE Expectorant
+indications_and_usage:
+  USE(S) helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+warnings:
+  WARNING .
+do_not_use:
+  DO NOT USE for children under 12 years of age
+ask_doctor:
+  ASK A DOCTOR BEFORE USE IF YOU HAVE persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+stop_use:
+  STOP USE AND ASK A DOCTOR IF cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST-FEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  DIRECTIONS do not crush, chew, or break tablet take with a full glass of water this product can be administered without regard for the timing of meals adults and children 12 years of age and over: 1 or 2 tablets every 12 hours. Do not exceed 4 tablets in 24 hours. children under 12 years of age: do not use
+storage_and_handling:
+  OTHER INFORMATION tamper evident: do not use if carton is open or if printed seal on blister is broken or missing store between 20 to 25°C (68 to 77°F)
+inactive_ingredient:
+  INACTIVE INGREDIENTS carbomer homopolymer, hypromellose, microcrystalline cellulose, povidone
+spl_unclassified_section:
+  QUESTIONS? 1-888-588-1418 Hours: 8am - 4pm, EST, MON-FRI You may also report side effects to this phone number.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL AMBER CONSUMER CARE NDC 69230-314-32 Compare to the active ingredient in Mucinex ® Extended Release 600 mg Tablets* 12 HOUR Mucus Relief Guaifenesin Extended-Release Tablets 600 mg Expectorant Relieves chest congestion Thins and Loosens Mucus 20 Extended-Release Tablets 128
+set_id:
+  fe698f3f-89cb-481a-b283-9d603730f5fe
+id:
+  cef79e93-d1af-4946-9553-f68c8ca01aaf
+effective_time:
+  20241217
+version:
+  3
+openfda:

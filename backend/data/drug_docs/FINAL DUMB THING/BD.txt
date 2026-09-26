@@ -1,0 +1,38 @@
+effective_time:
+  20120216
+inactive_ingredient:
+  Inactive ingredients behentrimonium methosulfate, benzalkonium chloride, benzethonium chloride, cetearyl alcohol, chlorhexidine gluconate, dimethicone, docosanol, fragrance, glycerin, isopropyl palmitate, methylparaben, mineral oil, PEG-10 behenyl ether, PEG-40 castor oil, propylparaben, stearalkonium chloride, USP water.
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed or gets in eyes, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Flammable: keep away from fire or flame. For external use only. Do not use if redness or irritation occurs. When using this product avoid contact with eyes. Stop use and ask a doctor If severe adverse reactions occur. Keep out of reach of children. If swallowed or gets in eyes, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product avoid contact with eyes.
+questions:
+  Questions? USA 1-800-453-4538 Monday to Friday, 8 a.m. to 5 p.m. MST Canada 1-800-268-5430 Monday to Friday, 8 a.m. to 4 p.m. EST
+spl_product_data_elements:
+  BD E-Z Care Alcohol Alcohol Alcohol behentrimonium methosulfate benzalkonium chloride benzethonium chloride cetostearyl alcohol chlorhexidine gluconate dimethicone docosanol glycerin isopropyl palmitate methylparaben mineral oil beheneth-10 polyoxyl 40 castor oil propylparaben stearalkonium chloride water
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Surgical Hand Antiseptic Apply to clean, dry hands and nails. Clean under nails with a nail pick. Nails should be maintained with a 1 -millimeter free edge. Dispense a half palmful (approximately 3.0 mL) of solution in one hand. Dip the fingers of the opposite hand into the solution and work in under the nails. Spread the remaining solution over the hand and up to just above the elbow. Rub thoroughly for 30 seconds or until dry, paying particular attention to the nails, cuticles and interdigital spaces. Using another half palmful (approximately 3.0 mL), repeat with the other hand. Dispense another half palmful (approximately 3.0 mL) of solution into either hand and reapply to all aspects of both hands up the wrists. Rub thoroughly for 30 seconds or until dry. Healthcare Personnel Hand Antiseptic Apply to clean, dry hands and nails. Dispense a half palmful (approximately 3.0 mL) into the palm of one hand. Spread the solution evenly to cover both hands up to the wrists, paying particular attention to the nails, cuticles and interdigital spaces. Rub hands for 15 seconds or until dry.
+spl_unclassified_section:
+  Drug Facts
+  Other information avoid excessive heat 40°C (104°F) discard container when empty suitable for use with CHG Products.
+stop_use:
+  Stop use and ask a doctor If severe adverse reactions occur.
+do_not_use:
+  Do not use if redness or irritation occurs.
+package_label_principal_display_panel:
+  Principal Display Panel – Bottle Label BD E-Z Care ™ 70% Ethyl Alcohol Solution Rinseless, Brushless Antiseptic Surgical and Healthcare Personnel Hand Antiseptic with Moisturizers Suitable for use with CHG products REF 372408 NDC 17271-501-01 • DIN 02248476 Foreign Patents and Patents Pending. U.S. Patent 6,723,689 32 FL. OZ (946 mL) Principal Display Panel – Bottle Label
+indications_and_usage:
+  Uses Surgical hand antiseptic: Significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care. Healthcare personnel hand antiseptic: Helps reduce bacteria that potentially can cause disease.
+set_id:
+  9f784b69-f8fc-41d2-823e-b266dce5ea4e
+id:
+  cf1bf68b-197b-406e-a124-002590036574
+active_ingredient:
+  Active ingredient Ethyl alcohol 70% w/w

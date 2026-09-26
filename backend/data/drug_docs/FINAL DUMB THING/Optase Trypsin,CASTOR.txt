@@ -1,0 +1,24 @@
+effective_time:
+  20111205
+warnings:
+  WARNING: Do not apply to fresh arterial clots. Avoid contact with eyes. Keep out of reach of children. Use only as directed. When applied to a sensitive area, a temporary stinging sensation may be noted.
+spl_product_data_elements:
+  Optase Trypsin,CASTOR OIL,BALSAM, PERU TRYPSIN Trypsin CASTOR OIL CASTOR OIL BALSAM PERU BALSAM PERU SILICON DIOXIDE SAFFLOWER OIL
+description:
+  DESCRIPTION: Balsam Peru is an effective capillary bed stimulant used to increase circulation in the wound area. Also, Balsam Peru has a mild bactericidal action. Castor Oil is used to improve epithelialization by reducing premature epithelial desiccation and cornification. Also, it can act as a protective covering and aids in the reduction of pain. Trypsin is intended for debridement of eschar and other necrotic tissue. It appears that in many instances removal of wound debris strengthens humoral defense mechanisms sufficiently to retard proliferation of local pathogens.
+openfda:
+version:
+  7
+dosage_and_administration:
+  DOSAGE: Remove Safety Seal under cap. Apply a thin film of OPTASE TM Gel a minimum of twice daily or as often as necessary. The wound may be left unbandaged or appropriate dressing applied. To remove, wash gently with appropriate cleanser.
+how_supplied:
+  HOW SUPPLIED: OPTASE TM Gel is supplied in 95g bottles (NDC# 16781-116-95) and 6g tubes (NDC# 16781-116-06). Store OPTASE TM Gel between 59-86ºF (15-30ºC). Avoid freezing. FOR EXTERNAL USE ONLY
+package_label_principal_display_panel:
+  PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Optase Bottle Front Label NDC 16781-116-95 Rx Only WOUND CARE GEL Optase ™ FOR EXTERNAL USE ONLY NET WT. 95g PATENT PENDING Optase Front Label
+  PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Optase 10 Tube Label NDC 16781-116-06 Rx Only Net Wt. 6g WOUND CARE GEL Optase® Trypsin USP, Balsam Peru, Castor Oil USP Package Label-Optase Tube Label
+indications_and_usage:
+  INDICATIONS: To promote healing and the treatment of decubitus ulcers, varicose ulcers and dehiscent wounds.
+set_id:
+  b5ca756c-c4b3-4092-b781-67602585ad34
+id:
+  960b6b7e-b607-4f00-92fa-f72d4a96f47b

@@ -1,0 +1,41 @@
+effective_time:
+  20120709
+contraindications:
+  CONTRAINDICATIONS Known hypersensitivity to any of the listed ingredients.
+precautions:
+  PRECAUTIONS This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use. PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Keralac ® (35% Urea) LOTION should be given to a pregnant woman only if clearly needed. NURSING MOTHERS: It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when Keralac ® (35% Urea) LOTION is administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILOREN.
+warnings:
+  WARNINGS For eternal use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Keralac ® (35% Urea) LOTION should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  NURSING MOTHERS: It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when Keralac ® (35% Urea) LOTION is administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILOREN.
+spl_product_data_elements:
+  Keralac urea UREA UREA MEDIUM-CHAIN TRIGLYCERIDES CETYL ALCOHOL CHOLESTEROL EDETATE DISODIUM HYDROGENATED POLYDECENE (550 MW) LACTIC ACID LINOLEIC ACID POLYSORBATE 60 WATER SORBITAN MONOSTEARATE TROLAMINE .ALPHA.-TOCOPHEROL XANTHAN GUM PYRITHIONE ZINC
+description:
+  R x ONLY For external use only. Not for ophthalmic use.
+  DESCRIPTION Keralac ® (35% Urea) LOTION is a keratolytic emollient, which is a gentle, yet potent, tissue softener for skin. Each gram of Keralac ® (35% Urea) LOTION contains 35% Urea, Caprylic/Capric Triglyceride, Carbomer, Cetyl Alcohol, Cholesterol, Edetate Disodium, Glycosphingolipids, Hydrogenated Polydecene, Hydroxyethylcellulose, Lactic Acid, Linoleic Acid, Phospholipis, Polysorbate 60, PPG-5 Laureth-5, Purified Water, Sodium Polyacrylate, Sorbitan Stearate, Trolamine, Vitamin E, Xanthan Gum and Zinc Pyrithione. Urea is a diamide of carbonic acid with the following chemical structure: Chemical Structure
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTARTION Apply Keralac ® (35% Urea) LOTION to affected skin twice per day, or as directed by a physician. Rub in until completely absorbed.
+adverse_reactions:
+  ADVERSE REACTIONS Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+how_supplied:
+  HOW SUPPLIED: Keralac ® (35% Urea) LOTION 7 oz (207 mL) bottle, NDC 10337-663-49 11 oz (325 mL) bottle, NDC 10337-663-11 Also available: Keralac ® (50% Urea) NAIL GEL 18 mL (0.6 oz) bottle, NDC 10337-659-15 Store at controlled room temperature 15°-30° C (59°-86° F). Protect from freezing. Manufactured for: DERM/ arts ® DIVISION D OAK D ERMATOLOGICS 383 Route 46 West • Fairfield, NJ 07004-2402 USA 1-800-405-DOAK • www.doakderm.com Patent Pending IL193-R1
+information_for_patients:
+  PATIENT INSTRUCTIONS R x ONLY Keralac ® (35% Urea) LOTION In a vehicle containing Vitamin E, Lactic Acid and Zinc Gentle keratolytic for mild to moderate dry skin and nail conditions Easy steps to gently thin and soften thick, rough or dry skin seen, to various degrees, in psoriasis, xerosis, ichthyosis, keratosis, keratoderma, dermatitis, pruritus, eczema and calluses. Directions: 1. Apply Keralac ® (35% Urea) LOTION to affected skin tissue twice per day, or as directed by a physician. 2. Rub in until completely absorbed. Also available as: Rx ONLY Keralac ® NAIL GEL (50% Urea) In a vehicle containing Lactic Acid and Zinc
+package_label_principal_display_panel:
+  PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 325 mL CONTAINER LABEL NDC 10337-663-11 Rx only Keralac ® LOTION (35% Urea) In a vehicle containing Vitamin E, Lactic Acid and Zinc Gentle keratolytic action for mild to moderate dry skin and nail conditions DIRECTIONS: Apply KERALAC ® to affected area(s). Rub in until lotion is completely absorbed. For Topical Use Only Net Wt. 11 oz. (325 mL) DOAK DERMATOLOGICS Container Label
+  PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – 325 mL CARTON NDC 10337-663-11 Rx only Keralac ® LOTION (35% Urea) In a vehicle containing Vitamin E, Lactic Acid and Zinc Gentle keratolytic action for mild to moderate dry skin and nail conditions For Topical Use Only Net Wt. 11 oz. (325 mL) DOAK DERMATOLOGICS Carton Label
+pharmacokinetics:
+  PHARMACOKINETICS: The mechanism of action or topically applied Urea is not yet known.
+indications_and_usage:
+  INDICATIONS AND USES For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis, keratoderma, corns and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Urea gently dissolves the intercellular matrix, which results in loosening the horny layer of skin and shredding scaly skin at regular intervals, thereby softening hyperkeratotic areas. PHARMACOKINETICS: The mechanism of action or topically applied Urea is not yet known.
+set_id:
+  214d1576-7566-4c6e-9e82-5e9b4e69cf87
+id:
+  cb188cf4-0081-4a50-8515-4f3224a38f5e

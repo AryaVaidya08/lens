@@ -1,0 +1,27 @@
+effective_time:
+  20181227
+inactive_ingredient:
+  INACTIVES
+purpose:
+  PURPOSE
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS
+spl_product_data_elements:
+  City Glow Daily Defense Bronzer Titanium Dioxide TALC MICA OCTYLDODECYL STEAROYL STEARATE PROPANEDIOL BUTYLENE GLYCOL CETYL DIMETHICONE 25 SODIUM DEHYDROACETATE BIS-DIGLYCERYL POLYACYLADIPATE-2 WATER ZINC STEARATE PHENOXYETHANOL TITANIUM DIOXIDE TITANIUM DIOXIDE
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE
+package_label_principal_display_panel:
+  PDP
+indications_and_usage:
+  USE
+set_id:
+  24232fe6-9a31-2f7b-e054-00144ff88e88
+id:
+  7e0c70d6-b6b7-479c-e053-2991aa0a4b94
+active_ingredient:
+  ACTIVES

@@ -1,0 +1,31 @@
+effective_time:
+  20171214
+contraindications:
+  CONTRAINDICATIONS This product is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+precautions:
+  PRECAUTIONS General NOTICE: Contact with moisture can produce surface discoloration or erosion of the tablet. Folic acid in doses above 0.1 mg may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations progress.
+warnings:
+  WARNINGS Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where vitamin B12 is deficient. KEEP OUT OF THE REACH OF CHILDREN. In case of accidental overdose, call a doctor or poison control center immediately.
+spl_product_data_elements:
+  Folcaps Vitamins Tablets PYRIDOXINE HYDROCHLORIDE PYRIDOXINE FOLIC ACID FOLIC ACID CYANOCOBALAMIN CYANOCOBALAMIN DIBASIC CALCIUM PHOSPHATE DIHYDRATE ML;324
+description:
+  DESCRIPTION Folcaps™ is a scored red round multivitamin tablet. Each tablet contains: Vitamin B6 (Pyridoxine HCl) ................................................................ 25 mg Folic Acid ................................................................................................. 2.2 mg Cyanocobalamin ....................................................................................500 μg INACTIVE INGREDIENTS: Dicalcium Phosphate Dihydrate, Microcrystalline Cellulose, Stearic Acid, Silicon Dioxide, Croscarmellose Sodium, Magnesium Stearate
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION One tablet daily or as directed by a physician.
+adverse_reactions:
+  ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid.
+general_precautions:
+  General NOTICE: Contact with moisture can produce surface discoloration or erosion of the tablet. Folic acid in doses above 0.1 mg may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations progress.
+how_supplied:
+  HOW SUPPLIED FOLCAPS Tablet is a round, pink-coated tablet debossed 'ML' on one side and '324' on the other side. Bottles of 100 tablets ................................. NDC 68308-324-10 DISPENSE IN A TIGHT, LIGHT RESISTANT CONTAINER AS DEFINED BY THE USP/NF WITH A CHILD RESISTANT CLOSURE. Store at controlled room temperature 20°-25°C (68°-77°F). Excursions permitted to 15°-30°C (59°-86°F). [See current USP]. Manufactured for: Midlothian Laboratories Montgomery, AL 36117 www.midlothianlabs.com Rev. 12/09
+package_label_principal_display_panel:
+  CONTAINER LABEL Immediate Container Label Folcaps Container Label
+indications_and_usage:
+  INDICATIONS AND USAGE Folcaps™ is a multivitamin prescription supplement indicated for the use in improving the nutritional status of patients as prescribed by their physician.
+set_id:
+  47d368ab-5165-4ce3-b993-f5d72bb5b238
+id:
+  53d21f65-d5fe-49f5-b40e-79b4b0c1c49c

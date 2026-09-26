@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Garnier SkinActive Moisture Rescue Broad Spectrum SPF 15 Sunscreen Oil Free All Skin Types Actively Hydrating Daily Avobenzone, Octisalate and Octocrylene AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER GLYCERIN DIMETHICONE
+active_ingredient:
+  Active ingredient Avobenzone 3% Octisalate 5% Octocrylene 5%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, glycerin, silica, dimethicone, PEG-100 stearate, glyceryl stearate, octyldodecanol, stearic acid, phenoxyethanol, palmitic acid, ammonium polyacryloyldimethyl taurate, dicaprylyl carbonate, steareth-100, propylene glycol, fragrance, caprylyl glycol, xanthan gum, dimethicone/vinyl dimethicone crosspolymer, ascorbyl glucoside, disodium EDTA, tocopherol, sodium hyaluronate, capryloyl salicylic acid, pyrus malus (apple) fruit water, myristic acid, sodium hydroxide, linalool, t-butyl alcohol, hexyl cinnamal, sorbitol, vaccinium myrtillus fruit extract, benzyl alcohol, benzyl salicylate, citronellol, alpha-isomethyl ionone, eugenol
+questions:
+  Questions or comments? 1-800-370-1925
+package_label_principal_display_panel:
+  image of a label
+set_id:
+  db030ca6-8dc5-414d-b62e-8a6ae5324700
+id:
+  ace8947d-fe50-4ed4-8ed6-8e4c984c2f3e
+effective_time:
+  20230129
+version:
+  4
+openfda:

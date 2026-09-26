@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Temporary Eye Tightener Temporary Eye Tightener WATER EQUINE COLLAGEN EQUINE COLLAGEN
+active_ingredient:
+  Active ingredient Collagen
+inactive_ingredient:
+  Inactive ingredient water
+purpose:
+  Purpose section Remove eye bags instantly, Reduces wrinkles Moisturizes, Soothes skin.
+warnings:
+  Warning 1. For external use only, use with caution when thereare wounds, swelling, or pus on the skin; 2. Store in a cool and dry place, avoiding directsunlight; 3. lf you feel uncomfortable during use, please stopusingimmediately; 4. Please use according to the instructions; 5.Prevent children from swallowing by mistake, 7.Avoid contact with eyes; lfthis productaccidentally enters the eyes, rinse with plenty of waterand seek medical attention immediately
+stop_use:
+  stop use lf you feel uncomfortable during use, please stop using immediately;
+do_not_use:
+  not use Not suitable for use by children, pregnantor breast feeding people.
+keep_out_of_reach_of_children:
+  OUT OF CHILDREN KEEP THE PRODUCT OUT OF REACH OF CHILDREN to
+indications_and_usage:
+  HOW TO USE 1.Whether using eye cream in the morning or atnight, first clean your face and then apply pea sized eyecream to your fingers. 2.Draw a circle on the small dot below the eye withthe eye cream - from the inner corner to the outercorner. Next, apply eye cream under the eyebrows andaround the orbital bone. 3.Wait for 90 seconds for your skin to absorb theproduct before applying other products to the rest ofyour face. You can apply toner and essence.
+dosage_and_administration:
+  Dosage take an appropriateamount,Use 2-3 times a week
+package_label_principal_display_panel:
+  label
+set_id:
+  22c7277b-135c-e492-e063-6394a90ab613
+id:
+  22c7277b-135d-e492-e063-6394a90ab613
+effective_time:
+  20240923
+version:
+  1
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Aloe Vera Sprayer Aloe Vera Sprayer WATER HYDROGENATED CASTOR OIL EDETIC ACID AROMADENDRIN DMDM HYDANTOIN CARBOMER 940 GLYCERIN GLYCERIN PROPYLENE GLYCOL PROPYLENE GLYCOL ALOE VERA LEAF ALOE VERA LEAF TOCOPHEROL TOCOPHEROL
+active_ingredient:
+  Active ingredients--------------purpose Glycerine..........4% Propylene Glycol..........2% Aloe Barbadensis Leaf Juice.........2% VitaminE.........0.5%
+purpose:
+  Uses: Keep skin moist. Recommended for repeated use.
+warnings:
+  Warnings: Keep away from fire or flame.For external use only.Keep out of reach of children.Keep out of reach of eyes.
+indications_and_usage:
+  Directions: Spray small amount in your palm and briskly rub hands together until dry.
+dosage_and_administration:
+  Other Information Do not store above 110F(43C) May discolor certain fabric or surfaces. Harmful to wood finishes and plastics.
+keep_out_of_reach_of_children:
+  Children under 6 years of age should be super vised when using this product.
+inactive_ingredient:
+  Inactive Ingredients: Water,Ethoxylated hydrogenated castor oil,Edetic acid,Dimethyloldimethy hydantion,Carbomer 940,Fragrance.
+package_label_principal_display_panel:
+  Alie Vera Spray
+set_id:
+  50a9be1f-ac0c-4431-9ca1-1a846b253cca
+id:
+  5faaf264-c10a-4dc0-e053-2a91aa0a28bc
+effective_time:
+  20171206
+version:
+  2
+openfda:

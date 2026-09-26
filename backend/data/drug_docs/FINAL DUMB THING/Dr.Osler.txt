@@ -1,0 +1,27 @@
+effective_time:
+  20200603
+inactive_ingredient:
+  Water, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Butylene Glycol, Triethanolamine, Aloe Barbadensis Leaf Extract, Eucalyptus Globulus Leaf Extract, Glycerin, 1,2-Hexanediol, Ethylhexylglycerin, Carbomer, Fragrance
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+warnings:
+  For external use only. Flammable, keep away from fire or flame. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Dr.Osler HAND SANITIZER Alcohol GLYCERIN WATER ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE VERA WHOLE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Put enough amount in your palm and rub hands together until dry. Children under 6 years of age should be supervised by adult who is older than 21 years of age.
+package_label_principal_display_panel:
+  1
+indications_and_usage:
+  For the external use only
+set_id:
+  a737f403-1878-5e24-e053-2a95a90a93e1
+id:
+  a7385266-dda4-18a4-e053-2995a90a8351
+active_ingredient:
+  Alcohol

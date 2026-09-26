@@ -1,0 +1,43 @@
+effective_time:
+  20171118
+inactive_ingredient:
+  Inactive ingredients carnauba wax, colloidal silicon dioxide, croscarmellose sodium, hypromellose, magnesium stearate, maltodextrin, microcrystalline cellulose, polyethylene glycol 400, polysorbate 80, povidone, pregelatinized starch, stearic acid, titanium dioxide
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take • more than 6 caplets in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Do not use • if you are allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if • pain gets worse or lasts for more than 10 days • fever gets worse or lasts for more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+questions:
+  Questions or comments? 1-800-934-1204
+spl_product_data_elements:
+  berkley and jensen acetaminophen Acetaminophen ACETAMINOPHEN ACETAMINOPHEN CARNAUBA WAX SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSES MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL 400 POLYSORBATE 80 POVIDONES STEARIC ACID TITANIUM DIOXIDE caplet L544
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • do not take more than directed (see overdose warning) adults • take 2 caplets every 8 hours with water • swallow whole – do not crush, chew or dissolve • do not take more than 6 caplets in 24 hours • do not use for more than 10 days unless directed by a doctor under 18 years of age • ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • pain gets worse or lasts for more than 10 days • fever gets worse or lasts for more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition.
+storage_and_handling:
+  Other information • store at 20°-25°C (68°-77°F). Avoid excessive heat 40°C (104°F).
+do_not_use:
+  Do not use • if you are allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO THE ACTIVE INGREDIENT OF TYLENOL® ARTHRITIS PAIN Arthritis Pain Relief† Acetaminophen Extended-Release Tablets, 650 mg Pain Reliever-Fever Reducer Lasts up to 8 Hours See New Warnings Information DO NOT USE WITH OTHER MEDICINES CONTAINING ACETAMINOPHEN †For the Temporary Relief of Minor Arthritis Pain ACTUAL SIZE 650 mg Each *Capsule-shaped tablets Acetaminophen Label Image Acetaminophen Label Image Acetaminophen Label Image
+indications_and_usage:
+  Uses • temporarily relieves minor aches and pains due to: • arthritis • the common cold • headache • toothache • muscular aches • backache • menstrual cramps • temporarily reduces fever
+set_id:
+  c0c4d567-4d3a-4eef-bd90-6e5b01f256ea
+id:
+  ec4a5902-97bd-43ee-8bff-46cc3f9eff83
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredient (in each caplet) Acetaminophen 650 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="33%"/> <col width="67%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="ordered"> <item> <caption>&#x2022;</caption>take 2 caplets every 8 hours with water</item> <item> <caption>&#x2022;</caption>swallow whole &#x2013; do not crush, chew or dissolve</item> <item> <caption>&#x2022;</caption>do not take more than 6 caplets in 24 hours</item> <item> <caption>&#x2022;</caption>do not use for more than 10 days unless directed by a doctor</item> </list> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>under 18 years of age</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <list listType="ordered"> <item> <caption>&#x2022;</caption>ask a doctor</item> </list> </td> </tr> </tbody> </table>

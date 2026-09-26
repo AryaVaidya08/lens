@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  365 Everyday Value Arnica ARNICA MONTANA WATER ALCOHOL CARBOMER HOMOPOLYMER TYPE C SODIUM HYDROXIDE ARNICA MONTANA ARNICA MONTANA
+active_ingredient:
+  Active Ingredient † Arnica montana 1X HPUS - 7% The letters "HPUS" indicate that the component in this product is officially monographed in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  Purpose* Arnica montana 1X HPUS - 7% ... Trauma, bruises, stiffness, muscle soreness
+indications_and_usage:
+  Uses* For relief of muscle aches and stiffness due to: minor injuries strains falls and blows Reduces pain, swelling and discoloration from bruises
+warnings:
+  For external use only
+do_not_use:
+  Do not use if you are allergic to Arnica montana or to any of this product's inactive ingredients.
+when_using:
+  When using this product avoid contact with eyes, mucous membranes, wounds, damaged or irritated skin use only as directed dryness or irritation may occur do not tightly wrap or bandage the treated area do not apply heat or ice to the treated area immediately before or after use
+ask_doctor:
+  Stop use and ask a doctor if condition persists for more than 3 days or worsens symptoms clear up and reoccur within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply a thin layer of Arnica Gel to affected area as soon as possible after minor injury. Repeat 3 times a day or as needed. If heat or ice is applied, wait 5 minutes before applying Arnica Gel.
+spl_unclassified_section:
+  Other information do not store above 86° F (30° C) do not use if glue carton end flaps are open or if tube seal is broken
+  Pain relief of sore muscles, swelling, stiffness & bruising* Homeopathic Medicine NET WT 2.6 OZ (75g) *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE, NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. †C,K,CK, and X are homeopathic dilutions: see www.theAAHP.org for details
+inactive_ingredient:
+  Inactive ingredients alcohol, carbomer, purified water, sodium hydroxide
+questions:
+  Questions or comments? 1-844-WFM-TALK (1-844-936-8255) Distributed by: Whole Foods Market Austin, TX 78703 © 2020 WHOLE FOODS MARKET IP, LP www.wholefoodsmarket.com MADE IN FRANCE
+pregnancy_or_breast_feeding:
+  
+package_label_principal_display_panel:
+  label label label box tube
+set_id:
+  43546269-d873-45d6-863f-e794446ef388
+id:
+  00c741d4-f9a5-b286-e063-6394a90adb2c
+effective_time:
+  20230718
+version:
+  15
+openfda:
+  brand_name:
+    365 Everyday Value Arnica
+  generic_name:
+    ARNICA MONTANA
+  manufacturer_name:
+    WFM Private Label, LP
+  product_ndc:
+    42681-0512
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ARNICA MONTANA
+  spl_id:
+    00c741d4-f9a5-b286-e063-6394a90adb2c
+  spl_set_id:
+    43546269-d873-45d6-863f-e794446ef388
+  package_ndc:
+    42681-0512-5
+    42681-0512-6
+  is_original_packager:
+    True
+  upc:
+    0099482426354
+  unii:
+    O80TY208ZW

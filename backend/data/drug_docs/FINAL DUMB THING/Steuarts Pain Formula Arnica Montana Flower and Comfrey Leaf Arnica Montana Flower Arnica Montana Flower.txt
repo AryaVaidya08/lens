@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Steuarts Pain Formula Arnica Montana Flower and Comfrey Leaf Arnica Montana Flower Arnica Montana Flower Comfrey Leaf Comfrey Leaf Aloe Vera Leaf Cetyl Alcohol Glycerin Safflower oil Edetate Sodium Ethylhexylglycerin Salix Alba Bark Dimethyl Sulfone GLUCOSAMINE SULFATE POTASSIUM CHLORIDE Water Histamine Dihydrochloride Carbomer Copolymer Type B (Allyl Pentaerythritol Crosslinked) Olive Oil Whey Phenoxyethanol Trolamine
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Arnica Montana 1X HPUS 7% Pain relief, swelling, discoloration from bruising Comfrey (Symphytum Officinale) 1X HPUS 5% Healing, Pain relief
+active_ingredient_table:
+  <table width="75%"><col width="60%" align="left" valign="top"/><col width="40%" align="center" valign="top"/><thead><tr><th>Active ingredients</th><th>Purpose</th></tr></thead><tbody><tr><td>Arnica Montana 1X HPUS 7%</td><td>Pain relief, swelling, discoloration from bruising</td></tr><tr><td>Comfrey (Symphytum Officinale) 1X HPUS 5%</td><td align="right">Healing, Pain relief</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Arnica Montana 1X HPUS 7% Pain relief, swelling, discoloration from bruising Comfrey (Symphytum Officinale) 1X HPUS 5% Healing, Pain relief
+purpose_table:
+  <table width="75%"><col width="60%" align="left" valign="top"/><col width="40%" align="center" valign="top"/><thead><tr><th>Active ingredients</th><th>Purpose</th></tr></thead><tbody><tr><td>Arnica Montana 1X HPUS 7%</td><td>Pain relief, swelling, discoloration from bruising</td></tr><tr><td>Comfrey (Symphytum Officinale) 1X HPUS 5%</td><td align="right">Healing, Pain relief</td></tr></tbody></table>
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of joint and muscle pain associated with arthritis, simple backache, strains and bruises.
+warnings:
+  Warnings For external use only Allergy Alert If prone to allergic reactions apply on small area, consult a doctor before use. When using this product use only as directed do not use on open wounds or broken skin. Stop use and ask doctor if condition worsens redness is present irritation develops If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. If ingested drink copious amounts of water.
+when_using:
+  When using this product use only as directed do not use on open wounds or broken skin.
+stop_use:
+  Stop use and ask doctor if condition worsens redness is present irritation develops
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If ingested drink copious amounts of water.
+dosage_and_administration:
+  Directions Massage a thin layer into the skin over the affected area every 4 to 8 hours or as needed store at room temperature
+inactive_ingredient:
+  Inactive ingredients aloe barbadensis (aloe vera) leaf extract, carbopol gel former, cetyl alcohol, DI water, glucosamine sulfate, glycerin, histamine dihydrochloride, Sodium EDTA, Ethylhexylglycerin, Phenoxyethanol, methylsulfonylmethane (MSM/DMSO2), milk isolates, olive oil, safflower oil, salix alba (willow) bark extract, triethanolamine.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 142 gr Bottle Label STEUART'S Pain Formula PAIN RELIEF CREAM 2 OF NATURE'S STRONGEST PAIN RELIEVERS Arnica Comfrey Net Wt 5 oz (142 gr) PRINCIPAL DISPLAY PANEL - 142 gr Bottle Label
+set_id:
+  e6fb90fe-4640-4361-ba4a-c5b05d6289d9
+id:
+  e8629a68-2cd9-4ebd-a77b-62a9b20fcb61
+effective_time:
+  20210913
+version:
+  4
+openfda:

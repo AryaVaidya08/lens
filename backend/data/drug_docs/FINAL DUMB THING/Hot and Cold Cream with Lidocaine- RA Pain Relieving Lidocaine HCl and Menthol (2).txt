@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hot and Cold Cream with Lidocaine- RA Pain Relieving Lidocaine HCl and Menthol BUTYLATED HYDROXYTOLUENE CETOSTEARYL ALCOHOL CETETH-2 CETYL ALCOHOL EDETATE DISODIUM SODIUM PHOSPHATE, DIBASIC, ANHYDROUS LIGHT MINERAL OIL PROPYLENE GLYCOL SORBIC ACID PETROLATUM LIDOCAINE LIDOCAINE MENTHOL MENTHOL
+spl_unclassified_section:
+  Drug Facts HOT AND COLD CREAM with LIDOCAINE- RA PAIN RELIEVING CREAM Drug Facts
+active_ingredient:
+  Active Ingredients Lidocaine HCl 4% Menthol 1%
+purpose:
+  Purposes Lidocaine- Topical anesthetic, Menthol- Topical Analgesic
+indications_and_usage:
+  Uses Temporarily relieves minor pain
+warnings:
+  Warnings For external use only Do not use on large areas of the body or on cut, irritated or swollen skin on puncture wounds for more than one week without consulting a doctor When using this product Use only as directed. Read and follow all directions and warnings on this label rare cases of serious burns have been reported with products of this type do not bandage tightly or apply local heat (such as heating pads) to the area of use or use with a medicated patch avoid contact with eyes and mucous membranes a transient burning sensation may occur upon application but generally disappears in several days Stop use and ask a doctor if condition worsens redness is present irritation develops symptoms persist for more than 7 days or clear up and occur again within a few days you experience signs of skin injury, such as pain, swelling, or blistering where the product was applied If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on large areas of the body or on cut, irritated or swollen skin on puncture wounds for more than one week without consulting a doctor
+when_using:
+  When using this product Use only as directed. Read and follow all directions and warnings on this label rare cases of serious burns have been reported with products of this type do not bandage tightly or apply local heat (such as heating pads) to the area of use or use with a medicated patch avoid contact with eyes and mucous membranes a transient burning sensation may occur upon application but generally disappears in several days
+stop_use:
+  Stop use and ask a doctor if condition worsens redness is present irritation develops symptoms persist for more than 7 days or clear up and occur again within a few days you experience signs of skin injury, such as pain, swelling, or blistering where the product was applied
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children over 12 years: apply a thin layer to affected area every 6 to 8 hours, not to exceed 3 applications in a 24 hour period AFTER APPLYING, WASH HANDS WITH SOAP AND WATER children 12 years or younger: ask a doctor
+inactive_ingredient:
+  Inactive ingredients Butylated hydroxyl toluene,cetostearyl alcohol,cetomacrogol 1000,cetyl alcohol,disodium EDTA,disodium hydrogen phosphate,light liquid paraffin,propylene glycol,sorbic acid,transquitol P, white petroleum jelly Keep Carton As It Contains Important Information Close cap tightly between uses.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Hot and cold Cream -CareOne Net Wt 2.7 OZ (76.5 g) careone hot and cold 2.7oz 1
+set_id:
+  2f70c7fe-c242-4747-b9e8-7600afb5e45d
+id:
+  edf2f110-9fa2-7c1c-e053-2995a90a7db6
+effective_time:
+  20221120
+version:
+  5
+openfda:

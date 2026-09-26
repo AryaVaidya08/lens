@@ -1,0 +1,29 @@
+effective_time:
+  20171016
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Cetyl Esters Wax, Light Mineral Oil, Sodium Borate, Purified Water, White Petrolatum, White Wax
+purpose:
+  PURPOSE Diper rash
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  WARNINGS: For external use only • Should not be used by patients with a history of hypersensitivity to any of the components of the preparation. When using this product • Avoid contact with eyes Stop use and ask a physician if: • Condition worsens • Symptoms last more than 7 days, or clear up and occur again within a few days Do not use: • On deep puncture wounds • On animal bites • On serious burns Before using any medication, read all label directions.
+spl_product_data_elements:
+  Rash Stuff Zinc oxide ZINC OXIDE ZINC CATION CETYL ESTERS WAX water Light Mineral Oil Sodium Borate White Wax PETROLATUM
+other_safety_information:
+  OTHER INFORMATION Store at room temperature 20C to 27C (68F to 80F) Remove foil seal from tubes tip (only it will have a seal) Use with infants, children and adults Use caution: product may stain clothing and fabric
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Change wet and soiled diapers immediately Cleanse the diaper area and allow to dry Apply ointment liberally and as often as necessary with each diaper change and especially when exposed to wet diaper for a prolonged period of time, such as bedtime
+package_label_principal_display_panel:
+  PACKAGE LABEL image description
+indications_and_usage:
+  USE: For temporary protection and relief from the symptoms often associated with diaper rash: chafed skin inflammation excess moisture
+set_id:
+  db1c45b5-5c8a-468a-9d05-52807d40bb38
+id:
+  71bb99cb-254d-498a-b17b-13cc46c53711
+active_ingredient:
+  ACTIVE INGREDIENT Zinc oxide 18.5%

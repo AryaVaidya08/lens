@@ -1,0 +1,41 @@
+effective_time:
+  20120130
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D and C red no. 33, FD and C red no. 40, flavors, glycerin, monoammonium glycyrrhizinate, poloxamer 407, purified water, sodium benzoate, sodium chloride, sodium citrate, sucrose
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if the child has a breathing problem such as chronic bronchitis glaucoma a sodium-restricted diet Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers When using this product marked drowsiness may occur sedatives and tranquilizers may increase drowsiness excitability may occur, especially in children Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product marked drowsiness may occur sedatives and tranquilizers may increase drowsiness excitability may occur, especially in children
+questions:
+  Questions or comments? call 1-877-717-2824
+spl_product_data_elements:
+  Childrens Benadryl Allergy Cherry Flavored Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ANHYDROUS CITRIC ACID D&C RED NO. 33 FD&C RED NO. 40 GLYCERIN AMMONIUM GLYCYRRHIZATE POLOXAMER 407 WATER SODIUM BENZOATE SODIUM CHLORIDE SODIUM CITRATE
+ask_doctor:
+  Ask a doctor before use if the child has a breathing problem such as chronic bronchitis glaucoma a sodium-restricted diet
+other_safety_information:
+  Other information each 5 mL (1 tsp) contains: sodium 14 mg store between 20-25°C (68-77°F). Protect from light. Store in outer carton until contents used. do not use if bottle wrap, or foil inner seal imprinted "SAFETY SEAL®" is broken or missing see bottom panel for lot number and expiration date
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions find right dose on chart below mL = milliliter; tsp = teaspoonful take every 4 to 6 hours, or as directed by a doctor do not take more than 6 doses in 24 hours Age (yr) Dose (mL or tsp) children under 2 years do not use children 2 to 5 years do not use unless directed by a doctor children 6 to 11 years 5 mL (1 tsp) to 10 mL (2 tsp Attention: use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device.
+do_not_use:
+  to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+package_label_principal_display_panel:
+  NDC 50580-534-08 children's Benadryl® ALLERGY Diphenhydramine HCl 12.5 mg/5 mL oral solution Antihistamine Relieves Runny Nose Sneezing Itchy, Watery Eyes Itchy Throat Cherry FLAVORED LIQUID Alcohol Free THE HISTAMINE BLOCKER ® 8 fl oz (236 ml) Label for Benadryl Allergy Cherry - front Label for Benadryl Allergy Cherry - back
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+set_id:
+  ae81a3d0-e448-4b21-8680-7d9a1c4c0d50
+id:
+  9b34d99d-2ff0-40ed-ac80-8e6774444c49
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers
+active_ingredient:
+  Active Ingredient Active ingredient (in each 5 mL = 1 teaspoonful) Diphenhydramine HCl 12.5 mg
+dosage_and_administration_table:
+  <table border="1" width="60%" ID="ief3e21b3-ce7b-4e6a-81ba-a5491bbf2728"> <tbody> <tr> <td> <content styleCode="bold">Age (yr)</content> <content styleCode="bold"/> <content styleCode="bold"/> </td> <td> <content styleCode="bold">Dose (mL or tsp)</content> </td> </tr> <tr> <td>children under 2 years</td> <td>do not use</td> </tr> <tr> <td>children 2 to 5 years</td> <td>do not use unless directed by a doctor</td> </tr> <tr> <td>children 6 to 11 years</td> <td>5 mL (1 tsp) to 10 mL (2 tsp</td> </tr> </tbody> </table>

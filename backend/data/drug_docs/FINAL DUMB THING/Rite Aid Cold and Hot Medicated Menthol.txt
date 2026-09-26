@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Rite Aid Cold and Hot Medicated Menthol CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM CASTOR OIL DIHYDROXYALUMINUM AMINOACETATE EDETATE DISODIUM GLYCERIN HYDROXYPROPYL CELLULOSE, UNSPECIFIED KAOLIN POLYACRYLIC ACID (250000 MW) POLYVINYL ALCOHOL, UNSPECIFIED WATER SORBITOL TARTARIC ACID MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM
+active_ingredient:
+  Active ingredient Menthol 5%
+purpose:
+  Purpose Menthol - Topical Analgesic
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains of muscles and joints due to arthritis bursitis simple backache tendonitis strains bruises sprains cramps
+warnings:
+  Warnings For external use only When using this product use only as directed avoid contact with eyes or on mucous membranes do not apply to wounds or to damaged or very sensitive skin do not bandage tightly or use a heating pad Stop use and ask a doctor if excessive redness or irritation is present condition worsens pain persists for more than 7 days symptoms clear up and occur again within a few days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product use only as directed avoid contact with eyes or on mucous membranes do not apply to wounds or to damaged or very sensitive skin do not bandage tightly or use a heating pad
+stop_use:
+  Stop use and ask a doctor if excessive redness or irritation is present condition worsens pain persists for more than 7 days symptoms clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years and over: apply patch to affected area as needed but no more than 4 times daily children under 12 years: ask a doctor for easy application: grasp both ends of pad firmly, pull at both ends. Stretch pad until backing separates. Remove protective film while applying pad directly to site of pain.
+inactive_ingredient:
+  Inactive ingredients carbomer homopolymer, carboxymethylcellulose sodium, castor oil, dihydroxyaluminum aminoacetate, edetate disodium, glycerin, hydroxypropyl cellulose, kaolin, partially neutralized polyacrylate, polyvinyl alcohol, purified water, sorbitol solution, tartaric acid
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Rite Aid Cold & Hot Medicated Patch
+set_id:
+  aab88281-fec7-4336-bb06-748d5badeb7a
+id:
+  44153ee9-da18-6c42-e063-6294a90a569a
+effective_time:
+  20251121
+version:
+  6
+openfda:

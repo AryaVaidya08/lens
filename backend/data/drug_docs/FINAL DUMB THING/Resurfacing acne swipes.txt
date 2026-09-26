@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Resurfacing acne swipes Salicylic Acid LEVOMENOL DIGLYCERIN ALOE VERA LEAF SALICYLIC ACID SALICYLIC ACID GLYCOLIC ACID SALIX ALBA BARK TETRASODIUM GLUTAMATE DIACETATE WATER HAMAMELIS VIRGINIANA TOP CLADONIA RANGIFERINA WHOLE SODIUM HYDROXIDE PROPANEDIOL POLYSORBATE 20 TEA TREE OIL PHENOXYETHANOL ETHYLHEXYLGLYCERIN Round pads White round pads impregnated with topical acne solution
+active_ingredient:
+  Active Ingredient Salicylic Acid 0.5%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Uses For the treatment of acne Reduces the number of acne pimples and blackheads Allows skin to heal Helps prevent new acne pimples from forming
+warnings:
+  Warnings For external use only Do not use if you have very sensitive skin or known allergy to aspirin Stop use ask a doctor If excessive itching, dryness, redness, burning or swelling occurs, or if these symptoms persist When using this product • Keep away from eyes, lips and other mucous membranes. If contact occurs, flush thoroughly with water. • Do not leave pad on the skin for an extended period of time. • Using other topical acne medications at the same time or immediately following use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed get medical help or contact Poison Control Center right away
+dosage_and_administration:
+  Directions Cleanse the skin thoroughly before using the product Use the pad to clean and treat the entire affected area one to three times daily Do not rinse Because excessive drying of the skin may occur, start with one application daily, then gradually increase if needed or as directed by a doctor If bothersome dryness or peeling occurs, reduce the application Keep jar tightly closed Store at room temperature
+inactive_ingredient:
+  Inactive ingredients Water, Glycolic Acid, Sodium Hydroxide, Propanediol, Polysorbate 20, Salix Alba (Willow) Bark Extract, Hamamelis Virginiana (Witch Hazel) Bark/Leaf/Twig Extract, Cladonia Stellaris Extract (Alpine Caribou Moss), Melaleuca Alternifolia (Tea Tree) Leaf Oil, Aloe Barbadensis Leaf Juice, Glycerin, Bisabolol, Tetrasodium Glutamate Diacetate, Phenoxyethanol, Ethylhexylglycerin
+warnings_and_cautions:
+  Other Information Sunburn Alert: This product contains an alpha hydroxy acid (AHA) that may increase your skin’s sensitivity to the sun and particularly the possibility of sunburn. Use a sunscreen, wear protective clothing, and limit sun exposure while using this product and for a week afterwards.
+questions:
+  Questions or comments Email us at hi@oarsandalps.com, or call (630) 635-7839
+package_label_principal_display_panel:
+  Label OARS+ALPS ANTI- EVERYTHING PAD With 10% Glycolic Acid ANTI-AGNE +ANTI-AGING + ANTI-POLLUTION + ANTI-INGROWN HAIRS 28 Biodegradable Pads DIRECTIONS: Gently wipe over clean face and neck, avoiding the eye area. Do not rinse. Once absorbed, follow with a gentle moisturizer. Can be used daily. If bothersome dryness or peeling occurs, reduce the application. This formula contains an alpha hydroxy acid (AHA) which can increase skin’s sensitivity to the sun. be sure to apply SPF daily when using this product. CAUTION: For external use only. Avoid Eye area. If product gets in your eyes, rinse thoroughly. Manufactured for Oars + Alps LLC, Chicago, IL 60661 Made in USA 3M 5 PP OARS+ALPS ANTI- EVERYTHING PAD With 10% Glycolic Acid ANTI-AGNE + ANTI-AGING + ANTI-POLLUTION + ANTI-INGROWN HAIRS 28 Biodegradable Pads CRUELTY FREE + GLUTEN FREE + VEGAN FREE OF ALCOHOL, FRAGRANCE PARABENS, PHTHALATES, SULFATES Our pads help clear your complexion and minimize the appearance of pores. This plant based formula contains Glycolic Acid and Salicylic Acid for a gentle chemical exfoliation that help refresh your surface skin cell layer and energize your skin. OARSANDALPS.COM #TAKETOTHEOARS DO NOT FLUSH Manufactured for Oars + Alps LLC Chicago, IL 60661 Made in USA 3M 8 50000 02633 9 LABEL LABEL LABEL
+set_id:
+  efe14f46-c947-aea4-e053-2a95a90aad5f
+id:
+  44e861a1-92d4-6c98-e063-6394a90a7a94
+effective_time:
+  20251201
+version:
+  3
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Resurfacing acne swipes
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Oars And Alps LLC
+  product_ndc:
+    83046-100
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    44e861a1-92d4-6c98-e063-6394a90a7a94
+  spl_set_id:
+    efe14f46-c947-aea4-e053-2a95a90aad5f
+  package_ndc:
+    83046-100-30
+  is_original_packager:
+    True
+  upc:
+    0850000026339
+  unii:
+    O414PZ4LPZ

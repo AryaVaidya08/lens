@@ -1,0 +1,33 @@
+effective_time:
+  20120521
+inactive_ingredient:
+  Inactive Ingredients Inactive Ingredients: Water, Sodium Lauryl Sulfate, Cocoamidopropyl Betaine, Propylene Glycol, Sodium Chloride, DMDM Hydantoin, Glycerine, Tetrasodium EDTA, Fragrance, Methylchloroisothiazolinone, (and) Methyisothiazolinone, FDandC Yellow No.5, FDandC Red No.4
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a poison control center immediately.
+warnings:
+  Warnings For external use only Do not use in or near eyes Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact a poison control center immediately.
+when_using:
+  Do not use in or near eyes
+spl_product_data_elements:
+  Iris Antimicrobial Hand Chloroxylenol Chloroxylenol Chloroxylenol Water Sodium Lauryl Sulfate Cocamidopropyl Betaine Propylene Glycol Sodium Chloride DMDM Hydantoin Glycerin Edetate Sodium Methylchloroisothiazolinone Methylisothiazolinone FD&C Yellow No. 5 FD&C Red No. 4
+other_safety_information:
+  Other Information Store at room temperature
+openfda:
+version:
+  30671
+dosage_and_administration:
+  Directions Wet hands, dispense a small amount of soap, lather, rinse.
+spl_unclassified_section:
+  SPL Unclassified Distributed by Amerifoods Trading Co., P.O. Box 512377, Los Angeles, CA 90051-0377 Product of U.S.A
+package_label_principal_display_panel:
+  image of label
+indications_and_usage:
+  Uses Antimicrobial Hand Soap
+set_id:
+  6d90deed-29bc-4705-b7d1-ad1b67ff549b
+id:
+  567afc71-591d-41f9-aee3-6408f014c938
+active_ingredient:
+  Active Ingredient Chloroxylenol 0.3%

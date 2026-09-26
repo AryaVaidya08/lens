@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Night Time Severe Cold and Cough Relief ACETAMINOPHEN, DIPHENHYDRAMINE HCL, PHENYLEPHRINE HCL ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ACESULFAME POTASSIUM ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C BLUE NO. 1 FD&C RED NO. 40 MALTITOL PROPYLENE GLYCOL WATER SODIUM BENZOATE CHERRY FLAVOR
+active_ingredient:
+  Drug facts Active ingredients Active ingredients (in each tablespoonful 15 mL) Acetaminophen 325 mg Diphenhydramine HCL 12.5 mg Phenylephrine HCL 5mg
+purpose:
+  Purpose Pain reliever/Fever reducer Cough suppressant/Antihistamine Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children
+indications_and_usage:
+  Uses temporarily relieves these common cold and flu symptoms: minor aches and pains headache sore throat nasal and sinus congestion runny nose sneezing itchy watery eyes itchy nose or throat cough due to minor throat and bronchial irritation as may occur with a cold temporarily reduces fever
+warnings:
+  Warnings Liver warnings: This product contains acetaminophen. Severe liver damage may occur if you take: more than 6 dose in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product
+user_safety_warnings:
+  Warnings Sore throat warning If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea or vomiting, consult a doctor promptly.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are taking a prescription monamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product with any other drug containing diphenhydramine, even one used on the skin for children under 4 years of age
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease thyroid disease high blood pressure diabetes trouble urinating due to an enlarged prostate gland a breathing problem or chronic cough that lasts or as occurs with smoking, asthma or empysema cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin sedatives or tranquilizers
+when_using:
+  When using this product do not use more than directed (see overdose warning) excitability may occur, especially in children marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcohol drinks be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur redness or swelling is present symptoms do not get better within 7 days or are accompanied by a fever fever gets worse or lasts more than 3 days new symptoms occur cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding ask a health professional before use.
+overdosage:
+  Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact the Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Age Dose Children under 4 years Do not use Children 4 to under 12 years of age Do not use unless directed by a doctor Adults and children 12 years and over 2 tablespoonful (30 mL) every 4 hours take only as recommended (see Overdose warning) use dose cup or tablespoon (TBSP) do not take more than 6 doses in any 24-hour period
+spl_unclassified_section:
+  Other information each tablespoon (15 mL) contains: potassium 9 mg, sodium 6 mg dosage cup provided store between 20°-25° C (68°-7°7 F) do not refrigerate
+inactive_ingredient:
+  Inactive ingredients Acesulfame potassium, anhydrous citric acid, edetate disodium, FD and C Blue #1, FD and C Red #40, flavor, maltitol solution, propylene glycol, purified water, sodium benzoate
+questions:
+  Questions? Call weekdays from 9:30 AM to 4:30 PM EST at 1-877-798-5944
+package_label_principal_display_panel:
+  Product Label NDC 6801-154-08 *COMPARE TO THE ACTIVE INGREDIENTS IN THERAFUL® WARMING RELIEF COLD AND CHEST CONGESTION Premier Value® Night Time Severe Cold and Cough Relief Acetaminophen ............ Pain Reliever/Fever Reducer Diphenhydramine.......... Antihistamine/Cough Suppressant Phenylephrine HCL ...... Nasal Congestion Fever and Body Aches Sore Throat Headache Nasal Congestion Runny Nose Cough Cherry Flavor 8.3 FL OZ (245 mL) PV Independently Tested Satisfaction Guaranteed LF-007 DO NOT USE IF PRINTED SEAL UNDER AP IS TORN OR MISSING Failure to follow these warnings could result in consequences LB-007 DISTRIBUTED BY CHAIN DRUG CONSORTIUM 3301 NW BOCA RATON BLVD SUITE 101 BOCA RATON, FL 33431 Lot: Exp: *This product is not manufactured or distributed b Novartis Consumer health Inc., owner of the registered trademark Theraflu® Night Time AptaPharma 154-1 Label AptaPharma 154-2 Label AptaPharma154-3 Label AptaPharma154-4 Label
+set_id:
+  c8e9b57b-83e9-46c5-9791-02c4c2b94004
+id:
+  2f8462e8-7096-4688-ba3d-14caae022944
+effective_time:
+  20241229
+version:
+  5
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Night Time Severe Cold and Cough Relief
+  generic_name:
+    ACETAMINOPHEN, DIPHENHYDRAMINE HCL, PHENYLEPHRINE HCL
+  manufacturer_name:
+    Chain Drug Consortium, LLC
+  product_ndc:
+    68016-154
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    DIPHENHYDRAMINE HYDROCHLORIDE
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1298348
+  spl_id:
+    2f8462e8-7096-4688-ba3d-14caae022944
+  spl_set_id:
+    c8e9b57b-83e9-46c5-9791-02c4c2b94004
+  package_ndc:
+    68016-154-08
+  is_original_packager:
+    True
+  upc:
+    0840986022845
+  unii:
+    362O9ITL9D
+    TC2D6JAD40
+    04JA59TNSJ

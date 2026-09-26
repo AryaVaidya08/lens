@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  PANCREATINUM Pancreatin ORYCTOLAGUS CUNICULUS WHOLE ORYCTOLAGUS CUNICULUS WHOLE LACTOSE SUCROSE
+active_ingredient:
+  Active Ingredient PANCREATINUM 4CH GR
+purpose:
+  Indications For the temporary relief of symptoms associated with gastrointestinal discomforts
+warnings:
+  Warning: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose, sucrose.
+dosage_and_administration:
+  Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+questions:
+  QUESTIONS? 1-888-737-6925.
+indications_and_usage:
+  Indications For the temporary relief of symptoms associated with gastrointestinal discomforts Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken Homeopathic Remedy NDC : 62106-7110-4 PANCREATINUM Pancreatin 140 granules Indications For the temporary relief of symptoms associated with gastrointestinal discomforts 62106-7110
+set_id:
+  155903b0-3998-24c4-e054-00144ff8d46c
+id:
+  06d52ee3-dd55-c18d-e063-6294a90ac193
+effective_time:
+  20231003
+version:
+  9
+openfda:

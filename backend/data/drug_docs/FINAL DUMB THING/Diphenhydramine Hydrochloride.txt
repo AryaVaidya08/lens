@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Diphenhydramine Hydrochloride Diphenhydramine Hydrochloride CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 ANHYDROUS DIBASIC CALCIUM PHOSPHATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE STARCH, CORN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE light AP;023
+active_ingredient:
+  Active Ingredient (in each TABLET) Diphenhydramine HCl 50 mg
+purpose:
+  Purpose Sleep Aid
+indications_and_usage:
+  Uses relieves occasional sleeplessness
+warnings:
+  Warnings Do not use with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product you may get very drowsy avoid alcoholic drinks alcohol, sedatives & tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years and over: take 1 tablet at bedtime children under 12 years: ask a doctor
+spl_unclassified_section:
+  Other Information store at 15-30 °C (59-86 °F) protect from moisture
+inactive_ingredient:
+  Inactive Ingredients Croscarmellose sodium, dicalcium phosphate, FD&amp;C blue# 1(Al-lake), Magnesium stearate, microcrystalline cellulose.
+questions:
+  Questions or Comments TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP OR BAND AROUND ANY CAPSULE IS MISSING OR DAMAGED Manufactured by: Advance Pharmaceutical Inc. Holtsville, NY 11742 Call 631-981-4600, 8:30 am to 4:30 pm ET, Monday-Friday
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL DIPHENHYDRAMINE HYDROCHLORIDE Tablet, USP 50 MG ANTIHISTAMINE NDC: 17714-023-50 – 50 COUNT Nighttime sleep 023-50
+set_id:
+  d1f51b7b-da65-4637-8199-f7d59e6dd1c1
+id:
+  5cc9196c-68d7-c9c1-e053-2a91aa0acd8b
+effective_time:
+  20171030
+version:
+  2
+openfda:
+  application_number:
+    part341
+  brand_name:
+    Diphenhydramine Hydrochloride
+  generic_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  manufacturer_name:
+    Advance Pharmaceutical Inc.
+  product_ndc:
+    17714-023
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1085945
+  spl_id:
+    5cc9196c-68d7-c9c1-e053-2a91aa0acd8b
+  spl_set_id:
+    d1f51b7b-da65-4637-8199-f7d59e6dd1c1
+  package_ndc:
+    17714-023-50
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40

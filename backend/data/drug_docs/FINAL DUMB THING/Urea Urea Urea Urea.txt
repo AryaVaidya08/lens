@@ -1,0 +1,40 @@
+effective_time:
+  20160225
+contraindications:
+  CONTRAINDICATIONS Known hypersensitivity to any of the listed ingredients
+precautions:
+  PRECAUTIONS Urea cream should be used as directed by a physician and should not be used to treat conditions other than those for which it was prescribed. If redness or irritation occurs, discontinue use.
+warnings:
+  WARNINGS For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  Pregnancy: Category C Animal reproduction studies have not been conducted with Urea Cream. It is also not known whether urea cream can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Urea cream should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers It is not known whether urea cream is excreted in human milk, therefore caution should be exercised when administering to a nursing mother.
+spl_product_data_elements:
+  Urea Urea Urea Urea DIMETHYL ISOSORBIDE GLYCERIN ISOPROPYL MYRISTATE WATER SORBITOL TRIDECYL STEARATE NEOPENTYL GLYCOL DICAPRYLATE/DICAPRATE TRIDECYL TRIMELLITATE Urea Urea Urea Urea DIMETHYL ISOSORBIDE GLYCERIN ISOPROPYL MYRISTATE WATER SORBITOL TRIDECYL STEARATE NEOPENTYL GLYCOL DICAPRYLATE/DICAPRATE TRIDECYL TRIMELLITATE
+description:
+  DESCRIPTION Urea cream, 40% is a keratolytic emollient, which is a gentle, yet effective, tissue softener for skin. Each gram contains 40% Urea as the active ingredient, and the following inactive ingredients: dimethyl isosorbide, emulsifying wax NF, glycerin 99.7% USP, isopropyl myristate, purified water, sorbitol 70% Solution USP, tridecyl stearate and neopentyl glycol dicaprylate/dicaprate and tridecyl trimellitate. CHEMICAL STRUCTURE Urea is diamide of Carbonic acid with the following structure: chemicalstructure
+openfda:
+version:
+  10
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATIONS Apply to affected skin twice per day, or as directeded by your physician. Rub in until completely absorbed. KEEP THIS AND ALL OTHER MEDICATIONS OUT OF REACH OF CHILDREN
+adverse_reactions:
+  ADVERSE REACTIONS Transient stinging, burning, itching or irritation is possible and normally resolves upon discontinuing the medication.
+spl_unclassified_section:
+  RX ONLY UreaHeader
+how_supplied:
+  HOW SUPPLIED Urea 40% cream is supplied in 28.35gm NDC 67877-272-21 85.05gm NDC 67877-272-03 198.6gm NDC 67877-272-07 Urea 40% lotion is supplied in 236.6ml NDC 67877-273-12 Store at room temperature 15°C -30°C (59°F-86°F). Protect from freezing. Manufactured for: Manufactured by: Ascend Laboratories, LLC Crown Laboratories, Inc Montvale, NJ 07645 Johnson City, TN 37604 P1827.01
+package_label_principal_display_panel:
+  PACKAGE LABEL - Urea Cream 40% ASCEND Laboratories, LLC NDC 67877-272-21 Urea Cream 40% For Topical Use Only Rx Only NET WT 1 oz (28.35g) creamproductlabel
+  PACKAGE LABEL - Urea Lotion 40% ASCEND Laboratories, LLC NDC 67877-273-12 Urea Lotion 40% For Topical Use Only Rx Only 8 fl oz (236.6ml) lotionproductlabel
+pharmacokinetics:
+  PHARMACOKINETICS The exact mechanism of action of topically applied urea is not known.
+indications_and_usage:
+  INDICATION AND USAGE Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, xerosis, ichthyosis, skin cracks and fissures, dermatitis, eczema, psoriasis, keratoses and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Urea cream gently dissolves the intracellular matrix which results in loosening of the horny layer of the skin and shedding of scaly skin at regular intervals, thereby softening hyperkeratotic areas of the skin.
+set_id:
+  294774a4-df8f-483d-97f8-73b98eeb3ba9
+id:
+  a02f553e-7ecf-4752-9f6a-aa673b1b3198

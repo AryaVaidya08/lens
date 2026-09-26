@@ -1,0 +1,41 @@
+effective_time:
+  20150716
+inactive_ingredient:
+  Inactive ingredients Croscarmellose Sodium, Dicalcium Phosphate, Hypromellose, Magnesium Stearate, Microcrystalline Cellulose, Polyethylene Glycol, Pregelatinized Starch, Silica, Sodium Benzoate, Stearic Acid.
+purpose:
+  Purpose Stool Softener
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use laxative products for longer than one week unless directed to do so by a doctor if you are presently taking mineral oil unless told to do so by a doctor Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding you fail to have a bowel movement after use These could be signs of a serious condition. If pregnant or breast-feeding, ask a doctor before use. Keep out of Reach of Children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? If you have any questions or comments, or to report an adverse event, please contact +1 404 256 8817
+spl_product_data_elements:
+  Colistat DOCUSATE SODIUM DOCUSATE SODIUM DOCUSATE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOLS STARCH, CORN SILICON DIOXIDE SODIUM BENZOATE STEARIC ACID Round Biconvex with bisect GPI;S1
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over 2 weeks
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: Take 1 tablet as needed, not to exceed more than 3 tablets daily, or as directed by a doctor. Children under 12 years of age: Consult a doctor before use.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a doctor before use.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding you fail to have a bowel movement after use These could be signs of a serious condition.
+spl_unclassified_section:
+  Other information Each tablet contains: Calcium 40 mg Each tablet contains: Sodium 10 mg Store at room temperature. Do not use if imprinted safety seal is broken or missing
+do_not_use:
+  Do not use laxative products for longer than one week unless directed to do so by a doctor if you are presently taking mineral oil unless told to do so by a doctor
+package_label_principal_display_panel:
+  Principal Display Panel COLISTAT Docusate Sodium Stool Softener Gentle Effective Stimulant Free 50 TABLETS 100 mg each untitled.jpg
+indications_and_usage:
+  Uses for relief of occasional constipation (irregularity).This product generally produces a bowel movement within 12 to 72 hours.
+set_id:
+  87e4f962-08b8-4817-9c31-d8b411f52af3
+id:
+  024105d7-d4a4-4370-acfe-854032e043f5
+active_ingredient:
+  Active ingredient (in each tablet) Docusate Sodium 100 mg
+dosage_and_administration_table:
+  <table ID="i297f4a4c-4824-411c-8b17-25c15155238f" border="6" width="380"> <tbody> <tr> <td> <content styleCode="bold">Adults and children 12 years of age and older:</content> </td> <td>Take 1 tablet as needed, not to exceed more than 3 tablets daily, or as directed by a doctor.  </td> </tr> <tr> <td> <content styleCode="bold">Children under 12 years of age:</content> </td> <td>Consult a doctor before use.  </td> </tr> </tbody> </table>

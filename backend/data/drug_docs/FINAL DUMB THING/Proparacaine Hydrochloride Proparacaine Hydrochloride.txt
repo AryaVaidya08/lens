@@ -1,0 +1,45 @@
+effective_time:
+  20210416
+geriatric_use:
+  Geriatric Use No overall clinical differences in safety of effectiveness have been observed between the elderly and other adult patients.
+precautions:
+  PRECAUTIONS Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been performed to evaluate carcinogenic potential, mutagenicity or possible impairment of fertility in males or females. Pregnancy Pregnancy Category C Animal reproduction studies have not been conducted with Proparacaine Hydrochloride Ophthalmic Solution, USP 0.5%. It is also not known whether proparacaine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Proparacaine hydrochloride should be administered to a pregnant woman only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when proparacaine hydrochloride is administered to a nursing woman. Pediatric Use Safety and effectiveness of proparacaine hydrochloride ophthalmic solution in pediatric patients have been established. Use of proparacaine hydrochloride is supported by evidence from adequate and well-controlled studies in adults and children over the age of twelve, and safety information in neonates and other pediatric patients. Geriatric Use No overall clinical differences in safety of effectiveness have been observed between the elderly and other adult patients.
+description:
+  DESCRIPTION Proparacaine Hydrochloride Ophthalmic Solution, USP 0.5% is a topical local anesthetic for ophthalmic use. The active ingredient is represented by the structural formula: Established name: Proparacaine Hydrochloride Chemical name: Benzoic acid, 3-amino-4-propoxy-,2-(diethylamino) ethyl ester, monohydrochloride Molecular weight: 330.85 Each mL contains: Active : proparacaine hydrochloride 5 mg (0.5%). Inactives : glycerin and purified water. The pH may be adjusted with hydrochloric acid and/or sodium hydroxide. Preservative: b enzalkonium chloride (0.01%). Proparacaine Hydrochloride (structural formula)
+storage_and_handling:
+  Storage Refrigerate at 2°-8°C (36°- 46°F). Protect from light. Keep tightly closed. DO NOT USE IF IMPRINTED NECKBAND IS NOT INTACT. KEEP OUT OF REACH OF CHILDREN. Revised: July 2016 Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, Bridgewater, NJ 08807 USA ©Bausch & Lomb Incorporated 9114403 (Folded) 9114503 (Flat)
+indications_and_usage:
+  INDICATIONS AND USAGE Proparacaine hydrochloride ophthalmic solution is indicated for procedures in which a topical ophthalmic anesthetic is indicated; corneal anesthesia of short duration, e.g. tonometry, gonioscopy, removal of corneal foreign bodies and for short corneal and conjunctival procedures.
+set_id:
+  589ac17c-9400-e481-e053-2991aa0adbb5
+id:
+  c018aad4-df25-54b5-e053-2a95a90a6293
+pediatric_use:
+  Pediatric Use Safety and effectiveness of proparacaine hydrochloride ophthalmic solution in pediatric patients have been established. Use of proparacaine hydrochloride is supported by evidence from adequate and well-controlled studies in adults and children over the age of twelve, and safety information in neonates and other pediatric patients.
+contraindications:
+  CONTRAINDICATIONS Proparacaine hydrochloride ophthalmic solution is contraindicated in patients with known hypersensitivity to any of the ingredients of this preparation.
+warnings:
+  WARNINGS NOT FOR INJECTION INTO THE EYE - FOR TOPICAL OPHTHALMIC USE ONLY Prolonged use of a topical ocular anesthetic is not recommended. It may produce permanent corneal opacification with accompanying visual loss.
+pregnancy:
+  Pregnancy Pregnancy Category C Animal reproduction studies have not been conducted with Proparacaine Hydrochloride Ophthalmic Solution, USP 0.5%. It is also not known whether proparacaine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Proparacaine hydrochloride should be administered to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when proparacaine hydrochloride is administered to a nursing woman.
+spl_product_data_elements:
+  Proparacaine Hydrochloride Proparacaine Hydrochloride BENZALKONIUM CHLORIDE GLYCERIN HYDROCHLORIC ACID WATER SODIUM HYDROXIDE PROPARACAINE HYDROCHLORIDE PROPARACAINE
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Usual dosage: Removal of foreign bodies and sutures, and for tonometry: 1 to 2 drops (in single instillations) in each eye before operating. Short corneal and conjunctival procedures: 1 drop in each eye every 5 to 10 minutes for 5 to 7 doses. NOTE: Proparacaine Hydrochloride Ophthalmic Solution, USP 0.5% should be clear, colorless to faint yellow color. If the solution becomes darker, discard the solution. FOR TOPICAL OPHTHALMIC USE ONLY
+adverse_reactions:
+  ADVERSE REACTIONS Occasional temporary stinging, burning and conjunctival redness may occur with the use of proparacaine. A rare, severe, immediate-type, apparently hyperallergic corneal reaction characterized by acute, intense and diffuse epithelial keratitis, a gray, ground glass appearance, sloughing of large areas of necrotic epithelium, corneal filaments and sometimes iritis with descemetitis has been reported. Allergic contact dermatitis from proparacaine with drying and fissuring of the fingertips has been reported. To report SUSPECTED ADVERSE REACTIONS, contact Bausch + Lomb, a division of Valeant Pharmaceuticals North America LLC, at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+spl_unclassified_section:
+  Rx only
+how_supplied:
+  HOW SUPPLIED Proparacaine Hydrochloride Ophthalmic Solution, USP 0.5% is supplied in a plastic bottle with a controlled drop tip and a white polypropylene cap in the following size: NDC 68071-1332-5 Box of 15mL
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL pdp
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Proparacaine hydrochloride ophthalmic solution is a rapidly-acting topical anesthetic, with induced anesthesia lasting approximately 10-20 minutes.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility Long-term studies in animals have not been performed to evaluate carcinogenic potential, mutagenicity or possible impairment of fertility in males or females.

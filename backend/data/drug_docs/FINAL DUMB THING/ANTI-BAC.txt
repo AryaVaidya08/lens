@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  ANTI-BAC HAND SANITIZER ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT ETHYL ALCOHOL 70%
+purpose:
+  PURPOSE ANTISEPTIC
+indications_and_usage:
+  USES DECREASES BACTERIA ON THE SKIN THAT COULD CAUSE DISEASE RECOMMENDED FOR REPEATED USE
+warnings:
+  WARNINGS For external use only: hands Flammable. Keep away from fire or flame. When using this product Keep out of eyes. In case of contact with eyes flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS WET HANDS THOROUGHLY WITH PRODUCT AND ALLOW TO DRY WITHOUT WIPING. FOR CHILDREN UNDER 6, USE ONLY UNDER ADULT SUPERVISION. NOT RECOMMENDED FOR INFANTS.
+other_safety_information:
+  OTHER INFORMATION DO NOT STORE ABOVE 105°F MAY DISCOLOR SOME FABRICS HARMFUL TO WOOD FINISHES AND PLASTICS
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER, CARBOMER, TRIETHANOLAMINE, GLYCERINE
+package_label_principal_display_panel:
+  01b LBL_HandSanitizer
+set_id:
+  a584e226-1263-45a3-b622-3f6d7bd80c60
+id:
+  24c2128b-50b1-d35d-e063-6294a90a5214
+effective_time:
+  20241018
+version:
+  9
+openfda:

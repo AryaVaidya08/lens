@@ -1,0 +1,33 @@
+effective_time:
+  20150616
+inactive_ingredient:
+  Other Ingredients: Calcium carbonate, Lanolin, Magnesium hydroxide, Methlyparaben, Petrolatum, Propylene glycol, Propylparaben, Sodium Chloride, Sodium Lauryl Sulfate, Stearyl alcohol, Vitamin A Palmitate, Water, Zinc Chloride.
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  Keep this and all medicines out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings: For external use only. Avoid contact with eyes. Not to be applied over deep or puncture wounds, infections or lacerations. Consult a physician. If condition worsens or does not improve within 7 days stop use and consult a physician. Do not use on children under 6 months of age without consulting a physician. Keep this and all medicines out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  DERMA GRAN Aluminium Hydroxide ALGELDRATE ALUMINUM HYDROXIDE CALCIUM CARBONATE LANOLIN MAGNESIUM HYDROXIDE METHYLPARABEN PETROLATUM PROPYLENE GLYCOL PROPYLPARABEN SODIUM CHLORIDE SODIUM LAURYL SULFATE STEARYL ALCOHOL VITAMIN A PALMITATE WATER ZINC CHLORIDE
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Cleanse area and dry thoroughly. Apply as needed, directly to the affected area.
+stop_use:
+  If condition worsens or does not improve within 7 days stop use and consult a physician.
+storage_and_handling:
+  Customer Storage: Store at a Controlled Room Temperature 15-30 o (59-86 o F)
+do_not_use:
+  Do not use on children under 6 months of age without consulting a physician.
+package_label_principal_display_panel:
+  Principal Display Panel DERMA GRAN OINTMENT NDC 64772-126-36 pH Balanced Skin Protectant Latex Free 4 FL OZ (113 g) DERMA GRAN OINTMENT NDC 64771-126-34 pH Balanced Skin Protectant Latex Free Untitled.jpg gdtyulktlteled.jpg
+indications_and_usage:
+  Uses: Dries the oozing, and weeping of poison ivy, poison oak, or poison sumac. For the temporary protection, comfort and lubrication of minor skin irritations such as intertrigo, chafing, galling, rubbing or friction.
+set_id:
+  aecee847-78f9-46f0-9eb2-4b79c2a49dd5
+id:
+  febc98f6-5fa6-477b-bfa1-ec1011805653
+active_ingredient:
+  Active Ingredients: Aluminium Hydroxide Gel 0.275%

@@ -1,0 +1,43 @@
+effective_time:
+  20140205
+drug_interactions:
+  Drug Interactions — When preparations containing opium are administered in combination with other drugs, the cautions applicable to each ingredient should be borne in mind. Reduced dosage is indicated in poor-risk patients, in the very young or very old patient, and in those who are receiving other central-nervous-system depressants.
+contraindications:
+  CONTRAINDICATIONS This preparation is not recommended for use in children. It should not be used in diarrhea caused by poisoning until the toxic material is eliminated from the gastrointestinal tract.
+drug_abuse_and_dependence:
+  DRUG ABUSE AND DEPENDENCE Controlled Substance —Opium Tincture, USP (Deodorized), is a Schedule II drug. See Warnings .
+precautions:
+  PRECAUTIONS General — Opium should be used with caution in the elderly, in debilitated individuals, and in patients with increased intracranial pressure, cerebral arteriosclerosis, hepatic cirrhosis or liver insufficiency, gastrointestinal hemorrhage, myxedema, emphysema, and bronchial asthma. Drug Interactions — When preparations containing opium are administered in combination with other drugs, the cautions applicable to each ingredient should be borne in mind. Reduced dosage is indicated in poor-risk patients, in the very young or very old patient, and in those who are receiving other central-nervous-system depressants. Usage in Pregnancy — Pregnancy Category C —Animal reproduction studies have not been conducted with Opium Tincture, USP (Deodorized). It is also not known whether Opium Tincture, USP (Deodorized), can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Opium Tincture, USP (Deodorized), should be given to a pregnant woman only if clearly needed. Nursing Mothers — Caution should be exercised when Opium Tincture, USP (Deodorized), is administered to a nursing woman. Usage in Children — Safety and effectiveness in children have not been established. See Contraindications .
+warnings:
+  WARNINGS Addiction can result from opium usage. Opium preparations should be given in the smallest effective dose and as infrequently as possible to minimize the development of tolerance and physical dependence.
+pregnancy:
+  Usage in Pregnancy — Pregnancy Category C —Animal reproduction studies have not been conducted with Opium Tincture, USP (Deodorized). It is also not known whether Opium Tincture, USP (Deodorized), can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Opium Tincture, USP (Deodorized), should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers — Caution should be exercised when Opium Tincture, USP (Deodorized), is administered to a nursing woman.
+spl_product_data_elements:
+  Opium Tincture Deodorized Morphine MORPHINE MORPHINE ALCOHOL WATER
+description:
+  DESCRIPTION Opium Tincture, USP (Deodorized), is for oral administration. It is freed from unpleasant odor or nauseating substances by “denarcotization” with a petroleum distillate. Opium tincture is a clear, reddish-brown hydroalcoholic solution. Each 100 mL contains 1 g of anhydrous morphine (represents the equivalent of 10 g of Powdered Opium, USP), alcohol, 19%, and water. Opium has a very characteristic odor and a very bitter taste. The opiates are the most effective and prompt-acting nonspecific antidiarrheal agents.
+openfda:
+version:
+  5
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Usual Adult Dose — 0.6 mL orally 4 times a day.
+adverse_reactions:
+  ADVERSE REACTIONS Constipation, nausea, and vomiting may occur in some patients. Pruritus and urticaria have been observed.
+general_precautions:
+  General — Opium should be used with caution in the elderly, in debilitated individuals, and in patients with increased intracranial pressure, cerebral arteriosclerosis, hepatic cirrhosis or liver insufficiency, gastrointestinal hemorrhage, myxedema, emphysema, and bronchial asthma.
+how_supplied:
+  HOW SUPPLIED Tincture —(4 fl oz) NDC 42998-203-01; (16 fl oz) NDC 42998-203-02 Store at controlled room temperature, 68° to 77° F (20° to 25° C) (see USP). Manufactured for: Marathon Pharmaceuticals, LLC Northbrook, IL 60062 August 2013 0228-01
+package_label_principal_display_panel:
+  Principal Display Panel NDC-42998-203-02 Opium Tincture USP (Deodorized) 10 mg/mL of anhydrous morphine Rx Only 473 mL (16 fl oz) (1 pt) NDC-42998-203-02 Opium Tincture USP (Deodorized) 10 mg/mL of anhydrous morphine Rx Only 473 mL (16 fl oz) (1 pt)
+indications_and_usage:
+  INDICATIONS AND USAGE Opium tincture is useful for the treatment of diarrhea.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY The opiates act by enhancing tone in the long segments of longitudinal muscle and by inhibiting propulsive contraction of both circular and longitudinal muscles. Clinical evidence indicates that the analgesic activity of opium preparations is due to their morphine content. Relatively small doses that do not produce significant analgesia are effective in controlling diarrhea. The papaverine content of the mixed alkaloids is too small to have demonstrable spasmolytic activity. Following oral administration, morphine is well absorbed from the gastrointestinal tract. It is rapidly metabolized following oral administration, however, and plasma levels of unconjugated morphine are lower than those achieved after parenteral administration. Like other narcotic analgesics, opium preparations are metabolized in the liver. Morphine undergoes conjugation with glucuronic acid at the 3-hydroxyl group. Secondary conjugation may also occur at the 6-hydroxyl group to form the 3,6-diglucuronide. Morphine is excreted in the urine mainly as morphine-3-glucuronide and smaller amounts of morphine-3,6-diglucuronide and unchanged drug. Approximately 75% of a dose of morphine is excreted in the urine within 48 hours.
+set_id:
+  830fe86b-7f70-48bd-8151-71a0f44226f7
+id:
+  3017d172-7e34-4ee1-b3bf-b591216c15f2
+overdosage:
+  OVERDOSAGE Signs and Symptoms —Symptoms of toxicity are those of morphine and alcohol, such as nausea, vomiting, miosis, cool and clammy skin, respiratory and CNS depression, bradycardia, hypotension, and skeletal muscle flaccidity. Noncardiogenic pulmonary edema may develop after opioid overdose and monitoring of heart filling pressure may be helpful. Ethanol has been demonstrated to cause hypoglycemia in children or adults with limited glycogen stores. In severe overdosage, apnea, circulatory collapse, cardiac arrest, and death may occur. Treatment —To obtain up-to-date information about the treatment of overdose, a good resource is your certified Regional Poison Control Center. Telephone numbers of certified poison control centers are listed in the Physicians’ Desk Reference (PDR) . In managing overdosage, consider the possibility of multiple drug overdoses, interaction among drugs, and unusual drug kinetics in your patient. Initial management of opioid overdose should emphasize establishment of a secure airway and support of ventilation and perfusion. Meticulously monitor and maintain, within acceptable limits, the patient’s vital signs, blood gases, serum electrolytes, blood glucose, etc. Naloxone antagonizes most effects of opioids. Protect the airway as naloxone may induce vomiting. Since naloxone has a shorter duration of action than opioids, repeated doses may be needed. In patients who abuse opioids chronically, a withdrawal syndrome may be manifest on administration of naloxone. This may include yawning, tearing, restlessness, sweating, dilated pupils, piloerection, vomiting, diarrhea, and abdominal cramps. This syndrome usually abates quickly as the effect of naloxone dissipates. Absorption of drugs from the gastrointestinal tract may be decreased by giving activated charcoal, which, in many cases, is more effective than emesis or lavage; consider charcoal instead of or in addition to gastric emptying. Repeated doses of charcoal over time may hasten elimination of some drugs that have been absorbed. Since opium tincture can delay gastric emptying, evacuation of the stomach may be beneficial. Safeguard the patient’s airway when employing gastric emptying or charcoal. Monitor for and treat hypoglycemia. The use of forced diuresis, peritoneal dialysis, hemodialysis, or charcoal hemoperfusion has not been established to be beneficial.

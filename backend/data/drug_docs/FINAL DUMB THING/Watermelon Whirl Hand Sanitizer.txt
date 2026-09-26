@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Watermelon Whirl Hand Sanitizer Ethyl Alcohol PINENE ALCOHOL ALCOHOL AMINOMETHYL PROPANOL ALOE BARBADENSIS LEAF JUICE .ALPHA.-TOCOPHEROL ACETATE LIMONENE, (+)- WATER GLYCERIN CITRUS LIMON (LEMON) PEEL OIL CITRAL
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use [s] Hand sanitizer to reduce bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable, keep away form fire or flame. May Cause Serious Irritation In Case of Direct Eye Contact.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Do not use on broken or irritated skin.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops and lasts more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Spray enough product in your palm to thoroughly cover hands. Rub hands together briskly until dry. Children under 6 years should be supervised when using this product.
+storage_and_handling:
+  Other information · Store below 104 ℉ (40 ℃). · Avoid excessive heat or direct sunlight. · May discolor certain fabrics.
+inactive_ingredient:
+  Inactive Ingredients Water(Aqua), Glycerin, Fragrance(parfum), Aminomethyl Propanol, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate (VITAMIN E), Citral, Limonene, Citrus Limon Peel Oil, Pinene
+package_label_principal_display_panel:
+  Watermelon Whirl Hand Sanitizer NDC: 87361-004-01 Label 1 Label 2
+set_id:
+  522b6376-bae8-adb0-e063-6294a90a318d
+id:
+  522b4c51-4451-9aae-e063-6294a90ad7df
+effective_time:
+  20260526
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Watermelon Whirl Hand Sanitizer
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    PEACH LAYNE, LLC
+  product_ndc:
+    87361-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1041849
+  spl_id:
+    522b4c51-4451-9aae-e063-6294a90ad7df
+  spl_set_id:
+    522b6376-bae8-adb0-e063-6294a90a318d
+  package_ndc:
+    87361-004-01
+  is_original_packager:
+    True
+  upc:
+    0810141997936
+  unii:
+    3K9958V90M

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Halls Cherry Menthol EUCALYPTUS OIL FD&C BLUE NO. 2 FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP LECITHIN, SOYBEAN SUCROSE WATER MENTHOL MENTHOL H
+active_ingredient:
+  Active Ingredient <(per drop) Menthol 7.6 mg>
+purpose:
+  Purposes <Cough suppressant, Oral anesthetic>
+indications_and_usage:
+  Uses <Temporarily relieves: cough due to a cold occasional minor irritation or sore throat>
+warnings:
+  Warnings <Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. These may be serious.>
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore mouth does not improve in 7 days irritation, pain, or redness persist or worsens
+keep_out_of_reach_of_children:
+  Keep out of reach of children Enter section text here
+dosage_and_administration:
+  Directions adults and children 5 years and over: dissolve 1 drop slowly in the mouth. Repeat every 2 hours as needed children under 5 years: ask a doctor
+spl_unclassified_section:
+  Other information 15 calories per drop Contains: SOY.
+inactive_ingredient:
+  Inactive ingredients <eucalyptus oil, FD&C blue 2, FD&C red 40, flavors, glucose syrup, glycerin, high fructose corn syrup, soy lecithin, sucrose, water>
+questions:
+  Questions <Call 1-800-524-2854, Monday to Friday, 9 AM-6 PM Eastern Time or visit our website at www.gethalls.com>
+package_label_principal_display_panel:
+  OTC Principal Display Panel <NDL 12546-331-25 Halls Cherry SSC 25ct bag> MM1
+set_id:
+  9a1e56ce-bfdf-4c94-a7d4-688366e3f5e2
+id:
+  e2b493b9-10a5-cace-e053-2995a90afe3b
+effective_time:
+  20220630
+version:
+  5
+openfda:

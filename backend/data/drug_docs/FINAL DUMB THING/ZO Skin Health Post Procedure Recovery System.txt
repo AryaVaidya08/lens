@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  ZO Skin Health Post Procedure Recovery System Aluminum Acetate ZO Skin Health Pomatrol Soothing ZO Skin Health Pomatrol Soothing WATER HYDROGENATED POLYBUTENE (1300 MW) GLYCERIN TRIBEHENIN SUNFLOWER OIL POLYGLYCERYL-4 ISOSTEARATE TRIETHYLHEXANOIN POLY(METHYL METHACRYLATE; 450000 MW) PHENOXYETHANOL MAGNESIUM SULFATE, UNSPECIFIED FORM HEXYL LAURATE BROCCOLI OATMEAL PANTHENOL TRIACETATE, (+)- ETHYL LINOLEATE ERYTHRITOL CHLORPHENESIN ALKYL (C12-15) BENZOATE .ALPHA.-TOCOPHEROL ACETATE OLEYL ALCOHOL BUTYLENE GLYCOL N-ACETYLTYROSINE AMINOPROPYL DIHYDROGEN PHOSPHATE PROLINE UBIDECARENONE VITAMIN A PALMITATE ASCORBIC ACID TOCOPHEROL ADENOSINE TRIPHOSPHATE DISODIUM ACETYL GLUCOSAMINE PHOSPHATE HYALURONATE SODIUM SODIUM BENZOATE POTASSIUM SORBATE POLYOXYL 35 CASTOR OIL PEG-12 GLYCERYL LAURATE HOMARINE HYDROCHLORIDE POVIDONE, UNSPECIFIED EDETATE DISODIUM ANHYDROUS ZO Skin Health Hydrating Creme ZO Skin Health Hydrating Creme WATER GLYCERIN PETROLATUM DISTEARYLDIMONIUM CHLORIDE ISOPROPYL PALMITATE CYCLOMETHICONE 5 CETYL ALCOHOL SHEA BUTTER OATMEAL OPHIOPOGON JAPONICUS ROOT .ALPHA.-TOCOPHEROL ACETATE VITAMIN A PALMITATE ASCORBIC ACID TETRAPEPTIDE-21 MYRISTOYL PENTAPEPTIDE-4 POLY(METHYL METHACRYLATE; 450000 MW) GLYCYRRHIZINATE DIPOTASSIUM MALTODEXTRIN BENZALKONIUM CHLORIDE BUTYLENE GLYCOL SODIUM CHLORIDE BENZYL ALCOHOL ZO Skin Health Surfatrol Astringent Solution Aluminum Acetate WATER OAT SOY PROTEIN WHEY POTASSIUM SORBATE ALUMINUM ACETATE ALUMINUM CATION
+spl_unclassified_section:
+  Drug Facts
+  Dist. by ZO Skin Health, Inc. Irvine, CA 92618
+active_ingredient:
+  Active Ingredient Purpose Aluminum Sulfate Tetradecahydrate, 2850 mg Astringent When combined together in water, these ingredients form the active ingredient aluminum acetate. See Directions Calcium Acetate Monohydrate, 2016 mg Astringent
+active_ingredient_table:
+  <table width="60%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active Ingredient</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Aluminum Sulfate Tetradecahydrate, 2850 mg</td><td>Astringent <footnote ID="ft1">When combined together in water, these ingredients form the active ingredient aluminum acetate. See Directions</footnote></td></tr><tr><td>Calcium Acetate Monohydrate, 2016 mg</td><td>Astringent <footnoteRef IDREF="ft1"/></td></tr></tbody></table>
+purpose:
+  Active Ingredient Purpose Aluminum Sulfate Tetradecahydrate, 2850 mg Astringent When combined together in water, these ingredients form the active ingredient aluminum acetate. See Directions Calcium Acetate Monohydrate, 2016 mg Astringent
+purpose_table:
+  <table width="60%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active Ingredient</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Aluminum Sulfate Tetradecahydrate, 2850 mg</td><td>Astringent <footnote ID="ft1">When combined together in water, these ingredients form the active ingredient aluminum acetate. See Directions</footnote></td></tr><tr><td>Calcium Acetate Monohydrate, 2016 mg</td><td>Astringent <footnoteRef IDREF="ft1"/></td></tr></tbody></table>
+indications_and_usage:
+  Uses For temporary relief of minor skin irritations due to rashes caused by soaps, detergents, cosmetics, or jewelry.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. do not cover compress or wet dressing with plastic to prevent evaporation in some skin conditions, soaking too long may overdry Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. do not cover compress or wet dressing with plastic to prevent evaporation in some skin conditions, soaking too long may overdry
+stop_use:
+  Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions dissolve 1 packet in 12 oz. of cool or warm water. stir until fully dissolved; do not strain or filter. The resulting mixture contains 0.45% aluminum acetate and is ready for use. For use as a compress or wet dressing: soak a clean, soft cloth in the solution apply cloth loosely to affected area for 15 to 30 minutes repeat as needed or as directed by a doctor discard solution after each use
+inactive_ingredient:
+  Inactive Ingredients Water, Dextrin, Avena Sativa (Oat) Kernel Protein, Glycine Soja (Soybean) Protein, Whey Protein, Potassium Sorbate, Chitosan.
+storage_and_handling:
+  Other Information Store at controlled room temperature: 15-30°C (59-86°F), away from direct sunlight. You may report a serious adverse reaction to: 5 Technology Dr. Irvine, CA 92618
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Kit Carton ZO ® SKIN HEALTH BY ZEIN OBAGI MD POST PROCEDURE RECOVERY SYSTEM NDC 42851-193-06 POMATROL ® Soothing Ointment 50 mL / 1.7 Fl. Oz. HYDRATING CRÈME Net Wt.113 g / 4 Oz. SURFATROL ® Astringent Solution Powder 10 ea. Net Wt.6 g / 0.21 Oz. US Patent No. 9,248,160 PRINCIPAL DISPLAY PANEL - Kit Carton
+set_id:
+  3b977415-2bf4-43a9-bb48-1eb023ca4f53
+id:
+  f0976c84-02c2-4fa3-9933-5f30fc37fca9
+effective_time:
+  20241227
+version:
+  5
+openfda:
+  application_number:
+    M016
+  brand_name:
+    ZO Skin Health Post Procedure Recovery System
+  generic_name:
+    ALUMINUM ACETATE
+  manufacturer_name:
+    ZO Skin Health, Inc.
+  product_ndc:
+    42851-193
+  product_type:
+    HUMAN OTC DRUG
+  spl_id:
+    f0976c84-02c2-4fa3-9933-5f30fc37fca9
+  spl_set_id:
+    3b977415-2bf4-43a9-bb48-1eb023ca4f53
+  package_ndc:
+    42851-193-06
+    42851-088-06
+  is_original_packager:
+    True

@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Laxative Enteric Coated Bisacodyl BISACODYL DEACETYLBISACODYL ACACIA CALCIUM SULFATE ANHYDROUS ANHYDROUS LACTOSE CARNAUBA WAX SILICON DIOXIDE STARCH, CORN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 GELATIN FERRIC OXIDE RED FERROSOFERRIC OXIDE FERRIC OXIDE YELLOW MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL 400 Polyvinyl Acetate Phthalate POVIDONE SHELLAC SODIUM STARCH GLYCOLATE TYPE A CORN STEARIC ACID SUCROSE TALC TITANIUM DIOXIDE TCL003
+active_ingredient:
+  Active ingredient (in each tablet) Bisacodyl, USP 5 mg
+purpose:
+  Purpose Stimulant laxative
+indications_and_usage:
+  Use for temporary relief of occasional constipation and irregularity this product generally produces a bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use if you cannot swallow without chewing. Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks When using this product do not chew or crush tablet(s) do not use within 1 hour after taking an antacid or milk it may cause stomach discomfort, faintness or cramps Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnancy or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you cannot swallow without chewing.
+ask_doctor:
+  Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks
+when_using:
+  When using this product do not chew or crush tablet(s) do not use within 1 hour after taking an antacid or milk it may cause stomach discomfort, faintness or cramps
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+pregnancy_or_breast_feeding:
+  If pregnancy or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take with a glass of water adults and children 12 years of age and over take 1 to 3 tablets in a single daily dose children 6 to under 12 years of age take 1 tablet in a single daily dose children under 6 years of age ask a doctor
+dosage_and_administration_table:
+  <table ID="LINK_62af8ac4-1a5d-4a08-8680-e69baf47ea7c"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule"> adults and children 12 years of age and over </td><td styleCode=" Botrule Toprule Lrule"> take 1 to 3 tablets in a single daily dose </td></tr><tr><td styleCode=" Botrule"> children 6 to under 12 years of age</td><td styleCode=" Botrule Lrule"> take 1 tablet in a single daily dose</td></tr><tr><td styleCode=" Botrule"> children under 6 years of age</td><td styleCode=" Botrule Lrule"> ask a doctor</td></tr></tbody></table>
+other_safety_information:
+  Other information store between 20-25ºC (68º-77ºF)
+inactive_ingredient:
+  Inactive ingredients acacia, anhydrous calcium sulfate, anhydrous lactose, carnauba wax, colloidal silicon dioxide, corn starch, D&C yellow #10 aluminum lake, FD&C yellow #6 aluminum lake, gelatin, iron oxide, iron oxide black, iron oxide yellow, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl acetate phthalate, povidone, shellac, sodium starch glycolate, stearic acid, sugar, talc, titanium dioxide
+questions:
+  Questions or comments? Call 1-888-309-9030
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient of Dulcolax® Laxative* Laxative Tablets Bisacodyl, 5 mg Stimulant Laxative Gentle, Predictable Overnight Relief Tablet Comfort Coated *This product is not manufactured or distributed by Boehringer Ingelheim Pharmaceuticals, Inc., distributor of Dulcolax® Laxative. DISTRIBUTED BY OLD EAST MAIN CO. 100 MISSION RIDGE GOODLETTSVILLE, TN 37072 TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION.
+  Product Label DOLLAR GENERAL Laxative Tablets Biscodyl USP 5 mg
+set_id:
+  cceec731-3574-4233-b910-643ea65d97b6
+id:
+  0af8a7c6-8f55-4696-9315-6d11224ea28c
+effective_time:
+  20230119
+version:
+  8
+openfda:

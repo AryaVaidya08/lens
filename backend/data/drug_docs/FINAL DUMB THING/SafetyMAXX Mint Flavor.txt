@@ -1,0 +1,29 @@
+effective_time:
+  20111115
+inactive_ingredient:
+  Inactive Ingredients Purified water, Sorbitol, Carbopol, Sodium Lauryl Sulphate, Flavor, Poly Ethylene Glycol 1500, Sodium Saccharin, Precipitated Silica, Sodium Carboxy Methyl Cellulose, Methyl Paraben, Propyl Paraben
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6years of age.
+warnings:
+  Warnings If more than used for brushing is swallowed, get medical help or contact a Poison Control Center immediately. Keep out of reach of children under 6years of age.
+spl_product_data_elements:
+  SafetyMAXX Mint Flavor SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION WATER SORBITOL SODIUM LAURYL SULFATE POLYETHYLENE GLYCOL 1500 SACCHARIN SODIUM DIHYDRATE CARBOXYMETHYLCELLULOSE SODIUM METHYLPARABEN PROPYLPARABEN
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children 6 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist. Children 2 to 6 years: Use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) Children under 2 years: ask a dentist or physician
+spl_unclassified_section:
+  Product of China, Exclusively produced for FSi, Inc. 1-800-647-5923 www.myfsi.net Expires 2 years from the DAte of Mfg FSi, Inc Nashville TN 37210
+package_label_principal_display_panel:
+  Product Tube Label SafetyMaxx Toothgel
+indications_and_usage:
+  Use: Helps protect against cavities
+set_id:
+  b291454e-ca22-4986-819f-100b331b18c8
+id:
+  11fc8a8a-b455-4c65-978a-914282ee1993
+active_ingredient:
+  Active Ingredient Sodium Fluoride - 0.22% (0.1%w/v fluoride ion)

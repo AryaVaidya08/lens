@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  TARGETED BODY BALM Oatmeal ALLANTOIN YELLOW WAX SHEANUT OIL SOYBEAN OIL PARAFFIN PETROLATUM ALMOND OIL JOJOBA OIL TOCOPHEROL ZINC OXIDE OATMEAL OATMEAL
+active_ingredient:
+  Active Ingredients Colloidal Oatmeal 2%
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritations and itching due to eczema, rash and dermatitis.
+warnings:
+  Warnings For external use only. When using this product Avoid contact with eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+when_using:
+  When using this product Avoid contact with eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+ask_doctor:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply as needed.
+other_safety_information:
+  Other Information Store at 65-80°F. May stain fabrics. For adults and children two years of age and older.
+inactive_ingredient:
+  Inactive Ingredients Allantoin, Beeswax, Butyrospermum Parkii (Shea) Butter, Glycine Soja (Soybean) Oil, Paraffin Wax, Petrolatum, Prunus Amygdalus (Sweet Almond) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Tocopherol, Zinc Oxide.
+package_label_principal_display_panel:
+  15 g 60g Skinfix_2oz_US_Targeted_Body_Balm_60.jpg Skinfix_05oz_US_Targeted_Body_Balm_15.jpg
+set_id:
+  ada23bf4-4c10-4cc3-93b4-78e43ea16d31
+id:
+  860fce63-4fc8-40d1-84a2-a4dbef451fd7
+effective_time:
+  20221224
+version:
+  6
+openfda:

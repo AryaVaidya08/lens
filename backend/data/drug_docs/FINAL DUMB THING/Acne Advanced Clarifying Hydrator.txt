@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Acne Advanced Clarifying Hydrator SALICYLIC ACID ALOE CUCUMBER ROSA MOSCHATA OIL GRAPEFRUIT SYMPHYTUM UPLANDICUM LEAF PEPPERMINT CALENDULA OFFICINALIS FLOWER BETA VULGARIS GLYCERIN MEDIUM-CHAIN TRIGLYCERIDES HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK PROPANEDIOL CITRUS MAXIMA FRUIT RIND OIL SPEARMINT SODIUM ACRYLATE OREGANO THYME CINNAMON OLIVE OIL ROSEMARY GOLDENSEAL LEMON DEXPANTHENOL SODIUM HYDROXIDE ISOHEXADECANE NIACIN ALLANTOIN POLYSORBATE 80 LYSOPHOSPHATIDYLCHOLINE, SOYBEAN GREEN TEA LEAF ARBUTIN COCAMIDOPROPYL DIMETHYLAMINE SOYBEAN OIL BENZYL ALCOHOL SUNFLOWER OIL SORBIC ACID SODIUM POLYACRYLATE (2500000 MW) ACAI CARROT COCONUT STARCH, TAPIOCA THIOCTIC ACID UBIDECARENONE SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+  Other information Store in controlled temperatures (4-20°C/39-68°F). Keep in a dark and dry place. Keep container tightly closed.
+active_ingredient:
+  Active ingredient Salicylic Acid 1% Purpose Acne Treatment
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Use For the treatment of acne.
+warnings:
+  Warnings For external use only When using this product Skin irritation and dryness are more likely to occur when using another topical acne product at the same time. if irritation occurs, use only one product at a time. avoid eye area. In case of eye contact, flush gently and thoroughly with water. Keep out of reach of children. If swallowed, get medical help or contaact Poison Control Center right away.
+when_using:
+  When using this product Skin irritation and dryness are more likely to occur when using another topical acne product at the same time. if irritation occurs, use only one product at a time. avoid eye area. In case of eye contact, flush gently and thoroughly with water.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contaact Poison Control Center right away.
+dosage_and_administration:
+  Direcitons Cleanse skin thoroughly before applying this product Apply a layer over the entire face and neck 1 to 3 times daily and leave on. Because excessive drying of the skin may occur, start with one application daily, then gradually increase to 2 ot 3 times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+inactive_ingredient:
+  Inactive ingredients Organic Phytonutrient Blend (Aloe Barbadensis (Aloe) Juice, Cucumis Sativus (Cucumber) Juice, Salix Alba (Willow) Bark Extract, Rosa Canina (Rosehip) Seed Extract, Citrus Paradisi (Grapefruit) Peel Extract, Symphytum Officinale (Comfrey) Leaf Extract, Lavandula Angustifolia (Lavender) Flower Extract, Equisetum Argense (Horsetail Leaf Extract, Mentha Piperita (Peppermint) Leaf Extract, Calendula Officinalis Flower Extract, Beta Vulgaris (Beetroot) Extract and Vegetable Glycerin], Caprylic/Capric Triglyceride, Hamamelis Virginiana (Witch Hazel), Vegetable Glycerin, Propanediol, Citrus Grandis (Grapefruit) Peel Oil, Mentha Spicata (Spearmint) Leaf Oil, Sodium Acrylate, Nyphaea Caerulea (Blue Lotus) Flower Extract, Nelumbo Nucifera (Sacred Lotus) Flower Extract, Origanum Vulgare (Oregano) Leaf Extract, Thymus Vulgaris (Thyme) Extract, Cinnamomum Zeylanium (Cinnamon) Bark Extract, Olea Europaea (Olive) Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Sodium Starch Octenylsuccinate, Mentha Piperita (Peppermint) Leaf Extract, Lavandula Angustifolia (Lavender) Flower Extract, Hydrastis Canadensis (Goldenseal) Root Extract, Citrus Limon (Lemon) Peel Extract, Sodium Acrylolydimethyl Taurate Copolymer, Panthenol (Provitamin B5), Sodium Hydroxide, Isohexadecane, Niacinamide (Vitamin B3), Acrylates/C12-22 Alkyl Methacrylate Copolymer, Allantoin, Polysorbate 80, Lysolecithin, Caffeine (from Green Tea), Zinc Hyaluronate, Arbutin, Cocamidopropyl Dimethylamine, Biocomplex2 [Euterpe Oleracea (Acai), [Euterpe Oleracea (Acai), Citrus Limon (Lemon), Malpighia Glabra (Barbados Cherry), Emblica Officinalis (Indian Gooseberry), Adansonia Digitata (Baobab), Myrciaria Dubia (Camu Camu), Daucus Carota Sativa (Carrot), Cocos Nucifera (Coconut) Water, Lycium Barbarum (Goji) Berry, Tapioca Starch (from Cassave Root), Thioctic Acid (Alpha Lipoic Acid) and Ubiquinone (Coenzyme Q10) *Certified organic ingredient
+package_label_principal_display_panel:
+  Acne Advanced Clarifying Hydrator 1.2oz Box (15751-3030-2) Label4
+  Acne Advanced Clarifying Hydrator 1.2oz Bottle (15751-3030-2) Bottle
+  Acne Advanced Clarifying Hydrator 1.9oz (15751-3030-9) Label5
+  Acne Advanced Clarifying Hydrator 0.10oz (15751-3030-6) Label00
+set_id:
+  b710cc36-f589-4116-a0a2-c6966ebebbf2
+id:
+  0c0aef9b-7255-0f3d-e063-6394a90aa271
+effective_time:
+  20231208
+version:
+  5
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Acne Advanced Clarifying Hydrator
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Eminence Organic Skin Care Ltd.
+  product_ndc:
+    15751-3030
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    417424
+  spl_id:
+    0c0aef9b-7255-0f3d-e063-6394a90aa271
+  spl_set_id:
+    b710cc36-f589-4116-a0a2-c6966ebebbf2
+  package_ndc:
+    15751-3030-2
+    15751-3030-9
+    15751-3030-6
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

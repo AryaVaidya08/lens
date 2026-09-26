@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  PROVON Medicated Foam Handwash with Advanced Moisturizers and Triclosan Triclosan TRICLOSAN TRICLOSAN WATER PROPYLENE GLYCOL ALCOHOL LAURIC ACID MONOETHANOLAMINE DISODIUM COCOAMPHODIACETATE LACTIC ACID ISOPROPYL ALCOHOL POLYETHYLENE GLYCOL 200 POLYQUATERNIUM-10 (30000 MPA.S AT 2%) SODIUM METABISULFITE SODIUM SULFITE EDETATE SODIUM SODIUM SULFATE IODOPROPYNYL BUTYLCARBAMATE
+active_ingredient:
+  Active ingredient Triclosan 0.3%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Handwash to help decrease bacteria on the skin before and after contact with a person under medical care or treatment Recommended for repeated use
+warnings:
+  Warnings For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands Apply a small amount of product and work into a lather Rinse well and dry hands completely
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Propylene Glycol, Alcohol, Lauric Acid, Ethanolamine, Disodium Cocoamphodiacetate, Lactic Acid, Isopropyl Alcohol, PEG-4, Polyquaternium-10, Sodium Metabisulfite, Sodium Sulfite, Tetrasodium EDTA, Sodium Sulfate, Iodopropynyl Butylcarbamate
+package_label_principal_display_panel:
+  Product Label
+set_id:
+  8f9a87b8-0d39-41fb-a84d-429d3b160caf
+id:
+  96bc9f23-ca49-4bc3-967e-9e4657d809aa
+effective_time:
+  20181119
+version:
+  2
+openfda:

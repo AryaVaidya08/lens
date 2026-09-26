@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Aldi LACURA Sport Sunscreen 30 Broad Spectrum SPF 30 Continuous Avobenzone, Homosalate, Octisalate, Octocrylene ALCOHOL BUTYLOCTYL SALICYLATE ACRYLATE/ISOBUTYL METHACRYLATE/N-TERT-OCTYLACRYLAMIDE COPOLYMER (75000 MW) PANTHENOL .ALPHA.-TOCOPHEROL, DL- STEAROXYTRIMETHYLSILANE MEDIUM-CHAIN TRIGLYCERIDES GLYCERIN AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE
+active_ingredient:
+  Active ingredients Avobenzone 3.0% Homosalate 10.0% Octisalate 5.0% Octocrylene 2.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only FLAMMABLE: • do not use near heat, flame or while smoking • avoid long term storage above 104°F (40°C)
+do_not_use:
+  Do not use •on damaged or broken skin.
+when_using:
+  When using this product • keep out of eyes. Rinse with water to remove. • keep away from face to avoid breathing it. • do not puncture or incinerate. Contents under pressure. • do not store at temperatures above 120° F.
+ask_doctor:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Spray liberally and spread evenly by hand 15 minutes before sun exposure • Hold can 4-6 inches away from the skin to apply • Do not spray directly into face. Spray into hands then apply to face • Do not apply in windy conditions • Use in a well-ventilated area • reapply: • after 80 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours • children under 6 months of age: Ask a doctor • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses
+storage_and_handling:
+  Other information • protect the product in this container from excessive heat and direct sun • may stain or damage some fabrics, materials or surfaces
+inactive_ingredient:
+  Inactive ingredients alcohol denat., butyloctyl salicylate, acrylates/octylacrylamide copolymer, tocopherol (vitamin E), stearoxytrimethylsilane, glycerin, panthenol, fragrance, caprylic/capric triglyceride
+package_label_principal_display_panel:
+  Label AL08619D
+set_id:
+  f7bdc1f7-d961-4596-e053-6394a90a1d87
+id:
+  25039552-c362-a69d-e063-6394a90ab103
+effective_time:
+  20241021
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Aldi LACURA Sport Sunscreen 30 Broad Spectrum SPF 30 Continuous
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    ALDI INC
+  product_ndc:
+    64024-951
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    25039552-c362-a69d-e063-6394a90ab103
+  spl_set_id:
+    f7bdc1f7-d961-4596-e053-6394a90a1d87
+  package_ndc:
+    64024-951-37
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

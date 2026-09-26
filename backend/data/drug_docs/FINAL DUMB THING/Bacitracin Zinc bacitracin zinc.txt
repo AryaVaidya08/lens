@@ -1,0 +1,30 @@
+effective_time:
+  20131006
+inactive_ingredient:
+  Inactive Ingredients white petrolatum
+purpose:
+  Purpose: Antibiotic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings: For external use only Do not use in the eyes over large areas of the body if you are allergic to any of the ingredients Ask doctor before use in case of deep or puncture wounds, animal bites or serious burns When using this product do not use longer than 1 week unless directed by a doctor Stop use and ask a doctor if the condition persists or gets worse if a rash or other allergic reaction develops
+spl_product_data_elements:
+  Bacitracin Zinc bacitracin zinc BACITRACIN ZINC BACITRACIN PETROLATUM
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+spl_unclassified_section:
+  Other information: do not use if seal is punctured or is not visible. To open, reverse cap to puncture seal store at room temperature see crimp of tube for Lot Number and Exp. Date
+  Questions or comments? call toll free 1-800-645-9833 E. FOUGERA & CO. A division of Fougera Pharmaceuticals Inc. Melville, NY 11747
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 54569-2409-0 Relabeled by: A-S Medication Solutions Libertyville, IL 60048 2409-0.jpg
+indications_and_usage:
+  Uses: first aid to help prevent infection in minor cuts scrapes burns
+set_id:
+  c8588907-e38e-4a9e-94e4-c94c1cb7a223
+id:
+  bd27d628-d5a8-44fb-8a47-59f9cb40a082
+active_ingredient:
+  Active Ingredient (in each gram): Bacitracin Zinc (equal to 500 bacitracin units)

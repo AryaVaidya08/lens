@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Meridian Unwrapped antibacterial Deodorant BENZETHONIUM CHLORIDE BENZETHONIUM CHLORIDE BENZETHONIUM Sodium Palmate SODIUM TALLOWATE, BEEF Sodium Cocoate Sodium Palm Kernelate Calcium Carbonate Water Glycerin Sodium Chloride Sodium Hydroxide EDETATE SODIUM ETIDRONATE TETRASODIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Benzethonium Chloride 0.1%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses For washing to decrease bacteria on skin.
+warnings:
+  Caution For external use only. Do not use this product on infants under 6. When using this product avoid contact with eyes. In case of eye contact, flush with water. Stop use and consult doctor if irritation and rash develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  Do not use this product on infants under 6.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use and consult doctor if irritation and rash develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Wet bar with water. Lather vigorously and wash skin. Rinse and dry thoroughly.
+inactive_ingredient:
+  Inactive Ingredients (Sodium Palmate and/or Sodium Tallowate, Sodium Cocoate and/or Sodium Palm Kernelate), Calcium Carbonate, Water, Glycerin, Sodium Chloride, Sodium Hydroxide, Fragrance,Tetrasodium EDTA, Tetrasodium Etidronate
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 144 Bar Case meridian ® ITEM: UWA3 DESCRIPTION: MERIDIAN® UNWRAPPED ANTIBACTERIAL DEODORANT SOAP #3 SIZE: #3 QUANTITY: 144 BARS / NET WT 2.6 OZ (75 g) PER BAR PO # _______ CARTON # ________ OF _______ MFG DATE: _______ EXP DATE: ______ MADE IN MALAYSIA MANUFACTURED EXCLUSIVELY FOR BOB BARKER COMPANY, INC. 7925 PURFOY RD., FUQUAY VARINA, NC 27526 BULK SHIPMENT NOT FOR RETAIL ITEM: UWA3 SIZE: #3 PRINCIPAL DISPLAY PANEL - 144 Bar Case
+set_id:
+  adc10d22-a913-4bfa-a3f7-d6d5778f07ca
+id:
+  c04d5b20-5e79-44de-8b10-9caacc5760b6
+effective_time:
+  20241014
+version:
+  2
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Meridian Unwrapped antibacterial Deodorant
+  generic_name:
+    BENZETHONIUM CHLORIDE
+  manufacturer_name:
+    Bob Barker Company Inc.
+  product_ndc:
+    53247-137
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    CUTANEOUS
+  substance_name:
+    BENZETHONIUM CHLORIDE
+  rxcui:
+    1872091
+  spl_id:
+    c04d5b20-5e79-44de-8b10-9caacc5760b6
+  spl_set_id:
+    adc10d22-a913-4bfa-a3f7-d6d5778f07ca
+  package_ndc:
+    53247-137-01
+    53247-137-02
+    53247-137-03
+    53247-137-04
+  is_original_packager:
+    True
+  unii:
+    PH41D05744

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  SooAE Hand Sanitizer ALCOHOL CARBOMER 940 DIMETHICONE FD&C GREEN NO. 3 ALCOHOL ALCOHOL GREEN TEA LEAF TROLAMINE ALPHA-TOCOPHEROL ACETATE GRAPEFRUIT GLYCERIN PROPYLENE GLYCOL WATER
+active_ingredient:
+  Active Ingredient(s) Ethyl alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses To decrease bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Stop use and ask a doctor if skin irritation or redness develops. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if skin irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping For children under 6, use only under adult supervision Not recommended for infants
+storage_and_handling:
+  Other information Do not store above 104°F (40°C) May discolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Water(Aqua), Glycerin, Propylene Glycol, Carbomer, Triethanolamine, Dimethicone, Tocopheryl Acetate, Citrus Paradisi (Grapefruit) Fruit Extract, Camellia Sinensis Leaf Extract, FD&C Green No. 3
+questions:
+  Questions or Comments? E-mail: cs@dkcos.com Call 1-212-484-2621
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Soo'AE HAND SANITIZER ANTIBACTERIAL HAND SANITIZER WITH MOISTURIZERS KILLS 99.9% OF GERMS* NET 2.03 fl.oz / 60 ml SooAE Hand Sanitizer 60mL
+set_id:
+  a26e919b-f2ba-32a0-e053-2a95a90a394c
+id:
+  d450c339-bae8-0434-e053-2995a90a2717
+effective_time:
+  20211229
+version:
+  5
+openfda:

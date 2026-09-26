@@ -1,0 +1,31 @@
+effective_time:
+  20140415
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane dispensing alcohol 20%.
+purpose:
+  OTC - PURPOSE SECTION Formulated for associated symptoms such as pain, swelling, allergic reactions, congestion and joint problems.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children.
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Inflammation Anthracinum, Pyrogenium, Aconitum nap., Aloe, Apis mel., Arnica, Arsenicum alb., Baptisia, Belladonna, Bryonia, Cantharis, Chelidonium majus, Crotalus horridus, Ferrum phosphoricum, Gaultheria procumbens, Hepar sulph. calc., Iodium, Lachesis, Nux vom., Phosphorus, Pulsatilla, Rhus toxicodendron, Veratrum viride, Verbascum, Echinacea Bacillus Anthracis Immunoserum Rabbit Bacillus Anthracis Immunoserum Rabbit Rancid Beef Rancid Beef Aconitum Napellus Aconitum Napellus Aloe Aloe Apis Mellifera Apis Mellifera Arnica Montana Arnica Montana Arsenic Trioxide Arsenic Cation (3+) Baptisia Tinctoria Root Baptisia Tinctoria Root Atropa Belladonna Atropa Belladonna Bryonia Alba Root Bryonia Alba Root Lytta Vesicatoria Lytta Vesicatoria Chelidonium Majus Chelidonium Majus Crotalus Horridus Horridus Venom Crotalus Horridus Horridus Venom Ferrosoferric Phosphate Ferrosoferric Phosphate Gaultheria Procumbens Top Gaultheria Procumbens Top Calcium Sulfide Calcium Sulfide Iodine Iodine Lachesis Muta Venom Lachesis Muta Venom Strychnos Nux-vomica Seed Strychnos Nux-vomica Seed Phosphorus Phosphorus Pulsatilla Vulgaris Pulsatilla Vulgaris Toxicodendron Pubescens Leaf Toxicodendron Pubescens Leaf Veratrum Viride Root Veratrum Viride Root Verbascum Thapsus Verbascum Thapsus Echinacea, Unspecified Echinacea, Unspecified Alcohol package label
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: ORAL USE ONLY - Ages 12 and up, take 6 drops orally (ages 0 to 11, give 3 drops) as needed or as directed by a healthcare professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Inflammation Formulated for associated symptoms such as pain, swelling, allergic reactions, congestion and joint problems.
+set_id:
+  4b7f6f6c-df3d-d910-88d2-93031c5eca6c
+id:
+  d5f4f06b-6240-90c4-45f1-0e769f3da60b
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Anthracinum 30x, Pyrogenium 30x, Aconitum nap. 15x, Aloe 15x, Apis mel. 15x, Arnica 15x, Arsenicum alb. 15x, Baptisia 15x, Belladonna 15x, Bryonia 15x, Cantharis 15x, Chelidonium maj. 15x, Crotalus hor. 15x, Ferrum phos. 15x, Gaultheria 15x, Hepar sulph. calc. 15x, Iodium 15x, Lachesis 15x, Nux vom. 15x, Phos. 15x, Pulsatilla 15x, Rhus tox. 15x, Veratrum vir. 15x, Verbascum 15x, Apis mel. 3x, Echinacea 3x.

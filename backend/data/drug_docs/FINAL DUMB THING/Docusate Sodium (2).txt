@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Docusate Sodium Docusate Sodium FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL 1000 PROPYLENE GLYCOL WATER SORBITOL DOCUSATE SODIUM DOCUSATE NV12
+active_ingredient:
+  Active ingredient (in each softgel) Docusate Sodium 250 mg
+purpose:
+  Purpose Stool Softener
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children. In case of overdose, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses For the relief of occasional constipation. Helps to prevent dry, hard stools. This product generally produces a bowel movement within 12 to 72 hours.
+warnings:
+  Warnings Do not use: If you are currently taking mineral oil, unless directed by a doctor. When abdominal pain, nausea, or vomiting are present. For longer than one week unless directed by a doctor.
+do_not_use:
+  Do not use: If you are currently taking mineral oil, unless directed by a doctor. When abdominal pain, nausea, or vomiting are present. For longer than one week unless directed by a doctor.
+ask_doctor_or_pharmacist:
+  Ask a doctor before use if you notice a sudden change in bowel habits that persists over a period of two weeks.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or you fail to have a bowel movement after use.
+pregnancy_or_breast_feeding:
+  If you are pregnant or breast-feeding, ask a healthcare professional before use.
+dosage_and_administration:
+  Directions Adults and Children over 12 years of age Take orally 1 softgel preferably at bedtime for 2-3 days or until bowel movements are normal, or as directed by a doctor. Children under 12 years of age Do not use this product for children under 12 years of age, unless directed by a doctor.
+dosage_and_administration_table:
+  <table ID="SPLSERV-99ed9938-d7a1-473b-b09a-c0278c96e6b7" border="none" width="390"><col width="36.7%"/><col width="63.3%"/><tbody><tr ID="SPLSERV-e1306a82-cbde-41b2-9336-0855e7e7e0df" styleCode="Toprule"><td align="left" styleCode="Botrule Rrule" valign="top">Adults and Children over 12 years of age</td><td align="left" styleCode="Botrule" valign="top">Take orally 1 softgel preferably at bedtime for  2-3 days or until bowel movements are normal, or as directed by a doctor. </td></tr><tr ID="SPLSERV-bdc27d66-99d9-47d2-83f4-0cb8636a3c5f" styleCode="Botrule"><td align="left" styleCode="Rrule" valign="top">Children under 12 years of age</td><td align="left" valign="top">Do not use this product for children under 12 years of age, unless directed by a doctor.</td></tr></tbody></table>
+spl_unclassified_section:
+  Other Information Each softgel contains 13 mg of Sodium. Store at room temperature between 15°C to 30°C (59°F to 86°F). Do not use if printed seal under cap is broken or missing. For identification purposes, each softgel will have an imprint that reads NV12.
+inactive_ingredient:
+  Inactive ingredients FD&C Red #40, FD&C Yellow #6, Gelatin, Glycerin, Ink (Edible), Polyethylene Glycol, Propylene Glycol, Purified Water, Sorbitol
+questions:
+  Questions Call 1-855-361-3993
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel NDC 50268-268-15 AvKARE Docusate Sodium, USP Stool Softener 250 mg Each 100 Softgels USA AV Rev. 05/16 (P) Manufactured for: AvKARE, Inc. Pulaski, TN 38478 1 2 3
+set_id:
+  f31a4349-7826-45c0-9388-6b938d167b7a
+id:
+  2b49133c-a8b5-b411-e063-6294a90a3600
+effective_time:
+  20250109
+version:
+  9
+openfda:
+  application_number:
+    M007
+  brand_name:
+    Docusate Sodium
+  generic_name:
+    DOCUSATE SODIUM
+  manufacturer_name:
+    AvPAK
+  product_ndc:
+    50268-268
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DOCUSATE SODIUM
+  rxcui:
+    1245468
+  spl_id:
+    2b49133c-a8b5-b411-e063-6294a90a3600
+  spl_set_id:
+    f31a4349-7826-45c0-9388-6b938d167b7a
+  package_ndc:
+    50268-268-11
+    50268-268-15
+  original_packager_product_ndc:
+    54629-601
+  unii:
+    F05Q2T2JA0

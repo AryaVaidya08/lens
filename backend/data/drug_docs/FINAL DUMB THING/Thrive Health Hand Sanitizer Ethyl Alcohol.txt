@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Thrive Health Hand Sanitizer Ethyl Alcohol ALCOHOL ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE VERA LEAF
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use[s] Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Avoid freezing, store below 43°C (110°F)
+inactive_ingredient:
+  Inactive Ingredients: Water, Glycerin, Propylene glycol, Carbomer, Aloe vera extract
+package_label_principal_display_panel:
+  Packaging Label Sample
+set_id:
+  411d6f26-2f1c-4861-91e6-8c74489b8b68
+id:
+  4648f8dc-4142-4201-8cdf-4f989b7941c2
+effective_time:
+  20200520
+version:
+  1
+openfda:

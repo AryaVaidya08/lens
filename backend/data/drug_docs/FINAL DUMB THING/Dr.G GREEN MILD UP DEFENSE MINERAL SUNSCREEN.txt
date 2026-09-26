@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Dr.G GREEN MILD UP DEFENSE MINERAL SUNSCREEN ZINC OXIDE TARA SPINOSA FRUIT HOUTTUYNIA CORDATA FLOWERING TOP WATER CAPRYLYL GLYCOL ZINC OXIDE ZINC OXIDE 7-DEHYDROCHOLESTEROL TRISILOXANE CAPRYLYL METHICONE LAUROYL LYSINE ISODODECANE BUDDLEJA OFFICINALIS FLOWER GLYCERYL CAPRYLATE DIPROPYLENE GLYCOL HYDROXYPROPYL BETADEX SODIUM CITRATE BUTYLENE GLYCOL VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER SODIUM CHLORIDE 1,2-HEXANEDIOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE MAGNESIUM SULFATE KAPPAPHYCUS ALVAREZII TOCOPHEROL GLYCERIN PALMITOYL TRIPEPTIDE-5 DISTEARDIMONIUM HECTORITE CENTELLA ASIATICA TRITERPENOIDS CERAMIDE NP BUTYLOCTYL SALICYLATE TRIETHOXYCAPRYLYLSILANE COCO-CAPRYLATE/CAPRATE TRIETHYLHEXANOIN PANTHENOL MARITIME PINE NEOPENTYL GLYCOL DIHEPTANOATE PROPANEDIOL PROPYLHEPTYL CAPRYLATE
+active_ingredient:
+  Active ingredient Zinc Oxide 18.24%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Use Helps prevent sunburn. If used as directed with other sun protection measures (see Directions ) decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water resistant sunscreen if swimming or sweating. Children under 6 months: Ask a doctor. Sun Protection Measures Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 am .- 2 p.m. Wear long sleeved shirts, pants, hats and sunglasses.
+other_safety_information:
+  Other information Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive ingredients Water(Aqua/Eau), Butyloctyl Salicylate, Trisiloxane, Propylheptyl Caprylate, Butylene Glycol, Propanediol, Isododecane, Coco-Caprylate/Caprate, Cetyl Diglyceryl Tris(Trimethylsiloxy)silylethyl Dimethicone, Caprylyl Methicone, Neopentyl Glycol Diheptanoate, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Lauryl Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Sodium Chloride, Triethoxycaprylylsilane, Triethylhexanoin, 1,2-Hexanediol, Cetyl Dimethicone, Disteardimonium Hectorite, Lauroyl Lysine, Polyglyceryl-2 Dipolyhydroxystearate, Magnesium Sulfate, Lauryl Dimethicone/Polyglycerin-3 Crosspolymer, Caprylyl Glycol, Glyceryl Caprylate, Tocopherol, Dipropylene Glycol, Panthenol, Sodium Citrate, Glycerin, Ceramide NP, Hydrolyzed Hyaluronic Acid, Caesalpinia Spinosa Fruit Extract, Bacillus Ferment, Kappaphycus Alvarezii Extract, Hydroxypropyl Cyclodextrin, Buddleja Officinalis Flower Extract, Centella Asiatica Extract, Houttuynia Cordata Extract, Palmitoyl Tripeptide-5, 7-Dehydrocholesterol, Pinus Pinaster Bark Extract
+questions:
+  Questions or comments? Contact to www.dr-g.com
+package_label_principal_display_panel:
+  PACKAGE LABEL Dr.G GREEN MILD UP DEFENSE MINERAL SUNSCREEN_Outer Package Box Dr.G GREEN MILD UP DEFENSE MINERAL SUNSCREEN_Outer Package Box
+set_id:
+  30d49f24-3e13-385f-e063-6294a90ab5c8
+id:
+  52dca7d5-ef14-a0c1-e063-6294a90ac0d0
+effective_time:
+  20260528
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Dr.G GREEN MILD UP DEFENSE MINERAL SUNSCREEN
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    GOWOONSESANG COSMETICS CO., LTD.
+  product_ndc:
+    51621-022
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    52dca7d5-ef14-a0c1-e063-6294a90ac0d0
+  spl_set_id:
+    30d49f24-3e13-385f-e063-6294a90ab5c8
+  package_ndc:
+    51621-022-01
+  is_original_packager:
+    True
+  upc:
+    8809963506701
+  unii:
+    SOI2LOH54Z

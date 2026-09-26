@@ -1,0 +1,92 @@
+spl_product_data_elements:
+  Good Sense Effervescent Pain Relief Aspirin SODIUM BICARBONATE ASPIRIN ASPIRIN ANHYDROUS CITRIC ACID L421
+active_ingredient:
+  Active ingredient (in each effervescent tablet) Buffered aspirin 325 mg (NSAID)* *Nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose (in each effervescent tablet) Buffered aspirin 325 mg (NSAID)* . . . . . . . . . . Pain reliever/fever reducer *Nonsteroidal anti-inflammatory drug
+indications_and_usage:
+  Uses ■ for the temporary relief of minor aches and pains due to: ■ headache ■ muscle pain ■ backache ■ toothache ■ menstrual pain ■ colds ■ minor arthritis pain ■ temporarily reduces fever
+warnings:
+  Warnings Reye’s syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction which may include: ■ hives ■ facial swelling ■ asthma (wheezing) ■ shock Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you ■ are age 60 or older ■ have had stomach ulcers or bleeding problems ■ take a blood thinning (anticoagulant) or steroid drug ■ take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) ■ have 3 or more alcoholic drinks every day while using this product ■ take more or for a longer time than directed
+do_not_use:
+  Do not use Do not use ■ if you are allergic to aspirin or any other pain reliever/fever reducer ■ if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if ■ stomach bleeding warning applies to you ■ you have a history of stomach problems, such as heartburn ■ you have high blood pressure, heart disease, liver cirrhosis, or kidney disease ■ you are taking a diuretic ■ you have asthma ■ you have a sodium-restricted diet
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are Ask a doctor or pharmacist before use if you are taking a prescription drug for ■ diabetes ■ gout ■ arthritis
+when_using:
+  When using this product When using this product do not exceed recommended dosage
+stop_use:
+  Stop use and ask a doctor if Stop use and ask a doctor if ■ you experience any of the following signs of stomach bleeding ■ feel faint ■ vomit blood ■ have bloody or black stools ■ have stomach pain that does not get better ■ an allergic reaction occurs. Seek medical help right away. ■ pain lasts for more than 10 days or gets worse ■ fever gets worse or lasts more than 3 days ■ new symptoms occur ■ redness or swelling is present ■ ringing in the ears or a loss of hearing occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ do not exceed recommended dosage ■ to avoid serious injury, completely dissolve tablets in 4 oz. of water before taking adults and children 12 years and over: 2 tablets every 4 hours, or as directed by a doctor - do not exceed 8 tablets in 24 hours 60 years and over: 2 tablets every 4 hours, or as directed by a doctor - do not exceed 4 tablets in 24 hours children under 12 years: consult a doctor Take this product any time – morning, noon or night – when you need relief from headaches, backaches, body aches or muscle pain. Place two (2) tablets in 4 oz. of water. Dissolve tablets completely. You do not have to drink any of the residue that may be on the bottom of the glass. The medicines are in the water.
+other_safety_information:
+  Other information ■ each tablet contains: sodium 524 mg ■ store at room temperature (59º-86ºF). Avoid excessive heat.
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, sodium bicarbonate
+questions:
+  Questions or comments? Questions or comments? (1-888-228-6937)
+package_label_principal_display_panel:
+  Good Sense Pain 36
+set_id:
+  103027a7-2f0e-8d8c-e063-6294a90aedc7
+id:
+  14941aa8-d30b-d6b2-e063-6294a90a360e
+effective_time:
+  20240326
+version:
+  2
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Good Sense Effervescent Pain Relief
+  generic_name:
+    ASPIRIN
+  manufacturer_name:
+    Perrigo Direct, Inc.
+  product_ndc:
+    50804-422
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ASPIRIN
+  rxcui:
+    2606079
+  spl_id:
+    14941aa8-d30b-d6b2-e063-6294a90a360e
+  spl_set_id:
+    103027a7-2f0e-8d8c-e063-6294a90aedc7
+  package_ndc:
+    50804-422-36
+  is_original_packager:
+    True
+  upc:
+    0846036001488
+  nui:
+    N0000000160
+    N0000008836
+    M0001335
+    N0000175722
+    N0000175578
+    N0000008832
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_pe:
+    Decreased Prostaglandin Production [PE]
+    Decreased Platelet Aggregation [PE]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+    Platelet Aggregation Inhibitor [EPC]
+  unii:
+    R16CO5Y76E

@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  QUALITY CHOICE Long Acting Cough Softgel Dextromethorphan hydrobromide DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN TYPE B BOVINE (230 BLOOM) GLYCERIN ISOPROPYL ALCOHOL MEDIUM-CHAIN TRIGLYCERIDES POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE, UNSPECIFIED PROPYL GALLATE PROPYLENE GLYCOL WATER SORBITOL SORBITAN 778
+spl_unclassified_section:
+  Drug Facts
+  Compare to the Active Ingredient in Robitussin ® CoughGels ® * Adult Relieves cough for up to 8 Hours READ AND KEEP OUTER CARTON FOR COMPLETE PRODUCT WARNINGS AND INFORMATION TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING QC 100% SATISFACTION GUARANTEED ® Distributed by CDMA, Inc. Novi, MI 48375 www.qualitychoice.com Questions: 800-935-2362 PRODUCT OF UNITED ARAB EMIRATES *This product is not manufactured or distributed by Pfizer Consumer Healthcare, owner of the registered trademark Robitussin ® CoughGels ® .
+active_ingredient:
+  Active ingredient (in each softgel) Dextromethorphan HBr, USP 15 mg
+purpose:
+  Purpose Cough Suppressant
+indications_and_usage:
+  Use temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI)(certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • a cough that occurs with too much phlegm (mucus) • a cough that lasts or is chronic as occurs with smoking, asthma, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These can be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as children even if you do not notice any signs or symptoms.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions • do not take more than 8 softgels in any 24-hour period • this adult product is not intended for use in children under 12 years of age adults and children 12 years and older take 2 softgels every 6 to 8 hours, as needed children under 12 years do not use
+dosage_and_administration_table:
+  <table width="40%"><tbody><tr><td styleCode="Botrule Rrule"> adults and children  12 years and older</td><td styleCode="Botrule"> take 2 softgels every   6 to 8 hours,   as needed</td></tr><tr><td styleCode="Rrule"> children under  12 years</td><td> do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information • store at room temperature between 20°-25°C (68°-77°F) • avoid excessive heat above 40°C (104°F) • protect from light, heat and moisture
+inactive_ingredient:
+  Inactive ingredients edible white ink, FD&C blue no.1, FD&C red no. 40, gelatin (bovine), glycerin, isopropyl alcohol, medium chain triglycerides, polyethylene glycol, povidone, propyl gallate, propylene glycol, purified water, sorbitol sorbitan solution
+questions:
+  Questions or comments? 1-888-577-8033 Monday - Friday 8am - 4pm EST
+package_label_principal_display_panel:
+  Packaging Adult cough Softgels
+set_id:
+  f1ea7dfc-c605-45a1-ad1d-6e636a8a7b1c
+id:
+  b9864639-8295-437e-bcba-e7cc9fce1a30
+effective_time:
+  20240816
+version:
+  1
+openfda:
+  application_number:
+    M012
+  brand_name:
+    QUALITY CHOICE Long Acting Cough Softgel
+  generic_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+  manufacturer_name:
+    Chain Drug Marketing Association, Inc.
+  product_ndc:
+    83324-303
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+  rxcui:
+    1090487
+  spl_id:
+    b9864639-8295-437e-bcba-e7cc9fce1a30
+  spl_set_id:
+    f1ea7dfc-c605-45a1-ad1d-6e636a8a7b1c
+  package_ndc:
+    83324-303-20
+  is_original_packager:
+    True
+  upc:
+    0635515996120
+  unii:
+    9D2RTI9KYH

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Foaming Cleanser Jafra Salicylic Acid SULISOBENZONE COCAMIDOPROPYL BETAINE DECYL GLUCOSIDE DIAZOLIDINYL UREA EDETATE DISODIUM IODOPROPYNYL BUTYLCARBAMATE POLYSORBATE 20 PROPYLENE GLYCOL SALIX NIGRA BARK SODIUM C14-16 OLEFIN SULFONATE SODIUM LAUROYL OAT AMINO ACIDS WATER SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active Ingredient Purpose Salicyclic Acid 0.5% Acne Treatment Uses Treats acne Prevents new acne pimples keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. indications and usage When using this product Using other topical acne medication at the same time or immediately following the use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor. Warnings For external use only Directions -Gently massage over face, rinse well and pat dry. -Avoid contact with eyes. -Because excessive drying of the skin may occur, start with 1 application daily, then gradually increase to 2 or 3 times daily if needed or as directed by a doctor. -If bothersome dryness or peeling occurs, reduce application to once a day or every other day. Inactive ingredients Benzophenone-4, cocamidopropyl Betaine, Decyl Glucoside, Diazolidinyl Urea, Disodium EDTA, lodopropynyl Butylcarbamate, Fragrance/Parfum, Polysorbate 20, Propylene Glycol, Salix Nigra (Willow) Bark Extract, Sodium C14-16 Olefin Sulfonate, Sodium Lauroyl Oat Amino Acids, TEA-Cocoyl Glutamate, Water/Aqua.
+purpose:
+  Uses Treats acne Prevents new acne pimples
+keep_out_of_reach_of_children:
+  keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  indications and usage When using this product Using other topical acne medication at the same time or immediately following the use of this product may increase dryness or irritation of the skin. If this occurs, only one medication should be used unless directed by a doctor.
+warnings:
+  Warnings For external use only
+dosage_and_administration:
+  Directions -Gently massage over face, rinse well and pat dry. -Avoid contact with eyes. -Because excessive drying of the skin may occur, start with 1 application daily, then gradually increase to 2 or 3 times daily if needed or as directed by a doctor. -If bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+inactive_ingredient:
+  Inactive ingredients Benzophenone-4, cocamidopropyl Betaine, Decyl Glucoside, Diazolidinyl Urea, Disodium EDTA, lodopropynyl Butylcarbamate, Fragrance/Parfum, Polysorbate 20, Propylene Glycol, Salix Nigra (Willow) Bark Extract, Sodium C14-16 Olefin Sulfonate, Sodium Lauroyl Oat Amino Acids, TEA-Cocoyl Glutamate, Water/Aqua.
+package_label_principal_display_panel:
+  Jafra Foaming Cleanser Espuma Facial Limpiadora 150 ml 4.5 Fl Oz image of carton
+set_id:
+  70566eee-44c1-429b-be4b-8c0d88efb3c5
+id:
+  a8b44e1c-d8ea-1710-e053-2a95a90abc95
+effective_time:
+  20200622
+version:
+  8
+openfda:

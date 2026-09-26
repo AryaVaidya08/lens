@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Assured Medicated Foot Powder Menthol TALC SODIUM BICARBONATE EUCALYPTUS OIL BENZETHONIUM CHLORIDE PEPPERMINT OIL MENTHOL MENTHOL
+active_ingredient:
+  Active Ingredient Menthol 1.0%
+purpose:
+  Purpose External Analgesic
+indications_and_usage:
+  Uses Temporary relief of pain and itch associate with: minor cuts sunburn insect bites scrapes minor burns minor skin irritations
+warnings:
+  Warning For external use only Avoid contact with eyes Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within few days Keep out of reach of children In case of accidental ingestion, get medical help or contact a poison control center right away.
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days or clear up and occur again within few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions adults and children 2 years and older - apply freely upto 3 or 4 times daily children under 2 years - ask a doctor For best results, dry skin throughly before applying
+inactive_ingredient:
+  Inactive ingredients Talc, Sodium Bicarbonate, Benzethonium Chloride, Eucalyptus Oil, Peppermint Oil
+warnings_and_cautions:
+  Warning This product contains talcum powder and is intended for external use only. Frequent application of talcum powder in the female genital area may increase the risk of ovarian cancer
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 42669-207-01 ASSURED MEDICATED FOOT POWDER TRIPLE RELIEF FORMULA Absorbs Moisture Relieves Itching Cools Skin Net wt 8oz (227 g) image
+set_id:
+  545b3070-6929-46a6-9d9f-934a98008b04
+id:
+  01e2646a-b7f8-29ee-e063-6294a90a103c
+effective_time:
+  20230801
+version:
+  5
+openfda:

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  GLOBAL CARE ICE COLD ANALGESIC menthol CAMPHOR (SYNTHETIC) FD&C BLUE NO. 1 TRIETHANOLAMINE BENZOATE WATER ISOPROPYL ALCOHOL MENTHOL MENTHOL CARBOMER 934
+active_ingredient:
+  Active ingredient Menthol 1 percent
+purpose:
+  Purpose Pain relieving gel
+dosage_and_administration:
+  Uses for the temporary relief of minor aches and pains of muscles and joints associated with simple backache, arthrists, strains, bruises, sprains
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product avoid contact with the eyes do not handage tightly do not apply to wounds or damaged skin do not use with heating pads or other heating devices
+stop_use:
+  Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again with a few days. (see other side panel)
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Posion Control Center immediately
+indications_and_usage:
+  Directions adults and children 2 years of age and older, apply to affected area not more than 3 to 4 times daily children under 2 years of age, do not use, consult a doctor
+storage_and_handling:
+  Other Information do not freeze
+inactive_ingredient:
+  Inactive Ingredients carbomer, isopropyl alcohol, nonyl phenyl polyoxyethylene ether, camphor, kathon CG, FD&C blue no.1, triethanolamine, water
+package_label_principal_display_panel:
+  label
+set_id:
+  6f71833b-d8ce-7f5a-e053-2a91aa0a1b82
+id:
+  6f71833b-d8cf-7f5a-e053-2a91aa0a1b82
+effective_time:
+  20180501
+version:
+  1
+openfda:

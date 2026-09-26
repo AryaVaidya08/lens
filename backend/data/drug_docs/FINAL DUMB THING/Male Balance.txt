@@ -1,0 +1,89 @@
+spl_product_data_elements:
+  Male Balance Avena Sativa, Hepar Suis, Orchitinum (Suis), Testosterone, Agnus Castus, Damiana, Ginkgo Biloba, Hypothalamus (Suis), Lycopodium Clabatum, Human Growth Hormone, Epimedium Grandiflorum, Serotonin (Hydrochloride) AVENA SATIVA FLOWERING TOP AVENA SATIVA FLOWERING TOP PORK LIVER PORK LIVER SUS SCROFA TESTICLE SUS SCROFA TESTICLE TESTOSTERONE TESTOSTERONE CHASTE TREE FRUIT CHASTE TREE TURNERA DIFFUSA LEAFY TWIG TURNERA DIFFUSA LEAFY TWIG GINKGO GINKGO SUS SCROFA HYPOTHALAMUS SUS SCROFA HYPOTHALAMUS LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE SOMATROPIN SOMATROPIN EPIMEDIUM GRANDIFLORUM TOP EPIMEDIUM GRANDIFLORUM TOP SEROTONIN HYDROCHLORIDE SEROTONIN ANHYDROUS CITRIC ACID GLYCERIN SODIUM BENZOATE WATER
+active_ingredient:
+  ACTIVE INGREDIENTS (in each spray): 6.66% of Agnus Castus 12X, Avena Sativa 6X, Damiana 12X, Epimedium Grandiflorum 30C, Ginkgo Biloba 12X, Hepar Suis 6X, Human Growth Hormone 26X, Hypothalamus (Suis) 12X, Lycopodium Clabatum 12X, Orchitinum (Suis) 6X, Serotonin (Hydrochloride) 30C, 0.10% of Testosterone 6X.
+purpose:
+  INDICATIONS: For temporary relief of sexual debility from nervous prostration, for enhancing sexual function, nervous exhaustion causing lack of sexual desire.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Two sprays twice daily. Hold in mouth for 30 seconds.
+indications_and_usage:
+  INDICATIONS: For temporary relief of sexual debility from nervous prostration, for enhancing sexual function, nervous exhaustion causing lack of sexual desire.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Citric Acid, Demineralized Water, Glycerin, Sodium Benzoat
+questions:
+  QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800-869-8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY MALE BALANCE 1 fl. oz. (30 ml) MALE BALANCE
+set_id:
+  297fe55b-ac23-4a7f-bbbe-1005c0066931
+id:
+  6b4ae3c0-cbfb-40cf-965f-e4bd2b961a2d
+effective_time:
+  20240426
+version:
+  2
+openfda:
+  brand_name:
+    Male Balance
+  generic_name:
+    AVENA SATIVA, HEPAR SUIS, ORCHITINUM (SUIS), TESTOSTERONE, AGNUS CASTUS, DAMIANA, GINKGO BILOBA, HYPOTHALAMUS (SUIS), LYCOPODIUM CLABATUM, HUMAN GROWTH HORMONE, EPIMEDIUM GRANDIFLORUM, SEROTONIN (HYDROCHLORIDE)
+  manufacturer_name:
+    Energique,Inc.
+  product_ndc:
+    44911-0613
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    AVENA SATIVA FLOWERING TOP
+    PORK LIVER
+    SUS SCROFA TESTICLE
+    TESTOSTERONE
+    CHASTE TREE FRUIT
+    TURNERA DIFFUSA LEAFY TWIG
+    GINKGO
+    SUS SCROFA HYPOTHALAMUS
+    LYCOPODIUM CLAVATUM SPORE
+    SOMATROPIN
+    EPIMEDIUM GRANDIFLORUM TOP
+    SEROTONIN HYDROCHLORIDE
+  spl_id:
+    6b4ae3c0-cbfb-40cf-965f-e4bd2b961a2d
+  spl_set_id:
+    297fe55b-ac23-4a7f-bbbe-1005c0066931
+  package_ndc:
+    44911-0613-1
+  is_original_packager:
+    True
+  nui:
+    N0000175824
+    N0000000146
+    M0001109
+    N0000175606
+    M0028842
+  pharm_class_epc:
+    Androgen [EPC]
+    Recombinant Human Growth Hormone [EPC]
+  pharm_class_moa:
+    Androgen Receptor Agonists [MoA]
+  pharm_class_cs:
+    Androstanes [CS]
+    Human Growth Hormone [CS]
+  unii:
+    MA9CQJ3F7F
+    6EC706HI7F
+    KM02613O28
+    3XMK78S47O
+    433OSF3U8A
+    RQ2CFA7WWJ
+    19FUJ2C58T
+    N6R0856Z79
+    C88X29Y479
+    NQX9KB6PCL
+    137PC46F89
+    GKN429M9VS

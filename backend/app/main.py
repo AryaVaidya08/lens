@@ -1,37 +1,41 @@
 """
 FastAPI application entrypoint.
+
+Wires together all route modules behind one app instance. This is the
+file `uvicorn app.main:app` points at.
 """
 
 from contextlib import asynccontextmanager
+import os
 
 from fastapi import FastAPI
 
 from app.config import settings
-from app.retrieval.ingest import ingest_docs
 from app.routes import detect, drug, engagement, profile
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """
-    Build the in-memory RAG index when the backend starts.
-    """
+    if os.environ.get("SKIP_INGEST") != "1":
+        from app.retrieval.ingest import ingest_docs
 
-    try:
-        entries = ingest_docs(settings.drug_docs_path)
-        print(f"Loaded {len(entries)} drug-document chunks.")
-    except FileNotFoundError as exc:
-        # Allow the backend to start before the content team
-        # adds the drug documents.
-        print(f"Drug document ingestion skipped: {exc}")
+        try:
+            chunks = ingest_docs(settings.drug_docs_path)
+            print(f"Loaded {len(chunks)} drug-document chunks.")
+        except FileNotFoundError as exc:
+            print(f"Drug document ingestion skipped: {exc}")
+
+    from app.db.database import init_db
+
+    init_db()
+    from app.db.seed import seed
+
+    seed()
 
     yield
 
 
-app = FastAPI(
-    title="HCP Spatial Copilot",
-    lifespan=lifespan,
-)
+app = FastAPI(title="HCP Spatial Copilot", lifespan=lifespan)
 
 app.include_router(profile.router)
 app.include_router(detect.router)

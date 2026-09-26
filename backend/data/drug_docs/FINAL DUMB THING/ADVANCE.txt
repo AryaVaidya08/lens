@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  ADVANCE HAND SANITIZER WITH ALOE ALCOHOL WATER ALCOHOL ALCOHOL CARBOMER 980 GLYCERIN ISOPROPYL MYRISTATE ALOE VERA LEAF TRIETHANOLAMINE BENZOATE
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70.0%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses To help decrease bacteria on the skin. Recommended for repeat use.
+warnings:
+  Warnings For external use only.
+  Flammable. Keep away from heat and flame.
+when_using:
+  When using this product • Keep out of eyes. In case of contact, rinse eyes thoroughly with water • Avoid contact with broken skin • Do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if If irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away 800-222-1222.
+dosage_and_administration:
+  Directions • Wet hands thoroughly with product and allow to dry without wiping • For children under 6, use only under adult supervision • Not recommended for infants
+inactive_ingredient:
+  Inactive ingredients aloe barbadensis extract, carbomer, fragrance, glycerin, triethanolamine, water
+package_label_principal_display_panel:
+  label
+set_id:
+  95f29638-8327-4065-94fd-6b6a648ad16f
+id:
+  2389c91b-3487-4a87-9ee7-d4f62d7beb2d
+effective_time:
+  20200101
+version:
+  1
+openfda:

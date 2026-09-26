@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Alumier MD Acne Clarifying Cleanser Salicylic Acid SALICYLIC ACID SALICYLIC ACID CAPRYLIC ACID PROPANEDIOL COCAMIDOPROPYL HYDROXYSULTAINE GLYCERYL CAPRATE OLIGOPEPTIDE-10 HONEY EDETATE DISODIUM EDETIC ACID COCAMIDOPROPYL DIMETHYLAMINE ALOE VERA LEAF CAPRYLYL GLYCOL GLYCERIN RICE BRAN CARBOXYPOLYMETHYLENE SODIUM HYDROXIDE XYLITOL ETHYLHEXYLGLYCERIN INDIAN FRANKINCENSE WATER SODIUM C14-16 OLEFIN SULFONATE
+spl_unclassified_section:
+  Drug Facts
+  Company Information ALUMIER EUROPE LTD. 5 ST. FREDERICK STREET VALLETTA VLT 1470, MALTA WWW.ALUMIERMD.COM EUROPE • UNITED STATES • CANADA UNITED KINGDOM DISTRIBUTED IN CANADA BY ALUMIER LABS INC., 436 LIMESTONE CRESCENT TORONTO, ON, M3J 2S4 DISTRIBUTED IN THE USA BY ALUMIER LABS INC., 550 COCHITUATE ROAD, SUITE 25 FRAMINGHAM, MA 01701 MANUFACTURED IN CANADA UNDER LICENSE FROM ALUMIER EUROPE LTD.
+active_ingredient:
+  Active Ingredient Salicylic Acid 2.0%
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Use for the treatment of acne
+warnings:
+  Warnings For external use only. When using this product​ avoid contact with eyes. If contact occurs, rinse thoroughly with water. skin irritation and dryness is more likely to occur if you use another topical acne product at the same time. If irritation occurs, only use one topical acne product at a time. Stop use and ask a doctor if you develop severe irritation, burning or itching of the skin, hives, swelling of eyes and mouth, blistering or difficulty breathing for more severe cases, and/or if improvement is not apparent within 6-8 weeks, consult a health care professional Keep out of reach of children . If swallowed, call a Poison Control Centre or get medical help right away.
+when_using:
+  When using this product​ avoid contact with eyes. If contact occurs, rinse thoroughly with water. skin irritation and dryness is more likely to occur if you use another topical acne product at the same time. If irritation occurs, only use one topical acne product at a time.
+stop_use:
+  Stop use and ask a doctor if you develop severe irritation, burning or itching of the skin, hives, swelling of eyes and mouth, blistering or difficulty breathing for more severe cases, and/or if improvement is not apparent within 6-8 weeks, consult a health care professional
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, call a Poison Control Centre or get medical help right away.
+dosage_and_administration:
+  Directions use twice daily, in the morning and evening moisten face with lukewarm water pump a small amount into your hand add water and apply to your face and neck, massaging in a circular motion rinse thoroughly with lukewarm water and gently pat dry For New Users apply product to a small area once a day for three days to test if you are sensitive to this product if no discomfort occurs, cover the entire affected area with a thin layer start with one application daily, then gradually increase to two to three times daily, if needed if dryness or peeling occurs, reduce application to once a day or every other day
+other_safety_information:
+  Other Information Do not use if security seal is broken or missing You may report a serious adverse reaction event from using this product to: Alumier Labs Inc., 550 Cochituate Road, Suite 25, Framingham, MA 01701
+inactive_ingredient:
+  Inactive Ingredients Water/Aqua/Eau, Sodium C14-16 Olefin Sulfonate, Propanediol, Dimethyl Lauramide/Myristamide, Glycerin, Cocamidopropyl Dimethylamine, Cocamidopropyl Hydroxysultaine, Glyceryl Caprate, Lauryl Lactyl Lactate, Oligopeptide-10, Aloe Barbadensis Leaf Juice, Boswellia Serrata Gum Extract, Honey Extract (Extrait de Miel), Oryza Sativa (Rice) Bran Extract, Carbomer, Sodium Hydroxide, Disodium EDTA, Caprylyl Glycol, Xylitol, Caprylic Acid, Ethylhexylglycerin.
+package_label_principal_display_panel:
+  Product Packaging Alumier MD Acne Clarifying Cleanser ACNE TREATMENT WITH 2% SALICYLIC ACID NPN: 80064465 177 mL/6 fl oz acne clarifying cleanser rev
+set_id:
+  87747f82-9018-ab34-e053-2995a90a6808
+id:
+  284093cf-80e1-38d4-e063-6394a90a1881
+effective_time:
+  20241201
+version:
+  3
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Alumier MD Acne Clarifying Cleanser
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Alumier Labs
+  product_ndc:
+    69473-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    284093cf-80e1-38d4-e063-6394a90a1881
+  spl_set_id:
+    87747f82-9018-ab34-e053-2995a90a6808
+  package_ndc:
+    69473-001-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

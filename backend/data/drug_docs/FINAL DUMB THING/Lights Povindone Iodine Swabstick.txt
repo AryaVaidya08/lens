@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Lights Povindone Iodine Swabstick POVIDONE-IODINE WATER CITRIC ACID MONOHYDRATE SODIUM PHOSPHATE DIBASIC DIHYDRATE POVIDONE-IODINE IODINE
+active_ingredient:
+  Active Ingredient: Povidone-Iodine USP (10%) Equivalent to 1% titratable Iodine
+purpose:
+  Purpose: Antiseptic
+indications_and_usage:
+  Use: Health care antiseptic for prepapration of skin prior to surgery. First aid antiseptic to help prevent infection in minor cuts, scrapes and burns.
+warnings:
+  Warnings: For external use only Do not use or apply to the eyes *to individuals who are allergic or sensitive to iodine, *over large area of the body, *as first aid antiseptic longer than a week unless directed by a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or consult a poison control center right away
+ask_doctor:
+  Discontinue use if irritation and redness develop. Consult a doctor iin case of deep or puncture wounds, animal bites, or serious burns Stop use and ask a doctor if infection occurs or if condition persists or increases
+dosage_and_administration:
+  For preparation of the skin prior surgery: clean the affacted area, remove swabstick, apply to the operative site prior to surgery For use as first aid antiseptic: clean the affacted area, apply a small anount of the product to the area 1-3 times daily. Maybe covered with a sterile bandage. If bandaged, let dry first.
+other_safety_information:
+  Other information Store at room temperature
+inactive_ingredient:
+  Inactive Ingredient Citric acid, disodium phosphate, purified water
+package_label_principal_display_panel:
+  image description
+set_id:
+  977b6077-bf47-4e02-bde4-c752e73d7628
+id:
+  48efec8f-83e7-0744-e063-6394a90a0c29
+effective_time:
+  20260121
+version:
+  3
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Lights Povindone Iodine Swabstick
+  generic_name:
+    POVIDONE-IODINE
+  manufacturer_name:
+    Lights Medical Manufacture Co., Ltd.
+  product_ndc:
+    61333-212
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    POVIDONE-IODINE
+  rxcui:
+    797730
+  spl_id:
+    48efec8f-83e7-0744-e063-6394a90a0c29
+  spl_set_id:
+    977b6077-bf47-4e02-bde4-c752e73d7628
+  package_ndc:
+    61333-212-01
+  is_original_packager:
+    True
+  nui:
+    N0000175486
+    M0011640
+  pharm_class_epc:
+    Antiseptic [EPC]
+  pharm_class_cs:
+    Iodine [CS]
+  unii:
+    85H0HZU99M

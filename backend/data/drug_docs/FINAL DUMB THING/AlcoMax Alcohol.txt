@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  AlcoMax Alcohol EDETATE DISODIUM ANHYDROUS GLYCERIN CHAMAECYPARIS OBTUSA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE VERA LEAF ARGININE ALCOHOL ALCOHOL WATER
+active_ingredient:
+  Active Ingredient ALCHOL 70%
+purpose:
+  PURPOSE ANTIMICROBIAL
+inactive_ingredient:
+  Inactive Ingredient Water, Aloe Barbadensis leaf, chamaecyparis Obtusa leaf, Glycerin, Carbomer, Arqinine, DISODIUM EDTA
+dosage_and_administration:
+  Direction Place enough product on hands to cover all surfaces.Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+do_not_use:
+  Do not use In children less than 2 months of age . On open skin wounds
+when_using:
+  When using this product Keep out of eyes, ears, and mouth in case of contact with eyes, rinse eyes thoroughly whit water.
+warnings:
+  Warnings for external sue only. Flammable. keep away from heat or flame
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or contact a Poison Control center right away.
+stop_use:
+  Stop use and ask a doctor. if irritationor rash occurs. These may be signs of a serious contion.
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not avaliable.
+storage_and_handling:
+  Other information Store between 33.8~86'F Avoid freezing and excessive heat
+package_label_principal_display_panel:
+  Pakage Label ​3.7L 75700-301-04 100ml 75700-301-03 500ml 75700-301-02 (new) 500ml 75700-301-01 1gal label(3.7L) 100ml label new label image 500ml 500ml NDC:75700-301-01 Label
+set_id:
+  a39ccce4-eb8c-d850-e053-2995a90a25d4
+id:
+  b4e95a9f-45bc-587c-e053-2a95a90a1628
+effective_time:
+  20201125
+version:
+  4
+openfda:

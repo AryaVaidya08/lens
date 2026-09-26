@@ -1,0 +1,35 @@
+effective_time:
+  20210113
+inactive_ingredient:
+  Inactive ingredients Carbomer,Glycerin,Aloe Extract,Triethanolamine,Water.
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed,get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only.Flammable. Keep away from heat or flame.
+when_using:
+  When using this product keep out of eyes, ears,and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  INSTANT HAND SANITIZER INSTANT HAND SANITIZER ALOE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALCOHOL ALCOHOL WATER TROLAMINE GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+storage_and_handling:
+  Other information ·Store between 15-30C(59-86F) ·Avoid freezing and excessive heat above 40C(104F)
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 500 ml label 500 ml label 500 ml label 1 L label
+indications_and_usage:
+  Use[s] Hand Sanitizer to decrease bacteria on the skin that could cause disease.
+set_id:
+  a5ed77a8-123e-5f7a-e053-2995a90a0356
+id:
+  b8c5282c-e72a-3433-e053-2a95a90a2c0c
+active_ingredient:
+  Active ingredient[s] Alcohol 75%

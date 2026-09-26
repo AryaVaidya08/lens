@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Pain Relieving Gel-Patch Lidocaine POLYSORBATE 80 GLYCERIN POVIDONE K90 METHYLPARABEN PROPYLPARABEN EDETATE DISODIUM KAOLIN TARTARIC ACID WATER PROPYLENE GLYCOL POLYACRYLIC ACID (250000 MW) SODIUM POLYACRYLATE (2500000 MW) TITANIUM DIOXIDE DIHYDROXYALUMINUM AMINOACETATE ANHYDROUS LIDOCAINE LIDOCAINE
+active_ingredient:
+  Active ingredient Lidocaine 4% ...... Purpose: Topical Anesthetic
+purpose:
+  Purpose Topical Anesthetic
+indications_and_usage:
+  Uses For temporary relief of pain
+warnings:
+  Warnings For external use only
+ask_doctor:
+  Ask a doctor if: localized skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering Conditions worsen Symptoms persists for more than 7 days Symptoms clear up and occur again within a few days
+when_using:
+  When using this product Use only as directed Avoid contact with the eyes, mucous membranes or rashed Do not bandage tightly
+do_not_use:
+  Do not use More than 1 patch at a time On wounds or damaged skin With a heating pad If you are allergic to any ingredients of this product
+stop_use:
+  Stop use if: localized skin reactions occur, such as rash, itching, redness, irritation, pain, swelling and blistering Conditions worsen Symptoms persists for more than 7 days Symptoms clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  Pregnancy or breast feeding If pregnant or breastfeeding , ask a health professional before use
+dosage_and_administration:
+  Directions Adult and Children 12 years of age and over : Clean and dry affected area Remove film from patch and apply to the skin (see illustration) Apply 1 patch at a time to affected area, not more than 3 to 4 times daily Remove patch from the skin after at most 8-hour application Children under 12 years of age : Consult a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive ingredients Glycerin, Sodium Polyacrylate, Dihydroxyaluminum Aminoacetate, Disodium Ethylenediaminetetraacetic Acid, Kaolin, Titanium Dioxide, Polysorbate 80, Propylene Glycol, Tartaric Acid, Polyacrylic Acid, Povidone, Methylparaben, Propylparaben, Water
+questions:
+  Questions or Comments? 86-21-31166566；webmaster@csigroup.com.cn
+storage_and_handling:
+  Other information Avoid storing product in direct sunlight Protect product from excessive moisture
+package_label_principal_display_panel:
+  Package label. Principal display panel patch 186-10
+set_id:
+  412ab954-d0cb-0f7c-e063-6394a90ab9b2
+id:
+  412fef71-4d55-4efb-e063-6294a90ad4a3
+effective_time:
+  20251015
+version:
+  7
+openfda:

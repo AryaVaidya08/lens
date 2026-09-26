@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  betr allergy relief Cetirizine Hydrochloride CETIRIZINE HYDROCHLORIDE CETIRIZINE STARCH, CORN FD&C BLUE NO. 1 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE, UNSPECIFIED TITANIUM DIOXIDE TRIACETIN 4H2
+active_ingredient:
+  Active ingredient (in each tablet) Cetirizine HCl 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • sneezing • itchy, watery eyes • itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives. When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients or to an antihistamine containing hydroxyzine.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking tranquilizers or sedatives.
+when_using:
+  When using this product • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: • if breast-feeding: not recommended • if pregnant: ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions adults and children 6 years and over one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms. adults 65 years and over ask a doctor children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><col width="30%"/><col width="70%"/><tbody><tr><td styleCode="Botrule Lrule Toprule " valign="top"><paragraph>adults and children 6 years and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>one 10 mg tablet once daily; do not take more than one 10 mg tablet in 24 hours. A 5 mg product may be appropriate for less severe symptoms.</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>adults 65 years and over</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>children under 6 years of age</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • store between 20-25 ° C (68-77 ° F) • do not use if printed foil under cap is broken or missing
+inactive_ingredient:
+  Inactive ingredients corn starch, FD&C blue no. 1 aluminum lake, hypromellose, lactose monohydrate, magnesium stearate, polydextrose, polyethylene glycol, povidone, titanium dioxide, triacetin
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel allergy relief CETIRIZINE HYDROCHLORIDE TABLETS 10mg Actual Size Antihistamine All Day Allergy Relief Original Prescription Strength Indoor & Outdoor Allergies 24 Hour Relief Of: Sneezing; Runny Nose; Itchy Watery Eyes; Itchy Throat or Nose 45 TABLETS allergy relief image
+set_id:
+  c9e41f1e-1b63-40c9-b7ec-7427617e68c9
+id:
+  ebf393ef-26e8-45dc-9bfd-31c1e91e9db9
+effective_time:
+  20231212
+version:
+  2
+openfda:

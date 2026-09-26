@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Nudestix Hand Sanitizer alcohol WATER ALCOHOL ALCOHOL TROLAMINE GREEN TEA LEAF RICINUS COMMUNIS SEED GLYCERIN .ALPHA.-TOCOPHEROL ACETATE CARBOMER 940
+active_ingredient:
+  Active Ingredient(s) alcohol
+purpose:
+  Purpose Purpose: Antiseptic
+indications_and_usage:
+  Use  Hand sanitizing to help reduce bacteria on the skin
+warnings:
+  Warnings  For external use only.  Flammable, keep away from fire or flame.  When using this product, avoid contact with the eyes. In case of contact, rinse eyes thoroughly with water.  Stop use and ask a doctor if irritation or redness appears and lasts.
+keep_out_of_reach_of_children:
+   Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions  Take suitable amount of sanitizer in the hand. Wet thoroughly and rub hands together until dry
+inactive_ingredient:
+  water glycerin carbome triethanolamine, tocopheryl acetate, ricinus communis seed oil, camellia sinensis leaf extract
+package_label_principal_display_panel:
+  label
+set_id:
+  a73d6343-0e21-697d-e053-2995a90a9a76
+id:
+  a73d6cef-08f0-0ebd-e053-2a95a90ac331
+effective_time:
+  20200604
+version:
+  1
+openfda:

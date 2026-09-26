@@ -1,0 +1,31 @@
+effective_time:
+  20150721
+drug_interactions:
+  DRUG INTERACTIONS Consult your pharmacist. Keep a list of all your medications with you, and share the list with your doctor and pharmacist.
+contraindications:
+  CONTRAINDICATIONS VALIDERM® Topical Cream, as dispensed, is contraindicated in those patients with a history of hypersensitivity to any of the components of the preparation.
+precautions:
+  PRECAUTIONS Consult your pharmacist.
+spl_product_data_elements:
+  Validerm calcitriol, fluticasone propionate and tacrolimus Calcitriol calcitriol CALCITRIOL CALCITRIOL Fluticasone Propionate fluticasone propionate FLUTICASONE PROPIONATE FLUTICASONE Tacrolimus tacrolimus TACROLIMUS TACROLIMUS ANHYDROUS Cream Base cream WATER PETROLATUM SORBITOL CETOSTEARYL ALCOHOL PROPYLENE GLYCOL POLYOXYL 20 CETOSTEARYL ETHER DIMETHICONE GLYCERYL MONOSTEARATE POLYETHYLENE GLYCOLS SORBIC ACID BUTYLATED HYDROXYTOLUENE
+description:
+  DESCRIPTION VALIDERM® is comprised of 0.2 mg of Calcitriol USP, 50 mg of Fluticasone Propionate USP, and 50 mg of Tacrolimus USP for dermatological use. VALIDERM® also contains a Cream Base containing purified water, white petrolatum, sorbitol solution, cetearyl alcohol, propylene glycol, ceteareth-20, simethicone, glyceryl monostearate, polyethylene glycol monostearate, sorbic acid and BHT. When mixed as instructed, the final product provides a homogeneous cream mixture containing Calcitriol, Fluticasone Propionate and Tacrolimus comparable to the active ingredients (Vectical® 3mcg/g, Cutivate® 0.05%, and Protopic® 0.1%) contained in VALIDERM®. Certificate of analysis on file This product is not manufactured by Galderma Labs LP, manufacturer of Vectical®, GlaxoSmithKline, manufacturer of Cutivate®, or by Astellas Pharma US, Inc., manufacturer of Protopic®.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION The pharmacist must mix contents of each container with appropriate amount of Cream Base yielding a final volume of 100 grams at the time of dispensing. Pharmacist may utilize appropriate diluents if needed from the respective active component Material Safety Data Sheet only. For dermatological use only. This product should not be administered orally.
+spl_unclassified_section:
+  USES Consult your pharmacist.
+  HOW TO USE Consult your pharmacist.
+  SIDE EFFECTS Consult your pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
+  MISSED DOSE Consult your pharmacist.
+  NOTES No Monograph available at this time.
+how_supplied:
+  HOW SUPPLIED VALIDERM® Cream, as dispensed, is supplied as a five component package: three containers which contain the active components Calcitriol USP 0.2 mg, Fluticasone Propionate USP 50 mg, and Tacrolimus USP 50 mg (respectively), a separate package of Cream Base and a stirring apparatus. The pharmacist must mix contents of each active component container with appropriate amount of Cream Base such that the QS volume yields 100 grams (final weight) at the time of dispensing. Pharmacist may utilize appropriate diluents if needed from the respective active component Material Safety Data Sheet only. Pharmacist must only use appropriate amount of Cream Base such that the final volume yields 100 grams inclusive of all drug substances, any diluents that may have been added, and Cream Base. Pharmacist may dispense final product upon reconstituting and mixing into a dispensing container of their choice or as directed by prescriber. Mix for 5 minutes before dispensing. May use mixing aid, if necessary. Shake well before using. Store between 15° and 30°C (59° and 86°F) in tightly closed containers prior to mixing. Store final product at refrigerated temperature, 2°-8°C (36°-46°F). For dermatological use only. Avoid contact with eyes. Keep container tightly closed. Keep out of the reach of children. Protect from light. Protect from freezing. VALIDERM® Cream, as dispensed, is stable for at least 30 days at refrigerated temperature upon mixing as recommended under USP 795 Guidelines. U.S. Patent Pending Distributed By: Accumix Pharmaceuticals East Windsor, NJ 08520 Issued: October 2014 v1 Rx ONLY For External Use Only
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - NDC: 69167-1025-9 - Carton Label Validerm Topical Cream Carton Label
+set_id:
+  0d883c52-8ab2-4126-87d5-e57b8f58b573
+id:
+  54feef9d-d1f2-4c25-a505-70ef22f2df5c

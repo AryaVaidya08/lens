@@ -1,0 +1,40 @@
+effective_time:
+  20160628
+inactive_ingredient:
+  Inactive ingredients hypromellose, magnesium stearate, microcrystalline cellulose, iron oxide, titanium dioxide, triacetin
+purpose:
+  Purpose Acid reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Allergy alert: Do not use if you are allergic to ranitidine or other acid reducers Do not use • if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. • with other acid reducers Ask a doctor before use if you have • had heartburn over 3 months. This may be a sign of a more serious condition. • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain Stop use and ask a doctor if • your heartburn continues or worsens • you need to take this product for more than 14 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? call 1-888-285-9159 (English/Spanish) M – F, 8:30 – 5 EST, or visit www.zantacotc.com for Tips for Managing Heartburn
+spl_product_data_elements:
+  Zantac 75 RANITIDINE FERRIC OXIDE RED TITANIUM DIOXIDE TRIACETIN RANITIDINE HYDROCHLORIDE RANITIDINE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE Z;75
+ask_doctor:
+  Ask a doctor before use if you have • had heartburn over 3 months. This may be a sign of a more serious condition. • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • adults and children 12 years and over: • to relieve symptoms, swallow 1 tablet with a glass of water • to prevent symptoms, swallow 1 tablet with a glass of water 30 to 60 minutes before eating food or drinking beverages that cause heartburn • can be used up to twice daily (do not take more than 2 tablets in 24 hours) • do not chew tablet • children under 12 years: ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  Other information • do not use if individual foil packet is open or torn • store at 20-25ºC (68-77ºF) • avoid excessive heat or humidity • this product is sodium and sugar free
+stop_use:
+  Stop use and ask a doctor if • your heartburn continues or worsens • you need to take this product for more than 14 days
+do_not_use:
+  Do not use • if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. • with other acid reducers
+package_label_principal_display_panel:
+  Package Labeling: Outer Package Inner Package Zantac
+indications_and_usage:
+  Uses • relieves heartburn associated with acid indigestion and sour stomach • prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain foods and beverages
+set_id:
+  9a386d1e-f441-4ba1-bb32-c3ea828c41bd
+id:
+  365866b1-f6a3-5fb3-e054-00144ff88e88
+active_ingredient:
+  Active ingredient (in each tablet) Ranitidine 75 mg (as ranitidine hydrochloride 84 mg) Purpose Acid reducer

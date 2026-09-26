@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  AVON Night Magic Essence Roll-On Anti-Perspirant Deodorant Aluminum Chlorohydrate STEARETH-2 WATER DIISOOCTYL ADIPATE PPG-15 STEARYL ETHER STEARETH-20 ISOPROPYL PALMITATE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+spl_unclassified_section:
+  Drug Facts
+  MADE IN MEXICO DIST. THE AVON COMPANY, NY, NY 10006 ©2024 THE AVON COMPANY C2267436
+active_ingredient:
+  Active ingredient Aluminum Chlorohydrate 17.5% anhydrous
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses reduces underarm perspiration
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+stop_use:
+  Stop use if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients WATER, STEARETH-2, PPG-15 STEARYL ETHER, DIISOOCTYL ADIPATE, STEARETH-20, ISOPROPYL PALMITATE, FRAGRANCE
+questions:
+  Questions? Call 1-800-FOR-AVON To order, contact your Avon Independent Sales Representative or call: 1-800-FOR-AVON www.avon.com
+package_label_principal_display_panel:
+  Principal Display Panel AVON NIGHT MAGIC ESSENCE ROLL-ON ANTI-PERSPIRANT DEODORANT 50 ml/1.7 fl.oz. U.S. avon_night_magic_essence_50ml
+set_id:
+  2423311d-0f08-3037-e063-6294a90a0101
+id:
+  26b80a10-9e94-6d38-e063-6394a90aa6c4
+effective_time:
+  20241112
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    AVON Night Magic Essence Roll-On Anti-Perspirant Deodorant
+  generic_name:
+    ALUMINUM CHLOROHYDRATE
+  manufacturer_name:
+    Avon Cosmetics Manufacturing, S. de R.L. de C.V.
+  product_ndc:
+    71110-1515
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM CHLOROHYDRATE
+  spl_id:
+    26b80a10-9e94-6d38-e063-6394a90aa6c4
+  spl_set_id:
+    2423311d-0f08-3037-e063-6294a90a0101
+  package_ndc:
+    71110-1515-1
+  is_original_packager:
+    True
+  unii:
+    HPN8MZW13M

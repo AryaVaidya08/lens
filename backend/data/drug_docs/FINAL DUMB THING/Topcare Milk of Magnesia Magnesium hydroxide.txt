@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Topcare Milk of Magnesia Magnesium hydroxide MAGNESIUM HYDROXIDE MAGNESIUM CATION HYDROXIDE ION LIGHT MINERAL OIL WATER SACCHARIN SODIUM PEPPERMINT OIL opaque
+active_ingredient:
+  Active ingredient (in each 15 mL) Magnesium hydroxide 1200 mg
+purpose:
+  Purpose Saline laxative
+indications_and_usage:
+  Uses • relieves occasional constipation (irregularity) • generally produces bowel movement in ½ to 6 hours
+warnings:
+  Warnings Ask a doctor before use if you have • kidney disease • a magnesium-restricted diet • stomach pain, nausea, or vomiting • a sudden change in bowel habits that lasts more than 2 weeks Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work. Stop use and ask a doctor if • you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. • you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+ask_doctor:
+  Ask a doctor before use if you have • kidney disease • a magnesium-restricted diet • stomach pain, nausea, or vomiting • a sudden change in bowel habits that lasts more than 2 weeks
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work.
+stop_use:
+  Stop use and ask a doctor if • you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. • you need to use a laxative for more than 1 week
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • do not exceed the maximum recommended daily dose in a 24 hour period • shake well before use • dose may be taken once a day preferably at bedtime, in divided doses, or as directed by a doctor • drink a full glass (8 oz) of liquid with each dose • for accurate dosing, use dose cup provided • mL = milliliter adults and children 12 years and older 30 mL to 60 mL children 6 to 11 years 15 mL to 30 mL children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><col width="50%"/><col width="50%"/><tbody><tr styleCode="Toprule"><td styleCode="Rrule Botrule " valign="top"><paragraph>adults and children 12</paragraph><paragraph>years and older</paragraph></td><td styleCode="Botrule Lrule " valign="top"><paragraph>30 mL to 60 mL</paragraph></td></tr><tr><td styleCode="Rrule Botrule " valign="top"><paragraph>children 6 to 11 years</paragraph></td><td styleCode="Lrule Toprule Botrule " valign="top"><paragraph>15 mL to 30 mL</paragraph></td></tr><tr styleCode="Botrule"><td styleCode="Rrule Toprule " valign="top"><paragraph>children under 6 years</paragraph></td><td styleCode="Lrule Toprule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • each 15 mL contains: calcium 20 mg, magnesium 595 mg, and sodium 2 mg • does not meet USP requirements for preservative effectiveness • store at 20-25°C (68-77°F) • close cap tightly after use • avoid freezing
+inactive_ingredient:
+  Inactive ingredients light mineral oil, peppermint oil, purified water, saccharin sodium
+questions:
+  Questions or comments? 1-888-423-0139
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO PHILLIPS ® FRESH MINT ACTIVE INGREDIENT STIMULANT FREE OUR PHARMACISTS RECOMMEND Genuine Milk of Magnesia SALINE LAXATIVE MAGNESIUM HYDROXIDE, 1200 mg per 15 mL Comfortable, Cramp Free Relief Sugar Free #1 Doctor Recommended Saline Laxative Active Ingredient 12 FL OZ (355 mL) FRESH MINT FLAVOR 332-88-milk-of-magnesia-1.jpg 332-88-milk-of-magnesia-2.jpg
+set_id:
+  86ab7a79-4552-4b1c-b64b-0106e6860e70
+id:
+  780470fc-4624-40db-b07f-5e1f992adbf2
+effective_time:
+  20220902
+version:
+  7
+openfda:

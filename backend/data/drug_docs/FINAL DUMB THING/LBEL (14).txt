@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  LBEL LEDERM 45 plus JOUR Facial against noticeable signs of aging Avobenzone, Octisalate, Octocrylene, and Oxybenzone WATER ALKYL (C12-15) BENZOATE CYCLOMETHICONE 6 GLYCERIN POTASSIUM CETYL PHOSPHATE ALBIZIA JULIBRISSIN BARK DIMETHICONE GLYCERYL MONOSTEARATE PENTYLENE GLYCOL HYDROGENATED PALM GLYCERIDES PHENOXYETHANOL XANTHAN GUM C20-22 ALKYL PHOSPHATE C20-22 ALCOHOLS CHLORPHENESIN SODIUM HYDROXIDE ACACIA EDETATE DISODIUM ANHYDROUS PALMITOYL LYSYLDIOXYMETHIONYLLYSINE AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Ventura Corp, Ltd., San Juan, Puerto Rico 00926.
+active_ingredient:
+  Active Ingredients Purpose Avobenzone 3% Sunscreen Octisalate 5% Sunscreen Octocrylene 3% Sunscreen Oxybenzone 5% Sunscreen
+active_ingredient_table:
+  <table width="65%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active Ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Octisalate 5%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 3%</td><td>Sunscreen</td></tr><tr><td>Oxybenzone 5%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active Ingredients Purpose Avobenzone 3% Sunscreen Octisalate 5% Sunscreen Octocrylene 3% Sunscreen Oxybenzone 5% Sunscreen
+purpose_table:
+  <table width="65%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active Ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Octisalate 5%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 3%</td><td>Sunscreen</td></tr><tr><td>Oxybenzone 5%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses Helps prevent sunburn.
+warnings:
+  Warnings Skin Cancer / Skin Aging Alert Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to help prevent sunburn, not skin cancer or early skin aging. For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally and evenly 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water resistant sunscreen if swimming or sweating. Children under 6 months of age: Ask a doctor.
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive ingredients water, c12-15 alkyl benzoate, cyclohexasiloxane, glycerin, potassium cetyl phosphate, albizia julibrissin bark extract, dimethicone, glyceryl stearate, pentylene glycol, methyl methacrylate crosspolymer, hydrogenated palm glycerides, phenoxyethanol, xanthan gum, c20-22 alkyl phosphate, acrylates/vinyl isodecanoate crosspolymer, fragrance, c20-22 alcohols, chlorphenesin, hydrolyzed ceratonia siliqua seed extract, sodium hydroxide, acacia senegal gum, disodium edta, olive oil aminopropanediol esters, raspberry seed oil/tocopheryl succinate aminopropanediol esters, hydroxypropyl cyclodextrin, palmitoyl tripeptide-38.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Box • FORMULA CREATED BY FRENCH DERMATOLOGISTS SKIN EXPERTS LEDERM 45+ JOUR facial lotion against noticeable signs of aging day lotion SPF 15 all skin types 50 ml e (1.6 fl.oz.) PRINCIPAL DISPLAY PANEL - 50 ml Bottle Box
+set_id:
+  ae59e9ef-6a19-4674-b942-0d58e24f4ac3
+id:
+  33a17d16-f0eb-ca8e-e063-6394a90a21b7
+effective_time:
+  20250425
+version:
+  4
+openfda:

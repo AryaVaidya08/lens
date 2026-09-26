@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Povidone-Iodine Gel Solution Povidone-Iodine NONOXYNOL-10 POTASSIUM IODIDE WATER ANHYDROUS CITRIC ACID GLYCERIN HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) POVIDONE-IODINE IODINE SODIUM HYDROXIDE
+spl_unclassified_section:
+  MK Povidone-Iodine Gel Solution
+  Other Information 1% titratable for hospital or professional use only
+active_ingredient:
+  Active Ingredient Povidone-Iodine 10% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Antiseptic skin preparation
+warnings:
+  Warnings Do not use if allergic to Iodine in the eyes Stop use and ask doctor if redness, irritation, swelling or pain persists or increases infection occurs Keep out of reach of children In case of accidental ingestion, seek professional assistance or consult a poison control center immediately. Avoid pooling beneath the patient Ask a doctor before use if injuries are deep puncture wounds serious burns
+do_not_use:
+  Do not use if allergic to Iodine in the eyes
+stop_use:
+  Stop use and ask doctor if redness, irritation, swelling or pain persists or increases infection occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, seek professional assistance or consult a poison control center immediately. Avoid pooling beneath the patient
+ask_doctor:
+  Ask a doctor before use if injuries are deep puncture wounds serious burns
+dosage_and_administration:
+  Directions apply locally as needed
+inactive_ingredient:
+  Inactive Ingredients alkyl glucoside, anhydrous citric acid, glycerin, hydroxyethyl cellulose, nonoxynol-10, potassium iodide, sodium hydroxide, purified water
+package_label_principal_display_panel:
+  MK Povidone-Iodine Gel Solution 4oz
+set_id:
+  a93af59a-e33c-9c00-e053-2a95a90add76
+id:
+  a93af59a-e33d-9c00-e053-2a95a90add76
+effective_time:
+  20200629
+version:
+  1
+openfda:

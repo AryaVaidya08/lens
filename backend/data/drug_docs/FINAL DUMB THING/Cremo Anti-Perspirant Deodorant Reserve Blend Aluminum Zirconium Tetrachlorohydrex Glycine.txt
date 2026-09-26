@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Cremo Anti-Perspirant Deodorant Reserve Blend Aluminum Zirconium Tetrachlorohydrex Glycine STEARYL ALCOHOL ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY SILICON DIOXIDE CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL PEG-8 DILAURATE ALUMINUM STARCH OCTENYLSUCCINATE
+spl_unclassified_section:
+  Drug Facts
+  cremocompany.com Dist. by Cremo Company, LLC Laguna Beach, CA 92651 ©2019 Cremo Co. Not tested on animals.
+active_ingredient:
+  Active ingredient Aluminum Zirconium Tetrahydrochlorhydrex Glycine 19%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Use Reduces underarm wetness
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+stop_use:
+  Stop use if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Apply to underarms only Hold product to skin to soften on contact with body heat, using only a small amount of product
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, Hydrogenated Castor Oil, Fragrance (Parfum), Silica, PEG-8 Dilaurate, Aluminum Starch Octenylsuccinate
+questions:
+  Questions? Call toll-free 800-853-1762
+package_label_principal_display_panel:
+  CREMO ® Astonishingly Superior ® ANTI-PERSPIRANT & DEODORANT —No. 13— RESERVE BLEND spiced citrus • bourbon • oaked vetiver ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLYCINE NET WT 2.65 OZ (75 g) APDO Reserve 115-75
+set_id:
+  9b43a1d2-cf0f-f865-e053-2995a90a6f89
+id:
+  9b443dd6-69ac-0c42-e053-2a95a90a9d5c
+effective_time:
+  20200103
+version:
+  3
+openfda:

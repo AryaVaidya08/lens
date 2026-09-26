@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Derma-San Benzalkonium Chloride CETRIMONIUM CHLORIDE DIHYDROXYETHYL COCAMINE OXIDE LAURTRIMONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chlorine, 0.1% w/v
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use For handwashing to decrease bacteria on skin Recommended for repeated use
+warnings:
+  Warning For external use only
+when_using:
+  When using this product avoid contact with eyes. in case on eye contact, flush eyes with water
+recent_major_changes:
+  Use For handwashing to decrease bacteria on skin. Recommended for repeated use.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Pump a small amounts of foam into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inactive ingredients Water, cetrimonium chloride, laurtrimonium chloride, dihydroxyethyl cocamine oxide, and citric acid.
+questions:
+  Questions or comment? 320-693-2477
+package_label_principal_display_panel:
+  Principal Display Panel Derma-San NO-RINSE HAND SANITIZER NET CONTENTS: 1 US GALLON ProductLabel
+set_id:
+  a49c41fd-e31d-b451-e053-2995a90a0dc6
+id:
+  a49c41fd-e31e-b451-e053-2995a90a0dc6
+effective_time:
+  20200501
+version:
+  1
+openfda:

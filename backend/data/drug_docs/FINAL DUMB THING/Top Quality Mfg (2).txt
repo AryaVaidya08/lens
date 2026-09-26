@@ -1,0 +1,27 @@
+effective_time:
+  20141117
+inactive_ingredient:
+  Inactive Ingredients Distilled Water, Flavor, Hydrofluoric Acid, Isobutane Propane Propellant, Phosphoric Acid, Poloxamer, Sodium Benzoate, Sodium Laureth Sulfate, Sodium Saccharin, Triethanolamine, Xylitol.
+instructions_for_use:
+  Instructions for Use Remove cap from can. Prior to each use, shake can thoroughly for at least 15 seconds. To dispense, invert the can completely upside down. Slowly depress nozzle to dispense foam into fluoride tray (foam will expand slightly higher than the tray). Air dry teeth thoroughly and insert tray(s) into patient's mouth. Instruct patient to bite down and leave the tray in contact with the teeth for 1-4 minutes. Use a saliva ejector during treatment to minimize ingestion of the product. Remove tray(s) and have patient expectorate. Instruct patient not to eat, drink or rinse for 30 minutes after treatment.
+warnings:
+  Warnings: Do not swallow. Keep out of reach of children. Contents under pressure. Do not place in hot water or near radiators, stoves, or other sources of heat. Do not puncture or incinerate container. Do not spray toward open flame. For Professional Use Only.
+spl_product_data_elements:
+  Top Quality Mfg APF Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION Water HYDROFLUORIC ACID PHOSPHORIC ACID POLOXAMER 407 SODIUM BENZOATE SODIUM LAURETH-3 SULFATE SACCHARIN SODIUM TROLAMINE XYLITOL
+openfda:
+version:
+  1
+spl_unclassified_section:
+  Active Ingredient: 1.23% Fluoride Ion. Available from 1.81% Sodium Fluoride and Hydrofluoric Acid.
+  Purpose: Fluoride Preventative Treatment Foam.
+storage_and_handling:
+  Other Information: Store at controlled room temperature 59°-86°F (15°-30°C). Protect from freezing.
+package_label_principal_display_panel:
+  TopQualityFoam
+  TopQualityBox
+indications_and_usage:
+  Indications and Usage: This is a prescription fluoride treatment foam used to help prevent dental decay.
+set_id:
+  f324570a-029e-4d86-b17e-6df35d40f921
+id:
+  3b6588fa-38c5-4cde-9abe-481e9bb38b8e

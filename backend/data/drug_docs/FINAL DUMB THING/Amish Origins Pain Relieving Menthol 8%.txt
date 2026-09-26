@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Amish Origins Pain Relieving Menthol 8% MENTHOL CAMPHOR OIL EUCALYPTUS OIL METHYL SALICYLATE PINE NEEDLE OIL (PINUS SYLVESTRIS) MENTHOL MENTHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at room temperature
+active_ingredient:
+  Active ingredient Menthol 8% Purpose External Analgesic
+purpose:
+  Purpose External Analgesic
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pain of muscles and joints associated with arthritis
+warnings:
+  Warnings For external use only. When using this product avoid contact with the eyes do not apply to wounds or damaged skin do not bandage tightly Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical helpor contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with the eyes do not apply to wounds or damaged skin do not bandage tightly
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical helpor contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: do not use, consult a doctor.
+inactive_ingredient:
+  Inactive ingredients Camphor Oil, Eucalyptus Oil, Methyl Salicylate, Pine Needle Oil, Snow White Petrolatum
+questions:
+  Questions or comments? 1-888-530-7643
+package_label_principal_display_panel:
+  Package Labeling: Label03
+set_id:
+  b120404f-5a07-4182-bb50-d943418622da
+id:
+  128763e6-85ee-c56c-e063-6294a90a621f
+effective_time:
+  20240229
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Amish Origins Pain Relieving Menthol 8%
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    Amish Origins Management, LLC
+  product_ndc:
+    62212-002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    282808
+  spl_id:
+    128763e6-85ee-c56c-e063-6294a90a621f
+  spl_set_id:
+    b120404f-5a07-4182-bb50-d943418622da
+  package_ndc:
+    62212-002-01
+  is_original_packager:
+    True
+  upc:
+    0838273000119
+  unii:
+    L7T10EIP3A

@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  BOA VIDA Calvida ZINC OXIDE WATER POLYGLYCERYL-4 ISOSTEARATE HEXYL LAURATE MINERAL OIL ISOPROPYL PALMITATE ETHYLHEXYL PALMITATE THEOBROMA GRANDIFLORUM SEED GLYCERIN DIMETHICONE SODIUM CHLORIDE DIAZOLIDINYL UREA MENTHOL HYDROGENATED CASTOR OIL YELLOW WAX TOCOPHEROL METHYLPARABEN CORN OIL VITAMIN A PALMITATE CHOLECALCIFEROL ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active Ingredients Zinc Oxide 20% (w/w)
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses Helps treat and prevent diaper rash Protects minor skin irritation due to diaper rash and helps seal out wetness
+warnings:
+  Warnings For External Use Only Do not use on deep or puncture wounds on animal bites on serious burns When using this product do not get into eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on deep or puncture wounds on animal bites on serious burns
+when_using:
+  When using this product do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For Diaper Rash: Change wet and soiled diapers promptly, cleanse the diaper area, and allow to dry. Apply product liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged. For Skin Protection: Apply liberally as needed.
+storage_and_handling:
+  Other Information Protect from freezing. Avoid excessive heat
+inactive_ingredient:
+  Inactive Ingredients Purified Water, Polyglyceryl-4 Isostearate and Cetyl PEG/PPG-10/1 Dimethicone and Hexyl Laurate, Mineral Oil, Isopropyl Palmitate, Ethylhexyl Palmitate, Theobroma Grandiflorum Seed (Cupuacu Butter), Calamine, Glycerin, Cetyl Dimethicone, Dimethicone, SD Alcohol 40-B, Sodium Chloride, Diazolidinyl Urea, Menthol, Hydrogenated Castor Oil, Beeswax, Tocopherol (Vitamin E), Methyl Paraben, Zea Mays Oil and Retinyl Palmitate (Vitamin A) and Cholecalciferol (Vitamin D3)
+package_label_principal_display_panel:
+  BOA VIDA Calvida protectant shield helps treat minor skin irritation Formulated with Cupuacu Butter 5 fl oz. (148 mL) container label
+set_id:
+  48eb2031-bc80-45d5-b8b3-cc08fcab64f1
+id:
+  28d9e70a-899b-a57b-e063-6394a90a2426
+effective_time:
+  20241209
+version:
+  5
+openfda:
+  application_number:
+    M016
+  brand_name:
+    BOA VIDA Calvida
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Central Solutions Inc
+  product_ndc:
+    62654-145
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    417425
+  spl_id:
+    28d9e70a-899b-a57b-e063-6394a90a2426
+  spl_set_id:
+    48eb2031-bc80-45d5-b8b3-cc08fcab64f1
+  package_ndc:
+    62654-145-05
+    62654-145-04
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

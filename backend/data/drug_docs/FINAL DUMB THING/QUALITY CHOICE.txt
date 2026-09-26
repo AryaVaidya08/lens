@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  QUALITY CHOICE Cough Drops Cherry SUCROSE FD&C BLUE NO. 2 FD&C RED NO. 40 EUCALYPTUS OIL SUCRALOSE CORN SYRUP LECITHIN, SOYBEAN WATER MENTHOL MENTHOL B
+active_ingredient:
+  Active Ingredient(s) Menthol 5.8 mg
+purpose:
+  Purpose Purposes cough suppressant, oral anesthetic
+indications_and_usage:
+  Use temporary relieves: ■ cough due to cold ■ occasional minor irritation or sore throat
+warnings:
+  Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or follow headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. These may be serious.
+ask_doctor:
+  Ask a doctor before use if you have: ■ persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ cough accompanied by excessive phlegm (mucus).
+stop_use:
+  Stop use and ask a doctor if ■ cough persists for more than 1 week, tends to recur, or is accompained by fever, rash, or persistent headache. These could be signs of a serius condition. ■ sore mouth does not improve in 7 days ■ irritation, pain, or redness persists or worsens.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions ■ adults and children 5 years and over: dissolve 1 drop slowly in the mouth. Repeat every 2 hours as needed. ■ children under 5 years: ask a doctor.
+storage_and_handling:
+  Other information ■ 10 calories per drop ■ contains: SOY.
+inactive_ingredient:
+  Inactive ingredients Glucose syrup, eucalyptus oil, FD&C blue 2, FD&C red 40, flavors, sucrose, sucralose, soy lechitin, water
+questions:
+  Call 800 935 2362 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 30 Drops NDC: 61658-674-30 QC label
+set_id:
+  23079194-b5e7-d5e6-e063-6394a90a4d8c
+id:
+  4718800c-0337-cefb-e063-6294a90a5f1b
+effective_time:
+  20251229
+version:
+  2
+openfda:
+  application_number:
+    M012
+  brand_name:
+    QUALITY CHOICE
+  generic_name:
+    COUGH DROPS CHERRY
+  manufacturer_name:
+    Xiamen Kang Zhongyuan Biotechnology Co., Ltd.
+  product_ndc:
+    83698-674
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    476973
+  spl_id:
+    4718800c-0337-cefb-e063-6294a90a5f1b
+  spl_set_id:
+    23079194-b5e7-d5e6-e063-6394a90a4d8c
+  package_ndc:
+    83698-674-30
+  is_original_packager:
+    True
+  upc:
+    0635515986725
+  unii:
+    L7T10EIP3A

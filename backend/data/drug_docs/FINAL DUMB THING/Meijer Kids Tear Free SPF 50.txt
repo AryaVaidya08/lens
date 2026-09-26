@@ -1,0 +1,69 @@
+effective_time:
+  20160311
+inactive_ingredient:
+  Inactive ingredients Isobutane, Water, Isohexadecane, Ethylhexyl Benzoate, Cetyl PEG/PPG-10/1 Dimethicone, Dibutyl Adipate, Lauryl PEG-8 Dimethicone, Ethylhexyl Methoxycrylene, Sodium Chloride, PEG-8, Caprylyl Glycol, Glycerin, Sodium Citrate, PEG-8 Dimethicone, Aloe Barbadensis Leaf Juice, Octyldodecanol, Retinyl Palmitate, Silica, Tocopheryl Acetate, Ascorbic Acid, Sodium Propoxyhydroxypropyl Thiosulfate Silica, Phenoxyethanol, Methylparaben, Butylparaben, Ethylparaben, Isobutylparaben, Propylparaben.
+purpose:
+  Purpose Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control center right away. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. May stain some fabrics.
+warnings:
+  Warnings For external use only Flammable: Do not puncture or incinerate. Contents under pressure. Do not store at temperature above 120 0 F. Do not use in the presence of a flame or spark. Keep away from sources of ignition - No smoking. Do not use on damaged or broken skin When using this product Keep away from face to avoid breathing it. Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control center right away. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. May stain some fabrics.
+when_using:
+  When using this product Keep away from face to avoid breathing it. Keep out of eyes. Rinse with water to remove.
+questions:
+  Questions or comments? Call 1-800-697-9868 Mon-Fri
+spl_product_data_elements:
+  Meijer Kids Tear Free SPF 50 Avobenzone, Homosalate, Octisalate, Octocrylene AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE ISOBUTANE WATER ISOHEXADECANE 2-ETHYLHEXYL BENZOATE DIBUTYL ADIPATE ETHYLHEXYL METHOXYCRYLENE SODIUM CHLORIDE POLYETHYLENE GLYCOL 400 CAPRYLYL GLYCOL GLYCERIN SODIUM CITRATE, UNSPECIFIED FORM PEG-8 DIMETHICONE ALOE VERA LEAF OCTYLDODECANOL VITAMIN A PALMITATE SILICON DIOXIDE .ALPHA.-TOCOPHEROL ACETATE ASCORBIC ACID SODIUM PROPOXYHYDROXYPROPYL THIOSULFATE SILICA PHENOXYETHANOL METHYLPARABEN BUTYLPARABEN ETHYLPARABEN ISOBUTYLPARABEN PROPYLPARABEN
+ask_doctor:
+  Stop use and ask a doctor if rash occurs
+openfda:
+  application_number:
+    part352
+  brand_name:
+    Meijer Kids Tear Free SPF 50
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    Meijer Distribution, Inc.
+  product_ndc:
+    41250-928
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    6b89beab-4f70-40c8-b96c-4b0c44767d6a
+  spl_set_id:
+    f7a3f518-20ef-4c5f-89a1-0ee7200386bb
+  package_ndc:
+    41250-928-55
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM
+version:
+  1
+dosage_and_administration:
+  Directions hold container 4-6 inches from the skin to apply spray liberally and spread evenly by hand 15 minutes before sun exposure Do not spray directly on face . Spray on hands then apply to face. do not apply in windy conditions use in well-ventilated area reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun production measures including: limit time in the sun, especially from 10 a.m. to 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age: Ask a Doctor
+spl_unclassified_section:
+  Other information protect this product from excessing heat and direct sun
+do_not_use:
+  Do not use on damaged or broken skin
+package_label_principal_display_panel:
+  Principal Display Panel NDC: 41250-928-55 meijer tear free Kids Sunscreen continuous spray pediatrician tested UVA/UVB protection 50+ Broad Spectrum SPF 50+ Water Resistant (80 minutes) NET WT 6 OZ. (170 g) Label
+indications_and_usage:
+  Uses • helps prevent sunburn • if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+set_id:
+  f7a3f518-20ef-4c5f-89a1-0ee7200386bb
+id:
+  6b89beab-4f70-40c8-b96c-4b0c44767d6a
+active_ingredient:
+  Active ingredients Avobenzone 3.0%, Homosalate 10.0%, Octisalate 5.0%, Octocrylene 6.0%

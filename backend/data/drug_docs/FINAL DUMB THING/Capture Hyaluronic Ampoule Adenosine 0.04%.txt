@@ -1,0 +1,35 @@
+effective_time:
+  20190607
+inactive_ingredient:
+  Inactive Ingredients WATER BIFIDOBACTERIUM LONGUM GARDEN SNAIL MUCIN PROPANEDIOL 1,2-HEXANEDIOL GLYCERIN TREHALOSE PORTULACA OLERACEA WHOLE PEG/PPG-17/6 COPOLYMER LACTIC ACID HYDROXYETHYL CELLULOSE (100 MPA.S AT 2%) CARBOMER 934 TROLAMINE CORN SYRUP PEG-40 CASTOR OIL PERILLA FRUTESCENS SEED HAMAMELIS VIRGINIANA TOP WATER CHAMAECYPARIS OBTUSA WHOLE NELUMBO NUCIFERA WHOLE HYALURONATE SODIUM ALOE ORYZA SATIVA WHOLE TARAXACUM OFFICINALE ROOT CAMELLIA SINENSIS WHOLE PANTHENOL ALLANTOIN EDETIC ACID CITRUS AURANTIUM FRUIT OIL LECITHIN, SOYBEAN HYALURONIC ACID Glycosyl Trehalose Barbedensis Leaf Juice
+instructions_for_use:
+  Apply small amount to a clean skin and massage gently with fingertips.
+purpose:
+  Active Ingredients Purpose Adenosine 0.04% Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of Children.
+warnings:
+  Warning For external use only Do not use on damage or broken skin
+spl_product_data_elements:
+  Capture Hyaluronic Ampoule Adenosine 0.04% ADENOSINE ADENOSINE WATER PROPANEDIOL GLYCERIN TREHALOSE ALLANTOIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  Dosage: Small Amount Administration: apply to a clean skin and massage gently
+do_not_use:
+  Do not use on damage or broken skin
+active_ingredient_table:
+  <table width="386"> <caption/> <tbody> <tr> <td> <content styleCode="italics"> <content styleCode="bold"> Active Ingredients</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Purpose</content> </content> </td> </tr> <tr> <td> <content styleCode="italics"> <content styleCode="bold"> Adenosine 0.04%</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Skin Protectant</content> </content> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  Uses Help to improve skin brightness
+set_id:
+  48c4fbf7-7cf0-40e7-a9b7-272cff1030cf
+id:
+  5fa097ea-1b4f-4a0c-86a3-160ef79aea0b
+purpose_table:
+  <table width="386"> <caption/> <tbody> <tr> <td> <content styleCode="italics"> <content styleCode="bold"> Active Ingredients</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Purpose</content> </content> </td> </tr> <tr> <td> <content styleCode="italics"> <content styleCode="bold"> Adenosine 0.04%</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Skin Protectant</content> </content> </td> </tr> </tbody> </table>
+active_ingredient:
+  ACTIVE INGREDIENT ACTIVE INGREDIENT Active Ingredients Purpose Adenosine 0.04% Skin Protectant

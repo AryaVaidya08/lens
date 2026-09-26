@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  POLTONE HAND SANITIZER ALCOHOL ALCOHOL ALCOHOL Water CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE PEG-60 Hydrogenated Castor Oil Methylparaben LAVENDER OIL Butylene Glycol Hexylene Glycol BEACH STRAWBERRY SOPHORA FLAVESCENS ROOT MORUS ALBA BARK GLYCYRRHIZA URALENSIS ROOT GRAPEFRUIT GREEN TEA LEAF
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: ALCOHOL 62.0 w%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredients: Water, Carbomer, Triethanolamine, Polyoxyethylene Hydrogenated Castor Oil, Lavandula Angustifolia (Lavender) Oil, Methylparaben, Butylene Glycol, Hexylene Glycol, Strawberry Extract, Sophora Extract, Mulberry Root Extract, Glycyrrhiza Extract, Grapefruit Extract, Green Tea Extract
+purpose:
+  PURPOSE Purpose: SANITIZER
+warnings:
+  WARNINGS Warnings: 1. Do not use on the following body parts. Around the eyes and ears, in the oral cavity, a wide range of body parts and damaged skin (may have irritating effects) 2. If the following symptoms appear, stop using them immediately and consult a doctor or pharmacist. 1) Hypersensitivity symptoms such as rash, erythema, itching, and edema 2) Skin irritation symptoms 3. Other precautions 1) For external use only (do not underwear). 2) Be careful not to get into your eyes, and if so, rinse well with clean water and consult a doctor or pharmacist. 3) Be careful not to inhale vapor when using it extensively or for a long time (if you drink ethanol vapor in large quantities or repeatedly, irritation to the mucous membrane, headache, etc. may occur). (Only for products containing ethanol) 4) When repeated use on the same site, be careful as the skin may become rough due to degreasing. 5) When used in sealed bandages, cast bandages, packs, etc., irritation symptoms may appear. 6) Do not use this medicine for anal or vaginal poultry as it may cause irritation or chemical burns. 7) Do not use for any purpose. 4. Precautions for storage 1) Avoid shading and keep it in shading. 2) Keep it out of reach of children, and if a child swallows it, go to the hospital right away. 3) After use, close the product completely with a lid to prevent the product from drying out or entering foreign objects. 4) Taking it out of the original container and storing it in another container may cause accidents due to misuse or deterioration in quality, so store it in the original container.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep it out of reach of children, and if a child swallows it, go to the hospital right away.
+indications_and_usage:
+  Uses Uses: Disinfection of hands and skin
+dosage_and_administration:
+  Directions Directions: Take an appropriate amount on your hands and rub thoroughly to dry.
+other_safety_information:
+  Other Information Other Information: Airtight container, storage at room temperature (1~30°C)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of bottle
+set_id:
+  5f8f767c-e314-43be-a8cb-1a5a8037a60e
+id:
+  49ebf7c0-39a4-401f-ac9b-41cdd66dc184
+effective_time:
+  20200412
+version:
+  2
+openfda:

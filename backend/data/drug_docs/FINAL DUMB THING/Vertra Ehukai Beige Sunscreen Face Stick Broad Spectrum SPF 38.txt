@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Vertra Ehukai Beige Sunscreen Face Stick Broad Spectrum SPF 38 Titanium Dioxide PARAFFIN CERESIN MICA STEARYL GLYCYRRHETINATE HEXYLDECYL ISOSTEARATE IRON OXIDES POLYGLYCERYL-2 OLEATE TITANIUM DIOXIDE TITANIUM DIOXIDE SYNTHETIC WAX (540 MW) STEARIC ACID TOCOPHEROL ALUMINUM HYDROXIDE
+active_ingredient:
+  Active ingredients Purpose Titanium Dioxide 23% Sunscreen
+purpose:
+  Uses: helps prevent sunnurn If used as directed with other skin protection measures (see directions ), decreases the risk of skin cancer and early skin aging by the sun. Higher SPF gives more sunburn protection Retains SPF after 80 minutes activity in the water, sweating or perspiring Provides high protection against sunburn
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Stop use and ask a doctor if rash occurs.
+warnings:
+  Warnings : For external use only Do not use on broken or damaged skin When using this product Keep out of eyes. Rinse with water to remove.
+dosage_and_administration:
+  Directions Apply liberally and evenly 15 minutes before sun exposure and at least every 2 hours. Reapply: After 80 minutes of swimming or sweating Immediately after towel drying Sun Protection Measures . spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum value 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.-2p.m. Wear long-sleeve shirts, pants, hats and sunglasses Children under 6 months of age: ask a doctor
+inactive_ingredient:
+  Inactive Ingredients: Hexyldecyl Isostearate, Iron Oxides, Mica, Paraffin, Ozokerite, Synthetic Wax, Polyglyceryl-2 Oleate, Aluminum Hydroxide, Ethylene/Propylene Copolymer, Stearic Acid, Tocopherol, Stearyl Glycyrrhetinate.
+package_label_principal_display_panel:
+  vertra 38 Ehukai Beige Sunscreen Face Stick Mineral Based Foundation Broad Spectrum SPF 38 Water resistant (80 minutes) 11g NET WT .39 OZ LA Lifeguard Ehukai Beige SPF 38
+set_id:
+  303d5d5a-4c7a-1e23-e063-6294a90a0e58
+id:
+  303d5d5a-4c7b-1e23-e063-6294a90a0e58
+effective_time:
+  20250313
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Vertra Ehukai Beige Sunscreen Face Stick Broad Spectrum SPF 38
+  generic_name:
+    TITANIUM DIOXIDE
+  manufacturer_name:
+    Eai-jr 286, Inc
+  product_ndc:
+    71014-040
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TITANIUM DIOXIDE
+  spl_id:
+    303d5d5a-4c7b-1e23-e063-6294a90a0e58
+  spl_set_id:
+    303d5d5a-4c7a-1e23-e063-6294a90a0e58
+  package_ndc:
+    71014-040-01
+  is_original_packager:
+    True
+  upc:
+    0889297006274
+  unii:
+    15FIX9V2JP

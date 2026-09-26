@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Replenix Gly-Sal 10-2 cleanser salicylic acid SALICYLIC ACID SALICYLIC ACID GREEN TEA LEAF COCAMIDOPROPYL BETAINE EDETATE CALCIUM DISODIUM GLYCOLIC ACID LINOLEAMIDOPROPYL PROPYLENE GLYCOL-DIMONIUM CHLORIDE PHOSPHATE POLYSORBATE 20 WATER FD&C RED NO. 40 SODIUM C12-15 ALKETH-15 SULFONATE SODIUM C14-16 OLEFIN SULFONATE TROLAMINE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Salicylic Acid USP, 2%
+purpose:
+  Purpose Acne medication
+indications_and_usage:
+  Uses Skin cleanser for the treatment of acne.
+warnings:
+  Warnings For external use only Keep away from eyes, lips, and mouth. Using other topical medications, while using this product or immediately thereafter, may increase dryness or irritation. If this occurs discontinue use and see your doctor. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center. Sunscreen use is recommended with any glycolic acid product and for an additional week thereafter because some individuals may be more sensitive to sunlight.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions Wet affected area, apply, and rinse well. Because excessive drying of the skin can occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a physician If bothersome dryness occurs, reduce application to once a day or every other day.
+inactive_ingredient:
+  Inactive ingredients Camellia sinensis (Green Tea) Polyphenols, Cocamidopropyl Betaine, Disodium EDTA, Fragrance, Glycolic Acid, Linoleamidopropyl PG-Dimonium Chloride Phosphate, Polysorbate-20, Purified Water, Red #40 [CI-16035], Sodium C12-15 Pareth-15 Sulfonate, Sodium C14-16 Olefin Sulfonate, Triethanolamine, Yellow #5 [CI-19140], Zinc PCA.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 200 ml Bottle Label REPLENiX ® ACNE SOLUTIONS Gly/Sal ® 10-2 Cleanser Glycolic Acid 10% Salicylic Acid USP, 2% Net 6.7 fl. oz. (200 ml) Topix Pharmaceuticals, Inc. N. Amityville, NY 11701 PRINCIPAL DISPLAY PANEL - 200 ml Bottle Label
+set_id:
+  00d1f8af-88de-4a14-80ec-5ee9fd38b191
+id:
+  812271b8-44af-4393-935a-7cf0a8188887
+effective_time:
+  20240802
+version:
+  1
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Replenix Gly-Sal 10-2 cleanser
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Topiderm, Inc.
+  product_ndc:
+    51326-928
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    562600
+  spl_id:
+    812271b8-44af-4393-935a-7cf0a8188887
+  spl_set_id:
+    00d1f8af-88de-4a14-80ec-5ee9fd38b191
+  package_ndc:
+    51326-928-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

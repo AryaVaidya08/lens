@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  non drowsy allergy relief loratadine LORATADINE LORATADINE CROSCARMELLOSE SODIUM CROSPOVIDONE (120 .MU.M) HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MANNITOL MICROCRYSTALLINE CELLULOSE SUCRALOSE L;L
+active_ingredient:
+  Active ingredient (in each tablet) Loratadine 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • itchy, watery eyes • sneezing • itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • place 1 tablet on tongue; tablet disintegrates, with or without water adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table styleCode="Noautorules" width="100%"><col width="49%"/><col width="49%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>adults and children 6 years and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>1 tablet daily; not more than 1 tablet in 24 hours</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>children under 6 years of age</paragraph></td><td styleCode="Rrule Lrule Toprule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>consumers with liver or kidney disease</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+other_safety_information:
+  Other information • do not use if printed blister unit is broken or torn • store between 20° to 25°C (68° to 77°F) • use tablet immediately after opening individual blister
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, crospovidone, hypromellose, magnesium stearate, mannitol, microcrystalline cellulose, natural and artificial mint flavor, sucralose
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel meijer ® COMPARE TO CLARITIN ® REDITABS ® ACTIVE INGREDIENT NON-DROWSY Allergy Relief Loratadine Orally Disintegrating Tablets, 10 mg | Antihistamine Indoor & Outdoor Allergies 24 HOUR RELIEF OF: SNEEZING; RUNNY NOSE; ITCHY, WATERY EYES; ITCHY THROAT OR NOSE Melts In Your Mouth No Water Needed 30 ORALLY DISINTEGRATING TABLETS Original Prescription Strength *When taken as directed. See Drug Facts Panel. Actual Size 30 ORALLY DISINTEGRATING TABLETS 5v9-6e-allergy-relief.jpg
+set_id:
+  4762c96e-d562-4f74-a275-8cba597987f9
+id:
+  a567dea7-7d0e-4326-9167-e1e9c4cb8731
+effective_time:
+  20250508
+version:
+  3
+openfda:
+  application_number:
+    ANDA076011
+  brand_name:
+    non drowsy allergy relief
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    Meijer Distribution Inc
+  product_ndc:
+    41250-890
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    311373
+  spl_id:
+    a567dea7-7d0e-4326-9167-e1e9c4cb8731
+  spl_set_id:
+    4762c96e-d562-4f74-a275-8cba597987f9
+  package_ndc:
+    41250-890-65
+  is_original_packager:
+    True
+  unii:
+    7AJO3BO7QN

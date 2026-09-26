@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  CVS PHARMACY Assorted Fruit Antacid Calcium Carbonate CALCIUM CARBONATE CARBONATE ION CALCIUM CATION ADIPIC ACID D&C RED NO. 27 D&C YELLOW NO. 10 DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN STARCH, CORN SUCRALOSE RP103 assorted
+active_ingredient:
+  Active ingredient (per tablet) Calcium Carbonate USP 1000 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves • heartburn • acid indigestion • sour stomach • upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product • do not take more than 7 tablets in 24 hours • if pregnant do not take more than 5 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions • adults and children 12 years of age and over: chew 2-3 tablets completely as symptoms occur, or as directed by a doctor. • do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+spl_unclassified_section:
+  Other information • each tablet contains : calcium 400mg • Store at room temperature. Keep the container tightly closed.
+inactive_ingredient:
+  Inactive ingredients adipic acid, D&C Red No. 27, D&C Yellow No. 10, dextrose, FD&C Blue No. 1, FD&C Yellow No. 6, flavors, magnesium stearate, maltodextrin, starch, sucralose. Questions or comments? 1-866-467-2748 SAFETY SEALED: DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING
+questions:
+  Questions or comments? 1-866-467-2748 SAFETY SEALED: DO NOT USE IF PRINTED SEAL UNDER CAP IS TORN OR MISSING
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel NDC 51316-103-72 *Compare to the active ingredient in Ultra Strength Tums ® ULTRA STRENGTH Antacid Tablets Calcium Carbonate 1000 mg Fast Relief of Upset Stomach, Heartburn, and Acid Indigestion Assorted Fruit Naturally and Artificially Flavored 72 Chewable Tablets K PAREVE GLUTEN- FREE DISTRIBUTED BY *This product is not manufactured or distributed by GlaxoSmithKline LLC, owner of the registered trademark Ultra Strength, Tums® Package Label for 72 Chewable Tablets Package Label for 160Chewable Tablets CVS Ultra Strength Antacid Assorted Fruit Flavor 160 Chewable Tablets CVS Ultra Strength Antacid Assorted Fruit Flavor 72 Chewable Tablets
+set_id:
+  8ab371eb-9839-47f0-b576-d917f69ed16d
+id:
+  b73c7cf1-96ad-4ff0-afcd-937fe3e58ac8
+effective_time:
+  20260812
+version:
+  7
+openfda:
+  application_number:
+    M001
+  brand_name:
+    CVS PHARMACY Assorted Fruit Antacid
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    CVS
+  product_ndc:
+    51316-103
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    308892
+  spl_id:
+    b73c7cf1-96ad-4ff0-afcd-937fe3e58ac8
+  spl_set_id:
+    8ab371eb-9839-47f0-b576-d917f69ed16d
+  package_ndc:
+    51316-103-72
+    51316-103-60
+  is_original_packager:
+    True
+  upc:
+    0050428277379
+  unii:
+    H0G9379FGK

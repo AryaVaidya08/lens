@@ -1,0 +1,27 @@
+effective_time:
+  20200622
+inactive_ingredient:
+  water
+keep_out_of_reach_of_children:
+  keep out of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  1.Keep out oyes. In case of contact with eyes. flush thoroughly with water. 2.Awold contact with broken skin. 3. Use with caution H allerglc.
+spl_product_data_elements:
+  Sanitary wipes(alcohol wipes) Sanitary wipes WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Do not place this product in high temperature or direct sunlight.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Open the upper cover, open the unsealing glue, pull out the wet wipes.
+set_id:
+  a37b90e2-d178-1edc-e053-2a95a90a0104
+id:
+  a8aa11fc-f9d3-c455-e053-2995a90a3f0a
+active_ingredient:
+  Ethanol

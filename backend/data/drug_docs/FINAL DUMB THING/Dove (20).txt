@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Dove Men Skin Defense Antibacterial 3N1 Hand Body Shave Bar SODIUM C14-16 OLEFIN SULFONATE FD&C YELLOW NO. 6 SODIUM LAUROYL ISETHIONATE SODIUM OLEATE SODIUM STEARATE SODIUM ISETHIONATE LAURIC ACID SODIUM LAURATE DIPROPYLENE GLYCOL TITANIUM DIOXIDE ETIDRONATE TETRASODIUM KAOLIN FD&C YELLOW NO. 5 BENZALKONIUM CHLORIDE BENZALKONIUM STEARIC ACID SODIUM CHLORIDE WATER EDETATE SODIUM
+description:
+  DOVE MEN +CARE SKIN DEFENSE ANTIBACTERIAL 3-N-1 HAND + BODY + SHAVE BAR - Benzalkonium Chloride soap Dove Men +Care Skin Defense Antibacterial 3-N-1 Hand + Body + Shave Bar
+active_ingredient:
+  Drug Facts Active ingredient Benzalkonium Chloride (0.13%)
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses For washing to decrease bacteria on the skin
+warnings:
+  Warnings • For external use only • When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with wate r • Stop use and ask doctor if irritation or redness develop.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children except under adult supervision. If swallowed, get medical help or contact a poison control Center right away.
+dosage_and_administration:
+  Directions Wet bar with water, lather vigorously and use all over body. Rinse clean.
+inactive_ingredient:
+  Inactive ingredients Sodium Lauroyl Isethionate, Stearic Acid, Sodium Oleate, Sodium Stearate, Water (Aqua), Sodium Isethionate, Lauric Acid, Sodium C14-16 Olefin Sulfonate, Sodium Laurate, Fragrance (Parfum), Dipropylene Glycol, Sodium Chloride, Tetrasodium Etidronate, Tetrasodium EDTA, Kaolin*, Titanium Dioxide*, Yellow 5 (CI 19140), Yellow 6 (CI 15985). *Contains one or more of these ingredients
+questions:
+  Questions or Comments? Call toll-free 1-800-761-3683
+package_label_principal_display_panel:
+  Packaging Dove Men 3N1 Hand Body Shave Bar
+set_id:
+  b9e61a03-e000-50ab-e053-2a95a90a3210
+id:
+  26535c20-e0af-0945-e063-6394a90a6000
+effective_time:
+  20241107
+version:
+  3
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Dove
+  generic_name:
+    MEN SKIN DEFENSE ANTIBACTERIAL 3N1 HAND BODY SHAVE BAR
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-1846
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    2057666
+  spl_id:
+    26535c20-e0af-0945-e063-6394a90a6000
+  spl_set_id:
+    b9e61a03-e000-50ab-e053-2a95a90a3210
+  package_ndc:
+    64942-1846-1
+    64942-1846-2
+    64942-1846-3
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

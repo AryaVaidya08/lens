@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  AY BENDITO - THERMOACTIVE Camphor, Menthol ALCOHOL METHYLISOTHIAZOLINONE GLYCERIN CAMPHOR (NATURAL) CAMPHOR (NATURAL) MENTHOL MENTHOL WATER ARNICA MONTANA FLOWER WATER METHYLCHLOROISOTHIAZOLINONE POLYSORBATE 20 CARBOMER 940 GLUCOSAMINE SULFATE METHYL SALICYLATE SODIUM CHONDROITIN SULFATE (PORCINE; 5500 MW) ROSMARINUS OFFICINALIS FLOWERING TOP OIL FD&C BLUE NO. 1 TROLAMINE MINERAL OIL
+active_ingredient:
+  Camphor ………………. 6% Menthol …….…………. 4%
+purpose:
+  Topical Analgesic
+indications_and_usage:
+  Aid for temporary local relief of minor pain in muscles or joints.
+warnings:
+  For external use only.
+when_using:
+  Use only as directed Do not bandage tightly or use with a heating pad Avoid contact with eyes and mucous membranes Do not apply to wounds or damaged, broken or irritated skin A transient burning sensation or redness may occur upon application but generally disappears in several days If you experience an allergic reaction, discontinue use and consult a doctor Do not expose the area treated with product to heat or direct sunlight.
+stop_use:
+  STOP USE AND ASK A DOCTOR IF: Condition worsens Redness is present Irritation develops Symptoms persist for more than 7 days or clear up occur again within a few days You experience signs injury, such as pain, swelling or blistering where the product was applied.
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST – FEEDING: Ask a health professional before use.
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Adults and Children over 12 years of age: Apply a small amount on the affected area. Massage in circular motion, let set for a few seconds. Repeat as necessary, but no more than 3 to 4 times daily. Children under 12 years of age: do not use, consult a doctor.
+other_safety_information:
+  OTHER INFORMATION Store tightly closed in a dry place at controlled room temperature between 59°-86° F (15°-30° C).
+inactive_ingredient:
+  Water (Aqua), Alcohol Denat, Glycerin, Paraffinum Liquidum, Arnica Montana Flower Extract, Triethanolamine, Polysorbate 20, Carbomer, Methyl Salicylate, Sodium Chondroitin Sulfate, Glucosamine Sulfate, Rosmarinus Officinalis (Rosemary) Extract, Methylchloroisothiazolinone, Methylisothiazolinone, FD&C Blue No.1 (CI 42090).
+questions:
+  QUESTION OR COMMENTS? Call: +1-787-421-6423
+package_label_principal_display_panel:
+  AY BENDITO THERMOACTIVE LOTION ROLL ON THERMOACTIVE ROLL ON
+set_id:
+  76ef713b-e23d-7b98-e053-2991aa0aad51
+id:
+  47e1c790-1400-c015-e063-6394a90aa541
+effective_time:
+  20260108
+version:
+  12
+openfda:
+  application_number:
+    M017
+  brand_name:
+    AY BENDITO - THERMOACTIVE
+  generic_name:
+    CAMPHOR, MENTHOL
+  manufacturer_name:
+    AY BENDITO INT'L THERMO ANALGETICS ROLL-ON
+  product_ndc:
+    72524-010
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CAMPHOR (NATURAL)
+    MENTHOL
+  spl_id:
+    47e1c790-1400-c015-e063-6394a90aa541
+  spl_set_id:
+    76ef713b-e23d-7b98-e053-2991aa0aad51
+  package_ndc:
+    72524-010-03
+  is_original_packager:
+    True
+  unii:
+    N20HL7Q941
+    L7T10EIP3A

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SILKEN HAND SANITIZER ETHYL ALCOHOL WATER CARBOMER 934 GLYCERIN AMINOMETHYL PROPANEDIOL ISOPROPYL ALCOHOL ISOPROPYL MYRISTATE SULISOBENZONE FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS ETHYL ALCOHOL 62%
+purpose:
+  PURPOSE ANTISEPTIC
+dosage_and_administration:
+  DIRECTIONS: WET HANDS THOROUGHLY WITH PRODUCT AND ALLOW TO DRY WITHOOUT WIPING.
+indications_and_usage:
+  USES: FOR HANDWASHING TO DECREASE BACTERIA ON THE SKIN.
+warnings:
+  Warnings: For external use only-hands. Keep out of eyes. Flammable. Keep away from heat and flame. Avoid contact with broken skin. Donot ingest or inhale.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. For children under 6, use only under adult supervision. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+inactive_ingredient:
+  Inactive Ingredients: Water, Carbomer, Glycerin, Aminomethyl Propanol, Isopropyl Alcohol, Isopropyl Myristate, Benzophenone-4, Fragrance, Yellow 5, Yellow 6.
+package_label_principal_display_panel:
+  Mandarin MangoV1 Mango Mandarin Back Panel
+set_id:
+  d1c8ecdc-0dc4-4157-ba2f-b43041afe010
+id:
+  f67cae28-cd3f-7936-e053-2a95a90ae923
+effective_time:
+  20230309
+version:
+  4
+openfda:

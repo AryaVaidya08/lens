@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Cleaninful Instant Hand Sanitizer ALCOHOL WATER GLYCERIN PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE PHENOXYETHANOL TROLAMINE .ALPHA.-TOCOPHEROL ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information: Do not store above 1050F (430C). May discolor some fabrics and surfaces.
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses: Decreases bacteria on the skin.
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame. When using this product, avoid contact with eyes. In case of contact flush eyes with water. Stop use and ask a doctor if redness or irritation develops & persists for more than 72 hours. Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product, avoid contact with eyes. In case of contact flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if redness or irritation develops & persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions. Wet hands thoroughly with product and allow to dry. Children under 6 years of age, use only under adult supervision.
+inactive_ingredient:
+  Inactive ingredients: WATER, GLYCERIN, PROPYLENE GLYCOL, CARBOMER, PHENOXYETHANOL, TRIETHANOLAMINE, FRAGRANCE, VITAMIN E
+package_label_principal_display_panel:
+  Package Labeling:59ml Bottle2
+  Package Labeling:118ml Bottle3
+  Package Labeling:236ml Bottle4
+  Package Labeling:473ml Bottle5
+  Package Labeling:3.785L Bottle6
+  Package Labeling: 947mL 947
+set_id:
+  150225a8-fd53-4fce-961c-9baa807d26cb
+id:
+  bfcc6bb6-6065-0c1c-e053-2a95a90a33bf
+effective_time:
+  20210412
+version:
+  3
+openfda:

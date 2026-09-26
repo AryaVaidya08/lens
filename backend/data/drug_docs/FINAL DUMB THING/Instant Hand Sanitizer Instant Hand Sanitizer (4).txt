@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Instant Hand Sanitizer Instant Hand Sanitizer FRAGRANCE LAVENDER & CHIA F-153480 HYALURONATE SODIUM AMINOMETHYLPROPANOL WATER BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Alcohol 68% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer Use for handwashing to decrease bacteria on the skin./Uso para el lavado de monos y disminucion de las bacterias en la piel.
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings Flammable,keep away from fire or flame. For external use only/Advertencias inflamables,conservese lejos fuego o llama.Para uso extreno solo. When using this product for external use on hands only.In case of contact with eyes,rinse with water/Usando este producto Para uso externo solamente.En caso del contacto on ojas ,aclare con el echar agaua. Stop use and ask a doctor If irritation and redness develops or presists.Inerrumpa el uso y consulte con un medico En caso de desarrollar irritacion y enrojecimiento,o de que estos sintomas persistan. Keep out of the reach of children. In case of accidental ingestion,seek professional assistance or contact a Poison Control Center immediately/Quedese fuera de alance de ninos.En caso de ingestion accidental,buscar ayuda profesional o ponerse en contacto con un Centro de Envenenamiento inmediatamente.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands with product and rub briskly until dry./Direcciones Humedezca las monos con el producto y frotelas energicamnte hasta que se seque.
+storage_and_handling:
+  Other information Do not store above 100 F.May discolor some fabrics.Harmful to wood finishes and plastics./Mas Informacion No guardar a temperatura superior a 40 C.Padria destenir algunas telas.Perjudicial para acabados de madera y plasticos.
+inactive_ingredient:
+  Inactive ingredients WATER,BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW),AMINOMETHYLPROPANOL,ALOE VERA LEAF,HYALURONATE SODIUM,FRAGRANCE LAVENDER & CHIA F-153480
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 60 ml in 1 bottle NDC: 79195-006-01 60 ml label 60 ml label0 60 ml label1
+set_id:
+  a9bf9b6d-7c06-9df4-e053-2995a90ac0d5
+id:
+  a9bf72e3-1c36-f684-e053-2995a90a8826
+effective_time:
+  20200706
+version:
+  1
+openfda:

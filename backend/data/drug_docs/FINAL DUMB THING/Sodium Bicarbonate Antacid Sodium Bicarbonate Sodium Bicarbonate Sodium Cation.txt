@@ -1,0 +1,32 @@
+effective_time:
+  20180621
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, microcrystalline cellulose, stearic acid
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you have a sodium restricted diet Ask a doctor or pharmacist before use of you are taking a prescription drug. Antacids may interact with certain prescription drugs. Stop use and ask a doctor if symptoms last more than 2 weeks If pregnant or breast-feeding, ask a health professional before use. This package for households without young children. This package is intended for in-patient institutional use only. This package is not child resistant. Each tablet contains: sodium 178 mg
+questions:
+  Questions or comments? call 1-800-645-2158 Distributed by: Rugby Laboratories 31778 Enterprise Drive, Livonia, MI 48150 www.rugbylaboratories.com Rugby is a trademark owned by its respective owner. Repackaged by: Cardinal Health Zanesville, OH 43701 LFC4921292-11013E LFC4921292-21013E
+spl_product_data_elements:
+  Sodium Bicarbonate Antacid Sodium Bicarbonate Sodium Bicarbonate Sodium Cation CROSCARMELLOSE SODIUM MICROCRYSTALLINE CELLULOSE STEARIC ACID Tablet 119
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • adults 60 years of age and over: 1-2 tablets every 4 hours, not more than 12 tablets in 24 hours • adults under 60 years of age: 1-4 tablets every 4 hours, not more than 24 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks • tablets may be swallowed whole or dissolved in water prior to use
+storage_and_handling:
+  Storage store at room temperature 15 o - 30 o C (59 o - 86 o F)
+package_label_principal_display_panel:
+  Principal Display Panel Principal Display Panel Sodium Bicarbonate Antacid Tablet 10 gr (650 mg) Pouch label
+  Principal Display Panel Principal Display Panel Sodium Bicarbonate Antacid Tablet 10 gr (650 mg) 500 White Tablets Carton Label
+indications_and_usage:
+  Uses relieves • acid indigestion • heartburn • sour stomach • upset stomach associated with these symptoms
+set_id:
+  a13d04f1-ee16-4733-b379-eb61ef3c0d09
+id:
+  613aea71-7d99-46b0-94de-f8bfb184e81e
+active_ingredient:
+  Drug Facts Active ingredient Purpose (in each tablet) Sodium bicarbonate 10 gr (650 mg) ....... Antacid

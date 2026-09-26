@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Lucky SuperSoft with Vitamin A D Lanolin, Petrolatum PARAFFIN MICROCRYSTALLINE WAX COD LIVER OIL LIGHT MINERAL OIL PETROLATUM PETROLATUM LANOLIN LANOLIN
+active_ingredient:
+  Active Ingredient Lanolin 15.5% Petrolatum 53.4%
+purpose:
+  Purpose Diaper rash ointment Skin protectant
+indications_and_usage:
+  Uses ■ helps treat and prevent diaper rash ■ temporarily protects minor cuts, scrapes and burns ■ temporarily protects and relieve chapped,chafed or cracked skin or lips■ protects chafed skin due to diaper rash and helps seal out wetness
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product ■ do not get into eyes
+stop_use:
+  Stop use and ask a doctor if ■ condition worsens ■ symptoms last more than 7 days or clear up and occur again within a few days
+do_not_use:
+  Do not use on ■ deep or puncture wounds ■ animal bites ■ serious burns
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions ■ for skin protectant use: ■ apply as needed ■ for diaper rash: ■ change wet and soiled diapers promptly ■ cleanse the diaper area and allow to dry ■ apply ointment liberally as often as necessary, with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged
+spl_unclassified_section:
+  Other information ■ store at 20 to 25C (68-77F) ■ do not use if tube seal under cap is broken, missing or if tube tip is cut prior to opening
+inactive_ingredient:
+  Inactive ingredients cod liver oil (contains vitamin A and vitamin D), fragrance, light mineral oil, microcrystalline wax, paraffin
+package_label_principal_display_panel:
+  Package Label package label
+set_id:
+  330c01e3-73dc-3216-e054-00144ff8d46c
+id:
+  04cb19ac-8cd6-ea0e-e063-6294a90ab4aa
+effective_time:
+  20230907
+version:
+  4
+openfda:

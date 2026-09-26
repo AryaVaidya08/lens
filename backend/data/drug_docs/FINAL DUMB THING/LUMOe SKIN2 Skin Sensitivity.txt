@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  LUMOe SKIN2 Skin Sensitivity Spigelia anthelmia, Phytolacca decandra, Oleander, Clematis erecta SPIGELIA ANTHELMIA SPIGELIA ANTHELMIA PHYTOLACCA AMERICANA ROOT PHYTOLACCA AMERICANA ROOT NERIUM OLEANDER LEAF NERIUM OLEANDER LEAF CLEMATIS RECTA FLOWERING TOP CLEMATIS RECTA FLOWERING TOP DEXTROSE MAGNESIUM STEARATE SILICON DIOXIDE SKN2
+spl_unclassified_section:
+  Drug Facts
+  *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE, NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED.
+active_ingredient:
+  Active Ingredients Spigelia anthelmia 12c Phytolacca decandra 12c Oleander 12c Clematis erecta 12c
+purpose:
+  Purpose* Spigelia anthelmia ............................................................ Painful sensitive skin Phytolacca decandra ................................................ Rash, erythema (redness) Oleander .................................................................. Very sensitive skin, itching Clematis erecta ....................................................................... Itchy painful skin
+indications_and_usage:
+  Uses * Temporarily Relieves Minor and Occasional Symptoms: • painful sensitive skin • rash • redness • itchy
+warnings:
+  Warnings • Ask a doctor before use in children under 12 years of age. • Stop use and ask a doctor if symptoms persist for more than 3 days or worsen. • If pregnant or breastfeeding, consult your health professional before use. • Keep out of reach of children.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children.
+dosage_and_administration:
+  Directions • For adults and children 12 and over: At the onset of symptoms 3 tablets, every 30 minutes for 3 hours. Then 3 tablets every hour up to 6 times a day for 3 days until symptoms are relieved or as recommended by your healthcare professional. • For children under 12: Ask a doctor.
+other_safety_information:
+  Other Information Store at room temperature. No artificial colors or flavors.
+inactive_ingredient:
+  Inactive Ingredients dextrose, magnesium stearate, silicon dioxide
+questions:
+  Questions? 1-888-786-1707 • info@Lumo-e.com • www.Lumo-e.com
+package_label_principal_display_panel:
+  LUMOe SKIN-2 Skin Sensitivity LUMOe Homeopathy in a Whole New Light SKIN-2 Skin Sensitivity* 180 Chewable Tablets HOMEOPATHIC REMEDY Distributed by Applied BioEnergetics LLC 9205 W Russell Rd Ste 240 Las Vegas, NV 89148 res LUMO Skin2
+set_id:
+  13a662fb-53b6-4449-99b7-2e50fef7a6a6
+id:
+  63990c61-76eb-4696-9b52-e619db6c1c86
+effective_time:
+  20251110
+version:
+  2
+openfda:
+  brand_name:
+    LUMOe SKIN2 Skin Sensitivity
+  generic_name:
+    SPIGELIA ANTHELMIA, PHYTOLACCA DECANDRA, OLEANDER, CLEMATIS ERECTA
+  manufacturer_name:
+    Applied Bioenergetics, LLC
+  product_ndc:
+    81425-008
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SPIGELIA ANTHELMIA
+    PHYTOLACCA AMERICANA ROOT
+    NERIUM OLEANDER LEAF
+    CLEMATIS RECTA FLOWERING TOP
+  spl_id:
+    63990c61-76eb-4696-9b52-e619db6c1c86
+  spl_set_id:
+    13a662fb-53b6-4449-99b7-2e50fef7a6a6
+  package_ndc:
+    81425-008-10
+  is_original_packager:
+    True
+  unii:
+    WYT05213GE
+    11E6VI8VEG
+    7KV510R6H6
+    396421SP9F

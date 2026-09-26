@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Zep Professional Mild AB Benzalkonium Chloride LAUROYL/MYRISTOYL AMIDOPROPYL AMINE OXIDE GLYCERIN ANHYDROUS CITRIC ACID METHYLCHLOROISOTHIAZOLINONE EDETATE SODIUM EDETIC ACID FD&C RED NO. 4 CETRIMONIUM CHLORIDE COCO DIISOPROPANOLAMIDE FD&C YELLOW NO. 5 SODIUM CHLORIDE WATER PEG-120 METHYL GLUCOSE DIOLEATE BENZALKONIUM CHLORIDE BENZALKONIUM METHYLISOTHIAZOLINONE
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antiseptic Handwash
+indications_and_usage:
+  Uses Hand washing to decrease bacteria on skin.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use Do not use in the eyes; if in eyes, rinse promptly and thoroughly with water.
+when_using:
+  When using this product Do not swallow. If swallowed, do not induce vomiting and if individual is conscious, give large quantities of water to drink and consult a physician immediately.
+stop_use:
+  Stop use and ask a doctor Stop use and ask a doctor if skin irritation or redness persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children except under adult supervision.
+dosage_and_administration:
+  Directions Wet hands with water. Place hands under dispenser and apply liquid soap. Massage soap into hands and wrists, emphasizing back of hands, knuckles, and cuticles. Rinse hands thoroughly and dry.
+other_safety_information:
+  Other Information Store at room temperature. Do not freeze. Dispose in accordance with all applicable federal, state, and local regulations.
+inactive_ingredient:
+  Inactive ingredients Water, Cetrimonium Chloride, Lauryl/Myristyl Amidopropyl Amine Oxide, Glycerin, Cocamide DIPA, PEG-120 Methyl Glucose Dioleate, Sodium Chloride, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Tetrasodium EDTA, Fragrance, Yellow 5, Red 4
+questions:
+  Questions or comments? Call 1-877-BUY-ZEP (1-877-428-9937)
+package_label_principal_display_panel:
+  130_R399
+set_id:
+  b43b2607-a546-5109-e053-2a95a90a889e
+id:
+  46de7e91-c4ca-2456-e063-6294a90a5a97
+effective_time:
+  20251226
+version:
+  6
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Zep Professional Mild AB
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Zep Inc.
+  product_ndc:
+    66949-130
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1046593
+  spl_id:
+    46de7e91-c4ca-2456-e063-6294a90a5a97
+  spl_set_id:
+    b43b2607-a546-5109-e053-2a95a90a889e
+  package_ndc:
+    66949-130-06
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

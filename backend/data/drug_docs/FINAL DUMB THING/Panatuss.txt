@@ -1,0 +1,33 @@
+effective_time:
+  20211015
+inactive_ingredient:
+  Inactive ingredients Citric acid, flavor, methylparaben, potassium citrate, potassium sorbate, propylparaben, propylene glycol, purified water, sorbitol, sucralose, xanthan gum
+purpose:
+  Purpose Cough Suppressant Antihistamine Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings do not exceed recommended dosage a persistent cough may be sign of a serious condition. If cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash or persistent headache, consult a doctor Ask a doctor before use if a child has a persistent or chronic cough such as occurs with asthma, chronic bronchitis, or emphysema, or where cough is accompanied by excessive phlegm (mucus) unless directed by a doctor heart disease high blood pressure thyroid disease diabetes glaucoma Ask a doctor before use if a child is taking sedatives or tranquilizers. When using this product excitability may occur, especially in children may cause marked drowsiness sedatives and tranquilizers may increase the drowsiness effect
+questions:
+  Questions or comments? 1-888-782-3585
+spl_product_data_elements:
+  Panatuss PED Chlophedianol Hydrchloride, Dexchlorpheniramine Maleate, Pseudoephedrine Hydrochloride CHLOPHEDIANOL HYDROCHLORIDE CHLOPHEDIANOL DEXCHLORPHENIRAMINE MALEATE DEXCHLORPHENIRAMINE CITRIC ACID MONOHYDRATE PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE METHYLPARABEN POTASSIUM CITRATE POTASSIUM SORBATE PROPYLPARABEN PROPYLENE GLYCOL WATER SORBITOL SUCRALOSE XANTHAN GUM Tropical Fruit
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions take every 6 hours, not to exceed 4 doses in 24 hours or as directed by a physician Children 6 to under 12 years of age 2 mL Children 2 to under 6 years of age Ask a doctor Children under 2 years of age Ask a doctor
+do_not_use:
+  Do not use in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product Stop use and ask a doctor if nervousness, dizziness or sleeplessness occur if symptoms do not improve within 7 days or are accompanied by fever, rash or persistent headache.
+package_label_principal_display_panel:
+  panatusspeddrops
+indications_and_usage:
+  Uses Temporarily calms cough due to minor throat and bronchial irritation as may occur with the common cold calms the cough control center and relieves coughing non narcotic cough suppressant for the temporary relief of cough temporarily relieves runny nose and alleviates sneezing, itching of the nose or throat and itchy, watery eyes due to hay fever or other upper respiratory allergies temporarily relieves nasal congestion due to the common cold helps decongest sinus openings and passages; temporarily relieves sinus congestion and pressure
+set_id:
+  8c34580b-fd41-4710-91dc-bdcbefa63cf0
+id:
+  e9a76f9c-ca4e-42bd-bd32-ad1f72468ac7
+active_ingredient:
+  Active Ingredients Purpose (in each 1 mL) Chlophedianol HCl 6.25 mg ...................... Cough Suppressant Dexchlorpheniramine Maleate 0.5 mg ......... Antihistamine Pseudoephedrine HCl 15 mg ................... Nasal Decongestant
+dosage_and_administration_table:
+  <table ID="i1246fba5-3e32-4d77-8b2e-46c3c76bf63b" border="1" width="100%"><tbody><tr><td>Children 6 to under 12 years of age </td><td>2 mL </td></tr><tr><td>Children 2 to under 6 years of age </td><td>Ask a doctor </td></tr><tr><td>Children under 2 years of age </td><td>Ask a doctor </td></tr></tbody></table>

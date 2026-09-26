@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitzer Hand Sanitizer WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL HYDROXYPROPYL CELLULOSE, UNSPECIFIED GLYCERIN LAVENDER OIL TEA TREE OIL
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses ​To help reduce bacteria on the skin that potentially can cause disease Reccomended for repeated use
+warnings:
+  Warnings For External use only. Flammable. Keep away from heat or flame.
+do_not_use:
+  Do not use In children less than 2 months of age On open skin wounds
+when_using:
+  When using this product Keep out of eyes, ears and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+ask_doctor:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition
+keep_out_of_reach_of_children:
+  Keep out of reach of childen If swallowed, get medical help or contact a Poison Control Center Right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+other_safety_information:
+  Other Information Store between 15-30C (59-86F) Avoud freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Glycerin, Hydroxypropylcellulose, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Lavandula Angustifolia (Lavender) Oil
+questions:
+  Questions? Call us at +1 (541) 526-1417
+package_label_principal_display_panel:
+  Back of Bottle Display Panel 32oz bottle principal display panel 2 oz bottle principal display panel 8oz bottle Principal Display panel
+set_id:
+  a1b0588a-f23d-54bb-e053-2995a90ad83e
+id:
+  ca52c500-1368-63ab-e053-2995a90a02cf
+effective_time:
+  20210824
+version:
+  4
+openfda:

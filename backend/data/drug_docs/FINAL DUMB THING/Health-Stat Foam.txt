@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Health-Stat Foam TRICLOSAN WATER PROPYLENE GLYCOL SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE BORIC ACID ALCOHOL CHLOROXYLENOL ALOE VERA LEAF PROPYLPARABEN METHYLPARABEN TRICLOSAN TRICLOSAN
+active_ingredient:
+  Drug Facts Box OTC-Active Ingredient Section Triclosan 0.3%
+purpose:
+  Drug Facts Box OTC-Purpose Section Antiseptic
+indications_and_usage:
+  Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin
+warnings:
+  Drug Facts Box OTC-Warnings Section For external use only
+when_using:
+  Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Drug Facts Box OTC-Stop Use Section irritation and redness develop
+keep_out_of_reach_of_children:
+  Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Drug Facts Box OTC-Dosage & Administration Section wet hands and forearms apply 5 milliliters (teaspoonful) or palmful to hands and forearms scrub thoroughly for 1 minute and rinse
+inactive_ingredient:
+  Drug Facts Box OTC-Inactive Ingredient Section water, sodium laureth sulfate, sodium lauryl sulfate, cocamidopropyl betaine, alcohol denat., propylene glycol, tetrasodium EDTA, PEG-75 lanolin, boric acid, lauramine oxide, chloroxylenol, methylparaben, propylparaben, fragrance, aloe barbadensis, acid red 1, reactive green 12
+package_label_principal_display_panel:
+  Health-Stat Foam 6576 1000ml bag 6576M3P5122A.jpg Health-Stat Foam 1000ml bag image of bag label
+set_id:
+  776ffb42-af50-4c8a-9bd4-7d18abe45dde
+id:
+  ff0ded23-8a05-6522-e053-6394a90ad8c4
+effective_time:
+  20230626
+version:
+  2
+openfda:

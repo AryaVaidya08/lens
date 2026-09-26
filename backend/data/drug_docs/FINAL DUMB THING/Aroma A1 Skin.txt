@@ -1,0 +1,27 @@
+effective_time:
+  20180110
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: ALCOHOL, WATER, MELALEUCA ALTERNIFOLIA(TEA TREE) LEAF OIL, TRICLOSAN, SODIUM CITRATE, BENZOPHENONE-3, CI 42090, CI 19140
+purpose:
+  PURPOSE Purpose: Acne Treatment
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep away from children. If swallowed get medical help immediately.
+warnings:
+  WARNINGS Warnings: For external use only. When using this product avoid contact with eyes. If contact occurs, flush thoroughly with water. Do not use on wounds. Stop and ask a doctor if you are allergic to any ingredients of this product. Keep away from children. If swallowed get medical help immediately.
+spl_product_data_elements:
+  Aroma A1 Skin SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID ALCOHOL WATER TRICLOSAN
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Dosage and administration: Take an appropriate amount according to your skin condition.
+package_label_principal_display_panel:
+  PACKAGE LABEL. PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  INDICATIONS AND USAGE Indication and usage: Wet cotton swab or pad with small amount. Apply only on the troubled spot and tap for penetration. The product can cause irritation on sensitive skin when excess amount is used.
+set_id:
+  8455bf2e-32ef-4c68-b07f-350f7d1bb555
+id:
+  e2101bba-1b6c-4d22-a582-5c9fa79fbccf
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredient: Salicylic Acid 0.50%

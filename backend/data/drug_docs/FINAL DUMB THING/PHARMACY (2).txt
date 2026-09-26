@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  PHARMACY PRESCRIPTION 1.8OZ HAND SANITIZER - SWEET PEACH ALCOHOL WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62.0%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses - Helps reduce bacteria on the skin that could cause disease. Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+when_using:
+  When using this product do not use in or near the eyes. In case of eye contact, flush eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if: irritation and redness develops and lasts more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions- Place enough product in palm to thoroughly cover your hands. Rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product.
+other_safety_information:
+  Other information: Store below 110 Fahrenheit degree (43 degrees Celsius) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive Ingredients: Water, Aloe Barbadensis Gel, Carbomer, Fragrance, Glycerin, Triethanolamine, Tocopheryl Acetate, (Sweet Peach FD&C Red No. 40, FD&C Yellow No. 5)
+package_label_principal_display_panel:
+  Drug Facts
+  1
+set_id:
+  6e0a49ca-3407-42df-e053-2991aa0ac158
+id:
+  6e0a49ca-33fa-42df-e053-2991aa0ac158
+effective_time:
+  20180101
+version:
+  1
+openfda:

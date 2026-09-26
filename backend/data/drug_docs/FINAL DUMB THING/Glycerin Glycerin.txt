@@ -1,0 +1,33 @@
+effective_time:
+  20210629
+inactive_ingredient:
+  INACTIVE INGREDIENT purified water, sodium hydroxide, stearic acid
+purpose:
+  PURPOSE Laxative
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For rectal use only Do not use laxative products for longer than 1 week unless directed by a doctor Ask a doctor before use if you have • stomach pain • nausea • vomiting • noticed a sudden change in bowel habits that lasts over 2 weeks When using this product you may have rectal discomfort or a burning sensation Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition.
+spl_product_data_elements:
+  Glycerin Glycerin GLYCERIN GLYCERIN WATER SODIUM HYDROXIDE STEARIC ACID
+openfda:
+version:
+  3
+dosage_and_administration:
+  DIRECTIONS adults and children 6 years and over 1 suppository per day or as directed by a doctor children 2 to under 6 years use pediatric glycerin suppositories children under 2 years ask a doctor • insert 1 suppository well up into rectum and retain for 15 minutes • it need not melt to produce laxative action
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST FEEDING ask a health professional before use.
+spl_unclassified_section:
+  OTHER INFORMATION • keep tightly closed • avoid excessive heat
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 0713-0101-02 Glycerin Suppositories Laxative 100 Adult Size Packaging Label
+indications_and_usage:
+  USE • relieves occasional constipation (irregularity) • generally produces bowel movement in 1/4 to 1 hour
+set_id:
+  267300ec-7522-ce46-3fe5-48469b5100a9
+id:
+  b8fe76ad-925d-45ef-b9dd-ac563ca5afc8
+active_ingredient:
+  ACTIVE INGREDIENT (in each suppository) Glycerin, USP 2.1 grams
+dosage_and_administration_table:
+  <table border="1" cellpadding="0" width="329"><tbody><tr><td>adults and children 6 years and over</td><td>1 suppository per day or as directed by a doctor</td></tr><tr><td>children 2 to under 6 years</td><td>use pediatric glycerin suppositories</td></tr><tr><td>children under 2 years</td><td>ask a doctor</td></tr></tbody></table>

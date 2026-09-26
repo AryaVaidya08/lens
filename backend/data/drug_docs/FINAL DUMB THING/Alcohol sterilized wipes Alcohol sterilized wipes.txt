@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Alcohol sterilized wipes Alcohol sterilized wipes POLYESTER (ADIPIC ACID, 1,6-HEXANEDIOL, NEOPENTYL GLYCOL) DIRECT BLACK 19 ALCOHOL ALCOHOL WATER
+dosage_and_administration:
+  Keep it dark and dry. Avoid direct sunlight.
+inactive_ingredient:
+  water,Polyester，Viscose
+indications_and_usage:
+  Tear the package and wipe it directly
+active_ingredient:
+  Alcohol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  1. Only for external use. If the skin is abnormal or untimely, please stop using immediately 2. Please keep out of reach of infants and children to avoid acc idents 3. Keep it dark and dry. Avoid direct sunlight.Do not throw it into the toilet
+package_label_principal_display_panel:
+  label
+set_id:
+  a7c98e1c-3b3f-350d-e053-2995a90a2ffa
+id:
+  a7c98e1c-3b40-350d-e053-2995a90a2ffa
+effective_time:
+  20200611
+version:
+  1
+openfda:

@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  Signature Care Eye Drops Advanced Relief DEXTRAN 70, POLYETHYLENE GLYCOL 400, POVIDONE, TETRAHYDROZOLINE HCl BORIC ACID EDETATE DISODIUM WATER SODIUM BORATE SODIUM CHLORIDE DEXTRAN 70 DEXTRAN 70 POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 400 POVIDONE POVIDONE BENZALKONIUM CHLORIDE TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE
+active_ingredient:
+  ​Active ingredients Dextran 70 0.1% Polyethylene glycol 400 1% Povidone 1% Tetrahydrozoline HCl 0.05%
+purpose:
+  ​Purposes Dextran 70...Lubricant Polyethylene glycol 400...Lubricant Povidone...Lubricant Tetrahydrozoline HCl...Redness reliever
+indications_and_usage:
+  Uses relieves redness of the eye due to minor eye irritations as a lubricant to prevent further irritation or to relieve dryness of the eye
+warnings:
+  Warnings For external use only Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma
+  Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours
+when_using:
+  When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lens before using
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions Instill 1 or 2 drops in the affected eye(s) up to 4 times daily.
+other_safety_information:
+  Other information Store at 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, purified water, sodium borate, and sodium chloride
+package_label_principal_display_panel:
+  box
+set_id:
+  5d7228ce-f108-4cc2-9aec-8b4548c3a155
+id:
+  0cfa02bf-0467-b685-e063-6394a90a728d
+effective_time:
+  20231220
+version:
+  4
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Signature Care Eye Drops Advanced Relief
+  generic_name:
+    DEXTRAN 70, POLYETHYLENE GLYCOL 400, POVIDONE, TETRAHYDROZOLINE HCL
+  manufacturer_name:
+    Better Living Brands LLC
+  product_ndc:
+    21130-704
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    DEXTRAN 70
+    POLYETHYLENE GLYCOL 400
+    POVIDONE
+    TETRAHYDROZOLINE HYDROCHLORIDE
+  rxcui:
+    996202
+  spl_id:
+    0cfa02bf-0467-b685-e063-6394a90a728d
+  spl_set_id:
+    5d7228ce-f108-4cc2-9aec-8b4548c3a155
+  package_ndc:
+    21130-704-01
+  is_original_packager:
+    True
+  upc:
+    0321130700647
+  nui:
+    N0000184175
+    N0000009361
+    N0000010288
+  pharm_class_epc:
+    Plasma Volume Expander [EPC]
+  pharm_class_pe:
+    Increased Intravascular Volume [PE]
+  pharm_class_moa:
+    Osmotic Activity [MoA]
+  unii:
+    7SA290YK68
+    B697894SGQ
+    FZ989GH94E
+    0YZT43HS7D

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  United Spirit of America Anti Perspirant Deodorant Aluminum Chlorohydrate PHENOXYETHANOL ETHYLHEXYLGLYCERIN CETYL ALCOHOL CYCLOMETHICONE 6 XANTHAN GUM EDETATE SODIUM TETRAHYDRATE GLYCERYL STEARATE SE PEG-100 STEARATE GLYCERIN ALCOHOL CYCLOMETHICONE 5 MAGNESIUM ALUMINUM SILICATE WATER ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE Off White
+active_ingredient:
+  Active ingredients Aluminum Chlorohydrate 25%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses Decreases underarm perspiration.
+warnings:
+  Warnings For external use only. Do not use on broken skin. Stop use if rash or irritation occurs. Ask a doctor before use if you have kidney disease. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Other Information Other Information Do not store above 115°F.
+do_not_use:
+  Do not use on broken skin.
+stop_use:
+  Stop use if rash or irritation occurs.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Directions Apply to underarms only
+inactive_ingredient:
+  Inactive Ingredients Water, SD Alcohol 40-B, Cyclopentasiloxane, Glycerin, Glyceryl Stearate, PEG-100 Stearate, Cyclohexasiloxane, Cetyl Alcohol, Phenoxyethanol, Ethylhexylglycerin, Fragrance, Magnesium Aluminum Silicate, Tetrasodium EDTA, Xanthan Gum
+package_label_principal_display_panel:
+  Warrior Nano Shield Deodorant Anti-Perspirant Roll On Principal Display Label
+set_id:
+  021b4c50-a98b-5a3c-e063-6394a90abebb
+id:
+  021b55c0-e2ac-21c5-e063-6394a90a29ef
+effective_time:
+  20230804
+version:
+  1
+openfda:

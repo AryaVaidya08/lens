@@ -1,0 +1,35 @@
+effective_time:
+  20180202
+inactive_ingredient:
+  Inactive ingredients: aminomethyl propanol, carbomer, fragrance, isopropyl alcohol, propylene glycol, water.
+references:
+  Other Information For additional information, see Material Safety Data Sheed (MSDS) For emergency medical information in USA and Canada, call 1-800-328-0026 For emergency medical information worldwide, call 1-651-222-5352 (in the USA)
+purpose:
+  Purpose Antiseptic Handwash
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Directions FLAMMABLE. Keep away from fire or flame, heat, sparks, and sources of static discharge. For external use only When using this product avoid contact with eyes and mucous membranes if in eyes, rinse promptly and thoroughly with water discontinue use if irritation and redness develop Stop use and ask a physician if skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes and mucous membranes if in eyes, rinse promptly and thoroughly with water discontinue use if irritation and redness develop
+questions:
+  Questions? Call 1-800-35-CLEAN (352-5326).
+spl_product_data_elements:
+  DIGISAN Healthcare Alcohol ALCOHOL ALCOHOL AMINOMETHYLPROPANOL CARBOMER 1342 ISOPROPYL ALCOHOL PROPYLENE GLYCOL WATER
+ask_doctor:
+  Stop use and ask a physician if skin irritation or redness occurs for more than 72 hours
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Apply onto hands and rub until dry
+package_label_principal_display_panel:
+  ECOLAB NDC # 47593-388-33 DIGISAN Healthcare Hand Sanitizer DIGITS 22633 Net Contents: 4 fl oz/118 mL Representative Label
+indications_and_usage:
+  Uses antiseptic hand rinse
+set_id:
+  9ed641c9-f933-4962-a5d8-f08697bf5e3e
+id:
+  627b5f40-5e75-4e0a-92d8-e8853449c391
+active_ingredient:
+  Active Ingredient Ethyl Alcohol, 70%

@@ -1,0 +1,100 @@
+spl_product_data_elements:
+  Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE Argentum Iodatum Argentum Iodatum SUCROSE SILVER IODIDE SILVER IODIDE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Argentum Iodatum 6C 5g Argentum Iodatum 6C 30g Argentum Iodatum 6C 100g Argentum Iodatum 12C 5g Argentum Iodatum 12C 30g Argentum Iodatum 12C 100g Argentum Iodatum 30C 1g Argentum Iodatum 30C 5g Argentum Iodatum 30C 30g Argentum Iodatum 30C 100g Argentum Iodatum 100C 1g Argentum Iodatum 100C 5g Argentum Iodatum 100C 30g Argentum Iodatum 100C 100g Argentum Iodatum 200C 1g Argentum Iodatum 200C 5g Argentum Iodatum 200C 30g Argentum Iodatum 200C 100g Argentum Iodatum 500C 1g Argentum Iodatum 500C 5g Argentum Iodatum 500C 30g Argentum Iodatum 500C 100g Argentum Iodatum 1M 1g Argentum Iodatum 1M 5g Argentum Iodatum 1M 30g Argentum Iodatum 1M 100g Argentum Iodatum 10M 1g Argentum Iodatum 10M 5g Argentum Iodatum 10M 30g Argentum Iodatum 10M 100g
+set_id:
+  f57bac38-bbd0-74f3-e053-2a95a90a6761
+id:
+  f57bac38-bbd1-74f3-e053-2a95a90a6761
+effective_time:
+  20230224
+version:
+  1
+openfda:
+  brand_name:
+    Argentum Iodatum
+  generic_name:
+    ARGENTUM IODATUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-2718
+    37662-2719
+    37662-2720
+    37662-2721
+    37662-2722
+    37662-2723
+    37662-2724
+    37662-2725
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SILVER IODIDE
+  spl_id:
+    f57bac38-bbd1-74f3-e053-2a95a90a6761
+  spl_set_id:
+    f57bac38-bbd0-74f3-e053-2a95a90a6761
+  package_ndc:
+    37662-2718-1
+    37662-2718-2
+    37662-2718-3
+    37662-2719-1
+    37662-2719-2
+    37662-2719-3
+    37662-2720-1
+    37662-2720-2
+    37662-2720-3
+    37662-2720-4
+    37662-2721-1
+    37662-2721-2
+    37662-2721-3
+    37662-2721-4
+    37662-2722-1
+    37662-2722-2
+    37662-2722-3
+    37662-2722-4
+    37662-2723-1
+    37662-2723-2
+    37662-2723-3
+    37662-2723-4
+    37662-2724-1
+    37662-2724-2
+    37662-2724-3
+    37662-2724-4
+    37662-2725-1
+    37662-2725-2
+    37662-2725-3
+    37662-2725-4
+  is_original_packager:
+    True
+  unii:
+    81M6Z3D1XE

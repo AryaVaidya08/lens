@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  ANTI-BACTERIAL HAND SANITIZER ANTI-BACTERIAL HAND SANITIZER TROLAMINE CARBOMER INTERPOLYMER TYPE A (55000 CPS) FRAGRANCE CLEAN ORC0600327 ALCOHOL ALCOHOL SARGASSUM FUSIFORME WATER GLYCERIN ALOE VERA LEAF ARTEMISIA ARGYI LEAF CNIDIUM MONNIERI FRUIT BUTYLENE GLYCOL
+active_ingredient:
+  Active Ingredient Alcohol 75% V/V
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Use to help reduce bacteria on skin
+warnings:
+  Warnings Flammable. Keep away from fire, flame and high heat. for external use only. When using this product ,avoid contact with eyes. If contact occurs, rinse thoroughly with water. Avoid contact with brokern skin. Do not inhale or ingest. Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away. Stop use and ask a doctor if irritation or redness occurs.
+do_not_use:
+  /
+when_using:
+  When using this product When using this product ,avoid contact with eyes. If contact occurs, rinse thoroughly with water. Avoid contact with brokern skin. Do not inhale or ingest. Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away. Stop use and ask a doctor if irritation or redness occurs.
+stop_use:
+  Stop use and ask a doctor if irritation or redness occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions Dispense into hands, rub until dry.
+storage_and_handling:
+  Other information May discolor certain fabrics or surfaces. Oo not stor above 110F (43C)
+inactive_ingredient:
+  Inactive ingredients Water(Aqua1), Glycerin, Butylene Glycol, Fragrance (Parfum), Aloe Barbadeensis Leaf Extract, Artemisia Argyi Leaf Extract, Cnidium Monnieri Fruit Extract, Sargassum Fusiforme Extract
+package_label_principal_display_panel:
+  236ml 74620-034-01
+set_id:
+  b36adb90-8793-caa7-e053-2995a90a5628
+id:
+  f154b6c1-f349-1b8d-e053-2995a90ad063
+effective_time:
+  20230102
+version:
+  2
+openfda:

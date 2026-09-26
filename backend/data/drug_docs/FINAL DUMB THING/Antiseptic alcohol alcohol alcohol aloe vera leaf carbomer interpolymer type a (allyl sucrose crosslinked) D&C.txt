@@ -1,0 +1,33 @@
+effective_time:
+  20191105
+inactive_ingredient:
+  Inactive Ingredients aloe vera, carbomer, D&C green #5, D&C yellow #10, fragrance, purified water, triethanolamine
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children. If ingested get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. Do not use in eyes. If this happens, rinse thoroughly with water Stop use and ask a doctor if irritation and redness develop and persists for more than 72 hours Keep this and all drugs out of the reach of children. If ingested get medical help or contact a Poison Control Center right away
+spl_product_data_elements:
+  Antiseptic alcohol alcohol alcohol aloe vera leaf carbomer interpolymer type a (allyl sucrose crosslinked) D&C green no. 5 D&C yellow no. 10 water trolamine
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hands & wrists thoroughly with product and allow to dry without wiping Children under 6 years of age should be supervised while using this product
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop and persists for more than 72 hours
+do_not_use:
+  Do not use in eyes. If this happens, rinse thoroughly with water
+package_label_principal_display_panel:
+  Principal Display Panel – Box Label OINTMENT REFILLS Welly FIRST AID Clean Hands INSTANT HAND SANITIZER COUNT 12 NET WT 0.03 oz (0.9g) TOTAL NET WT 0.36 oz (10.8g) Ethyl Alcohol Principal Display Panel – Box Label
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on skin without soap and water Recommended for repeated use
+set_id:
+  515a2c1d-2c2c-4389-b042-0e880661db64
+id:
+  ccaa8a68-c8f9-40ea-b075-187216a4fdd5
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 66.5%

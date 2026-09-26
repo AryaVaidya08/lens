@@ -1,0 +1,35 @@
+effective_time:
+  20210112
+inactive_ingredient:
+  Inactive ingredients Water, Carbomer, Triethanolamine
+purpose:
+  Purpose Purpose Disinfectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children under 6 years of age should be supervisedwhen using this product
+warnings:
+  Matters needing attention Wamings: Cannot be used with alkaline substances. (2)After opening theproduct you need to use it within 2 months For extemal use only
+when_using:
+  usage When using this product not use in or near the eyes. In case of contact rinse eyes thoroughly with water, Stop use and ask doctor if irritation or rash appears and lasts. Keep out of reach for children, If swallowed, get medica help or contact a Poison Control Center right away
+spl_product_data_elements:
+  Air raid card Wash free disinfectant Wash free disinfectant CARBOMER 934 TROLAMINE WATER HYPOCHLOROUS ACID HYPOCHLOROUS ACID
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Directions()Place enough Product in your palm to thoroughly spread on both handsand rub into the skin until dry(2)Children under 6 years of age should be supervised
+stop_use:
+  Use with caution if allergic to chlorine. Stop usingimmediately if allergic to chlorine
+storage_and_handling:
+  Other information Store in a cool and ventilated place
+do_not_use:
+  Do not use Cannot be used with alkaline substances
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1 2 3
+indications_and_usage:
+  Uses Can kill bacteria on hands, such as: Escherichiacoli, Staphylococcus aureus, Candida albicans, Pseudomonasaeruginosa and poliovirus
+set_id:
+  a57454c2-c9cd-19db-e053-2a95a90ae05b
+id:
+  b8b24b47-2a2a-ec98-e053-2995a90ac083
+active_ingredient:
+  Active Ingredient(s) YPOCHLORITE ION 12mg/100ml

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Nature Hand Touch Sanitizer Liquid (ethanol) 70% ALCOHOL WATER POLYSORBATE 20 GLYCERIN HYALURONATE SODIUM ALCOHOL ALCOHOL
+active_ingredient:
+  Alcohol (Ethanol)
+inactive_ingredient:
+  Polysorbate 20, Gylcerin, cherry Fragrance, Sodium Hyaluronate, Collagen, Water
+purpose:
+  Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  cabc7a04-6f2a-ba5c-e053-2a95a90a3b69
+id:
+  cabc7a9b-96e5-73b8-e053-2995a90a8277
+effective_time:
+  20210829
+version:
+  1
+openfda:

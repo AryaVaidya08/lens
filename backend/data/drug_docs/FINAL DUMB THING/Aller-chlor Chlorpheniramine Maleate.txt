@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Aller-chlor Chlorpheniramine Maleate CHLORPHENIRAMINE MALEATE CHLORPHENIRAMINE STARCH, CORN D&C YELLOW NO. 10 ALUMINUM LAKE ANHYDROUS LACTOSE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE 44;194
+active_ingredient:
+  Active ingredient (in each tablet) Chlorpheniramine maleate 4 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  Warnings Do not use to make a child sleepy. Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland glaucoma Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use to make a child sleepy.
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis difficulty in urination due to enlargement of the prostate gland glaucoma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take every 4 to 6 hours, or as directed by a doctor adults and children 12 years and over 1 tablet. Do not exceed 6 tablets in 24 hours. children 6 to under 12 years 1/2 tablet (break tablet in half). Do not exceed 3 whole tablets in 24 hours. children under 6 years do not use
+dosage_and_administration_table:
+  <table width="576.994px" cellspacing="0"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule Lrule Rrule">adults and children 12 years and over </td><td styleCode=" Botrule Toprule Lrule Rrule"> 1 tablet. Do not exceed 6 tablets in 24 hours.</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children 6 to under 12 years </td><td styleCode=" Botrule Toprule Lrule Rrule"> 1/2 tablet (break tablet in half). Do not exceed 3 whole tablets in 24 hours.</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children under 6 years</td><td styleCode=" Botrule Toprule Lrule Rrule"> do not use  </td></tr></tbody></table>
+storage_and_handling:
+  Other information store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) protect from excessive moisture use by expiration date on package
+inactive_ingredient:
+  Inactive ingredients corn starch, D&C yellow #10 aluminum lake, lactose anhydrous, magnesium stearate, microcrystalline cellulose
+questions:
+  Questions or comments? 1-800-426-9391
+how_supplied:
+  HOW SUPPLIED Product: 50090-2000
+package_label_principal_display_panel:
+  Chlorpheniramine Maleate Label Image
+set_id:
+  d2024ec2-4e15-4b51-9430-50b42b51bd73
+id:
+  8130cf94-48cd-4536-8408-7e3196a81087
+effective_time:
+  20241105
+version:
+  16
+openfda:

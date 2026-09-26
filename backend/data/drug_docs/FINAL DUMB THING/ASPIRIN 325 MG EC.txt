@@ -1,0 +1,96 @@
+spl_product_data_elements:
+  ASPIRIN 325 MG EC ASPIRIN POVIDONE METHACRYLIC ACID STEARIC ACID STARCH, CORN CROSCARMELLOSE SODIUM FD&C YELLOW NO. 6 D&C YELLOW NO. 10 HYPROMELLOSES PROPYLENE GLYCOL TITANIUM DIOXIDE TALC ASPIRIN ASPIRIN SODIUM LAURYL SULFATE POLYETHYLENE GLYCOL 1000 AP;110
+spl_unclassified_section:
+  Drug Facts
+  TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+  *Reliable 1 Laboratories LLC is not affiliated with the owner of the trademark Ecotrin®. Distributed by: Reliable 1 Laboratories LLC, Valley Stream, NY 11580 www.reliable1labs.com
+active_ingredient:
+  Aspirin USP, 325 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Pain Reliever/Fever Reducer
+indications_and_usage:
+  temporarily relieves headache menstrual pain minor pain of arthritis muscle pain toothache pain and fever of colds
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this prodcut, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness.
+other_safety_information:
+  Allergy alert: Aspirin may cause a severe allergic reaction which may include hives facial swelling asthma (wheezing) shock
+  Stomach bleeding warning: This prodcut contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (ibuprofen, naproxen, or others) take more or for a longer time than directed have 3 or more alcoholic drinks every day while using this product Drug Facts continued on back of label
+do_not_use:
+  Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer
+ask_doctor:
+  Ask a doctor before use if stomach bleeding warning applies to you you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you are taking a diuretic you have asthma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout or arthritis under a doctor's care for any serious condition taking any other drug
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasta more than 3 days redness or swelling is present in the painful area any new symptoms appear ringing in the ears or loss of hearing occurs These could be sings of a serious condition
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially imporant not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions DRINK A FULL GLASS OF WATER WITH EACH DOSE adults and children 12 years and over: 1-2 tablets every 4 hours while symptoms last, not more than 12 tablets in 24 hours children under 12 years: ask a doctor
+storage_and_handling:
+  Other information store at room temperature 15°-30ºC (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, D&C yellow #10 (Al-lake), FD&C yellow #6 (Al-lake), HPMC, methacrylic acid copolymer, polyethylene glycol, propylene glycol, povidone, sodium lauryl sulfate, starch, stearic acid, talc, titanium dioxide
+questions:
+  Questions or comments? Questions or comments ? call 516-341-0666, 8:30 am - 4:30 pm ET, Monday - Friday
+package_label_principal_display_panel:
+  NDC 69618-015-01 Enteric Coated Aspirin USP 325 mg (NSAID) PAIN RELIEVER FEVER REDUCER 100 TABLETS *Compare to Active Ingredients in Ecotrin® Aspirin 325 mg EC Tablets 100 count
+set_id:
+  2ab8564f-f958-7512-e054-00144ff88e88
+id:
+  2bc81112-204e-2514-e063-6394a90a80ed
+effective_time:
+  20250115
+version:
+  6
+openfda:
+  application_number:
+    M013
+  brand_name:
+    ASPIRIN 325 MG EC
+  generic_name:
+    ASPIRIN
+  manufacturer_name:
+    Reliable 1 Laboratories LLC
+  product_ndc:
+    69618-015
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ASPIRIN
+  rxcui:
+    198467
+  spl_id:
+    2bc81112-204e-2514-e063-6394a90a80ed
+  spl_set_id:
+    2ab8564f-f958-7512-e054-00144ff88e88
+  package_ndc:
+    69618-015-10
+    69618-015-01
+  is_original_packager:
+    True
+  upc:
+    0369618015012
+  nui:
+    N0000000160
+    N0000008836
+    M0001335
+    N0000175722
+    N0000175578
+    N0000008832
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_pe:
+    Decreased Prostaglandin Production [PE]
+    Decreased Platelet Aggregation [PE]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+    Platelet Aggregation Inhibitor [EPC]
+  unii:
+    R16CO5Y76E

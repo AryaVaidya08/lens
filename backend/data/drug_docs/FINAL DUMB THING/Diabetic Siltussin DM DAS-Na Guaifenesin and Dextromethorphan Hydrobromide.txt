@@ -1,0 +1,41 @@
+effective_time:
+  20180123
+inactive_ingredient:
+  Inactive ingredients Acesulfame-K, aspartame, benzoic acid, hydroxypropyl methyl cellulose, methylparaben, propylene glycol, strawberry flavor, and water. May contain citric acid.
+purpose:
+  Purpose of Guaifenesin: Expectorant Purpose of Dextromethorphan Hydrobromide: Cough Suppressant
+keep_out_of_reach_of_children:
+  Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have ■ persistent cough or chronic cough such as occurs with smoking, asthma, chronic bronchitis, emphysema ■ cough accompanied by excessive phlegm (mucus) Stop use and ask a doctor if ■ cough lasts more than 7 days or occurs with fever, rash, or headaches that lasts. This could be signs of a serious condition ■ hypersensitive to any ingredients If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions 888-974-5279 Manufactured by: Silarx Pharmaceuticals, Inc 1033 Stoneleigh Ave. Carmel, NY 10512 USA
+spl_product_data_elements:
+  Diabetic Siltussin DM DAS-Na Guaifenesin and Dextromethorphan Hydrobromide GUAIFENESIN GUAIFENESIN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN acesulfame potassium aspartame benzoic acid HYPROMELLOSE 2910 (4000 MPA.S) methylparaben propylene glycol water anhydrous citric acid strawberry flavor
+ask_doctor:
+  Ask a doctor before use if you have ■ persistent cough or chronic cough such as occurs with smoking, asthma, chronic bronchitis, emphysema ■ cough accompanied by excessive phlegm (mucus)
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions take every 4 hours, or as directed by a doctor, and not more than 6 doses in 24 hours. This adult product is not intended for use in children under 12 years of age. Adult and children 12 years and over 2 teaspoonfuls (TSP) Children under 12 years DO NOT USE Other information ■ store at room temperature 20°-25°C (68° - 77°F) ■ Phenylketonurics: contains phenylalanine 3 mg per teaspoonful (5 mL)
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if ■ cough lasts more than 7 days or occurs with fever, rash, or headaches that lasts. This could be signs of a serious condition ■ hypersensitive to any ingredients
+how_supplied:
+  HOW SUPPLIED Product: 50090-2355 NDC: 50090-2355-0 118 mL in a BOTTLE, PLASTIC
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Guaifenesin and Dextromethorphan Hydrobromide Label Image
+indications_and_usage:
+  Uses ■ temporarily relieves cough due to minor throat and bronchial irritation ■ helps loosen phlegm (mucus) ■ thin bronchial secretions to make coughs more productive
+set_id:
+  4c3c7999-b02f-4c83-a045-fca520f6e72f
+id:
+  7449ef03-4453-48b6-b355-c1b0cee0c9b8
+active_ingredient:
+  Active Ingredient: Guaifenesin 100 mg (in each 5 mL (teaspoonful)(TSP)) Active Ingredient: Dextromethorphan Hydrobromide 10 mg (in each 5 mL (teaspoonful)(TSP))
+dosage_and_administration_table:
+  <table border="1" width="100%"> <tbody> <tr> <td>Adult and children 12 years and over  </td> <td>2 teaspoonfuls (TSP)  </td> </tr> <tr> <td>Children under 12 years  </td> <td> <content styleCode="bold">DO NOT USE</content> </td> </tr> </tbody> </table>

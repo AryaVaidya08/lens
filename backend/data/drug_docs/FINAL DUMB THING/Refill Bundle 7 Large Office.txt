@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Refill Bundle 7 Large Office BENZALKONIUM CHLORIDE Antiseptic Towelettes BENZALKONIUM CHLORIDE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Antiseptic Towelette 10 count 49687-0011-0 DRUG FACTS
+active_ingredient:
+  Active Ingredient: Benzalkonium Chloride 0.13% Purpose: First Aid Antiseptic
+purpose:
+  Purpose: First Aid Antiseptic
+indications_and_usage:
+  Use: For Professional and Hospital use. Helps prevent infection. Antiseptic cleansing of face, hands and body without soap and water.
+warnings:
+  Warnings: For external use only. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If unusual redness, swelling or other symptoms occur, consult a physician immediately. Do not use: In the eyes, or over large areas of the body.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If unusual redness, swelling or other symptoms occur, consult a physician immediately.
+do_not_use:
+  Do not use: In the eyes, or over large areas of the body.
+dosage_and_administration:
+  Directions: Tear open packet, unfold towelette and use to cleanse desired skin area. Discard towelette appropriately after single use.
+inactive_ingredient:
+  Inactive ingredient: Purified water.
+package_label_principal_display_panel:
+  Package Labeling: Kit3
+  Package Labeling: Label1
+set_id:
+  6620a8f3-098d-d045-e053-2a91aa0a0d94
+id:
+  2b9ba201-39ef-1894-e063-6294a90ad510
+effective_time:
+  20250113
+version:
+  5
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Refill Bundle 7 Large Office
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    CMC Group, Inc.
+  product_ndc:
+    49687-0029
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1038558
+  spl_id:
+    2b9ba201-39ef-1894-e063-6294a90ad510
+  spl_set_id:
+    6620a8f3-098d-d045-e053-2a91aa0a0d94
+  package_ndc:
+    49687-0029-0
+    49687-0011-1
+  is_original_packager:
+    True

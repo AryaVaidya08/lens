@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  Mitchum Clinical Soft Solid Clean Control ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY 20.0% BUTYLATED HYDROXYTOLUENE TRIBEHENIN C18-36 ACID TRIGLYCERIDE DIMETHICONE PETROLATUM ALOE VERA LEAF ALPHA-TOCOPHEROL ACETATE EDETATE CALCIUM DISODIUM ANHYDROUS CALCIUM CATION SODIUM STARCH GLYCOLATE TYPE A CORN HYDRATED SILICA MANNITOL CYCLOPENTASILOXANE TRISILOXANE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY CITRIC ACID SODIUM ASCORBATE
+active_ingredient:
+  Active Ingredients ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY 20.0%
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or call Poison Control Center right away
+inactive_ingredient:
+  Inactive Ingredient section Cyclopentasiloxane; Tribehenin; DIimethicone; Petrolatum; Parfume (Fragrance); Trisiloxane; C18-36 Acid Triglyceride; Aloe Barbadensis Leaf Extract; Tocopheryl Acetate; Sodium Starch Octenylsuccinate, Citric Acid, BHT, Sodium Ascorbate, Calcium Disodium EDTA, Hydrated Silica, Hexyl Cinnamal, Limonene, Linalool, Mannitol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Citronellol, Hydroxycitronellal, Benzyl Benzoate, Geraniol, Cinnamyl Alcohol.
+purpose:
+  Uses Reducess Underarm Wetness
+dosage_and_administration:
+  Apply to underarms only
+warnings:
+  For external use only. • Do not use on broken skin. • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs
+indications_and_usage:
+  Reduces Underarm wetness
+package_label_principal_display_panel:
+  Mitchum Clinical Soft Solid- Shower fresh Mitchum Clinical Soft Solid Sport
+set_id:
+  2a98d0b7-639c-da12-e063-6294a90a2a7e
+id:
+  2a98da36-e8b3-759b-e063-6294a90ab33b
+effective_time:
+  20241231
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Mitchum Clinical Soft Solid Clean Control
+  generic_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY 20.0%
+  manufacturer_name:
+    Revlon Consumer Products Corp.
+  product_ndc:
+    10967-682
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    2a98da36-e8b3-759b-e063-6294a90ab33b
+  spl_set_id:
+    2a98d0b7-639c-da12-e063-6294a90a2a7e
+  package_ndc:
+    10967-682-16
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Alcohol Free Hand Sanitizer Benzalkonium Chloride PHENYLETHYL ALCOHOL 3A,4,5,6,7,7A-HEXAHYDRO-1H-4,7-METHANOINDEN-6-YL ACETATE ISOMETHYL-.ALPHA.-IONONE LIMONENE, (+)- .ALPHA.-HEXYLCINNAMALDEHYDE BENZALKONIUM CHLORIDE BENZALKONIUM .ALPHA.-TERPINEOL LINALOOL, (+/-)- METHYL HEPTINE CARBONATE Clear liquid
+active_ingredient:
+  Drug Facts Benzalkonium Chloride 0.13% Purpose Antiseptic
+purpose:
+  Drug Facts Antiseptic
+when_using:
+  Drug Facts For personal hand sanitizing and to reduce bacteria on the skin. Recommended for repeated use Avoid contact with eyes. In the case of eye contact flush eyes with water.
+warnings:
+  Warnings When using this product avoid contact with eyes. In case of eye contact flush eyes with water.
+  Ask Doctor Stop use and ask a doctor if irritation and redness develop
+inactive_ingredient:
+  Inactive ingredients Fragrances, water
+dosage_and_administration:
+  Directions Apply liberally to the hands and gently rub until dry
+indications_and_usage:
+  Questions? Telephone: 44-1639-898150 Monday through Friday 8:00am til 4:30pm UK time
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+package_label_principal_display_panel:
+  Package quantity 100ml (3.38 Floz) NDC 81685-321-10 Gwalia Hybrisan 100ml Hand Sanitizer Bottle Front view Gwalia Hybrisan 100ml Hand Sanitizer Bottle Back view Gwalia Hybrisan 100ml Hand Sanitizer Label
+set_id:
+  bcf6b85a-9421-eff0-e053-2995a90abd91
+id:
+  bcf6b85a-9422-eff0-e053-2995a90abd91
+effective_time:
+  20210307
+version:
+  1
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  HAND SANITIZER HAND SANITIZER CARBOMER 940 TRIETHANOLAMINE BENZOATE ALCOHOL ALCOHOL ALOE VERA LEAF WATER GLYCERIN
+active_ingredient:
+  Active ingredients Ethyl Alcohol 62%
+purpose:
+  Antiseptic
+indications_and_usage:
+  Uses： For hand sanitizing to readuce bacteria on the skin.
+warnings:
+  Warnings: Flammable. Keep away from fire or flame. For external use only. Keep out of reach of children. Keep out of reach of eyes.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions: Pump out small amount in your palm and briskly rub hands together until dry.
+inactive_ingredient:
+  Inactive Ingredients: Water,Glycerin,Aloe Barbadensis leaf juice,Carbomer,Triethanolamine
+package_label_principal_display_panel:
+  500ml
+set_id:
+  a6d9a79a-49ee-43c9-e053-2a95a90ad1e4
+id:
+  b3479a74-42b3-421f-e053-2a95a90a78d2
+effective_time:
+  20201104
+version:
+  2
+openfda:

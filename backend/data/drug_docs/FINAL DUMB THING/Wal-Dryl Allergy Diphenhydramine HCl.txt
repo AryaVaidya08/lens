@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Wal-Dryl Allergy Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE D&C RED NO. 27 ALUMINUM LAKE D&C RED NO. 30 DEXTROSE MONOHYDRATE ETHYLCELLULOSE, UNSPECIFIED FD&C BLUE NO. 1 ALUMINUM LAKE HYDROXYPROPYL CELLULOSE, UNSPECIFIED MAGNESIUM STEARATE MANNITOL STEARIC ACID SUCRALOSE SUCROSE
+active_ingredient:
+  Active ingredient (in each chewable tablet) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat temporarily relieves these symptoms due to the common cold: sneezing runny nose
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions chew or crush tablets completely before swallowing; do not swallow tablets whole take every 4 to 6 hours, or as directed by a doctor do not take more than 6 doses in 24 hours adults and children 12 years and over 1 to 2 chewable tablets children 6 to under 12 years 1 chewable tablet children under 6 years do not use
+dosage_and_administration_table:
+  <table width="255.273px"><col/><col/><tbody><tr><td styleCode=" Botrule Rrule">adults and children 12 years and over</td><td styleCode=" Botrule">1 to 2 chewable tablets</td></tr><tr><td styleCode=" Botrule Rrule">children 6 to under 12 years</td><td styleCode=" Botrule">1 chewable tablet</td></tr><tr><td styleCode=" Rrule">children under 6 years</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN avoid high humidity store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients D&C red #27 aluminum lake, D&C red #30 aluminum lake, dextrates hydrated, ethylcellulose, FD&C blue #1 aluminum lake, flavor, hydroxypropyl cellulose, magnesium stearate, mannitol, stearic acid, sucralose, sucrose
+questions:
+  Questions or comments? 1-800-426-9391
+package_label_principal_display_panel:
+  Principal display panel Walgreens Compare to Benadryl® active ingredient†† NDC 0363-9685-44 Wal-Dryl® ALLERGY DIPHENHYDRAMINE HCl 25 mg CHEWABLE TABLETS / ANTIHISTAMINE CHEWABLE TABLETS • Relieves sneezing, runny nose, itchy throat & itchy, watery eyes Chew or crush tablets completely before swallowing. Do not swallow tablets whole. 18 CHEWABLE TABLETS GRAPE FLAVOR ACTIAL SIZE †Walgreens Pharmacist Survey †† This product is not manufactured or distributed by Johnson & Johnson Corporation, owner of the registered trademark Benadryl®. 50844 ORG011968544 DISTRIBUTED BY: WALGREEN CO. 200 WILMOT RD., DEERFIELD, IL 60015 100% SATISFACTION GUARANTEED walgreens.com ©2019 Walgreen Co. TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING Walgreens 44-685 Walgreens 44-685
+set_id:
+  f1cbce24-e9e5-4f49-8ad5-21235dc02bd9
+id:
+  41146e99-18fd-4ff1-ab31-8e4073250cea
+effective_time:
+  20220413
+version:
+  4
+openfda:

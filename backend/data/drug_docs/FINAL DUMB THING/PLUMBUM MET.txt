@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  PLUMBUM MET PLUMBUM MET ALCOHOL WATER LEAD LEAD
+active_ingredient:
+  ACTIVE INGREDIENT PLUMBUM MET HPUS 6X and higher
+purpose:
+  USES USES: Temporary Relief - Discomfort Of Colic* * Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+indications_and_usage:
+  INDICATIONS Condition listed above or as directed by the physician
+dosage_and_administration:
+  DOSAGE Adults: Mix 4-6 drops in 1/2 cup of water, take orally three times daily or as directed by a physician. Children (2 years and older): Take half the adult dose.
+warnings:
+  WARNINGS This product is to be used for self-limiting conditions If symptoms do not improve in 4 days, or worsen, discontinue use and seek assistance of health professional As with any drug, if you are pregnant, or nursing a baby, seek professional advice before taking this product Keep this and all medication out of reach of children Do not use if capseal is broken or missing. Close the cap tightly after use.
+stop_use:
+  If symptoms do not improve in 4 days, or worsen, discontinue use and seek assistance of health professional
+pregnancy_or_breast_feeding:
+  As with any drug, if you are pregnant, or nursing a baby, seek professional advice before taking this product
+keep_out_of_reach_of_children:
+  Keep this and all medication out of reach of children
+do_not_use:
+  Do not use if capseal is broken or missing. Close the cap tightly after use.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Active: As Above; Inactive: ENA 50% v/v and Purified Water q.s.
+storage_and_handling:
+  STORAGE Store in a cool dark place
+questions:
+  QUESTIONS OR COMMENTS www.Rxhomeo.com | 1.888.2796642 | info@rxhomeo.com - Rxhomeo, Inc 2940 Eisenhower St., Suite 100, Carrollton, TX 75007 USA
+package_label_principal_display_panel:
+  Product Label Carton Box
+set_id:
+  1a4970ac-f05f-2cc1-e063-6394a90a1ec9
+id:
+  1a4970c4-3923-5cbd-e063-6394a90a12e6
+effective_time:
+  20240607
+version:
+  1
+openfda:
+  brand_name:
+    PLUMBUM MET
+  generic_name:
+    PLUMBUM MET
+  manufacturer_name:
+    Rxhomeo Private Limited d.b.a. Rxhomeo, Inc
+  product_ndc:
+    15631-2904
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LEAD
+  spl_id:
+    1a4970c4-3923-5cbd-e063-6394a90a12e6
+  spl_set_id:
+    1a4970ac-f05f-2cc1-e063-6394a90a1ec9
+  package_ndc:
+    15631-2904-0
+    15631-2904-1
+  is_original_packager:
+    True
+  unii:
+    2P299V784P

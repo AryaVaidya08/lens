@@ -1,0 +1,35 @@
+effective_time:
+  20101207
+contraindications:
+  CONTRAINDICATIONS: Known hypersensitivity to any of the listed ingredients.
+precautions:
+  PRECAUTIONS: This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Urea 42% Cloths should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  NURSING MOTHERS: It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when Urea 42% Cloths are administered to a nursing woman. KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+spl_product_data_elements:
+  UREA UREA Urea Urea WATER GLYCERIN MEDIUM-CHAIN TRIGLYCERIDES PROPYLENE GLYCOL XANTHAN GUM EDETATE DISODIUM PYRITHIONE ZINC ALPHA-TOCOPHEROL ACETATE LACTIC ACID CITRIC ACID MONOHYDRATE SODIUM CITRATE
+description:
+  DESCRIPTION: Urea 42% Cloths contain a 42% solution of urea on a textured cloth. Each gram of medicated solution contains Purified Water, Urea, Glycerine, Polyacrylate, Caprylic/Caric TriGlyceride, Propylene Gycol, Xanthan Gum, Disodium EDTA, Zinc Pyrithione, Vitamin E Acetate, Lactic Acid, Citric Acid and Sodium Citrate.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Gently apply Urea 42% Cloths to affected skin twice per day, or as directed by a physician.
+adverse_reactions:
+  ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+how_supplied:
+  HOW SUPPLIED: Urea 42% Cloths, NDC 68032-222-75, are supplied in a carton containing 30 foil pouches, each with a single-use medicated cloth ( 12 mL each). Store at controlled room temperature 15 - 30° C (59 - 86° F). Protect from freezing. Manufactured for: River's Edge Pharmaceuticals, LLC. Suwanee, GA 30024 Rev. 08/08 222-11
+package_label_principal_display_panel:
+  PRODUCT PACKAGING: carton
+indications_and_usage:
+  INDICATIONS AND USES: For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, icthyosis, eczema, keratosis pilaris, kertosis palmaris, kertoderma, cons and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Urea gently dissolves the intercellular matrix, which results in loosening of the horny layer of skin and shedding scaly skin at regular intervals, thereby softening hyperkeratotic areas.
+set_id:
+  187049b5-5dad-4793-b635-e2c9fd7a5559
+id:
+  2c70394c-e5a2-4bad-b2e0-a10b84d95a23

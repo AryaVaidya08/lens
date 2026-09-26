@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Degree Advanced Lavender and Waterlily 72H Antiperspirant Deodorant BUTYLATED HYDROXYTOLUENE GLYCINE ALKYL (C12-15) BENZOATE HYDROGENATED CASTOR OIL CALCIUM CHLORIDE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 MALTODEXTRIN PEG-8 DISTEARATE TALC SILICON DIOXIDE PPG-14 BUTYL ETHER STEARYL ALCOHOL
+description:
+  DEGREE ADVANCED LAVENDER & WATERLILY 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate stick
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Sesquichlorohydrate (16%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, PPG-14 Butyl Ether, Stearyl Alcohol, Glycine, C12-15 Alkyl Benzoate, Hydrogenated Castor Oil, Calcium Chloride, PEG-8 Distearate, Talc, Fragrance (Parfum), Sodium Starch Octenylsuccinate, Silica, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT.
+questions:
+  Questions? Call toll-free 1-866-334-7331
+package_label_principal_display_panel:
+  Packaging Degree Lavender Waterlily AP Deo IS
+set_id:
+  c843ddb1-2619-6cc6-e053-2a95a90ad396
+id:
+  2668ec3c-00e2-0f84-e063-6394a90a1bde
+effective_time:
+  20241108
+version:
+  3
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Degree
+  generic_name:
+    ADVANCED LAVENDER AND WATERLILY 72H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-1954
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    2668ec3c-00e2-0f84-e063-6394a90a1bde
+  spl_set_id:
+    c843ddb1-2619-6cc6-e053-2a95a90ad396
+  package_ndc:
+    64942-1954-1
+  is_original_packager:
+    True
+  upc:
+    0079400486868
+  unii:
+    UCN889409V

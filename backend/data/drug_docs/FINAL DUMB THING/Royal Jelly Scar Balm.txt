@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Royal Jelly Scar Balm DIMETHICONE WATER MEDIUM-CHAIN TRIGLYCERIDES SUCRALFATE CROTON LECHLERI RESIN GLYCERIN ROYAL JELLY HONEY WITHANIA SOMNIFERA FLOWER NELUMBO NUCIFERA WHOLE POLYGLYCERYL-3 METHYLGLUCOSE DISTEARATE ALKYL (C12-15) BENZOATE GLYCERYL MONOSTEARATE SHEA BUTTER POLYACRYLAMIDE (1500 MW) C13-14 ISOPARAFFIN LAURETH-7 COCOA BUTTER CETYL ALCOHOL ROSA MOSCHATA SEED OIL YEAST .BETA.-D-GLUCAN SACCHAROMYCES LYSATE .ALPHA.-TOCOPHEROL ACETATE DMDM HYDANTOIN PANTHENOL DIAZOLIDINYL UREA EDETATE TRISODIUM DIMETHICONE DIMETHICONE
+active_ingredient:
+  Active ingredient Dimethicone 2%
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve chapped or cracked skin
+warnings:
+  Warning For external use only When using this product ● do not get into eyes Stop use and ask a doctor if ● condition worsens ● symptoms last more than 7 days or clear up and occur again in a few days Do not use on ● deep or puncture wounds ● animal bites ● serious burns Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • apply as needed
+keep_out_of_reach_of_children:
+  
+inactive_ingredient:
+  Inactive ingredients Water, Caprylic/Capric Triglyceride, Polyglyceryl-3 Methylglucose Distearate, C12-15 Alkyl Benzoate, Glyceryl Stearate, Butyrospermum Parkii (Shea) Butter, Glycerin, Theobroma Cacao (Cocoa) Seed Butter, Cetyl Alcohol, Rosa Moschata Seed Oil, Polyacrylamide, Aluminum Sucrose Octasulfate, Croton Lechleri Resin Extract, Tocopheryl Acetate, C13-14 Isoalkane, DMDM Hydantoin, Panthenol, Diazolidinyl Urea, Laureth-7, Trisodium EDTA, Honey, Royal Jelly Powder, Withania Somnifera Extract, Beta-Glucan, Nelumbo Nucifera Extract, Saccharomyces Lysate Extract
+spl_unclassified_section:
+  Questions? Call 1-800-551-2345 or visit www.jafra.com
+package_label_principal_display_panel:
+  Product label image description image description
+set_id:
+  27be84c1-0227-41ca-beb6-3855eff77e41
+id:
+  2abe23d8-4c52-217d-e063-6394a90afbba
+effective_time:
+  20250102
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Royal Jelly Scar Balm
+  generic_name:
+    DIMETHICONE
+  manufacturer_name:
+    Distribuidora Comercial Jafra, S.A. de C.V.
+  product_ndc:
+    68828-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+  rxcui:
+    244642
+  spl_id:
+    2abe23d8-4c52-217d-e063-6394a90afbba
+  spl_set_id:
+    27be84c1-0227-41ca-beb6-3855eff77e41
+  package_ndc:
+    68828-004-01
+  is_original_packager:
+    True
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

@@ -1,0 +1,27 @@
+effective_time:
+  20200421
+inactive_ingredient:
+  Water, isoamyl glycol, Tocopherol acetate, coconut alcohol polyether-7, carbomer, PPG-1-PEG-9 lauryl glycol ether, triethanolamine, PEC-40 hydrogenated castor oil.
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  This product is for extemal use. Do not take it orally Avoid eye contact. Keep out of children' s reach. Keep away from the fire. Stay away from fire when using before alcohol wears off.
+spl_product_data_elements:
+  mery alcohol based hand sanitizer hand sanitizer WATER .ALPHA.-TOCOPHEROL ACETATE PPG-1-PEG-9 LAURYL GLYCOL ETHER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE ALCOHOL ALCOHOL ISOPENTYLDIOL COCETH-7 POLYOXYL 40 HYDROGENATED CASTOR OIL mery
+openfda:
+version:
+  4
+dosage_and_administration:
+  Store in a cool place away from fire.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Take an appropriate amount and apply it to your hand.
+set_id:
+  a3683100-e758-20a2-e053-2995a90ab782
+id:
+  a3c810b8-aa04-f0f4-e053-2995a90a5af1
+active_ingredient:
+  ethanol

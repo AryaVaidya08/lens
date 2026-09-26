@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  Cardio Tonic Kali Muriaticum, Kali Phosphoricum, Plantago Major, Cactus Grandiflorus, Digitalis Purpurea, Heart (Bovine), L-Carnitine, L-Valine, Thyroidinum (Suis), Abrotanum (Artemisia Abrotanum), Iodium, Lecithin, Spigelia Anthelmia POTASSIUM CHLORIDE POTASSIUM CATION POTASSIUM PHOSPHATE, DIBASIC PHOSPHATE ION PLANTAGO MAJOR PLANTAGO MAJOR SELENICEREUS GRANDIFLORUS STEM SELENICEREUS GRANDIFLORUS STEM DIGITALIS DIGITALIS BEEF HEART BEEF HEART LEVOCARNITINE LEVOCARNITINE VALINE VALINE SUS SCROFA THYROID SUS SCROFA THYROID ARTEMISIA ABROTANUM FLOWERING TOP ARTEMISIA ABROTANUM FLOWERING TOP IODINE IODINE EGG PHOSPHOLIPIDS EGG PHOSPHOLIPIDS SPIGELIA ANTHELMIA SPIGELIA ANTHELMIA BORAGE OIL LINSEED OIL ACACIA WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Kali Muriaticum 3X, Kali Phosphoricum 3X, Plantago Major 3X, Cactus Grandiflorus 5X, Digitalis Purpurea 6X, Heart (Bovine) 6X, L-Carnitine 6X, L-Valine 6X, Thyroidinum (Suis) 6X, Abrotanum (Artemisia Abrotanum) 12X, Iodium 12X, Lecithin 12X, Spigelia Anthelmia 12X.
+purpose:
+  INDICATIONS: For temporary relief of nervous anxiety with tiredness, difficulty breathing at night while sleeping, coldness of hands & feet, swelling of extremities.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in cool, dry place.
+dosage_and_administration:
+  DIRECTIONS: 10 drops orally, 3 times a day. Consult a physician for use in children under 12 years of age.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Acacia Gum, Borage Oil, Demineralized Water, 25% Ethanol, Flax Seed Oil
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  INDICATIONS: For temporary relief of nervous anxiety with tiredness, difficulty breathing at night while sleeping, coldness of hands & feet, swelling of extremities.
+questions:
+  QUESTIONS: Distributed by: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935 bioactivenutritional.com
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: BIO Active Nutritional CARDIO TONIC HOMEOPATHIC 1 FL OZ (30 ml) Cardio Tonic
+set_id:
+  2c252ba6-f147-4c22-b432-cd603a9623ac
+id:
+  9f11c01e-e753-4231-a254-f66c404597cd
+effective_time:
+  20170814
+version:
+  3
+openfda:
+  brand_name:
+    Cardio Tonic
+  generic_name:
+    KALI MURIATICUM, KALI PHOSPHORICUM, PLANTAGO MAJOR, CACTUS GRANDIFLORUS, DIGITALIS PURPUREA, HEART (BOVINE), L-CARNITINE, L-VALINE, THYROIDINUM (SUIS), ABROTANUM (ARTEMISIA ABROTANUM), IODIUM, LECITHIN, SPIGELIA ANTHELMIA
+  manufacturer_name:
+    BioActive Nutritional, Inc.
+  product_ndc:
+    43857-0073
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    POTASSIUM CHLORIDE
+    POTASSIUM PHOSPHATE, DIBASIC
+    PLANTAGO MAJOR
+    SELENICEREUS GRANDIFLORUS STEM
+    DIGITALIS
+    BEEF HEART
+    LEVOCARNITINE
+    VALINE
+    SUS SCROFA THYROID
+    ARTEMISIA ABROTANUM FLOWERING TOP
+    IODINE
+    EGG PHOSPHOLIPIDS
+    SPIGELIA ANTHELMIA
+  spl_id:
+    9f11c01e-e753-4231-a254-f66c404597cd
+  spl_set_id:
+    2c252ba6-f147-4c22-b432-cd603a9623ac
+  package_ndc:
+    43857-0073-1
+  is_original_packager:
+    True
+  nui:
+    M0003493
+    N0000175903
+  pharm_class_cs:
+    Carnitine [CS]
+  pharm_class_epc:
+    Carnitine Analog [EPC]
+  unii:
+    660YQ98I10
+    CI71S98N1Z
+    W2469WNO6U
+    7114SV0MYK
+    F1T8QT9U8B
+    P47W069U38
+    0G389FZZ9M
+    HG18B9YRS7
+    6RV024OAUQ
+    QG07G580U0
+    9679TC07X4
+    1Z74184RGV
+    WYT05213GE

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Senecio aureus PACKERA AUREA ALCOHOL WATER PACKERA AUREA PACKERA AUREA white
+active_ingredient:
+  ACTIVE INGREDIENTS SENECIO AUR
+purpose:
+  USES To relieve the symptoms of loose cough.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: SENECIO AUR Loose cough
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: 4 drops into a tsp. of water 3 times a day. Children: 1/2 dose. Repeat at greater intervals as condition subsides. Or as directed bya lic. practitioner.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of SENECIO AUR is 6x–30x, 3c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. ll WHP single remedies are made to order; thus, the labels are printed on the same label stock, as the orders are filled. ‘Bottle Size,’ ‘Potency,’ and ‘Alcohol Percentage’ vary on the label depending on customer choice. Standard bottle sizes for dilution-form remedies are 15ml, 30ml, 50ml, and 100ml. Senecio aur label example
+set_id:
+  3301a8ae-9c1b-4eef-94a5-0dbc8534149a
+id:
+  2cca8f9a-8b0f-784d-e063-6294a90a0516
+effective_time:
+  20250128
+version:
+  2
+openfda:

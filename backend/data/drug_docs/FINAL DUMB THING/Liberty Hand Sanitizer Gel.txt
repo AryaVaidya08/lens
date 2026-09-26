@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Liberty Hand Sanitizer Gel ALCOHOL EUCALYPTUS OIL CARBOMER 940 ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER TROLAMINE
+active_ingredient:
+  Active Ingredient(s) Alcohol 61% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, hydrogen peroxide, trolamine, eucalyptus oil, purified water USP
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1048L NDC: 73809-8067-1 208 L NDC: 73809-8067-2 18.9 L NDC: 73809-8067-3 3.785 L NDC: 73809-8067-4 1.893L NDC: 73809-8067-5 1.893 L NDC: 73809-8067-5 275 gallon/1048L 55 Gallons/208 L 5 gallons/18.9L 1 gallon/3.785 L 1.893L/0.5 gallon Front 1.893L/ 0.5G back
+set_id:
+  a3422a37-572f-c024-e053-2a95a90ab492
+id:
+  b7a08c9a-af7f-4090-e053-2a95a90ac9b5
+effective_time:
+  20201229
+version:
+  2
+openfda:

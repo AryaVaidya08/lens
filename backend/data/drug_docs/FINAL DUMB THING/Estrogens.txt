@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  Estrogens Estradiol, Folliculinum, Oophorinum (suis) ESTRADIOL ESTRADIOL ESTRONE ESTRONE SUS SCROFA OVARY SUS SCROFA OVARY WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: (in each drop): 33.33% of Estradiol 200C, Folliculinum 200C, Oophorinum 200C.
+purpose:
+  INDICATIONS: May temporarily relieve excessive bleeding, irregular menses, breast tenderness, dry skin, moodiness, hot flashes, and vaginal dryness and irritation.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 5 - 10 drops orally, 1 time daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: May temporarily relieve excessive bleeding, irregular menses, breast tenderness, dry skin, moodiness, hot flashes, and vaginal dryness and irritation.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol.
+questions:
+  QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800-869-8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY ESTROGENS 200C 1 fl. oz. (30 ml) Estrogens
+set_id:
+  e0686139-824f-42bc-8610-bb003d7edc3f
+id:
+  896de57c-6061-4dea-9776-865fd20933f2
+effective_time:
+  20241024
+version:
+  2
+openfda:
+  brand_name:
+    Estrogens
+  generic_name:
+    ESTRADIOL, FOLLICULINUM, OOPHORINUM (SUIS)
+  manufacturer_name:
+    Energique, Inc.
+  product_ndc:
+    44911-0655
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ESTRADIOL
+    ESTRONE
+    SUS SCROFA OVARY
+  spl_id:
+    896de57c-6061-4dea-9776-865fd20933f2
+  spl_set_id:
+    e0686139-824f-42bc-8610-bb003d7edc3f
+  package_ndc:
+    44911-0655-1
+  is_original_packager:
+    True
+  upc:
+    0363113600285
+  nui:
+    M0447348
+    N0000175825
+    N0000000100
+  pharm_class_cs:
+    Estradiol Congeners [CS]
+  pharm_class_epc:
+    Estrogen [EPC]
+  pharm_class_moa:
+    Estrogen Receptor Agonists [MoA]
+  unii:
+    4TI98Z838E
+    2DI9HA706A
+    S7YTV04R8O

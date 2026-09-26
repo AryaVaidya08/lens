@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Herbal Cough Drop Menthol SUCROSE MENTHOL MENTHOL B Herbal and Menthol
+active_ingredient:
+  Active ingredient (in each drop) Menthol 4.8 mg
+purpose:
+  Purposes Cough Suppressant / Oral Anesthetic
+indications_and_usage:
+  Uses temporarily relieves: cough as may occur with a cold or inhaled irritants minor sore throat
+warnings:
+  Warnings Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. If sore mouth symptoms do not improve in 7 days, see your dentist or doctor promptly. These symptoms may be serious.
+ask_doctor:
+  Ask a doctor before use if you have persistent of chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough persists for more than 7 days, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore throat is severe, or irritation, pain or redness lasts or worsens sore mouth does not improve in 7 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions adults and children 6 years and over - allow 2 drops to dissolve slowly in mouth one at a time. May be repeated every two hours as necessary or as directed by a doctor. children under 6 years - ask a doctor
+inactive_ingredient:
+  Inactive ingredients: Caramel (color), corn starch, glucose syrup, herbal extract blend (Elder Flower, Horehound, Hyssop, Lemon Balm, Linden Flower, Marshmallow Root, Peppermint, Sage, Thyme, Wild Thyme). natural flavors, soybean oil, and sucrose.
+questions:
+  Questions? Or to report an adverse event call 1-800-245-2898. Monday - Friday, 9AM to 4PM EST
+package_label_principal_display_panel:
+  Meijer Herbal 50ct cough drops
+set_id:
+  32aa2ec0-dbd3-2cb5-e054-00144ff88e88
+id:
+  e31179d7-6f9f-046b-e053-2a95a90a19dd
+effective_time:
+  20220705
+version:
+  3
+openfda:

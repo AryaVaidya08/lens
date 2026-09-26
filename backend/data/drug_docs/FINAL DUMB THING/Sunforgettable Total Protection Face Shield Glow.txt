@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  Sunforgettable Total Protection Face Shield Glow Zinc Oxide FERRIC OXIDE RED FERRIC OXIDE YELLOW DISODIUM LAURIMINODIPROPIONATE TOCOPHERYL PHOSPHATES TITANIUM DIOXIDE DIMETHYLMETHOXY CHROMANOL SILICON DIOXIDE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) ALLANTOIN TRILAURETH-4 PHOSPHATE BUTYLOCTYL SALICYLATE ISODODECANE CAPRYLYL GLYCOL DEHYDROACETIC ACID DIMETHICONE HELIANTHUS ANNUUS SPROUT MALTODEXTRIN TOCOPHEROL CAESALPINIA SPINOSA FRUIT POD ZINC OXIDE ZINC OXIDE SODIUM HYDROXIDE WATER MICA NIACINAMIDE ETHYLHEXYLGLYCERIN HEXYLENE GLYCOL ALKYL (C12-15) BENZOATE DIMETHICONOL/PROPYLSILSESQUIOXANE/SILICATE CROSSPOLYMER (450000000 MW) PROPANEDIOL TETRASODIUM GLUTAMATE DIACETATE SODIUM CHLORIDE PHENOXYETHANOL .ALPHA.-BISABOLOL, (+)- TRIDECYL SALICYLATE FERROSOFERRIC OXIDE
+dosage_and_administration:
+  Sunforgettable Total Protection Face Shield Glow Dosage and Administration
+inactive_ingredient:
+  Sunforgettable Total Protection Face Shield Glow Inactive ingredients
+indications_and_usage:
+  Sunforgettable Total Protection Face Shield Glow Indications & usage
+active_ingredient:
+  Sunforgettable Total Protection Face Shield Glow Active Ingredients
+keep_out_of_reach_of_children:
+  Sunforgettable Total Protection Face Shield Glow keep out of reach of children
+purpose:
+  Sunforgettable Total Protection Face Shield Glow purpose
+warnings:
+  Sunforgettable Total Protection Face Shield Glow Warning Label
+package_label_principal_display_panel:
+  Sunforgettable Total Protection Face Shield Glow PDP
+set_id:
+  cdb5397a-c463-4b41-e053-2a95a90a9e03
+id:
+  5254e12c-eed0-b312-e063-6394a90afccc
+effective_time:
+  20260521
+version:
+  6
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Sunforgettable Total Protection Face Shield Glow
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Colorescience
+  product_ndc:
+    68078-041
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    5254e12c-eed0-b312-e063-6394a90afccc
+  spl_set_id:
+    cdb5397a-c463-4b41-e053-2a95a90a9e03
+  package_ndc:
+    68078-041-01
+    68078-041-02
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

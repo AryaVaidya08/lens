@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  Oxygen Oxygen OXYGEN OXYGEN
+package_label_principal_display_panel:
+  Principal for Oxygen Product pdp
+set_id:
+  8798435b-295a-4018-97b9-3cd5b2c1eaaa
+id:
+  7ee95e03-7bfd-5821-e053-2991aa0a1196
+effective_time:
+  20190107
+version:
+  3
+openfda:

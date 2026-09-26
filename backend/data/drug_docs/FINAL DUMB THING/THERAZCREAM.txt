@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  THERAZCREAM TRICLOSAN CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) ALCOHOL ALKYL (C12-15) BENZOATE ALOE VERA LEAF BENZYL ALCOHOL SHEA BUTTER MEDIUM-CHAIN TRIGLYCERIDES CARBOMER 940 CETOSTEARYL ALCOHOL GLYCERYL MONOSTEARATE PEG-75 STEARATE CETETH-20 STEARETH-20 DIAZOLIDINYL UREA DIMETHICONE GLYCERETH-26 GLYCERIN MAGNESIUM ALUMINUM SILICATE MINERAL OIL CERESIN PHENOXYETHANOL BENZOIC ACID ETHYLHEXYLGLYCERIN GLYCERETH-2 COCOATE POLYSORBATE 20 POTASSIUM HYDROXIDE VITAMIN A PALMITATE SODIUM METABISULFITE SORBIC ACID STEARETH-21 STEARYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE UREA WATER XANTHAN GUM TRICLOSAN TRICLOSAN
+active_ingredient:
+  TRICLOSAN 0.3%
+purpose:
+  PURPOSE ANTIBACTERIAL
+indications_and_usage:
+  USE TO DECREASE BACTERIA ON SKIN.
+warnings:
+  WARNINGS FOR EXTERNAL USE ONLY
+when_using:
+  WHEN USING THIS PRODUCT AVOID CONTACT WITH EYES. IF CONTACT OCCURS, RINSE THOROUGHLY WITH WATER.
+stop_use:
+  STOP USE AND ASK A DOCTOR IF IRRITATION AND REDNESS DEVELOP.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. IF PRODUCT IS SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY.
+dosage_and_administration:
+  DIRECTIONS: APPLY A SMALL AMOUNT OF CREAM TO THE SKIN AND RUB IN GENTLY.
+inactive_ingredient:
+  INGREDIENTS Acrylates/C10-30 Alkyl Acrylates Crosspolymer, Alcohol Denat., Alkyl Benzoate, Aloe Barbadensis Leaf Juice, Benzyl Alcohol, Butyrospermum Parkii (Shea Butter) Fruit, Caprylic/Capric Triglycerides, Carbomer, Cetearyl Alcohol and Polysorbate 60, Cetyl Alcohol, Cetyl Alcohol (and) Glyceryl Stearate (and) PEG-75 Stearate (and) Ceteth-20 (and) Steareth-20, Diazolidinyl Urea, Dimethicone, Fragrance, Glycereth-26, Glycerin, Magnesium Aluminum Silicate, Mineral Oil, Ozokerite, Phenoxyethanol (and) Benzoic Acid (and) Ethylhexylglycerin (and) Glycereth-2 Cocoate, Polysorbate 20, Potassium Hydroxide, Retinyl Palmitate, Sodium Metabisulfite, Sorbic Acid, Steareth 2, Stearth-21, Stearyl Alcohol, Tocopheryl Acetate (Vitamin E Acetate), Urea, Water, Xanthan Gum
+package_label_principal_display_panel:
+  TheraZcream_ARTWORK
+set_id:
+  87812549-30ab-400d-a0e9-0ec00121d1ca
+id:
+  150e1036-ccb2-b2f0-e063-6294a90a5bfe
+effective_time:
+  20240401
+version:
+  4
+openfda:

@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Halodine Nasal Antiseptic Povidone-Iodine HYDROXYETHYL CELLULOSE, UNSPECIFIED WATER POVIDONE-IODINE IODINE
+spl_unclassified_section:
+  Drug Facts
+  HELPS REDUCE RISK OF INFECTION • 4-HOUR FORMULA Non-sterile Solution Manufactured in the U.S.A. for Halodine LLC 111 NE 1st St, Ste 806, Miami, FL 33132 halodine.com
+active_ingredient:
+  Active Ingredient Povidone-Iodine USP, 1.25% (0.125% Available Iodine)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Antiseptic skin preparation Helps reduce bacteria that can potentially cause skin infection
+warnings:
+  Warnings For external use only. Do not use If allergic to iodine In the eyes On children less than 3 years old Over large areas of the body Ask a doctor before use if injuries are Deep or puncture wounds Serious burns Stop use and ask a doctor if irritation and redness develop or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For nasal application Gently blow nose to clear both nostrils. Discard tissue. Open single ampoule by folding the narrow end along line. To avoid spill while opening, maintain ampoule with narrow end pointing up. Place narrow end of ampoule at right nostril and gently pinch left nostril. Lift chin and tilt head back; squeeze all liquid from ampoule while inhaling through right nostril. Discard ampoule. Open second ampoule by folding the narrow end along line. Avoid spill. Place narrow end of ampoule at left nostril and gently pinch right nostril. Lift chin and tilt head back; squeeze all liquid from ampoule while inhaling through left nostril. Discard ampoule. Note: Do not blow nose. If solution drips, wipe with tissue.
+storage_and_handling:
+  Other Information Single use only; do not reuse Not made with natural rubber latex Store at room temperature; avoid excessive heat
+inactive_ingredient:
+  Inactive Ingredients hydroxyethylcellulose, purified water
+questions:
+  Questions or comments? contact@halodine.com
+package_label_principal_display_panel:
+  Packaging untitled
+set_id:
+  a9dd7e56-1a97-5f0b-e053-2995a90a43bf
+id:
+  2ef9bb32-8fc1-4d9f-93ba-e04956091811
+effective_time:
+  20210614
+version:
+  3
+openfda:

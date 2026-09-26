@@ -1,0 +1,27 @@
+effective_time:
+  20200619
+inactive_ingredient:
+  Inactive ingredients Water, Triethanolamine, Carbomer, Aloe Barbadensis Leaf Juice, Glycerin, Frangrance, Propylene Glycol, Tocopheryl Acetate
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get immediate medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame When using this product, keep out of eyes, ears or mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs, these may be signs of serious condition.
+spl_product_data_elements:
+  XTREME Personal Care Hand Sanitizer Alcohol GLYCERIN CARBOMER 934 TROLAMINE PROPYLENE GLYCOL ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Apply onto hands/skin, rub until dry
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Use Hand sanitizer to help decrease bacteria on the skin
+set_id:
+  df855dcf-160b-4ce0-a68f-e9cc4d464534
+id:
+  a871c5c9-a70f-5634-e053-2995a90a3467
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v

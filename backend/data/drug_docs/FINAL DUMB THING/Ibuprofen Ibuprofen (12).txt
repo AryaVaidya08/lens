@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Ibuprofen Ibuprofen IBUPROFEN IBUPROFEN FD&C BLUE NO. 1 GELATIN POLYETHYLENE GLYCOL, UNSPECIFIED POTASSIUM HYDROXIDE WATER SORBITOL SORBITAN IB200
+active_ingredient:
+  Active ingredient (in each capsule) Solubilized ibuprofen equal to 200 mg ibuprofen (NSAID)* (present as the free acid and potassium salt) *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: headache muscular aches minor pain of arthritis toothache backache the common cold menstrual cramps temporarily reduces fever
+warnings:
+  Warnings Allergy alert : Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: hives facial swelling asthma (wheezing) shock skin reddening rash blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning : This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery Ask a doctor before use if the stomach bleeding warning applies to you you have problems or serious side effects from taking pain relievers or fever reducers you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease or asthma you are taking a diuretic Ask a doctor or pharmacist before use if you are under a doctor's care for any serious condition taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin taking any other drug When using this product take with food or milk if stomach upset occurs the risk of heart attack or stroke may increase if you use more than directed or for longer than directed Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint have bloody or black stools vomit blood have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to any other pain reliever/fever reducer right before or after heart surgery
+ask_doctor:
+  Ask a doctor before use if the stomach bleeding warning applies to you you have problems or serious side effects from taking pain relievers or fever reducers you have a history of stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, kidney disease or asthma you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are under a doctor's care for any serious condition taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin taking any other drug
+when_using:
+  When using this product take with food or milk if stomach upset occurs the risk of heart attack or stroke may increase if you use more than directed or for longer than directed
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: feel faint have bloody or black stools vomit blood have stomach pain that does not get better pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present in the painful area any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than directed the smallest effective dose should be used adults and children 12 years and over: take 1 capsule every 4 to 6 hours while symptoms persist if pain or fever does not respond to 1 capsule, 2 capsules may be used do not exceed 6 capsules in 24 hours, unless directed by a doctor children under 12 years: ask a doctor
+other_safety_information:
+  Other information each capsule contains: potassium 20 mg read all warnings and directions before use. store at 20° to 25°C (68° to 77°F) avoid excessive heat above 40°C (104°F). Protect from light.
+inactive_ingredient:
+  Inactive ingredients FD&C blue #1, gelatin, pharmaceutical ink, polyethylene glycol, potassium hydroxide, purified water, sorbitan, sorbitol
+questions:
+  Questions or comments? Call toll free 1-877-753-3935 Monday-Friday 9AM-5PM EST
+spl_unclassified_section:
+  Principal Display Panel Compare to Advil® Liqui-Gels® Active Ingredient** Ibuprofen Capsules, 200 mg Pain Reliever/Fever Reducer (NSAID) 200 Softgels** **Liquid filled capsules DO NOT USE IF TAMPER-EVIDENT SEAL UNDER BOTTLES CAP PRINTED WITH "SEAL FOR YOUR PROTECTION" IS BROKEN OR MISSING. †This product is not manufactured or distributed by Pfizer Consumer Healthcare, owner of the registered trademark Advil® Liqui-Gels®. DISTRIBUTED BY: SAM'S WEST, INC. BENTONVILLE,AR 72716
+package_label_principal_display_panel:
+  Product Label Member's Mark Ibuprofen Capsules, 200mg Solubilized ibuprofen equal to 200mg ibuprofen (NSAID)* (present as the free acid and potassium salt) *nonsteroidal anti-inflammatory drug
+set_id:
+  f51f243a-475c-47b7-948f-aaf45c19dd66
+id:
+  a3ac03fa-1b9d-4c9e-a02a-84bf8dd1b05f
+effective_time:
+  20191016
+version:
+  3
+openfda:

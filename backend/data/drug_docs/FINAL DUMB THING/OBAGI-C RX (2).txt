@@ -1,0 +1,29 @@
+effective_time:
+  20120102
+inactive_ingredient:
+  INACTIVE INGREDIENTS Arginine, Ascorbyl Glucoside (Vitamin C), Bisabolol, Butylparaben, Caprylic/Capric Triglyceride, Ceteareth-20, Cetearyl Alcohol, Dimethicone, Ethylparaben, Fragrance, Glycerin, Glyceryl Stearate, Glycolic Acid, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Isobutylparaben, Methylparaben, PEG/PPG-10/2 Ricinoleate, PEG-100 Stearate, PEG-8 Dimethicone, Phenoxyethanol, Polysorbate 60, Propylparaben, Purified Water, Sodium Hyaluronate (Hyaluronic Acid), Sodium Hydroxide, Squalane, Steareth-2, Tetrasodium EDTA, Tocopheryl Acetate (Vitamin E)
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  WARNINGS FOR EXTERNAL USE ONLY. Avoid contact with eyes. If contact occurs, rinse with water to remove. Stop use and consult a physician if rash or irritation develops. Keep out of reach of children.
+when_using:
+  Avoid contact with eyes. If contact occurs, rinse with water to remove.
+spl_product_data_elements:
+  OBAGI-C RX SYSTEM C-EXFOLIATING DAY with Vitamin C OCTISALATE, OCTINOXATE, and OXYBENZONE OCTISALATE OCTISALATE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE ISOBUTYLPARABEN STEARETH-2 ASCORBYL GLUCOSIDE LEVOMENOL GLYCERIN EDETATE DISODIUM ALPHA-TOCOPHEROL ACETATE DIMETHICONE ARGININE WATER METHYLPARABEN PROPYLPARABEN GLYCOLIC ACID SQUALANE MEDIUM-CHAIN TRIGLYCERIDES GLYCERYL MONOSTEARATE PEG-100 STEARATE CETOSTEARYL ALCOHOL POLYOXYL 20 CETOSTEARYL ETHER HYALURONATE SODIUM SODIUM HYDROXIDE PHENOXYETHANOL ETHYLPARABEN BUTYLPARABEN POLYSORBATE 60 PEG-8 DIMETHICONE PEG-8 RICINOLEATE
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS Apply to the face and neck in the morning after Obagi-C Rx System C-Clarifying Serum and before C-SunGuard SPF 30. Massage in gently.
+stop_use:
+  Stop use and consult a physician if rash or irritation develops.
+spl_unclassified_section:
+  Dist. by OMP Inc., Long Beach, CA 90802
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 57 mL Carton OBAGI-C™ RX SYSTEM C-EXFOLIATING DAY LOTION SPF 12 WITH VITAMIN C AM 2 FL. OZ. (57 mL) Principal Display Panel - 57 mL Carton
+set_id:
+  03b61684-2ce4-4ac8-bec8-1e47fe179e88
+id:
+  6c4ef21b-f06a-4a19-b667-5bea96e12ada
+active_ingredient:
+  ACTIVE INGREDIENTS Octinoxate 7.50%, Octisalate 5.00%, Oxybenzone 4.00%

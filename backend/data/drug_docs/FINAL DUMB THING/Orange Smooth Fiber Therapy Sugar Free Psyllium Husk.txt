@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Orange Smooth Fiber Therapy Sugar Free Psyllium Husk PSYLLIUM HUSK PSYLLIUM HUSK ASPARTAME ANHYDROUS CITRIC ACID FD&C Yellow No. 6 MALTODEXTRIN SILICON DIOXIDE Light Yellowish natural and artifcial
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient: (in each TEASPOON) Psyllium husk approximately 3.4 g
+purpose:
+  Purpose Bulk-forming Laxative
+indications_and_usage:
+  Uses: • for relief of occasional constipation (irregularity) • generally produces bowel movement in 12-72 hours
+warnings:
+  Warnings: Choking: Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking. Do not take this product if you have difficulty in swallowing. If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention. Allergy alert: This product may cause allergic reaction in people sensitive to inhaled or ingested psyllium. Ask a doctor before use if you have • a sudden change in bowel habits persisting for 2 weeks • abdominal pain, nausea or vomiting Stop use and ask a doctor if • constipation lasts more than 7 days • rectal bleeding occurs These may be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+ask_doctor:
+  Ask a doctor before use if you have • a sudden change in bowel habits persisting for 2 weeks • abdominal pain, nausea or vomiting
+stop_use:
+  Stop use and ask a doctor if • constipation lasts more than 7 days • rectal bleeding occurs These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+dosage_and_administration:
+  Directions: Put one dose into an empty glass. Mix this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid. Taking this product without enough liquid may cause choking. See choking warning. Stir briskly and drink promptly. If mixture thickens, add more liquid and stir. Adults & children 12 years & older: 1 rounded teaspoon in 8 ounces of liquid at the first sign of irregularity. Can be taken up to 3 times daily. Children 6-11 yrs : ½ adult dose in 8 ounces of liquid, up to 3 times daily Children under 6 yrs: Consult a doctor Bulk-forming fibers like psyllium husk may affect how well other medicines work. If you are taking a prescription medicine by mouth, take this product at least 2 hours before or 2 hours after the prescribed medicine. New Users: Start with 1 serving per day; gradually increased to desired daily intake. You may initially experience changes in bowel habits or minor bloating, as your body adjusts to increased fiber intake.
+dosage_and_administration_table:
+  <table width="100%"><col width="24%"/><col width="76%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">Adults &amp; children 12 years &amp; older:</content> </paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>1 rounded teaspoon in 8 ounces of liquid at the first sign of irregularity. Can be taken up to 3 times daily.</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph><content styleCode="bold">Children 6-11 yrs :</content></paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>&#xBD; adult dose in 8 ounces of liquid, up to 3 times daily</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph><content styleCode="bold">Children under 6 yrs:</content> </paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>Consult a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information: • each teaspoon contains: potassium 35 mg; sodium 5 mg • PHENYLKETONURICS: CONTAINS PHENYLALANINE, 25 mg per teaspoon • store at room temperature. Keep the container tightly closed to protect from humidity • contains a 100% natural, therapeutic fiber
+inactive_ingredient:
+  Inactive ingredients: aspartame, citric acid, FD&C Yellow No. 6, maltodextrin, natural and artificial orange flavor, silica. Questions or comments? 1-866-467-2748
+questions:
+  Questions or comments? 1-866-467-2748
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 55319-515-48 COMPARE TO THE FIBER CONTENT IN METAMUCIL ® 4 IN 1 MULTIHEALTH FIBER!™* FAMILY Wellness™ FIBER Therapy 100% NATURAL PSYLLIUM HUSK DAILY FIBER SUPPLEMENT • Helps you feel less hungry between meals** • Helps maintain healthy blood sugar levels as part of your diet ** • Helps lower cholesterol to promote heart health† • Promotes digestive health ** • Gluten free SUGAR FREE not a low calorie food ORANGE SMOOTH NATURALLY AND ARTIFICIALLY FLAVORED 48 Teaspoon ‡ Doses NET WT 10 OZ (283 g) FILL CONTROLLED BY WEIGHT, NOT VOLUME K PAREVE ‡ Serving size varies See DIRECTIONS on back panel for more information †See back for information about soluble fiber and heart disease. 100% SATISFACTION GURANTEED or YOUR MONEY BACK **THESE STATEMENTS HAVE NOT BEEN EVALUATED BY THE FOOD AND DRUG ADMINISTRATION. THIS PRODUCT IS NOT INTENDED TO DIAGNOSE, TREAT, CURE OR PREVENT ANY DISEASE. DO NOT USE IF PRINTED INNER SEAL IS BROKEN OR MISSING *This product is not manufactured or distributed by Procter & Gamble, the distributor of Metamucil ® 4 in 1 MultiHealth Fiber!™. GLUTEN FREE if you have specific dietary needs, you should consult your doctor before consuming this product. This product has a low glycemic index, a measure of the effect of dietary carbohydrates on blood sugar levels. DISTRIBUTED BY: MIDWOOD BRANDS, LLC 500 VOLVO PARKWAY, CHASAPEAKE, VA 23320 USA Family Wellness Fiber Therapy Orange Smooth
+package_label_principal_display_panel_table:
+  <table width="100%"><col width="100%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">**THESE STATEMENTS HAVE NOT BEEN EVALUATED BY THE FOOD AND DRUG ADMINISTRATION. THIS PRODUCT IS NOT INTENDED TO DIAGNOSE, TREAT, CURE OR PREVENT ANY DISEASE.</content></paragraph></td></tr></tbody></table>
+set_id:
+  7430471d-2ce9-4c13-9c0a-0550f110bfe9
+id:
+  290725d8-70de-4149-8ce3-404b0ecc7b53
+effective_time:
+  20210824
+version:
+  3
+openfda:

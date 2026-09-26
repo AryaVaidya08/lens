@@ -1,0 +1,35 @@
+effective_time:
+  20200427
+inactive_ingredient:
+  Inactive ingredients Purified water (aqua), Triethanolamine, Carbomer, Sodium hyaluronate.
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable. Keep away from heat or flame. For external use only.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  Covclean 75% Ethyl Alcohol Hand Sanitizer 75% Alcohol Hand Sanitizer TROLAMINE WATER ALCOHOL ALCOHOL HYALURONATE SODIUM CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Take an appropriate amount (2-3ml) of the product to moisten your hands and rub for a minute until the liquid covers your hands, wait for drying. (For children under 6 use only under adult supervision)
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears or lasts.
+storage_and_handling:
+  Other information Store below 110℉ (43℃). May discolor certain fabrics or surfaces.
+do_not_use:
+  Do not use Do not use if allergic to ethanol.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 080
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use.
+set_id:
+  a44010db-446d-6db4-e053-2a95a90a0188
+id:
+  a44010db-446e-6db4-e053-2a95a90a0188
+active_ingredient:
+  Active Ingredient(s) Enthyl alcohol 75% v/v. Purpose: Antimicrobial

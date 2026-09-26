@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  You Relief Muscle and Joint Rub MENTHOL ACHILLEA MILLEFOLIUM ALOE VERA LEAF WATER ARNICA MONTANA YELLOW WAX BIXA ORELLANA SEED INDIAN FRANKINCENSE CALENDULA OFFICINALIS FLOWER MEDIUM-CHAIN TRIGLYCERIDES CETEARYL OLIVATE CETYL MYRISTOLEATE TURMERIC DIMETHYL SULFONE EMU OIL GLUCONOLACTONE GLUCOSAMINE HYDROCHLORIDE GLYCERIN GLYCERYL STEARATE SE HARPAGOPHYTUM PROCUMBENS ROOT SUNFLOWER OIL ILEX PARAGUARIENSIS LEAF MAGNESIUM SULFATE, UNSPECIFIED SCUTELLARIA BAICALENSIS ROOT SODIUM BENZOATE SORBITAN OLIVATE STEARIC ACID .ALPHA.-TOCOPHEROL ACETATE XANTHAN GUM MENTHOL MENTHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Menthol 1.25% Purpose Topical pain relief
+purpose:
+  Purpose Topical pain relief
+indications_and_usage:
+  Indications For the temporary relief of minor aches and pains of the muscles and joints associated with simple backache, arthritis, strains, bruises and sprains.
+warnings:
+  Warnings For external use only. Avoid contact with eyes. If symptoms persist for more than seven days, discontinue use and consult physician. Keep out of reach of children. If swallowed, consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly. If pregnant or breast feeding, contact physician prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, consult physician.
+do_not_use:
+  Do not apply to wounds or damaged skin. Do not bandage tightly.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, contact physician prior to use.
+dosage_and_administration:
+  Directions • Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. • Children under two-years of age: consult a physician.
+inactive_ingredient:
+  Inactive ingredients achillea millefolium (yarrow) extract, aloe barbadensis (aloe vera gel) juice, aqua (deionized water), arnica montana (arnica) extract, beeswax, bixa orellana (annatto) seed extract, boswellia serrata extract, calendula officinalis (marigold) flower extract, caprylic/capric triglyceride, cetearyl olivate, cetyl myristoleate, chondroitin sulfate, curcuma longa (turmeric) extract, dimethyl sulfone (msm), emu oil, gluconolactone, glucosamine hcl, glycerin, glyceryl stearate se, harpagophytum procumbens (devil's claw) root extract, helianthus annuus (sunflower) seed oil, ilex paraguariensis (yerba mate) leaf extract, magnesium sulfate, scutellaria baicalensis (baikal skullcap) root extract, sodium benzoate, sorbitan olivate, stearic acid, tocopheryl acetate (vitamin e), xanthan gum, yucca aloifolia extract.
+package_label_principal_display_panel:
+  Package Labeling: Label2
+set_id:
+  759cabb4-04b1-4c0c-987c-c07e2e281abf
+id:
+  071b7fc3-37e3-2212-e063-6394a90ac38f
+effective_time:
+  20231007
+version:
+  6
+openfda:

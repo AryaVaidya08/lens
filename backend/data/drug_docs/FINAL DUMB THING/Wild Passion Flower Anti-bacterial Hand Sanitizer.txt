@@ -1,0 +1,35 @@
+effective_time:
+  20170120
+inactive_ingredient:
+  Inactive Ingredients Water, Phenoxyethanol, Fragrance, Carbomer, Sodium Hydroxide, DMDM Hydantoin, FD&C Blue No.1, D&C Red No. 33, FD&C Yellow No. 5
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of contact, flush eyes thoroughly with water. Flammable. Keep away from heat or flame. Stop and ask doctor if irritation or redness develop. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of contact, flush eyes thoroughly with water.
+spl_product_data_elements:
+  Wild Passion Flower Anti-bacterial Hand Sanitizer ALCOHOL WATER PHENOXYETHANOL SODIUM HYDROXIDE DMDM HYDANTOIN FD&C BLUE NO. 1 FD&C YELLOW NO. 5 D&C RED NO. 33 ALCOHOL ALCOHOL
+other_safety_information:
+  Flammable. Keep away from heat or flame.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hand thoroughly with product and allow to dry without wiping. Children under 6 years of age should be supervised when using this product.
+stop_use:
+  Stop and ask doctor if irritation or redness develop.
+storage_and_handling:
+  Other information Do not store above 104 F(40 C) May discolor certain fabrics or surfaces.
+package_label_principal_display_panel:
+  Package Label label
+indications_and_usage:
+  Uses Hand sanitizer to decrease bacteria on the skin.
+set_id:
+  e8add758-4568-4f40-adf1-e9cc791d9546
+id:
+  468daf0d-b6a6-59f1-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 65%

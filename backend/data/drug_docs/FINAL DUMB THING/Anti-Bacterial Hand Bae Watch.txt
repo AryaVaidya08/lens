@@ -1,0 +1,31 @@
+effective_time:
+  20171129
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Isopropyl Alcohol, Fragrance (Parfum), Cocos Nucifera (Coconut) Fruit Extract, Olea Europaea (Olive) Fruit Extract, Elaeis Guineensis (Palm) Extract, Honey Extract (Mel, Extrait de miel), Aloe Barbadensis Leaf Juice, Retinyl Palmitate, Tocopheryl Acetate, Wheat Amino Acids, Glycerin, Carbomer, Lactose, Aminomethyl Propanol, Isopropyl Myristate, Cellulose, Propylene Glycol, Hydroxyethyl Urea, Hydroxypropyl Methylcellulose, Ultramarines (CI 77007), Blue 1 (CI 42090), Red 33 (CI 17200).
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only . When using this product keep out of eyes. Stop use and ask a doctor if irritation or redness develops.
+spl_product_data_elements:
+  Anti-Bacterial Hand Bae Watch ALCOHOL ALCOHOL ALCOHOL WATER
+warnings_and_cautions:
+  FLAMMABLE Keep away from flame or high heat.
+openfda:
+version:
+  4
+dosage_and_administration:
+  DIRECTIONS Rub a dime sized drop into hands.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr. Reynoldsburg, Ohio 43068 1-800-395-1001 www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING AB HG Bae Watch
+indications_and_usage:
+  USE Decrease bacteria on hands.
+set_id:
+  f9525e95-35cd-4d77-86e2-b7adbbe283b0
+id:
+  96dff49b-9761-4833-bfb7-8302032890c4
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 68%

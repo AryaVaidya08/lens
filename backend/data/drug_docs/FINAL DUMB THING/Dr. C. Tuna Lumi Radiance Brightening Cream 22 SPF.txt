@@ -1,0 +1,50 @@
+spl_product_data_elements:
+  Dr. C. Tuna Lumi Radiance Brightening Cream 22 SPF OCTOCRYLENE, OCTINOXATE, AVOBENZONE Dr. C. Tuna Lumi Radiance Brightening Cream 22 SPF OCTOCRYLENE, OCTINOXATE, AVOBENZONE WATER CETOSTEARYL ALCOHOL STEARIC ACID MINERAL OIL ISOPROPYL MYRISTATE GLYCERIN TITANIUM DIOXIDE POLYOXYL 20 CETOSTEARYL ETHER CETEARETH-12 CETYL PALMITATE GLYCERYL MONOSTEARATE BUTYLENE GLYCOL SILICON DIOXIDE DIMETHICONE PHENOXYETHANOL NIACINAMIDE TROLAMINE ETHYLHEXYLGLYCERIN .ALPHA.-TOCOPHEROL ACETATE OCTOCRYLENE OCTOCRYLENE OCTINOXATE OCTINOXATE AVOBENZONE AVOBENZONE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  ACTIVE INGREDIENT Octocrylene 5.5% Ethylhexyl Methoxycinnamate 6% Butyl Methoxydibenzoylmethane 2% PURPOSE Sunscreen
+purpose:
+  PURPOSE Sunscreen
+indications_and_usage:
+  USE Helps maintain bright skins and balance uneven skin tone with regular use.
+warnings:
+  WARNINGS For external use only. Avoid contact with eyes. If contact occurs rinse thoroughly with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Recommended to use twice a day.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water/Aqua, Cetearyl Alcohol, Stearic Acid, Mineral Oil / Paraffinum Liquidum, Isopropyl Myristate, Glycerin, Titanium Dioxide, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Glyceryl Stearate, Butylene Glycol, Silica, Ammonium Polyacrylate, Hydrolyzed Algae Extract, Pancratium Maritimum Extract, Dimethicone, Phenoxyethanol, Fragrance / Parfum, Niacinamide, Triethanolamine, Ethylhexylglycerin, Tocopheryl Acetate.
+package_label_principal_display_panel:
+  Package Labeling: Label2
+set_id:
+  de493e30-d10e-9def-e053-2995a90ae49a
+id:
+  09735b00-e2b5-ab1f-e063-6294a90a81ea
+effective_time:
+  20231105
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Dr. C. Tuna Lumi Radiance Brightening Cream 22 SPF
+  generic_name:
+    OCTOCRYLENE, OCTINOXATE, AVOBENZONE
+  manufacturer_name:
+    Farmasi US LLC
+  product_ndc:
+    74690-023
+  product_type:
+    HUMAN OTC DRUG
+  spl_id:
+    09735b00-e2b5-ab1f-e063-6294a90a81ea
+  spl_set_id:
+    de493e30-d10e-9def-e053-2995a90ae49a
+  package_ndc:
+    74690-023-00
+    74690-024-00
+  is_original_packager:
+    True

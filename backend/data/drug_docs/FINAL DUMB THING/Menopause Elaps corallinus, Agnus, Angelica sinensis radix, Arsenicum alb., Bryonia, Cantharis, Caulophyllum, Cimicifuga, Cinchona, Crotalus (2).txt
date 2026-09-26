@@ -1,0 +1,31 @@
+effective_time:
+  20110301
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane dispensing alcohol 20%.
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with menopause such as hot flashes, decreased libido, insomnia, mood swings, discomfort and fatigue.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children.
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Menopause Elaps corallinus, Agnus, Angelica sinensis radix, Arsenicum alb., Bryonia, Cantharis, Caulophyllum, Cimicifuga, Cinchona, Crotalus horridus, Damiana, Glonoinum, Helonias dioica, Ignatia, Kali carb., Lachesis, Naja, Nux vom., Phosphorus, Pulsatilla, Salix nigra, Sanguinaria, Sepia, Echinacea, Valeriana Micrurus Corallinus Venom Micrurus Corallinus Venom Chaste Tree Chaste Tree Angelica Sinensis Root Angelica Sinensis Root Arsenic Trioxide Arsenic Cation (3+) Bryonia Alba Root Bryonia Alba Root Lytta Vesicatoria Lytta Vesicatoria Caulophyllum Thalictroides Root Caulophyllum Thalictroides Root Black Cohosh Black Cohosh Cinchona Officinalis Bark Cinchona Officinalis Bark Crotalus Horridus Horridus Venom Crotalus Horridus Horridus Venom Turnera Diffusa Leafy Twig Turnera Diffusa Leafy Twig Nitroglycerin Nitroglycerin Chamaelirium Luteum Root Chamaelirium Luteum Root Strychnos Ignatii Seed Strychnos Ignatii Seed Potassium Carbonate Carbonate Ion Lachesis Muta Venom Lachesis Muta Venom Naja Naja Venom Naja Naja Venom Strychnos Nux-vomica Seed Strychnos Nux-vomica Seed Phosphorus Phosphorus Pulsatilla Vulgaris Pulsatilla Vulgaris Salix Nigra Bark Salix Nigra Bark Sanguinaria Canadensis Root Sanguinaria Canadensis Root Sepia Officinalis Juice Sepia Officinalis Juice Echinacea, Unspecified Echinacea, Unspecified Valerian Valerian Alcohol PACKAGE LABEL
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: ORAL USE ONLY - SHAKE WELL. Adults, take 6 drops orally one to four times daily or as directed by a healthcare professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Menopause Formulated for symptoms associated with menopause such as hot flashes, decreased libido, insomnia, mood swings, discomfort and fatigue.
+set_id:
+  b6d4e669-866c-97e7-40a2-f970d6676b12
+id:
+  e61c2a0b-f1ff-3747-81a2-21bb534af2a0
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Elaps corallinus 30x, Agnus 10x, Angelica sinensis radix 10x, Arsenicum alb. 10x, Bryonia 10x, Cantharis 10x, Caulophyllum 10x, Cimicifuga 10x, Cinchona 10x, Crotalus horridus 10x, Damiana 10x, Glonoinum 10x, Helonias dioica 10x, Ignatia 10x, Kali carb. 10x, Lachesis 10x, Naja 10x, Nux vom.10x, Phosphorus 10x, Pulsatilla 10x, Salix nigra 10x, Sanguinaria 10x, Sepia 10x, Echinacea 3x, Valeriana 3x.

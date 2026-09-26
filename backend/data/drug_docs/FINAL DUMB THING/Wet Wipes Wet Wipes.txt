@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Wet Wipes Wet Wipes WATER PYRITHIONE SODIUM CHLORPHENESIN BENZETHONIUM CHLORIDE BENZETHONIUM CETYLPYRIDINIUM CHLORIDE ANHYDROUS PHENOXYETHANOL PROPYLENE GLYCOL ETHYLHEXYLGLYCERIN
+indications_and_usage:
+  Uses 1.Hand sanitizer to help reducebacteria on the skin. 2.For use when soap and water are not available.
+warnings:
+  For external use only. Flammable.Keep away from heat or flame.
+do_not_use:
+  Do not use on open skin wounds. Do not use in children less than 2months of age.
+when_using:
+  When using this product, keep out of reach of eyes and mouth. In case of contact with eyes,rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor irritation or rash occours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. lf swallowed,get medical help,or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions 1.open resealable label and pull one sheet from pack. 2.Thoroughly clean hands or affected area and discard in receptacle.Do not flush. 3.Allow to dry without wiping. 4.Be sure to reseal label completely to retain moisture.
+how_supplied:
+  Other Information Store at room temperature.
+inactive_ingredient:
+  Water,Benzethonium chloride,Cetylpyridinium chloride anhydrous, Chlorphenesin,Propylene glycol,Phenoxyethanol,Ethylhexylglycerin, Pyrithione Sodium
+active_ingredient:
+  Benzethonium chloride
+purpose:
+  Antiseptic
+package_label_principal_display_panel:
+  label
+set_id:
+  b359c5cd-631c-5b8a-e053-2a95a90a32f6
+id:
+  b359c5cd-631d-5b8a-e053-2a95a90a32f6
+effective_time:
+  20201105
+version:
+  1
+openfda:

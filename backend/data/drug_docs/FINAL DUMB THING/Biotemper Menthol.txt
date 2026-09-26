@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Biotemper Menthol PROPYLENE GLYCOL ARNICA MONTANA THYMOL .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF CAMPHOR (NATURAL) MENTHOL MENTHOL HYDROXYPROPYL CELLULOSE, UNSPECIFIED ISOPROPYL ALCOHOL TEA TREE OIL BOSWELLIA SACRA BARK FRANKINCENSE OIL GREEN TEA LEAF LAVENDER OIL Opaque Biotemper Foot Cream Menthol PROPYLENE GLYCOL ARNICA MONTANA THYMOL .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF CAMPHOR (NATURAL) MENTHOL MENTHOL HYDROXYPROPYL CELLULOSE, UNSPECIFIED ISOPROPYL ALCOHOL TEA TREE OIL BOSWELLIA SACRA BARK FRANKINCENSE OIL GREEN TEA LEAF LAVENDER OIL WATER POLYSORBATE 60 Opaque
+package_label_principal_display_panel:
+  Label Menthol 10%.......................Topical Analgesic TOPICAL ANALGESIC WITH 10% MENTHOL FOR ARTHRITIS, SPRAINS, SORE MUSCLES, BRUISES, & BACK PAIN FAST ACTING COOLING PAIN RELIEF FOR EXTERNAL USE ONLY KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY Adults & children 2 yrs of age and older: Apply to affected area not more than 4 times daily. Children under 2 years of age, consult a physician. Massage not necessary. Shake well before use. Aloe Vera Oil, Arnica Flower Tincture, Boswellia Powder, Camphor, Frankincense Oil, Green Tea, Hydroxypropyl Cellulose NF, Isopropyl Alcohol, Lavender Oil, Propylene Glycol, Tea Tree Oil, Thymol, Vitamin E. Store in a cool and dry place with lid closed
+  Label
+active_ingredient:
+  Menthol 10%.......................Topical Analgesic
+purpose:
+  TOPICAL ANALGESIC WITH 10% MENTHOL
+indications_and_usage:
+  FOR ARTHRITIS, SPRAINS, SORE MUSCLES, BRUISES, & BACK PAIN FAST ACTING COOLING PAIN RELIEF
+warnings:
+  FOR EXTERNAL USE ONLY
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. IF SWALLOWED, GET MEDICAL HELP OR CONTACT A POISON CONTROL CENTER RIGHT AWAY
+dosage_and_administration:
+  Adults & children 2 yrs of age and older: Apply to affected area not more than 4 times daily. Children under 2 years of age, consult a physician. Massage not necessary. Shake well before use.
+inactive_ingredient:
+  Aloe Vera Oil, Arnica Flower Tincture, Boswellia Powder, Camphor, Frankincense Oil, Green Tea, Hydroxypropyl Cellulose NF, Isopropyl Alcohol, Lavender Oil, Propylene Glycol, Tea Tree Oil, Thymol, Vitamin E.
+other_safety_information:
+  Store in a cool and dry place with lid closed
+set_id:
+  c0808c11-50ac-6536-e053-2995a90a886f
+id:
+  c0808c11-50ad-6536-e053-2995a90a886f
+effective_time:
+  20210421
+version:
+  1
+openfda:

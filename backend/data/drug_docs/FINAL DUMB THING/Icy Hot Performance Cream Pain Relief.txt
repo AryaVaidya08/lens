@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Icy Hot Performance Cream Pain Relief Menthol 16%, Camphor 11% MENTHOL MENTHOL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) 4-T-BUTYLCYCLOHEXANOL ALCOHOL ALLANTOIN ALOE BARBADENSIS LEAF JUICE CETYL ALCOHOL CITRUS PARADISI (GRAPEFRUIT) PEEL OIL FARNESOL GLYCERYL STEARATE MENTHA PIPERITA (PEPPERMINT) OIL MENTHA VIRIDIS (SPEARMINT) LEAF OIL PENTYLENE GLYCOL PROPANEDIOL POTASSIUM HYDROXIDE STEARETH-21 STEARIC ACID WATER
+spl_unclassified_section:
+  Icy Hot Performance Pain Relief Cream Drug Facts
+active_ingredient:
+  Active ingredient s
+purpose:
+  Purpose Camphor 11% ……………………………………………………………………………………Topical analgesic Menthol 16% ………………..……………………………………………………………………Topical analgesic
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains of muscles and joints associated with: arthritis simple backache strains sprains bruises
+warnings:
+  Warnings For external use only Do not use on wounds or on irritated or damaged skin with a heating pad When using this product use only as directed do not bandage tightly avoid contact with eyes and mucous membranes do not expose the area to local heat or direct sunlight rare cases of serious burns have been reported with products of this type a transient burning sensation may occur upon application but generally disappears in several days avoid applying into skin folds Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days redness is present or excessive skin irritation occurs you experience severe burning pain, swelling, or blistering where the product was applied If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on wounds or on irritated or damaged skin with a heating pad
+when_using:
+  When using this product use only as directed do not bandage tightly avoid contact with eyes and mucous membranes do not expose the area to local heat or direct sunlight rare cases of serious burns have been reported with products of this type a transient burning sensation may occur upon application but generally disappears in several days avoid applying into skin folds
+stop_use:
+  Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days redness is present or excessive skin irritation occurs you experience severe burning pain, swelling, or blistering where the product was applied
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years of age and older: apply a thin layer to affected area not more than 3 to 4 times daily massage until thoroughly absorbed into skin if product unintentionally gets on hands, wash hands thoroughly with soap and water after each use children under 12 years of age: ask a doctor
+inactive_ingredient:
+  Inactive ingredients 4-t-butylcyclohexanol, acrylates/C10-30 alkyl acrylate crosspolymer, alcohol denat., allantoin, aloe barbadensis leaf juice, cetyl alcohol, citrus paradisi (grapefruit) peel oil, farnesol, fragrance, glyceryl stearate, mentha piperita (peppermint) oil, mentha viridis (spearmint) leaf oil, pentylene glycol, propanediol, potassium hydroxide, steareth-21, stearic acid, water
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL ICY HOT PERFORMANCE CREAM PAIN RELIEF PRINCIPAL DISPLAY PANEL ICY HOT PERFORMANCE CREAM PAIN RELIEF
+set_id:
+  73f7a113-ef11-4932-bf4d-4e62863f7941
+id:
+  994ed274-b6f6-420b-9d03-d22536a85405
+effective_time:
+  20260723
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Icy Hot Performance Cream Pain Relief
+  generic_name:
+    MENTHOL 16%, CAMPHOR 11%
+  manufacturer_name:
+    Chattem, Inc.
+  product_ndc:
+    41167-0803
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+    CAMPHOR (SYNTHETIC)
+  rxcui:
+    1373219
+  spl_id:
+    994ed274-b6f6-420b-9d03-d22536a85405
+  spl_set_id:
+    73f7a113-ef11-4932-bf4d-4e62863f7941
+  package_ndc:
+    41167-0803-2
+    41167-0803-0
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A
+    5TJD82A1ET

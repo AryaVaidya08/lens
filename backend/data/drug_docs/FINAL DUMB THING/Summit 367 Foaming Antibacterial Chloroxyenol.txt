@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Summit 367 Foaming Antibacterial Chloroxyenol CHLOROXYLENOL CHLOROXYLENOL ALOE ALPHA-TOCOPHEROL ACETATE LAURIC DIETHANOLAMIDE SODIUM CUMENESULFONATE PROPYLENE GLYCOL CITRIC ACID MONOHYDRATE SODIUM LAURYL SULFATE COCAMIDE COCAMIDOPROPYL BETAINE WATER SODIUM LAURETH SULFATE
+spl_unclassified_section:
+  Summit 367 Foaming Antibacterial Hand Soap Drug Facts
+active_ingredient:
+  Active Ingredients Chloroxylenol 0.3%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Uses Hand wash to decrease bacteria on the skin Recommended for repeated use.
+warnings:
+  Warnings For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thorooughly with water. Stop use Stop use and ask a doctor if irritation or rash appears and lasts more than 72 hours. Keep out of reach of children. Keep out of reach of children . I swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thorooughly with water.
+stop_use:
+  Stop use Stop use and ask a doctor if irritation or rash appears and lasts more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children . I swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands for 15 seconds. Rinse with potable water.
+inactive_ingredient:
+  Inactive Ingredients Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Lauramide DEA, Cocamide, Cocamidopropyl Betaine, Sodium Cumenesulfonate, Propylene Glycol, Citric Acid, Aloe, Tocopheryl Acitate, Fragrance, and Water,
+package_label_principal_display_panel:
+  Principal Display Panel Label Label
+set_id:
+  c262c783-f946-5fbb-e053-2995a90adf90
+id:
+  e354d01d-253c-ae73-e053-2995a90a7a18
+effective_time:
+  20220708
+version:
+  2
+openfda:

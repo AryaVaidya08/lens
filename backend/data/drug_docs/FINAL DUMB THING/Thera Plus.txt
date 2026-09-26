@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Thera Plus Hydrocortisone ALOE VERA LEAF GLYCERIN GLYCERYL MONOSTEARATE METHYLPARABEN MINERAL OIL PETROLATUM PROPYLPARABEN SODIUM LAURYL SULFATE STEARYL ALCOHOL WATER HYDROCORTISONE HYDROCORTISONE
+inactive_ingredient:
+  aloe barbadensis leaf extract, glycerin, glyceral stearate, methylparaben, mineral oil, petrolatum, propylparaben, sodium lauryl sulfate, stearyl alcohol, water Inactive Ingredients
+active_ingredient:
+  Active Ingredient Hydrocortisone, USP 1%
+purpose:
+  Purpose Anti-itch
+indications_and_usage:
+  - for temporary relief of itching associated with minor skin irritations,inflammation and rashes due to: Uses - eczema -insect bites -poison ivy -poison oak -poison sumac -soaps -jewelry -detergents -cosmetics -psoriasis -seborrheic dermatisis -for external genital, feminine and anal itching -other uses of this product should be only under the advice and supervision of a doctor
+keep_out_of_reach_of_children:
+  . If swallowed, get medical help or contact a Poison Control Center right away. Keep out of reach of children
+warnings:
+  Warnings for external use only
+stop_use:
+  Do not use -in genital area if you have a vaginal discharge. Consult a doctor -for the treatment of diaper rash. Consult a doctor Stop use and ask a doctor if -symptoms last for more than 7 days -the condition gets worse -symptoms clear up and then occur again within a few days -rectal bleeding occurs
+when_using:
+  When using this product -avoid contact with eyes -do not use more than directed unless directed by a doctor -do not put this product into the rectum by using fingers or any other mechanical device or applicator
+dosage_and_administration:
+  Directions for itching of skin irritation, inflammation and rashes: -adults and children 2 years of age and older: apply to the affected areanot more than 3 to 4 times dailt -for children udner 2 years of age: ask a doctor for external anal and genital itching, adults: -clean the affected area with mild soap and warm water and rinse clean. -dry the affected area before applying -apply to the affected area not mroe than 3 to 4 times daily -children under 12 years of age: ask a doctor
+package_label_principal_display_panel:
+  copy of label
+set_id:
+  bcc99e5a-2403-46da-9c9d-8411fa4104e0
+id:
+  08849eb4-ae6b-8151-e063-6394a90a5a7e
+effective_time:
+  20231025
+version:
+  7
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Thera Plus
+  generic_name:
+    HYDROCORTISONE
+  manufacturer_name:
+    Zhejiang Jingwei Pharmaceutical Co., Ltd.
+  product_ndc:
+    55621-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HYDROCORTISONE
+  rxcui:
+    106258
+  spl_id:
+    08849eb4-ae6b-8151-e063-6394a90a5a7e
+  spl_set_id:
+    bcc99e5a-2403-46da-9c9d-8411fa4104e0
+  package_ndc:
+    55621-001-01
+  is_original_packager:
+    True
+  upc:
+    0049696605243
+  nui:
+    N0000175576
+    N0000175450
+  pharm_class_epc:
+    Corticosteroid [EPC]
+  pharm_class_moa:
+    Corticosteroid Hormone Receptor Agonists [MoA]
+  unii:
+    WI4X0X7BPJ

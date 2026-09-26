@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Alcohol Antiseptic 80% Alcohol Antiseptic 80% ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER
+active_ingredient:
+  ACTIVE INGREDIENT(S) Alcohol 80% v/v
+purpose:
+  PURPOSE Antiseptic
+indications_and_usage:
+  USE(S) Health care personnel hand rub to help reduce bacteria that potentially causes disease.
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame.
+do_not_use:
+  DO NOT USE in children less than 2 months of age on open skin wounds
+when_using:
+  WHEN USING THIS PRODUCT When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water.
+stop_use:
+  STOP USE AND ASK DOCTOR IF Stop using and ask doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  OTHER INFORMATION Store between 15-30 o C (59-86 o F) Avoid freezing and excessive heat above 40 o C (104 o F)
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION glycerin, hydrogen peroxide, purified water USP
+spl_unclassified_section:
+  QUESTIONS OR COMMENTS Call 1-855-274-4122
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL AUROHEALTH NDC 58602-004-38 Alcohol Aniseptic 80% Topical Solution Antiseptic Hand Rub Non-sterile Solution 128 OZ (3785 mL) alcohol
+set_id:
+  f19dea61-6d4a-463b-bbc6-2e7ca7c2759d
+id:
+  f19dea61-6d4a-463b-bbc6-2e7ca7c2759d
+effective_time:
+  20200625
+version:
+  1
+openfda:

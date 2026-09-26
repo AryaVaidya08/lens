@@ -1,0 +1,29 @@
+effective_time:
+  20140704
+inactive_ingredient:
+  Inactive ingredients Benzophenone-4, Carbomer, Fragrance, FDC Blue 1, DC Red 33, Glycerin, PEG-40 Hydrogenated Castor Oil, Propylene Glycol, Tocopherol and Jojoba Oil, Triethanolamine, Water (Aqua)
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed contact a doctor or Poison Control Center immediately.
+warnings:
+  Warnings For external use only Flammable, keep away from fire and flame Does not contain grain alcohol. Do not drink. If taken internally will produce serious gastric disturbances Avoid the eyes and mucous membranes. In case of contact; rinse area thoroughly with water
+spl_product_data_elements:
+  anti bacterial hand sanitizer Ethyl Alcohol ALCOHOL ALCOHOL SULISOBENZONE FD&C BLUE NO. 1 D&C RED NO. 33 GLYCERIN POLYOXYL 40 HYDROGENATED CASTOR OIL PROPYLENE GLYCOL TOCOPHEROL JOJOBA OIL TROLAMINE WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Rub dime sized amount between hands until dry
+spl_unclassified_section:
+  Other Information Store below 105F May discolor some fabrics
+package_label_principal_display_panel:
+  Package Label image of package label
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin
+set_id:
+  bb3868fd-3cb0-47e6-aeb1-39bedda367f6
+id:
+  589503f4-50c9-4b36-8962-24600cf5e53e
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62%

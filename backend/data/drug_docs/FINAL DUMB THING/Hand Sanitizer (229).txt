@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL CARBOMER 940 GLYCERIN WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from heat or flame. For external use only.
+when_using:
+  When using this product do not use near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Put enough product in youe palm to cover hands and rub hands together until dry. Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information Store below 110F (43C) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Water/Aqua, Glycerin, Carbomer, Aminomethyl Propanol, Aloe Barbadensis Leaf Juice.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 2mL NDC: 80681-003-01 Label_80681003-01
+set_id:
+  b2e83c1e-f133-70a0-e053-2995a90ad3a8
+id:
+  f45da451-16b8-6b35-e053-2a95a90aa799
+effective_time:
+  20230210
+version:
+  2
+openfda:

@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Ashley Belle Moisturizing Hand Sanitizer Sweet Mint Splash ALCOHOL WATER GLYCERIN ALOE VERA LEAF JUICE DENATONIUM BENZOATE EUCALYPTUS OIL ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information • Do not store above 110°F (43°C) • May discolor certain fabrics or surfaces • Harmful to wood finishes and plastics • Keep away from heat and direct sunlight.
+active_ingredient:
+  Active ingredients Ethyl alcohol 70% v/v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses • Hand sanitizer to help reduce bacteria on the skin that could cause disease • Recommended for repeated use.
+warnings:
+  Warnings Highly Flammable. Keep away from fire or flame. For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Wet hands thoroughly with product and allow to dry without wiping • For children under 6, do not use without adult supervision •Not recommended for infants.
+inactive_ingredient:
+  Inactive inaredients Water (Aqua), Glycerin, Aloe Barbadensis Leaf Juice, Fragrance, Denatonium Benzoate, Eucalyptus Globulus Leaf Oil.
+questions:
+  Questions/Comments? Call toll-free: 1-877-879-6999 or email at info@amgbrandsllc.com
+package_label_principal_display_panel:
+  Package Labeling: Label9
+set_id:
+  1d1b0435-f6d8-4fe2-83f0-b6943ce924f8
+id:
+  52e6d705-148f-2c8b-e063-6394a90a6e08
+effective_time:
+  20260528
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Ashley Belle Moisturizing Hand Sanitizer Sweet Mint Splash
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    My Imports Usa, LLC
+  product_ndc:
+    51628-0047
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1041849
+  spl_id:
+    52e6d705-148f-2c8b-e063-6394a90a6e08
+  spl_set_id:
+    1d1b0435-f6d8-4fe2-83f0-b6943ce924f8
+  package_ndc:
+    51628-0047-1
+  is_original_packager:
+    True
+  upc:
+    0850073999653
+  unii:
+    3K9958V90M

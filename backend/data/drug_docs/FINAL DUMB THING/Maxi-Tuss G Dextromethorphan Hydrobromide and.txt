@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Maxi-Tuss G Dextromethorphan Hydrobromide and GUAIFENESIN Dextromethorphan Hydrobromide DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CITRIC ACID MONOHYDRATE Methylparaben AMMONIUM GLYCYRRHIZATE Potassium Citrate Propylparaben Propylene Glycol WATER Sorbitol Sucralose
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients (in each 5 mL teaspoonful) Purpose Dextromethorphan HBr 10 mg Cough Suppressant Guaifenesin 100 mg Expectorant
+active_ingredient_table:
+  <table width="50%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active Ingredients (in each 5 mL teaspoonful)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough Suppressant</td></tr><tr><td>Guaifenesin 100 mg</td><td>Expectorant</td></tr></tbody></table>
+purpose:
+  Active Ingredients (in each 5 mL teaspoonful) Purpose Dextromethorphan HBr 10 mg Cough Suppressant Guaifenesin 100 mg Expectorant
+purpose_table:
+  <table width="50%"><col width="70%" align="left" valign="top"/><col width="30%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active Ingredients (in each 5 mL teaspoonful)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Dextromethorphan HBr 10 mg</td><td>Cough Suppressant</td></tr><tr><td>Guaifenesin 100 mg</td><td>Expectorant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately.
+do_not_use:
+  Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. Adults and children 12 years of age and over: 2 teaspoonfuls (10 mL) every 4 hours, not to exceed 12 teaspoonfuls in 24 hours or as directed by a doctor Children 6 to under 12 years of age: 1 teaspoonful (5 mL) every 4 hours, not to exceed 6 teaspoonfuls in 24 hours or as directed by a doctor Children under 6 years of age: Consult a physician
+dosage_and_administration_table:
+  <table width="60%" styleCode="Noautorules"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Toprule Rrule">Adults and children 12 years of age and over:</td><td styleCode="Toprule">2 teaspoonfuls (10 mL) every 4 hours, not to exceed 12 teaspoonfuls in 24 hours or as directed by a doctor</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">Children 6 to under 12 years of age:</td><td>1 teaspoonful (5 mL) every 4 hours, not to exceed 6 teaspoonfuls in 24 hours or as directed by a doctor</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">Children under 6 years of age:</td><td>Consult a physician</td></tr></tbody></table>
+storage_and_handling:
+  Other information Store at 59°-86°F (15°-30°C) [see USP Controlled Room Temperature]
+inactive_ingredient:
+  Inactive ingredients Cherry flavor, citric acid, methylparaben, monoammonium glycyrrhizinate, potassium citrate, propylparaben, propylene glycol, purified water, sorbitol, sucralose
+questions:
+  Questions or comments? Call 352.754.8587
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label NDC 58605-311-16 Maxi-Tuss G Cough Suppressant ■ Expectorant Sugar Free ■ Alcohol Free ■ Dye Free Each teaspoonful (5 mL) for oral administration contains: Dextromethorphan HBr 10 mg Guaifenesin 100 mg Cherry Flavor Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing. Manufactured for: MCR American Pharmaceuticals, Inc. Brooksville, FL 34604 16 fl oz (473 mL) PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+set_id:
+  e9dcb3cc-e193-4a63-8544-58eb80cb3581
+id:
+  ec6fb61d-4ce9-40ce-8ced-9980da432cad
+effective_time:
+  20200624
+version:
+  1
+openfda:

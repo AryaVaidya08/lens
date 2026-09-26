@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Biobron DX Dextromethorphan, Guaifenesin, Phenylephrine Dextromethorphan Hydrobromide Dextromethorphan Guaifenesin Guaifenesin Phenylephrine Hydrochloride Phenylephrine GLYCERIN PROPYLENE GLYCOL METHYLPARABEN PROPYLPARABEN CITRIC ACID MONOHYDRATE SODIUM CITRATE SACCHARIN CALCIUM Cherry Flavor
+active_ingredient:
+  Active Ingredients: (in each 5 mL tsp.) Purpose Dextromethorphan Hydrobromide 20 mg.................. Cough Suppressant Guaifenesin 200 mg .............................................. Expectorant Phenylephrine HCl 10 mg.................................. Nasal Decongestant
+purpose:
+  Uses Temporarily relieves these symptoms, due to the common cold, hay fever (allergic rhinitis) or other upper respiratory allergies Cough due to minor throat and bronchial irritation Helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes and make cough more productive Nasal congestion Reduces swelling of nasal passages.
+warnings:
+  Warnings Do not exceed recommended dosage A persistent cough may be a sign of a serious condition. If cough persists for more than a week, tends to reoccur or is accompanied by a fever, rash or persistent headache, consult a doctor If nervousness, dizziness or sleeplessness occur, discontinue use and consult a doctor If symptoms do not improve within 7 days or are accompanied by fever, consult a doctor.
+do_not_use:
+  Do not Use For persistent cough such as occurs with smoking, asthma, chronic bronchitis, emphysema or where cough is accompanied by excessive phelgm (mucus), unless directed by a doctor If nervousness, dizziness or sleeplessness occur, discontinue use and consult a doctor. If you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if you are taking a prescription drug that contains an MAOI; ask your doctor or pharmacist before taking this product.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+dosage_and_administration:
+  Directions Do not exceed 6 doses in 24 hours. adults and children 12 years of age and over take 1 teaspoonful (5 mL) every 4 hours children 6 to under 12 years of age take 1/2 teaspoonful (2.5 mL) every 4 hours children under 6 years of age ask a doctor
+dosage_and_administration_table:
+  <table ID="i4d31c841-1169-493a-8f65-87422920edfd" border="1" width="415"><tbody><tr><td> adults and children   12 years of age and over</td><td> take 1 teaspoonful (5 mL)   every 4 hours</td></tr><tr><td>children 6 to under   12 years of age </td><td> take 1/2 teaspoonful (2.5 mL)   every 4 hours</td></tr><tr><td> children under 6 years of age   </td><td> ask a doctor </td></tr></tbody></table>
+indications_and_usage:
+  Other information store at room temperature 15 - 30 degrees celcius (59 - 86 degrees farhenheits). Tamper Evident Feature: Do not use if seal under cap (or cello-band over cap) is torn, broken or missing.
+questions:
+  Questions or comments? 1-305-403-3788 Manufactured For: Advanced Generic Corporation, Miami, FL 33166. www.advancedgeneric.com
+inactive_ingredient:
+  Inactive ingredients glycerin, propylene glycol, methylparaben, propylparaben, citric acid, sodium citrate, saccharin calcium, cherry flavor, purified water.
+package_label_principal_display_panel:
+  BiobronDXLabel
+set_id:
+  c2f176e9-b647-43a6-96cd-bad48dd776e9
+id:
+  f671e419-bf75-4804-8dd0-d3c3a4bfec61
+effective_time:
+  20231227
+version:
+  8
+openfda:

@@ -1,0 +1,84 @@
+spl_product_data_elements:
+  Eczema Itch Relief Wash and Shampo Colloidal Oatmeal SODIUM LAURYL SULFOACETATE PANAX GINSENG ROOT ALOE VERA LEAF GLYCERIN SODIUM HYDROXIDE COCAMIDOPROPYL BETAINE POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600 KD) PHENOXYETHANOL ETHYLHEXYLGLYCERIN EQUISETUM ARVENSE BRANCH SODIUM METHYL 2-SULFOLAURATE DISODIUM 2-SULFOLAURATE PANTHENOL CHAMOMILE LEMON PEEL OATMEAL OATMEAL WATER SAGE CALENDULA OFFICINALIS FLOWER
+active_ingredient:
+  Active Ingredient Colloidal Oatmeal 1.5%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Temporarily protects and helps relieve minor skin irritation and itching due to: •eczema •rashes •poison ivy •insect bites
+warnings:
+  Warnings For external use only When using this product • patch test before use • Keep out of eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and ask a doctor if • condition worsens • symptoms last for more than 7 days, or clear and occur again in a few days Do not use • on deep puncture wounds • on animals • on bites • on serious burns Keep out of reach of children. If swallowed get medical help and contact a Poison Control Center right away.
+when_using:
+  When using this product • patch test before use • Keep out of eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if • condition worsens • symptoms last for more than 7 days, or clear and occur again in a few days
+do_not_use:
+  Do not use • on deep puncture wounds • on animals • on bites • on serious burns
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help and contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Dispense a dime to quarter-sized amount into palm, gently massage onto wet skin and hair. Rinse and towel dry. For extra cleansing, allow to sit for 30 seconds and then rinse.
+inactive_ingredient:
+  Ingredients Acrylates Copolymer, Aloe Barbadensis (Aloe Vera) Leaf Juice*, Calendula Officinalis Flower Extract, Chamomilla Recutita (Matricaria) Flower Extract, Citrus Limon (Lemon) Fruit Extract, Cocamidopropyl Betaine, Disodium 2-Sulfolaurate, Equisetum Arvense (Horsetail) Extract, Ethylhexylglycerin, Glycerin, Panax Ginseng Root Extract, Panthenol (Vitamin B5), Phenoxyethanol, Polyquaternium-7, Salvia Officinalis (Sage) Leaf Extract, Sodium Hydroxide, Sodium Lauryl Sulfoacetate, Sodium Methyl 2-Sulfolaurate, Water. *Certified Organic Ingredient - Mayacert Certifier
+questions:
+  Questions? 1-800-279-7282 M-F 8am-4pm PST
+package_label_principal_display_panel:
+  label wash
+set_id:
+  afda8ca4-1196-527a-e053-2995a90af9f1
+id:
+  4929b6c3-4328-1afa-e063-6394a90a0fa0
+effective_time:
+  20260124
+version:
+  4
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Eczema Itch Relief Wash and Shampo
+  generic_name:
+    COLLOIDAL OATMEAL
+  manufacturer_name:
+    Genuine Virgin Aloe Corporation
+  product_ndc:
+    10738-162
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OATMEAL
+  rxcui:
+    2396990
+  spl_id:
+    4929b6c3-4328-1afa-e063-6394a90a0fa0
+  spl_set_id:
+    afda8ca4-1196-527a-e053-2995a90af9f1
+  package_ndc:
+    10738-162-23
+  is_original_packager:
+    True
+  upc:
+    0818926013215
+  nui:
+    N0000185371
+    N0000185375
+    N0000175629
+    N0000184306
+    M0000728
+    M0006342
+    M0016962
+    N0000185016
+  pharm_class_epc:
+    Non-Standardized Food Allergenic Extract [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+  unii:
+    8PI54V663Y

@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  ChapStick Classic Spearmint white petrolatum PETROLATUM PETROLATUM ARACHIDYL PROPIONATE FD&C BLUE NO. 1 CARNAUBA WAX CETYL ALCOHOL ISOPROPYL MYRISTATE LANOLIN LIGHT MINERAL OIL MALTOL OCTYLDODECANOL PARAFFIN PHENYL TRIMETHICONE SACCHARIN WHITE WAX FD&C YELLOW NO. 5
+active_ingredient:
+  Active ingredient White Petrolatum 45%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses • helps prevent and temporarily protects chafed, chapped or cracked lips • helps prevent and protect from the drying effects of wind and cold weather
+warnings:
+  Warnings For external use only Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed
+storage_and_handling:
+  Other Information store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients arachidyl propionate, blue 1 lake, carnauba wax, cetyl alcohol, isopropyl lanolate, isopropyl myristate, lanolin, light mineral oil, maltol, natural and artificial flavor, octyldodecanol, paraffin, phenyl trimethicone, saccharin, white wax, yellow 5 lake
+questions:
+  Questions or Comments? Call weekdays from 9 AM to 5 PM EST at 1-877-227-3421 Additional information Marketed by: Pfizer Madison, NJ 07940 USA ©2018 Pfizer Inc. For most recent product information, visit www.chapstick.com Paraben Free
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL BRAND LIP CARE ChapStick ® SKIN PROTECTANT CLASSIC SPEARMINT PROTECTS AND MOISTURIZES TO HELP HEAL DRY, CHAPPED LIPS NET WT 0.15 OZ (4 g) PRINCIPAL DISPLAY PANEL - 4 g Cylinder Blister Pack
+set_id:
+  74354d8e-c265-4a27-9715-1a4c157ad890
+id:
+  f6c16211-6784-4ad4-96e3-5ef912bc376c
+effective_time:
+  20240319
+version:
+  4
+openfda:
+  application_number:
+    M016
+  brand_name:
+    ChapStick Classic Spearmint
+  generic_name:
+    WHITE PETROLATUM
+  manufacturer_name:
+    Haleon US Holdings LLC
+  product_ndc:
+    0573-0711
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PETROLATUM
+  spl_id:
+    f6c16211-6784-4ad4-96e3-5ef912bc376c
+  spl_set_id:
+    74354d8e-c265-4a27-9715-1a4c157ad890
+  package_ndc:
+    0573-0711-12
+    0573-0711-51
+  is_original_packager:
+    True
+  unii:
+    4T6H12BN9U

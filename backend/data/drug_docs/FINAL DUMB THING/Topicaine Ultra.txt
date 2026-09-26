@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Topicaine Ultra Topicaine Ultra LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE WATER HYDROXYETHYLCELLULOSE PHENOXYETHANOL ETHYLHEXYLGLYCERIN SODIUM HYDROXIDE LACTIC ACID
+spl_unclassified_section:
+  TOPICAINE™ Ultra 2% – Lidocaine HCl 2% Gel Oncora Pharma NDC 85477-307-85
+  Other Information Store at USP controlled room temperature 20° to 25°C (68° to 77°F).
+active_ingredient:
+  Active Ingredient Lidocaine HCl 2%
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Uses For the temporary relief of pain and itching associated with: minor burns sunburn minor cuts scrapes insect bites minor skin irritations
+warnings:
+  Warnings For external use only. When using this product: Avoid contact with the eyes. Do not use in large quantities, particularly over raw surfaces or blistered areas. Stop use and ask a doctor if: Condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days.
+when_using:
+  When using this product: Avoid contact with the eyes. Do not use in large quantities, particularly over raw surfaces or blistered areas.
+stop_use:
+  Stop use and ask a doctor if: Condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years and older: Apply externally to the affected area up to 3–4 times daily. Children under 2 years: Do not use. Consult a doctor.
+inactive_ingredient:
+  Inactive Ingredients Inactive ingredients are printed on the product container label. Aqua (Water), Hydroxyethylcellulose, Phenoxyethanol, Ethylhexylglycerin, Sodium Hydroxide, Lactic Acid. See bottle label below for full ingredient listing. Manufactured for: Oncora Pharma, Dallas, TX 75228
+package_label_principal_display_panel:
+  Principal Display Panel NDC: 85477-307-85 Topicaine Ultra External Gel 2% Lidocaine 2% Net Wt. 3 oz. (85g) NDC: 85477-307-85 Topicaine Ultra External Gel 2% Lidocaine 2% Net Wt. 3 oz. (85g)
+set_id:
+  e052f718-700a-44e0-8770-65451b812ee1
+id:
+  39d5838a-c935-4447-a315-d27d91659444
+effective_time:
+  20260324
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Topicaine Ultra
+  generic_name:
+    TOPICAINE ULTRA
+  manufacturer_name:
+    Oncora Pharma, LLC
+  product_ndc:
+    85477-307
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE HYDROCHLORIDE
+  rxcui:
+    1011852
+  spl_id:
+    39d5838a-c935-4447-a315-d27d91659444
+  spl_set_id:
+    e052f718-700a-44e0-8770-65451b812ee1
+  package_ndc:
+    85477-307-85
+  is_original_packager:
+    True
+  unii:
+    V13007Z41A

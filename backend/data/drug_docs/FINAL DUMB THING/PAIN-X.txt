@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  PAIN-X MENTHOL CARBOMER INTERPOLYMER TYPE A (55000 CPS) MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM PROPYLPARABEN METHYLPARABEN POLYSORBATE 80 EDETATE DISODIUM ISOPROPYL ALCOHOL PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL WATER TRANSLUCENT
+active_ingredient:
+  Active ingredient Menthol 2.5%
+purpose:
+  Purpose Topical analgesic
+indications_and_usage:
+  Uses temporarily relieves the minor aches and pains of muscles and joints associated with: simple backaches arthritis strains bruises sprains
+warnings:
+  Warnings for external use only
+do_not_use:
+  Do not use Do not use on wounds or damaged skin with a heating pad on a child under 12 years of age with arthritis-like conditions
+ask_doctor:
+  Ask a doctor before use
+  Ask a doctor before use Ask a doctor before use if you have redness over the affected area.
+when_using:
+  When using this product avoid contact with eyes or mucous membranes do not bandage tightly
+stop_use:
+  Stop use and ask a doctor if Stop use and ask a doctor if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days excessive skin irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions adults and children 12 years of age and older: apply to affected area not more than 3 to 4 times daily children under 12 years of age: ask a doctor
+other_safety_information:
+  Other information store at 20° to 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients Vitamin E, Propylene glycol,Polysorbate 80,Water, Isopropyl alcohol,Carbomer interpolymer typ A, edta, Methylparaben, Propylparaben.
+questions:
+  Questions www.drspharmacyusa.com
+package_label_principal_display_panel:
+  Pain X
+set_id:
+  b22bb19a-14e5-3d32-e053-2a95a90ae520
+id:
+  2b51e8c1-1805-573d-e063-6294a90a2f58
+effective_time:
+  20250109
+version:
+  4
+openfda:
+  application_number:
+    M017
+  brand_name:
+    PAIN-X
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    OL PHARMA TECH,LLC
+  product_ndc:
+    80489-003
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL, UNSPECIFIED FORM
+  rxcui:
+    282805
+  spl_id:
+    2b51e8c1-1805-573d-e063-6294a90a2f58
+  spl_set_id:
+    b22bb19a-14e5-3d32-e053-2a95a90ae520
+  package_ndc:
+    80489-003-01
+    80489-003-02
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

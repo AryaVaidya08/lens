@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  WKPIKI FUNGAL NAIL REPAIR PEN Undecylenic acid 25% FUNGAL NAIL REPAIR PEN GLYCERIN UNDECYLENIC ACID UNDECYLENIC ACID TEA TREE OIL POLYETHYLENE GLYCOL, UNSPECIFIED
+active_ingredient:
+  Active Ingredient Undecylenic acid 25%
+purpose:
+  Purpose Antifungal
+indications_and_usage:
+  Use Helps relieve most Athlete's Foot(Tinea Pedis) and Ringworm. Relieves itching,scaling, cracking,burning, redness, soreness, and irritation and discomfort. Helps prevent most athlete's foot (dermatophytosis) with daily use.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use on children under 2 years of age unless directed by a doctor.
+when_using:
+  When Using avoid contact with eyes.
+stop_use:
+  Stop Use irritation occurs, there is no improvement within 4 weeks (for athlete's foot and ringworm).
+ask_doctor:
+  Ask Doctor irritation occurs, there is no improvement within 4 weeks (for athlete's foot and ringworm).
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For athlete's foot and ringworm: use daily for 4 weeks. Clean the affected area and dry thoroughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Supervise children in the use of this product. For athlete's foot: pay special attention to spaces between the toes, wear well-fitting, ventilated shoes, and change shoes and socks at least once daily. To prevent athlete's foot, apply once or twice daily (morning and/or night). Apply to skin around the nail and cuticle.
+storage_and_handling:
+  Other information Store at room temperature 15-30°C (59-86°F)
+inactive_ingredient:
+  Inactive ingredients Tea tree oil，glycerin，polyethylene glycol.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL 25
+set_id:
+  54472c44-93de-d4b9-e063-6394a90adde1
+id:
+  54472c44-93df-d4b9-e063-6394a90adde1
+effective_time:
+  20260615
+version:
+  1
+openfda:
+  application_number:
+    M005
+  brand_name:
+    WKPIKI FUNGAL NAIL REPAIR PEN
+  generic_name:
+    UNDECYLENIC ACID 25% FUNGAL NAIL REPAIR PEN
+  manufacturer_name:
+    Wenzhou Yuyuan Pharmaceutical Co., Ltd.
+  product_ndc:
+    87786-002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    UNDECYLENIC ACID
+  rxcui:
+    1362039
+  spl_id:
+    54472c44-93df-d4b9-e063-6394a90adde1
+  spl_set_id:
+    54472c44-93de-d4b9-e063-6394a90adde1
+  package_ndc:
+    87786-002-01
+  is_original_packager:
+    True
+  upc:
+    6978887450512
+  unii:
+    K3D86KJ24N

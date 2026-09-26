@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  SaniKlean E3 Hand Sanitizer Alcohol WATER GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 70% (v/v)
+purpose:
+  Purpose Hand Sanitizer
+indications_and_usage:
+  Uses Hand wash to help reduce bacteria that potentially can cause diseases Helps prevent cross contamination by hand contact Helps prevent drying and chafing of skin Recommended for repeated use
+warnings:
+  Warnings For External use only Flammable, keep away from fire or flame When using this product Do not use in or near eyes Use in well-ventilated area Discontinue use if irritation and/or redness develops Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact Poison Control Center immediately
+when_using:
+  When using this product Do not use in or near eyes Use in well-ventilated area Discontinue use if irritation and/or redness develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek medical attention or contact Poison Control Center immediately
+dosage_and_administration:
+  Directions Wet hands thoroughly with product, covering entire surface of hands, including fingertips, cuticles, wrists and forearms Rub vigorously into skin until dry No rinsing or toweling required
+storage_and_handling:
+  Store in a cool dry place below 104 F For Food Processing, Food Service and Professional Use Only NDC 21532-1410-1
+inactive_ingredient:
+  Inactive Ingredients Purified Water, Glycerin
+package_label_principal_display_panel:
+  SaniKleen E3 Hand Sanitizer Marketed By: Bunzl 528 East 19th Avenue North Kansas City, MO 64116 CONTENTS: 1 Gallon container label
+set_id:
+  5d7a0dad-41de-47d7-bb33-6ae93208ded5
+id:
+  51c8e8ab-f9b0-9851-e063-6394a90acc27
+effective_time:
+  20260514
+version:
+  3
+openfda:

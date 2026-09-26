@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  King Power Gel Instant Hand Sanitizer King Power Gel Instant Hand Sanitizer ETHYLENE GLYCOL .ALPHA.-TOCOPHEROL WATER ALCOHOL ALCOHOL TROLAMINE ALOE VERA FLOWER ALOE VERA LEAF FRAGRANCE GREEN APPLE ORC2001072 .ALPHA.-TOCOPHEROL ACETATE PROPYLENE GLYCERIN
+active_ingredient:
+  Active Ingredient(s) Ethyl alcohol 75%
+purpose:
+  Purpose /
+indications_and_usage:
+  For hand washing to decrease the bacteria on skin that could cause disease
+warnings:
+  Warnings Flammable, keep away from fire or flame. For external use only.
+do_not_use:
+  Do not use Do not use in the eyes, discontinue use if irritation or redness develops Consult a doctor or poison Control centerright away.
+when_using:
+  /
+stop_use:
+  /
+keep_out_of_reach_of_children:
+  Keep out of reach from Children.
+dosage_and_administration:
+  Directions Wet hands thoroughly with a small amount of product and rub hands together until dry
+other_safety_information:
+  /
+inactive_ingredient:
+  Inactive ingredients Water(aqua), triethanolamine, aloe barbadensis, aloe vera leaf juice, fragrance, glycerin, propylene, glycol,tocopheryl acetate, vitamin E
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 1
+set_id:
+  aab2e2e8-6d3e-545f-e053-2a95a90ab27a
+id:
+  dc721182-fdf8-6ce4-e053-2a95a90a078f
+effective_time:
+  20220412
+version:
+  2
+openfda:

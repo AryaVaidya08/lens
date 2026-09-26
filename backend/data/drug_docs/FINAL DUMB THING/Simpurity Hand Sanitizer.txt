@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Simpurity Hand Sanitizer ALCOHOL TOCOPHEROL ALOE VERA LEAF ALCOHOL ALCOHOL PROPYLENE GLYCOL HYDROXYETHYL CELLULOSE, UNSPECIFIED WATER HYALURONATE SODIUM TEA TREE OIL
+spl_unclassified_section:
+  Simpurity 75% alcohol Hand Sanitizer This is a hand sanitizer manufactured according to the 1994 tentative final monograph for consumer antiseptics. The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation): Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (75%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. hydroxyethylcellulose aloe powder propylene glycol hyaluronic acid tea tree essential oil vitamin E Sterile distilled water or boiled cold water. The firm does not add other active or inactive ingredients. The product has undergone finished formulation product testing (kill study) to confirm effifacy and safety.
+active_ingredient:
+  Active Ingredient(s) Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Uses Helps reduce bacteria on the skin that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients distilled water hydroxyethylcellulose aloe powder propylene glycol hyaluronic acid tea tree essential oil vitamin E
+package_label_principal_display_panel:
+  74069-002-08 240 mL Package Label - Principal Display Panel 240 mL NDC: 074069-002-08 74069-002-08 image
+  74069-002-04 Principal Display Panel 120 mL NDC: 074069-002-04 074069-002-04 image
+set_id:
+  a47cf893-4ec1-6e8d-e053-2a95a90a4cf5
+id:
+  d397dd80-2ee8-e490-e053-2a95a90a9e83
+effective_time:
+  20211220
+version:
+  3
+openfda:

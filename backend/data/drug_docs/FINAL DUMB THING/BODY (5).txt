@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  BODY PRESCRIPTIONS ANTIBACTERIAL HAND WASH Mint and Tea Tree Benzalkonium Chloride COCAMIDOPROPYL BETAINE PEG-150 DISTEARATE BENZYL ALCOHOL PHENOXYETHANOL WATER SODIUM HYDROXIDE MENTHA ARVENSIS WHOLE MELALEUCA ALTERNIFOLIA WHOLE BENZOIC ACID FD&C BLUE NO. 1 FD&C YELLOW NO. 5 BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use ■ For hand washing to decrease bacteria on hands
+warnings:
+  WARNINGS For external use only - hands When Using this Product Keep out of eyes. In case of contact with eyes, flush thoroughly with water Stop use and ask a doctor if skin irritation develops. keep out of reach of children Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poison control center immediately
+when_using:
+  When Using this Product Keep out of eyes. In case of contact with eyes, flush thoroughly with water Stop use and ask a doctor if skin irritation develops.
+keep_out_of_reach_of_children:
+  keep out of reach of children Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poison control center immediately
+dosage_and_administration:
+  Directions Apply a small amount to hands. Lather for at least 20 seconds then rinse with warm water Avoid contact with eyes Not recommended for infants
+storage_and_handling:
+  Other Information Do not store above 105F May discolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Water, Cocamidopropyl Betaine, PEG-150 Distearate, Cocamide MEA, Benzyl Alcohol, Fragrance, Phenoxyethanol, Sodium Hydroxide, Mentha Arvensis Extract, Melaleuca Alternifolia (Tea Tree) Extract, Benzoic Acid, Blue 1, Yellow 5
+package_label_principal_display_panel:
+  image description
+set_id:
+  4c4110a8-9de2-4859-98c3-f0f7e9b70a16
+id:
+  a9536315-63fc-0318-e053-2a95a90a8850
+effective_time:
+  20200630
+version:
+  1
+openfda:

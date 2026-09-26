@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  OXYGEN OXYGEN OXYGEN OXYGEN
+package_label_principal_display_panel:
+  OXYGEN COMPRESSED USP LABEL OXYGEN, COMPRESSED USP UN 1072 OXYGEN 2 18033 (12/14) WARNING: For emergency use only when administered by properly trained personnel for oxygen deficiency and resuscitation. For all other medical applications, Rx only . Uninterrupted use of high concentrations of oxygen over a long duration, without monitoring its effect on oxygen content of arterial blood, may be harmful. Do not attempt to use on patients who have stopped breathing unless used in conjunction with resuscitative equipment. Produced by Air Liquefaction. DANGER: MAY CAUSE OR INTENSIFY FIRE; OXIDIZER. CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. Do not handle until all safety precautions have been read and understood. Keep and store away from clothing and other combustible materials. Keep valves and fittings free from grease and oil. Use and store only outdoors or in a well-ventilated place. In case of fire: Stop leak if safe to do so. Use a back flow preventive device in the piping. Use only with equipment of compatible materials of construction and rated for cylinder pressure. Use only with equipment cleaned for oxygen service. Open valve slowly. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52°C (125° F). Read and follow the Safety Data Sheet (SDS) before use. CAS 7782-44-7 DO NOT REMOVE THIS PRODUCT LABEL. AEROFLOW HEALTHCARE 65 BEALE ROAD • ARDEN, NC 28704 888-345-1780 HP LABEL
+set_id:
+  96b0a506-ae49-4338-80cd-f1493222e335
+id:
+  23afbdc1-2511-4145-a6ba-120712769084
+effective_time:
+  20211123
+version:
+  8
+openfda:

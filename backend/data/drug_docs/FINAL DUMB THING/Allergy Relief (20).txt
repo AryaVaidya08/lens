@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Allergy Relief DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED WATER SORBITOL SORBITAN clear natural oblong PC4
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each softgel) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis g laucoma trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis g laucoma trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions take every 4 to 6 hours do not take more than 6 doses in 24 hours adults and children 12 years and over 1 to 2 softgels children 6 to under 12 years 1 softgel children under 6 years do not use this product in children under 6 years of age
+dosage_and_administration_table:
+  <table border="1" cellspacing="0" cellpadding="0"> <tbody> <tr> <td valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td valign="top"> <paragraph> 1 to 2 softgels</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph>children 6 to under 12 years</paragraph> </td> <td valign="top"> <paragraph> 1 softgel</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph>children under 6 years</paragraph> </td> <td valign="top"> <paragraph> do not use this product in children under 6 years of age</paragraph> </td> </tr> </tbody> </table>
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F) in a dry place. Protect from heat, humidity, and light. do not use if carton is open or blister unit is broken
+inactive_ingredient:
+  Inactive ingredients gelatin, glycerin, polyethylene glycol, purified water, sorbitol sorbitan solution and white edible ink
+questions:
+  Questions or comments? Call toll free : 1-855-215-8180
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Allergy Relief Diphenhydramine HCl 25 mg 24 softgels NDC 51013-199-04 *Compare to the active ingredient in Benadryl® Dye-Free Allergy Liqui-Gels® Carton Label
+set_id:
+  6314b559-8c14-49c3-9cd2-18071ff210e5
+id:
+  4b4743e7-23a3-4468-91b2-ea658b78683a
+effective_time:
+  20200102
+version:
+  2
+openfda:

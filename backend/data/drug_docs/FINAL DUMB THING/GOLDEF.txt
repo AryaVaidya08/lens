@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  GOLDEF ANTISEPTIC HAND SANITIZER Alcohol ALCOHOL ALCOHOL WATER HYDROGEN PEROXIDE GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  Alcohol Antiseptic 80% Topical solution Non-Sterile Solution Moisturising Manufactured by: MEDIPROMTECH LLC Stelmaha 9, Irpin city, Ukraine 08205 COUNTRY OF ORIGIN: UKRAINE info@goldef.ua www.goldef.ua Lot. No Expiry
+active_ingredient:
+  Active ingredient Alcohol 80% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand sanitizer to decrease bacteria on the skin • recommended for repeated use • for use when soap and water are not available
+warnings:
+  Warnings Flammable, keep away from fire/flame For external use only Do not use • in children less than 2 months of age • on open skin wounds When using this product • do not get into eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • wet hands thoroughly with product and allow to dry without wiping • supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information • store between 15-30˚C (59-86˚F) • avoid freezing and excessive heat above 40˚C (104˚F)
+inactive_ingredient:
+  Inactive ingredients water, hydrogen peroxide, glycerin
+questions:
+  Questions? +1-404-795-4774 You may also report serious effectsto this phone number. Mon-Fri 9:00AM - 5:00 PM
+package_label_principal_display_panel:
+  Packaging IMAGE IMAGE IMAGE IMAGE IMAGE IMAGE
+set_id:
+  fc6ddeac-2c5f-444a-acdf-361372419598
+id:
+  ae6692b8-492f-4e85-88f2-017566f3468b
+effective_time:
+  20200713
+version:
+  1
+openfda:

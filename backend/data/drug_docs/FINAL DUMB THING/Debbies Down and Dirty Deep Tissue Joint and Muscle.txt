@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Debbies Down and Dirty Deep Tissue Joint and Muscle MENTHOL HELIANTHUS ANNUUS FLOWERING TOP METHYL SALICYLATE DIMETHYL SULFONE PEG-100 STEARATE PHENOXYETHANOL WILLOW BARK TROLAMINE XANTHAN GUM WATER ARNICA MONTANA FLOWER INDIAN FRANKINCENSE BROMELAINS BUTYLENE GLYCOL CARBOXYPOLYMETHYLENE CETYL ALCOHOL ETHYLHEXYLGLYCERIN EUCALYPTUS OIL GLYCERYL MONOSTEARATE GLYCYRRHIZA GLABRA MENTHOL MENTHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Menthol 10% Purpose Topical Analgesic
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Uses For the temporary relief of minor aches and pains of muscles and joints associated with simple back ache • arthritis • sprains • strains • and bruises
+warnings:
+  Warnings For external use only Do not apply to wounds or damaged skin. Ask a physician before use if you have redness over the affected area. When using this product avoid contact with the eyes. do not bandage. Stop use and ask a physician if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days excessive skin irritation occurs. Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not apply to wounds or damaged skin.
+ask_doctor:
+  Ask a physician before use if you have redness over the affected area.
+when_using:
+  When using this product avoid contact with the eyes. do not bandage.
+stop_use:
+  Stop use and ask a physician if condition worsens or symptoms persist for more than 7 days symptoms clear up and occur again within a few days excessive skin irritation occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Use only as directed Adults and children 12 years of age and older: apply generously to affected area. Massage into painful area until thoroughly absorbed into skin. Children under 12 years of age: consult a physician.
+inactive_ingredient:
+  Inactive Ingredients Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, Bromelain, Butylene Glycol, Carbomer, Cetyl lcohol, Ethylhexylglycerin, Eucalyptus Globulus Oil, Glyceryl Stearate, Glycyrrhiza Glabra (Licorice) Extract, Helianthus Annuus (Sunflower) Oil, Methyl Salicylate, Methylsulfonylmethane (MSM), PEG-100 Stearate, Phenoxyethanol, Salic Nigra (Willow Bark) Extract, Triethanolamine, Xanthan Gum.
+package_label_principal_display_panel:
+  Package labeling: Label3
+set_id:
+  531fe834-53e3-305f-e054-00144ff88e88
+id:
+  09db6ba6-5806-44a5-e063-6294a90a072f
+effective_time:
+  20231111
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Debbies Down and Dirty Deep Tissue Joint and Muscle
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    DD&D Manufacturing Co., Ltd
+  product_ndc:
+    71523-833
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    253020
+  spl_id:
+    09db6ba6-5806-44a5-e063-6294a90a072f
+  spl_set_id:
+    531fe834-53e3-305f-e054-00144ff88e88
+  package_ndc:
+    71523-833-01
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

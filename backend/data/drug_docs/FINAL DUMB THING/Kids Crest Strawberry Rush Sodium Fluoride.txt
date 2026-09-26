@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Kids Crest Strawberry Rush Sodium Fluoride SODIUM PHOSPHATE, DIBASIC, HEPTAHYDRATE BENZOIC ACID SUCRALOSE PHOSPHORIC ACID WATER PROPYLENE GLYCOL POLYSORBATE 80 SODIUM BENZOATE D&C RED NO. 33 SODIUM FLUORIDE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+  DISTR. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.02% (0.01% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use Aids in the prevention of dental cavities
+warnings:
+  Warning Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for rinsing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 6 years & older: Use twice a day after brushing your teeth with a toothpaste. Vigorously swish the 10 mL (2 teaspoonfuls) of rinse between your teeth for 1 minute and then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in good rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Consult a dentist or doctor.
+inactive_ingredient:
+  Inactive ingredients water, propylene glycol, polysorbate 80, benzoic acid, flavor, sucralose, sodium benzoate, phosphoric acid, disodium phosphate, red 33
+questions:
+  Questions? 1-800-285-9139
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 500 mL Bottle Label ALCOHOL FREE KID'S Crest ® ANTICAVITY FLUORIDE RINSE STRAWBERRY RUSH™ IMPORTANT: Read directions for proper use. REACHES WHERE BRUSHING MAY MISS 500 mL (16.9 FL OZ) 583
+set_id:
+  60a2e223-9f48-2f3f-e053-2991aa0abf1c
+id:
+  3a11d69d-171a-2c5d-e063-6394a90ab646
+effective_time:
+  20250716
+version:
+  7
+openfda:

@@ -1,0 +1,27 @@
+effective_time:
+  20200817
+inactive_ingredient:
+  Lactose.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+purpose:
+  Temporary relief from sneezing, cold, hayfever, hives.
+warnings:
+  Stop use and ask doctor if symptoms worsen or persist longer than 7 days. If pregnant or breast-feeding, ask health professional before use.
+spl_product_data_elements:
+  Natrum Mur Natrum Muriaticum 12X LACTOSE SODIUM CHLORIDE SODIUM CATION none
+openfda:
+version:
+  2
+dosage_and_administration:
+  Adults and children 12 years and older: Four tablets every thirty minutes for six doses followed by four tablets every 4-6 hours as needed. Children 2 years to under 12 years: Four tablets every thirty minutes for six doses followed by two tablets every 4-6 hours as needed. Children under 2 years age: Consult doctor prior to use.
+package_label_principal_display_panel:
+  natrum mur 12x.jpg
+indications_and_usage:
+  Temporary relief from sneezing, cold, hayfever, hives.
+set_id:
+  5966babe-bb24-4ef1-e053-2991aa0ae8c5
+id:
+  ad15ade2-5dcc-9151-e053-2a95a90ac5fd
+active_ingredient:
+  Natrum Muriaticum 12X (HPUS)

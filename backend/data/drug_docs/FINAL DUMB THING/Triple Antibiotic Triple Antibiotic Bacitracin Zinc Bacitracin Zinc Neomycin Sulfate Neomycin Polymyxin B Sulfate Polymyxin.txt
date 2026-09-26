@@ -1,0 +1,33 @@
+effective_time:
+  20100402
+inactive_ingredient:
+  Inactive ingredients petrolatum Triple Antibiotic Ointment™ Manufactured for: B8 SALES Cincinnati,0hio 4521S 888-826-6208 www.b8sales.com PIO Put it on®
+purpose:
+  Purpose First aid antibiotic
+warnings:
+  Warnings For external use only Do not use in the eyes internally over large areas of the body if you are allergic to any of the ingredients longer than 1 week unless directed by a doctor
+spl_product_data_elements:
+  Triple Antibiotic Triple Antibiotic Bacitracin Zinc Bacitracin Zinc Neomycin Sulfate Neomycin Polymyxin B Sulfate Polymyxin B petrolatum white
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Adults and children 2 years and over: clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times dally may be covered with a sterile bandage Children under 2 years: consult a doctor
+spl_unclassified_section:
+  Triple Antibiotic Ointment™ First Aid to Help Prevent Infection In Minor Cuts, Scrapes, and Burns 25 Packets Each Packet Net.Wt.0.9gm
+  Drug Facts
+  Other information store at room temperature (do not freeze) do not use any opened or torn packets
+stop_use:
+  Stop use and ask a doctor If the condition persists or gets worse a rash or other allergic reaction develops Keep out reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the eyes internally over large areas of the body if you are allergic to any of the ingredients longer than 1 week unless directed by a doctor
+package_label_principal_display_panel:
+  Principal Display Panel Triple Antibiotic Ointment – Carton Label PIO Put it on® Triple Antibiotic Ointment™ First Aid to Help Prevent Infection In Minor Cuts, Scrapes, and Burns 25 Packets Each Packet Net.Wt.0.9gm Triple Antibiotic Ointment – Carton Label
+indications_and_usage:
+  Uses First aid to help prevent infection in minor cuts, scrapes and burns
+set_id:
+  93611650-ec45-4b83-872e-b1e227bdec11
+id:
+  51d351ee-2de5-45f1-a1c2-e1b05433a300
+active_ingredient:
+  Active ingredients (in each gram) Bacitradn Zinc (400 units Bacitracin) Neomycin Sulfate 5 mg (equivalent to 3.5 mg Neomycin base) Polymyxin-B Sulfate 5000 units

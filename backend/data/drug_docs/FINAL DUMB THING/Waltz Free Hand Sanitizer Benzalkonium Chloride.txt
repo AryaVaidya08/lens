@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Waltz Free Hand Sanitizer Benzalkonium Chloride AVENA SATIVA LEAF BEHENTRIMONIUM METHOSULFATE BUTYLENE GLYCOL CAPRYLYL GLYCOL CETRIMONIUM CHLORIDE DIMETHICONE GLYCERIN SOY PROTEIN PEPPERMINT OIL PHENOXYETHANOL VITAMIN A PALMITATE ALOE VERA LEAF JOJOBA OIL SORBIC ACID EDETATE SODIUM .ALPHA.-TOCOPHEROL ACETATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Waltz Free Hand Sanitizing Lotion DRUG FACTS
+active_ingredient:
+  Active Ingredient Benzalkonium chloride 0.13%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Kills 99.99 % germs and moisturizes skin.
+warnings:
+  Warnings For External Use Only Do not use in the eyes In case of eye contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists more than 72 hours. Keep out of reach of children Instruct children on proper use. If swallowed, get medical help or contact a Poison Control Center right away. To report SUSPECTED ADVERSE REACTIONS contact AvKARE at 1-855-361-3993 or email drugsafety@avkare.com.
+do_not_use:
+  Do not use in the eyes In case of eye contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Instruct children on proper use. If swallowed, get medical help or contact a Poison Control Center right away. To report SUSPECTED ADVERSE REACTIONS contact AvKARE at 1-855-361-3993 or email drugsafety@avkare.com.
+dosage_and_administration:
+  Directions Apply a small amount to hands every 3 to 4 hours and rub until dry. Does not replace soap and water.
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf Extract, Avena Sativa (Oat) Extract, Behentrimonium Methosulfate, Butylene Glycol, Caprylyl Glycol, Centrimonium Chloride, Dimethicone, Emulsifying Wax NF, Glycerin, Hydrolyzed Soy Protein, Mentha Piperita (Peppermint) Essential Oil, Phenoxyethanol, Retinyl Palmitate Vitamin A, Simmondsia Chinensis (Jojoba) Seed Oil, Sorbic Acid, Tetrasodium EDTA, Tocopheryl Acetate Vitamin E, Water
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL PRINCIPAL DISPLAY PANEL PRINCIPAL DISPLAY PANEL PRINCIPAL DISPLAY PANEL PRINCIPAL DISPLAY PANEL
+set_id:
+  90012b6b-1ed1-7f29-e053-2a95a90a66be
+id:
+  f1eb0ec2-98e8-13a2-e053-2a95a90a2938
+effective_time:
+  20230110
+version:
+  8
+openfda:

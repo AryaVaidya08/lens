@@ -1,0 +1,44 @@
+effective_time:
+  20141003
+inactive_ingredient:
+  Inactive ingredients Purified water, behenyl trimethyl ammonium methosulfate & ceteraryl alchohol, niacinamide, glycerin, PEG-12 glyceryl dimyristate, aluminum starch octenylsuccinate & boron nitride, dimethicone, ceramide III, ceramide IIIB, ceramide VI, ceramide I, phytosphingosine, hydroxyethyl cellulose, diethylene glycol monoethyl ether, Kinetin (0.1%) - Zeatin (0.1%) Complex, propylparaben, edetate disodium dehydrate, hyaluronic acid.
+purpose:
+  Active ingredients Purpose Homosalate (12.0%) Sunscreen Octinoxate (7.5%) Sunscreen Octocrylene (2.0%) Sunscreen Zinc oxide (5.0%) Sunscreen
+keep_out_of_reach_of_children:
+  • Keep out of Reach of Children • If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Do not use on children under 6 months of age unless directed by a doctor. When using this product • Keep out of eyes. • Rinse with water to remove. Stop use and ask a doctor if • rash or irritation develops and persists. • Keep out of Reach of Children • If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product • Keep out of eyes. • Rinse with water to remove.
+questions:
+  Questions? Call 1 (800) 321-4576
+spl_product_data_elements:
+  Pro Therapy MD Advanced Ultra Light Day Repair Homosalate, Octinoxate, Octocrylene, and Zinc oxide Homosalate Homosalate Octinoxate Octinoxate Octocrylene Octocrylene Zinc oxide Zinc oxide water behentrimonium methosulfate cetostearyl alcohol niacinamide glycerin PEG-12 glyceryl dimyristate aluminum starch octenylsuccinate boron nitride dimethicone ceramide 3 diethylene glycol monoethyl ether propylparaben edetate disodium hyaluronic acid
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • for use as a sunscreen, apply liberally before sun exposure and as needed or as directed by your physician. • for use on children under six months please ask your physician.
+spl_unclassified_section:
+  Drug Facts
+  DISTRIBUTED BY Valeant Pharmaceuticals North America LLC Bridgewater, NJ 08807 USA
+stop_use:
+  Stop use and ask a doctor if • rash or irritation develops and persists.
+storage_and_handling:
+  Other information Sun Alert Limiting sun exposure, wearing protective clothing, and using sunscreen may reduce the risks of skin aging, skin cancer, and other harmful effects of the sun. For topical dermatological use only. Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+do_not_use:
+  Do not use on children under 6 months of age unless directed by a doctor.
+active_ingredient_table:
+  <table width="60%"> <col width="35%"/> <col width="25%"/> <thead> <tr> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Active ingredients</content> </content> </th> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Purpose</content> </content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Toprule "> <paragraph>Homosalate (12.0%)</paragraph> </td> <td styleCode="Toprule "> <paragraph>Sunscreen</paragraph> </td> </tr> <tr> <td> <paragraph>Octinoxate (7.5%)</paragraph> </td> <td> <paragraph>Sunscreen</paragraph> </td> </tr> <tr> <td> <paragraph>Octocrylene (2.0%)</paragraph> </td> <td> <paragraph>Sunscreen</paragraph> </td> </tr> <tr> <td styleCode="Botrule "> <paragraph>Zinc oxide (5.0%)</paragraph> </td> <td styleCode="Botrule "> <paragraph>Sunscreen</paragraph> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 35 g Bottle Label PRO+ THERAPY MD ™ ADVANCED ULTRA LIGHT DAY REPAIR SPF 30 with the power of the Kinetin-Zeatin Complex EXCLUSIVE TECHNOLOGIES net wt 1.2 oz / 35 g NDC 0187-2303-01 Principal Display Panel - 35 g Bottle Label
+indications_and_usage:
+  Uses • helps prevent sunburn • higher SPF gives more sunburn protection • provides high protection against sunburn.
+set_id:
+  a87e151a-a04c-4863-a8d7-54e8c892772a
+id:
+  331ed1de-172f-4a11-b6cf-f3dec987530c
+purpose_table:
+  <table width="60%"> <col width="35%"/> <col width="25%"/> <thead> <tr> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Active ingredients</content> </content> </th> <th align="left" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> <content styleCode="italics">Purpose</content> </content> </th> </tr> </thead> <tbody> <tr> <td styleCode="Toprule "> <paragraph>Homosalate (12.0%)</paragraph> </td> <td styleCode="Toprule "> <paragraph>Sunscreen</paragraph> </td> </tr> <tr> <td> <paragraph>Octinoxate (7.5%)</paragraph> </td> <td> <paragraph>Sunscreen</paragraph> </td> </tr> <tr> <td> <paragraph>Octocrylene (2.0%)</paragraph> </td> <td> <paragraph>Sunscreen</paragraph> </td> </tr> <tr> <td styleCode="Botrule "> <paragraph>Zinc oxide (5.0%)</paragraph> </td> <td styleCode="Botrule "> <paragraph>Sunscreen</paragraph> </td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Homosalate (12.0%) Sunscreen Octinoxate (7.5%) Sunscreen Octocrylene (2.0%) Sunscreen Zinc oxide (5.0%) Sunscreen

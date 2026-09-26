@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Trillium pendulum TRILLIUM ERECTUM ROOT SUCROSE LACTOSE TRILLIUM ERECTUM ROOT TRILLIUM ERECTUM ROOT white
+active_ingredient:
+  ACTIVE INGREDIENTS TRILLIUM
+purpose:
+  USES To relieve the symptoms of dizziness.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: TRILLIUM Dizziness
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Enter section text The OTC potency range of TRILLIUM is 2x–30x, 1c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. here Label
+set_id:
+  3d9108f8-e806-4397-a672-7b0bffc14639
+id:
+  dc15a12f-cb64-69be-e053-2995a90a966c
+effective_time:
+  20220407
+version:
+  3
+openfda:

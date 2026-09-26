@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  NUVALU INSTANT HAND SANITIZER LAVENDER 8OZ ETHYL ALCOHOL ALCOHOL ALCOHOL ALOE VERA LEAF PROPYLENE GLYCOL WATER CARBOMER 934 GLYCERIN CUPRIC BIS(TRIETHANOLAMINE) .ALPHA.-TOCOPHEROL ACETATE FD&C BLUE NO. 1 D&C RED NO. 33
+active_ingredient:
+  Drug Facts Active Ingredient Ethyl Alcohol 70 percent
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Helps reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only.
+when_using:
+  When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product in your palm to thoroughly spread on both hands and rub into the skin until dry. Children under 6 years of age should be supervised when using this product.
+other_safety_information:
+  Other Information Store below 106 Fahrenheit (41 Degree Celsius) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive Ingredients: water (aqua), carbomer, fragrance, glycerin, propylene glycol, triethanolamine, tocophereyl acetate (vitamin E), aloe barbadensis leaf juice, FD&C Blue No.1, D&C Red No.33
+package_label_principal_display_panel:
+  label
+set_id:
+  7b50b2e2-1b88-618a-e053-2991aa0a4a57
+id:
+  7b50b2e2-1b87-618a-e053-2991aa0a4a57
+effective_time:
+  20181101
+version:
+  1
+openfda:

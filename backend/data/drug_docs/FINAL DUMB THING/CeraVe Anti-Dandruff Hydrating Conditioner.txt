@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  CeraVe Anti-Dandruff Hydrating Conditioner Pyrithione Zinc PYRITHIONE ZINC PYRITHIONE ZINC WATER CETEARYL ALCOHOL BEHENTRIMONIUM CHLORIDE GLYCERIN PEG-180 AMODIMETHICONE (1300 CST) CETYL ESTERS CERAMIDE NP CERAMIDE AP CARBOMER NIACINAMIDE TRIDECETH-6 TRIETHYL CITRATE SODIUM LAUROYL LACTYLATE SODIUM HYALURONATE SODIUM CHLORIDE SODIUM PHOSPHATE CHOLESTEROL PHENOXYETHANOL CHLORHEXIDINE DIHYDROCHLORIDE DISODIUM PHOSPHATE ISOPROPYL ALCOHOL PROPYLENE GLYCOL HYDROXYETHYLCELLULOSE CETRIMONIUM CHLORIDE CAPRYLYL GLYCOL XANTHAN GUM PHYTOSPHINGOSINE POLYSORBATE 60 BENZOIC ACID
+active_ingredient:
+  Active ingredient Pyrithione zinc 0.5%
+purpose:
+  Purpose Anti-dandruff
+indications_and_usage:
+  Use helps prevents recurrence of scalp flaking and itching associated with dandruff
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product avoid contact with the eyes. If contact occurs, rinse eyes throughly with water.
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after regular use of this product as directed
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for best results use at least twice a week or as directed by a doctor use after CeraVe Anti-Dandruff Shampoo rinse and repeat if desired
+inactive_ingredient:
+  Inactive ingredients water, cetearyl alcohol, behentrimonium chloride, glycerin, PEG-180, amodimethicone, cetyl esters, ceramide NP, ceramide AP, ceramide EOP, carbomer, niacinamide, trideceth-6, triethyl citrate, sodium lauroyl lactylate, sodium hyaluronate, sodium polynaphthalenesulfonate, sodium chloride, sodium phosphate, cholesterol, phenoxyethanol, chlorhexidine dihydrochloride, disodium phosphate, isopropyl alcohol, propylene glycol, hydroxyethylcellulose, cetrimonium chloride, caprylyl glydol, xanthan gum, phytosphingosine, polysorbate 60, benzoic acid
+questions:
+  Questions or comments? Toll-free number 1-888-768-2915
+package_label_principal_display_panel:
+  image of a label carton tube
+set_id:
+  d6a704df-edd8-4960-a088-246519e2aecf
+id:
+  cb2a5460-c548-4ead-855e-5ff29a17ee37
+effective_time:
+  20260512
+version:
+  2
+openfda:
+  application_number:
+    M032
+  brand_name:
+    CeraVe Anti-Dandruff Hydrating Conditioner
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-242
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    1043014
+  spl_id:
+    cb2a5460-c548-4ead-855e-5ff29a17ee37
+  spl_set_id:
+    d6a704df-edd8-4960-a088-246519e2aecf
+  package_ndc:
+    49967-242-01
+    49967-242-02
+    49967-242-03
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

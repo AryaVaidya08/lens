@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Neutrogena Ageless Essentials Continuous Hydration Daily Moisturizer SPF25 Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone WATER ALKYL (C12-15) BENZOATE GLYCERIN DIETHYLHEXYL 2,6-NAPHTHALATE CETOSTEARYL ALCOHOL DIMETHICONE PEG-12 GLYCERYL DIMYRISTATE GLYCERYL MONOSTEARATE PEG-100 STEARATE BUTYLATED HYDROXYTOLUENE CYCLOMETHICONE 6 CYCLOMETHICONE 5 STEARETH-21 CETEARYL GLUCOSIDE DOCOSANOL TRISILOXANE SODIUM HYDROXIDE EDETATE SODIUM METHYLISOTHIAZOLINONE PENTYLENE GLYCOL METHYLPARABEN PROPYLPARABEN CAPRYLYL GLYCOL ETHYLHEXYLGLYCERIN AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE
+active_ingredient:
+  Active Ingredients Avobenzone 3%, Homosalate 2%, Octisalate 4%, Octocrylene 1.8%, Oxybenzone 3%
+dosage_and_administration:
+  Directions Every day after cleansing, massage evenly over face, neck and chest. Can be used in conjunction with an eye cream. Can also be used under make-up.
+warnings:
+  Warnings For external use only . Avoid contact with eyes. If contact occurs, flush thoroughly with water. Discontinue use if irritation or rash appear. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  Avoid contact with eyes. If contact occurs, flush thoroughly with water.
+stop_use:
+  Discontinue use if irritation or rash appear.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+inactive_ingredient:
+  Inactive Ingredients Water C12-15 Alkyl Benzoate Glycerin Diethylhexyl 2,6-Naphthalate Cetearyl Alcohol Dimethicone PEG-12 Glyceryl Dimyristate Glyceryl Stearate PEG-100 Stearate BHT Beta-Glucan Tanacetum Parthenium (Feverfew) Leaf/Flower/Stem Juice* Cyclohexasiloxane Cyclopentasiloxane Acrylates/C10-30 Alkyl Acrylate Crosspolymer Steareth-21 Cetearyl Glucoside Behenyl Alcohol Trisiloxane Sodium Hydroxide Tetrasodium EDTA Methylisothiazolinone Pentylene Glycol Methylparaben Propylparaben Fragrance May Also Contain: Caprylyl Glycol Ethylhexylglycerin
+spl_unclassified_section:
+  Sun Alert UV exposure from the sun increases the risk of skin cancer, premature skin aging, and other skin damage. It is important to decrease UV exposure by limiting time in the sun, wearing protective clothing, and using a sunscreen.
+  Dist. by Neutrogena Corporation Los Angeles, CA 90045
+questions:
+  Questions or comments? 1-800-582-4048 (USA) or www.neutrogena.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50mL Tube Carton AGELESS ESSENTIALS™ Continuous Hydration daily moisturizer SPF 25 helioplex Time-released moisturizers nourish skin for 24 hours Neutrogena ® DERMATOLOGIST RECOMMENDED 1.7 FL OZ (50mL) Principal Display Panel - 50mL Tube Carton
+set_id:
+  891a3969-f7c1-4754-bfa5-615730d37d8b
+id:
+  f37ff7a8-eb43-eddd-e053-2995a90a691a
+effective_time:
+  20230130
+version:
+  3
+openfda:

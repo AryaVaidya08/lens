@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Antibacterial Wet Wipes Alcohol PHENOXYETHANOL ETHYLHEXYLGLYCERIN PROPYLENE GLYCOL GLYCERIN WATER ALCOHOL ALCOHOL ALOE VERA LEAF
+active_ingredient:
+  Ethyl Alcohol 75% antiseptic
+purpose:
+  antiseptic
+indications_and_usage:
+  USE For hand sanitizing to decrease bacteria on the skin
+warnings:
+  Warning For external use only Do not use in or contact the eyes This wipes are meant for general cleaning This wipes do not rep lace wipes used for medical procedures keep this out of reach of children.Store below 95 F(35 C) If swallowed,get medical help or contract a Poison Control Center immediately Keep in a dry place away from fire Discontinue use if irritation and redness develop.lf the condition persists for more than 72 hours,consult a physician. Please close the lid after dispensing to maintain purity Aicohol by nature evaporates quickly. Keep this out of reach of children
+keep_out_of_reach_of_children:
+  Keep this out of reach of children
+dosage_and_administration:
+  Directions . Wet hands thoroughly with product and allow to dry without wiping.
+inactive_ingredient:
+  Inactive ingredients Purified Water,Glycerin,Aloe Barbadensis extract,Phenoxyethanol,Ethylhexylglycerin, Propylene Glycol.
+package_label_principal_display_panel:
+  11
+set_id:
+  a77c960e-a246-f556-e053-2995a90a7725
+id:
+  a7cb3f76-bd99-30e9-e053-2995a90a1386
+effective_time:
+  20200611
+version:
+  2
+openfda:

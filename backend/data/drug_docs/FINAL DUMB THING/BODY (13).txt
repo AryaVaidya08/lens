@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  BODY PRESCRIPTIONS INFUSED WITH VITAMIN E Sweet Pine ANTIBACTERIAL HAND Benzalkonium Chloride MINERAL OIL GLYCERYL STEARATE SE PEG-100 STEARATE C13-14 ISOPARAFFIN GLYCERIN WATER POLYACRYLAMIDE (1500 MW) LAURETH-7 PHENOXYETHANOL BENZYL ALCOHOL BENZOIC ACID CITRIC ACID MONOHYDRATE BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES .ALPHA.-TOCOPHEROL ACETATE FD&C YELLOW NO. 5 FD&C BLUE NO. 1 CETOSTEARYL ALCOHOL BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use ■ To help reduce the bacteria on the skin
+warnings:
+  WARNINGS For external use only When using this product, keep out of eyes. In case of contact with eyes, flush thoroughly with water. Stop use and ask a doctor if skin irritation develops. Keep out of reach of children. In case of accidenta ingestion, seek professional assistance or contact a Poison Control Center immdiately.
+stop_use:
+  Stop use and ask a doctor if skin irritation develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidenta ingestion, seek professional assistance or contact a Poison Control Center immdiately.
+dosage_and_administration:
+  Directions Apply a small amount to palm and rub hands together thoroughly
+storage_and_handling:
+  Other Information Do not store above 105F May doscolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Water, Cetearyl Alcohol, Mineral Oil, Glyceryl Stearate, Glycerin, PEG-100 Stearate, C13-14 Isoparaffin, Polyacrylamide, Laureth-7, Phenoxyethanol, Benzyl Alcohol, Benzoic Acid, Fragrance (Parfum), Citric Acid, Butyrospermum Parkii (Shea) Butter, Tocopheryl Acetate, Yellow 5, Blue 1
+package_label_principal_display_panel:
+  image description
+set_id:
+  fc5fb853-9adc-4405-8caa-9f80e905e7b8
+id:
+  c658c536-6119-993e-e053-2a95a90a6de9
+effective_time:
+  20210704
+version:
+  1
+openfda:

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Homeland Hand Sanitizer Refill ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information Store between 15-30C (59-86F). Avoid freezing and excessive heat above 40C (104F).
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 80% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses - To help reduce bacteria that could cause disease. Recommended for repeated use. For use when soap and water is not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or fire. Do Not Use On children less than 2 months of age. In open skin wounds. When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor. If irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do Not Use On children less than 2 months of age. In open skin wounds.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor. If irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+inactive_ingredient:
+  Inactive Ingredients: Glycerin, hydrogen peroxide, purified water USP
+package_label_principal_display_panel:
+  Package Labeling:946 mL Label2
+  Package Labeling:3785 mL hs liquid homeland_spray
+set_id:
+  b12aad8f-ce89-aa17-e053-2995a90a6c89
+id:
+  b12ab2aa-f59d-af6c-e053-2a95a90a356f
+effective_time:
+  20201008
+version:
+  1
+openfda:

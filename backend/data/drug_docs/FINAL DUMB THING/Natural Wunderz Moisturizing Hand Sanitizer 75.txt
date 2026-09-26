@@ -1,0 +1,29 @@
+effective_time:
+  20200625
+inactive_ingredient:
+  INACTIVE INGREDIENTS Purified Water (Aqua), Aloe Barbadensis (Aloe Vera) Leaf Juice, Tocopheryl Acetate (Vitamin E) Oil, Glycerin, Carbomer, Aminomethyl Propanol, Fragrance (Parfum), Hydrated Chromium Oxide BC CI 77288
+purpose:
+  PURPOSE ANTIMICROBIAL
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS Flammable Keep away from fire or flame. For external use only. When using this product Do not use near the eyes. In case of contact, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Natural Wunderz Moisturizing Hand Sanitizer 75 PERCENT Ethyl Alcohol ALCOHOL ALCOHOL WATER ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE AMINOMETHYLPROPANOL CHROMIUM HYDROXIDE GREEN
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS Apply all over hands until dry. Children should be supervised at all times using this product.
+storage_and_handling:
+  OTHER INFORMATION Store below 110°F (43°C). May discolor certain fabrics, or surfaces.
+package_label_principal_display_panel:
+  01b LBL_12oz Hand Sanitizer Aloe Vera_front 01b LBL_12oz Hand Sanitizer Fragrance Free Drug Facts_back
+indications_and_usage:
+  USE Hand sanitizer can reduce bacteria on the skin
+set_id:
+  d0a95766-f151-4212-811a-220ac9de8e5f
+id:
+  b8dbe928-0b44-4b21-9b41-8af4dc8763e9
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl Alcohol 75% v/v

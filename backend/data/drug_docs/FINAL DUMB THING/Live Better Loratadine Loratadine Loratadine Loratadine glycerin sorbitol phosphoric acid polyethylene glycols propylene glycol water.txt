@@ -1,0 +1,46 @@
+effective_time:
+  20130221
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+questions:
+  Questions? Call 1-866-923-4914
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information safety sealed: do not use if imprinted safety seal is torn or missing store between 20° and 25°C (68° and 77°F)
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+set_id:
+  ae7efe12-460f-4857-bbf1-3417de3557e9
+id:
+  f2e73f4c-202e-41bc-8d51-72fdad9273ab
+active_ingredient:
+  Active ingredient (in each 5 mL teaspoonful) Loratadine 5 mg
+dosage_and_administration_table:
+  <table width="65%" styleCode="Noautorules"> <col width="30%" align="left" valign="top"/> <col width="70%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults and children 6 years and over</td> <td>2 teaspoonfuls (tsp) daily; do not take more than 2 teaspoonfuls (tsp) in 24 hours</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children 2 to under 6 years of age</td> <td>1 teaspoonful (tsp) daily; do not take more than 1 teaspoonful (tsp) in 24 hours</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children under 2 years of age</td> <td>ask a doctor</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">consumers with liver or kidney disease</td> <td>ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients glycerin, grape flavor, maltitol solution, masking agent, noncrystallizing sorbitol solution, phosphoric acid, polyethylene glycol, propylene glycol, purified water, sodium benzoate, sodium metabisulfite, sodium phosphate monobasic dihydrate, sucralose powder.
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  Live Better Loratadine Loratadine Loratadine Loratadine glycerin sorbitol phosphoric acid polyethylene glycols propylene glycol water sodium benzoate sodium metabisulfite sodium phosphate, monobasic, dihydrate colorless to slightly yellow sugar free
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions use only with enclosed dosing cup adults and children 6 years and over 2 teaspoonfuls (tsp) daily; do not take more than 2 teaspoonfuls (tsp) in 24 hours children 2 to under 6 years of age 1 teaspoonful (tsp) daily; do not take more than 1 teaspoonful (tsp) in 24 hours children under 2 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  DISTRIBUTED BY ONPOINT, INC. 2 PARAGON DRIVE, MONTVALE, NJ 07645
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 120 mL Bottle Carton NDC 51143-092-08 Compare to the active ingredient in Children's Claritin ® * LiveBetter Original Prescription Strength Loratadine Syrup (Loratadine Oral Solution) 5 mg/5 mL Antihistamine 24 Hour Non-Drowsy † Allergy Relief SUGAR FREE GRAPE FLAVORED SYRUP INDOOR & OUTDOOR ALLERGIES RELIEF OF: SNEEZING, RUNNY NOSE, ITCHY, WATERY EYES, ITCHY THROAT OR NOSE DOSAGE CUP ENCLOSED AGES TWO YEARS AND OLDER †WHEN TAKEN AS DIRECTED. SEE DRUG FACTS PANEL. 4 FL OZ (120 mL) Principal Display Panel - 120 mL Bottle Carton

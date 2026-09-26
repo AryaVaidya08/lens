@@ -1,0 +1,31 @@
+effective_time:
+  20180207
+inactive_ingredient:
+  Inactive Ingredient Citric Acid, Glycerin, Nonoxyol-10, Sodium Hydroxide, Water
+purpose:
+  Purpose: Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately
+warnings:
+  Warnings: Do not use if allergic to iodine in the eyes For external use only Avoid "pooling" beneath patients.
+spl_product_data_elements:
+  Cure Three Povidone Iodine POVIDONE-IODINE POVIDONE-IODINE IODINE WATER CITRIC ACID MONOHYDRATE SODIUM HYDROXIDE GLYCERIN NONOXYNOL-10
+ask_doctor:
+  Ask a doctor before use if injuries are deep or puncture wounds serious burns Stop use and ask a doctor if redness, irritation, swelling, or pain persists or increases infection occurs
+other_safety_information:
+  Other information 1% titratable iodine Not made with natural rubber latex For hospital or professional use only Single use only
+openfda:
+version:
+  1
+dosage_and_administration:
+  Apply locally as need
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Use: Antiseptic skin preparation
+set_id:
+  5b21e61d-9fdb-47aa-a7b9-760bc33f8ecf
+id:
+  5966fde6-d2df-4d20-8872-996fbe60ae37
+active_ingredient:
+  Active Ingredient: Povidone-Iodine USP (10%)

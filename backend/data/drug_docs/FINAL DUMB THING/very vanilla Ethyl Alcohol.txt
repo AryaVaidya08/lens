@@ -1,0 +1,35 @@
+effective_time:
+  20170626
+inactive_ingredient:
+  Inactive Ingredients carbomer 940, glycerin, propylene glycol, red 33, tocopheryl acetate, triethanolamine, water
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only.
+spl_product_data_elements:
+  very vanilla Ethyl Alcohol ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) GLYCERIN PROPYLENE GLYCOL D&C RED NO. 33 .ALPHA.-TOCOPHEROL ACETATE TROLAMINE WATER
+other_safety_information:
+  Flammable. Keep away from fire or flame.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Put a dime sized drop onto hands and rub together briskly until dry.
+stop_use:
+  Stop use and ask a doctor if irritation, excessive redness or rash develops.
+storage_and_handling:
+  Other Information Store below 110° F (43° C)
+do_not_use:
+  Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Uses hand sanitizer to reduce bacteria on skin
+set_id:
+  cb4ad9f3-ee7e-4bae-b79f-811b0ec60467
+id:
+  84f1caba-9642-4c81-aeb7-c2254163c766
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 65 % v/v

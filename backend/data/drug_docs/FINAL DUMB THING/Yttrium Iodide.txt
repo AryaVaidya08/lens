@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE Yttrium Iodide Yttrium Iodide SUCROSE YTTRIUM IODIDE YTTRIUM IODIDE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Yttrium Iodide 6C 5g Yttrium Iodide 6C 30g Yttrium Iodide 6C 100g Yttrium Iodide 12C 5g Yttrium Iodide 12C 30g Yttrium Iodide 12C 100g Yttrium Iodide 30C 1g Yttrium Iodide 30C 5g Yttrium Iodide 30C 30g Yttrium Iodide 30C 100g Yttrium Iodide 100C 1g Yttrium Iodide 100C 5g Yttrium Iodide 100C 30g Yttrium Iodide 100C 100g Yttrium Iodide 200C 1g Yttrium Iodide 200C 5g Yttrium Iodide 200C 30g Yttrium Iodide 200C 100g Yttrium Iodide 500C 1g Yttrium Iodide 500C 5g Yttrium Iodide 500C 30g Yttrium Iodide 500C 100g Yttrium Iodide 1M 1g Yttrium Iodide 1M 5g Yttrium Iodide 1M 30g Yttrium Iodide 1M 100g Yttrium Iodide LM1 30g
+set_id:
+  fb4d90fa-a23a-c08a-e053-6294a90a852d
+id:
+  fb4d90fa-a23b-c08a-e053-6294a90a852d
+effective_time:
+  20230509
+version:
+  1
+openfda:
+  brand_name:
+    Yttrium Iodide
+  generic_name:
+    YTTRIUM IODIDE
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-3156
+    37662-3159
+    37662-3158
+    37662-3157
+    37662-3162
+    37662-3163
+    37662-3160
+    37662-3161
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    YTTRIUM IODIDE
+  spl_id:
+    fb4d90fa-a23b-c08a-e053-6294a90a852d
+  spl_set_id:
+    fb4d90fa-a23a-c08a-e053-6294a90a852d
+  package_ndc:
+    37662-3159-1
+    37662-3159-2
+    37662-3159-3
+    37662-3159-4
+    37662-3158-1
+    37662-3158-2
+    37662-3158-3
+    37662-3158-4
+    37662-3156-1
+    37662-3156-2
+    37662-3156-3
+    37662-3157-1
+    37662-3157-2
+    37662-3157-3
+    37662-3162-1
+    37662-3162-2
+    37662-3162-3
+    37662-3162-4
+    37662-3163-1
+    37662-3160-1
+    37662-3160-2
+    37662-3160-3
+    37662-3160-4
+    37662-3161-1
+    37662-3161-2
+    37662-3161-3
+    37662-3161-4
+  is_original_packager:
+    True
+  unii:
+    IWJ2Y80D1J

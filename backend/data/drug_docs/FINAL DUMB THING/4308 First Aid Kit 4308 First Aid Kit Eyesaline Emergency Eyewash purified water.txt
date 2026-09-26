@@ -1,0 +1,108 @@
+spl_product_data_elements:
+  4308 First Aid Kit 4308 First Aid Kit Eyesaline Emergency Eyewash purified water SODIUM CHLORIDE SODIUM PHOSPHATE, DIBASIC SODIUM PHOSPHATE, MONOBASIC, MONOHYDRATE WATER WATER Ammonia Inhalent ammonia inhalent ALCOHOL AMMONIA AMMONIA PAWS ethyl alcohol TROLAMINE WATER ALOE VERA LEAF ALCOHOL ALCOHOL PVP Iodine Wipe povidone-iodine 10% NONOXYNOL-9 WATER POVIDONE-IODINE IODINE Burn Jel gel for burns TROLAMINE CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) DIAZOLIDINYL UREA EDETATE DISODIUM EDETIC ACID PROPYLPARABEN OCTOXYNOL-9 DIPROPYLENE GLYCOL TEA TREE OIL GLYCERIN METHYLPARABEN LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS Aypanal Non-Aspirin acetaminophen STARCH, CORN STEARIC ACID POVIDONE SODIUM STARCH GLYCOLATE TYPE A CORN ACETAMINOPHEN ACETAMINOPHEN circle;U
+active_ingredient:
+  Eyesaline Active ingredient Sterile Water 99%
+  Ammonia Inhalent Active ingredient Ammonia 15%
+  Burn Jel Active ingredient Lidocaine HCl 2.0%
+  Povidone Iodine Swab Active ingredient Povidone-iodine solution USP, 10% (equivalent to 1% titratable iodine)
+  Aypanal Active ingredient Acetaminophen 325 mg
+  PAWS Active ingredient Ethyl alcohol 66.5%
+purpose:
+  Eyesaline Purpose Eyewash
+  Ammonia Inhalent Purpose Respiratory stimulant
+  Burn Jel Purpose External analgesic
+  Povidone Iodine Swab Purpose First aid antiseptic
+  Aypanal Purpose Pain reliever/ fever reducer
+  PAWS Purpose Antiseptic
+indications_and_usage:
+  Eyesaline Uses for flushing the eye to remove loose foreign material, air pollutants or chlorinated water
+  Ammonia Inhalent Uses to prevent or tret fainting
+  Burn Jel Uses temporarily relieves pain due to minor burns
+  Povidone Iodine Swab Uses first aid to help prevent the risk of infection in minor cuts, scrapes, and burns
+  Aypanaly Uses temporarily relieves minor aches and pains due to the common cold and headache - temporarily reduces fever Keep out of reach of children. Keep out of reach of children.
+  PAWS USes for handwashing to decrease bacteria on skin whenever soap and water is not readily available
+warnings:
+  Eyesaline Warnings For external use only- Obtain immediate medical treatment for all open wounds in or near eyes. To avoid contamination, do not touch tip of container to any surface. Do not reuse. Once opened, discard. Do not use if solution changes color or becomes cloudy if you have open wounds in or near the eyes, get medical help right away. Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye condition worsens or persists Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  Ammonia Inhalent Warnings For external use only Do not use if you have breathing problems such as asthma or emphysema Stop use and ask a doctor if condition persists Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+  Burn Jel Warnings For external use only Do not use on large areas of the body, particularly over raw surfaces or blistered areas When using this product avoid contact with eyes Stop use and ask a doctor if the condition gets worse symptoms persist for more than 7 days condition clears up and recurs within a few days Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  Povidone Iodine Swab Warnings For external use only Do not use over large areas of the body on individuals who are allergic or sensitive to iodine Ask a doctor before use if you have deep or puncture wounds, animal bites serious burns When using this product do not use longer than one wek unless directed by a doctor Stop use and ask a doctor if conditions persists or gets worse irritation and redness develops Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+  Aypanal Warnings Liver warning : This product contains acetaminophen. Severe liver damage may occur if you take: more than 4,000 mg in 24 hours, which is the maximum daily amount child takes more than 5 doses in 24 hours, which is the maximum daily amount taken with other drugs containing acetaminophen adult has 3 or more alcoholic drinks every day while using this product: Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin rash occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if you have liver disease Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin Stop using and ask a doctor if pain gets worse or lasts more than 10 days in adults pain gets worse or lasts more than 5 days in children under 12 years fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use. Overdose warning In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+  PAWS Warnings For external use only Flammable: keep away from fire or flame Do not use in the eyes. If this happens, rinse thoroughly with water. Stop use and ask a doctor if irritation or redness develop and persists for more than 72 hours Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use if solution changes color or becomes cloudy if you have open wounds in or near the eyes, get medical help right away.
+  Do not use if you have breathing problems such as asthma or emphysema
+  Do not use on large areas of the body, particularly over raw surfaces or blistered areas
+  Do not use over large areas of the body on individuals who are allergic or sensitive to iodine
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist.
+  Do not use in the eyes. If this happens, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye condition worsens or persists
+  Stop use and ask a doctor if condition persists
+  Stop use and ask a doctor if the condition gets worse symptoms persist for more than 7 days condition clears up and recurs within a few days
+  Stop use and ask a doctor if conditions persists or gets worse irritation and redness develops
+  Stop using and ask a doctor if pain gets worse or lasts more than 10 days in adults pain gets worse or lasts more than 5 days in children under 12 years fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur
+  Stop use and ask a doctor if irritation or redness develop and persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children If swallowed get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+  Keep out of reach of children. Keep out of reach of children.
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Eyesaline Directions remove contacts before using twist top to remove flush the affected area as needed control rate of flow by pressure on the bottle if necessary, continue flushing with emergency eyewash or shower
+  Ammonia Inhalent Directions hold inhalant away from face and crush ampoule between thumb and forefinger at position indicated on sleeve. hold near nostrils for inhalation of volatile vapor
+  Burn Jel Directions adults and children 2 years of age and older; apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor you may report a serious reaction to this product to 800-430-5490
+  Povidone Iodine Swab Directions Reverse cardboard sleeve, then crush at dot between thumb and forefinger. Allow solution to saturate tip and apply solution to injury. clean affected area apply to affected area 1 to 3 times daily may be covered with a sterile bandage discard swab after single use
+  Aypanal Directions do not take more than directed (see overdose warning) ​adults and children 12 years of age or older take two tablets every 4-6 hours while symptoms last do not take more than 12 tablets in 24 hours children 6 to under 12 years of age take 1 tablet every 4-6 hours while symptoms last do not take more than 5 tablets in 24 hours children under 6 years consult a doctor
+  PAWS Directions wet hands and wrists thoroughly for 15 seconds and allow to air dry always reseal after use children under 6 years of age should be supervised when using this product
+inactive_ingredient:
+  Eyesaline Inactive ingredients sodium chloride, sodium phosphate dibasic, sodium phosphate monobasic
+  Ammonia Inhalent Inactive ingredients alcohol USP, FD&C red #40, lavender oil, lemon oil fcc, nutmeg oil, purified water
+  Burn Jel Inactive ingredients carbopol 940, carbopol 1342, diazolidinyl urea, glycerin, melaleuca alternifolia (tea tree) leaf oil, methylparaben, octoxynol-9, propylene glycol, propylparaben, trolamine, water ...
+  Povidone Iodine Swab Inactive ingredients citric acid, disodium phosphate,nonoxynol-9, sodium hydroxide, water
+  Aypanal Inactive ingredients corn starch, microcrystalline cellulose, povidone, sodium starch glycolate, stearic acid
+  PAWS Inactive ingredients aloe vera, fragrance, purified water, triethanolamine
+questions:
+  Eyesaline Questions 1-800-430-5490 Honeywell Sadety Products USA, Inc. Smithfield, RI 02917
+  Ammonia Inhalent Questions or Comments 1-800-430-5490
+  Burn Jel Questions 1-800-430-5490
+  Povidone Iodine Swab Questions and comments 1-800-430-5490
+  Aypanal Questions 1-800-430-5490
+  PAWS Questions 1-800-430-5490
+spl_unclassified_section:
+  Ammonia Inhalent Other information store at room temperature away from light
+  Ammonia Inhalent Other information store at room temperature away from light
+  Burn Jel Other information store at room temperature do not use if opened or torn
+  Povidone Iodine Swab Other information store at room temperature away from light keep from freezing or excessive heat do not use if package is torn or open
+  Aypanal Other information store at room temperature 15 0 to 30 0 C (59 0 - 86 0 F) TAMPER EVIDENT PACKETS- DO NOT USE IF OPEN OR TORN
+  4308 SF00004419 Kit Contents 1 3/4 X 3 PLAS 100/BOX 1 GAUZE BANDAGE, 4" X 6 YD 2 INSTANT COLD PACK 4" X 6" 1 BURN JEL 1/8 OZ, 6 PER 1 ADHESIVE TAPE W/P 1/2"X 5 YD 1 FIRST AID GUIDE ASHI 0.2 CARTON DISP COOL JEL 1/8 OZ 1 GZE PADS STERILE 3"X 3" 10'S 5 CO-FLEX BAND 1"X5YD TAN 2/PACK 6 PVP PREP PADS MEDIUM 6 PAWS PERS ANTIMICRO WIPE 1 OZ, BUFF EYEWASH 1 SCISSOR BDGE 4" RED PLS HDL 1 KIT TWEEZER 3 1/2" SLANTED LBL STOCK 6-3/8"X4" LBL STOCK 4"X2-7/8" 1 LBL STOCK 3"x1-7/8" 2 PR LRG NITRILE GLVES ZIP BAG 1 KIT STL BULK MEDIUM 1 TRI BNDG NON WOVEN 40"X40"X56" 4 EYE PADS STD OVAL STERILE 1 WOVEN KNUCKLE 8'S 2 AYPANAL NON-ASP 25/2 5 AMMONIA INHALANT, BULK
+when_using:
+  When using this product avoid contact with eyes
+  When using this product do not use longer than one wek unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds, animal bites serious burns
+  Ask a doctor before use if you have liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding If pregnant or breast-feeding, ask a health professional before use.
+overdosage:
+  Overdose warning In case of accidental overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+package_label_principal_display_panel:
+  Eyesaline Principal Display Panel Eyesaline
+  Ammonia inhalent Principal Display Panel Ammonia Inhalant
+  Burn Jel Principal Display Panel Burn Jel
+  Povidone Iodine Swab Principal Display Panel PVP Swab
+  Aypanal Principal Display Panel Aypanal
+  PAWS Principal Display Panel PAWS
+  4308 Kit Label SF00004419 4308 label
+set_id:
+  88900fb4-bb5f-2736-e053-2995a90a9dda
+id:
+  0eb4f390-4ab8-352c-e063-6294a90a0bed
+effective_time:
+  20240111
+version:
+  5
+openfda:

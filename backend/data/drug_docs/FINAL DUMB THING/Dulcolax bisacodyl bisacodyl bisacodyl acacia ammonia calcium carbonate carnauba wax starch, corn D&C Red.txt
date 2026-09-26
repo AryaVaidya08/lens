@@ -1,0 +1,43 @@
+effective_time:
+  20140710
+inactive_ingredient:
+  Inactive ingredients acacia, ammonium hydroxide, calcium carbonate, carnauba wax, corn starch, D&C Red # 27 aluminum lake, FD&C Blue # 2 aluminum lake, FD&C Yellow #6 aluminum lake, hypromellose, iron oxide black, lactose, magnesium stearate, methylparaben, polydextrose, polyethylene glycol, polyvinyl acetate phthalate, povidone, propylene glycol, propylparaben, shellac, silica, simethicone, sodium alginate, sodium benzoate, sodium bicarbonate, stearic acid, sucrose, talc, titanium dioxide, triacetin, triethyl citrate
+purpose:
+  Use for temporary relief of occasional constipation and irregularity this product generally produces bowel movement in 6 to 12 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if you cannot swallow without chewing
+when_using:
+  When using this product do not chew or crush tablet(s) it may cause stomach discomfort, faintness and cramps do not use within 1 hour after taking an antacid or milk
+questions:
+  Questions? Call toll-free 1-888-285-9159 (English/Spanish) Or visit www.DULCOLAX.com
+spl_product_data_elements:
+  Dulcolax bisacodyl bisacodyl bisacodyl acacia ammonia calcium carbonate carnauba wax starch, corn D&C Red NO. 27 aluminum oxide FD&C Blue NO. 2 FD&C Yellow NO. 6 hypromelloses ferrosoferric oxide lactose magnesium stearate methylparaben polydextrose polyethylene glycols polyvinyl acetate phthalate povidone propylene glycol propylparaben shellac silicon dioxide sodium alginate sodium benzoate sodium bicarbonate stearic acid sucrose talc titanium dioxide triacetin triethyl citrate Round DW
+ask_doctor:
+  Ask a doctor before use if you have stomach pain, nausea or vomiting a sudden change in bowel habits that lasts more than 2 weeks
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions take with a glass of water adults and children 12 years and over 1 to 3 tablets in a single daily dose children 6 to under 12 years of age 1 tablet in a single daily dose children under 6 years of age ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+storage_and_handling:
+  Other information store at controlled room temperature 15°-30°C (59°- 86°F) avoid excessive humidity
+active_ingredient_table:
+  <table ID="t4390922" border="0"> <colgroup> <col/> <col/> </colgroup> <tbody> <tr> <td> <content styleCode="italics"> <content styleCode="bold">Drug Facts</content> </content> </td> <td> </td> </tr> <tr> <td> <content styleCode="italics"> <content styleCode="bold">Active ingredient (in each tablet)</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold">Purpose</content> </content> </td> </tr> <tr> <td>Bisacodyl USP 5 mg .................................................................................</td> <td>Stimulant laxative</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  Dulcolax For Women Bisacodyl 5mg NDC: 0597-0150-26 Dulcolax for Women Carton
+indications_and_usage:
+  
+set_id:
+  1cf7ab57-2a41-ee23-c2a7-c53551da9643
+id:
+  4628d050-4931-3c01-7037-c25aa9a0e95d
+active_ingredient:
+  Drug Facts Active ingredient (in each tablet) Purpose Bisacodyl USP 5 mg ................................................................................. Stimulant laxative
+dosage_and_administration_table:
+  <table ID="t3865122" border="1" width="70%"> <caption> take with a glass of water</caption> <colgroup> <col/> <col/> </colgroup> <tbody> <tr> <td align="justify">adults and children 12 years and over</td> <td align="justify">1 to 3 tablets in a single daily dose</td> </tr> <tr> <td align="justify">children 6 to under 12 years of age</td> <td align="justify">1 tablet in a single daily dose</td> </tr> <tr> <td align="justify">children under 6 years of age</td> <td align="justify">ask a doctor</td> </tr> </tbody> </table>

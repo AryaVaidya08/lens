@@ -1,0 +1,29 @@
+effective_time:
+  20200722
+inactive_ingredient:
+  INERT INGREDIENTS: Water, Cocamidopropyl Betaine, PEG 150 Distearate, Caprylyl Glucoside, Glycerine, Cocamide MIPA, Tetrasodium EDTA, Fragrance, Citric Acid, Aloe Vera, Benzisothiazol, Methylisothiozol, Yellow #5, Red #40
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center immediately.
+warnings:
+  Warnings For external use only.
+spl_product_data_elements:
+  Entral Golden Touch Antibacterial Hand Benzalkonium Chloride WATER COCAMIDOPROPYL BETAINE PEG-150 DISTEARATE CAPRYLYL GLUCOSIDE GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions Apply to wet hands. Work into a lather and rinse thoroughly. Children under 6 years of age should be supervised when using this product.
+general_precautions:
+  When Using this Product Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Do not ingest. Stop use and contact a doctor if irritation and redness develop and conditions persist.
+package_label_principal_display_panel:
+  Entral Golden Touch Antibacterial Hand Soap Entral Golden Touch Antibacterial Hand Soap image description
+indications_and_usage:
+  Uses For hand washing to decrease bacteria on the skin.
+set_id:
+  90a2ab45-09dc-4625-b074-13917becf45e
+id:
+  ab0e43cd-c624-8463-e053-2995a90a5657
+active_ingredient:
+  ACTIVE INGREDIENT Benzalkonium Chloride............0.13%

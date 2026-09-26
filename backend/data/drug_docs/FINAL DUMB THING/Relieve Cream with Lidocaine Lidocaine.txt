@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Relieve Cream with Lidocaine Lidocaine WATER BENZYL ALCOHOL HYDROGENATED SOYBEAN LECITHIN PROPYLENE GLYCOL 2-STEARATE TROLAMINE SALICYLATE CHOLESTEROL CARBOMER 1342 ISOPROPYL MYRISTATE POLYSORBATE 80 ALPHA-TOCOPHEROL ACETATE LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS
+active_ingredient:
+  Active Ingredient Lidocaine ............. 0.5%
+purpose:
+  Lidocaine 0.5% ............. Pain Reliever
+indications_and_usage:
+  Temporary relief of pain and itching due to - sunburn - minor burn - insect bites - minor cuts - scraps
+warnings:
+  Warnings For external use only When using this product keep out of eyes Rinse with warter to remove
+stop_use:
+  Sop use and ask a doctor system persist for more than 7 days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Direction Adults and children 2 years and older: aooly to affected area not more that 3-4 times a day Children under 2 years of age: consult a physician.
+inactive_ingredient:
+  Inactive Ingredients: Aloe Barbadensis Leaf Extract, Carbomer, Diazolidinyl Urea, Disodium EDTA, Glycerin, Isopropyl Alcohol, Menthol, Polysorbate 80, Propylene Glycol, Triethanolamine, Water, Yellow 5.
+package_label_principal_display_panel:
+  Mad Rabbit
+set_id:
+  ecfac63b-c32d-06d2-e053-2995a90aecba
+id:
+  ecfac4c2-efae-37b2-e053-2a95a90a3ad5
+effective_time:
+  20221108
+version:
+  5
+openfda:

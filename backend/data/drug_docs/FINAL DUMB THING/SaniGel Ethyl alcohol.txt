@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  SaniGel Ethyl alcohol ALCOHOL ALCOHOL 2-CARBOXYETHYL ACRYLATE AMMONIUM ACRYLOYLDIMETHYLTAURATE GLYCERIN WATER
+spl_unclassified_section:
+  Drug Facts
+  MADE IN THE USA NEED GEL? SaniStationola.com (504) 609-2255 MANUFACTURED BY: HIGLEY INDUSTRIES, INC. DUBUQUE, IA 52003 WWW.HIGLEYINC.COM
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses • hand sanitizer to decrease bacteria on the skin • recommended for repeated use • for use when soap and water are not available.
+warnings:
+  Warnings Flammable, keep away from fire/flame For external use only Do not use • in children less than 2 months of age • on open skin wounds When using this product • do not get into eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask a doctor if • irritation and redness develop • condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • wet hands thoroughly with product and allow to dry without wiping • supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information • store between 15-30°C (59-86°F) • avoid freezing and excessive heat above 40°C (104°F) • do not reuse container. Dispose of properly
+inactive_ingredient:
+  Inactive ingredients 2-carboxyethyl acrylate crosspolymer, Acryloyldimethyltaurate, Ammonium, Glycerol, Water
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  e63b698c-541c-4a22-8270-1af2db5d8682
+id:
+  4ef039ad-50b5-48e4-a7b9-c24b3f738b4f
+effective_time:
+  20200918
+version:
+  1
+openfda:

@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  stay awake CAFFEINE SILICON DIOXIDE CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 ALUMINUM OXIDE CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS FD&C YELLOW NO. 6 MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE STARCH, PREGELATINIZED CORN CAFFEINE CAFFEINE LL64;57344
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each tablet) Caffeine 200 mg
+purpose:
+  Purpose Alertness aid
+indications_and_usage:
+  Use helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness
+warnings:
+  Warnings For occasional use only Do not use in children under 12 years of age as a substitute for sleep When using this product limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as a cup of coffee. Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  For occasional use only Do not use in children under 12 years of age as a substitute for sleep
+when_using:
+  When using this product limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as a cup of coffee.
+stop_use:
+  Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: take 1 tablet not more often than every 3 to 4 hours
+storage_and_handling:
+  Other information each tablet contains: calcium 80 mg store between 20-25°C (68-77°F) retain carton for complete product information and warnings
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, D&C yellow #10 aluminum lake, dibasic calcium phosphate, FD&C yellow #6 aluminum lake, magnesium stearate, microcrystalline cellulose, pregelatinized starch
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 56062-030-01 P stayawake CAFFEINE ALERTNESS AID • Equal to about a cup of coffee Actual Size 16 TABLETS 200 mg EACH †Compare to the active ingredient in Vivarin® Tablets image description
+set_id:
+  aaf84add-6afd-f1d9-e053-2995a90a6075
+id:
+  253da9fc-016c-4c4a-e063-6294a90ab864
+effective_time:
+  20241024
+version:
+  3
+openfda:
+  application_number:
+    M011
+  brand_name:
+    stay awake
+  generic_name:
+    CAFFEINE
+  manufacturer_name:
+    PUBLIX SUPER MARKETS INC
+  product_ndc:
+    56062-030
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CAFFEINE
+  rxcui:
+    198520
+  spl_id:
+    253da9fc-016c-4c4a-e063-6294a90ab864
+  spl_set_id:
+    aaf84add-6afd-f1d9-e053-2995a90a6075
+  package_ndc:
+    56062-030-01
+  is_original_packager:
+    True
+  upc:
+    0041415507739
+  nui:
+    N0000175739
+    N0000175729
+    N0000175790
+    M0023046
+  pharm_class_epc:
+    Central Nervous System Stimulant [EPC]
+    Methylxanthine [EPC]
+  pharm_class_pe:
+    Central Nervous System Stimulation [PE]
+  pharm_class_cs:
+    Xanthines [CS]
+  unii:
+    3G6A5W338E

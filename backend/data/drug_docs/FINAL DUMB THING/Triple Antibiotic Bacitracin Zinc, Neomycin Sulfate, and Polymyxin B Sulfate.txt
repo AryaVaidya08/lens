@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Triple Antibiotic Bacitracin Zinc, Neomycin Sulfate, and Polymyxin B Sulfate PETROLATUM BACITRACIN ZINC BACITRACIN NEOMYCIN SULFATE NEOMYCIN POLYMYXIN B SULFATE POLYMYXIN B
+active_ingredient:
+  • ACTIVE INGREDIENT Active ingredient (in each gram) Purpose Bacitracin Zinc 400 Units First Aid Antibiotic Neomyxin Sulfate 5mg (Equivalent to 3.5 mg Neomyxin) First Aid Antibiotic Polymyxin B Sulfate 5000 Units First Aid Antibiotic
+active_ingredient_table:
+  <table width="75%"><col width="65%" align="left" valign="middle"/><col width="35%" align="left" valign="middle"/><thead><tr><th>Active ingredient (in each gram)</th><th> Purpose</th></tr></thead><tbody><tr><td>Bacitracin Zinc 400 Units</td><td>First Aid Antibiotic</td></tr><tr><td>Neomyxin Sulfate 5mg (Equivalent to 3.5 mg Neomyxin)</td><td>First Aid Antibiotic</td></tr><tr><td>Polymyxin B Sulfate 5000 Units</td><td>First Aid Antibiotic</td></tr></tbody></table>
+purpose:
+  Active ingredient (in each gram) Purpose Bacitracin Zinc 400 Units First Aid Antibiotic Neomyxin Sulfate 5mg (Equivalent to 3.5 mg Neomyxin) First Aid Antibiotic Polymyxin B Sulfate 5000 Units First Aid Antibiotic
+purpose_table:
+  <table width="75%"><col width="65%" align="left" valign="middle"/><col width="35%" align="left" valign="middle"/><thead><tr><th>Active ingredient (in each gram)</th><th> Purpose</th></tr></thead><tbody><tr><td>Bacitracin Zinc 400 Units</td><td>First Aid Antibiotic</td></tr><tr><td>Neomyxin Sulfate 5mg (Equivalent to 3.5 mg Neomyxin)</td><td>First Aid Antibiotic</td></tr><tr><td>Polymyxin B Sulfate 5000 Units</td><td>First Aid Antibiotic</td></tr></tbody></table>
+indications_and_usage:
+  • USES first aid to help prevent infection in minor: cuts scrapes burns
+warnings:
+  • WARNINGS For external use only • DO NOT USE in the eyes if you are allergic to any of the ingredients over large areas of the body • ASK A DOCTOR BEFORE USE IF YOU HAVE Animal bites Serious burns Deep or puncture wounds • STOP USE AND ASK A DOCTOR IF You need to use longer than 1 week Condition persists or gets worse Rash or other allergic reaction develops • KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  • DO NOT USE in the eyes if you are allergic to any of the ingredients over large areas of the body
+ask_doctor:
+  • ASK A DOCTOR BEFORE USE IF YOU HAVE Animal bites Serious burns Deep or puncture wounds
+stop_use:
+  • STOP USE AND ASK A DOCTOR IF You need to use longer than 1 week Condition persists or gets worse Rash or other allergic reaction develops
+keep_out_of_reach_of_children:
+  • KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  • DIRECTIONS clean the affected areas apply a small amount of product (an amount equal to the surface area of the tip of the finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+storage_and_handling:
+  • OTHER INFORMATION store at controlled room temperature 15°-30° C (59°-86° F)
+inactive_ingredient:
+  • INACTIVE INGREDIENTS White Petrolatum
+spl_unclassified_section:
+  Manufactured by : Galentic Pharma (India) Pvt. Ltd. , Plot No. 5-B & 5-C, Sector III, Kandla Special Economic Zone, Gandhidham-370 230, Gujrat. India
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 28 g Tube Carton Galentic Triple Antibiotic Ointment FIRST AID ANTIBIOTIC Helps Prevent Infection in Minor Cuts, Scrapes and Burns Bacitracin zinc, Neomycin Sulfate, Polymyxin-B Sulfate PRINCIPAL DISPLAY PANEL - 28 g Tube Carton
+set_id:
+  06dbbb55-9464-4c50-9fb1-cc1c4496c60a
+id:
+  f3b1d701-169b-b3a2-e053-2a95a90ae9f5
+effective_time:
+  20230202
+version:
+  5
+openfda:

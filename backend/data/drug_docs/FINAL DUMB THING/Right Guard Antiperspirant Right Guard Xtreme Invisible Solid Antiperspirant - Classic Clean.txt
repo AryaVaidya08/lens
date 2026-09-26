@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Classic Clean CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Ocean Rush CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Frozen Rain CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Alpine Edge CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Arctic Refresh CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Pure Cool CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Fresh Blast CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY Right Guard Antiperspirant Right Guard Xtreme Invisible Solid Antiperspirant - Forest Spring CYCLOMETHICONE ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY
+active_ingredient:
+  Active ingredient Aluminum Zirconium Trichlorohydrex GLY 16.4%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Use • Reduces underarm perspiration • Extra effective
+warnings:
+  Warnings For external use only. Do not use on broken skin. Stop use and ask a doctor if rash or irritation occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Ask a doctor before use if you have kidney disease.
+do_not_use:
+  Do not use on broken skin.
+stop_use:
+  Stop use and ask a doctor if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease.
+dosage_and_administration:
+  Directions Apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients Cyclomethicone • Stearyl Alcohol • PPG-14 Butyl Ether • Ceteareth-30 • PEG-40 Hydrogenated Castor Oil • Cetyl Alcohol • Myristyl Myristate • Parfum (Fragrance) • Polyethylene • Hydrogenated Castor Oil • Aluminum Starch Octenylsuccinate • Ricinus Communis (Castor) Seed Oil • Hydrolyzed Corn Starch Octenylsuccinate • Arachidyl Alcohol • 2-Benzylheptanol • Myristyl Alcohol • Phenoxyethanol • Silica
+package_label_principal_display_panel:
+  54340-863-52 (2.1oz - 2397281 FL) 54340-863-52 (2.1oz - 2397282 BL) 54340-864-53 (2.6oz - 2390927 FL) 54340-863-53 (2.6oz - 2750564 BL) 54340-864-53 (2.6oz - 2390927 FL) 54340-864-53 (2.6oz - 2446949 BL) 54340-865-53 (2.6oz - 2491189 FL) 54340-865-53 (2.6oz - 2446963 BL) 54340-867-53 (2.6oz - 2390929 FL) 54340-867-53 (2.6oz - 2446950 BL) 54340-868-53 (2.6oz - 2390933 FL) 54340-868-53 (2.6oz - 2446962 BL) 54340-869-53 (2.6oz - 2491170 FL) 54340-869-53 (2.6oz - 2750559 BL) 54340-870-52 (2.1oz - 2394376 FL) 54340-870-52 (2.1oz - 2394377 BL) 54340-870-53 (2.6oz - 2491167 FL) 54340-870-53 (2.6oz - 2750562 BL) 54340-871-53 (2.6oz - 2773956 FL) 54340-871-53 (2.6oz - 2773957 BL)
+set_id:
+  9e75d477-1932-2287-e053-2995a90a4a2c
+id:
+  f45e5eaf-27e1-d880-e053-2a95a90ad61b
+effective_time:
+  20230210
+version:
+  4
+openfda:

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Capewest Hygiene Cleansing Hand Wash Aloe Vera BENZALKONIUM CHLORIDE WATER SODIUM LAURETH-3 SULFATE COCAMIDOPROPYL BETAINE PEG-7 GLYCERYL COCOATE GLYCERIN PEG-18 GLYCERYL OLEATE/COCOATE SODIUM CHLORIDE SUNFLOWER OIL ALOE VERA LEAF ROSEMARY EDETATE DISODIUM ANHYDROUS DIETHYLHEXYL SYRINGYLIDENEMALONATE MEDIUM-CHAIN TRIGLYCERIDES TRIS(TETRAMETHYLHYDROXYPIPERIDINOL) CITRATE ALCOHOL METHYLISOTHIAZOLINONE IODOPROPYNYL BUTYLCARBAMATE CITRAL BENZYL BENZOATE BENZYL SALICYLATE .ALPHA.-HEXYLCINNAMALDEHYDE FD&C YELLOW NO. 5 FD&C BLUE NO. 1 BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  DRUG FACTS:
+  Other imformation Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C
+active_ingredient:
+  Active Ingredients Benzalkonium Chloride 0.13% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use[s] Hand wash to help reduce bacteria that potentially can cause disease. For daily use.
+warnings:
+  Warnings For external use only. Do not use on children less than 2 months of age. on open skin wounds. When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away .
+do_not_use:
+  Do not use on children less than 2 months of age. on open skin wounds.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away .
+dosage_and_administration:
+  Directions: EN Apply generously to your hands, work into a lather covering your entire hand including between the fingers. Rinse thouroughly with water.
+inactive_ingredient:
+  Inactive Ingredients: Aqua (Water), Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-7 Glyceryl Cocaoate, Glycerin, PEG-18 Glyceryl Oleate/Cocoate, Sodium Chloride, Parfum (Fragrance), Helianthus Annuus (Sunflower) Seed Oil, Aloe Barbadensis (Aloe Vera) Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Disodium EDTA, Diethylhexyl Syringylidene Malonate, Caprylic/ Capric Triglyceride, Tris(Tetramethylhydroxypiperidinol) Citrate, Alcohol Denat., Methylisothiazolinone, Iodopropynyl Butylcarbamate, Citral, Benzyl Benzoate, Benzyl Salicylate, Hexyl Cinnamal, Cl 19140 (Yellow 5), Cl 42090 (Blue 1).
+package_label_principal_display_panel:
+  Package Labeling: Bottle
+set_id:
+  ada1f1ab-fdda-f5c6-e053-2a95a90a42f4
+id:
+  0f52c51c-df7f-e80d-e063-6394a90a1fea
+effective_time:
+  20240119
+version:
+  2
+openfda:

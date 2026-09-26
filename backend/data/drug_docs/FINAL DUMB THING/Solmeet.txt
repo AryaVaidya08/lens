@@ -1,0 +1,27 @@
+effective_time:
+  20160515
+inactive_ingredient:
+  glycerine, rosin, water, etc.
+purpose:
+  for dental care
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - do not swallow when using this product - if more than used for rinsing is accidentally swallowed, get medical helps or contact a poison control center right away
+spl_product_data_elements:
+  Solmeet CALCIUM CARBONATE GLYCERIN ROSIN WATER CALCIUM CARBONATE CALCIUM CATION CARBONATE ION
+openfda:
+version:
+  2
+dosage_and_administration:
+  apply proper amount on your toothbrush
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  use when is needed
+set_id:
+  32b0acd6-9c09-1cb6-e054-00144ff88e88
+id:
+  32de3e60-45c4-2913-e054-00144ff8d46c
+active_ingredient:
+  Calcium Carbonate

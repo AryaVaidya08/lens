@@ -1,0 +1,37 @@
+effective_time:
+  20160411
+inactive_ingredient:
+  INACTIVE INGREDIENTS Lactose
+purpose:
+  USES Headache
+keep_out_of_reach_of_children:
+  Keep this and all medication out of reach of children
+warnings:
+  WARNINGS This product is to be used for self-limiting conditions. If symptoms do not improve in 4 days, or worsen, discontinue use and seek assistance of health professional As with any drug, if you are preganant, or nursing a baby, seek professional advice before taking this product Keep this and all medication out of reach of children Do not use if capseal is broken or missing. Close the cap tightly after use.
+questions:
+  QUESTIONS OR COMMENTS www.Rxhomeo.com | 1.888.2796642 | info@rxhomeo.com Rxhomeo, Inc 9415 Burnet Road, Suite 312, Austin, TX 78758
+spl_product_data_elements:
+  Bio-Combination 12 FERRUM PHOSPHORICUM, KALI PHOSPHORICUM, MAGNESIA PHOSPHORICA, NATRUM MURIATICUM FERROSOFERRIC PHOSPHATE FERROSOFERRIC PHOSPHATE POTASSIUM PHOSPHATE, DIBASIC PHOSPHATE ION MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE MAGNESIUM CATION SODIUM CHLORIDE CHLORIDE ION LACTOSE
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE Adults- Take 4 or 6 tablets by mouth, three times daily or as suggested by physician. Children 2 years and older- take 1/2 the adult dose.
+pregnancy_or_breast_feeding:
+  As with any drug, if you are preganant, or nursing a baby, seek professional advice before taking this product
+stop_use:
+  If symptoms do not improve in 4 days, or worsen, discontinue use and seek assistance of health professional
+storage_and_handling:
+  STORAGE Store in a cool dark place
+do_not_use:
+  Do not use if capseal is broken or missing. Close the cap tightly after use.
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  INDICATIONS Condition listed above or as directed by the physician
+set_id:
+  1497c7be-59c6-4125-ae38-1a2c4d4f80d2
+id:
+  36dea673-c024-40a7-a4f8-3bbdfd2f78da
+active_ingredient:
+  ACTIVE INGREDIENT FERRUM PHOSPHORICUM 12X HPUS, KALI PHOSPHORICUM 3X HPUS, MAGNESIA PHOSPHORICA 3X HPUS, NATRUM MURIATICUM 6X HPUS

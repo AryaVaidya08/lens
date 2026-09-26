@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  CHANTECAILLE Just Skin Tinted Moisturizer Sunscreen Broad Spectrum SPF 15 TITANIUM DIOXIDE WATER CYCLOMETHICONE 5 BUTYLENE GLYCOL NEOPENTYL GLYCOL DIETHYLHEXANOATE GLYCERIN DIMETHICONE PEG-10 DIMETHICONE (600 CST) PHENYL TRIMETHICONE PENTYLENE GLYCOL MAGNESIUM SULFATE, UNSPECIFIED FORM POLYETHYLENE GLYCOL 400 ALUMINUM HYDROXIDE STEARIC ACID SILICA DIMETHYL SILYLATE MICA PHENOXYETHANOL TRIMETHYLSILOXYSILICATE (M/Q 0.6-0.8) TOCOPHEROL ALUMINUM OXIDE ALCOHOL ROSA DAMASCENA WHOLE LEONTOPODIUM NIVALE SUBSP. ALPINUM WHOLE FLOWERING THYME BUDDLEJA DAVIDII WHOLE GREEN TEA LEAF LONICERA JAPONICA FLOWER SOYBEAN SODIUM BENZOATE ETHYLHEXYLGLYCERIN POTASSIUM SORBATE FERRIC OXIDE RED TITANIUM DIOXIDE TITANIUM DIOXIDE
+spl_unclassified_section:
+  CHANTECAILLE Just Skin Tinted Moisturizer Sunscreen Broad Spectrum SPF 15
+active_ingredient:
+  ACTIVE INGREDIENT TITANIUM DIOXIDE 10.5157%
+purpose:
+  PURPOSE SUNSCREEN
+indications_and_usage:
+  USES Helps prevent sunburn If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  WARNINGS FOR EXTERNAL USE ONLY DO NOT USE On damaged or broken skin WHEN USING THIS PRODUCT Keep out of eyes. Rinse with water to remove. STOP USE AND ASK A DOCTOR If rash occurs
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Apply liberally 15 minutes before sun exposure Reapply at least every 2 hours Use a water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats and sunglasses Children under 6 months of age: Ask a doctor
+storage_and_handling:
+  OTHER INFORMATION Protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER/AQUA/EAU, CYCLOPENTASILOXANE, BUTYLENE GLYCOL, TALC, NEOPENTYL GLYCOL DIETHYLHEXANOATE, GLYCERIN, PEG-10 DIMETHICONE, DIMETHICONE, PHENYL TRIMETHICONE, PENTYLENE GLYCOL, MAGNESIUM SULFATE, PEG-400, ALUMINUM HYDROXIDE, STEARIC ACID, SILICA DIMETHYL SILYLATE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, MICA, PHENOXYETHANOL, TRIMETHYLSILOXYSILICATE, DEXTRIN PALMITATE, TOCOPHEROL, ALUMINA, ALCOHOL DEN., DAMASK ROSE (ROSA DAMASCENA) FLOWER WATER, LEONTOPODIUM ALPINUM EXTRACT, THYMUS VULGARIS (THYME) FLOWER/LEAF EXTRACT, BUDDLEJA DAVIDII EXTRACT, CAMELLIA SINENSIS LEAF EXTRACT, ALGAE EXTRACT, LONICERA JAPONICA (HONEYSUCKLE) FLOWER EXTRACT, SUPEROXIDE DISMUTASE, SODIUM DEXTRAN SULFATE, GLYCINE SOJA (SOYBEAN) PROTEIN, SODIUM BENZOATE, ETHYLHEXYLGLYCERIN, POTASSIUM SORBATE, TITANIUM DIOXIDE, IRON OXIDES
+package_label_principal_display_panel:
+  CHANTECAILLE Just Skin Tinted Moisturizer Sunscreen Broad Spectrum SPF 15 50g (42893-011-00) JustSkin1
+set_id:
+  20b2d20f-9611-4481-bd6b-df95bf4bcc82
+id:
+  fe2dcd7c-0a74-9910-e053-6294a90a74dd
+effective_time:
+  20230615
+version:
+  7
+openfda:

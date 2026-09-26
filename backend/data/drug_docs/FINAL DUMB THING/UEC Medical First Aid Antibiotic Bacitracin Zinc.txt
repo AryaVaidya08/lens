@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  UEC Medical First Aid Antibiotic Bacitracin Zinc BACITRACIN ZINC BACITRACIN PARAFFIN MINERAL OIL
+active_ingredient:
+  Active ingredient Purpose Bacitracin zinc (equal to Bacitracin 500 units)..........................First aid antibiotic
+purpose:
+  Uses first aid to help prevent infection in minor cuts scrapes burns
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use in the eyes over large areas of the body if you are allergic to any of the ingredients longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use in case of deep or puncture wounds, animal bites, or serious burns
+stop_use:
+  Stop use and ask a doctor if the condition persists or gets worse a rash or other allergic reaction develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Directions clean the affected area apply a small amount of this product (an amount equal to the surface area of the tip of a finger) on the area 1 to 3 times daily may be covered with a sterile bandage
+storage_and_handling:
+  Other information store at 15° to 25° C (59° to 77° F)
+inactive_ingredient:
+  Inactive ingredients hard paraffin, liquid paraffin, white soft paraffin
+dosage_and_administration:
+  Distributed by: UEC Medical 17211 Valley View Ave. Cerritos, CA 90703 USA
+package_label_principal_display_panel:
+  10390
+  10394
+set_id:
+  6922917a-8cb0-8557-e053-2991aa0a20fb
+id:
+  6922917a-8cb1-8557-e053-2991aa0a20fb
+effective_time:
+  20180405
+version:
+  1
+openfda:

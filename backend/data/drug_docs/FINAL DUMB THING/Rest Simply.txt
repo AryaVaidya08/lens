@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Rest Simply DIPHENHYDRAMINE HYDROCHLORIDE SILICON DIOXIDE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS FD&C BLUE NO. 1 HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE 25;052
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each caplet) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Use for relief of occasional sleeplessness
+warnings:
+  Warnings Do not use with any other product containing diphenhydramine, even one used on skin in children under 12 years of age Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product avoid alcoholic drinks Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use with any other product containing diphenhydramine, even one used on skin in children under 12 years of age
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product avoid alcoholic drinks
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over take 2 caplets at bedtime if needed, or as directed by a doctor children under 12 years of age do not use
+dosage_and_administration_table:
+  <table width="50%"><col width="40%" align="left" valign="top"/><col width="60%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 12 years of age and over</td><td>take 2 caplets at bedtime if needed, or as directed by a doctor</td></tr><tr><td styleCode="Rrule">children under 12 years of age</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each caplet contains: calcium 45 mg store at room temperature 15°-30°C (59°-86°F) retain carton for complete product information
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, dibasic calcium phosphate, FD&C blue #1, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, titanium dioxide
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Marc’s® NDC 68988-091-01 †Compare to the active ingredient in Simply Sleep® Caplets Rest Simply Diphenhydramine HCl NIGHTTIME SLEEP-AID • Helps you fall asleep Actual Size 24 CAPLETS – 25 MG EACH image description
+set_id:
+  2ab3852d-53a4-411b-a9ad-3ef88ab3ee87
+id:
+  25264c82-7b67-6e4f-e063-6294a90a3a53
+effective_time:
+  20241023
+version:
+  4
+openfda:
+  application_number:
+    M010
+  brand_name:
+    Rest Simply
+  generic_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  manufacturer_name:
+    Marc Glassman, Inc.
+  product_ndc:
+    68998-091
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1049630
+  spl_id:
+    25264c82-7b67-6e4f-e063-6294a90a3a53
+  spl_set_id:
+    2ab3852d-53a4-411b-a9ad-3ef88ab3ee87
+  package_ndc:
+    68998-091-01
+  is_original_packager:
+    True
+  upc:
+    0099581910662
+  unii:
+    TC2D6JAD40

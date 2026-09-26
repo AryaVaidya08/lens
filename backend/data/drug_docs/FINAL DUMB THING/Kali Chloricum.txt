@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION Kali Chloricum Kali Chloricum SUCROSE POTASSIUM CHLORATE POTASSIUM CATION CHLORATE ION
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Kali Chloricum 6C 5g Kali Chloricum 6C 30g Kali Chloricum 6C 100g Kali Chloricum 12C 5g Kali Chloricum 12C 30g Kali Chloricum 12C 100g Kali Chloricum 30C 1g Kali Chloricum 30C 5g Kali Chloricum 30C 30g Kali Chloricum 30C 100g Kali Chloricum 100C 1g Kali Chloricum 100C 5g Kali Chloricum 100C 30g Kali Chloricum 100C 100g Kali Chloricum 200C 1g Kali Chloricum 200C 5g Kali Chloricum 200C 30g Kali Chloricum 200C 100g Kali Chloricum 500C 1g Kali Chloricum 500C 5g Kali Chloricum 500C 30g Kali Chloricum 500C 100g Kali Chloricum 1M 1g Kali Chloricum 1M 5g Kali Chloricum 1M 30g Kali Chloricum 1M 100g Kali Chloricum LM1 30g
+set_id:
+  e3baf111-d3e7-7f7f-e053-2995a90a84e6
+id:
+  e3baf111-d3e8-7f7f-e053-2995a90a84e6
+effective_time:
+  20220713
+version:
+  1
+openfda:
+  brand_name:
+    Kali Chloricum
+  generic_name:
+    KALI CHLORICUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-0875
+    37662-0877
+    37662-0881
+    37662-0880
+    37662-0882
+    37662-0876
+    37662-0878
+    37662-0879
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    POTASSIUM CHLORATE
+  spl_id:
+    e3baf111-d3e8-7f7f-e053-2995a90a84e6
+  spl_set_id:
+    e3baf111-d3e7-7f7f-e053-2995a90a84e6
+  package_ndc:
+    37662-0877-1
+    37662-0877-3
+    37662-0877-4
+    37662-0877-2
+    37662-0881-1
+    37662-0881-3
+    37662-0881-4
+    37662-0881-2
+    37662-0880-1
+    37662-0880-3
+    37662-0880-4
+    37662-0880-2
+    37662-0882-1
+    37662-0875-1
+    37662-0875-2
+    37662-0875-3
+    37662-0876-1
+    37662-0876-2
+    37662-0876-3
+    37662-0878-1
+    37662-0878-3
+    37662-0878-4
+    37662-0878-2
+    37662-0879-1
+    37662-0879-3
+    37662-0879-4
+    37662-0879-2
+  is_original_packager:
+    True
+  unii:
+    H35KS68EE7

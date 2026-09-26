@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Advanced Light Perfecting Sunscreen Zinc Oxide ZINC OXIDE ZINC OXIDE DIMETHICONOL (2000 CST) CI 77499 TETRAHEXYLDECYL ASCORBATE DIMETHICONE CROSSPOLYMER ALPHA-TOCOPHEROL ACETATE POLYHYDROXYSTEARIC ACID (2300 MW) CERAMIDE 3 CYCLOHEXASILOXANE HYDROGEN DIMETHICONE (20 CST) CI 77491 CI 77492 PEG-10 DIMETHICONE (600 CST) DIMETHICONE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) CAPRYLIC/CAPRIC TRIGLYCERIDE VINYL DIMETHICONE/METHICONE SILSESQUIOXANE CROSSPOLYMER CYCLOPENTASILOXANE
+active_ingredient:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+other_safety_information:
+  
+package_label_principal_display_panel:
+  package label
+set_id:
+  32d781ca-7993-9875-e063-6294a90a5c26
+id:
+  4586c8f3-33e8-111f-e063-6394a90ad8dd
+effective_time:
+  20251209
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Advanced Light Perfecting Sunscreen
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    ADVANCED DERMATOLOGY
+  product_ndc:
+    85351-208
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    4586c8f3-33e8-111f-e063-6394a90ad8dd
+  spl_set_id:
+    32d781ca-7993-9875-e063-6294a90a5c26
+  package_ndc:
+    85351-208-50
+  original_packager_product_ndc:
+    58892-208
+  upc:
+    0385351208504
+  unii:
+    SOI2LOH54Z

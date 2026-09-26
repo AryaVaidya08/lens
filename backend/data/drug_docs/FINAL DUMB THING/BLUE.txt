@@ -1,0 +1,33 @@
+effective_time:
+  20150601
+inactive_ingredient:
+  Inactive Ingredients: Water, Isopropyl Alcohol, Camphor, Carbomer, Sodium Hydroxide, Methylchloroisothiazolinone & Methylisothiazolinone, Blue 1 (CI 42090).
+purpose:
+  Purpose Topical Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warning For External use only. Not for internal use. Use only as directed. Avoid contact with eyes or mucous membranes. Do not apply to open wounds or damaged skin. Make sure skin is clean and free from any creams, ointments, sprays or liniment. Do not bandage. Do not use with heating pads or heating devices. If condition worsens of symptoms persist for more than 7 days or if symptoms disappear and occur again within a few days, discontinue use and consult a physician. If you have sensitive skin, consult a physician before use. If skin irritation develops, discontinue use and consult a physician. If you are pregnant or nursing a baby, consult your doctor before use.
+spl_product_data_elements:
+  BLUE ICE Menthol MENTHOL, UNSPECIFIED FORM MENTHOL WATER ISOPROPYL ALCOHOL CAMPHOR (NATURAL) CARBOMER HOMOPOLYMER TYPE C SODIUM HYDROXIDE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C BLUE NO. 1
+openfda:
+version:
+  1
+dosage_and_administration:
+  Direction Clean skin of all other lotions, cream ointments, liniment or sprays. Apply liberally to affected area and massage until gel is absorbed into skin. Do not apply more than 3 or 4 times daily. No protective cover needed. Do not apply to children under 2 years of age.
+spl_unclassified_section:
+  Diva Blue Ice is a cool, greaseless pain reliever. It penetrates deep into skin for fast, temporary relief of minor aches and pains in muscles and joints. It provides cooling, soothing relief that lasts for hours.
+  Drug Facts
+  Distributed by JMD ALL STAR IMPEX INC., Edison, NJ - 08817 Made in India. Neutral Code : GUJ/GA/1676
+storage_and_handling:
+  Do not use, store, pour or spill near heat or open flame. Store in a cool, dry place and keep lid tightly closed.
+package_label_principal_display_panel:
+  Packaging blueicelbl
+indications_and_usage:
+  Usage: Provides temporary relief of minor aches and pains in muscles and joints associated with simple backache, strains, sprains, arthritis and sports injuries.
+set_id:
+  81d53f62-c9db-4cd1-9f26-29c06d923736
+id:
+  a181e8f7-f2e9-4e0c-97c2-727857098437
+active_ingredient:
+  Active Ingredients Menthol 2%

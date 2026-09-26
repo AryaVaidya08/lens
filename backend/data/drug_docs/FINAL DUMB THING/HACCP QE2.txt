@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  HACCP QE2 Benzalkonium Chloride WATER COCAMIDOPROPYL BETAINE PROPYLENE GLYCOL GLYCERIN GUAR GUM XANTHAN GUM BENZYL ALCOHOL DEHYDROACETIC ACID EDETATE SODIUM LAURAMINE OXIDE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+  Manufactured by: BEST SANITIZERS INC. P.O. Box 1360 Penn Valley, CA 95946 www.bestsanitizers.com
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.12% w/w
+purpose:
+  Purpose Antiseptic Hand Cleanser
+indications_and_usage:
+  Uses handwash to help reduce bacteria that potentially can cause disease helps to prevent cross-contamination by hand contact helps to prevent drying of the skin recommended for repeated use
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product do not use in or near eyes.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek medical attention or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions wet hands and wrists with clean, running water apply appropriate amount of product lather and scrub hands, fingers, fingernails, cuticles and wrists for at least 20 seconds rinse thoroughly with running water dry hands completely (incomplete drying may result in chapped skin)
+storage_and_handling:
+  Other information store in a cool dry place below 104° F (40° C)
+inactive_ingredient:
+  Inactive ingredients Water, cocamidopropyl betaine, C12-14 amine oxides, 1,2-propanediol, glycerol, guar gum, xanthan gum, benzyl alcohol, dehydroacetic acid, tetra-sodium EDTA
+questions:
+  Questions? Contact Best Sanitizers at 888-225-3267 Mon-Fri 9am - 4pm PST
+package_label_principal_display_panel:
+  BEST SANITIZERS INC. HACCP QE2 Sanitizing Liquid Soap NSF [Nonfood Compounds Program Listed (E2) Registration #149724] 0.12% Benzalkonium Chloride (BAC) formula Rich, thick lather FOR FOOD INDUSTRY PROFESSIONALS Net Contents: 1 U.S. Gallon (3.78 liters) 59900-718 new
+set_id:
+  0b861f72-f93e-40d6-9967-43e5f6b7c128
+id:
+  288e436e-bb18-4c38-e063-6394a90ab7b6
+effective_time:
+  20241205
+version:
+  4
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    HACCP QE2
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Best Sanitizers, Inc
+  product_ndc:
+    59900-718
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1053188
+  spl_id:
+    288e436e-bb18-4c38-e063-6394a90ab7b6
+  spl_set_id:
+    0b861f72-f93e-40d6-9967-43e5f6b7c128
+  package_ndc:
+    59900-718-01
+    59900-718-02
+    59900-718-03
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

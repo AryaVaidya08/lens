@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  ARRID Extra Dry Antiperspirant Deodorant Aluminum Sesquichlorohydrate 17% ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE WATER GLYCERYL MONOSTEARATE PEG-40 STEARATE CETYL ESTERS WAX GLYCERIN DIMETHICONE ISOPROPYL PALMITATE PETROLATUM LANOLIN ALCOHOLS LANOLIN HYPROMELLOSE, UNSPECIFIED TITANIUM DIOXIDE PROPYLPARABEN MINERAL OIL
+active_ingredient:
+  Active ingredient Aluminum Sesquichlorohydrate 17%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Use reduces underarm perspiration
+warnings:
+  Warnings For external use only Do not use on broken skin Stop use if rash or irritation occurs Ask a doctor before use if you have kidney disease
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply a thin layer to underarms only.
+inactive_ingredient:
+  Inactive ingredients Water, Glyceryl Stearate, PEG-40 Stearate, Cetyl Esters, Glycerin, Dimethicone, Isopropyl Palmitate, Petrolatum, Lanolin Alcohol, Lanolin Wax, Hydroxypropyl Methylcellulose, Frangrance, Titanium Dioxide, Lanolin, Propylparaben, Mineral Oil
+questions:
+  Questions or Comments? 1-800-524-1328 M-F 9-5 ET
+package_label_principal_display_panel:
+  ARRID EXTRA DRY ANTI-PERSPIRANT DEODORANT CREAM NET WT. 1.0 OZ. (28G) Carton Image Carton Image
+set_id:
+  206562ff-0edc-43c8-be16-40d2447927dc
+id:
+  ca42540d-73d2-407f-b045-b8f2dc075129
+effective_time:
+  20240612
+version:
+  5
+openfda:

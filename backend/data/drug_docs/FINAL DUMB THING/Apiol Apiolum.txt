@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Apiol Apiolum, APIOLE (PARSLEY) APIOLE (PARSLEY) WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Apiolum 6X, 12X, 30X, 200X, 12C, 30C, 60C, 200C.
+purpose:
+  INDICATIONS: For temporary relief of symptoms related to Apiol sensitivity including joint pain, loose stools, stomach upset, menstrual cramps, headache, lack of menstrual periods, rash, swollen tongue, obesity and appetite change.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for Your Protection." Do not use if seal is broken or missing.
+dosage_and_administration:
+  DIRECTIONS: 1-10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 25% Ethanol.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. In case of overdose, contact a physician or Poison Control Center right away.
+indications_and_usage:
+  INDICATIONS: For temporary relief of symptoms related to Apiol sensitivity including joint pain, loose stools, stomach upset, menstrual cramps, headache, lack of menstrual periods, rash, swollen tongue, obesity and appetite change.
+questions:
+  Dist. By: Deseret Biologicals, Inc. 469 Parkland Drive Sandy, UT 84070 www.desbio.com
+package_label_principal_display_panel:
+  DESBIO NDC 57520-1021-1 HOMEOPATHIC APIOL 1 FL OZ (30 ML) Apiol
+set_id:
+  0d23e0d9-4254-4623-b27a-e811041ff930
+id:
+  3ec6ab6d-8f4e-4f82-86a8-d9e84dc02d28
+effective_time:
+  20221118
+version:
+  2
+openfda:

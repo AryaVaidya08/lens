@@ -1,0 +1,43 @@
+effective_time:
+  20190821
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, calcium sulfate, carrageenan, D&C red #33, edetate disodium, FD&C red #40, flavor, glycerin, high fructose corn syrup, polysorbate 80, purified water, sodium benzoate, sorbitol solution, sucralose, tribasic sodium phosphate, xanthan gum
+purpose:
+  Purposes Pain reliever/fever reducer Cough suppressant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes • more than 5 doses in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • in a child under 4 years of age • if your child is allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child’s prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product. Ask a doctor before use if your child has • liver disease • chronic cough that lasts or as occurs with asthma • cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if your child is • taking the blood thinning drug warfarin When using this product • do not exceed recommended dosage Stop use and ask a doctor if • pain or cough gets worse or lasts more than 5 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical even if you do not notice any signs or symptoms.
+when_using:
+  When using this product • do not exceed recommended dosage
+questions:
+  Questions or comments? call 1-800-452-0051
+spl_product_data_elements:
+  Triaminic cough and sore throat Acetaminophen, Dextromethorphan HBr ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ANHYDROUS CITRIC ACID CALCIUM SULFATE, UNSPECIFIED FORM CARRAGEENAN D&C RED NO. 33 EDETATE DISODIUM FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP POLYSORBATE 80 WATER SODIUM BENZOATE SORBITOL SUCRALOSE SODIUM PHOSPHATE, TRIBASIC XANTHAN GUM
+ask_doctor:
+  Ask a doctor before use if your child has • liver disease • chronic cough that lasts or as occurs with asthma • cough that occurs with too much phlegm (mucus)
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • this product does not contain directions or complete warnings for adult use • do not give more than directed • shake well before using • may be given every 4 hours, while symptoms persist. Do not give more than 5 doses in 24 hours unless directed by a doctor. • use enclosed cup only. Keep for use with this product only. Do not use any other dosing device. Age Dose children under 4 years of age do not use children 4 to under 6 years of age 5 mL children 6 to under 12 years of age 10 mL
+stop_use:
+  Stop use and ask a doctor if • pain or cough gets worse or lasts more than 5 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+storage_and_handling:
+  Other information • each 5 mL contains: sodium 3 mg • contains no aspirin • store at controlled room temperature 20-25°C (68-77°F). Protect from light. • close cap tightly
+do_not_use:
+  Do not use • in a child under 4 years of age • if your child is allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child’s prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product.
+package_label_principal_display_panel:
+  Principal Display Panel NDC 0067-8115-04 Children’s Triaminic Suspension Cough & Sore Throat Acetaminophen (Pain Reliever/Fever Reducer) Dextromethorphan HBr (Cough Suppressant) * Cough *Sore Throat Ages 4 to 11 Years Cherry FLAVOR 4 FL OZ (118 mL) Child-Resistant Safety Cap. Do not use if printed neckband is broken or missing. What You Need to Help Make Your Child Feel Better PARENTS: Learn about teen medicine abuse www.StorpMedicineAbuse.org The Triaminic ® brand provides a broad range of products, created with the needs of children in mind. Trusted by Parents for over 50 years. For more information plus helpful tips visit www.triaminic.com or call The Triaminic Clinic ® , 1-800-KIDS-987. Distributed by: GSK Consumer Healthcare, Warren, NJ 07059 ©2016 GSK or its licensor. 12675 Childrens Triaminic suspension Cough & Sore Throat 4 fl oz (118 mL) carton
+indications_and_usage:
+  Uses • temporarily relieves: • minor aches and pains • headache • minor sore throat pain • cough due to minor throat and bronchial irritation as may occur with a cold • temporarily reduces fever
+set_id:
+  f61a3668-1526-4124-b203-dc51bc33c201
+id:
+  afd04b5e-2029-4536-a52b-a5152757b739
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is • taking the blood thinning drug warfarin When using this product • do not exceed recommended dosage
+active_ingredient:
+  Active ingredients (in each 5 mL) Acetaminophen 160 mg Dextromethorphan HBr 5 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="74%"/> <col width="26%"/> <tbody> <tr> <td align="center" styleCode="Rrule Botrule Toprule " valign="top"> <paragraph>Age</paragraph> </td> <td align="center" styleCode="Rrule Botrule Toprule " valign="top"> <paragraph>Dose</paragraph> </td> </tr> <tr> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph> <content styleCode="bold">children under 4 years of age</content> </paragraph> </td> <td align="center" styleCode="Rrule Botrule " valign="middle"> <paragraph> <content styleCode="bold">do not use</content> </paragraph> </td> </tr> <tr> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph>children 4 to under 6 years of age</paragraph> </td> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph>5 mL</paragraph> </td> </tr> <tr> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph>children 6 to under 12 years of age</paragraph> </td> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph>10 mL</paragraph> </td> </tr> </tbody> </table>

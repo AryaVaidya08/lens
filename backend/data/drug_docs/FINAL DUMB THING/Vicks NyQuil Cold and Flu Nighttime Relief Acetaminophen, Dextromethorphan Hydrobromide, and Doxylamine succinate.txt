@@ -1,0 +1,49 @@
+spl_product_data_elements:
+  Vicks NyQuil Cold and Flu Nighttime Relief Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine succinate ALCOHOL CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 FD&C RED NO. 40 PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SODIUM CITRATE XANTHAN GUM GLYCERIN SUCRALOSE SORBITOL ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE
+spl_unclassified_section:
+  Drug Facts
+  TAMPER EVIDENT: Do not use if printed shrinkband is broken or missing.
+  MADE IN CANADA DIST. BY PROCTER & GAMBLE, CINCINNATI, OH 45202
+active_ingredient:
+  Active ingredients (in each 30 mL) Acetaminophen 650 mg Dextromethorphan HBr 30 mg Doxylamine succinate 12.5 mg
+purpose:
+  Purpose Pain reliever/fever reducer Cough suppressant Antihistamine
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: cough due to minor throat and bronchial irritation sore throat headache minor aches and pains fever runny nose and sneezing
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hours, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy Alert: Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away Sore throat warning: If sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, nausea, or vomiting, see a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin When using this product excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin
+when_using:
+  When using this product excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness
+stop_use:
+  Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions take only as directed only use the dose cup provided do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 6 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use
+dosage_and_administration_table:
+  <table width="60%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule First"><td align="left" styleCode="Rrule">adults &amp; children 12 yrs &amp; over</td><td align="left">30 mL every 6 hrs</td></tr><tr styleCode="Botrule"><td align="left" styleCode="Rrule">children 4 to under 12 yrs</td><td align="left">ask a doctor</td></tr><tr><td align="left" styleCode="Rrule">children under 4 yrs</td><td align="left">do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each 30 mL contains: sodium 24 mg store at rno greater than 25ºC and do not refrigerate
+inactive_ingredient:
+  Inactive ingredients alcohol, citric acid, FD&C Blue No. 1, FD&C Red No. 40, flavor, glycerin, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate, sorbitol, sucralose, xanthan gum
+questions:
+  Questions? 1-800-362-1683
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label VICKS ® NyQuil ™ COLD & FLU Acetaminophen - Pain Reliever/Fever Reducer Doxylamine Succinate - Antihistamine Dextromethorphan HBr - Cough Suppressant Nighttime Relief Alcohol 10% 4 FL OZ (118 mL) NQ CH 4OZ
+set_id:
+  dd1c2ef1-8896-6e53-e053-2995a90af19f
+id:
+  2422ece5-de2f-4707-e063-6394a90ac34d
+effective_time:
+  20241010
+version:
+  8
+openfda:

@@ -1,0 +1,37 @@
+effective_time:
+  20171125
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, caramel, FD&C red no. 40, flavors, glycerin, high fructose corn syrup, propylene glycol, purified water, saccharin sodium, sodium benzoate
+purpose:
+  Purpose Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Ask a doctor before use if you have • cough that occurs with too much phlegm (mucus) • cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or occurs with fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  Tussin Adult chest congestion Guaifenesin GUAIFENESIN GUAIFENESIN WATER dark
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • do not take more than 6 doses in any 24-hour period • this adult product is not intended for use in children under 12 years of age age dose adults and children 12 years and over 2-4 teaspoons every 4 hours children under 12 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, comes back, or occurs with fever, rash, or persistent headache. A persistent cough may be a sign of a serious condition.
+storage_and_handling:
+  Other information • store at 20°-25°C (68°-77°F)
+package_label_principal_display_panel:
+  Principal Display Panel See New Dosing Directions Adult Non-Drowsy Tussin Chest Congestion (Guaifenesin, USP) Expectorant Relieves: Chest Congestion Mucus Compare to Robitussin® Chest Congestion active ingredient For Ages 12 and over Alcohol Free Tussin Carton Tussin Carton Tussin Carton
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive
+set_id:
+  b504f574-f87f-4149-b453-6637747e4ffc
+id:
+  df8c2137-3736-42b0-ad07-796d4914d045
+active_ingredient:
+  Active ingredient (in each 5 mL tsp) Guaifenesin, USP 100 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="51%"/> <col width="47%"/> <tbody> <tr> <td align="center" styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>age</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>dose</paragraph> </td> </tr> <tr> <td align="center" styleCode="Lrule Botrule " valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td align="center" styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>2-4 teaspoons every 4 hours</paragraph> </td> </tr> <tr> <td align="center" styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td align="center" styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

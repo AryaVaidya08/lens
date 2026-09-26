@@ -1,0 +1,27 @@
+effective_time:
+  20200727
+inactive_ingredient:
+  Inactive
+keep_out_of_reach_of_children:
+  Children Warning
+purpose:
+  Purpose
+warnings:
+  Warning
+spl_product_data_elements:
+  Mueller Super Suds Benzalkonium Chloride CETRIMONIUM CHLORIDE COCAMIDOPROPYL BETAINE CITRIC ACID MONOHYDRATE PROPYLENE GLYCOL BENZALKONIUM CHLORIDE BENZALKONIUM TROLAMINE METHYLPARABEN PROPYLPARABEN DIAZOLIDINYL UREA ALLANTOIN WATER DIDECYLDIMONIUM CHLORIDE COCAMIDOPROPYLAMINE OXIDE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Dosage
+package_label_principal_display_panel:
+  Label
+indications_and_usage:
+  Usage
+set_id:
+  ab71e04b-8e58-9e4c-e053-2995a90a0594
+id:
+  ab71e04b-8e59-9e4c-e053-2995a90a0594
+active_ingredient:
+  Active

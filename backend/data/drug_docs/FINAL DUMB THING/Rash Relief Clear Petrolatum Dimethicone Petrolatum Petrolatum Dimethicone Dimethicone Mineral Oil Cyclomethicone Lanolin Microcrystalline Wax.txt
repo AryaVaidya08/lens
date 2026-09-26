@@ -1,0 +1,27 @@
+effective_time:
+  20111114
+inactive_ingredient:
+  Inactive Ingredients Cyclomethicone, Hexamethyldisiloxane, Lanolin, Light Mineral Oil, Microcrystalline Wax, Vitamin A Palmitate, Vitamin D3, Water
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  - Keep out of reach of children. If swallowed, get medical help or contact a local poison control center immediately.
+warnings:
+  Warnings - Do not use over deep or puncture wounds, infections, or lacerations. For external use only. - When using this product do not get into eyes. If contact occurs, rinse eyes throughout with water. - Stop use and ask a doctor if condition worsens or does not improve with 7 days.
+spl_product_data_elements:
+  Rash Relief Clear Petrolatum Dimethicone Petrolatum Petrolatum Dimethicone Dimethicone Mineral Oil Cyclomethicone Lanolin Microcrystalline Wax Hexamethyldisiloxane Water Cholecalciferol Vitamin A Palmitate
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions - Change wet and soiled diapers promptly, cleanse the diaper area, and allow to dry. - Shake bottle well before use. - Spray 4-6 inches from skin. No rub-in is required. - Apply liberally as often as necessary, with each diaper change, and especially at bedtime or anytime exposure to we diapers is prolonged.
+package_label_principal_display_panel:
+  Enter section text here RRCL
+indications_and_usage:
+  Uses: Protects minor skin irritation due to diaper rash and helps seal out wetness.
+set_id:
+  0b5753aa-b591-4d6e-8341-fcc9456299b6
+id:
+  f678f128-0e58-49db-a47d-21ab8f8c74a3
+active_ingredient:
+  Active Ingredients Dimethicone 20% Petrolatum 25%

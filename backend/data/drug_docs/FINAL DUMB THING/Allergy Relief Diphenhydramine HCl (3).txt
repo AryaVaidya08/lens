@@ -1,0 +1,79 @@
+effective_time:
+  20200108
+inactive_ingredient:
+  Inactive ingredients corn starch, D&C red #27 aluminum lake, dicalcium phosphate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, silicon dioxide, stearic acid, talc, titanium dioxide
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children
+questions:
+  Questions or comments? 1-800-426-9391
+spl_product_data_elements:
+  Allergy Relief Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE MICROCRYSTALLINE CELLULOSE D&C RED NO. 27 ALUMINUM LAKE ANHYDROUS DIBASIC CALCIUM PHOSPHATE MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE STEARIC ACID TITANIUM DIOXIDE TALC STARCH, CORN POLYVINYL ALCOHOL, UNSPECIFIED 44;329
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland
+openfda:
+version:
+  11
+dosage_and_administration:
+  Directions take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours adults and children 12 years and over 1 to 2 tablets children 6 to under 12 years 1 tablet children under 6 years do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information each tablet contains: calcium 30 mg TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) protect from moisture see end flap for expiration date and lot number
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+package_label_principal_display_panel:
+  Principal Display Panel-Assured Assured Assured
+  Principal Display Panel-Atoma Atoma Atoma
+  Principal Display Panel-Being Well Being Well Being Well
+  Principal Display Panel-Biomedic Biomedic Biomedic
+  Principal Display Panel-Core Values Core Values Core Values
+  Principal Display Panel-CVS CVS CVS
+  Principal Display Panel-Equaline Equaline 44-329 Equaline 44-329
+  Principal Display Panel-Equate Equate Equate
+  Principal Display Panel-Equate-C Equate Equate
+  Principal Display Panel-Exchange Select Exchange Select Exchange Select
+  Principal Display Panel-Family Wellness Family Wellness Family Wellness
+  Principal Display Panel-Freds Pharmacy Freds Pharmacy Freds Pharmacy
+  Principal Display Panel-Good Neighbor Pharmacy Good Neighbor Pharmacy 44-329 Good Neighbor Pharmacy 44-329
+  Principal Display Panel-HealthCare HealthCare HealthCare
+  Principal Display Panel-Health Mart Health Mart Health Mart
+  Principal Display Panel-HEB HEB HEB
+  Principal Display Panel-Kirkland Kirkland Kirkland
+  Principal Display Panel-Kroger kroger 44-329 kroger 44-329
+  Principal Display Panel-Leader Leader Leader
+  Principal Display Panel-Major Major Major
+  Principal Display Panel-Meijer Meijer Meijer
+  Principal Display Panel-Members Mark Members Mark 44-329 Members Mark 44-329
+  Principal Display Panel-Option+ Option+ Option+
+  Principal Display Panel-Personnelle Personnelle Personnelle
+  Principal Display Panel-Premier Value Premier Value Premier Value
+  Principal Display Panel-Quality Plus Quality Plus Quality Plus
+  Principal Display Panel-Rexall Rexall Rexall
+  Principal Display Panel-Rite Aid Rite Aid 44-329 Rite Aid 44-329
+  Principal Display Panel-Rugby Rugby 44-329 Rugby 44-329
+  Principal Display Panel-Select Brand Select Brand Select Brand
+  Principal Display Panel-Signature Care Signature Care Signature Care
+  Principal Display Panel-Sound Body Sound Body Sound Body
+  Principal Display Panel-Sunmark Sunmark Sunmark
+  Principal Display Panel-Up and Up Up and Up Up and Up
+  Principal Display Panel-Walgreens Walgreens 44-329 Walgreens 44-329
+  Principal Display Panel-WinCo WinCo 44-329 WinCo 44-329
+  Principal Display Panel-Bulk Label 7-11 44-329 7-11 Bulk Blister Label 44-329 7-11 Bulk Blister Label
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+set_id:
+  8130494e-0673-428b-b41a-5233d5dab89f
+id:
+  b756fd93-361a-4512-9b26-0fc17f98cdd0
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+active_ingredient:
+  Active ingredient (in each tablet) Diphenhydramine HCl 25 mg
+dosage_and_administration_table:
+  <table width="350px"> <col width="1px"/> <col width="1px"/> <tbody> <tr> <td styleCode="     Botrule          Rrule     ">adults and children 12 years and over</td> <td styleCode="     Botrule         Lrule     ">1 to 2 tablets</td> </tr> <tr> <td styleCode="     Botrule          Toprule          Rrule     ">children 6 to under 12 years</td> <td styleCode="     Botrule          Toprule         Lrule     ">1 tablet</td> </tr> <tr> <td styleCode="     Toprule          Rrule     ">children under 6 years</td> <td styleCode="     Toprule         Lrule     ">do not use</td> </tr> </tbody> </table>

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  MedPride EN SHIELD ALOE SOFT VITAMIN ENRICHED ZINC OXIDE WATER SODIUM BENZOATE CETETH-20 ALOE VERA LEAF ALPHA-TOCOPHEROL CETOSTEARYL ALCOHOL CETYL ALCOHOL CHOLECALCIFEROL GLYCERIN LANOLIN MINERAL OIL PARAFFIN MICROCRYSTALLINE WAX PHENOXYETHANOL PROPYLENE GLYCOL FD&C YELLOW NO. 5 PONCEAU 4R VITAMIN A PALMITATE ETHYLHEXYLGLYCERIN ZINC OXIDE ZINC CATION
+active_ingredient:
+  Active Ingredient Zinc Oxide (3.8%w/w)
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses ■ helps treat and prevent diaper rash ■ temporarily protects minor ■ cuts ■ scrapes ■ burns dries the oozing and weeping of: ■ Poison ivy ■ poison oak ■ poison sumac
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product ■ do not get into eyes
+stop_use:
+  Stop Use and ask a doctor if conditions worsen symptoms last more than 7 days or clear up and occur again in a few days, consult a physician
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ change wet and soiled diapers promptly ■ cleanse the diaper area and allow to dry ■ apply ointment liberally with each diaper change, especially at bedtime or anytime when exposure to wet diapers may be prolonged ■ for poison ivy, oak and sumac ■ apply ointment liberally as needed
+spl_unclassified_section:
+  Other Information ■ store at room temperature 15-30C (59-86F) ■ avoid excessive heat
+inactive_ingredient:
+  Inactive ingredients Aloe Vera Leaf, Alpha-Tocopherol, Ceteth-20, Cetostearyl Alcohol, Cetyl Alcohol, Cholecalciferol, Ethylhexylglycerin,FD&C Yellow No. 5, Fragrance, Glycerin, Lanolin, Microcrystalline Wax, Mineral Oil, Paraffin, Phenoxyethanol, Ponceau 4R, Propylene Glycol, Sodium Benzoate, Vitamin A Palmitate, Water
+package_label_principal_display_panel:
+  Package Label Principal Display and Drug Fact Panel
+set_id:
+  1e6143c1-cd08-c171-e063-6394a90a2cee
+id:
+  1e6143e3-6699-68c8-e063-6394a90ae44a
+effective_time:
+  20240729
+version:
+  1
+openfda:
+  application_number:
+    M016
+  brand_name:
+    MedPride EN SHIELD ALOE SOFT VITAMIN ENRICHED
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Dabur India Ltd
+  product_ndc:
+    68747-6082
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    1865206
+  spl_id:
+    1e6143e3-6699-68c8-e063-6394a90ae44a
+  spl_set_id:
+    1e6143c1-cd08-c171-e063-6394a90a2cee
+  package_ndc:
+    68747-6082-1
+  is_original_packager:
+    True
+  upc:
+    0352410306648
+  unii:
+    SOI2LOH54Z

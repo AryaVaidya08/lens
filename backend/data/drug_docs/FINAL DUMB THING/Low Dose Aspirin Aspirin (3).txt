@@ -1,0 +1,41 @@
+effective_time:
+  20181008
+inactive_ingredient:
+  Inactive ingredients Corn starch, dextrose monohydrate, FD&C yellow #6, flavor, silicon dioxide, sodium saccharine and stearic acid
+purpose:
+  Purpose Pain reliever
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this products. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction which may include hives asthma (wheezing) facial swelling shock Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you are allergic to aspirin or any other pain reliever/fever reducer this product for at least 7 days after tonsilectomy or oral surgery unless directed by a doctor Ask a doctor before use if the stomach bleeding warning applies to you you have a history of stomach problems such as heartburn you have high blood pressure, heart disease, liver cirrhosis or kidney disease you have asthma you are taking a diuretic Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis Stop use and ask a doctor if you experience any of the following signs of stomach bleeding feel faint vomit blood have bloody or black stools have stomach pain that does not get better allergic reaction occurs pain gets worse or lasts more than 10 days redness or swelling is present any new symptoms occur ringing in the ears or loss of hearing occurs If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? Adverse drug event call: (866) 562-2756
+spl_product_data_elements:
+  Low Dose Aspirin Aspirin DEXTROSE MONOHYDRATE SILICON DIOXIDE SACCHARIN SODIUM FD&C YELLOW NO. 6 STARCH, CORN STEARIC ACID ASPIRIN ASPIRIN PH034
+ask_doctor:
+  Ask a doctor before use if the stomach bleeding warning applies to you you have a history of stomach problems such as heartburn you have high blood pressure, heart disease, liver cirrhosis or kidney disease you have asthma you are taking a diuretic
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions drink a full glass of water with each dose adults and children 12 years and over: take 4 to 8 tablets every 4 hours not to exceed 48 tablets in 24 hours unless directed by a doctor children under 12 years: consult a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+stop_use:
+  Stop use and ask a doctor if you experience any of the following signs of stomach bleeding feel faint vomit blood have bloody or black stools have stomach pain that does not get better allergic reaction occurs pain gets worse or lasts more than 10 days redness or swelling is present any new symptoms occur ringing in the ears or loss of hearing occurs
+storage_and_handling:
+  Other information Tamper Evident: Do not use if safety seal under cap is broken or missing store at room temperature (15°-30°C) avoid excess heat and moisture
+do_not_use:
+  Do not use if you are allergic to aspirin or any other pain reliever/fever reducer this product for at least 7 days after tonsilectomy or oral surgery unless directed by a doctor
+package_label_principal_display_panel:
+  DRUG: Low Dose Aspirin GENERIC: Aspirin DOSAGE: TABLET, CHEWABLE ADMINSTRATION: ORAL NDC: 49349-868-02 COLOR: orange SHAPE: ROUND SCORE: No score SIZE: 8 mm IMPRINT: PH034 PACKAGING: 30 in 1 BLISTER PACK ACTIVE INGREDIENT(S): ASPIRIN 81mg in 1 INACTIVE INGREDIENT(S): DEXTROSE MONOHYDRATE FD&C YELLOW NO. 6 STARCH, CORN SACCHARIN SODIUM SILICON DIOXIDE STEARIC ACID Remedy_Label
+indications_and_usage:
+  Uses for the temporary relief of minor aches and pains or as recommended by your doctor. ask your doctor about other uses for this product.
+set_id:
+  7cd691a4-00e9-404d-a797-2fb6c2c81ad0
+id:
+  77c28db0-7fc9-ef91-e053-2a91aa0aa018
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis
+active_ingredient:
+  Active Ingredient (in each tablet): Aspirin 81mg (NSAID)* *nonsteroidal anti-inflammatory drug

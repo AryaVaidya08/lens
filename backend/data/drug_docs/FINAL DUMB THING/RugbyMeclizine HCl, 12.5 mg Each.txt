@@ -1,0 +1,33 @@
+effective_time:
+  20170224
+inactive_ingredient:
+  INACTIVE INGREDIENT croscarmellose sodium, dicalcium phosphate dihydrate, magnesium stearate, microcrystalline cellulose, silicon dioxide, sodium sulfate, stearic acid.
+purpose:
+  OTC - PURPOSE Antiemetic
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS glaucoma a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. may cause drowsiness alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. In case of overdose, get medical help or contact the poison control center immediately.
+questions:
+  OTC - QUESTIONS 1-800-645-2158
+spl_product_data_elements:
+  RugbyMeclizine HCl, 12.5 mg Each ANTIEMETIC Meclizine HCl, 12.5 mg Each ANTIEMETIC Meclizine HCl CELLULOSE, MICROCRYSTALLINE SILICON DIOXIDE SODIUM SULFATE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE MAGNESIUM STEARATE STEARIC ACID MECLIZINE HYDROCHLORIDE MECLIZINE TABLET 19G
+other_safety_information:
+  OTHER SAFETY INFORMATION TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION Dosage should be taken one hour before travel starts. Adults and children 12 years of age and older: take 2-4 caplets once daily, or as directed by a doctor Children under 12 years: do not give this product to children under 12 years of age unless directed by a doctor
+spl_unclassified_section:
+  SPL UNCLASSIFIED store at room temperature Each Caplet Contains: Calcium 25 mg Each Caplet Contains: Sodium 5mg
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION DRUG: RugbyMeclizine HCl, 12.5 mg Each ANTIEMETIC Meclizine HCl, 12.5 mg Each ANTIEMETIC GENERIC: Meclizine HCl DOSAGE: TABLET ADMINSTRATION: ORAL NDC: 61786-099-02 ACTIVE INGREDIENT(S): MECLIZINE HYDROCHLORIDE 12.5mg in 1 INACTIVE INGREDIENT(S): CELLULOSE, MICROCRYSTALLINE SILICON DIOXIDE SODIUM SULFATE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE MAGNESIUM STEARATE STEARIC ACID COLOR: white SHAPE: CAPSULE SCORE: Two even pieces SIZE: 3 mm IMPRINT: 19G PACKAGING: 30 in 1 BLISTER PACK MM1 MM2
+indications_and_usage:
+  INDICATIONS & USAGE prevents and treats nausea, vomiting or dizziness due to motion sickness
+set_id:
+  aaceaf7a-b586-483b-958a-73e0a2e5b567
+id:
+  494fc379-9dc9-0d5d-e054-00144ff8d46c
+active_ingredient:
+  OTC - ACTIVE INGREDIENT Meclizine HCl USP 12.5 mg

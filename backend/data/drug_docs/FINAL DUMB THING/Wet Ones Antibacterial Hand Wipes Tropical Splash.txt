@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Wet Ones Antibacterial Hand Wipes Tropical Splash BENZALKONIUM CHLORIDE POTASSIUM SORBATE BENZALKONIUM CHLORIDE BENZALKONIUM ALCOHOL PHENOXYETHANOL EDETATE DISODIUM ANHYDROUS PEG-8 DIMETHICONE CAPRYLYL GLYCOL DIHYDROXYPROPYL PEG-5 LINOLEAMMONIUM CHLORIDE ALOE VERA LEAF CITRIC ACID MONOHYDRATE
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antimicrobial Agent
+indications_and_usage:
+  Use decreases bacteria on skin
+warnings:
+  Warnings For external use only Do not use if you are allergic to any of the ingredients When using this product do not get into eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hour Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are allergic to any of the ingredients
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hour
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and childre 2 years and over • apply to hands • allow skin to dry without wiping children under 2 years ask a doctor before use
+inactive_ingredient:
+  Inactive Ingredients Water, Alcohol Denat., Phenoxyethanol, PEG-8 Dimethicone. Caprylyl Glycol, Dihydroxypropyl PEG-5 Linoleammonium Chloride, Potassium Sorbate, Disodium EDTA, Citric Acid, Fragrance, Aloe Barbadensis Leaf Juice
+package_label_principal_display_panel:
+  PDP Wet Ones® ANTIBACTERIAL HAND WIPES Tropical Splash Kills 99.99% of Germs Hypoallergenic Paraben Free Fresh, Clean Feel America's #1 Hand Wipe* 63354-989-40 63354-989-15-1 63354-989-15-2 63354-989-15-3 63354-989-24-1 63354-989-24-2 63354-989-24-3
+set_id:
+  9351b508-9828-8d02-e053-2a95a90a3770
+id:
+  d579f41e-bf00-240b-e053-2995a90a8ef8
+effective_time:
+  20220113
+version:
+  2
+openfda:

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Freskaro Decolorized Iodine Alcohol AMMONIA IODINE POTASSIUM IODIDE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Freskaro Decolorized Iodine Drug Facts
+active_ingredient:
+  Active Ingredient Alcohol 48%
+purpose:
+  Purpose First Aid Antiseptic
+indications_and_usage:
+  Uses First Aid Antiseptic to help prevent infection in in minor, cuts, scrapes and burns.
+warnings:
+  Warnings For External Use Only When using the product Do not use in the eyes or apply over large areas of the bosy. In case of deep or puncture wounds, animal bites or serious burns, consult a doctor. Stop use and consult a doctor if the condition persists or gets worse. Do not use this product for longer than 1 week unless directed by a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately. Soap will deactivate the effects of this product.
+warnings_and_cautions:
+  When using the product Do not use in the eyes or apply over large areas of the bosy. In case of deep or puncture wounds, animal bites or serious burns, consult a doctor.
+stop_use:
+  Stop use and consult a doctor if the condition persists or gets worse. Do not use this product for longer than 1 week unless directed by a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately. Soap will deactivate the effects of this product.
+dosage_and_administration:
+  Directions Clean the affected area. Apply a small amount to the affected area 1 to 3 times daily. May be covered with a sterile bandage. If bandaged, let dry first.
+inactive_ingredient:
+  Inactive Ingredient Ammonia Hydroxide, Iodine, Potassium Iodide, Purified water.
+other_safety_information:
+  Other information Flammable: Keep away from spark, heat and flame
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Freskaro Decolorized 5-16-23
+set_id:
+  fbd222a2-1151-99b9-e053-6394a90a8bb8
+id:
+  0d99d51f-ba65-9536-e063-6394a90aecd3
+effective_time:
+  20231228
+version:
+  2
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Freskaro Decolorized Iodine
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Pharma Nobis, LLC
+  product_ndc:
+    82645-207
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1804178
+  spl_id:
+    0d99d51f-ba65-9536-e063-6394a90aecd3
+  spl_set_id:
+    fbd222a2-1151-99b9-e053-6394a90a8bb8
+  package_ndc:
+    82645-207-92
+  is_original_packager:
+    True
+  upc:
+    0382645207922
+  unii:
+    3K9958V90M

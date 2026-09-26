@@ -1,0 +1,50 @@
+spl_product_data_elements:
+  Pepto-Bismol Bismuth Subsalicylate Pepto-Bismol Bismuth Subsalicylate BENZOIC ACID D&C RED NO. 22 D&C RED NO. 28 MAGNESIUM ALUMINUM SILICATE SACCHARIN SODIUM SALICYLIC ACID SODIUM SALICYLATE SORBIC ACID WATER BISMUTH SUBSALICYLATE BISMUTH CATION SALICYLIC ACID Pepto-Bismol Bismuth Subsalicylate CALCIUM CARBONATE D&C RED NO. 27 ALUMINUM OXIDE MAGNESIUM STEARATE MANNITOL POVIDONE SACCHARIN SODIUM TALC BISMUTH SUBSALICYLATE BISMUTH CATION SALICYLIC ACID Pepto;Bismol
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Procter & Gamble, Cincinnati OH 45202
+active_ingredient:
+  Active ingredient (in each 30 mL dose cup) Purposes Bismuth subsalicylate 525 mg Upset stomach reliever and antidiarrheal Active ingredient (in each tablet) Bismuth subsalicylate 262 mg Upset stomach reliever and antidiarrheal
+active_ingredient_table:
+  <table width="70%"><col width="55%" align="left" valign="top"/><col width="45%" align="right" valign="top"/><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredient (in each 30 mL dose cup)</content></content></td><td><content styleCode="bold"><content styleCode="italics">Purposes</content></content></td></tr><tr><td>Bismuth subsalicylate 525 mg</td><td>Upset stomach reliever and antidiarrheal</td></tr><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredient (in each tablet)</content></content></td><td/></tr><tr><td>Bismuth subsalicylate 262 mg</td><td>Upset stomach reliever and antidiarrheal</td></tr></tbody></table>
+purpose:
+  Active ingredient (in each 30 mL dose cup) Purposes Bismuth subsalicylate 525 mg Upset stomach reliever and antidiarrheal Active ingredient (in each tablet) Bismuth subsalicylate 262 mg Upset stomach reliever and antidiarrheal
+purpose_table:
+  <table width="70%"><col width="55%" align="left" valign="top"/><col width="45%" align="right" valign="top"/><tbody><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredient (in each 30 mL dose cup)</content></content></td><td><content styleCode="bold"><content styleCode="italics">Purposes</content></content></td></tr><tr><td>Bismuth subsalicylate 525 mg</td><td>Upset stomach reliever and antidiarrheal</td></tr><tr><td><content styleCode="bold"><content styleCode="italics">Active ingredient (in each tablet)</content></content></td><td/></tr><tr><td>Bismuth subsalicylate 262 mg</td><td>Upset stomach reliever and antidiarrheal</td></tr></tbody></table>
+indications_and_usage:
+  Uses relieves travelers' diarrhea diarrhea upset stomach due to overindulgence in food and drink, including: heartburn indigestion nausea gas belching fullness
+warnings:
+  Warnings Reye's syndrome Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have an ulcer a bleeding problem bloody or black stool Ask a doctor before use if you have fever mucus in the stool Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days If pregnant or breast feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you have an ulcer a bleeding problem bloody or black stool
+ask_doctor:
+  Ask a doctor before use if you have fever mucus in the stool
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis
+when_using:
+  When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur
+stop_use:
+  Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use until diarrhea stops but not more than 2 days children under 12 years: ask a doctor drink plenty of clear fluids to help prevent dehydration caused by diarrhea Liquid shake well before use use dose cup or tablespoon (TBSP) adults and children 12 years and over: 1 dose (30 mL or 2 TBSP) every ½ to 1 hour as needed do not exceed 8 doses (240 mL or 16 TBSP) in 24 hours Chewable Tablets chew or dissolve in mouth adults and children 12 years and over: 2 tablets every 1/2 to 1 hour as needed do not exceed 8 doses (16 tablets) in 24 hours
+storage_and_handling:
+  Other information protect from freezing avoid excessive heat (over 104ºF, 40ºC) Pepto-Bismol Liquid each 30 mL dose cup contains: magnesium 25 mg, sodium 8 mg salicylate 261 mg low sodium Pepto-Bismol Chewable Tablets each tablet contains : calcium 140 mg, magnesium 9 mg salicylate 101 mg very low sodium
+inactive_ingredient:
+  Inactive ingredients Liquid benzoic acid, D&C Red No. 22, D&C Red No. 28, flavor, magnesium aluminum silicate, methylcellulose, saccharin sodium, salicylic acid, sodium salicylate, sorbic acid, water Chewable Tablets calcium carbonate, D&C Red No. 27 aluminum lake, flavor, magnesium stearate, mannitol, povidone, saccharin sodium, talc
+questions:
+  Questions? 1-800-717-3786
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Kit Carton NDC 37000-402-01 Pepto- Bismol ™ BISMUTH SUBSALICYLATE UPSET STOMACH RELIEVER/ANTIDIARRHEAL 5 SYMPTOM Digestive Relief heartburn indigestion nausea upset stomach diarrhea TOTAL 32 FL OZ (946 ml) • TWO 16 FL OZ (473 ml) BOTTLES | 48 CHEWABLE TABLETS Principal Display Panel - Kit Carton
+set_id:
+  33baaf04-498d-44f2-9288-02b8f874f914
+id:
+  e5f87a3f-bd5d-f98b-e053-2a95a90a83fb
+effective_time:
+  20220811
+version:
+  7
+openfda:

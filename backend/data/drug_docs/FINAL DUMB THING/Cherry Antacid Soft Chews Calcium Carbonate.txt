@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Cherry Antacid Soft Chews Calcium Carbonate CALCIUM CARBONATE CALCIUM CATION WATER B
+active_ingredient:
+  Active ingredient (in each chew) Calcium carbonate 1177 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses: Releives hearburn sour stomach acid indigestion upset stomach due to these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs. Do not take more than 6 chews in a 24-hour period, or use the maximum dosage for more than 2 weeks, except under the advice and supervision of a physician.
+pregnancy_or_breast_feeding:
+  If you are pregnant or nursing a baby, ask a doctor before using this product.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Chew and swallow 2 to 3 chews, as symptoms occur or as directed by a physicain.
+other_safety_information:
+  Other information Each chew contains: calcium 470 mg, magnesium 5 mg Contains milk and soy Store between 20º to 25ºC (68º to 77ºF) in a dry place
+inactive_ingredient:
+  Inactive ingredients: Corn syrup, corn syrup solids, FD&C red # 40 aluminum lake, glycerin, hydrogenated coconut oil, natural and artificial flavors, non-fat dairy milk powder, soy lecithin, and sucrose. Soybean oil and corn starch used as processing aids.
+questions:
+  Questions? Or to report an adverse event call 1-800-245-2898, Monday - Friday, 9AM - 4PM EST
+package_label_principal_display_panel:
+  Best Health Cherry Antacid 60ct
+set_id:
+  4c6c7b25-b8b5-483a-e054-00144ff8d46c
+id:
+  e33d98c4-c5cc-33d2-e053-2995a90a147c
+effective_time:
+  20220707
+version:
+  2
+openfda:

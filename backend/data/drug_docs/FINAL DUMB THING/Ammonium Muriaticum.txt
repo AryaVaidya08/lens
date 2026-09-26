@@ -1,0 +1,95 @@
+spl_product_data_elements:
+  Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum SUCROSE AMMONIUM CHLORIDE AMMONIUM CATION Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE Ammonium Muriaticum Ammonium Muriaticum AMMONIUM CHLORIDE AMMONIUM CATION SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Ammonium Muriaticum 6c 5g Ammonium Muriaticum 6c 30g Ammonium Muriaticum 6C 100g Ammonium Muriaticum 12C 5g Ammonium Muriaticum 12C 30g Ammonium Muriaticum 12C 100g Ammonium Muriaticum 30C 1g Ammonium Muriaticum 30c 5g Ammonium Muriaticum 30C 30g Ammonium Muriaticum 30C 100g Ammonium Muriaticum 100C 1g Ammonium Muriaticum 100C 5g Ammonium Muriaticum 100C 30g Ammonium Muriaticum 100C 100g Ammonium Muriaticum 200C 1g Ammonium Muriaticum 200C 5g Ammonium Muriaticum 200C 30G Ammonium Muriaticum 200C 100g Ammonium Muriaticum 500C 1g Ammonium Muriaticum 500C 5g Ammonium Muriaticum 500C 30g Ammonium Muriaticum 500C 100g Ammonium Muriaticum 1M 1g Ammonium Muriaticum 1M 5g Ammonium Muriaticum 1M 30g Ammonium Muriaticum 1M 100g
+set_id:
+  b233048c-5028-42cf-e053-2995a90a29e6
+id:
+  2b492906-cf74-3dba-e063-6394a90a2fa4
+effective_time:
+  20250109
+version:
+  3
+openfda:
+  brand_name:
+    Ammonium Muriaticum
+  generic_name:
+    AMMONIUM MURIATICUM
+  manufacturer_name:
+    Hahnemann Laboratories, Inc.
+  product_ndc:
+    63545-003
+    63545-954
+    63545-951
+    63545-950
+    63545-952
+    63545-953
+    63545-955
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    AMMONIUM CHLORIDE
+  spl_id:
+    2b492906-cf74-3dba-e063-6394a90a2fa4
+  spl_set_id:
+    b233048c-5028-42cf-e053-2995a90a29e6
+  package_ndc:
+    63545-003-01
+    63545-003-02
+    63545-003-03
+    63545-954-01
+    63545-954-02
+    63545-954-03
+    63545-954-04
+    63545-951-01
+    63545-951-02
+    63545-951-03
+    63545-951-04
+    63545-950-01
+    63545-950-02
+    63545-950-03
+    63545-952-01
+    63545-952-02
+    63545-952-03
+    63545-952-04
+    63545-953-01
+    63545-953-02
+    63545-953-03
+    63545-953-04
+    63545-955-01
+    63545-955-02
+    63545-955-03
+    63545-955-04
+  is_original_packager:
+    True
+  unii:
+    01Q9PC255D

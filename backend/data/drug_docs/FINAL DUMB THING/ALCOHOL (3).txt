@@ -1,0 +1,27 @@
+effective_time:
+  20210323
+inactive_ingredient:
+  Water,Aloe
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only. Flammable. Keep away from heat or flame.
+spl_product_data_elements:
+  ALCOHOL WIPES WIPES ALOE ALCOHOL ALCOHOL WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  ●Store between 15-30°C (59-86°F). ●Avoid freezing and excessive heat above 40°C (104°F).
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  ●Thoroughly wipe hands, fingers and wrists. ●Supervise children under 6 years of age when using this product.
+set_id:
+  ac2dc604-7160-0172-e053-2a95a90a8972
+id:
+  be3199ff-73f1-6ceb-e053-2995a90ac358
+active_ingredient:
+  ALCOHOL

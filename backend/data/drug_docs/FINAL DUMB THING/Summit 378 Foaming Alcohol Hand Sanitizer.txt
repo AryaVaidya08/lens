@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Summit 378 Foaming Alcohol Hand Sanitizer ALCOHOL ALPHA-TOCOPHEROL TROLAMINE PROPYLENE GLYCOL WATER ALCOHOL ALCOHOL ALOE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+spl_unclassified_section:
+  R.L. Williams Company Summit 378 Foaming Alcohol Hand Sanitizer Drug Facts
+active_ingredient:
+  Active Ingredient(s) Alcohol 70%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use For hand sanitizing to decrease bacteria on the skin. Recommended for repeted use.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product When using this product, do not use in or near the eyes. In case of contact, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor Stop use and ask a doctor if irritation or rash appears and lasts more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Directions : Pump a small amount into palm of hand. Rub thoroughly over all surfaces of both hands. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inactive ingredients Water, Triethanolamine, Propylene Glycol, Carbomer, Aloe, Vitamin E.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label Label
+set_id:
+  c26379e2-a686-9ad5-e053-2a95a90aed6e
+id:
+  e354ce38-030e-71a9-e053-2a95a90a8a09
+effective_time:
+  20220708
+version:
+  2
+openfda:

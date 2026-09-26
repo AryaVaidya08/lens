@@ -1,0 +1,46 @@
+effective_time:
+  20170920
+purpose:
+  Purpose Stimulant Laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away
+when_using:
+  When using this product do not chew or crush tablets abdominal discomfort, faintness, and cramps may occur
+questions:
+  Questions or comments? Call 1-800-317-2165 between 8:00 AM and 5:00 PM Central Standard Time Monday through Friday.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use
+storage_and_handling:
+  Other information do not expose to temperatures above 30°F store between 20 to 25°C (68 to 77°F)
+indications_and_usage:
+  Uses for relief of occasional constipation (irregularity) this product generally produces bowel movement in 6 to 12
+set_id:
+  2c199518-ae77-40a6-82ce-3aa24a685d4a
+id:
+  599e653d-4e23-328d-e053-2991aa0aee17
+active_ingredient:
+  Active ingredient (In each tablet) Bisacodyl 5mg
+dosage_and_administration_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">adults and children 12 years of age and older</td> <td styleCode="Rrule">Take 1 to 3 tablets in a Single dose, once daily</td> </tr> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">children 6 to under 12 years of age</td> <td styleCode="Rrule">Take 1 tablet once a day</td> </tr> <tr> <td styleCode="Lrule Rrule">children under 6 years of age</td> <td styleCode="Rrule">ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Anhydrous Lactose, Carmine, Carnauba wax, Hypromellose, Magnesium stearate, Methacrylic Acid and Ethyl Acrylate Copolymer Dispersion, Pharmaceutical Ink, Polyethylene Glycol, Polysorbate 80, Polyvinyl Alcohol, Sodium Lauryl Sulfate, Talc, Titanium Dioxide, Triacetin, Triethyl Citrate
+warnings:
+  Warnings Do not use if you are unable to swallow without chewing within 1 hour after taking antacid or milk Ask a doctor before use if you have abdominal pain nausea vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks When using this product do not chew or crush tablets abdominal discomfort, faintness, and cramps may occur Stop use and ask a doctor if you need to use more than 1 week rectal bleeding or failure to have a bowel movement after use of a laxative. These may be signs of a serious condition If pregnant or breast-feeding , ask a health professional before use Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away
+spl_product_data_elements:
+  Correctol Bisacodyl ANHYDROUS LACTOSE CARNAUBA WAX HYPROMELLOSES MAGNESIUM STEARATE POLYETHYLENE GLYCOLS POLYSORBATE 80 POLYVINYL ALCOHOL SODIUM LAURYL SULFATE TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE BISACODYL DEACETYLBISACODYL C
+ask_doctor:
+  Ask a doctor before use if you have abdominal pain nausea vomiting noticed a sudden change in bowel habits that persists over a period of 2 weeks
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions take with water adults and children 12 years of age and older Take 1 to 3 tablets in a Single dose, once daily children 6 to under 12 years of age Take 1 tablet once a day children under 6 years of age ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Distributed by MSD Consumer Care, Inc., PO Box 377, Memphis, TN 38151 USA, a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ USA.
+stop_use:
+  Stop use and ask a doctor if you need to use more than 1 week rectal bleeding or failure to have a bowel movement after use of a laxative. These may be signs of a serious condition
+do_not_use:
+  Do not use if you are unable to swallow without chewing within 1 hour after taking antacid or milk
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 60 Tablet Carton NDC 11523-4335-03 The Woman's Gentle Laxative Correctol ® Bisacodyl Stimulant Laxative Dependable Overnight Relief 60 COMFORT-COATED TABLETS Principal Display Panel - 60 Tablet Carton

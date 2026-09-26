@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Glow Town hand sanitizer236ml GTL0002 alcohol PROPYLENE GLYCOL LEMON CARBOMER 940 AMINOMETHYLPROPANOL WATER GLYCERIN ALCOHOL ALCOHOL transparant
+description:
+  Drug Facts 236ml hand sanitizer
+active_ingredient:
+  Medicical Ingredient Medicical Ingredient Purpose Ethyl Alcohol 75%（V/V） Antiseptic
+purpose:
+  Features To decrease bacteria on the skin that could cause disease. Recommended for repeated use. Use anywhere without water. Recommended for repeated use. use anywhere without water.
+dosage_and_administration:
+  Recommended for repeated use. use anywhere without water.
+warnings:
+  Warning For external use only-hands. Flammable,keep away from heat and flame. Discontinue if skin becomes irritated and ask a doctor. Keep out of reach of children. In case of accidental ingestion,seek professional assistance or contact a Poison Control Center immediately. For external use only. Flammable, keep away from heat and flame. Discontinue if skin becomes irritated and ask a doctor . Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+warnings_and_cautions:
+  For external use only. Flammable, keep away from heat and flame.
+stop_use:
+  Discontinue if skin becomes irritated and ask a doctor .
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a poson control center immediately.
+inactive_ingredient:
+  Non-Medicinal Water, Glycerin,Propylene Glycol,Carbomer,,Aminomethyl propanol,Parfum.
+indications_and_usage:
+  Directions Wet hands thoroughly with product and rub until dry without wiping For children under 6, use only under adult supervision. Not recommended for infants. When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin. Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+do_not_use:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Do not inhale or ingest. Avoid contact with broken skin.
+cleaning:
+  Other information Do not store above 105F. May discolor some fabrics. Harmful to wood finishes and plastics.
+recent_major_changes:
+  236ml Hand sanitizer.jpg
+package_label_principal_display_panel:
+  236ml Hand sanitizer.jpg
+set_id:
+  a374de72-819f-3f02-e053-2995a90a76dc
+id:
+  bbfb1f78-584f-2e7b-e053-2995a90a2465
+effective_time:
+  20210223
+version:
+  10
+openfda:

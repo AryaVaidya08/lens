@@ -1,0 +1,33 @@
+effective_time:
+  20110418
+inactive_ingredient:
+  Water, sodium laureth sulfate, cocamidopropyl betaine, PEG-8, fragrance, glycerin, polyquaternium-10, cocamidopropyl PG-dimonium chloride, isostearamidopropyl morpholine lactate, sodium chloride, DMDM hydantoin, citric acid, tetrasodium EDTA, red 33, blue 1.
+purpose:
+  Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  For external use only
+when_using:
+  Avoid contact with eyes. In case of eye contact, flush with water.
+questions:
+  Questions? 1-800-258-DIAL (3425)
+spl_product_data_elements:
+  Dial Lavender and Twilight Jasmine Antibacterial Body Wash Triclosan TRICLOSAN Triclosan WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE DMDM HYDANTOIN EDETATE SODIUM CITRIC ACID MONOHYDRATE POLYETHYLENE GLYCOL 400 GLYCERIN POLYQUATERNIUM-10 (400 CPS AT 2%) CHLORIDE ION MORPHOLINE LACTIC ACID FD&C BLUE NO. 1 D&C RED NO. 33
+ask_doctor:
+  Stop use and ask a doctor if irritation and redness develops.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Squeeze onto hands or body sponge Work into lather Wash skin, rinse thoroughly and dry
+package_label_principal_display_panel:
+  label image
+indications_and_usage:
+  For hand washing to decrease bacteria on the skin
+set_id:
+  ed17a433-9aec-4ad4-ba93-ac5b8b6aba10
+id:
+  9780ec5c-987f-4b91-815c-d70d69ba3db8
+active_ingredient:
+  Active Ingredient - Triclosan 0.15%

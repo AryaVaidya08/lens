@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Nystatin Nystatin NYSTATIN NYSTATIN LIGHT MINERAL OIL PETROLATUM structural formula
+spl_unclassified_section:
+  For Dermatologic Use Only Not for Ophthalmic Use Rx Only
+description:
+  DESCRIPTION Nystatin Ointment USP for topical use only, contains 100,000 USP Nystatin units per gram, in an ointment base of light mineral oil and white petrolatum. The structural formula is as follows: Molecular Weight 926.13 Molecular Formula C 47 H 75 NO 17
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Nystatin is an antifungal antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi. It probably acts by binding to sterols in the cell membrane of the fungus with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin is a polyene antibiotic that is obtained from Streptomyces noursei , and is the first well tolerated antifungal antibiotic of dependable efficacy for the treatment of cutaneous, oral and intestinal infections caused by Candida [Monilia] albicans and other Candida species. It exhibits no appreciable activity against bacteria. Nystatin Ointment USP provides specific therapy for all localized forms of candidiasis. Symptomatic relief is rapid, often occurring within 24 to 72 hours after the initiation of treatment. Cure is effected both clinically and mycologically in most cases of localized candidiasis.
+indications_and_usage:
+  INDICATIONS AND USAGE Nystatin Ointment USP is indicated in the treatment of cutaneous or mucocutaneous mycotic infections caused by Candida [Monilia] albicans and other Candida species.
+contraindications:
+  CONTRAINDICATIONS Nystatin Ointment USP is contraindicated in patients with a history of hypersensitivity to any of its components.
+precautions:
+  PRECAUTIONS Should a reaction of hypersensitivity occur, the drug should be immediately withdrawn and appropriate measures taken. This preparation is not for ophthalmic use.
+adverse_reactions:
+  ADVERSE REACTIONS Nystatin Ointment USP is virtually non-toxic and nonsensitizing and is well tolerated by all age groups including debilitated infants, even on prolonged administration. If irritation on topical application should occur, discontinue medication.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Nystatin Ointment USP should be applied liberally to affected areas twice a day or as indicated until healing is complete. Nystatin cream is usually preferred to nystatin ointment in candidiasis involving intertriginous areas; very moist lesions, however, are best treated with nystatin topical powder. This preparation does not stain skin or mucous membranes and provides a simple, convenient means of treatment.
+how_supplied:
+  HOW SUPPLIED Nystatin Ointment USP (100,000 USP Nystatin Units per gram) is a yellow ointment available as follows: NDC 72162-2333-2: 15 g in a TUBE NDC 72162-2333-3: 30 g in a TUBE STORAGE Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature]. Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504
+package_label_principal_display_panel:
+  Nystatin Ointment USP (100,000 USP Nystatin Units) Extended Label Label extended label
+set_id:
+  72dc2b60-29a4-48a8-848a-1a5086cfdd58
+id:
+  c4299118-f831-4982-a864-b8cb9d4c363d
+effective_time:
+  20250403
+version:
+  2
+openfda:
+  application_number:
+    ANDA062472
+  brand_name:
+    Nystatin
+  generic_name:
+    NYSTATIN
+  manufacturer_name:
+    Bryant Ranch Prepack
+  product_ndc:
+    72162-2333
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    TOPICAL
+  substance_name:
+    NYSTATIN
+  rxcui:
+    884308
+  spl_id:
+    c4299118-f831-4982-a864-b8cb9d4c363d
+  spl_set_id:
+    72dc2b60-29a4-48a8-848a-1a5086cfdd58
+  package_ndc:
+    72162-2333-2
+    72162-2333-3
+  original_packager_product_ndc:
+    45802-048
+  nui:
+    N0000175498
+    M0017172
+  pharm_class_epc:
+    Polyene Antifungal [EPC]
+  pharm_class_cs:
+    Polyenes [CS]
+  unii:
+    BDF1O1C72E

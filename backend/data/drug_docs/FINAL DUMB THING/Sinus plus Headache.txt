@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Sinus plus Headache ACETAMINOPHEN and PHENYLEPHRINE HYDROCHLORIDE ACESULFAME POTASSIUM SILICON DIOXIDE CROSCARMELLOSE SODIUM CROSPOVIDONE, UNSPECIFIED D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 ALUMINUM OXIDE MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED POVIDONE, UNSPECIFIED STARCH, CORN PROPYLENE GLYCOL STEARIC ACID TALC TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE AAA;1123
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Phenylephrine HCl 5 mg Nasal decongestant
+active_ingredient_table:
+  <table width="55%"><col width="55%" valign="top" align="left"/><col width="45%" valign="top" align="right"/><thead><tr styleCode="First Last"><th align="left"><content styleCode="italics">Active ingredients (in each caplet)</content></th><th align="right"><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td align="left">Acetaminophen 325 mg</td><td align="right">Pain reliever/fever reducer</td></tr><tr><td align="left">Phenylephrine HCl 5 mg</td><td align="right">Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Phenylephrine HCl 5 mg Nasal decongestant
+purpose_table:
+  <table width="55%"><col width="55%" valign="top" align="left"/><col width="45%" valign="top" align="right"/><thead><tr styleCode="First Last"><th align="left"><content styleCode="italics">Active ingredients (in each caplet)</content></th><th align="right"><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td align="left">Acetaminophen 325 mg</td><td align="right">Pain reliever/fever reducer</td></tr><tr><td align="left">Phenylephrine HCl 5 mg</td><td align="right">Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves these symptoms associated with hay fever or other upper respiratory allergies, and the common cold: headache sinus congestion and pressure nasal congestion minor aches and pains helps decongest sinus openings and passages promotes sinus drainage helps clear nasal passages temporarily reduces fever
+warnings:
+  Warnings Liver warning This product contains acetaminophen. The maximum daily dose of this product is 10 caplets (3,250 mg acetaminophen) in 24 hours. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommended dosage Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recommended dosage
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning ) adults and children 12 years and over take 2 caplets every 4 hours swallow whole; do not crush, chew, or dissolve do not take more than 10 caplets in 24 hours children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table width="60%"><col width="30%" align="left" valign="top"/><col width="70%" align="left" valign="top"/><tbody><tr styleCode="Botrule First"><td align="left" styleCode="Rrule">adults and children 12 years and over</td><td align="left"><list listType="unordered" styleCode="Square"><item>take 2 caplets every 4 hours</item><item>swallow whole; do not crush, chew, or dissolve</item><item>do not take more than 10 caplets in 24 hours</item></list></td></tr><tr styleCode="Botrule Last"><td align="left" styleCode="Rrule">children under 12 years</td><td align="left"><list listType="unordered" styleCode="Square"><item>ask a doctor</item></list></td></tr></tbody></table>
+storage_and_handling:
+  Other information store between 20-25°C (68-77°F) in a dry place retain carton for complete product information and warnings
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, colloidal silicon dioxide, corn starch, croscarmellose sodium, crospovidone, D&C yellow #10 aluminum lake, FD&C blue #1 aluminum lake, FD&C red #40 aluminum lake, flavor, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, pregelatinized starch, propylene glycol, stearic acid, talc, titanium dioxide
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Marc's® NDC 68998-323-05 †Compare to the active ingredients in Tylenol® Sinus + Headache Daytime • Non-Drowsy • For Adults Sinus + Headache Acetaminophen, Phenylephrine HCl PAIN RELIEVER/FEVER REDUCER, NASAL DECONGESTANT For Relief of: • Sinus Headache • Sinus Pressure • Nasal Congestion Actual Size 24 COOL TASTE CAPLETS image description
+set_id:
+  a82401f5-65b1-11e9-e053-2a95a90a499e
+id:
+  2526b65f-4ccf-d493-e063-6294a90ab063
+effective_time:
+  20241023
+version:
+  4
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Sinus plus Headache
+  generic_name:
+    ACETAMINOPHEN AND PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    MARC GLASSMAN, INC.
+  product_ndc:
+    68998-323
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1046378
+  spl_id:
+    2526b65f-4ccf-d493-e063-6294a90ab063
+  spl_set_id:
+    a82401f5-65b1-11e9-e053-2a95a90a499e
+  package_ndc:
+    68998-323-05
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D
+    04JA59TNSJ

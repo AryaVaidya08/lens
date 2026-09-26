@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Stay Awake Caffeine CAFFEINE CAFFEINE ANHYDROUS DIBASIC CALCIUM PHOSPHATE D&C YELLOW NO. 10 FD&C YELLOW NO. 6 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN DEXTROSE SILICON DIOXIDE 44;226
+active_ingredient:
+  Active ingredient (in each tablet) Caffeine 200 mg
+purpose:
+  Purpose Alertness aid
+indications_and_usage:
+  Uses helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness
+warnings:
+  Warnings For occasional use only Caffeine warning: The recommended dose of this product contains about as much caffeine as a cup of coffee. Limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and, occasionally, rapid heartbeat. Do not use in children under 12 years as a substitute for sleep Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children under 12 years as a substitute for sleep
+stop_use:
+  Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years and over: take 1 tablet not more often than every 3 to 4 hours
+spl_unclassified_section:
+  Other information store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients corn starch, D&C yellow #10 aluminum lake, dextrose, dicalcium phosphate, FD&C yellow #6 aluminum lake, magnesium stearate, microcrystalline cellulose, silica gel
+questions:
+  Questions or comments? (800) 616-2471
+package_label_principal_display_panel:
+  Principal Display Panel MAJOR ® NDC 0904-7955-44 STAY AWAKE Maximum Strength • Alertness Aid • For Fast Pick-Up - Safe As Coffee • Contains 200 mg Caffeine Equal to About A Cup Of Coffee *Compare to the active ingredient in Vivarin ® 16 Tablets TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING *This product is not manufactured or distributed by Meda Consumer Healthcare, owner of the registered trademark Vivarin ® . 50844 REV0412E22621 Distributed by MAJOR ® PHARMACEUTICALS 31778 Enterprise Drive, Livonia, MI 48150 USA M-17 Rev. 01/13 Re-order No. 700553 Major 44-226 Major 44-226
+set_id:
+  5a1300f4-910c-4704-9180-230e26ee84f8
+id:
+  7f67f32e-2a26-4136-b012-3a35171395d8
+effective_time:
+  20190328
+version:
+  7
+openfda:

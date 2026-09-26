@@ -1,0 +1,37 @@
+effective_time:
+  20200609
+inactive_ingredient:
+  Inactive ingredients Water, acrylate/C10-30, alkyl acrylate crosspolymer, benzophenone-4, fragrance, glycerin, tocopherol
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only, do not inhale or ingest. Do not use in, or near the eyes. In case of contact with eyes, rinse thoroughly with water. Avoid contact with broken skin Stop use and ask a doctor if irritation or rash develop and persist for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  Cleanology Advanced Hand Sanitizer ALCOHOL WATER SULISOBENZONE GLYCERIN TOCOPHEROL ALCOHOL ALCOHOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping. For children under 6, use only under adult supervision. Not recommended for infants.
+spl_unclassified_section:
+  DRUG FACTS
+  Other information Store below 110°F (43°C) May discolor certain fabrics or surfaces
+stop_use:
+  Stop use and ask a doctor if irritation or rash develop and persist for more than 72 hours.
+do_not_use:
+  Do not use in, or near the eyes. In case of contact with eyes, rinse thoroughly with water. Avoid contact with broken skin
+package_label_principal_display_panel:
+  Package Labeling:76546-000-01 Drug Facts Front
+  Package Labeling:76546-000-02 60mL Label
+  Package Labeling:76546-000-03 300mL Label
+  Package Labeling:76546-000-04 500mL Label
+indications_and_usage:
+  USE: Hand sanitizer to help reduce bacteria on the skin.
+set_id:
+  6b586e4b-cb2e-40d9-a23a-2cff9cd9e18a
+id:
+  a7a882f7-5a8a-09f2-e053-2995a90af7d4
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 75% Purpose Antiseptic

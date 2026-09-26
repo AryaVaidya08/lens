@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  dAlba Vegan Fresh Sun Cushion Zinc Oxide, Homosalate, Octocrylene GLYCERIN ZINC OXIDE ZINC OXIDE
+dosage_and_administration:
+  dosage
+warnings:
+  warning
+inactive_ingredient:
+  inactive ingredients
+indications_and_usage:
+  indication
+keep_out_of_reach_of_children:
+  children out
+purpose:
+  purpose
+active_ingredient:
+  active ing
+package_label_principal_display_panel:
+  Main Display
+set_id:
+  20afcbab-a2f4-7965-e063-6294a90a83d1
+id:
+  37159649-4a9f-9bd7-e063-6294a90a223d
+effective_time:
+  20250608
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    dAlba Vegan Fresh Sun Cushion
+  generic_name:
+    ZINC OXIDE, HOMOSALATE, OCTOCRYLENE
+  manufacturer_name:
+    ADMTMAX LLC
+  product_ndc:
+    84662-060
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    37159649-4a9f-9bd7-e063-6294a90a223d
+  spl_set_id:
+    20afcbab-a2f4-7965-e063-6294a90a83d1
+  package_ndc:
+    84662-060-05
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

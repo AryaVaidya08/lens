@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Thera Plus Extra Strength Muscle Rub Topical Analgesic MENTHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CAMPHOR (SYNTHETIC) DMDM HYDANTOIN ISOPROPYL ALCOHOL PEG-40 HYDROGENATED CASTOR OIL WATER SODIUM HYDROXIDE MENTHOL MENTHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information store at room temperature 68° - 72°F (20° - 22°C).
+active_ingredient:
+  Active ingredients Menthol 2.5% Purpose Topical analgesic
+purpose:
+  Purpose Topical analgesic
+indications_and_usage:
+  Uses temporarily relief of minor aches and pains of muscles and joints associated with: simple backache arthritis strains sprains bruises
+warnings:
+  Warnings For external use only. Do not use on wounds or damaged skin with a heating pad on a child under 12 years of age with an arthritis-like condition When using this product avoid contact with eyes and mucous membranes do not bandage tightly Stop use and ask a doctor if excessive skin irritation occurs condition worsens or symptoms persist for more than 7 days symptoms clear up and then occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use on wounds or damaged skin with a heating pad on a child under 12 years of age with an arthritis-like condition
+when_using:
+  When using this product avoid contact with eyes and mucous membranes do not bandage tightly
+stop_use:
+  Stop use and ask a doctor if excessive skin irritation occurs condition worsens or symptoms persist for more than 7 days symptoms clear up and then occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Direction adults and children 12 years of age and older: apply to affected area not more than 3 to 4 times daily children under 12 years of age: ask a doctor
+inactive_ingredient:
+  Inactive ingredients camphor,carbomer, DMDM hydantoin, isoceteth, isopropyl alcohol,PEG-40 hydrogenated castor oil,purified water,sodium hydroxide
+questions:
+  Questions? 1-800-639-3803 Weekdays 9 AM to 4 PM EST
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  8a3b6adf-afbb-4d77-a19b-a6514ebd3b50
+id:
+  3c1ad278-b7b9-7859-e063-6294a90a528a
+effective_time:
+  20250811
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Thera Plus Extra Strength Muscle Rub Topical Analgesic
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    FOURSTAR GROUP USA, INC.
+  product_ndc:
+    80684-139
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    282805
+  spl_id:
+    3c1ad278-b7b9-7859-e063-6294a90a528a
+  spl_set_id:
+    8a3b6adf-afbb-4d77-a19b-a6514ebd3b50
+  package_ndc:
+    80684-139-00
+  is_original_packager:
+    True
+  upc:
+    0049696700368
+  unii:
+    L7T10EIP3A

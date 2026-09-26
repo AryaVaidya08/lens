@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  BENEMAX ADVANCED Hand Sanitizer Isopropyl alcohol ALOE .ALPHA.-TOCOPHEROL ACETATE, DL- GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active ingredient Isopropyl alcohol 70%, USP
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses as a hand sanitizer when there is no water, to reduce bacteria on the skin which can cause illness. Recommended for repeated use.
+warnings:
+  Warnings Flammable, keep away from fire or flame For external use only When using this product do not use in or near the eyes, or inhale in case of contact, rinse eyes thoroughly with water Stop use and ask a doctor if a rash on irritation appear and remain at the site of contact Keep out of reach of children. If swallowed, get medical help right away or contact a Poison Control Center immediately.
+when_using:
+  When using this product do not use in or near the eyes, or inhale in case of contact, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if a rash on irritation appear and remain at the site of contact
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help right away or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions dispense sufficient liquid to cover the hands, rub hands together briskly for 30 seconds. Allow hands to dry. • children under 6 years of age must be upervised when using this product.
+spl_unclassified_section:
+  Other information do not store above 110 0 F (43 0 C). May discolor certain fabrics or substances
+inactive_ingredient:
+  Inactive ingredient Aloe (aloe barbadensis) Juice, D-alpha-tocopheryl Acetate, Glycerin, PEG, Water
+package_label_principal_display_panel:
+  Product Label image description
+set_id:
+  bd99a59e-46a7-45c5-824b-8948628462a8
+id:
+  d1f196a8-f5eb-ccaa-e053-2a95a90a844c
+effective_time:
+  20211129
+version:
+  3
+openfda:

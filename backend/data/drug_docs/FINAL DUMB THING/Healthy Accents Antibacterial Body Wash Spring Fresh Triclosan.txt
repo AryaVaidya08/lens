@@ -1,0 +1,33 @@
+effective_time:
+  20100922
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, PEG-8, Fragrance (Parfum), Glycerin, Isostearoamidopropyl Morpholine Lactate, Polyquaternium-10, Cocamidopropyl PG-Dimonium Chloride, DMDM Hydantoin, Citric Acid, Tetrasodium EDTA, Sodium Chloride, Blue 1 (Cl 42090), Red 33 (Cl 17200).
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only. When using this product - Avoid contact with eyes. If contact occurs, rinse with water. Stop using this product and ask doctor if - Irritation and redness develop. Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product - Avoid contact with eyes. If contact occurs, rinse with water.
+spl_product_data_elements:
+  Healthy Accents Antibacterial Body Wash Spring Fresh Triclosan TRICLOSAN TRICLOSAN WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE POLYETHYLENE GLYCOL 400 GLYCERIN DMDM HYDANTOIN CITRIC ACID MONOHYDRATE EDETATE SODIUM SODIUM CHLORIDE FD&C BLUE NO. 1 D&C RED NO. 33
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions - squeeze onto wet hands or body sponge - work into a lather - wash skin, rinse, and dry thoroughly
+stop_use:
+  Stop using this product and ask doctor if - Irritation and redness develop.
+storage_and_handling:
+  Other Information Store at room temprature
+package_label_principal_display_panel:
+  PACKAGE FRONT AND BACK LABELS 24OZ FRONT AND BACK LABELS: hac24.jpg 24OZ Front and Back Lables
+indications_and_usage:
+  Use For washing to decrease bacteria on skin.
+set_id:
+  e01e3d02-ea71-4700-8ed3-9dfe6b3b7000
+id:
+  58f95350-0364-4d6b-ac49-5cd971b24981
+active_ingredient:
+  Active Ingredient Triclosan 0.15%

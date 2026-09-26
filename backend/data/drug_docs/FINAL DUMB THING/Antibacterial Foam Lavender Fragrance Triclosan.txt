@@ -1,0 +1,33 @@
+effective_time:
+  20160127
+inactive_ingredient:
+  Inactive ingredients Water, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Lauramide DEA, Cocamide DEA, Cocamidopropyl Betaine, Tetrasodium EDTA, DMDM Hydantoin, Diethanolamine, Fragrance, Methychloroisothiazolinone and Methylisothiazolinone, FD&C Red No. 4, FD&C Violet No. 2
+purpose:
+  Purpose Antiseptic Handwash
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Ask a doctor before use if you have Deep wounds, animal bites, or serious burns. When using this product Avoid contact with eyes. If this occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation, itching or redness develops. If condition persists for more than 72 hours consult a doctor. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Avoid contact with eyes. If this occurs, rinse thoroughly with water.
+spl_product_data_elements:
+  Antibacterial Foam Lavender Fragrance Triclosan WATER SODIUM LAURETH SULFATE SODIUM LAURYL SULFATE LAURIC DIETHANOLAMIDE COCO DIETHANOLAMIDE COCAMIDOPROPYL BETAINE EDETATE SODIUM DMDM HYDANTOIN DIETHANOLAMINE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE CITRIC ACID MONOHYDRATE D&C VIOLET NO. 2 FD&C RED NO. 4 TRICLOSAN TRICLOSAN
+ask_doctor:
+  Ask a doctor before use if you have Deep wounds, animal bites, or serious burns.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hands, apply foam, lather for 30 seconds and rinse hands thoroughly.
+stop_use:
+  Stop use and ask a doctor if irritation, itching or redness develops. If condition persists for more than 72 hours consult a doctor.
+package_label_principal_display_panel:
+  Principal Display Panel REF: P778208 NDC: 43128-208-03 Antibacterial Liquid Soap Foam Lavender Fragrance 8 FL. OZ. (237 mL) label
+indications_and_usage:
+  Use Handwash to help reduce bacteria that potentially can cause disease
+set_id:
+  f6bd39ce-0ca5-4d52-9c97-2a2998464c3f
+id:
+  2a51e246-340e-09b1-e054-00144ff88e88
+active_ingredient:
+  Active ingredient Triclosan 0.3%

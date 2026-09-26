@@ -1,0 +1,32 @@
+effective_time:
+  20210419
+inactive_ingredient:
+  Inactive Ingredients: Ethyl alcohol, Fragrances, Silica Complex (3-Trimethoxysilyl Propyl Dimethyl Octadecyl Ammonium Chloride), Water
+purpose:
+  Purpose: Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings: For external use only. Do not use in the eyes When using this product avoid contact with eyes. In casee of eye contact flush eyes with water. Stop use and ask a doctor if irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  Do not use in the eyes When using this product avoid contact with eyes. In casee of eye contact flush eyes with water.
+questions:
+  Questions? Telephone 1-844-966-6687 Monday through Friday 8:00am till 5:00pm EST
+spl_product_data_elements:
+  Zoono germfree 24 Foaming Hand Sanitizer benzalkonium chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER
+ask_doctor:
+  Stop use and ask a doctor if irritation and redness develops.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Uses: For Personal hand sanitizing and to reduce bacteria on the skin. Recommended for repeated use.
+package_label_principal_display_panel:
+  Zoono Hand Sanitizer Label
+indications_and_usage:
+  Directions: Apply liberally to hands and gently rub until dry.
+set_id:
+  2e944b6c-f592-541a-e054-00144ff8d46c
+id:
+  c055544b-65bf-b975-e053-2995a90a69da
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose: Antiseptic

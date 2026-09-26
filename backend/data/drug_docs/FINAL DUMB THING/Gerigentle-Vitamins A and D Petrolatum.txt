@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Gerigentle-Vitamins A and D Petrolatum LANOLIN LAVENDER OIL LIGHT MINERAL OIL VITAMIN A VITAMIN D PETROLATUM PETROLATUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient White Petrolatum USP (93%w/w)
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses Helps treat and prevent diaper rash Helps seal out wetness Temporarily protects minor cuts scrapes burns Temporarily helps protect and relieve chapped and cracked skin or lips Helps prevent and protect from the drying effects of wind and cold weather Helps prevent and protect chafed skin or minor skin irritations associated with diaper rash With each diaper change, especially at bedtime when exposure to wetness may be prolonged
+warnings:
+  Warnings For external use only When using this product Do not get into eyes Stop Use and consult a doctor if condition worsens symptoms last more than 7 days symptoms clear up and reoccur in a few days Do not use on deep puncture wounds animal bites serious burns Keep out of reach of children! If swallowed, get medical help or contact a Poison Control Center immediately
+when_using:
+  When using this product Do not get into eyes
+stop_use:
+  Stop Use and consult a doctor if condition worsens symptoms last more than 7 days symptoms clear up and reoccur in a few days
+do_not_use:
+  Do not use on deep puncture wounds animal bites serious burns
+keep_out_of_reach_of_children:
+  Keep out of reach of children! If swallowed, get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Directions for use with Diaper Rash change wet and soiled diaper promptly cleanse the diaper area and allow to dry apply as needed
+storage_and_handling:
+  Other information store at 15°-30°C (59°-86°F) avoid excessive heat and humidity
+inactive_ingredient:
+  Inactive Ingredients Lanolin, Lavender Oil, Light Liquid Paraffin, Vitamin A and Vitamin D
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 113 g Tube Carton label packet label tubes label
+set_id:
+  a0c1b244-5f30-21fb-e053-2995a90a6211
+id:
+  d0756602-82dc-a997-e053-2995a90ab7d2
+effective_time:
+  20211110
+version:
+  3
+openfda:

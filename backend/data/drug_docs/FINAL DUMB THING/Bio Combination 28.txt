@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Bio Combination 28 Schuessler Salts CALCIUM FLUORIDE FLUORIDE ION CALCIUM PHOSPHATE CALCIUM CATION FERROUS PHOSPHATE FERROUS CATION POTASSIUM CHLORIDE POTASSIUM CATION POTASSIUM SULFATE POTASSIUM CATION MAGNESIUM PHOSPHATE MAGNESIUM CATION SODIUM CHLORIDE SODIUM CATION SODIUM PHOSPHATE PHOSPHATE ION SODIUM SULFATE SODIUM CATION SILICON DIOXIDE SILICON DIOXIDE CALCIUM SULFATE CALCIUM CATION POTASSIUM PHOSPHATE POTASSIUM PHOSPHATE
+active_ingredient:
+  Composition : Each Tablet contains equal proportion of: Calcium Flouride 6X Calcium Phosphate 6X Iron Phosphate 6X Potassium Chloride 6X Potassium Phosphate 6X Potassium Sulphate 6X Magnesium Phosphate 6X Sodium Chloride 6X Sodium Phosphate 6X Sodium Sulphate 6X Silicea 6X Calcium Sulphate ​6X
+warnings:
+  Warnings and Storage: Ask a professional before use if pregnant or breastfeeding, or if you have severe symptoms. Keep away from children. If you have a reaction to this product that is not positive, discontinue use. Store in a cool and dry place.
+dosage_and_administration:
+  Under 12 consult a doctor. Slightly chew one tablet and allow to dissolve in the mouth, 2 times daily or up to 6 times daily for intense symptoms. Reduce to one tablet daily for 7 days after symptoms improve. Take at least 15mn apart from food and drinks
+indications_and_usage:
+  Temporarily boost cellular nutrition, satisfy mineral imbalances in the body, and stimulate the body's natural healing process
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+inactive_ingredient:
+  Lactose, magnesium stearate
+purpose:
+  Temporarily boost cellular nutrition, satisfy mineral imbalances in the body, and stimulate the body's natural healing process.
+recent_major_changes:
+  Changed Dosage and Administraction to : Under 12 consult a doctor. Slightly chew one tablet and allow to dissolve in the mouth, 2 times daily or up to 6 times daily for intense symptoms. Reduce to one tablet daily for 7 days after symptoms improve. Take at least 15mn apart from food and drinks
+package_label_principal_display_panel:
+  Bio-Combination 28 Bio-Combination 28
+set_id:
+  597caf33-5107-9dec-e063-6294a90a5fcd
+id:
+  597caf33-5108-9dec-e063-6294a90a5fcd
+effective_time:
+  20260820
+version:
+  1
+openfda:
+  brand_name:
+    Bio Combination 28
+  generic_name:
+    SCHUESSLER SALTS
+  manufacturer_name:
+    LDD Bioscience Private Limited
+  product_ndc:
+    87835-103
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM FLUORIDE
+    CALCIUM PHOSPHATE
+    FERROUS PHOSPHATE
+    POTASSIUM CHLORIDE
+    POTASSIUM SULFATE
+    MAGNESIUM PHOSPHATE
+    SODIUM CHLORIDE
+    SODIUM PHOSPHATE
+    SODIUM SULFATE
+    SILICON DIOXIDE
+    CALCIUM SULFATE
+    POTASSIUM PHOSPHATE
+  spl_id:
+    597caf33-5108-9dec-e063-6294a90a5fcd
+  spl_set_id:
+    597caf33-5107-9dec-e063-6294a90a5fcd
+  package_ndc:
+    87835-103-01
+  is_original_packager:
+    True
+  unii:
+    O3B55K4YKI
+    97Z1WI3NDX
+    D07L04MRWI
+    660YQ98I10
+    1K573LC5TV
+    453COF7817
+    451W47IQ8X
+    SE337SVY37
+    0YPR65R21J
+    ETJ7Z6XBU4
+    WAT0DDB505
+    B7862WZ632

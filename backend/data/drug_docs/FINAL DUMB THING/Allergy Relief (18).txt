@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Allergy Relief DIPHENHYDRAMINE HYDROCHLORIDE BENZYL ALCOHOL BUTYLPARABEN D&C RED NO. 28 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN LACTOSE MAGNESIUM STEARATE METHYLPARABEN POLYSORBATE 80 PROPYLPARABEN SODIUM LAURYL SULFATE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE A;20
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each capsule) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+warnings:
+  Warnings Do not use with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness excitability may occur, especially in children be careful when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness excitability may occur, especially in children be careful when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take every 4 to 6 hours do not exceed 6 doses in 24 hours adults and children 12 years of age and over 25 mg to 50 mg (1 to 2 capsules) children 6 to under 12 years of age 12.5 mg 12.5 mg dosage strength is not available in this package. Do not attempt to break capsules. to 25 mg (1 capsule) children under 6 years of age ask a doctor
+dosage_and_administration_table:
+  <table width="65%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr><td styleCode="Botrule Rrule">adults and children 12 years of age and over</td><td styleCode="Botrule">25 mg to 50 mg (1 to 2 capsules)</td></tr><tr><td styleCode="Botrule Rrule">children 6 to under 12 years of age</td><td styleCode="Botrule">12.5 mg <footnote ID="K637">12.5 mg dosage strength is not available in this package. Do not attempt to break capsules.</footnote> to 25 mg (1 capsule) </td></tr><tr><td styleCode="Rrule">children under 6 years of age</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F) protect from moisture retain carton for complete product information
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, butylparaben, D&C red #28, edible black ink, FD&C blue #1, FD&C red #40, gelatin, lactose, magnesium stearate, methylparaben, polysorbate 80, propylparaben, sodium lauryl sulfate
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 63868-087-24 QUALITY CHOICE †Compare to BENADRYL® Allergy Kapseals active ingredient Allergy Relief Antihistamine Diphenhydramine HCl For Relief of: Sneezing Itchy, Watery Eyes Runny Nose Itchy Throat 24 Capsules 24 count
+set_id:
+  8eab9d79-69c1-44b8-9145-a7ebd887d54d
+id:
+  24357076-8e9f-69bc-e063-6394a90af9c8
+effective_time:
+  20241011
+version:
+  3
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Allergy Relief
+  generic_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  manufacturer_name:
+    Chain Drug Marketing Association
+  product_ndc:
+    63868-087
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1049909
+  spl_id:
+    24357076-8e9f-69bc-e063-6394a90af9c8
+  spl_set_id:
+    8eab9d79-69c1-44b8-9145-a7ebd887d54d
+  package_ndc:
+    63868-087-24
+    63868-087-01
+  is_original_packager:
+    True
+  upc:
+    0635515901803
+  unii:
+    TC2D6JAD40

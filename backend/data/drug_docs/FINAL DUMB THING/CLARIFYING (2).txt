@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  CLARIFYING TONER 2% SALICYLIC ACID COCAMIDOPROPYL DIMETHYLAMINE GLYCERIN SODIUM CITRATE PROPANEDIOL WATER SALICYLIC ACID SALICYLIC ACID BENZYL ALCOHOL GLYCERYL CAPRYLATE GLYCERYL 1-UNDECYLENATE GREEN TEA LEAF
+active_ingredient:
+  ACTIVE INGREDIENT SALICYLIC ACID 2%
+purpose:
+  PURPOSE Acne medication
+indications_and_usage:
+  USES For the treatment of acne
+warnings:
+  WARNINGS For external use only. When using this product skin irritation andndryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Keep out of reach of children. If swalloed, get medical help or contact a Poison Control Center right away. Flammable: Keep away from fire or flame.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS CLEAN THE SKIN THOROUGHLY BEFORE APPLYING THE PRODUCT COVER THE ENTIRE AFFECTED AREA WITH A THIN LAYER ONE TO THREE TIMES DAILY BECAUSE EXCESSIVE DRYING OF THE SKIN MAY OCCUR, START WITH ONE APPLICATION DAILY, THEN GRADUALLY INCREASE TO TWO OR THREE TIMES DAILY IF NEEDED OR AS DIRECTED BY A DOCTOR IF BOTHERSOME DRYNESS OR PEELING OCCURS, REDUCE APPLICATION TO ONCE A DAY OR EVERY OTHER DAY IF GOING OUTSIDE, APPLY SUNCREEN AFTER USING THIS PRODUCT. IF IRRITATION OR SENSITIVITY DEVELOPS, STOP USE OF BOTH PRODUCTS AND ASK A DOCTOR.
+storage_and_handling:
+  OTHER INFORMATION STORE AT ROOM TEMPERATURE. KEEP AWAY FROM HEAT AND DIRECT SUNLIGHT.
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER, PROPANEDIOL, GLYCERIN, COCAMIDOPROPYL DIMETHYLAMINE, SODIUM CITRATE, BENZYL ALCOHOL, GLYCERYL CAPRYLATE, GLYCERYL UNDECYLENATE, CAMELLIA SINENSIS LEAF EXTRACT
+package_label_principal_display_panel:
+  LBL CLARIFYING SALICYLIC TONER
+set_id:
+  f218bb9f-8683-6ccb-e053-2a95a90a13d2
+id:
+  f3320371-a6cf-9129-e053-2a95a90ad07b
+effective_time:
+  20230126
+version:
+  4
+openfda:

@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  TriDerma Aloe Zinc Occlusive Barrier DIMETHICONE 100 BEESWAX ALOE VERA LEAF JUICE SHEA BUTTER ALLANTOIN ALLANTOIN
+purpose:
+  PURPOSE Skin Protectant
+dosage_and_administration:
+  DIRECTIONS Apply as soon as possible after procedure. Reapply as often as needed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Aloe Barbadensis Leaf Juice*, Avena Sativa (Oat) Kernel Flour, Cera Alba (Beeswax), Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol, Cetyl Alcohol, Dimethicone, Ethylhexylglycerin, Glyceryl Stearate, Glyceryl Stearate SE, Helianthus Annuus (Sunflower) Seed Oil, Isopropyl Palmitate, Panthenol (Pro-Vitamin B5), Phenoxyethanol, Polysorbate 60, Potassium Cetyl Phosphate, Propanediol, Sodium Hyaluronate, Sodium Hydroxide, Sodium PCA, Sodium Phytate, Tocopheryl Acetate (Vitamin E), Water (Aqua), Xanthan Gum, Zinc PCA. *Certified Organic Ingredient - Mayacert Certifier
+warnings:
+  WARNINGS For external use only
+active_ingredient:
+  ACTIVE INGREDIENT Allantoin 1.5%
+indications_and_usage:
+  USES temporarily protects and helps relieved chafed, chapped or cracked skin.
+do_not_use:
+  DO NOT USE: on deep puncture wounds, on infections, on lacerations
+when_using:
+  WHEN USING THIS PRODUCT: do not get into eyes
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN if swallowed get medical help and contact a Poison Control Center right away.
+stop_use:
+  STOP USE AND ASK A DOCTOR IF: condition worsens or does not improve within 7 days.
+package_label_principal_display_panel:
+  PACKAGING post 2 oz label.jpg post 3.3 label.jpg
+set_id:
+  a8c858b7-8ce5-40ef-a5f6-e60a9420721d
+id:
+  49a27d36-cf62-9a89-e063-6394a90a92c6
+effective_time:
+  20260130
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    TriDerma Aloe Zinc Occlusive
+  generic_name:
+    BARRIER
+  manufacturer_name:
+    Genuine Virgin Aloe Corporation
+  product_ndc:
+    10738-123
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALLANTOIN
+  spl_id:
+    49a27d36-cf62-9a89-e063-6394a90a92c6
+  spl_set_id:
+    a8c858b7-8ce5-40ef-a5f6-e60a9420721d
+  package_ndc:
+    10738-123-35
+    10738-123-25
+  is_original_packager:
+    True
+  upc:
+    0182228000335
+  unii:
+    344S277G0Z

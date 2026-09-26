@@ -1,0 +1,31 @@
+effective_time:
+  20110301
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane dispensing alcohol 20%.
+purpose:
+  OTC - PURPOSE SECTION Formulated for symptoms associated with throat conditions such as dryness, irritation, inflammation, pain and hoarseness.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+warnings:
+  WARNINGS SECTION Warning: Do not use if tamper - evident seal is broken or missing. Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days. Keep out of reach of children
+questions:
+  QUESTIONS SECTION www.newtonlabs.net Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30012 Questions? 1.800.448.7256
+spl_product_data_elements:
+  Throat Care Aconitum nap., Apis mel., Arum dracontium, Belladonna, Bryonia, Cajuputum, Ferrum phosphoricum, Glycyrrhiza glabra, Kali bic., Lachesis, Mentha piperita, Merc. viv., Naja, Nat. carb., Nat. sulphuricum, Nitricum ac., Nux vom., Phosphorus, Phytolacca, Pulsatilla, Spongia, Stannum met., Sticta, Thuja occ., Ulmus fulva, Verbascum, Echinacea Aconitum Napellus Aconitum Napellus Apis Mellifera Apis Mellifera Arisaema Dracontium Root Arisaema Dracontium Root Atropa Belladonna Atropa Belladonna Bryonia Alba Root Bryonia Alba Root Cajuput Oil Cajuput Oil Ferrosoferric Phosphate Ferrosoferric Phosphate Glycyrrhiza Glabra Glycyrrhiza Glabra Potassium Dichromate Dichromate Ion Lachesis Muta Venom Lachesis Muta Venom Mentha Piperita Mentha Piperita Mercury Mercury Naja Naja Venom Naja Naja Venom Sodium Carbonate Carbonate Ion Sodium Sulfate Sodium Sulfate Anhydrous Nitric Acid Nitric Acid Strychnos Nux-vomica Seed Strychnos Nux-vomica Seed Phosphorus Phosphorus Phytolacca Americana Root Phytolacca Americana Root Pulsatilla Vulgaris Pulsatilla Vulgaris Spongia Officinalis Skeleton, Roasted Spongia Officinalis Skeleton, Roasted Tin Tin Lobaria Pulmonaria Lobaria Pulmonaria Thuja Occidentalis Leafy Twig Thuja Occidentalis Leafy Twig Ulmus Rubra Bark Ulmus Rubra Bark Verbascum Thapsus Verbascum Thapsus Echinacea, Unspecified Echinacea, Unspecified Alcohol package label
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: ORAL USE ONLY - SHAKE WELL. Ages 12 and up, take 6 drops orally (ages 0 to 11, give 3 drops) as needed or as directed by a healthcare professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION Consult a licensed healthcare professional if pregnant, nursing or if symptoms worsen or persist for more than a few days.
+package_label_principal_display_panel:
+  PACKAGE LABEL
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Throat Care Formulated for symptoms associated with throat conditions such as dryness, irritation, inflammation, pain and hoarseness.
+set_id:
+  407781ed-54e1-eb96-3fd1-a8d72d2bd25b
+id:
+  54cbb3c6-c697-04da-42bf-14f3996e6172
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Aconitum nap. 15x, Apis mel. 15x, Arum dracontium 15x, Belladonna 15x, Bryonia 15x, Cajuputum 15x, Ferrum phosphoricum 15x, Glycyrrhiza glabra 15x, Kali bic.15x, Lachesis 15x, Mentha piperita 15x, Merc. viv. 15x, Naja 15x, Nat. carb. 15x, Nat. sulphuricum 15x, Nitricum ac. 15x, Nux vom.15x, Phosphorus 15x, Phytolacca 15x, Pulsatilla 15x, Spongia 15x, Stannum met. 15x, Sticta 15x, Thuja occ. 15x, Ulmus fulva 15x, Verbascum 15x, Echinacea 3x.

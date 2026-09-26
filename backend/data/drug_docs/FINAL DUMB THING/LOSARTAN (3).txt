@@ -1,0 +1,34 @@
+effective_time:
+  20151203
+contraindications:
+  Contraindications
+precautions:
+  Precautions
+warnings:
+  Warnings
+spl_product_data_elements:
+  LOSARTAN POTASSIUM LOSARTAN POTASSIUM CELLULOSE, MICROCRYSTALLINE HYDROXYPROPYL CELLULOSE (TYPE H) HYPROMELLOSE 2910 (6 MPA.S) ANHYDROUS LACTOSE LOSARTAN POTASSIUM LOSARTAN COLLOIDAL SILICON DIOXIDE MAGNESIUM STEARATE STARCH, PREGELATINIZED CORN TALC TITANIUM DIOXIDE oval shaped, biconvex 25;113 white to off-white
+description:
+  Description
+boxed_warning:
+  Boxed Warning fetal toxicity When pregnancy is detected, discontinue losartan potassium tablets as soon as possible. Drugs that act directly on the rennin-angiotensin system can cause injury and death to the developing fetus. See WARNINGS, Fetal Toxicity.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Dosage and Administration
+adverse_reactions:
+  Adverse Reactions
+package_label_principal_display_panel:
+  Package Label Label
+indications_and_usage:
+  Indications and Usage
+clinical_pharmacology:
+  Clinical Pharmacology Clinical Pharmacology Continued
+  Clinical Pharmacology Continued
+set_id:
+  25fe6b18-e408-4b17-e054-00144ff8d46c
+id:
+  25fe6b18-e409-4b17-e054-00144ff8d46c
+overdosage:
+  Overdosage

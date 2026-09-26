@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Galphimia glauca GALPHIMIA GLAUCA FLOWERING TOP LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE GALPHIMIA GLAUCA FLOWERING TOP GALPHIMIA GLAUCA FLOWERING TOP SUCROSE
+active_ingredient:
+  Active ingredient** (in each pellet) Galphimia glauca 30C HPUS (0.44 mg)
+purpose:
+  Purpose* Relieves hay fever symptoms
+indications_and_usage:
+  Uses* Box - temporarily relieves symptoms of hay fever (allergic rhinitis) caused by seasonal pollens, dust mites, mold, or pet dander and saliva such as: itchy, stuffy, or runny nose nasal congestion eye irritation Tube- Itchy Nose And Sneezing Due To Hay Fever*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+spl_unclassified_section:
+  Box- do not use if glued carton end flaps are open or if pellet dispenser seal is broken contains 0.25 g of sugar per dose Hay Fever Relief* Itchy or Runny Nose Sneezing Watery Eyes* Turn the tube upside down Twist until 5 pellets are dispensed Remove cap and pour pellets under the tongue 3 Tubes Approx. 80 Pellets Each Total 240 Pellets 16 Doses per tube Seasonal Pollens & Indoor Allergies* Non-Drowsy Tube- Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label
+set_id:
+  85a20448-494b-8363-e053-2a91aa0a0473
+id:
+  f52c2b0f-8c93-8e55-e053-2995a90a8299
+effective_time:
+  20230220
+version:
+  3
+openfda:
+  brand_name:
+    Galphimia glauca
+  generic_name:
+    GALPHIMIA GLAUCA FLOWERING TOP
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-2241
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GALPHIMIA GLAUCA FLOWERING TOP
+  spl_id:
+    f52c2b0f-8c93-8e55-e053-2995a90a8299
+  spl_set_id:
+    85a20448-494b-8363-e053-2a91aa0a0473
+  package_ndc:
+    0220-2241-41
+    0220-2241-43
+  is_original_packager:
+    True
+  unii:
+    93PH5Q8M7E

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  BSAFE3 Hand Sanitizer ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN ALOE VERA LEAF SODIUM HYDROXIDE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information do not store above 105°F may discolor some fabrics harmful to wood finishes and plastics
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only-hands Flammable. Keep away from heat and flame When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water avoid contact with broken skin do not inhale or ingest Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use under adult supervision not recommended for infants
+inactive_ingredient:
+  Inactive ingredients Water (aqua), Carbomer, Glycerin, Aloe Barbadensis Leaf Juice, Sodium Hydroxide
+package_label_principal_display_panel:
+  Package Labeling: 68957-2000-0 Label
+  Package Labeling:68957-2000-1 Box
+  Package Labeling:68957-2000-2 Box2
+  Package Labeling:68957-2000-3 Box3
+set_id:
+  f1e979ae-8fb1-48dd-b539-5aca416f991a
+id:
+  2a051ec7-ac1c-31e7-e063-6394a90ae855
+effective_time:
+  20241224
+version:
+  5
+openfda:

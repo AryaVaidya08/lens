@@ -1,0 +1,36 @@
+effective_time:
+  20191213
+inactive_ingredient:
+  Inactive ingredients Purified Water, Hydroxyethylcellulose, Glycerin, Polysorbate 20, Fragrance, Tetrasodium EDTA
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings For external use only. Keep out of reach of children. Do not use on broken skin. Stop use if rash or irritation occurs. Ask a doctor before use if you have kidney disease. If swallowed, get medical help or contact a Poison Control Center immediately. Use only as directed.
+spl_product_data_elements:
+  Roll On Anti-Perspirant Deodorant ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE Water HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%) Glycerin Polysorbate 20 Edetate Sodium
+ask_doctor:
+  Ask a doctor before use if you have kidney disease. If swallowed, get medical help or contact a Poison Control Center immediately. Use only as directed.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Apply to underarms only.
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Olivette Products, L.L.C., Bridgeton, MO 63044
+stop_use:
+  Stop use if rash or irritation occurs.
+do_not_use:
+  Do not use on broken skin.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 88 ml Bottle Label FORCE POWER UP ANTI-PERSPIRANT & DEODORANT ROLL-ON 3 fl oz/88 ml PRINCIPAL DISPLAY PANEL - 88 ml Bottle Label
+indications_and_usage:
+  Use Reduces underarm wetness.
+set_id:
+  d31c7730-6f63-447c-b0c2-ffd7e19a9f01
+id:
+  f02537e9-0e5f-4eb9-9828-c6856757f369
+active_ingredient:
+  Active ingredient Aluminum Chlorohydrate, 14% – Anhydrous Basis

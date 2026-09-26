@@ -1,0 +1,49 @@
+spl_product_data_elements:
+  Ionite APF Foam Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION CASTOR OIL DECYL GLUCOSIDE WATER HYDROFLUORIC ACID PHOSPHORIC ACID SODIUM BENZOATE SODIUM LAURETH SULFATE SACCHARIN SODIUM XYLITOL POLOXAMER 407 TROLAMINE
+inactive_ingredient:
+  Castor Oil, Decyl Glucoside, Distilled Water, Flavor, Hydrofluoric Acid, Phosphoric Acid, Poloxamer, Propellant A31, Sodium Benzoate, Sodium Laureth Sulface, Sodium Saccharne, Triethanolamine, Xylitol
+warnings_and_cautions:
+  Do not swallow. Keep out of reach of children. Contents under pressure. Do not place in hot water or near radiators, stoves or other sources of heat. Do not puncture or incinerate container. Do not spray towards open flames. For professional use only.
+instructions_for_use:
+  Remove cap from can. Prior to each use, shake can thoroughly for at least 15 seconds. To dispense,invert the can completely upside down. Slowly depress nozzle to dispense foam into a fluoride tray (foam will expand slightly higher than fluoride tray). Air dry teeth thoroughly and inset tray(s) into patient's mouth. Instruct patient to bite down and leave the tray in contact with the teeth between 1 - 4 minutes. Use a saliva ejector during treatment to minimize ingestion of product. Remove the tray(s) and have patient expectorate. Instruct patient not to eat, drink or rinse for 30 minutes after treatment.
+storage_and_handling:
+  Store at a controlled room temperature 59 o -86 o F (15 o -30 o C)
+package_label_principal_display_panel:
+  RevB.jpg
+set_id:
+  8987b447-3fa3-4f52-aecc-80e44c981aaa
+id:
+  86b603bc-a794-4814-9216-366a80d7642b
+effective_time:
+  20201027
+version:
+  3
+openfda:
+  brand_name:
+    Ionite APF Foam
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Dharma Research, Inc.
+  product_ndc:
+    53045-250
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    DENTAL
+    ORAL
+    TOPICAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    831719
+  spl_id:
+    86b603bc-a794-4814-9216-366a80d7642b
+  spl_set_id:
+    8987b447-3fa3-4f52-aecc-80e44c981aaa
+  package_ndc:
+    53045-250-44
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

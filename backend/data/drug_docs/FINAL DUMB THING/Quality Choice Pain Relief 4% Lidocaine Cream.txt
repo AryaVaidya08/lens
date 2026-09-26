@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Quality Choice Pain Relief 4% Lidocaine Cream LIDOCAINE HYDROCHLORIDE WATER ISOPROPYL ALCOHOL CETOSTEARYL ALCOHOL CARBOMER 940 DIMETHICONE 350 STEARETH-2 POLYSORBATE 60 GLYCERYL MONOSTEARATE ALOE VERA LEAF GLYCERIN PHENOXYETHANOL STEARETH-21 EDETATE DISODIUM LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS
+spl_unclassified_section:
+  Quality Choice 4% Lidocaine Cream. 2.7 oz Drug Facts
+active_ingredient:
+  Active ingredient Lidocaine HCI 4%
+purpose:
+  Purpose Lidocaine HCl 4%............................................................................................................................Topical anesthetic
+indications_and_usage:
+  Use temporarily relieves minor pain
+warnings:
+  Warnings For external use only Avoid contact with eyes Do not use ■ on large areas of the body or on cut, irritated or swollen skin ■on puncture wounds ■ for more than one week without consulting a doctor When using this product ■ use only as directed. Read and follow all directions and warning on this carton. ■ do not allow contact with the eyes ■ do not bandage or apply local heat (such as heating pads) to the area of use Stop use and ask a doctor if ■ condition worsens ■ symptoms persist for more than 7 days or clear up and occur again within a few days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use ■ on large areas of the body or on cut, irritated or swollen skin ■on puncture wounds ■ for more than one week without consulting a doctor
+when_using:
+  When using this product ■ use only as directed. Read and follow all directions and warning on this carton. ■ do not allow contact with the eyes ■ do not bandage or apply local heat (such as heating pads) to the area of use
+stop_use:
+  Stop use and ask a doctor if ■ condition worsens ■ symptoms persist for more than 7 days or clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions adults and children over 12 years: ■ apply a thin layer to the affected area every 6 to 8 hours, not to exceed 3 applications in a 24-hour period ■ children 12 years or younger: ask a doctor
+inactive_ingredient:
+  Inactive ingredients aloe vera leaf, carbopol 940, cetostearyl alcohol, dimethicone 350, edetate disodium, glycerin, glyceryl monostearate, isopropyl alcohol, phenoxyethanol, polysorbate 60, steareth 2, steareth 21, water
+other_safety_information:
+  Other Information ■ Store at room temperature
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL label
+set_id:
+  fa191676-681a-32c6-e053-6394a90a937f
+id:
+  2dcc9769-c281-42f3-e063-6394a90a76e1
+effective_time:
+  20250210
+version:
+  4
+openfda:

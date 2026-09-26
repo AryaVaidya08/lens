@@ -1,0 +1,27 @@
+effective_time:
+  20210923
+inactive_ingredient:
+  Avocado oil, cocoa-butter, shea butter, bees wax, castor oil, cod liver oil, coconut oil, wheat germ oil, lanolin, almond oil, grape seed oil, mixed tocopherol, lavender Zinc Oxide
+keep_out_of_reach_of_children:
+  Keep this ointment away from children.
+purpose:
+  To provide relief from diaper rashes
+warnings:
+  For External Use only. Keep it away from childern.Avoid contact with eyes. If swallowed or If the condition worsen, contact a physician.
+spl_product_data_elements:
+  Butt Butter Zinc Oxide ZINC OXIDE ZINC OXIDE COD LIVER OIL
+openfda:
+version:
+  3
+dosage_and_administration:
+  10 g
+package_label_principal_display_panel:
+  label - product
+indications_and_usage:
+  Apply liberally with each diaper change or when the diaper is soiled.
+set_id:
+  61ba725b-adfa-5ba5-e053-2991aa0ad451
+id:
+  ccac8b02-ea8d-7590-e053-2a95a90ae148
+active_ingredient:
+  Zinc Oxide

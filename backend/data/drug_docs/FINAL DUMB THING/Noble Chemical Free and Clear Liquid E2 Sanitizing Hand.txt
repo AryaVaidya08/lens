@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Noble Chemical Free and Clear Liquid E2 Sanitizing Hand BENZALKONIUM CHLORIDE WATER COCAMIDOPROPYL BETAINE TRIETHANOLAMINE DODECYLBENZENESULFONATE SODIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13% w/v Purpose Antibacterial Agent
+purpose:
+  Purpose Antibacterial Agent
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on skin.
+warnings:
+  Warnings For external use only. Do not use in the eyes. If eye contact occurs, flush with water. Stop use and ask a doctor if redness and irritation occur and last for more than 72 hours. Keep out of reach of children. If swallowed, contact a physician or poison control center.
+do_not_use:
+  Do not use in the eyes. If eye contact occurs, flush with water.
+stop_use:
+  Stop use and ask a doctor if redness and irritation occur and last for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, contact a physician or poison control center.
+dosage_and_administration:
+  Directions Apply small amount, covering hands with product for 30 seconds. Add water, lather, rinse.
+inactive_ingredient:
+  Inactive Ingredients Water, Cocoamidopropyl Betaine, Dodecylbenzene Sulfonate, Salt
+package_label_principal_display_panel:
+  Package Labeling: label
+set_id:
+  c352f65b-8e8d-a727-e053-2a95a90a66ec
+id:
+  d34a9dcc-0c21-654a-e053-2a95a90a7794
+effective_time:
+  20211216
+version:
+  3
+openfda:

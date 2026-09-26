@@ -1,0 +1,25 @@
+effective_time:
+  20190213
+inactive_ingredient:
+  Inactive Ingredients: Citric Acid, Flavor, Magnesium Aluminum Silicate, Phosphoric Acid, Polysorbate 20, Potassium Hydroxide, Sodium Benzoate, Sodium Saccharin, Titanium Dioxide, Water, Xantham Gum, Xylitol. May contain blue #1, green #3, red #3, red#40, yellow #5 (tartrazine), and yellow #6 as a color additive.
+warnings:
+  Warnings: Keep out of reach of children. Do not swallow. If product is accidentally swallowed in quantities greater than would normally occur with a treatment gel, seek medical help or contact a Poison Control Center right away. Read directions carefully before using.
+spl_product_data_elements:
+  MS Neutral pH Sodium Fluoride SODIUM FLUORIDE FLUORIDE ION CITRIC ACID MONOHYDRATE MAGNESIUM ALUMINUM SILICATE PHOSPHORIC ACID POLYSORBATE 20 POTASSIUM HYDROXIDE SODIUM BENZOATE SACCHARIN SODIUM TITANIUM DIOXIDE WATER XANTHAN GUM XYLITOL FD&C BLUE NO. 1 FD&C GREEN NO. 3 FD&C RED NO. 3 FD&C RED NO. 40 FD&C YELLOW NO. 5 FD&C YELLOW NO. 6
+openfda:
+version:
+  2
+dosage_and_administration:
+  Dosage and Administration: Shake well before use. This is a four minute fluoride gel for in-office patient use. It is normally used as a preventative caries treatment twice per year. 1. After thorough prophylaxis, fill two single or one dual tray, one third full with gel. Air dry teeth and insert trays into the mouth. 2. Instruct patient to bite down lightly but firmly for four minutes. 3. Remove trays. Instruct patient to expectorate any excess gel and not to eat or drink for at least 30 minutes.
+spl_unclassified_section:
+  Active Ingredient: Purpose: Sodium Fluoride 2% ......................... Flouride Treatment Gel
+storage_and_handling:
+  Other Infomation: Store at controlled room temperature 59° to 86°F (15°-30°C). Protect from freezing.
+package_label_principal_display_panel:
+  MSNEUTRALGELGENERIC
+indications_and_usage:
+  Indications and Usage: A stable thixotropic flouride treatment gel used to help prevent dental decay. For professional use only. This product is not intended for home or unsupervised consumer use.
+set_id:
+  d080cdd5-948b-4c34-aa5c-3c26efaa039d
+id:
+  36384930-34f5-4cc9-ab52-2bab3a79eb79

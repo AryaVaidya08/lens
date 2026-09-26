@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Private Label Poison Ivy Wash Pramoxine Hydrochloride METHYLPARABEN GLYCERIN HYDROLYZED JOJOBA ESTERS (ACID FORM) EDETATE DISODIUM EDETIC ACID NONOXYNOL-9 PRAMOXINE HYDROCHLORIDE PRAMOXINE AMMONIUM LAURYL SULFATE PROPYLPARABEN GLYCOL DISTEARATE PROPYLENE GLYCOL DIAZOLIDINYL UREA SODIUM HYDROXIDE WATER
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Pramoxine HCl 1%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Uses For temporary relief of pain and itching associated with poison ivy, poison oak, and poison summac
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product Avoid contact with the eyes. Do not leave on skin longer than three minutes. Rinse throughly after application.
+stop_use:
+  Stop use and ask a doctor if conditions worsen or if symptoms persist for more than 7 days or clear up and occur again within a few days.
+dosage_and_administration:
+  Directions Adult and children 2 years of age and older. Wet affected areas. Apply the product to affected skin and surrounding area. Work foam into a lather and rub for up to 3 minutes, if needed. Do not leave on skin for longer than 3 minutes. Thoughly rinse product from all areas. Apply to affected are not more than 3 to 4 times daily. Children under 2 years of age. Consult a doctor.
+other_safety_information:
+  Other Information For best results, use near a shower or sink where it is easy to thoughly rinse off product.
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+inactive_ingredient:
+  Inactive Ingredients Water, Ammonium Laurl Sulfate, Distearyl Phtalic Acid Amide, Glyco Distearate, Cocamide MIPA, Propylene Glycol, (and) Diazodinyl Urea (and) Methylparaben (and) Propylparaben, Glycerin, Jojoba Esters, Disodium EDTA, Sodium Hydroxide, Nonoxynol-9.
+questions:
+  Questions or Comments? 1-800-662-3435 Removes Urushiol from the skin. For best results, use as soon as possible after contact with poison ivy is suspected.
+package_label_principal_display_panel:
+  5th & Co. Poison Ivy Wash Poison Ivy Label
+set_id:
+  6eeebc09-309a-2283-e053-2991aa0acbf6
+id:
+  a8862995-5d80-64a6-e053-2a95a90a6ebe
+effective_time:
+  20200620
+version:
+  2
+openfda:

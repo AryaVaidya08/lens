@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Restoral Menthol MATRICARIA CHAMOMILLA FLOWERING TOP LOBELIA INFLATA LEAF OLIVE OIL COMFREY ROOT PEPPERMINT OIL PEPPERMINT ST. JOHN'S WORT STELLARIA MEDIA TRIFOLIUM PRATENSE FLOWER MENTHOL MENTHOL ALTHAEA OFFICINALIS ROOT YELLOW WAX BERBERIS AQUIFOLIUM ROOT CALENDULA OFFICINALIS FLOWER EUCALYPTUS OIL LARREA TRIDENTATA LEAF TEA TREE OIL PROPOLIS WAX QUERCUS ALBA BARK ROSEMARY WITCH HAZEL AGRIMONIA EUPATORIA LEAF
+active_ingredient:
+  Active Ingredient Menthol 0.2%
+purpose:
+  Purpose Topical analgesic
+indications_and_usage:
+  Uses For the temporary relief of pain and itching associated with minor burns, sunburn, minor cuts, scrapes, insect bites, or minor skin irritations
+warnings:
+  Warnings For external use only Flammable - keep away from fire or flame Use may result in increased topical anti-inflammatory effects of steroids, due to presence of marshmallow herb Drug facts box When using this product Avoid contact with eyes and mucous membranes; if this happens, rinse with vegetable oil Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days Do not use On wounds or damaged skin If allergic to marshmallow root or chickweed if pregnant or breast-feeding ask a health professional before use keep out of reach of children if product is swallowed, get medical help or contact a Poison Control Centre right away
+when_using:
+  When using this product Avoid contact with eyes and mucous membranes; if this happens, rinse with vegetable oil
+stop_use:
+  Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days
+do_not_use:
+  Do not use On wounds or damaged skin If allergic to marshmallow root or chickweed
+pregnancy_or_breast_feeding:
+  if pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  keep out of reach of children if product is swallowed, get medical help or contact a Poison Control Centre right away
+dosage_and_administration:
+  Directions Adults and children 12 years of age and older: Apply to affected area not more than 3 to 4 times daily. Not recommended for children under 12 years of age.
+inactive_ingredient:
+  Inactive ingredients Agrimonia eupatoria leaf extract, althaea officinalis root extract, beeswax (yellow), berberis aquifolium extract, calendula officinalis flower, chamomilla recutita (matricaria) flower extract, eucalyptus oil, larrea tridentata extract, lobelia inflata extract (lobelia), melaleuca alternifolia (tea tree) leaf oil, olive oil, peppermint oil, propolis extract, quercus alba bark extract, rosmarinus officinalis (rosemary) leaf extract, St. John’s wort, stellaria media (chickweed) extract, symphytum officinalis leaf extract, trifolium pratense (clover) flower extract and witch hazel
+references:
+  Questions? 1-877-275-7253
+description:
+  Principle Display Panel information Restoral topical analgesic ointment net wt. 54.1g (1.91oz) and net wt. 13.5g (0.47oz)
+package_label_principal_display_panel:
+  Restoral Topical analgesic ointment - Outer label 2019 RESTORAL_54.1g_DFB Restoral box 15 ml
+set_id:
+  5b6176c1-9ed9-1950-e053-2a91aa0a434e
+id:
+  485269a3-5a54-ae1e-e063-6294a90ae1de
+effective_time:
+  20260113
+version:
+  9
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Restoral
+  generic_name:
+    MENTHOL
+  manufacturer_name:
+    Saje Natural Business Inc.
+  product_ndc:
+    70983-022
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+  rxcui:
+    418609
+  spl_id:
+    485269a3-5a54-ae1e-e063-6294a90ae1de
+  spl_set_id:
+    5b6176c1-9ed9-1950-e053-2a91aa0a434e
+  package_ndc:
+    70983-022-02
+    70983-022-01
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A

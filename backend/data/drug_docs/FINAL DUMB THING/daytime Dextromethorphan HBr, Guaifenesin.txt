@@ -1,0 +1,41 @@
+effective_time:
+  20171120
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, carboxymethylcellulose sodium, D&C yellow no. 10, FD&C yellow no. 6, flavor, high fructose corn syrup, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate
+purpose:
+  Purpose Cough suppressant Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • a sodium-restricted diet • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough that occurs with too much phlegm (mucus) Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. A persistent cough may be a sign of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  daytime Dextromethorphan HBr, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID CARBOXYMETHYLCELLULOSE SODIUM D&C YELLOW NO. 10 FD&C YELLOW NO. 6 HIGH FRUCTOSE CORN SYRUP PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM BENZOATE SODIUM CITRATE clear, light orange
+ask_doctor:
+  Ask a doctor before use if you have • a sodium-restricted diet • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough that occurs with too much phlegm (mucus)
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • for accurate dosing, use dose cup provided • do not exceed 6 doses per 24 hours adults and children 12 years and over 30 mL (2 TBSP) every 4 hours children 6 to under 12 years 15 mL (1 TBSP) every 4 hours children 4 to under 6 years ask a doctor children under 4 years do not use • when using other Daytime or Nighttime products, carefully read each label to insure correct dosing
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. A persistent cough may be a sign of a serious condition.
+storage_and_handling:
+  Other information • each TBSP contains: sodium 20 mg • store at 20°-25°C (68°-77°F)
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Compare to Vicks® DayQuil® Mucus Control™ DM active ingredients D A Y T I M E Mucus Relief DM Dextromethorphan HBr (Cough Suppressant) Guaifenesin (Expectorant) Maximum Strength 4 Hour Formula Non-Drowsy Citrus Blend Flavor GLUTEN FREE DayTime Label Image DayTime Label Image DayTime Label Image
+indications_and_usage:
+  Uses • temporarily relieves cough associated with the common cold • helps loosen phlegm and thin bronchial secretions to rid the bronchial passageways of bothersome mucus
+set_id:
+  536b1038-125d-4532-ba07-a4d7a09368a8
+id:
+  92078024-948a-4dcb-9844-39363978037e
+active_ingredient:
+  Active ingredients (in each 15 mL tablespoon) Dextromethorphan HBr 10 mg Guaifenesin 200 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="56%"/> <col width="44%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>30 mL (2 TBSP) every 4 hours</paragraph> </td> </tr> <tr> <td styleCode="Lrule Botrule " valign="top"> <paragraph>children 6 to under 12 years</paragraph> </td> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>15 mL (1 TBSP) every 4 hours</paragraph> </td> </tr> <tr> <td styleCode="Lrule Botrule " valign="top"> <paragraph>children 4 to under 6 years</paragraph> </td> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 4 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

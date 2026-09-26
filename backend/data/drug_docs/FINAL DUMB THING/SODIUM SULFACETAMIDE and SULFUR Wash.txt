@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  SODIUM SULFACETAMIDE and SULFUR Wash SODIUM SULFACETAMIDE and SULFUR BUTYLATED HYDROXYTOLUENE CETYL ALCOHOL EDETATE DISODIUM GLYCERYL MONOSTEARATE PEG-100 STEARATE LACTIC ACID MAGNESIUM ALUMINUM SILICATE METHYLPARABEN PROPYLPARABEN WATER SODIUM C14-16 OLEFIN SULFONATE SODIUM HYDROXIDE SODIUM THIOSULFATE STEARYL ALCOHOL PETROLATUM XANTHAN GUM SULFACETAMIDE SODIUM SULFACETAMIDE SULFUR SULFUR
+description:
+  DESCRIPTION: Each gram of BP 10-1 Wash contains 100 mg of sodium sulfacetamide and 10 mg of sulfur in a wash containing butylated hydroxytoluene, cetyl alcohol, edetate disodium, glyceryl stearate and PEG-100 stearate, lactic acid, magnesium aluminum silicate, methylparaben, propylparaben, purified water, sodium C14-16 olefin sulfonate, sodium hydroxide, sodium thiosulfate, stearyl alcohol, white petrolatum, and xanthan gum. Sodium sulfacetamide is a sulfonamide with antibacterial activity while sulfur acts as a keratolytic agent. Chemically, sodium sulfacetamide is N-[(4- aminophenyl) sulfonyl]acetamide, monosodium salt monohydrate. The structural formula is: Chemical Structure
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: The most widely accepted mechanism of action of sulfonamides is the Woods-Fildes theory which is based on the fact that sulfonamides act as competitive antagonists to para-aminobenzoic acid (PABA), an essential component for bacterial growth. While absorption through intact skin has not been determined, sodium sulfacetamide is readily absorbed from the gastrointestinal tract when taken orally and excreted in the urine, largely unchanged. The biological half-life has variously been reported as 7 to 12.8 hours. The exact mode of action of sulfur in the treatment of acne is unknown, but it has been reported that it inhibits the growth of Propionibacterium acnes and the formation of free fatty acids.
+indications_and_usage:
+  INDICATIONS AND USAGE: BP 10-1 Wash is indicated in the topical control of acne vulgaris, acne rosacea and seborrheic dermatitis.
+contraindications:
+  CONTRAINDICATIONS: BP 10-1 Wash is contraindicated for use by patients having known hypersensitivity to sulfonamides, sulfur or any other component of this preparation. BP 10-1 Wash is not to be used by patients with kidney disease.
+warnings_and_cautions:
+  WARNINGS: Sensitivity to sodium sulfacetamide may occur, although it is rare. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep away from eyes. Keep out of reach of children. Keep tube tightly closed.
+precautions:
+  PRECAUTIONS: General - if irritation occurs, discontinue use of the product and institute appropriate therapy. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis and Impairment of Fertility - Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+pregnancy:
+  Pregnancy - Category C. Animal reproduction studies have not been conducted with BP 10-1 Wash. It is also not known whether BP 10-1 Wash can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. BP 10-1 Wash should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  Nursing Mothers - It is not known whether sodium sulfacetamide is excreted in human milk following topical use of BP 10-1 Wash. However, small amounts of orally administered sulfonamides have been reported to be eliminated in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when BP 10-1 Wash is administered to a nursing woman.
+pediatric_use:
+  Pediatric Use - Safety and effectiveness in children under the age of 12 have not been established.
+adverse_reactions:
+  ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Wash affected areas once or twice daily, or as directed by your physician. Avoid contact with eyes or mucous membranes. Wet skin and liberally apply to areas to be treated, massage gently into skin for 10-20 seconds working into a full lather, rinse thoroughly and pat dry. If drying occurs, it may be controlled by rinsing wash off sooner or using less often.
+how_supplied:
+  HOW SUPPLIED: BP 10-1 Wash is available in 170.1 g (6.0 oz) tubes, NDC 42192-104-06. Store at controlled room temperature, 15°-30°C (59°-86°F).
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY - 170 g carton NDC 42192-104-06 BP 10-1 (sodium sulfocetamide 10% and sulfur 1%) R x Only wash Net Wt. 6 oz (170.1 g) Brookstone Pharmaceuticals is now known as Acella PHARMACEUTICALS, LLC label
+set_id:
+  8da300bc-834c-4814-a799-b9ebc9056d8d
+id:
+  0e76cbc6-8cf0-7dc8-e063-6294a90a815a
+effective_time:
+  20240108
+version:
+  5
+openfda:
+  brand_name:
+    SODIUM SULFACETAMIDE and SULFUR Wash
+  generic_name:
+    SODIUM SULFACETAMIDE AND SULFUR
+  manufacturer_name:
+    Acella Pharmaceuticals, LLC
+  product_ndc:
+    42192-104
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SULFACETAMIDE SODIUM
+    SULFUR
+  rxcui:
+    999604
+  spl_id:
+    0e76cbc6-8cf0-7dc8-e063-6294a90a815a
+  spl_set_id:
+    8da300bc-834c-4814-a799-b9ebc9056d8d
+  package_ndc:
+    42192-104-06
+  is_original_packager:
+    True
+  unii:
+    4NRT660KJQ
+    70FD1KFU70

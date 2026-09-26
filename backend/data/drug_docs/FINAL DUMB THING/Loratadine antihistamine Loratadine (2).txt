@@ -1,0 +1,45 @@
+effective_time:
+  20190502
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+questions:
+  Questions or comments? 1-800-719-9260
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information • do not use if printed foil under cap is broken or missing • store between 20° to 25°C (68° to 77°F)
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • itchy, watery eyes • sneezing • itching of the nose or throat
+set_id:
+  eafdf607-0428-409f-be01-25966a0c2d1b
+id:
+  1eb84efe-e51e-4dc6-81d3-f4420b3fba64
+active_ingredient:
+  Active ingredient (in each tablet) Loratadine 10 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="38%"/> <col width="62%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 6 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>1 tablet daily; not more than 1 tablet in 24 hours</paragraph> </td> </tr> <tr> <td styleCode="Lrule Botrule " valign="top"> <paragraph>children under 6 years of age</paragraph> </td> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>consumers with liver or kidney disease</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients lactose monohydrate, magnesium stearate, povidone, pregelatinized starch
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  Loratadine antihistamine Loratadine LORATADINE LORATADINE LACTOSE MONOHYDRATE MAGNESIUM STEARATE POVIDONE, UNSPECIFIED L612
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+how_supplied:
+  HOW SUPPLIED Product: 50436-3502
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients
+package_label_principal_display_panel:
+  LORATADINE ANTIHISTAMINE (LORATADINE) TABLET Label Image

@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Tussin CF Adult Maximum Strength Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ANHYDROUS CITRIC ACID FD&C RED NO. 40 GLYCERIN MENTHOL POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SODIUM BENZOATE TRISODIUM CITRATE DIHYDRATE SORBITOL SUCRALOSE XANTHAN GUM
+active_ingredient:
+  Active ingredients (in each 10 mL) Dextromethorphan HBr 20 mg Guaifenesin 400 mg Phenylephrine HCl 10 mg
+purpose:
+  Purposes Cough suppressant Expectorant Nasal decongestant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to drain bronchial tubes temporarily relieves these symptoms occurring with a cold: cough due to minor throat and bronchial irritation nasal congestion
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease diabetes high blood pressure thyroid disease a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking any other oral nasal decongestant or stimulant. When using this product, do not use more than directed. Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not get better within 7 days or are accompanied by fever cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease diabetes high blood pressure thyroid disease a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other oral nasal decongestant or stimulant.
+when_using:
+  When using this product, do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur symptoms do not get better within 7 days or are accompanied by fever cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions shake well before using do not take more than 6 doses in any 24-hour period measure only with dosing cup provided keep dosing cup with product mL=milliliter this adult product is not intended for use in children under 12 years of age adults and children 12 years and over: 10 mL every 4 hours children under 12 years: do not use
+spl_unclassified_section:
+  Other information each 10 mL contains: sodium 6 mg store at 20º-25°C (68º-77°F). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, FD&C red #40, flavor, glycerin, menthol, polyethylene glycol, propylene glycol, purified water, sodium benzoate, sorbitol, sucralose, trisodium citrate dihydrate, xanthan gum
+questions:
+  Questions or comments? Call 1-888-287-1915
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Robitussin® maximum Strength Multi-Symptom Cold CF Active Ingredients* TUSSIN CF Adult Maximum Strength Multi-Symptom Cold Cough- Dextromethorphan HBr Chest Congestion & Mucus- Guaifenesin Stuffy Nose- Phenylephrine HCl For ages 12 and over Alcohol free Non-Drowsy FL OZ (mL) Distributed by: CVS Pharmacy, Inc. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL AROUND BOTTLE OR UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNIGNS AND PRODUCT INFORMATION. *This product is not manufactured or distributed by Pfizer Consumer Healthcare, distributors of Robitussin® Maximum Strength TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL ON THE BOTTLE OR UNDER THE CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION.
+  Package Label Equate Tussin CF Dextromehtorphan HBr 20 mg, Guaifenesin 400 mg, Phenylephrine HCl 10 mg
+set_id:
+  730ae179-352a-475f-bcff-b792c44bf2a9
+id:
+  48685317-e0a7-4c17-b66b-d27a8c9c1394
+effective_time:
+  20191212
+version:
+  2
+openfda:

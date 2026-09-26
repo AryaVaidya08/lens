@@ -1,0 +1,26 @@
+effective_time:
+  20100505
+inactive_ingredient:
+  Inactive Ingredients: carbomer, fragrance, glycerin, triethanolamine, propylene glycol, deionized water, aloe barbadensis gel
+warnings:
+  Warnings: Flammable. Keep away from fore or flame . For external use only-hands. When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a physician if irritation or skin rash develops. Keep out of reach of children if accidentally ingested, seek medical help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  Instant Hand Sanitizer Alcohol ALCOHOL ALCOHOL Water Propylene Glycol Glycerin ALOE VERA LEAF CARBOMER HOMOPOLYMER TYPE C ALPHA-TOCOPHEROL TROLAMINE
+description:
+  Uses: Hand sanitizer to help decrease bacteria on the skin that could cause diseases
+openfda:
+version:
+  1
+storage_and_handling:
+  Other Information Store below 105F May discolor certain fabrics. Maybe harmful to wood finishes and plastics
+package_label_principal_display_panel:
+  th bottle label
+  card blister card
+indications_and_usage:
+  Directions Place enough product in your palm to thoroughly cover your hands rub hands briskly together until dry children under 6 years of age should be supervised when using this product
+set_id:
+  bf58c6aa-0a59-49eb-b22b-61279e495367
+id:
+  b27ce3d7-4792-4b36-91ef-10fcf4d162b1
+active_ingredient:
+  Active Ingredient Purpose Ethyl Alcohol 62% w/w Antiseptic

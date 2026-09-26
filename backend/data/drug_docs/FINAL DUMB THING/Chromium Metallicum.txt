@@ -1,0 +1,109 @@
+spl_product_data_elements:
+  Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE Chromium Metallicum Chromium Metallicum CHROMIUM CHROMIUM SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Chromium Metallicum 6C 5g Chromium Metallicum 6C 30g Chromium Metallicum 6C 100g Chromium Metallicum 12C 5g Chromium Metallicum 12C 30g Chromium Metallicum 12C 100g Chromium Metallicum 30C 1g Chromium Metallicum 30C 5g Chromium Metallicum 30C 30g Chromium Metallicum 30C 100g Chromium Metallicum 100C 1g Chromium Metallicum 100C 5g Chromium Metallicum 100C 30g Chromium Metallicum 100C 100g Chromium Metallicum 200C 1g Chromium Metallicum 200C 5g Chromium Metallicum 200C 30g Chromium Metallicum 200C 100g Chromium Metallicum 500C 1g Chromium Metallicum 500C 5g Chromium Metallicum 500C 30g Chromium Metallicum 500C 100g Chromium Metallicum 1M 1g Chromium Metallicum 1M 5g Chromium Metallicum 1M 30g Chromium Metallicum 1M 100g Chromium Metallicum LM1 30g
+set_id:
+  e0f57783-2052-a3bc-e053-2995a90a8bd2
+id:
+  e0f57783-2053-a3bc-e053-2995a90a8bd2
+effective_time:
+  20220608
+version:
+  1
+openfda:
+  brand_name:
+    Chromium Metallicum
+  generic_name:
+    CHROMIUM METALLICUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-0401
+    37662-0408
+    37662-0403
+    37662-0404
+    37662-0406
+    37662-0405
+    37662-0402
+    37662-0407
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CHROMIUM
+  spl_id:
+    e0f57783-2053-a3bc-e053-2995a90a8bd2
+  spl_set_id:
+    e0f57783-2052-a3bc-e053-2995a90a8bd2
+  package_ndc:
+    37662-0408-1
+    37662-0403-1
+    37662-0403-2
+    37662-0403-3
+    37662-0403-4
+    37662-0404-1
+    37662-0404-2
+    37662-0404-3
+    37662-0404-4
+    37662-0406-1
+    37662-0406-2
+    37662-0406-3
+    37662-0406-4
+    37662-0405-1
+    37662-0405-2
+    37662-0405-3
+    37662-0405-4
+    37662-0401-1
+    37662-0401-2
+    37662-0401-3
+    37662-0402-1
+    37662-0402-2
+    37662-0402-3
+    37662-0407-1
+    37662-0407-2
+    37662-0407-3
+    37662-0407-4
+  is_original_packager:
+    True
+  nui:
+    N0000185508
+    N0000175629
+    N0000184306
+    M0000728
+  pharm_class_epc:
+    Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+  unii:
+    0R0008Q3JB

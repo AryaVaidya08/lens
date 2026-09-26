@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  BISACODYL BISACODYL FAT, HARD BISACODYL DEACETYLBISACODYL
+active_ingredient:
+  Active Ingredients (per suppository) Bisacodyl USP, 10 mg
+purpose:
+  Purpose Laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses for relief of occasional constipation this product usually produces bowel movement in 1/4 to 1 hour
+warnings:
+  Warnings For rectal use only.
+do_not_use:
+  Do not use laxative products when abdominal pain, nausea or vomiting are present for a period longer than one week
+ask_doctor:
+  Ask a doctor before use if you have noticed a sudden change in bowel habits that persist over a period of 2 weeks
+when_using:
+  When using this product it may cause abdominal discomfort, faintness, rectal burning and mild cramps
+stop_use:
+  Stop use and ask a doctor if rectal bleeding occurs, or you fail to have a bowel movement after using a laxative. This may indicate a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+dosage_and_administration:
+  Directions adults and children 12 years of age and older detach one suppository from the strip remove from wrapper before inserting into the rectum the rectal suppository dose is one suppository per day or as directed by a doctor children under 12 years of age consult a doctor
+other_safety_information:
+  Other information store below 30° C (86° F)
+inactive_ingredient:
+  Inactive ingredient hydrogenated vegetable oil
+package_label_principal_display_panel:
+  01b LBL_Bisacodyl Laxative Suppositories_PDP 01b LBL_Bisacodyl Laxative Suppositories_DF box
+set_id:
+  eaef702c-3742-4aa2-875a-c7ffd7a98aa0
+id:
+  f473f581-c449-25e0-e053-2a95a90adae5
+effective_time:
+  20230211
+version:
+  4
+openfda:

@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Carmex Daily Care Moisturizing Lip Balm SPF 15 Assorted HOMOSALATE, OCTOCRYLENE, OCTISALATE, AVOBENZONE Carmex Daily Care Moisturizing Lip Balm SPF 15 FRESH CHERRY HOMOSALATE, OCTOCRYLENE, OCTISALATE, AVOBENZONE PETROLATUM LANOLIN CANDELILLA WAX YELLOW WAX CETYL ESTERS WAX PARAFFIN COCOA BUTTER ISOPROPYL PALMITATE MEADOWFOAM SEED OIL HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE Carmex Daily Care Moisturizing Lip Balm SPF 15 STRAWBERRY HOMOSALATE, OCTOCRYLENE, OCTISALATE, AVOBENZONE PETROLATUM LANOLIN CANDELILLA WAX YELLOW WAX CETYL ESTERS WAX PARAFFIN COCOA BUTTER ISOPROPYL PALMITATE MEADOWFOAM SEED OIL HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE Carmex Daily Care Moisturizing Lip Balm SPF 15 WINTERGREEN HOMOSALATE, OCTOCRYLENE, OCTISALATE, AVOBENZONE PETROLATUM LANOLIN CANDELILLA WAX YELLOW WAX CETYL ESTERS WAX PARAFFIN COCOA BUTTER ISOPROPYL PALMITATE MEADOWFOAM SEED OIL HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Homosalate (7.0%) Octocrylene (5.3%) Octisalate (3.3%) Avobenzone (2.4%) Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn higher SPF gives more sunburn protection provides moderate protection against sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product: keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if: rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Posion Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product: keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if: rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Posion Control Center right away.
+dosage_and_administration:
+  Directions • apply generously and evenly 15 minutes before sun exposure • children under 6 months: Ask a doctor • reapply: as needed or after towel drying, swimming or sweating Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. – 2 p.m. • wear long-sleeved shirts, pants, hats and sunglasses
+inactive_ingredient:
+  Inactve ingredients Wintergreen: petrolatum, lanolin, euphorbia cerifera (candelilla) wax, ozokerite, beeswax, cetyl esters, paraffin, theobroma cacao (cocoa) seed butter, flavor, isopropyl palmitate, limnanthes alba (meadowfoam) seed oil, stevia rebaudiana extract Fresh Cherry, Strawberry: petrolatum, lanolin, euphorbia cerifera (candelilla) wax, ozokerite, flavor, beeswax, cetyl esters, paraffin, theobroma cacao (cocoa) seed butter, isopropyl palmitate, limnanthes alba (meadowfoam) seed oil, stevia rebaudiana extract
+package_label_principal_display_panel:
+  Package Labeling: kit8 Kit9
+  Package Labeling:FRESH CHERRY FRESH CHERRY
+  Package Labeling:STRAWBERRY STRAWBERRY
+  Package Labeling:WINTERGREEN WINTERGREEN
+set_id:
+  22821e9d-eb3a-4e21-87ae-737b25125534
+id:
+  153226cf-8c75-7d67-e063-6294a90aa8c4
+effective_time:
+  20240403
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Carmex Daily Care Moisturizing Lip Balm SPF 15 Assorted
+  generic_name:
+    HOMOSALATE, OCTOCRYLENE, OCTISALATE, AVOBENZONE
+  manufacturer_name:
+    Carma Laboratories, Inc.
+  product_ndc:
+    10210-0082
+  product_type:
+    HUMAN OTC DRUG
+  spl_id:
+    153226cf-8c75-7d67-e063-6294a90aa8c4
+  spl_set_id:
+    22821e9d-eb3a-4e21-87ae-737b25125534
+  package_ndc:
+    10210-0082-1
+    10210-0083-1
+    10210-0084-1
+    10210-0085-1
+  is_original_packager:
+    True

@@ -1,0 +1,77 @@
+spl_product_data_elements:
+  Scrub-Stat Chlorhexidine gluconate CHLORHEXIDINE GLUCONATE CHLORHEXIDINE COCO DIETHANOLAMIDE COCAMINE OXIDE GLUCONIC ACID GLUCONOLACTONE HYDROXYETHYL CELLULOSE (3000 CPS AT 1%) ISOPROPYL ALCOHOL PEG-75 LANOLIN PEG-150 DISTEARATE PROPYLENE GLYCOL QUATERNIUM-33 WATER
+active_ingredient:
+  Active ingredient Chlorhexidine gluconate solution, 2%
+purpose:
+  Purpose Surgical hand scrub Healthcare personnel handwash
+indications_and_usage:
+  Uses surgical hand scrub: significantly reduces the number of microorganisms on the hands and forearms prior to surgery or patient care healthcare personnel handwash: handwash to help reduce bacteria that potentially can cause disease
+warnings:
+  Warnings For external use only Allergy alert: This product may cause a severe allergic reaction. Symptoms may include: wheezing/difficulty breathing shock facial swelling hives rash if an allergic reaction occurs, stop use and seek medical help right away. Do not use if you are allergic to chlorhexidine gluconate or any other ingredients in this product When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated ear drums. if contact occurs, rinse with cold water right away do not use routinely if you have wounds which involve more than the superficial layers of the skin Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are allergic to chlorhexidine gluconate or any other ingredients in this product
+when_using:
+  When using this product keep out of eyes, ears, and mouth. May cause serious and permanent eye injury if permitted to enter and remain in the eye or may cause deafness when instilled in the middle ear through perforated ear drums. if contact occurs, rinse with cold water right away do not use routinely if you have wounds which involve more than the superficial layers of the skin
+ask_doctor:
+  Stop use and ask a doctor if irritation, sensitization, or allergic reaction occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions use with care in premature infants or infants under 2 months of age. These products may cause irritation or chemical burns. use full strength do not dilute Surgical hand scrub remove jewelry wet hands and forearms with water and dispense 6 pumps (5 mL) of the product onto hands wash/scrub hands and forearms for 3 minutes paying particular attention to the nails, cuticles, and interdigital spaces rinse thoroughly with water wash for an additional 3 minutes with 6 pumps (5 mL) of the product into hands and rinse under running water dry thoroughly Healthcare personnel handwash wet hands with water dispense 6 pumps (5 mL) of product into hands and wash in a vigorous manner for 30 seconds rinse and dry thoroughly
+references:
+  Other information store between 20-25 ° C (68-77 ° F) avoid excessive heat (above 104 ° F/40 ° C) for additional information, see Safety Data Sheet (SDS) for emergency medical information in USA and Canada, call 1.800.328.0026 for emergency medical information worldwide, call 1.651.222.5352 (in the USA)
+inactive_ingredient:
+  Inactive ingredients cocamide DEA, cocamine oxide, fragrance, gluconic acid *, gluconolactone*, hydroxyehtylcellulose, isopropyl alcohol 4%, PEG-75 lanolin, PEG-150 distearate, propylene glycol, quaternium-60, water *contains one or more of these ingredients
+questions:
+  Questions? call 1.866.781.8787 , 24 hours a day, 7 days a week.
+package_label_principal_display_panel:
+  Representative label and principal display panel ECOLAB ® NDC 47596-463-41 SCRUB-STAT 2% Chorhexidine Gluconate 2% Solution Antiseptic Surgical Hand Scrub and Healthcare Personnel Handwash 6000068 Net Content: 25 fl oz (750 mL) KEEP FROM FREEZING Ecolab • 1 Ecolab Place • St Paul MN 55102 USA © 2020 Ecolab USA Inc • All rights reserved Made in United States www.ecolab.com • 762356/8502/1220 representative label
+set_id:
+  20e79dbb-8f33-469d-a7ca-29afde16a8ee
+id:
+  b64425e0-6ce4-402a-819b-c6f0315903cf
+effective_time:
+  20260102
+version:
+  8
+openfda:
+  application_number:
+    NDA019258
+  brand_name:
+    Scrub-Stat
+  generic_name:
+    CHLORHEXIDINE GLUCONATE
+  manufacturer_name:
+    Ecolab Inc.
+  product_ndc:
+    47593-463
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CHLORHEXIDINE GLUCONATE
+  rxcui:
+    1245230
+    1655041
+  spl_id:
+    b64425e0-6ce4-402a-819b-c6f0315903cf
+  spl_set_id:
+    20e79dbb-8f33-469d-a7ca-29afde16a8ee
+  package_ndc:
+    47593-463-33
+    47593-463-31
+    47593-463-32
+    47593-463-11
+    47593-463-26
+    47593-463-56
+    47593-463-41
+    47593-463-59
+    47593-463-44
+    47593-463-21
+  is_original_packager:
+    True
+  upc:
+    0025469009807
+  unii:
+    MOR84MUD8E

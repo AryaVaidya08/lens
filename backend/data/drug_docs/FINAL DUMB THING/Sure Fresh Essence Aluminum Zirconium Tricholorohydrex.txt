@@ -1,0 +1,37 @@
+effective_time:
+  20120823
+inactive_ingredient:
+  Inactive Ingredients Cyclopentasiloxane, Stearyl Alcohol, Dimethicone, Petrolatum, PPG-14 Butyl Ether, Hydrogenated Castor Oil, Talc, Fragrance, Mineral Oil, Behenyl Alcohol
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only.
+questions:
+  Questions? 1-800-487-7273 www.suredeodorant.com Idelle Labs, Ltd. All rights reserved. Made in Canada and distributed by Idelle Labs, Ltd., El Paso, TX 79912 Sure® is a registered trademark of Helen of Troy Limited
+spl_product_data_elements:
+  Sure Fresh Essence Aluminum Zirconium Tricholorohydrex GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY CYCLOMETHICONE 5 STEARYL ALCOHOL DIMETHICONE PETROLATUM PPG-14 BUTYL ETHER HYDROGENATED CASTOR OIL TALC MINERAL OIL DOCOSANOL
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions apply to underarms only
+spl_unclassified_section:
+  Front Panel Display Dry Protection Sure Fresh Essence Anti-Perspirant and Deodorant
+stop_use:
+  Stop use if rash or irritation occurs
+do_not_use:
+  Do not use on broken skin
+package_label_principal_display_panel:
+  label principal display panel
+indications_and_usage:
+  Use reduces underarm wetness
+set_id:
+  d76f0763-ef92-475d-bd79-7ab569b17e8c
+id:
+  dfdd00ca-c716-4ec8-849e-624d757812f5
+active_ingredient:
+  Active Ingredient Aluminum Zirconium Trichlorohydrex GLY 19% (anhydrous)

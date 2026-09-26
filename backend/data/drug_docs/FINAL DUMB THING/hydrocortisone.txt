@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  hydrocortisone Hydrocortisone HYDROCORTISONE HYDROCORTISONE WATER CETOSTEARYL ALCOHOL POLYOXYL 20 CETOSTEARYL ETHER CETYL PALMITATE GLYCERIN ISOPROPYL MYRISTATE ISOSTEARYL NEOPENTANOATE METHYLPARABEN ALOE VERA LEAF
+active_ingredient:
+  Active ingredient Hydrocortisone 1%
+purpose:
+  Purpose Anti-itch
+indications_and_usage:
+  Uses • temporarily relieves itching associated with minor skin irritations, inflammation, and rashes due to: • eczema • insect bites • poison ivy, oak, or sumac • soaps • detergents • cosmetics • jewelry • seborrheic dermatitis • psoriasis • temporarily relieves external anal and genital itching • other uses of this product should only be under the advice and supervision of a doctor
+warnings:
+  Warnings For external use only Do not use • in the genital area if you have a vaginal discharge. Consult a doctor. • for the treatment of diaper rash. Consult a doctor. When using this product • avoid contact with eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator Stop use and ask a doctor if • condition worsens, symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor • rectal bleeding occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • in the genital area if you have a vaginal discharge. Consult a doctor. • for the treatment of diaper rash. Consult a doctor.
+when_using:
+  When using this product • avoid contact with eyes • do not use more than directed unless told to do so by a doctor • do not put directly into the rectum by using fingers or any mechanical device or applicator
+stop_use:
+  Stop use and ask a doctor if • condition worsens, symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have asked a doctor • rectal bleeding occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • for itching of skin irritation, inflammation, and rashes: • adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily • children under 2 years of age: ask a doctor • for external anal and genital itching, adults: • when practical, cleanse the affected area with mild soap and warm water and rinse thoroughly • gently dry by patting or blotting with toilet tissue or a soft cloth before applying • apply to affected area not more than 3 to 4 times daily • children under 12 years of age: ask a doctor
+inactive_ingredient:
+  Inactive ingredients water, cetearyl alcohol, ceteareth-20, cetyl palmitate, glycerin, isopropyl myristate, isostearyl neopentanoate, methylparaben, aloe barbadensis leaf juice
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Cortaid® active ingredient Hydrocortisone Cream 1% Anti-Itch Cream Maximum Strength NET WT 1 OZ (28 g) 71205-571-01
+set_id:
+  47e9fe84-bd0c-40ea-85de-e950bcacc557
+id:
+  dde90c7b-26a9-4425-89b3-49d5d6092795
+effective_time:
+  20240201
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    hydrocortisone
+  generic_name:
+    HYDROCORTISONE
+  manufacturer_name:
+    Proficient Rx LP
+  product_ndc:
+    71205-571
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HYDROCORTISONE
+  rxcui:
+    106258
+  spl_id:
+    dde90c7b-26a9-4425-89b3-49d5d6092795
+  spl_set_id:
+    47e9fe84-bd0c-40ea-85de-e950bcacc557
+  package_ndc:
+    71205-571-01
+  original_packager_product_ndc:
+    45802-438
+  upc:
+    0371205571016
+  nui:
+    N0000175576
+    N0000175450
+  pharm_class_epc:
+    Corticosteroid [EPC]
+  pharm_class_moa:
+    Corticosteroid Hormone Receptor Agonists [MoA]
+  unii:
+    WI4X0X7BPJ

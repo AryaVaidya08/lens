@@ -1,0 +1,27 @@
+effective_time:
+  20110427
+inactive_ingredient:
+  INACTIVE INGREDIENT Ethyl Alcohol 30%
+purpose:
+  PURPOSE Sleep Cycle Support
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children
+warnings:
+  WARNINGS Stop use and ask doctor if symptoms worsen or persist more than 5 days
+spl_product_data_elements:
+  GUNA-MELATONIN MELATONIN ALCOHOL MELATONIN MELATONIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Take 15 minutes before meals. Adults and children 12 years and older 20 drops twice a day in a little water. Hold in the mouth for about 30 seconds then swallow. Children between 12 years and 6 years of age 10 drops twice a day in a little water. Hold in the mouth for about 30 seconds then swallow. Children under 6 years Ask a doctor.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL image of box label
+indications_and_usage:
+  INDICATIONS & USAGE Sleep Cycle Support
+set_id:
+  c0e9d164-def1-4e45-9ecc-d313310541b5
+id:
+  acf74825-90d2-4e32-841f-a5052be84d46
+active_ingredient:
+  ACTIVE INGREDIENT MELATONIN 6X

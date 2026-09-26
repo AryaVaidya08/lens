@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Fundamentals Benzalkonium Chloride POLYQUATERNIUM-7 (70/30 ACRYLAMIDE/DADMAC; 1600000 MW) PHENOXYETHANOL SODIUM CHLORIDE BASIL WATER COCAMIDOPROPYL BETAINE EDETATE SODIUM GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM SODIUM BENZOATE DISODIUM ETHYLENE DICOCAMIDE PEG-15 DISULFATE ALOE VERA LEAF POLYSACCHARIDES ANHYDROUS CITRIC ACID SODIUM C12 OLEFIN SULFONATE
+spl_unclassified_section:
+  The hand soap is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients: Benzalkonium chloride Water(aqua) Sodium alpha olefin sulfonate Cocamide DIPA Cocamidopropyl betaine Glycerin Polyquaternium-7 Phenoxyethanol Aloe barbadensis (aloe vera) leaf juice Sodium benzoate Citric acid Sodium chloride Tetrasodium EDTA Fragrance (parfum)
+active_ingredient:
+  Active Ingredient(s) Benzalkonium chloride 0.13% v/v. Purpose: Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use For handwashing to decrease bacteria on skin Recommended for repeat use
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop Condition persists more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Wet hands, apply palmful to hands, scrub thoroughly, rinse thoroughly Supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information Store between 15-30°C (59-86°F) . • Avoid freezing and excessive heat above 40°C (104°F).
+inactive_ingredient:
+  Inactive ingredients Water(aqua) Sodium alpha olefin sulfonate Cocamide DIPA Cocamidopropyl betaine Glycerin Polyquaternium-7 Phenoxyethanol Aloe barbadensis (aloe vera) leaf juice Sodium benzoate Citric acid Sodium chloride Tetrasodium EDTA Fragrance (parfum)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 236 mL NDC: 76665-010-08 473 mL NDC: 76665-010-16 60 mL NDC: 76665-010-02 3785 mL NDC: 76665-010-01 8oz label 16oz label 2oz label 1 Gal
+set_id:
+  b0b578dc-d83a-0db4-e053-2995a90a0129
+id:
+  b1ced1be-c12a-9f12-e053-2995a90a6bd9
+effective_time:
+  20201016
+version:
+  4
+openfda:

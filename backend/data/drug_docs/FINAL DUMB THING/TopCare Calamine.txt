@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  TopCare Calamine calamine 8% and zinc oxide 8% lotion BENTONITE CARRAGEENAN XANTHAN GUM WATER CALCIUM HYDROXIDE MICROCRYSTALLINE CELLULOSE GLYCERIN ZINC OXIDE ZINC CATION
+active_ingredient:
+  Calamine 8% and Zinc Oxide 8%
+purpose:
+  Skin protectant
+indications_and_usage:
+  dries the oozing and weeping o poison ivy, poison oak, and poison sumac.
+warnings:
+  For external use only. Use only as directed. Avoid contact with eyes and mucous membranes. Ask a doctor before using on chilren 2 years of age.
+keep_out_of_reach_of_children:
+  In case of accidental ingestion, seek professional assistance or contact a Poison Control center immediately.
+dosage_and_administration:
+  Adults and chidren 2 years of age and older: shake well before using. Cleanse the skin with soap and water and let it dry befroe each use. Apply lotion to the affected area using a cotton or soft cloth, as often as needed for comfort. Children under 2 years of age: Consult a doctor before use. Directions Children under 2 years of age: Consult a doctor before use (8/2021)
+recent_major_changes:
+  Directions Children under 2 years of age: Consult a doctor before use (8/2021)
+inactive_ingredient:
+  Bentonite magma, calcium hydroxide, glycerin, purified water.
+package_label_principal_display_panel:
+  Top Care Calamine TCCal.jpg cl
+set_id:
+  8dcf134e-0427-0c43-e053-2995a90a7c26
+id:
+  0ccb3ccc-3531-2d08-e063-6394a90ac91a
+effective_time:
+  20231218
+version:
+  5
+openfda:
+  application_number:
+    M016
+  brand_name:
+    TopCare Calamine
+  generic_name:
+    CALAMINE 8% AND ZINC OXIDE 8% LOTION
+  manufacturer_name:
+    TOPCO ASSOCIATES LLC
+  product_ndc:
+    36800-702
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    617954
+  spl_id:
+    0ccb3ccc-3531-2d08-e063-6394a90ac91a
+  spl_set_id:
+    8dcf134e-0427-0c43-e053-2995a90a7c26
+  package_ndc:
+    36800-702-96
+  is_original_packager:
+    True
+  upc:
+    0036800384323
+  unii:
+    SOI2LOH54Z

@@ -1,0 +1,27 @@
+effective_time:
+  20140825
+inactive_ingredient:
+  INACTIVE INGREDIENTS Inactive ingredients: Cetylstearyl alcohol, ethanol, paraffin, purified water and white petrolatum.
+purpose:
+  PURPOSE Rectal itching, Rectal burning, Hemorrhoidal swelling
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicine out of the reach of children.
+warnings:
+  WARNINGS Warnings: For external use only. If symptoms persist for more than a few days, or in case of bleeding, consult a healthcare professional. This product contains cetyl stearyl alcohol which may cause local skin reactions. Do not use if known sensitivity to any ingredients in Hemorrhoid Relief exists.
+spl_product_data_elements:
+  Hemorrhoid PAEONIA OFFICINALIS ROOT PAEONIA OFFICINALIS ROOT PAEONIA OFFICINALIS ROOT CETOSTEARYL ALCOHOL ALCOHOL WATER PETROLATUM PARAFFIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Direction for use: Apply generously 3 times daily, or more often if necessary to the affected area, rubbing in gently. If appropriate, also apply an ointment dressing.
+package_label_principal_display_panel:
+  Hemorrhoid Ointment Carton.jpg
+indications_and_usage:
+  INDICATIONS AND USAGE For the temporary relief of: Rectal itchingRectal burningHemorrhoidal swelling
+set_id:
+  04a76c0a-46b2-488d-9f6b-305529d9e295
+id:
+  c553c315-2e03-4fa3-af3d-46c60c3f3f38
+active_ingredient:
+  ACTIVE INGREDIENTS Active ingredients: Paeonia officinalis 1X

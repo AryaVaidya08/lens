@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  HOBBY ANTIBACTERIAL HANDWASH BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE CITRIC ACID MONOHYDRATE SODIUM CHLORIDE WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE COCO DIETHANOLAMIDE FD&C RED NO. 40 FD&C BLUE NO. 1 LIMONENE, (+)- D&C RED NO. 33 GLYCERIN SULISOBENZONE LAURYL GLUCOSIDE FD&C YELLOW NO. 5 BENZYL ALCOHOL EDETATE DISODIUM ANHYDROUS Magnesium Citrate Propylene Glycol LINALOOL, (+/-)- FD&C YELLOW NO. 6 Benzyl Benzoate Benzyl Salicylate .ALPHA.-HEXYLCINNAMALDEHYDE Magnesium Nitrate
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13% w/w
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for washing hands to decrease bacteria on skin.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes, in case of eye contact, flush with water. Stop use and ask a doctor if irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or go to Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes, in case of eye contact, flush with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or go to Poison Control Center right away.
+dosage_and_administration:
+  Directions Pump onto wet hands, vigorously work into a lather and rinse thoroughly.
+other_safety_information:
+  Other information Store in a cool dry place below 104 °F.
+inactive_ingredient:
+  Inactive ingredients water, cocamidopropyl betaine, sodium laureth sulfate, cocamide DEA, lauryl glucoside, glycerin, fragrance, citric acid, benzophenone-4, propylene glycol, sodium chloride, benzyl alcohol, magnesium nitrate, methyIchloroisothiazolinone, methylisothiazolinone, red 33, blue 1
+package_label_principal_display_panel:
+  Principal Display Panel - 400 mL Label HOBBY® Antibacterial Liquid Hand Soap BERRY MEDLEY 13.5 FL OZ (400 ml) Principal Display Panel - 400 mL Label
+  Principal Display Panel - 400 mL Label HOBBY® Antibacterial Liquid Hand Soap TROPICAL BEACH 13.5 FL OZ (400 ml) Principal Display Panel - 400 mL Label
+  Principal Display Panel - 400 mL Label HOBBY® Antibacterial Liquid Hand Soap PEACH DREAM 13.5 FL OZ (400 ml) Principal Display Panel - 400 mL Label
+set_id:
+  eae72d60-b1fc-4bf1-b6b4-9d447e1a4fd2
+id:
+  86515173-a1d8-49fa-b8bf-6a99cd20bd4e
+effective_time:
+  20201023
+version:
+  2
+openfda:

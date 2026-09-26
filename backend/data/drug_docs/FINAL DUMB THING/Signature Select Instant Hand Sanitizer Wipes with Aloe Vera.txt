@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Signature Select Instant Hand Sanitizer Wipes with Aloe Vera Alcohol WATER ALOE BARBADENSIS LEAF JUICE GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For hand washing to decrease bacteria on the skin Recommended for repeated use Dries in seconds
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame
+when_using:
+  When using this product Avoid contact with eyes. In case of contact, flush eyes thoroughly with water Discontinue use if irritation and redness develop. If condition persists for more than 72 hours, consult a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children unless under adult suoervision. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions: Tear open packet Open and unfold wipe Thoroughly wipe hands, fingers, and wrists. Be sure to use the entire wipe. For dirty hands, use first wipe to clean hands, then discard wipe, sanitize with second wipe. Discard after single use
+other_safety_information:
+  Other Information Lot No and Expiration Date can be found on the packet
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Aloe Barbadensis Leaf Extract
+package_label_principal_display_panel:
+  image description
+set_id:
+  cf4b671f-697a-47d3-921e-2de433073918
+id:
+  495073b7-f2a1-6168-e063-6394a90a1990
+effective_time:
+  20260126
+version:
+  1
+openfda:
+  application_number:
+    M005
+  brand_name:
+    Signature Select Instant Hand Sanitizer Wipes with Aloe Vera
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Living Better Brands LLC
+  product_ndc:
+    21130-068
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1489307
+  spl_id:
+    495073b7-f2a1-6168-e063-6394a90a1990
+  spl_set_id:
+    cf4b671f-697a-47d3-921e-2de433073918
+  package_ndc:
+    21130-068-01
+    21130-068-02
+  is_original_packager:
+    True
+  upc:
+    0321130745587
+  unii:
+    3K9958V90M

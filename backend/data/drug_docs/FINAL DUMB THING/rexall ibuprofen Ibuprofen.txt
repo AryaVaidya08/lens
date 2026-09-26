@@ -1,0 +1,43 @@
+effective_time:
+  20181218
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, corn starch, croscarmellose sodium, hypromellose, iron oxide red, iron oxide yellow, microcrystalline cellulose, polyethylene glycol, polysorbate 80, stearic acid, titanium dioxide
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: • hives • facial swelling • asthma (wheezing) • shock • skin reddening • rash • blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chances are higher if you • are age 60 or older • have had stomach ulcers or bleeding problems • take a blood thinning (anticoagulant) or steroid drug • take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] • have 3 or more alcoholic drinks every day while using this product • take more or for a longer time than directed Do not use • if you have ever had an allergic reaction to any other pain reliever/fever reducer • right before or after heart surgery Ask a doctor before use if • you have problems or serious side effects from taking pain relievers or fever reducers • the stomach bleeding warning applies to you • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, or kidney disease • you have asthma • you are taking a diuretic Ask a doctor or pharmacist before use if you are • taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin • under a doctor’s care for any serious condition • taking any other drug When using this product • take with food or milk if stomach upset occurs • the risk of heart attack or stroke may increase if you use more than directed or for longer than directed Stop use and ask a doctor if • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present in the painful area • any new symptoms appear If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+when_using:
+  When using this product • take with food or milk if stomach upset occurs • the risk of heart attack or stroke may increase if you use more than directed or for longer than directed
+spl_product_data_elements:
+  rexall ibuprofen Ibuprofen IBUPROFEN IBUPROFEN SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM HYPROMELLOSES CELLULOSE, MICROCRYSTALLINE STEARIC ACID TITANIUM DIOXIDE POLYSORBATE 80 POLYETHYLENE GLYCOL FERRIC OXIDE RED FERRIC OXIDE YELLOW I2
+ask_doctor:
+  Ask a doctor before use if • you have problems or serious side effects from taking pain relievers or fever reducers • the stomach bleeding warning applies to you • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, or kidney disease • you have asthma • you are taking a diuretic
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • do not take more than directed • the smallest effective dose should be used adults and children 12 years and older • take 1 tablet every 4 to 6 hours while symptoms persist • if pain or fever does not respond to 1 tablet, 2 tablets may be used • do not exceed 6 tablets in 24 hours, unless directed by a doctor children under 12 years • ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+stop_use:
+  Stop use and ask a doctor if • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present in the painful area • any new symptoms appear
+storage_and_handling:
+  Other information • read all warnings and directions before use • store at 20-25°C (68-77°F) • avoid high humidity and excessive heat above 40°C (104°F) • see end panel for lot number and expiration date
+do_not_use:
+  Do not use • if you have ever had an allergic reaction to any other pain reliever/fever reducer • right before or after heart surgery
+package_label_principal_display_panel:
+  Principal Display Panel Ibuprofen Tablets 200mg Anti-inflammatory For aches and pains Pain Reliever/Fever Reducer (NSAID) SEE NEW WARNINGS INFORMATION actual size GLUTEN FREE Ibuprofen Tablets 200mg Carton Image 1 Ibuprofen Tablets 200mg Carton Image 1
+indications_and_usage:
+  Uses • temporarily relieves minor aches and pains due to: • headache • muscular aches • minor pain of arthritis • toothache • backache • the common cold • menstrual cramps • temporarily reduces fever
+set_id:
+  be8f99cb-89e6-40f2-90d5-21cbcabad0b8
+id:
+  c2206c89-7a4c-4a88-9af4-626bbc882659
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin • under a doctor’s care for any serious condition • taking any other drug
+active_ingredient:
+  Active ingredient (in each tablet) Ibuprofen 200 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+dosage_and_administration_table:
+  <table width="100%"> <col width="36%"/> <col width="64%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and older</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="unordered"> <item> <caption>&#x2022;</caption>take 1 tablet every 4 to 6 hours while symptoms persist</item> <item> <caption>&#x2022;</caption>if pain or fever does not respond to 1 tablet, 2 tablets may be used</item> <item> <caption>&#x2022;</caption>do not exceed 6 tablets in 24 hours, unless directed by a doctor</item> </list> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <list listType="unordered"> <item> <caption>&#x2022;</caption>ask a doctor</item> </list> </td> </tr> </tbody> </table>

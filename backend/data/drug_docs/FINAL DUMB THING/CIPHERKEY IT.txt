@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  CIPHERKEY IT SKIN Morus Alba Leaf Extract WATER ALCOHOL MORUS ALBA LEAF MORUS ALBA LEAF
+active_ingredient:
+  Morus Alba Leaf Extract
+inactive_ingredient:
+  Water, Alcohol, Wild Chrysanthemum Extract, Eclipta Prostrata Extract, CACUMEN PLATYCLADI Extract, Cuscutae Semen Extract, Rubus Coreanus Fruit Extract, Sesamum Indicum (Sesame) Seed Extract, Polygonum Multiflorum Extract, Artemisia Princeps Extract, Panax Ginseng Root Extract, Cnidium Officinale Rhizome Extract, Lycium Chinense Fruit Extract, seaweed Extract, Camellia Sinensis Leaf Extract, Laminaria Japonica extract
+purpose:
+  to supply nutrients to the skin
+warnings:
+  Do not use besides the intended use. If swallowed, consult a physician immediately. Please keep out of reach of children. Avoid direct sunlight
+keep_out_of_reach_of_children:
+  Please keep out of reach of children.
+indications_and_usage:
+  Spray a small amount on the desired area and pat gently for absorption.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  05ec170c-8984-f9d4-e063-6294a90a1a42
+id:
+  05ec8358-926e-d82a-e063-6294a90a4f1c
+effective_time:
+  20230922
+version:
+  3
+openfda:

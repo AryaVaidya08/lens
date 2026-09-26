@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  XRay DOL Camphor, Menthol, and Methyl Salicylate CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) MENTHOL MENTHOL METHYL SALICYLATE ETHYLPARABEN GLYCERYL MONOSTEARATE POLYSORBATE 80 WATER SORBITAN MONOOLEATE STEARIC ACID
+active_ingredient:
+  Active ingredients Purposes Camphor 4%...................................Topical analgesic Menthol 10%...................................Topical analgesic Methyl salicylate 30%......................Topical analgesic
+purpose:
+  Uses temporarily relieves the minor aches and pains of muscles and joints associated with sprains simple backache arthritis strains bruises
+warnings:
+  Warnings For external use only Allergy alert: If prone to allergic reaction from aspirin or salicylates, consult a doctor before use.
+do_not_use:
+  Do not use on wounds or damaged skin with a heating pad on a child under 12 years of age with arthritis-like conditions
+ask_doctor:
+  Ask a doctor before use if you have redness over the affected area.
+when_using:
+  When using this product do not use otherwise than as directed avoid contain with the eyes, mucous membranes or rashes do not bandage tightly
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away
+indications_and_usage:
+  Directions use only as directed adults and children 12 years of age and older: apply to affected area not more than 3 to 4 times daily children under 12 years of age: ask a doctor
+storage_and_handling:
+  Other information store at room temperature 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients ethylparaben, glyceryl monostearate, polysorbate 80, purified water, sorbitan monooleate, stearic acid
+dosage_and_administration:
+  Distributed by Genomma Lab USA, Inc. Made in China
+package_label_principal_display_panel:
+  6454
+set_id:
+  e07fef46-68d9-769c-e053-2a95a90aa065
+id:
+  4240f9fd-0442-7ffc-e063-6394a90af69e
+effective_time:
+  20251028
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    XRay DOL
+  generic_name:
+    CAMPHOR, MENTHOL, AND METHYL SALICYLATE
+  manufacturer_name:
+    Genomma Lab USA, Inc.
+  product_ndc:
+    50066-454
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CAMPHOR (SYNTHETIC)
+    MENTHOL
+  spl_id:
+    4240f9fd-0442-7ffc-e063-6394a90af69e
+  spl_set_id:
+    e07fef46-68d9-769c-e053-2a95a90aa065
+  package_ndc:
+    50066-454-56
+  is_original_packager:
+    True
+  upc:
+    0650240064548
+  unii:
+    5TJD82A1ET
+    L7T10EIP3A

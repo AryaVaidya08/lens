@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Daily Moisturizer Sunscreen Broad Spectrum SPF 25 Octinoxate and Zinc Oxide WATER ISOCETYL STEARATE SORBITOL ETHYL MACADAMIATE CETOSTEARYL ALCOHOL DIMETHICONE PHENOXYETHANOL GLYCERYL MONOSTEARATE GLYCERIN HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) PEG-100 STEARATE POLYOXYL 20 CETOSTEARYL ETHER OCTISALATE XANTHAN GUM POLY(METHYL METHACRYLATE; 450000 MW) CAPRYLYL GLYCOL ETHYLHEXYLGLYCERIN LINGONBERRY QUERCUS SUBER BARK TRIETHOXYCAPRYLYLSILANE GREEN TEA LEAF EDETATE DISODIUM ANHYDROUS .ALPHA.-TOCOPHEROL ACETATE CENTELLA ASIATICA WHOLE POLYGONUM AVICULARE TOP CITRIC ACID MONOHYDRATE GLUCONOLACTONE ISOMALT CALCIUM GLUCONATE SODIUM BENZOATE GARDEN CRESS SPROUT OCTINOXATE OCTINOXATE ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  DRUG FACTS:
+active_ingredient:
+  ACTIVE INGREDIENTS Octinoxate 7.0%, Zinc Oxide 6.0%.
+purpose:
+  PURPOSE Sunscreen
+indications_and_usage:
+  USES Helps prevent sunburn.
+warnings:
+  WARNINGS For external use only. Do not use on damaged or broken skin . When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  DIRECTIONS Apply to all skin exposed to the sun. Apply liberally and evenly 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating. For children under 6 months of age: Ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, Isocetyl Stearate, Cetyl Dimethicone, Styrene/Acrylates Copolymer, Sorbitol, Ethyl Macadamiate, Cetearyl Alcohol, Dimethicone, Acrylates/Dimethicone Copolymer, Phenoxyethanol, Glyceryl Stearate, Glycerin, Hydroxyethyl Acrylate/ Sodium Acryloyldimethyl Taurate Copolymer, PEG-100 Stearate, Ceteareth-20, Ethylhexyl Salicylate, VP/Eicosene Copolymer, Xanthan Gum, Polymethyl Methacrylate, Caprylyl Glycol, Cocos Nucifera Oil, Ethylhexylglycerin, Vaccinium Vitis-Idaea Fruit Extract, Quercus Suber Bark Extract, Triethoxycaprylylsilane, Camellia Sinensis Leaf Extract, Disodium EDTA, Tocopheryl Acetate, Oak Root Extract, Centella Asiatica Extract, Polygonum Aviculare Extract, Citric Acid, Gluconolactone, Isomalt, Calcium Gluconate, Lecithin, Vitis Vinifera Fruit Cell Extract, Sodium Benzoate, Lepidium Sativum Sprout Extract.
+storage_and_handling:
+  OTHER INFORMATION Protect the product in this container from excessive heat and direct sun.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Daily Moisturizer Sunscreen Broad Spectrum SPF 25 Daily Moisturizer Sunscreen Broad Spectrum SPF 25
+set_id:
+  f45e4f1d-f665-d87e-e053-2a95a90a7fbb
+id:
+  f45e5a3b-dd2a-1cf3-e053-2995a90af361
+effective_time:
+  20230210
+version:
+  1
+openfda:

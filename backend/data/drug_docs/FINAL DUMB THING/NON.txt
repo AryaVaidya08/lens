@@ -1,0 +1,27 @@
+effective_time:
+  20101125
+inactive_ingredient:
+  Inactive Ingredients DEIONIZED WATER、GLYCERIN、PROPYLENE GLYCOL、TRIETHANOLAMINE、CARBOMER、Lemon Flavor、Diazolidinyl Urea
+purpose:
+  PURPOSE antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children
+warnings:
+  Warning Keep away from children. For external use only. Keep out of eyes,if contacts eyes,flush with water .call a doctor
+spl_product_data_elements:
+  NON ALCOHOL HAND SANITIZER Benzalkonium Chloride Benzalkonium Chloride Benzalkonium WATER GLYCERIN PROPYLENE GLYCOL TROLAMINE CARBOMER 934 Diazolidinyl Urea LEMON
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Spray a small amount in palm of hands,rapidly rub hands together until dry. Do not store about 110 degree F(43 degree C) Keep out of reach of children Keep out of reach of children
+package_label_principal_display_panel:
+  labeljpg
+indications_and_usage:
+  Use Hand Cleanser reduces bacteria that could cause disease.
+set_id:
+  a8c5ec90-821a-4274-ac25-4aacc6e3419e
+id:
+  f8575e6b-5930-40de-bf98-0f141fc508c8
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1% PURPOSE antiseptic

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  HAND CLEANER 7 alcohol TROLAMINE WATER ALCOHOL ALCOHOL ALOE VERA LEAF CARBOMER 940 LEMON OIL
+active_ingredient:
+  alcohol
+purpose:
+  sterilization of hands, skin and so on
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  take appropriate amount on the hand, rub and dry well
+warnings:
+  ■ Flammable. Keep away from fire or flame. ■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children.
+dosage_and_administration:
+  for external use only
+inactive_ingredient:
+  glycerin, carbomer, trolamine, water, lemon fragrance
+package_label_principal_display_panel:
+  label
+set_id:
+  a488e99a-d176-7b06-e053-2995a90a9e9e
+id:
+  a488e54a-c15e-780c-e053-2995a90a7071
+effective_time:
+  20200430
+version:
+  1
+openfda:

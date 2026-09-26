@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Kids Tallow Sunscreen SPF50 Non-Nano Zinc Oxide 25% BUTYROSPERMUM PARKII (SHEA) BUTTER WATER ZINC OXIDE ZINC OXIDE BEESWAX SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL OLEA EUROPAEA (OLIVE) FRUIT OIL LECITHIN, SOYBEAN LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE SAURURUS CHINENSIS WHOLE BEEF TALLOW TARAXACUM OFFICINALE LEAF TOCOPHEROL
+active_ingredient:
+  Non-Nano Zinc Oxide 25%
+purpose:
+  Sunscreen
+indications_and_usage:
+  helps prevent sunburn. if used as directed with other sun protection measures (see directions), decrease the risk of skin cancer and early skin aging caused b the sun.
+warnings:
+  For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  apply liberally 15 minutes before sun exposure reapply: - after 80 minutes of swimming or sweating - immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. - wear long-sleeved shirts, pants, hats and sunglasses - children under 6 months of age: Ask a doctor
+other_safety_information:
+  Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Water, Beef Tallow, Beeswax, Butyrospermum Parkii (Shea) Butter, Tocopherol, Simmondsia Chinensis (Jojoba) seed oil, Olea Europaea (Olive) Fruit Oil, Lecithin, Radish Root Ferment Filtrate, Saururus Chinensis Leaf/root Extract, Taraxacum Officinale (Dandelion) Leaf Extract
+questions:
+  service@vigority.com
+package_label_principal_display_panel:
+  kids tallow sunscreen
+set_id:
+  3b4eca91-965f-66c6-e063-6394a90a78ca
+id:
+  3b4eca91-9660-66c6-e063-6394a90a78ca
+effective_time:
+  20250801
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Kids Tallow Sunscreen SPF50
+  generic_name:
+    NON-NANO ZINC OXIDE 25%
+  manufacturer_name:
+    FOUNDATION COMMERCE INC
+  product_ndc:
+    85739-005
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    3b4eca91-9660-66c6-e063-6394a90a78ca
+  spl_set_id:
+    3b4eca91-965f-66c6-e063-6394a90a78ca
+  package_ndc:
+    85739-005-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

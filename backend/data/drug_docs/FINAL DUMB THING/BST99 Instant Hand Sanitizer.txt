@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  BST99 Instant Hand Sanitizer ALCOHOL WATER ALOE VERA LEAF CARBOMER HOMOPOLYMER TYPE C TROLAMINE GLYCERIN PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient: Alcohol 62%
+purpose:
+  Purpose: Antisptic
+indications_and_usage:
+  Usage: For handwashing to decrease bacterial on the skin
+dosage_and_administration:
+  Usage: Wash hand thoroughly with product Briskly rub hands together until dry. Supervise children in the use of this product
+inactive_ingredient:
+  Drug Facts Water, triethanolamine, glycerin, propylene glycol, aloe barbadensis gel, carbomer, fragrance, acrylic polymer, Tocopherol Acetate (Vitamin E)
+warnings:
+  Warnings For external use only Do not use in the eyes. In case of contact, flush thoroughly with water. Stop use and ask a doctor when irritation and redness develop and persist for more than 72 hours. Keep away from fire or flame. Flammable.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, contact a physician or a poison control center immediately.
+package_label_principal_display_panel:
+  image description
+set_id:
+  266132c1-dd52-423f-b223-41bd2413645e
+id:
+  a4f04b11-accd-4439-e053-2a95a90a49e7
+effective_time:
+  20200505
+version:
+  6
+openfda:

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Antacid Extra Strength Assorted Fruit Calcium antacid CALCIUM CARBONATE CALCIUM CATION CARBONATE ION ADIPIC ACID STARCH, CORN CROSPOVIDONE D&C RED NO. 27 D&C RED NO. 30 D&C YELLOW NO. 10 DEXTROSE, UNSPECIFIED FORM FD&C BLUE NO. 1 FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN SUCROSE TALC lemon, lime, cherry, orange G127 Reddish pink
+active_ingredient:
+  Active ingredient (in each tablet) Calcium carbonate 750 mg
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  
+indications_and_usage:
+  Uses relieves acid indigestion heartburn
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor. Keep out of reach of children
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  When using this product do not take more than 10 tablets in a 24-hour period, or use the maximum dosage of this product for more than 2 weeks, except under the advice and supervision of a doctor. Keep out of reach of children
+dosage_and_administration:
+  Directions chew 2-4 tablets as symptoms occur, or as directed by a doctor. Other information do not use if printed seal under cap is torn or missing. store at room temperature.
+inactive_ingredient:
+  Inactive ingredients adipic acid, corn starch, crospovidone, DC red 27 lake, DC red 30 lake, DC yellow 10 lake, dextrose, FDC blue 1 lake, FDC yellow 6 lake, flavors, magnesium stearate, maltodextrin, sucrose, talc
+package_label_principal_display_panel:
+  *Compare to the active ingredient in TUMS® Extra Strength Antacid Extra Strength CALCIUM CARBONATE 750 mg / ANTACID Relieves: Acid Indigestion & Heartburn Assorted Fruit Naturally & Artificially Flavored 96 Chewable Tablets image description
+set_id:
+  493cfe1c-7a0f-4425-83ac-e3b8223cf375
+id:
+  3d3efbfc-fc2d-43ab-849c-b227346e8ddf
+effective_time:
+  20220114
+version:
+  3
+openfda:

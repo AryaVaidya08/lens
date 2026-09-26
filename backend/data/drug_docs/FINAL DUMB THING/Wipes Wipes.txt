@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Wipes Wipes GLYCERIN ALPHA-TOCOPHEROL WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkoniu m Chlloridle O.13%
+purpose:
+  Purpose
+indications_and_usage:
+  Use for hand sanitizing to decrease bacteria on skin safe for repeated use
+warnings:
+  Warnings For exter1nal use onlly
+do_not_use:
+  Do not use /
+when_using:
+  When using this p1rodlu1ct avoid contact with eyes. If in1e yes, flush thoroughly with water
+stop_use:
+  Discontinue use and contact a doctor if irritation and redness develop and conditions persist for more than 72hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away
+dosage_and_administration:
+  Directions peel back label remove and un1fold wipes wipe hands thoroughly for approximately 30seconds dispose of used wipes in trash, do not flush.
+storage_and_handling:
+  Other information /
+inactive_ingredient:
+  Inactive ingredients Glycerin, Aloe Vera, Vitamin E, Purified Water
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 77909-010-01 10P 77909-010-02 50P
+set_id:
+  b4d77a85-ab7c-2b58-e053-2995a90a2ecc
+id:
+  b4d77a85-ab6e-2b58-e053-2995a90a2ecc
+effective_time:
+  20201124
+version:
+  1
+openfda:

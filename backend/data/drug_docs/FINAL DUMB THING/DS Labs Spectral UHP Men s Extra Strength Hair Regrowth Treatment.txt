@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  DS Labs Spectral UHP Men s Extra Strength Hair Regrowth Treatment MINOXIDIL ALCOHOL PROPYLENE GLYCOL WATER MINOXIDIL MINOXIDIL
+spl_unclassified_section:
+  Drug Facts
+  Other information see hair loss pictures on side of this carton before use, read all information on carton and enclosed leaflet keep the carton. It contains important information. hair regrowth has not been shown to last longer than 48 weeks in large clinical trials with continuous treatment with 5% minoxidil topical solution for men in clinical studies of mostly white men aged 18-49 years with moderate degrees of hair loss, 5% minoxidil topical solution for men provided more hair regrowth than 2% minoxidil topical solution store at controlled room temperature 20º to 25ºC (68º to 77ºF)
+active_ingredient:
+  Active ingredient Minoxidil 5% w/v Purpose Hair regrowth treatment for men
+purpose:
+  Purpose Hair regrowth treatment for men
+indications_and_usage:
+  Use to regrow hair on the top of the scalp (vertex only, see pictures on side of carton)
+warnings:
+  Warnings For external use only. For use by men only. Flammable: Keep away from fire or flame Do not use if you are a woman your amount of hair loss is different than that shown on the side of this carton or your hair loss is on the front of the scalp. Minoxidil topical solution 5% is not intended for frontal baldness or receding hairline. you have no family history of hair loss hair loss is sudden and/or patchy you do not know the reason for your hair loss you are under 18 years of age. Do not use on babies and children. scalp is red, inflamed, infected, irritated, or painful you use other medicines on the scalp Ask a doctor before use if you have heart disease When using this product do not apply on other parts of the body avoid contact with the eyes. In case of accidental contact, rinse eyes with large amounts of cool tap water. it takes time to regrow hair. Results may occur at 2 months with twice a day usage. For some men, you may need to use this product for at least 4 months before you see results. the amount of hair regrowth is different for each person. This product will not work for all men. some people have experienced changes in hair color and/or texture Stop use and ask a doctor if chest pain, rapid heart beat, faintness, or dizziness occurs sudden, unexplained weight gain occurs your hands or feet swell scalp irritation or redness occurs unwanted facial hair growth occurs you do not see hair regrowth in 4 months May be harmful if used when pregnant or breast-feeding. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are a woman your amount of hair loss is different than that shown on the side of this carton or your hair loss is on the front of the scalp. Minoxidil topical solution 5% is not intended for frontal baldness or receding hairline. you have no family history of hair loss hair loss is sudden and/or patchy you do not know the reason for your hair loss you are under 18 years of age. Do not use on babies and children. scalp is red, inflamed, infected, irritated, or painful you use other medicines on the scalp
+ask_doctor:
+  Ask a doctor before use if you have heart disease
+when_using:
+  When using this product do not apply on other parts of the body avoid contact with the eyes. In case of accidental contact, rinse eyes with large amounts of cool tap water. it takes time to regrow hair. Results may occur at 2 months with twice a day usage. For some men, you may need to use this product for at least 4 months before you see results. the amount of hair regrowth is different for each person. This product will not work for all men. some people have experienced changes in hair color and/or texture
+stop_use:
+  Stop use and ask a doctor if chest pain, rapid heart beat, faintness, or dizziness occurs sudden, unexplained weight gain occurs your hands or feet swell scalp irritation or redness occurs unwanted facial hair growth occurs you do not see hair regrowth in 4 months
+pregnancy_or_breast_feeding:
+  May be harmful if used when pregnant or breast-feeding.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions prime the sprayer by holding the bottle upright and pump the sprayer 5 times to ensure delivery of full spray. Do not inhale mist. apply 1 mL with sprayer (6 sprays) 2 times a day directly onto the scalp in the hair loss area using more or more often will not improve results continued use is necessary to increase and keep your hair regrowth, or hair loss will begin again
+inactive_ingredient:
+  Inactive ingredients alcohol, propylene glycol, purified water
+questions:
+  Questions or comments? call toll free (888) 829-4212 or visit website at www.dslaboratories.com
+package_label_principal_display_panel:
+  Package Labeling: Label Carton Label Bottle Box Box2
+  Package Labeling: Label Carton2 Label Bottle2 Box3 Box4
+set_id:
+  f11e1944-dea6-469f-9ef4-ccce47a7e0fe
+id:
+  3383cf66-1ad2-acb9-e063-6294a90a358c
+effective_time:
+  20250501
+version:
+  1
+openfda:
+  application_number:
+    ANDA076239
+  brand_name:
+    DS Labs Spectral UHP Men s Extra Strength Hair Regrowth Treatment
+  generic_name:
+    MINOXIDIL
+  manufacturer_name:
+    DS Healthcare Group
+  product_ndc:
+    69188-593
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MINOXIDIL
+  rxcui:
+    1537948
+  spl_id:
+    3383cf66-1ad2-acb9-e063-6294a90a358c
+  spl_set_id:
+    f11e1944-dea6-469f-9ef4-ccce47a7e0fe
+  package_ndc:
+    69188-593-00
+    69188-593-03
+  is_original_packager:
+    True
+  upc:
+    0816378021727
+    0816378021888
+  nui:
+    N0000175379
+    N0000175564
+  pharm_class_pe:
+    Arteriolar Vasodilation [PE]
+  pharm_class_epc:
+    Arteriolar Vasodilator [EPC]
+  unii:
+    5965120SH1

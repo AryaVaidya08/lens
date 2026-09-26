@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Axe Signature Night Antiperspirant Aluminum Zirconium Tetrachlorohydrex GLY CYCLOMETHICONE 5 PPG-14 BUTYL ETHER STEARYL ALCOHOL HIGH DENSITY POLYETHYLENE HYDROGENATED CASTOR OIL PEG-8 DISTEARATE SILICON DIOXIDE BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+spl_unclassified_section:
+  Drug Facts
+  48 HR ANTI MARKS PROTECTION ANTI WHITE MARKS ANTI YELLOW STAINS AXE NIGHT 48HR ANTI MARKS PROTECTION. KEEPS YOU (AND YOUR SHIRTS) FEELING CLEAN AND FRESH.
+active_ingredient:
+  Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY(11.4%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses • reduces underarm wetness
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, PPG-14 Butyl Ether, Stearyl Alcohol, Polyethylene, Hydrogenated Castor Oil, PEG-8 Distearate, Fragrance (Parfum), Silica, BHT.
+questions:
+  Questions? Call toll-free 1-800-450-7580
+package_label_principal_display_panel:
+  Packaging AxeNightAPBKLabel AxeNightAPFTLabel image description
+set_id:
+  ff6d9175-908f-4d85-8ca2-8866e5155e3b
+id:
+  253e2ee9-a016-4e9f-e063-6394a90afb7c
+effective_time:
+  20241024
+version:
+  5
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Axe Signature Night Antiperspirant
+  generic_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  manufacturer_name:
+    Conopco, Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-1474
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    253e2ee9-a016-4e9f-e063-6394a90afb7c
+  spl_set_id:
+    ff6d9175-908f-4d85-8ca2-8866e5155e3b
+  package_ndc:
+    64942-1474-1
+    64942-1474-2
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

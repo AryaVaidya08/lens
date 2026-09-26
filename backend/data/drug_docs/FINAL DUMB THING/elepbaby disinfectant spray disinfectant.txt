@@ -1,0 +1,27 @@
+effective_time:
+  20200508
+inactive_ingredient:
+  medical purified water nano-surfactant
+purpose:
+  Disinfection Sterilization No Rinseing
+keep_out_of_reach_of_children:
+  keep out of reach of children
+warnings:
+  keep out of reach of children
+spl_product_data_elements:
+  elepbaby disinfectant spray disinfectant WATER POVIDONE-IODINE IODINE elepbaby
+openfda:
+version:
+  2
+dosage_and_administration:
+  It can be pressed for 2-3 times during use, can spray directly on the skin and the surface of the object without drying, and can complete disinfection and sterilization of the hand within 30-60 seconds.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  1、Use without dilution, direct spraying, 5- 10ml per square meter, 60 seconds after the completion of sterilization. 2、Spray after natural air drying, do not immediately dry water, otherwise it will reduce the disinfection effect. 3、To metal utensils, tableware, fruits, vegetables disinfection, can be directly soaked with this product,soaked for three minutes with water rinse clean. 4、Clean fibers, fur products, clothing, closets and cupboards before spraying, and repeat the spray every 3 hours for better results. 5、When disinfecting the pet, please put a good muzzle on the pet to avoid excessive licking.
+set_id:
+  a2c0519b-879d-54be-e053-2a95a90a9b37
+id:
+  a51c7880-14f6-49a8-e053-2a95a90a84c8
+active_ingredient:
+  Modified povidone iodine 0.08-0.3% plant extract germicidal extract 0.1%

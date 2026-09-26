@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Mammary Gland (Breast) Mammary Gland (Breast) ALCOHOL WATER HUMAN MAMMARY GLAND HUMAN MAMMARY GLAND
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Law of similars - Use according to standard homeopathic indications
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 drops by mouth (ages 0 to 11, give 3 drops) as needed or as directed by a health professional.
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Mammary Gland (Breast) 30c
+purpose:
+  OTC - PURPOSE SECTION Law of similars - Use according to standard homeopathic indications
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified water; USP Gluten-free, non-GMO, organic cane alcohol 20%.
+questions:
+  QUESTIONS SECTION newtonlabs.net - Questions? 1.800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013
+warnings:
+  WARNINGS SECTION WARNINGS: Keep out of reach of children. Do not use if tamper-evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding , ask a doctor before use.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding , ask a doctor before use.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+package_label_principal_display_panel:
+  PACKAGE LABEL package label
+set_id:
+  b69ad744-f207-15cd-e053-2a95a90aea07
+id:
+  b69ae790-45fa-38e5-e053-2a95a90aad02
+effective_time:
+  20201216
+version:
+  1
+openfda:

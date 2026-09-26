@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  CVS IchthammolOintment Salve ichthammol ICHTHAMMOL ICHTHAMMOL BIS-DIGLYCERYL POLYACYLADIPATE-2 PETROLATUM To dark brown paste
+purpose:
+  Drawing Salve
+spl_unclassified_section:
+  Drug Facts Active ingredient Purpose lchthammol USP 10% Drawing Salve Uses for drawing or removing splinters, slivers, or similar items Warnings For external use only.
+  Drug Facts (continued) Do not use in eyes Ask a doctor before use if you have deep puncture wounds or serious burns Stop use and ask doctor if redness, irritation, swelling or pain persists Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  Drug Facts (continued) Directions Cleanse affected area. Apply on gauze bandage once or twice a day. Repeat as necessary. Do not rub or massage affected area. Other information Store at room temperature. Inactive ingredients Bis-diglyceryl polyacyladipate-2, Petrolatum
+spl_unclassified_section_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="italics"><content styleCode="bold">Active ingredient</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td>lchthammol USP 10%</td><td>Drawing Salve</td></tr></tbody></table>
+active_ingredient:
+  Active ingredient Purpose lchthammol USP 10% Drawing Salve
+active_ingredient_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="italics"><content styleCode="bold">Active ingredient</content></content></td><td><content styleCode="italics"><content styleCode="bold">Purpose</content></content></td></tr><tr><td>lchthammol USP 10%</td><td>Drawing Salve</td></tr></tbody></table>
+indications_and_usage:
+  Uses for drawing or removing splinters, slivers, or similar items
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use in eyes
+ask_doctor:
+  Ask a doctor before use if you have deep puncture wounds or serious burns
+stop_use:
+  Stop use and ask doctor if redness, irritation, swelling or pain persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Cleanse affected area. Apply on gauze bandage once or twice a day. Repeat as necessary. Do not rub or massage affected area.
+other_safety_information:
+  Other information Store at room temperature.
+inactive_ingredient:
+  Inactive ingredients Bis-diglyceryl polyacyladipate-2, Petrolatum
+questions:
+  Questions or comments? 1-800-635-3696
+package_label_principal_display_panel:
+  Package Label - Tube Carton Carton
+set_id:
+  af00ad7c-6280-6234-e053-2a95a90ab585
+id:
+  d57c1b4e-89b0-4029-e053-2995a90a1b0e
+effective_time:
+  20220113
+version:
+  3
+openfda:

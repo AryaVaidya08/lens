@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  Radiance Foundation Broad Spectrum SPF 20 - Bronze Octinoxate, Zinc Oxide WATER TITANIUM DIOXIDE TRIETHOXYCAPRYLYLSILANE POLYHYDROXYSTEARIC ACID (2300 MW) HYDROXYPROPYLCOCOATE PEG-8 DIMETHICONE ALKYL (C12-15) BENZOATE PHENYL TRIMETHICONE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) SQUALANE DI-PPG-3 MYRISTYL ETHER ADIPATE CAPRYLYL TRISILOXANE DIMETHICONE, UNSPECIFIED PEG-10 DIMETHICONE (600 CST) DISTEARDIMONIUM HECTORITE BORON NITRIDE ROYAL JELLY PROPANEDIOL SODIUM CHLORIDE RICE BRAN ROSEMARY HELIANTHUS ANNUUS FLOWERING TOP TOCOPHEROL PANTHENOL .ALPHA.-TOCOPHEROL ACETATE BIOSACCHARIDE GUM-4 CHONDRUS CRISPUS CARRAGEENAN FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE MEDIUM-CHAIN TRIGLYCERIDES WITHANIA SOMNIFERA FLOWER NELUMBO NUCIFERA FLOWER C10-11 ISOPARAFFIN PHENOXYETHANOL PROPYLENE CARBONATE ETHYLHEXYLGLYCERIN LAURETH-3 LAURETH-25 OCTINOXATE OCTINOXATE ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active ingredients Purpose Octinoxate 3% .................. Sunscreen Zinc Oxide 6.8% ................ Sunscreen
+purpose:
+  
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warings For external use only. Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions • shake well • apply liberally and evenly 15 minutes before sun exposure • reapply at least every 2 hours • use a water resistant sunscreen if swimming or sweating • children under 6 months of age: Ask a doctor • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk,regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: o limit time in the sun, especially from 10 a.m.-2 p.m. o wear long-sleeved shirts, pants, hats, and sunglasses
+spl_unclassified_section:
+  Other information protect this product from excessive heat and direct sun
+  Questions? Call 1-800-551-2345 or visit www.jafra.com
+inactive_ingredient:
+  Inactive ingredients Water, Caprylic/Capric Triglyceride, C12-15 Alkyl Benzoate, Hydroxypropylcocoate PEG-8 Dimethicone, Petroleum Distillates, Phenyl Trimethicone, Phenyl Dimethicone, Di-PPG-3 Myristyl Ether Adipate, Squalane, Caprylyl Methicone, C10-11 Isoalkane, Boron Nitride, Disteardimonium Hectorite, Propanediol, Sodium Chloride, Phenoxyethanol, Dimethicone, Triethoxycaprylylsilane, Dimethicone/Vinyl Dimethicone Crosspolymer, PEG-10 Dimethicone, Propylene Carbonate, Polyhydroxystearic Acid, Oryza Sativa (Rice) Bran Extract, Tocopheryl Acetate, Panthenol, Royal Jelly Powder, Biosaccharide Gum-4, Smithsonite Extract, Ethylhexylglycerin, Withania Somnifera Extract, Laureth-3, Laureth-25, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol, Chondrus Crispus Extract, Nelumbo Nucifera Extract, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491/CI 77492/CI 77499)
+package_label_principal_display_panel:
+  Product label image description image description
+set_id:
+  90fbf555-106c-4131-b572-ead9bbb246e6
+id:
+  4744706a-085d-f0dd-e063-6394a90af8a8
+effective_time:
+  20251231
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Radiance Foundation Broad Spectrum SPF 20 - Bronze
+  generic_name:
+    OCTINOXATE, ZINC OXIDE
+  manufacturer_name:
+    Distribuidora Comercial Jafra, S.A. de C.V.
+  product_ndc:
+    68828-728
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTINOXATE
+    ZINC OXIDE
+  spl_id:
+    4744706a-085d-f0dd-e063-6394a90af8a8
+  spl_set_id:
+    90fbf555-106c-4131-b572-ead9bbb246e6
+  package_ndc:
+    68828-728-01
+  is_original_packager:
+    True
+  unii:
+    4Y5P7MUD51
+    SOI2LOH54Z

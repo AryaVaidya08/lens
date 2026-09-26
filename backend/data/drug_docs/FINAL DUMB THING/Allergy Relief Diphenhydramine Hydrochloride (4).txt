@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Allergy Relief Diphenhydramine Hydrochloride SILICON DIOXIDE CROSCARMELLOSE SODIUM D&C RED NO. 27 DIBASIC CALCIUM PHOSPHATE DIHYDRATE HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL 400 POLYVINYL ALCOHOL POLYSORBATE 80 TITANIUM DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE EL
+active_ingredient:
+  Active Ingredient (in each tablet) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itchy nose or throat temporarily relieves these symptoms of the common cold: runny nose sneezing
+warnings:
+  Warnings Do not use with any other product containing diphenhydramine, even one used on skin to make a child sleepy Ask a doctor before use if you have trouble urinating due to an enlarged prostate gland glaucoma ? a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product marked drowsiness may occur avoid alcoholic drinks excitability may occur, especially in children ? alcohol, sedatives and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding; ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, contact a doctor or Poison Control Center immediately. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms. Do not exceed recommended dosage.
+dosage_and_administration:
+  Directions take every 4 to 6 hours, not more than 6 doses in 24 hours Adults and children 12 years of age and older: 1 or 2 tablets children 6 to under 12 years of age: 1 tablet children 4 to under 6 years of age: do not use unless directed by a doctor children under 4 years of age: do not use
+other_safety_information:
+  Other Information each tablet contains : calcium 20 mg store at controlled room temperature 20°-25°C (68°-77°F). read all product information before using. TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING.
+inactive_ingredient:
+  Inactive Ingredients Colloidal silicon Dioxide, Croscarmellose Sodium, Dicalcium Phosphate, D & C Red, Magnesium stearate, Microcrystalline cellulose, Polyvinyl alcohol, Titanium dioxide, Talc
+questions:
+  Questions or Comments 1-844-384-3723 (Mon-Fri 9AM-5PM EST) or www.safrelpharma.com
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL DIPHENHYDRAMINE HYDROCHLORIDE TABLET , USP 25 MG ANTIHISTAMINE * This product is not manufactured or distributed by McNeil-Consumer Healthcare, owner of the registered trademark Benadryl� Allergy. 71309-109-10 100 Caplets 71309-109-06 600 Caplets 71309-109-01 1000 Caplets 100 ct 600 ct 1000 ct
+set_id:
+  872a82a1-af9a-7b0a-e053-2a91aa0ac0df
+id:
+  d9065098-5108-90c8-e053-2995a90a7e85
+effective_time:
+  20220227
+version:
+  4
+openfda:

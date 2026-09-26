@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  ARAM Hand Sanitizing Wipe Alcohol BUTYLENE GLYCOL ALOE FEROX LEAF GLYCERIN CETYLPYRIDINIUM CHLORIDE CITRIC ACID MONOHYDRATE ALCOHOL ALCOHOL HYDROXYACETOPHENONE WATER
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+inactive_ingredient:
+  Inactive ingredients Purified water, Glycerin, Citric acid, Cetyl pyridinium Chloride, 4-Hydroxyacetophenone, Butylene Glycol, Aloe Ferox Leaf Extract
+dosage_and_administration:
+  Hand Sanitizer to help reduce bacteria Hypoallergenic. No harmful chemicals/ Refreshness from no stickness, residue after using. Keep your hands clean when it’s hard to wash your hands.
+ask_doctor:
+  1. Stop use and ask a doctor if signs symptoms as follows: (1) signs of irritation and/or rash appears (2) signs of abnormality as above after exposed to sunlight.
+keep_out_of_reach_of_children:
+  2. Keep out of reach of children. If swallowed, get medical help Or contact a Poison Control Center right away.
+when_using:
+  3. Avoid contact with eyes. In case of contact, rinse eyes thoroughly with water Do not dispose used tissue in the flushing toilet. Do not put used tissue into pack again. There is the risk of degeneration.
+warnings:
+  Warning! 6. Flammable. Keep away from heat or flame. Use only as intended and according to the directions of use.
+indications_and_usage:
+  Directions 1. Open the cover, Pick as much as you needs, Wipe your body gently. 2. Put sticker after using. There is risk of drying. 3. Use it as soon as possible after opening. ※ Supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information 1. Store in cool and shady place, between 15-30C (59-86F) 2. May discolor certain fabrics or surfaces.
+package_label_principal_display_panel:
+  Package Label 42g NDC: 75357-201-01 Label 84g NDC: 75357-201-02 Label 126g NDC: 75357-201-03 Label 280g NDC: 75357-201-04 Label 280g NDC: 75357-201-05 Label 280g NDC: 75357-201-06 Label 280g NDC: 75357-201-07 Label 280g NDC: 75357-201-08 Label
+set_id:
+  a3f6e734-1472-5b22-e053-2995a90a5b96
+id:
+  0c4a0d9d-416b-0b11-e063-6394a90acda7
+effective_time:
+  20231212
+version:
+  6
+openfda:

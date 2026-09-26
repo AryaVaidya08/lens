@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Aloe Vera Gel Lidocaine HCl WATER PROPYLENE GLYCOL GLYCERIN ALOE VERA LEAF TROLAMINE ISOPROPYL ALCOHOL POLYSORBATE 80 CARBOXYPOLYMETHYLENE DIAZOLIDINYL UREA MENTHOL EDETATE DISODIUM ANHYDROUS FD&C BLUE NO. 1 FD&C YELLOW NO. 5 LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS
+active_ingredient:
+  Active ingredient Lidocaine HCl 0.5%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Uses for the temporary relief of pain and itching associated with minor burns sunburn minor cuts scrapes insect bites minor skin irritations
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product avoid contact with the eyes
+do_not_use:
+  Do not use in large quantities, particularly over raw surfaces or blistered areas
+stop_use:
+  Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor
+inactive_ingredient:
+  Inactive ingredients water, propylene glycol, glycerin Aloe barbadensis leaf juice, triethanolamine, isopropyl alcohol, polysorbate 80, carbomer, phenoxyethanol, benzyl alcohol, menthol, disodium EDTA, blue 1, yellow 5
+spl_unclassified_section:
+  *This product is not manufactured or distributed by Bayer, distributor of Solarcaine Cool Aloe Burn Relief Formula Questions 1-888-593-0593 DIST BY MEIJER DISTRIBUTION, INC GRAND RAPIDS, MI 49544 www. meijer.com
+package_label_principal_display_panel:
+  principal display panel meijer Sunburn Relief Aloe Vera Gel Pain Relieving Gel With Lidocaine Compare to Solarcaine* NET WT 8 OZ (226 g) image description
+set_id:
+  6079f808-2fc5-4397-825d-8fa7791ac4a3
+id:
+  2010a71a-d3eb-f7b1-e063-6394a90abf7c
+effective_time:
+  20240819
+version:
+  13
+openfda:

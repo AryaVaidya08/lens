@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Sanitizer ETHYL ALCOHOL MALTODEXTRIN PROPYLENE GLYCOL ALCOHOL ALCOHOL WATER ALOE VERA LEAF GLYCERIN CARBOMER INTERPOLYMER TYPE A (55000 CPS) TROLAMINE .ALPHA.-TOCOPHEROL ACETATE
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water not available.
+warnings:
+  Warnings: For external use only. Flammable. Keep away from heat or flame.
+do_not_use:
+  Do not use: On children less than 2 months of age On open skin wounds
+when_using:
+  When using this product, keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right way.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise Children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other Information: Store between 15-30℃（59-86℉） Avoid freezing and excessive heat above 40℃(104℉) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive Ingredients Water, Aloe Barbadensis Leaf Juice, Maltodextrin,Glycerin, Propylene Glycol, Acrylates/C1O-30 Alkyl Acrylate Crosspolymer, Triethanoamine, Fragrance, Tocopheryl Acetate.
+package_label_principal_display_panel:
+  image of bottle label
+set_id:
+  a6c009a3-9c74-2769-e053-2995a90a316c
+id:
+  a6c043ce-83ca-46c8-e053-2995a90a11e5
+effective_time:
+  20200528
+version:
+  1
+openfda:

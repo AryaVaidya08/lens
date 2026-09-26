@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  stay awake Caffeine CAFFEINE CAFFEINE STARCH, CORN DEXTROSE, UNSPECIFIED FORM MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE MALTODEXTRIN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 L409
+active_ingredient:
+  Active ingredient (in each tablet) Caffeine 200 mg
+purpose:
+  Purpose Alertness aid
+indications_and_usage:
+  Use helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness
+warnings:
+  Warnings For occasional use only Do not use • in children under 12 years of age • as a substitute for sleep When using this product limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as two cups of coffee. Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • in children under 12 years of age • as a substitute for sleep
+when_using:
+  When using this product limit the use of caffeine-containing medications, foods, or beverages while taking this product because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as two cups of coffee.
+stop_use:
+  Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: take 1 tablet not more often than every 3 to 4 hours
+storage_and_handling:
+  Other information • store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, D&C yellow #10 aluminum lake, dextrose, FD&C yellow #6 aluminum lake, magnesium stearate, maltodextrin, microcrystalline cellulose, pregelatinized starch
+questions:
+  Questions or comments? 1-800-632-6900
+package_label_principal_display_panel:
+  Principal Display Panel Stay Awake ALERTNESS AID COMPARE TO the active ingredient of VIVARIN® See bottom panel Stay Awake Caffeine – 200 mg ALERTNESS AID Safe as Coffee! 40 TABLETS, 200 mg EACH actual size Kroger Stay Awake image
+set_id:
+  ecf42b47-e36d-4140-8d85-075d28a11b0c
+id:
+  d63248b9-5e97-4328-ba0e-8da558eda54d
+effective_time:
+  20211015
+version:
+  5
+openfda:

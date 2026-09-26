@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Anbiser B-HA HYALURONIC ACID DEEP MOISTURIZING GLYCERIN WATER CETOSTEARYL ALCOHOL CETEARYL GLUCOSIDE GLYCERYL MONOSTEARATE DIMETHICONE, UNSPECIFIED CYCLOMETHICONE 5 PHENOXYETHANOL CAPER BERRY PEG-100 MONOSTEARATE PHYTOSTERYL MACADAMIATE ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) CYCLOMETHICONE 6 ARGININE ALLANTOIN DICHROSTACHYS CINEREA WHOLE EDETATE DISODIUM ETHYLHEXYLGLYCERIN SCUTELLARIA BAICALENSIS ROOT GLYCYRRHIZA INFLATA ROOT SOPHORA FLAVESCENS ROOT PURSLANE METHYLPARABEN GLYCYRRHIZA URALENSIS ROOT BISABOLOL .ALPHA.-TOCOPHEROL ACETATE HYDROGENATED SOYBEAN LECITHIN CHLORPHENESIN GLYCERIN GLYCERIN MEDIUM-CHAIN TRIGLYCERIDES CAPRYLIC/CAPRIC TRIGLYCERIDE SORBITOL SORBITOL BUTYLENE GLYCOL BUTYLENE GLYCOL ETHYLHEXYL PALMITATE ETHYLHEXYL PALMITATE SHEA BUTTER SHEA BUTTER PANTHENOL PANTHENOL CHLORELLA VULGARIS CHLORELLA VULGARIS MACROCYSTIS PYRIFERA MACROCYSTIS PYRIFERA PORPHYRA UMBILICALIS PORPHYRA UMBILICALIS SODIUM HYALURONATE HYALURONIC ACID 1,2-HEXANEDIOL 1,2-HEXANEDIOL OAT OAT
+active_ingredient:
+  Active Ingredient GLYCERIN 5.33% v/v, CAPRYLIC/CAPRIC TRIGLYCERIDE 4.255% v/v, SORBITOL 4% v/v, BUTYLENE GLYCOL 3.3% v/v, ETHYLHEXYL PALMITATE 3% v/v,BUTYROSPERMUM PARKII (SHEA) BUTTER 0.6% v/v, PANTHENOL 0.5% v/v,ALGAE EXTRACT 0.3% v/v,MACROCYSTIS PYRIFERA (KELP) EXTRACT 0.2% v/v, KOUSOU EKISU 0.2% v/v,SODIUM HYALURONATE 0.134% v/v,1，2-HEXANEDIOL 0.032% v/v,AVENA SATIVA (OAT) β-GLUCAN 0.005% v/v.
+warnings:
+  Warnings Store in a cool, dry place, away from direct sunlight or high temperatures.
+inactive_ingredient:
+  INACTIVE INGREDIENTS WATER,CARNOSINE, HYDROXYACETOPHENONE, ALLANTOIN, METHYLPARABEN,PHENOXYETHANOL,PEG-40 HYDROGENATED CASTOR OIL, AROMA
+dosage_and_administration:
+  Directions After cleansing, take an appropriate amount of this product and apply it evenly to the face. Gently massage to aid absorption. For optimal results, it is recommended to use in combination with other products from the same series.
+indications_and_usage:
+  USE This essence, formulated with small molecule sodium hyaluronate (B-HA), deeply moisturizes and penetrates the skin, releasing hydration and enhancing the skin's ability to retain moisture.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+purpose:
+  Skincare products
+do_not_use:
+  DO NOT USE Avoid using on wounds or damaged skin. Exercise caution if skin abnormalities
+when_using:
+  WHEN USE Use with caution for children under 3 years old to avoid accidental ingestion.
+stop_use:
+  STOP USE For sensitive skin, perform a patch test on the forearm or behind the ear before use. Discontinue if discomfort occurs.If the product accidentally gets into the eyes, rinse immediately with plenty of water.
+storage_and_handling:
+  STORAGE AND HANDLING Store in a cool, dry place, away from direct sunlight or high temperatures.
+package_label_principal_display_panel:
+  PACKAGE image description
+set_id:
+  fe1f8b59-b3b4-4d7e-a32d-12f4604363d9
+id:
+  3655db57-e3e0-b64d-e063-6294a90aa80a
+effective_time:
+  20250530
+version:
+  2
+openfda:

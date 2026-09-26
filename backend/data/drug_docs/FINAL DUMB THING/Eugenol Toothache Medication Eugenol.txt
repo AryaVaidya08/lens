@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Eugenol Toothache Medication Eugenol SESAME OIL EUGENOL EUGENOL colorless to pale yellow liquid, with odor of cloves
+active_ingredient:
+  Active Ingredient Eugenol 85%
+purpose:
+  Purpose Toothache Relief Agent
+indications_and_usage:
+  Uses For the temporary relief of throbbing, persistent toothache due to a cavity. Visit Dentist within 48 hours of use.
+warnings:
+  Warnings For external use only . Allergy alert: do not use if you are allergic to eugenol (clove oil).
+when_using:
+  When using this product: . use only in teeth with persistent throbbing pain . DO NOT SWALLOW to avoid irritation . avoid contact with eyes
+do_not_use:
+  Do not use . For more than 7 days . more than the recommended dose
+stop_use:
+  Stop use and ask a dentist or doctor if . irritation persists . inflammation develops . fever and infection develop
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 to 12 years of age and older: Rinse tooth with water to remove any food particles from the cavity. Moisten a cotton pellet with 1 or 2 drops of medication and using the tweezer, place in the cavity for approximately 1 minute. Avoid touching tissues other than the tooth cavity . Apply the dose not more than four times daily or as directed by a dentist or physician. Children 2 to 12 years of age: should be supervised in the use of this product. Children under 2 years of age: use only under the advice of a dentist or physician.
+other_safety_information:
+  Other information . Do not purchase if package has been opened. . Store at 46 - 90 o F. . Cap tightly to avoid evaporation. . toothaches and open cavities indicate serious problems which need prompt attention by a dentist.
+inactive_ingredient:
+  Inactive ingredient sesame oil
+package_label_principal_display_panel:
+  kit package label
+set_id:
+  3afd5a15-02ee-27d3-e054-00144ff88e88
+id:
+  d43835d4-30ed-1b0f-e053-2995a90aa367
+effective_time:
+  20211228
+version:
+  2
+openfda:

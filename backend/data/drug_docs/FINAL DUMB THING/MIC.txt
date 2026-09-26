@@ -1,0 +1,15 @@
+dosage_forms_and_strengths:
+  1ml
+effective_time:
+  20151123
+package_label_principal_display_panel:
+  Package Label
+spl_product_data_elements:
+  MIC B12 MIC B12 INOSITOL INOSITOL CHOLINE C-11 CHOLINE C-11 METHYLCOBALAMIN METHYLCOBALAMIN L-METHIONINE-S,R-SULFOXIMINE L-METHIONINE-S,R-SULFOXIMINE
+set_id:
+  253ca66e-3c25-0483-e054-00144ff8d46c
+id:
+  253ca66e-3c26-0483-e054-00144ff8d46c
+openfda:
+version:
+  1

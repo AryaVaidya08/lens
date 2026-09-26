@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Antiseptic Liquid Hand Sanitizer 75 Ethyl Alcohol ALCOHOL ALOE VERA LEAF GLYCERIN WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Ethyl alcohol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame Do not use in the eyes Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the eyes
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping
+inactive_ingredient:
+  Inactive ingredients Aloe vera leaf juice, glycerol, water.
+package_label_principal_display_panel:
+  Package Labeling: Bottle
+set_id:
+  b8b83a46-7de4-1f9c-e053-2995a90ac4ae
+id:
+  b8b84751-ef68-2a28-e053-2995a90a8d79
+effective_time:
+  20210112
+version:
+  1
+openfda:

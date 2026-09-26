@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  EZ Nite Sleep Diphenhyramine Hydrochloride PROPYLENE GLYCOL POLYETHYLENE GLYCOL 400 SHELLAC WATER TITANIUM DIOXIDE FD&C RED NO. 40 GELATIN SORBITOL SOLUTION FD&C BLUE NO. 1 SORBITAN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE 121 oblong shaped Purple,translucent
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each softgel) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Uses ■ for the relief of occasional sleeplessness ■ reduces time to fall asleep if you have difficulty falling asleep
+warnings:
+  Warnings Do not use ■ for children under 12 years of age ■ with any other product containing diphenhydramine, even one used on skin. Do not use ■ for children under 12 years of age ■ with any other product containing diphenhydramine, even one used on skin. Ask a doctor before use if you have ■ a breathing problem such as emphysema or chronic bronchitis ■ glaucoma ■ difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product ■ avoid alcoholic beverages Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use ■ for children under 12 years of age ■ with any other product containing diphenhydramine, even one used on skin.
+ask_doctor:
+  Ask a doctor before use if you have ■ a breathing problem such as emphysema or chronic bronchitis ■ glaucoma ■ difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product ■ avoid alcoholic beverages
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions ■ take only one dose per day (24 hours) adults & children 12 yrs & over 2 softgels at bedtime if needed or as directed by a doctor children under 12 yrs do not use
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>  adults &amp; children 12 yrs &amp; over  </td><td>2 softgels at bedtime if needed or as directed by a doctor</td></tr><tr><td>children under 12 yrs</td><td>do not use</td></tr></tbody></table>
+other_safety_information:
+  Other information ■ store at 20-25° C (68-77°F) ■ avoid excessive heat above 40°C (104°F) ■ protect from light
+inactive_ingredient:
+  Inactive ingredients FD&C blue no. 1, FD&C red no. 40, gelatin, polyethylene glycol 400, propylene glycol, purified water, shellac,sorbitol sorbitan solution, titanium dioxide.
+questions:
+  Questions or comments? Call 1-800-632-6900
+package_label_principal_display_panel:
+  diphenhydramine-sg-24s-ifc
+set_id:
+  0fec16a4-b4eb-8f8f-e063-6394a90a7327
+id:
+  16443f3d-c881-1fe3-e063-6394a90a4e4d
+effective_time:
+  20240417
+version:
+  2
+openfda:
+  application_number:
+    M010
+  brand_name:
+    EZ Nite Sleep
+  generic_name:
+    DIPHENHYRAMINE HYDROCHLORIDE
+  manufacturer_name:
+    KROGER COMPANY
+  product_ndc:
+    41226-613
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1049909
+  spl_id:
+    16443f3d-c881-1fe3-e063-6394a90a4e4d
+  spl_set_id:
+    0fec16a4-b4eb-8f8f-e063-6394a90a7327
+  package_ndc:
+    41226-613-24
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40

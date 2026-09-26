@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Secure Gel Hand Sanitizer Isopropyl Alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL GLYCERIN HYDROGEN PEROXIDE WATER HYDROXYETHYL CELLULOSE, UNSPECIFIED
+spl_unclassified_section:
+  Drug Facts
+  Desanizador Viscoso de Manos Topical Solution Non-sterile Solution • Contains 70% Isopropyl Alcohol • Anti-Bacterial Properties • Leaves Hands Feeling Clean and Smooth • Contains Natural Moisturizer • No Water Necessary Hand Soaps & Shampoos This product is a semi-viscous blend of 70% Isopropyl Alcohol, Hydrogen Peroxide and Emollients. • No Rinsing Required. • No water or paper towels needed. • Leaves hands feeling soft & refreshed. No sticky residue. CONTAINS: 2-propanol (67-63-0), Water (7732-18-5), Glycerol (56-81-5), Hydrogen Peroxide, aqueous solution (7722-84-1), Hydroxyethyl Cellulose(9032-42-2). Expiration: 7/2022 AMERICAN Cleaning Solutions Division of American Wax Company. Inc 39-30 Review Avenue Long Island City, New York 11101 888 WAX PLUS • (718) 392-8080 • Fax: (718) 482-9366 SDS available at www.cleaning-solutions.com See FOCUS Green products at www.focus-acs.com
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  WARNING Flammable. Keep away from fire or flame. This product is intended for external use only. When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours, consult a doctor. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS • Apply enough product in your palm to thoroughly cover your hands. • Rub hands together briskly until dry. • Children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other Information • Store Between 15-30°C (59-86°F) • Avoid freezing and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive Ingredients glycerin, hydrogen peroxide, purified water USP, Hydroxyethyl Cellulose.
+package_label_principal_display_panel:
+  Packaging IMAGE1 IMAGE2 IMAGE3 IMAGE4 IMAGE5 IMAGE6 IMAGE7 IMAGE8 IMAGE9
+set_id:
+  03f94af9-9c90-4f2a-9995-7127d5239320
+id:
+  f9fde749-71ec-483f-81bc-ebc4b2422281
+effective_time:
+  20211221
+version:
+  2
+openfda:

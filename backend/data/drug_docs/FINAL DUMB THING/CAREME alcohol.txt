@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  CAREME alcohol GLYCERIN ALOE VERA LEAF CITRUS LIMON FRUIT OIL ALCOHOL ALCOHOL
+active_ingredient:
+  alcohol
+inactive_ingredient:
+  Water,Glycelin,Sodium Hyaluronate Acid, Aloe Barbadensis Extract,Citrus Limon Fruit Extract, Hydroxyacetophenone,Lauryl Pyridinium Cholride Solution, Dycyl Glucoside
+purpose:
+  For hand washing to decrease bacteria on the skin.
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  Place enough products on hands to cover all surfaces. Close the cap after use
+warnings:
+  For external use only When using this product ■ If any of the following abnormalities occur, the use of the product shall be suspended 1) In case of red spots, swelling, itching, or irritation during use 2) In case there is an abnormality in the area of application due to direct sunlight 3) The scarred part. Do not use in areas such as eczema or dermatitis. Consult a dermatologist as symptoms may worsen. ■ Precautions for Storage and Handling 1) Close the cap after use. 2) Keep it out of reach of the baby. 3) Do not store at high or low temperatures or in direct sunlight. 4) Do not use except washing hands. ■ If there is a problem with this product, it can be exchanged or compensated in accordance with the Fair Trade Commission Notice Consumer Dispute Resolution Standards.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  ae0f230f-8229-73fb-e053-2a95a90a0b2b
+id:
+  ae0f230f-822a-73fb-e053-2a95a90a0b2b
+effective_time:
+  20200829
+version:
+  1
+openfda:

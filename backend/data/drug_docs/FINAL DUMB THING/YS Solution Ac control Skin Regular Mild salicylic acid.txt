@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  YS Solution Ac control Skin Regular Mild salicylic acid WATER BUTYLENE GLYCOL ARGININE ALLANTOIN GLYCYRRHIZINATE DIPOTASSIUM CHLORELLA VULGARIS WITCH HAZEL ZINC HOUTTUYNIA CORDATA FLOWERING TOP ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  active ingredient: salicylic acid
+inactive_ingredient:
+  Water, Alchol, Butylene Glycol, Magnolol, Salicylic Acid, Arginine, Perfume, Allantoin, Totarol, Bisabolol, Dipotassium Glycyrrhizate, Murdania Keisak Extract, Chlorella Vulgaris Extract, Hammamelis Virginiana(Witch hazel) Extract, Zinc PCA, Houttuynia Cordata Extract, Aloe Barbadensis Leaf Extract
+purpose:
+  helps to clear dead cells and sebum that may block skin pores
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  brush your teeth by putting appropriate amount of tooth paste
+warnings:
+  for external use only avoid contact with eyes do not swallow
+dosage_and_administration:
+  Apply Proper Amount of the toner on the skin.
+package_label_principal_display_panel:
+  package label
+set_id:
+  eccbf553-8bee-43f5-935b-16c64fb66a22
+id:
+  dce5e459-d6fc-627e-e053-2a95a90ac7b7
+effective_time:
+  20220417
+version:
+  2
+openfda:

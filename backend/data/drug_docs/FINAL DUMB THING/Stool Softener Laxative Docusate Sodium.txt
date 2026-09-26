@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Stool Softener Laxative Docusate Sodium DOCUSATE SODIUM DOCUSATE FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SORBITAN SORBITOL P51;SCU1;D2
+active_ingredient:
+  Active ingredient (in each softgel) Docusate sodium 100 mg
+purpose:
+  Purpose Stool softener laxative
+indications_and_usage:
+  Uses for temporary relief of occasional constipation and irregularity this product generally produces bowel movement in 12 to 72 hours
+warnings:
+  Warnings Ask a doctor before use if you have stomach pain nausea vomiting a sudden change in bowel habits that lasts more than 2 weeks Ask a doctor or pharmacist before use if you are presently taking mineral oil. Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting a sudden change in bowel habits that lasts more than 2 weeks
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking mineral oil.
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take with a glass of water adults and children 12 years and over take 1 to 3 softgels daily. This dose may be taken as a single daily dose or in divided doses. children 2 to under 12 years of age take 1 softgel daily children under 2 years ask a doctor
+dosage_and_administration_table:
+  <table ID="LINK_cc443684-83e4-4183-8aab-7bedcef4db9c"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule Rrule"> adults and children 12 years and over</td><td styleCode=" Botrule Toprule"> take 1 to 3 softgels daily. This dose may be taken as a single daily dose or in divided doses. </td></tr><tr><td styleCode=" Botrule Rrule"> children 2 to under 12 years of age </td><td styleCode=" Botrule"> take 1 softgel daily </td></tr><tr><td styleCode=" Botrule Rrule"> children under 2 years</td><td styleCode=" Botrule"> ask a doctor </td></tr></tbody></table>
+storage_and_handling:
+  Other information each softgel contains : sodium 6 mg store at 25ºC (77ºF); excursions permitted between 15-30ºC (59-86ºF)
+inactive_ingredient:
+  Inactive ingredients edible ink, FD&C red #40, FD&C yellow #6, gelatin, glycerin, polyethylene glycol, propylene glycol*, purified water, sorbitan, sorbitol *may contain one or more of these ingredients
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient in DulcoEase® Stool Softener STOOL SOFTENER LAXATIVE Docusate Sodium 100 mg FAST, DEPENDABLE RELIEF OF OCCASIONAL CONSTIPATION Softgels †This product is not manufactured or distributed by Boehringer Ingelheim Pharmaceuticals, Inc., distributor of DulcoEase®. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION. DISTRIBUTED BY FOODHOLD U.S.A., LLC LANDOVER, MD 20785 •1-877-846-9949 ©2017 S&S Brands,LLC
+  Product Labeling CAREONE Stool Softener Laxative Softgels Docusate Sodium 100 mg
+set_id:
+  017eb95c-5544-43d0-adbb-facbcaa87068
+id:
+  0001bc58-144b-4216-8c95-f669a06ae34e
+effective_time:
+  20230117
+version:
+  3
+openfda:

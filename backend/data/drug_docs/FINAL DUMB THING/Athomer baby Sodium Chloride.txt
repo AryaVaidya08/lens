@@ -1,0 +1,39 @@
+effective_time:
+  20141104
+inactive_ingredient:
+  Inactive Ingredients Purified Water Propolis
+purpose:
+  Directions For the liquidation and removal of the unpleasant mucus, apply at least 4 sprayings in each nostril up to 4 times per day For preventative daily use, apply 1 to 2 sprayings in each nostril every day Suitable for repeated long-term use Shake well before each use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Warnings For external use only Use only as directed The use of this dispenser by more than one person may spread infection If you are pregnant or breastfeeding, seek guidance from a healthcare professional
+when_using:
+  
+spl_product_data_elements:
+  Athomer baby Sodium Chloride SODIUM CHLORIDE SODIUM CATION PROPOLIS WAX WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  
+pregnancy_or_breast_feeding:
+  
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  
+storage_and_handling:
+  Other information Store at room temperature between 68° and 77° F (20° to 25°C)
+active_ingredient_table:
+  <table width="50%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <tbody> <tr> <td> <content styleCode="bold">Active ingredient </content>   Purified Sea Water</td> <td> <content styleCode="bold">Purpose </content>   Nasal decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 100 mL carton ATHOMER baby STERILE ISOTONIC SEA WATER SPRAY NASAL HYGIENE AND CLEANNESS PROPOLIS ABSOLUTELY NATURAL PRODUCT 100 mL Carton
+indications_and_usage:
+  Uses For cleaning the nasal cavity and the removal of the unpleasant mucus. For nasal irrigation
+set_id:
+  54b3476b-23fc-4323-b6ef-04362e6dff23
+id:
+  46fa8d8e-7a0c-4498-8a95-22823f452f82
+active_ingredient:
+  Active ingredient Purified Sea Water Purpose Nasal decongestant

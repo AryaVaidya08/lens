@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Purespa Hand Sanitizer Apricot Sage ALCOHOL WATER POLYOXYL 40 HYDROGENATED CASTOR OIL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) DMDM HYDANTOIN SODIUM HYDROXIDE .ALPHA.-TOCOPHEROL ACETATE FD&C YELLOW NO. 5 D&C RED NO. 33 FD&C BLUE NO. 1 ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information Do not store above 110°F (43°C). May discolor certain fabrics or surfaces.
+active_ingredient:
+  Active Ingredients Alcohol Denat. 60% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses • Hand sanitizer to help reduce bacteria on the skin that could cause disease. • Recommended for repeated use.
+warnings:
+  Warnings Flamable. Keep away from fire or flame. For external use only. When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use & ask a doctor if irritation or rash appears & lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use & ask a doctor if irritation or rash appears & lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply enough product to thoroughly cover hands. Rub hands together briskly until dry.
+inactive_ingredient:
+  Inactive Ingredients Water / Aqua, PEG-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, DMDM Hydantoin, Fragrance (Parfum), Sodium Hydroxide, Tocopheryl Acetate, FD&C Yellow 5, D&C Red 33, FD&C Blue 1
+questions:
+  Questions? Call 212-391-6970
+package_label_principal_display_panel:
+  Package Labeling: Label10
+set_id:
+  0766f98b-a125-4b12-b748-4bd1163090e6
+id:
+  d92a447b-327c-e286-e053-2995a90aa2ad
+effective_time:
+  20220301
+version:
+  3
+openfda:

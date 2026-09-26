@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Nightime Sleep Aid Diphenhydramine FD&C BLUE NO. 1 GELATIN GLYCERIN POLYETHYLENE GLYCOL 1000 SORBITOL POLYVINYL ACETATE PHTHALATE PROPYLENE GLYCOL TITANIUM DIOXIDE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE 206
+active_ingredient:
+  Active Ingredient (in each softgel) Diphenhydramine HCl 50 mg
+purpose:
+  Purpose Nighttime sleep aid
+indications_and_usage:
+  Uses For relief of occasional sleeplessness.
+dosage_and_administration:
+  Directions adults and children 12 years and over : one softgel (50 mg) at bed time if needed or as directed by a doctor. children under 12 years: do not use
+warnings:
+  Warnings Do not use in children under 12 years of age. with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product avoid alcoholic drinks If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_unclassified_section:
+  Other Information save carton for full directions and warnings
+inactive_ingredient:
+  Inactive Ingredients Blue 1, gelatin, glycerin, polyethylene glycol, polyvinyl acetate phthalate, propylene glycol, sorbitol, titanium dioxide and water.
+questions:
+  Questions or Comments Call 1-855-314-1850
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL DIPHENHYDRAMINE HYDROCHLORIDE SOFTGEL CAPSULE, USP 50 MG NDC:76168-065-37 16 Softgel Liquid filled 29c54705-figure-01 29c54705-figure-02
+set_id:
+  9c44e54f-d8bc-4451-8382-40d2e8e03b42
+id:
+  6cbc010f-0449-cb45-e053-2a91aa0a1ec6
+effective_time:
+  20180521
+version:
+  3
+openfda:
+  application_number:
+    part341
+  brand_name:
+    Nightime Sleep Aid
+  generic_name:
+    DIPHENHYDRAMINE
+  manufacturer_name:
+    Velocity Pharma
+  product_ndc:
+    76168-065
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1020477
+  spl_id:
+    6cbc010f-0449-cb45-e053-2a91aa0a1ec6
+  spl_set_id:
+    9c44e54f-d8bc-4451-8382-40d2e8e03b42
+  package_ndc:
+    76168-065-37
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40

@@ -1,0 +1,27 @@
+effective_time:
+  20171201
+inactive_ingredient:
+  water butylene glycol, niacinamide, olive oil, collagen, caviar ext, pearl ext, wine ext, xanthan gum, etc
+purpose:
+  skin protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  1. if any one of the following symptoms appears after using the skin care product, stop use immediately and consult a dermatologist [1] red spots, swelling, itchiness, irritation and other skin abnormalities [2] one of the symptoms above appears due to direct sunlight 2. do not use the product on wounds or areas with abnomalities such as eczema and inflammation 3. storage and handling [1] make sure to close the lid after use [2] keep away from children and infants [3] store away from too high or low temperatures and direct sunlight
+spl_product_data_elements:
+  CEVIANGS ULTRA BIO CELLULOSE MASK ALLANTOIN WATER BUTYLENE GLYCOL NIACINAMIDE ALLANTOIN ALLANTOIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package insert
+indications_and_usage:
+  apply to the face and leave for 50 minutes
+set_id:
+  df3b8c6d-5847-4073-97f0-4a2e656c910e
+id:
+  5f52a17f-00e4-754e-e053-2991aa0aabfd
+active_ingredient:
+  allantoin

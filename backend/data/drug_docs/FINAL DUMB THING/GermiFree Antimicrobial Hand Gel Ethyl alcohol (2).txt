@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  GermiFree Antimicrobial Hand Gel Ethyl alcohol CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN PROPYLENE GLYCOL SILICON TROLAMINE WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Kill Germs up to 99.99% of most common germs that may cause illness Distributed by: Acme United Corporation 55 Walls Drive Fairfield, CT 06824 1-800-835-2263 Made in Egypt
+active_ingredient:
+  Active ingredient Ethyl alcohol 60% w/w
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use hand sanitizer to help reduce microbes on the skin
+warnings:
+  Warnings Flammable . Keep away from fire or flame For external use only When using this product, do not use in or near the eyes. If contact occurs, rinse thoroughly with water Stop use and ask a doctor if redness or irritation develops and persists for more than 72 hours and continues Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • put enough gel in your palm to cover hands and rub hands together rapidly until dry • children under 6 years of age should be supervised when using this product
+storage_and_handling:
+  Other information • store below 110°F (43°C) • may discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients carbomer, fragrance, glycerin, propylene glycol, silicone, triethanolamine, water (aqua)
+package_label_principal_display_panel:
+  Packaging Germfr60
+set_id:
+  a7d6a792-5ad6-cfa2-e053-2995a90ad4f2
+id:
+  2489154d-8cd9-a917-e063-6394a90a34e8
+effective_time:
+  20241015
+version:
+  2
+openfda:

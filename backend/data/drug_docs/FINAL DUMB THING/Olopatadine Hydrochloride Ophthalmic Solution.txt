@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Olopatadine Hydrochloride Ophthalmic Solution Olopatadine Hydrochloride Ophthalmic OLOPATADINE HYDROCHLORIDE OLOPATADINE BENZALKONIUM CHLORIDE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS EDETATE DISODIUM HYDROCHLORIC ACID POVIDONE K30 SODIUM CHLORIDE SODIUM HYDROXIDE WATER Carton
+active_ingredient:
+  ACTIVE INGREDIENT Olopatadine (0.2%) (equivalent to olopatadine hydrochloride 0.222%)
+purpose:
+  PURPOSE Antihistamine
+indications_and_usage:
+  USE temporarily relieves itchy eyes due to pollen, ragweed, grass, animal hair and dander
+warnings:
+  WARNINGS For external use only
+do_not_use:
+  DO NOT USE if solution changes color or becomes cloudy if you are sensitive to any ingredient in this product to treat contact lens related irritation
+when_using:
+  WHEN USING THIS PRODUCT do not touch tip of container to any surface to avoid contamination remove contact lenses before use wait at least 10 minutes before reinserting contact lenses after use do not wear a contact lens if your eye is red
+stop_use:
+  STOP USE AND ASK DOCTOR IF you experience: eye pain changes in vision increased redness of the eye itching worsens or lasts for more than 72 hours
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS adults and children 2 years of age and older: put 1 drop in the affected eye(s) once daily, no more than once per day if using other ophthalmic products while using this product, wait at least 5 minutes between each product replace cap after each use children under 2 years of age: consult a doctor
+spl_unclassified_section:
+  OTHER INFORMATION • only for use in the eye • store between 2° to 25°C (36° to 77°F)
+  QUESTIONS? Call 1-888-375-3784
+inactive_ingredient:
+  INACTIVE INGREDIENTS Benzalkonium chloride 0.01%, Dibasic sodium phosphate, Edetate disodium, Hydrochloric acid/Sodium hydroxide (adjust pH), Povidone, Sodium chloride, and Water for Injection.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL
+set_id:
+  e3153a5a-35ca-6c10-eec0-8347c2da121f
+id:
+  a1619b32-8a8c-60d9-8997-b4d633fe24f0
+effective_time:
+  20251212
+version:
+  4
+openfda:
+  application_number:
+    ANDA209752
+  brand_name:
+    Olopatadine Hydrochloride Ophthalmic Solution
+  generic_name:
+    OLOPATADINE HYDROCHLORIDE OPHTHALMIC
+  manufacturer_name:
+    Rite Aid Corporation
+  product_ndc:
+    11822-9975
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    OLOPATADINE HYDROCHLORIDE
+  rxcui:
+    1111343
+  spl_id:
+    a1619b32-8a8c-60d9-8997-b4d633fe24f0
+  spl_set_id:
+    e3153a5a-35ca-6c10-eec0-8347c2da121f
+  package_ndc:
+    11822-9975-2
+  original_packager_product_ndc:
+    43598-764
+  unii:
+    2XG66W44KF

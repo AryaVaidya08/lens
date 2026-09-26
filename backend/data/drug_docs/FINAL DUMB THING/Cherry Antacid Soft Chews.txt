@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Cherry Antacid Soft Chews Calcium Carbonate SUCROSE CALCIUM CARBONATE CALCIUM CATION
+active_ingredient:
+  Active ingredient (in each chew) Calcium carbonate 1177 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses: Relieves heartburn sour stomach acid indigestion upset stomach due to these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs,
+when_using:
+  When using this product do not take more than 6 chews in a 24-hour period, or use the maximum dosage for more than 2 weeks, except under the advice and supervision of a physician.
+pregnancy_or_breast_feeding:
+  If you are pregnant or breast-feeding, ask a doctor before using this product.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Chew and swallow 2 to 3 chews, as symptoms occur or as directed by a physician.
+other_safety_information:
+  Other information Each chew contains: calcium 470 mg, magnesium 50 mg Contains Milk and Soy
+inactive_ingredient:
+  Inactive ingredients: Corn starch, corn syrup, corn syrup solids, FD&C red no. 40 aluminum lake, glycerin, hydrogenated coconut oil, medium chain triglycerides, natural and artificial flavors, non-fat dairy milk powder, soybean oil, soy lecithin and sucrose.
+questions:
+  Questions? Or to report an adverse event call 1-800-245-2898. Monday - Friday, 9AM to 4PM EST
+package_label_principal_display_panel:
+  CVS Cherry Antacid SC 36ct
+set_id:
+  61e4e83c-ee98-579d-e053-2991aa0ab099
+id:
+  4566132a-51c7-a74c-e063-6394a90a7119
+effective_time:
+  20251207
+version:
+  7
+openfda:
+  application_number:
+    M001
+  brand_name:
+    Cherry Antacid Soft Chews
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    CVS Pharmacy
+  product_ndc:
+    69842-368
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    1432465
+  spl_id:
+    4566132a-51c7-a74c-e063-6394a90a7119
+  spl_set_id:
+    61e4e83c-ee98-579d-e053-2991aa0ab099
+  package_ndc:
+    69842-368-36
+  is_original_packager:
+    True
+  upc:
+    0050428416150
+  unii:
+    H0G9379FGK

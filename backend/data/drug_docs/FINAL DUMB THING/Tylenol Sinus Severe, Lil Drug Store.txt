@@ -1,0 +1,108 @@
+spl_product_data_elements:
+  Tylenol Sinus Severe, CVP HEALTH Acetaminophen, Guaifenesin, and Phenylephrine Hydrochloride CARNAUBA WAX CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE (70000 WAMW) HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN SUCRALOSE TITANIUM DIOXIDE TRIACETIN ACETAMINOPHEN ACETAMINOPHEN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE TYLENOL;1072 Lil Drug Store Tylenol Sinus Severe Acetaminophen, Guaifenesin, and Phenylephrine Hydrochloride CARNAUBA WAX CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE (70000 WAMW) HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN SUCRALOSE TITANIUM DIOXIDE TRIACETIN ACETAMINOPHEN ACETAMINOPHEN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE TYLENOL;1072 Tylenol Sinus Severe, TRAVEL BASIX Acetaminophen, Guaifenesin, and Phenylephrine Hydrochloride CARNAUBA WAX CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE (70000 WAMW) HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN SUCRALOSE TITANIUM DIOXIDE TRIACETIN ACETAMINOPHEN ACETAMINOPHEN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE TYLENOL;1072 Tylenol Sinus Severe, Lil Drug Store Acetaminophen, Guaifenesin, and Phenylephrine Hydrochloride CARNAUBA WAX CROSCARMELLOSE SODIUM HYDROXYPROPYL CELLULOSE (70000 WAMW) HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN SUCRALOSE TITANIUM DIOXIDE TRIACETIN ACETAMINOPHEN ACETAMINOPHEN GUAIFENESIN GUAIFENESIN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE TYLENOL;1072
+spl_unclassified_section:
+  Drug Facts
+  Product distributed by: JOHNSON & JOHNSON CONSUMER INC. McNeil Consumer Healthcare Division, Fort Washington, PA 19034 USA Repackaged and distributed by: Lil' Drug Store Products, Inc., 9300 Earhart Lane SW Cedar Rapids, IA 52402
+active_ingredient:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant
+active_ingredient_table:
+  <table width="70%"><col width="55%" align="left" valign="top"/><col width="45%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each caplet)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/fever reducer</td></tr><tr><td>Guaifenesin 200 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever/fever reducer Guaifenesin 200 mg Expectorant Phenylephrine HCl 5 mg Nasal decongestant
+purpose_table:
+  <table width="70%"><col width="55%" align="left" valign="top"/><col width="45%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients (in each caplet)</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Acetaminophen 325 mg</td><td>Pain reliever/fever reducer</td></tr><tr><td>Guaifenesin 200 mg</td><td>Expectorant</td></tr><tr><td>Phenylephrine HCl 5 mg</td><td>Nasal decongestant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves these symptoms associated with hay fever or other respiratory allergies, and the common cold: sinus congestion and pressure headache nasal congestion minor aches and pains helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive temporarily reduces fever
+warnings:
+  Warnings Liver warning This product contains acetaminophen. The maximum daily dose of this product is 10 caplets (3,250 mg acetaminophen) in 24 hours. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not exceed recommended dose Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes trouble urinating due to an enlarged prostate gland persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema cough that occurs with too much phlegm (mucus)
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recommended dose
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning ) adults and children 12 years and over take 2 caplets every 4 hours swallow whole; do not crush, chew or dissolve do not take more than 10 caplets in 24 hours children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table width="50%" styleCode="Noautorules"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Toprule Rrule">adults and children 12 years and over</td><td styleCode="Toprule"><list listType="unordered" styleCode="Square"><item>take 2 caplets every 4 hours</item><item>swallow whole; do not crush, chew or dissolve</item><item>do not take more than 10 caplets in 24 hours</item></list></td></tr><tr><td styleCode="Rrule">children under 12 years</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each caplet contains: sodium 3 mg store between 20-25°C (68-77°F) do not use if pouch is torn or damaged
+inactive_ingredient:
+  Inactive ingredients carnauba wax, croscarmellose sodium, flavor, hydroxypropyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, pregelatinized starch, sucralose, titanium dioxide, triacetin
+questions:
+  Questions or comments? call 1-877-895-3665 (toll-free) or 215-273-8755 (collect)
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 6 Caplet Pouch Carton TYLENOL ® FOR ADULTS SINUS SEVERE Acetaminophen, Phenylephrine HCl, Guaifenesin Pain Reliever–Fever Reducer, Nasal Decongestant, Expectorant SINUS HEADACHE SINUS PRESSURE NASAL CONGESTION MUCUS + CHEST CONGESTION DAY NON-DROWSY 6 Caplets 3 POUCHES OF 2 CAPLETS EACH Lil' DrugStore ® PRINCIPAL DISPLAY PANEL - 6 Caplet Pouch Carton
+  Tylenol Sinus Severe, CVP ® HEALTH, 4ct - PDP/Package TYLENOL ® FOR ADULTS SINUS SEVERE Acetaminophen , Phenylephrine HCl, Guaifenesin Pain Reliever–Fever Reducer, Nasal Decongestant, Expectorant SINUS HEADACHE SINUS PRESSURE NASAL CONGESTION MUCUS + CHEST CONGESTION DAY NON-DROWSY [caplets image] 4 Caplets 2 POUCHES OF 2 CAPLETS EACH [CVP ® HEALTH logo] PDP/Package
+  Tylenol Sinus Severe, TRAVEL BASIX, 4ct - PDP/Package TYLENOL ® FOR ADULTS SINUS SEVERE Acetaminophen , Phenylephrine HCl, Guaifenesin Pain Reliever–Fever Reducer, Nasal Decongestant, Expectorant SINUS HEADACHE SINUS PRESSURE NASAL CONGESTION MUCUS + CHEST CONGESTION DAY NON-DROWSY [caplets image] 4 Caplets 2 POUCHES OF 2 CAPLETS EACH [TRAVEL BASIX logo] PDP/Package
+  Tylenol ® Sinus Severe 25ct, Lil' Drug Store® - PDP/Package TYLENOL ® FOR ADULTS SINUS SEVERE Acetaminophen , Phenylephrine HCI, Guaifenesin Pain Reliever–Fever Reducer, Nasal Decongestant, Expectorant SINUS HEADCHE SINUS PRESSURE NASAL CONGESTION MUCUS + CHEST CONGESTION DAY NON-DROWSY [caplets (2) image] 25 Pouches of 2 Caplets each [Lil' Drug Store ® logo] PDP/Package
+  Tylenol ® Sinus Severe 30ct, Lil' Drug Store ® - PDP/Package TYLENOL ® FOR ADULTS SINUS SEVERE Acetaminophen , Phenylephrine HCI, Guaifenesin Pain Reliever–Fever Reducer, Nasal Decongestant, Expectorant SINUS HEADCHE SINUS PRESSURE NASAL CONGESTION MUCUS + CHEST CONGESTION DAY NON-DROWSY [caplets (2) image] 30 Pouches of 2 Caplets each [Lil' Drug Store ® logo] PDP/Package
+set_id:
+  88b68447-b016-4d5b-a5e3-c4ebccb14f8c
+id:
+  459f7dbe-5021-08d1-e063-6294a90a8924
+effective_time:
+  20251210
+version:
+  10
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Tylenol Sinus Severe, Lil Drug Store
+    Tylenol Sinus Severe, CVP HEALTH
+    Tylenol Sinus Severe, TRAVEL BASIX
+    Lil Drug Store Tylenol Sinus Severe
+  generic_name:
+    ACETAMINOPHEN, GUAIFENESIN, AND PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    Lil Drug Store Products, Inc
+  product_ndc:
+    66715-6457
+    66715-6557
+    66715-9757
+    66715-7857
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+    GUAIFENESIN
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1243679
+  spl_id:
+    459f7dbe-5021-08d1-e063-6294a90a8924
+  spl_set_id:
+    88b68447-b016-4d5b-a5e3-c4ebccb14f8c
+  package_ndc:
+    66715-6557-2
+    66715-9757-2
+    66715-9757-3
+    66715-7857-2
+    66715-6457-7
+    66715-6457-8
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    495W7451VQ
+    04JA59TNSJ
+    362O9ITL9D

@@ -1,0 +1,68 @@
+effective_time:
+  20110324
+drug_interactions:
+  Interactions Drug Interactions Drug/Laboratory Test Interactions
+  Drug Interactions
+geriatric_use:
+  Geriatric Use
+abuse:
+  Abuse
+precautions:
+  PRECAUTIONS Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations remain progressive. General Information for Patients Laboratory Tests Interactions Drug Interactions Drug/Laboratory Test Interactions Carcinogenesis, Mutagenesis, Impairment of Fertility Pregnancy If pregnant, or planning to become pregnant or are currently breastfeeding please contact your physician, or healthcare provider before using or continuing use. Teratogenic Effects Nonteratogenic Effects Labor and Delivery Nursing Mothers Pediatric Use Geriatric Use
+description:
+  DESCRIPTION Vinate ® AZ Extra tablets are pink, film-coated, oval-shaped tablets that are intended for oral administration.
+labor_and_delivery:
+  Labor and Delivery
+general_precautions:
+  General
+indications_and_usage:
+  INDICATIONS AND USAGE Vinate ® AZ Extra tablets are indicated for providing nutritional supplementation for women before, during and after pregnancy. This product is recommended for use under the supervision of a physician, or healthcare provider.
+dependence:
+  Dependence
+set_id:
+  ae2b5716-b2c4-46a4-b93a-b68bdb864532
+id:
+  ae2b5716-b2c4-46a4-b93a-b68bdb864532
+teratogenic_effects:
+  Teratogenic Effects
+pediatric_use:
+  Pediatric Use
+contraindications:
+  CONTRAINDICATIONS This product is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+drug_abuse_and_dependence:
+  DRUG ABUSE AND DEPENDENCE Controlled Substance Abuse Dependence
+warnings:
+  WARNINGS Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where vitamin B12 is deficient. Accidental overdose of iron-containing products is the leading cause of fatal poisoning in children under 6. Keep this and all medications out of the reach of children. In case of accidental overdose, seek professional assistance, or contact a poison control center immediately.
+pregnancy:
+  Pregnancy If pregnant, or planning to become pregnant or are currently breastfeeding please contact your physician, or healthcare provider before using or continuing use. Teratogenic Effects Nonteratogenic Effects
+nursing_mothers:
+  Nursing Mothers
+spl_product_data_elements:
+  VINATE AZ EXTRA OIL AND WATER SOLUBLE VITAMINS AND MINERALS FOLIC ACID FOLIC ACID THIAMINE HYDROCHLORIDE THIAMINE RIBOFLAVIN RIBOFLAVIN CYANOCOBALAMIN CO-57 CYANOCOBALAMIN BIOTIN BIOTIN CHOLECALCIFEROL CHOLECALCIFEROL NIACINAMIDE NIACINAMIDE PYRIDOXINE PYRIDOXINE CALCIUM PANTOTHENATE CALCIUM PANTOTHENATE ZINC OXIDE ZINC OXIDE BETA CAROTENE BETA CAROTENE ALPHA-TOCOPHEROL ACETATE ALPHA-TOCOPHEROL ASCORBIC ACID ASCORBIC ACID MAGNESIUM OXIDE MAGNESIUM OXIDE FERROUS BISGLYCINATE FERROUS BISGLYCINATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE MAGNESIUM OXIDE CELLULOSE, MICROCRYSTALLINE STEARIC ACID SILICON DIOXIDE CROSCARMELLOSE SODIUM MAGNESIUM STEARATE B;514
+drug_and_or_laboratory_test_interactions:
+  Drug/Laboratory Test Interactions
+openfda:
+controlled_substance:
+  Controlled Substance
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION One tablet daily or as directed by a physician or healthcare provider. This product is recommended for use under the supervision of a physician, or healthcare provider. Store at 25°C (77°F); excursions permitted to 15°-30°C (59°-86°F). See USP Controlled Room Temperature. Protect from light and moisture. Dispense in a tight, light-resistant container with a child-resistant closure, as defined in the USP/NF All substitutions using this product shall be pursuant to state statutes as applicable. This is not an Orange Book product. Although it is recommended that this product be administered under the supervision of a physician or healthcare provider, the FDA does not require a prescription for this product. The numeric identifier on this product's labeling is an assigned product code only for use with pharmacy-level, health-insurance, and state-level reimbursement programs and is not intended to denote registration with the FDA's National Drug Code Directory.
+adverse_reactions:
+  ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid.
+laboratory_tests:
+  Laboratory Tests
+how_supplied:
+  HOW SUPPLIED Vinate ® AZ Extra Tablets are pink, film-coated, oval-shaped tablets available for oral administration. Each tablet is debossed "B 514" on one side and plain on the other side. Available in bottles of 90 tablets. 51991-514-90.
+information_for_patients:
+  Information for Patients
+package_label_principal_display_panel:
+  PACKAGE/LABEL PRINCIPAL DISPLAY PANEL CONTAINER LABEL 7091 SPL
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility
+nonteratogenic_effects:
+  Nonteratogenic Effects
+overdosage:
+  OVERDOSAGE

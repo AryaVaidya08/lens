@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  ACETAMINOPHEN (RED) ACETAMINOPHEN FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE PROPYLENE GLYCOL WATER SORBITOL ACETAMINOPHEN ACETAMINOPHEN clear oblong PC17
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each capsule) Acetaminophen 325 mg
+purpose:
+  Purpose Pain reliever/ fever reducer
+indications_and_usage:
+  Uses Temporarily relieves minor aches and pains due to : headache muscular aches backache minor pain of arthritis the common cold toothache premenstrual and menstrual cramps temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. The maximum daily dose of this product is 10 softgels (3,250 mg) in 24 hours for adults or 5 softgels (1,625 mg) in 24 hours for children. Severe liver damage may occur if adult takes more than 4,000 mg of acetaminophen in 24 hours child takes more than 5 doses in 24 hours, which is the maximum daily amount taken with other drugs containing acetaminophen adult has 3 or more alcoholic drinks every day while using this product Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if the user has liver disease Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin Stop use and ask a doctor if pain gets worse or lasts more than 10 days in adults pain gets worse or lasts more than 5 days in children under 12 years fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if the user has liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 10 days in adults pain gets worse or lasts more than 5 days in children under 12 years fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Do not take more than directed (see overdose warning) Adults and children 12 years and over take 2 softgels every 4 to 6 hours while symptoms last do not take more than 10 softgels in 24 hours do not use for more than 10 days unless directed by a doctor Children 6-11 years take 1 softgel every 4 to 6 hours while symptoms last do not take more than 5 softgels 24 hours do not use for more than 5 days unless directed by a doctorr children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table width="435" ID="id_d9660161-7d96-40b8-a55f-2d685e60bfc0" border="single"><col width="25.3%"/><col width="80.7%"/><tbody><tr><td align="left" styleCode="Botrule Lrule Rrule Toprule"><paragraph>Adults and children 12 years and over</paragraph></td><td align="left" styleCode="Botrule Rrule"><list listType="unordered"><item>take 2 softgels every 4 to 6 hours while symptoms last</item><item>do not take more than 10 softgels in 24 hours</item><item>do not use for more than 10 days unless directed by a doctor</item></list></td></tr><tr><td align="left" styleCode="Botrule Lrule Rrule Toprule"><paragraph>Children 6-11 years</paragraph></td><td align="left" styleCode="Botrule Rrule"><list listType="unordered"><item>take 1 softgel every 4 to 6 hours while symptoms last</item><item>do not take more than 5 softgels 24 hours</item><item>do not use for more than 5 days unless directed by a doctorr</item></list></td></tr><tr><td align="left" styleCode="Botrule Lrule Rrule"><paragraph>children under 6 years</paragraph></td><td align="left" styleCode="Botrule Rrule"><list listType="unordered"><item>ask a doctor</item></list></td></tr></tbody></table>
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F) and avoid excessive heat
+inactive_ingredient:
+  Inactive ingredients FD&C red #40, FD&C yellow #6, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol special and white edible ink. Manufactured by: Humanwell PuraCap Pharmaceutical (Wuhan) Ltd. Wuhan, Hubei 430206, China
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Shipping Label ACETAMINOPHEN CAPSULES, 325 mg Quantity : 5000 Capsules NDC. No : 53345-010-01 IMPORTANT: Inspect immediate upon receipt. This is a bulk shipment intended for further processing only. Protect from heat, humidity, and light. Do not refrigerate. CAUTION : "FOR FURTHER MANUFACTURING, PROCESSING OR REPACKING" Shipping Label
+set_id:
+  06eabf4b-f8c0-439a-acf1-aa6e3075c717
+id:
+  27c732b5-1662-f46a-e063-6394a90a9eb4
+effective_time:
+  20241125
+version:
+  3
+openfda:
+  application_number:
+    M013
+  brand_name:
+    ACETAMINOPHEN (RED)
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    Humanwell PuraCap Pharmaceutical (Wuhan), Ltd.
+  product_ndc:
+    53345-010
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    198436
+  spl_id:
+    27c732b5-1662-f46a-e063-6394a90a9eb4
+  spl_set_id:
+    06eabf4b-f8c0-439a-acf1-aa6e3075c717
+  package_ndc:
+    53345-010-01
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D

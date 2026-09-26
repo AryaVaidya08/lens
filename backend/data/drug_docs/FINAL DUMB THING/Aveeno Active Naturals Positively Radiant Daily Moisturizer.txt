@@ -1,0 +1,41 @@
+effective_time:
+  20120710
+inactive_ingredient:
+  Inactive ingredients Water, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Dimethicone, Glycine Soja (Soybean) Seed Extract, Glycerin, Bis-Phenylpropyl Dimethicone, Arachidyl Alcohol, Phenoxyethanol, Cetearyl Glucoside, Panthenol, Benzyl Alcohol, Ethylene/Acrylic Acid Copolymer, Behenyl Alcohol, Steareth-2, Fragrance, Steareth-21, Polyacrylamide, Polymethyl Methacrylate, Arachidyl Glucoside, Disodium EDTA, Methylparaben, C13-14 Isoparaffin, Ethylparaben, Butylparaben, Laureth-7, Benzalkonium Chloride, Propylparaben, Isobutylparaben, Iodopropynyl Butylcarbamate, BHT, Titanium Dioxide, Mica, Silica
+purpose:
+  Active ingredients Purpose Avobenzone (3%) Sunscreen Octinoxate (7.5%) Sunscreen Octisalate (2%) Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if Rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Keep out of eyes. Rinse with water to remove.
+questions:
+  Questions? Call 1-866-4AVEENO or visit www.aveeno.com
+spl_product_data_elements:
+  Aveeno Active Naturals Positively Radiant Daily Moisturizer SPF 15 Avobenzone, Octinoxate, and Octisalate Avobenzone Avobenzone Octinoxate Octinoxate Octisalate Octisalate Water Alkyl (C12-15) Benzoate Cetostearyl Alcohol Dimethicone Soybean Glycerin Arachidyl Alcohol Phenoxyethanol Panthenol Benzyl Alcohol Docosanol Steareth-2 Steareth-21 Arachidyl Glucoside Edetate Disodium Methylparaben C13-14 Isoparaffin Ethylparaben Butylparaben Laureth-7 Benzalkonium Chloride Propylparaben Isobutylparaben Butylated Hydroxytoluene Titanium Dioxide Mica Silicon Dioxide
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions After cleansing, smooth evenly over face and neck daily and before sun exposure. Reapply as needed. Children under 6 months of age; ask a doctor.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if Rash or irritation develops and lasts.
+storage_and_handling:
+  Other Information Sun Alert Limiting sun exposure, wearing protective clothing, and using sunscreens may reduce the risk of skin aging, skin cancer, and other harmful effects of the sun. Store at room temperature.
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <thead> <tr styleCode="Toprule"> <th>Active ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Avobenzone (3%)</td> <td>Sunscreen</td> </tr> <tr> <td>Octinoxate (7.5%)</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Octisalate (2%)</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 120 mL Carton new look Aveeno ® ACTIVE NATURALS ® positively radiant ® 5 FACTORS OF RADIANCE™ daily moisturizer clinically proven to even tone and texture SPF 15 UVA/UVBV SUNSCREEN ACTIVE NATURALS® TOTAL SOY COMPLEX 4.0 fl. oz. (120 mL) Principal Display Panel - 120 mL Carton
+indications_and_usage:
+  Uses Helps prevent sunburn Higher SPF gives more sunburn protection Provides moderate protection against sunburn and tanning For skin that sunburns easily.
+set_id:
+  cf3a26ed-fbe1-449b-ae90-a95b2c7a7b14
+id:
+  fbb4ba30-ed34-4915-81d1-5fdc4c900fa4
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <thead> <tr styleCode="Toprule"> <th>Active ingredients</th> <th>Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Avobenzone (3%)</td> <td>Sunscreen</td> </tr> <tr> <td>Octinoxate (7.5%)</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Octisalate (2%)</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Avobenzone (3%) Sunscreen Octinoxate (7.5%) Sunscreen Octisalate (2%) Sunscreen

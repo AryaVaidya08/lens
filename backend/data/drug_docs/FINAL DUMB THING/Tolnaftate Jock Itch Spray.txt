@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Tolnaftate Jock Itch Spray BUTYLATED HYDROXYTOLUENE ISOBUTANE PPG-12-BUTETH-16 ALCOHOL TALC TOLNAFTATE TOLNAFTATE
+active_ingredient:
+  Active ingredient Tolnaftate 1%
+purpose:
+  Purpose Antifungal
+indications_and_usage:
+  Uses cures most jock itch (tinea cruris) relieves symptoms of jock itch including itching, burning and chafing
+warnings:
+  Warnings For external use only. Flammable: Do not use while smoking or near heat or flame. Do not puncture or incinerate. Contents under pressure. Do not store at temperature above 120ºF. When using this product do not get into eyes or mouth use only as directed Intentional misuse by deliberately concentrating and inhaling contents cans be harmful or fatal. Stop use and ask a doctor if irritation occurs no improvement within 2 weeks Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use on children under 2 years of age unless directed by a doctor.
+safe_handling_warning:
+  Flammable: Do not use while smoking or near heat or flame. Do not puncture or incinerate. Contents under pressure. Do not store at temperature above 120ºF. When using this product do not get into eyes or mouth use only as directed Intentional misuse by deliberately concentrating and inhaling contents cans be harmful or fatal. Stop use and ask a doctor if irritation occurs no improvement within 2 weeks Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use on children under 2 years of age unless directed by a doctor.
+when_using:
+  When using this product do not get into eyes or mouth use only as directed Intentional misuse by deliberately concentrating and inhaling contents cans be harmful or fatal. Stop use and ask a doctor if irritation occurs no improvement within 2 weeks Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use on children under 2 years of age unless directed by a doctor.
+stop_use:
+  Stop use and ask a doctor if irritation occurs no improvement within 2 weeks Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use on children under 2 years of age unless directed by a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. Do not use on children under 2 years of age unless directed by a doctor.
+dosage_and_administration:
+  Directions wash affected area and dry thoroughly shake can well and spray a thin layer over affected area twice daily (morning and night) supervise children in the use of this product use daily for 2 weeks; if conditions persist, consult a doctor in case of clogging, clear nozzle under running water
+other_safety_information:
+  Other information store between 20º and 30ºC (68ºF and 86º)
+inactive_ingredient:
+  Inactive ingredient BHT, isobutane (propellent), PPG-12-buteth-16, SD alcohol 40-B (14%w/w), talc
+questions:
+  Questions? Call 1-866-964-0939
+package_label_principal_display_panel:
+  Principal Display Panel Premier Value Medicated Jock Itch Spray Tolnaftate 1% Antifungal Powder Spray Cures most Symptoms of Jock Itch Reliever itching, chafing, and burning Net Wt. 4.6 OZ (130g) PV Jock Itch Spray tolnaftate.jpg
+set_id:
+  99e83847-b669-4084-8b86-de1256c7a1cc
+id:
+  f31b0b83-4f41-26cc-e053-2995a90a940b
+effective_time:
+  20230125
+version:
+  6
+openfda:

@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Sun Bum Protecting Scalp and Hair Mist SPF 30 sunscreen AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE ACRYLATES/OCTYLACRYLAMIDE COPOLYMER (40000 MW) GLYCERIN ALARIA ESCULENTA WATER POLYESTER-8 (1400 MW, CYANODIPHENYLPROPENOYL CAPPED) BUTYLOCTYL SALICYLATE .ALPHA.-TOCOPHEROL ACETATE LAMINARIA DIGITATA ALCOHOL HELIANTHUS ANNUUS (SUNFLOWER) SEED OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE CAPRYLIC/CAPRIC TRIGLYCERIDE Sun Bum Protecting Scalp and Hair Mist SPF 30 sunscreen - IFC AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE GLYCERIN ACRYLATES/OCTYLACRYLAMIDE COPOLYMER (40000 MW) ALARIA ESCULENTA WATER POLYESTER-8 (1400 MW, CYANODIPHENYLPROPENOYL CAPPED) BUTYLOCTYL SALICYLATE .ALPHA.-TOCOPHEROL ACETATE LAMINARIA DIGITATA ALCOHOL HELIANTHUS ANNUUS (SUNFLOWER) SEED OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE CAPRYLIC/CAPRIC TRIGLYCERIDE
+active_ingredient:
+  Active Ingredients Octocrylene 4.00% Octisalate 5.00% Homosalate 10.00% Avobenzone 3.00%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses • helps prevent sunburn • if used as directed with other sun protection measures, (see Directions) decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Flammable: do not use near hear, flame, or while smoking Do not use on damaged or broken skin When using this product • keep out of eyes. Rinse with water to remove. • use only as directd. Intentional misuse by deliberately concentrating and inhaling the contents can be harmful or fatal. • do not puncture or incinerate. Contents under pressure. Do not store at temperatures above 120°F. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Warnings K eep Out Of Reach Of Children
+instructions_for_use:
+  Directions • hold container 4 to 6 inches from the skin to apply • spray liberally and spread evenly by hand 15 minutes before sun exposure • do not spray directly onto face. Spray on hands then apply to face. • do not apply in windy conditions • use in a well-ventilated area •Avoid inhaling or exposing others to spray • reapply: after 80 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours • children under 6 months of age: ask a doctor • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m.- 2 p.m. • wear long-sleeved shirts, pants, hats and sunglasses
+dosage_and_administration:
+  Directions • shake well before use • hold container 4 to 6 inches from the skin to apply • spray liberally and spread evenly by hand 15 minutes before sun exposure • do not spray directly onto face. Spray on hands then apply to face. • do not apply in windy conditions • use in a well-ventilated area •Avoid inhaling or exposing others to spray
+other_safety_information:
+  Other Information protect this product from excessive heat and direct sun do not store above 104°F / 40°C
+inactive_ingredient:
+  Inactive Ingredients alcohol denat. (70.10%), acrylates/octylacrylamide copolymer, polyester-8, butyloctyl salicylate, alaria esculenta extract, laminaria digitata extract, helianthus annuus (sunflower) seed extract, caprylic/capric triglyceride, glycerin, fragrance, water, tocopheryl acetate
+questions:
+  Questions? 1-877-978-6286
+package_label_principal_display_panel:
+  Sun Bum Protecting Scalp and Hair Mist SPF 30 sunscreen Primary Artwork Primary Artwork
+  Sun Bum Protecting Scalp and Hair Mist SPF 30 sunscreen - IFC Primary Artwork Primary Artwork
+set_id:
+  3aa05afb-c843-f38f-e063-6294a90a1cdf
+id:
+  3c3218d5-794b-c0a8-e063-6294a90a177a
+effective_time:
+  20250812
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Sun Bum Protecting Scalp and Hair Mist SPF 30 sunscreen
+    Sun Bum Protecting Scalp and Hair Mist SPF 30 sunscreen - IFC
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    Sun Bum, LLC
+  product_ndc:
+    69039-742
+    69039-787
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTISALATE
+    OCTOCRYLENE
+    AVOBENZONE
+    HOMOSALATE
+  spl_id:
+    3c3218d5-794b-c0a8-e063-6294a90a177a
+  spl_set_id:
+    3aa05afb-c843-f38f-e063-6294a90a1cdf
+  package_ndc:
+    69039-742-01
+    69039-787-01
+    69039-787-02
+  is_original_packager:
+    True
+  upc:
+    0840155600898
+    0871760007536
+  unii:
+    V06SV4M95S
+    4X49Y0596W
+    G63QQF2NOX
+    5A68WGF6WM

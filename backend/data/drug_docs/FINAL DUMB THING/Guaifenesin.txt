@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Guaifenesin Guaifenesin GUAIFENESIN GUAIFENESIN SILICON DIOXIDE HYPROMELLOSE 2208 (15000 MPA.S) HYPROMELLOSE 2910 (10000 MPA.S) MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE 101 MICROCRYSTALLINE CELLULOSE 102 POVIDONE K90 POVIDONE K25 STARCH, CORN white to off-white L;69
+active_ingredient:
+  Active ingredient ( in each extended-release tablet) Guaifenesin USP 1200 mg
+purpose:
+  Purpose Expectorant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive
+warnings:
+  Warnings Do not use for children under 12 years of age
+ask_doctor:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions do not crush, chew, or break extended-release tablet take with a full glass of water this product can be administered without regard for the timing of meals adults and children 12 years of age and over: 1 extended-release tablet every 12 hours. Do not exceed 2 extended-release tablets in 24 hours. children under 12 years of age: do not use
+storage_and_handling:
+  Other information store between 20° to 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, and pregelatinised starch (maize)
+questions:
+  Questions? 1-855-274-4122 (Monday – Friday 8:30 AM to 5:00 PM EST) DISTRIBUTED BY TOPCO ASSOCIATES LLC ITASCA, IL 60143 ©TOPCO ARHA0825 QUESTIONS? 1-888-423-0139 topcare@topco.com www.topcarebrand.com MADE IN INDIA
+package_label_principal_display_panel:
+  PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 1200 mg Blister Carton (56 (4 x14) Tablets) Topcare ® health NDC 76162-031-56 COMPARE TO THE ACTIVE INGREDIENT IN MAXIMUM STRENGTH MUCINEX ®* MAXIMUM STRENGTH Mucus ER GUAIFENESIN EXTENDED-RELEASE TABLETS 1200 mg GUAIFENESIN 1200 mg - EXPECTORANT RELIEVES CHEST CONGESTION 12 HOUR For Day or Night Relieves Chest Congestion Thins & Loosens Mucus 56 EXTENDED-RELEASE TABLETS PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 1200 mg Blister Carton (14 (1 x14) Tablets)
+set_id:
+  3a6e96d3-ac86-f388-e063-6394a90ade2d
+id:
+  df5d7fac-fdbc-4ebd-bcb9-0e67a891101f
+effective_time:
+  20260423
+version:
+  2
+openfda:
+  application_number:
+    ANDA210453
+  brand_name:
+    Guaifenesin
+  generic_name:
+    GUAIFENESIN
+  manufacturer_name:
+    TOPCO ASSOCIATES LLC
+  product_ndc:
+    76162-031
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GUAIFENESIN
+  rxcui:
+    310621
+  spl_id:
+    df5d7fac-fdbc-4ebd-bcb9-0e67a891101f
+  spl_set_id:
+    3a6e96d3-ac86-f388-e063-6394a90ade2d
+  package_ndc:
+    76162-031-56
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    495W7451VQ

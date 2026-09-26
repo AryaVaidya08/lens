@@ -1,0 +1,35 @@
+effective_time:
+  20200424
+inactive_ingredient:
+  Inactive ingredients Water, triethanolamine, carbomer, aloe barbadensis (Aloe vera) gel, fragrance, propylene glycol, glycerin, tocopheryl acetate (Vitamin E)
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable. Keep away from fire or flame For external use only.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact with eyes, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  Maximum Hand Sanitizer Alcohol GLYCERIN WATER CARBOMER 934 PROPYLENE GLYCOL ALPHA-TOCOPHEROL ACETATE TRIETHANOLAMINE SULFATE ALOE VERA WHOLE ALCOHOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Appply to palm of hands. Rub hands together vigorously untill dry. Supervise chirldren in the use of this product.
+spl_unclassified_section:
+  NA
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops
+storage_and_handling:
+  Other information Do not store above 110F (43C) May discolor certain fabrics or surfaces
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin
+set_id:
+  51a8424b-b0cd-446f-9f30-b3f3e432be9d
+id:
+  a4106994-6fd8-11b2-e053-2995a90ae616
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v

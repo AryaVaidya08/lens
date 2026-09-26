@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Diphenhydramine HCl Diphenhydramine HCl STARCH, CORN D&C RED NO. 27 MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED SILICON DIOXIDE STEARIC ACID TALC TITANIUM DIOXIDE ANHYDROUS DIBASIC CALCIUM PHOSPHATE DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE 44;329
+active_ingredient:
+  Active ingredient (in each tablet) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat temporarily relieves these symptoms due to the common cold: runny nose sneezing
+warnings:
+  Warnings Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away
+do_not_use:
+  Do not use to make a child sleepy with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product marked drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away
+dosage_and_administration:
+  Directions take every 4 to 6 hours, or as directed by a doctor do not take more than 6 times in 24 hours adults and children 12 years and over 1 to 2 tablets children 6 to under 12 years 1 tablet children under 6 years do not use
+dosage_and_administration_table:
+  <table width="268.909px"><col/><col/><tbody><tr><td styleCode="     Botrule          Rrule     ">adults and children 12 years  and over </td><td styleCode="     Botrule     ">1 to 2 tablets</td></tr><tr><td styleCode="     Botrule          Rrule     ">children 6 to under 12 years</td><td styleCode="     Botrule     ">1 tablet</td></tr><tr><td styleCode="     Rrule     ">children under 6 years</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 30 mg store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) protect from moisture use by expiration date on package
+inactive_ingredient:
+  Inactive ingredients corn starch, D&C red #27 aluminum lake, dicalcium phosphate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, silicon dioxide, stearic acid, talc, titanium dioxide
+questions:
+  Questions or comments? (800) 645-2158
+package_label_principal_display_panel:
+  Principal display panel Rugby ® NDC 0536-1214-29 COMPARE TO THE ACTIVE INGREDIENT IN BENADRYL ® ALLERGY ULTRATAB ® TABLETS* Diphenhydramine HCl, 25 mg Antihistamine Allergy Relief Relieves Sneezing, Runny Nose, Itchy throat & Itchy, Watery Eyes 100 TABLETS Actual Size Easy to Swallow TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING *This product is not manufactured or distributed by Johnson & Johnson Corporation, owner of the registered trademark Benadryl® Allergy ULTRATAB® Tablets. 50844 ORG101632912 Distributed by: Rugby Laboratories , 17177 N Laurel Park Dr., Suite 233, Livonia, MI 48152 www.rugbylaboratories.com Rev.02/19 R-17 Re-order No. 370672 Rugby 44-329
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL 24 COUNT LABEL
+set_id:
+  bc7fe079-403d-1000-e053-2995a90a235f
+id:
+  bc7fdd23-6917-1cbd-e053-2a95a90a85b6
+effective_time:
+  20210301
+version:
+  1
+openfda:

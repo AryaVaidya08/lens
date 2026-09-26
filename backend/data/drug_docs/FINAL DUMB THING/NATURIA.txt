@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  NATURIA HAND SANITIZER ALCOHOL ALCOHOL ALCOHOL Water Glycerin CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE AMINOMETHYLPROPANOL HYALURONATE SODIUM Butylene Glycol
+active_ingredient:
+  Active Ingredients Active ingredients: ALCOHOL 70.0%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water,Glycerin,Carbomer,Aminomethyl Propanol,Sodium Hyaluronate,Butylene Glycol,Camellia Sinensis Leaf Extract,Artemisia Princeps Extract
+purpose:
+  Purpose Purpose: SANITIZER
+warnings:
+  Warnings Warnings: For external use only. Flammable. Keep away from heat or flame -------------------------------------------------------------------------------------------------------- Do not use • in children less than 2 months of age • on open skin wounds -------------------------------------------------------------------------------------------------------- When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. -------------------------------------------------------------------------------------------------------- Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. -------------------------------------------------------------------------------------------------------- Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses Uses: Disinfection of hands and skin
+dosage_and_administration:
+  Directions Directions: Take an appropriate amount on your hands and rub thoroughly to dry.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of bottle
+set_id:
+  c6f98b66-f196-41a5-a3ea-43c6b6336972
+id:
+  992ba3d4-a787-4895-9c72-f86ce1232853
+effective_time:
+  20200413
+version:
+  1
+openfda:

@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  Follence Medicated Salicylic Acid SODIUM CHLORIDE MENTHOL PANTHENOL PEG-40 HYDROGENATED CASTOR OIL SODIUM METHYL COCOYL TAURATE NIACINAMIDE PIROCTONE OLAMINE PHENOXYETHANOL ALLANTOIN HEXYLENE GLYCOL SODIUM C14-16 OLEFIN SULFONATE SALICYLIC ACID SALICYLIC ACID AQUA GLYCERIN CENTELLA ASIATICA LEAF WATER COCAMIDOPROPYL BETAINE MELALEUCA ALTERNIFOLIA (TEA TREE) LEAF OIL
+indications_and_usage:
+  Controls dandruff. Helps relieve and prevent recurrence of itching, flaking, and irritation associated with dandruff, seborrheic dermatitis, and psoriasis.
+warnings:
+  For external use only. Do not use if you are allergic to any of the ingredients in this product. When using this product: Avoid contact with eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if condition worsens or does not improve after regular use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+inactive_ingredient:
+  Aqua Sodium C14-16 Olefin Sulfonate Cocamidopropyl Betaine Sodium Methyl Cocoyl Taurate Hexylene Glycol Niacinamide Glycerin Sodium Chloride Panthenol Piroctone Olamine PEG-40 Hydrogenated Castor Oil Phenoxyethanol Menthol Centella Asiatica Extract Allantoin Melaleuca Alternifolia (Tea Tree) Extract
+dosage_and_administration:
+  Wet hair thoroughly. Apply sufficient amount of shampoo to scalp and massage into a lather. Leave on the scalp for several minutes to allow the active ingredient to work. Rinse thoroughly and repeat if needed. Use at least twice a week or as directed by a doctor. For best results, use regularly.
+purpose:
+  Active ingredient: Salicylic Acid 3% Purpose: Anti-dandruff / Keratolytic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+package_label_principal_display_panel:
+  Medicated shampoo formulated with Salicylic Acid 3% to help control dandruff and relieve symptoms associated with seborrheic dermatitis and psoriasis. Helps reduce flaking, itching, irritation, and scalp buildup. Labeling
+set_id:
+  512abbb6-ea6a-70b1-e063-6294a90a2a7c
+id:
+  512aafab-bca1-c5db-e063-6394a90a8496
+effective_time:
+  20260506
+version:
+  1
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Follence Medicated
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    CISNE GROUP LLC
+  product_ndc:
+    87667-002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    512aafab-bca1-c5db-e063-6394a90a8496
+  spl_set_id:
+    512abbb6-ea6a-70b1-e063-6294a90a2a7c
+  package_ndc:
+    87667-002-01
+  original_packager_product_ndc:
+    84484-002
+  unii:
+    O414PZ4LPZ

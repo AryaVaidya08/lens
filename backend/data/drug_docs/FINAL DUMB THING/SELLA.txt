@@ -1,0 +1,27 @@
+effective_time:
+  20150211
+inactive_ingredient:
+  water, butylene glycol, panthenol etc
+purpose:
+  skin protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ・Stop using the product when you have skin problems or the product disagrees with your skin ・Stop using the product immediately and consult a dermatologist if you have redness, swelling, itching or irritation on the skin while or after using the product. ・Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  SELLA NATURAL BABY GLYCERIN GLYCERIN GLYCERIN WATER BUTYLENE GLYCOL PANTHENOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  apply to the skin and rub gently
+set_id:
+  9f6aca27-b4ce-4e39-8650-a07c21b37eae
+id:
+  31181741-a145-49f8-a4fb-8e412576137f
+active_ingredient:
+  glycerine

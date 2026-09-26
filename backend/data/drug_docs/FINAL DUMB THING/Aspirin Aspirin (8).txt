@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Aspirin Aspirin CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 POLACRILIN POTASSIUM POLYVINYL ALCOHOL, UNSPECIFIED BUTYL ACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID COPOLYMER (18000 MW) CELLULOSE, MICROCRYSTALLINE LACTOSE MONOHYDRATE POLYETHYLENE GLYCOL, UNSPECIFIED SOYBEAN SILICON DIOXIDE SODIUM LAURYL SULFATE TALC TITANIUM DIOXIDE TRIETHYL CITRATE ASPIRIN ASPIRIN P
+active_ingredient:
+  Active ingredient (in each tablet) Aspirin 81 mg(NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain reliever
+indications_and_usage:
+  Uses for the temporary relief of minor aches and pains ask your doctor about other uses for aspirin
+warnings:
+  Warnings Reye's Syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy Alert: Aspirin may cause a severe allergic reaction which may include: hives facial swelling asthma (wheezing) shock Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if your are allergic to aspirin or any other pain reliever/fever reducer. Ask a doctor before use if the stomach bleeding warning applies to you you are taking a diuretic you have a history of stomach problems, such as heartburn you have: -high blood pressure -heart disease -liver cirrhosis -kidney disease -asthma Ask a doctor or pharmacist before use if you are taking a prescription drug for diabetes, gout or arthritis Stop use and ask a doctor if you experience any of the following signs of stomach bleeding: -feel faint -vomit blood -have bloody or black stools -have stomach pain that does not get better an allergic reaction occurs. Seek medical help right away pain gets worse or lasts more than 10 days redness or swelling is present fever gets worse or lasts more than 3 days any new symptoms occur ringing in the ears or loss of hearing occurs These can be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. it is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose , get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose , get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions drink a full glass of water with each dose swallow whole, do not chew or crush do not exceed recommended dose adults and children 12 years and older: take 4-8 tablets every 4 hours, as needed, not more than 48 tablets in 24 hours, or as directed by a doctor children under 12 years: ask a doctor
+storage_and_handling:
+  Other information store at room temperature 15°C - 30°C (59°F - 86°F)
+inactive_ingredient:
+  Inactive ingredients cellulose, croscarmellose sodium, D&C Yellow #10 Lake, lactose monohydrate, methacrylic acid co-polymer, PEG, polacrilin potassium, polyvinyl alcohol, silica, sodium lauryl sulfate, soya powder, talc, titanium dioxide, triethyl citrate
+questions:
+  Questions or comments? 1-800-540-3765
+package_label_principal_display_panel:
+  package label pdp
+set_id:
+  f7f8df66-9d5b-7aac-e053-6294a90a0392
+id:
+  f7f8ebb9-99ee-8730-e053-6394a90a6225
+effective_time:
+  20230328
+version:
+  1
+openfda:

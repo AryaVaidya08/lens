@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Aspirin Low Strength, Enteric Aspirin ASPIRIN ASPIRIN SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 ALUMINUM LAKE FD&C YELLOW NO. 6 HYPROMELLOSE, UNSPECIFIED MICROCRYSTALLINE CELLULOSE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED Polyvinyl Acetate Phthalate SHELLAC DIMETHICONE SODIUM ALGINATE SODIUM BICARBONATE STEARIC ACID TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE WATER L
+active_ingredient:
+  Active ingredient (in each tablet) Aspirin 81 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain reliever
+indications_and_usage:
+  Uses for the temporary relief of minor aches and pains due to: muscle pain headache menstrual pain toothache the common cold minor pain of arthritis or as recommended by your doctor
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's syndrome, a rare but serious illness. Allergy alert: Aspirin may cause a severe allergic reaction, which may include: hives facial swelling shock asthma (wheezing) Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you are age 60 or older have had stomach ulcers or bleeding problems take a blood thinning (anticoagulant) or steroid drug take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] have 3 or more alcoholic drinks every day while using this product take more or for a longer time than directed Do not use if you are allergic to aspirin or any other pain reliever/fever reducer if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if stomach bleeding warning applies to you you have a history or stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you have asthma you are taking a diuretic Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis Stop use and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: vomit blood feel faint have bloody or black stools have stomach pain that does not get better ringing in the ears or a loss of hearing occurs pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are allergic to aspirin or any other pain reliever/fever reducer if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if stomach bleeding warning applies to you you have a history or stomach problems, such as heartburn you have high blood pressure, heart disease, liver cirrhosis, or kidney disease you have asthma you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug for gout diabetes arthritis
+stop_use:
+  Stop use and ask a doctor if an allergic reaction occurs. Seek medical help right away. you experience any of the following signs of stomach bleeding: vomit blood feel faint have bloody or black stools have stomach pain that does not get better ringing in the ears or a loss of hearing occurs pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than directed drink a full glass of water with each dose adults and children 12 years and over: take 4 to 8 tablets every 4 hours not to exceed 48 tablets in 24 hours unless directed by a doctor children under 12 years: do not use unless directed by a doctor
+storage_and_handling:
+  Other information store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients colloidal anhydrous silica, corn starch, croscarmellose sodium, D&C yellow #10 aluminum lake, FD&C yellow #6 aluminum lake, hypromellose, microcrystalline cellulose, polydextrose, polyethylene glycol, polyvinyl acetate phthalate, shellac wax, simethicone, sodium alginate, sodium bicarbonate, stearic acid, talc, titanium dioxide, triacetin, triethyl citrate
+questions:
+  Questions or comments? 1-800-426-9391
+package_label_principal_display_panel:
+  Principal Display Panel ♥CVS Health® Compare to the active ingredient in Ecotrin® 81 mg Low Strength Aspirin† Coated Tablets Low Strength Aspirin Pain reliever (NSAID) Aspirin regimen 81 mg 365 ENTERIC COATED TABLETS Actual Size Safety Coated Talk to your doctor or other healthcare provider before using this product for your heart. TAMPER EVIDENT: DO NOT USE IF IMPRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING †This product is not manufactured or distributed by Medtech Products Inc., owner of the registered trademark Ecotrin® 81 mg Low Strength Aspirin. 50844 REV0122C43951 Distributed by: CVS Pharmacy, Inc. One CVS Drive, Woonsocket, RI 02895 © 2022 CVS/pharmacy CVS.com® 1-800-SHOP CVS V-11112 100% money back guaranteed. CVS.com/returnpolicy CVS 44-439A CVS 44-439A
+set_id:
+  52c16028-d77a-42df-8619-940f2ae5a823
+id:
+  cdb460b6-2878-4bf8-ba7c-0fa64878c806
+effective_time:
+  20240410
+version:
+  17
+openfda:

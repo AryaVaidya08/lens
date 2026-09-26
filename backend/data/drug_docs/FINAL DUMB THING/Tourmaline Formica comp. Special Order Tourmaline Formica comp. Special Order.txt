@@ -1,0 +1,29 @@
+effective_time:
+  20201208
+inactive_ingredient:
+  Inactive Ingredients: Water, Salt, Lactose
+purpose:
+  Use: Temporary relief of headache.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. Contains traces of lactose. If pregnant or nursing, consult a doctor before use.
+questions:
+  Questions? Call 866.642.2858 Made by Uriel, East Troy, WI 53120 www.urielpharmacy.com
+spl_product_data_elements:
+  Tourmaline Formica comp. Special Order Tourmaline Formica comp. Special Order WATER SODIUM CHLORIDE LACTOSE ANTIMONY TRISULFIDE ANTIMONY TRISULFIDE BEEF HEART BEEF HEART FORMICA RUFA FORMICA RUFA SCHORL TOURMALINE SCHORL TOURMALINE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Take the contents of one ampule under the tongue and hold for 30 seconds, then swallow.
+package_label_principal_display_panel:
+  TourmalineFormicaCompSpecialOrderAmpules
+indications_and_usage:
+  Directions: FOR ORAL USE.
+set_id:
+  253a430b-6f59-4673-b196-a02f8ff246af
+id:
+  b5f9a32f-0cfa-142d-e053-2a95a90ad4ef
+active_ingredient:
+  Active Ingredients: Antimonite 6X, Cor 6X, Formica ex animale 10X, Tourmaline 10X

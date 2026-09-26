@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  ANTIBACTERIAL HAND CUCUMBER AND TEA TREE BENZALKONIUM CHLORIDE WATER COCAMIDOPROPYL BETAINE SODIUM COCOAMPHOACETATE IODOPROPYNYL BUTYLCARBAMATE CITRIC ACID MONOHYDRATE METHYLISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM FD&C YELLOW NO. 5 PEG-150 DISTEARATE HYDROGENATED CASTOR OIL
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13 percent
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  kill germs and odors
+dosage_and_administration:
+  Directions: Pump a small amount of soap into wet hands, rub hands together to create rich lather, then rinse.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warning: Aoid contact with eyes. In case of contact, flush with water. Keep out of direct sunlight. Do not drink, not edible. External use only.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Cocamidopropyl Betaine, Sodium Cocoamphoacetate, PEG-150 Distearate, Fragrance, PEG-40 Hydrogenated Castor Oil, Citric Acid, Methylisothiazolinone, Iodopropynyl Butylcarbamate, FD&C Yellow No.5
+package_label_principal_display_panel:
+  label
+set_id:
+  215a1042-cddd-1b12-e063-6394a90a8534
+id:
+  215a0085-f8b3-35f7-e063-6394a90a29cc
+effective_time:
+  20240101
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    ANTIBACTERIAL HAND CUCUMBER AND TEA TREE
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    NINGBO LIYUAN DAILY CHEMICAL PRODUCTS CO., LTD.
+  product_ndc:
+    76176-047
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1046593
+  spl_id:
+    215a0085-f8b3-35f7-e063-6394a90a29cc
+  spl_set_id:
+    215a1042-cddd-1b12-e063-6394a90a8534
+  package_ndc:
+    76176-047-01
+  is_original_packager:
+    True
+  upc:
+    0676979827155
+  unii:
+    F5UM2KM3W7

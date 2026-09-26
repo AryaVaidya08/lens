@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  ZylastXP Antiseptic Foaming Benzethonium Chloride FARNESOL GLYCERIN METHYLCHLOROISOTHIAZOLINONE POLIHEXANIDE BENZETHONIUM CHLORIDE BENZETHONIUM WATER LAURAMINE OXIDE COCAMIDOPROPYL BETAINE CETRIMONIUM CHLORIDE BUTYLENE GLYCOL CITRIC ACID MONOHYDRATE ZINC GLUCONATE PPG-2 HYDROXYETHYL COCAMIDE
+active_ingredient:
+  Active Ingredients Benzethonium Chloride - 0.20%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Handwash to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only. When using this product, do not use in or near eyes. In case of contact, rinse eyes throroughly with water. Avoid contact with broken skin. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if Irritation or redness develops. Condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands and forearms. Apply one pump to hands and forearms thoroughly for 15 seconds or more. Rinse and repeat. For children under 6, use only with adult supervision.
+spl_unclassified_section:
+  Other Inforamtion Store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients Alcohol Denatured, Aloe Barbadenis Lead Extract, Butylene Glycol, Cetrimonium Chloride, Citric Acid, Cocamidopropyl Betaiine, Farnesol, Fragrance, Glycerin, Lauramine Oxide, Methylchloroisothiazolinone, Methylisothiazolinone, Polyaminopropyl Biguanide, Polyquaternium-10, PPG-12 Hydroxyethyl Cocamide, Water, Zinc Gluconate
+recent_major_changes:
+  Uses section Warnings section Inactive Ingredients section Directions section
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel NDC 57362-467-01 Zylast Extended Protection Broad Spectrum Antimicrobial Antiseptic Foaming Soap 8.25 oz 8.25 oz
+  Package/Label Principal Display Panel NDC 57362-467-02 Zylast Extended Protection Broad Spectrum Antimicrobial Antiseptic Foaming Soap 1000mL (33.8oz) 1000mL
+set_id:
+  86857d95-56ce-2eb4-e053-2a91aa0ad557
+id:
+  050d7188-449a-68e3-e063-6394a90af600
+effective_time:
+  20230101
+version:
+  4
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    ZylastXP Antiseptic Foaming
+  generic_name:
+    BENZETHONIUM CHLORIDE
+  manufacturer_name:
+    Innovative Biodefense
+  product_ndc:
+    57362-467
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZETHONIUM CHLORIDE
+  rxcui:
+    1243889
+  spl_id:
+    050d7188-449a-68e3-e063-6394a90af600
+  spl_set_id:
+    86857d95-56ce-2eb4-e053-2a91aa0ad557
+  package_ndc:
+    57362-467-01
+    57362-467-02
+  is_original_packager:
+    True
+  upc:
+    0094922487056
+    0094922464156
+  unii:
+    PH41D05744

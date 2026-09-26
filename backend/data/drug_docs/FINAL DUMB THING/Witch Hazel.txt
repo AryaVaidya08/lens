@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Witch Hazel Witch Hazel ALCOHOL WITCH HAZEL WITCH HAZEL
+active_ingredient:
+  Active Ingredient Witch Hazel 86%
+purpose:
+  Purpose Astringent
+indications_and_usage:
+  Uses: Relieves minor skin irritation due to: insect bites minor cuts minor scrapes
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product Avoid contact with eyes. If contact occurs, rinse thoroughly with water.
+ask_doctor:
+  Stop use and ask a doctor if Condition worsens or symptoms persist for more than 7 days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions After cleansing apply generously to cotton ball and gently wipe skin. Apply as often as needed.
+inactive_ingredient:
+  Inactive ingredients Alcohol 14% by volume.
+package_label_principal_display_panel:
+  Principal Display Panel Epic Medical Supply NDC 82749-008-16 Witch Hazel Natural Astringent Cleans and Refreshes Skin No Artificial Fragrance or Dyes TAMPER EVIDENT CAP FOR YOUR PROTECTION IF RING-BAND IS DETACHED FROM CAP OR MISSING, DO NOT USE. 473 mL 16 fl oz. image description image description
+set_id:
+  04ea35ab-9700-47a8-be77-1ada0eecc841
+id:
+  47e5df91-f7e5-ab94-e063-6294a90afe0f
+effective_time:
+  20260108
+version:
+  6
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Witch Hazel
+  generic_name:
+    WITCH HAZEL
+  manufacturer_name:
+    Epic Medical Supply Corp.
+  product_ndc:
+    82749-008
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    WITCH HAZEL
+  spl_id:
+    47e5df91-f7e5-ab94-e063-6294a90afe0f
+  spl_set_id:
+    04ea35ab-9700-47a8-be77-1ada0eecc841
+  package_ndc:
+    82749-008-16
+  is_original_packager:
+    True
+  upc:
+    0850042015087
+  unii:
+    101I4J0U34

@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Aprodine Pseudoephedrine HCl and Tripolidine PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE TRIPROLIDINE HYDROCHLORIDE TRIPROLIDINE HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED STEARIC ACID TITANIUM DIOXIDE STARCH, CORN LACTOSE, UNSPECIFIED FORM SILICON DIOXIDE 44;178
+active_ingredient:
+  Active ingredients (in each tablet) Pseudoephedrine HCl 60 mg Triprolidine HCl 2.5 mg
+purpose:
+  Purpose Nasal decongestant Antihistamine
+indications_and_usage:
+  Uses • temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: o runny nose o itchy, watery eyes o sneezing o itching of the nose or throat • temporarily relieves nasal congestion due to the common cold
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • high blood pressure • heart disease • thyroid disease • diabetes • glaucoma • a breathing problem such as emphysema or chronic bronchitis • trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product • do not exceed recommended dose • excitability may occur, especially in children • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if • nervousness, dizziness or sleeplessness occur • symptoms do not improve within 7 days or occur with a fever If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have • high blood pressure • heart disease • thyroid disease • diabetes • glaucoma • a breathing problem such as emphysema or chronic bronchitis • trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+when_using:
+  When using this product • do not exceed recommended dose • excitability may occur, especially in children • drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery
+stop_use:
+  Stop use and ask a doctor if • nervousness, dizziness or sleeplessness occur • symptoms do not improve within 7 days or occur with a fever
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • adults and children 12 years and over: take 1 tablet every 4 to 6 hours. Do not take more than 4 tablets in 24 hours. • children under 12 years: do not use this product in children under 12 years of age
+storage_and_handling:
+  Other information • store at 25ºC (77ºF); excursions permitted between 15º-30ºC (59º-86ºF) • see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients corn starch, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, silica gel, stearic acid, titanium dioxide
+questions:
+  Questions or comments? (800) 616-2471
+package_label_principal_display_panel:
+  Principal Display Panel MAJOR ® NDC 71205-100-24 Aprodine™ TABLETS TRIPROLIDINE HCl AND PSEUDOEPHEDRINE HCl DECONGESTANT/ANTIHISTAMINE/FILM COATED Head Cold & Allergy Medicine Relieves: • Nasal Congestion • Runny Nose • Sneezing • Itchy, Watery Eyes 24 TABLETS TAMPER EVIDENT: DO NOT USE IF CARTON IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING 50844 REV0612M17808 Distributed by MAJOR ® PHARMACEUTICALS 31778 Enterprise Drive Livonia, MI 48150 USA M-17 Relabeled by Proficient Rx LP Thousand Oaks, CA 91320 Re-Order No. 700796 Rev. 09/13 71205-100-24
+set_id:
+  dbd8e15e-7bb0-46b5-9d69-3f8ffaf3bfda
+id:
+  cfd75f6f-1fa4-430d-b478-7aaca348f152
+effective_time:
+  20241001
+version:
+  4
+openfda:

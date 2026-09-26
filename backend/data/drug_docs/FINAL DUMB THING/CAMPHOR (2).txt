@@ -1,0 +1,27 @@
+effective_time:
+  20110216
+inactive_ingredient:
+  Inactive Ingredients Dimethicone, Eucalyptus Globulus (Encalyptus Oil) Leaf Oil, Laureth-7, Menthol, Mys=ristica Fragrans (nutmeg) Kernal Oil, Poloxarner 124, SD Alcohol 40-B, Thuja Occidentalis (Cedar Leaf) Oil, Lavandula Angustifolia (Lavender) Oil
+purpose:
+  Active ingredient Purpose Camphor 6.2%..................Cough Suppressant ______________________________________ Uses temporarily relieves cough due to minor throat and bronchial irritation associated with a cold.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings If pregnant or breastfeeding consult a healthcare professional before use ___________________________________________________ Flammable Keep away from fire or flame _____________________________________________ - for steam inhalation only - do not take by mouth ____________________________________________________ Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma, or emphysema, or if cough is accompanied by excessive phlegm (mucus) _____________________________________________________ When using this product do not - heat - microwave - use near an open flame - add to hot water or any container where heating water except when adding to cold water only in a hot steam vaporizer. May cause splattering and result in burns ______________________________________________________ Stop use and ask a doctor if -cough persists for more than one (1) week, tends to recur, or is accompanied by fever, rash or persistent headache. A persistent cough may be a sign of a serious condition ______________________________________________________ Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately ______________________________________________________
+spl_product_data_elements:
+  CAMPHOR CAMPHOR ALCOHOL CEDRUS ATLANTICA BARK EUCALYPTUS OIL LAURETH-7 MENTHOL NUTMEG OIL POLOXAMER 124 CYCLOMETHICONE 5 ENGLISH LAVENDER OIL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC)
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions - See Important warnings under "When using this product" - Adults and children 2 years and older: use 1 tablespoon of solution directly for each quart of water or 1-1/2 teaspoonful of solution for each pint of water - add solution directly to COLD water only in a hot steam vaporizer - follow manufacturer's directions for using vaporizer - Breath in medicated vapors - use up to 3 times daily or as directed by a doctor - For use with children under 2 years of age: ask a doctor ________________________________ Other information - Close container tightly and store at room temperature away from heat
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Uses - temporarily relieves cough due to minor throat and bronchial irritation associated with a cold.
+set_id:
+  007909d6-7c4b-47f9-bc4c-514bda647651
+id:
+  9100c792-70b6-43fe-b8a4-a49a61de6d87
+active_ingredient:
+  Active ingredient Purpose Camphor 6.2%.............................Cough Suppressant

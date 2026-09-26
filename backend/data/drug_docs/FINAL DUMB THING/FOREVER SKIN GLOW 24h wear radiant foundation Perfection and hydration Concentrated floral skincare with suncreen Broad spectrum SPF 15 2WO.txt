@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  FOREVER SKIN GLOW 24h wear radiant foundation Perfection and hydration Concentrated floral skincare with suncreen Broad spectrum SPF 15 2WO OCTISALATE, TITANIUM DIOXIDE WATER ALCOHOL METHYL TRIMETHICONE ISODODECANE PHENYL TRIMETHICONE GLYCERIN PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE TRIMETHYL PENTAPHENYL TRISILOXANE BUTYLENE GLYCOL DISTEARDIMONIUM HECTORITE POWDERED CELLULOSE SODIUM MYRISTOYL GLUTAMATE PROPYLENE CARBONATE CHLORPHENESIN COPOVIDONE K25-31 ALUMINUM OXIDE STEARIC ACID ALUMINUM HYDROXIDE HIBISCUS SABDARIFFA FLOWER TROMETHAMINE TOCOPHEROL TROPAEOLUM MAJUS FLOWERING TOP HEXADECENE (MIXED ISOMERS) 1,2-HEXANEDIOL CAPRYLYL GLYCOL IRIS X GERMANICA NOTHOVAR. FLORENTINA ROOT SODIUM BENZOATE POTASSIUM SORBATE PENTAERYTHRITOL TETRAKIS(3-(3,5-DI-TERT-BUTYL-4-HYDROXYPHENYL)PROPIONATE) OCTISALATE OCTISALATE TITANIUM DIOXIDE TITANIUM DIOXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active ingredients Octinoxate 4.50 % Titanium Dioxide 4.23 % Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures ( ), decreases the risk of skin cancer and early skin aging caused by the sun. see Directions
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product, keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure. Reapply at least every 2 hours. Use a water-resistant sunscreen if swimming or sweating. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Sun Protection Measures. limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses. Children under 6 months of age: ask a doctor.
+inactive_ingredient:
+  Inactive ingredients AQUA (WATER) • ALCOHOL • METHYL TRIMETHICONE • ISODODECANE • PHENYL TRIMETHICONE • GLYCERIN • PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE • TRIMETHTHYL PENTAPHENYL TRISILOXANE • ACRYLATES/DIMETHICONE COPOLYMER DIMETHICONE • BUTYLENE GLYCOL • CETYL DIMETHICONE • DISTEARDIMONIUM HECTORITE • CELLULOSE • CETYL PEG/PPG-10/1 DIMETHICONE • SODIUM MYRISTOYL GLUTAMATE • PARFUM (FRAGRANCE) • PROPYLENE CARBONATE • CHLORPHENESIN • VP/VA COPOLYMER • ALUMINA • STEARIC ACID • ALUMINUM HYDROXIDE • HIBISCUS SABDARIFFA FLOWER EXTRACT • TROMETHAMINE • TOCOPHEROL • TROPAEOLUM MAJUS FLOWER/LEAF/STEM EXTRACT • HEXADECENE • HYDROLYZED VIOLA TRICOLOR EXTRACT • 1,2-HEXANEDIOL • CAPRYLYL GLYCOL • IRIS FLORENTINA ROOT EXTRACT • SODIUM BENZOATE • POTASSIUM SORBATE • PENTAERYTHRITYL TETRA DI-BUTYL HYDROXYHYDROCINNAMATE. [MAY CONTAIN : CI 77491, CI 77492, CI 77499 (IRON OXIDES), CI 77891 (TITANIUM DIOXIDE)]. N° 15857/Z
+package_label_principal_display_panel:
+  Package Labeling:30ml 30ml00 30ml001
+  Package Labeling:20ml 20ml01 20ml02
+  Package Labeling: 0.7ml Label26.jpg
+  Package Labeling: 2.7ml Outer Label2WO.jpg Inner Label2WO.jpg
+set_id:
+  0d4e667a-cf93-4f6d-8565-ecfa9a18cfbf
+id:
+  26a0e7da-ab49-6c1c-e063-6294a90a74e0
+effective_time:
+  20241111
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    FOREVER SKIN GLOW 24h wear radiant foundation Perfection and hydration Concentrated floral skincare with suncreen Broad spectrum SPF 15 2WO
+  generic_name:
+    OCTISALATE, TITANIUM DIOXIDE
+  manufacturer_name:
+    Parfums Christian Dior
+  product_ndc:
+    61957-3127
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTISALATE
+    TITANIUM DIOXIDE
+  spl_id:
+    26a0e7da-ab49-6c1c-e063-6294a90a74e0
+  spl_set_id:
+    0d4e667a-cf93-4f6d-8565-ecfa9a18cfbf
+  package_ndc:
+    61957-3127-0
+    61957-3127-1
+    61957-3127-7
+    61957-3127-2
+  is_original_packager:
+    True
+  upc:
+    3348901616195
+    3348901579087
+  unii:
+    4X49Y0596W
+    15FIX9V2JP

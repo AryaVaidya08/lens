@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  3M Avagard Foaming Instant Hand Antiseptic Alcohol Alcohol Alcohol Denatonium Benzoate PEG/PPG-18/18 Dimethicone POLYETHYLENE OXIDE 1000000 Water
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Ethyl Alcohol, 70% v/v (62% w/w)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses instant healthcare personnel hand antiseptic to reduce bacteria that potentially can cause disease instant hand antiseptic to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flames. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if significant irritation or sensitization develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to clean, dry hands. Apply sufficient amount to thoroughly wet all surfaces of hands and fingers. Rub onto hands until dry. • Supervise children in the use of this product.
+other_safety_information:
+  Other information Store at 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive Ingredients denatonium benzoate, PEG/PPG-18/18 dimethicone, PEG-23M, water
+questions:
+  Questions? call 1-800-228-3957 (Monday to Friday 7AM - 6PM CST)
+package_label_principal_display_panel:
+  Principal Display Panel – 50 mL Label 3M NDC 17518-055-02 Avagard™ Foaming Instant Hand Antiseptic Contains: 70% v/v ethyl alcohol Fragrance-Free Latex glove and CHG compatible Flammable, keep away from fire or flame, heat, sparks and sources of static discharge. REF 9320A 1.6 fl oz • 50 mL Principal Display Panel – 50 mL Label
+  Principal Display Panel – 500 mL Label 3M NDC 17518-055-01 Avagard™ Foaming Instant Hand Antiseptic Contains: 70% v/v ethyl alcohol Fragrance-Free Latex glove and CHG compatible Flammable, keep away from fire or flame, heat, sparks and sources of static discharge. REF 9321A 16.9 fl oz • 500 mL Principal Display Panel – 500 mL Label
+  Principal Display Panel – 1000 mL Cartridge Label 3M NDC 17518-055-00 Avagard™ Foaming Instant Hand Antiseptic Contains: 70% v/v ethyl alcohol Fragrance-Free Latex glove and CHG compatible Directions: Thoroughly wet hands and fingers. Rub until dry. Flammable, keep away from fire or flame, heat, sparks and sources of static discharge. REF 9322A 33.8 fl oz • 1000 mL Principal Display Panel – 1000 mL Cartridge Label
+set_id:
+  a8c72bcf-9e60-4702-b666-72639b0505b6
+id:
+  dba17861-639a-4ea3-ad05-aeffffe4d25e
+effective_time:
+  20251209
+version:
+  17
+openfda:

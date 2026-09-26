@@ -1,0 +1,83 @@
+spl_product_data_elements:
+  Target Eye Drops Maximum Redness Relief Eye Glycerin, Naphazoline hydrochloride BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM WATER SODIUM BORATE GLYCERIN GLYCERIN NAPHAZOLINE HYDROCHLORIDE NAPHAZOLINE
+active_ingredient:
+  ​Active ingredients Glycerin 0.5% Naphazoline hydrochloride 0.03%
+purpose:
+  ​Purpose Glycerin...Lubricant Naphazoline hydrochloride...Redness reliever
+indications_and_usage:
+  Uses For the relief of redness of the eye due to minor eye irritations For the temporary relief of burning and irritation due to dryness of the eye For use as a protectant against further irritation or dryness of the eye
+warnings:
+  Warnings For external use only Do not use if solution changes color or becomes cloudy Ask a doctor before use if you have narrow angle glaucoma When using this product To avoid contamination, do not touch tip of container to any surface Replace cap after using Overuse may produce increased redness of the eye Pupils may become enlarged temporarily Stop use and ask a doctor if you experience eye pain you experience changes in vision you experience continued redness or irritation of the eye the condition worsens or persists for more than 72 hours Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if solution changes color or becomes cloudy
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma
+when_using:
+  When using this product To avoid contamination, do not touch tip of container to any surface Replace cap after using Overuse may produce increased redness of the eye Pupils may become enlarged temporarily
+stop_use:
+  Stop use and ask a doctor if you experience eye pain you experience changes in vision you experience continued redness or irritation of the eye the condition worsens or persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Instill 1 or 2 drops in the affected eye(s) up to 4 times daily.
+other_safety_information:
+  Other information store at room temperature remove contact lenses before using Tamper Evident : Do not use this product if imprinted neckband is missing or broken.
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, purified water, sodium borate
+package_label_principal_display_panel:
+  box
+set_id:
+  1b26cd3b-4a05-4623-b320-01f22b3106ff
+id:
+  0cfa0b71-d377-fa73-e063-6294a90a390e
+effective_time:
+  20231220
+version:
+  4
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Target Eye Drops Maximum Redness Relief Eye
+  generic_name:
+    GLYCERIN, NAPHAZOLINE HYDROCHLORIDE
+  manufacturer_name:
+    Target Corporation
+  product_ndc:
+    11673-100
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    GLYCERIN
+    NAPHAZOLINE HYDROCHLORIDE
+  rxcui:
+    1235200
+  spl_id:
+    0cfa0b71-d377-fa73-e063-6294a90a390e
+  spl_set_id:
+    1b26cd3b-4a05-4623-b320-01f22b3106ff
+  package_ndc:
+    11673-100-01
+  is_original_packager:
+    True
+  nui:
+    N0000185370
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0009417
+  pharm_class_epc:
+    Non-Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Glycerol [CS]
+  unii:
+    PDC6A3C0OX
+    MZ1131787D

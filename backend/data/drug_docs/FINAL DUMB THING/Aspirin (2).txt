@@ -1,0 +1,86 @@
+spl_product_data_elements:
+  Aspirin Aspirin TITANIUM DIOXIDE D&C YELLOW NO. 10 SODIUM BICARBONATE SODIUM LAURYL SULFATE STARCH, CORN MICROCRYSTALLINE CELLULOSE METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1) TRIETHYL CITRATE SILICON DIOXIDE TRIACETIN POVIDONE, UNSPECIFIED STEARIC ACID HYPROMELLOSE, UNSPECIFIED TALC ASPIRIN ASPIRIN S;17
+spl_unclassified_section:
+  Drug Fact
+active_ingredient:
+  Active ingredient (in each tablet) Aspirin 81mg (NSAID*) *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain Reliever
+indications_and_usage:
+  Uses · Temporarily relieves minor aches and pains. · For other uses, see your doctor, but do not use for more than 10 days without consulting your doctor because serious side effects may occur
+warnings:
+  Warnings Reye’s syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy Alert: Aspirin may cause a severe allergic reaction, which may include: · Hives · Facial Swelling · Shock · Asthma (wheezing) Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you: · Are age 60 or older · Have had stomach ulcers or bleeding problems · Take a blood thinning (anticoagulant) or steroid drug · Take other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) · Have 3 or more alcoholic drinks every day while using this product · Take more or for a longer time than directed Do not use if you are allergic to aspirin or any other pain reliever/fever reducer Ask a doctor before use if · Stomach bleeding warning applies to you · You have a history of stomach problems, such as heartburn · You have high blood pressure, heart disease, liver cirrhosis, or kidney disease · You are taking a diuretic · You have asthma · You have not been drinking fluids · You have lost a lot of fluid due to vomiting or diarrhea Ask a doctor or a pharmacist before use if you are · Taking a prescription drug for diabetes, gout, or arthritis · Under a doctor’s care for any serious condition · Taking any other drug Stop use and ask a doctor if · You experience any of the following signs of stomach bleeding · Feel faint · Have bloody or black stools · Vomit blood · Have stomach pain that does not get better · Pain gets worse or lasts more than 10 days · Fever gets worse or lasts more than 3 days · Redness or swelling is present in the painful area · Any new symptoms appear · Ringing in the ears or a loss of hearing occurs If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problem in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if · Stomach bleeding warning applies to you · You have a history of stomach problems, such as heartburn · You have high blood pressure, heart disease, liver cirrhosis, or kidney disease · You are taking a diuretic · You have asthma · You have not been drinking fluids · You have lost a lot of fluid due to vomiting or diarrhea
+  Stop use and ask a doctor if · You experience any of the following signs of stomach bleeding · Feel faint · Have bloody or black stools · Vomit blood · Have stomach pain that does not get better · Pain gets worse or lasts more than 10 days · Fever gets worse or lasts more than 3 days · Redness or swelling is present in the painful area · Any new symptoms appear · Ringing in the ears or a loss of hearing occurs
+ask_doctor_or_pharmacist:
+  Ask a doctor or a pharmacist before use if you are · Taking a prescription drug for diabetes, gout, or arthritis · Under a doctor’s care for any serious condition · Taking any other drug
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problem in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: · Drink a full glass of water with each dose · Adults and children 12 years and over; take 4 to 8 tablets every 4 hours not to exceed 48 tablets in 24 hours unless directed by a doctor · Children under 12 years: consult a doctor
+storage_and_handling:
+  Other Information: · Store at 25°C (77°F) excursions permitted between 15-30°C (59-86°F) · Use by expiration date on package
+inactive_ingredient:
+  Inactive Ingredients: Corn Starch, Pregelatinized Starch, Povidone, Microcrystalline Cellulose, Stearic Acid, Colloidal Silicon Dioxide, Methacrylic Acid Co-Polymer, Triethyl Citrate, Talc, Titanium Dioxide, Silica, Sodium bicarbonate, Sodium lauryl sulfate, D&C Yellow #10, Hypromellose, Triacetin
+questions:
+  Questions? Adverse Drug Event Call: (888) 582 1953 or Email: drugsafety@marlexpharm.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Distributed by: Marlex Pharmaceuticals, Inc. New Castle, DE 19720 www.marlexpharm.com NDC 10135-0729-10 NDC 10135-0729-62 729-10 - Front 729-10 - Back Label Front Label Back
+set_id:
+  cc7013ea-cf30-6f59-e053-2a95a90a1148
+id:
+  3ba085f8-2eeb-8958-e063-6394a90a7739
+effective_time:
+  20250805
+version:
+  5
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Aspirin
+  generic_name:
+    ASPIRIN
+  manufacturer_name:
+    Marlex Pharmaceuticals Inc.
+  product_ndc:
+    10135-729
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ASPIRIN
+  rxcui:
+    308416
+  spl_id:
+    3ba085f8-2eeb-8958-e063-6394a90a7739
+  spl_set_id:
+    cc7013ea-cf30-6f59-e053-2a95a90a1148
+  package_ndc:
+    10135-729-62
+    10135-729-10
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    N0000008836
+    M0001335
+    N0000175722
+    N0000175578
+    N0000008832
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_pe:
+    Decreased Prostaglandin Production [PE]
+    Decreased Platelet Aggregation [PE]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+    Platelet Aggregation Inhibitor [EPC]
+  unii:
+    R16CO5Y76E

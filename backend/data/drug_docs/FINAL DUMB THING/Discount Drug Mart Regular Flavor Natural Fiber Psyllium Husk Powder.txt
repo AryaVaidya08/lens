@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Discount Drug Mart Regular Flavor Natural Fiber Psyllium Husk Powder PSYLLIUM HUSK PSYLLIUM HUSK SILICON DIOXIDE SUCROSE Light
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient: (in each teaspoon) Psyllium husk approximately 3.4 g
+purpose:
+  Purpose Fiber Laxative
+indications_and_usage:
+  Uses: ▪ for relief of occasional constipation (irregularity) ▪ Generally produces bowel movement in 12-72 hours
+warnings:
+  Warnings: Choking Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking. Do not take this product if you have difficulty in swallowing. If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention. Allergy alert: This product may cause allergic reaction in people sensitive to inhaled or ingested psyllium. Ask a doctor before use if you have ▪ a sudden change in bowel habits persisting for 2 weeks ▪ abdominal pain, nausea or vomiting Stop use and ask a doctor if ▪ constipation lasts more than 7 days ▪ rectal bleeding occurs These may be signs of a serious condition. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+ask_doctor:
+  Ask a doctor before use if you have ▪ a sudden change in bowel habits persisting for 2 weeks ▪ abdominal pain, nausea or vomiting
+stop_use:
+  Stop use and ask a doctor if ▪ constipation lasts more than 7 days ▪ rectal bleeding occurs These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+dosage_and_administration:
+  Directions: Put one dose into an empty glass. Mix this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid. Taking this product without enough liquid may cause choking. See choking warning. Stir briskly and drink promptly. If mixture thickens, add more liquid and stir. Adults & Children 12 years & older: 1 rounded teaspoon in 8 oz of liquid at the first sign of irregularity. Can be taken up to 3 times daily. Generally produces effect in 12-72 hours. Children 6 – 11 yrs: ½ adult dose in 8 oz of liquid, up to 3 times daily Children under 6 yrs: Consult a doctor Laxative, including bulk fiber, may affect how well other medicines work. If you are taking a prescription medicine by mouth, take this product at least 2 hours before or 2 hours after the prescribed medicine. As your body adjusts to increased fiber intake, you may experience changes in bowel habits or minor bloating. New Users Start with 1 serving per day; gradually increase to desired daily intake. You may initially experience changes in bowl habits or minor bloating, as your body adjusts to increased fiber intake.
+dosage_and_administration_table:
+  <table width="100%"><col width="24%"/><col width="76%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">Adults &amp; Children 12 years &amp; older: </content></paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>1 rounded teaspoon in 8 oz of liquid at the first sign of irregularity. Can be taken up to 3 times daily. Generally produces effect in 12-72 hours.</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph><content styleCode="bold">Children 6 &#x2013; 11 yrs:</content></paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>&#xBD; adult dose in 8 oz of liquid, up to 3 times daily</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph><content styleCode="bold">Children under 6 yrs: </content></paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>Consult a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information ▪ each teaspoon contains: potassium 30 mg; sodium 5 mg ▪ store at room temperature tightly closed to protect from humidity ▪ contains a 100% natural, therapeutic fiber
+inactive_ingredient:
+  Inactive ingredients silica, sucrose.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL DISCOUNT drug mart FOOD FAIR Compare to the Active Ingredient in Metamucil ® * NDC 53943-151-48 ORIGINAL TEXTURE Fiber Therapy POWDER Fiber Laxative/Fiber Dietary Supplement 100% Natural Psyllium Fiber + Helps you feel less hungry between meal** + Helps maintain healthy blood sugar levels as part of your diet** + Helps lower cholesterol to promote heart health† + Promotes digestive 48 TEASPOONS DOSES NET WT 13 OZ (368 g) Regular Flavor Fill controlled by weight, not volume TAMPER EVIDENT:DO NOT USE IF PRINTED INNER SEAL IS BROKEN OR MISSING *This product is not manufactured or distributed by Procter & Gamble, the distributor of METAMUCIL®. SATISFACTION GUARANTEED IF DISSATISFIED, RETURN UNUSED PORTION AND PACKAGE TO STORE WHERE PURCHASED. IF UNABLE TO RETURN TO STORE, SEND REASON FOR DISSATISFACTION, NAME, ADDRESS AND EMPTY PACKAGE TO: DISCOUNT DRUG MART, 211 COMMERCE DR., MEDINA, OHIO 44256. **THESE STATEMENT HAVE NOT BEEN EVALUATED BY THE FOOD AND DRUG ADMINISTRATIVE. THIS PRODUCTS IS NOT INTENDED TO DIAGNOSE, TREAT, CURE OR PREVENT ANY DISEASE. Distributed By: Discount Drug Mart 211 Commerce Drive Medina, Ohio 44256 www.discount-drugmart.com DRUG MART Regular Flavored
+package_label_principal_display_panel_table:
+  <table width="100%"><col width="100%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">TAMPER EVIDENT:DO NOT USE IF PRINTED INNER SEAL IS BROKEN OR MISSING</content></paragraph></td></tr></tbody></table>
+  <table width="100%"><col width="100%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph><content styleCode="bold">**THESE STATEMENT HAVE NOT BEEN EVALUATED BY THE FOOD AND DRUG ADMINISTRATIVE. THIS PRODUCTS IS NOT INTENDED TO DIAGNOSE, TREAT, CURE OR PREVENT ANY DISEASE.</content></paragraph></td></tr></tbody></table>
+set_id:
+  7e295a5b-9c1b-44f7-8218-c46f23774056
+id:
+  05d405fc-de3c-4fe4-aa2f-ab916f2684f4
+effective_time:
+  20210821
+version:
+  3
+openfda:

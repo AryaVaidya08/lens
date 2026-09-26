@@ -1,0 +1,31 @@
+effective_time:
+  20200804
+inactive_ingredient:
+  Inactive Ingredients Water (aqua), Triethanolamine, Carbomer, Fragrance, Glycerin. Propylene Glycol, Red 33,Yellow 5.
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact Poison Control center right away.
+warnings:
+  Safety Instructions Flammable, Keep away from fire and flame
+when_using:
+  When using this product In case of contact,rinse eyes thoroughly with water.
+spl_product_data_elements:
+  Icee Hand Sanitizer Ethyl Alcohol WATER TROLAMINE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE PROPYLENE GLYCOL GLYCERIN D&C RED NO. 33 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions apply palmful to hands. rub hands together vigorously until dry. supervise children in the use of this product.
+do_not_use:
+  Do not use Do not use in or near eyes.
+package_label_principal_display_panel:
+  icee1
+indications_and_usage:
+  Use hand sanitizer to help reduce bacteria on the skin
+set_id:
+  96945965-3360-4544-a6f5-f406c5750684
+id:
+  ac0d6f9f-0ba2-1f29-e053-2a95a90a2305
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 65%.................Antiseptic

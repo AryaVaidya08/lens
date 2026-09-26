@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Antimonium iodatum ANTIMONY TRIIODIDE SUCROSE LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE ANTIMONY TRIIODIDE ANTIMONY CATION (3+)
+active_ingredient:
+  Antimonium iodatum 30C HPUS Less than 10 -12 mg antimony per pellet Active ingredient**: See product name on front panel (contains 0.443 mg of the active ingredient per pellet).
+purpose:
+  
+indications_and_usage:
+  Uses: See symptoms on front panel. Relieves productive cough with thick mucus *
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+inactive_ingredient:
+  lactose, sucrose
+questions:
+  BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+package_label_principal_display_panel:
+  label label label
+set_id:
+  6a11efd1-7bb1-06ea-e053-2a91aa0a64f1
+id:
+  1a12fd8f-0843-d98a-e063-6294a90adfbd
+effective_time:
+  20240604
+version:
+  5
+openfda:
+  brand_name:
+    Antimonium iodatum
+  generic_name:
+    ANTIMONY TRIIODIDE
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-0377
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ANTIMONY TRIIODIDE
+  spl_id:
+    1a12fd8f-0843-d98a-e063-6294a90adfbd
+  spl_set_id:
+    6a11efd1-7bb1-06ea-e053-2a91aa0a64f1
+  package_ndc:
+    0220-0377-41
+  is_original_packager:
+    True
+  unii:
+    52ZE5Y9Y82

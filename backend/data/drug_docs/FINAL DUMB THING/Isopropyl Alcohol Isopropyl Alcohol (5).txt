@@ -1,0 +1,35 @@
+effective_time:
+  20170518
+inactive_ingredient:
+  Inactive Ingredient purified water
+purpose:
+  Purpose first aid antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion seek professional assistance, or contact a poison control center right away
+warnings:
+  Warnings for external use only flammable, keep away from fire or flame
+when_using:
+  when using this product do not get into eyes do not apply over large areas of the body do not use longer than one week unless directed by a doctor
+spl_product_data_elements:
+  Isopropyl Alcohol Isopropyl Alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+ask_doctor:
+  ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions clean affected area apply small amount of this product on the area 1-3 times daily may be covered with a small bandage If bandaged, let dry first image of label
+stop_use:
+  stop use and ask a doctor if conditions persists or gets worse
+spl_unclassified_section:
+  Other Information store at controlled room temperature does not contain, nor is intended as a substitute for grain or ethyl alcohol will produce serious gastric disturbances if taken internally
+package_label_principal_display_panel:
+  principal display panel 70% Isopropyl Alcohol Tamper Evident: Do Not Use If The Under Cap Printed Safety Foil Is Broken Or Missing. 16 FL. OZ. (1 PT.) 473 mL image of label
+indications_and_usage:
+  Uses first aid to help prevent the risk of infection in minor cuts, scrapes and burns
+set_id:
+  bc76a4d2-31d5-4062-966c-42c3a00bd070
+id:
+  74b84b17-ee7d-48ff-b0c1-6a8a3b0a5871
+active_ingredient:
+  Active Ingredients Isopropyl Alcohol (70 percent concentration)

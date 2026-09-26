@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  8HR Pain Relief Acetaminophen STARCH, CORN POVIDONE K30 HYPROMELLOSE, UNSPECIFIED TRIACETIN CARNAUBA WAX TITANIUM DIOXIDE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A HYDROXYETHYL CELLULOSE (140 MPA.S AT 5%) MAGNESIUM STEARATE ACETAMINOPHEN ACETAMINOPHEN 71 Capsule-shaped tablet White to off white
+active_ingredient:
+  Active ingredient (in each caplet) Acetaminophen 650 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: muscular aches backache minor pain of arthritis toothache premenstrual and menstrual cramps headache the common cold temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 6 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product. Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product.
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+stop_use:
+  Stop using and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions Do not take more than directed. See overdose warning adults and children 12 years and over: take 2 caplets every 8 hours with water swallow whole; do not crush, chew, split or dissolve do not take more than 6 caplets in 24 hours do not use for more than 10 days unless directed by a doctor children under 12 years: do not use
+storage_and_handling:
+  Other information store between 20-25°C (68-77°F) The FDA approved Dissolution methods differ from USP
+inactive_ingredient:
+  Inactive ingredients carnauba wax, hydroxyethyl cellulose, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, pregelatinized starch, sodium starch glycolate, titanium dioxide, triacetin
+other_safety_information:
+  Questions or comments? Call 1-800-910-6874
+package_label_principal_display_panel:
+  apap-er-650mg-100s-label-muscle apap-er-650mg-100s-carton-muscle
+set_id:
+  e8b48f37-6023-ba04-e053-2a95a90a0e6c
+id:
+  13ae3e9d-92cc-3471-e063-6394a90acbfb
+effective_time:
+  20240315
+version:
+  4
+openfda:
+  application_number:
+    ANDA215486
+  brand_name:
+    8HR Pain Relief
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    TARGET CORPORATION
+  product_ndc:
+    11673-928
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    1148399
+  spl_id:
+    13ae3e9d-92cc-3471-e063-6394a90acbfb
+  spl_set_id:
+    e8b48f37-6023-ba04-e053-2a95a90a0e6c
+  package_ndc:
+    11673-928-01
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D

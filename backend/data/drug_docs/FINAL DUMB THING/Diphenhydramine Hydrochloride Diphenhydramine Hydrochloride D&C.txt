@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Diphenhydramine Hydrochloride Diphenhydramine Hydrochloride D&C RED NO. 28 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN, UNSPECIFIED LACTOSE MONOHYDRATE ANHYDROUS LACTOSE STARCH, CORN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE half pink and half clear with white powder inside CPC;835
+active_ingredient:
+  Active Ingredient (in each banded capsule) Diphenhydramine HCl… 25 mg Diphenhydramine HCl… 50 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Use 25 MG • Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: o runny nose o sneezing o itchy, watery eyes o itchy throat and nose • Temporarily relieves these symptoms due to the common cold: o runny nose o sneezing 50 MG • Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies and common cold o sneezing o runny nose o itchy, watery eyes o itchy throat and nose
+warnings:
+  WARNINGS Do not use 25 MG • to make a child sleepy • with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have 25 MG • a breathing problem such as emphysema or chronic bronchitis • glaucoma • trouble urinating due to an enlarged prostate gland • difficulty in urination due to enlargement of the prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery • excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Take every 4-6 hours • Do not take more than 6 doses in 24 hours 25 MG adults and children 12 years of age and over 1 to 2 capsules children 6 years to under 12 years of age 1 capsule children under 6 years of age do not use this product in children under 6 years of age 50 MG adults and children 12 years of age and over 1 capsule children 6 years to under 12 years of age Ask a doctor, the proper dosage strength is not available in this package** **Do not attempt to break capsules. The proper dosage strength and dosing information for children under 12 years of age is available on the 25 mg package.
+dosage_and_administration_table:
+  <table width="100%"><col width="50%"/><col width="50%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>adults and children 12 years of age and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>1 to 2 capsules</paragraph></td></tr><tr><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>children 6 years to under 12 years of age</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>1 capsule</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>children under 6 years of age</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>do not use this product in children under 6 years of age</paragraph></td></tr></tbody></table>
+  <table width="100%"><col width="50%"/><col width="50%"/><tbody><tr><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>adults and children 12 years of age and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>1 capsule</paragraph></td></tr><tr><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>children 6 years to under 12 years of age</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>Ask a doctor, the proper dosage strength is not available in this package**</paragraph></td></tr></tbody></table>
+spl_unclassified_section:
+  Other Information • Store at 20°C – 25°C (68°F – 77°F); excursions permitted to 15° – 30°C (59° – 86°F) [See USP Controlled Room Temperature] • Protect from moisture • Contains lactose
+  Distributed by MAJOR® PHARMACEUTICALS 17177 N Laurel Park Drive, Suite 233, - Livonia, MI 48152 Repackaged by Preferred Pharmaceuticals, Inc. NDC 68788-7589
+inactive_ingredient:
+  Inactive Ingredients D&C Red #28, FD&C Blue #1, FD&C Red #40, Gelatin, Lactose and Starch.
+questions:
+  Questions? Questions or comments? (800) 616-2471
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Diphenhydramine HCL Capsules USP 25mg
+set_id:
+  93b7852e-b9d5-4754-a5a3-b157ed19b4d3
+id:
+  4a9a8e9b-1506-4f6f-a416-eb2344df12b0
+effective_time:
+  20260406
+version:
+  9
+openfda:

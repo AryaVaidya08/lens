@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  WISH ULTRA ALCOHOL SANITIZING ENGLISH LAVENDER Ethyl Alcohol ISOBUTANE PROPANE BUTANE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 75%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses -hand sanitizer to decrease bacteria on the skin -recommended for repeated use -for use when soap and water are not available
+warnings:
+  WARNINGS -Flammable.Keep away from heat and flame/fire -Keep away from heat, hot surfaces, open flames and ignition sources -Pressurized container. Do not pierce or burn even after use -Protect from sunlight -For external use only
+do_not_use:
+  -On children less than 2 months of age -On open skin wounds
+when_using:
+  -Avoid use on/or around eyes, ears, mouth, broken/irritated skin or large areas of body. in case of contact with eyes, rinse thoroughly with water several minutes. - Do not inhale
+stop_use:
+  -irritation persist -if product is swallowed
+keep_out_of_reach_of_children:
+  If swallowed get medical help or contact a poison control center right away
+dosage_and_administration:
+  Directions -Shake well before use. -Hold can upright at 6-7 inches away from the surface and spray evenly. -Allow to air dry for 5 to 10 minutes. Repeat application a necessary. -Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  -store between 15-30 degree Celcius -Do not expose to temperature exceeding 50 degree celcius
+inactive_ingredient:
+  Ethanol, Butane, Propane, Isobutane, Parfum.
+package_label_principal_display_panel:
+  Label 2
+set_id:
+  b060094a-c221-40a5-e053-2a95a90aefcb
+id:
+  b0744ef6-cea7-94b4-e053-2995a90a51b3
+effective_time:
+  20200929
+version:
+  2
+openfda:

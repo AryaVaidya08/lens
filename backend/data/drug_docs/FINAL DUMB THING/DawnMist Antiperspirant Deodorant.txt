@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  DawnMist Antiperspirant Deodorant ALUMINUM CHLOROHYDRATE WATER POLYOXYL 40 HYDROGENATED CASTOR OIL ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+active_ingredient:
+  Active Ingredient Aluminum Chlorohydrate 4.5%
+purpose:
+  Purpose Antiperspirant Use Reduces underarm perspiration.
+indications_and_usage:
+  Use Reduces underarm perspiration.
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use on broken skin.
+stop_use:
+  Discontinue use if ■irritation and redness develop ■ If condition persists for more than 72 hours consult a doctor.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease.
+when_using:
+  When using this product ■ Keep away from face and mouth ■ Do not spray near flames
+keep_out_of_reach_of_children:
+  Keep out of reach of children ■If swallowed, get medical help and contact Poison Control Center right away ■ Use only as directed
+dosage_and_administration:
+  Directions Apply to underarms only. Hold two inches from underarm and spray. Use daily for best results
+inactive_ingredient:
+  Inactive Ingredients Water, Alcohol Denat, PEG-40 Hydrogenated Castor Oil, Fragrance
+package_label_principal_display_panel:
+  Package Label DawnMist DEODERANTS Antiperspirant Deodorant Spray REDUCES WETNESS & ODOR FRESH SCENTt 2 FL. OZ. (59ml) Label
+set_id:
+  9b3c1cd6-0291-4876-9f3a-3102a1847328
+id:
+  1dec3d30-e1f7-3f0c-e063-6294a90a42b0
+effective_time:
+  20240723
+version:
+  6
+openfda:
+  application_number:
+    M019
+  brand_name:
+    DawnMist Antiperspirant Deodorant
+  generic_name:
+    ALUMINUM CHLOROHYDRATE
+  manufacturer_name:
+    Dukal LLC
+  product_ndc:
+    65517-1008
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM CHLOROHYDRATE
+  spl_id:
+    1dec3d30-e1f7-3f0c-e063-6294a90a42b0
+  spl_set_id:
+    9b3c1cd6-0291-4876-9f3a-3102a1847328
+  package_ndc:
+    65517-1008-1
+    65517-1008-2
+  is_original_packager:
+    True
+  unii:
+    HPN8MZW13M

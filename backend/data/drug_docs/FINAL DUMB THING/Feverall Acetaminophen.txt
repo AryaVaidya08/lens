@@ -1,0 +1,31 @@
+effective_time:
+  20181030
+inactive_ingredient:
+  Inactive ingredients Glycerol monostearate, hydrogenated vegetable oil, polyoxyethylene stearate, polysorbate 80
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children Keep out of reach of children.
+warnings:
+  Warnings This package is intended for institutional use only. If pregnant or breast-feeding, ask a health professional before use. If swallowed or in case of overdose, get medical help or contact a poison Control Center right away. Quick medical attention is critical in case of overdose for adults and for children even if you do not notice any signs or symptoms. Liver warning: This product contains acetaminophen. Severe liver damage may occur if • an adult or child 12 years and older takes more than 6 doses in 24 hours, which is the maximum daily amount • taken with other drugs containing acetaminophen • an adult takes 3 or more alcoholic drinks everyday while using this product. For rectal use only Drug Facts (Continued) Do not use • in children under 12 years. • if you are allergic to acetaminophen • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. Ask a doctor before use if • you have liver disease. • you are taking the blood thinning drug warfarin. Stop use and ask a doctor if • fever lasts for more than 3 days (72 hours), or recurs. • pain gets worse or lasts more than 10 days • new symptoms occur. • redness or swelling is present in the painful area. These may be signs of a serious condition.
+spl_product_data_elements:
+  Feverall Acetaminophen ACETAMINOPHEN ACETAMINOPHEN GLYCERYL MONOSTEARATE POLYSORBATE 80 PEG-100 STEARATE HYDROGENATED PALM KERNEL OIL
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Do not use more than directed, remove wrapper, carefully insert suppository well up into the rectum. adults and children 12 years and older: 1 suppository every 4 to 6 hours while symptoms last. Do not exceed 6 suppositories in any 24-hour period. Children under 12 years: ask a doctor.
+spl_unclassified_section:
+  See New Warnings See New Warnings Information
+storage_and_handling:
+  Storage Store at 2-27 C (35-80 F) Tamper-evident: Suppositories are individually wrapped. Do not use if imprinted wrapper is opened or damaged. Dist. by Actavis Mid Atlantic LLC Lincolnton, NC 28092 USA Questions? 1-800-432-8534 (select option #2) between 9 am and 4 pm EST. Monday-Friday. Repackaged by Cardinal Health Zanesville, OH 43701
+package_label_principal_display_panel:
+  Principal Display Panel Feverall 650 MG Each Acetaminophen Suppositories Adults' Ages 12 Years and Older 10 Rectal Suppositories bag label
+indications_and_usage:
+  Uses Temporarily reduces fever, relieves minor aches, pains and headache
+set_id:
+  f90b4520-8e08-4bbb-ada4-f494cefcd311
+id:
+  052cd553-6df6-4431-9521-cd8dcc760068
+active_ingredient:
+  Active ingredient In each rectal suppository: Acetaminophen 650 mg

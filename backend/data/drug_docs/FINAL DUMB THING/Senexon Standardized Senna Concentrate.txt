@@ -1,0 +1,46 @@
+effective_time:
+  20190906
+purpose:
+  Purpose Laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? To Report Adverse Drug Event Call (800) 645-2158
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a professional before use.
+storage_and_handling:
+  Other information • avoid excessive heat • store at room temperature 15°- 30°C (59°- 86°F)
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity), generally produces bowel movement in 6-12 hours
+set_id:
+  81c71989-df4d-44e4-9f21-b972ed79bf7d
+id:
+  ad7be5a6-8f1a-4c01-ad08-a3142ba10d6d
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work.
+active_ingredient:
+  Active Ingredient (in each teaspoonful) Sennosides 8.8 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="33%"/> <col width="33%"/> <col width="33%"/> <thead> <tr> <th align="center" styleCode="Rrule Botrule Toprule " valign="top"> <content styleCode="bold"> age</content> </th> <th align="center" styleCode="Rrule Botrule Toprule " valign="top"> <content styleCode="bold"> starting dose</content> </th> <th align="center" styleCode="Botrule Toprule " valign="top"> <content styleCode="bold"> maximum dosage</content> </th> </tr> </thead> <tbody> <tr> <td align="center" styleCode="Rrule Toprule " valign="top"> <paragraph> adults and children 12 years and older</paragraph> </td> <td align="center" styleCode="Rrule Toprule " valign="top"> <paragraph> 2 - 3 teaspoons once a day</paragraph> </td> <td align="center" styleCode="Toprule Botrule " valign="top"> <paragraph> 3 teaspoons twice a day</paragraph> </td> </tr> <tr> <td align="center" styleCode="Rrule " valign="top"> <paragraph> children 6 to under 12 years</paragraph> </td> <td align="center" styleCode="Rrule " valign="top"> <paragraph> 1 - 1 1/2 teaspoons once a day</paragraph> </td> <td align="center" styleCode="Botrule " valign="top"> <paragraph> 1 1/2 teaspoons twice a day</paragraph> </td> </tr> <tr> <td align="center" styleCode="Rrule " valign="top"> <paragraph> children 2 to under 6 years</paragraph> </td> <td align="center" styleCode="Rrule " valign="top"> <paragraph> 1/2 - 3/4 teaspoon once a day</paragraph> </td> <td align="center" styleCode="Botrule " valign="top"> <paragraph> 3/4 teaspoon twice a day</paragraph> </td> </tr> <tr> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph> children under 2 years</paragraph> </td> <td align="center" styleCode="Rrule Botrule " valign="top"> <paragraph> ask a doctor</paragraph> </td> <td align="center" styleCode="Botrule " valign="top"> <paragraph> ask a doctor</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients cocoa distillate flavor, natural chocolate flavor, methylparaben, propylene glycol, propylparaben, purified water, sucrose
+warnings:
+  Warnings Ask a doctor before use if you have • stomach pain • nausea • vomiting • Noticed a sudden change in bowel movements that continues over a period of 2 weeks Do not use laxative products for longer than 1 week unless directed by a doctor Ask a doctor or pharmacist before use if you are taking any other drug. Take this product two or more hours before or after other drugs. Laxatives may affect how other drugs work. Stop use and ask a doctor if you have rectal bleeding or fail to have bowel movement after use of laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Senexon Standardized Senna Concentrate SENNOSIDES SENNOSIDES METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER COCOA SUCROSE
+ask_doctor:
+  Ask a doctor before use if you have • stomach pain • nausea • vomiting • Noticed a sudden change in bowel movements that continues over a period of 2 weeks
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Take preferably at bedtime or as directed by a doctor. Shake Well Before Using. age starting dose maximum dosage adults and children 12 years and older 2 - 3 teaspoons once a day 3 teaspoons twice a day children 6 to under 12 years 1 - 1 1/2 teaspoons once a day 1 1/2 teaspoons twice a day children 2 to under 6 years 1/2 - 3/4 teaspoon once a day 3/4 teaspoon twice a day children under 2 years ask a doctor ask a doctor
+spl_unclassified_section:
+  Drug Facts *Rugby Laboratories is not affiliated with the owner of the registered trademark Senokot®. Senexon® is distributed by Rugby Laboratories.
+  Distributed by: RUGBY® LABORATORIES 31778 Enterprise Drive Livonia, MI 48150 USA
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have bowel movement after use of laxative. These may indicate a serious condition.
+do_not_use:
+  Do not use laxative products for longer than 1 week unless directed by a doctor
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 237 mL Bottle Label RUGBY® NDC 0536-1275-59 Standardizd Senna Concentrate Senexon Liquid Natural Vegetable Stimulant LAXATIVE Natural Chocolate Flavor Contents: 8 fl. oz. (237 mL) Compare to active ingredient in Senokot ®* Senexon Liquid

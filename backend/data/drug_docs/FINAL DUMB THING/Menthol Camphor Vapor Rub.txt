@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Menthol Camphor Vapor Rub CAMPHOR (NATURAL) and MENTHOL, UNSPECIFIED FORM CAMPHOR (NATURAL) CAMPHOR (NATURAL) MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM Hydrogenated Soybean Oil Yellow Wax
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  ACTIVE INGREDIENTS PURPOSE CAMPHOR 5.0% ANTITUSSIVE MENTHOL 2.8% ANTITUSSIVE
+active_ingredient_table:
+  <table width="60%"><col width="80%" align="left" valign="top"/><col width="20%" align="right" valign="top"/><thead><tr><th><content styleCode="bold italics">ACTIVE INGREDIENTS</content></th><th><content styleCode="bold italics">PURPOSE</content></th></tr></thead><tbody><tr><td>CAMPHOR 5.0%</td><td>ANTITUSSIVE</td></tr><tr><td>MENTHOL 2.8%</td><td>ANTITUSSIVE</td></tr></tbody></table>
+purpose:
+  ACTIVE INGREDIENTS PURPOSE CAMPHOR 5.0% ANTITUSSIVE MENTHOL 2.8% ANTITUSSIVE
+purpose_table:
+  <table width="60%"><col width="80%" align="left" valign="top"/><col width="20%" align="right" valign="top"/><thead><tr><th><content styleCode="bold italics">ACTIVE INGREDIENTS</content></th><th><content styleCode="bold italics">PURPOSE</content></th></tr></thead><tbody><tr><td>CAMPHOR 5.0%</td><td>ANTITUSSIVE</td></tr><tr><td>MENTHOL 2.8%</td><td>ANTITUSSIVE</td></tr></tbody></table>
+indications_and_usage:
+  Use temporarily relieves cough as may occur or associated with a cold.
+warnings:
+  Warnings For external use only. Do not use for persistent or chronic cough as occurs with smoking, asthma, or emphysema if cough is accompanied by excessive phlegm (mucous) unless directed by a physician. When using this product do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns take by mouth place in nostrils. Stop use and ask a doctor if cough persists for more than 1 week cough tends to recur cough is accompanied by a fever, rash or persistent headache. A persistent cough may be a sign of a serious condition. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use for persistent or chronic cough as occurs with smoking, asthma, or emphysema if cough is accompanied by excessive phlegm (mucous) unless directed by a physician.
+when_using:
+  When using this product do not heat microwave add to hot water or any container where heating water. May cause splattering and result in burns take by mouth place in nostrils.
+stop_use:
+  Stop use and ask a doctor if cough persists for more than 1 week cough tends to recur cough is accompanied by a fever, rash or persistent headache. A persistent cough may be a sign of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions see important warnings under " When using this product " adults and children 2 years or older rub on the throat and chest in a thick layer cover with a warm, dry cloth if desired Clothing should be loose about throat and chest to help vapors reach the nose and mouth Use up to 3 times daily or as directedby a doctor children under 2 years of age: Ask a doctor.
+storage_and_handling:
+  Other information Store away from children at 68-77°F
+inactive_ingredient:
+  Inactive ingredients beeswax, hydrogenated soybean oil, hydrogenated soybean wax.
+questions:
+  For adverse reactions call 1-888-384-1945
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 59 g Jar Box 99% NATURAL ESTD J.R. 1868 WATKINS REMEDIES FOR BODY™ VAPOR RUB MENTHOL CAMPHOR COUGH RELIEVING OINTMENT NET WT. 2.1 OZ (59 g) PRINCIPAL DISPLAY PANEL - 59 g Jar Box
+set_id:
+  48e541dc-f35c-4836-93bb-475201ba7b75
+id:
+  5a00447f-548c-4da2-b5cc-aba718dd7675
+effective_time:
+  20230815
+version:
+  3
+openfda:

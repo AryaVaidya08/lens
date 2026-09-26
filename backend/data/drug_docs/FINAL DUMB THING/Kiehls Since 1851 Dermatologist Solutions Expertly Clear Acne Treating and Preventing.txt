@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Kiehls Since 1851 Dermatologist Solutions Expertly Clear Acne Treating and Preventing Salicylic Acid SALICYLIC ACID SALICYLIC ACID WATER GLYCERIN BUTYLENE GLYCOL NIACINAMIDE DIMETHICONE CETOSTEARYL ALCOHOL ISOHEXADECANE SODIUM HYDROXIDE AMMONIUM POLYACRYLOYLDIMETHYL TAURATE LAURETH-4 AMMONIUM ACRYLOYLDIMETHYLTAURATE, DIMETHYLACRYLAMIDE, LAURYL METHACRYLATE AND LAURETH-4 METHACRYLATE COPOLYMER, TRIMETHYLOLPROPANE TRIACRYLATE CROSSLINKED (45000 MPA.S) PROPYLENE GLYCOL GLYCYRRHIZINATE DIPOTASSIUM HYDROXYETHYL CELLULOSE, UNSPECIFIED DIMETHICONOL (40 CST) TRISODIUM ETHYLENEDIAMINE DISUCCINATE ZINC PIDOLATE GLYCERYL MONOSTEARATE PEG-100 STEARATE MALTODEXTRIN MENTHOL LIMOSILACTOBACILLUS FERMENTUM SAGE CHAMOMILE
+active_ingredient:
+  Active ingredient Salicylic acid 1.2%
+purpose:
+  Purpose Acne treatment
+indications_and_usage:
+  Uses for the treatment of acne clears acne blemishes and allows skin to heal helps keep skin clear of new acne blemishes
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the skin thoroughly before applying this product cover the entire affected area with a thin layer one to three times daily because excessive drying of the skin may occur, start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor if bothersome dryness or peeling occurs, reduce application to once a day or every other day
+inactive_ingredient:
+  Inactive ingredients water, glycerin, butylene glycol, niacinamide, dimethicone, cetearyl alcohol, isohexadecane, sodium hydroxide, ammonium polyacryloyldimethyl taurate, laureth-4, polyacrylate crosspolymer-6, propylene glycol, dipotassium glycyrrhizate, hydroxyethylcellulose, dimethiconol, trisodium ethylenediamine disuccinate, zinc PCA, glyceryl stearate, PEG-100 stearate, silica silylate, hydroxypropyl starch phosphate, maltodextrin, menthol, lactobacillus ferment, salvia officinalis (sage) leaf extract, chamomilla recutita (matricaria) flower extract
+questions:
+  Questions or comments? Call toll free 1-800-946-4453
+package_label_principal_display_panel:
+  image of a carton
+set_id:
+  14429a1d-7db9-49a7-85d6-22374d03ecaa
+id:
+  244d3124-90d7-4d12-949b-17c4cc80cf16
+effective_time:
+  20231230
+version:
+  2
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Kiehls Since 1851 Dermatologist Solutions Expertly Clear Acne Treating and Preventing
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-057
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    2641586
+  spl_id:
+    244d3124-90d7-4d12-949b-17c4cc80cf16
+  spl_set_id:
+    14429a1d-7db9-49a7-85d6-22374d03ecaa
+  package_ndc:
+    49967-057-01
+    49967-057-02
+    49967-057-03
+    49967-057-04
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

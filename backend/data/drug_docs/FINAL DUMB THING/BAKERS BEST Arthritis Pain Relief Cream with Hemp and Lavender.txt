@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  BAKERS BEST Arthritis Pain Relief Cream with Hemp and Lavender HISTAMINE DIHYDROCHLORIDE ALOE VERA LEAF WATER ARNICA MONTANA FLOWER INDIAN FRANKINCENSE BUTYLENE GLYCOL CANNABIS SATIVA SEED OIL EMU OIL ETHYLHEXYL STEARATE GLUCOSAMINE SULFATE SUNFLOWER OIL HYDROCHLORIC ACID C13-14 ISOPARAFFIN LAURETH-7 LAVENDER OIL METHYLISOTHIAZOLINONE DIMETHYL SULFONE POTASSIUM SORBATE EDETATE SODIUM .ALPHA.-TOCOPHEROL ACETATE TRIDECETH-6 HISTAMINE DIHYDROCHLORIDE HISTAMINE
+spl_unclassified_section:
+  Drug Facts
+  Additional Information: Store at room temperature.
+active_ingredient:
+  Active Ingredients Histamine DHCL (0.03%) Purpose Topical Analgesic
+purpose:
+  Purpose Topical Analgesic
+indications_and_usage:
+  Indications: For the temporary relief of minor aches and pains of muscles and joints, associated with arthritis, simple back aches, strains, bruises, and sprains.
+warnings:
+  Warnings: For external use only. Avoid contact with eyes. If symptoms persist for more than seven days, discontinue use and consult a physician. Keep out of reach of children. If swallowed, consult a physician ASAP. Do not apply to wounds or damaged skin. Do not bandage tightly. If pregnant or breast feeding, contact a physician prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, consult a physician ASAP. Do not apply to wounds or damaged skin. Do not bandage tightly.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, contact a physician prior to use.
+dosage_and_administration:
+  Directions: Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. Children under two-years of age: consult a physician.
+inactive_ingredient:
+  Inactive Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, Butylene Glycol, Cannabis Sativa (Hemp) Seed Oil, Chondroitin Sulfate, Emu Oil, Ethylhexyl Stearate, Glucosamine Sulfate, Helianthus Annuus (Sunflower) Seed Oil, Hydrochloric Acid, C13-14 Isoparaffin, Laureth-7, Lavandula Angustifolia (Lavender) Oil, Methylisothiazolinone, Methylsulfonylmethane (MSM), Polyacrylamide, Potassium Sorbate, Sodium Polyacrylate, Tetrasodium EDTA, Tocopheryl Acetate (Vitamine E), Trideceth-6.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  03ec87c5-6669-4afb-8d9c-c8dc9907495d
+id:
+  097603dc-2280-2bef-e063-6294a90a1bdd
+effective_time:
+  20231106
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    BAKERS BEST Arthritis Pain Relief Cream with Hemp and Lavender
+  generic_name:
+    HISTAMINE DIHYDROCHLORIDE
+  manufacturer_name:
+    BAKER'S BEST HEALTH PRODUCTS, INC.
+  product_ndc:
+    76102-329
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HISTAMINE DIHYDROCHLORIDE
+  spl_id:
+    097603dc-2280-2bef-e063-6294a90a1bdd
+  spl_set_id:
+    03ec87c5-6669-4afb-8d9c-c8dc9907495d
+  package_ndc:
+    76102-329-00
+  is_original_packager:
+    True
+  unii:
+    3POA0Q644U

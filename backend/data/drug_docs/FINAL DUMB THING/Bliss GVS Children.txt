@@ -1,0 +1,87 @@
+spl_product_data_elements:
+  Bliss GVS Children Glycerin WATER SODIUM STEARATE GLYCERIN GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  TAMPER EVIDENT: DO NOT USE IF SEALED WRAPPER AROUND SUPPOSITORIES IS BROKEN OR MISSING Manufactured and Marketed by: BLISS GVS PHARMA LTD. 102, Hyde Park, Saki Vihar Road, Andheri (E) Mumbai-400 072, INDIA Email: info@blissgvs.com • www.blissgvs.com
+active_ingredient:
+  Active ingredient (in each suppository) Glycerin USP, 1.2 grams
+purpose:
+  Purpose Laxative
+indications_and_usage:
+  Uses for relief of occasional constipation this product usually produces bowel movement in 1/4 to 1 hour
+warnings:
+  Warnings For rectal use only Do not use for longer than one week unless directed by a doctor Ask a doctor before use if the child has abdominal pain, nausea or vomiting a sudden change in bowel habits lasting more than 2 weeks When using this product your child may have rectal discomfort or a burning sensation Stop use and ask a doctor if the child has rectal bleeding no bowel movement after using this product These may indicate a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use for longer than one week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if the child has abdominal pain, nausea or vomiting a sudden change in bowel habits lasting more than 2 weeks
+when_using:
+  When using this product your child may have rectal discomfort or a burning sensation
+stop_use:
+  Stop use and ask a doctor if the child has rectal bleeding no bowel movement after using this product These may indicate a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions children 2 to under 6 years of age: 1 suppository once daily children under 2 years: ask a doctor insert suppository well up into rectum and retain for 15 minutes it need not melt to produce laxative action
+storage_and_handling:
+  Other information keep away from excessive heat.
+inactive_ingredient:
+  Inactive ingredients purified water, sodium stearate
+questions:
+  Questions or Comments? Call 1-888-830-6075
+package_label_principal_display_panel:
+  NDC 72701-105-12 Children GLYCERIN SUPPOSITORIES LAXATIVE For ages 2 to 5 years For fast, gentle relief of occasional constipation 12 Suppositories Glycerin Child Suppositories
+set_id:
+  03237ed2-265f-4acd-b504-d82b9263287c
+id:
+  24aa2d9b-97e2-780c-e063-6394a90aa591
+effective_time:
+  20241017
+version:
+  2
+openfda:
+  application_number:
+    M007
+  brand_name:
+    Bliss GVS Children
+  generic_name:
+    GLYCERIN
+  manufacturer_name:
+    Bliss GVS Pharma Limited
+  product_ndc:
+    72701-105
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    RECTAL
+  substance_name:
+    GLYCERIN
+  rxcui:
+    421299
+  spl_id:
+    24aa2d9b-97e2-780c-e063-6394a90aa591
+  spl_set_id:
+    03237ed2-265f-4acd-b504-d82b9263287c
+  package_ndc:
+    72701-105-12
+    72701-105-25
+  is_original_packager:
+    True
+  nui:
+    N0000185370
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0009417
+  pharm_class_epc:
+    Non-Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Glycerol [CS]
+  unii:
+    PDC6A3C0OX

@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  A-9 House dust ALCOHOL WATER HOUSE DUST HOUSE DUST
+spl_unclassified_section:
+  NDC 58264-0301-1
+  To be used according to standard homeopathic indications.
+indications_and_usage:
+  INDICATIONS Allergies.
+purpose:
+  Allergies.
+active_ingredient:
+  INGREDIENTS House dust 6/12/30x, Mattress dust 6/12/30x, Upholstery dust 6/12/30x, Rug dust 6/12/30x, 20% alcohol in purified water.
+inactive_ingredient:
+  House dust 6/12/30x, Mattress dust 6/12/30x, Upholstery dust 6/12/30x, Rug dust 6/12/30x, 20% alcohol in purified water.
+dosage_and_administration:
+  SUGGESTED DOSAGE Normal dose for the first week is 2-3 drops in water T.I.D. Add one drop per dose per week until a total of ten drops is reached. SHAKE WELL
+warnings:
+  Warnings Use only if cap seal is unbroken. As with drugs if you are pregnant or nursing a baby seek professional advice before using this product. Keep this and all medication out of the reach of children.
+pregnancy_or_breast_feeding:
+  As with drugs if you are pregnant or nursing a baby seek professional advice before using this product.
+keep_out_of_reach_of_children:
+  Keep this and all medication out of the reach of children.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 1 FL. OZ. Bottle Label DYNAMIC NUTRITIONAL ASSOCIATES, INC. A-9 DUST MIX HOMEOPATHIC ANTIGEN 1 FL. OZ. PRINCIPAL DISPLAY PANEL - 1 FL. OZ. Bottle Label
+set_id:
+  82c6a284-e728-41ba-83be-169aee864de5
+id:
+  2b507a62-be47-0228-e063-6394a90a3aeb
+effective_time:
+  20250109
+version:
+  3
+openfda:
+  brand_name:
+    A-9
+  generic_name:
+    HOUSE DUST
+  manufacturer_name:
+    DNA Labs, Inc.
+  product_ndc:
+    58264-0301
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    SUBLINGUAL
+  substance_name:
+    HOUSE DUST
+  spl_id:
+    2b507a62-be47-0228-e063-6394a90a3aeb
+  spl_set_id:
+    82c6a284-e728-41ba-83be-169aee864de5
+  package_ndc:
+    58264-0301-1
+  is_original_packager:
+    True
+  nui:
+    N0000185374
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0006896
+  pharm_class_epc:
+    Non-Standardized House Dust Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    House Dust [CS]
+  unii:
+    EYO007VX98

@@ -1,0 +1,60 @@
+effective_time:
+  20200907
+inactive_ingredient:
+  Water Butylene glycol Isohexadecane Polyglyceryl-3 Methylglucose Distearate Cyclopentasiloxane Behenyl Alcohol Myrciaria Dubia Fruit Extract Euterpe Oleracea Fruit Extract Squalane Butyrospermum Parkii (Shea Butter) Glycerin Dimethicone Cetearyl Alcohol Glyceryl Stearate PEG-100 Stearate Macadamia Integrifolia Seed Oil Limnanthes Alba (Meadowfoam) Seed Oil Hydrogenated Lecithin Sodium Hyaluronate Hydrogenated Polydecene Cholesterol PPG-26-Buteth-26 PEG-40 Hydrogenated Castor Oil Algin Citric Acid Acrylates/C10-30 Alkyl Acrylate Crosspolymer Arginine Acanthopanax Senticosus (Eleuthero) Root Extract Punica Granatum Fruit Extract Panax Ginseng Root Extract Carthamus Tinctorius (Safflower) Flower Extract Ardisia Crispa Extract Rubus Coreanus Fruit Extract Phellinus Linteus Extract Aloe Barbadensis Leaf Extract Nelumbo Nucifera Leaf Extract CI 19140 CI 42090 CI 16185 Buddleja Davidii Extract Leontopodium alpinum extract Malva Sylvestris (Mallow) Flower Extract Chrysanthemum Indicum Callus culture extract Bambusa vulgaris Callus Culture extracts Aloe vera Callus Culture extracts Phenoxyethanol Ethylhexylglycerin Perfume
+purpose:
+  anti-wrinkle
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  For external use only When using this product ■ if the following symptoms occurs after use, stop use and consult with a skin specialist red specks, swelling, itching ■ don’t use on the part where there is injury, eczema, or dermatitis Keep out of reach of children ■ if swallowed, get medical help or contact a person control center immediately
+spl_product_data_elements:
+  AP II NeckCream adenosine, niacinamide WATER ADENOSINE ADENOSINE NIACINAMIDE NIACINAMIDE
+openfda:
+  brand_name:
+    AP II NeckCream
+  generic_name:
+    ADENOSINE, NIACINAMIDE
+  manufacturer_name:
+    NOKSIBCHO cosmetic Co., Ltd.
+  product_ndc:
+    73590-0053
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ADENOSINE
+    NIACINAMIDE
+  spl_id:
+    aeb29f2c-d1e9-981d-e053-2a95a90a2047
+  spl_set_id:
+    aeb29f2c-d1e8-981d-e053-2a95a90a2047
+  package_ndc:
+    73590-0053-1
+  is_original_packager:
+    True
+  nui:
+    N0000178375
+    N0000175788
+  pharm_class_epc:
+    Adenosine Receptor Agonist [EPC]
+  pharm_class_moa:
+    Adenosine Receptor Agonists [MoA]
+  unii:
+    K72T3FS567
+    25X51I8RD4
+version:
+  1
+dosage_and_administration:
+  
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  apply proper amount to the skin
+set_id:
+  aeb29f2c-d1e8-981d-e053-2a95a90a2047
+id:
+  aeb29f2c-d1e9-981d-e053-2a95a90a2047
+active_ingredient:
+  adenosine, niacinamide

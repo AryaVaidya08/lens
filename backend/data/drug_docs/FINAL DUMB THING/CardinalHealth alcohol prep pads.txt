@@ -1,0 +1,35 @@
+effective_time:
+  20181226
+inactive_ingredient:
+  Inactive Ingredient: purified water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately. Flammable, keep away from fire or flame.
+warnings:
+  Warnings For external use only Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately. Flammable, keep away from fire or flame. Do Not Use with electrocautery procedures. in the eyes on mucous membranes on irritated skin Stop use and ask a doctor if irritation and redness develops. Caution: In case of deep or puncture wounds, consult a doctor.
+spl_product_data_elements:
+  CardinalHealth alcohol prep pads LARGE ISOPROPYL ALCOHOL WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions for use Wipe injection vigorously and discard.
+spl_unclassified_section:
+  CardinalHealth alcohol prep pads LARGE
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops. Caution: In case of deep or puncture wounds, consult a doctor.
+storage_and_handling:
+  Other information Store at room temperature 15-30 degrees C (59-86 degrees F)
+do_not_use:
+  Do Not Use with electrocautery procedures. in the eyes on mucous membranes on irritated skin
+package_label_principal_display_panel:
+  CardinalHealth alcohol prep pads LARGE 200 pads (63517-112-02) InnerLabel OuterLabel
+indications_and_usage:
+  Use: For preparation of the skin prior to injection.
+set_id:
+  5379a2b9-4cb2-40ed-a5cd-8cb7eb907562
+id:
+  7df269ae-0624-51cd-e053-2a91aa0a2723
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol USP, 70% v/v

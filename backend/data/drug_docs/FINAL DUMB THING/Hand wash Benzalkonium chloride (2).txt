@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Hand wash Benzalkonium chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER LAURAMINE OXIDE cocamidopropyl betaine LAURAMIDOPROPYLAMINE OXIDE SODIUM CHLORIDE MYRISTAMIDOPROPYLAMINE OXIDE glycerin DISTEARETH-75 ISOPHORONE DIISOCYANATE PEG-150 DISTEARATE CITRIC ACID MONOHYDRATE EDETATE SODIUM SULISOBENZONE SODIUM BENZOATE D&C RED NO. 33 FD&C RED NO. 40 FD&C YELLOW NO. 5
+active_ingredient:
+  Active ingredient Benzalkonium chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  warnings For external use only: hands only
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly
+inactive_ingredient:
+  Inactive ingredients water, lauramine oxide, cocamidopropyl betaine, lauramidopropylamine oxide, sodium chloride, myristamidopropylamine oxide, glycerin, fragrance, disteareth-75 IPDI, PEG-150 distearate, citric acid, tetrasodium EDTA, benzophenone-4, sodium benzoate, red 33, red 40, yellow 5
+spl_unclassified_section:
+  *This product is not manufacture or distributed by Colgate-Palmolive Company, distributor of Softsoap Crisp Clean Antibacterial Hand Soap with Moisturizers. DISTRIBUTED BY FOODHOLD U.S.A., LLC, LANDOVER, MD 20785 1-877-846-9949 Quality guaranteed or your money back
+package_label_principal_display_panel:
+  principal display panel Compare to Softsoap® Antibacterial Hand Soap with Moisturizers* CAREONE Antibacterial Hand Soap Light Moisturizing 7.5 FL OZ (221 mL) image description
+set_id:
+  5d6ad340-244e-4082-9ad1-a26b8e196d77
+id:
+  c30c131e-d93a-403e-a44c-13dab676386c
+effective_time:
+  20230919
+version:
+  7
+openfda:

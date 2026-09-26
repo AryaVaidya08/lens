@@ -1,0 +1,29 @@
+effective_time:
+  20210604
+inactive_ingredient:
+  Inactive Ingredient: Distilled water
+purpose:
+  Use: Temporary relief of headache.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use. Do not use if safety seal is broken or missing. REFRIGERATE AFTER OPENING. BEST WHEN USED WITHIN 90 DAYS OF OPENING.
+questions:
+  Questions? Call 866.642.2858 Made with care by Uriel, East Troy, WI 53120 www.urielpharmacy.com
+spl_product_data_elements:
+  Argentum 10 Special Order Argentum 10 Special Order WATER SILVER SILVER
+openfda:
+version:
+  3
+dosage_and_administration:
+  Take 3-4 times daily. Age 12 and older: 10 drops. Ages 2-11: 5 drops. Under age 2: Consult a doctor.
+package_label_principal_display_panel:
+  Argentum10xSOLiquid
+indications_and_usage:
+  Directions: FOR ORAL USE ONLY.
+set_id:
+  96f1e531-2641-4f47-9cf2-c70a977bb0d7
+id:
+  c3f60d01-e057-35e6-e053-2a95a90a7293
+active_ingredient:
+  Active Ingredient: Argentum metallicum 10X

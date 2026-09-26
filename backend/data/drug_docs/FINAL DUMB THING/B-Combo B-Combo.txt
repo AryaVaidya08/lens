@@ -1,0 +1,15 @@
+dosage_forms_and_strengths:
+  1ml
+effective_time:
+  20151123
+package_label_principal_display_panel:
+  Package Label
+spl_product_data_elements:
+  B-Combo B-Combo METHYLCOBALAMIN METHYLCOBALAMIN RIBOFLAVIN RIBOFLAVIN NIACINAMIDE NIACINAMIDE DEXPANTHENOL DEXPANTHENOL PYRIDOXINE PYRIDOXINE THIAMINE THIAMINE ION
+set_id:
+  253e0d06-8a36-5175-e054-00144ff8d46c
+id:
+  253e0d06-8a37-5175-e054-00144ff8d46c
+openfda:
+version:
+  1

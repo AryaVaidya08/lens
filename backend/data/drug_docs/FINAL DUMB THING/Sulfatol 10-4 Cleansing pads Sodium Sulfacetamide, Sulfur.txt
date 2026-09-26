@@ -1,0 +1,41 @@
+pediatric_use:
+  PEDIATRIC USE : Safety and effectiveness in children under the age of 12 have not been established.
+effective_time:
+  20101206
+contraindications:
+  CONTRAINDICATIONS: Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads are contraindicated for the use by patients having known hypersensitivity to sulfonamides, sulfur or any other component of this preparation. Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads are not used by patients with kidney disease.
+precautions:
+  PRECAUTIONS: General - If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients should be cautioned about the possibility.
+pregnancy:
+  PREGNANCY : Category C - Animal reproduction studies have not been conducted with Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads . It is also not know whether Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads should be given to a pregnant woman only if clearly needed. I f pregnant, or planning to become pregnant or are currently breast-feeding please contact your physician, or health-care provider before using or continuing use.
+nursing_mothers:
+  NURSING MOTHERS : It is not known whether sodium sulfacetamide is excreted in the human milk following topical use of Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads . However, small amounts of orally adminstered sulfonamides have been reported to be eliminated in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads are administered to a nursing woman.
+spl_product_data_elements:
+  Sulfatol 10-4 Cleansing pads Sodium Sulfacetamide, Sulfur SULFACETAMIDE SODIUM SULFACETAMIDE Sulfur Sulfur ALOE BUTYLATED HYDROXYTOLUENE CETYL ALCOHOL EDETATE DISODIUM GLYCERIN GLYCERYL MONOSTEARATE POLYOXYL 100 STEARATE METHYLPARABEN PROPYLPARABEN WATER SODIUM LAURYL SULFOACETATE SODIUM THIOSULFATE STEARYL ALCOHOL
+description:
+  DESCRIPTION : Sodium sulfacetamide is a sulfacetamide with antibacterial activity while sulfur acts as a keratolytic agent. Chemically sodium sulfacetamide is N-[(4-aminophenyl) sulfonyl]-acetamide, monosodium salt, monohydrate. Each pad of Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads is coated with a cleanser-based formulation contains 100mg of Sodium Sulfacetamide and 40mg of Sulfur. The cleanser base consists of: aloe, butylated hydroxytoluene, cetyl alcohol, disodium oleamido MEA sulfosuccinate, edetate disodium, fragrance, glycerin, glyceryl steartate/PEG-100 stearate, green tea, methylparaben, propylparaben, purified water, sodium cocoyl isethionate, sodium lauryl sulfoacetate, sodium thiosulfate, stearyl alcohol.
+warnings_and_cautions:
+  WARNINGS: Although rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hermorrhagica, drug fever, jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep away from eyes. Keep out of reach of children. Keep container tightly closed.
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION : Wash affected area(s) with cleansing pad once or twice daily, or as directed by your physician. Wet area(s) with water. Wet pad with a little water and work into a full lather. Cleanse area(s) with pad for 10-20 seconds, avoiding eyes. Rinse thoroughly and pat dry. Discard pad. Do not flush.
+adverse_reactions:
+  ADVERSE REACTIONS : Although rare, sodium sulfacetamide may cause local irritation.
+how_supplied:
+  HOW SUPPLIED: Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads are available in boxes of 60 pads (3.7g), NDC 51991-697-99. Store at 25°C (77°F); excursions permitted to 15° - 30°C (59°-86°F). See USP Controlled Room Temperature. Protect from freezing. Dispense in original container. WARNING: KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. IN CASE OF ACCIDENTAL OVERDOSE, SEEK PROFESSIONAL ASSISTANCE OR CONTACT A POISON CENTER IMMEDIATELY. All prescription substitutions using this product shall be pursuant to state statues as applicable. This is not an Orange Book product.
+information_for_patients:
+  Information for Patients - Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician.
+package_label_principal_display_panel:
+  image of Carton image of Label single pad
+indications_and_usage:
+  INDICATIONS: Sulfatol TM 10-4 (sodium sulfacetamide 10% and sulfur 4%) Cleansing Pads are indicated in the topical control of acne vulgaris, acne rosacea and seborrheic dermatitis.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY : The most widely accepted mechanism of action of sulfonamides is the Woods-Fildes theory, which is based on the fact that sulfonamides act as competitive antagonists to para-aminobenzoic acid (PABA), an essential component for bacterial growth. While absorption through intact skin has not been determined, sodium sulfacetamide is readily absorbed from the gastrointestinal tract when taken orally and excreted in the urine, largely unchanged. The biological half-life has variously been reported as 7 to 12.8 hours. The exact mode of action of sulfur in the treatment of acne is unknown, but it has been reported that it inhibits the growth of Propionibacterium acnes and the formation of free fatty acids.
+set_id:
+  ced3e79c-0f57-4439-afa1-5214fe53c2ec
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis and Impairment of Fertility - Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+id:
+  9544206f-5dce-478f-9544-ca934a614ceb

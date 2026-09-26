@@ -1,0 +1,35 @@
+effective_time:
+  20190910
+inactive_ingredient:
+  Inactive ingredients dicalcium phosphate dihydrate, water, glycerin, sodium lauryl sulfate, cellulose gum, flavor, tetrasodium pyrophosphate, sodium saccharin
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions or comments? Call toll-free 1-800-468-6502
+spl_product_data_elements:
+  Colgate Great Regular Flavor Sodium Monofluorophosphate Sodium Monofluorophosphate fluoride ion DIBASIC CALCIUM PHOSPHATE DIHYDRATE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY New York, NY 10022 Made in Canada www.colgate.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 85 gram Tube Colgate ® Fluoride Toothpaste ADA Accepted American Dental Association® NET WT 3.0 OZ (85 g) Cavity Protection Strengthens Teeth with Active Fluoride Great Regular Flavor PRINCIPAL DISPLAY PANEL - 85 gram Tube
+  PRINCIPAL DISPLAY PANEL - 85 gram Tube Carton Colgate ® Fluoride Toothpaste ADA Accepted American Dental Association® NET WT 3.0 OZ (85 g) Cavity Protection Strengthens Teeth with Active Fluoride Great Regular Flavor PRINCIPAL DISPLAY PANEL - 85 gram Tube Carton
+indications_and_usage:
+  Use helps protect against cavities
+set_id:
+  ce5c6085-718d-409b-8d0f-e2e8419016c4
+id:
+  e7835997-22b5-4fe5-bda2-40a11532b350
+active_ingredient:
+  Active ingredient Sodium monofluorophosphate 0.76% (0.15% w/v fluoride ion)
+dosage_and_administration_table:
+  <table width="60%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td styleCode="Rrule Botrule">adults and children 2 years of age and older</td> <td styleCode="Botrule">brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children 2 to 6 years</td> <td>use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">children under 2 years</td> <td>ask a dentist or physician</td> </tr> </tbody> </table>

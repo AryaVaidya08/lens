@@ -1,0 +1,30 @@
+effective_time:
+  20200613
+inactive_ingredient:
+  Inactive Ingredient Water, Glycerin, Propylene Glycol, Carbomer, Triethanolamine, Fragrance, Blue NO.1, Yellow NO.5
+purpose:
+  Purpose Antiseptic Hand Sanitizer
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings External Use Only. DO NOT EAT. Keep out of reach of children if swallowed get medical help or contact a Poison Control Center right away.
+  Flammable: Keep away from flame or high heat
+spl_product_data_elements:
+  Hand Sanitizer Sour Apple Alcohol PROPYLENE GLYCOL WATER GLYCERIN CARBOMER HOMOPOLYMER TYPE B (ALLYL SUCROSE CROSSLINKED) TRIETHANOLAMINE 2-CYCLOHEXYL-4,6-DINITROPHENOLATE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 APPLE ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Rub hands thoroughly with product and allow to dry.
+stop_use:
+  Stop and Ask a doctor if Irritation or redness develop.
+package_label_principal_display_panel:
+  HAND SANITIZER SOUR APPLE Label Image
+indications_and_usage:
+  Use Decrease bacteria on hands
+set_id:
+  631017aa-4689-412e-9913-e5fba4b65636
+id:
+  a7f97524-5e06-24f5-e053-2a95a90a377b
+active_ingredient:
+  Active ingredient Alcohol 62% Purpose Antiseptic Hand Sanitizer

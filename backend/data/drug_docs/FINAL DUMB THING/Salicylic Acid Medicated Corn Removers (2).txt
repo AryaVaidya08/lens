@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Salicylic Acid Medicated Corn Removers POLYVINYL ALCOHOL, UNSPECIFIED VINYL ACETATE HIGH DENSITY POLYETHYLENE SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active ingredient Salicylic acid 40%
+purpose:
+  Purpose Corn remover
+indications_and_usage:
+  Uses for the removal of corns relieves pain by removing corns
+warnings:
+  Warnings For external use only. Do not use if you are diabetic if you have poor blood circulation on irritated skin, or any area that is infected or reddened Stop use and ask a doctor if discomfort persists Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are diabetic if you have poor blood circulation on irritated skin, or any area that is infected or reddened
+ask_doctor:
+  Stop use and ask a doctor if discomfort persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wash affected area and dry thoroughly if necessary, cut medicated patch to fit corn apply adhesive side of medicated patch onto corn cover medicated patch with pad after 48 hours, remove medicated patch repeat procedure every 48 hours as needed for up to 14 days (until corn is removed) may soak corn in warm water for 5 minutes to assist in removal
+other_safety_information:
+  Other information store between 15° and 30°C (59°F to 86°F)
+inactive_ingredient:
+  Inactive ingredients acrylic adhesive, acrylic polymer, polyethylene, polyvinyl alcohol
+questions:
+  Questions? call 1-866-964-0939
+package_label_principal_display_panel:
+  Principal Display Panel FAMILY wellness MEDICATED Corn Removers Salicylic acid Effective Corn Removal Treatment Protects Against Pressure & Friction 9 MEDICATED PATCHES/ 9 PADS corn removers
+set_id:
+  eacc4934-0dd4-4888-9478-3e75793fd3d1
+id:
+  177d9892-c902-027f-e063-6294a90a5c99
+effective_time:
+  20240502
+version:
+  6
+openfda:

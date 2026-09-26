@@ -1,0 +1,32 @@
+effective_time:
+  20200428
+inactive_ingredient:
+  Inactive Ingredients INACTIVE INGREDIENTS: Purified Water (Aqua), Isopropanol, Propylene Glycol, Isopropyl Myristate.
+purpose:
+  Purpose Purpose - Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. Do not use on children less than 2 months of age. Supervise use in children under 6 years of age to prevent swallowing. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Warnings - For external use only. Do not ingest or swallow. Flammable. Keep away from fire or flame. Do not apply around eyes. Do not use in ears & mouth.
+spl_product_data_elements:
+  Pharmacys Prescription Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER ISOPROPYL ALCOHOL PROPYLENE GLYCOL ISOPROPYL MYRISTATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Directions - Apply as needed into your palms and thoroughly spread on both hands. - rub in skin until dry.
+stop_use:
+  Stop Use Stop use and ask a doctor if redness or irritation develops and persists for more than 72 hours.
+spl_unclassified_section:
+  Other Information Other information - store at 20° C (68° to 77° F). -may discolor fabrics.
+  Distributed By: Distributed By: American Consumer Products Corp Vernon, CA 90058
+package_label_principal_display_panel:
+  Pharmacys Prescription Hand Sanitizer Pharmacys Prescription Hand Sanitizer
+indications_and_usage:
+  Indications & Usage When using this product, avoid contact with eyes. In case of contact, flush eyes with water.
+set_id:
+  a383d147-1b48-d254-e053-2995a90a0e38
+id:
+  a460a91c-5acf-9a1c-e053-2a95a90a988d
+active_ingredient:
+  Active Ingredients Active ingredients - Ethyl Alcohol 71.5%

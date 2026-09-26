@@ -1,0 +1,35 @@
+effective_time:
+  20180216
+inactive_ingredient:
+  ​Inactive ingredients ​water (aqua), potassium cocoate, hexylene glycol, sodium sulfate, tetrasodium EDTA, sodium laryl sulfate, hydroxyethylcellulose, glycerin, cocoglucoside, glyceryl oleate, citric acid, fragrance, methylchloroisothiazolinone, methylisothiazolinone, FDC Red 40, FDC Yellow 5, DC Red 33
+references:
+  Other information for additional information, see Material Safety Data Sheet (MSDS) for emergency medical information in USA and Canada, call 1-800-328-0026
+purpose:
+  Purpose Antiseptic handwash
+keep_out_of_reach_of_children:
+  ​Keep out of reach of children. ​ If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings ​For external use only Do not use In eyes When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop Stop use and ask a doctor if Skin irritation or redness occurs for more than 72 hours ​Keep out of reach of children. ​ If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product If in eyes, rinse promptly and thoroughly with water Discontinue use if irritation and redness develop
+spl_product_data_elements:
+  PureForce Chloroxylenol CHLOROXYLENOL CHLOROXYLENOL WATER POTASSIUM COCOATE HEXYLENE GLYCOL SODIUM SULFATE EDETATE SODIUM SODIUM LAURYL SULFATE HYDROXYETHYL CELLULOSE (2000 CPS AT 1%) glycerin COCO GLUCOSIDE GLYCERYL OLEATE CITRIC ACID MONOHYDRATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C RED NO. 40 FD&C YELLOW NO. 5 D&C RED NO. 33
+ask_doctor:
+  Stop use and ask a doctor if Skin irritation or redness occurs for more than 72 hours
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hands and forearms Apply 5 ml (teaspoonful) or palmful to hands and forearms Scrub thoroughly for 20 seconds Rinse and repeat
+do_not_use:
+  Do not use In eyes
+package_label_principal_display_panel:
+  Principal Display Panel and Representative Label Economy Antibacterial Hand Soap Active Ingredient: Chloroxylenol 0.5% 8000151 Net Contents: 27 US fl oz / 800 mL For questions or comments, call 1-866-444-7450. Distributed by: PureForce 370 Wabasha Street North St. Paul, MN 55102 ©2012 Ecolab USA Inc. All Rights Reserved Made in U.S.A. 718809/7100/0812 representative label representative label
+indications_and_usage:
+  Uses For handwshing to decrease bacteria on the skin
+set_id:
+  f6fbd3ff-0426-4534-8a08-26a253b9752b
+id:
+  a536f17f-fc6a-4058-9c0c-b99b3dfd050e
+active_ingredient:
+  Active ingredient Chloroxylenol 0.5%

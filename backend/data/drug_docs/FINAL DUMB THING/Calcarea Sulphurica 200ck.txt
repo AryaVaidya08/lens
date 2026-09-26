@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Calcarea Sulphurica 200ck CALCIUM SULFATE ANHYDROUS SUCROSE CALCIUM SULFATE ANHYDROUS CALCIUM CATION
+active_ingredient:
+  active ingredient: HOMEOPATHIC DILUTION OF HPUS Calcarea Sulphurica 200ck **C, K, CK, AND X ARE HOMEOPATHIC DILUTIONS
+purpose:
+  TRADITIONALLY USED FOR: Acne* - Abscesses*
+dosage_and_administration:
+  DIRECTIONS: (adults/children) Dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a physician.
+indications_and_usage:
+  USE: Condition listed above or as directed by a physician.
+warnings:
+  WARNINGS: Stop use and ask a physician if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+other_safety_information:
+  OTHER INFORMATION: Store at room temperature.
+do_not_use:
+  Do not use if pellet-dispenser seal is broken.
+inactive_ingredient:
+  INACTIVE INGREDIENT: SUCROSE.
+questions:
+  QUESTIONS? INFO@OLLOIS.COM * www.ollois.com * MADE IN FRANCE. NOT REVIEWED BY THE FDA AND NOT GUARANTEED TO BE EFFECTIVE. THIS HOMEOPATHIC DILUTION MAY NOT BE SUSEPTIBLE TO SCIENTIFIC MEASUREMENT.
+recent_major_changes:
+  USE: Condition listed above or as directed by a physician.
+package_label_principal_display_panel:
+  CALCAREA_SULPH 200CK CALCAREA_SULPH 200CK CALCAREA_SULPH 200CK
+set_id:
+  c8d51479-1fe1-68d5-e053-2995a90aae72
+id:
+  2ddc269b-5442-d6b3-e063-6394a90a5f0a
+effective_time:
+  20250211
+version:
+  4
+openfda:
+  brand_name:
+    Calcarea Sulphurica 200ck
+  generic_name:
+    CALCIUM SULFATE ANHYDROUS
+  manufacturer_name:
+    SEVENE USA
+  product_ndc:
+    76472-3009
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    SUBLINGUAL
+  substance_name:
+    CALCIUM SULFATE ANHYDROUS
+  spl_id:
+    2ddc269b-5442-d6b3-e063-6394a90a5f0a
+  spl_set_id:
+    c8d51479-1fe1-68d5-e053-2995a90aae72
+  package_ndc:
+    76472-3009-1
+  is_original_packager:
+    True
+  upc:
+    0850022941283
+  unii:
+    E934B3V59H

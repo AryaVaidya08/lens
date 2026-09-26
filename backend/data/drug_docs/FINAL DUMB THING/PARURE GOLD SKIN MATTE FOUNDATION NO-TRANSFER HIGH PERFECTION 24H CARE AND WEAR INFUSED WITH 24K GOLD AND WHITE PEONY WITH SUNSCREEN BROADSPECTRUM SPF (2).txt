@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  PARURE GOLD SKIN MATTE FOUNDATION NO-TRANSFER HIGH PERFECTION 24H CARE AND WEAR INFUSED WITH 24K GOLD AND WHITE PEONY WITH SUNSCREEN BROADSPECTRUM SPF 15 0.5C OCTISALATE, TITANIUM DIOXIDE WATER METHYL TRIMETHICONE ISODODECANE ALCOHOL MAGNESIUM POTASSIUM ALUMINOSILICATE FLUORIDE BUTYLENE GLYCOL PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE GLYCERIN SILICON DIOXIDE DIMETHICONE DISTEARDIMONIUM HECTORITE SODIUM MYRISTOYL GLUTAMATE .ALPHA.-GLUCAN OLIGOSACCHARIDE BETAINE PROPYLENE CARBONATE CHLORPHENESIN SMALLANTHUS SONCHIFOLIUS ROOT JUICE PAEONIA LACTIFLORA ROOT CALCIUM ALUMINUM BOROSILICATE ALUMINUM HYDROXIDE MALTODEXTRIN TROMETHAMINE ALUMINUM OXIDE STEARIC ACID TOCOPHEROL PRUNUS CERASUS FLOWER PAEONIA LACTIFLORA FLOWER GOLD STANNIC OXIDE OCTISALATE OCTISALATE TITANIUM DIOXIDE TITANIUM DIOXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information Protect this product from excessive heat and direct sun.
+active_ingredient:
+  Active ingredients Ethylhexyl Salicylate 3.5% Titanium dioxide 0.94% Purpose sunscreen
+purpose:
+  Purpose sunscreen
+indications_and_usage:
+  Use Helps prevent sunburn
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: Apply liberally 15 minutes before sun exposure. Reapply at least every two hours. Use a water resistant sunscreen if swimming or sweating. Sun protection measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m.-2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses. children under 6 months: Ask a doctor.
+inactive_ingredient:
+  Inactive ingredients WATER • METHYL TRIMETHICONE • ISODODECANE • ALCOHOL • SYNTHETIC FLUORPHLOGOPITE • BUTYLENE GLYCOL • PEG-9 POLYDIMETHYLSILOXYETHYL DIMETHICONE • GLYCERIN • ACRYLATES/POLYTRIMETHYLSILOXYMETHACRYLATE COPOLYMER • SILICA • DIMETHICONE • ACRYLATES/DIMETHICONE COPOLYMER • DISTEARDIMONIUMHECTORITE • CETYL DIMETHICONE • FRAGRANCE • POLYGLYCERYL-10 DECAISOSTEARATE • SODIUM MYRISTOYL GLUTAMATE • ALPHA-GLUCAN OLIGOSACCHARIDE • BETAINE • PROPYLENE CARBONATE • CHLORPHENESIN • POLYMNIA SONCHIFOLIA ROOT JUICE • PAEONIA LACTIFLORA ROOT EXTRACT • CALCIUM ALUMINUM BOROSILICATE • ALUMINUM HYDROXIDE • MALTODEXTRIN • TROMETHAMINE • ALUMINA • STEARIC ACID • TOCOPHEROL • PRUNUS CERASUS (BITTER CHERRY) FLOWER EXTRACT • LACTOBACILLUS • PAEONIA ALBIFLORA FLOWER EXTRACT • GOLD • TIN OXIDE • [MAY CONTAIN: TITANIUM DIOXIDE • IRON OXIDES] ( 16947)
+questions:
+  Question? 855 454 6242 Monday through Friday 9am to 5pm EST.
+package_label_principal_display_panel:
+  Package Labeling:35ml 35ml Label 35ml Bottle 35ml Label2
+  Package Labeling:20ml 20ml Bottle 3W Label20ml
+set_id:
+  a6c8b20f-6377-443b-a89b-8b5d40c65ad8
+id:
+  09a9fa1d-f33c-3a3f-e063-6294a90a31bf
+effective_time:
+  20231108
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    PARURE GOLD SKIN MATTE FOUNDATION NO-TRANSFER HIGH PERFECTION 24H CARE AND WEAR INFUSED WITH 24K GOLD AND WHITE PEONY WITH SUNSCREEN BROADSPECTRUM SPF 15 0.5C
+  generic_name:
+    OCTISALATE, TITANIUM DIOXIDE
+  manufacturer_name:
+    Guerlain
+  product_ndc:
+    49817-2063
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTISALATE
+    TITANIUM DIOXIDE
+  spl_id:
+    09a9fa1d-f33c-3a3f-e063-6294a90a31bf
+  spl_set_id:
+    a6c8b20f-6377-443b-a89b-8b5d40c65ad8
+  package_ndc:
+    49817-2063-1
+    49817-2063-3
+  is_original_packager:
+    True
+  upc:
+    3346470437463
+  unii:
+    4X49Y0596W
+    15FIX9V2JP

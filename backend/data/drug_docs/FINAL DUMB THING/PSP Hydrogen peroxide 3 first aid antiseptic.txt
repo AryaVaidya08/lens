@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  PSP Hydrogen peroxide 3 first aid antiseptic HYDROGEN PEROXIDE WATER HYDROGEN PEROXIDE HYDROGEN PEROXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information Store in a cool, dark place Do not use if shrink band around cap is broken or missing
+active_ingredient:
+  Active ingredient Hydrogen Peroxide 3% Purpose First Aid Antiseptic
+purpose:
+  Purpose First Aid Antiseptic
+indications_and_usage:
+  Uses first aid to help prevent the risk of infection in minor cuts, scrapes, and burns
+warnings:
+  Warnings For external use only. Do not use in the eyes or apply over large areas of the body longer than 1 week unless directed by a doctor Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns Stop use and ask a doctor if the condition persists or gets worse Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  Do not use in the eyes or apply over large areas of the body longer than 1 week unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds, animal bites or serious burns
+stop_use:
+  Stop use and ask a doctor if the condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions • clean the affected area • apply a small amount of this product on the affected area 1 to 3 times a day • may be covered with a sterile bandage • if bandaged, let area dry first
+inactive_ingredient:
+  Inactive ingredient water
+package_label_principal_display_panel:
+  Package Labeling: Label9
+set_id:
+  cba7191e-f71b-a204-e053-2a95a90a65a4
+id:
+  e0e15f5a-9a61-4e63-e053-2a95a90a8e43
+effective_time:
+  20220607
+version:
+  2
+openfda:

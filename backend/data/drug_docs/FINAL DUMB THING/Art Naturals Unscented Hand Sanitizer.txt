@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Art Naturals Unscented Hand Sanitizer CANNABIS SATIVA SEED .ALPHA.-TOCOPHEROL ACETATE VACCINIUM ANGUSTIFOLIUM LEAF MYRCIARIA DUBIA FRUIT CRANBERRY LYCIUM BARBARUM FRUIT HIPPOPHAE RHAMNOIDES FRUIT PROPYLENE GLYCOL FRAGARIA VESCA FRUIT VITIS VINIFERA SEED RUBUS IDAEUS SEED GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATERMELON KIWI FRUIT ACAI WATER ALCOHOL ALCOHOL ALOE VERA LEAF SUNFLOWER OIL PUNICA GRANATUM ROOT BARK BROCCOLI SPROUT JOJOBA OIL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62.5% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Helps reduce bacteria on the skin. Recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product, avoid contacts wtih eyes. In case of contact iwth eyes, flush thoroughly with eater. Avoid contact with broken skin. Stop use and ask doctor if irritation or redness develops or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away
+dosage_and_administration:
+  Directions Dispense one pump of sanitizer onto hands and rub together until dry. Use as needed. For children under 6, use with adult supervison. Not recommended for infants.
+other_safety_information:
+  Other info: Store below 110 (degrees Fahrenheit). May cause discoloration to certain fabrics and surfaces.
+inactive_ingredient:
+  Inactive Ingredients Actinidia Chinensis (Kiwi) Fruit Extract, Aloe Barbadensis Leaf Juice, Aminomethyl Propanol, Brassica Oleracea Italica (Broccoli) Extracts, Cannabis Sativa Seed Extract, Carbomer, Citrullus Vulgaris (Watermelon) Fruit Extract, Euterpe Oleracea Fruit Extract, Fragaria Vesca (Strawberry) Fruit Extract, Glycerin, Helianthus Annuus (Sunflower) Seed Oil, Hippopha Rhamnoidea Fruit Extract, Lycium Barbarum Fruit Extract, Myrciaria Dubia Fruit Extract, Propanediol, Propylene Glycol, Punica Granatum Fruit Extract, Rubus Idaeus (Raspberry) Seed Extrat, Simmondisa Chinensis (Jojoba) Seed Oil, Tocopheryl Acetate, Vaccinium Angustifolium (Blueberry) Leaf Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Vitis Vinifera (Grape) Seed Extract, Water.
+package_label_principal_display_panel:
+  8 oz label 7.5 oz bottle
+set_id:
+  a36d1568-4cbd-c4c9-e053-2995a90a395c
+id:
+  a36d1568-4cbe-c4c9-e053-2995a90a395c
+effective_time:
+  20200416
+version:
+  1
+openfda:

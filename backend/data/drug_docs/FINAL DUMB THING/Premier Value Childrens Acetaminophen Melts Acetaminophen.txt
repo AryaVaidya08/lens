@@ -1,0 +1,43 @@
+effective_time:
+  20150116
+inactive_ingredient:
+  Inactive ingredients citric acid, corn starch, crospovidone, D&C red 30 aluminum lake, dextrose, ethylcellulose, FD&C blue 1 aluminum lake, flavors, gelatin, maltodextrin, magnesium stearate, sucralose
+purpose:
+  Purpose Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes: • more than 5 doses in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if your child is allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if your child has liver disease. Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin. When using this product do not exceed recommended dosage. Stop use and ask a doctor if • pain gets worse or lasts more than 5 days • fever gets worse or lasts more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition. Keep out of reach of children. Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+when_using:
+  When using this product do not exceed recommended dosage.
+questions:
+  Questions or comments? 1-866-467-2748
+spl_product_data_elements:
+  Premier Value Childrens Acetaminophen Melts Acetaminophen ACETAMINOPHEN ACETAMINOPHEN CITRIC ACID MONOHYDRATE STARCH, CORN CROSPOVIDONE (15 MPA.S AT 5%) D&C RED NO. 30 DEXTROSE, UNSPECIFIED FORM ETHYLCELLULOSES FD&C BLUE NO. 1 GELATIN MALTODEXTRIN MAGNESIUM STEARATE SUCRALOSE RP080
+ask_doctor:
+  Ask a doctor before use if your child has liver disease.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions • this product does not contain directions or complete warnings for adult use • do not give more than directed (see overdose warning) • find the right dose on chart. If possible, use weight to dose; otherwise, use age. • Chew before swallowing; this product will soften in mouth for ease of chewing • repeat dose every 4 hours while symptoms last • do not give more than 5 times in 24 hours • do not give for more than 5 days unless directed by a doctor Weight (lb) Age (yr) Dose (tablets)* Under 24 Under 2 years ask a doctor 24-35 2-3 years 2 tablets 36-47 4-5 years 3 tablets 48-59 6-8 years 4 tablets 60-71 9-10 years years 5 tablets 72-95 11 6 tablets
+stop_use:
+  Stop use and ask a doctor if • pain gets worse or lasts more than 5 days • fever gets worse or lasts more than 3 days • new symptoms occur • redness or swelling is present These could be signs of a serious condition.
+storage_and_handling:
+  Other information • store at controlled room temperature 20-25ºC (68-77ºF). Avoid high humidity. Protect from light • see end flap for expiration date and lot number
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if your child is allergic to acetaminophen or any of the inactive ingredients in this product
+package_label_principal_display_panel:
+  Product Packaging NDC 68016-196-00 Compare to Children's Tylenol® Meltaways® Active Ingredient* Premier Value Children's Pain Reliever Ages 2-6 ACETAMINOPHEN pain reliever/fever reducer Aspirin Free/ Ibuprofen Free GRAPE FLAVOR 30 count – 80mg each TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING *This product is not manufactured or distributed by McNeil Consumer Healthcare, owner of the registered trademark Children's Tylenol® Meltaways®. Premier Value Children's Pain Reliever
+indications_and_usage:
+  Uses • temporarily relieves minor aches and pains due to: • the common cold • headache • flu • sore throat • toothache • temporarily reduces fever
+set_id:
+  37aed983-2698-42f6-aa66-36022462c488
+id:
+  37aed983-2698-42f6-aa66-36022462c488
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin.
+active_ingredient:
+  Active ingredient (in each tablet) Acetaminophen 80 mg
+dosage_and_administration_table:
+  <table cellpadding="0.2pt" cellspacing="2.4pt" width="100%"> <col width="34%"/> <col width="33%"/> <col width="34%"/> <tbody> <tr> <td styleCode="Toprule " valign="top"> <paragraph> <content styleCode="bold">Weight (lb)</content> </paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph> <content styleCode="bold">Age (yr)</content> </paragraph> </td> <td styleCode="Toprule " valign="top"> <paragraph> <content styleCode="bold"> Dose (tablets)*</content> </paragraph> </td> </tr> <tr> <td valign="top"> <paragraph> Under 24</paragraph> </td> <td valign="top"> <paragraph> Under 2 years</paragraph> </td> <td valign="top"> <paragraph> ask a doctor</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph> 24-35</paragraph> </td> <td valign="top"> <paragraph> 2-3 years</paragraph> </td> <td valign="top"> <paragraph> 2 tablets</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph> 36-47</paragraph> </td> <td valign="top"> <paragraph> 4-5 years</paragraph> </td> <td valign="top"> <paragraph> 3 tablets</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph> 48-59</paragraph> </td> <td valign="top"> <paragraph> 6-8 years</paragraph> </td> <td valign="top"> <paragraph> 4 tablets</paragraph> </td> </tr> <tr> <td valign="top"> <paragraph> 60-71</paragraph> </td> <td valign="top"> <paragraph> 9-10 years years</paragraph> </td> <td valign="top"> <paragraph> 5 tablets </paragraph> </td> </tr> <tr> <td styleCode="Botrule " valign="top"> <paragraph> 72-95</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph> 11</paragraph> </td> <td styleCode="Botrule " valign="top"> <paragraph> 6 tablets</paragraph> </td> </tr> </tbody> </table>

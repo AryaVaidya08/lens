@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  Hand Sanitizer Whipped Vanillas ALCOHOL WATER CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) AMINOMETHYLPROPANOL D&C RED NO. 33 FD&C BLUE NO. 1 ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other Information Store below 105ºF. May discolor fabrics.
+active_ingredient:
+  Active ingredient Alcohol 66% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use To decreae bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire & flame Does not contain grain alcohol; do not drink. If taken internally will produce severe gastic disturbances When using this product Avoid the eyes and mucous membranes In the case of eyes or mucous membrane contact, rinse area thoroughly with water Stop use and ask a doctor if Condition worsens Redness or irritation develops Condition persists for more than 3 days Keep out of reach of children. If swallowed contact a doctor or Poison Control Center immediately.
+when_using:
+  When using this product Avoid the eyes and mucous membranes In the case of eyes or mucous membrane contact, rinse area thoroughly with water
+stop_use:
+  Stop use and ask a doctor if Condition worsens Redness or irritation develops Condition persists for more than 3 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed contact a doctor or Poison Control Center immediately.
+dosage_and_administration:
+  Directions Rub dime sized amount between hands until dry Supervise children in the use of this product In the case of eye contact rinse eyes thoroughly with water
+inactive_ingredient:
+  Inactive ingredients: Water, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Fragrance, D&C Red No.33, Blue No.1.
+questions:
+  Questions? Call 1-888-988-2427
+package_label_principal_display_panel:
+  Package Labeling: Label4
+set_id:
+  c134cfbc-3b01-612a-e053-2995a90ab253
+id:
+  086c92a9-2e26-a240-e063-6394a90a5089
+effective_time:
+  20231023
+version:
+  3
+openfda:

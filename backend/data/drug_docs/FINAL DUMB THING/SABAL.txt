@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  SABAL SERRULATA Saw palmetto SUCROSE SAW PALMETTO SAW PALMETTO LACTOSE
+active_ingredient:
+  Active Ingredients SABAL SERRULATA 30CH GR SABAL SERRULATA 6CH GR
+purpose:
+  Indications For the temporary relief of fatigue and headache
+warnings:
+  Warning: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose, sucrose.
+dosage_and_administration:
+  Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+indications_and_usage:
+  Indications For the temporary relief of fatigue and headache Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+questions:
+  QUESTIONS? 1-888-737-6925.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken Homeopathic Remedy NDC : 62106-8812-4 SABAL SERRULATA Saw palmetto 140 granules Indications For the temporary relief of fatigue and headache 62106-8812
+set_id:
+  1bdf0063-0485-4017-e054-00144ff8d46c
+id:
+  06e80e55-b4fa-1335-e063-6294a90afd68
+effective_time:
+  20231004
+version:
+  4
+openfda:

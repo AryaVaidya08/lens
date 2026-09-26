@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Anti Bacterial Hand Gel Champagne Toast Alcohol ALCOHOL ALCOHOL WATER
+active_ingredient:
+  Active Ingredient Alcohol 71%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Decreases bacteria on hands.
+warnings:
+  Warnings Flammable: Keep away from flame or high heat.
+  For external use only.
+when_using:
+  When using this product keep out of eyes. Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Rub a dime sized drop into hands.
+inactive_ingredient:
+  Water (Aqua, Eau), Fragrance (Parfum), Carbomer, Mannitol, Isopropyl Myristate, Cellulose, Hydroxyethyl Urea, Tocopheryl Acetate, Wheat Amino Acids, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea) Butter Extract, Kaolin, Silica, Hydroxypropyl Methylcellulose, Caprylic/Capric Triglyceride, Retinyl Palmitate, Aminomethyl Propanol, Ultramarines (CI 77007), Yellow 5 (CI 19140), Red 33 (CI 17200), Ext. Violet 2 (CI 60730).
+spl_unclassified_section:
+  Bath & Body Works, Distr., 95 West Main Street New Albany, OH 43054, 1-800-395-1001 pat. www.bbwinc.com/patents
+package_label_principal_display_panel:
+  ABHG Champagne Toast
+set_id:
+  29a54829-768d-c0c0-e063-6294a90ad069
+id:
+  4b0a7266-a200-f97f-e063-6294a90a497b
+effective_time:
+  20260217
+version:
+  2
+openfda:

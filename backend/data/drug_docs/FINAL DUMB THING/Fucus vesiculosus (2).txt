@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Fucus vesiculosus FUCUS VESICULOSUS FUCUS VESICULOSUS FUCUS VESICULOSUS SUCROSE LACTOSE white
+active_ingredient:
+  ACTIVE INGREDIENTS FUCUS
+purpose:
+  USES To relieve the symptoms of constipation.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: FUCUS Constipation
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of FUCUS is 2x–30x, 1c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Fucus label example
+set_id:
+  398d842b-37ec-486e-9cd7-0f17fc15795b
+id:
+  b4dca049-6bfa-4113-b625-20ad7cc53e27
+effective_time:
+  20130901
+version:
+  1
+openfda:

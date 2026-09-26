@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  FLINKYE 5% Minoxidil Hair Growth FLINKYE 5% Minoxidil Hair Growth Shampoo EDETATE DISODIUM SODIUM C14-16 OLEFIN SULFONATE COCAMIDOPROPYL BETAINE LAURYL GLUCOSIDE COCAMIDE MIPA GLYCERIN PROPYLENE GLYCOL BIOTIN PANTHENOL ROSMARINUS OFFICINALIS (ROSEMARY) LEAF POWDER POLYQUATERNIUM-10 (1000 MPA.S AT 2%) PEG-7 GLYCERYL COCOATE CITRIC ACID PHENOXYETHANOL ETHYLHEXYLGLYCERIN PARFUMIDINE AQUA MINOXIDIL MINOXIDIL
+active_ingredient:
+  Active Ingredient(s) Minoxidil 5% w/v
+purpose:
+  Purpose Hair regrowth treatment
+indications_and_usage:
+  Use To regrow hair on the scalp
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use .Your hair loss is associated with childbirth. .You have sudden or unexplained hair loss. . You are under 18 years of age. .Your scalp is red, inflamed, infected, irritated, or painful. ·You are using other topical medicines on your scalp.
+when_using:
+  . Do not apply to other parts of the body. . Some people may experience changes in hair color and/or texture. .Avoid contact with eyes. If contact occurs, rinse thoroughly with water. .It takes time to regrow hair. Results may occur at 3 months.For some people, you may need to use this product for at least 6 months before you see results.
+stop_use:
+  Discontinue use if redness or irritation occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions 1. Thoroughly wet hair and scalp with warm water. Use every 1 to 3 days. 2. Apply a generous amount of shampoo to your hair. 3. Gently massage into a rich lather for 3-5 minutes. Spend extra time on areas of concern. 4. Rinse thoroughly with warm water.
+storage_and_handling:
+  Other information .Store at controlled room temperature20°C to 25°C (68F to 77°F). . Contents under pressure. Do not puncture or incinerate the container. . Do not expose to heat or store at temperatures above 49°C (120°F).
+inactive_ingredient:
+  Inactive ingredients Aqua (Water), Sodium C14-16 Olefin Sulfonate,Cocamidopropyl Betaine, Lauryl Glucoside,CocamideMIPA, Glycerin, Propylene Glycol, Biotin, Panthenol, Rosmarinus Officinalis (Rosemary) Leaf Extract, Polyquaternium-10, PEG-7 Glyceryl Cocoate, Citric Acid, Phenoxyethanol, Ethylhexylglycerin, Fragrance (Parfum), Disodium EDTA.
+recent_major_changes:
+  
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel undefined
+set_id:
+  452c9ee5-2c9d-f78d-e063-6394a90a7feb
+id:
+  452c9982-cd2e-c84a-e063-6294a90a63a6
+effective_time:
+  20251204
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    FLINKYE 5% Minoxidil Hair Growth
+  generic_name:
+    FLINKYE 5% MINOXIDIL HAIR GROWTH SHAMPOO
+  manufacturer_name:
+    Guangzhou Ariel Biotech Co., Ltd.
+  product_ndc:
+    84148-017
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    CUTANEOUS
+  substance_name:
+    MINOXIDIL
+  spl_id:
+    452c9982-cd2e-c84a-e063-6294a90a63a6
+  spl_set_id:
+    452c9ee5-2c9d-f78d-e063-6394a90a7feb
+  package_ndc:
+    84148-017-01
+  is_original_packager:
+    True
+  nui:
+    N0000175379
+    N0000175564
+  pharm_class_pe:
+    Arteriolar Vasodilation [PE]
+  pharm_class_epc:
+    Arteriolar Vasodilator [EPC]
+  unii:
+    5965120SH1

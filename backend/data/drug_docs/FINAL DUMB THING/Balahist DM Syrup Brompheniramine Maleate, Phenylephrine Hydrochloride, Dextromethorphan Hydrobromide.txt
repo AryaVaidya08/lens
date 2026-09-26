@@ -1,0 +1,52 @@
+effective_time:
+  20131111
+purpose:
+  Purposes Chlorpheniramine Maleate Antihistamine Dextromethorphan HBr Cough Suppressant Phenylephrine HCl Nasal Decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Do not exceed recommended dosage excitability may occur, especially in children marked drowsiness may occur; alcohol, sedatives and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery avoid alcoholic beverages.
+questions:
+  Questions? call 1-800-847-1921
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+storage_and_handling:
+  Other information do not use if tamper evident seal under cap is broken or missing store between 20° - 25° C (68° - 77° F).
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold, hay fever or other upper respiratory allergies: runny nose nasal congestion sneezing itching of the nose or throat itchy, watery eyes relieves cough associated with the common cold
+set_id:
+  3434547a-6ef1-496f-93a2-e1c0539ebaaa
+id:
+  da947d56-e0f5-4f91-88bd-82990cd4a7c4
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers.
+active_ingredient:
+  Active Ingredients (in each 5 mL teaspoonful) Brompheniramine Maleate, USP 4 mg Dextromethorphan HBr, USP 15 mg Phenylephrine HCl, USP 7.5 mg Purposes Chlorpheniramine Maleate Antihistamine Dextromethorphan HBr Cough Suppressant Phenylephrine HCl Nasal Decongestant
+dosage_and_administration_table:
+  <table width="636px"> <caption/> <tbody> <tr> <td styleCode="Toprule"> adults and children 12 years of age and over </td> <td styleCode="Toprule"> 1 teaspoonful (5 mL) every 4 to 6 hours </td> </tr> <tr> <td styleCode="Toprule"> children 6 years to under 12 years of age</td> <td styleCode="Toprule"> 1/2 teaspoonful (2.5 mL) every 4 to 6 hours</td> </tr> <tr> <td styleCode="Toprule"> children under 6 years of age</td> <td styleCode="Toprule"> ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive Ingredients citric acid, glycerin, purified water, sodium benzoate, sodium citrate, sorbitol, strawberry flavor.
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, emotional conditions or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes glaucoma a breathing problem, or persistent or chronic cough such as occurs with smoking, asthma, emphysema or chronic bronchitis cough accompanied by excessive phlegm (mucus) difficulty in urination due to enlargement of the prostate gland. Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product Do not exceed recommended dosage excitability may occur, especially in children marked drowsiness may occur; alcohol, sedatives and tranquilizers may increase the drowsiness effect use caution when driving a motor vehicle or operating machinery avoid alcoholic beverages. Stop use and ask a doctor if new symptoms occur nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 7 days, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Balahist DM Syrup Brompheniramine Maleate, Phenylephrine Hydrochloride, Dextromethorphan Hydrobromide BROMPHENIRAMINE MALEATE BROMPHENIRAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN ANHYDROUS CITRIC ACID GLYCERIN WATER SODIUM BENZOATE SODIUM CITRATE SORBITOL
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes glaucoma a breathing problem, or persistent or chronic cough such as occurs with smoking, asthma, emphysema or chronic bronchitis cough accompanied by excessive phlegm (mucus) difficulty in urination due to enlargement of the prostate gland.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions do not exceed 6 doses in a 24 hour period adults and children 12 years of age and over 1 teaspoonful (5 mL) every 4 to 6 hours children 6 years to under 12 years of age 1/2 teaspoonful (2.5 mL) every 4 to 6 hours children under 6 years of age ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Manufactured by: Ballay Pharmaceuticals, Inc. Wimberley, Texas 78676
+stop_use:
+  Stop use and ask a doctor if new symptoms occur nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 7 days, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, emotional conditions or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table ID="Purposes" width="40%"> <caption/> <tbody> <tr> <td styleCode="Toprule"> Chlorpheniramine Maleate</td> <td styleCode="Toprule"> Antihistamine</td> </tr> <tr> <td styleCode="Toprule"> Dextromethorphan HBr</td> <td styleCode="Toprule"> Cough Suppressant</td> </tr> <tr> <td styleCode="Toprule"> Phenylephrine HCl</td> <td styleCode="Toprule"> Nasal Decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label NDC 63162-520-16 Balahist DM Syrup Antihistamine/Decongestant/ Antitussive(Cough Suppressant) Each teaspoonful (5 mL) for oral administration contains: Brompheniramine Maleate .............................. 4 mg Dextromethorphan Hydrobromide .................... 15 mg Phenylephrine Hydrochloride ................... 7.5 mg For Professional Use Only Sugar Free/Alcohol Free/ Dye Free BALLAY 16 fl oz. (473 mL) PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
+purpose_table:
+  <table ID="Purposes" width="40%"> <caption/> <tbody> <tr> <td styleCode="Toprule"> Chlorpheniramine Maleate</td> <td styleCode="Toprule"> Antihistamine</td> </tr> <tr> <td styleCode="Toprule"> Dextromethorphan HBr</td> <td styleCode="Toprule"> Cough Suppressant</td> </tr> <tr> <td styleCode="Toprule"> Phenylephrine HCl</td> <td styleCode="Toprule"> Nasal Decongestant</td> </tr> </tbody> </table>

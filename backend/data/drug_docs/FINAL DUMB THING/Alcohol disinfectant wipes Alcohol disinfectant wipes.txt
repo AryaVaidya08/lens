@@ -1,0 +1,27 @@
+effective_time:
+  20201207
+inactive_ingredient:
+  pure water
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  1. Please do not place in direct sunlight or in a place with high temperature 2. if it gets into your eyes, wash it with dean water immediately 3. Keep out of reach of children to avoid swallowing and choking 4. This product is insoluble in water, please do not throw into the toilet 5.This product is for extemal use only
+spl_product_data_elements:
+  Alcohol disinfectant wipes Alcohol disinfectant wipes ALCOHOL ALCOHOL BENZALKONIUM CHLORIDE BENZALKONIUM METHYLISOTHIAZOLINONE METHYLISOTHIAZOLINONE PROPYLENE GLYCOL PROPYLENE GLYCOL PHENOXYETHANOL PHENOXYETHANOL WATER
+openfda:
+version:
+  4
+dosage_and_administration:
+  Please do not place in direct sunlight or in a place with high temperature
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  1.Open the box and seal it 2.Take out all the wet tissues you need 3.Close the box seal
+set_id:
+  ac7cb41f-cf04-5c57-e053-2995a90a9de1
+id:
+  b5dbbcad-af05-62a5-e053-2a95a90a0084
+active_ingredient:
+  alcohol Benzalkamine 2-methyl-4-isothiazoline-3-one propylene glyco 2-phenoxyethanol

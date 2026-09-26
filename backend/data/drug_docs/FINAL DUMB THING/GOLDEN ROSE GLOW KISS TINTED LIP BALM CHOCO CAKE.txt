@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  GOLDEN ROSE GLOW KISS TINTED LIP BALM CHOCO CAKE Avobenzone, Octinoxate AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE HYDROGENATED POLYISOBUTENE (1300 MW) MEDIUM-CHAIN TRIGLYCERIDES PENTAERYTHRITYL TETRAISOSTEARATE GLYCERYL ROSINATE OCTYLDODECANOL C30-50 ALCOHOLS PHENYL TRIMETHICONE HIGH DENSITY POLYETHYLENE TITANIUM DIOXIDE SHEA BUTTER MEADOWFOAM SEED OIL PHENOXYETHANOL POLYBUTENE (1400 MW) .ALPHA.-TOCOPHEROL ACETATE GLYCERYL MONOBEHENATE HYALURONATE SODIUM OCTADECYL DI-TERT-BUTYL-4-HYDROXYHYDROCINNAMATE FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE D&C RED NO. 6
+spl_unclassified_section:
+  Drug Facts
+  SPF 15 DELICATE CHOCOLATE AROMA VITAMIN E Manufactured By: ERKUL COSMETICS San. Tic. A.S., Petrol Ofisi Cad. No:1 Avcılar, Istanbul, Turkey, 34310 Phone: +90 212 456 53 00 www.goldenrose.com.tr info@goldenrose.com.tr MADE IN TURKEY Distributed By: CELESTY LLC, 3970 NW 167 TH ST.MIAMI GARDENS, FL 33054 – USA info@celesty.com EU R.P: Platin Beauty Consulting UG (haftungsbeschränkt) Bardowicker Str. 6, 21335 Lüneburg/GERMANY
+active_ingredient:
+  Active ingredient Avobenzone 2.7% w/v Octinoxate 6% w/v
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses • Helps prevent sunburn. • if used as directed with other sun protection measures ( see D irections ) • Decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings Do not use • on damaged or broken skin Stop use and ask a doctor if • rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • apply to cleansed lips • can be applied two coats to increase coverage • reapply at least every 2 hours • use a water resistant sunscreen if swimming or sweating Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10 a.m. - 2 p.m • Wear long-sleeved shirts, pants, hats, and sunglasses.
+storage_and_handling:
+  Other information • Protect the product in this container from excessive heat and direct sun. • Store at room temperatures: 15°C- 30°C.
+inactive_ingredient:
+  Drug Facts Inactive ingredients Hydrogenated Polyisobutene, Caprylic/Capric Triglyceride, Pentaerythrityl Tetraisostearate, Glyceryl Rosinate, Octyldodecanol, C30-50 Alcohols, Phenyl Trimethicone, Polyethylene, Titanium Dioxide, Shea (Butyrospermum parkii) Butter, Flavor, Limnanthes Alba (Meadowfoam) Seed Oil, Phenoxyethanol, Polybutene, Tocopheryl Acetate, Glyceryl Behenate, Sodium Hyaluronate, Octadecyl Di-T-Butyl -4-Hydroxyhydrocinnamate, Iron Oxides*, D&C Red 6*. * contains one or more of these ingredients.
+package_label_principal_display_panel:
+  Packaging choco cake-01
+set_id:
+  8be1c27c-7988-47c4-b613-3bc86f53981e
+id:
+  a221f71d-a14e-44e2-8a63-93b619cd625a
+effective_time:
+  20250808
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    GOLDEN ROSE GLOW KISS TINTED LIP BALM CHOCO CAKE
+  generic_name:
+    AVOBENZONE, OCTINOXATE
+  manufacturer_name:
+    ERKUL KOZMETIK SANAYI VE TICARET ANONIM SIRKETI
+  product_ndc:
+    82715-108
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTINOXATE
+  spl_id:
+    a221f71d-a14e-44e2-8a63-93b619cd625a
+  spl_set_id:
+    8be1c27c-7988-47c4-b613-3bc86f53981e
+  package_ndc:
+    82715-108-01
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4Y5P7MUD51

@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  TRADER JOES ZINC OXIDE MINERAL SUNSCREEN SPF 30 Zinc Oxide ALOE VERA LEAF BENTONITE .ALPHA.-BISABOLOL, (+)- BUTYLOCTYL SALICYLATE CAPRYLHYDROXAMIC ACID MEDIUM-CHAIN TRIGLYCERIDES CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) CAPRYLYL GLYCOL CARBOXYMETHYLCELLULOSE SODIUM (0.7 CARBOXYMETHYL SUBSTITUTION PER SACCHARIDE; 1200 MPA.S AT 1%) CETOSTEARYL ALCOHOL GRAPEFRUIT PEEL COCO GLUCOSIDE ETHYL MACADAMIATE GLYCERIN HYDROGENATED JOJOBA OIL/JOJOBA OIL, RANDOMIZED (IODINE VALUE 40-44) METHYL DIHYDROABIETATE MICROCRYSTALLINE CELLULOSE OCTYLDODECYL OLEATE PROPANEDIOL SHEA BUTTER SODIUM GLUCONATE TOCOPHEROL WATER ZINC OXIDE ZINC CATION
+active_ingredient:
+  Active ingredient Zinc Oxide 15%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures ( See Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Do not puncture or incinerate. Contents under pressure. Do not store at temperatures above 120°F. Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Shake well Apply liberally 15 minutes before sun exposure. Reapply after 40 minutes of swimming or sweating immediately after towel drying at least every 2 hours. Spray on hands to apply to face. Do not inhale vapors. Use in a well-ventilated area Children under 6 months: ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF 15 value or higher along with other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long sleeved shirts, pants, hats and sunglasses.
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun May stain some fabrics.
+inactive_ingredient:
+  Inactive ingredients ALOE BARBADENSIS LEAF JUICE, BENTONITE, BISABOLOL, BUTYLOCTYL SALICYLATE, CAPRYLHYDROXAMIC ACID, CAPRYLIC/CAPRIC TRIGLYCERIDE, CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER, CAPRYLYL GLYCOL, CELLULOSE GUM, CETEARYL ALCOHOL, CITRUS PARADISI (GRAPEFRUIT) PEEL OIL, COCO-GLUCOSIDE, ETHYL MACADAMIATE, GLYCERIN, JOJOBA ESTERS, METHYL DIHYDROABIETATE, MICROCRYSTALLINE CELLULOSE, OCTYLDODECYL OLEATE, PROPANEDIOL, SHEA BUTTER ETHYL ESTERS, SODIUM GLUCONATE, TOCOPHEROL, WATER.
+questions:
+  Questions or comments? 1- 626-599-3700 Monday – Friday 9 AM – 5 PM PST
+package_label_principal_display_panel:
+  68620-Zinc Oxide Mineral Sunscreen Broad Spectrum 30-NDC
+set_id:
+  9e48de83-cb72-4c03-a819-939db8793e1f
+id:
+  25159403-7b89-358b-e063-6394a90ab987
+effective_time:
+  20241022
+version:
+  4
+openfda:
+  application_number:
+    M020
+  brand_name:
+    TRADER JOES ZINC OXIDE MINERAL SUNSCREEN SPF 30
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Trader Joe's Company
+  product_ndc:
+    71270-155
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    25159403-7b89-358b-e063-6394a90ab987
+  spl_set_id:
+    9e48de83-cb72-4c03-a819-939db8793e1f
+  package_ndc:
+    71270-155-11
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

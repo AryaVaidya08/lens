@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Lidocaine Lidocaine BENZYL ALCOHOL CARBOMER HOMOPOLYMER TYPE C (ALLYL PENTAERYTHRITOL CROSSLINKED) HYDROGENATED SOYBEAN LECITHIN POLYSORBATE 80 PROPYLENE GLYCOL WATER TROLAMINE .ALPHA.-TOCOPHEROL ACETATE LIDOCAINE LIDOCAINE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Lidocaine 4% w/w
+purpose:
+  Purpose Topical anesthetic
+indications_and_usage:
+  Uses temporarily relieves pain and itching due to minor cuts minor scrapes minor burns sunburn minor skin irritation insect bites
+dosage_and_administration:
+  Directions Adult and children 2 years and older: Apply externally to the affected area up to 3 to 4 times a day. Children under 2 years of age: Consult a doctor.
+warnings:
+  Warnings For external use only. Do not use in or near the eyes in large quantities, particularly over raw or blistered areas Stop use and ask a doctor if allergic reaction occurs condition worsens or does not improve within 7 days symptoms clear up and return within a few days redness, irritation, swelling, pain or other symptoms begin or increase Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in or near the eyes in large quantities, particularly over raw or blistered areas
+stop_use:
+  Stop use and ask a doctor if allergic reaction occurs condition worsens or does not improve within 7 days symptoms clear up and return within a few days redness, irritation, swelling, pain or other symptoms begin or increase
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+storage_and_handling:
+  Other Information May be applied under occlusive dressing. Store at room temperature, 20–25°C (68–77°F) Excursions permitted 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+inactive_ingredient:
+  Inactive ingredients Benzyl Alcohol, Carbopol 940, Hydrogenated Lecithin, Polysorbate 80, Propylene Glycol, Purified Water, Trolamine and Vitamin E Acetate.
+questions:
+  Questions? Call 800-936-3088
+how_supplied:
+  How Supplied/Storage and Handling Lidocaine 4% Cream is supplied in: 15g tube NDC: 80425-0351-01 Store at room temperature, 20–25°C (68–77°F) Excursions permitted 15–30°C (59–86°F) [see USP Controlled Room Temperature].
+package_label_principal_display_panel:
+  label 1
+set_id:
+  01cb19a4-ce22-144d-e063-6294a90a8aa3
+id:
+  2a9c0c91-2b38-4def-e063-6294a90a58ef
+effective_time:
+  20241231
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Lidocaine
+  generic_name:
+    LIDOCAINE
+  manufacturer_name:
+    Advanced Rx Pharmacy of Tennessee, LLC
+  product_ndc:
+    80425-0351
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+  rxcui:
+    1421893
+  spl_id:
+    2a9c0c91-2b38-4def-e063-6294a90a58ef
+  spl_set_id:
+    01cb19a4-ce22-144d-e063-6294a90a8aa3
+  package_ndc:
+    80425-0351-1
+  original_packager_product_ndc:
+    39328-024
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987

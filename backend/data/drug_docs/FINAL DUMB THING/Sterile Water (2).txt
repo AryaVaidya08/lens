@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Sterile Water Sterile Water WATER WATER
+description:
+  DESCRIPTION Sterile Water for Injection, USP, is sterile, nonpyrogenic, distilled water in a single dose container for intravenous administration after addition of a suitable solute. It may also be used as a dispensing container for diluent use. No antimicrobial or other substance has been added. The pH is 5.5 (5.0 to 7.0). The osmolarity is 0. The flexible plastic container is fabricated from polypropylene. The amount of water that can permeate from inside the container into the overwrap is insufficient to affect the solution significantly. Solutions in contact with the plastic container may leach out certain chemical components from the plastic in very small amounts; however, biological testing was supportive of the safety of the plastic container materials.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Sterile Water for Injection, USP is used for fluid replacement only after suitable additives are introduced to approximate isotonicity and to serve as a vehicle for suitable medications.
+indications_and_usage:
+  INDICATIONS AND USAGE Sterile Water for Injection, USP is indicated in the aseptic preparation of parenteral solutions.
+contraindications:
+  CONTRAINDICATIONS Sterile Water for Injection, USP is a hemolytic agent due to its hypotonicity. Therefore, it is contraindicated for intravenous administration without additives.
+warnings:
+  WARNINGS Do not use for intravenous injection unless adjusted to approximate isotonicity with a suitable solute. Hemolysis may occur following infusion of Sterile Water for Injection, USP. Hemoglobin induced renal failure has been reported following hemolysis.
+precautions:
+  PRECAUTIONS Do not administer unless solution is clear and seal is intact.
+adverse_reactions:
+  ADVERSE REACTIONS The administration of a suitable admixture of prescribed additives may be associated with adverse reactions because of the solution or the technique of administration including febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation, and hypervolemia. If an adverse reaction does occur, discontinue the infusion, evaluate the patient, institute appropriate therapeutic countermeasures, and save the remainder of the fluid for examination if deemed necessary. To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . For Product Inquiry call 1-877-845-0689.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Following suitable admixture of prescribed additives, the dosage is usually dependent upon the age, weight and clinical condition of the patient as well as laboratory determinations. See directions accompanying additive drug. Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit. Injections in flexible plastic containers are intended for intravenous administration using sterile equipment. Additives may be incompatible. Complete information is not available. Those additives known to be incompatible should not be used. Consult with pharmacist, if available. If, in the informed judgment of the physician, it is deemed advisable to introduce additives, use aseptic technique. Do not store an unused portion of Sterile Water for Injection, USP. Mix thoroughly when additives have been introduced. Do not store solutions containing additives.
+how_supplied:
+  HOW SUPPLIED Sterile Water for Injection, USP is supplied in flexible plastic containers; 12 bags per carton as follows: Strength Package NDC Number 1000 mL Single Bag 0143-9339-01 12 Bags per carton 0143-9339-12 Exposure of pharmaceutical products to heat should be minimized. Avoid excessive heat. It is recommended the product be stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]; brief exposure up to 40°C does not adversely affect the product.
+how_supplied_table:
+  <table cellspacing="0" cellpadding="0" border="1"><col width="1pt"/><col width="130.5pt"/><col width="1.75in"/><tbody><tr><td><paragraph><content styleCode="bold">Strength </content></paragraph></td><td styleCode=" Botrule Toprule Lrule Rrule"><paragraph><content styleCode="bold">Package</content></paragraph></td><td styleCode=" Botrule Toprule Lrule Rrule"><paragraph><content styleCode="bold">NDC Number</content></paragraph></td></tr><tr><td rowspan="2" styleCode=" Botrule Toprule Lrule Rrule"><paragraph>1000 mL</paragraph></td><td styleCode=" Botrule Toprule Lrule Rrule"><paragraph>Single Bag</paragraph></td><td styleCode=" Botrule Toprule Lrule Rrule"><paragraph>0143-9339-01</paragraph></td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule"><paragraph>12 Bags per carton</paragraph></td><td styleCode=" Botrule Toprule Lrule Rrule"><paragraph>0143-9339-12</paragraph></td></tr></tbody></table>
+spl_unclassified_section:
+  DIRECTIONS FOR USE OF FLEXIBLE PLASTIC CONTAINER Warning: Do not use plastic containers in series connections. Such use could result in air embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed. TO OPEN Tear overwrap at notch and remove solution container. Visually inspect the container. If the port outlet protector is damaged, detached, or not present, discard container as solution path sterility may be impaired. Some opacity of the plastic due to moisture absorption during the sterilization process may be observed. This is normal and does not affect the solution quality or safety. The opacity will diminish gradually. Check for minute leaks by squeezing inner bag firmly. If leaks are found, discard solution as sterility may be impaired. See following directions. PREPARATION FOR ADMINISTRATION AFTER RENDERING ISOTONIC Suspend container from eyelet support. Remove plastic protector from outlet port at bottom of container. Attach administration set. Refer to complete directions accompanying set. Warning: Additives may be incompatible. TO ADD MEDICATION BEFORE ADMINISTRATION Prepare medication site. Using syringe with 19 to 22 gauge needle, puncture resealable medication port and inject. Mix solution and medication thoroughly. For high density medication such as potassium chloride, squeeze ports while ports are upright and mix thoroughly. TO ADD MEDICATION DURING ADMINISTRATION Close clamp on the set. Prepare medication site. Using syringe with 19 to 22 gauge needle, puncture resealable medication port and inject. Remove container from IV pole and/or turn to an upright position. Evacuate both ports by squeezing them while container is in the upright position. Mix solution and medication thoroughly. Return container to in use position and continue administration.
+  Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A. Estrada do Rio da Mó, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 Revised August 2022 PIN622-WES/1
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Sterile Water for Injection, USP Inner Bag
+  PRINCIPAL DISPLAY PANEL Sterile Water for Injection, USP Overwrap
+set_id:
+  b20a28b0-7dfa-42eb-9177-ec256d5a5ef7
+id:
+  2558c762-cdc9-4135-a83e-8d4c5c9d1afc
+effective_time:
+  20230508
+version:
+  4
+openfda:
+  application_number:
+    ANDA212735
+  brand_name:
+    Sterile Water
+  generic_name:
+    STERILE WATER
+  manufacturer_name:
+    Hikma Pharmaceuticals USA Inc.
+  product_ndc:
+    0143-9339
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    INTRAVENOUS
+  substance_name:
+    WATER
+  spl_id:
+    2558c762-cdc9-4135-a83e-8d4c5c9d1afc
+  spl_set_id:
+    b20a28b0-7dfa-42eb-9177-ec256d5a5ef7
+  package_ndc:
+    0143-9339-12
+  is_original_packager:
+    True
+  unii:
+    059QF0KO0R

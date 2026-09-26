@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Motion Sickness Cocculus indicus, Hepar suis, Nux vomica, Petroleum, Phosphoricum acidum, Tabacum, ANAMIRTA COCCULUS SEED ANAMIRTA COCCULUS SEED PORK LIVER PORK LIVER STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED LIQUID PETROLEUM LIQUID PETROLEUM PHOSPHORIC ACID PHOSPHORIC ACID TOBACCO LEAF TOBACCO LEAF WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Cocculus Indicus 200C, Hepar Suis 6X, Nux Vomica 6X, Petroleum 6X, Phosphoricum Acidum 200C, Tabacum 6X.
+purpose:
+  INDICATIONS: Temporarily relieves symptoms associated with motion sickness (air, car, or sea): dizziness, nausea, vomiting.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.
+warnings:
+  WARNINGS: If symptoms persist, consult a doctor. If pregnant or breast feeding, ask a doctor before use. Keep out of reach of children . In case of overdose, get medical help or call a Poison Control Center right away. Do not use if TAMPER EVIDENT seal around neck of bottle is missing or broken.
+dosage_and_administration:
+  DIRECTIONS: Adults and children over 12: Spray twice under the tongue up to each 30 minutes until symptoms are relieved. Children 12 and under: Consult a doctor prior to use. As a preventative, spray once or twice under the tongue three times per day as needed.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Organic alcohol 20% v/v, Purified water.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or call a Poison Control Center right away.
+indications_and_usage:
+  INDICATIONS: Temporarily relieves symptoms associated with motion sickness (air, car, and sea): dizziness, nausea, vomiting.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.
+questions:
+  QUESTIONS: DIST. BY LIDDELL LABORATORIES INC. WOODBINE, IA 51579 WWW.LIDDELL.NET 1 -800-460-7733
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ORAL SPRAYS LIDDELL LABORATORIES 37 MoS Motion Sickness HOMEOPATHIC 1.0 FL. OZ. (30 ml) Motion Sickness
+set_id:
+  045800ff-5f12-4ad9-a36f-2f63492f54c4
+id:
+  16bd555c-11ba-4927-acd3-dfb84e607a5c
+effective_time:
+  20211220
+version:
+  4
+openfda:

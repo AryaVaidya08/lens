@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Salicylic Acid Liquid Wart Remover PYROXYLIN CAMPHOR (NATURAL) CASTOR OIL SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active ingredient Salicylic acid 17%w/w
+purpose:
+  Purpose Wart Remover
+indications_and_usage:
+  Uses for the removal of common and plantar warts. The common wart is easily recognized by the rough 'cauliflower-like' appearance of the surface. Plantar wart is recognized by the location only on the bottom of the foot, its tenderness and the interruption of the footprint pattern.
+warnings:
+  Warnings For external use only. Flammable keep away from fire or flame cap bottle tightly and store at room temerature away from heat Do not use if you are a diabetic or have poor blood circulation, except under the advice and supervision of a doctor or podiatrist on genital warts and warts on the face on moles, birthmarks and warts with hair growing from them on mucous membranes on irritated, infected or reddened skin When using this product avoid contact with eyes. If product gets into the eyes, flush with water for 15 minutes avoid inhaling vapors Stop use and ask doctor if discomfort persists. Keep out of reach of children. if swallowed, get medical help or contact a Poison Control Center right away.
+safe_handling_warning:
+  Flammable keep away from fire or flame cap bottle tightly and store at room temerature away from heat
+do_not_use:
+  Do not use if you are a diabetic or have poor blood circulation, except under the advice and supervision of a doctor or podiatrist on genital warts and warts on the face on moles, birthmarks and warts with hair growing from them on mucous membranes on irritated, infected or reddened skin
+when_using:
+  When using this product avoid contact with eyes. If product gets into the eyes, flush with water for 15 minutes avoid inhaling vapors
+stop_use:
+  Stop use and ask doctor if discomfort persists.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wash affected area, may soak wart in warm water for 5 minutes dry area thoroughly apply small amount of wart remover with applicator to sufficiently cover each wart let dry and repeat this procedure once or twice daily until wart is removed for up to 12 weeks
+other_safety_information:
+  Other information store between 20° to 30°C (68° to 86°F)
+inactive_ingredient:
+  Inactive ingredients camphor, castor oil, ethanol, ethyl ether, nitrocellulose
+questions:
+  Questions? Call 1-866-964-0939
+package_label_principal_display_panel:
+  Principal Display Panel Best Choice Liquid Wart Remover Salicylic Acid Removes common & plantar warts safely and easily Net Wt 0.31 FL OZ (9mL) Best Choice_Liquid Wart Remover_53-012BC-01.jpg
+set_id:
+  920315f2-6a1c-4b9e-9771-cafdfcfd8ca0
+id:
+  445c75f9-9732-70cc-e063-6394a90a62ff
+effective_time:
+  20251124
+version:
+  8
+openfda:
+  application_number:
+    M028
+  brand_name:
+    Salicylic Acid
+  generic_name:
+    LIQUID WART REMOVER
+  manufacturer_name:
+    VALU MERCHANDISERS, CO
+  product_ndc:
+    63941-545
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    445c75f9-9732-70cc-e063-6394a90a62ff
+  spl_set_id:
+    920315f2-6a1c-4b9e-9771-cafdfcfd8ca0
+  package_ndc:
+    63941-545-31
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

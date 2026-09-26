@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  PROCEUTICALS PRIVATE LABEL by TiZO eye repair non-tinted mineral sunscreen Zinc Oxide TETRAHEXYLDECYL ASCORBATE .ALPHA.-TOCOPHEROL ACETATE ZINC OXIDE ZINC OXIDE CAPRYLHYDROXAMIC ACID CORALLINA OFFICINALIS POLYSORBATE 20 DIMETHICONE CROSSPOLYMER (450000 MPA.S AT 12% IN CYCLOPENTASILOXANE) DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) HYDROGEN DIMETHICONE (20 CST) CYCLOMETHICONE 6 CYCLOMETHICONE 5 PEG-10 DIMETHICONE (600 CST) DIMETHICONOL (2000 CST) LAURYL PEG/PPG-18/18 METHICONE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CAPRYLYL GLYCOL SILANETRIOL GLYCERIN ISOHEXADECANE UNDARIA PINNATIFIDA SACCHAROMYCES CEREVISIAE BUTYLENE GLYCOL CAFFEINE ISODODECANE PALMITOYL TRIPEPTIDE-1 WATER PALMITOYL TETRAPEPTIDE-7 SAMBUCUS NIGRA FLOWER
+active_ingredient:
+  ACTIVE INGREDIENT: Zinc Oxide 9%
+purpose:
+  PURPOSE:Sunscreen
+indications_and_usage:
+  DIRECTIONS: • Apply liberally 15 minutes before sun exposure • Use a water resistant product if swimming or sweating. • Reapply at least every 2 hours • Children under 6 months: Ask a doctor • Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10 am - 2 pm • Wear long-sleeved shirts, pants, hats, and sunglasses
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Butylene Glycol, Caffeine, Carbomer, Caprylhydroxamic Acid, Caprylyl Glycol, Corallina Officinalis Extract, Cyclohexasiloxane, Cyclopentasiloxane, Dimethicone Crosspolymer, Dimethicone/Vinyl Dimethicone Crosspolymer, Dimethiconol, Glycerin, Hydrogen Dimethicone, Isododecane, Isohexadecane, Lauryl PEG/PPG-18/18 Methicone, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, PEG-10 Dimethicone, Polysorbate 20, Saccharomyces/Selenium Ferment, Sambucus Nigra Flower Extract, Siloxanetriol Alginate, Tetrahexyldecyl Ascorbate, Tocopheryl Acetate, Undaria Pinnatifida Extract, Water
+other_safety_information:
+  OTHER INFORMATION: • Protect this product from excessive heat and direct sun
+warnings:
+  WARNINGS: For external use only. Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs. When using this product, keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+dosage_and_administration:
+  Helps prevent sunburn. If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun. Apply liberally 15 minutes before sun exposure.
+package_label_principal_display_panel:
+  Principal Display Panel – 15 g Bottle Label Proceuticals PRIVATE LABEL by TiZO eye repair non-tinted mineral sunscreen broad spectrum spf 20 with gentle zinc oxide, peptides & botanical blend net wt. 0.5 oz. / 15 g Graphic-Untitled Reference 58892-236-05 Eye Cream proceuticals
+set_id:
+  231af290-99ee-e94d-e063-6394a90a0bef
+id:
+  231aea5b-aaee-abdd-e063-6394a90accb2
+effective_time:
+  20240927
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    PROCEUTICALS PRIVATE LABEL by TiZO eye repair non-tinted mineral sunscreen
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Fallien Cosmeceuticals, LTD
+  product_ndc:
+    58892-236
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    231aea5b-aaee-abdd-e063-6394a90accb2
+  spl_set_id:
+    231af290-99ee-e94d-e063-6394a90a0bef
+  package_ndc:
+    58892-236-05
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

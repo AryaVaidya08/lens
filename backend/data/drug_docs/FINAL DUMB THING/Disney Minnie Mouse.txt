@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Disney Minnie Mouse ANTIBACTERIAL HAND WIPES BENZALKONIUM CHLORIDE PHENOXYETHANOL ETHYLHEXYLGLYCERIN WATER GLYCERIN PROPYLENE GLYCOL ALOE VERA LEAF BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use Decrease the bacteria on the skin
+warnings:
+  Warnings For external use only. Do not use if you are allergic to any of the ingredients
+when_using:
+  When using this product, do not get into eyes. In case of contact with eyes, flush thoroughy with water Stop use and contact your physician if irritation or rash develops and continues for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assitance or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 3 years and over: Apply to hands Allow skin to dry without wiping For children under 3 years Ask a doctor before use
+inactive_ingredient:
+  Inactive ingredients Water, glycerin, Ethylhexylglycerin, Phenoxyethanol, aloe barbadensis leaf extract, propylene glycol
+package_label_principal_display_panel:
+  image description
+set_id:
+  76f26b4c-0d26-46a3-8315-2604f49b5c2f
+id:
+  aa9c58e1-dca0-5510-e053-2995a90a8619
+effective_time:
+  20200717
+version:
+  1
+openfda:

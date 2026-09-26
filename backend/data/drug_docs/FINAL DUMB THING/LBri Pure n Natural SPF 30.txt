@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  LBri Pure n Natural SPF 30 ZINC OXIDE 1,2-HEXANEDIOL ALOE VERA LEAF WATER YELLOW WAX MEDIUM-CHAIN TRIGLYCERIDES CHAMOMILE ORANGE ORANGE OIL LEMON TANGERINE COCO-CAPRYLATE DECYLENE GLYCOL ETHYLHEXYL PALMITATE GLUCONOLACTONE GLYCERIN HYDROGENATED CASTOR OIL ISOPROPYL MYRISTATE ISOPROPYL PALMITATE LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE LONICERA CAPRIFOLIUM FLOWER LONICERA JAPONICA FLOWER MAGNESIUM SULFATE, UNSPECIFIED FORM PEPPERMINT OIL PHENOXYETHANOL POPULUS TREMULOIDES BARK SALIX NIGRA BARK SILICON DIOXIDE SODIUM CHLORIDE STEARIC ACID ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+  Other Information: Protect the product in this container from excessive heat and direct sunlight.
+active_ingredient:
+  Active ingredients Zinc Oxide 19% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed with other sun protection measures (see directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and consult physician if irritation or rash develops. Keep out of reach of children. If product is swallowed, get medical attention or contact poison control center immediately.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and consult physician if irritation or rash develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical attention or contact poison control center immediately.
+dosage_and_administration:
+  Directions Apply liberally 15-minutes before sun exposure. Reapply: -at least every two-hours. -Immediately after swimming, sweating or towel drying. Spending time in the sun increases your risk of skin cancer and ealy skin aging. To decrease this risk, regularly use sunscreen with broad spectrum protection and an SPF rating of 15 or higher, along with other sun protection measures including: SUN PROTECTION MEASURES: -Limit time in the sun, especially between 10am and 2pm. -Wear long sleeve shirts, pants, hats and sunglasses. -For children under 6-months, consult a physician.
+inactive_ingredient:
+  Other ingredients 1,2-Hexanediol, Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Beeswax, Caprylic/Capric Triglyceride, Chamomilla Recutita (Chamomile) Extract, Citrus Aurantium Dulcis (Orange) Extract, Citrus Aurantium Dulcis (Orange) Oil, Citrus Medica Limonum (Lemon) Oil, Citrus Reticulata (Tangerine) Extract, Coco-Caprylate, Decylene Glycol, Ethylhexyl Palmitate, Gluconolactone, Glycerin, Hydrogenated Castor Oil, Isopropyl Myristate, Isopropyl Palmitate, Lecithin, Leuconostoc/Radish Root Ferment Filtrate, Lonicera Caprifolium (Honeysuckle) Extract, Lonicera Japonica (Honeysuckle) Flower Extract, Magnesium Sulfate, Mentha Piperita (Peppermint) Oil, Phenoxyethanol, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-4 Diisostearate/Polyhydroxystearate/Sebacate, Populus Tremuloides Bark Extract, Salix Nigra (Willow) Bark Extract, Silica, Sodium Chloride, Stearic Acid.
+package_label_principal_display_panel:
+  Package Labeling: Label2
+set_id:
+  8350791d-5cf2-4358-9f85-9384d35be9f4
+id:
+  31de33e4-704b-5e7f-e063-6394a90aa54e
+effective_time:
+  20250403
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    LBri Pure n Natural SPF 30
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    L'BRI HEALTH & BEAUTY
+  product_ndc:
+    71238-326
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    31de33e4-704b-5e7f-e063-6394a90aa54e
+  spl_set_id:
+    8350791d-5cf2-4358-9f85-9384d35be9f4
+  package_ndc:
+    71238-326-00
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

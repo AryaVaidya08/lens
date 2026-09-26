@@ -1,0 +1,31 @@
+effective_time:
+  20140929
+inactive_ingredient:
+  Inactive Ingredient Citric Acid, Glycerin, Nonoxyol-10, Sodium Hydroxide, Water
+purpose:
+  Purpose: Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately
+warnings:
+  Warnings: Do not use if allergic to iodine in the eyes For external use only Avoid "pooling" beneath patients.
+spl_product_data_elements:
+  Full Care Povidone Iodine Swabsticks POVIDONE-IODINE POVIDONE-IODINE IODINE WATER CITRIC ACID MONOHYDRATE SODIUM HYDROXIDE GLYCERIN NONOXYNOL-10
+ask_doctor:
+  Ask a doctor before use if injuries are deep or puncture wounds serious burns Stop use and ask a doctor if redness, irritation, swelling, or pain persists or increases infection occurs
+other_safety_information:
+  Other information For hospital or professional use only
+openfda:
+version:
+  2
+dosage_and_administration:
+  Apply locally as need
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Use: Antiseptic skin preparation
+set_id:
+  38795a6b-106a-476f-a7cb-296ff5eb7fd9
+id:
+  1fc97cf8-e035-4857-880b-4f3309422805
+active_ingredient:
+  Active Ingredient: Povidone-Iodine USP (10%)

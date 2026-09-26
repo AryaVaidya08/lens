@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  PURELL Hand Sanitising Gel VF481 ALCOHOL ALCOHOL ALCOHOL Water Isopropyl Alcohol Copper Gluconate Diisopropyl Sebacate
+package_label_principal_display_panel:
+  PRODUCT LABEL
+set_id:
+  0ed05c7b-b67f-4bdc-854e-f5cc53ef1d85
+id:
+  d8e78994-3ab9-452b-8a92-0770eaa8619c
+effective_time:
+  20240321
+version:
+  2
+openfda:

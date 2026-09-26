@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Ear Wax Removal Drops Up and Up Carbamide Peroxide - 6.5% CARBAMIDE PEROXIDE HYDROGEN PEROXIDE GLYCERIN ANHYDROUS CITRIC ACID PROPYLENE GLYCOL sodium citrate SODIUM LAURYL SULFATE TARTARIC ACID
+active_ingredient:
+  Active Ingredient Carbamide Peroxide 6.5%
+purpose:
+  Purpose Earwax Removal Aid
+indications_and_usage:
+  Uses For occasional use as an aid to soften, loosen and remove excessive ear wax.
+warnings:
+  Warnings Ask a Doctor before use if you have eardrainage, discharge, ear pain,irritation rash in the ear,or are dizzy injury or perforation (hole) of the ear drum Recently had ear surgery
+do_not_use:
+  Stop Use and Ask a Doctor if you need to use for more than 4 days execessive ear wax remain after use of this product
+when_using:
+  When Using this Product do not use for more than four days avoid contact with the eyes. If accidental contact with the eyes occurs, flush eyes with water and consult a doctor if excessive earwax remains after the use of this product, consult a doctor
+keep_out_of_reach_of_children:
+  Keep out of the reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions FOR USE IN THE EAR ONLY Adults and children over 12 years of age: Tilt head sideways and place 5 to 10 drops into ear. Tip of applicator should not enter ear canal. Keep drops in ear for several minutes by keeping head tilted or placing cotton in the ear. Use twice daily for up to 4 days if needed, or as directed by a doctor. Any earwax remaining after treatment may be removed by gently flushing the ear with warm water, using a soft rubber bulb ear syringe. When the ear canal is irrigated, the tip of the ear syringe should not obstruct the flow of water leaving the ear canal. Children under 12 years: consult a doctor.
+other_safety_information:
+  Other Information Protect from heat and direct sunlight product foams on contact with ear wax due ot releae of oxygen, there may be associated cracking Keep cap on bottle when not in use. Lot No. and EXP date: see label, bottom container or box.
+inactive_ingredient:
+  Inactive Ingredients Citric Acid, Glycerin, Propylene Glycol, Sodium Citrate, Sodium Lauryl Sulfate, Tartaric Acid
+package_label_principal_display_panel:
+  Principal Display Panel -Bottle Label Target Up and Up Earwax Removal Aid Drops Carbamide Peroxide 6.5% NET 0.5 FLOZ (15 ml ) 790879_TargetEarWaxDrops_Label.jpg
+  Principal Display Panel - Carton -Drops Target Up and Up NDC 11673-761-05 Earwax Removal Aid Drops Carbamide Peroxide 6.5% NET 0.5 FLOZ (15 ml ) 590882_EarDrops_Carton.jpg
+  Principal Display Panel -Carton -KIT Target Up and Up NDC 11673-761-06 Earwax Removal KIT Carbamide Peroxide 6.5% NET 0.5 FLOZ (15 ml ) 590878_TargetEarKit_Carton.jpg
+set_id:
+  829ece50-1f26-4f69-b000-010a34d4cd54
+id:
+  4c83f914-18c4-46e9-bf91-7c32e9b81f36
+effective_time:
+  20241121
+version:
+  3
+openfda:
+  application_number:
+    M014
+  brand_name:
+    Ear Wax Removal Drops Up and Up
+  generic_name:
+    CARBAMIDE PEROXIDE - 6.5%
+  manufacturer_name:
+    Target Corporation
+  product_ndc:
+    11673-761
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CARBAMIDE PEROXIDE
+  rxcui:
+    702050
+  spl_id:
+    4c83f914-18c4-46e9-bf91-7c32e9b81f36
+  spl_set_id:
+    829ece50-1f26-4f69-b000-010a34d4cd54
+  package_ndc:
+    11673-761-05
+    11673-761-06
+  is_original_packager:
+    True
+  unii:
+    31PZ2VAU81

@@ -1,0 +1,100 @@
+spl_product_data_elements:
+  Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE Amanita Pantherina Amanita Pantherina AMANITA PANTHERINA FRUITING BODY AMANITA PANTHERINA FRUITING BODY SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Amanita Pantherina 6C 5g Amanita Pantherina 6C 30g Amanita Pantherina 6C 100g Amanita Pantherina 12C 5g Amanita Pantherina 12C 30g Amanita Pantherina 12C 100g Amanita Pantherina 30C 1g Amanita Pantherina 30C 5g Amanita Pantherina 30C 30g Amanita Pantherina 30C 100g Amanita Pantherina 100C 1g Amanita Pantherina 100C 5g Amanita Pantherina 100C 30g Amanita Pantherina 100C 100g Amanita Pantherina 200C 1g Amanita Pantherina 200C 5g Amanita Pantherina 200C 30g Amanita Pantherina 200C 100g Amanita Pantherina 500C 1g Amanita Pantherina 500C 5g Amanita Pantherina 500C 30g Amanita Pantherina 500C 100g Amanita Pantherina 1M 1g Amanita Pantherina 1M 5g Amanita Pantherina 1M 30g Amanita Pantherina 1M 100g Amanita Pantherina 10M 1g Amanita Pantherina 10M 5g Amanita Pantherina 10M 30g Amanita Pantherina 10M 100g
+set_id:
+  0051cc5e-802c-22b0-e063-6294a90a6b4f
+id:
+  0051cc5e-802d-22b0-e063-6294a90a6b4f
+effective_time:
+  20230712
+version:
+  1
+openfda:
+  brand_name:
+    Amanita Pantherina
+  generic_name:
+    AMANITA PANTHERINA
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-3592
+    37662-3595
+    37662-3599
+    37662-3598
+    37662-3594
+    37662-3596
+    37662-3597
+    37662-3593
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    AMANITA PANTHERINA FRUITING BODY
+  spl_id:
+    0051cc5e-802d-22b0-e063-6294a90a6b4f
+  spl_set_id:
+    0051cc5e-802c-22b0-e063-6294a90a6b4f
+  package_ndc:
+    37662-3595-1
+    37662-3595-2
+    37662-3595-3
+    37662-3595-4
+    37662-3599-1
+    37662-3599-2
+    37662-3599-3
+    37662-3599-4
+    37662-3598-1
+    37662-3598-2
+    37662-3598-3
+    37662-3598-4
+    37662-3594-1
+    37662-3594-2
+    37662-3594-3
+    37662-3594-4
+    37662-3596-1
+    37662-3596-2
+    37662-3596-3
+    37662-3596-4
+    37662-3597-1
+    37662-3597-2
+    37662-3597-3
+    37662-3597-4
+    37662-3592-1
+    37662-3592-2
+    37662-3592-3
+    37662-3593-1
+    37662-3593-2
+    37662-3593-3
+  is_original_packager:
+    True
+  unii:
+    4WR9DAN53I

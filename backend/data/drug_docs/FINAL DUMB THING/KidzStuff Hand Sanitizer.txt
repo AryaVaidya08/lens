@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  KidzStuff Hand Sanitizer ALCOHOL ALCOHOL ALCOHOL ALOE VERA LEAF GLYCERIN PROPYLENE GLYCOL TOCOPHEROL TROLAMINE WATER
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 62% Purpose antiseptic
+purpose:
+  Purpose antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only- hands. Flammable. Keep away from heat and flame. When using this product, keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if skin irritation develops. When using this product keep out of eyes. In case of contact with eyes, immediately flush with water and call a doctor. avoid contact with broken skin. Stop use and ask a doctor if irritation or redness develops Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, immediately flush with water and call a doctor. avoid contact with broken skin.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+inactive_ingredient:
+  Inactive Ingredients purified water, glycerin, triethanolamine, carbomer, aloe essence
+package_label_principal_display_panel:
+  Product Labeling Hand Sanitizer
+set_id:
+  7ecf92e5-0ad6-41f0-bd02-2f79acb2b722
+id:
+  7b66fbd8-0469-4370-b7d0-126ab69d4d49
+effective_time:
+  20180117
+version:
+  1
+openfda:
+  application_number:
+    part333E
+  brand_name:
+    KidzStuff Hand Sanitizer
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    JIANGMEN SHUIZIRUN SANITARY ARTICLES CO., LTD.
+  product_ndc:
+    71734-204
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    247835
+  spl_id:
+    7b66fbd8-0469-4370-b7d0-126ab69d4d49
+  spl_set_id:
+    7ecf92e5-0ad6-41f0-bd02-2f79acb2b722
+  package_ndc:
+    71734-204-01
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

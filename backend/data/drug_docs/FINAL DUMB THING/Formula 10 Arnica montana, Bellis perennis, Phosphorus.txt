@@ -1,0 +1,25 @@
+effective_time:
+  20100624
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized Water, 25% Ethanol
+purpose:
+  INDICATIONS: For the temporary relief of pain and inflammation associated with injuries, muscle spasms and pulls, bruises, and trauma.
+warnings:
+  WARNINGS: Keep out of reach of children. In case of overdose, contact physician or Poison Control Center right away. If pregnant or breast-feeding, seek advice of a health professional before use. Tamper seal: "Sealed for your protection." Do not use if seal is broken or missing.
+questions:
+  Dist. By: Deseret Biologicals Incorporated 469 Parkland Drive Sandy, UT 84070 www.desbio.com
+spl_product_data_elements:
+  Formula 10 Arnica montana, Bellis perennis, Phosphorus, ARNICA MONTANA ARNICA MONTANA BELLIS PERENNIS BELLIS PERENNIS PHOSPHORUS PHOSPHORUS TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF DELPHINIUM STAPHISAGRIA SEED DELPHINIUM STAPHISAGRIA SEED WATER ALCOHOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  DIRECTIONS: 10 drops under the tongue, 3 times a day or as directed by a health professional. Consult a physician for use in children under 12 years of age.
+package_label_principal_display_panel:
+  Deseret Biologicals Incorportated HOMEOPATHIC FORMULA #10 33.8 FL OZ (1000 ML) Formula 10
+set_id:
+  42ef3e77-c52a-43ac-af79-1acef69c9444
+id:
+  efb7e1df-1b3f-4acc-9769-553d433c344c
+active_ingredient:
+  ACTIVE INGREDIENTS: Arnica Montana 6C, Bellis Perennis 6C, Phosphorus 6C, Rhus Toxicodendron 6C, Staphysagria 6C.

@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  DESENFRIOL-ITO PLUS Acetaminophen SODIUM BENZOATE GLYCERIN WATER FD&C RED NO. 40 SORBITOL SOLUTION ACETAMINOPHEN ACETAMINOPHEN ANHYDROUS CITRIC ACID SUCRALOSE XANTHAN GUM CARBOXYMETHYLCELLULOSE
+active_ingredient:
+  Active Ingredient Active Ingredient (in each 5 mL) Acetaminophen 160 mg
+purpose:
+  Purpose Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses Uses temporarily: reduces fever relieves minor aches and pains due to: sore throat the common cold flu headache toothache
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes more than 5 doses in 24 hours, wich is the maximum daily amount with other drugs containing acetaminophen Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blister rash if a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly Do not use with any other drug containing acetaminophen (prescription or non-prescription). if your child is allergic to acetaminophen or any of the inactive ingredientes in this product Ask a doctor before use if your child has liver disease Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin When using this product do not exceed recomended dose (see overdose warning) Stop use and ask a doctor if new symtoms occur redness or swelling is present pain gets worse or lasts more than 5 days fever gets worse or lasts more then 3 days These could be signs of a serious condition. Keep out of reach of children Keep out of reach of children Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away 1-800-222-1222. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or non-prescription). if your child is allergic to acetaminophen or any of the inactive ingredientes in this product
+ask_doctor:
+  Ask a doctor before use if your child has liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin
+when_using:
+  When using this product do not exceed recomended dose (see overdose warning)
+stop_use:
+  Stop use and ask a doctor if new symtoms occur redness or swelling is present pain gets worse or lasts more than 5 days fever gets worse or lasts more then 3 days These could be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children
+overdosage:
+  Overdose warning: Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away 1-800-222-1222. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms
+dosage_and_administration:
+  Directions this product does not contain directions or complete warnings for adult use. Shake well before using mL= milliliter find right dose or chart below. If possible, use weight to dose; otherwise, use age. repeat dose every 4 hours while symptoms last only use enclosed measuring cup do not give more than 5 times in 24 hours do not give more than 5 days unless directed by a doctor. † always check with your doctor before administering medicine to your infant/child Directions for use
+other_safety_information:
+  Other information each teaspoon (5 mL) contains: sodium 1 mg Store between 15°-30°C (59°-86°F) Protect from Freezing and light
+inactive_ingredient:
+  Inactive ingredients Anhydrous citric acid, carboxymethylcellulose, FD&C red #40, flavors, glycerin, purified water, sodium benzoate, sorbitol solution, sucralose, xanthan gum.
+questions:
+  Questions? Call toll free 619-600-5632 Monday through Friday 9AM - 5PM EST
+spl_unclassified_section:
+  Distributed By VERSIÓN EN ESPAÑOL EN EL INTERIOR DE LA CAJA Exclusively distributed by OPMX Chula Vista CA, 91910 Phone: 619-600-5632 Manufactured in FDA Registered Facility
+package_label_principal_display_panel:
+  NDC 69729-815-04 DESENFRIOL-ITO PLUS ACETAMINOPHEN 160mg/5ml Oral Suspension Rápido Alivio para Fiebre y Dolor Sabor Cereza Quick Relief of Fever & Pain Cherry Flavour Infantil de 2 a 11 años Children 2 to 11 years 4fl oz (118mL) PDP1 BOTTLE esp
+set_id:
+  544ee7bd-0c95-2485-e063-6294a90a98c7
+id:
+  544ee7bd-0c96-2485-e063-6294a90a98c7
+effective_time:
+  20260615
+version:
+  1
+openfda:
+  application_number:
+    M013
+  brand_name:
+    DESENFRIOL-ITO PLUS
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    OPMX LLC
+  product_ndc:
+    69729-815
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    307668
+  spl_id:
+    544ee7bd-0c96-2485-e063-6294a90a98c7
+  spl_set_id:
+    544ee7bd-0c95-2485-e063-6294a90a98c7
+  package_ndc:
+    69729-815-04
+  is_original_packager:
+    True
+  upc:
+    0810053181812
+  unii:
+    362O9ITL9D

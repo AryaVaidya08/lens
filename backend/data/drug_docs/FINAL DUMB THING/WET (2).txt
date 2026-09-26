@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  WET WIPES BENZALKONIUM CHLORIDE DIDECYLDIMONIUM CHLORIDE ETHYLHEXYLGLYCERIN PROPYLENE GLYCOL GLYCERIN PHENOXYETHANOL WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF
+active_ingredient:
+  Active Ingredient(s) Benzalkonium Chloride 0.1%. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Wet Wipes
+indications_and_usage:
+  Use For disinfection of hands, face, legs, skin, surfaces, and to reduce germs and bacteria on the skin if you cannot wash hands
+warnings:
+  Warnings For external use only.
+do_not_use:
+  May cause irritation on sensitive skin, discontinue use if irritation or rash appears. Avoid direct contact with eyes.
+when_using:
+  In case of eye contact, flush with plenty of water. In case of skin irritation, wash off skin immediately with plenty of water, using soap if available. Seek medical attention immediately if irritation persists.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+dosage_and_administration:
+  Directions Remove top, open bag, lift pop top, feed wipe through opening, and gently pull to remove wipe. Gently wipe hands and / or face to remove 99.9% of germs and bacteria. After use, close top to keep wipes moist. Do not flush, please discard wipe in trash after use. Please recycle canister.
+other_safety_information:
+  Other information Shelf life 2 years if unopened sealed container. Store in cool, dry place. High temperatures may reduce shelf life or dry out wipes
+inactive_ingredient:
+  Inactive ingredients Purified water, Phenoxyethanol, Ethylhexyl Glycerin, Propylene Glycol, Didecyldimonium ChlorideGlycerin, Aloe Vera
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 75662-007-01 200 wipes PDP
+set_id:
+  a95c0d31-c598-6dc0-e053-2995a90a06ff
+id:
+  a95c2d97-a630-23b5-e053-2995a90a3986
+effective_time:
+  20200701
+version:
+  1
+openfda:

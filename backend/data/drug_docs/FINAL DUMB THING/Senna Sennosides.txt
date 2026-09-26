@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Senna Sennosides METHYLPARABEN WATER SUCROSE PROPYLPARABEN SENNOSIDES SENNOSIDES
+active_ingredient:
+  Active ingredient (in each 5mL teaspoonful) Sennosides 8.8mg
+purpose:
+  Laxative
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or failure to have a bowel movement after use of a laxative. These may indicate a serious condition.
+keep_out_of_reach_of_children:
+  In case of accidental overdose, get medical help or contact a Poison Control Center immediately.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+ask_doctor_or_pharmacist:
+  Ask a doctor before use if you have stomach pain, nausea or vomitting Noticed a change in bowel habits over two weeks
+warnings:
+  Do not use laxative products for longer than one week unless directed by a doctor
+questions:
+  Questions or Comments? 833-537-4679
+dosage_and_administration:
+  Age Starting Dose Maximum Dose Adults and children 12 years and older 2 to 3 teaspoonfuls once a day preferably at bedtime; increase as needed or as recommended by a doctor 3 teaspoonfuls in the morning and 3 teaspoonfuls at bedtime Under 12 years of age Ask a doctor Ask a doctor
+dosage_and_administration_table:
+  <table border="0" width="95px"><tbody><tr><td><content styleCode="bold">Age</content></td><td><content styleCode="bold">Starting Dose</content></td><td><paragraph><content styleCode="bold">Maximum Dose</content></paragraph></td></tr><tr><td>Adults and children 12 years and older</td><td>2 to 3 teaspoonfuls once a day preferably at bedtime; increase as needed or as recommended by a doctor</td><td>3 teaspoonfuls in the morning and 3 teaspoonfuls at bedtime</td></tr><tr><td>Under 12 years of age</td><td>Ask a doctor</td><td>Ask a doctor</td></tr></tbody></table>
+  <table border="0" width="95px"><tbody><tr><td/><td/><td/></tr><tr><td/><td/><td/></tr><tr><td/><td/><td/></tr></tbody></table>
+inactive_ingredient:
+  Artificial and natural chocolate flavor, methylparaben, propylene glycol, propylparaben, purified water, sucrose
+storage_and_handling:
+  Store at room temperature (59-77 degrees F)
+indications_and_usage:
+  Uses Relieves ocassional constipation (irregularity) Generally causes bowel movement in 6 to 12 hours
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Senna Syrup, USP- 5mL Senna Syrup, USP 10 mL Senna Syrup, USP 15 mL 5mL 10mL 15mL
+set_id:
+  bce214bc-958c-4e45-e053-2995a90acda5
+id:
+  eb886e12-b8b8-4fb1-8b9f-57304bbb86cb
+effective_time:
+  20230927
+version:
+  4
+openfda:

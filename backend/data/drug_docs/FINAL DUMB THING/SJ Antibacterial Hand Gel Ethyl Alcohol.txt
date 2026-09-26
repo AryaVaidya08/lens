@@ -1,0 +1,37 @@
+effective_time:
+  20181219
+inactive_ingredient:
+  Inactive Ingredients 2-Amino-2-Methyl-1-Propanol, Carbomer, Fragrance, Glycerin, Isopropyl Alcohol, Isopropyl Palmitate, Propylene Glycol, Tocopheryl Acetate, Water
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings Flammable. Keep away from heat and flame. For external use only.
+when_using:
+  When using this product avoid contact with eyes. If contact with occurs, flush eyes with water.
+questions:
+  <paragraph>DIST. BY SJ CREATIONS, INC. P.O. BOX 232428 LEUCADIA, CA 92024, U.S.A. WWW.SJCREATIONSINC.COM PRODUCT OF CHINA <paragraph>
+spl_product_data_elements:
+  SJ Antibacterial Hand Gel Ethyl Alcohol 2-AMINO-2-METHYL-1-PROPANOL GLYCERIN ISOPROPYL ALCOHOL ISOPROPYL PALMITATE PROPYLENE GLYCOL WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.Repeat as necessary. Supervise children with use of this product.
+stop_use:
+  Discontinue use if irritation or redness develops. If condition persists for more than 72 hours, consult a doctor.
+storage_and_handling:
+  Other Information Store at 20 degrees C to 25 degrees C (68 degrees F to 77 degrees F). May discolor some fabrics.
+do_not_use:
+  DO NOT USE IF TAMPER EVIDENT SEAL IS MISSING, BROKEN, OR DESTROYED.
+package_label_principal_display_panel:
+  SJ Antibacterial Hand Gel 8oz
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin. Recommended for repeated use.
+set_id:
+  e5265120-9213-4dcc-8218-8b8f015d892e
+id:
+  7d681b8a-dc16-a68e-e053-2991aa0a9269
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 65 percent

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Dove Powder Antiperspirant Deodorant .ALPHA.-HEXYLCINNAMALDEHYDE LINALOOL, (+/-)- HIGH DENSITY POLYETHYLENE CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL BUTYLATED HYDROXYTOLUENE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE PPG-14 BUTYL ETHER STEARYL ALCOHOL SUNFLOWER OIL MINERAL OIL COUMARIN STEARETH-100 BENZYL ALCOHOL ISOPROPYL PALMITATE LIMONENE, (+)- BENZYL SALICYLATE .BETA.-CITRONELLOL, (R)- ISOMETHYL-.ALPHA.-IONONE BENZYL BENZOATE CINNAMYL ALCOHOL
+description:
+  DOVE POWDER ANTIPERSPIRANT DEODORANT - aluminum chlorohydrate stick Dove Advanced Care Caring Coconut 48h Antiperspirant Deodorant
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Chlorohydrate (19.6)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses • reduces underarm wetness • 24 Hour Protection
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, PPG-14 Butyl Ether, Mineral Oil, Isopropyl Palmitate, Hydrogenated Castor Oil, Fragrance (Parfum), Polyethylene, Steareth-100, BHT, Helianthus Annuus (Sunflower) Seed Oil, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Cinnamyl Alcohol, Citronellol, Coumarin, Hexyl Cinnamal, Limonene, Linalool .
+questions:
+  Questions? Call toll-free 1-800-761-3683
+package_label_principal_display_panel:
+  Packaging Label Dove Powder AP Deo
+set_id:
+  bc40c200-ce92-4f3a-e053-2995a90ac164
+id:
+  47bed757-f411-d0d7-e063-6394a90aefa9
+effective_time:
+  20260106
+version:
+  5
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Dove
+  generic_name:
+    POWDER ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-1855
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM CHLOROHYDRATE
+  spl_id:
+    47bed757-f411-d0d7-e063-6394a90aefa9
+  spl_set_id:
+    bc40c200-ce92-4f3a-e053-2995a90ac164
+  package_ndc:
+    64942-1855-1
+    64942-1855-2
+    64942-1855-3
+    64942-1855-4
+  is_original_packager:
+    True
+  upc:
+    0079400500205
+    0079400507204
+  unii:
+    HPN8MZW13M

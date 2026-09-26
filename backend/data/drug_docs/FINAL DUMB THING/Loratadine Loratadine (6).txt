@@ -1,0 +1,45 @@
+effective_time:
+  20131204
+purpose:
+  PURPOSE Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+when_using:
+  When using this product Do not take more than directed. Taking more than directed may cause drowsiness.
+questions:
+  QUESTIONS? Call 1-877-932-7948
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, Ask a health professional before use.
+indications_and_usage:
+  USES Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+set_id:
+  bc253aa7-686c-40e6-affa-a585b465046a
+id:
+  35af7285-9558-4f37-a826-594676f46763
+ask_doctor_or_pharmacist:
+  
+active_ingredient:
+  ACTIVE INGREDIENT (IN EACH TABLET) Loratadine, USP 10 mg
+dosage_and_administration_table:
+  <table ID="inv-1e9c544e-82f6-46f8-8986-7a2041cffa33"> <col ID="inv-8cc75251-8113-48e5-b91b-da8425b7e171" width="234.00*"/> <col ID="inv-e01546a8-0f73-4c01-acd7-2ea46db7e527" width="234.00*"/> <tbody ID="inv-e22e6254-394e-4dfe-9991-a6094847339b"> <tr ID="inv-711c2a30-791d-46a2-ae97-1caf617f961f"> <td ID="inv-8ef9380a-65df-43b8-bab4-fbb5e828207a"> adults and children 6 years and over</td> <td ID="inv-1d9b263c-d4ec-4f1c-84e7-dfbf6a2786fd"> 1 tablet daily; not more than 1 tablet in 24 hours</td> </tr> <tr ID="inv-6f5a6d1c-2fb6-4e58-8326-7f1ebed41066"> <td ID="inv-9ccf8741-404f-46ee-bff9-7e3cfe981601"> children under 6 years of age</td> <td ID="inv-b2ec5f64-55e7-426f-9be3-4a640919343d"> ask a doctor</td> </tr> <tr ID="inv-5146e84d-0817-4b88-848d-25931d4c7e8e"> <td ID="inv-429178b0-f5b8-4bf6-9ee3-e02b2491b908"> consumers with liver or kidney disease</td> <td ID="inv-de2bc5bb-e3dd-40b8-9e73-35e4c7f4a690"> ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  INACTIVE INGREDIENTS Aspartame, croscarmellose sodium, magnesium stearate, mannitol, mint flavor, sodium stearyl fumarate, strawberry cream flavor, tutti-frutti flavor
+warnings:
+  WARNINGS Do Not Use If you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose. When using this product Do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, Ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+spl_product_data_elements:
+  Loratadine Loratadine LORATADINE LORATADINE ASPARTAME CROSCARMELLOSE SODIUM MAGNESIUM STEARATE MANNITOL SODIUM STEARYL FUMARATE White to Off-White flat face, beveled edged RC17
+ask_doctor:
+  Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose.
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS place 1 tablet on tongue; tablet disintegrates, with or without water adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+stop_use:
+  Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away.
+spl_unclassified_section:
+  OTHER INFORMATION Phenylketonurics: Contains Phenylalanine 0.6 mg Per Tablet. TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING. store between 20° to 25° C (68° to 77° F). Protect from excessive moisture. keep in a dry place. use tablet immediately after opening individual blister.
+do_not_use:
+  Do Not Use If you have ever had an allergic reaction to this product or any of its ingredients.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL equaline ® compare to Claritin ® RediTabs ® active ingredient ** NDC 41163-528-69 original prescription strength melts in your mouth allergy relief loratadine orally disintegrating tablets, USP 10 mg antihistamine no water needed indoor and outdoor allergies non-drowsy* 24 hour relief of: runny nose itchy, watery eyes sneezing itchy throat or nose 10 orally disintegrating tablets * When taken as directed. See Drug Facts Panel. DISTRIBUTED BY SUPERVALU INC. 5105058/ R0913 equalinelabel

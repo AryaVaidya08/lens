@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  HEB SPF 50 White Gardenia Sunscreen AVOBENZONE, HOMOSALATE, OCTISALATE,OCTOCRYLENE WATER SILICON DIOXIDE SODIUM ASCORBYL PHOSPHATE ALUMINUM STARCH OCTENYLSUCCINATE ETHYLHEXYLGLYCERIN .ALPHA.-TOCOPHEROL, DL- POLYESTER-7 NEOPENTYL GLYCOL DIHEPTANOATE ISODODECANE BUTYLENE GLYCOL POTASSIUM HYDROXIDE GLYCERIN AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE PHENOXYETHANOL CARBOMER COPOLYMER TYPE A CETYL PALMITATE CETOSTEARYL ALCOHOL PODOPHYLLUM SORBITAN OLIVATE OLIVE OIL POLYGLYCERYL-6 ESTERS CETEARYL OLIVATE SORBITAN MONOPALMITATE BUTYL METHACRYLATE/METHYL METHACRYLATE/METHACRYLIC ACID/STYRENE CROSSPOLYMER
+active_ingredient:
+  Active Ingredients Avobenzone 3.0%, Homosalate 10.0%, Octisalate 4.5%, Octocrylene 8.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protetion measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use • on damaged or broken skin.
+when_using:
+  When using this product • keep out of eyes. Rinse with water to remove.
+ask_doctor:
+  Stop use and ask a doctor if • rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: • after 80 minutes of swimming or sweating • immediately after towel drying • at least every 2 hours children under 6 months of age: Ask a doctor Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • limit time in the sun, especially from 10 a.m. - 2 p.m. • wear long-sleeved shirts, pants, hats, and sunglasses
+other_safety_information:
+  Other Information protect the product in this container from excessive heat and direct sun may stain or damage some fabrics, materials or surfaces
+inactive_ingredient:
+  Inactive Ingredient(s) water, polyester-7, neopentyl glycol diheptanoate, glycerin, cetearyl olivate, styrene/acrylates copolymer, sorbitan olivate, aluminum starch octenylsuccinate, olive oil polyglyceryl-6 esters, saccharomyces/podophyllum peltatum ferment filtrate, butylene glycol, silica, phenoxyethanol, isododecane, sodium stearoyl lactylate, cetearyl alcohol, cetyl palmitate, sorbitan palmitate, ethylhexylglycerin, acrylates/C10-30 alkyl acrylate crosspolymer, tocopherol (vitamin E), potassium hydroxide, sodium ascorbyl phosphate, fragrance.
+package_label_principal_display_panel:
+  Label HEB53464A
+set_id:
+  f5a2702c-5451-58a1-e053-2a95a90adb8e
+id:
+  24893c75-9546-1ae5-e063-6294a90a862b
+effective_time:
+  20241015
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    HEB SPF 50 White Gardenia Sunscreen
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE,OCTOCRYLENE
+  manufacturer_name:
+    H.E.B
+  product_ndc:
+    37808-073
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    24893c75-9546-1ae5-e063-6294a90a862b
+  spl_set_id:
+    f5a2702c-5451-58a1-e053-2a95a90adb8e
+  package_ndc:
+    37808-073-12
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

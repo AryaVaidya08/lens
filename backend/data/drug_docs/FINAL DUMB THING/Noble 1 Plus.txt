@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Noble 1 Plus XYLITOL CETYLPYRIDINIUM CHLORIDE LACTOSE MONOHYDRATE STARCH, CORN SORBITOL UBIDECARENONE LICORICE TRIBASIC CALCIUM PHOSPHATE PROPOLIS WAX XYLITOL XYLITOL
+active_ingredient:
+  active ingredient: xylitol<text><contentstyleCode="xmChange"></content></text>
+inactive_ingredient:
+  cetylpyridinium chloride, lactose monohydrate, corn starch, d-sorbitol, ubidecarenone, glycyrrhizae extract, tea chatechin, hydroxyapatite, propolis extract, menthol powder, spirulina color<text><contentstyleCode="xmChange"></content></text>
+purpose:
+  whiten and strong teeth removal of bad breath prevention of gingivitis and periodontitis prevention of periodontal diseases and gum diseases removal of dental plaque<text><contentstyleCode="xmChange"></content></text>
+keep_out_of_reach_of_children:
+  keep out of reach of the children<text><contentstyleCode="xmChange"></content></text>
+indications_and_usage:
+  apply Proper Amount of the toothpaste on the tooth.<text><contentstyleCode="xmChange"></content></text>
+warnings:
+  ■ For tooth only. ■ Avoid contact with eyes. ■ Do not swallow. If swallowed, get medical help. <text><contentstyleCode="xmChange"></content></text>
+dosage_and_administration:
+  brush your teeth by putting appropriate amount of powder <text><contentstyleCode="xmChange"></content></text>
+recent_major_changes:
+  <text><contentstyleCode="xmChange"></content></text>
+package_label_principal_display_panel:
+  <text><contentstyleCode="xmChange"></content></text> package insert
+set_id:
+  d6be484e-40e2-4b23-bed7-86845a96d709
+id:
+  98ee91f0-4a19-51dd-e053-2995a90a35a5
+effective_time:
+  20191204
+version:
+  2
+openfda:

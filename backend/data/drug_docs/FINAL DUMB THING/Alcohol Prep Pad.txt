@@ -1,0 +1,25 @@
+effective_time:
+  20100525
+inactive_ingredient:
+  Inactive Ingredients Inactive Ingredients: Water
+purpose:
+  Purpose Antiseptic
+warnings:
+  Warnning For External use only. Flammable,keep away from fire or flame. Do not use with electrocautery procedures in eyes. Stop use and ask a doctor if irritation and redness develop,condition persists for more than 72 hours . Keep out of reach of children in case of accidental ingestion,seek professional assistance or consult a Poison Control Center immediately.
+spl_product_data_elements:
+  Alcohol Prep Pad ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wipe injection site vigorously and discard.
+package_label_principal_display_panel:
+  Enter section text here alcohol pad
+indications_and_usage:
+  Use For preparation of skin prior to injection.
+set_id:
+  59ae96a2-a3a5-4e6b-84fb-00a515611240
+id:
+  926a20c4-4740-4ba7-9aab-9425721b2477
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70%

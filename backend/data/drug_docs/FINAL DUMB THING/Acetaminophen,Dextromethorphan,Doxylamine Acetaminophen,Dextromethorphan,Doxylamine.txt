@@ -1,0 +1,31 @@
+effective_time:
+  20161204
+inactive_ingredient:
+  Inactive Ingredients FD&C Red No.40, FD&C Yellow No. 6, Gelatin, Glycerin, Poyethylene Glycol, Povidone, Propylene Glycol, Purified Water, Sorbitol Special, Titanium dioxide
+purpose:
+  Purpose pain reliever Cough Suppressant Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If pregnant or breast-feeding, ask a health professional before use. Overdose warning : Taking more than recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms. Tamper evident: this package is safety sealed and child resistant. Use only if blisters are intact. If difficult to open use scissors.
+warnings:
+  Warnings Warnings Failure to follow these warnings could result in serious consequences. Liver Warning: This product contains acetaminophen . Severe liver damage may occur if you take more than 4 doses in 24 hours which is maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product do not use: with any other drug containing acetaminophen (prescription or not prescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (Certain drugs for depression, psychiatric or emotional conditions or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug, If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease Heart disease Thyroid disease Diabetes High blood pressure Trouble urinating due to enlarged prostate gland ask your doctor or pharmacist before use if you are taking the blood thinning drug warfarin. When using this product, do not use more than directed. Stop use and ask a doctor if: Redness or swelling is present You get nervous, dizzy or sleepless Fever gets worse or lasts more than 3 days New symptoms occur Symptoms do not get better within 7 days or are accompanied by a fever
+questions:
+  Questions or Comments Call toll free 1-855-314-1850
+spl_product_data_elements:
+  Acetaminophen,Dextromethorphan,Doxylamine Acetaminophen,Dextromethorphan,Doxylamine ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE FD&C BLUE NO. 1 FD&C YELLOW NO. 6 GELATIN POLYETHYLENE GLYCOL 1000 POVIDONE PROPYLENE GLYCOL SORBITOL TITANIUM DIOXIDE GLYCERIN 215
+openfda:
+version:
+  4
+dosage_and_administration:
+  Direction do not exceed 4 doses per 24 hours take only as directed – see overdose warning Adults and children 12 years and over: 2 softgels with water every 4 hours children under 12 years: ask a doctor Children under 4 years: do not use
+spl_unclassified_section:
+  Other Information store at room temperature
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC: 58805-003-14 and 58805-003-04 c09bbe01-figure-01 c09bbe01-figure-02
+indications_and_usage:
+  Uses pain reliever, cough suppressant and Antihistamine
+set_id:
+  0c3a89d3-9b88-4cc4-bc0e-a95a95824309
+id:
+  2be66d41-01f7-4c72-9053-3a8206b90143
+active_ingredient:
+  Active Ingredient (in each softgel) Acetaminophen 325 mg Dextromethorphan HBr 15 mg Doxylamine Succinate 6.25 mg

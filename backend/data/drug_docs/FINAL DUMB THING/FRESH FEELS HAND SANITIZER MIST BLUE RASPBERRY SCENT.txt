@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  FRESH FEELS HAND SANITIZER MIST BLUE RASPBERRY SCENT ETHYL ALCOHOL ALCOHOL ALCOHOL WATER GLYCERIN DIPROPYLENE GLYCOL GLYCERETH-26 BUTYLENE GLYCOL LEUCONOSTOC/RADISH ROOT FERMENT FILTRATE ALOE VERA LEAF JUICE PHENOXYETHANOL FD&C RED NO. 4 FD&C YELLOW NO. 5 FD&C RED NO. 40 D&C RED NO. 33 D&C RED NO. 28 FD&C BLUE NO. 1
+spl_unclassified_section:
+  Drug Facts
+  HAND SANITIZER MIST WITH KEYCHAIN Distributed by: Pearl World Inc. 152 W 57th St, Fl 48. NY, NY 10019 Made in China Questions or Comments call (877) 711-8333
+active_ingredient:
+  Active Ingredient ETHYL ALCOHOL 70%
+purpose:
+  Purpose ANTISEPTIC
+indications_and_usage:
+  Uses • To decrease bacteria on the skin that could cause disease. • When water, soap and towel are not available. • Recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product: • Keep out of eyes, ears, or mouth. • In case of eye contact, flush eyes thoroughly with water. • Avoid contact with broken skin. • Do not inhale or ingest. Stop use and ask a doctor if • Redness or irritation develop. • Condition persists for more than 72 hours. Keep out of reach of children. • Children should be supervised by an adult when using this product. • If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. • Children should be supervised by an adult when using this product. • If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Spray product in your palm and rub hands together until dry. • For children under 6, use only under adult supervision. • Not recommended for infants.
+storage_and_handling:
+  Other Information • Do not store above 105°F. • May discolor some fabrics. • Harmful to wood finishes and plastics.
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Dipropylene Glycol, Glycereth-26, Fragrance, Butylene Glycol, Leuconostoc/Radish Root Ferment Filtrate, Aloe Barbadensis Leaf Juice, Phenoxyethanol. May Contain: Red 4(CI 14700), Yellow 5(CI 19140), Red 40(CI 16035), Red 33(CI 17200), Red 28(CI 45410), Blue 1(CI 42090)
+package_label_principal_display_panel:
+  Packaging MISTBLUERASPBERRY-1
+set_id:
+  106955cd-4485-4a0b-87a2-d4343e6a89f6
+id:
+  397aa4b0-b6a1-412a-994e-c38388a5a344
+effective_time:
+  20250429
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    FRESH FEELS HAND SANITIZER MIST BLUE RASPBERRY SCENT
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Pearl World Inc.
+  product_ndc:
+    69933-261
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1041849
+  spl_id:
+    397aa4b0-b6a1-412a-994e-c38388a5a344
+  spl_set_id:
+    106955cd-4485-4a0b-87a2-d4343e6a89f6
+  package_ndc:
+    69933-261-12
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

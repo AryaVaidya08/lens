@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  White Glo Advantage Anticavity Professional Whitening SODIUM MONOFLUOROPHOSPHATE CALCIUM CARBONATE WATER SORBITOL GLYCERIN HYDRATED SILICA SODIUM LAURYL SULFATE SACCHARIN SODIUM SODIUM SILICATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED HYDROXYETHYL CELLULOSE, UNSPECIFIED ROSA CANINA FRUIT OIL SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+  Other information Store in a cool place,below 86° F,away from heat Do not use if quality seal is broken or missing
+active_ingredient:
+  Active ingredient Sodiummonofluorophosphate 0.76% (0.1% W/W fluoride ion). Purpose Anticavity toothpaste
+purpose:
+  Purpose Anticavity toothpaste
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed,get medical help or contact a Poison Control Centerrightaway.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed,get medical help or contact a Poison Control Centerrightaway.
+dosage_and_administration:
+  Directions Adults and children 2 years of age & older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Children under 6 years of age: Instruct in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor.
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td> Adults and children   2 years of age &amp; older: </td><td>Brush teeth thoroughly, preferably after each   meal or at least twice a day, or as directed by   a dentist or doctor. </td></tr><tr><td> Children under   6 years of age: </td><td>Instruct in good brushing and rinsing habits   (to minimize swallowing). Supervise children as   necessary until capable of using without supervision. </td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients Calcium Carbonate,Water,Sorbitol,Glycerin,Hydrated Silica,Sodium Lauryl Sulfate,Flavour,Sodium Saccharin,Sodium Silicate,Trisodium Phosphate,Cellulose Gum,Hydroxyethylcellulose,Rosa Canina (Rose hip) Fruit Oil.
+questions:
+  Questions or comments For customer enquiries, please contact: customer.service@whiteglo.com White Glo USA INC. 42 West Campbell Avenue, Third Floor, Campbell, California, 9500. www.whiteglo.com
+package_label_principal_display_panel:
+  Package Labeling: Label Tube Label
+set_id:
+  164c3e87-74e5-4128-9bd7-60e162e58984
+id:
+  2f190d5c-c10f-d9a4-e063-6294a90a1033
+effective_time:
+  20250226
+version:
+  3
+openfda:
+  application_number:
+    M021
+  brand_name:
+    White Glo Advantage Anticavity Professional Whitening
+  generic_name:
+    SODIUM MONOFLUOROPHOSPHATE
+  manufacturer_name:
+    WHITE GLO USA INC
+  product_ndc:
+    73656-027
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SODIUM MONOFLUOROPHOSPHATE
+  rxcui:
+    545626
+  spl_id:
+    2f190d5c-c10f-d9a4-e063-6294a90a1033
+  spl_set_id:
+    164c3e87-74e5-4128-9bd7-60e162e58984
+  package_ndc:
+    73656-027-00
+  is_original_packager:
+    True
+  upc:
+    0879226001531
+  unii:
+    C810JCZ56Q

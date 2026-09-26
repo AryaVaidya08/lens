@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  UtaSpray Menthol and Methyl Salicylate SAPOSHNIKOVIA DIVARICATA ROOT ARTEMISIA ARGYI LEAF PAEONIA X SUFFRUTICOSA ROOT BARK ACTAEA CIMICIFUGA ROOT SOPHORA FLAVESCENS ROOT PAEONIA LACTIFLORA ROOT PANAX NOTOGINSENG ROOT SAFFLOWER ALCOHOL MENTHOL MENTHOL METHYL SALICYLATE SALICYLIC ACID light brown
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Menthol 10% Methyl Salicylate 5%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Uses For temporary relief of joint and muscle aches and pains sprains and strains inflammation mild bruises
+warnings:
+  Warnings For external use only Use only as directed Avoid contact with the eyes or mucous membranes Do not use on open wounds or irritated or broken skin Discontinue use if skin rash or irritation develops or if condition worsens Consult your doctor before use if you are pregnant or breastfeeding Keep out of reach of children Store at room temperature Shake well before use, close cap tightly after use Read all product information before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+dosage_and_administration:
+  Directions Clean and dry application area. Spray treatment directly onto skin and gently rub in if desired. May be used up to 10 times per day in adults and children over age 2.
+inactive_ingredient:
+  Other Ingredients Saposhnikoviae Radix, Artemisiae Argyi Folium, Moutan Cortex, Cimicfugae Rhizoma, Sophorae Flavescentis Radix, Paeoniae Radix, Rubra Notoginseng Radixet Rhizoma, Carthami Flos, Alcohol.
+package_label_principal_display_panel:
+  Principal Display Panel label
+set_id:
+  c641ab11-cd00-4e23-ace7-8178739084f0
+id:
+  0aa37a7b-851a-d9d5-e063-6294a90a23be
+effective_time:
+  20231121
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    UtaSpray
+  generic_name:
+    MENTHOL AND METHYL SALICYLATE
+  manufacturer_name:
+    Big 5 Nutrition LLC
+  product_ndc:
+    82198-0008
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MENTHOL
+    METHYL SALICYLATE
+  rxcui:
+    1875611
+  spl_id:
+    0aa37a7b-851a-d9d5-e063-6294a90a23be
+  spl_set_id:
+    c641ab11-cd00-4e23-ace7-8178739084f0
+  package_ndc:
+    82198-0008-1
+  is_original_packager:
+    True
+  unii:
+    L7T10EIP3A
+    LAV5U5022Y

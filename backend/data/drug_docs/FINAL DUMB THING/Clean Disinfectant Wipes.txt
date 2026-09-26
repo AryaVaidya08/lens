@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Clean Disinfectant Wipes BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER CITRIC ACID MONOHYDRATE
+active_ingredient:
+  ACTIVE INGREDIENT Benzalkonium Chloride 0.14%
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, Citric Acid
+purpose:
+  PURPOSE Antiseptic
+warnings:
+  WARNINGS For external use only. -------------------------------------------------------------------------------------------------------- Do not use ■ in children less than 2 months of age ■ on open skin wounds -------------------------------------------------------------------------------------------------------- When using this product ■ avoid getting into the eyes (if contact occurs, wash well with clean water) -------------------------------------------------------------------------------------------------------- Stop use and ask a doctor ■ hypersensitivity symptoms such as erythema, itching and dermatitis happen ■ skin irritation happens
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses Hand sanitizing wipes to help reduce bacteria that potentially can cause disease.
+dosage_and_administration:
+  Directions ■ Wet hands thoroughly with product and allow to dry without wiping ■ Do not flush ■ Children under 2 years ask a doctor before use
+other_safety_information:
+  Other information ■ Read the directions and warnings before use ■ Store between 15-30℃(59-89℉) ■ Avoid freezing and excessive heat above 40℃(104 ℉)
+package_label_principal_display_panel:
+  Package Label: Clean Disinfectant Wipes (55g, 10wipes) Image of container
+  Package Label: Clean Disinfectant Wipes (110g, 20wipes) Image of container
+  Package Label: Clean Disinfectant Wipes (460g, 80wipes) Image of container
+set_id:
+  706859c6-95c8-491c-b785-45e502486d55
+id:
+  2eec5eaf-2e1d-4e18-abad-5c18e8539418
+effective_time:
+  20200604
+version:
+  1
+openfda:

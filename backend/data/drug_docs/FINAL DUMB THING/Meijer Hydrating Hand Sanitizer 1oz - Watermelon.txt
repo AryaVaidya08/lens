@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Meijer Hydrating Hand Sanitizer 1oz - Watermelon alcohol AMINOMETHYLPROPANOL ALOE VERA LEAF GLYCERIN WATER ALCOHOL ALCOHOL ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) .ALPHA.-TOCOPHEROL ACETATE DENATONIUM BENZOATE D&C RED NO. 33
+description:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Active ingredient Purpose Ethyl Alcohol 70% v/v Antiseptic
+purpose:
+  Uses Decreases bacieria on skin
+warnings:
+  Warning For external use only
+when_using:
+  When using this product Do not get into eyes. lf contact occurs, rinse thoroughly with water.
+stop_use:
+  Do not use lf you are allergic to any of the ingredients
+ask_doctor:
+  Stop use and ask a doctor lf irritation or rash develops and continues for more than72 hours.
+keep_out_of_reach_of_children:
+  keep out of reach of children lf swallowed, get medical help or contact a Poison Control Center immediately.
+indications_and_usage:
+  Directions Adults and children 6 years and older Spray onto hands and rub together unil dry. Recommended for repeat use. Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  Inactive ingredients Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aloe Barbadensis Gel, Aminomethy Propanol, Blue 1, Denatonium Benzoate, Fragrance, Glycerin, Tocopheryl Acetate, Water, Yellow 5.
+other_safety_information:
+  other Information Storebetween15-30C(59-86F) Avoid freezing and excessive heat above 40C (104F)
+dosage_and_administration:
+  Spray 3-4 times each time. Used in the skin area of the hands.
+package_label_principal_display_panel:
+  packing Packaging Packaging
+set_id:
+  322c0bdd-4dc5-52e7-e063-6294a90a1380
+id:
+  322c1376-b6b3-4dce-e063-6294a90a81f6
+effective_time:
+  20250407
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Meijer Hydrating Hand Sanitizer 1oz - Watermelon
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Shenzhen Lantern Scicence Co.,Ltd.
+  product_ndc:
+    54860-456
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1041849
+  spl_id:
+    322c1376-b6b3-4dce-e063-6294a90a81f6
+  spl_set_id:
+    322c0bdd-4dc5-52e7-e063-6294a90a1380
+  package_ndc:
+    54860-456-01
+  is_original_packager:
+    True
+  upc:
+    0719283113153
+  unii:
+    3K9958V90M

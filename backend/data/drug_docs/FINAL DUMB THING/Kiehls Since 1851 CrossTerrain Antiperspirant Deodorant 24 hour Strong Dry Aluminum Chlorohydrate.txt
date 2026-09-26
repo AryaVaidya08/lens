@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Kiehls Since 1851 CrossTerrain Antiperspirant Deodorant 24 hour Strong Dry Aluminum Chlorohydrate ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE CYCLOMETHICONE 5 MINERAL OIL STEARYL ALCOHOL HYDROGENATED CASTOR OIL CETYL ALCOHOL TALC PEG-100 STEARATE LIMONENE, (+)- LINALOOL, (+/-)- BENZYL ALCOHOL .BETA.-CITRONELLOL, (R)- BENZYL SALICYLATE GERANIOL COUMARIN CITRAL
+active_ingredient:
+  Active ingredient Aluminum chlorohydrate 20%
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Use reduces underarm wetness
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on broken skin
+stop_use:
+  Stop use if rash or irritation occurs
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients cyclopentasiloxane, mineral oil, stearyl alcohol, hydrogenated castor oil, cetyl alcohol, talc, PEG-100 stearate, glyceryl stearate, fragrance, limonene, linalool, benzyl alcohol, citronellol, benzyl salicylate, geraniol, coumarin, citral
+package_label_principal_display_panel:
+  image of a carton
+set_id:
+  9b01bafd-edda-4e0f-9d68-e684ba7de42b
+id:
+  bb9fd263-42f4-487d-9640-f5d4c461382f
+effective_time:
+  20230126
+version:
+  14
+openfda:

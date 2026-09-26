@@ -1,0 +1,42 @@
+effective_time:
+  20170216
+inactive_ingredient:
+  Inactive ingredients SD Alcohol 40-B, Water (Aqua), Aloe Barbadensis Leaf Juice, Acrylates Copolymer, Polysorbate 20, Mentha Piperita (Peppermint) Oil, Arnica Montana Flower Extract, Linum Usitatissmum (Linseed) Seed Oil, Euterpe Oleracea Fruit Oil, PPG-2 Hydroxyethyl Cocamide, Rosmarinus Officinalis (Rosemary) Leaf Oil, Methyl Diisopropyl Propionamide, Ethyl Methane Carboximide, Methyl Lactate, Lauryl Laurate, Zea Mays (Corn) Starch, Hydrolyzed Corn Starch, Hydrolyzed Starch Octenylsuccinate.
+purpose:
+  Active ingredient Purpose Menthol 12% Pain Relieving Camphor 6% Pain Relieving
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if swallowed, get medical help or contact a Poison Control center right away
+warnings:
+  Warnings For external use only. do not apply to wounds or damaged skin do not bandage tightly When using this product do not get into eyes avoid contact with other mucous membranes Extremely Flammable: Keep from heat and flame. Discontinue use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. if swallowed, get medical help or contact a Poison Control center right away if pregnant or nursing, seek the advice of a health professional before using
+when_using:
+  When using this product do not get into eyes avoid contact with other mucous membranes Extremely Flammable: Keep from heat and flame.
+spl_product_data_elements:
+  Leg Strong Trifusion Menthol and Camphor (Synthetic) MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM Camphor (Synthetic) Camphor (Synthetic) Water ALOE VERA LEAF ARNICA MONTANA FLOWER POLYSORBATE 20 METHYL DIISOPROPYL PROPIONAMIDE LAURYL LAURATE PEPPERMINT OIL ALCOHOL LINSEED OIL ROSEMARY OIL ACAI OIL STARCH, CORN
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Rotate sprayer's yellow locking mechanism counter-clockwise to unlock; clockwise to lock. Lock sprayer when not in use. Children under 12 years of age consult a physician Sprayer will need to be primed before initial use. Squeeze trigger pointed away from face several times until liquid dispenses. Sprayer can dispense at a 180° angle, but will need to be re-primed periodically Spray liberally to affected area not more than 3 to 4 times daily Wash hands with soap and water after each application to avoid spreading to the eyes or other sensitive mucous membranes
+pregnancy_or_breast_feeding:
+  if pregnant or nursing, seek the advice of a health professional before using
+spl_unclassified_section:
+  Drug Facts
+  V1.1210 Distributed by: Preval Health So. Portland, ME 04106 (USA) Manufactured by: Concept Laboratories, Inc. Chicago, IL 60642 (USA) #LS4PS
+stop_use:
+  Discontinue use and ask a doctor if condition worsens or if symptoms persist for more than 7 days or clear up and occur again within a few days
+do_not_use:
+  do not apply to wounds or damaged skin do not bandage tightly
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <thead> <tr styleCode="Toprule"> <th>Active ingredient</th> <th>Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Menthol 12%</td> <td>Pain Relieving</td> </tr> <tr styleCode="Botrule"> <td>Camphor 6% </td> <td>Pain Relieving</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 118 mL Bottle Label NDC 64058-342-64 LEG STRONG TRIFUSION PERFORMANCE SPRAY TOPICAL ANALGESIC 4 FL OZ (118mL) Principal Display Panel - 118 mL Bottle Label
+indications_and_usage:
+  Uses for the temporary relief of minor aches and pains of muscles and joints associated with simple backache arthritis strains sprains
+set_id:
+  857fb4de-2a9b-4854-b314-d9146fedb949
+id:
+  93814e0d-b244-4c7f-9f1a-6bf71646db9a
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <thead> <tr styleCode="Toprule"> <th>Active ingredient</th> <th>Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Menthol 12%</td> <td>Pain Relieving</td> </tr> <tr styleCode="Botrule"> <td>Camphor 6% </td> <td>Pain Relieving</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredient Purpose Menthol 12% Pain Relieving Camphor 6% Pain Relieving

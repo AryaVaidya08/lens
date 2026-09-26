@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Honey Lemon Thoracol menthol MENTHOL MENTHOL EUCALYPTUS OIL SUCROSE WATER STARCH, CORN CORN SYRUP GLYCERIN SOYBEAN OIL MEDIUM-CHAIN TRIGLYCERIDES HONEY
+active_ingredient:
+  Active Ingredient (in each lozenge): Menthol 7.5 mg
+purpose:
+  Purpose: Cough Suppressant
+indications_and_usage:
+  Uses: Temporarily relieves sore throat and coughs occurring with a cold
+warnings:
+  Warnings: Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompnaied or followed by a fever, headache, rash, nausea, or vomiting, consult a doctor right away.
+ask_doctor:
+  Ask a doctor before use if you have a persistent or chronic cough such as occurs with smoking, asthma, or emphysema a cough that is accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask a doctor if cough lasts for more than 7 days, tends to recur or is accompanied by fever rash headache swelling nausea vomiting These may be signs of a serious condition
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. 1-800-222-1222
+dosage_and_administration:
+  Directions: Do not take more than directed Adults and children 12 years of age and older: allow one lozenge to dissolve slowly in mouth may be repeated every 2 hours as needed or as directed by a doctor Children under 12 years of age: ask a doctor
+inactive_ingredient:
+  Inactive Ingredients: Beta Carotene (color), Corn Starch, Corn Syrup, Eucalyptus Oil, Glycerin, Honey, Medium Chain Triglycerides, Natural and Artificial Flavors, Soybean Oil, Sucrose and Water.
+package_label_principal_display_panel:
+  5782 Thoracol v21b-f.jpg
+set_id:
+  e2049197-ba98-4c61-bd97-84410fd1b914
+id:
+  b83412cb-cb44-42c9-90ab-184685bbb959
+effective_time:
+  20240124
+version:
+  5
+openfda:

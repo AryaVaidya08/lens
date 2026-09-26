@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Benzalkonium Chloride Benzalkonium Chloride WATER LAURAMINE OXIDE COCAMIDOPROPYL BETAINE LAURAMIDOPROPYLAMINE OXIDE SODIUM CHLORIDE MYRISTAMIDOPROPYLAMINE OXIDE GLYCERIN DISTEARETH-75 ISOPHORONE DIISOCYANATE PEG-150 DISTEARATE CITRIC ACID MONOHYDRATE EDETATE SODIUM SULISOBENZONE SODIUM BENZOATE FD&C BLUE NO. 1 D&C RED NO. 33 BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Claims FAMILY Wellness™ BERRIES & WHITE TEA SCENT ANTIBACTERIAL HAND SOAP REFILL
+  Disclaimer *This product is not manufactured or distributed by the Colgate-Palmolive Company, distributor of Softsoap ® Antibacterial Hand Soap White Tea & Berry.
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only: hands only
+when_using:
+  When using this product avoid conctact with eyes. If contact occurs, rinse eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly
+inactive_ingredient:
+  Inactive ingredients water, lauramine oxide, cocamidopropyl betaine, lauramidopropylamine oxide, sodium chloride, myristamidopropylamine oxide, glycerin, fragrance, disteareth-75 IPDI, PEG-150 distearate, citric acid, tetrasodium EDTA, benzophenone-4, sodium benzoate, blue 1, red 33
+questions:
+  Questions? Call 1-844-636-7687
+adverse_reactions:
+  ADVERSE REACTION DISTRIBUTED BY: MIDWOOD BRANDS, LLC 500 VOLVO PKWY, CHESAPEAKE, VA 23320 USA MADE IN USA WITH US & FOREIGN COMPONENTS 100% SATISFACTION OR YOUR MONEY BACK! NOT 100% SATISFIED? Return within 30 days to the store of purchase for a refund (with receipt) or exchange.
+package_label_principal_display_panel:
+  principal display panel FAMILY Wellness™ COMPARE TO SOFTSOAP ® ANTIBACTERIAL HAND SOAP WHITE TEA & BERRY* BERRIES & WHITE TEA SCENT ANTIBACTERIAL HAND SOAP REFILL With moisturizers Helps kill harmful germs Dermatologist tested 50 FL OZ (1.56 QT) 1.47 L image description image description
+  principal display panel FAMILY Beauty™ COMPARE TO SOFTSOAP ® ANTIBACTERIAL HAND SOAP WHITE TEA & BERRY* BERRIES & WHITE TEA SCENT ANTIBACTERIAL HAND SOAP REFILL With moisturizers Helps kill harmful germs Dermatologist tested 50 FL OZ (1.56 QT) 1.47 L image description image description
+set_id:
+  c4328104-5a17-4673-925b-3d3206994e6e
+id:
+  4a8e790e-8071-fa73-e063-6394a90a8a7a
+effective_time:
+  20260211
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Benzalkonium Chloride
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Family Dollar Stores, Inc
+  product_ndc:
+    55319-879
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  spl_id:
+    4a8e790e-8071-fa73-e063-6394a90a8a7a
+  spl_set_id:
+    c4328104-5a17-4673-925b-3d3206994e6e
+  package_ndc:
+    55319-879-03
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  COOL AND COOL ALCOHOL HAND SANITIZER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+active_ingredient:
+  Alcohol 70%, antiseptic
+indications_and_usage:
+  For handwashing to reduce bacteria on the skin.
+warnings:
+  For external use only.
+inactive_ingredient:
+  Water (Aqua), Glycerin
+dosage_and_administration:
+  Place enough product on hand and rub hands together until dry.
+intended_use_of_the_device:
+  Antiseptic
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center immediately.
+package_label_principal_display_panel:
+  Label FLAMMABLE. DO NOT DRINK OR SWALLOW. STORE IN A COOL DRY PLACE. LABEL
+set_id:
+  a5d1358e-95fb-81e8-e053-2995a90aac33
+id:
+  a5d1358e-95fc-81e8-e053-2995a90aac33
+effective_time:
+  20200517
+version:
+  1
+openfda:

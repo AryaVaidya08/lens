@@ -1,0 +1,44 @@
+effective_time:
+  20120710
+inactive_ingredient:
+  Inactive ingredients water, glycerin, polyethylene, dimethicone, isopropyl isostearate, pentylene glycol, panthenol, triethanolamine, tocopheryl acetate, sodium dehydroacetate, stearyl alcohol, behenyl alcohol, cetyl alcohol, hydroxyethylcellulose, dimethiconol, PEG-100 stearate, cetearyl glucoside, cetearyl alcohol, acrylates/C10-30 alkyl acrylate crosspolymer, disodium EDTA, carbomer, iodopropynyl butylcarbamate, benzyl alcohol, methylparaben, ethylparaben, propylparaben.
+purpose:
+  Active ingredients Purpose Octisalate 4.5% Sunscreen Avobenzone 3% Sunscreen Homosalate 3% Sunscreen Octocrylene 2.6% Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use on irritated or broken skin. Stop use and ask a physician if rash,irritation or sensitivity develops and lasts. When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water. Keep out of reach of children. In case of accidental ingestion, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water.
+questions:
+  Questions or comments? 1-866-710-PROX (7769) www.olayprofessional.com
+spl_product_data_elements:
+  Olay Professional ProX Clear UV Moisturizer SPF 15 Octisalate, Avobenzone, Homosalate, and Octocrylene Octisalate Octisalate Avobenzone Avobenzone Homosalate Homosalate Octocrylene Octocrylene water glycerin dimethicone pentylene glycol panthenol trolamine sodium dehydroacetate stearyl alcohol docosanol cetyl alcohol PEG-100 stearate cetearyl glucoside cetostearyl alcohol Edetate Disodium iodopropynyl butylcarbamate benzyl alcohol methylparaben ethylparaben propylparaben
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions apply evenly before sun exposure and as needed. children under 6 months of age: consult a doctor.
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202
+stop_use:
+  Stop use and ask a physician if rash,irritation or sensitivity develops and lasts.
+storage_and_handling:
+  Other information Sun Alert Limiting sun exposure, wearing protective clothing, and using sunscreens may reduce the risks of skin aging, skin cancer and other harmful effects of the sun.
+do_not_use:
+  Do not use on irritated or broken skin.
+active_ingredient_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th styleCode="italics">Active ingredients</th> <th styleCode="italics">Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Octisalate 4.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Avobenzone 3%</td> <td>Sunscreen</td> </tr> <tr> <td>Homosalate 3%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Octocrylene 2.6%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 mL Bottle Carton NEW OLAY ® PROFESSIONAL PRO X clear UV MOISTURIZER SPF 15 1.7 FL OZ (50 mL) Principal Display Panel
+indications_and_usage:
+  Use helps prevent sunburn.
+set_id:
+  9837f884-3021-4ebd-b56e-ab79900d7fc0
+id:
+  e8d04775-a707-41a9-959f-ceeb9f75c00d
+purpose_table:
+  <table width="50%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th styleCode="italics">Active ingredients</th> <th styleCode="italics">Purpose</th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Octisalate 4.5%</td> <td>Sunscreen</td> </tr> <tr> <td>Avobenzone 3%</td> <td>Sunscreen</td> </tr> <tr> <td>Homosalate 3%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Octocrylene 2.6%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Octisalate 4.5% Sunscreen Avobenzone 3% Sunscreen Homosalate 3% Sunscreen Octocrylene 2.6% Sunscreen

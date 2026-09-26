@@ -1,0 +1,31 @@
+effective_time:
+  20150218
+inactive_ingredient:
+  Inactive Ingredients Water, PEG-40 Hydrogenated Castor Oil, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, DMDM Hydantoin, Parfum, Sodium Hydroxide, Tocopherol Acetate, Simmondsia, Chinensis (Jojoba) Seed Wax, D and C Red 33 CI 17200, FD and C Blue 1 CI 42090
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children. If accidentally swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame
+spl_product_data_elements:
+  Spatherapy Eucalyptus Mint ALCOHOL ALCOHOL ALCOHOL WATER POLYOXYL 40 HYDROGENATED CASTOR OIL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) DMDM HYDANTOIN SODIUM HYDROXIDE .ALPHA.-TOCOPHEROL ACETATE SIMMONDSIA CHINENSIS SEED WAX D&C RED NO. 33 FD&C BLUE NO. 1
+other_safety_information:
+  Do not get into eye. If contact occurs, rinse thoroughly with water.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions - Apply to hands until thoroughly wet. Rub vigorously until dry.
+stop_use:
+  Discontinue use if irritation or redness develops. If irritation persists for more than 72 hours, consult a doctor.
+package_label_principal_display_panel:
+  copy of label
+indications_and_usage:
+  Use - To decrease bacteria on the skin and clean hands - Recommended for repeated use
+set_id:
+  dd761d44-29c7-4dde-ba13-ce82233d719e
+id:
+  2b91025c-8cb5-4e19-bfd5-4d7efcaf1be2
+active_ingredient:
+  Active Ingredient Alcohol Denat 60 % w/w

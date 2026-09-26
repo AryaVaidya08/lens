@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  MISSHA M Perfect Cover BB SPF42 No29 Octinoxate, Zinc Oxide, Titanium Dioxide FERROSOFERRIC OXIDE PEG-10 DIMETHICONE (600 CST) CYCLOMETHICONE HIGH DENSITY POLYETHYLENE GLYCERIN FERRIC OXIDE RED ARBUTIN WATER MINERAL OIL TRIS(TRIMETHYLSILOXY)PHENYLSILANE METHYLPARABEN CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) PROPYLENE GLYCOL SODIUM CHLORIDE MEDIUM-CHAIN TRIGLYCERIDES DIMETHICONE FERRIC OXIDE YELLOW YELLOW WAX CERAMIDE 6 II TALC OCTINOXATE OCTINOXATE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  ACTIVE INGREDIENTS Octinoxate 7.5% Zinc Oxide 7% Titanium Dioxide 4.19%
+purpose:
+  PURPOSE Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures(see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply at least every 2 hours use a water-resistant sunscreen if swimming or sweating Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin againg. To decrease this risk, regularly use a sunscreen with SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10a.m.-2p.m. wear long-sleeved shirts, pants, hats and sunglasses
+other_safety_information:
+  Other Information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive Ingredient Water (Aqua), Cyclomethicone, Propylene Glycol, Caprylic/Capric Triglyceride, PEG-10 Dimethicone, Iron Oxides (CI 77492), Cetyl PEG/PPG-10/1 Dimethicone, Arbutin, Mineral Oil, Glycerin, Polyethylene, Talc, Phenyl Trimethicone, Beeswax (Cera Alba), Sodium Chloride, Sodium Chloride, Sodium Chloride, Sodium Chloride, Sodium Chloride
+information_for_owners_or_caregivers:
+  Questions of comments? Visit www.misshaus.com or call 1-888-985-9887(Ext 104)
+warnings:
+  Warnings: Do not use on damaged or broken skin. When using this product, keep out of eyes. Rinse with water to Remove. Stop use and ask a doctor, if rash ocurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  Carton Image
+set_id:
+  3fc90114-4cdf-273e-e054-00144ff8d46c
+id:
+  2882a988-f496-5492-e063-6394a90ac2f3
+effective_time:
+  20241205
+version:
+  6
+openfda:
+  application_number:
+    M020
+  brand_name:
+    MISSHA M Perfect Cover BB SPF42 No29
+  generic_name:
+    OCTINOXATE, ZINC OXIDE, TITANIUM DIOXIDE
+  manufacturer_name:
+    Able C&C Co., Ltd.
+  product_ndc:
+    13733-245
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTINOXATE
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    2882a988-f496-5492-e063-6394a90ac2f3
+  spl_set_id:
+    3fc90114-4cdf-273e-e054-00144ff8d46c
+  package_ndc:
+    13733-245-01
+    13733-245-02
+  is_original_packager:
+    True
+  upc:
+    8806185735131
+  unii:
+    4Y5P7MUD51
+    15FIX9V2JP
+    SOI2LOH54Z

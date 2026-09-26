@@ -1,0 +1,13 @@
+spl_product_data_elements:
+  liquid liquid WINE GRAPE WINE GRAPE WATER ASCORBIC ACID ASCORBIC ACID RETINOL RETINOL GLYCERIN GLYCERIN
+package_label_principal_display_panel:
+  packaging label
+set_id:
+  167158e7-649d-db24-e063-6294a90ae1fa
+id:
+  167158e7-649e-db24-e063-6294a90ae1fa
+effective_time:
+  20240419
+version:
+  1
+openfda:

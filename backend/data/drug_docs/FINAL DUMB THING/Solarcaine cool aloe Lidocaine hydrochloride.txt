@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Solarcaine cool aloe Lidocaine hydrochloride MENTHOL EDETATE DISODIUM FD&C YELLOW NO. 5 FD&C BLUE NO. 1 LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS ALOE VERA LEAF WATER PROPYLENE GLYCOL GLYCERIN TROLAMINE ISOPROPYL ALCOHOL POLYSORBATE 80 DIAZOLIDINYL UREA
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Lidocaine hydrochloride 0.5%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Uses temporarily relieves pain and itching due to: minor skin irritations minor burns sunburn scrapes minor cuts insect bites
+warnings:
+  Warnings For external use only Do not use in large quantities, particularly over raw surfaces or blistered areas When using this product keep out of eyes Stop use and ask a doctor if condition gets worse symptoms last more than 7 days symptoms clear up and occur again in a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in large quantities, particularly over raw surfaces or blistered areas
+when_using:
+  When using this product keep out of eyes
+stop_use:
+  Stop use and ask a doctor if condition gets worse symptoms last more than 7 days symptoms clear up and occur again in a few days
+ask_doctor:
+  Stop use and ask a doctor if condition gets worse symptoms last more than 7 days symptoms clear up and occur again in a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor
+inactive_ingredient:
+  Inactive Ingredients aloe barbadensis leaf juice, water, propylene glycol, glycerin, triethanolamine, isopropyl alcohol (0.06% v/v), polysorbate 80, carbomer, diazolidinyl urea, menthol, disodium EDTA, yellow 5, blue 1
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 226g Bottle Label Cools Instantly! #1 SUNBURN RELIEF BRAND Solarcaine ® cool aloe BURN RELIEF FORMULA Pain Relieving Gel with Lidocaine HCl Restores Moisture to Sunburned Skin Doctor Tested NET WT 8 OZ (226g) pdp dfl
+set_id:
+  88f3cb40-2258-4e1c-92fb-e1891ddb3135
+id:
+  eb50322c-4140-3965-e053-2a95a90a8431
+effective_time:
+  20230908
+version:
+  7
+openfda:

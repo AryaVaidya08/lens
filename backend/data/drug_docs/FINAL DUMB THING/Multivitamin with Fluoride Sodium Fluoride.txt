@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Multivitamin with Fluoride Sodium Fluoride SUCROSE CROSCARMELLOSE SODIUM D&C RED NO. 27 FD&C BLUE NO. 1 MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE STEARIC ACID ASPARTAME SODIUM FLUORIDE FLUORIDE ION VITAMIN A VITAMIN A ASCORBIC ACID ASCORBIC ACID SODIUM ASCORBATE ASCORBIC ACID CHOLECALCIFEROL CHOLECALCIFEROL .ALPHA.-TOCOPHEROL ACETATE, DL- .ALPHA.-TOCOPHEROL, DL- THIAMINE MONONITRATE THIAMINE ION THIAMINE RIBOFLAVIN RIBOFLAVIN NIACINAMIDE NIACINAMIDE PYRIDOXINE HYDROCHLORIDE PYRIDOXINE FOLIC ACID FOLIC ACID CYANOCOBALAMIN CYANOCOBALAMIN Grape flavor 107 Dark purple
+description:
+  DESCRIPTION: Other Ingredients: Aspartame, Croscarmellose Sodium, Grape Flavor, Magnesium Stearate (vegetable source), Microcrystalline Cellulose, Stearic Acid (vegetable source), Sucrose, CI 45410 (Red 27 Lake), CI 42090 (FD&C Blue No. 1 Aluminum Lake). Label
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY It is well established that fluoridation of the water supply (1 ppm fluoride) during the period of tooth development leads to a significant decrease in the incidence of dental caries. Multivitamin with 0.25 mg Fluoride Chewable Tablets provide sodium fluoride and ten essential vitamins in a chewable tablet. Because the tablets are chewable, they provide a topical as well as systemic source of fluoride. Hydroxyapatite is the principal crystal for all calcified tissue in the human body. The fluoride ion reacts with the hydroxyapatite in the tooth as it is formed to produce the more caries-resistant crystal, fluorapatite. The reaction may be expressed by the equation: Ca 10(PO 4) 6(OH) 2 + 2F- ------- Ca 10(PO 4) 6F 2 + 2OH- (Hydroxyapatite) (Fluorapatite) Three stages of fluoride deposition in tooth enamel can be distinguished: 1. Small amounts (reflecting the low levels of fluoride in tissue fluids) are incorporated into the enamel crystals while they are being formed. 2. After enamel has been laid down, fluoride deposition continues in the surface enamel. Diffusion of fluoride from the surface inward is apparently restricted. 3. After eruption, the surface enamel acquires fluoride from the water, food, supplementary fluoride and smaller amounts from saliva.
+indications_and_usage:
+  INDICATIONS AND USAGE Supplementation of the diet with ten essential vitamins. Supplementation of the diet with fluoride for caries prophylaxis.The American Academy of Pediatrics recommends that children up to the age 16, in areas where drinking water contains less than optimal levels of fluoride, receive daily fluoride supplementation. Multivitamin with Fluoride 0.25 mg Chewable Tablets provide 0.25 mg fluoride in tablet form for children 6-16 years of age in areas where the drinking water fluoride level is less than 0.3 ppm. Multivitamin with Fluoride 0.25 mg Chewable Tablets supply significant amounts of Vitamins A, C, D, E, thiamine, riboflavin, niacin, vitamin B6, vitamin B12, and folate to supplement the diet, and to help assure that nutritional deficiencies of these vitamins will not develop. Thus, in a single easy-to-use preparation, children obtain ten essential vitamins and the important mineral, fluoride. Children using Multivitamin with Fluoride 0.25 mg Chewable Tablets regularly should receive semiannual dental examinations. The regular brushing of teeth and attention to good oral hygiene practices are also essential. Multivitamin with Fluoride 0.25 mg Chewable Tablets is a prescription product for the clinical dietary management of the metabolic processes of caries prophylaxis and provides supplementation of the diet with ten essential vitamins.
+warnings:
+  WARNING Keep out of the reach of children. In case of accidental overdose, seek professional assistance or contact a Poison Control Center immediately. Caution: Do not eat or drink dairy products within one hour of fluoride administration. Should be chewed. This product, as all chewable tablets, is not recommended for children under age 4 due to risk of choking.
+precautions:
+  PRECAUTION The suggested dose of Multivitamin with Fluoride 0.25 mg Chewable Tablets should not be exceeded, since dental fluorosis may result from continued ingestion of large amounts of fluoride. Before prescribing Multivitamin with Fluoride 0.25 mg Chewable Tablets: 1. Determine the fluoride content of the drinking water from all major sources. 2. Make sure the child is not receiving significant amounts of fluoride from other sources such as medications and swallowed toothpaste. 3. Periodically check to make sure that the child does not develop significant dental fluorosis. Phenylketonurics: Contains Phenylalanine 3.0 mg Per Tablet.
+adverse_reactions:
+  ADVERSE REACTIONS Allergic rash and other idiosyncrasies have been rarely reported.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION One tablet daily, to be dissolved in the mouth or chewed before swallowing. Do not give a chewable tablet to a child younger than 4 years old.
+how_supplied:
+  HOW SUPPLIED Multivitamin chewable tablets containing 0.25 mg fluoride are purple-colored, grape flavor, un-scored, round debossed “107” tablets are available on prescription only in bottles of 100 tablets. NDC: 59088-107-59 Store at 20°- 25°C (68°- 77°F); excursions permitted to 15°– 30°C (59°– 86°F) [see USP Controlled Room Temperature]. Dispense in a tight, light resistant container with a child–resistant closure as defined in the USP/NF. All prescription substitutions using this product shall be pursuant to state statutes as applicable. This is not an Orange Book product.
+storage_and_handling:
+  STORAGE Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F). See USP Controlled Room Temperature. Dispense in a tight, light resistant container with a child-resistant closure as defined in the USP/NF. All prescription substitutions using this product shall be pursuant to state statutes as applicable. This is not an Orange Book product.
+package_label_principal_display_panel:
+  Multivitamin with Fluoride Chewable Tablets 0.25 mg Manufactured by: PureTek Corporation Panorama City, CA 91402 List No. 10759 ENA Rev. No. 38558 label
+set_id:
+  4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10
+id:
+  2ce2c8ea-3c5a-f5fd-e063-6394a90a7de8
+effective_time:
+  20250129
+version:
+  5
+openfda:

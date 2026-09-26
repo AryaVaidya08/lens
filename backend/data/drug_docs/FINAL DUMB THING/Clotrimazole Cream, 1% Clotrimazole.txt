@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Clotrimazole Cream, 1% Clotrimazole ALCOHOL BUTYLATED HYDROXYTOLUENE CETOSTEARYL ALCOHOL DIMETHYL SULFOXIDE EDETATE DISODIUM ETHYLPARABEN GLYCERIN MINERAL OIL GLYCERYL MONO- AND DIPALMITOSTEARATE PETROLATUM GLYCERETH-31 WATER CLOTRIMAZOLE CLOTRIMAZOLE
+active_ingredient:
+  Active ingredient Clotrimazole USP 1% w/w
+purpose:
+  Purpose Antifungal
+indications_and_usage:
+  Uses Cures athlete's foot (tinea pedis), jock itch (tinea cruris), and ringworm (tinea corporis). Relieves the itching, irritation, redness, scaling and discomfort which can accompany these conditions.
+warnings:
+  Warnings For external use only . Do not use on children under 2 years of age unless directed by a doctor. When using this product avoid contact with eyes. Stop use and ask a doctor if Irritation occurs There is no improvement within 4 weeks (for athlete's foot or ringworm) or within 2 weeks (for jock itch). Keep this and all drugs out of the reach of children . In case of accidental ingestion, seek professional assistance or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  
+dosage_and_administration:
+  Directions Wash the affected area and dry thoroughly. Apply a thin layer over affected area twice daily (morning and night), or as directed by a doctor. Supervise children in the use of this product. For athlete's foot, pay special attention to the spaces between the toes; wear well-fitting ventilated shoes, and change shoes and socks at least once daily. For athlete's foot and ringworm, use daily for 4 weeks. For jock itch, use daily for 2 weeks. If condition persists longer, consult a doctor. This product is not effective on the scalp or nails.
+spl_unclassified_section:
+  Other Information Store at controlled room temperature 15° - 30°C (59° - 86°F) Close cap tightly after use.
+  Questions? 844-966-7265
+inactive_ingredient:
+  Inactive Ingredients Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alcohol, Aloe Barbadensis Leaf Juice, Cetearyl Alcohol, Cetyl Esters, Curcuma Longa (Turmeric) Root Extract, Ethylhexyl Palmitate, Ethylhexylglycerin, Eugenia Caryophyllus (Clove) Flower Extract, Glycerin, Hamamelis Virginiana (Witch Hazel) Water, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Phenoxyethanol, Polysorbate 20, Sorbitan Stearate,Tocopheryl Acetate, Triethanolamine, Water (Aqua)
+package_label_principal_display_panel:
+  Product label image description
+set_id:
+  4200b518-eaa9-47f7-babc-793fd54cbde1
+id:
+  4cadf5a9-200d-7281-e063-6294a90a1b70
+effective_time:
+  20260310
+version:
+  2
+openfda:

@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Psyllium Husk Fiber Supplement Psyllium Husk GELATIN, UNSPECIFIED PSYLLIUM HUSK PSYLLIUM HUSK Clear Body with clear cap filled with pale buff to brown granular powder TCL145
+spl_unclassified_section:
+  Drug Facts
+  Supplements Facts Serving Size 5 Capsules Servings per container 40 (For 200 count) 80 (For 400 count) Amount per serving % DV* Calories 5 Total Carb 2 g <1%* Dietary Fiber 2 g 7%* Soluble Fiber 2 g †† Protein less than 1 g Iron 0.4 mg 2% Potassium 25 mg 1% *Percent Daily Values (%DV) are based on a 2,000 calorie diet. ††Daily Value (DV) not established.
+spl_unclassified_section_table:
+  <table border="0" width="100%"><tbody><tr><td>Serving Size 5 Capsules</td><td/></tr><tr><td>Servings per container 40 (For 200 count) 80 (For 400 count)</td><td/></tr><tr><td>Amount per serving </td><td>% DV*</td></tr><tr><td>Calories 5</td><td/></tr><tr><td>Total Carb 2 g</td><td>&lt;1%*</td></tr><tr><td>Dietary Fiber 2 g</td><td>7%*</td></tr><tr><td>Soluble Fiber 2 g </td><td>&#x2020;&#x2020;</td></tr><tr><td>Protein less than 1 g</td><td/></tr><tr><td>Iron 0.4 mg</td><td>2%</td></tr><tr><td>Potassium 25 mg</td><td>1%</td></tr></tbody></table>
+active_ingredient:
+  Active ingredient (in each capsule) Psyllium husk approximately 0.52 g
+purpose:
+  Purpose Bulk Forming Laxative
+warnings:
+  Warnings ALLERGY ALERT: This product may cause allergic reactions in people sensitive to inhaled or ingested psyllium. BEFORE USING this dietary supplement - ask your doctor if you are considering using this product as part of a cholesterol lowering program are using medication to control your blood sugar levels have recently experienced abdominal pain, nausea, vomiting or a sudden change in bowel habits persisting for two weeks STOP USING this dietary supplement and ask a doctor if constipation lasts more than 7 days or rectal bleeding occurs. These may be signs of a serious condition. Bulk-forming fibers like psyllium husk may affect how well medicines work. Take this product at least 2 hours before or after medicines IMPORTANT INFORMATION To open bottle, push down and turn Store in a cool and dry place at temperature below 25°C. Keep container tightly closed to protect from humidity. Keep out of reach of children
+dosage_and_administration:
+  Directions For adults 12 years and older HELPS SUPPORT: DIGESTIVE HEALTH** by promoting regularity 2 to 5 capsules up to 4 times per day Swallow 1 capsule at a time and take in an upright position HEART HEALTH†† By lowering cholestrol 5 capsules up to 4 times per day HEALTHY BLOOD SUGAR LEVELS** take before each meal 5 capsules 4 times per day ††Diets low in saturated fat and cholesterol that include 7 grams of soluble fiber per day from psyllium husk, as in this product, may reduce the risk of heart disease by lowering cholesterol. One serving of this product has 1.8 grams of this soluble fiber. ** THESE STATEMENTS HAVE NOT BEEN EVAULATED BY THE FOOD AND DRUG ADMINISTRATION. THIS PRODUCT IS NOT INTENDED TO DIAGNOSE, TREAT, CURE OR PREVENT ANY DISEASE. NEW USERS: Start with one serving per day; gradually increase to desired daily intake. You may experience changes in bowel habits / minor bloating, as your body adjusts to increased fiber intake. NOTICE: Take this product with at least 8 oz (a full glass) of liquid. Taking without enough liquid may cause choking. Do not take if you have difficulty swallowing
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td><content styleCode="bold">For adults 12 years and older</content></td><td/><td/></tr><tr><td><content styleCode="bold">HELPS SUPPORT:</content></td><td/><td/></tr><tr><td><paragraph><content styleCode="bold">DIGESTIVE HEALTH**</content></paragraph> by promoting regularity </td><td>2 to 5 capsules up to 4 times per day </td><td>Swallow 1 capsule at a time and take in an upright position</td></tr><tr><td><paragraph><content styleCode="bold">HEART HEALTH&#x2020;&#x2020;</content></paragraph> By lowering cholestrol </td><td>5 capsules up to 4 times per day</td><td/></tr><tr><td><paragraph><content styleCode="bold">HEALTHY BLOOD SUGAR LEVELS**</content></paragraph> take before each meal </td><td>5 capsules 4 times per day</td><td/></tr></tbody></table>
+storage_and_handling:
+  Other information each capsule contains: potassium 5 mg capsules are sealed using a band around the middle store at room temperature. Keep the container tightly closed to protect from humidity contains a 100% natural, therapeutic fiber tamper evident: do not use if printed inner seal under cap is broken or missing
+inactive_ingredient:
+  Ingredients Psyllium husk, gelatin Questions or comments? Call 1-877-290-4008
+questions:
+  Questions or comments? Call 1-877-290-4008
+indications_and_usage:
+  effective in treating occasional constipation and restoring regularity This product generally produces bowel movement in 12 to 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+package_label_principal_display_panel:
+  psyllium-husk-capsules-400-label psyllium-husk-capsules-200-label
+set_id:
+  15bd0a64-af12-0a73-e063-6394a90ae3f3
+id:
+  2843bd77-cee5-8631-e063-6394a90ac0c1
+effective_time:
+  20241202
+version:
+  2
+openfda:

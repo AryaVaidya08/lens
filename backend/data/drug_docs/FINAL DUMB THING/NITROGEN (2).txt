@@ -1,0 +1,13 @@
+effective_time:
+  20151118
+package_label_principal_display_panel:
+  NITROGEN, COMPRESSED NF UN 1066 NON-FLAMMABLE GAS 2 Rx only. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications, and side effects and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment rated for cylinder pressure. Close valve after each use and when empty. Proteve from sunlight when ambient temperature exceeds 52 degrees C (125 degrees F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing.Get medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. CEE KAY SUPPLY 5835 MANCHESTER AVE ST. LOUIS, MO 63110 . 314-644-3500 nitrogen one
+spl_product_data_elements:
+  NITROGEN NITROGEN OXYGEN OXYGEN
+set_id:
+  9ed1058d-6963-491b-a602-ff2cfbc674bf
+id:
+  ae573c9d-4a15-469a-acde-a4820c73d756
+openfda:
+version:
+  9

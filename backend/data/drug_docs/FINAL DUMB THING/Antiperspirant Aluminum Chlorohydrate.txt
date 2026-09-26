@@ -1,0 +1,35 @@
+effective_time:
+  20180327
+inactive_ingredient:
+  Inactive Ingredients: Water (Eau), PEG-100 Stearate, Cetyl Alcohol, Propylene Glycol, Glyceryl Stearate, Squalane, Fragrance.
+purpose:
+  Purpose: Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a poison control center right away.
+warnings:
+  Warnings: For external use only.
+spl_product_data_elements:
+  Antiperspirant Aluminum Chlorohydrate WATER PEG-100 STEARATE CETYL ALCOHOL PROPYLENE GLYCOL GLYCERYL MONOSTEARATE SQUALANE ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+ask_doctor:
+  Ask a doctor before use if you have kidney diesease.
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Smooth on small amount with fingertips. Apply to underarms only.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use if rash or irritation occurs.
+do_not_use:
+  Do not use on broken skin.
+package_label_principal_display_panel:
+  Package Label PARABEN FREE NET WT. 4 OZ. 113g Distributed by Shaklee Corproation 4747 Willow Road, Pleasanton, CA 94588 #39076 NC551A Front panel Back panel
+indications_and_usage:
+  Use: This product is used to decrease underarm wetness.
+set_id:
+  fa1bc93d-b768-4fa4-a7b8-b2bbec8766c6
+id:
+  6869e8c3-97a0-25ea-e053-2a91aa0abe97
+active_ingredient:
+  Active Ingredient: Aluminum Chlorohydrate 20%

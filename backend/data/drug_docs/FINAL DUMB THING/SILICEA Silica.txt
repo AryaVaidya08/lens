@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  SILICEA Silica LACTOSE SUCROSE SILICON DIOXIDE SILICON DIOXIDE
+active_ingredient:
+  Active Ingredient SILICEA (Silica) 12CH GR SILICEA (Silica) 15CH GR SILICEA (Silica) 200CH GR SILICEA (Silica) 200K GR SILICEA (Silica) 30CH GR SILICEA (Silica) 30K GR SILICEA (Silica) 5CH GR SILICEA (Silica) 7CH GR SILICEA (Silica) 9CH GR SILICEA (Silica) CMK GR SILICEA (Silica) MK GR SILICEA (Silica) XMK GR
+purpose:
+  Indications For the temporary relief of general fatigue symptoms
+warnings:
+  Warning If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose, sucrose.
+dosage_and_administration:
+  Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+questions:
+  QUESTIONS? 1-888-737-6925.
+indications_and_usage:
+  Indications For the temporary relief of general fatigue symptoms Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken Homeopathic Remedy NDC : 62106-5301-4 SILICEA Silica 140 granules Indications For the temporary relief of general fatigue symptoms 62106-5301
+set_id:
+  0de1b20b-398a-1302-e054-00144ff88e88
+id:
+  06e86339-8bb2-2eac-e063-6394a90acde8
+effective_time:
+  20231004
+version:
+  4
+openfda:

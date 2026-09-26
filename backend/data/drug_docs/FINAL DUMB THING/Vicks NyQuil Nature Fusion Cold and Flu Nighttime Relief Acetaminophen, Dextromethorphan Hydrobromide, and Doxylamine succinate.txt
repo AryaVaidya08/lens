@@ -1,0 +1,52 @@
+effective_time:
+  20140501
+purpose:
+  Active ingredients (in each 30 mL dose cup) Purpose Acetaminophen 650 mg Pain reliever/fever reducer Dextromethorphan HBr 30 mg Cough suppressant Doxylamine succinate 7.5 mg Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+when_using:
+  When using this product do not use more than directed excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness
+questions:
+  Questions? 1-877-340-8824
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+storage_and_handling:
+  Other information each 30 mL dose cup contains: sodium 36 mg store at room temperature
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: cough due to minor throat and bronchial irritation sore throat headache minor aches and pains fever runny nose and sneezing
+set_id:
+  55f70b26-9cbf-4fe4-88fd-82d9f3ba6d77
+id:
+  6928f982-bbd0-432d-8950-e72aff7e8dff
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredients (in each 30 mL dose cup) Purpose Acetaminophen 650 mg Pain reliever/fever reducer Dextromethorphan HBr 30 mg Cough suppressant Doxylamine succinate 7.5 mg Antihistamine
+dosage_and_administration_table:
+  <table width="53%"> <col width="53%" align="left" valign="top"/> <col width="47%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults &amp; children 12 yrs &amp; over</td> <td>30 mL (2 TBSP) every 6 hrs</td> </tr> <tr> <td styleCode="Rrule">children under 12 yrs</td> <td>ask a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients citric acid, flavor, glycerin, high fructose corn syrup, honey, polyethylene glycol, propylene glycol, purified water, sodium citrate
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4 doses in 24 hours, which is the maximum daily amount for this product with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Sore throat warning If sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, nausea, or vomiting, see a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleep Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland a sodium-restricted diet Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin When using this product do not use more than directed excitability may occur, especially in children marked drowsiness may occur avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery alcohol, sedatives, and tranquilizers may increase drowsiness Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  Vicks NyQuil Nature Fusion Cold and Flu Nighttime Relief Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine succinate Acetaminophen Acetaminophen Dextromethorphan Hydrobromide Dextromethorphan Doxylamine succinate Doxylamine citric acid monohydrate glycerin high fructose corn syrup honey polyethylene glycols propylene glycol water sodium citrate
+ask_doctor:
+  Ask a doctor before use if you have liver disease glaucoma cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema trouble urinating due to enlarged prostate gland a sodium-restricted diet
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions take only as directed - see Overdose warning use dose cup or tablespoon (TBSP) do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL (2 TBSP) every 6 hrs children under 12 yrs ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Procter & Gamble, Cincinnati OH 45202.
+stop_use:
+  Stop use and ask a doctor if pain or cough gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. to make a child sleep
+active_ingredient_table:
+  <table width="75%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients (in each 30 mL dose cup)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Acetaminophen 650 mg</td> <td>Pain reliever/fever reducer</td> </tr> <tr> <td>Dextromethorphan HBr 30 mg</td> <td>Cough suppressant</td> </tr> <tr styleCode="Botrule"> <td>Doxylamine succinate 7.5 mg</td> <td>Antihistamine</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 236 ml Bottle Carton Relieves the Same Symptoms as NyQuil Cold & Flu VICKS ® NyQuil ® Nature Fusion ™ COLD & FLU Nighttime Relief Acetaminophen, Doxylamine Succinate, Dextromethorphan HBr Headache, Fever, Sore Throat Minor Aches & Pains Sneezing, Runny Nose Cough FREE OF Artificial Sweetener Artificial Flavor Artificial Dye Alcohol Gluten with Real Honey 8 FL OZ (236 ml) PRINCIPAL DISPLAY PANEL - 236 ml Bottle Carton
+purpose_table:
+  <table width="75%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients (in each 30 mL dose cup)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Acetaminophen 650 mg</td> <td>Pain reliever/fever reducer</td> </tr> <tr> <td>Dextromethorphan HBr 30 mg</td> <td>Cough suppressant</td> </tr> <tr styleCode="Botrule"> <td>Doxylamine succinate 7.5 mg</td> <td>Antihistamine</td> </tr> </tbody> </table>

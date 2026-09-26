@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  Loratadine Loratadine LORATADINE LORATADINE STARCH, CORN LACTOSE MONOHYDRATE MAGNESIUM STEARATE White to Off-White RX526
+active_ingredient:
+  ACTIVE INGREDIENT (IN EACH TABLET) Loratadine USP, 10 mg
+purpose:
+  PURPOSE Antihistamine
+indications_and_usage:
+  USES Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  WARNINGS Do not use If you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose. When using this product Do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding Ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use If you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product Do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding Ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table ID="inv-a9fdabd9-ed85-45c4-825f-dd6b4342cb2a"> <col ID="inv-8bb0080d-d76e-4cec-b27a-10976f295b9c" width="234.00*"/> <col ID="inv-3fa8d47f-f6f8-4c2c-ad0e-6ca3ce5854b1" width="234.00*"/> <tbody ID="inv-eb35860e-aaae-4cb6-a6f4-2f3df15ae747"> <tr ID="inv-963870eb-182c-43f4-b822-b7c505274ac9"> <td ID="inv-76175490-b1e9-46c2-84c1-b5abaeaee1ad">adults and children 6 years and over</td> <td ID="inv-3c313bf4-55e7-4f8d-b4e4-9ec695eee4b5">1 tablet daily; not more than 1 tablet in 24 hours</td> </tr> <tr ID="inv-d113d13f-d561-4c0c-a501-444d562fff21"> <td ID="inv-0a8f0a8c-8915-4fee-b00c-e3717cf4a12b">children under 6 years of age</td> <td ID="inv-9814a080-0ed5-44dd-973e-740421b69b20">ask a doctor</td> </tr> <tr ID="inv-27b3bf10-739a-4950-9020-0af5d4e2d520"> <td ID="inv-7948929a-95ff-4b18-a40f-a48c56ad13af">consumers with liver or kidney disease</td> <td ID="inv-8b211730-1775-4bd5-95e3-5d96a3a01f9a">ask a doctor</td> </tr> </tbody> </table>
+spl_unclassified_section:
+  OTHER INFORMATION store between 20 and 25° C (68 and 77° F) protect from excessive moisture TAMPER EVIDENT: DO NOT USE IF BLISTER UNITS ARE TORN, BROKEN OR SHOW ANY SIGNS OF TAMPERING.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Corn starch, lactose monohydrate, magnesium stearate, pregelatinized starch
+questions:
+  QUESTIONS? Call 1-800-406-7984
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL fred's ® Non-Drowsy * * When taken as directed. See Drug Facts Panel. 24 Hour Allergy Relief Loratadine Tablets USP, 10 mg Antihistamine INDOOR & OUTDOOR ALLERGIES Relief of: Sneezing Runny Nose Itchy, Watery Eyes Itchy Throat and Nose 10 TABLETS Compare to Active Ingredient of Claritin ®† This is the 10 count blister carton label for Fred's Loratadine tablets USP, 10 mg.
+set_id:
+  3c7870d7-0f76-49be-bca4-459443ba9467
+id:
+  30c112e9-7c17-45cc-829d-d0cceea230c4
+effective_time:
+  20191213
+version:
+  2
+openfda:

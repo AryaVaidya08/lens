@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  CLOH Living Hand Sanitizer Hypochlorous Acid WATER HYPOCHLOROUS ACID HYPOCHLOROUS ACID
+active_ingredient:
+  Active Ingredient(s) Hypochlorous Acid 0.0035%. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial, Hand Sanitizer
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only-hand.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. For children under 6, use only under adult supervision. Not recommended for infants.
+storage_and_handling:
+  Other information Store at room temperature 1oC-30oC ( 33.8oF-86oF).
+inactive_ingredient:
+  Inactive ingredients Purified Water.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel CLOH Living Hand Sanitizer Spray
+set_id:
+  e1aae972-fb3a-4670-e053-2995a90abbd5
+id:
+  e1aae9dd-c5d3-4fd6-e053-2995a90ab70d
+effective_time:
+  20220617
+version:
+  1
+openfda:

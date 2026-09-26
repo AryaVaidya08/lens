@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Hello Dragon Dazzle sodium fluoride SODIUM FLUORIDE FLUORIDE ION XYLITOL TITANIUM DIOXIDE STEVIA REBAUDIUNA LEAF MICA HYDRATED SILICA SODIUM COCOYL GLUTAMATE WATER GLYCERIN XANTHAN GUM COCAMIDOPROPYL BETAINE SORBITOL
+description:
+  Hello Dragon Dazzle Dragon Dazzle Fluoride
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion).
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years: use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years: ask a dentist or a physician.
+inactive_ingredient:
+  Inactive ingredients sorbitol, purified water, hydrated silica, glycerin, xylitol, xanthan gum, flavor, cocamidopropyl betaine, sodium cocoyl glutamate, stevia rebaudiana leaf extract, mica and titanium dioxide.
+questions:
+  Questions? 855-HI-HELLO (1-855-444-3556) Distributed by Hello Products LLC Montclair, NJ 07042
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 119 g Tube Carton naturally friendly hello dragon dazzle fluoride toothpaste kids ages 2+ blue raspberry natural flavor prevents cavities polishes + brightens strengthens enamel tastes magical never tested on dragons no artificial sweeteners. no dyes. no SLS/sulfates. no brainer. NET WT 4.2 OZ (119 g) label
+set_id:
+  22cbafe1-238e-7d93-e063-6394a90a0871
+id:
+  22cbafe1-238f-7d93-e063-6394a90a0871
+effective_time:
+  20240923
+version:
+  1
+openfda:

@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  AnMeiKang Alcohol Wipes Alcohol Wipes ALCOHOL ALCOHOL PHENOXYETHANOL WATER BENZALKONIUM CHLORIDE BENZALKONIUM PROPYLENE GLYCOL
+active_ingredient:
+  Active ingredient Alcohol 25% w/w, Benzalkonium chloride 0.05% w/w
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Suitable for wiping hands, face, skin and other unbroken skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. When using this product avoid to contact eyes, mouth, wounds and other sensitive parts. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. The product is insoluble in water, do not dispose the used wet wipes into flush toilets. Use with caution if you are allergic to alcohol. The product is disposable, for single use, please do not reuse.
+when_using:
+  When using this product avoid to contact eyes, mouth, wounds and other sensitive parts. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+dosage_and_administration:
+  Directions Open the buckle cover, take out the wet wipes, wipe directly on the skin, and close the seal immediately after use to avoid drying of wet wipes.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+storage_and_handling:
+  Other Information · Store in a cool, dry place, and avoid contact with direct sunlight and heat source. · Pay attention to environmental protection, please put them into the trash can
+inactive_ingredient:
+  Inactive Ingredients Water, Propylene Glycol, 2-phenoxyethanol
+package_label_principal_display_panel:
+  10PCS, NDC: 81496-001-01 10PCS Label
+  20PCS, NDC: 81496-001-02 20PCS Label
+  22PCS, NDC: 81496-001-03 22PCS Label
+  30PCS, NDC: 81496-001-04 30PCS Label
+  40PCS, NDC: 81496-001-05 40PCS Label
+  50PCS, NDC: 81486-001-06 50PCS Label
+  60PCS, NDC: 81496-001-07 60PCS Label
+  70PCS, NDC: 81496-001-08 70PCS Label
+  80PCS, NDC: 81496-001-09 80PCS Label
+  100PCS, NDC: 81496-001-10 100PCS Label
+  120PCS, NDC: 81496-001-11 120PCS Label
+set_id:
+  bc834306-cab6-1c5f-e053-2a95a90a59d6
+id:
+  bd11d032-571f-58c8-e053-2a95a90aaaa2
+effective_time:
+  20210308
+version:
+  2
+openfda:

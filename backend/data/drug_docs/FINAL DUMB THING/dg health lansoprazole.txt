@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  dg health lansoprazole Lansoprazole LANSOPRAZOLE LANSOPRAZOLE D&C RED NO. 28 D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN, UNSPECIFIED HYPROMELLOSE, UNSPECIFIED LOW-SUBSTITUTED HYDROXYPROPYL CELLULOSE, UNSPECIFIED MANNITOL MEGLUMINE METHACRYLIC ACID AND ETHYL ACRYLATE COPOLYMER POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 SODIUM LAURYL SULFATE TALC TITANIUM DIOXIDE 24HR
+active_ingredient:
+  Active ingredient (in each capsule) Lansoprazole 15 mg
+purpose:
+  Purpose Acid Reducer
+indications_and_usage:
+  Use • treats frequent heartburn (occurs 2 or more days a week) • not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect
+warnings:
+  Warnings Allergy alert: • do not use if you are allergic to lansoprazole • lansoprazole may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If an allergic reaction occurs, stop use and seek medical help right away. Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor. Ask a doctor before use if you have • liver disease • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain Ask a doctor or pharmacist before use if you are • taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you have: • trouble or pain swallowing food, vomiting with blood, or bloody or black stools • heartburn with lightheadedness, sweating or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain These may be signs of a serious condition. See your doctor.
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • had heartburn over 3 months. This may be a sign of a more serious condition. • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • taking a prescription drug. Acid reducers may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if • your heartburn continues or worsens • you need to take this product for more than 14 days • you need to take more than 1 course of treatment every 4 months • you get diarrhea • you develop a rash or joint pain
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health care professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • adults 18 years of age and older • this product is to be used once a day (every 24 hours), every day for 14 days • it may take 1 to 4 days for full effect, although some people get complete relief of symptoms within 24 hours 14-Day Course of Treatment • swallow 1 capsule with a glass of water before eating in the morning • take every day for 14 days • do not take more than 1 capsule a day • swallow whole. Do not crush or chew capsules. • do not use for more than 14 days unless directed by your doctor Repeated 14-Day Courses (if needed) • you may repeat a 14-day course every 4 months • do not take for more than 14 days or more often than every 4 months unless directed by a doctor • children under 18 years of age: ask a doctor before use. Heartburn in children may sometimes be caused by a serious condition.
+storage_and_handling:
+  Other information • read the directions and warnings before use • keep the carton. It contains important information. • store at 20-25°C (68-77°F) • keep product out of high heat and humidity • protect product from moisture • close cap tightly after use
+inactive_ingredient:
+  Inactive ingredients D&C red no. 28, D&C yellow no. 10, FD&C blue no. 1, FD&C red no. 40, gelatin, hypromellose, low substituted hydroxypropyl cellulose, mannitol, meglumine, methacrylic acid copolymer, pharmaceutical ink, polyethylene glycol, polysorbate 80, sodium lauryl sulfate, sugar spheres, talc, titanium dioxide
+questions:
+  Questions or comments? 1-888-309-9030
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel DG™ | health Compare to the active ingredient of Prevacid ® 24 HR Lansoprazole Delayed-Release Capsules, 15 mg Acid Reducer • May take 1 to 4 days for full effect • Sodium free Treats frequent heartburn 24 HOUR 14 Capsules One 14-Day Course of Treatment 15 mg Actual Capsule Size 3t3-vt-lansoprazole.jpg
+set_id:
+  e6e3bcee-636f-4361-85f8-9ba5a0f3c741
+id:
+  e1ce50ea-a23c-49c4-be47-1ee52c216cb4
+effective_time:
+  20250304
+version:
+  4
+openfda:
+  application_number:
+    ANDA202319
+  brand_name:
+    dg health lansoprazole
+  generic_name:
+    LANSOPRAZOLE
+  manufacturer_name:
+    Dolgencorp Inc
+  product_ndc:
+    55910-307
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LANSOPRAZOLE
+  rxcui:
+    596843
+  spl_id:
+    e1ce50ea-a23c-49c4-be47-1ee52c216cb4
+  spl_set_id:
+    e6e3bcee-636f-4361-85f8-9ba5a0f3c741
+  package_ndc:
+    55910-307-01
+  is_original_packager:
+    True
+  nui:
+    N0000175525
+    N0000000147
+    N0000009724
+  pharm_class_epc:
+    Proton Pump Inhibitor [EPC]
+  pharm_class_moa:
+    Proton Pump Inhibitors [MoA]
+  pharm_class_pe:
+    Inhibition Gastric Acid Secretion [PE]
+  unii:
+    0K5C5T2QPG

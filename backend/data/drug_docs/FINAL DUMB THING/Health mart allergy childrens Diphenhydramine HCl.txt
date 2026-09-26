@@ -1,0 +1,41 @@
+effective_time:
+  20180406
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, D&C red #33, FD&C red #40, flavor, glycerin, high fructose corn syrup, poloxamer 407, purified water, sodium benzoate, sodium chloride, sodium citrate, sorbitol solution
+purpose:
+  Purpose Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+warnings:
+  Warnings Do not use • with any other product containing diphenhydramine, even one used on skin • to make a child sleepy Ask a doctor before use if the child has • a breathing problem such as chronic bronchitis • glaucoma • a sodium-restricted diet Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers When using this product • marked drowsiness may occur • excitability may occur, especially in children • sedatives and tranquilizers may increase drowsiness Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+when_using:
+  When using this product • marked drowsiness may occur • excitability may occur, especially in children • sedatives and tranquilizers may increase drowsiness
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  Health mart allergy childrens Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ANHYDROUS CITRIC ACID D&C RED NO. 33 FD&C RED NO. 40 GLYCERIN HIGH FRUCTOSE CORN SYRUP POLOXAMER 407 WATER SODIUM BENZOATE SODIUM CHLORIDE SODIUM CITRATE SORBITOL Bluish-Red
+ask_doctor:
+  Ask a doctor before use if the child has • a breathing problem such as chronic bronchitis • glaucoma • a sodium-restricted diet
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions • find right dose on chart below • mL = milliliter; tsp = teaspoonful • take every 4 to 6 hours, or as directed by a doctor • do not take more than 6 doses in 24 hours Age (yr) Dose (mL or tsp) children under 2 years do not use children 2 to 5 years do not use unless directed by a doctor children 6 to 11 years 5 mL (1 tsp) to 10 mL (2 tsp) Attention: use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device.
+storage_and_handling:
+  Other information • each 5 mL (1 tsp) contains: sodium 15 mg • store at 20-25°C (68-77°F). Protect from light. Store in outer carton until contents used. • do not use if printed neckband is broken or missing
+do_not_use:
+  Do not use • with any other product containing diphenhydramine, even one used on skin • to make a child sleepy
+package_label_principal_display_panel:
+  Principal Display Panel compare to Children's Benadryl® Allergy active ingredient children's allergy liquid diphenhydramine HCl 12.5 mg/mL oral solution antihistamine for allergy relief sneezing runny nose itchy throat itchy, watery eyes ages 6-11 alcohol free gluten free cherry flavored 4 fl oz [118 mL] Health Mart Children's Allergy Liquid Image 1 Health Mart Children's Allergy Liquid Image 2
+indications_and_usage:
+  Uses • temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • sneezing • itching of the nose or throat • runny nose • itchy, watery eyes
+set_id:
+  143c085a-6ddf-487b-a260-27069b22d9e6
+id:
+  60e81538-b3e8-4270-b23e-63a5ec20789b
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the child is taking sedatives or tranquilizers
+active_ingredient:
+  Active ingredient (in each 5 mL = 1 teaspoonful) Diphenhydramine HCl 12.5 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="33%"/> <col width="49%"/> <tbody> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>Age (yr)</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="middle"> <paragraph>Dose (mL or tsp)</paragraph> </td> </tr> <tr> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>children under 2 years</paragraph> </td> <td styleCode="Rrule Lrule Toprule Botrule " valign="middle"> <paragraph>do not use</paragraph> </td> </tr> <tr> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>children 2 to 5 years</paragraph> </td> <td styleCode="Rrule Lrule Toprule Botrule " valign="top"> <paragraph>do not use unless directed by a doctor</paragraph> </td> </tr> <tr> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>children 6 to 11 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>5 mL (1 tsp) to 10 mL (2 tsp)</paragraph> </td> </tr> </tbody> </table>

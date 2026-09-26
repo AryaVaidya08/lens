@@ -1,0 +1,31 @@
+effective_time:
+  20110316
+contraindications:
+  CONTRAINDICATIONS: Rosaderm™ Cleanser is contraindicated for use by patients having known hypersensitivity to sulfonamides, sulfur or any other component of this preparation. Rosaderm™ Cleanser is not to be used by patients with kidney disease.
+precautions:
+  PRECAUTIONS: General: If irritation develops, use of the product should be discontinued and appropriate therapy instituted. Patients should be carefully observed for possible local irritation or sensitization during long-term therapy. The object of this therapy is to achieve desquamation without irritation, but sodium sulfacetamide and sulfur can cause reddening and scaling of the epidermis. These side effects are not unusual in the treatment of acne vulgaris, but patients treatment of acne vulgaris, but patients should be cautioned about the possibility. Information for Patients: Avoid contact with eyes, eyelids, lips and mucous membranes. If accidental contact occurs, rinse with water. If excessive irritation develops, discontinue use and consult your physician. Carcinogenesis, Mutagenesis and Impairment of Fertility: Long-term studies in animals have not been performed to evaluate carcinogenic potential. Pregnancy: Category C. Animal reproduction studies have not been conducted with Rosaderm™ (sodium sulfacetamide 10% and sulfur 5%) Cleanser. It is also not known whether Rosaderm™ Cleanser can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Rosaderm™ Cleanser should be given to a pregnant woman only if clearly needed. Nursing Mothers: It is not known whether sodium sulfacetamide is excreted in the human milk following topical use of Rosaderm™ Cleanser. However, small amounts of orally administered sulfonamides have been reported to be eliminated in human milk. In view of this and because many drugs are excreted in human milk, caution should be exercised when Rosaderm™ Cleanser is administered to a nursing woman. Pediatric Use: Safety and effectiveness in children under the age of 12 have not been established.
+warnings:
+  WARNINGS: Although it is rare, sensitivity to sodium sulfacetamide may occur. Therefore, caution and careful supervision should be observed when prescribing this drug for patients who may be prone to hypersensitivity to topical sulfonamides. Systemic toxic reactions such as agranulocytosis, acute hemolytic anemia, purpura hemorrhagica, drug fever jaundice, and contact dermatitis indicate hypersensitivity to sulfonamides. Particular caution should be employed if areas of denuded or abraded skin are involved. FOR EXTERNAL USE ONLY. Keep away from eyes. KEEP OUT OF REACH OF CHILDREN. In case of accidental ingestion contact a poison control center immediately. Keep container tightly closed.
+spl_product_data_elements:
+  Rosaderm SULFACETAMIDE SODIUM, SULFUR SULFACETAMIDE SODIUM SULFACETAMIDE SULFUR SULFUR WATER PROPYLENE GLYCOL CETYL ALCOHOL STEARYL ALCOHOL MAGNESIUM SILICATE ACACIA SODIUM LAURYL SULFATE PHENOXYETHANOL BENZYL ALCOHOL SODIUM THIOSULFATE
+description:
+  DESCRIPTION: Sodium sulfacetamide is a sulfonamide with antibacterial activity while sulfur acts as a keratolytic agent. Chemically sodium sulfacetamide is N-[(4-aminophenyl)sulfonyl]-acetamide, monosodium salt, monohydrate. The structural formula is: Each gram of Rosaderm™ (sodium sulfacetamide 10% and sulfur 5%) Cleanser contains: Active Ingredients: Sodium Sulfacetamide USP 10% (100 mg), Sulfur USP 5% (50 mg). Inactive Ingredients: Purified Water, Propylene Glycol USP, Cetyl Alcohol NF, Stearyl Alcohol NF, Sodium Magnesium Silicate, Gum Arabic, Sodium Lauryl Sulfate, Phenoxyethanol USP, Benzyl Alcohol NF, Sodium Thiosulfate USP, and Fragrance. structure
+openfda:
+version:
+  3
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Wash affected areas once or twice daily, or as directed by your physician. Avoid contact with eyes or mucous membranes. Wet skin and liberally apply to areas to be cleansed, massage gently into skin for 10-20 seconds working into a full lather, rinse thoroughly and pat dry. If drying occurs, it may be controlled by rinsing cleanser off sooner or using less often.
+adverse_reactions:
+  ADVERSE REACTIONS: Although rare, sodium sulfacetamide may cause local irritation. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088.
+how_supplied:
+  HOW SUPPLIED: Rosaderm™ Cleanser is available in a 6 oz. (170g) NDC 49769-104-06 tube, a 12 oz. carton that conatins (2) 6 oz. tubes, NDC 49769-104-12 and in the Rosaderm™ kit, NDC 49769-367-91. Store between 15°-25°C (59°-77°). Manufactured for: Kylemore Pharmaceuticals Port St. Joe, FL 32456 Rev. 02/10 104-10 P0549
+package_label_principal_display_panel:
+  PACKAGING: Below represents the current packaging being used: 104-06 Label and Carton: 104-12 Carton: label carton1 carton2
+indications_and_usage:
+  INDICATIONS: Rosaderm™ Cleanser is indicated in the topical control of acne vulgaris, acne rosacea and seborrheic dermatitis.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: The most widely accepted mechanism of action of sulfonamides is the Woods-Fildes theory which is based on the fact that sulfonamides act as competitive antagonists to para-aminobenzoic acid (PABA), an essential component for bacterial growth. While absorption through intact skin has not been determined, sodium sulfacetamide is readily absorbed from the gastrointestinal tract when taken orally and excreted in the urine, largely unchanged. The biological half-life has variously been reported as 7 to 12.8 hours. The exact mode of action of sulfur in the treatment of acne is unknown, but it has been reported that it inhibits the growth of Propionibacterium acnes and the formation of free fatty acids.
+set_id:
+  d09bde5d-886f-4006-9a79-dd0a49a67105
+id:
+  ef7ac141-e125-447a-80a2-80d8f9fc3a21

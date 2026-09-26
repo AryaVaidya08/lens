@@ -1,0 +1,29 @@
+effective_time:
+  20210607
+inactive_ingredient:
+  Inactive Ingredient: Distilled water
+purpose:
+  Use: Temporary relief of headache.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+warnings:
+  Warnings: Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. Do not use if allergic to any ingredient. Consult a doctor before use for serious conditions or if conditions worsen or persist. If pregnant or nursing, consult a doctor before use. Do not use if safety seal is broken or missing. REFRIGERATE AFTER OPENING. BEST WHEN USED WITHIN 90 DAYS OF OPENING.
+questions:
+  Questions? Call 866.642.2858 Made with care by Uriel, East Troy, WI 53120 www.urielpharmacy.com
+spl_product_data_elements:
+  Belladonna ex herba 6 Special Order Belladonna ex herba 6 Special Order WATER ATROPA BELLADONNA ATROPA BELLADONNA
+openfda:
+version:
+  4
+dosage_and_administration:
+  Take 3-4 times daily. Ages 12 and older: 10 drops. Ages 2-11: 5 drops. Under age 2: Consult a doctor.
+package_label_principal_display_panel:
+  BelladonnaExHerba6Liquid
+indications_and_usage:
+  Directions: FOR ORAL USE ONLY.
+set_id:
+  6c6cbd6a-bcc5-4e84-823f-8a67f10aa60f
+id:
+  c432d0c1-a29e-15ae-e053-2a95a90ad17f
+active_ingredient:
+  Active Ingredient: Atropa belladonna ex herba (Nightshade) 6X

@@ -1,0 +1,45 @@
+effective_time:
+  20191115
+purpose:
+  Purpose Nighttime sleep-aid
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+when_using:
+  When using this product • avoid alcoholic drinks • drowsiness may occur • do not drive a motor vehicle or operate machinery
+questions:
+  Questions or comments? 1-866-322-2439
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information • each caplet contains: calcium 15 mg • store at 20-25°C (68-77°F). Avoid high humidity. Protect from light. • do not use if blister unit is broken or turn
+indications_and_usage:
+  Use for relief of occasional sleeplessness
+set_id:
+  a1e28307-f9a8-47e9-87a9-a8b95f2301eb
+id:
+  236332a4-9f4e-4d51-a32c-1569fade0abf
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+active_ingredient:
+  Active ingredient (in each caplet) Diphenhydramine HCl 25 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="35%"/> <col width="44%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>take 2 caplets at bedtime if needed, or as directed by a doctor</paragraph> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients carnauba wax, crospovidone, dibasic calcium phosphate dihydrate, FD&C blue #1 aluminum lake, FD&C blue #2 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, stearic acid, titanium dioxide
+warnings:
+  Warnings Do not use • in children under 12 years of age • with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • trouble urinating due to an enlarged prostate gland • glaucoma Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product • avoid alcoholic drinks • drowsiness may occur • do not drive a motor vehicle or operate machinery Stop use and ask a doctor if • sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+spl_product_data_elements:
+  healthy accents nighttime sleep aid Diphenhydramine Hydrochloride DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE CARNAUBA WAX CROSPOVIDONE (15 MPA.S AT 5%) DIBASIC CALCIUM PHOSPHATE DIHYDRATE HYPROMELLOSES MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL POLYSORBATE 80 STEARIC ACID TITANIUM DIOXIDE FD&C BLUE NO. 1 FD&C BLUE NO. 2 Light Blue L431
+ask_doctor:
+  Ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • trouble urinating due to an enlarged prostate gland • glaucoma
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions adults and children 12 years and over take 2 caplets at bedtime if needed, or as directed by a doctor children under 12 years do not use
+stop_use:
+  Stop use and ask a doctor if • sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness.
+do_not_use:
+  Do not use • in children under 12 years of age • with any other product containing diphenhydramine, even one used on skin
+package_label_principal_display_panel:
+  Principal Display Panel nighttime sleep aid diphenhydramine HCl 25mg for a restful night’s sleep contains no pain reliever non habit-forming Compare to Simply Sleep® Nighttime Sleep Aid Caplets active ingredient actual size 48 mini-caplets NO GLUTEN Healthy Accents Nighttime Sleep Aid

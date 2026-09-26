@@ -1,0 +1,37 @@
+effective_time:
+  20100901
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride (0.01%), boric acid, edetate disodium, potassium chloride, purified water, sodium borate, sodium chloride. Hydrochloric acid and/or sodium hydroxide may be used to adjust pH.
+purpose:
+  Purpose *Lubricant **Lubricant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if solution changes color or becomes cloudy When using this product • do not touch tip of container to any surface to avoid contamination • remove contact lenses before using • replace cap after use Stop use and ask a doctor if • you experience eye pain, changes in vision, continued redness or irritation of the eye • condition worsens or persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product • do not touch tip of container to any surface to avoid contamination • remove contact lenses before using • replace cap after use
+questions:
+  Questions? Call: 1-866-767-9084
+spl_product_data_elements:
+  Lubricant Eye Glycerin and propylene glycol GLYCERIN GLYCERIN PROPYLENE GLYCOL PROPYLENE GLYCOL BENZALKONIUM CHLORIDE BORIC ACID EDETATE DISODIUM POTASSIUM CHLORIDE WATER SODIUM BORATE SODIUM CHLORIDE HYDROCHLORIC ACID SODIUM HYDROXIDE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • instill 1 or 2 drops in the affected eye(s) as needed
+stop_use:
+  Stop use and ask a doctor if • you experience eye pain, changes in vision, continued redness or irritation of the eye • condition worsens or persists for more than 72 hours
+spl_unclassified_section:
+  Other information • store at 15°-30°C (59°-86°F) • keep tightly closed • use before expiration date marked on the carton and bottle
+do_not_use:
+  Do not use if solution changes color or becomes cloudy
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel NDC 11673-454-15 Lubricant eye drops Immediate, long-lasting relief and protection For dryness and irritation Sterile MILD TO MODERATE 0.5 FL OZ (15 mL) Target Artificial Tears
+indications_and_usage:
+  Uses • temporary relief of burning and irritation due to dryness of the eye • prevents further irritation
+set_id:
+  e39fd7ad-58b8-468e-9a59-a8e57b8cb889
+id:
+  e3e4710e-de70-4a68-a032-361d5e1e2f2a
+active_ingredient:
+  Active ingredients *Glycerin (0.3%) **Propylene glycol (1.0%)

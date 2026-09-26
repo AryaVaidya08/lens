@@ -1,0 +1,36 @@
+effective_time:
+  20100503
+contraindications:
+  CONTRAINDICATIONS This product is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+precautions:
+  PRECAUTIONS Folic acid in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations progress.
+warnings:
+  WARNING Ingestion of more than 3 grams of omega-3 fatty acids per day has been shown to have potential antithrombotic effects, including an increased bleeding time and INR. Administration of omega-3 fatty acids should be avoided in patients on anticoagulants and in those known to have an inherited or acquired bleeding diathesis.
+  WARNING Folic acid alone is improper therapy in the treatment of pernicious anemia and other megaloblastic anemias where vitamin B 12 is deficient.
+spl_product_data_elements:
+  CitraNatal Harmony Calcium citrate, Iron pentacarbonyl, Cholecalciferol, Alpha-tocopherol, DL-, Pyridoxine hydrochloride, Folic Acid, Docusate Sodium, and Doconexent Calcium citrate Calcium Iron pentacarbonyl Iron Cholecalciferol Cholecalciferol Alpha-tocopherol, DL- Alpha-tocopherol, DL- Pyridoxine hydrochloride Pyridoxine Folic Acid Folic Acid Docusate Sodium Docusate Doconexent Doconexent opaque 812
+description:
+  DESCRIPTION CitraNatal ® Harmony ™ is a prescription prenatal/postnatal multivitamin/mineral soft gelatin capsule. The prenatal vitamin is a purple, opaque soft gelatin capsule containing a greenish-gray liquid to semi-solid fill. The capsule is printed "0812" in white ink. Each prenatal capsule contains: Calcium (Calcium citrate) 100 mg Vitamin B 6 (Pyridoxine HCl) 25 mg Iron (Carbonyl iron) 27 mg Folic Acid 1 mg Vitamin D 3 (Cholecalciferol) 400 IU Docusate Sodium 50 mg Vitamin E (dl-alpha tocopheryl acetate) 30 IU Docosahexaenoic Acid (DHA) 250 mg DHA is contained in the oil derived from microalgae.
+boxed_warning:
+  WARNING Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. KEEP THIS PRODUCT OUT OF THE REACH OF CHILDREN. In case of accidental overdose, call a doctor or poison control center immediately.
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION One capsule daily or as directed by a physician. Store at controlled room temperature. NOTICE: Contact with moisture can discolor or erode the capsule.
+adverse_reactions:
+  ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. CAUTION: Exercise caution to ensure that the prescribed dosage of DHA does not exceed 1 gram (1000 mg) per day.
+spl_unclassified_section:
+  To report a serious adverse event or obtain product information, call (210) 696-8400. life's DHA ™ Trademark of Martek Biosciences Corporation U.S. Patent No. 5,407,957 U.S. Patent No. 5,492,938 Manufactured for: MISSION PHARMACAL COMPANY San Antonio, TX USA 78230 1355 www.missionpharmacal.com Copyright © 2009 Mission Pharmacal Company. All rights reserved.
+how_supplied:
+  HOW SUPPLIED Bottles of 30 capsules each - NDC 0178-0812-30.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 Capsule Bottle Carton The one-pill solution for gentle prenatal nutrition Rx Only NDC 0178-0812-05 CitraNatal ® Harmony ™ Rx Prenatal Vitamin Gel Cap Convenient, one-dose prenatal nutrition in a vanilla-scented gel cap Gentle calcium citrate and carbonyl iron, plus a stool softener and natural, plant-based DHA life's DHA ™ HEALTHY BRAIN, EYES, HEART 5-DAY STARTER PACK In Child-Resistant Packaging Sample-Not For Sale Contains Stool Softener Mission® PHARMACAL PRINCIPAL DISPLAY PANEL - 30 Capsule Bottle Carton
+indications_and_usage:
+  INDICATIONS CitraNatal ® Harmony ™ is a multivitamin/mineral prescription drug indicated for use in improving the nutritional status of women prior to conception, throughout pregnancy, and in the postnatal period for both lactating and nonlactating mothers.
+set_id:
+  76ad10bd-3a53-4df5-b1c4-c98dbebe2fed
+id:
+  ffeb77e7-167b-4049-aa46-81ec06f218d1
+description_table:
+  <table width="100%"> <col width="40%" align="left" valign="top"/> <col width="7%" align="right" valign="top"/> <col width="6%" align="right" valign="top"/> <col width="40%" align="left" valign="top"/> <col width="7%" align="right" valign="top"/> <tbody> <tr styleCode="toprule"> <td>Calcium (Calcium citrate)</td> <td>100 mg</td> <td/> <td>Vitamin B<sub>6</sub> (Pyridoxine HCl)</td> <td>25 mg</td> </tr> <tr> <td>Iron (Carbonyl iron)</td> <td>27 mg</td> <td/> <td>Folic Acid</td> <td>1 mg</td> </tr> <tr> <td>Vitamin D<sub>3</sub> (Cholecalciferol)</td> <td>400 IU</td> <td/> <td>Docusate Sodium</td> <td>50 mg</td> </tr> <tr styleCode="botrule"> <td>Vitamin E (dl-alpha tocopheryl acetate)</td> <td>30 IU</td> <td/> <td>Docosahexaenoic Acid (DHA)</td> <td>250 mg</td> </tr> </tbody> </table>

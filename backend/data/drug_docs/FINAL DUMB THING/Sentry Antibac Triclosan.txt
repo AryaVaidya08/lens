@@ -1,0 +1,29 @@
+effective_time:
+  20171106
+inactive_ingredient:
+  Inactive ingredients Water, Sodium Laureth Sulfate, Propylene Glycol, PEG-7 Glyceryl Cocoate, Glycerin, Cocamidopropyl Betaine, 2-Bromo-2-nitropropane-1,3-diol, Fragrance, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Green 5 (CI 61570), Yellow 5 (CI 19140).
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush with water. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Sentry Antibac Triclosan TRICLOSAN TRICLOSAN WATER SODIUM LAURETH SULFATE PROPYLENE GLYCOL COCAMIDOPROPYL BETAINE CITRIC ACID MONOHYDRATE D&C GREEN NO. 5 FD&C YELLOW NO. 5 PEG-7 GLYCERYL COCOATE GLYCERIN METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE BRONOPOL
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Apply foaming cleanser to dry hands Rub hands together to spread lather Wash for 15-20 seconds Rinse and dry hands thoroughly
+package_label_principal_display_panel:
+  Sentry Body Guard Antibacterial Foam Soap A high-quality, softly-perfumed, light-green foam soap that is 99.99% effective against common bacteria. One Liter 33.8 Fluid Ounces Sentry Chemical Company/Envyss, LLC Atlanta, GA 30340 USA 770-934-4242 800-877-3339 Rev. 07-13 product label
+indications_and_usage:
+  Uses For hand washing to reduce bacteria on the skin
+set_id:
+  2688b06f-318c-41d7-961f-c1241c33629e
+id:
+  9d1e3141-b2ce-40a5-b010-8ffa0aeaef0b
+active_ingredient:
+  Active ingredient Triclosan, 0.30%

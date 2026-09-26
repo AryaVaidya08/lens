@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  CVS Itch relief moisturizing Pramoxine HCl 1% PHENOXYETHANOL CERAMIDE AP ISOPROPYL PALMITATE CETOSTEARYL ALCOHOL POLYGLYCERYL-3 DISTEARATE TROLAMINE SODIUM PYRROLIDONE CARBOXYLATE ALPHA-TOCOPHEROL ACETATE XANTHAN GUM ALOE VERA LEAF CERAMIDE NP WATER SHEA BUTTER PEG-100 STEARATE GLYCERYL MONOSTEARATE STEARIC ACID NIACINAMIDE ZINC CITRATE DIMETHICONE PRAMOXINE HYDROCHLORIDE PRAMOXINE EDETATE DISODIUM GLYCERIN CETYL ALCOHOL ALLANTOIN ARGININE CERAMIDE 1
+active_ingredient:
+  Pramoxine Hydrochloride 1%
+purpose:
+  External analgesic
+indications_and_usage:
+  Use for the temporary relief of itching associated with minor skin irritations
+warnings:
+  For external use only do not get into eyes Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days Do not use on animal bites severe puncture wounds or burns
+when_using:
+  do not get into eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+do_not_use:
+  Do not use on animal bites severe puncture wounds or burns
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Immediately (1-800-222-1222)
+dosage_and_administration:
+  Adults and Children 2 years of age and older : apply to affected area not more than 3 to 4 times daily Children under 2 years of age : Consult a doctor
+inactive_ingredient:
+  Allantion, Aloe Vera, Arginine PCA, Behenic Acid, Ceramide AP, Ceramide EOP, Ceramide NP, Cetearyl Alcohol, Cetyl Alcohol, Cholesterol, Dimethicone, Disodium EDTA, Glycerin, Glyceryl Stearate, Isopropyl Palmitate, Niacinamide, PEG 100 Stearate, Isopropyl Palmitate, Niacinamide, PEG 100 Stearate, Phenoxyethanol, Phytosphingosine, Polyglyceryl-2- Diisostearate, polyglyceryl-6 Behenate, Polyglyceryl-10 Stearate, Potassium Sorbate, Purified water, Shea Butter, Sodium Cetearyl Sulfate, Sodium Levulinate, Sodium PCA, Stearic Acid, Tocopheryl Acetate, Triethanolamine, Triethyl Citrate, Xanthan Gum, Zinc Citrate.
+package_label_principal_display_panel:
+  Package Label front Package Label back
+set_id:
+  f3a753fc-f448-6bba-e053-2a95a90a8e1b
+id:
+  07da1e53-9830-4f91-e063-6394a90ae88e
+effective_time:
+  20231018
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    CVS Itch relief moisturizing
+  generic_name:
+    PRAMOXINE HCL 1%
+  manufacturer_name:
+    CVS Health
+  product_ndc:
+    51316-144
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PRAMOXINE HYDROCHLORIDE
+  rxcui:
+    1246075
+  spl_id:
+    07da1e53-9830-4f91-e063-6394a90ae88e
+  spl_set_id:
+    f3a753fc-f448-6bba-e053-2a95a90a8e1b
+  package_ndc:
+    51316-144-01
+  is_original_packager:
+    True
+  upc:
+    0050428646656
+  unii:
+    88AYB867L5

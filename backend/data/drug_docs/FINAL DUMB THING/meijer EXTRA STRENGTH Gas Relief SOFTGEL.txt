@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  meijer EXTRA STRENGTH Gas Relief SOFTGEL Simethicone DIMETHICONE, UNSPECIFIED DIMETHICONE D&C YELLOW NO. 10 FD&C BLUE NO. 1 FD&C RED NO. 40 GELATIN TYPE B BOVINE (230 BLOOM) GLYCERIN PEPPERMINT OIL WATER TITANIUM DIOXIDE 791
+spl_unclassified_section:
+  Drug Facts
+  COMPARE TO GAS-X ® EXTRA STRENGTH ACTIVE INGREDIENT* RELIEVES: BLOATING, PRESSURE, FULLNESS AND GAS DIST. BY MEIJER DISTRIBUTION, INC. GRAND RAPIDS, MI 49544 WWW.MEIJER.COM PRODUCT OF UNITED ARAB EMIRATES *This product is not manufactured or distributed by GSK Consumer Healthcare, owner of the registered trademark Gas-X ® . READ AND KEEP OUTER CARTON FOR COMPLETE PRODUCT WARNINGS AND INFORMATION TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING.
+active_ingredient:
+  Active ingredient (in each softgel) Simethicone 125 mg
+purpose:
+  Purpose Antigas
+indications_and_usage:
+  Uses for the relief of • Pressure, bloating, and fullness commonly referred to as gas
+warnings:
+  Warnings If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions • adults and children 12 years and older: swallow with water 1 or 2 softgels as needed after meals and at bedtime • do not exceed 4 softgels in 24 hours except under the advice and supervision of a physician
+storage_and_handling:
+  Other information • store at room temperature between 20°-25°C (68°-77°F) • protect from light, heat and moisture
+inactive_ingredient:
+  Inactive ingredients D&C yellow no.10, edible printing ink, FD&C blue no.1, FD&C red no. 40, gelatin (bovine), glycerin, peppermint oil, purified water, titanium dioxide
+questions:
+  Questions or comments? 1-888-577-8033 Monday - Friday 8am - 4pm EST
+spl_unclassified_section_table:
+  <table width="100%"><tbody><tr styleCode="First Last"><td styleCode="Botrule Lrule Rrule Toprule" align="center"><content styleCode="bold">READ AND KEEP OUTER CARTON FOR COMPLETE PRODUCT WARNINGS AND INFORMATION</content></td></tr></tbody></table>
+  <table width="100%"><tbody><tr styleCode="First Last"><td styleCode="Botrule Lrule Rrule Toprule" align="center"><content styleCode="bold">TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING.</content></td></tr></tbody></table>
+package_label_principal_display_panel:
+  Packaging MGRelf-6
+set_id:
+  1befc6cb-a5ad-b950-e063-6394a90a5de3
+id:
+  556c1ba6-b957-4a9d-bcab-c797caedd3b4
+effective_time:
+  20240912
+version:
+  2
+openfda:
+  application_number:
+    M002
+  brand_name:
+    meijer EXTRA STRENGTH Gas Relief SOFTGEL
+  generic_name:
+    SIMETHICONE
+  manufacturer_name:
+    Meijer, Inc.
+  product_ndc:
+    79481-0791
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMETHICONE, UNSPECIFIED
+  rxcui:
+    198852
+  spl_id:
+    556c1ba6-b957-4a9d-bcab-c797caedd3b4
+  spl_set_id:
+    1befc6cb-a5ad-b950-e063-6394a90a5de3
+  package_ndc:
+    79481-0791-5
+    79481-0791-7
+  is_original_packager:
+    True
+  upc:
+    0713733980852
+  unii:
+    92RU3N3Y1O

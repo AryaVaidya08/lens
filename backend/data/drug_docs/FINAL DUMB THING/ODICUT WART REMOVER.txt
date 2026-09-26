@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  ODICUT WART REMOVER Salicylic acid 17% WART REMOVER PHENOL LANOLIN PARAFFIN SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active Ingredient Salicylic acid 17%
+purpose:
+  Purpose Wart Remover
+indications_and_usage:
+  Use For the removal of common warts. The common wart is easily recognized by the rough 'cauliflower-like' appearance of the surface
+warnings:
+  Warnings For external use only.
+do_not_use:
+  Do not use On irritated,infected, or reddened skin; on genital warts and warts on the face; on moles, birthmarks, and warts with hair growing from them;on mucous mempranes.
+when_using:
+  When Using Ask a doctor before use if you have diabetes or poor blood circulation
+stop_use:
+  Stop Use Ask a doctor before use if you have diabetes or poor blood circulation
+ask_doctor:
+  Ask Doctor Ask a doctor before use if you have diabetes poor blood circulation
+keep_out_of_reach_of_children:
+  Keep Oot Of Reach Of Children If swallowed, get medical help or contact a Poison control Center right away.
+dosage_and_administration:
+  Directions wash affected area: may soak wart in warm water for 5 minutes dry area thoroughly,remove bandage strips by peeling backing off If necessary,cut medicated patch to fit wart carefully apply medicated plaster, repeat procedure every 48 hours as needed (until wart is removed) for up to 12 weeks
+storage_and_handling:
+  Other information Store between 59°and 86°F(15°and 30°C).
+inactive_ingredient:
+  Inactive ingredients hard paraffin,lanolin,phenol.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL 17
+set_id:
+  4d2028d9-925f-5ba5-e063-6394a90a03b3
+id:
+  4d2028d9-9260-5ba5-e063-6394a90a03b3
+effective_time:
+  20260316
+version:
+  1
+openfda:
+  application_number:
+    M028
+  brand_name:
+    ODICUT WART REMOVER
+  generic_name:
+    SALICYLIC ACID 17% WART REMOVER
+  manufacturer_name:
+    Jiangxi Yudexi Pharmaceutical Co., LTD
+  product_ndc:
+    85248-161
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    2722666
+  spl_id:
+    4d2028d9-9260-5ba5-e063-6394a90a03b3
+  spl_set_id:
+    4d2028d9-925f-5ba5-e063-6394a90a03b3
+  package_ndc:
+    85248-161-01
+  is_original_packager:
+    True
+  upc:
+    6979843981361
+  unii:
+    O414PZ4LPZ

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  ATOREN PREMIUM HAND SANITIZER ALCOHOL ALCOHOL ALCOHOL Water Butylene Glycol
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Ethyl alcohol 70%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Butylene Glycol, Aloe Extract(09), Water, Carbomer, Triethanolamine
+purpose:
+  PURPOSE Purpose: Hand Sanitizer
+warnings:
+  WARNINGS Warnings: • Flammable. Keep away from fire or flame. • For external use only. • When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. • Stop use and ask a doctor if irritation or rash appears and lasts. • Keep Out of Reach of Children. • Do not eat. • If swallowed, get medical help or contact a Poison Control Center right away
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+indications_and_usage:
+  Uses Uses: Hand sanitizer to help reduce bacteria on the skin
+dosage_and_administration:
+  Directions Directions: • Put enough product in your palm to cover hands and rub hands together briskly until dry. • Children under 6 years of age should be supervised when using. Not recommended for infants.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of bottle
+set_id:
+  f32ea2ae-3dbc-4c85-8181-3013fc6dec7b
+id:
+  093811cb-cb57-4ed1-8cce-a728f815350c
+effective_time:
+  20240419
+version:
+  2
+openfda:

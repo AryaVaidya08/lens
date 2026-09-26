@@ -1,0 +1,81 @@
+spl_product_data_elements:
+  Mucus Relief DM dextromethorphan hydrobromide, guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN CARBOMER HOMOPOLYMER TYPE B (ALLYL PENTAERYTHRITOL OR ALLYL SUCROSE CROSSLINKED) COPOVIDONE K25-31 D&C YELLOW NO. 10 ALUMINUM LAKE HYPROMELLOSE, UNSPECIFIED MAGNESIUM HYDROXIDE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SILICON DIOXIDE L219;600
+active_ingredient:
+  Active ingredients (in each extended-release tablet) Dextromethorphan HBr 30 mg Guaifenesin 600 mg
+purpose:
+  Purposes Cough suppressant Expectorant
+indications_and_usage:
+  Uses • helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive • temporarily relieves: • cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants • the intensity of coughing • the impulse to cough to help you get to sleep
+warnings:
+  Warnings Do not use • for children under 12 years of age • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus) When using this product • do not use more than directed Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+do_not_use:
+  Do not use • for children under 12 years of age • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have • persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema • cough accompanied by too much phlegm (mucus)
+when_using:
+  When using this product • do not use more than directed
+stop_use:
+  Stop use and ask a doctor if • cough lasts more than 7 days, comes back, or occurs with fever, rash, or persistent headache. These could be signs of a serious illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions • do not crush, chew, or break extended-release tablet • take with a full glass of water • this product can be administered without regard for timing of meals • adults and children 12 years and older: 1 or 2 extended-release tablets every 12 hours; not more than 4 extended-release tablets in 24 hours • children under 12 years of age: do not use
+other_safety_information:
+  Other information • each tablet contains: magnesium 15 mg • store between 20-25°C (68-77°F)
+inactive_ingredient:
+  Inactive ingredients carbomer homopolymer type B, copovidone, D&C yellow #10 aluminum lake, hypromellose, magnesium hydroxide, magnesium stearate, microcrystalline cellulose, silicon dioxide
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Walgreens Compare to the active ingredients in Mucinex ® DM WALGREENS •PHARMACIST RECOMMENDED• 12 HOUR Mucus Relief DM DEXTROMETHORPHAN HYDROBROMIDE 30 mg / GUAIFENESIN 600 mg / EXTENDED-RELEASE TABLETS COUGH SUPPRESSANT / EXPECTORANT 12 Hour • Relieves cough & chest congestion • Controls cough • Thins & loosens mucus 40 EXTENDED-RELEASE TABLETS ACTUAL SIZE mucus-relief-dm
+set_id:
+  d8a693f7-03c1-4583-89a8-8d506a894b24
+id:
+  e20b8674-3a87-40ea-a3ed-67a8f724c21f
+effective_time:
+  20260828
+version:
+  3
+openfda:
+  application_number:
+    ANDA207602
+  brand_name:
+    Mucus Relief DM
+  generic_name:
+    DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN
+  manufacturer_name:
+    Walgreen Company
+  product_ndc:
+    0363-3219
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  rxcui:
+    1298324
+  spl_id:
+    e20b8674-3a87-40ea-a3ed-67a8f724c21f
+  spl_set_id:
+    d8a693f7-03c1-4583-89a8-8d506a894b24
+  package_ndc:
+    0363-3219-01
+    0363-3219-49
+  is_original_packager:
+    True
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

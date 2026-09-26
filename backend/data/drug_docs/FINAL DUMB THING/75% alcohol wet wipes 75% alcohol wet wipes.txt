@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  75% alcohol wet wipes 75% alcohol wet wipes WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Alcohol 75%.
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use To disinfect on skin and daily using to reduce bacteria
+warnings:
+  Warnings For external use only. Flammable. Keep
+do_not_use:
+  Do not use Away from heat or flame
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed , get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions 1. When using, please open the sealing cover on the package; 2. Take out a wet towel from the paper outlet; 3. After use, the sealing cover should be covered to prevent the wet towel from drying. 4.Get a wet wipe to scrub skin and daily using, supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between15-30℃ (59-86f)，Avoid freezing and excessive heat above 40℃（104F)
+inactive_ingredient:
+  Inactive ingredients EDI ultra-pure water, Non-woven fabric
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 79758-001-01 1P 79758-001-02 8P 79758-001-03 10P 79758-001-04 20P 79758-001-05 25P 79758-001-06 30P 79758-001-07 50P 79758-001-08 80P 79758-001-09 100p 79758-001-10 120p 79758-001-01 1P 79758-001-02 8P 79758-001-03 10P 79758-001-04 20P 79758-001-05 25P 79758-001-06 30P 79758-001-07 50P 79758-001-08 80P 79758-001-09 100p 79758-001-10 120p
+set_id:
+  bc38d74e-0e18-5c63-e053-2a95a90a0ab8
+id:
+  bc38a0e2-6fa9-1a89-e053-2995a90ab201
+effective_time:
+  20210226
+version:
+  1
+openfda:

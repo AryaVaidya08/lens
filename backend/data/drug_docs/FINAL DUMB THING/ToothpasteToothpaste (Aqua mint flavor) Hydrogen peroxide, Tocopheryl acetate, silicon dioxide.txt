@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  ToothpasteToothpaste (Aqua mint flavor) Hydrogen peroxide, Tocopheryl acetate, silicon dioxide HYDROGEN PEROXIDE HYDROGEN PEROXIDE .ALPHA.-TOCOPHEROL ACETATE .ALPHA.-TOCOPHEROL SILICON DIOXIDE SILICON DIOXIDE XYLITOL WATER
+active_ingredient:
+  Hydrogen peroxide, Tocopheryl acetate, silicon dioxide
+purpose:
+  Tooth whitening, tooth decay prevention, bad breath removal. Makes tooth strong. Keeps the mouth clean, Refreshes the inside of the mouth. lncreases the aesthetic effect. Prevention of periodontal disease, gum disease and, removal of plaque (anti-plaque)
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+indications_and_usage:
+  apply appropriate amount of the tooth paste on the tooth brush and brush the teeth
+warnings:
+  (1) Do not swallow, gargle fully after using. (2) If the use of this paste causes gingiva or oral cavity injury, please stop using and consult a doctor or a dentist. (3) If childern under 6 years of age use, please apply a pea-sized amount each thime. Do not swallow. Please use under the guidance of the guardian. (4) If children under 6 years of age accidentally ingest large amounts of the paste, please consult a doctor or a dentist immediately. (5) Keep out of reach of children under 6 years of age.
+inactive_ingredient:
+  glycerin D-Sorbitol solution Propylene Glycol Xanthan gum Carboxymethyl cellulose sodium Cocovl Glutamate sodium Xylitol STEVIOL GLYCOSIDE Green tea extract Lycium Chinense Fruit Extract Mulberry Root Extract Angelica Gigas Root Extract Graperuit seed extract Mugwort Extract Sponge Cucumber Gourd Extract Mastic oil Sodium Phosphate Citric acid L-Menthol Aquamint flavor peppermint oil Purified water
+dosage_and_administration:
+  For dental use only
+package_label_principal_display_panel:
+  label
+set_id:
+  fa8561f3-449c-ce22-e053-6294a90a6435
+id:
+  fa856208-e7a7-043d-e053-6294a90a4ed9
+effective_time:
+  20230429
+version:
+  1
+openfda:

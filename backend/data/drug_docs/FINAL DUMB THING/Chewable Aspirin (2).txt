@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Chewable Aspirin ASPIRIN FD&C YELLOW NO. 6 SACCHARIN SODIUM CATION SILICON DIOXIDE STARCH, CORN STEARIC ACID SUCROSE ASPIRIN ASPIRIN ORANGE ASPIRIN
+active_ingredient:
+  Active Ingredient Aspirin 81 mg (NSAID*) *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Analgesic/antipyretic
+indications_and_usage:
+  Uses temporary relief of minor aches, pains and headaches to reduce fever associated with colds, sore throats, teething
+warnings:
+  Warnings Reye's syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of reye's syndrome, a rare but serious illness. Stomach bleeding warning: This product contains a non-steroidal anti-inflammatory drug (NSAID), which may cause stomach bleeding. The chance is higher if the user; has had stomach ulcers or bleeding problems takes a blood thinning (anticoagulant) or steroid drug takes other drugs containing prescription or nonprescription NSAIDs (aspirin, ibuprofen, naproxen, or others) takes more or for a longer time than directed is age 60 or older has 3 or more alcoholic drinks every while using this product.
+do_not_use:
+  Do not use if you are allergic to aspirin or any other pain relievers/fever reducers for more than 10 days for pain unless directed by a doctor for more than 3 days for fever unless directed by a doctor for at least 7 days after a tonsillectomy or oral surgery
+ask_doctor:
+  Ask a doctor before use if you have: asthma stomach problems (such as heartburn, upset stomach, or stomach pain) that persist or recur, ulcers or bleeding problems a child experiencing arthritis pain if you are; allergic to aspirin taking prescription drug for anticoagulation (thinning of blood), diabetes, gout or arthritis
+stop_use:
+  Stop use and ask a doctor if: an allergic reaction occurs, Seek medical help right away pain or fever persists new or unexpected symptoms occur redness or swelling is present ringing in ears or loss of hearing occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use aspirin during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Do not use more than directed Adults and Children (12 years and older): Chew 4 to 8 tablets with water every 4 hours, Do not exceed 48 tablets in 24 hours unless directed by a doctor. Children Under 12 years: Consult a doctor.
+storage_and_handling:
+  Store at room temperature tamper evident sealed packets do not use any opened or torn packets
+inactive_ingredient:
+  Inactive Ingredients flavor, FD and C yellow No. 6, saccharin, sodium, silicon dioxide, starch, stearic acid, sucrose
+description:
+  MADE IN USA Distributed by GENUINE FIRST AID 600 Cleveland Str Suite 400, Clearwater, FL 33755
+package_label_principal_display_panel:
+  2 Tablets GENUINE FIRST AID. Chewable Aspirin 81mg
+  Chewable Aspirin 81mg
+set_id:
+  785e913e-1780-4fd4-8428-d83c26fe810c
+id:
+  98f7a4cf-e62c-141c-e053-2a95a90aa060
+effective_time:
+  20191205
+version:
+  13
+openfda:

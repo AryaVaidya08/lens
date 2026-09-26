@@ -1,0 +1,27 @@
+effective_time:
+  20180312
+instructions_for_use:
+  INSTRUCTIONS FOR USE insert page 1 insert page 2
+warnings:
+  WARNINGS Pictogram Signal word: Danger Hazard Statement(s) H301 Toxic if swallowed. H315 Causes skin irritation. H317 May cause an allergic skin reaction. H319 Causes serious eye irritation. H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled. H335 May cause respiratory irritation. H360 May damage fertility or the unborn child. Precautionary statement(s) P201 Obtain special instructions before use. P261 Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray. P280 Wear protective gloves. P301 + P310 IF SWALLOWED: Immediately call a POISON CENTER or doctor/ physician. P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P308 + P313 IF exposed or concerned: Get medical advice/ attention. Skull and Cross bones Pictogram Health Hazard Pictogram exclamation point Pictogram
+spl_product_data_elements:
+  Equipto - Baclofen External Cream Compounding Kit Baclofen Baclofen Baclofen BACLOFEN BACLOFEN Cream Base Cream Base STEARETH-20 CYCLOMETHICONE 5 ETHYLHEXYL STEARATE SORBITOL ALOE VERA LEAF ALPHA-TOCOPHEROL ACETATE EDETATE DISODIUM METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE WATER CETOSTEARYL ALCOHOL POLYSORBATE 60 PEG-150 STEARATE
+description:
+  DESCRIPTION Baclofen 2% External Cream Base FOR PRESCRIPTION COMPOUNDING ONLY / Rx Only Each Equipto - Baclofen External Cream Compounding Kit provides 2.04 grams of Baclofen powder for incorporation into 100 grams of a Base. The resulting mixture is intended for topical use. CAS Number 1134-47-0 β-(4-chlorophenyl)-γ-aminobutyric acid (β-(4-chlorophenyl)-GABA) structure
+openfda:
+version:
+  6
+storage_and_handling:
+  STORAGE AND HANDLING Prior to compounding, store Equipto - Baclofen External Cream Compounding Kit at room temperature between 15 - 30 degrees C (59 - 86 degrees F). Protect from light. For external use only.
+how_supplied_table:
+  <table> <colgroup> <col width="319"/> <col width="319"/> </colgroup> <tbody> <tr> <td styleCode="Lrule Rrule Toprule">SIZE</td> <td styleCode="Lrule Rrule Toprule">120 grams</td> </tr> <tr> <td styleCode="Lrule Rrule Toprule">NDC #</td> <td styleCode="Lrule Rrule Toprule">15455-0701-2</td> </tr> <tr> <td styleCode="Lrule Rrule Toprule">Baclofen</td> <td styleCode="Lrule Rrule Toprule">2.04 grams</td> </tr> <tr> <td styleCode="Lrule Rrule Toprule">Base</td> <td styleCode="Lrule Rrule Toprule">100 grams</td> </tr> </tbody> </table>
+how_supplied:
+  KTI COMPONENTS Kit Components: 1 color coded black bottle of 2.04g Baclofen, 1 bottle of 100g Base, 1 stirring rod, and 1 empty white mixing jar. SIZE 120 grams NDC # 15455-0701-2 Baclofen 2.04 grams Base 100 grams Avoid contact with eyes. Keep container tightly closed. Keep out of reach of children. Protect from light. Dispose of the product after 30 days of being compounded. * Certificate of analysis on file. The FDA has not approved Equipto - Baclofen External Cream Compounding Kit to cure, treat, or mitigate disease. Equipto - Baclofen External Cream Compounding Kit is intended for preparation in accordance with state and federal regulation governing compounding and is available to patients by prescription only. Rx ONLY logo
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 15455-0701-2 Equipto - Baclofen External Cream Compounding Kit Baclofen 2% External Cream in Base FOR PRESCRIPTION COMPOUNDING ONLY RX ONLY carton label
+  TDC MAX Cream - Base 100 g NDC# 15455-0999-5 FOR PRESCRIPTION COMPOUNDING ONLY Rx ONLY Base 100 g
+  Baclofen USP Poweder 2.04 g NDC# 15455-0724-4 FOR PRESCRIPTION COMPOUNDING ONLY Rx ONLY Baclofen Label 2.04g
+set_id:
+  e0784c94-0128-4542-8258-c5dcf032ce68
+id:
+  673dc8db-625c-c569-e053-2a91aa0ae7f6

@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Alcohol Wipe Isopropyl alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL Alcohol Prep Pad Isopropyl alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active ingredient Isopropyl alcohol 70%
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Uses first aid to help prevent infection in minor cuts, scrapes, and burns
+warnings:
+  Warnings For external use only Flammable , keep away from fire and flame Do not use in or near eyes over large areas of the body Ask a doctor before use if you have deep or puncture wounds animal bites serious burns When using this product do not use longer than 1 week unless directed by a doctor Stop use and consult a doctor if condition persists or gets worse Keep out of the reach of children If swallowed, get medical help or contact a Poison Control center right away
+do_not_use:
+  Do not use in or near eyes over large areas of the body
+ask_doctor:
+  Ask a doctor before use if you have deep or puncture wounds animal bites serious burns
+when_using:
+  When using this product do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and consult a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of the reach of children If swallowed, get medical help or contact a Poison Control center right away
+dosage_and_administration:
+  Directions clean the affected area may be covered with a sterile bandage apply wipe to affeted are 1 to 3 times daily discard wipe after single use
+other_safety_information:
+  Other information store at room temperature 15 o to 25 o C (59 o to 77 o F) do not use if packet is torn or opened
+inactive_ingredient:
+  Inactive ingredient water
+questions:
+  Questions 1-800-430-5490
+package_label_principal_display_panel:
+  alcohol wipes Alcool wipes
+  Alcohol wipes 10 ct Alcool wipes 10
+  OH Pak OH pak
+set_id:
+  60db1eec-7a1c-100b-e053-2991aa0acd42
+id:
+  1a167923-a477-cbc7-e063-6394a90a33d0
+effective_time:
+  20240604
+version:
+  15
+openfda:

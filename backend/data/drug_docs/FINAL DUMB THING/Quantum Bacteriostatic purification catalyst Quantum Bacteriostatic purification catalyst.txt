@@ -1,0 +1,27 @@
+effective_time:
+  20200427
+inactive_ingredient:
+  deionized water
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization
+warnings:
+  This product is water- based, spray wine on. the object or skin surface, and thenfully ventilated and dry the product, this product is non-toxic and hamless, but not drinkable.
+spl_product_data_elements:
+  Quantum Bacteriostatic purification catalyst Quantum Bacteriostatic purification catalyst SILVER SILVER WATER TITANIUM DIOXIDE TITANIUM DIOXIDE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Store at room temperature,avoid fire, light and exposure.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Spray the product on the surface of clothes and keep it dry.
+set_id:
+  a445f16a-2b6c-a220-e053-2995a90ac12a
+id:
+  a445f16a-2b6d-a220-e053-2995a90ac12a
+active_ingredient:
+  Nano-TiO2 nano-Ag

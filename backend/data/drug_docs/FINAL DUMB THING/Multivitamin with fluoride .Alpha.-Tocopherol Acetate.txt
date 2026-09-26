@@ -1,0 +1,31 @@
+effective_time:
+  20171005
+precautions:
+  Caution Do not use this product if you are allergic to any of the ingredients. Take this product at least 2 hours before or after taking any products containing calcium (including milk, yogurt, other dairy products) or aluminum/magnesium hydroxide (e.g., certain antacids/laxatives). Prolonged daily ingestion of excessive fluoride may result in varying degrees of dental fluorosis. Account for all daily sources of fluoride intake.
+warnings:
+  WARNING KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. IF OVERDOSAGE IS SUSPECTED, SEEK PROFESSIONAL ASSISTANCE OR CONTACT A POISON CONTROL CENTER IMMEDIATELY 1-800-222-1222. TABLET SHOULD BE CHEWED. THIS PRODUCT, AS WITH ALL CHEWABLE TABLETS, IS NOT RECOMMENDED FOR CHILDREN UNDER AGE 4 DUE TO RISK OF CHOKING. DO NOT USE IF FOIL SEAL UNDER CAP IS BROKEN OR MISSING
+spl_product_data_elements:
+  Multivitamin with fluoride .Alpha.-Tocopherol Acetate, DL-, Ascorbic Acid, Cyanocobalamin, Sodium Fluoride, Folic Acid, Niacin, Pyridoxine, Riboflavin, Thiamine, Vitamin A, and Vitamin D .ALPHA.-TOCOPHEROL ACETATE, DL- .ALPHA.-TOCOPHEROL, DL- ASCORBIC ACID ASCORBIC ACID CYANOCOBALAMIN CYANOCOBALAMIN SODIUM FLUORIDE FLUORIDE ION FOLIC ACID FOLIC ACID NIACIN NIACIN PYRIDOXINE PYRIDOXINE RIBOFLAVIN RIBOFLAVIN THIAMINE THIAMINE ION VITAMIN A VITAMIN A VITAMIN D VITAMIN D Xylitol Microcrystalline Cellulose Mannitol Talc Magnesium stearate Sucralose Anhydrous Citric acid Off-white to pale yellow speckled SCI;5
+description:
+  Each Multivitamin with 0.5 mg Fluoride Tablet Contains: Vitamin A (as Acetate) 2500 IU Vitamin C 60 mg Vitamin D 400 IU Vitamin E 15 IU Thiamine 1.05 mg Riboflavin 1.2 mg Niacin 13.5 mg Vitamin B6 1.05 mg Folate (as Folic Acid) 0.3 mg Vitamin B12 4.5 mcg Fluoride (as Sodium Fluoride) Each Multivitamin with 0.5 mg Fluoride Tablet contains 0.5 mg Fluoride from 1.1 mg Sodium Fluoride (NaF). 0.5 mg
+  Description Off-white to pale yellow, speckled, fruit flavor, round-shaped chewable tablet debossed "SCI" on one side and "5" on the other.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions USE AS DIRECTED BY YOUR PHYSICIAN.
+spl_unclassified_section:
+  Other Ingredients Xylitol, microcrystalline cellulose, mannitol, talc, magnesium stearate, sucralose, natural fruit flavor, citric acid.
+  This medical food product is formulated to be administered orally, under the ongoing supervision of a physician and is intended for the dietary management of dental caries for which a distinctive nutritional requirement of fluoride, based on recognized scientific principles, has been established by medical evaluation. The numeric identifier on this product's labeling is an assigned product code for use with pharmacy-level, health-insurance and state level reimbursement programs and is not intended to denote registration with the FDA. Manufactured by: Sancilio & Co., Inc. Riviera Beach, FL 33404 USA rev. 11/18/11
+storage_and_handling:
+  Storage Store in a cool, dry place at room temperature 20° - 25°C (68° - 77°F) away from heat and sunlight. Store in original container.
+how_supplied:
+  HOW SUPPLIED Product: 50090-0435 NDC: 50090-0435-1 100 TABLET, CHEWABLE in a BOTTLE, PLASTIC
+package_label_principal_display_panel:
+  .Alpha.-Tocopherol Acetate, DL-, Ascorbic Acid, Cyanocobalamin, Sodium Fluoride, Folic Acid, Niacin, Pyridoxine, Riboflavin, Thiamine, Vitamin A, and Vitamin D Label Image
+set_id:
+  8f9e5547-67ad-43c9-ab35-b4c2c1f3b01f
+id:
+  65079180-0dee-4058-8de8-07bac3b747a2
+description_table:
+  <table width="70%"> <col align="left" valign="top" width="55%"/> <col align="right" valign="top" width="45%"/> <tbody> <tr styleCode="Toprule"> <td>Vitamin A (as Acetate)</td> <td>2500 IU</td> </tr> <tr> <td>Vitamin C</td> <td>60 mg</td> </tr> <tr> <td>Vitamin D</td> <td>400 IU</td> </tr> <tr> <td>Vitamin E</td> <td>15 IU</td> </tr> <tr> <td>Thiamine</td> <td>1.05 mg</td> </tr> <tr> <td>Riboflavin</td> <td>1.2 mg</td> </tr> <tr> <td>Niacin</td> <td>13.5 mg</td> </tr> <tr> <td>Vitamin B6</td> <td>1.05 mg</td> </tr> <tr> <td>Folate (as Folic Acid)</td> <td>0.3 mg</td> </tr> <tr> <td>Vitamin B12</td> <td>4.5 mcg</td> </tr> <tr styleCode="Botrule"> <td>Fluoride (as Sodium Fluoride)<footnote> <content styleCode="bold">Each Multivitamin with 0.5 mg Fluoride Tablet contains 0.5 mg Fluoride from 1.1 mg Sodium Fluoride (NaF).</content> </footnote> </td> <td>0.5 mg</td> </tr> </tbody> </table>

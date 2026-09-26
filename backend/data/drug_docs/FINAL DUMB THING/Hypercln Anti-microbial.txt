@@ -1,0 +1,27 @@
+effective_time:
+  20200715
+inactive_ingredient:
+  Inactive Ingredients Aqua, Decyl Glucoside, Glycerin, Sodium Hydroxymethylglycinate, Citric Acid, PEG-12 Dimethicone Copolyol, Tetrasodium EDTA, Potassium Sorbate, Sodium Benzoate, Aloe Barbadensis Leaf Extract, Chamomilla Recutita (Matricaria) Flower Extract, Allantoin, Panthenol, Tocopheryl Acetate, Fragrance
+purpose:
+  Purpose Anti-bacterial
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. Keep out of reach of children, except with adult supervision.
+warnings:
+  Warnings For external use only. Do not use in the eyes. Keep out of eyes. In case of eye contact, rinse with water. If irritation develops, discontinue use. Consult doctor if irritation persists for more than 72 hours. If swallowed, seek medical attention or contact a Poison Control Center.
+spl_product_data_elements:
+  Hypercln Anti-microbial ALOE VERA LEAF PEG-12 DIMETHICONE (300 CST) CHAMOMILE EDETATE SODIUM ALLANTOIN PANTHENOL BENZALKONIUM CHLORIDE BENZALKONIUM ANHYDROUS CITRIC ACID .ALPHA.-TOCOPHEROL ACETATE GLYCERIN WATER SODIUM HYDROXYMETHYLGLYCINATE DECYL GLUCOSIDE SODIUM BENZOATE POTASSIUM SORBATE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions 1. Tear open and unfold wipe 2. Sanitize hands and affected area. 3. Discard in trash after use. Do not flush.
+package_label_principal_display_panel:
+  Label Hypercln
+indications_and_usage:
+  Use 1. Tear open and unfold wipe. 2. Sanitize hands and affected area. 3. Discard in trash after use. Do not flush.
+set_id:
+  a7eb256c-24ef-20e7-e053-2a95a90aecfa
+id:
+  aa7c5e04-3180-4477-e053-2995a90a66c9
+active_ingredient:
+  Active Ingredient Benzalkonium chloride 0.1%

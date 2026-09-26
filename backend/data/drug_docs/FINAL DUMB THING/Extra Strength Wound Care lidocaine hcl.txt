@@ -1,0 +1,27 @@
+effective_time:
+  20170427
+inactive_ingredient:
+  inactive ingredients
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  purpose
+warnings:
+  warnings
+spl_product_data_elements:
+  Extra Strength Wound Care lidocaine hcl LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS PROPOLIS WAX PIPER METHYSTICUM WHOLE WITCH HAZEL COPAIBA OIL BEHENTRIMONIUM METHOSULFATE NUTMEG OIL ACHILLEA MILLEFOLIUM OIL
+openfda:
+version:
+  1
+dosage_and_administration:
+  dosage and administration
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  uses
+set_id:
+  4e2e7072-cfbe-437b-e054-00144ff88e88
+id:
+  4e2e7072-cfbf-437b-e054-00144ff88e88
+active_ingredient:
+  active ingredients

@@ -1,0 +1,31 @@
+effective_time:
+  20160711
+inactive_ingredient:
+  INACTIVE INGREDIENT lactose monohydrate, magnesium stearate, povidone, pregelatinized starch
+purpose:
+  OTC - PURPOSE Antihistamine
+warnings:
+  WARNINGS if you have ever had an allergic reaction to this product or any of its ingredients liver or kidney disease. Your doctor should determine if you need a different dose. do not take more than directed. Taking more than directed may cause drowsiness. an allergic reaction to this product occurs. Seek medical help right away. ask a health professional before use. In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  OTC - QUESTIONS 1-800-719-9260
+spl_product_data_elements:
+  Loratadineantihistamine antihistamine Loratadine LACTOSE MONOHYDRATE POVIDONE MAGNESIUM STEARATE STARCH, CORN LORATADINE LORATADINE TABLET L612
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+storage_and_handling:
+  STORAGE AND HANDLING do not use if printed foil under cap is broken or missing store at 20°-25°C (68°-77°F)
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL SECTION DRUG: Loratadineantihistamine antihistamine GENERIC: Loratadine DOSAGE: TABLET ADMINSTRATION: ORAL NDC: 52125-600-08 ACTIVE INGREDIENT(S): LORATADINE 10mg in 1 INACTIVE INGREDIENT(S): LACTOSE MONOHYDRATE POVIDONE MAGNESIUM STEARATE STARCH, CORN COLOR: white SHAPE: OVAL SCORE: No score SIZE: 8 mm IMPRINT: L612 PACKAGING: 10 in 1 VIAL MM1 MM2
+indications_and_usage:
+  INDICATIONS & USAGE temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+set_id:
+  637f676f-1f12-4514-8a92-84e620dfd130
+id:
+  375beaeb-34c9-448d-e054-00144ff8d46c
+active_ingredient:
+  OTC - ACTIVE INGREDIENT Loratadine 10 mg
+dosage_and_administration_table:
+  <table ID="id_8abda2a6-1e88-4e86-8603-957d9de22c29" border="single" width="518"> <col span="1" width="37.4%"/> <col span="1" width="62.5%"/> <tbody> <tr> <td>adults and children 6 years and over</td> <td>1 tablet daily; not more than 1 tablet in 24 hours</td> </tr> <tr> <td>children under 6 years of age</td> <td>ask a doctor</td> </tr> <tr> <td>consumers with liver or kidney disease</td> <td>ask a doctor</td> </tr> </tbody> </table>

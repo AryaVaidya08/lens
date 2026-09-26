@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Hypericum Perforatum 30X Hypericum Perforatum SUGARCANE HYPERICUM PERFORATUM WHOLE HYPERICUM PERFORATUM WHOLE
+active_ingredient:
+  Active ingredients HPUS: Each globule contains 1% Hypericum Perforatum 30X
+purpose:
+  For nerve pain after surgery or injury*
+indications_and_usage:
+  For nerve pain after surgery or injury*
+warnings:
+  If symptoms worsen or persist for more than 7 days, consult a physician.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  3 globules 3 times a day or as directed by a homeopath. Oral/Sublingual use.
+inactive_ingredient:
+  Organic cane sugar globules.
+questions:
+  1 (888) 290-8140 or schmidt-nagel.com
+storage_and_handling:
+  Conservation: 15°C - 25°C
+other_safety_information:
+  *Claims based on traditional homeopathic practices, not accepted medical evidences. Not FDA evaluated.
+package_label_principal_display_panel:
+  Hypericum
+set_id:
+  3363ee64-2f54-1467-e063-6294a90a2a4d
+id:
+  3593a7ff-b424-dcfe-e063-6394a90ad0af
+effective_time:
+  20250520
+version:
+  2
+openfda:
+  brand_name:
+    Hypericum Perforatum 30X
+  generic_name:
+    HYPERICUM PERFORATUM
+  manufacturer_name:
+    Laboratoire Schmidt-Nagel Inc.
+  product_ndc:
+    73296-019
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+    SUBLINGUAL
+  substance_name:
+    HYPERICUM PERFORATUM WHOLE
+  spl_id:
+    3593a7ff-b424-dcfe-e063-6394a90ad0af
+  spl_set_id:
+    3363ee64-2f54-1467-e063-6294a90a2a4d
+  package_ndc:
+    73296-019-01
+  is_original_packager:
+    True
+  unii:
+    XK4IUX8MNB

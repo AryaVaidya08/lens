@@ -1,0 +1,38 @@
+effective_time:
+  20150615
+inactive_ingredient:
+  Inactive ingredients water, alcohol denat., cyclopentasiloxane, propylene glycol, dimethicone, trisiloxane, calcium chloride, PEG/PPG-18/18 dimethicone, fragrance
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? 1-800-445-5388
+spl_product_data_elements:
+  Gillette Clear Cool Wave Aluminum Zirconium Octachlorohydrex Gly Aluminum Zirconium Octachlorohydrex Gly Aluminum Zirconium Octachlorohydrex Gly water cyclomethicone 5 propylene glycol dimethicone trisiloxane calcium chloride
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions apply to underarms only
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202.
+stop_use:
+  Stop use if rash or irritation occurs
+do_not_use:
+  Do not use on broken skin
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 113 g Canister Label Gillette ® CLEAR GEL COOL WAVE Aluminum zirconium octachlorohydrex Gly Anti-Perspirant/Deodorant 98654847 NET WT. 4.0 OZ (113 g) Principal Display Panel - 113 g Canister Label
+indications_and_usage:
+  Use reduces underarm wetness
+set_id:
+  d2ef1fed-ee37-4c65-b4a2-b2c291672620
+id:
+  db21ed98-4f08-48bb-a47d-43d9b7cbd698
+active_ingredient:
+  Active ingredient Aluminum zirconium octachlorohydrex Gly 16% (anhydrous)

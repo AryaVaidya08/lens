@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  Reef safe - Hydrating sunscreen SPF50 Zinc Oxide sunscreen SODIUM HYALURONATE SODIUM CHLORIDE GLYCERIN POLYGLYCERYL-3 RICINOLEATE POTASSIUM CETYL PHOSPHATE CALENDULA OFFICINALIS FLOWERING TOP SODIUM ASCORBATE XANTHAN GUM FERRIC OXIDE RED BISABOLOL SODIUM HINOKITIOL FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE CORIANDER OIL KAKADU PLUM CITRUS PARADISI (GRAPEFRUIT) SEED OIL HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL MALTODEXTRIN JOJOBA OIL HIPPOPHAE RHAMNOIDES SEED OIL TOCOPHEROL WATER POLYHYDROXYSTEARIC ACID (2300 MW) ISOSTEARIC ACID CANDELILLA WAX ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Zinc oxide - 25%
+purpose:
+  Sunscreen
+indications_and_usage:
+  kindly refer to label picture
+warnings:
+  For external use only. Do not use on damaged r broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Kindly refer to Label
+inactive_ingredient:
+  See ingredients on label
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Label - New Label
+set_id:
+  385e8966-963d-0814-e063-6394a90a06e3
+id:
+  385e8df1-ec21-60e6-e063-6294a90a19ac
+effective_time:
+  20250624
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Reef safe - Hydrating sunscreen SPF50
+  generic_name:
+    ZINC OXIDE SUNSCREEN
+  manufacturer_name:
+    VEGANIC SKN LIMITED
+  product_ndc:
+    83252-106
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    385e8df1-ec21-60e6-e063-6294a90a19ac
+  spl_set_id:
+    385e8966-963d-0814-e063-6394a90a06e3
+  package_ndc:
+    83252-106-00
+    83252-106-25
+  is_original_packager:
+    True
+  upc:
+    9337907073327
+  unii:
+    SOI2LOH54Z

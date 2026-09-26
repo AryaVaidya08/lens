@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  HISMILE sodium fluoride SODIUM LAUROYL SARCOSINATE SODIUM PHOSPHATE GLYCERIN SORBITOL XYLITOL WATER HYDRATED SILICA METHYL DIISOPROPYL PROPIONAMIDE XANTHAN GUM CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED FORM ZINC LACTATE 1,2-HEXANEDIOL SODIUM FLUORIDE FLUORIDE ION LAURYL GLUCOSIDE SODIUM GLUCONATE POTASSIUM PYROPHOSPHATE SUCRALOSE
+description:
+  Cherry Flavor Sodium Fluoride Anticavity Toothpaste
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.243% (0.14 w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use Aids in the prevention of dental cavities
+warnings:
+  Warnings Warnings When using this product Do not swallow Do not use in eye area Keep out of the reach of children under 6 years of age If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Do not swallow Do not use in eye area
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or use as directed by a dentist or doctor. Instruct children under 6 years of age in good brushing and rinsing habtis (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor.
+inactive_ingredient:
+  Inactive ingredients Water Sorbitol Glycerin Hydrated Silica Xylitol Sodium Phosphate Xanthan Gum Sodium Lauroyl Sarcosinate Tetrapotassium Pyrophosphate 1,2-Hexnediol Cellulose Gum Sucralose Lauryl Glucoside Methyl Diisopropyl Propionamide Sodium Gluconate Zinc Lactate
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  label label
+set_id:
+  1e7b7ac2-1945-1fb5-e063-6294a90a7387
+id:
+  486df87d-5ada-7dc1-e063-6394a90a9688
+effective_time:
+  20260115
+version:
+  3
+openfda:

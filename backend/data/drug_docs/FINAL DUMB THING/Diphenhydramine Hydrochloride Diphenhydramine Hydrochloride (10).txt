@@ -1,0 +1,47 @@
+spl_product_data_elements:
+  Diphenhydramine Hydrochloride Diphenhydramine Hydrochloride FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE GELATIN LACTOSE MONOHYDRATE SODIUM LAURYL SULFATE STARCH, CORN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE D&C RED NO. 28 CPC;835 Half pink and half clear with white powder inside and sealed with red band
+active_ingredient:
+  Drug Facts Active ingredient (in each capsule) Diphenhydramine HCl 25 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses  temporarily relieves these symptoms due to hay fever or other upper respiratory allergies:  runny nose  sneezing  itchy, watery eyes  itching of the nose or throat
+warnings:
+   to make a child sleepy  with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have  a breathing problem such as emphysema or chronic bronchitis  glaucoma  trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product  marked drowsiness may occur  avoid alcoholic drinks  alcohol, sedatives and tranquilizers may increase drowsiness  be careful when driving a motor vehicle or operating machinery  excitability may occur, especially in children If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+   to make a child sleepy  with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have  a breathing problem such as emphysema or chronic bronchitis  glaucoma  trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product  marked drowsiness may occur  avoid alcoholic drinks  alcohol, sedatives and tranquilizers may increase drowsiness  be careful when driving a motor vehicle or operating machinery  excitability may occur, especially in children
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions  take every 4 to 6 hours, or as directed by a doctor  do not take more than 6 doses in 24 hours adults and children 12 years of age and over 1 to 2 capsules children 6 to under 12 years of age 1 capsule children under 6 years of age do not use this product in children under 6 years of age
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>adults and children   12 years of age and over </td><td>1 to 2 capsules</td></tr><tr><td>children 6 to   under 12 years of age </td><td>1 capsule</td></tr><tr><td>children under 6 years of age</td><td>do not use this product   in children under 6 years of age </td></tr></tbody></table>
+other_safety_information:
+  Other information  store in a dry place at 15° – 30°C (59° – 86°F)
+inactive_ingredient:
+  corn starch, D&C red #28, FD&C blue #1, FD&C red #40, gelatin, lactose monohydrate, magnesium stearate, sodium lauryl sulfate
+questions:
+  Questions or comments? 1-800-616-2471
+spl_unclassified_section:
+  Distributed by: MAJOR® PHARMACEUTICALS, Indianapolis, IN 46268 Product of China. Manufactured and packaged in the USA using domestic and imported ingredients. *This product is not manufactured or distributed by Johnson & Johnson Corporation, owner of the registered trademark Benadryl®. To preserve quality and freshness, keep bottle tightly closed. KEEP OUT OF REACH OF CHILDREN. DO NOT USE IF PRODUCT APPEARS TO BE TAMPERED WITH OR IMPRINTED SEAL UNDER CAP IS BROKEN OR MISSING. DO NOT USE IF RED CAPSULE BAND IS BROKEN OR MISSING.
+package_label_principal_display_panel:
+  pdp
+set_id:
+  f3824e93-c4ff-0c9a-e053-2995a90a2fdf
+id:
+  339d4cb3-73a1-7a14-e063-6394a90a6953
+effective_time:
+  20250425
+version:
+  5
+openfda:

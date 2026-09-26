@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Moringa Oil Moringa Oil MORINGA OLEIFERA SEED OIL MORINGA OLEIFERA SEED OIL
+active_ingredient:
+  ACTIVE INGREDIENT Moringa Oleifera Seed Oil
+purpose:
+  PURPOSE Promotes hair growth, locks in skin moisture, and relieves dryness.
+indications_and_usage:
+  INDICATIONS Dry and flaky skin as well as hair loss.
+warnings:
+  Warnings For external use only.
+stop_use:
+  Do not use on damaged or broken skin.
+  Stop use and ask a doctor if rash occurs.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medicalhelp or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for use Use 1-2 times daily, adjust amount as needed
+inactive_ingredient:
+  INACTIVE INGREDIENT none
+storage_and_handling:
+  Other Information Store in a cool, dry place, avoid direct sunlight.
+package_label_principal_display_panel:
+  label
+set_id:
+  1cf3f25a-cc3b-85af-e063-6294a90ae2e6
+id:
+  365701de-9d86-a722-e063-6394a90ad934
+effective_time:
+  20250530
+version:
+  2
+openfda:

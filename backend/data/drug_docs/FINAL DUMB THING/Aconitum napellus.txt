@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Aconitum napellus Aconitum napellus ACONITUM NAPELLUS ACONITUM NAPELLUS SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Single label image contains content for sections 1-14. Aconite 6C 100g
+set_id:
+  9a020fba-31b0-3b89-e053-2a95a90a9be6
+id:
+  2b49cecc-643e-8870-e063-6294a90a61b9
+effective_time:
+  20250109
+version:
+  13
+openfda:
+  brand_name:
+    Aconitum napellus
+  generic_name:
+    ACONITUM NAPELLUS
+  manufacturer_name:
+    Hahnemann Laboratories, Inc.
+  product_ndc:
+    63545-144
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACONITUM NAPELLUS
+  spl_id:
+    2b49cecc-643e-8870-e063-6294a90a61b9
+  spl_set_id:
+    9a020fba-31b0-3b89-e053-2a95a90a9be6
+  package_ndc:
+    63545-144-03
+  is_original_packager:
+    True
+  unii:
+    U0NQ8555JD

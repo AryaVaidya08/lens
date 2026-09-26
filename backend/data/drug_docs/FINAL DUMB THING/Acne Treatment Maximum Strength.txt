@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Acne Treatment Maximum Strength Salicylic Acid ALOE VERA LEAF CETOSTEARYL ALCOHOL CETEARYL OLIVATE CETYL ALCOHOL MATRICARIA CHAMOMILLA CITRIC ACID MONOHYDRATE COCO-CAPRYLATE COCO-CAPRYLATE/CAPRATE COCONUT ALKANES .ALPHA.-TOCOPHEROL ACETATE, D- GLYCERIN SUNFLOWER OIL LACTOBACILLUS REUTERI STARCH, POTATO WILLOW BARK SODIUM HYDROXIDE HEXASODIUM PHYTATE SORBITAN OLIVATE WATER XANTHAN GUM MANUKA OIL LAVENDER OIL FRANKINCENSE OIL ROSEMARY OIL TEA TREE OIL GERANIUM OIL, ALGERIAN TYPE SALICYLIC ACID SALICYLIC ACID
+active_ingredient:
+  Active Ingredients Salicylic Acid 2% Purpose Acne Treatmen
+purpose:
+  Purpose Acne Treatmen
+indications_and_usage:
+  Uses For the treatment of acne Clears acne blemishes, acne pimples, and blackheads and allows skin to heal Penetrates pores to reduce the number of acne blemishes Helps prevent the developent of new acne blemishes, pimples and blackheads.
+warnings:
+  Warnings For external use only When using this Product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time If irritation occurs, use only one topical acne medication at a time Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+when_using:
+  When using this Product Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time If irritation occurs, use only one topical acne medication at a time
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions Clean the skin thuroughly before applying this product Cover the entire affected area with a thin layer 1 to 3 times daily Because excessive drying of the skin may occur, start with 1 application daily, then gradually increase to 2 to 3 times daily if needed or as directed by a doctor. If bothersome dryness of peeling occurs, reduce application to 1 time a day or every other day.
+other_safety_information:
+  Other Information Store at room temperature (68° to 77°F)
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Cetostearyl alcohol, Lactobacillus reuteri, Cetyl alcohol, Coco-caprylate, Coconut alkanes, Cetearyl olicate, Aloe vera leaf, Starch-potato, Sorbitan olivate, Citric acid Monohydrate, Sodium hydroxide, Xanthan gum, coco-caprylate/caprate, .Alpha.-tocopheryl acetate, Sunflower oil, Phylate sodium, Manuka oil, Frankincense oil, Rosemary oil, Tea tree Oil, Geranium oil, Lavender oil, Chamomile, Salix alba bark, Tocopherol
+package_label_principal_display_panel:
+  Acne Treatmentctn
+set_id:
+  756a52ff-161d-4b6e-933b-49bce885d998
+id:
+  2874c1bf-3097-2155-e063-6394a90acb1e
+effective_time:
+  20241204
+version:
+  7
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Acne Treatment Maximum Strength
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Young Living Essential Oils, LC
+  product_ndc:
+    70631-358
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    346298
+  spl_id:
+    2874c1bf-3097-2155-e063-6394a90acb1e
+  spl_set_id:
+    756a52ff-161d-4b6e-933b-49bce885d998
+  package_ndc:
+    70631-358-01
+    70631-358-02
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

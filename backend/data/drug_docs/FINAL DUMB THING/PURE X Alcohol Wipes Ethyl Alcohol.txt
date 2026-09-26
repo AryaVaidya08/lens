@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  PURE X Alcohol Wipes Ethyl Alcohol ALCOHOL ALCOHOL WATER ALOE VERA LEAF
+spl_unclassified_section:
+  Drug Facts
+  KILLS GERMS AND BACTERIA ETHYL ALCOHOL 75% Convenient and Easy Cleaning Simple Application, Dries Quickly DAILY CLEANING DEIONIZED WATER EXQUISITE NON WOVEN FABRIC DISTRIBUTED BY: Mansoc Corporation 91-16 25th Avenue East Elmhurst, NY 11369 Keep out of reach of Children Made in China Sanitize your hands every time!
+active_ingredient:
+  Active ingredients Ethyl Alcohol 75%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Indication and usage For hand washing in order to sanitize skin (hands must air dry)
+warnings:
+  Warnings For external use only. Keep out of reach of eyes. If contact occurs, rinse thoroughly with water. Do not use if you are allergic to any of the ingredients. Discontinue use if irritation or redness develops, and if condition persists for more than 72 hours consult a physician. Keep out of reach of children unless under adult supervision. If swallowed, get medical help.
+keep_out_of_reach_of_children:
+  Keep out of reach of children unless under adult supervision. If swallowed, get medical help.
+dosage_and_administration:
+  Directions of use Wet hands thoroughly with product and allow to dry without rinse. Children under six years of age should be supervised when using this product.
+storage_and_handling:
+  Other Information Store in a dry place away from fire.
+inactive_ingredient:
+  Inactive Ingredients Purified (RO) Water, Aloe Vera Extract
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  f2c9bc95-a182-4b9a-a739-cba10c7e6949
+id:
+  8d6a863f-6e56-4733-a825-62ef8d9b95ec
+effective_time:
+  20210212
+version:
+  1
+openfda:

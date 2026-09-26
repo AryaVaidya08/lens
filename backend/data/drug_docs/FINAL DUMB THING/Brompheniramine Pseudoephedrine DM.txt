@@ -1,0 +1,52 @@
+effective_time:
+  20150113
+purpose:
+  Active ingredients (in each 5 mL teaspoonful) Purpose Brompheniramine Maleate 4 mg Antihistamine Dextromethorphan HBr 20 mg Cough Suppressant Pseudoephedrine HCl 20 mg Decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately. 1-800-222-1222
+when_using:
+  When using this product excitability may occur, especially in children may cause drowsiness sedatives and tranquilizers may increase drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery
+questions:
+  Question? Comments? Call 1-877-622-6836
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other Information Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes cough due to minor throat and bronchial irritation nasal congestion reduces swelling of nasal passages
+set_id:
+  3c04992f-1746-469b-b37e-ebc1ad1bcd3f
+id:
+  6aff77ab-20e4-4931-b2ac-3baeae095f5f
+active_ingredient:
+  Active ingredients (in each 5 mL teaspoonful) Purpose Brompheniramine Maleate 4 mg Antihistamine Dextromethorphan HBr 20 mg Cough Suppressant Pseudoephedrine HCl 20 mg Decongestant
+dosage_and_administration_table:
+  <table width="65%"> <col width="40%" align="left" valign="top"/> <col width="60%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">Adults and children 12 years of age and over:</td> <td>1 teaspoonful (5 mL) every 4 to 6 hours, not to exceed 6 teaspoonfuls in 24 hours, or as directed by a doctor</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">Children 6 to under 12 years of age:</td> <td>1/2 teaspoonful (2.5 mL) every 4 to 6 hours, not to exceed 3 teaspoonfuls in 24 hours, or as directed by a doctor</td> </tr> <tr> <td styleCode="Rrule">Children under 6 years of age:</td> <td>Consult a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Citric Acid, Cotton Candy Flavor, Methyl Paraben, Potassium Citrate, Potassium Sorbate, Propyl Paraben, Propylene Glycol, Purified Water, Sorbitol Solution 70%, Sucralose
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma a persistent or chronic cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes mellitus difficulty in urination due to enlargement of the prostate gland Do not take this product if you are taking sedatives or tranquilizers, without first consulting your doctor. When using this product excitability may occur, especially in children may cause drowsiness sedatives and tranquilizers may increase drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately. 1-800-222-1222
+spl_product_data_elements:
+  Brompheniramine Pseudoephedrine DM BROMPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, and PSEUDOEPHEDRINE HYDROCHLORIDE BROMPHENIRAMINE MALEATE BROMPHENIRAMINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE CITRIC ACID MONOHYDRATE METHYLPARABEN POTASSIUM CITRATE POTASSIUM SORBATE PROPYLPARABEN PROPYLENE GLYCOL WATER SORBITOL SUCRALOSE
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis glaucoma a persistent or chronic cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes mellitus difficulty in urination due to enlargement of the prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. Adults and children 12 years of age and over: 1 teaspoonful (5 mL) every 4 to 6 hours, not to exceed 6 teaspoonfuls in 24 hours, or as directed by a doctor Children 6 to under 12 years of age: 1/2 teaspoonful (2.5 mL) every 4 to 6 hours, not to exceed 3 teaspoonfuls in 24 hours, or as directed by a doctor Children under 6 years of age: Consult a doctor
+package_label_principal_display_panel_table:
+  <table width="40%"> <col width="80%" align="left" valign="top"/> <col width="20%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td>Each teaspoonful (5 mL) for oral administration contains:</td> <td/> </tr> <tr> <td>Brompheniramine Maleate</td> <td>4 mg</td> </tr> <tr> <td>Dextromethorphan HBr</td> <td>20 mg</td> </tr> <tr styleCode="Botrule"> <td>Pseudoephedrine HCl</td> <td>20 mg</td> </tr> </tbody> </table>
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur
+do_not_use:
+  Do not use this product if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product
+  Do not take this product if you are taking sedatives or tranquilizers, without first consulting your doctor.
+active_ingredient_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients (in each 5 mL teaspoonful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Brompheniramine Maleate 4 mg</td> <td>Antihistamine</td> </tr> <tr> <td>Dextromethorphan HBr 20 mg</td> <td>Cough Suppressant</td> </tr> <tr styleCode="Botrule"> <td>Pseudoephedrine HCl 20 mg</td> <td>Decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label NDC 44183-311-16 BROMPHENIRAMINE/ PSEUDOEPHEDRINE DM LIQUID Antihistamine ■ Cough Suppressant ■ Decongestant Sugar Free ■ Alcohol Free ■ Dye Free ■ Gluten Free Each teaspoonful (5 mL) for oral administration contains: Brompheniramine Maleate 4 mg Dextromethorphan HBr 20 mg Pseudoephedrine HCl 20 mg Cotton Candy Flavor This bottle is not to be dispensed to consumer. Tamper evident by foil seal under cap. Do not use if foil seal is broken or missing. Dispense in a tight container with a child-resistant cap. Manufactured for: MACOVEN PHARMACEUTICALS Magnolia, TX 77354 16 fl. oz. (473 mL) Principal Display Panel - 473 mL Bottle Label
+purpose_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients (in each 5 mL teaspoonful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Brompheniramine Maleate 4 mg</td> <td>Antihistamine</td> </tr> <tr> <td>Dextromethorphan HBr 20 mg</td> <td>Cough Suppressant</td> </tr> <tr styleCode="Botrule"> <td>Pseudoephedrine HCl 20 mg</td> <td>Decongestant</td> </tr> </tbody> </table>

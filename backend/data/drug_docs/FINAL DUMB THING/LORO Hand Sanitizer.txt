@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  LORO Hand Sanitizer ETHYL ALCOHOL 70% CARBOMER INTERPOLYMER TYPE A (55000 CPS) GLYCERIN WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ALCOHOL ALCOHOL GINGER OIL
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with World Health Organization (WHO) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (70%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Isopropyl Alcohol (0.2% v/v). Glycerol (0.25% v/v). Acrylite Crosspolymer (0.5% v/v). Ginger Oil (0.25% v/v)/ Water (29% v/v). The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 70% v/v, Isopropyl Alcohol 0.5% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use Children under 6 years of age should be supervised when using LORO
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product in your palm to cover hands and rub hands together briskly until dry. Children under 6 years of age should be supervised when using LORO.
+storage_and_handling:
+  Other information Store below 110 Degree F (43 Degree C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Acrylite Crosspolymer, Glycerin, Ginger Oil.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 888 mL NDC: 78185-012-01 888mL
+set_id:
+  ae3687a4-2d46-46ac-e053-2995a90a32ee
+id:
+  ae3687a4-2d47-46ac-e053-2995a90a32ee
+effective_time:
+  20200330
+version:
+  14
+openfda:

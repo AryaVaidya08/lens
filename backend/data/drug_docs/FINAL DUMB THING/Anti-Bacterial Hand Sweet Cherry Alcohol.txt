@@ -1,0 +1,35 @@
+effective_time:
+  20141113
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua, Eau), Isopropyl Alcohol, Fragrance (Parfum), Honey Extract (Mel, Extrait de miel), Elaeis Guineensis (Palm) Extract, Cocos Nucifera (Coconut) Fruit Extract, Olea Europaea (Olive) Fruit Extract, Tocopheryl Acetate, Retinyl Palmitate, Wheat Amino Acids, Glycerin, Carbomer, Propylene Glycol, Lactose, Aminomethyl Propanol, Isopropyl Myristate, Cellulose, Hydroxyethyl Urea, Hydroxypropyl Methylcellulose, Ultramarines (CI 77007), Red 40 (CI 16035), Red 33 (CI 17200), Ext. Violet 2 (CI 60730).
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only.
+when_using:
+  WHEN USING THIS PRODUCT keep out of eyes.
+spl_product_data_elements:
+  Anti-Bacterial Hand Sweet Cherry Alcohol ALCOHOL ALCOHOL WATER
+warnings_and_cautions:
+  FLAMMABLE Keep away from flame or high heat.
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS Rub a dime sized drop into hands.
+stop_use:
+  STOP USE AND ASK A DOCTOR if irritation or redness develops.
+spl_unclassified_section:
+  COMPANY INFORMATION Bath & Body Works, Distr. Reynoldsburg, Ohio 43068 1-800-395-1001 www.bathandbodyworks.com
+package_label_principal_display_panel:
+  PRODUCT PACKAGING MM1
+indications_and_usage:
+  USE Decreases bacteria on hands.
+set_id:
+  18c768fd-7f09-4586-8d38-4695f4a8a448
+id:
+  17923b4b-fa6c-498c-a26c-7ba90bcddab2
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 68%

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  FLE Disinfectant Thymol HEXANEDIOL TRIETHYLENE GLYCOL PROPYLENE GLYCOL THYMOL THYMOL PHENOXYETHANOL WATER WHITE PINE OIL GLYCERIN
+active_ingredient:
+  Thymol 0.3%
+purpose:
+  Antifungal
+warnings:
+  For External use only. Do not use if you are allergic to any of the ingredients.
+indications_and_usage:
+  For sanitizing to decrease bacteria.
+other_safety_information:
+  Properly store in cool, dry area: avoid direct sunlight. Store up to 5 years in a sealed container.
+inactive_ingredient:
+  2-Phenoxyethanol, Water, Glycerol, 1,2-Propylene glycol, Triethylene glycol, 1.2-Hexanediol, Pine oil
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops and condition exacerbated.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If accidently swallowed get medical help or contact a Poison Control Center right away.
+when_using:
+  Do not mix with other chemical. Do not spray in the direction of the flame. Keep the space empty and keep food out of the fogging area.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+instructions_for_use:
+  Spray adequate to the target area and allow the particles to drop and attach on the surface.
+dosage_and_administration:
+  Spray adequate to the target area and allow the particles to drop and attach on the surface.
+package_label_principal_display_panel:
+  Principle Display Panel and Drug Facts
+set_id:
+  e34154d2-20e1-2ff1-e053-2a95a90aec6f
+id:
+  ffa03f94-f3b7-fa54-e053-6294a90a5862
+effective_time:
+  20230703
+version:
+  3
+openfda:

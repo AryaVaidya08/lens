@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Origanum majorana ORIGANUM MAJORANA SUCROSE LACTOSE ORIGANUM MAJORANA ORIGANUM MAJORANA white
+active_ingredient:
+  ACTIVE INGREDIENTS ORIGANUM
+purpose:
+  USES To relieve the symptoms of impulsiveness.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep this and all medicines out of reach of children.
+indications_and_usage:
+  INDICATIONS Indications: ORIGANUM Impulsiveness
+warnings:
+  STOP USE AND ASK DOCTOR If symptoms persist/worsen or if pregnant/nursing, stop use and consult your practitioner.
+dosage_and_administration:
+  DIRECTIONS Adults: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides. Children: Dissolve 3 to 5 under the tongue three times a day or as directed by Lic. Practitioner. Take at greater intervals as condition subsides.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Sucrose/Lactose
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL The OTC potency range of ORIGANUM is 2x–30x, 1c–30c, 200c, 1m, 10m, 50m, and CM. Availability is subject to change. All WHP single remedies are made to order; thus, the labels are printed on the same label stock as the orders are filled. ‘Bottle Size’ and ‘Potency’ vary on the label depending on customer choice. Standard bottle sizes for pellet-form remedies are 2 dram, 4 dram, 1 ounce, 2 ounce, and 4 ounce. Label
+set_id:
+  17532d52-7a0c-415b-ad80-b0584f8e23f5
+id:
+  db8939af-44ea-1308-e053-2a95a90ab4e4
+effective_time:
+  20220331
+version:
+  4
+openfda:

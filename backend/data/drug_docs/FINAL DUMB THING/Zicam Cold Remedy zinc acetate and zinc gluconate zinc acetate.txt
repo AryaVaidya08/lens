@@ -1,0 +1,39 @@
+effective_time:
+  20171019
+inactive_ingredient:
+  Inactive ingredients coconut oil, corn syrup, corn syrup solids, FD&C red No. 40, glycerin, natural and artificial flavors, purified water, soy lecithin, sucralose, sucrose, sugar
+purpose:
+  Active ingredients Purpose Zincum Aceticum 2x Reduces duration and severity Zincum Gluconicum 2x of a cold
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Stop use and ask a doctor if symptoms persist or are accompanied by fever. Zicam® Cold Remedy was formulated to shorten the duration of a cold and is not known to be effective for flu or allergies. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+questions:
+  Questions? Comments? Side Effects? call 877-942-2626 toll free or visit us on the web at www.zicam.com
+spl_product_data_elements:
+  Zicam Cold Remedy zinc acetate and zinc gluconate zinc acetate ZINC CATION zinc gluconate ZINC CATION coconut oil corn syrup FD&C red No. 40 glycerin water lecithin, soybean sucralose sucrose
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions For best results, use at the first sign of a cold and continue to use for an additional 48 hours after symptoms subside. Adults and children 12 years of age and older: Take 1 chewable square at the onset of symptoms. Chew thoroughly before swallowing. Repeat every 3 hours until symptoms are gone. To avoid minor stomach upset, do not take on an empty stomach. Do not eat or drink for 15 minutes after use. Do not eat or drink citrus fruits or juices for 30 minutes before or after use. Otherwise, drink plenty of fluids. This product is not recommended for children under 12 years of age due to the hazard of choking.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if symptoms persist or are accompanied by fever. Zicam® Cold Remedy was formulated to shorten the duration of a cold and is not known to be effective for flu or allergies.
+active_ingredient_table:
+  <table width="70%"> <col width="45%" align="left" valign="top"/> <col width="55%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Zincum Aceticum 2x</td> <td>Reduces duration and severity</td> </tr> <tr styleCode="Botrule"> <td>Zincum Gluconicum 2x</td> <td>of a cold</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 25 Chewable Carton NDC 62750-025-10 ZICAM ® Cold Remedy Get over your cold faster ® Reduces the duration of a cold Chewables strawberry flavor 25 Chewables Homeopathic Principal Display Panel - 25 Chewable Carton
+indications_and_usage:
+  Uses reduces duration of a cold reduces severity of cold symptoms: sore throat stuffy nose sneezing coughing congestion
+set_id:
+  0afae05f-88ce-4eb2-bcb6-adf19dc20ced
+id:
+  0e6a5aca-9b55-401b-826d-69045cc004fe
+purpose_table:
+  <table width="70%"> <col width="45%" align="left" valign="top"/> <col width="55%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Zincum Aceticum 2x</td> <td>Reduces duration and severity</td> </tr> <tr styleCode="Botrule"> <td>Zincum Gluconicum 2x</td> <td>of a cold</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients Purpose Zincum Aceticum 2x Reduces duration and severity Zincum Gluconicum 2x of a cold

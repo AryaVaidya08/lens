@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  Refresh Digital PF Carboxymethylcellulose sodium, Glycerin and Polysorbate 80 CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE GLYCERIN GLYCERIN POLYSORBATE 80 POLYSORBATE 80 BORIC ACID CARBOMER COPOLYMER TYPE A CASTOR OIL ERYTHRITOL LEVOCARNITINE WATER SODIUM HYDROXIDE
+active_ingredient:
+  Active ingredient s Carboxymethylcellulose sodium 0.5% Glycerin 1% Polysorbate 80 0.5%
+purpose:
+  Purpose Eye lubricant Eye lubricant Eye lubricant
+indications_and_usage:
+  Uses For the temporary relief of burning, irritation, and discomfort due to dryness of the eye or exposure to wind or sun. May be used as a protectant against further irritation.
+warnings:
+  Warnings For external use only. To avoid contamination, do not touch tip of container to any surface. Do not reuse. Once opened, discard. Do not touch unit-dose tip to eye. If solution changes color, do not use. Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if you experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions To open, TWIST AND PULL TAB TO REMOVE. Instill 1 or 2 drops in the affected eye(s) as needed and discard container.
+other_safety_information:
+  Other information Use only if single-use container is intact. Use before expiration date marked on container. Store at 59°-77°F (15°-25°C). RETAIN THIS CARTON FOR FUTURE REFERENCE.
+inactive_ingredient:
+  Inactive ingredients Boric acid; carbomer copolymer type A; castor oil; erythritol; levocarnitine; purified water; and sodium hydroxide (to adjust pH).
+questions:
+  Questions or comments? 1.800. 678.1605 refreshbrand.com v1.0DFL6954 Phone
+package_label_principal_display_panel:
+  Principal Display Panel NDC 0023-6954-30 Refresh ® DIGITAL PF Lubricant Eye Drops For Eye Dryness with HydroCell ™ Fast-acting Relief That Soothes Your Eyes 30 Vials (0.01 fl oz (0.4 mL) each Sterile Principal Display Panel NDC 0023-6954-30 Refresh® DIGITAL PF Lubricant Eye Drops For Eye Dryness with HydroCell™ Fast-acting Relief That Soothes Your Eyes 30 Vials (0.01 fl oz (0.4 mL) each Sterile
+set_id:
+  97e83e68-6374-4df4-93f6-d707fc32748d
+id:
+  0702ebf0-06fb-44a1-ba8b-21c00c4a288d
+effective_time:
+  20221128
+version:
+  3
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Refresh Digital PF
+  generic_name:
+    CARBOXYMETHYLCELLULOSE SODIUM, GLYCERIN AND POLYSORBATE 80
+  manufacturer_name:
+    Allergan, Inc.
+  product_ndc:
+    0023-6954
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    CARBOXYMETHYLCELLULOSE SODIUM
+    GLYCERIN
+    POLYSORBATE 80
+  rxcui:
+    1241471
+  spl_id:
+    0702ebf0-06fb-44a1-ba8b-21c00c4a288d
+  spl_set_id:
+    97e83e68-6374-4df4-93f6-d707fc32748d
+  package_ndc:
+    0023-6954-30
+    0023-6954-05
+  is_original_packager:
+    True
+  nui:
+    N0000185370
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0009417
+  pharm_class_epc:
+    Non-Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Glycerol [CS]
+  unii:
+    K679OBS311
+    PDC6A3C0OX
+    6OZP39ZG8H

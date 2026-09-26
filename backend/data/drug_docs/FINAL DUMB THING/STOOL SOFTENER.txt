@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  STOOL SOFTENER DOCUSATE SODIUM ANHYDROUS CITRIC ACID FD&C RED NO. 40 FD&C YELLOW NO. 6 GELATIN GLYCERIN POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SORBITOL SORBITAN DOCUSATE SODIUM DOCUSATE clear oval PC1
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each softgel) Docusate sodium 100 mg
+purpose:
+  Purpose Stool softener laxative
+indications_and_usage:
+  Uses for relief of occasional constipation (irregularity) this product generally produces a bowel movement in 12 to 72 hours
+warnings:
+  Warnings Ask a doctor before use if you have stomach pain, nausea, or vomiting a sudden change in bowel habits that lasts over 14 days Ask a doctor or pharmacist before use if you are presently taking mineral oil Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have stomach pain, nausea, or vomiting a sudden change in bowel habits that lasts over 14 days
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking mineral oil
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or no bowel movement after using this product. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take softgels with a full glass (8oz) of water adults and children 12 years and older take 1 to 3 softgels daily or as directed by a doctor. This dose may be taken as a single daily dose or in divided doses. children 6 to under 12 years take 1 softgel daily or as directed by a doctor children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"><paragraph>adults and children 12 years and older</paragraph></td><td valign="top"><paragraph> take 1 to 3 softgels daily or as directed by a doctor. This dose may be taken as a single daily dose or in divided doses.</paragraph></td></tr><tr><td valign="top"><paragraph>children 6 to under 12 years </paragraph></td><td valign="top"><paragraph> take 1 softgel daily or as directed by a doctor</paragraph></td></tr><tr><td valign="top"><paragraph>children under 6 years </paragraph></td><td valign="top"><paragraph> ask a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information each softgel contains: sodium 5 mg store at room temperature 15°-30°C (59°-86°F) protect from excessive humidity
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, FD&C red # 40, FD&C yellow #6, gelatin, glycerin, polyethylene glycol, propylene glycol, purified water, sorbitol sorbitan solution and white edible ink
+questions:
+  Questions or comments? Call toll free: 1-855-215-8180
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - Carton Stool Softener DOCUSATE SODIUM 100 mg 30 SOFTGELS Compare to Phillips' Stool Softener Liquid Gels active ingredient NDC 0363-9944-20 Carton label front Carton label back
+  PRINCIPAL DISPLAY PANEL - Bottle Stool Softener DOCUSATE SODIUM 100 mg 30 SOFTGELS Compare to Phillips' Stool Softener Liquid Gels active ingredient NDC 0363-9944-20 Bottle label front Bottle label back
+set_id:
+  d8d97ca5-5131-4620-8ce9-bc3f9d5c0ab5
+id:
+  27784b77-2a11-92bf-e063-6394a90a4617
+effective_time:
+  20241121
+version:
+  4
+openfda:
+  application_number:
+    M007
+  brand_name:
+    STOOL SOFTENER
+  generic_name:
+    DOCUSATE SODIUM
+  manufacturer_name:
+    Walgreen Co.
+  product_ndc:
+    0363-9944
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DOCUSATE SODIUM
+  rxcui:
+    1115005
+  spl_id:
+    27784b77-2a11-92bf-e063-6394a90a4617
+  spl_set_id:
+    d8d97ca5-5131-4620-8ce9-bc3f9d5c0ab5
+  package_ndc:
+    0363-9944-20
+  is_original_packager:
+    True
+  unii:
+    F05Q2T2JA0

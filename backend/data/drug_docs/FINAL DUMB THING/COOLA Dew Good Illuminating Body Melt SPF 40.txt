@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  COOLA Dew Good Illuminating Body Melt SPF 40 Avobenzone, Octisalate, Octocrylene AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE ALOE VERA LEAF SAFFLOWER WATER MEDIUM-CHAIN TRIGLYCERIDES COCONUT OIL ETHYLHEXYL METHOXYCRYLENE METHYL DIHYDROABIETATE MICA GLYCERIN GLYCERYL MONOSTEARATE STEARYL/OCTYLDODECYL CITRATE CROSSPOLYMER AMMONIUM ACRYLOYLDIMETHYLTAURATE, DIMETHYLACRYLAMIDE, LAURYL METHACRYLATE AND LAURETH-4 METHACRYLATE COPOLYMER, TRIMETHYLOLPROPANE TRIACRYLATE CROSSLINKED (45000 MPA.S) SHEA BUTTER LIMOSILACTOBACILLUS FERMENTUM HYALURONATE SODIUM AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER ETHYL FERULATE CAPRYLYL GLYCOL 1,2-HEXANEDIOL TITANIUM DIOXIDE STEARIC ACID SODIUM STEAROYL GLUTAMATE PHYTATE SODIUM DIMETHICONE XANTHAN GUM MALTODEXTRIN SODIUM HYDROXIDE DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER (SOFT PARTICLE) BUTYLENE GLYCOL TROPOLONE DECYL GLUCOSIDE
+active_ingredient:
+  Avobenzone – 3.0% Octisalate – 4.0% Octocrylene – 8.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses • Helps prevent sunburn • If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask doctor if skin rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • Apply liberally 15 minutes before sun exposure • Reapply: • After 40 minutes of swimming or sweating. • Immediately after towel drying. • Apply at least every 2 hours. • Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun, especially from 10 a.m. to 2 p.m. • Wear long-sleeved shirts, pants, hats, and sunglasses. • Children under 6 months: Ask a doctor.
+other_safety_information:
+  Other information • Protect this product from excesssive heat and direct sun • May stain fabrics
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice (ORGANIC), Carthamus Tinctorius (Safflower), Oleosomes (ORGANIC), Water, Caprylic/Capric Triglyceride (ORGANIC), Cocos Nucifera (Coconut) Oil (ORGANIC), Ethylhexyl Methoxycrylene, Methyl Dihydroabietate, Mica, Glycerin (ORGANIC), Glyceryl Stearate, Stearyl/Octyldodecyl Citrate Crosspolymer, Polyacrylate Crosspolymer-6, Butyrospermum Parkii (Shea) Butter (ORGANIC), Lactobacillus Ferment, Sodium Hyaluronate, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethyl Ferulate, Caprylyl Glycol, 1,2-Hexanediol, Titanium Dioxide, Stearic Acid, Sodium Stearoyl Glutamate, Dimethicone, Sodium Phytate, Xanthan Gum, Maltodextrin, Sodium Hydroxide, Polysilicone-11, Butylene Glycol, Tropolone, Decyl Glucoside, Fragrance (Natural)
+questions:
+  Questions or Comments? Call 760-940-2125
+package_label_principal_display_panel:
+  Dew Good Illuminating Body Melt Sunscreen Lotion Broad Spectrum SPF 40 3.4 FL. OZ. / 100 mL 2024 COOLA. Manufactured in the USA for COOLA LLC, located in sunny San Diego, CA 92009 www.coola.com 100 mL Bottle 7 mL Tube res Dew Good 082 Dew Good Tube 7mL
+set_id:
+  43d293f6-e13c-4ee9-89df-2a3ef0034e31
+id:
+  569a1ea5-3c67-4296-92c7-af9621c809b0
+effective_time:
+  20240916
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    COOLA Dew Good Illuminating Body Melt SPF 40
+  generic_name:
+    AVOBENZONE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    COOLA LLC
+  product_ndc:
+    79753-082
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    569a1ea5-3c67-4296-92c7-af9621c809b0
+  spl_set_id:
+    43d293f6-e13c-4ee9-89df-2a3ef0034e31
+  package_ndc:
+    79753-082-01
+    79753-082-02
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4X49Y0596W
+    5A68WGF6WM

@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Laura Mercier Flawless Skin Repair Day Creme Broad Spectrum SPF 15 Sunscreen Avobenzone, Octinoxate, and Oxybenzone WATER SODIUM CHLORIDE GLYCERIN POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) TREHALOSE DIMETHICONE SQUALANE BUTYLENE GLYCOL DICAPRYLYL CARBONATE YELLOW WAX GRAPE SEED OIL ARGAN OIL GREEN TEA LEAF PHENOXYETHANOL POLYACRYLAMIDE (1500 MW) C13-14 ISOPARAFFIN .ALPHA.-TOCOPHEROL ACETATE EDETATE DISODIUM POTASSIUM HYDROXIDE CYDONIA OBLONGA SEED LAURETH-7 CARBOXYPOLYMETHYLENE ARGININE SODIUM POLYACRYLATE (2500000 MW) ALUMINUM HYDROXIDE ETHYL OLEATE GLYCYRRHIZINATE DIPOTASSIUM ZINC OXIDE TOCOPHEROL YEAST, UNSPECIFIED SODIUM ASCORBYL PHOSPHATE HYDROGEN DIMETHICONE (13 CST) ACETYL HEXAPEPTIDE-8 LINALOOL, (+/-)- AVOBENZONE AVOBENZONE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Avobenzone (0.80%) Sunscreen Octinoxate (3.50%) Sunscreen Oxybenzone (0.50%) Sunscreen
+active_ingredient_table:
+  <table width="60%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone (0.80%)</td><td>Sunscreen</td></tr><tr><td>Octinoxate (3.50%) </td><td>Sunscreen</td></tr><tr><td>Oxybenzone (0.50%)</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Avobenzone (0.80%) Sunscreen Octinoxate (3.50%) Sunscreen Oxybenzone (0.50%) Sunscreen
+purpose_table:
+  <table width="60%"><col width="75%" align="left" valign="top"/><col width="25%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone (0.80%)</td><td>Sunscreen</td></tr><tr><td>Octinoxate (3.50%) </td><td>Sunscreen</td></tr><tr><td>Oxybenzone (0.50%)</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses Children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive ingredients Water, Sea Water, Glycerin, Polymethylsilsesquioxane, Trehalose, Dimethicone, Squalane, Butylene Glycol, Polyglyceryl-10 Isostearate, Dicaprylyl Carbonate, Cetearyl Alcohol, Beeswax, Vitis Vinifera (Grape) Seed Oil, Hydrolyzed Xylan, Argania Spinosa Kernel Oil, Camellia Sinensis Leaf Powder, Phenoxyethanol, Polyacrylamide, Carbomer, C13-14 Isoparaffin, Tocopheryl Acetate, PVM/MA Decadiene Crosspolymer, Disodium EDTA, Potassium Hydroxide, Pyrus Cydonia Seed Extract, Laureth-7, Glycosphingolipids, Glycerylamidoethyl Methacrylate/Stearyl Methacrylate Copolymer, Sodium Polyacrylate, Synthetic Fluorphlogopite, Aluminum Hydroxide, Hydrolyzed Collagen, Ethyl Oleate, Dipotassium Glycyrrhizate, Caprylic/Capric Triglyceride, Zinc Oxide, Tocopherol, Yeast Extract, Yeast Beta-Glucan, Sodium Ascorbyl Phosphate, Hydrogen Dimethicone, Oligopeptide-6, Tripeptide-3, Hexapeptide-3, Linalool.
+questions:
+  Questions or comments? Call 1-888-637-2437 , M – F 9am – 5pm CST.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 g Tube Carton laura mercier flawless skin REPAIR DAY CRÈME BROAD SPECTRUM SPF 15 SUNSCREEN 50 g / NET WT. 1.7 OZ. Principal Display Panel - 50 g Tube Carton
+set_id:
+  e931d389-6b3d-5a7d-e053-2a95a90a7aa3
+id:
+  06e8d217-ed11-bfba-e063-6394a90a4eb6
+effective_time:
+  20231004
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Laura Mercier Flawless Skin Repair Day Creme Broad Spectrum SPF 15 Sunscreen
+  generic_name:
+    AVOBENZONE, OCTINOXATE, AND OXYBENZONE
+  manufacturer_name:
+    Laura Mercier US Buyer LLC
+  product_ndc:
+    82761-056
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTINOXATE
+    OXYBENZONE
+  spl_id:
+    06e8d217-ed11-bfba-e063-6394a90a4eb6
+  spl_set_id:
+    e931d389-6b3d-5a7d-e053-2a95a90a7aa3
+  package_ndc:
+    82761-056-60
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4Y5P7MUD51
+    95OOS7VE0Y

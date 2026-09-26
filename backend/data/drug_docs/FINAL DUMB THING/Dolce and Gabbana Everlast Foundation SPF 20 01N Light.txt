@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Dolce and Gabbana Everlast Foundation SPF 20 01N Light OCTISALATE, OCTOCRYLENE, TITANIUM DIOXIDE, ZINC OXIDE WATER DIMETHICONE CAPRYLYL TRISILOXANE METHYL TRIMETHICONE POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) BUTYLENE GLYCOL PEG-12 DIMETHICONE/PPG-20 CROSSPOLYMER CAPRYLYL DIMETHICONE ETHOXY GLUCOSIDE PHENOXYETHANOL MEDIUM-CHAIN TRIGLYCERIDES GLYCERIN SODIUM CHLORIDE POTASSIUM SORBATE SODIUM DEHYDROACETATE ALUMINUM OXIDE TRIETHOXYCAPRYLYLSILANE SILICON DIOXIDE .ALPHA.-TOCOPHEROL ACETATE AVOCADO POMEGRANATE FRUIT RIND OPUNTIA TUNA FRUIT TOCOPHEROL OCTISALATE ETHYLHEXYL SALICYLATE OCTOCRYLENE OCTOCRYLENE TITANIUM DIOXIDE CI 77891 ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active ingredients Octisalate 3.5% Octocrylene 5% Titanium dioxide 0.5% Zinc Oxide 1.88% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If uses directed with others sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply generously 15 minutes before sun exposure Reapply at least every 2 hours Use a water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.-2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses Children under 6 months of age: ask a doctor SHAKE WELL BEFORE USE
+inactive_ingredient:
+  Inactive ingredients WATER/EAU (AQUA), DIMETHICONE, CAPRYLYL METHICONE, TRIMETHYLSILOXYSILICATE, METHYL TRIMETHICONE, POLYMETHYLSILSESQUIOXANE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, BUTYLENE GLYCOL, PEG-10 DIMETHICONE, PEG-12 DIMETHICONE/PPG-20 CROSSPOLYMER, CAPRYLYL DIMETHICONE ETHOXY GLUCOSIDE, POLYIMIDE-1, CETEARYL DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, POLYPHENYLSILSESQUIOXANE, PHENOXYETHANOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, GLYCERIN, SODIUM CHLORIDE, POTASSIUM SORBATE, SODIUM DEHYDROACETATE, ALUMINA, TRIETHOXYCAPRYLYLSILANE, C20-24 OLEFIN, SILICA, TOCOPHERYL ACETATE, PERSEA GRATISSIMA (AVOCADO) FRUIT EXTRACT, PUNICA GRANATUM PERICARP EXTRACT, LAURYL DIMETHICONE, OPUNTIA TUNA FRUIT EXTRACT, TOCOPHEROL; +/- MAY CONTAIN: TITANIUM DIOXIDE (CI 77891), IRON OXIDES (CI 77491), IRON OXIDES (CI 77492), IRON OXIDES (CI 77499)
+package_label_principal_display_panel:
+  Package Labeling: Label01
+  Package Labeling:Tester Tester01
+set_id:
+  2ccf4e45-4cec-417d-9f4c-28f376025f1d
+id:
+  3ac74d1c-8c61-a3fd-e063-6394a90a1a4d
+effective_time:
+  20250725
+version:
+  4
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Dolce and Gabbana Everlast Foundation SPF 20 01N Light
+  generic_name:
+    OCTISALATE, OCTOCRYLENE, TITANIUM DIOXIDE, ZINC OXIDE
+  manufacturer_name:
+    Dolce & Gabbana Beauty S.R.L
+  product_ndc:
+    84003-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    OCTISALATE
+    OCTOCRYLENE
+    TITANIUM DIOXIDE
+    ZINC OXIDE
+  spl_id:
+    3ac74d1c-8c61-a3fd-e063-6394a90a1a4d
+  spl_set_id:
+    2ccf4e45-4cec-417d-9f4c-28f376025f1d
+  package_ndc:
+    84003-001-00
+    84003-001-01
+  is_original_packager:
+    True
+  upc:
+    8054754401820
+    8054754402223
+  unii:
+    4X49Y0596W
+    5A68WGF6WM
+    15FIX9V2JP
+    SOI2LOH54Z

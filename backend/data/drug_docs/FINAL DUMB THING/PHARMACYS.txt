@@ -1,0 +1,37 @@
+effective_time:
+  20140930
+inactive_ingredient:
+  INACTIVE INGREDIENT water
+purpose:
+  PURPOSE topical antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only. flammable, keep away from fire and flame will produce serious gastric disturbances if ingested Ask a doctor before use if you have deep puncture wounds or serious burns When using this product do not get into eyes or mucous membrane use only in a well-ventilated area Stop use and ask a doctor if condition persists or worsens. Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+when_using:
+  When using this product do not get into eyes or mucous membrane use only in a well-ventilated area Stop use and ask a doctor if condition persists or worsens. Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+spl_product_data_elements:
+  PHARMACYS PRESCRIPTION ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+ask_doctor:
+  Ask a doctor before use if you have deep puncture wounds or serious burns When using this product do not get into eyes or mucous membrane use only in a well-ventilated area Stop use and ask a doctor if condition persists or worsens. Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS apply to skin directly or with clean gauze, cotton or swab for rubbing, apply liberally and rub with hands
+spl_unclassified_section:
+  DRUG FACTS
+stop_use:
+  Stop use and ask a doctor if condition persists or worsens. Keep out of reach of children. In case of an accidental ingestion, contact a Poison Control Center immediately.
+storage_and_handling:
+  Other information does not contain, nor is intended as a substitute for grain or ethyl alcohol keep bottle tightly closed
+package_label_principal_display_panel:
+  label label1 label2
+indications_and_usage:
+  USES decreases germs in minor cuts and scrapes. helps relieve minor muscular aches due to exertion.
+set_id:
+  75770491-6c21-46a2-b05d-c42dd704cd96
+id:
+  2d02971d-7620-4383-af56-d44e0fe3620d
+active_ingredient:
+  ACTIVE INGREDIENT Isopropyl alcohol 70%

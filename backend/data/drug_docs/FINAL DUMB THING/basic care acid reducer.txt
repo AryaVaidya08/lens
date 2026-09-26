@@ -1,0 +1,76 @@
+spl_product_data_elements:
+  basic care acid reducer famotidine FAMOTIDINE FAMOTIDINE CROSCARMELLOSE SODIUM FD&C BLUE NO. 1 HYPROMELLOSE, UNSPECIFIED LACTOSE MONOHYDRATE MAGNESIUM STEARATE MALTODEXTRIN MICROCRYSTALLINE CELLULOSE SUCRALOSE TITANIUM DIOXIDE TRIACETIN SILICON DIOXIDE 32F
+active_ingredient:
+  Active ingredient (in each tablet) Famotidine 20 mg
+purpose:
+  Purpose Acid reducer
+indications_and_usage:
+  Uses • relieves heartburn associated with acid indigestion and sour stomach • prevents heartburn associated with acid indigestion and sour stomach brought on by eating or drinking certain food and beverages
+warnings:
+  Warnings Allergy alert: Do not use if you are allergic to famotidine or other acid reducers Do not use • if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. • with other acid reducers Ask a doctor before use if you have • had heartburn over 3 months. This may be a sign of a more serious condition. • heartburn with lightheadedness, sweating, or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain • kidney disease Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if • your heartburn continues or worsens • you need to take this product for more than 14 days If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+do_not_use:
+  Do not use • if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools. These may be signs of a serious condition. See your doctor. • with other acid reducers
+ask_doctor:
+  Ask a doctor before use if you have • had heartburn over 3 months. This may be a sign of a more serious condition. • heartburn with lightheadedness, sweating, or dizziness • chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness • frequent chest pain • frequent wheezing, particularly with heartburn • unexplained weight loss • nausea or vomiting • stomach pain • kidney disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if • your heartburn continues or worsens • you need to take this product for more than 14 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions • adults and children 12 years and over: • to relieve symptoms, swallow 1 tablet with a glass of water. Do not chew. • to prevent symptoms, swallow 1 tablet with a glass of water at any time from 10 to 60 minutes before eating food or drinking beverages that cause heartburn • do not use more than 2 tablets in 24 hours • children under 12 years: ask a doctor
+other_safety_information:
+  Other information • read the directions and warnings before use • keep the carton. It contains important information. • store at 20˚-25˚C (68˚-77˚F) • protect from moisture
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, FD&C blue #1 aluminum lake, hypromellose, lactose (monohydrate), magnesium stearate, maltodextrin, microcrystalline cellulose, modified food starch, natural and artificial flavor, sucralose, titanium dioxide, triacetin
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel amazon basic care Maximum Strength Compare to Maximum Strength Pepcid ® AC active ingredient Famotidine Tablets, 20 mg Acid Reducer Just One Tablet Prevents & Relieves Heartburn Due to Acid Indigestion Releases a cooling sensation in mouth & throat actual size 100 TABLETS Cool Mint Flavor acid reducer image 1 acid reducer image 2
+set_id:
+  94fbcebe-7d75-47c1-9eca-cfa9b952a3d5
+id:
+  0829b878-8bb7-4881-b22b-c51c7c027f5c
+effective_time:
+  20220106
+version:
+  2
+openfda:
+  application_number:
+    ANDA077351
+  brand_name:
+    basic care acid reducer
+  generic_name:
+    FAMOTIDINE
+  manufacturer_name:
+    Amazon.com Services LLC
+  product_ndc:
+    72288-329
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    FAMOTIDINE
+  rxcui:
+    310273
+  spl_id:
+    0829b878-8bb7-4881-b22b-c51c7c027f5c
+  spl_set_id:
+    94fbcebe-7d75-47c1-9eca-cfa9b952a3d5
+  package_ndc:
+    72288-329-78
+  is_original_packager:
+    True
+  nui:
+    N0000000151
+    N0000175784
+  pharm_class_moa:
+    Histamine H2 Receptor Antagonists [MoA]
+  pharm_class_epc:
+    Histamine-2 Receptor Antagonist [EPC]
+  unii:
+    5QZO15J2Z8

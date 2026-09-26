@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  Sophia Seoul Golden ALCOHOL GLYCERIN WATER ALCOHOL ALCOHOL ALOE VERA LEAF TROLAMINE PROPYLENE GLYCOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry .
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 72% v/v. Purpose: Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Personal hygiene convenience product, for use to wash your hand anytime, anywhere when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store in cool, dry place Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients Purified water, Propylene glycol, glycerin, carbomer, triethanolamine, aloe barbadensis leaft juice.
+recent_major_changes:
+  Uses Personal hygiene convenience product, for use to wash your hands anytime, anywhere when soap and water are not available.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 3785mL NDC: 78577-122-05 1000mL NDC: 78577-122-05 500mL NDC: 78577-122-04 200mL NDC: 78577-122-03 100mL NDC: 78577-122-02 50mL NDC: 78577-122-01 3785 ml label 1000 mL label 500 mL label 200 mL label 100 mL label 50ml Label
+set_id:
+  a610056c-7c9c-c3db-e053-2a95a90ad5e1
+id:
+  a74044b2-ff6e-403d-e053-2a95a90ab5b0
+effective_time:
+  20200604
+version:
+  3
+openfda:

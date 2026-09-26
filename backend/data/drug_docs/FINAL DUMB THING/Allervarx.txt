@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Allervarx Loratadine LORATADINE LORATADINE ANHYDROUS CITRIC ACID PULLULAN POLYSORBATE 80 MANNITOL T10
+active_ingredient:
+  Active ingredient (in each tablet) Loratadine 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  Warnings
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions place 1 tablet on tongue; tablet disintegrates, with or without water adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="100%" border="1.5"><caption/><tbody><tr><td> adults and children 6 years and over</td><td><paragraph>1 tablet daily; not more than</paragraph><paragraph>1 tablet in 24 hours </paragraph></td></tr><tr><td> children under 6 years of age</td><td>ask a doctor</td></tr><tr><td> consumers with liver or kidney disease</td><td>ask a doctor </td></tr></tbody></table>
+other_safety_information:
+  Other Information Safety sealed: do not use if the individual blister unit imprinted with Loratadine Orally Disintegrating Tablet, USP is open or torn store between 20° to 25°C (68° to 77°F) use tablet immediately after opening individual blister complies with USP Procedure 2 for Assay and Organic Impurities and Test 2 for Disintegration
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, mannitol, peppermint flavor, polysorbate 80, pullulan
+questions:
+  Questions or comments? 1-888-278-1784 - Our Medical Information center shall operate between 9:00 AM to 5:00 PM EST from Monday through Friday (business hours). Queries received outside business hours shall reach voice mail and shall be attended on next business day.
+package_label_principal_display_panel:
+  image description
+set_id:
+  885e81ae-5ea3-4d14-8666-8c2698767014
+id:
+  d91b9ee4-dbd2-459c-a789-a59b7bf61d0e
+effective_time:
+  20241227
+version:
+  3
+openfda:
+  application_number:
+    ANDA213294
+  brand_name:
+    Allervarx
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    Innovus Pharmaceuticals, Inc.
+  product_ndc:
+    57483-950
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    311373
+  spl_id:
+    d91b9ee4-dbd2-459c-a789-a59b7bf61d0e
+  spl_set_id:
+    885e81ae-5ea3-4d14-8666-8c2698767014
+  package_ndc:
+    57483-950-10
+  is_original_packager:
+    True
+  upc:
+    0357483002329
+  unii:
+    7AJO3BO7QN

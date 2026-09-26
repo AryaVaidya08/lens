@@ -1,0 +1,30 @@
+effective_time:
+  20140708
+inactive_ingredient:
+  Inactive Ingredient Inactive Ingredient Water
+purpose:
+  Purpose For preparation of the skin prior to injection.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or consult a poison control center immediately.
+warnings:
+  Warnings: For external use only Flammable, keep away from flame or fire Not for use with electrocautinary devices or procedures Do not use in eyes Sterile unless package is damaged or open.
+spl_product_data_elements:
+  Alcohol Prep Isopropyl Alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: Wipe injection site vigorously and discard
+spl_unclassified_section:
+  Other information: Store at room temperature: 15 deg C to 30 deg C 59 deg F to 86 deg F avoid excessive heat
+package_label_principal_display_panel:
+  Principal Display Panel - box PRINCIPAL DISPLAY PANEL - 100 count box PAK-KIT FIRST AID STERILE ALCOHOL PREP PADS Contains 100 single use alcohol prep pads. See back panel for Drug Facts listing. Distributed by: Acme United Corporation Fairfield, CT 06824 800-835-2263 PK alcohol prep B.jpg alcohol prep box
+  Principal Display Panel - packet PRINCIPAL DISPLAY PANEL - packet Dynarex Alcohol Prep Pad STERILE ALCOHOL PREP PADS Contains 1 single use alcohol prep pads. Acme United Corporation Fairfield, CT 06824 PK alcohol prep P.jpg alcohol prep packet
+indications_and_usage:
+  Indications and Usage: Stop use and ask a doctor if: Irritation or redness develops condition persists for more than 72 hours Cleansing of an injection site
+set_id:
+  317de942-f4cd-4cc6-b770-cff4a5208cc3
+id:
+  915b4e91-de53-4701-ab54-ebd3ec5a216e
+active_ingredient:
+  Active Ingredient Purpose Isopropyl Alcohol 70% v/v Antiseptic

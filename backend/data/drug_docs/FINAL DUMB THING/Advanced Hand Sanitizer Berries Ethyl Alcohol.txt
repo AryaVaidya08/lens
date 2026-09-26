@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Advanced Hand Sanitizer Berries Ethyl Alcohol ALOE VERA FLOWER D&C RED NO. 33 GLYCERIN COCETH-7 CARBOXYMETHYL FRAGMENT PPG-1-PEG-9 LAURYL GLYCOL ETHER ALCOHOL ALCOHOL SODIUM HYDROXIDE WATER
+active_ingredient:
+  Active Ingredient Alcohol............... 62%
+purpose:
+  Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings for external use only-hands. keep out of eyes. avoid contact with broken skin. stop use and ask a Doctor if irritation or redness develops. do not inhale or ingest. if swallowed, get medical help or contact a poison control center right away. flamable. keep away from heat
+dosage_and_administration:
+  Directions Rub a dime sized drop into hands. For children under 6 use under adult supervision.
+inactive_ingredient:
+  Inactive Ingredients water, glycerin, coceth-7, PPG-1-PEG-9 lauryl glycol ether, carbomer, PEG-40 hydrogenated castor oil, fragrance (parfum). May Contain Red 40 (CI 16035), Red 33 (CI 17200), Blue 1 (CI 42090), Yellow 5 (CI 19140).
+indications_and_usage:
+  Hand Sanitizer
+package_label_principal_display_panel:
+  label
+set_id:
+  5bda90d3-e026-c9b1-e053-2991aa0a314d
+id:
+  a18bd75e-60ea-8ab3-e053-2995a90a524b
+effective_time:
+  20200323
+version:
+  3
+openfda:

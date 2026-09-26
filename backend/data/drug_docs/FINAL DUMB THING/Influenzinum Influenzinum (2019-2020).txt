@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Influenzinum Influenzinum (2019-2020) INFLUENZA A VIRUS A/BRISBANE/02/2018 IVR-190 (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/BRISBANE/02/2018 IVR-190 (H1N1) HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/KANSAS/14/2017 X-327 (H3N2) ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA A VIRUS A/KANSAS/14/2017 X-327 (H3N2) HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/MARYLAND/15/2016 ANTIGEN (FORMALDEHYDE INACTIVATED) INFLUENZA B VIRUS B/MARYLAND/15/2016 HEMAGGLUTININ ANTIGEN (FORMALDEHYDE INACTIVATED) WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT: (in each drop): 100% of Influenzinum 200C.
+purpose:
+  INDICATIONS: May temporarily relieve symptoms associated with the flu, such as aches and pains.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 5 to 10 drops orally, 1 time daily or as otherwise directed by a health care professional. If symptoms persist for more than 3 days, consult your health care professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: May temporarily relieve symptoms associated with the flu, such as aches and pains.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 20% Ethanol
+questions:
+  QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800.868.8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY INFLUENZINUM 200C 2019-2020 1 fl. oz. (30 ml) Influenzinum 200C
+set_id:
+  93f5ae79-9981-451e-9b3e-14e5c50f9848
+id:
+  cd080db8-d243-496c-9f76-5b1ae9cb981c
+effective_time:
+  20220317
+version:
+  3
+openfda:

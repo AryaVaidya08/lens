@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Capsaicin Capsaicin CAPSAICIN CAPSAICIN WATER GLYCERIN SORBITOL CARBOXYMETHYLCELLULOSE SODIUM POLYSORBATE 80 LEMON OIL DIHYDROXYALUMINUM AMINOACETATE ANHYDROUS EUCALYPTUS OIL METHYLPARABEN EDETATE DISODIUM SODIUM POLYACRYLATE (8000 MW)
+spl_unclassified_section:
+  CAPSAICIN – Capsaicin 0.025% Patch SA3, LLC Disclaimer: Most OTC drugs are not reviewed and approved by FDA, however they may be marketed if they comply with applicable regulations and policies. FDA has not evaluated whether this product complies. ---------- Capsaicin 0.025% Patch Drug Facts
+active_ingredient:
+  Active ingredient Capsaicin 0.025%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Uses Temporarily relieves minor aches and pains of muscles and joints due to: • arthritis • simple backache • strains • bruises • sprains
+warnings:
+  Warnings For external use only . Use only as directed or as directed by a health care professional Read all warnings and directions before use. Discontinue use at least one hour prior to bath, shower, or swimming; do not use immediately after bath, shower, or swimming. Do not use • On wounds, cuts, damaged or infected skin • On eyes, mouth, genitals, or any other mucous membranes Allergy Alert: if you are allergic to capsicum or chili peppers or any inactive ingredient of this product, contact a doctor before use. Whe n us ing this product • You may experience a burning sensation. The intensity of this reaction varies among individuals and may be severe. With regular use, this sensation generally disappears after several days. • Avoid contact with the eyes, lips, nose and mucous membranes • Do not tightly wrap or bandage the treated area • Do not apply heat to the treated area immediately before or after use Stop use and as k a physician: • If pregnant or breast feeding • If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician. • If severe burning persists or blistering occurs Keep out of reach of children and pets . If swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  Do not use • On wounds, cuts, damaged or infected skin • On eyes, mouth, genitals, or any other mucous membranes Allergy Alert: if you are allergic to capsicum or chili peppers or any inactive ingredient of this product, contact a doctor before use.
+when_using:
+  Whe n us ing this product • You may experience a burning sensation. The intensity of this reaction varies among individuals and may be severe. With regular use, this sensation generally disappears after several days. • Avoid contact with the eyes, lips, nose and mucous membranes • Do not tightly wrap or bandage the treated area • Do not apply heat to the treated area immediately before or after use
+stop_use:
+  Stop use and as k a physician: • If pregnant or breast feeding • If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician. • If severe burning persists or blistering occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets . If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Adults and children 18 years of age and older: Apply 1 patch to the affected area of intact skin up to 3 times a day. Do not leave patch on for more than 8 hours at a time. Clean and dry the affected area. Open pouch and remove one patch. Remove any protective film and apply directly to affected area of pain. Apply immediately after removal from the protective envelope. Wash hands with soap and water after handling the patches. Reseal pouch containing unused patches after each use. Do not store patch outside the sealed envelope. Fold used patches so that the adhesive side sticks to itself and safely discard used patches or pieces of cut patches where children and pets cannot get to them. Children under 18 years : Ask a physician
+storage_and_handling:
+  Other information Store at room temperature 15°-30°C (59°-86°F)
+inactive_ingredient:
+  Inactive ingredients Aqua (Deionized Water), Sodium Polyacrylate, Glycerin, Sorbitol, Sodium Cellulose Glycolate, Polysorbate 80, Lemon Oil, Aluminum Glycinate, Eucalyptus Oil, Methylparaben, EDTA Disodium Salt
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Capsaicin 0.025 % Patch NDC 69420-7025-1 10 Patches (5 per Resealable Pouch) SA3, LLC PRINCIPAL DISPLAY PANEL Capsaicin 0.025% Patch NDC 69420-7025-1 10 Patches (5 per Resealable Pouch) SA3, LLC
+set_id:
+  7950aabc-4724-4add-a96e-62ab7e75d4fc
+id:
+  cbe416bc-13da-462d-bef0-cf3d30a38a01
+effective_time:
+  20241209
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Capsaicin
+  generic_name:
+    CAPSAICIN
+  manufacturer_name:
+    SA3, LLC
+  product_ndc:
+    69420-7025
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CAPSAICIN
+  rxcui:
+    1043399
+  spl_id:
+    cbe416bc-13da-462d-bef0-cf3d30a38a01
+  spl_set_id:
+    7950aabc-4724-4add-a96e-62ab7e75d4fc
+  package_ndc:
+    69420-7025-1
+  is_original_packager:
+    True
+  unii:
+    S07O44R1ZM

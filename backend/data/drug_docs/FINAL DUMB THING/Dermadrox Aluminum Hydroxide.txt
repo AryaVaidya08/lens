@@ -1,0 +1,29 @@
+effective_time:
+  20170828
+inactive_ingredient:
+  Inactive Ingredients Calcium Carbonate, Citric acid, Deionized water, Glycerin, Lanolin, Lanolin Alcohol, Mangnesium hydroxide, Methyl and propyl parabens, Mineral oil, Petrolatum, Sodium chloride, Sodium laureth sulfate, Stearyl alcohol, Vitamin A and D in a Hydrophilic ointment base, Zinc chloride.
+purpose:
+  Intended Use Used for relief of minor skin irritations such as chafing, Interigo and galling. Provides temporary relief to abraded skin, friction burns and rubbing. Lubricates effectively on psoriatic skin. Effective for dried cracked skin, sunburn and abraded skin
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Warnings For External Use Only Avoid contact with eyes Discontinue use if symptoms persist for more than 7 days. DERMADROX ointment is contraindicated in patients with a history of hypersensitivity to any of its components.
+spl_product_data_elements:
+  Dermadrox Aluminum Hydroxide ALUMINUM HYDROXIDE ALUMINUM HYDROXIDE CALCIUM CARBONATE CITRIC ACID ACETATE WATER GLYCERIN LANOLIN LANOLIN ALCOHOLS MAGNESIUM HYDROXIDE METHYLPARABEN PROPYLPARABEN MINERAL OIL PETROLATUM SODIUM CHLORIDE SODIUM LAURETH SULFATE STEARYL ALCOHOL VITAMIN A VITAMIN D ZINC CHLORIDE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Reapply at least every 12 hours
+storage_and_handling:
+  Store at room temperature (59'F-86'F). Keep lid tightly closed.
+package_label_principal_display_panel:
+  image description
+indications_and_usage:
+  Directions Apply liberally as often as necessary to minor burns, abraded skin, irritated areas and minor wounds. Reapply at least every 12 hours.
+set_id:
+  fa0b70c8-50e0-4184-9795-c17739c46630
+id:
+  e9a97d88-96fc-4ea0-9482-524aac47716f
+active_ingredient:
+  Drug Facts Active Ingredients Purpose Aluminum Hydroxide.............................1.2% A Skin protectant

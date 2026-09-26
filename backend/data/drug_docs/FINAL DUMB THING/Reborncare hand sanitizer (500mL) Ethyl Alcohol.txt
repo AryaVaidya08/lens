@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Reborncare hand sanitizer (500mL) Ethyl Alcohol GLYCERIN .ALPHA.-TOCOPHEROL ACETATE, D- ALCOHOL ALCOHOL WATER
+active_ingredient:
+  Active ingedient Ethanol (ethyl alcohol) (70%)
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses Hand sanitizer for decreasing bacteria on skin
+warnings:
+  Warnings For external use only Do not use if you are allergic to any of the ingredients When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. avoid contact with broken, irritated, or itching skin. Do not puncture or incinerate. Stop use and ask a doctor if irritation or redness develops and the condition persists for more than 72 hours. If pregnant or breast-feeding, ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions Apply the adequate amount on hands
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Tocopheryl
+package_label_principal_display_panel:
+  Reborncare hand sanitizer (500mL) 1_label_500ml
+set_id:
+  a9e27047-ae18-3664-e053-2995a90a95ad
+id:
+  ab011d90-a69e-7d86-e053-2a95a90a0d2b
+effective_time:
+  20200722
+version:
+  3
+openfda:

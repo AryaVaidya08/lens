@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Ultra Defense Sani Smart Strawberry Alcohol ALCOHOL ALCOHOL WATER SODIUM HYDROXIDE GLYCERIN POLYSORBATE 20 CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) D&C RED NO. 33
+active_ingredient:
+  Active Ingredient Alcohol Denat. 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use for hand-washing to decrease bacteria on the skin, only when water is not available
+warnings:
+  Warnings For external use only Flammable, keep away from fire and flames When using this product do not get into eyes. if contact occurs, rinse eyes thoroughly with water Stop use and ask a doctor if irritation and redness develop Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away
+  When using this product do not get into eyes. if contact occurs, rinse eyes thoroughly with water
+  Stop use and ask a doctor if irritation and redness develop
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping
+spl_unclassified_section:
+  Other information Store at 68° to 77°F (20°~25°C) Do not store above 110°F (43°C) You may report a serious adverse reaction to this product to Report Reaction, LLC, PO Box 22, Plainsboro, NJ 08536
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Aloe Barbadensis Leaf Extract, Polysorbate 20, Sodium Hydroxide, Red 33.
+package_label_principal_display_panel:
+  Label label
+set_id:
+  ac39564a-0a54-1f67-e053-2995a90a08a2
+id:
+  ac39564a-0a55-1f67-e053-2995a90a08a2
+effective_time:
+  20200806
+version:
+  1
+openfda:

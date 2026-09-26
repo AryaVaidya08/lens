@@ -1,0 +1,35 @@
+effective_time:
+  20200903
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, hyroxyethyl cellulose, glycerin, methylparaben, propylene glycol, DMDM H
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS Do not freeze. For external use only. DO NOT USE In children less than 2 months of age On open skin wounds. When using this product keep out of eyes, ears and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes, ears and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  Alcohol-Free Anitseptic Gel BENZALKONIUM CHLORIDE HYDROXYETHYL CELLULOSE, UNSPECIFIED GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM WATER METHYLPARABEN PROPYLPARABEN DMDM HYDANTOIN PROPYLENE GLYCOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Place just one drop on hands to cover all surfaces.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+spl_unclassified_section:
+  OTHER INFORMATION Store below 110F (43C) May discolor certain fabrics or surfaces
+do_not_use:
+  DO NOT USE In children less than 2 months of age On open skin wounds.
+package_label_principal_display_panel:
+  label label 2 label 3 label 4 label 5 label 6 label 7 label 8 label 9
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria that can potencially cause disease. For use when soap and water are not available.
+set_id:
+  adba2cd2-192f-afa6-e053-2995a90a3bcf
+id:
+  ae6a3b34-f83b-70cc-e053-2a95a90a0411
+active_ingredient:
+  Active Ingredients Benzalkonium Chloride 0.13%

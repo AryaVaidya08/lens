@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Dramamine for Kids Dimenhydrinate DIMENHYDRINATE DIPHENHYDRAMINE ASPARTAME ANHYDROUS CITRIC ACID GRAPE MAGNESIUM STEARATE METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1) SORBITOL DRA
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active i ngredient (in each tablet) Dimenhydrinate 25mg
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Use for prevention and treatment of these symptoms associated with motion sickness: nausea dizziness vomiting
+warnings:
+  Warnings Do not give to children under 2 years of age unless directed by a doctor. Ask a doctor b efore use if the child has a breathing problem such as emphysema or chronic bronchitis glaucoma Ask a doctor before use if the child is taking sedatives or tranquilizers When using this product marked drowsiness may occur sedatives, and tranquilizers may increase drowsiness Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+ask_doctor:
+  Ask a doctor b efore use if the child has a breathing problem such as emphysema or chronic bronchitis glaucoma
+  Ask a doctor before use if the child is taking sedatives or tranquilizers
+when_using:
+  When using this product marked drowsiness may occur sedatives, and tranquilizers may increase drowsiness
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+dosage_and_administration:
+  Directions To prevent motion sickness, the first dose should be taken ½ to 1 hour before starting activity To prevent or treat motion sickness see below: Children 2 to under 6 years Give ½ to 1 chewable tablet every 6-8 hours Do not give more than 3 chewable tablets in 24 hours or as directed by a doctor Children 6 to 12 years Give 1 to 2 chewable tablets every 6-8 hours Do not give more than 6 chewable tablets in 24 hours, or as directed by a doctor
+other_safety_information:
+  Other information Phenylketonurics: contains phenylalanine 0.42 mg per tablet Store at room temperature 20◦-25◦C (68◦-77◦F) Do not use if blister is broken or torn
+inactive_ingredient:
+  Inactive i ngredients aspartame, citric acid, flavors, magnesium stearate, methacrylic acid copolymer, sorbitol
+questions:
+  Questions? 1-800-382-7219 Dramamine.com Dist. by Medtech Products Inc., Tarrytown, NY 10591 A Prestige Consumer Healthcare company. Made in Italy ©2024 Trade dress is owned by Medtech Products Inc. All rights reserved. DAUS092101
+package_label_principal_display_panel:
+  Principal display panel Dramamine® motion sickness for Kids CHEWABLE DYE FREE 8 CHEWABLE TABLETS GRAPE FLAVOR Dramamine® motion sickness for Kids CHEWABLE DYE FREE 8 CHEWABLE TABLETS GRAPE FLAVOR
+set_id:
+  3ccd6eb4-ba7e-4a6a-abb9-a6ef3196240c
+id:
+  46890832-3412-4d20-9c1a-0bd639ad618c
+effective_time:
+  20250212
+version:
+  1
+openfda:
+  application_number:
+    M009
+  brand_name:
+    Dramamine for Kids
+  generic_name:
+    DIMENHYDRINATE
+  manufacturer_name:
+    Medtech Products Inc.
+  product_ndc:
+    63029-908
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIMENHYDRINATE
+  rxcui:
+    1245184
+    1245186
+  spl_id:
+    46890832-3412-4d20-9c1a-0bd639ad618c
+  spl_set_id:
+    3ccd6eb4-ba7e-4a6a-abb9-a6ef3196240c
+  package_ndc:
+    63029-908-08
+  is_original_packager:
+    True
+  unii:
+    JB937PER5C

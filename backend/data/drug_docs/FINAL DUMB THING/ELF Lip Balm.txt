@@ -1,0 +1,33 @@
+effective_time:
+  20120418
+inactive_ingredient:
+  Inactive Ingredient: Paraffinium Liquidum (Mineral Oil), hydrogenated Polyisobutene, Polyethylene Wax, Ceresine Wax, Copernicia Cerifera (Carnauba) Wax, Microcrystalline Wax, Mentha Piperita (Peppermint) Oil, Phenoxyethanol, Methylparaben, Butylparaben, Ethylparaben, Propylparaben.
+purpose:
+  Purpose: Sunscreen
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children: If swallowed get medical help or contact a Poison Control Center immediately
+warnings:
+  Warning: For external use only Skin Cancer/Skin Aging Alert: Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown to only help prevent sunburn, not skin cancer or skin gaing
+when_using:
+  When Using This Product: Keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  ELF Lip Balm SPF 15 OXYBENZONE OXYBENZONE OXYBENZONE OCTINOXATE OCTINOXATE POLYISOBUTYLENE (1200000 MW) CARNAUBA WAX MICROCRYSTALLINE WAX METHYLPARABEN PROPYLPARABEN LIGHT MINERAL OIL PEPPERMINT OIL PHENOXYETHANOL ETHYLPARABEN BUTYLPARABEN
+ask_doctor:
+  Stop Use and Ask A Doctor If: Rash or irritation develops and lasts
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions: Apply liberally as often as needed before sun exposure. Reapply as needed or after swimming or towel drying
+storage_and_handling:
+  Other Information Store at room temperature 20-25 C (77-86F)
+package_label_principal_display_panel:
+  labe label
+indications_and_usage:
+  Uses: Helps prevent sunburn
+set_id:
+  6aeda5bf-0750-49aa-8f7d-054974848f2e
+id:
+  394af0f7-6366-4ca1-aee3-3f85f47f0bc2
+active_ingredient:
+  Active Ingredient: Benzophenone-3: 5% Ethylhexyl Methoxycinnamate: 7.5%

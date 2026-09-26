@@ -1,0 +1,35 @@
+effective_time:
+  20201204
+inactive_ingredient:
+  Inactive ingredients dextrose, FD&C red #40 aluminum lake, FD&C yellow #5 aluminum lake (tartrazine), FD&C yellow #6 aluminum lake, flavors, glycerin, magnesium stearate, maltodextrin, mineral oil
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you have • kidney stones • a calcium-restricted diet Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product • do not take more than 10 tablets in 24 hours • if pregnant do not take more than 6 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children.
+when_using:
+  When using this product • do not take more than 10 tablets in 24 hours • if pregnant do not take more than 6 tablets in 24 hours • do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor
+spl_product_data_elements:
+  extra strength Calcium carbonate CALCIUM CARBONATE CARBONATE ION CALCIUM CATION DEXTROSE, UNSPECIFIED FORM MALTODEXTRIN MINERAL OIL GLYCERIN MAGNESIUM STEARATE L468 banana, orange, pineapple, tropical fruit punch
+ask_doctor:
+  Ask a doctor before use if you have • kidney stones • a calcium-restricted diet
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions • adults and children 12 years of age and over: chew 2-4 tablets as symptoms occur, or as directed by a doctor • do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+storage_and_handling:
+  Other information • each tablet contains: calcium 320mg • store at 20-25 ° C (68-77 ° F) • does not meet USP for assay
+package_label_principal_display_panel:
+  Principal Display Panel extra strength ANTACID CALCIUM CARBONATE 750mg ASSORTED TROPICAL FRUIT FLAVORS Compare to the Active Ingredient in Tums® Extra Strength 750 Assorted Tropical Fruit Flavors K PAREVE 96 CHEWABLE TABLETS Antacid Front Label Antacid Back Label
+indications_and_usage:
+  Uses relieves • heartburn • acid indigestion • sour stomach • upset stomach associated with these symptoms
+set_id:
+  9a42503a-6a0a-411b-9007-d386811b1d55
+id:
+  fd06fec9-26b4-4934-8fef-e61d2a8db71d
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+active_ingredient:
+  Active ingredient (in each tablet) Calcium carbonate USP 750mg

@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Rx Only FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE.
+description:
+  DESCRIPTION: Each mL contains 260 mg of salicylic acid in a film-forming vehicle consisting of acrylates copolymer, isopropyl alcohol, n-Butyl acetate, polyvinyl butyral, and trimethyl pentanyl diisobutyrate. The pharmacologic activity of this product is generally attributed to the keratolytic activity of salicylic acid, which is incorporated into a polyacrylic, film-forming vehicle designed to cover the wart without the need for a bandage. The structural formula of salicylic acid is: structure.jpg
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Although the exact mode of action for salicylic acid in the treatment of warts is unknown, its activity appears to be associated with its keratolytic action, which results in mechanical removal of epidermal cells infected with wart viruses.
+indications_and_usage:
+  INDICATIONS AND USAGE: This product is indicated for the topical treatment and removal of common warts and plantar warts.
+contraindications:
+  CONTRAINDICATIONS: This product is contraindicated in persons with known or suspected hypersensitivity to any of the ingredients of the product. Patients with diabetes or impaired blood circulation should not use this product. This product also should not be used on moles, birthmarks, and unusual warts with hair growing from them, or warts on the face.
+warnings:
+  WARNINGS: KEEP OUT OF REACH OF CHILDREN. This product is flammable. Keep away from fire or flame. Keep bottle tightly closed when not in use.
+precautions:
+  PRECAUTIONS: FOR EXTERNAL USE ONLY. NOT FOR OPHTHALMIC USE. If contact with eyes or mucous membranes occurs, immediately flush with water for 15 minutes. This product should not be allowed to contact normal skin surrounding the wart site, since localized irritation may occur. Treatment should be discontinued if excessive irritation occurs.
+adverse_reactions:
+  ADVERSE REACTIONS: Localized irritation may occur if this product is applied to normal skin surrounding the wart; however irritation may normally be controlled by temporarily discontinuing use and by applying the medication only to the wart site when treatment is resumed. To report a serious adverse event, call 1-855-899-4237.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Prior to applying this product, soak wart in warm water for five minutes. Remove any loose tissue by gently rubbing with a wash cloth, emery board, or pumice stone. Dry the wart site thoroughly. Using the brush applicator supplied, apply this product twice to the entire wart surface, allowing the first application to dry before applying the second. Continue treatment once or twice a day or as directed by a physician. Be careful not to apply to surrounding skin. Clinically visible improvement normally occurs during the first or second week of therapy. Resolution may be expected after four to six weeks of this product’s use, though some warts may take longer to remove.
+how_supplied:
+  HOW SUPPLIED: 10 mL bottles, NDC 52187-526-10 Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C to 30°C (between 59°F to 86°F). Brief exposure to temperatures up to 40°C (104°F) may be tolerated provided the mean kinetic temperature does not exceed 25°C (77°F); however, such exposure should be minimized. Protect from freezing and excessive heat. Keep bottle tightly closed. Manufactured for: KMM Pharmaceuticals, LLC 1000 N. West Street Suite 1200, #1021 Wilmington, DE 19801 v1 Rev. 10/2017 827630
+package_label_principal_display_panel:
+  carton.jpg
+set_id:
+  5df4c5b6-3ad2-7f2c-e053-2991aa0a021b
+id:
+  5df4c5b6-3ad3-7f2c-e053-2991aa0a021b
+effective_time:
+  20171114
+version:
+  1
+openfda:
+  brand_name:
+    SALICYLIC ACID
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    KMM Pharmaceuticals, LLC
+  product_ndc:
+    52187-526
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  rxcui:
+    312887
+  spl_id:
+    5df4c5b6-3ad3-7f2c-e053-2991aa0a021b
+  spl_set_id:
+    5df4c5b6-3ad2-7f2c-e053-2991aa0a021b
+  package_ndc:
+    52187-526-10
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

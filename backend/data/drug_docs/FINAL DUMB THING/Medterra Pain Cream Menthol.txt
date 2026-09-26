@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Medterra Pain Cream Menthol XANTHAN GUM CANNABIDIOL RICE BRAN HELIANTHUS ANNUUS FLOWERING TOP JOJOBA OIL ROSEMARY TOCOPHEROL ARGAN OIL CITRIC ACID MONOHYDRATE ALOE VERA LEAF WATER CETOSTEARYL ALCOHOL GLYCERIN COCONUT OIL ETHYLHEXYLGLYCERIN BENTONITE POLYGLYCERYL-10 OLEATE SHEA BUTTER GLYCERYL STEARATE SE PHENOXYETHANOL CAPRYLYL GLYCOL MENTHOL MENTHOL ARNICA MONTANA ARNICA MONTANA
+active_ingredient:
+  active ingredients
+inactive_ingredient:
+  inactive ingredients
+purpose:
+  purpose
+keep_out_of_reach_of_children:
+  keep out of reach of children
+warnings:
+  warnings
+dosage_and_administration:
+  dosage & administration
+indications_and_usage:
+  indications & usage
+package_label_principal_display_panel:
+  principal display
+set_id:
+  9c9b1dc6-f342-f653-e053-2a95a90a6991
+id:
+  d3c3dea3-e0a5-1167-e053-2995a90aec6e
+effective_time:
+  20211222
+version:
+  5
+openfda:

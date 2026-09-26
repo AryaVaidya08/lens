@@ -1,0 +1,29 @@
+effective_time:
+  20181211
+inactive_ingredient:
+  Inactive Ingredients <paragraph> Aminomethyl Propanol, Benzophenone-4, Carbomer, Deionized Water(Aqua), Disodium EDTA, DMDM Hyantoin, Fragrance(Perfume), Glycerin.<paragraph>
+purpose:
+  Uses For handwashing to decrease bacteria on the skin.
+keep_out_of_reach_of_children:
+  Keep out of the reach of Children If swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame.
+spl_product_data_elements:
+  Sweet Daisy Antibacterial Hand Sanitizer ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER TYPE C AMINOMETHYLPROPANOL DMDM HYDANTOIN EDETATE DISODIUM ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+how_supplied:
+  Wash Hands thoroughly with product and allow to dry without wiping.
+package_label_principal_display_panel:
+  image of 12071sd
+indications_and_usage:
+  When using this product Avoid contact with eyes. If contact occurs flush eyes with water. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours, consult a doctor.
+set_id:
+  2716c4e1-043c-49c0-9235-75b68b72cb81
+id:
+  7cc5f5d2-352c-7f10-e053-2a91aa0a6c83
+active_ingredient:
+  Active Ingredient Alcohol, Denatured 65% (Purpose: Antiseptic)

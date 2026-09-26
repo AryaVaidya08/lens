@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  CRYSTAL FLUSH Maximum Strength Anti-Fungal Formula TOLNAFTATE TOLNAFTATE TOLNAFTATE ALMOND OIL CITRONELLA OIL LAVENDER OIL TEA TREE OIL JOJOBA OIL CLOVE OIL AZADIRACHTA INDICA SEED OIL .ALPHA.-TOCOPHEROL ACETATE
+active_ingredient:
+  Active Ingredient Tolnaftate 1%
+purpose:
+  Purpose: Anti-fungal
+indications_and_usage:
+  Uses: Effective treatment for athlete's foot (tinea pedis) and ringworm (tinea corporis). For the effective relief of itching, scaling, cracking and discomforts which may accompany these conditions.
+warnings:
+  Warnings: For external use only. Avoid contact with the eyes. Do not use on children under 2 years of age unless directed by a doctor. If treating athlete's foot and ringworms: Stop use and consult a doctor if irritation occurs or if there is no improvement within 4 weeks. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+dosage_and_administration:
+  Directions: Clean or wash the affected area and dry throughly. Apply a thin layer of the product over the affected area twice daily (morning and night) or as directed by doctor. For athletes foot, pay special attention to space between toes. Wear well-fitting, ventilated shoes, and change shoes and socks at least once daily. For athlete's foot and ringworm, use daily for 4 weeks. For jock itch, use daily for 2 weeks. If condition persists longer, consult a doctor. This product is not effective on the scalp or nails. Supervise children in the use of this product.
+inactive_ingredient:
+  Inactive ingredients: Prunus Amygdalus Dulcis (Sweet Almond) Oil, Cymbopogan Nardus (Citronella) Oil, Lavandula Angustifolia (Lavender) Oil, Melaleuca Alternifolia (Tea Tree) Oil, Simmondsia Chinensis (Jojoba) Oil, Syzygium Aromaticum (Clovebud) Oil, Azadirachta Indica (Neem) oil, Tocopheryl Acetate (Vitamin E).
+package_label_principal_display_panel:
+  01b LBL_Crystal Flush w-Tolnaftate
+set_id:
+  c0100085-ed24-4e63-9489-e31801fd262e
+id:
+  77e5b8f8-1264-4df0-8bcb-eb59378b423f
+effective_time:
+  20210428
+version:
+  2
+openfda:

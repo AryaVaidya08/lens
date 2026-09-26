@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Wish advanced hand sanitizer Vit E Ethyl alcohol CARBOMER 940 GLYCERIN PROPYLENE GLYCOL TROLAMINE .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF WATER ALOE ALCOHOL ALCOHOL
+description:
+  Hand Sanitizer Kills 99.9% of germs
+  Drug Facts
+active_ingredient:
+  Active ingredient Active Ingredient Purpose Ethyl Alcohol 70% v/v Antimicrobial
+purpose:
+  use Reduce bacteria and viruses onthe hands that may cause disease.
+warnings:
+  Warning for external use only.
+  Flammable Keep away from heat and flame. When using this product Avoid contact with face, eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical advice. Stop and ask a doctor if irritation or redness develops.
+when_using:
+  When using this product Avoid contact with face, eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical advice.
+stop_use:
+  Stop and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get immediate medical help or contact a poison contaol center right away.
+indications_and_usage:
+  Directions Wet hands thoroughly with product and rub into skin until dry. Children under 6 years of age should be supervised by an adult when using.
+dosage_and_administration:
+  Wet hands thoroughly with product and rub into skin until dry.
+user_safety_warnings:
+  Children under 6 years of age should be supervised by an adult when using.
+inactive_ingredient:
+  Inactive Ingredients: Water( aqua), Glycerin, Propylene Glycol, Carbomer, Triethanolamine, Fragrance, Aloe Barbadensis( Aloe Vera) Gel, Tocopheryl acetate( vitamin E).
+package_label_principal_display_panel:
+  12 13
+set_id:
+  b621bd24-2413-4daf-e053-2995a90a9df5
+id:
+  b621cdec-38c0-cc53-e053-2a95a90addb4
+effective_time:
+  20201210
+version:
+  1
+openfda:

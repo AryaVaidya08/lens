@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Clean Hands Matter Alcohol ALCOHOL ALCOHOL GLYCERIN HYDROGEN PEROXIDE METHYLCELLULOSE, UNSPECIFIED WATER
+spl_unclassified_section:
+  Drug Facts
+  Kills 99.99% of many common germs and bacteria. Distributed By: Cross Country Media & Sourcing 8825 Boggy Creek Road Orlando, FL 32824 www.ccmspack.com MADE IN USA
+active_ingredient:
+  Active ingredient[s] Alcohol 80% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use[s] Health care personnel hand rub to help reduce bacteria that potentially can cause disease.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or Flame Do not use On children less than 2 months of age On open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Store between 15-30°C (59-86°F) Avoid freezing and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive ingredients: glycerin, hydrogen peroxide, methylcellulose, purified water USP
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  2ffcbb4f-61de-4a9a-b3ce-be8a348d434b
+id:
+  1fbcad4e-3452-489a-abdf-f480f37fe358
+effective_time:
+  20200507
+version:
+  1
+openfda:

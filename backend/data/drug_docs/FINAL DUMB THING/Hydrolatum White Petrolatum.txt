@@ -1,0 +1,37 @@
+effective_time:
+  20200827
+inactive_ingredient:
+  Methylparaben, Purified Water, Sorbitan Sesquioleate
+purpose:
+  Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  for external use only Keep out of reach of children Stop using if allergic
+when_using:
+  do not get into eyes do not get into mouth
+spl_product_data_elements:
+  Hydrolatum White Petrolatum WATER SORBITAN SESQUIOLEATE PETROLATUM PETROLATUM METHYLPARABEN
+other_safety_information:
+  Store at 20-25C (68-77F)
+openfda:
+version:
+  2
+dosage_and_administration:
+  apply as needed
+stop_use:
+  if condition lasts more than 7 days
+do_not_use:
+  deep or punctured wounds animal bites serious burns
+package_label_principal_display_panel:
+  label 2 label
+indications_and_usage:
+  temporarily protects and helps relieve chapped or cracked skin helps prevent and protect from the drying effects of wind and cold weather
+troubleshooting:
+  Call Toll Free at 1-800-601-3843 or email complaints@dpharm.net
+set_id:
+  aae0618d-c778-f0fc-e053-2a95a90a9465
+id:
+  adde34a3-bb15-4925-e053-2995a90a701b
+active_ingredient:
+  White Petrolatum, 54%

@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  Symmetry Foaming Hand Sanitizer Alcohol WATER GLYCERIN PROPYLENE GLYCOL ISOPROPYL MYRISTATE ALOE PEG-10 DIMETHICONE (600 CST) PEG-12 DIMETHICONE (300 CST) PEG-8 DIMETHICONE .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl Alcohol 62%
+indications_and_usage:
+  Uses Hand sanitizer to help reduce bacteria on the skin that could cause disease Recommended for repeated use
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. When using this product do not use in or near eyes. If in eyes, flush thoroughly with water. If irritation or rash appears and persists, stop use and see a physician. Keep out of reach of children. If swallowed, call a physician or Poison Control Center immediately.
+when_using:
+  When using this product do not use in or near eyes. If in eyes, flush thoroughly with water.
+adverse_reactions:
+  If irritation or rash appears and persists, stop use and see a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, call a physician or Poison Control Center immediately.
+dosage_and_administration:
+  Directions Dispense an adequate amount of hand sanitizer Rub hands together until completely dry
+storage_and_handling:
+  Other information Do not store above 110 F (43 C) May discolor some fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), PEG-10 Dimethicone, PEG-12 Dimethicone, PEG-8 Dimethicone, Glycerine, Propylene Glycol, Isopropyl Myristate, Fragrance (Parfum), Aloe, Tocopheryl Acetate.
+questions:
+  Questions? Call: Buckeye International, Inc. 314-291-1900 Monday through Friday 8:00 a.m. to 5:00 p.m. CST
+purpose:
+  Purpose Antimicrobial
+package_label_principal_display_panel:
+  For General Hand Sanitizing Symmetry Foaming Hand Sanitizer with aloe and Vitamin E Product 90051120 Net Content 1200 ml (40.6 fl oz) container label
+set_id:
+  bcab4842-50ff-4c7f-8b85-0126f4b585b0
+id:
+  1defd1cf-e659-0400-e063-6294a90a39de
+effective_time:
+  20240723
+version:
+  5
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Symmetry Foaming Hand Sanitizer
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Buckeye International, Inc.
+  product_ndc:
+    30805-003
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    616763
+  spl_id:
+    1defd1cf-e659-0400-e063-6294a90a39de
+  spl_set_id:
+    bcab4842-50ff-4c7f-8b85-0126f4b585b0
+  package_ndc:
+    30805-003-03
+    30805-003-04
+    30805-003-05
+    30805-003-07
+    30805-003-08
+    30805-003-09
+    30805-003-10
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

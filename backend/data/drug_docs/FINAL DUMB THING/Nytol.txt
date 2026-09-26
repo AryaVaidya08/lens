@@ -1,0 +1,75 @@
+spl_product_data_elements:
+  Nytol Diphenhydramine HCl DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS HYPROMELLOSE, UNSPECIFIED LACTOSE, UNSPECIFIED FORM MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE MINERAL OIL SILICON DIOXIDE STEARIC ACID TALC TITANIUM DIOXIDE TRIACETIN WATER N
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each caplet) Diphenhydramine HCI 25 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Use For relief of occasional sleeplessness.
+warnings:
+  Warnings Do not use in children over 12 years of age with any other product containing diphenhydramine, even one used on skin Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product avoid alcoholic beverages. Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. If pregnant or breast-feeding, ask a health care professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use in children over 12 years of age with any other product containing diphenhydramine, even one used on skin
+ask_doctor:
+  Ask a doctor before use if you have glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product avoid alcoholic beverages.
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health care professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: take 2 caplets (50 mg) at bedtime if needed, or as directed by a doctor
+other_safety_information:
+  Other information each caplet contains : calcium 12 mg store below 25ºC (77ºF)
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, dicalcium phosphate, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, mineral oil, silicon dioxide, stearic acid, talc, titanium dioxide, triacetin, water
+questions:
+  Questions ? 1-866-255-5203 TAMPER EVIDENT FEATURE: This product is protected in a sealed blister. Do not use if blister or printed foil is broken or torn.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Nytol ® QUICKCAPS ® with Diphenhydramine HCl NIGHTTIME SLEEP-AID THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN 16 CAPLETS PRINCIPAL DISPLAY PANEL Nytol® QUICKCAPS® with Diphenhydramine HCl NIGHTTIME SLEEP-AID THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN 16 CAPLETS
+set_id:
+  c81d018a-0170-4396-81e9-2e13a53f868a
+id:
+  44ddd1a5-3a3d-4b67-b48a-fbadde98258d
+effective_time:
+  20241025
+version:
+  4
+openfda:
+  application_number:
+    M010
+  brand_name:
+    Nytol
+  generic_name:
+    DIPHENHYDRAMINE HCL
+  manufacturer_name:
+    Medtech Products Inc.
+  product_ndc:
+    63029-211
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DIPHENHYDRAMINE HYDROCHLORIDE
+  rxcui:
+    1049630
+    1092416
+  spl_id:
+    44ddd1a5-3a3d-4b67-b48a-fbadde98258d
+  spl_set_id:
+    c81d018a-0170-4396-81e9-2e13a53f868a
+  package_ndc:
+    63029-211-01
+    63029-211-02
+  is_original_packager:
+    True
+  unii:
+    TC2D6JAD40

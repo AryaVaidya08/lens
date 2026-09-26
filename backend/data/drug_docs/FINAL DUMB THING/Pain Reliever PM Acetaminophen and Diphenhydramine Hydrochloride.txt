@@ -1,0 +1,49 @@
+spl_product_data_elements:
+  Pain Reliever PM Acetaminophen and Diphenhydramine Hydrochloride FD&C BLUE NO. 1 FD&C BLUE NO. 2 SILICON DIOXIDE MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED CELLULOSE, MICROCRYSTALLINE STARCH, PREGELATINIZED CORN POLYVINYL ALCOHOL, UNSPECIFIED STEARIC ACID TITANIUM DIOXIDE SODIUM STARCH GLYCOLATE TYPE A POVIDONE ACETAMINOPHEN ACETAMINOPHEN DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE APM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each caplet) Purpose Acetaminophen 500 mg Pain reliever Diphenhydramine HCl 25 mg Nighttime sleep aid
+active_ingredient_table:
+  <table width="65%"><col width="60%" align="left"/><col width="40%" align="right"/><thead><tr styleCode="First Last"><th align="left"><content styleCode="italics">Active ingredients (in each caplet)</content></th><th align="right"><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td align="left">Acetaminophen 500 mg</td><td align="right">Pain reliever</td></tr><tr><td align="left">Diphenhydramine HCl 25 mg</td><td align="right">Nighttime sleep aid</td></tr></tbody></table>
+purpose:
+  Active ingredients (in each caplet) Purpose Acetaminophen 500 mg Pain reliever Diphenhydramine HCl 25 mg Nighttime sleep aid
+purpose_table:
+  <table width="65%"><col width="60%" align="left"/><col width="40%" align="right"/><thead><tr styleCode="First Last"><th align="left"><content styleCode="italics">Active ingredients (in each caplet)</content></th><th align="right"><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td align="left">Acetaminophen 500 mg</td><td align="right">Pain reliever</td></tr><tr><td align="left">Diphenhydramine HCl 25 mg</td><td align="right">Nighttime sleep aid</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 4,000 mg of acetaminophen in 24 hours with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. with any product containing diphenhydramine, even one used on skin in children under 12 years of age if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product drowsiness will occur avoid alcoholic drinks do not drive a motor vehicle or operate machinery Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. with any product containing diphenhydramine, even one used on skin in children under 12 years of age if you have ever had an allergic reaction to this product or any of its ingredients
+ask_doctor:
+  Ask a doctor before use if you have liver disease a breathing problem such as emphysema or chronic bronchitis trouble urinating due to an enlarged prostate gland glaucoma
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers
+when_using:
+  When using this product drowsiness will occur avoid alcoholic drinks do not drive a motor vehicle or operate machinery
+stop_use:
+  Stop use and ask a doctor if sleeplessness persists continuously for more than 2 weeks. Insomnia may be a symptom of serious underlying medical illness. pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning ) adults and children 12 years and over: take 2 caplets at bedtime do not take more than 2 caplets of this product in 24 hours children under 12 years: do not use this adult product in children under 12 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage
+storage_and_handling:
+  Other information store between 20-25°C (68-77°F) do not use if pouch is torn or open see side panel for lot number and expiration date
+inactive_ingredient:
+  Inactive ingredients Acetaminophen Diphenhydramine Hydrochloride Microcrystalline cellulose Pregelatinized starch Stearic Acid Colloidal Silicon Dioxide Magnesium Stearate Polyvinyl Alcohol Polyethylene Glycol PVP-K30 Sodium starch glycolate Titanium Dioxide FD&C blue no. 1 FD&C blue no. 2
+questions:
+  Questions or comments? Call toll free 1-844-832-1138 Monday through Friday 9AM -5PM EST or www.healthpharma.us
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL See New Warnings Information & Directions Compare to the Active Ingredients in Tylenol PM ® * PAIN RELIEVER PM ★ Pain Reliever ★ Nighttime Sleep Aid Acetaminophen, Diphenhydramine HCl APAP PM
+set_id:
+  bb675703-622b-d23a-e053-2995a90a3306
+id:
+  35d2f4db-8ad0-ffbc-e063-6394a90abe16
+effective_time:
+  20250523
+version:
+  4
+openfda:

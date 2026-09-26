@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  SooAE Hand Sanitizer ALCOHOL CARBOMER 940 ALCOHOL ALCOHOL AMINOMETHYLPROPANOL GLYCERIN BUTYLENE GLYCOL WATER POLYSORBATE 20
+active_ingredient:
+  Active Ingredient(s) Alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses To decrease bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Stop use and ask a doctor if skin irritation or redness develops. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if skin irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping For children under 6, use only under adult supervision Not recommended for infants
+storage_and_handling:
+  Other information Do not store above 104°F (40°C) May discolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Water(Aqua), Glycerin, Butylene Glycol, Carbomer, Aminomethyl Propanol, Polysorbate 20, Fragrance
+questions:
+  Questions or Comments? E-mail: cs@dkcos.com Call 1-212-484-2621
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Soo'AE HAND SANITIZER ANTIBACTERIAL HAND SANITIZER WITH MOISTURIZERS KILLS 99.9% OF GERMS* NET 10.14 fl.oz / 300 ml SooAE Hand Santizer 300ml
+set_id:
+  a3f711ee-fd22-a09c-e053-2a95a90a02f5
+id:
+  d45044a7-68f0-c80e-e053-2a95a90a9761
+effective_time:
+  20211229
+version:
+  3
+openfda:

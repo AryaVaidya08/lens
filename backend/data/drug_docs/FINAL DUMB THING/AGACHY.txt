@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  AGACHY FAST CLEAN HAND SANITIZINGSPRAY HAND SANITIZER HYALURONATE SODIUM 1,2-HEXANEDIOL GLYCERIN BUTYLENE GLYCOL WATER ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame.
+when_using:
+  When using this product do not use in or near the eye. In case of contact with eyes, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Place enough product on your palm to cover all surfaces and rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Avoid freezing and excessive heat above 104°F(40°C) May discolor certain fabrics or surface
+inactive_ingredient:
+  Inactive ingredients Water, Butylene Glycol, Glycerin, Aloe Vera Leaf, Sodium Hyaluronate, 1,2-Hexanediol
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 100mL 77201-003-10
+set_id:
+  a9d4d8f0-f1ea-a06b-e053-2a95a90a37e2
+id:
+  a9d4f81e-b19e-4a34-e053-2a95a90a475f
+effective_time:
+  20200707
+version:
+  1
+openfda:

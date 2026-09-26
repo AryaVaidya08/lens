@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Hydrastis canadensis GOLDENSEAL SUCROSE LACTOSE GOLDENSEAL GOLDENSEAL
+active_ingredient:
+  Hydrastis canadensis 6X Less than 10 -5 mg hydrastine, berberine alkaloids per pellet (**contains 0.443 mg of the active ingredient per pellet)
+purpose:
+  
+indications_and_usage:
+  Post-Nasal Drip*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label
+set_id:
+  178a1350-7b6f-11e6-a462-424c58303031
+id:
+  00edbed0-9990-a9fb-e063-6394a90ada4a
+effective_time:
+  20230720
+version:
+  5
+openfda:
+  brand_name:
+    Hydrastis canadensis
+  generic_name:
+    GOLDENSEAL
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-2522
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    GOLDENSEAL
+  spl_id:
+    00edbed0-9990-a9fb-e063-6394a90ada4a
+  spl_set_id:
+    178a1350-7b6f-11e6-a462-424c58303031
+  package_ndc:
+    0220-2522-41
+  is_original_packager:
+    True
+  unii:
+    ZW3Z11D0JV

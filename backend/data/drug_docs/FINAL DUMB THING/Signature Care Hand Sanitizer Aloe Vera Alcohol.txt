@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Signature Care Hand Sanitizer Aloe Vera Alcohol ALCOHOL ALCOHOL WATER PROPYLENE GLYCOL ALOE VERA LEAF GLYCERIN .ALPHA.-TOCOPHEROL ACETATE, D-
+spl_unclassified_section:
+  Drug Facts
+  Questions? Call 1-800-723-3929
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use To decrease bacteria on the skin that could cause disease. Recommended for repeaed use.
+warnings:
+  Warnings For external use only: hands Flammable. Keep away from heat and flame. When using this product Keep out of eyes. In case of contact with eyes, fllush thoroughly with water. Avoid contact with broken skin. Do not inhale or ingest. Stop use and ask a doctor if skin irritation develops. Other Information Do not store above 105℉. May discolor some fabrics. Harmful to wood finisheds and plastics. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray directly on hands and rub in thoroughly. For hildren under 6, use only under adult supervision. Not recommended for infants.
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Aloe Barbadensis Leaf Extract, Propylene Glycol, Fragrance, Tocopheryl Acetate
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  5cebda25-6f10-4ec6-9796-098d033e081f
+id:
+  d8e6c62a-f1e6-4d55-a126-4a15573d700b
+effective_time:
+  20200817
+version:
+  1
+openfda:

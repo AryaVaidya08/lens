@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  TURMERICFaceCream Niacinamide GLYCERIN SODIUM HYALURONATE CAPRYLIC/CAPRIC TRIGLYCERIDE ALLANTOIN WATER GLYCERYL STEARATE NIACINAMIDE NIACINAMIDE PEG-100 STEARATE HEXAPEPTIDE-11 CAPRYLHYDROXAMIC ACID DIMETHICONE CETEARYL ALCOHOL
+warnings:
+  Please keep out of reach of children.
+purpose:
+  Organic skin brightening, dullness relief, moisturizing
+stop_use:
+  This product is only applied to the surface of the skin and can not be taken orally, lf you feel unwell, please stop using immediately.
+active_ingredient:
+  Niacinamide
+when_using:
+  Please clean your skin before use to ensure the product works best.
+inactive_ingredient:
+  Water Glycerin Propylene Glycol Glyceryl Stearate Dimethicone Caprylic/Capric Triglyceride Cetearyl Alcohol Curcuma Longa(Turmeric)Root Oil Ammonium Acryloyldimethyltaurate/VP Copolymer PEG-100 Stearate Hexapeptide-11 Allantoin Methylparaben Sodium Hyaluronate Caprylhydroxamic Acid Arginine/Lysine Polypeptide Ethylhexylglycerin Lactobacillus/Soymilk Ferment Filtrate
+dosage_and_administration:
+  Apply 1 times a day
+indications_and_usage:
+  1.Use after face cleansing. 2.Take anappropriate amount of this productandapply it to the face.3.From the frequency of the face (dryareas)massage in circular motions to thewhole face. 4.Can be absorbed completely.
+keep_out_of_reach_of_children:
+  
+package_label_principal_display_panel:
+  1
+set_id:
+  2b0652be-a216-d66b-e063-6394a90a0b28
+id:
+  2b0652be-a217-d66b-e063-6394a90a0b28
+effective_time:
+  20250106
+version:
+  1
+openfda:
+  application_number:
+    M016
+  brand_name:
+    TURMERICFaceCream
+  generic_name:
+    NIACINAMIDE
+  manufacturer_name:
+    Shengnan (Guangzhou) Cosmetics Co., LTD
+  product_ndc:
+    84019-025
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    CUTANEOUS
+  substance_name:
+    NIACINAMIDE
+  spl_id:
+    2b0652be-a217-d66b-e063-6394a90a0b28
+  spl_set_id:
+    2b0652be-a216-d66b-e063-6394a90a0b28
+  package_ndc:
+    84019-025-01
+  is_original_packager:
+    True
+  upc:
+    6973787220005
+  unii:
+    25X51I8RD4

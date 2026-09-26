@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Bactine Max Dry lidocaine hydrochloride LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS CHAMAEMELUM NOBILE FLOWER OIL ARNICA MONTANA FLOWER CALENDULA OFFICINALIS FLOWER WATER MEDIUM-CHAIN TRIGLYCERIDES GLYCERIN ISOBUTANE PROPYLENE GLYCOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: WellSpring Pharmaceutical Corporation Sarasota, FL 34243 ©2022 Wellspring Pharmaceutical Corporation MONEYBACK GUARANTEE Bactine max is FSA/HSA eligible DOT 2Q M5706 Extremely Flammable
+active_ingredient:
+  Active Ingredients Lidocaine 4%
+purpose:
+  Purpose Pain Relieving Spray
+indications_and_usage:
+  Uses For the temporary relief of pain and itching associated with minor burns, sunburn, minor cuts, scrapes, insect bites or minor skin irritations.
+warnings:
+  Warnings For external use only Do not Use ■ in large quantities, particularly over raw surfaces or blister areas ■ on puncture wounds ■ in or near the eyes ■ longer than 1 week unless directed by a doctor When using this product ■ use only as directed. Read and follow all directions and warnings on this label. ■ do not allow contact with the eyes and mucous membranes ■ avoid spraying on face ■ avoid inhalation of spray ■ do not bandage or apply local heat (such as heating pads) or a medicated patch to area of use ■ do not use at the same time as other topical analgesics Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days Extremely Flammable ■ do not use near heat or flame or while smoking ■ avoid long term storage above 104°F (40°C) ■ do not puncture or incinerate. Contents under pressure. ■ do not store at temperatures above 120°F (49°C) If pregnant or breast-feeding ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+  Extremely Flammable ■ do not use near heat or flame or while smoking ■ avoid long term storage above 104°F (40°C) ■ do not puncture or incinerate. Contents under pressure. ■ do not store at temperatures above 120°F (49°C)
+ask_doctor:
+  Do not Use ■ in large quantities, particularly over raw surfaces or blister areas ■ on puncture wounds ■ in or near the eyes ■ longer than 1 week unless directed by a doctor
+when_using:
+  When using this product ■ use only as directed. Read and follow all directions and warnings on this label. ■ do not allow contact with the eyes and mucous membranes ■ avoid spraying on face ■ avoid inhalation of spray ■ do not bandage or apply local heat (such as heating pads) or a medicated patch to area of use ■ do not use at the same time as other topical analgesics
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms persist for more than 7 days, or clear up and occur again within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ■ adults and children over 12 years: ■ spray affected area every 6 to 8 hours, not to exceed 3 to 4 applications in a 24 hour period ■ product will dry quickly on its own, and does not need to be rubbed in ■ children 12 years or younger: ask a doctor
+safe_handling_warning:
+  Child-resistant packaging. Replace cap after each use
+inactive_ingredient:
+  Inactive ingredients alcohol denat. (28 %) anthemis nobilis flower oil aqua arnica montana flower extract calendula officinalis flower extract Caprylic/Capric Triglyceride glycerin isobutane propylene glycol
+questions:
+  Questions? 1-844-241-5454 or www.bactine.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NEW NDC 65197-815-04 Bactine MAX LIDOCAINE Dry Spray Anesthetic NUMBS AWAY PAIN AND ITCH MAX RELIEF FOR Minor Cuts & Scrapes, Burns, Bug bites & Sunburn QUICK-DRY 4oz (113g) Bactine Dry Spray 113g Bactine Dry Spray 113g
+set_id:
+  466404cd-c46a-4944-b1ac-3b3b17f436a1
+id:
+  144bf707-6b26-4386-a0ba-0a4a3a797be9
+effective_time:
+  20221227
+version:
+  6
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Bactine Max Dry
+  generic_name:
+    LIDOCAINE HYDROCHLORIDE
+  manufacturer_name:
+    WellSpring Pharmaceutical Corporation
+  product_ndc:
+    65197-815
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE HYDROCHLORIDE
+  rxcui:
+    1869797
+  spl_id:
+    144bf707-6b26-4386-a0ba-0a4a3a797be9
+  spl_set_id:
+    466404cd-c46a-4944-b1ac-3b3b17f436a1
+  package_ndc:
+    65197-815-04
+  is_original_packager:
+    True
+  upc:
+    0365197815043
+  unii:
+    V13007Z41A

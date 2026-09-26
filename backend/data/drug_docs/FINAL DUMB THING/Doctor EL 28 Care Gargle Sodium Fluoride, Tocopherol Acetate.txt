@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Doctor EL 28 Care Gargle Sodium Fluoride, Tocopherol Acetate XYLITOL WATER SODIUM FLUORIDE FLUORIDE ION
+active_ingredient:
+  Sodium Fluoride
+purpose:
+  For dental care
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+indications_and_usage:
+  Gargle for 30-45 seconds with 10mL (about 1 capful) making sure it comes in to contact with all areas of the teeth. Spit out mouthwash.
+warnings:
+  Don’t swallow. In case of accidental ingestion, seek professional assistance. Keep out of a reach of children. Consult with a dentist or doctor for use with children under 6 years of age.wallowed, get medical help or contact a Poison Control Center right away
+inactive_ingredient:
+  Water, Ethanol, Glycerin, PEG-40 Hydrogenated Castor Oil, Poloxamer 407, Sodium Citrate, Citric Acid, Xylitol, Menthol, Sodium Saccharin, Sucralose, Allantoin, Mentha Piperita Oil, Flavor, Glycyrrhiza Uralensis Extract, Angelica Gigas Extract, Salvia Officinalis Extract, Aloe Barbadensis Leaf Extract, Eucalyptus Globulus Leaf Extract, Calendula Officinalis Flower Extract, Propolis Extract
+dosage_and_administration:
+  For dental use only
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  1
+set_id:
+  a981dd1a-17f0-34d2-e053-2a95a90a0219
+id:
+  de261019-132e-609a-e053-2a95a90a4704
+effective_time:
+  20220503
+version:
+  2
+openfda:

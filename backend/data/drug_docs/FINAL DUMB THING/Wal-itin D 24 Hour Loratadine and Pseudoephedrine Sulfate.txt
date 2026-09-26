@@ -1,0 +1,45 @@
+spl_product_data_elements:
+  Wal-itin D 24 Hour Loratadine and Pseudoephedrine Sulfate LORATADINE LORATADINE PSEUDOEPHEDRINE SULFATE PSEUDOEPHEDRINE FERROSOFERRIC OXIDE CANDELILLA WAX SILICON DIOXIDE GLYCERYL MONOSTEARATE HYPROMELLOSE, UNSPECIFIED HYPROMELLOSE 2910 (3 MPA.S) HYPROMELLOSE 2910 (6 MPA.S) LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL 8000 POLYSORBATE 80 PROPYLENE GLYCOL SODIUM LAURYL SULFATE TALC TITANIUM DIOXIDE white to off-white Andrx;605
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients (in each tablet) Loratadine, USP 10 mg Pseudoephedrine sulfate, USP 240 mg
+purpose:
+  Purposes Antihistamine Nasal decongestant
+indications_and_usage:
+  Uses ● temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: sneezing itchy, watery eyes runny nose itching of the nose or throat ● temporarily relieves nasal congestion due to the common cold, hay fever or other upper respiratory allergies reduces swelling of nasal passages temporarily relieves sinus congestion and pressure temporarily restores freer breathing through the nose
+warnings:
+  Warnings Do not use ● if you have ever had an allergic reaction to this product or any of its ingredients ● if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have heart disease thyroid disease high blood pressure diabetes trouble urinating due to an enlarged prostate gland liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. symptoms do not improve within 7 days or are accompanied by a fever nervousness, dizziness or sleeplessness occurs If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use ● if you have ever had an allergic reaction to this product or any of its ingredients ● if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have heart disease thyroid disease high blood pressure diabetes trouble urinating due to an enlarged prostate gland liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. symptoms do not improve within 7 days or are accompanied by a fever nervousness, dizziness or sleeplessness occurs
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not divide, crush, chew or dissolve the tablet adults and children 12 years and over 1 tablet daily with a full glass of water; not more than 1 tablet in 24 hours children under 12 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table ID="LINK_432c2a2d-dd6f-470d-b4d5-25c276ffc5f3"><col width="40%"/><col width="60%"/><tbody><tr><td valign="top" styleCode=" Botrule Toprule Lrule Rrule"> adults and children 12 years and over</td><td valign="top" styleCode=" Botrule Toprule Lrule Rrule"> 1 tablet daily with a full glass of water; not more than 1 tablet in 24 hours</td></tr><tr><td valign="top" styleCode=" Botrule Lrule Rrule"> children under 12 years of age</td><td valign="top" styleCode=" Botrule Toprule Lrule Rrule"> ask a doctor</td></tr><tr><td valign="top" styleCode=" Botrule Lrule Rrule"> consumers with liver or kidney disease</td><td valign="top" styleCode=" Botrule Lrule Rrule"> ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information safety sealed: do not use if blister unit is open or torn store between 20° to 25°C (68° to 77°F) protect from light and store in a dry place
+inactive_ingredient:
+  Inactive ingredients black iron oxide, candelilla wax powder, colloidal silicon dioxide, glyceryl monostearate, hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, polysorbate 80, propylene glycol, sodium lauryl sulfate, talc and titanium dioxide
+questions:
+  Questions? 1-888-838-2872 between 9 am and 5 pm ET, Monday – Friday.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL Walgreens Compare to Claritin-D ® 24 Hour active ingredients †† NDC 0363-2390-72 NON-DROWSY * Wal-itin ® D LORATADINE, USP 10 mg / PSEUDOEPHEDRINE SULFATE, USP 240 mg EXTENDED-RELEASE TABLETS ANTIHISTAMINE / NASAL DECONGESTANT 24 HOUR ALLERGY & CONGESTION 24 HOUR EXTENDED -RELEASE TABLETS INDOOR & OUTDOOR ALLERGIES 24-hour relief of nasal & sinus congestion due to colds or allergies 24-hour relief of sneezing, runny nose, itchy, watery eyes & itchy throat or nose due to allergies 24 HOUR 5 EXTENDED-RELEASE TABLETS * WHEN TAKEN AS DIRECTED. SEE DRUG FACTS PANEL. image image
+set_id:
+  f0d6da14-8386-4d84-9f21-ce6708edddc3
+id:
+  b27ff45e-0de3-4e94-9004-39b3e5cf13d5
+effective_time:
+  20230118
+version:
+  9
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Agaricus Muscarius Agaricus Muscarius ALCOHOL AMANITA MUSCARIA FRUITING BODY AMANITA MUSCARIA FRUITING BODY WATER
+active_ingredient:
+  Agaricus Muscarius 200C
+inactive_ingredient:
+  Alcohol Purified Water
+warnings:
+  Stop use and ask doctor if symptoms worsen or persist longer than 7 days. Do not use if tamper evident seal is missing or broken.
+indications_and_usage:
+  Temporary relief from itching.
+purpose:
+  Temporary relief from itching
+dosage_and_administration:
+  Adults and children 12 years of age and older: Four drops of water in teaspoon of water 3 times a day as needed. Children under 12 years of age: Consult doctor prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+package_label_principal_display_panel:
+  agaricus musc 200.jpg
+set_id:
+  b3b4ecdc-982b-53a8-e053-2a95a90ab44e
+id:
+  b3b4f1de-52aa-c4a5-e053-2995a90a59cf
+effective_time:
+  20201109
+version:
+  1
+openfda:

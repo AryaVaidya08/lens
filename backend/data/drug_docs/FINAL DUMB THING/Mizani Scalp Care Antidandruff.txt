@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Mizani Scalp Care Antidandruff Pyrithione Zinc PYRITHIONE ZINC PYRITHIONE ZINC WATER SODIUM LAURETH SULFATE SODIUM LAURYL SULFATE COCO-BETAINE GLYCOL DISTEARATE DIMETHICONE SODIUM CHLORIDE GLYCERIN DISODIUM COCOAMPHODIACETATE SODIUM BENZOATE SODIUM HYDROXIDE CITRIC ACID MONOHYDRATE POLYQUATERNIUM-10 (1000 MPA.S AT 2%) METHYLPARABEN COCO MONOISOPROPANOLAMIDE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE SALICYLIC ACID MENTHOL ETHYLPARABEN BENZYL BENZOATE PROPYLENE GLYCOL BENZYL ALCOHOL BENZYL SALICYLATE .BETA.-CITRONELLOL, (R)- GERANIOL PEPPERMINT OIL ISOMETHYL-.ALPHA.-IONONE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED CUCUMBER METHYLISOTHIAZOLINONE
+active_ingredient:
+  Active ingredient Pyrithione zinc 1%
+purpose:
+  Purpose Antidandruff
+indications_and_usage:
+  Use helps eliminate recurrence of scalp flaking, scaling, and itching associated with dandruff
+warnings:
+  Warnings For external use only
+when_using:
+  When using this product do not getinto eyes. If contact occurs, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and consult a physician if condition worsents or does not improve after regular use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • for best results use at least twice a week or as directed by a physician • shake well • wet hair and apply 1 - 2 ounces throughout entire head • massage vigorously • leave on scalp 1 to 3 minutes • rinse well • repeat if necessary
+inactive_ingredient:
+  Inactive ingredients water, sodium laureth sulfate, sodium lauryl sulfate, coco-betaine, glycol distearate, dimethicone, sodium chloride, glycerin, disodium cocoamphodiacetate, fragrance, sodium benzoate, sodium hydroxide, citric acid, polyquaternium-10, methylparaben, cocamide MIPA, carbomer, salicylic acid, menthol, ethylparaben, benzyl benzoate, propylene glycol, benzyl alcohol, sodium polynaphthalenesulfonate, benzyl salicylate, citronellol, geraniol, mentha piperita (peppermint) oil, alpha-isomethyl ionone, cellulose gum, cucumis sativus (cucumber) fruit extract, methylisothiazolinone
+package_label_principal_display_panel:
+  image of a label
+set_id:
+  482e11db-c886-4ad3-b378-0839a0715ea7
+id:
+  c907da1b-e54c-473f-a300-eefe0365f7d3
+effective_time:
+  20231211
+version:
+  9
+openfda:
+  application_number:
+    M032
+  brand_name:
+    Mizani Scalp Care Antidandruff
+  generic_name:
+    PYRITHIONE ZINC
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-388
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PYRITHIONE ZINC
+  rxcui:
+    209884
+  spl_id:
+    c907da1b-e54c-473f-a300-eefe0365f7d3
+  spl_set_id:
+    482e11db-c886-4ad3-b378-0839a0715ea7
+  package_ndc:
+    49967-388-01
+    49967-388-02
+  is_original_packager:
+    True
+  unii:
+    R953O2RHZ5

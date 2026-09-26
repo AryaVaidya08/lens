@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Zen Global Alcohol Wipes Alcohol WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethanol 75% by volume Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE for hand sanitizing to decrease bacteria on the skin apply topically to the skin to help prevent cross contamination not recommended for repeated use dries in seconds
+warnings:
+  Warning ●Flammable. Keep away from fire or flame. For external use only. ●Do not use in or contact the eyes. ●Stop use and ask a doctor if skin irritation or rash develops. Keep out of reach of children If swallowed, get medical help or call Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or call Poison Control Center immediately.
+dosage_and_administration:
+  Directions Remove lid and discard seal from container. Pull wipe from center of roll and thread through opening in lid. Do not push your fingers through the opening. ●Replace lid, pull wipe up, and then pull out at a 45°angle. The next wipe dispenses automatically. . Close lid to retain moisture. Other informations Store at room temperature 15°- 30°C (59°-86°F). ●Lot number, manufacture date and expiration date can be found on the canister.
+inactive_ingredient:
+  Inactive ingredients Water
+package_label_principal_display_panel:
+  1
+set_id:
+  aad489b8-bece-7561-e053-2995a90ad313
+id:
+  d587a3a5-0d8d-56fd-e053-2a95a90a7725
+effective_time:
+  20220114
+version:
+  2
+openfda:

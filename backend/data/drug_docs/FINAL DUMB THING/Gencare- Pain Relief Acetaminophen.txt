@@ -1,0 +1,77 @@
+spl_product_data_elements:
+  Gencare- Pain Relief Acetaminophen Acetaminophen Acetaminophen ACETAMINOPHEN HYPROMELLOSE 2910 (5 MPA.S) HYPROMELLOSE 2910 (15 MPA.S) MAGNESIUM STEARATE POLYETHYLENE GLYCOL 400 POVIDONE K30 STARCH, CORN STEARIC ACID TALC titanium dioxide S99
+active_ingredient:
+  Active ingredient (in each tablet) Acetaminophen 325 mg
+purpose:
+  Purpose Pain reliever/fever reducer
+indications_and_usage:
+  Uses ■ temporarily relieves minor aches and pains due to: ■ headache ■ muscular aches ■ backache ■ minor pain of arthritis ■ the common cold ■ toothache ■ premenstrual and menstrual cramps ■ temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. The maximum daily dose of this product is 10 tablets (3,250 mg) in 24 hours for adults or 5 tablets (1,625 mg) in 24 hours for children. Severe liver damage may occur if ■ adult takes more than 4,000 mg of acetaminophen in 24 hours ■ child takes more than 5 doses in 24 hours, which is the maximum daily amount ■ taken with other drugs containing acetaminophen ■ adult has 3 or more alcoholic drinks every day while using this product Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: ■ skin reddening ■ blistersmm ■ rash If a skin reaction occurs, stop use and seek medical help right away.
+do_not_use:
+  Do not use ■ with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. ■ if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if the user has liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if the user is taking the blood thinning drug warfarin
+stop_use:
+  Stop use and ask a doctor if ■ pain gets worse or lasts more than 10 days in adults ■ pain gets worse or lasts more than 5 days in children under 12 years ■ fever gets worse or lasts more than 3 days ■ new symptoms occur ■ redness or swelling is present. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  Overdose warning: In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away. Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions ■ do not take more than directed (see overdose warning) adults and children 12 years and over ■ take 2 tablets every 4 to 6 hours while symptoms last ■ do not take more than 10 tablets in 24 hours, unless directed by a doctor ■ do not use for more than 10 days unless directed by a doctor children 6 years to under 12 years ■ take 1 tablet every 4 to 6 hours while symptoms last ■ do not take more than 5 tablets in 24 hours ■ do not use for more than 5 days unless directed by a doctor children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td> adults and children 12 years and over</td><td>&#x25A0; take 2 tablets every 4 to 6 hours while symptoms last &#x25A0; do not take more than 10 tablets in 24 hours, unless directed by a doctor &#x25A0; do not use for more than 10 days unless directed by a doctor</td></tr><tr><td> children 6 years to under 12 years</td><td>&#x25A0; take 1 tablet every 4 to 6 hours while symptoms last &#x25A0; do not take more than 5 tablets in 24 hours &#x25A0; do not use for more than 5 days unless directed by a doctor</td></tr><tr><td> children under 6 years</td><td> ask a doctor</td></tr></tbody></table>
+other_safety_information:
+  Other information ■ store between 20° to 25°C (68° to 77°F)
+inactive_ingredient:
+  Inactive ingredients hypromellose-5, hypromellose-15, magnesium stearate, microcrystalline cellulose, polyethylene glycol-400, polyvinyl pyrrolidone, pregelatinized starch, stearic acid powder, talc, titanium dioxide
+questions:
+  Questions or comments? Call +1 (732) 994-2808 or email: support@gencare.health
+spl_unclassified_section:
+  †This product is neither manufactured nor distributed by Kenvue Brands LLC, owner of the registered trademark TYLENOL®. Distributed by: Gencare Consumer Products, LLC 40E Cotters Ln, Suite A, East Brunswick, NJ 08816 www.gencare.health
+package_label_principal_display_panel:
+  NDC 72090-069-01 L187-00-00 GC Pain Relief
+set_id:
+  2111c91b-2fd7-4ab3-946a-d4e0cf46399a
+id:
+  9701a4e9-a2bf-4781-9505-fa6e77abf131
+effective_time:
+  20260812
+version:
+  1
+openfda:
+  application_number:
+    M013
+  brand_name:
+    Gencare- Pain Relief Acetaminophen
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    Pioneer Life Sciences, LLC
+  product_ndc:
+    72090-069
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  rxcui:
+    313782
+  spl_id:
+    9701a4e9-a2bf-4781-9505-fa6e77abf131
+  spl_set_id:
+    2111c91b-2fd7-4ab3-946a-d4e0cf46399a
+  package_ndc:
+    72090-069-01
+  is_original_packager:
+    True
+  upc:
+    0372090005037
+  unii:
+    362O9ITL9D

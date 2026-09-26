@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  EZ Nite Sleep ZzzQuil DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE CITRIC ACID MONOHYDRATE PROPYLENE GLYCOL POLYOXYL 40 STEARATE WATER SODIUM BENZOATE SACCHARIN SODIUM SODIUM CITRATE HIGH FRUCTOSE CORN SYRUP FD&C BLUE NO. 1 ALCOHOL FD&C RED NO. 40 Berry Flavor
+active_ingredient:
+  Active Ingredient Diphenhydramine HCl 50 mg
+purpose:
+  Purpose Nighttime sleep-aid
+indications_and_usage:
+  Uses for the relief of occasional sleeplessness. reduces time to fall asleep if you have difficulty falling asleep
+warnings:
+  Do Not Use for children under 12 years of age with any other product containing diphenhydramine, even one used on the skin with other drugs that cause drowsiness such as antihistamines and nighttime cold/flu products do not use with Nyquil
+ask_doctor:
+  Ask a doctor before use if you have • glaucoma heart disease • trouble urinating due to an enlarged prostate gland • a breathing problem such as emphysema or chronic bronchitis
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers or any other sleep-aid
+when_using:
+  When using this product • drowsiness will occur • avoid alcoholic drinks and other drugs that cause drowsiness • be careful when driving a motor vehicle or operating machinery
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children. Overdose warning: taking more than the recommended dose (overdose) may cause serious health problems. In case of overdose, get medical help or contact Poison Control CEnter 1-800-222-1222 immediately.
+dosage_and_administration:
+  Directions • take only one dose per day (24 hours) • use dosage cup provided • tbsp=tablespoon, mL=milliliter age dose adults and children 12 years and over one dose = 2 tablespoons, 30mL at bedtime if needed or as directed by a doctor
+spl_unclassified_section:
+  Other information • each 30mL 2tbsp contains: sodium 23 mg • store at controlled room temperature protect from light
+inactive_ingredient:
+  Inactive ingredients citric acid, ethyl alcohol, fd and c blue 1, fd and c red 40, flavor, high fructose corn syrup, polyoxyl 40 stearate, propylene glycol, purified water, saccharin sodium, sodium benzoate, sodium citrate dihydrate
+package_label_principal_display_panel:
+  Principal Display Panel EZ nite sleep nighttime sleep aid Berry Diphenhydramine HCI non habit forming not for treating cold or flu alcohol 10 percent compare to active igredient in Vicks Zzzquil 12 fl oz 355mL image of label
+set_id:
+  9a380c04-6e54-4746-9dd3-29c4001f2707
+id:
+  1199e639-7e8c-4dd4-a381-d3faf4b4829b
+effective_time:
+  20191204
+version:
+  3
+openfda:

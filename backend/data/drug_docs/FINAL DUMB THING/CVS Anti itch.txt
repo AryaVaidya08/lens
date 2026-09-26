@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  CVS Anti itch HYDROCORTISONE GLYCERIN ALOE VERA LEAF METHYLPARABEN CETOSTEARYL ALCOHOL WATER HYDROCORTISONE HYDROCORTISONE .ALPHA.-TOCOPHEROL ACETATE ISOPROPYL MYRISTATE POTASSIUM LACTATE CYCLOMETHICONE 5 VINYLTRIMETHYLSILYLOXY SILICATE SODIUM HYDROXIDE ANHYDROUS CITRIC ACID PEG-40 STEARATE CETYL PALMITATE OAT KERNEL OIL DIMETHICONE ISOSTEARYL NEOPENTANOATE BENZYL ALCOHOL
+active_ingredient:
+  Active Ingredient Hydrocortisone 1 %
+indications_and_usage:
+  Uses for the temporary relief of itching associated with minor skin irritations, inflammation, and rashes due to: eczema seborrheic dermatitis psoriasis insect bites poison ivy, poison oak, and poison sumac cosmetics jewelry detergents soaps temporarily relieves external anal and genital itching other uses of this product should be only under the advice and supervision of a doctor
+warnings:
+  Warnings For external use only When using this product do not get into the eyes Do not use for the treatment of diaper rash. Ask a doctor. Stop us and ask doctor if condition gets worse, or if symptoms last for more than 7 days or clear up and occur again within a few days. Do not begin use of any other hydrocortisone product. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not get into the eyes
+do_not_use:
+  Do not use for the treatment of diaper rash. Ask a doctor.
+stop_use:
+  Stop us and ask doctor if condition gets worse, or if symptoms last for more than 7 days or clear up and occur again within a few days. Do not begin use of any other hydrocortisone product.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years and over: apply to affected area not more than 3 to 4 times daily children under 2 years: ask a doctor
+storage_and_handling:
+  Other information store at 20 °C to 25 °C (68 °F to 77 °F)
+inactive_ingredient:
+  Inactive ingredient aloe barbadensis (aloe vera) leaf juice, anhydrous citric acid, avena sativa (oat) kernel extract, avena sativa (oat) kernel flour, avena sativa (oat) kernel oil, benzyl alcohol, ceteareth-20, cetostearyl alcohol, cetyl palmitate, cyclopentasiloxane, dimethicone/vinyltrimethylsiloxysilicate, glycerin, isopropyl myristate, isostearyl neopentanoate, methylparaben, polyoxyl 40 stearate, potassium lactate, purified water, sodium hydroxide, vitamin E
+purpose:
+  Purpose Anti-Itch
+package_label_principal_display_panel:
+  21-292-01v3.1 CVS Hydro Oats
+set_id:
+  884df604-711b-4a3d-e053-2995a90a3a04
+id:
+  2932884f-4824-3a5c-e063-6394a90af75f
+effective_time:
+  20241213
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    CVS Anti itch
+  generic_name:
+    HYDROCORTISONE
+  manufacturer_name:
+    CVS
+  product_ndc:
+    69842-292
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HYDROCORTISONE
+  rxcui:
+    106258
+  spl_id:
+    2932884f-4824-3a5c-e063-6394a90af75f
+  spl_set_id:
+    884df604-711b-4a3d-e053-2995a90a3a04
+  package_ndc:
+    69842-292-01
+  is_original_packager:
+    True
+  nui:
+    N0000175576
+    N0000175450
+  pharm_class_epc:
+    Corticosteroid [EPC]
+  pharm_class_moa:
+    Corticosteroid Hormone Receptor Agonists [MoA]
+  unii:
+    WI4X0X7BPJ

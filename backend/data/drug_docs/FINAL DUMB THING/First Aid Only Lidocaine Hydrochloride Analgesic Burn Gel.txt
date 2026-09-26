@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  First Aid Only Lidocaine Hydrochloride Analgesic Burn Gel LIDOCAINE HYDROCHLORIDE ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) GLYCERIN IMIDUREA METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER TEA TREE OIL TROLAMINE CARBOMER LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS
+spl_unclassified_section:
+  Drug Facts Drug Facts
+  Other information •store at room temperature 15-30°C (59-86°F)
+active_ingredient:
+  Active ingredient Lidocaine Hydrochloride 2% Purpose External Analgesic
+purpose:
+  Purpose External Analgesic
+indications_and_usage:
+  Use for the temporary relief of pain associated with • minor burns
+warnings:
+  Warnings For external use only Avoid Contact with eyes Do not use • on wounds or damaged skin • in large quantities, particularly over raw surfaces or blistered areas Stop use and ask a doctor if • condition worsens or symptoms persist for more than 7 days • symptoms clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+do_not_use:
+  Do not use • on wounds or damaged skin • in large quantities, particularly over raw surfaces or blistered areas
+stop_use:
+  Stop use and ask a doctor if • condition worsens or symptoms persist for more than 7 days • symptoms clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions • adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily • children under 2 years of age: do not use consult a doctor
+inactive_ingredient:
+  Inactive ingredients acrylates/C10-30 alkyl acrylate crosscopolymer, carbomer, glycerin, imidurea, methylparaben, propylene glycol, propylparaben, purified water, tea tree oil, trolamine
+questions:
+  Questions? 800-835-2263
+package_label_principal_display_panel:
+  Package Labeling: Carton Label
+set_id:
+  5258cef2-0e5c-4ccd-e063-6394a90a9e5c
+id:
+  5258cc02-81e4-3363-e063-6294a90a82e5
+effective_time:
+  20260521
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    First Aid Only Lidocaine Hydrochloride Analgesic Burn Gel
+  generic_name:
+    LIDOCAINE HYDROCHLORIDE
+  manufacturer_name:
+    Acme United Corporation
+  product_ndc:
+    0924-5004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE HYDROCHLORIDE
+  rxcui:
+    1011852
+  spl_id:
+    5258cc02-81e4-3363-e063-6294a90a82e5
+  spl_set_id:
+    5258cef2-0e5c-4ccd-e063-6394a90a9e5c
+  package_ndc:
+    0924-5004-00
+    0924-5004-01
+    0924-5004-03
+    0924-5004-17
+  original_packager_product_ndc:
+    61040-230
+  upc:
+    0738743130103
+  unii:
+    V13007Z41A

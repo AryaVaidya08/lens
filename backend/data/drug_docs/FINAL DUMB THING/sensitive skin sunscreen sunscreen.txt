@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  sensitive skin sunscreen sunscreen HOMOSALATE HOMOSALATE PHYTOSPHINGOSINE CERAMIDE 6 II CERAMIDE 6 II WATER OCTOCRYLENE OCTOCRYLENE CERAMIDE 3 CERAMIDE 3 BEHENTRIMONIUM METHOSULFATE TITANIUM DIOXIDE TITANIUM DIOXIDE NIACINAMIDE NIACINAMIDE GLYCERIN PROPYLPARABEN LACTIC ACID SODIUM LAUROYL ASPARTATE ETHYLCELLULOSES ALUMINUM STARCH OCTENYLSUCCINATE XANTHAN GUM ZINC OXIDE ZINC OXIDE CERAMIDE 1 CERAMIDE 1
+active_ingredient:
+  ACTIVE INGREDIENT Homosalate: 10% Titanium Dioxide: 5% Octocrylene: 2% Zinc Oxide: 9% Niacinamide: 4% Ceramide 3: 0.5% Ceramide 6 II: 0.5% Ceramide 1: 0.5% Sodium Hyaluronate: 1.5% Collagen: 1.5% Centella Asiatica Extract: 2.5%
+purpose:
+  PURPOSE helps prevent sunburn.
+indications_and_usage:
+  Uses decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  WARNINGS For external use only.
+stop_use:
+  Do not use on damaged or broken skin.
+  Stop use and ask a doctor if rash occurs.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medicalhelp or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions for use apply liberally 15 minutes before sun exposure. reapply at least every 2 hours. use a water resistant sunscreen if swimming or sweating.
+inactive_ingredient:
+  INACTIVE INGREDIENT Cetearyl Alcohol: 4.5% Ethylcelluloses: 1% Carbomer: 0.2% Disodium EDTA: 0.6% Glycerin: 5.5% Dimethicone: 3.5% Behentrimonium Methosulfate: 1.5% Aluminum Starch Octenylsuccinate: 2% Propylparaben: 0.6% Sodium Lauroyl Aspartate: 0.3% Phytosphingosine: 0.2% Lactic Acid: 0.2% Xanthan Gum: 0.2% Water: 42.7%
+storage_and_handling:
+  Other Information Protect the product in this container from excessive heat and direct sun.
+package_label_principal_display_panel:
+  PAC
+set_id:
+  15f6d7bb-afca-4a8c-e063-6294a90a1f9e
+id:
+  3658295d-877d-2363-e063-6394a90a36d8
+effective_time:
+  20250530
+version:
+  2
+openfda:

@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Boudreauxs Butt Diaper Rash Original ZINC OXIDE BALSAM PERU MINERAL OIL PARAFFIN PETROLATUM CASTOR OIL ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at 15°C-25°C (59°F-77°F) Remove foil seal from tube's tip before use Use with infants, children and adults Will stain clothing and fabric
+active_ingredient:
+  Active ingredient Zinc oxide, 16% Purpose Skin protectant
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses Helps treat and prevent diaper rash Protects chafed skin due to diaper rash and helps seal out wetness
+warnings:
+  Warnings For external use only When using this product avoid contact with the eyes Stop use and ask a doctor if condition worsens or does not improve after 7 days Keep out of reach of children to prevent accidental ingestion If swallowed, seek medical help or call Poison Control Center (1-800-222-1222) immediately
+when_using:
+  When using this product avoid contact with the eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve after 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children to prevent accidental ingestion If swallowed, seek medical help or call Poison Control Center (1-800-222-1222) immediately
+dosage_and_administration:
+  Directions Change wet and soiled diaper immediately Cleanse the diaper area and allow to dry Apply ointment liberally and as often as neessary with each diaper change and especially when exposed to wet diapers for a prolonged period of time, such as bedtime
+inactive_ingredient:
+  Inactive ingredients myroxylon pereirae (balsam peru) resin, mineral oil, paraffin, petrolatum, ricinus communis (castor) seed oil
+questions:
+  Questions? 1-855-785-2888 www.buttpaste.com
+package_label_principal_display_panel:
+  Package Labeling: Label2
+set_id:
+  97587458-4ca0-4de3-9bb9-148346d859c0
+id:
+  09d6b62c-3b5c-5c0b-e063-6394a90aaacc
+effective_time:
+  20231110
+version:
+  2
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Boudreauxs Butt Diaper Rash Original
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Geodis Logistics LLC
+  product_ndc:
+    63471-3002
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    09d6b62c-3b5c-5c0b-e063-6394a90aaacc
+  spl_set_id:
+    97587458-4ca0-4de3-9bb9-148346d859c0
+  package_ndc:
+    63471-3002-2
+  original_packager_product_ndc:
+    0132-0333
+  unii:
+    SOI2LOH54Z

@@ -1,0 +1,38 @@
+effective_time:
+  20200318
+inactive_ingredient:
+  Inactive ingredient Purified water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Flammable, keep away from fire or flame Do not use with electrocautery procedures in the eyes Stop use if irritation and redness develop Ask a doctor if condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Isopropyl Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL Isopropyl Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL Isopropyl Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+ask_doctor:
+  Ask a doctor if condition persists for more than 72 hours
+openfda:
+version:
+  6
+dosage_and_administration:
+  Directions Wipe injection site vigorously
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at room temperature
+stop_use:
+  Stop use if irritation and redness develop
+do_not_use:
+  Do not use with electrocautery procedures in the eyes
+package_label_principal_display_panel:
+  Principal Display Panel – box Label – NDC# 55670-957-02 Reorder No. 96957 mooremedical UPN# 3-0607415-96957-3 Supporting Health & Care LATEX FREE MooreBrand ® Alcohol Prep Pads • Saturated with 70% Isopropyl Alcohol • Medium • 2-Ply • Non-Sterile • Box/100 • Case/20 Distributed by: Moore Medical LLC Farmington, CT 06032 Made in China 96957 box
+  Principal Display Panel – Box Label – NDC# 55670-958-02 Reorder No. 96958 mooremedical UPN# 0-0607415-96958-0 Supporting Health & Care LATEX FREE MooreBrand ® Alcohol Prep Pads • Saturated with 70% Isopropyl Alcohol • Medium • 2-Ply • Non-Sterile • Box/100 Distributed by: Moore Medical LLC Farmington CT 06032 Made in China 96958 box
+  Principal Display Panel – Box Label – NDC# 55670-959-02 NDC# 55670-957-01 mooremedical Supporting Health & Care Reorder No. 96957 LATEX FREE MooreBrand ® Alcohol Prep Pads • Saturated with 70% Isopropyl Alcohol • Medium • 2-Ply • Non-Sterile • Single-Use Distributed by: Moore Medical LLC Farmington, CT 06032 Made in China 96959 box
+indications_and_usage:
+  Use for preparation of the skin prior to an injection
+set_id:
+  ae8a2a39-62b0-4508-9533-3889d36bfe09
+id:
+  a1236923-c5ec-e7f3-e053-2995a90a1ba9
+active_ingredient:
+  Active ingredient Isopropyl Alcohol USP, 70% v/v

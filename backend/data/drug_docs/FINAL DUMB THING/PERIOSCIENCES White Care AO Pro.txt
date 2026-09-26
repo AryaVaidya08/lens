@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  PERIOSCIENCES White Care AO Pro SODIUM FLUORIDE WATER HYDRATED SILICA SORBITOL PROPYLENE GLYCOL SODIUM METHYL COCOYL TAURATE TRIBASIC CALCIUM PHOSPHATE COCAMIDOPROPYL BETAINE FERULIC ACID PHLORETIN HESPERETIN MENTHOL PEPPERMINT OIL SODIUM ASCORBYL PHOSPHATE PUMMELO STEVIA REBAUDIANA WHOLE SODIUM CITRATE ETHYLHEXYLGLYCERIN CARBOXYMETHYLCELLULOSE SODIUM POTASSIUM SORBATE TITANIUM DIOXIDE PHENOXYETHANOL SODIUM POLYMETAPHOSPHATE CAPRYLYL GLYCOL SODIUM FLUORIDE FLUORIDE ION
+spl_unclassified_section:
+  PERIOSCIENCES White Care AO Pro Toothpaste
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Uses Aids in prevention of dental cavities.
+warnings:
+  Warning Keep out of reach of children under 2 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 2 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Ask a dentist or physician
+other_safety_information:
+  Other information Not intended for ingestion. Upon application in the mouth, if you experience any irritation or unusual sensitivity, discontinue and consult your dental professional.
+inactive_ingredient:
+  Inactive ingredients glycerin, aqua (water), hydrated silica, sorbitol, propylene glycol, sodium methyl cocoyl taurate, pvp, hydroxyapatite, cocamidopropyl betaine, ferulic acid, phloretin, hesperetin, menthol, mentha piperita (peppermint) oil, sodium ascorbyl phosphate, sodium olivoyl glutamate, citrus grandis (grapefruit) fruit extract, stevia rebaudiana bertoni, sodium citrate, ethylhexylglycerin, cellulose gum, potassium sorbate, titanium dioxide, phenoxyethanol, sodium polyphosphate, caprylyl glycol
+questions:
+  Questions or Comments? Call toll-free 1-800-915-8110
+package_label_principal_display_panel:
+  PERIOSCIENCES WHITE CARE AO Pro Toothpaste Antioxidant gel toothpaste with stain lifters and micro-polish to extend whitening Net 3 fl oz / 90 ml Manufactured for and distributed by: PerioSciences LLC 11700 Preston Road #660 Dallas, TX 75230 www.PerioSciences.com Made in USA
+  PERIOSCIENCES White Care AO Pro Toothpaste 90ml (53238-001-90) Label Box Label
+set_id:
+  092bdfa3-6267-439e-9320-e51b4805d1a1
+id:
+  4a6b760a-db11-cbf8-e063-6394a90a6c6a
+effective_time:
+  20260209
+version:
+  7
+openfda:
+  application_number:
+    M021
+  brand_name:
+    PERIOSCIENCES White Care AO Pro
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    PERIOSCIENCES LLC
+  product_ndc:
+    53238-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    DENTAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    416783
+  spl_id:
+    4a6b760a-db11-cbf8-e063-6394a90a6c6a
+  spl_set_id:
+    092bdfa3-6267-439e-9320-e51b4805d1a1
+  package_ndc:
+    53238-001-90
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

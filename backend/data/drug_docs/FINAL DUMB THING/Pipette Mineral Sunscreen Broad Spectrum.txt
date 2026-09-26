@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Pipette Mineral Sunscreen Broad Spectrum SPF50 Zinc Oxide WATER MEDIUM-CHAIN TRIGLYCERIDES GLYCERIN SQUALANE CETOSTEARYL ALCOHOL METHYL DIHYDROABIETATE SORBITAN OLIVATE CETYL PALMITATE COCO GLUCOSIDE ETHYL FERULATE ISOSTEARIC ACID LECITHIN, SOYBEAN POLYGLYCERYL-3 RICINOLEATE POLYHYDROXYSTEARIC ACID (2300 MW) CAPRYLYL/CAPRYL OLIGOGLUCOSIDE ACACIA SENEGAL WHOLE XANTHAN GUM SODIUM GLUCONATE BISABOLOL OXIDE A HYDROXYACETOPHENONE HEXANEDIOL CAPRYLYL GLYCOL PHYSALIS ANGULATA ZINC OXIDE ZINC CATION
+active_ingredient:
+  Active Ingredients Zinc Oxide 20% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn if used as directed with other sun protection measures(see ​directions) ​, decreases the risk of skkin cancer and early signs of aging caused by the sun.
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged of broken skin When using this product keep out of eyes. Rinse with water to remove Stop use and ask a doctor if rash occurs Keep out of reach of children If product is swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove Stop use and ask a doctor if rash occurs Keep out of reach of children If product is swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  Stop use and ask a doctor if rash occurs Keep out of reach of children If product is swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply generously 15 minutes before sun exposure reapply at least every 2 hours ​Sun Protection Measures ​Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularyly use a sunscreen with a Broad Spectrum value of SPF 15 or higher and other sun protection measures including Limit time in the sun, especially from 10 a.m.- 2 p.m. wear long-sleeved shiirts, pants, hats and sunglasses use a water-resistant sunscreen if swimming or sweating children under 6 months of age:ask a doctor.
+inactive_ingredient:
+  Inactive ingredients Water, Caprylic/Capric Triglyceride, Glycerin, Squalane, Cetearyl Alcohol, Methyl Dihydroabietate, Sorbitan Olivate, Cetyl Palmitate, Coco-Glucoside, Ethyl Ferulate, Bisabolol, Hydroxyacetophenone, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyhydroxystearic Acid, Caprylyl/Capryl Glucosides, 1,2-Hexandiol, Caprylyl Glycol, Physalis Angulata Extract, Acacia Senegal Gum, Xanthan Gum, Sodium Gluconate.
+package_label_principal_display_panel:
+  Figure
+set_id:
+  a93cd61a-ae83-4c45-8fca-f904b5cf706d
+id:
+  ec975c9d-a14e-db6c-e053-2995a90a9e8f
+effective_time:
+  20221103
+version:
+  5
+openfda:

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  MU instant hand sanitizer Alcohol ALCOHOL ALCOHOL WATER POLYACRYLIC ACID (250000 MW) BUTYLENE GLYCOL PROPYLENE GLYCOL AMINOMETHYLPROPANOL
+active_ingredient:
+  Active Ingredient Alcohol Denat. 75% v/v.
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease. recommended for repeated use.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame. When using this product, avoid contact with broken skin, do not inhale or ingest. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions •Place enough product on hands to cover all surfaces. Rub hands together until dry. •Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information Other information Do not store above 105°F. May discolor some fabrics. Harmful to wood finishes and plastics.
+inactive_ingredient:
+  Inactive ingredients Water, acrylic acid homopolymer, Butane-1,3-diol, 1,1-propanediol, monoisobutanolamine, Fragrance
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Product label
+set_id:
+  73283c83-2cdf-48cb-a08c-328bfeae1b89
+id:
+  0e81daa3-f92e-4c1b-9ee5-12a1dd1de81e
+effective_time:
+  20200529
+version:
+  1
+openfda:

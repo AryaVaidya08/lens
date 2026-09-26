@@ -1,0 +1,27 @@
+effective_time:
+  20181122
+inactive_ingredient:
+  WATER, METHYLPROPANEDIOL, PENTYLENE GLYCOL, ULMUS DAVIDIANA ROOT EXTRACT, AMARANTHUS CAUDATUS SEED EXTRACT, CENTELLA ASIATICA EXTRACT, FICUS CARICA (FIG) FRUIT EXTRACT, HONEY EXTRACT, CITRUS JUNOS FRUIT EXTRACT, HYDROGENATED LECITHIN, SACCHAROMYCES FERMENT FILTRATE, BETAINE, TRIETHYLHEXANOIN, PEG-60 HYDROGENATED CASTOR OIL, SODIUM CITRATE, ETHYLHEXYLGLYCERIN, CITRIC ACID, DISODIUM EDTA, CERAMIDE NP, FRAGRANCE, PHENOXYETHANOL
+purpose:
+  Skin Protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  1 In the use of the product if the following phenomenon happen, please stop using; if continue using the situation gets worse, please consult with the doctor 1) red, itchy, tingling 2) please stop using if any of the above symptoms appear because of the sun exposure 2 Wounds, eczema, skin inflammation in the face, please do not use 3 Storage precautions 1) seale immediately after using 2) please place in theplace where the infant are unable to access in case eating by mistake 3) avoid placing in high temperature, low temperature or direct sunlight field
+spl_product_data_elements:
+  DR.ALTHEA DRINK UP ESSENTIAL MIST GLYCERIN WATER CENTELLA ASIATICA HONEY GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  1
+indications_and_usage:
+  Before or after wearing makeup,casually apray all over your face with your eyes closed, keeping 20 to 30cm of distance.
+set_id:
+  4c000c2f-9561-52ab-e054-00144ff8d46c
+id:
+  7b3e8411-a238-a012-e053-2991aa0a0b57
+active_ingredient:
+  GLYCERIN

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  ESIKA FORZE Roll-On Aluminum Sesquichlorohydrate WATER STEARETH-2 STEARETH-21 CYCLOMETHICONE 5 CYCLOMETHICONE 6 DICAPRYLYL CARBONATE TRICLOSAN BENZALKONIUM CHLORIDE EDETATE SODIUM LEVOMENOL MAGNESIUM NITRATE METHYLCHLOROISOTHIAZOLINONE MAGNESIUM CHLORIDE METHYLISOTHIAZOLINONE ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE
+spl_unclassified_section:
+  Drug Facts
+  PR: Distributed by Ventura Corporation, Ltd. San Juan, Puerto Rico 00926.
+active_ingredient:
+  Active Ingredients Aluminum sesquichlorohydrate (17%)
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness.
+warnings:
+  Warnings For external use only. Do not use on broken skin. Stop use and ask a doctor if rash and irritation occurs. Ask a doctor before use if you have kidney disease. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin.
+stop_use:
+  Stop use and ask a doctor if rash and irritation occurs.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients Aqua (water), steareth-2, ppg-15 stearyl ether, steareth-21, fragrance, cyclopentasiloxane, cyclohexasiloxane, dicaprylyl carbonate, triclosan, benzalkonium chloride, tetrasodium edta, bisabolol, magnesium nitrate, methylchloroisothiazolinone, magnesium chloride, methylisothiazolinone
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Bottle Label FORZE ANTIPERSPIRANT ROLL-ON DEODORANT does not contain alcohol ēsika 50 ml e (1.7 fl.oz.) PRINCIPAL DISPLAY PANEL - 50 ml Bottle Label
+set_id:
+  ec8b55c6-5e8e-4b3a-950d-4e18f0ff193f
+id:
+  32365f34-5fb0-21bb-e063-6394a90a7938
+effective_time:
+  20250407
+version:
+  2
+openfda:

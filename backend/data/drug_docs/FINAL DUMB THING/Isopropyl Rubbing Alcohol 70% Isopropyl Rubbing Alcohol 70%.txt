@@ -1,0 +1,27 @@
+effective_time:
+  20200611
+inactive_ingredient:
+  Aqua
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization
+warnings:
+  Keep product away from fire or flame,heat, sparks and electricity.Fumes can be acutely initating to skin,eyes, and the respiratory system. Avoid contact with eyes, skin,or mucous membranes. Do not take intermally. use only in a well-verntilated area. Close container after use.Contains isopropyl alcchol.
+spl_product_data_elements:
+  Isopropyl Rubbing Alcohol 70% Isopropyl Rubbing Alcohol 70% WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Store in a cool and dry place
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Take a small amount of product on the surface of the object until dry
+set_id:
+  a7c8f11f-193e-5eea-e053-2995a90abb23
+id:
+  a7c8f11f-193f-5eea-e053-2995a90abb23
+active_ingredient:
+  isopropyl alcohol

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Calcium Antacid Calcium Carbonate CALCIUM CARBONATE CALCIUM CATION DEXTROSE FD&C BLUE NO. 1 FD&C RED NO. 40 MAGNESIUM STEARATE MALTODEXTRIN RH031
+active_ingredient:
+  Active ingredient Calcium Carbonate 750 mg
+purpose:
+  Purpose Acid Indigestion, Heartburn, Sour & Upset Stomach
+indications_and_usage:
+  Uses relieves • heartburn • acid indigestion • sour stomach • upset stomach due to these symptoms
+warnings:
+  Warnings
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are
+when_using:
+  When Using do not take more than 10 tablets in a 24 hour period or use the maximum dosage of this product for more than two weeks.
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children
+dosage_and_administration:
+  Directions • chew 2-4 tablets as symptoms occur, repeat hourly if needed Other Information • store at 59°-86°F • do not use if imprinted safety seal under cap is broken or missing • Calcium content per tablet: 300 mg Supplement Facts • Serving size 2 tablets • Servings per Container: 50 • Amount Per Serving Calories: 10 Calcium: 600 mg(60%DV)
+inactive_ingredient:
+  Inactive Ingredients dextrose, FD&CBlue #1, FD&C Red #40, flavors, magnesium stearate, maltodextrin Packaged and Distributed by: Safecor Health, LLC Woburn, MA 01801
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Sodium Free CALCIUM ANTACID Extra Strength 750 mg Assorted Berry flavor Chewable Tablets Calcium Antacid 750 mg UD box label
+set_id:
+  3c2efeee-7e66-4b2b-8fc9-5e68f6076b0b
+id:
+  2f4aaaac-51e6-4300-a156-407bc8641bcc
+effective_time:
+  20230207
+version:
+  2
+openfda:

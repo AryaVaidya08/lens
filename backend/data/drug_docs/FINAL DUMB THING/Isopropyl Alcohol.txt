@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Isopropyl Alcohol Isopropyl Alcohol Spray WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70%
+purpose:
+  Purpose First Aid Antiseptic
+indications_and_usage:
+  Use(s) • First aid to help prevent infection in minor cuts, scrapes, and burns.
+warnings:
+  Warnings For External Use Only Do not use • Near eyes or mucous membranes • Over large areas of the body • Longer than 1 week unless directed by a doctor • With electrocautery procedures Ask a doctor before use if you have Deep or puncture wounds, animal bites, or serious burns. Stop use and ask a doctor if Condition persists for more than 72 hours or get worse. Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use • Near eyes or mucous membranes • Over large areas of the body • Longer than 1 week unless directed by a doctor • With electrocautery procedures
+ask_doctor:
+  Ask a doctor before use if you have Deep or puncture wounds, animal bites, or serious burns.
+stop_use:
+  Stop use and ask a doctor if Condition persists for more than 72 hours or get worse.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions • Clean the affected area and spray 1 to 3 times daily • May be covered with a sterile bandage • If bandaged, let dry first • Children under 12 years of age: C onsult a doctor before use
+other_safety_information:
+  Other Information • Store at 20º-25ºC • Avoid excessive heat
+inactive_ingredient:
+  Inactive Ingredient Purified Water
+questions:
+  Questions? 1-888-Dynarex Monday - Friday, 9AM - 5PM EST
+package_label_principal_display_panel:
+  Label 1166 Isopropyl Alcohol Spray 1166_IN_MASTER
+set_id:
+  116e0c9c-cbe0-bf67-e063-6394a90ae530
+id:
+  116e0c9c-cbe1-bf67-e063-6394a90ae530
+effective_time:
+  20240215
+version:
+  1
+openfda:
+  application_number:
+    M003
+  brand_name:
+    Isopropyl Alcohol
+  generic_name:
+    ISOPROPYL ALCOHOL SPRAY
+  manufacturer_name:
+    Dynarex Corporation
+  product_ndc:
+    67777-011
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ISOPROPYL ALCOHOL
+  rxcui:
+    1014638
+  spl_id:
+    116e0c9c-cbe1-bf67-e063-6394a90ae530
+  spl_set_id:
+    116e0c9c-cbe0-bf67-e063-6394a90ae530
+  package_ndc:
+    67777-011-02
+    67777-011-01
+  is_original_packager:
+    True
+  upc:
+    0840117332713
+  unii:
+    ND2M416302

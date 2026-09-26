@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Gillette Clinical Sport Clear Power Rush Aluminum Zirconium Octachlorohydrex Gly WATER CYCLOMETHICONE 5 DIMETHICONE PROPYLENE GLYCOL CALCIUM CHLORIDE PEG/PPG-18/18 DIMETHICONE ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Dist. by PROCTER & GAMBLE, CINCINNATI, OH 45202.
+active_ingredient:
+  Active ingredient Aluminum zirconium octachlorohydrex Gly 20% (anhydrous)
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Use reduces underarm wetness
+warnings:
+  Warnings For external use only. Do not use on broken skin Ask a doctor before use if you have kidney disease Stop use if rash or irritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+stop_use:
+  Stop use if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only apply 3 - 4 clicks of product to underarms at bedtime rub in until clear
+inactive_ingredient:
+  Inactive ingredients water, cyclopentasiloxane, dimethicone, propylene glycol, alcohol denat., calcium chloride, PEG/PPG-18/18 dimethicone, fragrance
+questions:
+  Questions? 1-800-445-5388
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 45 g Canister Carton Gillette ® CLINICAL POWER RUSH CLEAR GEL TESTED BY ELITE ATHLETES POWERFUL PROTECTION GOES ON CLEAR ANTI-PERSPIRANT/ DEODORANT ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY NET WT. 1.6 OZ.(45 g) Gill1
+set_id:
+  a5de1093-f88f-491c-887c-1704d4a0a5f9
+id:
+  e703b649-e6cc-caaa-e053-2995a90a9d25
+effective_time:
+  20230124
+version:
+  5
+openfda:

@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Hand Sanitizer Ethyl Alcohol WATER GLYCERIN .ALPHA.-TOCOPHEROL ACETATE CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) SULISOBENZONE EXT. D&C VIOLET NO. 2 FD&C BLUE NO. 1 FD&C RED NO. 40 ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl alcohol 63%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For external use only: hands Flammable. Keep away from heat and flame.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+spl_unclassified_section:
+  Other information do not store above 105⁰F may discolor some fabrics harmful to wood finishes and plastics
+  *Effective at eliminating 99.99% of many common harmful germs and bacteria in as little as 15 seconds. Questions or comments? 1-800-925-4733 Distributed by Walgreen Co. 200 Wilmot Road, Deerfield, IL 60015 100% satisfaction guaranteed walgreens.com (c) 2019 Walgreen Co. Made in USA with US and foreign components
+inactive_ingredient:
+  Inactive ingredients water, glycerin, tocopheryl acetate, acrylates/C10-30 alkyl acrylate crosspolymer, benzophenone-4, fragrance, ext.violet 2, blue 1, red 40
+package_label_principal_display_panel:
+  principal display panel Walgreens Hand Sanitizer Coastal Breeze Scent Kills 99.99% of germs 2 FL OZ (59 mL) image description
+set_id:
+  60fadb9c-daa3-42b6-97b8-eade0125385a
+id:
+  14d2de37-620d-5030-e063-6294a90a8632
+effective_time:
+  20240329
+version:
+  11
+openfda:

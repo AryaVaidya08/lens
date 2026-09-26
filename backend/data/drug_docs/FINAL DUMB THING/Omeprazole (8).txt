@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Omeprazole Omeprazole OMEPRAZOLE MAGNESIUM OMEPRAZOLE FERROSOFERRIC OXIDE GELATIN, UNSPECIFIED HYDROXYPROPYL CELLULOSE (70000 WAMW) HYPROMELLOSE 2208 (100 MPA.S) MAGNESIUM CARBONATE MAGNESIUM STEARATE METHACRYLIC ACID AND ETHYL ACRYLATE COPOLYMER POLYSORBATE 80 POTASSIUM HYDROXIDE PROPYLENE GLYCOL SHELLAC SODIUM STEARYL FUMARATE TALC TITANIUM DIOXIDE TRIETHYL CITRATE STARCH, CORN SUCROSE FD&C BLUE NO. 1 FD&C RED NO. 40 POLYETHYLENE GLYCOL 6000 RG;49
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: CVS Pharmacy, Inc. One CVS Drive Woonsocket, RI 02895
+active_ingredient:
+  Active ingredient (in each capsule) *Omeprazole delayed-release capsule 20 mg (equivalent to 20.6 mg omeprazole magnesium, USP)
+purpose:
+  Purpose Acid reducer
+indications_and_usage:
+  Use treats frequent heartburn (occurs 2 or more days a week) not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect
+warnings:
+  Warnings Allergy alert Do not use if you are allergic to omeprazole Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain These may be signs of a serious condition. See your doctor. Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs. Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days you need to take more than 1 course of treatment every 4 months you get diarrhea you develop a rash or joint pain If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you have trouble or pain swallowing food, vomiting with blood, or bloody or black stools heartburn with lightheadedness, sweating or dizziness chest pain or shoulder pain with shortness of breath; sweating; pain spreading to arms, neck or shoulders; or lightheadedness frequent chest pain These may be signs of a serious condition. See your doctor.
+ask_doctor:
+  Ask a doctor before use if you have had heartburn over 3 months. This may be a sign of a more serious condition. frequent wheezing, particularly with heartburn unexplained weight loss nausea or vomiting stomach pain
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking a prescription drug. Acid reducers may interact with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if your heartburn continues or worsens you need to take this product for more than 14 days you need to take more than 1 course of treatment every 4 months you get diarrhea you develop a rash or joint pain
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions for adults 18 years of age and older this product is to be used once a day (every 24 hours), every day for 14 days it may take 1 to 4 days for full effect; some people get complete relief of symptoms within 24 hours 14-Day Course of Treatment swallow 1 capsule with a glass of water before eating in the morning take every day for 14 days do not take more than 1 capsule a day do not use for more than 14 days unless directed by your doctor swallow whole. Do not chew or crush capsules. Repeated 14-Day Courses (if needed) you may repeat a 14-day course every 4 months do not take for more than 14 days or more often than every 4 months unless directed by a doctor children under 18 years of age: ask a doctor. Heartburn in children may sometimes be caused by a serious condition.
+storage_and_handling:
+  Other information read the directions and warnings before use keep the carton. It contains important information. Store at 20-25°C (68-77°F). [See USP controlled room temperature]. Protect from moisture
+inactive_ingredient:
+  Inactive ingredients FD&C blue #1, FD&C red #40, ferrosoferric oxide, gelatin, hydroxypropyl cellulose, hypromellose, magnesium carbonate, magnesium stearate, methacrylic acid copolymer, mono and di glycerides, polyethylene glycol 6000, polysorbate 80, potassium hydroxide, propylene glycol, shellac, sodium stearyl fumarate, sugar spheres (starch and sucrose), talc, titanium dioxide and triethyl citrate
+questions:
+  Questions? Call toll-free Monday to Friday 8:30 am to 5 pm EST at 1800-406-7984 .
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Carton CVS Health ® Compare to the active ingredient in Prilosec OTC ® ** NDC 51316-061-28 DOUBLE PACK 2 X 14 COUNT BOTTLES INSIDE Treats Frequent Heartburn! Omeprazole 24 HOUR DELAYED-RELEASE CAPSULES 20 mg* Acid reducer May take 1 to 4 days for full effect Actual Size 28 CAPSULES Two 14-day courses of treatment Package Contains Two Bottles PRINCIPAL DISPLAY PANEL - 20 mg Capsule Bottle Carton
+set_id:
+  0769e47f-f8f1-4b1c-a8cc-7c8385c74070
+id:
+  a3b8b93d-6725-4c5c-8b80-dcc27e408501
+effective_time:
+  20210416
+version:
+  2
+openfda:
+  application_number:
+    ANDA210593
+  brand_name:
+    Omeprazole
+  generic_name:
+    OMEPRAZOLE
+  manufacturer_name:
+    CVS Pharamacy, Inc
+  product_ndc:
+    51316-061
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    OMEPRAZOLE MAGNESIUM
+  rxcui:
+    198051
+  spl_id:
+    a3b8b93d-6725-4c5c-8b80-dcc27e408501
+  spl_set_id:
+    0769e47f-f8f1-4b1c-a8cc-7c8385c74070
+  package_ndc:
+    51316-061-28
+  is_original_packager:
+    True
+  upc:
+    0050428320761
+  unii:
+    426QFE7XLK

@@ -1,0 +1,39 @@
+effective_time:
+  20030801
+contraindications:
+  CONTRAINDICATIONS SECTION Contraindicated in persons with primary glaucoma or a tendency toward glaucoma, e.g., narrow anterior chamber angle, and in those persons showing hypersensitivity to any component of this preparation.
+references:
+  REFERENCES SECTION Kirk M, Kulig K, Rumack BH. Anticholinergics. In: Clinical Management of Poisoning and Drug Overdose, Second Edition. Edited by Haddad LM, Winchester JF. Philadelphia, W.B. Sauders Company, 1990, p 861-867. Tani SA. Anticholinergics. In: Poisoning and Drug Overdose, Second Edition. Olson KR. Norwalk, CT, Appleton & Lange, 1994, p 75-76. Revised: August 2003 ©2003 Alcon, Inc. 340916-0803 ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA Printed in USA
+precautions:
+  PRECAUTIONS SECTION General To avoid excessive systemic absorption, the lacrimal sac should be compressed by digital pressure for two to three minutes after instillation. To avoid inducing angle closure glaucoma, an estimation of the depth of the angle of the anterior chamber should be made. Administration of atropine in infants requires great caution. Information for Patients Do not touch dropper tip to any surface, as this may contaminate the solution. Carcinogenesis, mutagenesis, impairment of fertility No studies have been conducted in animals or in humans to evaluate the potential of these effects. Pregnancy Category C Animal reproduction studies have not been performed with atropine. It is also not known whether atropine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Atropine should be given to pregnant women only if clearly needed. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when atropine is administered to a nursing woman. Pediatric Use Safety and effectiveness in pediatric patients have not been established. Geriatric Use No overall differences in safety or effectiveness have been observed between elderly and younger patients.
+warnings:
+  WARNINGS SECTION FOR TOPICAL OPHTHALMIC USE ONLY – NOT FOR INJECTION. Excessive use in certain individuals with a previous history of susceptibility to belladonna alkaloids may produce systemic symptoms of atropine poisoning.
+spl_product_data_elements:
+  Isopto Atropine atropine sulfate Atropine Sulfate Atropine Benzalkonium Chloride Hypromellose 2910 (4000 Mpa.s) Boric Acid Sodium Hydroxide Hydrochloric Acid Water Chemical Diagram Carton Label
+description:
+  DESCRIPTION SECTION ISOPTO® Atropine (atropine sulfate ophthalmic solution) is an anticholinergic prepared as a sterile topical ophthalmic solution. The active ingredient is represented by the chemical structure: Each mL contains: Active: atropine sulfate 1.0%. Preservative: benzalkonium chloride 0.01%. Vehicle: 0.5% hypromellose 2910. Inactives: boric acid, sodium hydroxide and/or hydrochloric acid (to adjust pH), purified water.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Adults: For uveitis, administer one or two drops topically to the eye(s) up to four times daily. The lacrimal sac should be compressed by digital pressure for two to three minutes after instillation. Heavily pigmented irides may require larger doses.
+adverse_reactions:
+  ADVERSE REACTIONS SECTION Prolonged use may produce local irritation characterized by follicular conjunctivitis, vascular congestion, edema, exudate, and an eczematoid dermatitis. Severe reactions are manifested by hypotension with progressive respiratory depression. Coma and death have been reported in the very young.
+spl_unclassified_section:
+  PATIENT WARNING Patient should be advised not to drive or engage in other hazardous activities while pupils are dilated. Patient may experience sensitivity to light and should protect eyes in bright illumination during dilation. Parents should be warned not to get this preparation in their child’s mouth and to wash their hands following administration.
+storage_and_handling:
+  STORAGE SECTION Store at 8° - 27°C (46° - 80°F). Rx Only
+how_supplied:
+  HOW SUPPLIED SECTION Supplied in 5 mL and 15 mL in plastic DROP-TAINER® dispensers. 5 mL: NDC 0998-0303-05 15 mL: NDC 0998-0303-15
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 0998-0303-05 Alcon® Isopto Atropine 1% (atropine sulfate ophthalmic solution) 5 mL Sterile
+indications_and_usage:
+  INDICATIONS & USAGE SECTION For mydriasis and/or cycloplegia. For cycloplegic refraction, for papillary dilation desired in inflammatory conditions of the iris and uveal tract.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY SECTION This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the accommodative muscle of the ciliary body to cholinergic stimulation, producing pupillary dilation (mydriasis) and paralysis of accommodation (cycloplegia).
+set_id:
+  45c58d77-c346-280b-20fa-37021a246486
+id:
+  cca483a9-57f6-73cf-13c1-5e55073cde42
+overdosage:
+  OVERDOSAGE SECTION Systemic atropine toxicity is manifested by flushing and dryness of the skin (a rash may be present in children), blurred vision, a rapid and irregular pulse, fever, abdominal distention in infants, mental aberration (hallucinosis) and loss of neuromuscular coordination. Atropine poisoning, although distressing, is rarely fatal even with large doses of atropine, and is self-limited if the cause is recognized and the atropine medication discontinued. Treatment includes supportive measures including maintaining a patent airway and assisting respiration if needed. Treat hyperthermia, coma and seizures if they occur (1). In infants and children, the body surface must be kept moist. Excitement may be controlled by diazepam or a short acting barbiturate. For ingestion, activated charcoal can be used to prevent drug absorption. If necessary, ipecac or another cathartic may be useful for drug removal during initial treatment (1,2). Physostigmine is used as an antidote to the systemic effects of atropine and may be administered parenterally to provide more prompt relief of intoxication. Parenteral physostigmine may be particularly useful in cases of pronounced hallucinations, agitation in which a patient may be dangerous to himself or others, arrhythmias resulting in uncontrolled hemodynamic instability, and intractable seizures.

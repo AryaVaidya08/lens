@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  FlashWipes Lemon Citrus Benzalkonium chloride EDETATE SODIUM METHYLISOTHIAZOLINONE METHYLCHLOROISOTHIAZOLINONE POLYOXYL 40 HYDROGENATED CASTOR OIL BENZALKONIUM CHLORIDE BENZALKONIUM WATER GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  MADE IN PERU FLASH WIPES IS DISTRIBUTED BY AND IS A REGISTERED TRADEMARK OF URBAN ATTITUDES HOLDINGS LTD. GREAT NECK, NY 11023 (516) 206-3672
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin recommended for repeated use
+warnings:
+  Warnings For external use only When using this product keep away from eyes. In case of eye contact, rinse eyes with water. Stop use and ask a doctor if irritation or redness develop or last more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product keep away from eyes. In case of eye contact, rinse eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop or last more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions rub wipe thoroughly over all sufaces of both hands and allow to dry.
+storage_and_handling:
+  Other information store between 15-30°C (59-86°F)
+inactive_ingredient:
+  Inactive ingredients water, glycerin, methylchloroisothiazolinone, methylisothiazonlinone, PEG-40 hydrogenated castor oil, tetrasodium EDTA, fragrance
+package_label_principal_display_panel:
+  ANTISEPTIC HAND SANITIZER FLASHWIPES LEMON CITRUS MIST GENTLE ON HANDS TOUGH ON DIRT KILLS UP TO 99.99% OF GERMS BENZALKONIUM CHLORIDE 0.1% 15 SHEETS WET WIPES 6.5 IN. x 6 IN. (15.2 CM x 16.5 CM) canister Lemon Citrus 010
+set_id:
+  af874dff-4033-5ce8-e053-2995a90a1b3e
+id:
+  af874dff-4034-5ce8-e053-2995a90a1b3e
+effective_time:
+  20200917
+version:
+  1
+openfda:

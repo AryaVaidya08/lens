@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  Vicks DayQuil Cough Dextromethorphan Hydrobromide CITRIC ACID MONOHYDRATE D&C YELLOW NO. 10 FD&C YELLOW NO. 6 HIGH FRUCTOSE CORN SYRUP POLYETHYLENE GLYCOL, UNSPECIFIED PROPYLENE GLYCOL WATER SACCHARIN SODIUM SODIUM CITRATE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Procter & Gamble, Cincinnati OH 45202.
+active_ingredient:
+  Active ingredient (in each 15 mL tablespoon) Dextromethorphan HBr 15 mg
+purpose:
+  Purpose Cough suppressant
+indications_and_usage:
+  Use temporarily relieves cough due to minor throat and bronchial irritation
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, or emphysema When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) persistent or chronic cough such as occurs with smoking, asthma, or emphysema
+when_using:
+  When using this product, do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions take only as recommended use dose cup or tablespoon (TBSP) do not exceed 4 doses per 24 hours adults and children 12 years and over 30 mL (2 TBSP) every 6-8 hours children 6 to under 12 years 15 mL (1 TBSP) every 6-8 hours children 4 to under 6 years ask a doctor children under 4 years do not use when using other DayQuil or NyQuil® products, carefully read each label to insure correct dosing
+dosage_and_administration_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 12 years and over</td><td> 30 mL (2 TBSP) every 6-8 hours</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 6 to under 12 years</td><td>15 mL (1 TBSP) every 6-8 hours</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 4 to under 6 years</td><td> ask a doctor</td></tr><tr><td styleCode="Rrule">children under 4 years</td><td>do not use</td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablespoon contains: sodium 15 mg store at room temperature
+inactive_ingredient:
+  Inactive ingredients citric acid, D&C Yellow No. 10, FD&C Yellow No. 6, flavor, high fructose corn syrup, polyethylene glycol, propylene glycol, purified water, saccharin sodium, sodium citrate
+questions:
+  Questions? 1-800-251-3374
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 354 ml Bottle Label VICKS ® DayQuil ® COUGH Dextromethorphan HBr Cough Suppressant Up to 8 hours of cough relief Non-Drowsy Alcohol Free / Antihistamine Free 12 FL OZ (354 ml) PRINCIPAL DISPLAY PANEL - 354 ml Bottle Label
+set_id:
+  b902745f-ed3a-449d-ae8d-0b62af15238a
+id:
+  eac35822-916a-e598-e053-2a95a90ac8f1
+effective_time:
+  20220728
+version:
+  7
+openfda:

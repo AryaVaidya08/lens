@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Zeasorb Athletes Foot MICONAZOLE NITRATE TRICALCIUM PHOSPHATE STARCH, TAPIOCA WATER STARCH, CORN CAPRYLYL GLYCOL 1,2-HEXANEDIOL ALOE VERA LEAF YEAST .BETA.-D-GLUCAN GLYCERIN POTASSIUM SORBATE MICONAZOLE NITRATE MICONAZOLE SODIUM BENZOATE LACTOBACILLUS ACIDOPHILUS
+active_ingredient:
+  Active ingredient Miconazole nitrate 2%
+purpose:
+  Purpose Antifungal
+indications_and_usage:
+  Use Proven clinically effective in the treament of most athlete's foot
+warnings:
+  Warnings For external use only. Avoid contact with eyes. Do not use on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks, discontinue use and consult a doctor. Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+do_not_use:
+  Do not use on children under 2 years of age unless directed by a doctor. If irritation occurs or if there is no improvement within 4 weeks, discontinue use and consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Clean the affected area and dry thoroughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Supervise children in the use of this product. Pay special attention to spaces between the toes; wear well fitting, ventilated shoes, and change shoes and socks at least once daily. Use daily for 4 weeks. If condition persists longer, consult a doctor. This product is not effective on the scalp or nails.
+storage_and_handling:
+  Other information store at 20 o - 25 o C (68 o - 77 o F) [see USP Controlled Room Temperature]. Product settles during shipment. Package contains full net weight.
+inactive_ingredient:
+  Inactive ingredients 1,2-Hexanediol, Aloe Barbadensis Leaf Juice Powder, Beta-Glucan, Caprylyl Glycol, Fragrance, Glycerin, Lactobacillus Ferment, Potassium Sorbate, Sodium Benzoate, Tapioca Starch, Tricalcium Phosphate, Water, Zea Mays (Corn) Starch
+questions:
+  Questions? call 1-833-279-6522
+package_label_principal_display_panel:
+  Principal Display Zeasorb® AF Antifungal Powder with 2% Miconazole Nitrate Cures Most Athlete's Foot Relieves Itching, Burning, and Scaling Patented Odor Control Technology Attacks and Absorbs Moisture Talc-Free, Paraben Free, Aluminum Free Dermatologist Recommended Net wt. 2.5 oz (71g) P12320.01 Zeasorb AF
+set_id:
+  09bb313e-90cb-5629-e063-6294a90ac268
+id:
+  48340802-e215-04b8-e063-6394a90ad0fc
+effective_time:
+  20260112
+version:
+  3
+openfda:
+  application_number:
+    M005
+  brand_name:
+    Zeasorb Athletes Foot
+  generic_name:
+    MICONAZOLE NITRATE
+  manufacturer_name:
+    Crown Laboratories
+  product_ndc:
+    0316-8000
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    MICONAZOLE NITRATE
+  rxcui:
+    998461
+    1437793
+  spl_id:
+    48340802-e215-04b8-e063-6394a90ad0fc
+  spl_set_id:
+    09bb313e-90cb-5629-e063-6294a90ac268
+  package_ndc:
+    0316-8000-01
+  is_original_packager:
+    True
+  unii:
+    VW4H1CYW1K

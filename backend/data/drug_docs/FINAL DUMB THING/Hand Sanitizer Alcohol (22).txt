@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Hand Sanitizer Alcohol WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) GLYCERIN ISOPROPYL MYRISTATE TOCOPHEROL ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommended for repeated use
+warnings:
+  Warnings For exterenal use only: hands Flammable, keep away from fire or flame.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroghly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+storage_and_handling:
+  Other information do not store above 105⁰F may discolor some fabrics harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients water, carbomer or acrylates/C10-30 alkyl acrylate crosspolymer, fragrance, glycerin, isopropyl myristate, tocopheryl acetate
+spl_unclassified_section:
+  Disclaimer and Claim *Effective at eliminating 99.99% of many common harmful germs & bacteria in as little as 15 seconds. FORMULA MADE IN USA EMPLOYEE OWNED
+adverse_reactions:
+  Adverse Reaction Distributed By Vi-Jon, LLC St. Louis, MO 63114 www.germx.com
+package_label_principal_display_panel:
+  Principal panel display NEW LOOK! SAME FORMULA germ-X ® SINCE 1997 ORINGINAL MOISTURIZING HAND SANITIZER Kills 99.99% of Germs* with vitamin E 8 FL OZ 236 mL image description
+set_id:
+  a6240ce0-ea7b-406b-9eb7-09892f8fbf91
+id:
+  16ef3797-7f33-62a1-e063-6294a90ae139
+effective_time:
+  20240425
+version:
+  2
+openfda:

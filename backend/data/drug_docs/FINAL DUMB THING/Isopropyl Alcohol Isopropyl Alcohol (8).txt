@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  Isopropyl Alcohol Isopropyl Alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Isopropyl alcohol 91%
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Use helps prevent the rist of infection in: minor cuts scrapes burns
+warnings:
+  Warnings For external use only
+spl_unclassified_section:
+  Flammable Keep away from fire or flame, heat, spark, electrical
+  Distributed by: SELECT BRAND DISTRIBUTORS Pine Bluff, AR 71603 USA AC (870) 535-3635
+ask_doctor:
+  Ask a doctor before use for deep wounds, animal bites or serious burns
+when_using:
+  When using this product do not get into eyes do not inhale do not apply over large areas of the body do not use longer than 1 week unless directed by a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the affected area apply a small amount of this product on the area 1 to 3 times daily may be covered with a sterile bandage if bandaged, let dry first
+other_safety_information:
+  other information does not contain, nor is intended as a substitute for grain or ethyl alcohol will product serious gastric disturbances if taken internally
+inactive_ingredient:
+  Inactive ingredients water
+package_label_principal_display_panel:
+  principal display panel Select brand the lower price name brand 91% Isopropyl ALCOHOL First Aid Antiseptic For treatment of minor cuts & scrapes Square bottles uses less plastic than a similarly sized round bottle. Recyclable (If available in your area) WARNING FLAMMABLE Keep away from heat, spark, electrical, fire or flame Use only in a well-ventilated area; fumes may be harmful 16 FL OZ (473 mL) image description
+set_id:
+  2317fd99-26a6-4c44-af90-d367ee21580e
+id:
+  253aa3d0-a8c0-1fbf-e063-6294a90af01b
+effective_time:
+  20241024
+version:
+  14
+openfda:

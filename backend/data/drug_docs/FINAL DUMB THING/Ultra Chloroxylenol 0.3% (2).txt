@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Ultra Chloroxylenol 0.3% WATER SODIUM C14-16 OLEFIN SULFONATE LAURAMINE OXIDE LAURAMIDOPROPYLAMINE OXIDE MYRISTAMIDOPROPYLAMINE OXIDE SODIUM LAURETH SULFATE SODIUM LAURYL SULFATE SODIUM CHLORIDE SODIUM XYLENESULFONATE ALCOHOL PHENOXYETHANOL CITRIC ACID MONOHYDRATE METHYLISOTHIAZOLINONE EDETATE SODIUM FD&C YELLOW NO. 5 FD&C BLUE NO. 1 CHLOROXYLENOL CHLOROXYLENOL
+active_ingredient:
+  Active ingredient Chloroxylenol 0.3%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only: hands only
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions wet hands apply palmful to hands scrub thoroughly rinse thoroughly
+inactive_ingredient:
+  Inactive ingredients water, sodium C14-16 olefin sulfonate, lauramine oxide and/or lauramidopropylamine oxide and myristamidopropylamine oxide, sodium laureth sulfate, sodium lauryl sulfate, sodium chloride, sodium xylenesulfonate, alcohol denat., fragrance, phenoxyethanol, citric acid, methylisothiazolinone, tetrasodium EDTA, yellow 5, blue 1
+spl_unclassified_section:
+  WARNING NOT FOR USE IN DISHWASHERS. DO NOT ADD BLEACH Phosphate Free Contains Surfactants Not tested on animals ANTIBACTERIAL HAND SOAP GREEN APPLE SCENT Ultra Concentrated Dishwashing Liquid DIST. & SOLD EXCLUSIVELY BY: ALDI, BATAVIA, IL 60510 This product is not manufactured or distributd by Procter & Gamble, distributor of Dawn Ultra Antibacterial Hand Soap Apple Blossom Scent
+package_label_principal_display_panel:
+  principal display panel Radiance TOUCH ON GREASE ANTIBACTERIAL | HAND SOAP COMPARE TO DAWN ULTRA ANTIBACTERIAL HAND SOAP APPLE BLOSSOM SCENT 24 FL OZ (710 mL) image description
+set_id:
+  be8d31d8-032d-47c2-bad3-4ef993233dbd
+id:
+  2ea9cbcc-025c-adba-e063-6294a90a88b4
+effective_time:
+  20250221
+version:
+  7
+openfda:

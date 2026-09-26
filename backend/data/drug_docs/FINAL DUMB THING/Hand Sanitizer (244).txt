@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Hand Sanitizer ETHYL ALCOHOL .ALPHA.-HEXYLCINNAMALDEHYDE .ALPHA.-IONONE BENZYL SALICYLATE SALICYLIC ACID DENATONIUM BENZOATE MALTODEXTRIN .ALPHA.-AMYLCINNAMALDEHYDE PROPYLENE GLYCOL MANNITOL ALCOHOL ALCOHOL WATER ALOE VERA LEAF GLYCERIN CARBOMER INTERPOLYMER TYPE A (55000 CPS) AMINOMETHYLPROPANOL CELLULOSE, MICROCRYSTALLINE SUCROSE STARCH, CORN .ALPHA.-TOCOPHEROL ACETATE HYPROMELLOSES FD&C RED NO. 4 FD&C YELLOW NO. 5 .ALPHA.-AMYLCINNAMYL ALCOHOL BROWN IRON OXIDE
+active_ingredient:
+  Active ingredient Alcohol 67%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses for handwashing to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. Do not use in the eyes.In case of contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop. condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hand thoroughly with product and allow to dry without wiping
+storage_and_handling:
+  Other information store at a temperature below 110 F(43 C)
+inactive_ingredient:
+  Inactive ingredients water(aqua), aloe vera leaf juice, glycerin, propylene glycol, fragrance(parfum), acrylates/C30-10 alkyl acrylate crosspolymer, aminomethyl propanol, mannitol, microcrystalline cellulose, sucrose, corn(zea mays) starch, hydroxpropyl methyl cellulose, tocopheryl acetate, denatonium benzonate, maltodextrin, alpha-isomethyl ionone, amyl cinnamal, amylcinnamyl alcohol, benzyl salicylate, hexyl cinnamal, Iron Oxides, FD&C Red No.4, FD&C Yellow No.5.
+package_label_principal_display_panel:
+  image of bottle label
+set_id:
+  8289a38f-3c0a-1214-e053-2a91aa0a0bc4
+id:
+  828a836d-dab8-e387-e053-2991aa0a7261
+effective_time:
+  20190223
+version:
+  1
+openfda:

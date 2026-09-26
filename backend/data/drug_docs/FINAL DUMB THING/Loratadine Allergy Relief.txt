@@ -1,0 +1,72 @@
+spl_product_data_elements:
+  Loratadine Allergy Relief Loratadine LORATADINE LORATADINE STARCH, CORN LACTOSE MONOHYDRATE MAGNESIUM STEARATE White to Off White RX526
+active_ingredient:
+  ACTIVE INGREDIENT(S) Loratadine USP, 10 mg
+purpose:
+  PURPOSE Antihistamine
+indications_and_usage:
+  USE(S) Temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  WARNINGS Do not use If you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose. When using this product Do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, Ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use If you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have Liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product Do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if An allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, Ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver and kidney disease ask a doctor
+dosage_and_administration_table:
+  <table ID="inv-21928a8b-f216-4b17-a342-4aef0a506ea1" frame="border" border="1"> <col ID="inv-81d8c62d-1e39-41d1-9743-b9c0bf5c5ad6" width="297.00px"/> <col ID="inv-4f37353a-e96c-40c4-b38a-67a9684a72e9" width="326.00px"/> <tbody ID="inv-ae89a2d0-9047-465c-a73b-b0c67ade1327"> <tr ID="inv-75be4eaa-52c9-49dc-89fc-a0359207f991"> <td ID="inv-6bb7bd7a-0bc4-4441-9ed3-9cf3bb177c84">adults and children 6 years and over</td> <td ID="inv-5a76a357-2b2a-4b8a-828f-4fc105dd8b35">1 tablet daily; not more than 1 tablet in 24 hours</td> </tr> <tr ID="inv-565134c1-e3ae-4433-89c9-6033e2352de9"> <td ID="inv-3035d3ed-3198-42a9-b993-cb9fb5b29b05">children under 6 years of age</td> <td ID="inv-a9680774-1119-419a-ab91-c124186942e1">ask a doctor</td> </tr> <tr ID="inv-3c1167cf-2ff1-41b0-9a47-4ec62b072ca4"> <td ID="inv-3fb30224-86af-4fb5-a378-31f6c7363bca">consumers with liver and kidney disease</td> <td ID="inv-0f97556c-59c8-4fb8-a8b5-c46d77c34e9a">ask a doctor</td> </tr> </tbody> </table>
+spl_unclassified_section:
+  OTHER INFORMATION store between 20 and 25° C (68 and 77° F) protect from excessive moisture TAMPER EVIDENT: DO NOT USE IF IMPRINTED SEAL IS BROKEN OR MISSING FROM BOTTLE.
+  DISTRIBUTED BY Lidl US, LLC 3500 S. Clark Street Arlington, VA 22202
+inactive_ingredient:
+  INACTIVE INGREDIENTS Corn starch, lactose monohydrate, magnesium stearate, pregelatinized starch
+questions:
+  Questions or Comments? 1-877-753-3935
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton NON-DROWSY* NDC 71141-132-32 Original Prescription Strength † Compare to the active ingredient in Claritin ® Actual Size Loratadine Tablets, USP 10 mg Antihistamine ALLERGY RELIEF 24 Hour Relief of: ▶ Sneezing ▶ Runny Nose ▶ Itchy, Watery Eyes ▶ Itchy Throat or Nose 10 tablets INDOOR & OUTDOOR ALLERGIES *When taken as directed. See Drugs Facts Panel. PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton
+set_id:
+  11bc027c-d28d-45f0-a4cb-24a3834a6995
+id:
+  059bf46f-8a79-486a-995f-5f4e986ea178
+effective_time:
+  20180109
+version:
+  1
+openfda:
+  application_number:
+    ANDA076134
+  brand_name:
+    Loratadine Allergy Relief
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    LIDL US, LLC
+  product_ndc:
+    71141-132
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    311372
+  spl_id:
+    059bf46f-8a79-486a-995f-5f4e986ea178
+  spl_set_id:
+    11bc027c-d28d-45f0-a4cb-24a3834a6995
+  package_ndc:
+    71141-132-32
+  is_original_packager:
+    True
+  unii:
+    7AJO3BO7QN

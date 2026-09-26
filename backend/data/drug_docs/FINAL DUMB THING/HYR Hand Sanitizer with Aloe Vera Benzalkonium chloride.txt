@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  HYR Hand Sanitizer with Aloe Vera Benzalkonium chloride WATER BENZALKONIUM CHLORIDE BENZALKONIUM ALOE VERA LEAF GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: General Resources, LLC 227 S. Smith Rd, Suite 102, Tempe, AZ 85281 www.gen-resources.com
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses Hand sanitizing to help reduce bacteria on the skin
+warnings:
+  Warnings For external use only. When using this product avoid contact with the eyes. In case of contact, rinse eyes thoroughly with water. ​Stop use and ask a doctor if irritation or redness appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product avoid contact with the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  ​Stop use and ask a doctor if irritation or redness appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Apply liberally to hands and gently rub until dry.
+storage_and_handling:
+  Other information Store above 0°C (32°F)
+inactive_ingredient:
+  Inactive ingredients purified water, glycerin, aloe barbadensis leaf juice
+package_label_principal_display_panel:
+  HYR hand sanitizer WITH ALOE VERA INSTANTLY KILLS 99.99% OF TESTED GERMS 2 fl oz (60 mL) Proudly made in the USA 2oz-HYR HS Aloe-Glycerin 70481-301 green
+set_id:
+  b270617a-aa33-7fb2-e053-2995a90aa373
+id:
+  b2981093-ce8c-5a81-e053-2995a90ac818
+effective_time:
+  20201026
+version:
+  2
+openfda:

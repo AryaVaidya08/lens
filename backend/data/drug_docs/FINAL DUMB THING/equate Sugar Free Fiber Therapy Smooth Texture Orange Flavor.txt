@@ -1,0 +1,40 @@
+effective_time:
+  20181205
+inactive_ingredient:
+  Inactive Ingredients apsartame, citric acid, FD and C Yellow #6, (Sunset Yelow), flavoring, maltodextrin, silicon dioxide
+purpose:
+  Purpose Bulk-forming laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+warnings:
+  Warnings Allergy alert : may cause allergic reaction in people sensitive to inhaled or ingested psyllium Choking : Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking. Do not take this product if you have difficulty in swallowing. If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention. Ask a doctor before use if you have abdominal pain, nausea, vomiting or rectal bleeding a sudden change in bowel habits that persist over a period of 2 weeks constipation associated with gastrointestinal disorders Ask a pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. All laxatives may effect how other drugs work. Stop use and ask a doctor if you experience rectal bleeding you fail to have a bowel movement after use of a laxative These could be signs of a serious condition. Keep out of reach of children In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+spl_product_data_elements:
+  equate Sugar Free Fiber Therapy Smooth Texture Orange Flavor PSYLLIUM HUSK ASPARTAME CITRIC ACID MONOHYDRATE FD&C YELLOW NO. 6 MALTODEXTRIN SILICON DIOXIDE PSYLLIUM HUSK PSYLLIUM HUSK ORANGE
+ask_doctor:
+  Ask a doctor before use if you have abdominal pain, nausea, vomiting or rectal bleeding a sudden change in bowel habits that persist over a period of 2 weeks constipation associated with gastrointestinal disorders
+openfda:
+version:
+  8
+dosage_and_administration:
+  Directions This product generally produces effect in 12-72 hours. Put one dose into an empty glass. Fill glass with at least 8 oz of water or your favorite beverage. Stir briskly and drink promptly. If mixture thickens, add more liquid and stir. mix this product (child or adult) dose with at least 8 ounces (a full glass) of water or other liquid taking this product without enough liquid may cause choking, see choking warning can be taken before or after meals Age Dose adults and children 12 years and older 1 level teaspoonful (5.8g) sprinkled in 8 oz of liquid, up to 3 times daily children 6 to under 12 years 1/2 adult dose in 8 oz. of liquid, up to 3 times daily children under 6 years consult a doctor
+spl_unclassified_section:
+  equate Sugar Free Fiber Therapy Smooth Texture Orange Flavor
+  Other information each dose contains: calcium 6 mg; potassium 30 mg; sodium 5 mg PHENYLKETONURICS: Contains phenylantanine, 21mg per teaspoonful store below 30 o C (86 o F), tightly closed to protect from humidity
+  Distributed by: Wal-Mark Stores, Inc, Bentonville, AR 72716 Wal-Mart Stores, Inc, This product is not manufactured or distributed by Procter and Gamble, owner of the registered trademark Metamucil MultiHealth 34729 0312
+stop_use:
+  Stop use and ask a doctor if you experience rectal bleeding you fail to have a bowel movement after use of a laxative These could be signs of a serious condition.
+package_label_principal_display_panel:
+  Package Labeling Label
+  Package Labeling Label 2
+indications_and_usage:
+  Uses for relief of occasional constipation and restoring regularity generally produces bowel movement in 12-72 hours
+set_id:
+  286f2401-48eb-4c89-b192-27c43311df80
+id:
+  7c47b92b-1421-8bf0-e053-2991aa0a70b4
+ask_doctor_or_pharmacist:
+  Ask a pharmacist before use if you are taking any other drug. Take this product 2 or more hours before or after other drugs. All laxatives may effect how other drugs work.
+active_ingredient:
+  Active Ingredient Psyllium husk 3.5g
+dosage_and_administration_table:
+  <table ID="i5697861f-47eb-4691-84c3-5aecf1ace32a" border="50" width="100%"> <tbody> <tr> <td> <content styleCode="bold">Age</content> </td> <td> <content styleCode="bold">Dose</content> </td> </tr> <tr> <td>adults and children 12 years and older   </td> <td>1 level teaspoonful (5.8g) sprinkled in 8 oz of liquid, up to 3 times daily   </td> </tr> <tr> <td>children 6 to under 12 years   </td> <td>1/2 adult dose in 8 oz. of liquid, up to 3 times daily   </td> </tr> <tr> <td>children under 6 years   </td> <td>consult a doctor   </td> </tr> </tbody> </table>

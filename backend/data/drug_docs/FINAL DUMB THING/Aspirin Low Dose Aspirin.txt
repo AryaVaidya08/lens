@@ -1,0 +1,27 @@
+effective_time:
+  20120516
+inactive_ingredient:
+  Yellow # 10 Yellow # 6 Methacrylic Acid Copolymer Microcrystalline Cellose Stearic Acid Titanium Dioxide Triethyl Citrate
+purpose:
+  Internal Analgesic.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose get medical help or contact a poison control center right away.
+warnings:
+  Do not use this product if you are allergic to Aspirin or any other pain/fever product. If pregnant or breastfeeding contact a doctor before using. Contact a doctor or pharmacist if you are taking a prescription drug for-Gout, Diabetes or Arthritis. Contact a doctor right away if: An allergic reaction occurs.
+spl_product_data_elements:
+  Aspirin Low Dose Aspirin ASPIRIN ASPIRIN D&C YELLOW NO. 10 FD&C YELLOW NO. 6 METHACRYLIC ACID - METHYL METHACRYLATE COPOLYMER (1:1) CELLULOSE, MICROCRYSTALLINE STEARIC ACID TITANIUM DIOXIDE TRIETHYL CITRATE yellow tablet C3
+openfda:
+version:
+  3
+dosage_and_administration:
+  Drink a full glass of water with each dose. Adults and children 12 years of age and up:Take 4-8 tablets every 4 hours not to exceed 48 tablets in 24hours unless indicated by a doctor.. Children under 12 years of age : Consult a Doctor.
+package_label_principal_display_panel:
+  Image of carton Image of carton
+indications_and_usage:
+  Oral Analgesic. Aspirin is not appropriate for everyone, so be sure to talk to a doctor before starting an Aspirin regimen.
+set_id:
+  f572d9fe-035b-4c23-93a2-c7672261066e
+id:
+  7d323d29-531f-49d0-b123-b0a9b026429a
+active_ingredient:
+  Aspirin

@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Hygiene Clean Pumpkin Spice Hand Sanitizer BENZALKONIUM CHLORIDE WATER PROPYLENE GLYCOL LAURAMINE OXIDE UNDECETH-7 EDETATE DISODIUM ANHYDROUS ALOE VERA LEAF GLYCERETH-2 COCOATE DMDM HYDANTOIN CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses For hand sanitizing to decrease the bacteria on skin. Recommended for repeated use.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control center right away.
+dosage_and_administration:
+  DIRECTIONS Pump a small amount of foam into palm of hand Rub thoroughly over all surfaces of both hands Rub hands together briskly until dry
+inactive_ingredient:
+  Inactive ingredients: Water; Propylene Glycol; Lauramine Oxide; Undeceth-7; Disodium EDTA; Aloe Barbadensis Gel; Glycereth-2-Cocoate; DMDM Hydantoin; Fragrance, Citric Acid
+package_label_principal_display_panel:
+  Package Labeling:50ml Bottle
+  Package Labeling:50ml (24 Bottles) Bottle2
+set_id:
+  b568ab0a-1108-9f0c-e053-2a95a90ab0ce
+id:
+  08c09aa5-8406-dacf-e063-6394a90a325d
+effective_time:
+  20231028
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Hygiene Clean Pumpkin Spice Hand Sanitizer
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    USA Broom LLC
+  product_ndc:
+    80499-008
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1049254
+  spl_id:
+    08c09aa5-8406-dacf-e063-6394a90a325d
+  spl_set_id:
+    b568ab0a-1108-9f0c-e053-2a95a90ab0ce
+  package_ndc:
+    80499-008-01
+    80499-008-02
+  is_original_packager:
+    True
+  upc:
+    0850019907209
+  unii:
+    F5UM2KM3W7

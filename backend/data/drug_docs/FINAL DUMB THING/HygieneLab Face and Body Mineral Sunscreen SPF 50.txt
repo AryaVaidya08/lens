@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  HygieneLab Face and Body Mineral Sunscreen SPF 50 ZINC OXIDE ADANSONIA DIGITATA SEED OIL ALOE VERA LEAF JUICE SHEA BUTTER C12-15 ALKYL BENZOATE GREEN TEA LEAF MEDIUM-CHAIN TRIGLYCERIDES SAFFLOWER OIL CETOSTEARYL ALCOHOL CETEARYL GLUCOSIDE CITRIC ACID MONOHYDRATE COCONUT OIL CUCUMBER DAUCUS CAROTA SUBSP. SATIVUS SEED DECYL GLUCOSIDE DODECANE GLYCERIN GLYCERYL CAPRYLATE GLYCERYL STEARATE SE MANGIFERA INDICA SEED BUTTER AVOCADO OIL PROPANEDIOL POMEGRANATE SODIUM STEAROYL GLUTAMATE STEARIC ACID TOCOPHEROL TRIDECYL SALICYLATE BLUEBERRY WATER XANTHAN GUM ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active Ingredients Zinc Oxide 17.50% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. higher SPF gives more sunburn protection retains SPF after 80 minutes of swimming or sweating If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Do not puncture or incinerate. Contents under pressure. Do not store it at temperatures above 120°F. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove. Do not puncture or incinerate. Contents under pressure. Do not store it at temperatures above 120°F.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure and as needed. Children under 6 months of age: ask a doctor. Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours do not spray directly on face. Spray into hands and apply to face. Use in well ventilated areas Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m. - 2 p.m. Wear long-sleeved shirts, pants, hats, and sunglasses.
+inactive_ingredient:
+  Inactive Ingredients Adansonia Digitata Oil, Aloe Barbadensis Leaf Juice, Butyrospermum Parkii (Shea) Butter, C12-15 Alkyl Benzoate, Camellia Sinensis Leaf Extract, Caprylic/Capric Triglyceride, Carthamus Tinctorius (Safflower) Seed Oil, Cetearyl Alcohol, Cetearyl Glucoside, Citric Acid, Cocos Nucifera (Coconut) Oil, Cucumis Sativus (Cucumber) FruitExtract, Daucus Carota Sativa (Carrot) Seed Extract, Decyl Glucoside, Dodecane, Glycerin, Glyceryl Caprylate, Glyceryl Stearate SE, Glyceryl Undecylenate, Mangifera Indica (Mango) Seed Butter, Persea Gratissima (Avocado) Oil, Polyhydroxystearic Acid, Propanediol, Punica Granatum Fruit Extract, Sodium Stearoyl Glutamate, Stearic Acid,Tocopherol, Tridecyl Salicylate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Water(Aqua), Xanthan Gum
+questions:
+  Questions? (213) 577-2600
+package_label_principal_display_panel:
+  Package Labeling: Carton Label Label Tube
+set_id:
+  7db103da-b434-433a-a18f-a727165640c0
+id:
+  3f897028-004b-fbfe-e063-6394a90a60e6
+effective_time:
+  20250924
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    HygieneLab Face and Body Mineral Sunscreen SPF 50
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    HYGIENELAB, INC
+  product_ndc:
+    87116-879
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    3f897028-004b-fbfe-e063-6394a90a60e6
+  spl_set_id:
+    7db103da-b434-433a-a18f-a727165640c0
+  package_ndc:
+    87116-879-00
+  is_original_packager:
+    True
+  upc:
+    0850054902443
+  unii:
+    SOI2LOH54Z

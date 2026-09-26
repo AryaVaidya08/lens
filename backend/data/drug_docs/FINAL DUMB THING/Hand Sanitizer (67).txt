@@ -1,0 +1,34 @@
+effective_time:
+  20200601
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Hydroxypropyl Cellulose
+purpose:
+  Purpose Antiseptic
+  Purpose For external use only. If swallowed, seek medical help or contact a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Flammable. Keep away from flame.
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL GLYCERIN HYDROXYPROPYL CELLULOSE, UNSPECIFIED WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Bend where indicated on package to dispense. Squeeze contents into hands and rub together until dry.
+stop_use:
+  Stop use and ask a doctor if rash appears.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+do_not_use:
+  Do Not Use Do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Just Hand Sanitizer box Just Hand Sanitizer Box Drug Facts
+indications_and_usage:
+  Use Reduces bacteria on skin. Use when soap and water are not available.
+set_id:
+  a6004302-c5d4-1b5c-e053-2a95a90ac426
+id:
+  ac8a252b-4247-5e2c-e053-2a95a90acd54
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 73%.

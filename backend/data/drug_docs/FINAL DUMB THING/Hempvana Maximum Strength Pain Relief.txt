@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Hempvana Maximum Strength Pain Relief Trolamine Salicylate EDETATE DISODIUM ANHYDROUS CITRIC ACID MONOHYDRATE SODIUM HYDROXIDE CETOSTEARYL ALCOHOL SUNFLOWER OIL WATER ETHYLHEXYL STEARATE BUTYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE PHENOXYETHANOL ETHYLHEXYLGLYCERIN PEG-100 STEARATE STEARIC ACID ALLANTOIN XANTHAN GUM CAPRYLYL GLYCOL HEXYLENE GLYCOL DIMETHICONE CANNABIS SATIVA SEED OIL GLYCERYL MONOSTEARATE MEDIUM-CHAIN TRIGLYCERIDES TROLAMINE SALICYLATE SALICYLIC ACID
+active_ingredient:
+  Active Ingredient Trolamine Salicylate 10%
+purpose:
+  Purpose Trolamine Salicylate 10%..................Topical Analgesic
+indications_and_usage:
+  Uses temporarily relieves minor pain associated with: arthritis simple backache muscle strains sprains bruises
+warnings:
+  Warnings For external use only Allergy alert: If prone to allergic reaction from aspirin or salicylates, consult a doctor before use. When using this product Use only as directed. Read and follow all directions and warnings on this label. Do not bandage tightly or apply local heat (such as heating pads) to the area of use. Avoid contact with eyes or mucous membranes. Do not apply to wounds or damaged, broken, or irritated skin. Do not use at the same time as other topical analgesics. Stop use and ask a doctor if Condition worsens Symptoms persist for more than 7 days or clear up and occur again within a few days Redness is present or irritation develops If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product Use only as directed. Read and follow all directions and warnings on this label. Do not bandage tightly or apply local heat (such as heating pads) to the area of use. Avoid contact with eyes or mucous membranes. Do not apply to wounds or damaged, broken, or irritated skin. Do not use at the same time as other topical analgesics.
+stop_use:
+  Stop use and ask a doctor if Condition worsens Symptoms persist for more than 7 days or clear up and occur again within a few days Redness is present or irritation develops
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily using roller ball applicator Children under 2 years of age: consult a physician
+inactive_ingredient:
+  Inactive Ingredients Water/Aqua/Eau, Ethylhexyl Stearate, Butylene Glycol, Caprylic/Capric Triglyceride, Dimethicone, Cannabis Sativa (Hemp) Seed Oil, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Helianthus Annuus (Sunflower) Seed Oil, Stearic Acid, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Xanthan Gum, Caprylyl Glycol, Ethylhexylglycerin, Hexylene Glycol, Disodium EDTA, Citric Acid, Sodium Hydroxide
+questions:
+  Questions? Call (855) 877-4503 (M-F, 9am-5pm EST)
+package_label_principal_display_panel:
+  #1 Hemp Pain Relief Brand in America 1 1 AC Nielsen 2021 food drug mass POS Hempvana Brand Maximum Strength Pain Relief Lotion Odor Free! New! 5 Deep Massaging Stainless Steel Rollerballs Original +Hemp Seed Oil For Moisturization Trolamine Salicylate 10% For Pain Net Wt. 2.5 OZ (71 g) 1
+set_id:
+  d91a0fad-a38c-1580-e053-2a95a90ad268
+id:
+  275a631e-8481-97f1-e063-6294a90a2974
+effective_time:
+  20241120
+version:
+  2
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Hempvana Maximum Strength Pain Relief
+  generic_name:
+    TROLAMINE SALICYLATE
+  manufacturer_name:
+    TELEBRANDS CORP
+  product_ndc:
+    73287-022
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TROLAMINE SALICYLATE
+  spl_id:
+    275a631e-8481-97f1-e063-6294a90a2974
+  spl_set_id:
+    d91a0fad-a38c-1580-e053-2a95a90ad268
+  package_ndc:
+    73287-022-01
+  is_original_packager:
+    True
+  unii:
+    H8O4040BHD

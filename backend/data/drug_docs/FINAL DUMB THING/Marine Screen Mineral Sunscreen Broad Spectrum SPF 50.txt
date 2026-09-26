@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Marine Screen Mineral Sunscreen Broad Spectrum SPF 50 Zinc Oxide ZINC OXIDE ZINC OXIDE C13-15 ALKANE BUTYLOCTYL SALICYLATE ETHYLHEXYL OLIVATE GLYCERIN STARCH, CORN ARGAN OIL PROPANEDIOL .ALPHA.-TOCOPHEROL ACETATE POLYHYDROXYSTEARIC ACID (2300 MW) INULIN LAURYL CARBAMATE PENTYLENE GLYCOL HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER (100000 MPA.S AT 1.5%) PHENOXYETHANOL SODIUM ACRYLATES CROSSPOLYMER-2 .ALPHA.-BISABOLOL, (+/-)- LAUROYL LYSINE CLOVE SQUALANE SOLIDAGO VIRGAUREA WHOLE .ALPHA.-TOCOPHEROL PANTHENOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE WATER BETAINE POLYGLYCERYL-3 DIISOSTEARATE CELLULOSE, OXIDIZED ETHYLHEXYLGLYCERIN 1,2-HEXANEDIOL SORBITAN ISOSTEARATE TRISODIUM ETHYLENEDIAMINE DISUCCINATE BIOSACCHARIDE GUM-4 UNDARIA PINNATIFIDA HYALURONATE SODIUM
+spl_unclassified_section:
+  Drug Facts
+  Dist. by OSEA Intl. LLC Malibu, CA 90265
+active_ingredient:
+  Active Ingredient Zinc Oxide 19.65%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn. If used as directed, with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally to face & neck 15 minutes before sun exposure and as needed. Reapply at least every 2 hours. Use water-resistant sunscreen if swimming or sweating. Children under 6 months: ask a doctor. Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10AM - 2PM. Wear long-sleeve shirts, pants, hats, and sunglasses.
+storage_and_handling:
+  Other Information Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive Ingredients WATER / AQUA / EAU, C13-15 ALKANE, BUTYLOCTYL SALICYLATE, ETHYLHEXYL OLIVATE, GLYCERIN, ZEA MAYS (Corn) STARCH, ARGANIA SPINOSA KERNEL OIL, PROPANEDIOL, TOCOPHERYL ACETATE, POLYHYDROXYSTEARIC ACID, INULIN LAURYL CARBAMATE, PENTYLENE GLYCOL, HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER, PHENOXYETHANOL, SODIUM ACRYLATES CROSSPOLYMER-2, BISABOLOL, LAUROYL LYSINE, EUGENIA CARYOPHYLLUS (Clove) BUD EXTRACT, SQUALANE, SOLIDAGO VIRGAUREA (Goldenrod) EXTRACT, TOCOPHEROL, BETAINE, PANTHENOL, POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE, POLYGLYCERYL-3 DIISOSTEARATE, CELLULOSE, ETHYLHEXYLGLYCERIN, 1,2-HEXANEDIOL, SORBITAN ISOSTEARATE, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, BIOSACCHARIDE GUM-4, UNDARIA PINNATIFIDA EXTRACT, SODIUM HYALURONATE
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 mL Tube Carton NEW OSEA marine sunscreen™ SPF 50 hydrating emulsion mineral face sunscreen broad spectrum SPF 50 1.69 fl. oz. / 50 mL PRINCIPAL DISPLAY PANEL - 50 mL Tube Carton
+set_id:
+  9aa20377-0ab9-4205-b9aa-24640a4641e7
+id:
+  08e6069f-6db5-4e59-b910-58f8c337f0a5
+effective_time:
+  20260529
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Marine Screen Mineral Sunscreen Broad Spectrum SPF 50
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    OSEA International, LLC
+  product_ndc:
+    73432-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    08e6069f-6db5-4e59-b910-58f8c337f0a5
+  spl_set_id:
+    9aa20377-0ab9-4205-b9aa-24640a4641e7
+  package_ndc:
+    73432-004-01
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

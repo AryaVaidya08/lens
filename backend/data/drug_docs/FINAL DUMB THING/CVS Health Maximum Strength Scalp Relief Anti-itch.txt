@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  CVS Health Maximum Strength Scalp Relief Anti-itch HYDROCORTISONE HYDROCORTISONE HYDROCORTISONE ALCOHOL ALOE VERA LEAF Dipropylene Glycol EDETATE DISODIUM Glycerin Isopropyl Alcohol TEA TREE OIL MENTHOL, UNSPECIFIED FORM Propylene Glycol .ALPHA.-TOCOPHEROL ACETATE, DL- Water
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: CVS Pharmacy, Inc. One CVS Drive Woonsocket, RI 02895
+active_ingredient:
+  Active ingredient Hydrocortisone 1.0%
+purpose:
+  Purpose Anti-itch
+indications_and_usage:
+  Uses For the temporary relief of itching associated with minor skin irritations and rashes due to eczema, seborrheic dermatitis, and psoriasis. Other uses of this product should be only under the advice and supervision of a doctor.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. When using this product avoid contact with the eyes. If contact occurs rinse eyes thoroughly with water. If irritation persists, consult a doctor. Do not use for the treatment of diaper rash. Consult a doctor. Stop use and consult a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have consulted a doctor. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+when_using:
+  When using this product avoid contact with the eyes. If contact occurs rinse eyes thoroughly with water. If irritation persists, consult a doctor. Do not use for the treatment of diaper rash. Consult a doctor.
+stop_use:
+  Stop use and consult a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, and do not begin use of any other hydrocortisone product unless you have consulted a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions twist the flow-control cap to dispense the exact amount of product desired adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: Do not use, consult a doctor.
+storage_and_handling:
+  Other information store at room temperature
+inactive_ingredient:
+  Inactive ingredients alcohol denat., aloe barbadensis leaf juice, dipropylene glycol, disodium EDTA, fragrance, glycerin, isopropyl alcohol, melaleuca alternifolia (tea tree) leaf oil, menthol, PEG-40/PPG-8 methylaminopropyl/hydroxypropyl dimethicone copolymer, propylene glycol, tocopheryl acetate, water.
+questions:
+  Questions or comments? 1-866-567-8600
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 74 mL Bottle Carton CVS Health ™ Compare to the active ingredient in Maximum Strength Scalpicin ® * MAXIMUM STRENGTH Scalp Relief 1% HYDROCORTISONE Anti-itch Helps relieve scalp itch associated with psoriasis, seborrheic dermatitis, & eczema Infused with aloe & vitamin E • PARABEN PHTHALATE • FREE 2.5 FL OZ (74 mL) PRINCIPAL DISPLAY PANEL - 74 mL Bottle Carton
+set_id:
+  b5ef0005-8b76-4205-8be0-db3a7ed7d1c4
+id:
+  dae7f388-e47f-4896-a165-a1e87601d588
+effective_time:
+  20240819
+version:
+  3
+openfda:
+  application_number:
+    M017
+  brand_name:
+    CVS Health Maximum Strength Scalp Relief Anti-itch
+  generic_name:
+    HYDROCORTISONE
+  manufacturer_name:
+    CVS Health
+  product_ndc:
+    51316-068
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    HYDROCORTISONE
+  rxcui:
+    310869
+  spl_id:
+    dae7f388-e47f-4896-a165-a1e87601d588
+  spl_set_id:
+    b5ef0005-8b76-4205-8be0-db3a7ed7d1c4
+  package_ndc:
+    51316-068-01
+  is_original_packager:
+    True
+  nui:
+    N0000175576
+    N0000175450
+  pharm_class_epc:
+    Corticosteroid [EPC]
+  pharm_class_moa:
+    Corticosteroid Hormone Receptor Agonists [MoA]
+  unii:
+    WI4X0X7BPJ

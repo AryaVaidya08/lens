@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Apple Antibacterial Hand Sanitizer ALCOHOL WATER GLYCERIN CARBOMER HOMOPOLYMER TYPE C AMINOMETHYLPROPANOL DMDM HYDANTOIN EDETATE DISODIUM ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Alcohol, Denatured 65% (Purpose: Antiseptic)
+purpose:
+  Uses For handwashing to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame.
+indications_and_usage:
+  When using this product Avoid contact with eyes. If contact occurs flush eyes with water. Discontinue use if irritation or redness develops. If condition persists for more than 72 hours, consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of the reach of Children If swallowed get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+inactive_ingredient:
+  Inactive Ingredients <paragraph>Aminomethyl Propanol, Benzophenone-4, Carbomer, Deionized Water(Aqua), Disodium EDTA, DMDM Hyantoin, Fragrance(Perfume), Glycerin. </paragraph>
+how_supplied:
+  Wash Hands thoroughly with product and allow to dry without wiping.
+package_label_principal_display_panel:
+  image of 2614652
+set_id:
+  ac36ab02-438a-4558-b42f-74fee554ab64
+id:
+  2eae028f-1979-30f8-e063-6394a90a2995
+effective_time:
+  20250221
+version:
+  2
+openfda:

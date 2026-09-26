@@ -1,0 +1,24 @@
+effective_time:
+  20091106
+inactive_ingredient:
+  Inactive Ingredients: Water, Isopropyl Alcohol, Hydrogenated Starch, Carbomer, THP Ethylenediamine, and Fragrance.
+purpose:
+  Purpose: Antibacteria Use: For handwashing to decrease bacteria on skin.
+warnings:
+  Warnings: Flammable. Keep away from heat or flame. For external use only. Do not use in the eyes. In case of deep or puncture wounds, consult doctor. In rare instances of irritation, discontinue use if irritation and redness develop. If condition persists for more than 72 hours, consult a physician. If swallowed, contact a physician or poison center. Keep out of reach of children.
+spl_product_data_elements:
+  DawnMist Alcohol Gel Hand Sanitizer ALCOHOL ALCOHOL ALCOHOL WATER ISOPROPYL ALCOHOL CARBOMER HOMOPOLYMER TYPE C ETHYLENEDIAMINE
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: To decrease bacteria on skin, apply a small amount to palm. Briskly rub covering hands with product until dry.
+package_label_principal_display_panel:
+  DawnMist Kills Germs Fast Citrus Scent Alcohol Gel Hand Sanitizer 2 FL. OZ. 59ml
+  CitrusAlcoholGel59ml
+set_id:
+  dda40415-27ae-415a-a5dd-c5af91b888ee
+id:
+  3b068719-aa3f-49ff-b858-e8d6a957d217
+active_ingredient:
+  Drug Facts Active Ingredient: Ethyl Alcohol 62 percent

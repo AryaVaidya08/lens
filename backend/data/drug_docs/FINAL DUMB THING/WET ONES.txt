@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  WET ONES Benzalkonium Chloride CAPRYLYL GLYCOL BENZALKONIUM CHLORIDE BENZALKONIUM PEG-8 DIMETHICONE ALCOHOL PHENOXYETHANOL DIHYDROXYPROPYL PEG-5 LINOLEAMMONIUM CHLORIDE EDETATE DISODIUM ALOE VERA LEAF WATER POTASSIUM SORBATE CITRIC ACID MONOHYDRATE
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use decreases bacteria on skin
+warnings:
+  Warnings For external use only Do not use if you are allergic to any of the ingredients When using this product do not get into eyes. If contact occurs, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you are allergic to any of the ingredients
+when_using:
+  When using this product do not get into eyes. If contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours
+  Stop use and ask a doctor if irritation or rash develops and continues for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • apply to hands • adults and children 2 years and over: Rub on hands for 30 seconds and allow skin to dry without wiping. children under 2 years: ask a doctor before use.
+inactive_ingredient:
+  Inactive Ingredients Water, Alcohol Denat., Phenoxyethanol, PEG-8 Dimethicone, Caprylyl Glycol, Dihydroxypropyl PEG-5 Linoleammonium Chloride, Potassium Sorbate, Disodium EDTA, Citric Acid, Fragrance, Aloe Barbadensis Leaf Juice.
+questions:
+  Questions or Comments? Call 1-866-WET-111S, (1-866-938-1117), M-F
+package_label_principal_display_panel:
+  Principal Display Panel Wet Ones BIG & STRONG ANTIBACTERIAL HAND WIPE KILLS 99.99% OF COMMON BACTERIA REMOVES FROM HANDS • OIL • GRIME • GREASE • GLUE • DIRT • PAINT FRESH SCENT PULL UP HERE 50% LARGE EXTRA THICK 28 wipes DO NOT FLUSH pouch lid pouch
+set_id:
+  190d7d61-5ea9-6670-e063-6294a90a4535
+id:
+  3f045cb0-a13a-4e02-e063-6294a90a328a
+effective_time:
+  20250917
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    WET ONES
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Edgewell Personal Care Brands LLC
+  product_ndc:
+    63354-772
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1038558
+  spl_id:
+    3f045cb0-a13a-4e02-e063-6294a90a328a
+  spl_set_id:
+    190d7d61-5ea9-6670-e063-6294a90a4535
+  package_ndc:
+    63354-772-28
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

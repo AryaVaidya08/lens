@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Harrys Extra Strength Antiperspirant Shiso ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY DIHEPTYL SUCCINATE C15-19 ALKANE FRAGRANCE 13576 CITRONELLYL METHYLCROTONATE LINALOOL, (+/-)- CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER (2000 MPA.S) WATER CETYL ALCOHOL SILICON DIOXIDE ALUMINUM STARCH OCTENYLSUCCINATE GINGER BENZYL ALCOHOL EUGENOL DIMETHICONE HYDROGENATED CASTOR OIL ALKYL (C12-15) BENZOATE STEARYL ALCOHOL JOJOBA OIL .ALPHA.-BISABOLOL, (+/-)- .ALPHA.-TOCOPHEROL ACETATE MYRISTYL ALCOHOL ALLANTOIN LIMONENE, (+/-)- ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY .ALPHA.-HEXYLCINNAMALDEHYDE CITRAL White Opaque Stick
+active_ingredient:
+  ALUMINUM ZIRCONIIUM TRICHLOROHYDREX GLY 20%
+purpose:
+  Purpose. Antiperspirant
+indications_and_usage:
+  Reduces underarm wetness. Extra effective.
+warnings:
+  For external use only Do not use on broken skin Ask doctor if before use if you have kidney disease. Stop use if rash or itrritation occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask doctor if before use if you have kidney disease.
+stop_use:
+  Stop use if rash or itrritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to underarms only Apply at bedtime
+inactive_ingredient:
+  STEARYL ALCOHOL, DIMETHICONE, C15-19 ALKANE, DIHEPTYL SUCCINATE, WATER/AQUA/EAU, C12-15 ALKYL BENZOATE, HYDROGENATED CASTOR OIL, CETYL ALCOHOL, SILICA, FRAGRANCE/PARFUM, ALUMINUM STARCH OCENTYLSUCCINATE, SIMMONDSIA CHINENSIS (JOJOBA) SEED OIL, ALLANTOIN, BISABOLOL, ZINGIBER OFFINCALE (GINGER) ROOT EXTRACT, TOCOPHERYL ACETATE, MYRISTYL aLCOHOL, CITRONELLYL METHYLCROTONATE, CAPRYLOYL GLYCERIN/SEBACIC ACID COPOLYMER, LIMONENE, HEXYL CINNAMAL, LINALOOL, BENZYL ALCOHOL, EUGENOL, CITRAL.
+questions:
+  Questions? 1-888-212-6855
+package_label_principal_display_panel:
+  NDC 70533-010-25 L2 Shiso front l3 shiso back
+set_id:
+  adcb1ca7-bdd3-8981-e053-2a95a90a6dec
+id:
+  463e90de-dd8a-0d2b-e063-6294a90ad254
+effective_time:
+  20251218
+version:
+  6
+openfda:

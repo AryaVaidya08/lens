@@ -1,0 +1,50 @@
+effective_time:
+  20191014
+purpose:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever Chlorpheniramine maleate 2 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+when_using:
+  When using this product do not exceed recommended dosage excitability may occur, especially in children drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information store between 20°-25°C (68°-77°F) in a dry place retain carton for complete product information
+indications_and_usage:
+  Uses for the temporary relief of: headache sinus congestion and pressure nasal congestion runny nose and sneezing minor aches and pains reduces swelling of nasal passages helps decongest sinus openings and passages
+set_id:
+  a3eaca4a-441e-4c3e-99b0-609dabf85883
+id:
+  94e4a0ea-7cfa-a209-e053-2a95a90a17ee
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredients (in each caplet) Purpose Acetaminophen 325 mg Pain reliever Chlorpheniramine maleate 2 mg Antihistamine Phenylephrine HCl 5 mg Nasal decongestant
+dosage_and_administration_table:
+  <table width="70%"> <col width="30%" align="left" valign="top"/> <col width="70%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">adults and children 12 years and over</td> <td> <list listType="unordered"> <item>take 2 caplets every 4 hours</item> <item>swallow whole - do not crush, chew, or dissolve</item> <item>do not take more than 12 caplets in 24 hours</item> </list> </td> </tr> <tr> <td styleCode="Rrule">children under 12 years</td> <td> <list listType="unordered"> <item>do not use this adult product in children under 12 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage</item> </list> </td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, colloidal silicon dioxide, croscarmellose sodium, flavor, hypromellose, iron oxide ochre, lactose anhydrous, magnesium stearate, povidone, pregelatinized starch, propylene glycol, stearic acid, titanium dioxide
+warnings:
+  Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if you take more than 12 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers taking the blood thinning drug warfarin When using this product do not exceed recommended dosage excitability may occur, especially in children drowsiness may occur alcohol, sedatives, and tranquilizers may increase drowsiness avoid alcoholic drinks be careful when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning Taking more than the recommended dose (overdose) may cause liver damage. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+spl_product_data_elements:
+  Acetaminophen, Chlorpheniramine Maleate, Phenylephrine Hydrochloride ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, and PHENYLEPHRINE HYDROCHLORIDE ACESULFAME POTASSIUM SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSE, UNSPECIFIED FERRIC OXIDE YELLOW ANHYDROUS LACTOSE MAGNESIUM STEARATE POVIDONE, UNSPECIFIED STARCH, CORN PROPYLENE GLYCOL STEARIC ACID TITANIUM DIOXIDE ACETAMINOPHEN ACETAMINOPHEN CHLORPHENIRAMINE MALEATE CHLORPHENIRAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE Off-White AAA;1117
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease high blood pressure thyroid disease diabetes glaucoma trouble urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions do not take more than directed (see overdose warning ) adults and children 12 years and over take 2 caplets every 4 hours swallow whole - do not crush, chew, or dissolve do not take more than 12 caplets in 24 hours children under 12 years do not use this adult product in children under 12 years of age; this will provide more than the recommended dose (overdose) and may cause liver damage
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: AAA Pharmaceutical, Inc. 681 Main Street Lumberton, NJ 08048
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain or nasal congestion gets worse or lasts more than 7 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur These could be signs of a serious condition.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+active_ingredient_table:
+  <table width="75%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each caplet)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Acetaminophen 325 mg</td> <td>Pain reliever</td> </tr> <tr> <td>Chlorpheniramine maleate 2 mg</td> <td>Antihistamine</td> </tr> <tr> <td>Phenylephrine HCl 5 mg</td> <td>Nasal decongestant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 24 Caplet Blist Pack Carton RESTORE u NDC 57344-157-02 † COMPARE TO THE ACTIVE INGREDIENTS IN TYLENOL® SINUS CONGESTION & PAIN- NIGHTTIME NIGHTTIME Sinus CONGESTION & PAIN Pain Reliever, Nasal Decongestant, Antihistamine Headache - Acetaminophen Sinus Pressure/Nasal Congestion – Phenylephrine HCl Runny Nose – Chlorpheniramine Maleate COOL BLAST 24 CAPLETS Principal Display Panel - 24 Caplet Blist Pack Carton
+purpose_table:
+  <table width="75%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each caplet)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Acetaminophen 325 mg</td> <td>Pain reliever</td> </tr> <tr> <td>Chlorpheniramine maleate 2 mg</td> <td>Antihistamine</td> </tr> <tr> <td>Phenylephrine HCl 5 mg</td> <td>Nasal decongestant</td> </tr> </tbody> </table>

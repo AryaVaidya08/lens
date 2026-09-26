@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Relieved Pro Wrap 4% Lidocaine Patch LIDOCAINE LIDOCAINE ACRYLIC ACID/ETHYLENE COPOLYMER (600 MPA.S)
+active_ingredient:
+  Active Ingredient Active Ingredient: 4% Lidocaine
+purpose:
+  Use Use For the temporary relief of pain.
+indications_and_usage:
+  Indications and usage For the temporary relief of pain Peel patch off plastic liner and place lpatch on affected area for no more than 12 hours
+warnings:
+  Warnings For external use only The adhesion properties of this patch may cause an extended period of redness. Please visit www.re-lieved.com for more information
+do_not_use:
+  Do Not Use Do not use If you are allergic to Lidocaine. On open wounds or damaged,, broken or iritated skin.
+ask_doctor:
+  Ask your doctor Ask your doctor or pharmacist before use if you are using blood thinning medication, steroids, or non-sterodial and anti-inflammatory drugs (NSAIDs), or if you have sensitive skin.
+when_using:
+  When using this product When using this product do not use other topical products. Do not allow contact with eyes or mucous membranes Keep away from excessive heat. Do not apply heating pad to area of use Apply only to clean, dry and untreated skin. Use only as directed. Read and follow all directions and warnings on this label
+stop_use:
+  Stop use if Conditions worsens Symptoms persist for more than 7 days
+pregnancy:
+  If pregnant or breast feeding If pregnant or breast feeding ask a physician before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If put in mouth, get medical help or contact a poison control center right away. Dispose of used product away from children and pets
+storage_and_handling:
+  Other information store at room termperature Do not exceed 100 o Fahrenheit, 38 o Celsius
+inactive_ingredient:
+  Inactive ingredients Inactive ingredients Acrylic Adhesive Cotton fabric
+dosage_and_administration:
+  Dosage & Administration Section Directions adults/children 12 years or older Clean and dry affected area Peel patch off plastic liner and place on affected area for no more than 12 hours. Wash hands after applying patch Under age 12, consult a physcian before use. For easier removal of the patch, apply rubbing alcohol or baby oil to adhesvie edge while gently peeling
+package_label_principal_display_panel:
+  Relieved Pro Wrap Relieved Pro Wrap Pro Wrap
+set_id:
+  5a1c6ebf-ad3f-c47b-e063-6294a90aa19a
+id:
+  5a1c6ebf-ad40-c47b-e063-6294a90aa19a
+effective_time:
+  20260828
+version:
+  1
+openfda:
+  application_number:
+    M017
+  brand_name:
+    Relieved Pro Wrap
+  generic_name:
+    4% LIDOCAINE PATCH
+  manufacturer_name:
+    Transfer Technology
+  product_ndc:
+    71662-004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LIDOCAINE
+  rxcui:
+    1737778
+  spl_id:
+    5a1c6ebf-ad40-c47b-e063-6294a90aa19a
+  spl_set_id:
+    5a1c6ebf-ad3f-c47b-e063-6294a90aa19a
+  package_ndc:
+    71662-004-10
+  is_original_packager:
+    True
+  nui:
+    N0000175682
+    M0000897
+    N0000175426
+    N0000175976
+  pharm_class_epc:
+    Amide Local Anesthetic [EPC]
+    Antiarrhythmic [EPC]
+  pharm_class_cs:
+    Amides [CS]
+  pharm_class_pe:
+    Local Anesthesia [PE]
+  unii:
+    98PI200987

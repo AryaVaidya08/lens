@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Mylanta Maximum Strength Classic Flavor antacid and anti gas aluminum hydroxide magnesium hydroxide and simethicone ALUMINUM HYDROXIDE ALUMINUM HYDROXIDE MAGNESIUM HYDROXIDE MAGNESIUM CATION DIMETHICONE DIMETHICONE BENZYL ALCOHOL CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED GLYCERIN MICROCRYSTALLINE CELLULOSE WATER SODIUM CARBONATE SORBITOL SUCRALOSE XANTHAN GUM OFF WHITE
+active_ingredient:
+  Active ingredients (in each 2 tsp dose) Aluminum hydroxide (equivalent to dried gel, USP) 800 mg Magnesium hydroxide 800 mg Simethicone 80 mg
+purpose:
+  Purpose Antacid Antacid Anti-gas
+indications_and_usage:
+  Uses relieves: • heartburn • acid indigestion • sour stomach • upset stomach due to these symptoms • pressure and bloating commonly referred to as gas • overindulgence in food and drink
+warnings:
+  Warnings Ask a doctor before use if you have • kidney disease • a magnesium restricted diet
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away at 1-800-222-1222.
+dosage_and_administration:
+  Directions • shake well before use • adults and children 12 years and over: 2 tsp – 4 tsp (1-2 doses) between meals, at bedtime or as directed by a doctor • do not take more than 12 tsp (6 doses) in any 24-hour period • do not use the maximum dosage for more than 2 weeks • children under 12 years: ask a doctor • tsp = teaspoon
+spl_unclassified_section:
+  Other information • each 2 tsp dose contains: magnesium 340 mg; sodium 7 mg • store between 20-25°C (68-77°F), do not freeze
+inactive_ingredient:
+  Inactive ingredients benzyl alcohol, carboxymethylcellulose sodium, flavors, glycerin, microcrystalline cellulose, purified water, sodium carbonate, sorbitol, sucralose, xanthan gum
+questions:
+  Questions or comment? call 1-844-695-6624 toll free (English and Spanish)
+package_label_principal_display_panel:
+  Principal Display Panel MYLANTA ® ANTACID + ANTI-GAS Alcohol 0.2% MAXIMUM STRENGTH FAST HEARTBURN & GAS RELIEF ON THE GO! SMOOTH CREAMY TASTE CLASSIC FLAVOUR 3.4 FL OZ (100 mL) 78034MYLLF TAMPER-EVIDENT: DO NOT USE IF PRINTED SEAL UNDER CAP IS BROKEN OR MISSING Mylanta is a Registered Trademark of McNeil Consumer Pharmaceuticals Co. infirst + HEALTHCARE © 2020 Infirst Healthcare Inc. Mylanta.com Manufactured for: Infirst Healthcare Inc. Westport, CT 06880 Mylanta Maximum Strength Classic Flavor 3.4 FL OZ
+package_label_principal_display_panel_table:
+  <table width="100%"><col width="100%"/><tbody><tr><td valign="top" styleCode="Rrule Botrule Lrule Toprule "><paragraph><content styleCode="bold">TAMPER-EVIDENT: DO NOT USE IF PRINTED SEAL UNDER CAP IS BROKEN OR MISSING</content></paragraph></td></tr></tbody></table>
+set_id:
+  23cf43f1-13d1-40e8-a0e4-213b2ab15bd3
+id:
+  23cf43f1-13d1-40e8-a0e4-213b2ab15bd3
+effective_time:
+  20230201
+version:
+  1
+openfda:

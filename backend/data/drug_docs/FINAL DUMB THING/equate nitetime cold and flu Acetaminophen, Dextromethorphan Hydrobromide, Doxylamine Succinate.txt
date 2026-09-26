@@ -1,0 +1,43 @@
+effective_time:
+  20171102
+inactive_ingredient:
+  Inactive ingredients D&C yellow no. 10, edible ink, FD&C blue no. 1, gelatin, glycerin, polyethylene glycol, povidone, propylene glycol, purified water, sorbitol sorbitan solution
+purpose:
+  Purpose Pain reliever/fever reducer Cough suppressant Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. The maximum daily dose of this product is 8 softgels (2,600 mg acetaminophen) in 24 hours. Severe liver damage may occur if you take • more than 4,000 mg of acetaminophen in 24 hours • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Sore throat warning: If sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • to make a child sleepy • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • glaucoma • cough that occurs with too much phlegm (mucus) • a breathing problem such as emphysema or chronic bronchitis • persistent or chronic cough as occurs with smoking, asthma, or emphysema • trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are • taking sedatives or tranquilizers • taking the blood thinning drug warfarin When using this product • excitability may occur, especially in children • may cause marked drowsiness • avoid alcoholic drinks • be careful when driving a motor vehicle or operating machinery • alcohol, sedatives, and tranquilizers may increase drowsiness Stop use and ask a doctor if • pain or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+when_using:
+  When using this product • excitability may occur, especially in children • may cause marked drowsiness • avoid alcoholic drinks • be careful when driving a motor vehicle or operating machinery • alcohol, sedatives, and tranquilizers may increase drowsiness
+questions:
+  Questions or comments? 1-888-287-1915
+spl_product_data_elements:
+  equate nitetime cold and flu Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE D&C YELLOW NO. 10 FD&C BLUE NO. 1 GELATIN GLYCERIN POLYETHYLENE GLYCOLS POVIDONES PROPYLENE GLYCOL WATER OBLONG L977
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • glaucoma • cough that occurs with too much phlegm (mucus) • a breathing problem such as emphysema or chronic bronchitis • persistent or chronic cough as occurs with smoking, asthma, or emphysema • trouble urinating due to an enlarged prostate gland
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions • take only as directed – see Liver warning • do not exceed 8 softgels per 24 hours adults & children 12 yrs & over 2 softgels with water every 6 hrs children 4 to under 12 yrs ask a doctor children under 4 yrs do not use • when using other Daytime or Nighttime products, carefully read each label to insure correct dosing
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • pain or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • to make a child sleepy • if you have ever had an allergic reaction to this product or any of its ingredients
+package_label_principal_display_panel:
+  Principal Display Panel SEE NEW WARNINGS AND DIRECTIONS Compare to NyQuil® LiquiCaps® Active Ingredients NiteTime Cold & Flu Pain Reliever, Fever Reducer, Cough Suppressant, Antihistamine Multi-Symptom Relief Aches, fever - Acetaminophen Cough - Dextromethorphan HBr Sneezing, runny nose - Doxylamine Succinate Alcohol Free Actual Size NiteTime Carton Image
+indications_and_usage:
+  Uses temporarily relieves common cold/flu symptoms: • cough due to minor throat and bronchial irritation • sore throat • headache • minor aches and pains • fever • runny nose and sneezing
+set_id:
+  8a90577e-d591-4e7c-92aa-d94c6c8e0a4c
+id:
+  6351bbca-6e70-4f0a-bf2e-416b54ab9c4a
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • taking sedatives or tranquilizers • taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredient (in each softgel) Acetaminophen 325 mg Dextromethorphan HBr 15 mg Doxylamine succinate 6.25 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="32%"/> <col width="32%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults &amp; children 12 yrs &amp; over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <paragraph>2 softgels with water every 6 hrs</paragraph> </td> </tr> <tr> <td styleCode="Lrule Botrule " valign="top"> <paragraph>children 4 to under 12 yrs</paragraph> </td> <td styleCode="Rrule Lrule Botrule " valign="top"> <paragraph>ask a doctor</paragraph> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 4 yrs</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use</paragraph> </td> </tr> </tbody> </table>

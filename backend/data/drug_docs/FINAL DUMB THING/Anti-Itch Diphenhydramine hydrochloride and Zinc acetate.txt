@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  Anti-Itch Diphenhydramine hydrochloride and Zinc acetate DIPHENHYDRAMINE HYDROCHLORIDE DIPHENHYDRAMINE ZINC ACETATE ZINC CATION CETYL ALCOHOL GLYCERYL MONOSTEARATE METHYLPARABEN PROPYLENE GLYCOL PROPYLPARABEN WATER
+spl_unclassified_section:
+  Drug Facts
+  Distributed By AmerisourceBergen 1300 Morris Drive Chesterbrook, PA 19087
+active_ingredient:
+  Active ingredients Purpose Diphenhydramine hydrochloride 2% Topical analgesic Zinc acetate 0.1% Skin protectant
+active_ingredient_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Diphenhydramine hydrochloride 2%</td><td>Topical analgesic</td></tr><tr><td>Zinc acetate 0.1%</td><td>Skin protectant</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Diphenhydramine hydrochloride 2% Topical analgesic Zinc acetate 0.1% Skin protectant
+purpose_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Diphenhydramine hydrochloride 2%</td><td>Topical analgesic</td></tr><tr><td>Zinc acetate 0.1%</td><td>Skin protectant</td></tr></tbody></table>
+indications_and_usage:
+  Uses temporarily relieves pain and itching associated with: insect bites minor burns sunburn minor skin irritations minor cuts scrapes rashes due to poison ivy, poison oak, and poison sumac dries the oozing and weeping of poison ivy, poison oak, and poison sumac
+warnings:
+  Warnings For external use only Do not use on large areas of the body with any other product containing diphenhydramine, even one taken by mouth Ask a doctor before use on chicken pox on measles When using this product avoid contact with eyes Stop use and ask a doctor if condition worsens or does not improve within 7 days symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  For external use only Do not use on large areas of the body with any other product containing diphenhydramine, even one taken by mouth
+ask_doctor:
+  Ask a doctor before use on chicken pox on measles
+when_using:
+  When using this product avoid contact with eyes
+stop_use:
+  Stop use and ask a doctor if condition worsens or does not improve within 7 days symptoms persist for more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not use more often than directed adults and children 2 years of age and older: apply to affected area not more than 3 to 4 times daily children under 2 years of age: ask a doctor
+storage_and_handling:
+  Other information To open: unscrew cap, use pointed end of cap to puncture seal. store at 20° to 25°C (68° to 77°F) see carton or tube crimp for lot number and expiration date
+inactive_ingredient:
+  Inactive ingredients cetyl alcohol, glyceryl stearate, glyceryl stearate/PEG-100 stearate, methylparaben, propylene glycol, propylparaben and purified water
+questions:
+  Questions? Call 1-866-923-4914
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 28.4 g Tube Carton GOOD NEIGHBOR PHARMACY ® Compare to Extra Strength Benadryl ® Itch Stopping Cream* active ingredients* NDC 24385-210-03 Anti-Itch Cream Diphenhydramine hydrochloride 2% and Zinc acetate 0.1% Topical Analgesic • Skin Protectant NET WT 1 oz (28.4 g) PRINCIPAL DISPLAY PANEL - 28.4 g Tube Carton
+set_id:
+  4275c286-225d-4b03-bff0-8fca07959d7c
+id:
+  5a4d57da-0d76-df69-e063-6294a90a6756
+effective_time:
+  20260830
+version:
+  5
+openfda:

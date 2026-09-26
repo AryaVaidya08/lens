@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  Mucinex Allergy Fexofenadine Hydrochloride SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM FD&C RED NO. 40 HYPROMELLOSES FERROSOFERRIC OXIDE MAGNESIUM STEARATE MANNITOL POLYETHYLENE GLYCOL, UNSPECIFIED POWDERED CELLULOSE TITANIUM DIOXIDE FEXOFENADINE HYDROCHLORIDE FEXOFENADINE 194;R
+spl_unclassified_section:
+  Drug Facts
+  Dist. By Reckitt Benckiser Parsippany, NJ 07054-0224 Made in India
+active_ingredient:
+  Active ingredient (in each tablet) Fexofenadine HCl USP, 180 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose itchy, watery eyes sneezing itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions ) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed do not take at the same time as aluminum or magnesium antacids do not take with fruit juices (see Directions )
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="70%" styleCode="Noautorules"><col width="40%" valign="top" align="left"/><col width="60%" valign="top" align="left"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule Toprule">adults and children 12 years of age and over</td><td styleCode="Toprule">take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children under 12 years of age</td><td>do not use</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">adults 65 years of age and older</td><td>ask a doctor</td></tr><tr><td styleCode="Rrule">consumers with kidney disease</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information safety sealed: do not use if carton is opened or if individual blister units are torn or opened store between 20° and 25°C (68° and 77°F) protect from excessive moisture this product meets the requirements of USP Dissolution Test 2
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, corn starch, croscarmellose sodium, FD&C Red no. 40, hypromellose, iron oxide black, magnesium stearate, mannitol, polyethylene glycol, powder cellulose and titanium dioxide
+questions:
+  Questions? Call 1-855-419-9622
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 180 mg Blister Pack Carton NEW NDC 63824-926-10 NON-DROWSY Mucinex ® ALLERGY Fexofenadine Hydrochloride Tablets USP, 180 mg/Antihistamine INDOOR & OUTDOOR ALLERGY RELIEF 24hr ORIGINAL PRESCRIPTION STRENGTH ✓ Sneezing ✓ Runny Nose ✓ Itchy, Watery Eyes ✓ Itchy Nose or Throat 10 TABLETS 180 mg each Principal Display Panel - 180 mg Blister Pack Carton
+set_id:
+  822a1976-97fa-44c6-b12b-f8239af63adf
+id:
+  017f9be0-0f6d-e2ca-e063-6294a90ab56f
+effective_time:
+  20230727
+version:
+  3
+openfda:

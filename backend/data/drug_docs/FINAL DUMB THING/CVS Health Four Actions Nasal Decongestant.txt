@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  CVS Health Four Actions Nasal Decongestant Phenylephrine hydrochloride PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE BENZALKONIUM CHLORIDE BENZYL ALCOHOL ANHYDROUS CITRIC ACID WATER SODIUM CHLORIDE SODIUM CITRATE
+active_ingredient:
+  Active ingredient Phenylephrine hydrochloride 1%
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses for the temporary relief of nasal congestion due to: • common cold • hay fever • upper respiratory allergies
+warnings:
+  Warnings
+ask_doctor:
+  Ask a doctor before use if you have • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland.
+when_using:
+  When using this product • do not exceed recommended dosage • do not use more than 3 days. Use only as directed. • temporary discomfort such as burning, stinging, sneezing, or an increase in nasal discharge may occur • the use of this container by more than one person may spread infection • frequent or prolonged use may cause nasal congestion to recur or worsen
+stop_use:
+  Stop use and ask a doctor if symptoms persist.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222
+dosage_and_administration:
+  Directions • adults and children 12 years of age and older: 2 or 3 sprays in each nostril not more than every 4 hours • children under 12 years of age: ask a doctor • Use instructions: with head in a normal, upright position, put atomizer tip into nostril. Squeeze bottle with firm, quick pressure while inhaling. Wipe nozzle clean after each use.
+storage_and_handling:
+  Other information • store between 20°-25°C (68°-77°F) • container is filled to proper level for best spray action
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, benzyl alcohol, citric acid, purified water, sodium chloride, sodium citrate
+package_label_principal_display_panel:
+  Principal Display CVS Health ™ NDC 59779-838-30 Compare to the active ingredient 4-Way® Nasal Spray* Fast-Acting Nasal Spray PHENYLEPHRINE HCl 1% Nasal decongestant FOUR ACTIONS Relieves: • Nasal congestion • Sinus congestion • Sinus pressure • Swollen nasal membranes 1 FL OZ (30 mL) DO NOT USE IF PRINTED SEAL OVER CAP IS TORN OR MISSING *This product is not manufactured or distributed by Novartis Consumer Health, Inc., the owner of the registered trademark 4-Way® Nasal Spray. IMPORTANT: Keep this carton for future reference on full labeling. Distributed by: CVS Pharmacy, Inc. One CVS Drive Woonsocket, RI 02895 © 2015CVS/pharmacy CVS.com ® 1-800-SHOP CVS CVS ® Quality Money back Guarantee CVS Health Nasal Spray Phenylephrine HCl 1% Four Actions 1 FL OZ
+set_id:
+  c91b5525-6afb-4fea-afcb-9c4578075975
+id:
+  c91b5525-6afb-4fea-afcb-9c4578075975
+effective_time:
+  20160922
+version:
+  1
+openfda:
+  application_number:
+    part341
+  brand_name:
+    CVS Health Four Actions Nasal Decongestant
+  generic_name:
+    PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    CVS Pharmacy,Inc.
+  product_ndc:
+    59779-838
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1087043
+  spl_id:
+    c91b5525-6afb-4fea-afcb-9c4578075975
+  spl_set_id:
+    c91b5525-6afb-4fea-afcb-9c4578075975
+  package_ndc:
+    59779-838-30
+  is_original_packager:
+    True
+  unii:
+    04JA59TNSJ

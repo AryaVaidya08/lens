@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  H.E.B DAILY MOISTURIZING WATER GLYCERIN DISTEARYLDIMONIUM CHLORIDE PETROLATUM ISOPROPYL PALMITATE CETYL ALCOHOL OATMEAL BENZYL ALCOHOL MAGNESIUM ALUMINUM SILICATE SODIUM CHLORIDE DIMETHICONE DIMETHICONE
+active_ingredient:
+  Active Ingredients Dimethicone 1.2%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent and temporarily protects chafed, chapped or cracked skin helps protect from the drying effects of wind and cold weather
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on • deep or puncture wounds • animal bites • serious burns
+when_using:
+  When using this product • do not get into eyes
+ask_doctor:
+  Stop use and ask a doctor if • condition worsens • symptoms last more than seven days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. if swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed to hands or body when skin feels dry or irritated
+other_safety_information:
+  Other Information may stain some fabrics
+inactive_ingredient:
+  Inactive Ingredient(s) water, glycerin, distearyldimonium chloride, petrolatum, isopropyl palmitate, cetyl alcohol, avena sativea (oat) kernel flour, benzyl alcohol, sodium chloride.
+questions:
+  Questions? Call toll free 1-800-527-7731
+package_label_principal_display_panel:
+  H-E-B DAILY MOISTURIZING LOTION 18 FL OZ (532mL) NDC 37808-927-43 LabelFront LabelBack
+set_id:
+  17eec39e-7dd6-4cee-9d43-4d9c6a434407
+id:
+  c718f93e-3cc9-6045-e053-2a95a90a8bb7
+effective_time:
+  20230216
+version:
+  2
+openfda:

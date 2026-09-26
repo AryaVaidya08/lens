@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Menthol Cough suppressant EUCALYPTUS OIL LEMON OIL SUCROSE D&C YELLOW NO. 10 HONEY FD&C YELLOW NO. 6 FOOD YELLOW 3 FREE ACID CORN SYRUP MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM Translucent Lemon P
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Menthol 8.6 mg
+purpose:
+  Purpose Antitussive (cough suppressant)/oral anesthetic
+indications_and_usage:
+  Uses Temporarily relieves ■ cough as may occur with a cold or inhaled irritants ■ occasional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. These symptoms may be serious.
+stop_use:
+  Ask a doctor if you have ■ persistent or chronic cough such as occurs with smoking, asthma, or emphysema ■ cough accompanied by excessive phlegm (mucus)
+  Stop us e and ask a doctor if cough persists for more than 7 days, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore mouth does not improve in 7 days irritation, pain or redness persists or worsens If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+dosage_and_administration:
+  Directions do not us e more than directed Adults and children: (12 years and older) Allow 1 drop to dissolve slowly in the mouth. May be repeated every 2 hours as necessary or as directed by a doctor. Children under 12 years: Do not give to children under 12 years of age.
+other_safety_information:
+  Other information ■ 15 calories per drop ■ store at 59º-86ºF (15º-30ºC) ■ protect from moisture & heat
+inactive_ingredient:
+  Inactive ingredients corn syrup, D&C yellow # 10, eucalyptus oil, FD&C yellow # 6, honey, lemon oil, sucrose
+questions:
+  Questions? Call 1-800-777-4908
+package_label_principal_display_panel:
+  NDC# 68599-0465-9 McKesson Cough Drops Assorted Honey Lemon 250 per Jar MFR# 27996L 27996L
+set_id:
+  9d5b4ef6-4eb8-41f6-e053-2a95a90a1350
+id:
+  24243ddc-ec71-09fd-e063-6394a90af565
+effective_time:
+  20241010
+version:
+  7
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Menthol
+  generic_name:
+    COUGH SUPPRESSANT
+  manufacturer_name:
+    McKesson
+  product_ndc:
+    68599-0465
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MENTHOL, UNSPECIFIED FORM
+  spl_id:
+    24243ddc-ec71-09fd-e063-6394a90af565
+  spl_set_id:
+    9d5b4ef6-4eb8-41f6-e053-2a95a90a1350
+  package_ndc:
+    68599-0465-9
+  is_original_packager:
+    True
+  upc:
+    0612479265615
+  unii:
+    L7T10EIP3A

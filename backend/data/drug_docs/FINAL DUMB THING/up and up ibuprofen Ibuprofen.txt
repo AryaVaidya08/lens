@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  up and up ibuprofen Ibuprofen IBUPROFEN IBUPROFEN SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM FD&C RED NO. 40 FD&C YELLOW NO. 6 FERRIC OXIDE RED MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ALCOHOL, UNSPECIFIED STEARIC ACID TALC TITANIUM DIOXIDE I2
+active_ingredient:
+  Active ingredient (in each caplet) Ibuprofen 200 mg (NSAID)* *nonsteroidal anti-inflammatory drug
+purpose:
+  Purposes Pain reliever/fever reducer
+indications_and_usage:
+  Uses • temporarily relieves minor aches and pains due to: • headache • muscular aches • minor pain of arthritis • toothache • backache • the common cold • menstrual cramps • temporarily reduces fever
+warnings:
+  Warnings Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: • hives • facial swelling • asthma (wheezing) • shock • skin reddening • rash • blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chances are higher if you • are age 60 or older • have had stomach ulcers or bleeding problems • take a blood thinning (anticoagulant) or steroid drug • take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] • have 3 or more alcoholic drinks every day while using this product • take more or for a longer time than directed Heart attack and stroke warning: NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed. Do not use • if you have ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer • right before or after heart surgery Ask a doctor before use if • you have problems or serious side effects from taking pain relievers or fever reducers • the stomach bleeding warning applies to you • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke • you are taking a diuretic Ask a doctor or pharmacist before use if you are • taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin • under a doctor’s care for any serious condition • taking any other drug When using this product • take with food or milk if stomach upset occurs Stop use and ask a doctor if • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • you have symptoms of heart problems or stroke: • chest pain • trouble breathing • weakness in one part or side of body • slurred speech • leg swelling • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present in the painful area • any new symptoms appear If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use • if you have ever had an allergic reaction to ibuprofen or any other pain reliever/fever reducer • right before or after heart surgery
+ask_doctor:
+  Ask a doctor before use if • you have problems or serious side effects from taking pain relievers or fever reducers • the stomach bleeding warning applies to you • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke • you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin • under a doctor’s care for any serious condition • taking any other drug
+when_using:
+  When using this product • take with food or milk if stomach upset occurs
+stop_use:
+  Stop use and ask a doctor if • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • you have symptoms of heart problems or stroke: • chest pain • trouble breathing • weakness in one part or side of body • slurred speech • leg swelling • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present in the painful area • any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions • do not take more than directed • the smallest effective dose should be used Adults and children 12 years and older: • take 1 caplet every 4 to 6 hours while symptoms persist • if pain or fever does not respond to 1 caplet, 2 caplets may be used • do not exceed 6 caplets in 24 hours, unless directed by a doctor Children under 12 years: ask a doctor
+storage_and_handling:
+  Other information • read all warnings and directions before use • store at 20-25°C (68-77°F) • avoid high humidity and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, corn starch, croscarmellose sodium, FD&C red no. 40 aluminum lake, FD&C yellow no. 6 aluminum lake, iron oxides, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, stearic acid, talc, titanium dioxide
+questions:
+  Questions or comments? 1-888-547-7400
+package_label_principal_display_panel:
+  Principal Display Panel see new warnings Compare to active ingredient in Motrin® IB ibuprofen tablets, 200 mg pain reliever/fever reducer (NSAID) easy-to-open cap THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN 225 CAPLETS† (†CAPSULE-SHAPED TABLETS) 183-uw-ibuprofen-1.jpg 183-uw-ibuprofen-2.jpg
+set_id:
+  98de2d1f-03c9-4051-b220-2a7acd423a63
+id:
+  ae867bb7-cb99-40d4-8b35-68b2176f7738
+effective_time:
+  20250515
+version:
+  6
+openfda:

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Fungicure Anti-Fungal Liquid 25% Undecylenic Acid ISOPROPYL PALMITATE UNDECYLENIC ACID UNDECYLENIC ACID
+active_ingredient:
+  Active Ingredient Undecylenic acid 25% w/w
+purpose:
+  Purpose Antifungal
+indications_and_usage:
+  Uses For the cure of most ringworm (tinea corporitis) and athlete's foot (tinea pedis). For relief of itching, scaling, cracking, burning, redness, soreness, irritation, and discomforts which may accompany these conditions.
+warnings:
+  Warnings For external use only.
+ask_doctor:
+  Ask a doctor before use on children under 2 years of age.
+when_using:
+  When using this product avoid contact with the eyes.
+stop_use:
+  Stop use and ask a doctor if Irritation occurs There is no improvement within 4 weeks.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Read all package directions and warnings before use. Use only as directed. Clean the affected area with soap and warm water and dry thoroughly. Apply a thin layer of FUNGICURE Liquid over the affected area twice daily (morning and night), or as directed by a doctor. This product is not effective on scalp or nails. For ringworm and athlete's foot, use daily for 4 weeks. For athlete's foot, pay special attention to spaces between toes; wear well fitting, ventilated shoes and change shoes and socks at least once daily. If condition persists longer, consult a doctor. Intended for use by normally healthy adults only. Persons under 18 years of age or those with highly sensitive or allergic skin should use only as directed by a doctor. Supervise children in the use of this product.
+information_for_patients:
+  Other information FUNGICURE may be applied to exposed nail beds, cuticles, around nail edges and under nail tips where reachable with its applicator brush. This product is not intended to, nor will it, penetrate hard nail surfaces. While not all finger and toe fungal infections are curable with OTC topical medications, if you see improvement within 4 weeks of use, you may continue to use FUNGICURE until satisfactory results are obtained. You may report serious side effects to the phone number provided under Questions? below.
+inactive_ingredient:
+  Inactive ingredients Isopropyl palmitate
+questions:
+  Questions? 1-800-792-2582
+package_label_principal_display_panel:
+  label
+set_id:
+  81dc6d51-968b-5093-e053-2991aa0a426f
+id:
+  81dc6d51-968a-5093-e053-2991aa0a426f
+effective_time:
+  20190214
+version:
+  1
+openfda:

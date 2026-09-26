@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  UV ESSENTIEL COMPLETE PROTECTION ANTIOXIDANT ANTI-POLLUTION SUNSCREEN BROAD SPECTRUM SPF 50 OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE OCTINOXATE OCTINOXATE TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE WATER butylene glycol dicaprylate/dicaprate alcohol CAPRYLYL TRISILOXANE glycerin POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) lauryl PEG-9 polydimethylsiloxyethyl dimethicone glycyrrhiza glabra diethylhexyl syringylidenemalonate triethoxycaprylylsilane HYDROGENATED POLYBUTENE (1300 MW) aluminum hydroxide stearic acid butylene glycol caprylyl glycol dimethicone ECTOINE phenoxyethanol MEDIUM-CHAIN TRIGLYCERIDES disteardimonium hectorite propylene carbonate HYALURONATE SODIUM BUTYLATED HYDROXYTOLUENE 1,2-hexanediol maltodextrin tocopherol
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredients Purpose Octinoxate 7.5% Sunscreen Titanium dioxide 3.8% Sunscreen Zinc oxide 17.1% Sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th>Active ingredients</th><th align="center">Purpose</th></tr></thead><tbody><tr><td>Octinoxate 7.5%</td><td>Sunscreen</td></tr><tr><td>Titanium dioxide 3.8%</td><td>Sunscreen</td></tr><tr><td>Zinc oxide 17.1%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose Octinoxate 7.5% Sunscreen Titanium dioxide 3.8% Sunscreen Zinc oxide 17.1% Sunscreen
+purpose_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th>Active ingredients</th><th align="center">Purpose</th></tr></thead><tbody><tr><td>Octinoxate 7.5%</td><td>Sunscreen</td></tr><tr><td>Titanium dioxide 3.8%</td><td>Sunscreen</td></tr><tr><td>Zinc oxide 17.1%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if skin rash occurs. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if skin rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses Children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive ingredients water • butylene glycol dicaprylate/dicaprate • alcohol • caprylyl methicone • glycerin • polymethylsilsesquioxane • lauryl PEG-9 polydimethylsiloxyethyl dimethicone • yeast extract • kalanchoe pinnata leaf extract • glycyrrhiza glabra (licorice) root extract • diethylhexyl syringylidenemalonate • triethoxycaprylylsilane • hydrogenated polyisobutene • aluminum hydroxide • stearic acid • fragrance • butylene glycol • caprylyl glycol • dimethicone • ectoin • phenoxyethanol • caprylic/capric triglyceride • disteardimonium hectorite • propylene carbonate • sodium hyaluronate • BHT • 1,2-hexanediol • maltodextrin • tocopherol il28A
+questions:
+  Questions or comments? Call 1-800-550-0005 M – F 9am –9pm EST, S – S 10am – 6pm EST.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 ml Bottle Carton UV ESSENTIEL COMPLETE PROTECTION ANTIOXIDANT ANTI-POLLUTION SUNSCREEN BROAD SPECTRUM SPF 50 CHANEL 30 ml 1 FL.OZ. PRINCIPAL DISPLAY PANEL - 30 ml Bottle Carton
+set_id:
+  58c8b496-885b-47b3-b9e7-3fd8ae55a471
+id:
+  7b4541cc-e3b7-4a02-b02b-dd839ea39cfc
+effective_time:
+  20221122
+version:
+  3
+openfda:

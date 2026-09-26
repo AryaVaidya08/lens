@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  ACNE CLEANSING SALICYLIC ACID EDETATE DISODIUM ANHYDROUS WATER GLYCERIN SODIUM LAURETH-3 SULFATE SODIUM CHLORIDE LAURAMIDOPROPYL BETAINE BUTYLENE GLYCOL SUCROSE GENTIANA LUTEA ROOT SACCHARINA LATISSIMA CAFFEINE HYALURONATE SODIUM N-ACETYLGLUCOSAMINE PEG-120 METHYL GLUCOSE DIOLEATE SULISOBENZONE SODIUM HYDROXIDE EDETIC ACID EDETATE SODIUM BUTYLATED HYDROXYTOLUENE PHENOXYETHANOL FD&C BLUE NO. 1 SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Salicylic Acid 2%
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Uses treats acne clears acne blemishes helps prevent development of new acne blemishes
+warnings:
+  Warnings For external use only When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If irritation occurs, only use one topical acne medication at a time.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands and work into a lather Add water to increase lather Massage gently over wet skin, avoiding eye area Rinse Use A.M. and P.M. If bothersome drying or peeling occurs, reduce usage to every other day Follow with Acne Solutions Clarifying Lotion
+inactive_ingredient:
+  Inactive ingredients water\aqua\eau [] glycerin [] sodium laureth sulfate [] sodium chloride [] lauramidopropyl betaine [] butylene glycol [] sucrose [] gentiana lutea (gentian) root extract [] laminaria saccharina extract [] caffeine [] sodium hyaluronate [] acetyl glucosamine [] peg-120 methyl glucose dioleate [] benzophenone-4 [] sodium hydroxide [] tetrasodium edta [] disodium edta [] bht [] phenoxyethanol [] blue 1 (ci 42090) <iln50388>
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 125 mL Tube Carton CLINIQUE acne solutions cleansing gel SALICYLIC ACID ACNE MEDICATION ALL SKIN TYPES 4.2 FL.OZ.LIQ./125 ml e Principal Display Panel
+set_id:
+  7bae5802-cf51-4b41-9d7c-d72f1eb4c4af
+id:
+  0426793e-20f4-f176-e063-6294a90a601a
+effective_time:
+  20230830
+version:
+  9
+openfda:
+  application_number:
+    M006
+  brand_name:
+    ACNE CLEANSING
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    CLINIQUE LABORATORIES LLC
+  product_ndc:
+    49527-045
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    0426793e-20f4-f176-e063-6294a90a601a
+  spl_set_id:
+    7bae5802-cf51-4b41-9d7c-d72f1eb4c4af
+  package_ndc:
+    49527-045-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

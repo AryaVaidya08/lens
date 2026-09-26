@@ -1,0 +1,29 @@
+effective_time:
+  20160715
+inactive_ingredient:
+  Inactive Ingredients: Silicon dioxide, sucrose, tartaric acid
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children
+purpose:
+  Antacid/Analgesic
+warnings:
+  Reye's syndrome: Children and teenagers should not use this medicine for chicken pox or flu symptoms before a doctor is consulted about Reye's syndrome, a rare but serius illness reported to be associated with aspirin. Allergy Alert: Aspirin may cause a severe allergic reaction which may include Hives, Facial Swelling, Asthma, Shock. Do not use if you are allergic to aspirin or any other pain reliever/fever reducer. Stomach Bleeding Warning: This product contains a nonsteroidal anti-inflammatory drug (NSAID) which may cause severe stomach bleeding. The chance is higher if you are age 60 or older, have had stomach ulcers or bleeding problems, take blood thinner (anti-coagulant) or steriod drug, have 3 or more alcoholic drinks every day ehile using this product, take more or for a longer time than directed, ask a doctor before use if stomach bleeding warning applies to you, you have a history of stomach problems, such as heartburn, you have high blood pressure, heart disease, liver cirrhosis, or kidney disease, you are taking a diuretic, you have a sodium restricted diet. Stop use and ask a doctor if you experience any of the following signs of stomach bleeding, feel faint, vomit blood, have bloody or black stools, have stomach pain that does not get better, do not take more than the reecommended dosage
+spl_product_data_elements:
+  Picot Plus Effervescent Antacid and Pain Reliever ASPIRIN ASPIRIN TARTARIC ACID SODIUM BICARBONATE SODIUM CATION CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID
+ask_doctor:
+  Ask a Doctor before use if stomach bleeding warning applies to you, you have a history of stomach problems, such as heartburn, you have high blood pressure, heart disease, liver cirrhosis, or kidney disease, you are taking a diuretic, you have a sodium restricted diet
+openfda:
+version:
+  19
+dosage_and_administration:
+  Fully dissolve packet in 4 ounces of water before taking Adults: 1-2 packets every 4-6 hours, not to exceed 6 packets in a 24 hour period or as directed by a doctor. Adults: 60 years and older: 1-2 packets every 4-6 hours, not to exceed 5 packets in a 24 hour period
+package_label_principal_display_panel:
+  picot plus Antacid and pain reliever Antacid and pain reliever Effervescent Powder picot plus 10 PACKETS See new warnings information Sodium Bicarbonate Citric Acid Aspirin NSAID PicotPlus.jpg DrugFacts.jpg
+indications_and_usage:
+  Nonsteroidal anti-inflammatory drug USES: for the relief of: heartburn, sour stomach, acid indigestion, and upset stomach associated with these symptoms
+set_id:
+  80ee1531-0c55-47ab-a39d-0cbdec2796fa
+id:
+  37b07cab-8b96-1c32-e054-00144ff88e88
+active_ingredient:
+  Active Ingredients (in each packet) Sodium Bicarbonate 2.485 g Citric Acid 1.948 g Aspirin (NSAID*) 500 mg

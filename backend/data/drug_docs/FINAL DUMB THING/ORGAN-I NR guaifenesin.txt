@@ -1,0 +1,39 @@
+effective_time:
+  20150915
+inactive_ingredient:
+  Inactive ingredients D&C red #30 aluminum lake, magnesium stearate, maltodextrin, microcrystalline cellulose, polyvinylpyrrolidine, pregelatinized starch, silicon dioxide, stearic acid
+purpose:
+  Purpose Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Ask a doctor before use if you have ▪ cough that occurs with too much phlegm (mucus) ▪ cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts more than 7 days, comes back or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  ORGAN-I NR guaifenesin GUAIFENESIN GUAIFENESIN D&C RED NO. 30 MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE STARCH, CORN SILICON DIOXIDE STEARIC ACID POVIDONE K15 rose colored 4740;V
+ask_doctor:
+  Ask a doctor before use if you have ▪ cough that occurs with too much phlegm (mucus) ▪ cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions ▪ adults and children 12 years and over take 1 to 2 tablets every 4 hours, do not take more than 6 doses in any 24-hour period ▪ children under 12 years do not use. This adult product is not intended for use in children under 12 years of age
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Guaifenesin Tablets USP Expectorant 200 mg For Ages 12 & Over 30 Tablets (5 x 6)
+  Drug Facts
+  Other information ▪ store at 15° to 30°C (59° to 86°F) ▪ You may report serious side effects to: 130 Vintage Drive, Huntsville, AL 35811 .
+  FOR YOUR PROTECTION: Do not use product if blister is torn or broken.
+  The drug product contained in this package is from NDC # 0603-4886, Qualitest Pharmaceuticals. Packaged and Distributed by: American Health Packaging 2550 John Glenn Avenue, Suite A, Columbus, Ohio 43217. 078725 Rev. 05/2014
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL ORGAN-I NR Guaifenesin Tablets USP Expectorant 200 mg For Ages 12 & Over 30 Tablets (5 x 6) ORGNA-I NR Guaifenesin Tablets USP Expectorant, 200 mg label
+indications_and_usage:
+  Use helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive
+set_id:
+  9a19ffd6-2adb-4dbb-b1d0-24b9f3192084
+id:
+  9d045ba6-089c-40fa-8e72-43ef0b0542bc
+active_ingredient:
+  Active ingredient (in each tablet) Guaifenesin, USP 200 mg

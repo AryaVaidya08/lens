@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Aromatique Fresh Air Hand Sanitizer Alcohol ACRYLATES/VINYL ISODECANOATE CROSSPOLYMER (10000 MPA.S NEUTRALIZED AT 0.5%) ALOE VERA LEAF POLYETHYLENE GLYCOL 300 PEG-12 DIMETHICONE (300 CST) WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredients Ethyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USES For hand washing to decrease bacteria on skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. WHEN USING THIS PRODUCT Do not use in eyes. In case of contact with eyes, rinse with water. STOP USE AND ASK A DOCTOR IF Irritation and redness develop and persist. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help promptly.
+when_using:
+  WHEN USING THIS PRODUCT Do not use in eyes. In case of contact with eyes, rinse with water.
+stop_use:
+  STOP USE AND ASK A DOCTOR IF Irritation and redness develop and persist.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help promptly.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping.
+other_safety_information:
+  Other Information Store under 105°F
+inactive_ingredient:
+  Inactive Ingredients Acrylates/Vinyl/Isodecanoate Crosspolymer, Aloe Barbadensis Leaf, PEG 6, PEG-12 Dimethicone, Water, Fragrance
+package_label_principal_display_panel:
+  Principal Display Panel – Bottle Label AROMATIQUE ® / No. 58 Fresh Air / GEL HAND SANITIZER Gel désinfectant pour les mains 16 FLUID OZ (473 ml) Principal Display Panel – Bottle Label
+set_id:
+  680ff4bc-883c-42d9-83ff-7294ede884ad
+id:
+  23f8e0a6-52c9-0b78-e063-6394a90abbe1
+effective_time:
+  20241008
+version:
+  2
+openfda:

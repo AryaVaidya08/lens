@@ -1,0 +1,56 @@
+effective_time:
+  20121019
+geriatric_use:
+  Geriatric Use Clinical studies with nystatin topical powder did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+precautions:
+  PRECAUTIONS General Nystatin topical powder should not be used for the treatment of systemic, oral, intravaginal or ophthalmic infections. If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated. It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens. INFORMATION FOR THE PATIENT Patients using this medication should receive the following information and instructions: The patient should be instructed to use this medication as directed (including the replacement of missed doses). This medication is not for any disorder other than that for which it is prescribed. Even if symptomatic relief occurs within the first few days of treatment, the patient should be advised not to interrupt or discontinue therapy until the prescribed course of treatment is completed. If symptoms of irritation develop, the patient should be advised to notify the physician promptly. Laboratory Tests If there is lack of therapeutic response, KOH smears, cultures, or other diagnostic methods should be repeated. Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate the carcinogenic potential of nystatin. No studies have been performed to determine the mutagenicity of nystatin or its effects on male or female fertility. Pregnancy Teratogenic Effects Category C Animal reproduction studies have not been conducted with any nystatin topical preparation. It also is not known whether these preparations can cause fetal harm when used by a pregnant woman or can affect reproductive capacity. Nystatin topical powder should be prescribed for a pregnant woman only if the potential benefit to the mother outweighs the potential risk to the fetus. Nursing Mothers It is not known whether nystatin is excreted in human milk. Caution should be exercised when nystatin is prescribed for a nursing woman. Pediatric Use Safety and effectiveness have been established in the pediatric population from birth to 16 years. (See DOSAGE AND ADMINISTRATION .) Geriatric Use Clinical studies with nystatin topical powder did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects. Other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+description:
+  DESCRIPTION Nystatin is a polyene antifungal antibiotic obtained from Streptomyces noursei . The molecular formula for Nystatin is C 47 H 75 NO 17 . The molecular weight of Nystatin is 926.1. Structural formula: Nystatin topical powder is for dermatologic use. Nystatin topical powder contains 100,000 USP nystatin units per gram dispersed in talc. Chemical Structure
+general_precautions:
+  General Nystatin topical powder should not be used for the treatment of systemic, oral, intravaginal or ophthalmic infections. If irritation or sensitization develops, treatment should be discontinued and appropriate measures taken as indicated. It is recommended that KOH smears, cultures, or other diagnostic methods be used to confirm the diagnosis of cutaneous or mucocutaneous candidiasis and to rule out infection caused by other pathogens.
+storage_and_handling:
+  STORAGE Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature]; avoid excessive heat (40°C/104°F). Keep tightly closed.
+pharmacokinetics:
+  Pharmacokinetics Nystatin is not absorbed from intact skin or mucous membrane.
+indications_and_usage:
+  INDICATIONS AND USAGE Nystatin topical powder is indicated in the treatment of cutaneous or mucocutaneous mycotic infections caused by Candida albicans and other susceptible Candida species. Nystatin topical powder is not indicated for systemic, oral, intravaginal or ophthalmic use.
+set_id:
+  9e122c5f-65e4-4c92-aaa0-ae97dd725b1a
+id:
+  4c109ffc-d99f-4beb-bc0a-4e340b56396c
+teratogenic_effects:
+  Teratogenic Effects Category C Animal reproduction studies have not been conducted with any nystatin topical preparation. It also is not known whether these preparations can cause fetal harm when used by a pregnant woman or can affect reproductive capacity. Nystatin topical powder should be prescribed for a pregnant woman only if the potential benefit to the mother outweighs the potential risk to the fetus.
+pediatric_use:
+  Pediatric Use Safety and effectiveness have been established in the pediatric population from birth to 16 years. (See DOSAGE AND ADMINISTRATION .)
+contraindications:
+  CONTRAINDICATIONS Nystatin topical powder is contraindicated in patients with a history of hypersensitivity to any of its components.
+pregnancy:
+  Pregnancy Teratogenic Effects Category C Animal reproduction studies have not been conducted with any nystatin topical preparation. It also is not known whether these preparations can cause fetal harm when used by a pregnant woman or can affect reproductive capacity. Nystatin topical powder should be prescribed for a pregnant woman only if the potential benefit to the mother outweighs the potential risk to the fetus.
+microbiology:
+  Microbiology Nystatin is an antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi, including Candida albicans, C. parapsilosis, C. tropicalis, C. guilliermondi, C. pseudotropicalis, C. krusei, Torulopsis glabrata, Tricophyton rubrum, T. mentagrophytes. Nystatin acts by binding to sterols in the cell membrane of susceptible species resulting in a change in membrane permeability and the subsequent leakage of intracellular components. On repeated subculturing with increasing levels of nystatin, Candida albicans does not develop resistance to nystatin. Generally, resistance to nystatin does not develop during therapy. However, other species of Candida (C. tropicalis, C. guilliermondi, C. krusei, and C. stellatoides) become quite resistant on treatment with nystatin and simultaneously become cross resistant to amphotericin as well. This resistance is lost when the antibiotic is removed. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.
+nursing_mothers:
+  Nursing Mothers It is not known whether nystatin is excreted in human milk. Caution should be exercised when nystatin is prescribed for a nursing woman.
+spl_product_data_elements:
+  Nystatin Nystatin Nystatin Nystatin Talc
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Very moist lesions are best treated with the topical dusting powder. Adults and Pediatric Patients (Neonates and Older) Apply to candidal lesions two or three times daily until healing is complete. For fungal infection of the feet caused by Candida species, the powder should be dusted on the feet, as well as, in all foot wear.
+adverse_reactions:
+  ADVERSE REACTIONS The frequency of adverse events reported in patients using nystatin topical powder is less than 0.1%. The more common events that were reported include allergic reactions, burning, itching, rash, eczema, and pain on application. (See PRECAUTIONS, General .)
+spl_unclassified_section:
+  Rx Only FOR TOPICAL USE ONLY. NOT FOR OPHTHALMIC USE.
+  Manufactured for: Midlothian Laboratories Montgomery, AL 36117 Revised June 2009 Repacked by: H.J. Harkins Company, Inc. Grover Beach, CA 93433
+laboratory_tests:
+  Laboratory Tests If there is lack of therapeutic response, KOH smears, cultures, or other diagnostic methods should be repeated.
+how_supplied:
+  HOW SUPPLIED Nystatin topical powder, USP is supplied as 100,000 units nystatin per gram in plastic squeeze bottles: 15g (NDC 68308-152-15) STORAGE Store at 20°C to 25°C (68°F to 77°F)[see USP Controlled Room Temperature]; avoid excessive heat (40°C/104°F). Keep tightly closed.
+information_for_patients:
+  INFORMATION FOR THE PATIENT Patients using this medication should receive the following information and instructions: The patient should be instructed to use this medication as directed (including the replacement of missed doses). This medication is not for any disorder other than that for which it is prescribed. Even if symptomatic relief occurs within the first few days of treatment, the patient should be advised not to interrupt or discontinue therapy until the prescribed course of treatment is completed. If symptoms of irritation develop, the patient should be advised to notify the physician promptly.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 gram bottle NYSTATIN Topical Powder, USP 100,000 units per gram Rx only 15 GRAMS PRINCIPAL DISPLAY PANEL - 15 gram bottle
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Pharmacokinetics Nystatin is not absorbed from intact skin or mucous membrane. Microbiology Nystatin is an antibiotic which is both fungistatic and fungicidal in vitro against a wide variety of yeasts and yeast-like fungi, including Candida albicans, C. parapsilosis, C. tropicalis, C. guilliermondi, C. pseudotropicalis, C. krusei, Torulopsis glabrata, Tricophyton rubrum, T. mentagrophytes. Nystatin acts by binding to sterols in the cell membrane of susceptible species resulting in a change in membrane permeability and the subsequent leakage of intracellular components. On repeated subculturing with increasing levels of nystatin, Candida albicans does not develop resistance to nystatin. Generally, resistance to nystatin does not develop during therapy. However, other species of Candida (C. tropicalis, C. guilliermondi, C. krusei, and C. stellatoides) become quite resistant on treatment with nystatin and simultaneously become cross resistant to amphotericin as well. This resistance is lost when the antibiotic is removed. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility No long-term animal studies have been performed to evaluate the carcinogenic potential of nystatin. No studies have been performed to determine the mutagenicity of nystatin or its effects on male or female fertility.

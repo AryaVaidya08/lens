@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Coumarin Coumarinum COUMARIN COUMARIN WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: Coumarinum 6X, 12X, 30X, 12C, 30C
+purpose:
+  INDICATIONS: For temporary relief of abdominal bloating, ear congestion, fatigue, gas, headaches, hay fever, generalized itching, and lower back pain.
+warnings:
+  WARNINGS: If pregnant or breast-feeding , ask a health care professional before use. Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: 10 drops orally, 3 times a day. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: For temporary relief of abdominal bloating, ear congestion, fatigue, gas, headaches, hay fever, generalized itching, and lower back pain.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Demineralized water, 25% Ethanol.
+questions:
+  QUESTIONS: Distributed by: BIOACTIVE NUTRITIONAL Melbourne, FL 32935 For Nutritional Information write: BioActive Nutritional, Inc. 1803 N. Wickham Rd. Melbourne, FL 32935
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: BioActive Homeopathic COUMARIN 1 FL OZ (30 ml) Coumarin
+set_id:
+  616f210b-e84a-4119-9ba9-291494ddb80c
+id:
+  648dc1d0-cf4f-4cc3-aac2-586d10aebf21
+effective_time:
+  20250516
+version:
+  3
+openfda:

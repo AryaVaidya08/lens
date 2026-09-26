@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  meijer LEMON SORBET SCENTED Hand Sanitizer Ethyl Alcohol ALCOHOL ALCOHOL ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER (60000 MPA.S) ALOE VERA LEAF AMINOMETHYLPROPANOL DENATONIUM BENZOATE GLYCERIN POLYOXYL 40 HYDROGENATED CASTOR OIL FD&C RED NO. 4 .ALPHA.-TOCOPHEROL ACETATE WATER FD&C YELLOW NO. 5
+spl_unclassified_section:
+  Drug Facts
+  Kills Up to 99.9% of Germs * MADE IN CHINA OUR QUALITY GUARANTEE DIST. BY MEIJER DISTRIBUTION, INC. GRAND RAPIDS, MI 49544 www.meijer.com *Effective at killing 99.9% of Escherichia coli, Staphylococcus aureus under laboratory settings
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Decreases bacteria on skin.
+warnings:
+  Warnings For external use only: hands Flammable, keep away from fire or flame. Do not use • If you are allergic to any of the ingredients. When using this product • Do not get into eyes . If contact occurs, rinse thoroughly with water. Stop use and ask a doctor • If irritation or rash develops and continues for more than 72 hours. Keep out of reach of children. If swallowed, call Poison Help at 1-800-222-1222 or go to PoisonHelp.org.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, call Poison Help at 1-800-222-1222 or go to PoisonHelp.org.
+dosage_and_administration:
+  Directions • Adults and children 6 years and older Spray onto hands and rub them together until dry. Recommended for repeated use. • Children under 6 years of age Should be supervised when using this product.
+storage_and_handling:
+  Other information • Store between 15-30° C (59-86° F) • Avoid freezing and excessive heat above 40° C (104° F)
+inactive_ingredient:
+  Inactive ingredients Acrylates/C10-30 Alkyl Acrylates Crosspolymer, Aloe Barbadensis Gel, Aminomethyl Propanol, Denatonium Benzoate, Fragrance, Glycerin, PEG-40 Hydrogenated Castor Oil, Red 4, Tocopheryl Acetate, Water, Yellow 5
+questions:
+  Questions or comments? Call toll free 1-877-274-8358
+package_label_principal_display_panel:
+  Packaging image description
+set_id:
+  ef1dc7d8-38a7-4d12-a7e5-2dd1e8263210
+id:
+  d7d79292-ae3e-462c-8082-d4558824183d
+effective_time:
+  20251021
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    meijer LEMON SORBET SCENTED Hand Sanitizer
+  generic_name:
+    ETHYL ALCOHOL
+  manufacturer_name:
+    Meijer, Inc.
+  product_ndc:
+    79481-0077
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1041849
+  spl_id:
+    d7d79292-ae3e-462c-8082-d4558824183d
+  spl_set_id:
+    ef1dc7d8-38a7-4d12-a7e5-2dd1e8263210
+  package_ndc:
+    79481-0077-1
+  is_original_packager:
+    True
+  upc:
+    0719283781260
+  unii:
+    3K9958V90M

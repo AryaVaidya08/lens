@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Benzocaine and Benzethonium Benzocaine and Benzethonium BENZETHONIUM CHLORIDE BENZETHONIUM PROPANE DIPROPYLENE GLYCOL ISOBUTANE BUTANE BENZOCAINE BENZOCAINE
+active_ingredient:
+  Active Ingredients Benzethonium Chloride 0.2% w/w Benzocaine 10% w/w
+purpose:
+  Purpose Topical Antiseptic Topical Anesthetic
+indications_and_usage:
+  Uses For temporary relief of pain, treatment and helps prevent infection in minor cuts and scrapes insect bites minor skin irritations
+warnings:
+  Warnings For external use only Flammable: keep away from fire or flame contents under pressure do not puncture or incinerate container do not expose to temperatures above 120°F Do not use: in or near mucous membranes on serious burns on deep puncture wounds for a prolonged period of time on a large portion of the body Stop use and ask a doctor if: redness, swelling, or irritation occurs infection occurs condition persists or worsens symptoms persists for more than 7 days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+safe_handling_warning:
+  Flammable: keep away from fire or flame contents under pressure do not puncture or incinerate container do not expose to temperatures above 120°F
+do_not_use:
+  Do not use: in or near mucous membranes on serious burns on deep puncture wounds for a prolonged period of time on a large portion of the body
+stop_use:
+  Stop use and ask a doctor if: redness, swelling, or irritation occurs infection occurs condition persists or worsens symptoms persists for more than 7 days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions clean the affected area shake can well before using for adult institutional use only not for use on children hold 4-6 inches from surface and spray area until wet may be covered with sterile bandage. If bandaged, let dry first
+other_safety_information:
+  Other Information avoid inhaling use only as directed intentional misuse by deliberately concentrating and inhaling the contents may be harmful or fatal
+inactive_ingredient:
+  Inactive Ingredients Dipropylene Glycol, Isobutane, n-Butane, Propane
+package_label_principal_display_panel:
+  Label Label
+set_id:
+  35ce2638-6a77-41dd-e054-00144ff8d46c
+id:
+  35ce2638-6a78-41dd-e054-00144ff8d46c
+effective_time:
+  20160621
+version:
+  1
+openfda:

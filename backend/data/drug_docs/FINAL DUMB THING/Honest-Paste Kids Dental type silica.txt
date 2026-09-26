@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Honest-Paste Kids Dental type silica GLYCERIN ASCORBIC ACID LEVOMENTHOL SILICON DIOXIDE SILICON DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM GREEN TEA LEAF ROSEMARY SORBITOL WATER SCUTELLARIA BAICALENSIS ROOT XYLITOL CALENDULA OFFICINALIS FLOWER CHAMOMILE
+active_ingredient:
+  Active ingredients Dental type silica 8%
+purpose:
+  Purpose Anticavity
+dosage_and_administration:
+  Use helps protect against cavities
+warnings:
+  Warnings When using this product, avoid contact with eyes and lips. If contact occurs, rinse with water.
+ask_doctor:
+  Stop use and ask a dentist if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center immediately.
+indications_and_usage:
+  Directions children under 1 year: ask a dentist or physician children under 6 years: instruct in good brushing and rinsing habits (to minimize swallowing)
+inactive_ingredient:
+  Inactive ingredients glycerin, cellulose gum, ascorbic acid, rosemary extract, scutellaria root extract, green tea extract, xylitol, calendula extract, chamomile extract, enzyme treatment stevia, l-menthol, raspberry flavor, sorbitol, purified water
+package_label_principal_display_panel:
+  Package Label 60g NDC: 80925-201-01 Label
+set_id:
+  b2b435ec-8036-ca87-e053-2a95a90aebf4
+id:
+  d508bfb0-064a-3c7a-e053-2995a90a5bdb
+effective_time:
+  20220107
+version:
+  2
+openfda:

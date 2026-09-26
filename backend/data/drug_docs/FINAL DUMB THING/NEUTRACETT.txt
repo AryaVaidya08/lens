@@ -1,0 +1,33 @@
+effective_time:
+  20101109
+inactive_ingredient:
+  Inactive Ingredients: Water (Aqua), Neutracett Complex (Hyaluronic Acid, DL Panthenol), PPG-5-Ceteth-20, Ammonium Acryloyldimethyltaurate/VP Copolymer, Phenoxyethanol, Chlorphenesin, Benzoic Acid.
+purpose:
+  Purpose: Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings: For external use only.
+spl_product_data_elements:
+  NEUTRACETT ALL PURPOSE ALLANTOIN GLYCERIN ALLANTOIN ALLANTOIN GLYCERIN GLYCERIN WATER HYALURONIC ACID PANTHENOL PPG-5-CETETH-20 PHENOXYETHANOL CHLORPHENESIN BENZOIC ACID
+ask_doctor:
+  Ask a doctor before use if you have: *serious burns * deep or puncture wounds * animal bites Questions? 800-833-4164 www.neutracett.com Patents Pending
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions: Gently clean area with mild cleanser. Apply gel to entire area 2 times per day or as directed. May be covered with sterile bandage. See website for more information.
+stop_use:
+  Stop use and ask a doctor: * if condition worsens or does not improve after 7 days * if rash or other allergic reactions occur
+do_not_use:
+  Do not use: *if you are allergic to any of the ingredients *avoid contact with the eyes
+package_label_principal_display_panel:
+  Neutracett Aid 4-Healing Skin Recovery Treatment For cuts, scrapes, burns and sunburns All natural / won’t stain All Purpose Neutracett Artwork-LBL
+indications_and_usage:
+  Uses: Helps protect the skin so your body can heal cuts, scrapes, burns and sunburns.
+set_id:
+  59aa6b7a-ff43-410f-94cf-3cc4c4150b87
+id:
+  81cba866-6c48-4bcc-9a4b-71639db28533
+active_ingredient:
+  Active ingredients Allantoin 0.5% Glycerin 5.0%

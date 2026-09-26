@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  CALENDULA OFFICINALIS CALENDULA OFF. ACACIA LACTOSE MONOHYDRATE CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP
+spl_unclassified_section:
+  Made according to the Homeopathic Pharmacopoeia of the United States since 1903.
+warnings:
+  Warnings Do not use if cap band is missing or broken. If you are pregnant or nursing, consult a licensed beforeusing this product. If symptoms persist for 7 days or worsen, contact a licensed practitioner. Keep this and all medicines out of the reach of children. To be used according to label indications and/or standard homeopathic indications.
+do_not_use:
+  Do not use if cap band is missing or broken.
+pregnancy_or_breast_feeding:
+  If you are pregnant or nursing, consult a licensed beforeusing this product.
+ask_doctor:
+  If symptoms persist for 7 days or worsen, contact a licensed practitioner.
+keep_out_of_reach_of_children:
+  Keep this and all medicines out of the reach of children.
+indications_and_usage:
+  MINOR CUTS OR SKIN IRRITATION
+purpose:
+  MINOR CUTS OR SKIN IRRITATION
+questions:
+  800-624-9659
+dosage_and_administration:
+  Directions ADULTS: Dissolve 4 tablets under tongue 4 times a day. CHILDREN: Consult healthcare professional.
+inactive_ingredient:
+  In a base of Acacia Gum and Lactose N.F.
+active_ingredient:
+  CALENDULA OFF. 6X
+package_label_principal_display_panel:
+  Principal Display Panel -- 250 Tablet Bottle Label STANDARD HOMEOPATHIC MADE IN THE USA SINCE 1903 NDC # 0360-0090-01 Homeopathic Medicine CALENDULA OFF. 6X MINOR CUTS OR SKIN IRRITATION* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. 250 TABLETS label.
+set_id:
+  4bbc29a8-6d89-41a7-e054-00144ff8d46c
+id:
+  fd7c1781-70ee-b016-e053-6394a90a654d
+effective_time:
+  20230606
+version:
+  4
+openfda:

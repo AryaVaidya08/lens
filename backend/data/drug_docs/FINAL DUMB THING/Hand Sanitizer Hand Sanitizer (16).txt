@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Hand Sanitizer Hand Sanitizer WATER GLYCERIN CARBOMER INTERPOLYMER TYPE A (55000 CPS) MALTODEXTRIN ALOE ALCOHOL ALCOHOL ALPHA-TOCOPHEROL ACETATE PROPANEDIOL
+active_ingredient:
+  Active Ingredients Alcohol 62%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on skin without soap and water
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flames. Do not use in the eyes. If this happens, rinse thoroughly with water. Use with caution if allergic to alcohol.
+do_not_use:
+  Do not use in the eyes. If this happens, rince thoroughly with water
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If ingested get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Wet hands & wrists thoroughly with product and allow to dry without wiping
+inactive_ingredient:
+  Inactive ingredient Acrylates/C10-30 Alkyl, Acrylate, Crosspolymer, Aloe Barbadenis Leaf Juice, Fragrance, Glycerin, Maltodextrin, Proplen Glycol, Tocpheryl Acetate, Triethanolamine, Water
+package_label_principal_display_panel:
+  RapidCare - Hand Sanitizer - 1pc Pouch
+set_id:
+  b22af59a-ef88-462f-e053-2a95a90a652c
+id:
+  b304b71f-cb2c-1115-e053-2995a90ad4e0
+effective_time:
+  20201101
+version:
+  2
+openfda:

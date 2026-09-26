@@ -1,0 +1,51 @@
+effective_time:
+  20150108
+purpose:
+  Active Ingredients (in each 1 mL dropperful) Purpose Phenylephrine HCl 3.5 mg Nasal Decongestant Chlorpheniramine Maleate 1 mg Antihistamine Dextromethorphan HBr 3 mg Cough Suppressant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately. 1-800-222-1222
+when_using:
+  When using this product excitability may occur, especially in children may cause drowsiness sedatives and tranquilizers may increase drowsiness effect
+questions:
+  Question? Comments? Call 1-877-622-6836
+storage_and_handling:
+  Other information Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to the common cold, hay fever (allergic rhinitis) or other respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes cough due to minor throat and bronchial irritation nasal congestion reduces swelling of nasal passages
+set_id:
+  40630bad-d8ce-47a9-aa13-737e10a1e7e0
+id:
+  697d0e68-c4c4-4b24-a155-1c2d8310ef31
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if a child is taking sedatives or tranquilizers.
+active_ingredient:
+  Active Ingredients (in each 1 mL dropperful) Purpose Phenylephrine HCl 3.5 mg Nasal Decongestant Chlorpheniramine Maleate 1 mg Antihistamine Dextromethorphan HBr 3 mg Cough Suppressant
+dosage_and_administration_table:
+  <table width="50%"> <col width="41%" align="left" valign="top"/> <col width="59%" align="left" valign="top"/> <tbody> <tr styleCode="Botrule"> <td styleCode="Rrule">Children 6 to under 12 years of age:</td> <td>1 dropperful (1 mL) every 4 to 6 hours, not to exceed 6 dropperfuls in 24 hours or as directed by a doctor</td> </tr> <tr styleCode="Botrule"> <td styleCode="Rrule">Children under 6 years of age:</td> <td>Consult a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Citric Acid, FD&C Blue # 1, FD&C Red # 40, Glycerin, Grape flavor, Methyl Paraben, Potassium Citrate, Potassium Sorbate, Propyl Paraben, Propylene Glycol, Purified Water, Sucralose
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product in a child who is now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product Ask a doctor before use if a child has a breathing problem such as emphysema or chronic bronchitis glaucoma a persistent or chronic cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes mellitus Ask a doctor or pharmacist before use if a child is taking sedatives or tranquilizers. When using this product excitability may occur, especially in children may cause drowsiness sedatives and tranquilizers may increase drowsiness effect Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur Keep out of reach of children. In case of accidental overdose, seek professional help or contact a Poison Control Center immediately. 1-800-222-1222
+spl_product_data_elements:
+  CARDEC DM PHENYLEPHRINE HYDROCHLORIDE, CHLORPHENIRAMINE MALEATE, and DEXTROMETHORPHAN HYDROBROMIDE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE CHLORPHENIRAMINE MALEATE CHLORPHENIRAMINE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 FD&C RED NO. 40 GLYCERIN GRAPE METHYLPARABEN POTASSIUM CITRATE POTASSIUM SORBATE PROPYLPARABEN PROPYLENE GLYCOL WATER SUCRALOSE
+ask_doctor:
+  Ask a doctor before use if a child has a breathing problem such as emphysema or chronic bronchitis glaucoma a persistent or chronic cough that occurs with too much phlegm (mucus) heart disease high blood pressure thyroid disease diabetes mellitus
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. Children 6 to under 12 years of age: 1 dropperful (1 mL) every 4 to 6 hours, not to exceed 6 dropperfuls in 24 hours or as directed by a doctor Children under 6 years of age: Consult a doctor
+package_label_principal_display_panel_table:
+  <table width="40%"> <col width="80%" align="left" valign="top"/> <col width="20%" align="right" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold">Active Ingredients:</content> </td> <td/> </tr> <tr> <td colspan="2"> <content styleCode="bold">Each dropperful (1mL) contains:</content> </td> </tr> <tr> <td> <content styleCode="bold">Phenylephrine HCl</content> </td> <td> <content styleCode="bold">3.5 mg</content> </td> </tr> <tr> <td> <content styleCode="bold">Chlorpheniramine Maleate</content> </td> <td> <content styleCode="bold">1 mg</content> </td> </tr> <tr styleCode="Botrule"> <td> <content styleCode="bold">Dextromethorphan HBr</content> </td> <td> <content styleCode="bold">3 mg</content> </td> </tr> </tbody> </table>
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur, or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur
+do_not_use:
+  Do not use this product in a child who is now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product
+active_ingredient_table:
+  <table width="75%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active Ingredients (in each 1 mL dropperful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Phenylephrine HCl 3.5 mg</td> <td>Nasal Decongestant</td> </tr> <tr> <td>Chlorpheniramine Maleate 1 mg</td> <td>Antihistamine</td> </tr> <tr styleCode="Botrule"> <td>Dextromethorphan HBr 3 mg</td> <td>Cough Suppressant</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30 mL Carton NDC 44183-550-30 CARDEC ™ DM Drops Decongestant • Antihistamine Antitussive Sugar Free • Alcohol Free • Gluten Free Active Ingredients: Each dropperful (1mL) contains: Phenylephrine HCl 3.5 mg Chlorpheniramine Maleate 1 mg Dextromethorphan HBr 3 mg WARNING: KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN. Net Contents: 1 fl. oz. (30 mL) Manufactured for: MACOVEN PHARMACEUTICALS Magnolia, TX 77354 Principal Display Panel - 30 mL Carton
+purpose_table:
+  <table width="75%"> <col width="75%" align="left" valign="top"/> <col width="25%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active Ingredients (in each 1 mL dropperful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Phenylephrine HCl 3.5 mg</td> <td>Nasal Decongestant</td> </tr> <tr> <td>Chlorpheniramine Maleate 1 mg</td> <td>Antihistamine</td> </tr> <tr styleCode="Botrule"> <td>Dextromethorphan HBr 3 mg</td> <td>Cough Suppressant</td> </tr> </tbody> </table>

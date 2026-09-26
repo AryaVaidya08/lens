@@ -1,0 +1,44 @@
+effective_time:
+  20190715
+inactive_ingredient:
+  Inactive ingredients bone gelatin, FD&C Blue No. 1, glycerin USP, polyethylene glycol 400 NF, povidone K12PF, propylene glycol USP, purified water, sorbitol special, and white edible ink.
+purpose:
+  Purpose Pain reliever/ fever reducer Antihistamine Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings This product contains acetaminophen. Severe liver damage may occur if you take: more than 6 doses in 24 hrs, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks daily while using this product Sore throat warning: If sore throat is severe, lasts for more than 2 days, occurs with or is followed by fever, headache, rash, nausea, or vomiting, see a doctor promptly Overdose warning: Taking more than directed can cause serious health problems . In case of overdose, get medical help or contact a Poison Control Center right away. Prompt medical attention is critical for adults and for children even if you do not notice any signs or symptoms Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have liver disease heart disease thyroid disease diabetes high blood pressure glaucoma difficulty in urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product do not exceed recommended dosage marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives & tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children Stop use and ask a doctor if redness or swelling is present you get nervous, dizzy or sleepless fever gets worse or lasts more than 3 days new symptoms occur symptoms do not get better within 7 days or are accompanied by a fever. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children.
+when_using:
+  When using this product do not exceed recommended dosage marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives & tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children
+spl_product_data_elements:
+  Night time sinus Acetaminophen, Doxylamine succinate, and Phenylephrine Hydrochloride ACETAMINOPHEN ACETAMINOPHEN DOXYLAMINE SUCCINATE DOXYLAMINE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE FD&C BLUE NO. 1 GELATIN GLYCERIN POLYETHYLENE GLYCOL 400 POVIDONE PROPYLENE GLYCOL WATER SORBITOL 47A
+ask_doctor:
+  Ask a doctor before use if you have liver disease heart disease thyroid disease diabetes high blood pressure glaucoma difficulty in urinating due to an enlarged prostate gland a breathing problem such as emphysema or chronic bronchitis
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions take every 4 hours do not take more than 6 doses in 24 hours do not use more than directed (see Overdose warning ) when using other night- time and day- time products, carefully read each label to ensure correct dosing adults and children 12 years of age and older swallow 2 softgels with water children 4 to 12 years of age ask a doctor children under 4 years of age do not use
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if redness or swelling is present you get nervous, dizzy or sleepless fever gets worse or lasts more than 3 days new symptoms occur symptoms do not get better within 7 days or are accompanied by a fever. These could be signs of a serious condition.
+storage_and_handling:
+  Other information store at room temperature 15°-30°C (59°-86°F) and avoid excessive heat this product does not contain penylpropanolamine (PPA) *this product is not manufactured or distributed by Procter & Gamble, owner of the registered trademark Vicks® Nyquil® Sinus
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Principal Display Panel Multi- Symptom Night- Time sinus Liquid capsules Relieves: Sinus headache pain congestion Acetaminophen, Doxylamine succinate, Phenylephrine HCl Pain reliever/ fever reducer, antihistamine, nasal decongestant Distributed by: Chain Drug Consortium, LLC 2300 NW Corporate blvd., suite 115 Boca Raton, FL 33431 Call toll free 1-877-753-3935 SEE NEW WARNINGS INFORMATION KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION THIS PRODUCT IS PACKAGED IN A CHILD RESISTANT AND TAMPER EVIDENT PACKAGE. USE ONLY IF BLISTERS ARE INTACT.
+  PRINCIPAL DISPLAY PANEL - 24 Capsule Carton Night time sinus premier value night time sinus
+indications_and_usage:
+  Uses temporarily relieves nasal & sinus symptoms: sinus pain nasal & sinus congestion headache runny nose and sneezing
+set_id:
+  8fb2af75-7ab2-4152-9d1c-64530d6d0df6
+id:
+  2292107c-fe8e-4fdd-aee2-4049e06f7e56
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin taking sedatives or tranquilizers
+active_ingredient:
+  Active ingredients (in each softgel) Acetaminophen 325 mg Doxylamine Succinate 6.25 mg Phenylephrine HCl 5 mg Purpose Pain reliever/ fever reducer Antihistamine Nasal decongestant
+dosage_and_administration_table:
+  <table> <col/> <col/> <tbody> <tr> <td valign="top" styleCode="     Rrule     "> adults and children 12 years of age and older</td> <td valign="top" styleCode="     Botrule     "> swallow 2 softgels with water</td> </tr> <tr> <td valign="top" styleCode="     Rrule     "> children 4 to 12 years of age</td> <td valign="top" styleCode="     Botrule     "> ask a doctor</td> </tr> <tr> <td valign="top" styleCode="     Rrule     "> children under 4 years of age</td> <td valign="top"> <content styleCode="bold"> do not use</content> </td> </tr> </tbody> </table>

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Taylor and Finch Instant Hand Sanitizer Aloe Vera Alcohol ALCOHOL ALCOHOL water TROLAMINE .ALPHA.-AMYLCINNAMALDEHYDE GERANIOL .ALPHA.-HEXYLCINNAMALDEHYDE HYDROXYCITRONELLAL CINNAMYL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Ethyl Alcohol 75% Purpose Antiseptic USE hand sanitizer to help reduce bacteria on the skin.
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire and flame. When using this product avoid contact with eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation and redness develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  When using this product avoid contact with eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Put enough on you palm to cover hands. Rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product. Other information: Store at 20℃ to 25℃ (68℉ to 77℉). May discolor some fabrics or surface.
+inactive_ingredient:
+  Inactive ingredients Purified Water (Aqua), Cross Polymer, Triethanolamine, Parfum (Fragrance), Citronellol, Linalool, Lillial, Hexyl Cinnamic Aldehyde, Benzyl Salicylate, Hydroxycitronellal, D-Llmonene, Geraniol， Cinnamyl Alcohol, Lyral.
+package_label_principal_display_panel:
+  package label image
+set_id:
+  43edc723-0d4f-49a2-854f-e150c1218838
+id:
+  dba5804f-54b4-40cf-8b97-33897854362d
+effective_time:
+  20200731
+version:
+  1
+openfda:

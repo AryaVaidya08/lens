@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  All Day Allergy Relief Loratadine LORATADINE LORATADINE LACTOSE MONOHYDRATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE SODIUM STARCH GLYCOLATE TYPE A CORN 439
+active_ingredient:
+  Active ingredient (in each tablet) Loratadine, USP 10 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions adults and children 6 years and over 1 tablet daily; not more than 1 tablet in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table><col/><col/><tbody><tr><td>adults and children 6 years and over</td><td>1 tablet daily; not more than 1 tablet in 24 hours </td></tr><tr><td>children under 6 years of age </td><td>ask a doctor </td></tr><tr><td>consumers with liver or kidney disease </td><td>ask a doctor</td></tr></tbody></table>
+spl_unclassified_section:
+  Other information store at 20º-25ºC (68º-77ºF) (see UPS Controlled Room Temperature) protect from light
+  Questions or comments? Call 1-888-309-9030
+inactive_ingredient:
+  Inactive ingredients lactose monohydrate, magnesium stearate, microcrystalline cellulose, sodium starch glycolate
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredient in Claritin® 24 Hour** all Day Allergy Relief Loratadine 10 mg tablets Antihistamine Non-drowsy* Indoor & outdoor allergies 24 hour relief of : sneezing runny nose itchy, watery eyes itchy throat or nose Tablets Gluten-free *when taken as directed, see drug facts panel **This product is not manufactured or distributed by Bayer Healthcare LLC, distributor of Claritin® 24 Hour. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING KEEP OUTER CARTON FOR COMPLETE WARNINGS AND PRODUCT INFORMATION DISTRIBUTED BY OLD EAST MAIN CO 100 MISSION RIDGE GOODLETTSVILLE, TM 37072
+  Package Label DOLLAR GENERAL HEALTH All Day Allergy Relief Loratadine, USP 10 mg
+set_id:
+  9ea4fde8-e091-412d-9de1-dd66a2ab73e4
+id:
+  8760e78a-a15c-4078-80a3-dd2f7aaf01df
+effective_time:
+  20231026
+version:
+  3
+openfda:
+  application_number:
+    ANDA075209
+  brand_name:
+    All Day Allergy Relief
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)
+  product_ndc:
+    55910-718
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    311372
+  spl_id:
+    8760e78a-a15c-4078-80a3-dd2f7aaf01df
+  spl_set_id:
+    9ea4fde8-e091-412d-9de1-dd66a2ab73e4
+  package_ndc:
+    55910-718-30
+    55910-718-60
+  is_original_packager:
+    True
+  upc:
+    0359726915311
+  unii:
+    7AJO3BO7QN

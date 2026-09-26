@@ -1,0 +1,70 @@
+spl_product_data_elements:
+  Lancome Paris Absolue Premium Bx Replenishing and Rejuvenating Day Avobenzone, Octisalate and Octocrylene Avobenzone Avobenzone Octisalate Octisalate Octocrylene Octocrylene WATER ALCOHOL GLYCERYL STEARATE SE
+active_ingredient:
+  Active Ingredients Avobenzone 2% Octisalate 5% Octocrylene 8%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses - helps prevent sunburn - if used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: ● apply generously and evenly 15 minutes before sun exposure ● reapply at least every 2 hours ● use a water resistant sunscreen if swimming or sweating ● Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: ● limit time in the sun, especially from 10 a.m. – 2 p.m. ● wear long-sleeved shirts, pants, hats, and sunglasses ● children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients water, hydrogenated polyisobutene, alcohol denat., bis-PEG-18 methyl ether dimethyl silane, glycerin, cyclohexasiloxane, cetearyl alcohol, dimethicone, PEG-20, prunus armeniaca (apricot) kernel oil, petrolatum, C13-14 isoparaffin, tocopheryl acetate, hydroxypropyl tetrahydropyrantriol, hydrolyzed malt extract, sodium hyaluronate, padina pavonica extract, sodium hydroxide, hydrolyzed soy protein, adenosine, PEG-100 stearate, polyacrylamide, calcium pantothenate, dimethyl isosorbide, dimethiconol, limonene, xanthan gum, linalool, dioscorea villosa (wild yam) root extract, iron oxides, caprylyl glycol, capryloyl salicylic acid, paraffin, acrylates/C10-30 alkyl acrylate, crosspolymer, disodium EDTA, butyrospermum parkii (shea butter), butylene glycol, cetyl alcohol, cetearyl glucoside, octyldodecanol, citronellol, laureth-7, hexyldecanol, glyceryl stearate, fragrance
+questions:
+  Questions or comments? 1-800-LANCOME (1-800-526-2663) Monday - Friday (9 am - 5 pm EST)
+package_label_principal_display_panel:
+  image of a carton
+set_id:
+  08645f1d-7ba7-4410-8600-3d3f79d71385
+id:
+  5be14dac-571c-478c-8c3f-464b544977cb
+effective_time:
+  20231223
+version:
+  12
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Lancome Paris Absolue Premium Bx Replenishing and Rejuvenating Day
+  generic_name:
+    AVOBENZONE, OCTISALATE AND OCTOCRYLENE
+  manufacturer_name:
+    L'Oreal USA Products Inc
+  product_ndc:
+    49967-952
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    5be14dac-571c-478c-8c3f-464b544977cb
+  spl_set_id:
+    08645f1d-7ba7-4410-8600-3d3f79d71385
+  package_ndc:
+    49967-952-01
+    49967-952-02
+    49967-952-03
+    49967-952-04
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4X49Y0596W
+    5A68WGF6WM

@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  NICCOLUM METALLICUM NICKEL LACTOSE, UNSPECIFIED FORM SUCROSE NICKEL NICKEL
+active_ingredient:
+  NICCOLUM METALLICUM 200CK HPUS Less than 10 -12 mg nickel per pellet Active ingredient**: See product name on front panel (contains 0.443 mg of the active ingredient per pellet).
+purpose:
+  
+indications_and_usage:
+  Relieves headache from mental overexertion * Uses: See symptoms on front panel.
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor
+inactive_ingredient:
+  lactose, sucrose
+questions:
+  BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx.80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. **C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+package_label_principal_display_panel:
+  label
+set_id:
+  3b8c8a00-789f-1909-e063-6394a90addd4
+id:
+  3b8c8a00-78a0-1909-e063-6394a90addd4
+effective_time:
+  20250804
+version:
+  1
+openfda:
+  brand_name:
+    NICCOLUM METALLICUM
+  generic_name:
+    NICKEL
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-3651
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    NICKEL
+  spl_id:
+    3b8c8a00-78a0-1909-e063-6394a90addd4
+  spl_set_id:
+    3b8c8a00-789f-1909-e063-6394a90addd4
+  package_ndc:
+    0220-3651-41
+  is_original_packager:
+    True
+  nui:
+    N0000185508
+    N0000175629
+    N0000184306
+    M0000728
+  pharm_class_epc:
+    Standardized Chemical Allergen [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+  pharm_class_cs:
+    Allergens [CS]
+  unii:
+    7OV03QG267

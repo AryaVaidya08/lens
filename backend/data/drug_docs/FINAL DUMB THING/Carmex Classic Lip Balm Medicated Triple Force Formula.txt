@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Carmex Classic Lip Balm Medicated Triple Force Formula WHITE PETROLATUM LANOLIN YELLOW WAX CETYL ESTERS WAX PARAFFIN COCOA BUTTER CAMPHOR (SYNTHETIC) MENTHOL SALICYLIC ACID PHENOL VANILLIN WHITE PETROLATUM PETROLATUM
+spl_unclassified_section:
+  Drug Facts
+  Other Information this is a personal care item, and should be used by one individual only protect this product from excessive heat and direct sun
+active_ingredient:
+  Active Ingredients White Petrolatum 41.25% Purpose Lip Protectant
+purpose:
+  Purpose Lip Protectant
+indications_and_usage:
+  Uses helps prevent, protect, and relieve chapped lips
+warnings:
+  Warnings For external use only When using this product: keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if: condition worsens symptoms last more than 7 days or clear up and occur again within a few days Do not use deep puncture wounds serious burns animal bites Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product: keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if: condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+do_not_use:
+  Do not use deep puncture wounds serious burns animal bites
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply as needed
+inactive_ingredient:
+  Inactive Ingredients lanolin, beeswax, cetyl esters, paraffin, theobroma cacao seed butter, camphor, menthol, salicylic acid, phenol, vanillin, flavor
+package_label_principal_display_panel:
+  Package Labeling:10210-0054-1 Label08
+  Package Labeling:10210-0054-2 Label09
+set_id:
+  0c17beec-890a-4d94-b7ab-8695e8f3e42e
+id:
+  09759b68-4c01-c41f-e063-6294a90a62a4
+effective_time:
+  20231106
+version:
+  2
+openfda:
+  application_number:
+    M016B
+  brand_name:
+    Carmex Classic Lip Balm Medicated Triple Force Formula
+  generic_name:
+    WHITE PETROLATUM
+  manufacturer_name:
+    Carma Laboratories, Inc.
+  product_ndc:
+    10210-0054
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    WHITE PETROLATUM
+  spl_id:
+    09759b68-4c01-c41f-e063-6294a90a62a4
+  spl_set_id:
+    0c17beec-890a-4d94-b7ab-8695e8f3e42e
+  package_ndc:
+    10210-0054-1
+    10210-0054-2
+  is_original_packager:
+    True
+  unii:
+    B6E5W8RQJ4

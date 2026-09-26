@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  Colgate Junior Bubble Fruit SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION SORBITOL WATER HYDRATED SILICA POLYETHYLENE GLYCOL 600 CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED SODIUM LAURYL SULFATE SACCHARIN SODIUM FD&C BLUE NO. 1 D&C YELLOW NO. 10
+spl_unclassified_section:
+  Drug Facts
+  Dist. by: COLGATE-PALMOLIVE COMPANY, New York, NY 10022
+active_ingredient:
+  Active ingredient Sodium fluoride 0.24% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="90%" styleCode="Noautorules"><col width="20%" align="left" valign="top"/><col width="80%" align="left" valign="top"/><tbody><tr styleCode="Botrule"><td styleCode="Rrule">adults and children 2 years of age and older</td><td>brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr styleCode="Botrule"><td styleCode="Rrule">children 2 to 6 years</td><td>use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td styleCode="Rrule">children under 2 years</td><td>ask a dentist or physician</td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients sorbitol, water, hydrated silica, PEG-12, cellulose gum, sodium lauryl sulfate, flavor, sodium saccharin, D&C yellow no. 10, FD&C blue no. 1
+questions:
+  Questions? 1-800-468-6502
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 24 g Tube Carton Colgate ® Anticavity Fluoride Toothpaste Kids Cavity Protection Bubble Fruit ® Flavor Fights Cavities Clinically Proven Enamel Safe ADA Accepted American Dental Association ® NET WT 0.85 OZ (24 g) PRINCIPAL DISPLAY PANEL - 24 g Tube Carton
+set_id:
+  8b551028-7299-4972-8709-2757b8c2eced
+id:
+  33b5e927-81e9-4825-b74b-a78d8d2ce269
+effective_time:
+  20260730
+version:
+  8
+openfda:

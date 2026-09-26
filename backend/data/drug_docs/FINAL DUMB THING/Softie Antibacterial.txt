@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Softie Antibacterial HANDSOAP Coconut Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER SODIUM LAURETH-3 SULFATE COCAMIDOPROPYL BETAINE COCO GLUCOSIDE GLYCERYL OLEATE COCO DIETHANOLAMIDE GLYCERIN PHENOXYETHANOL SODIUM BENZOATE POTASSIUM SORBATE BENZYL ALCOHOL BENZYL BENZOATE COUMARIN
+spl_unclassified_section:
+  Drug Facts
+  Gentle on Skin! New! Softsoap ® is a registered trademark of Colgate-Palmolive Co. which has not manufactured, distributed or sponsored this product. Designed & Developed By: Primax USA LLC Brooklyn, NY 11204 MADE IN TURKEY
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use For handwashing to decrease bacteria on the skin
+warnings:
+  WARNINGS: FOR EXTERNAL USE ONLY. Avoid contact with eyes, if eye contact occurs, flush with water. Stop use and ask a doctor if irritation and redness develops. KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Pump into hands, lather vigorously for at least 15 seconds, rinse and dry thoroughly.
+inactive_ingredient:
+  Inactive ingredients Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Coco-Glucoside (and) Glyceryl Oleate, Cocamide DEA (and) Glycerin, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, Parfum, Benzyl Alcohol, Benzyl Benzoate, Coumarin.
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  e72e4727-db2a-4301-8255-0c813ef52f28
+id:
+  76ea78f2-7b3b-4026-8578-bf9ed699b254
+effective_time:
+  20210122
+version:
+  1
+openfda:

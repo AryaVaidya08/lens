@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Hepastat Beta Vulgaris, Carduus Marianus, Taraxacum Officinale, Cholesterinum, Cholinum, Fel Tauri, Calcarea Carbonica, Chelidonium Majus, Lycopodium Clavatum, Mercurius Solubilis, Natrum Sulphuricum, Nux Vomica, Phosphorus BETA VULGARIS WHOLE BETA VULGARIS MILK THISTLE MILK THISTLE TARAXACUM OFFICINALE TARAXACUM OFFICINALE CHOLESTEROL CHOLESTEROL CHOLINE HYDROXIDE CHOLINE BOS TAURUS BILE BOS TAURUS BILE OYSTER SHELL CALCIUM CARBONATE, CRUDE OYSTER SHELL CALCIUM CARBONATE, CRUDE CHELIDONIUM MAJUS WHOLE CHELIDONIUM MAJUS LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE MERCURIUS SOLUBILIS MERCURIUS SOLUBILIS SODIUM SULFATE SODIUM SULFATE ANHYDROUS STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED PHOSPHORUS PHOSPHORUS WATER ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENTS: (in each drop): 14.20% of Calcarea Carbonica 12X, Chelidonium Majus 12X, Lycopodium Clavatum 12X, Mercurius Solubilis 12X, Natrum Sulphuricum 12X, Nux Vomica 12X, Phosphorus 12X; 0.10% of Beta Vulgaris 3X, Carduus Marianus 3X, Cholesterinum 6X, Cholinum 6X, Fel Tauri 6X, Taraxacum Officinale 3X.
+purpose:
+  PURPOSE: May temporarily relieve indigestion, flatulence, exhaustion, nausea, and constipation.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  USES: May temporarily relieve indigestion, flatulence, exhaustion, nausea, and constipation.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Demineralized water, 20% Ethanol.
+questions:
+  QUESTIONS Dist. by Energique, Inc. 201 Apple Blvd. Woodbine, IA 51579 800-869-8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY HEPASTAT 1 fl. oz. (30 ml) HEPASTAT
+set_id:
+  d9ceea3f-c270-40fa-bf16-d83c683005ac
+id:
+  5ddeca81-a3fd-4573-ad62-f02e0db5160e
+effective_time:
+  20260306
+version:
+  1
+openfda:
+  brand_name:
+    Hepastat
+  generic_name:
+    BETA VULGARIS, CARDUUS MARIANUS, TARAXACUM OFFICINALE, CHOLESTERINUM, CHOLINUM, FEL TAURI, CALCAREA CARBONICA, CHELIDONIUM MAJUS, LYCOPODIUM CLAVATUM, MERCURIUS SOLUBILIS, NATRUM SULPHURICUM, NUX VOMICA, PHOSPHORUS
+  manufacturer_name:
+    Energique, Inc.
+  product_ndc:
+    44911-0739
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BETA VULGARIS WHOLE
+    MILK THISTLE
+    TARAXACUM OFFICINALE
+    CHOLESTEROL
+    CHOLINE HYDROXIDE
+    BOS TAURUS BILE
+    OYSTER SHELL CALCIUM CARBONATE, CRUDE
+    CHELIDONIUM MAJUS WHOLE
+    LYCOPODIUM CLAVATUM SPORE
+    MERCURIUS SOLUBILIS
+    SODIUM SULFATE
+    STRYCHNOS NUX-VOMICA SEED
+    PHOSPHORUS
+  spl_id:
+    5ddeca81-a3fd-4573-ad62-f02e0db5160e
+  spl_set_id:
+    d9ceea3f-c270-40fa-bf16-d83c683005ac
+  package_ndc:
+    44911-0739-1
+  is_original_packager:
+    True
+  upc:
+    0363113701098
+  nui:
+    N0000185375
+    N0000175629
+    N0000184306
+    N0000185001
+    M0000728
+    M0016962
+    M0516536
+  pharm_class_epc:
+    Non-Standardized Plant Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Plant Proteins [CS]
+    Seed Storage Proteins [CS]
+  unii:
+    4G174V5051
+    U946SH95EE
+    39981FM375
+    97C5T2UQ7J
+    7THJ3EG9SY
+    ET3651ZLOU
+    2E32821G6I
+    7E889U5RNN
+    C88X29Y479
+    324Y4038G2
+    0YPR65R21J
+    269XH13919
+    27YLU75U4W

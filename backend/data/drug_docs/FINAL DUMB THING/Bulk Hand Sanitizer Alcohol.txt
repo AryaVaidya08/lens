@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Bulk Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER GLYCERIN ACRYLATE/ISOBUTYL METHACRYLATE/N-TERT-OCTYLACRYLAMIDE COPOLYMER (75000 MW) .ALPHA.-TOCOPHEROL ACETATE TROLAMINE
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v.
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only. When using this product avoid contact with eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if redness or irritation develops and persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry. Children under 6 years of age should be supervised when using product. Other information Store below 110° F (43° C). May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Purified Water (Aqua), Glycerin, Acrylates Copolymer, Tocopherol Acetate, Triethanolamine, Fragrance (Parfum)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+set_id:
+  0b631789-b98e-46c0-be76-2c2bf148f3fb
+id:
+  985eb67e-b815-44e6-9d2f-dc2718bff199
+effective_time:
+  20200603
+version:
+  1
+openfda:

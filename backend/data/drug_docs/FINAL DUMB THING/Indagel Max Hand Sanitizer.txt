@@ -1,0 +1,37 @@
+effective_time:
+  20210830
+inactive_ingredient:
+  Inactive Ingredients Aqua (water), Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alcohol, Glycerin, Isopropanolamine, and Denatonium Benzoate.
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+warnings:
+  Warnings: Flammable Product. Keep away from source of heat, fire, or flame. Avoid direct contact with eyes and mucous membranes. Stop use and ask a doctor if irritation or readness devolops. Do not ingest the product. Flammable product can cause burns. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center. DO NOT SWALLOW - contains denaturing. The product contains DENATONIUM BENZOATE as a denaturant.
+when_using:
+  Avoid direct contact with eyes and mucous membranes.
+questions:
+  ​Questions or Comments: indalabor@indalabor.com.br
+spl_product_data_elements:
+  Indagel Max Hand Sanitizer ALCOHOL WATER GLYCERIN CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) ISOPROPANOLAMINE DENATONIUM BENZOATE ANHYDROUS ALCOHOL ALCOHOL
+warnings_and_cautions:
+  Stop use and ask a doctor if irritation or readness devolops. Do not ingest the product. Flammable product can cause burns.
+  DO NOT SWALLOW - contains denaturing. The product contains DENATONIUM BENZOATE as a denaturant.
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Topical use. Apply the gel directly on the skin, spreading it gently through circular movements, until complete absorption.
+spl_unclassified_section:
+  Drug Facts
+  Other Information. Keep in cool place and protected from sunlight. Keep the product in its original packing. Do not spill over fire.
+package_label_principal_display_panel:
+  Package 60ml/100ml/250ml/500ml MADE BY: INDALABOR INDAIÁ LABORATÓRIO FARMACÊUTICO LTDA Dores do Indaiá, MG - 35610-000 +55 31 3377-8833 MADE IN BRAZIL NDC 80342-000-01 NDC 80342-000-02 NDC 80342-000-03 NDC 80342-000-04 INDMAX060ML INDMAX100ML INDMAX250ML INDMAX500ML
+indications_and_usage:
+  Uses Hand Sanitizer to help decrease bacteria and germs on the skin.
+set_id:
+  af756785-4f04-e703-e053-2a95a90a0208
+id:
+  cad1dd42-d3b0-ee1c-e053-2995a90a425e
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70% v/v Purpose Antiseptic

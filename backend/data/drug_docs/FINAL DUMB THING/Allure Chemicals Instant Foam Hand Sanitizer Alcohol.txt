@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Allure Chemicals Instant Foam Hand Sanitizer Alcohol ALCOHOL ALCOHOL CETOSTEARYL ALCOHOL PROPYLENE GLYCOL SODIUM LAURETH-3 SULFATE
+spl_unclassified_section:
+  Drug Facts
+  ALCOHOL LIQUID - MEDICAL GRADE KILLS 99.9% OF GERMS, COLD AND FLU VIRUSES Manufactured and Packaged by ALLURE Chemicals 9650-A Railroad Drive El Paso Texas 79924 www.allurechemicals.com
+active_ingredient:
+  Active ingredient Ethanol Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses [s] Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame. Do not use: In children less than 2 months of age and open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions • Place enough product on hands to cover all surfaces. Rub hands together until dry. • Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other information • Store between 15-30°C (59-86°F) • Avoid Freezing and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive Ingredients: Cetaryl alcohol, Propylene glycol, Sodium Lauryl Ether Sulfate
+package_label_principal_display_panel:
+  Packaging IMAGE IMAGE
+set_id:
+  295c289d-ebe9-40c4-9cf8-b2c5aa3930ba
+id:
+  8768d427-347f-4e2a-ac54-593788d943ee
+effective_time:
+  20201013
+version:
+  1
+openfda:

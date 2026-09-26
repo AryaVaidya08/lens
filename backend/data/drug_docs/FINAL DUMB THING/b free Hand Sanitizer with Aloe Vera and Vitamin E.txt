@@ -1,0 +1,38 @@
+spl_product_data_elements:
+  b free Hand Sanitizer with Aloe Vera and Vitamin E ALCOHOL WATER GLYCERIN .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information store between 15-30ºC (59-86ºF) avoid freezing and excessive heat above 40ºC (104ºF) may discolor certain fabrics or surfaces
+active_ingredient:
+  Active ingredient Ethyl alcohol 70% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand sanitizer to decrease bacteria on the skin. recommended for repeated use for use when soap and water are not available.
+warnings:
+  Warnings Flammable, keep away from fire/flame. For external use only Do not use in children less than 2 months of age on open skin wounds. When using this product do not get into eyes. In case of contact, rinse eyes thoroughly with water do not inhale or ingest. Stop and ask doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds.
+when_using:
+  When using this product do not get into eyes. In case of contact, rinse eyes thoroughly with water do not inhale or ingest.
+stop_use:
+  Stop and ask doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping supervise children under 6 years of age when using this product to avoid swallowing
+inactive_ingredient:
+  Inactive ingredients Water, Glycerin, Fragrance, Tocopheryl Acetate (VITAMIN E), Aloe Barbadensis Leaf Extract
+package_label_principal_display_panel:
+  Package Labeling:20 mL Label6
+  Package Labeling:50 mL Label7
+  Package Labeling:100 mL Label8
+set_id:
+  ae6bd776-8d84-1a13-e053-2a95a90a3e2e
+id:
+  e894a3c5-2e66-729d-e053-2995a90a7c87
+effective_time:
+  20220913
+version:
+  4
+openfda:

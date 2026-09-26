@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  MAXIMUM STRENGTH LAXATIVE SENNOSIDES STARCH, CORN CROSCARMELLOSE SODIUM FERRIC OXIDE YELLOW ACACIA CARNAUBA WAX SENNOSIDES SENNOSIDES MALTODEXTRIN POVIDONE POLYETHYLENE GLYCOL, UNSPECIFIED FD&C BLUE NO. 1 ALUMINUM LAKE KAOLIN MAGNESIUM STEARATE FERROSOFERRIC OXIDE MICROCRYSTALLINE CELLULOSE SHELLAC TALC TITANIUM DIOXIDE SILICON DIOXIDE CALCIUM PHOSPHATE, DIBASIC, DIHYDRATE SUCROSE CALCIUM SULFATE ANHYDROUS STEARIC ACID IRON OXIDES TCL083
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each tablet) Sennosides USP, 25 mg
+purpose:
+  Purpose Stimulant laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings
+do_not_use:
+  Do not use laxative products when abdominal pain, nausea, or vomiting are present unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have noticed a sudden change in bowel habits that persists over a period of 2 weeks.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking any other drug. Laxatives may affect how other drugs work. Take this product 2 or more hours before or after other drugs.
+when_using:
+  When using this product do not use for a period longer than 1 week
+  Stop use and ask a doctor if rectal bleeding or failure to have a bowel movement occur after use of a laxative. These may be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children . In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions swallow tablet (s) with a glass of water. swallow tablet (s) whole, do not crush, break or chew. adults and children 12 years of age and older 2 tablets once or twice daily children 6 to under 12 years of age 1 tablet once or twice daily children under 6 years of age ask a doctor
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td><paragraph>adults and children 12 years of age and older</paragraph></td><td><paragraph>2 tablets once or twice daily</paragraph></td></tr><tr><td><paragraph>children 6 to under 12 years of age</paragraph></td><td><paragraph>1 tablet once or twice daily</paragraph></td></tr><tr><td><paragraph>children under 6 years of age</paragraph><paragraph/></td><td><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+other_safety_information:
+  Other information each tablet contains: calcium 40 mg, sodium 2 mg (VERY LOW SODIUM) store between 20°-25°C (68°-77°F)
+inactive_ingredient:
+  
+questions:
+  Questions or comments? Call 1-877-290-4008
+package_label_principal_display_panel:
+  195R-Peytons 24ct
+set_id:
+  a13bb9ef-816f-41e8-e053-2a95a90a7962
+id:
+  2dd6c023-8aee-9842-e063-6394a90a6dc8
+effective_time:
+  20250210
+version:
+  3
+openfda:

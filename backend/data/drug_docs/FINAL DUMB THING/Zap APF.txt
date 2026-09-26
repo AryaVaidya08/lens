@@ -1,0 +1,52 @@
+spl_product_data_elements:
+  Zap APF Sodium Fluoride CITRIC ACID MONOHYDRATE MAGNESIUM ALUMINUM SILICATE PHOSPHORIC ACID POLYSORBATE 20 SODIUM BENZOATE SACCHARIN SODIUM WATER XANTHAN GUM XYLITOL FD&C RED NO. 40 TITANIUM DIOXIDE SODIUM FLUORIDE FLUORIDE ION
+spl_unclassified_section:
+  Active Ingredient: Fluoride Ion 1.23%. A stable thixotropic gel providing 1.23% fluoride ion. Available from 2.09% Sodium Fluoride and Hydrofluoric Acid.
+  Purpose: Anticaries Treatment.
+indications_and_usage:
+  Indications and Usage: This is a prescription fluoride treatment gel used to help prevent dental decay. • For Professional Use Only. This product is not intended for home or unsupervised consumer use.
+warnings:
+  Warnings: Keep out of reach of children. Do not swallow. If product is accidentally swallowed in quantities greater than would normally occur with a treatment gel, seek medical help or contact a Poison Control Center right away. Read directions carefully before using.
+dosage_and_administration:
+  Dosage and Administration: Shake well before use. This is a one minute or four minute fluoride gel for in-office patient use. It is normally used as a preventative caries treatment two times a year. 1. After thorough prophylaxsis, fill two single or one dual tray, one third full with gel. Air dry teeth and insert trays into the mouth. 2. Instruct patient to bite down lightly but firmly for one minute (80% effectiveness) or four minutes (100% effectiveness). 3. Remove trays. Instruct patient to expectorate any excess gel and not to eat or drink for at least 30 minutes.
+storage_and_handling:
+  Other Information: Do not store above 25°C/77°F. Do not freeze.
+inactive_ingredient:
+  Inactive Ingredients: Citric Acid, FD&C Red #40, Flavor, Magnesium Aluminum Silicate, Phosphoric Acid, Polysorbate 20, Sodium Benzoate, Sodium Saccharin, Titanium Dioxide, Water, Xanthan Gum, Xylitol.
+package_label_principal_display_panel:
+  ZAP_APF_marshmallow.jpg
+set_id:
+  ec50b003-cf61-4f66-bb62-f779e48363c2
+id:
+  d61895e1-6f77-4d3d-e053-2995a90a1729
+effective_time:
+  20220121
+version:
+  5
+openfda:
+  brand_name:
+    Zap APF
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Crosstex International Inc.
+  product_ndc:
+    24794-103
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    DENTAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    245593
+  spl_id:
+    d61895e1-6f77-4d3d-e053-2995a90a1729
+  spl_set_id:
+    ec50b003-cf61-4f66-bb62-f779e48363c2
+  package_ndc:
+    24794-103-16
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

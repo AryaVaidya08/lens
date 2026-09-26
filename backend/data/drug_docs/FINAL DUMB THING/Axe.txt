@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Axe Apollo 48H Fresh Dry Antiperspirant TALC CYCLOMETHICONE 5 HYDROGENATED CASTOR OIL BUTYLATED HYDROXYTOLUENE ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY STEARYL ALCOHOL PPG-14 BUTYL ETHER MINERAL OIL STEARETH-100 ISOPROPYL PALMITATE
+description:
+  AXE APOLLO 48H FRESH & DRY ANTIPERSPIRANT - aluminum zirconium tetrachlorohydrex gly stick Axe Apollo 48H Anti Sweat Antiperspirant
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Zirconium Tetrachlorohydrex GLY (19.0 %)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses • reduces underarm wetness • 48 Hour Protection
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Isopropyl Palmitate, Stearyl Alcohol, Cyclopentasiloxane, PPG-14 Butyl Ether, Mineral Oil, Talc, Hydrogenated Castor Oil, Fragrance (Parfum), Steareth-100, BHT.
+questions:
+  Questions? Call toll-free 1-800-450-7580
+package_label_principal_display_panel:
+  Packaging Axe Apollo AP Stick
+set_id:
+  e38b6061-313b-0bc2-e053-2a95a90ab15b
+id:
+  26482738-7e89-9bba-e063-6394a90a5479
+effective_time:
+  20241106
+version:
+  2
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Axe
+  generic_name:
+    APOLLO 48H FRESH DRY ANTIPERSPIRANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2068
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+  spl_id:
+    26482738-7e89-9bba-e063-6394a90a5479
+  spl_set_id:
+    e38b6061-313b-0bc2-e053-2a95a90ab15b
+  package_ndc:
+    64942-2068-1
+    64942-2068-2
+    64942-2068-3
+    64942-2068-4
+  is_original_packager:
+    True
+  unii:
+    8O386558JE

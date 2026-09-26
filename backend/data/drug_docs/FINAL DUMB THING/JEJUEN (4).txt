@@ -1,0 +1,27 @@
+effective_time:
+  20190116
+inactive_ingredient:
+  water, niaciinamide, butylene glycol, adenosine, xanthan gum, etc
+purpose:
+  whitening anti wrinkle
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ・Stop using the product when you have skin problems or the product disagrees with your skin ・Stop using the product immediately and consult a dermatologist if you have redness, swelling, itching or irritation on the skin while or after using the product. ・If the product gets into the eyes, don't rub but rinse with water. ・Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  JEJUEN NOURISHING OPUNTIA SHEET MASK Glycerin WATER NIACINAMIDE BUTYLENE GLYCOL GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  apply and leave 10~20 minutes
+set_id:
+  45afeba3-190c-46c9-9edd-8982d664aed8
+id:
+  7f9ce45e-87aa-1d61-e053-2a91aa0a5886
+active_ingredient:
+  glycerin

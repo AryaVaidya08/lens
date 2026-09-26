@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Nicotine Transdermal Patches Aroamas Nicotine Transdermal Patches - Stop Smoking Aid CHRYSANTHEMUM INDICUM FLOWER CLOVE CODONOPSIS PILOSULA WHOLE TOBACCO LEAF MENTHOL MENTHOL NICOTINE NICOTINE
+active_ingredient:
+  Active Ingredient(s) Nicotine 18% menthol 0.3%
+purpose:
+  Purpose Stop smoking aid
+indications_and_usage:
+  Use reduces withdrawal symptoms, including nicotine craving, associated with quitting smoking
+warnings:
+  Warnings If you are pregnant or breast-feeding, only use this medicine on the advice of your healthcare provider.Smoking can seriously harm your child.Try to stop smoking without using any nicotine replacement medicine.This medicine is believed to safer than smoking.However, the risks to your child from this medicine are not full known. Ask a doctor before use if you have *heart disease, recent heartattack, or irregular heartbeat.Nicotine can increase your heartrate. *high blood pressure not controlled with medication.Nicotine can increase your blood pressure. *an allergy to adhesive tape or have skin problems, because you are more likely to get rashes. *stomach ulcer or diabetes. *history of seizures. Ask a doctor or pharmacist before use if you are *using an on-nicotine stop smoking drug *taking a prescription medicine for depression or asthma.Your prescription dose may need to be adjusted
+do_not_use:
+  Do not use *do not wear more than one patch at a time *do not cut patch in half or into smaller pieces *do not leave patch on for more than 24 hours because if may irritate your skin and loses strength after 24 hours
+when_using:
+  When using this product *if you have vivid dreams or other sleep disturbances remove this patch at bedtime
+stop_use:
+  Stop use and ask a doctor if *skin redness caused by the patch does not go away after four days, or if your skins wells, or you get arash *irregular heartbeat or palpitations occur *you get symptoms of nicotine overdose, such as nausea, vomiting, dizziness, weakness and rapid heartbeat *you have symptoms of an allergic reaction(such as difficulty breathing or rash)
+keep_out_of_reach_of_children:
+  Keep out of reach of children and pets. Used patches have enough nicotine to poison children and pets.If swallowed, get medical help or contact a Poison Control Center right away.Save pouch to use for patch di posal.Dispose of the used patches by folding sticky ends together and putting in pouch.
+dosage_and_administration:
+  Directions *if you are under 18 years of age, ask a doctor before use.*before using this product, read the enclosed self-help guide for complete directions and other information *begin using the patch on your quit day *if you smoke more than 10 cigarettes per day, use the following schedule below： STEP 1 STEP 2 STEP 3 Use one 21mg patch/day Use one 14mg patch/day Use one 7mg patch/day Weeks 1-6 Weeks 7-8 Weeks 9-10 *If you smoke 10 or less cigarettes per day, do not use Step 1(21mg) .Start with Step 2(14mg) for 6 weeks, then Step 3(7mg) for 2 weeks and then stop. *apply one new patch every 24 hours on skin that is dry, clean and hairless. *remove backing from patch and immed ately press on to skin.Hold for 10 seconds..wash hands after applying or removing patch. Save pouch to use for patch disposal.Dispose of the used patches by folding sticky ends together and putting in pouch. *the used patch should be removed and a new one applied to a different skin site at the sametime each day. *if you have vivid dreams, you may remove the patch at bedtime and apply a new one in the morning. *you may wear the patch for 18 to 24 hours *do not wear more than one patch at a time *do not cut patch in half or into smaller pieces *do not leave patch on for more than 24 hours because if may irritate your skin and loses strength after 24 hours *to avoid possible burns, remove patch before undergoing and MR(magnetic resonance imaging) procedures *it is important to complete treatment.If you feel you need to use the patch for a longer period to keep from smoking, talk to your healthcare provider.
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>STEP 1</td><td>STEP 2</td><td>STEP 3</td></tr><tr><td>Use one 21mg patch/day</td><td>Use one 14mg patch/day</td><td>Use one 7mg patch/day</td></tr><tr><td>Weeks 1-6</td><td>Weeks 7-8</td><td>Weeks 9-10</td></tr></tbody></table>
+storage_and_handling:
+  Other information If you smoke more than 10 cigarettes per day, start with Step 1. lfyousmoke10or less cigarettes per day, Start with Step 2.
+inactive_ingredient:
+  Inactive ingredients codonopsis pilosula, chrysanthemum, clove, natural tobacco
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 21 PATCH in 1 BOX (81799-001-00) > 21 mg in 1 PATCH 81799-001-01 21mg
+set_id:
+  bf80e79b-f22f-5309-e053-2a95a90aee28
+id:
+  f1e21df7-59c3-2245-e053-2995a90a82cf
+effective_time:
+  20230109
+version:
+  3
+openfda:

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  CYZONE FLIRTY GIRL DESODORANTE ANTITRANSPIRANTE ROLL-ON no contiene alcohol Aluminum Sesquichlorohydrate WATER STEARETH-2 PPG-15 STEARYL ETHER STEARETH-21 DICAPRYLYL CARBONATE CYCLOMETHICONE 5 CYCLOMETHICONE 6 TRICLOCARBAN EDETATE SODIUM BENZALKONIUM CHLORIDE LEVOMENOL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE
+spl_unclassified_section:
+  Drug Facts
+  PR: Dist. By Ventura Corporation, Ltd. San Juan, Puerto Rico 00926. Made in Colombia
+active_ingredient:
+  Active Ingredient Aluminum sesquichlorohydrate 13.6 %
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses Reduces underarm perspiration
+warnings:
+  Warnings For external use only Do not use on broken skin Ask a doctor before use if you have Kidney desease Stop use and ask a doctor if rash or irritation occurs Keep out of reach of children .If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on broken skin
+ask_doctor:
+  Ask a doctor before use if you have Kidney desease
+stop_use:
+  Stop use and ask a doctor if rash or irritation occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children .If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply to underarms only.
+inactive_ingredient:
+  Inactive ingredients AQUA (WATER), STEARETH-2, PPG-15 STEARYL ETHER, STEARETH-21, PARFUM (FRAGRANCE), DICAPRYLYL CARBONATE, CYCLOPENTASILOXANE, CYCLOHEXASILOXANE, TRICLOCARBAN, TETRASODIUM EDTA, BENZALKONIUM CHLORIDE, BISABOLOL
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 mL Bottle Label FLIRTY GIRL cy°zone DESODORANTE ANTITRANSPIRANTE ROLL-ON No contiene alcohol 50 ml e (1.7 fl.oz.) Principal Display Panel - 50 mL Bottle Label
+set_id:
+  3c6c31af-a4e2-4d93-8370-e144cf9da919
+id:
+  3388c88f-2be9-4daf-e063-6394a90a3670
+effective_time:
+  20250424
+version:
+  2
+openfda:

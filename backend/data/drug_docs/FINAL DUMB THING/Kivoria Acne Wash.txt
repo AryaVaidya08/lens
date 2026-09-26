@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Kivoria Acne Wash BENZOYL PEROXIDE ASCORBIC ACID BENZOYL PEROXIDE BENZOYL PEROXIDE COCAMIDOPROPYL BETAINE THYMUS VULGARIS LEAF WATER GREEN TEA LEAF CARBOMER 934 GLUCONOLACTONE HYDROXIDE ION ALOE VERA LEAF SODIUM BENZOATE SODIUM HYDROXIDE
+active_ingredient:
+  Drug Facts Active Ingredient Benzoyl Peroxide 10% Purpose Acne Treatment
+purpose:
+  Purpose Acne Treatment
+indications_and_usage:
+  Use For the treatment of acne.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product Skin irritation and dryness are more likely to occur if you use another topical acne medication at the same time (if irritation occurs, use only one topcial acne medication at a time). Avoid unnecessary sun exposure and use a sunscreen Avoid contact with the eyes, lips, and mouth Avoid contact with hair and dyed fabrics, which may be bleached by this product Skin irritation may occur, characterized by redness, burning, itching, peeling, or possibly swelling Irritation may be reduced byusing the product less frequently or in a lower concentration.
+do_not_use:
+  Do Not Use If you have very sensitive skin If you are sensitive to benzoyl peroxide If safety evident features have been breached or missing
+stop_use:
+  Stop use and ask a doctor If irritation becomes more severe
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions Sensitivity test for a new user: Apply product sparingly to one or two small affected areas during the first 3 days. If no discomfort occurs, apply the acne wash and gently massage into damp skin. Wait 3 to 5 minutes to absorb, and then thoroughly rinse area with water. If going outside, apply sunscreen after using this product. If irritation or sensitivity develops stop use and ask a doctor.
+inactive_ingredient:
+  Other Ingredients Aloe Barbadensis (aloe vera gel) Juice, Deionized Water, Ascorbic Acid (Vitamin C), Camella Sinensis (Green Tea) Leaf Extract, Carbomer, Cocamidopropyl Betaine, Gluconolactone, Sodium Benzoate, Sodium Hydroxide, Thymus Vulgaris (Thyme) Extract, Hydroxide, Thymus Vulgaris (Thyme) Extract.
+questions:
+  Distributed by Uber Scientific, LLC 3211 Vineland Rd. Suite 250 (302) 566-8237
+package_label_principal_display_panel:
+  PDP KIVORIA Acne Wash 10% Benzoyl Peroxide 8fl oz | 226g Cruelty Free Made in USA Acne Wash Label
+set_id:
+  86d0b0f2-ed41-352f-e053-2991aa0a1b44
+id:
+  d43c0bc9-c014-cad8-e053-2a95a90a3315
+effective_time:
+  20211228
+version:
+  6
+openfda:

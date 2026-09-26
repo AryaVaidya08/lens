@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  TUMS ULTRA calcium carbonate POWDERED CELLULOSE DEXTROSE, UNSPECIFIED FORM FD&C RED NO. 40 ALUMINUM OXIDE FD&C YELLOW NO. 5 FD&C YELLOW NO. 6 MALTODEXTRIN MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED TALC CALCIUM CARBONATE CARBONATE ION CALCIUM CATION red, yellow, orange, off white TUMS tropical fruit: tropical punch, banana, tropical orange, pineapple TUMS ULTRA calcium carbonate POWDERED CELLULOSE DEXTROSE, UNSPECIFIED FORM MALTODEXTRIN MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED TALC CALCIUM CARBONATE CARBONATE ION CALCIUM CATION TUMS
+active_ingredient:
+  Active ingredient (per tablet) Calcium Carbonate USP 1000 mg
+purpose:
+  Purpose Antacid
+indications_and_usage:
+  Uses relieves heartburn acid indigestion sour stomach upset stomach associated with these symptoms
+warnings:
+  Warnings Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 7 tablets in 24 hours if pregnant do not take more than 5 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor Keep out of reach of children.
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+when_using:
+  When using this product do not take more than 7 tablets in 24 hours if pregnant do not take more than 5 tablets in 24 hours do not use the maximum dosage for more than 2 weeks except under the advice and supervision of a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions adults and children 12 years of age and over: chew 2-3 tablets as symptoms occur, or as directed by a doctor do not take for symptoms that persist for more than 2 weeks unless advised by a doctor
+spl_unclassified_section:
+  Other information each chewable tablet contains: elemental calcium 400mg do not store below 25 o C (77 o F)
+inactive_ingredient:
+  Inactive ingredients (Tropical Fruit) cellulose, dextrose, FD&C red #40 alum lake, FD&C yellow #5 alum lake (tartrazine), FD&C yellow #6 alum lake, flavor, maltodextrin, mineral oil, polyethylene glycol, talc
+  Inactive ingredient (Mint) cellulose, dextrose, flavor, maltodextrin, mineral oil, polyethylene glycol, talc
+questions:
+  Questions? 1-800-897-7535
+package_label_principal_display_panel:
+  Principal Display Panel NDC 0135-0610-01 TUMS ® CALCIUM CARBONATE ANTACID GOES TO WORK IN SECONDS! TROPICAL FRUIT ULTRA STRENGTH 1000 72 CHEWABLE TABLETS ©2014 GSK PAREVE Safety sealed- Do not use if printed inner seal beneath cap is missing or broken. Trademarks are owned by or licensed to the GSK group of companies. Dist. by: GSK Consumer Healthcare Warren, NJ 07059 ©2014 GSK or its licensor 105439XA (Front Label) 105440XA (Back Label) Tums Ultra Tropical Fruit 72 count front label
+  Principal Display Panel NDC 0135-0612-01 TUMS ® CALCIUM CARBONATE ANTACID GOES TO WORK IN SECONDS! MINT ULTRA STRENGTH 1000 72 CHEWABLE TABLETS PAREVE Safety sealed- Do not use if printed inner seal beneath cap is missing or broken. Trademarks are owned by or licensed to the GSK group of companies. Dist. by: GSK Consumer Healthcare Warren, NJ 07059 ©2014 GSK or its licensor 105430XA (Front Label) 105431XA (Back Label) Tums Ultra Mint 72 count front label
+set_id:
+  ee3faeab-4cea-4852-9ddf-901a346c092a
+id:
+  15501612-aea8-f4a0-e063-6294a90acde7
+effective_time:
+  20240404
+version:
+  5
+openfda:

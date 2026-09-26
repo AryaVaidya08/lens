@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Redness reliever tetrahydrozoline HCl BENZALKONIUM CHLORIDE BORIC ACID HYDROCHLORIC ACID EDETATE DISODIUM WATER SODIUM BORATE SODIUM CHLORIDE TETRAHYDROZOLINE HYDROCHLORIDE TETRAHYDROZOLINE
+active_ingredient:
+  Active Ingredient Tetrahydrozoline HCl 0.5%
+purpose:
+  Purpose Redness reliever
+indications_and_usage:
+  Use relieves redness of the eye due to minor eye irritations
+warnings:
+  Warnings Ask a doctor before use if you have narrow angle glaucoma When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lenses before using Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma
+when_using:
+  When using this product pupils may become enlarged temporarily to avoid contamination, do not touch tip of container to any surface. Replace cap after using. if solution changes color or becomes cloudy, do not use overuse may produce increased redness of the eye remove contact lenses before using
+stop_use:
+  Stop use and ask a doctor if you experience eye pain changes in vision continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Instill 1 or 2 drops in the affected eye(s) up to 4 times daily.
+storage_and_handling:
+  Other information Store at 15° to 30°C (59°F to 86°F)
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, diluted hydrochloric acid, edetate disodium, purified water, sodium borate, sodium chloride
+package_label_principal_display_panel:
+  package label Care One Redness Reliever carton
+set_id:
+  3222b6d6-adb6-4747-b764-84a19bd5cc34
+id:
+  f4ee870c-a1df-1d42-e053-2a95a90ada2d
+effective_time:
+  20230217
+version:
+  4
+openfda:

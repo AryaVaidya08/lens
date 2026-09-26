@@ -1,0 +1,27 @@
+effective_time:
+  20160412
+inactive_ingredient:
+  Water, Methylparaben, Propylparaben, etc
+purpose:
+  antacid
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  Gelfos M Aluminium phosphate, Magnesium Hydroxide, Simethicone DIMETHICONE WATER MAGNESIUM HYDROXIDE ALUMINUM PHOSPHATE ALUMINUM PHOSPHATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Take 1 sachet orally, 3 times daily between each meal(at the mealtime and between each meal), 4 hours between dosage.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Relief the symptom of hypergastric acidity (including gastritis and gastroduodenal ulcer disease), heartburn, gastric discomfort, gastric fullness, nausea, vomiting, crapulence, gastric pain, belching up a bit of sour vomit, constipation protection and degassing.
+set_id:
+  2cde4d56-8685-499b-e054-00144ff8d46c
+id:
+  30433130-f958-73ba-e054-00144ff8d46c
+active_ingredient:
+  Aluminium phosphate 61.9%, Magnesium hydroxide 2.0%, Simethicone 0.2%

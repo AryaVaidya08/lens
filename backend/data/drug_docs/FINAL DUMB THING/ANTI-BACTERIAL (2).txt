@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  ANTI-BACTERIAL HAND SANITIZER ANTI-BACTERIAL HAND SANITIZER TROLAMINE CARBOMER INTERPOLYMER TYPE A (55000 CPS) FRAGRANCE CLEAN ORC0600327 ALCOHOL ALCOHOL SARGASSUM FUSIFORME WATER GLYCERIN ALOE VERA LEAF ARTEMISIA ARGYI LEAF CNIDIUM MONNIERI FRUIT BUTYLENE GLYCOL
+active_ingredient:
+  Active Ingredient Alcohol 75% V/V
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Use to help reduce bacteria on skin
+warnings:
+  Warnings Flammable. Keep away from fire, flame and high heat. for external use only. When using this product ,avoid contact with eyes. If contact occurs, rinse thoroughly with water. Avoid contact with brokern skin. Do not inhale or ingest. Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away. Stop use and ask a doctor if irritation or redness occurs.
+do_not_use:
+  /
+when_using:
+  When using this product When using this product ,avoid contact with eyes. If contact occurs, rinse thoroughly with water. Avoid contact with brokern skin. Do not inhale or ingest. Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away. Stop use and ask a doctor if irritation or redness occurs.
+stop_use:
+  Stop use and ask a doctor if irritation or redness occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children and pets. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions Dispense into hands, rub until dry.
+storage_and_handling:
+  Other information May discolor certain fabrics or surfaces. Oo not stor above 110F (43C)
+inactive_ingredient:
+  Inactive ingredients Water(Aqua), Glycerin, Butylene Glycol, Fagrance(Parfum), Acrylates/C10-30Alkyl Acrylate Crosspolymer, Triethanolamine, Aloe Barbadensis Leaf Extract, Artemisia Argyi Leaf Extract, Cnidium Monnieri Frut Extrac, Sargassum Fusiforme Extract
+package_label_principal_display_panel:
+  74620-038-01 236ml 74620-038-01 236ml
+set_id:
+  bc107f7a-81f0-15a6-e053-2995a90a8e6f
+id:
+  f15439a2-e511-416a-e053-2a95a90a9531
+effective_time:
+  20230102
+version:
+  2
+openfda:

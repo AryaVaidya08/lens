@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  RawHarvest Hand Sanitizer Sensitive Skin BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM UREA WATER
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.11% - 0.13%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand sanitizing. Helps prevent the risk and spread of infection as well as communicable diseases by killing germs that reside on the surface of the skin.
+warnings:
+  Warnings Do not use in eyes. In case of eye contact, immediately flush with water and seek medical advice. Discontinue use if skin irritation or redness develops. No for use on sensitive areas of the body or burns.
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Dispense 1 to 4 pumps into your palm. Rub foam until spread evenly over the entire surface of your hands. Continue rubbing until dry. Use frequently to avoid spreading germs.
+inactive_ingredient:
+  Inactive ingredients Water 99.83%, Carbamide to 0.04%
+package_label_principal_display_panel:
+  Product Label image description
+set_id:
+  48018a4b-5ee4-4d3b-a992-9d1eff1f66c3
+id:
+  6ce7b31f-854d-4d3f-acef-b60707d427f8
+effective_time:
+  20200702
+version:
+  1
+openfda:

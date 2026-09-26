@@ -1,0 +1,29 @@
+effective_time:
+  20210826
+inactive_ingredient:
+  Inactive ingredients Water(Aqua), Isopropyl Myristate, Isopropyl Alcohol, Menthol, Tocopheryl Acetate, Carbomer,Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Propylene Glycol, Aminomethyl Propanol, Fragrance(Parfum)
+purpose:
+  Purpose Antiseptic, Hand Sanitizer
+keep_out_of_reach_of_children:
+   Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings  For external use only.  Flammable, keep away from fire or flame.  When using this product, avoid contact with the eyes. In case of contact, rinse eyes thoroughly with water.  Stop use and ask a doctor if irritation or redness appears and lasts.
+spl_product_data_elements:
+  DPC Daily Purify Hand Sanitizer Gel Alcohol ALCOHOL ALCOHOL Water Isopropyl Myristate Isopropyl Alcohol Menthol Propylene Glycol
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Apply liberally to the hands and gently rub until dry
+storage_and_handling:
+  Other information Store above 0℃ (32°F)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel image description
+indications_and_usage:
+  Use  Hand sanitizing to help reduce bacteria on the skin  Recommended for repeated use
+set_id:
+  e2250597-c331-4e5f-a4a8-cda1456a8e9d
+id:
+  b0df9084-05bc-49bb-816d-59c283a4c025
+active_ingredient:
+  Active Ingredient(s) Alcohol 65%, Purpose: Antiseptic

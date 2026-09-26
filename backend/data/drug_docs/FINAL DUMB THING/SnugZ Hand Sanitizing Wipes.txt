@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  SnugZ Hand Sanitizing Wipes Hand Sanitizing Wipes WATER ALCOHOL ALCOHOL
+active_ingredient:
+  SnugZ Hand Sanitizing Wipes Ethyl Alcohol 75% v/v.........................................Antiseptic
+purpose:
+  SnugZ Hand Sanitizing Wipes Help reduce bacteria on skin.
+warnings:
+  SnugZ Hand Sanitizing Wipes For external use only. Flammable, keep away from fire. Do not use on damaged or broken skin. Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. If product is swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children Warnings: Keep out of reach of children.
+dosage_and_administration:
+  Directions Directions: Open packet, remove and unfold pre-moistened wipe. Wipe hands to clean. Allow to air dry. Discard properly after use.
+indications_and_usage:
+  Uses Uses: Helps reduce bacteria on skin.
+inactive_ingredient:
+  Inactive Ingredients: Inactive Ingredients: Water
+package_label_principal_display_panel:
+  SnugZ Hand Sanitizing Wipes ZSW10
+set_id:
+  c5d9122a-2c67-2387-e053-2a95a90a2c3a
+id:
+  4720b8c2-b87d-f076-e063-6394a90a46a4
+effective_time:
+  20251229
+version:
+  5
+openfda:
+  application_number:
+    M005
+  brand_name:
+    SnugZ Hand Sanitizing Wipes
+  generic_name:
+    HAND SANITIZING WIPES
+  manufacturer_name:
+    SnugZ/USA, LLC
+  product_ndc:
+    76309-700
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1307051
+  spl_id:
+    4720b8c2-b87d-f076-e063-6394a90a46a4
+  spl_set_id:
+    c5d9122a-2c67-2387-e053-2a95a90a2c3a
+  package_ndc:
+    76309-700-85
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

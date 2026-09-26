@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Banana Boat Baby SPF 50 Titanium Dioxide,Zinc Oxide WATER MEDIUM-CHAIN TRIGLYCERIDES ISOHEXADECANE BUTYLOCTYL SALICYLATE CETYL PEG/PPG-10/1 DIMETHICONE (HLB 1.5) SODIUM CHLORIDE ETHYLHEXYL METHOXYCRYLENE DIMETHICONE CAPRYLYL GLYCOL POLYETHYLENE GLYCOL 400 ALUMINUM OXIDE GLYCERIN SODIUM CITRATE .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF PHENOXYETHANOL TITANIUM DIOXIDE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active Ingredient Titanium Dioxide 3.1%, Zinc Oxide 4.0%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ) , decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Do not use on damaged or broken skin. When using this product keep out of eyes. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. May stain some fabrics.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. May stain some fabrics.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating, immediately after towel drying, at least every 2 hours Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other skin protection measures including: limit time in the sun, especially from 10 a.m.-2 p.m., wear long-sleeve shirts, pants, hats, and sunglasses. children under 6 months: Ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Water, Caprylic/Capric Triglyceride, Isohexadecane, Butyloctyl Salicylate, Octyldodecyl Citrate Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Lauryl PEG-8 Dimethicone, C30-38 Olefin/Isopropyl Maleate/MA Copolymer, Sodium Chloride, Ethylhexyl Methoxycrylene, Dimethicone, Caprylyl Glycol, PEG-8, Alumina, Glycerin, Sodium Citrate, Tocopheryl Acetate, Aloe Barbadensis Leaf Juice, Phenoxyethanol.
+spl_unclassified_section:
+  Other information protect this product from excessive heat and direct sun
+package_label_principal_display_panel:
+  Tear Free Sting Free Banana Boat baby UVA/UVB PROTECTION SUNSCREEN LOTION 50 BROAD SPECTRUM SPF 50 Proven to be Gentle Water Resistant (80 minutes) SWIM SPLASH SPORT 2 FL.OZ. (59 mL) 6335405027 6334505026
+set_id:
+  6f76941b-03c0-487c-9456-083d0164db0d
+id:
+  0afb93be-0482-5011-e063-6394a90a1085
+effective_time:
+  20231125
+version:
+  3
+openfda:

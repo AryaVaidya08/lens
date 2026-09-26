@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  MOISTURIZING HAND SANITIZER EUCALYPTUS Ethyl alcohol Alcohol ALCOHOL Water CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE AminomethylPropanol JASMINUM OFFICINALE FLOWER PRUNUS MUME FLOWER BELLIS PERENNIS FLOWER ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE EUCALYPTUS GLOBULUS LEAF
+active_ingredient:
+  ACTIVE INGREDIENT Ethyl alcohol 70%
+inactive_ingredient:
+  INACTIVE INGREDIENT Aqua/Water, Carbomer, Aminomethyl Propanol, Jasminum Officinale (Jasmine) Extract, Prunus Mume Flower Extract, Bellis Perennis (Daisy) Flower Extract, Fragrance, Aloe Barbadensis Extract, Tocopheryl Acetate, Eucalyptus Globulus Leaf Extract, CI 60730
+purpose:
+  PURPOSE Antiseptic
+warnings:
+  WARNINGS For external use only: hands -------------------------------------------------------------------------------------------------------- Flammable. Keep away from fire or flame -------------------------------------------------------------------------------------------------------- When using this product ㆍkeep out of eyes. In case of contact with eyes, flush thoroughly with water. ㆍavoid contact with broken skin ㆍdo not inhale or ingest -------------------------------------------------------------------------------------------------------- Stop use and ask a doctor if ㆍirritation or redness develops ㆍcondition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses ㆍto decrease bacteria on the skin that could cause disease ㆍrecommended for repeated use
+dosage_and_administration:
+  Directions ㆍwet hands thoroughly with product and allow to dry without wiping ㆍfor children under 6, use only under adult supervision ㆍnot recommended for infants ㆍdo not consume
+other_safety_information:
+  Other Information ㆍstore below 110℉ (43℃) ㆍmay discolor some fabrics ㆍharmful to wood finishes and plastics
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of pouch
+set_id:
+  c83b9b8c-5667-48b3-8f58-dba343aaeda0
+id:
+  762f646a-37ff-48e2-bb66-bf3a207c5786
+effective_time:
+  20200619
+version:
+  1
+openfda:

@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  NATRUM MURIATICUM sodium chloride ACACIA LACTOSE SODIUM CHLORIDE CHLORIDE ION
+dosage_and_administration:
+  DIRECTIONS Adults & Children ages 7 - 12: 4 tablets. Children ages 2 - 6: 2 tablets. Dissolve under tongue 3 times a day. Use more frequently (every 15 minutes for up to 8 doses) with acute conditions.
+indications_and_usage:
+  INDICATIONS Relief of symptoms of headaches, colds,heartburn, gastric upset and distress
+purpose:
+  Relief of symptoms of headaches, colds,heartburn, gastric upset and distress
+active_ingredient:
+  FORMULA Natrum Muriaticum 6X HPUS In a base of Acacia Gum, Lactose N.F. “HPUS” indicates that the active ingredients are in the official Homeopathic Pharmacopœia of the United States.
+inactive_ingredient:
+  In a base of Acacia Gum, Lactose N.F. “HPUS” indicates that the active ingredients are in the official Homeopathic Pharmacopœia of the United States.
+warnings:
+  Warnings Do not use if imprinted cap band is broken or missing. If symptoms persist for more than 7 days or worsen, contact a licensed health care provider. If you are pregnant or nursing, seek the advice of a licensed health care provider before using this product. Keep all medications out of the reach of children.
+do_not_use:
+  Do not use if imprinted cap band is broken or missing.
+ask_doctor_or_pharmacist:
+  If symptoms persist for more than 7 days or worsen, contact a licensed health care provider.
+pregnancy_or_breast_feeding:
+  If you are pregnant or nursing, seek the advice of a licensed health care provider before using this product.
+keep_out_of_reach_of_children:
+  Keep all medications out of the reach of children.
+questions:
+  QUESTIONS? (800) 624-9659
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 500 Tablet Bottle Label HOMEOPATHIC NDC 54973-6433-1 Hyland's ® # 9 Nat. Mur. 6X Headaches, Colds, Heartburn, Gastric Upset and Distress* 500 TABLETS label
+set_id:
+  21ee53eb-b41a-4d2e-8037-12973d2b73d9
+id:
+  f03159cf-dfd9-fdf2-e053-2a95a90a5837
+effective_time:
+  20221219
+version:
+  4
+openfda:
+  brand_name:
+    NATRUM MURIATICUM
+  generic_name:
+    SODIUM CHLORIDE
+  manufacturer_name:
+    Hyland's Inc.
+  product_ndc:
+    54973-6433
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM CHLORIDE
+  spl_id:
+    f03159cf-dfd9-fdf2-e053-2a95a90a5837
+  spl_set_id:
+    21ee53eb-b41a-4d2e-8037-12973d2b73d9
+  package_ndc:
+    54973-6433-1
+    54973-6433-2
+  is_original_packager:
+    True
+  upc:
+    0354973643314
+  unii:
+    451W47IQ8X

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Orajel Toothache Strips Benzocaine, Menthol GLYCERIN WATER PULLULAN TITANIUM DIOXIDE POLYETHYLENE GLYCOL 400 POVIDONE K90 POLYCARBOPHIL ACID BLUE 9 AMMONIUM POTASSIUM SORBATE BENZOCAINE BENZOCAINE MENTHOL MENTHOL
+active_ingredient:
+  Benzocaine 15 mg Menthol 2.5 mg
+purpose:
+  Benzocaine - Oral Pain Reliever Menthol - Oral Pain Reliever
+indications_and_usage:
+  Use for the temporary relief of pain due to minor irritation or injury of the mouth and gums
+warnings:
+  Warnings Methemoglobinemia warning: Use of this product may cause methemoglobinemia, a serious condition that must be treated promptly because it reduces the amount of oxygen carried to the blood. This can occur even if you have used this product before. Stop use and seek immediate medical attention if you or a child in your care develops: • pale, gray, or blue colored skin (cyanosis) • headache • rapid heart rate • shortness of breath • dizziness or lightheadedness • fatique or lack of energy Allergy alert: do not use this product if you have a history of allergy to local anesthetics such as procaine, butacaine, benzocaine or other "caine" anesthetics
+do_not_use:
+  Do not use • more than directed • for more than 7 days unless directed by a physician or healthcare provider • for teething • in children under 12 years of age
+stop_use:
+  Stop use and ask a physician if • swelling, rash or fever develops • irritation, pain or redness persists or worsens • symptoms do not improve in 7 days • allergic reaction occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose or allergic reaction, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  
+other_safety_information:
+  
+inactive_ingredient:
+  acid blue 9, glycerin, PEG-8, PEG-90, polycarbophil, potassium sorbate, pullulan, PVP, titanium dioxide, water.
+questions:
+  Questions • call us at 800 952 5080 Monday through Friday 9am to 5pm or visit our website at www orajel com
+package_label_principal_display_panel:
+  #1 ORAL PAIN Reliever Brand For Toothache SLOW DISSOLVING STRIPS For Lasting Relief Orajel™ TOOTHACHE STRIPS MEDICATED FOR TOOTHACHE & GUM INSTANT & TARGETED PAIN RELIEF • Long-Lasting Pain Relief •Maximum level of Pain Relief with 15mg Benzocaine* •Stays in place for Targeted Relief •Soothes gums with Menthol Cool Mint Taste 8 STRIPS Individually Wrapped Oral Pain Reliever OJFC-99886-02
+set_id:
+  724c559b-2ca3-3241-e053-2a91aa0a4d09
+id:
+  acc6c6fd-3c3a-dce7-e053-2995a90ac6f7
+effective_time:
+  20200813
+version:
+  6
+openfda:

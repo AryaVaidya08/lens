@@ -1,0 +1,43 @@
+effective_time:
+  20120816
+inactive_ingredient:
+  INACTIVE INGREDIENTS croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, povidone, pregelatinized starch, propylene glycol, sodium lauryl sulfate, stearic acid, titanium dioxide
+purpose:
+  PURPOSE Pain reliever/fever reducer
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  WARNINGS Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take more than 6 caplets in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen 3 or more alcoholic drinks every day while using this product Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product. Ask a doctor before use if you have liver disease. Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin. Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. Overdose warning: In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222). Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+questions:
+  QUESTIONS? call 1-800-406-7984 Keep the carton. It contains important information. Contains No Aspirin. Distributed By McKesson One Post Street, San Francisco, CA 94104 www.sunmarkbrand.com
+spl_product_data_elements:
+  Sunmark Arthritis Pain Reliever Acetaminophen ACETAMINOPHEN ACETAMINOPHEN CROSCARMELLOSE SODIUM HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POVIDONE STARCH, PREGELATINIZED CORN PROPYLENE GLYCOL SODIUM LAURYL SULFATE STEARIC ACID TITANIUM DIOXIDE Capsule shaped cor116
+ask_doctor:
+  Ask a doctor before use if you have liver disease.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS do not take more than directed (see overdose warning) Adults take 2 caplets every 8 hours with water swallow whole - do not crush, chew, split or dissolve do not take more than 6 caplets in 24 hours do not use for more than 10 days unless directed by a doctor under 18 years of age ask a doctor
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 10 days fever gets worse or lasts more than 3 days new symptoms occur redness or swelling is present These could be signs of a serious condition.
+spl_unclassified_section:
+  OTHER INFORMATION store at 20 - 25° C (68 - 77° F). Avoid excessive heat 40° C (104° F). see end panel for batch number and expiration date TAMPER EVIDENT: DO NOT USE IF IMPRINTED SEAL IS BROKEN OR MISSING FROM BOTTLE.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL sunmark ® NDC 49348-921-09 See New Warnings Information arthritis pain relief Acetaminophen Extended-Release Tablets, USP 650 mg Pain Reliever/Fever Reducer For the Temporary Relief of Minor Arthritis Pain LASTS UP TO 8 HOURS Use only as directed. 50 CAPLETS * 650 mg EACH ( * capsule-shaped tablets) DO NOT USE WITH OTHER MEDICINES CONTAINING ACETAMINOPHEN COMPARE TO TYLENOL ® ARTHRITIS PAIN ACTIVE INGREDIENT † † This product is not manufactured or distributed by McNeil Consumer Healthcare, Inc. The owner of the registered trademark Tylenol ® is The Tylenol Company. sunmark ® NDC 49348-921-10 See New Warnings Information arthritis pain relief Acetaminophen Extended-Release Tablets, USP 650 mg Pain Reliever/Fever Reducer For the Temporary Relief of Minor Arthritis Pain LASTS UP TO 8 HOURS Use only as directed. 100 CAPLETS * 650 mg EACH ( * capsule-shaped tablets) THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN EASY TO OPEN BOTTLE DO NOT USE WITH OTHER MEDICINES CONTAINING ACETAMINOPHEN COMPARE TO TYLENOL ® ARTHRITIS PAIN ACTIVE INGREDIENT † † This product is not manufactured or distributed by McNeil Consumer Healthcare, Inc. The owner of the registered trademark Tylenol ® is The Tylenol Company. This is the 50 count bottle carton label for Sunmark APAP Arthritis. This is the 100 count bottle label for Sunmark APAP Arthritis.
+indications_and_usage:
+  USES temporarily relieves minor aches and pains due to: minor pain of arthritis muscular aches backache headache toothache the common cold premenstrual and menstrual cramps temporarily reduces fever
+set_id:
+  de777010-7f61-4ee1-96a8-4c9bc3b6c514
+id:
+  ebc79b1d-d574-43e1-80f8-86bb904bdd8a
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin.
+active_ingredient:
+  ACTIVE INGREDIENT (IN EACH CAPLET) Acetaminophen USP, 650 mg
+dosage_and_administration_table:
+  <table ID="inv-13ea1257-48b0-450f-9265-4ab0ccc17dee" frame="border" border="1"> <col width="318px"/> <col width="305px"/> <tbody> <tr> <td styleCode="Botrule Lrule Rrule">Adults</td> <td styleCode="Botrule Rrule">take 2 caplets every 8 hours with water  swallow whole - do not crush, chew, split or dissolve  do not take more than 6 caplets in 24 hours  do not use for more than 10 days unless directed by a doctor</td> </tr> <tr> <td styleCode="Botrule Lrule Rrule">under 18 years of age</td> <td styleCode="Botrule Rrule">ask a doctor</td> </tr> </tbody> </table>

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  PURELL Hand Sanitizing Wipe Alcohol WATER ISOPROPYL ALCOHOL GLYCERIN ISOPROPYL MYRISTATE PROPYLENE GLYCOL VITAMIN A PALMITATE .ALPHA.-TOCOPHEROL ACETATE CORN OIL ALCOHOL ALCOHOL
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wipe hands; discard
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Isopropyl Alcohol, Glycerin, Isopropyl Myristate, Propylene Glycol, Retinyl Palmitate, Tocopheryl Acetate, Zea Mays (Corn) Oil
+package_label_principal_display_panel:
+  1ct Label Treat 1ct Label
+set_id:
+  ae573b9a-babb-74e8-e053-2995a90adff0
+id:
+  b12b7ce2-9620-b876-e053-2995a90aa51e
+effective_time:
+  20201008
+version:
+  2
+openfda:

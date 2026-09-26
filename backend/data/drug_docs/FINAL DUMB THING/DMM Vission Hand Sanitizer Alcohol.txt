@@ -1,0 +1,38 @@
+effective_time:
+  20200423
+inactive_ingredient:
+  Inactive ingredients: water, carbomer, triethanolamine, glycerin, propylene glycol.
+purpose:
+  PURPOSE: ANTISEPTIC
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Children must be supervised in use of this product.
+warnings:
+  WARNINGS: For external use only. Flammable, keep away from fire or flame. Do not apply around the eyes. Do not use in ears or mouth. When using this product, avoid contact with eyes, in case of contact, flush eyes with water. Stop use and ask a doctor, if redness or irritation develops and persists for more than 72 hours. Keep out of reach of children. Children must be supervised in use of this product.
+when_using:
+  When using this product, avoid contact with eyes, in case of contact, flush eyes with water.
+spl_product_data_elements:
+  DMM Vission Hand Sanitizer Alcohol ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE GLYCERIN PROPYLENE GLYCOL ALCOHOL ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS: pump as needed into your palms thoroughly spread on both hands, rub into skin until dry.
+spl_unclassified_section:
+  DRUG FACTS:
+  Other information: store at 20’ C (66’ to 77’ F); May discolor fabrics.
+stop_use:
+  Stop use and ask a doctor, if redness or irritation develops and persists for more than 72 hours.
+do_not_use:
+  Do not use in ears or mouth.
+package_label_principal_display_panel:
+  Package Labeling: 75799-000-01 Label
+  Package Labeling: 75799-000-02 Label2
+  Package Labeling: 75799-000-03 Label3
+indications_and_usage:
+  USES: hand sanitizer to help decrease bacteria on the skin. When water, soap and towel are not available.
+set_id:
+  7441061e-54e2-4042-9eaf-523b4f5db855
+id:
+  a3f9ca4c-5722-4a1a-e053-2a95a90a8065
+active_ingredient:
+  ACTIVE INGREDIENTS: ETHYL ALCOHOL 70%. PURPOSE: ANTISEPTIC

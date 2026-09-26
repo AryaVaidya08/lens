@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Kosette Care Sanitizer Benzalkonium Chloride WATER 1,2-HEXANEDIOL BENZALKONIUM CHLORIDE BENZALKONIUM QUERCUS ACUTISSIMA WHOLE PROPYLENE GLYCOL PEG-60 HYDROGENATED CASTOR OIL TROLAMINE ANHYDROUS CITRIC ACID
+active_ingredient:
+  Active Ingredients Benzalkonium chloride (0.135%)
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+indications_and_usage:
+  Uses To decrease bacteria on the skin when soap and water are not available. Recommended for repeated use.
+warnings:
+  Warnings For external use only When using this product avoid contact with eyes. In case of contact with eyes, flush thoroughly with water. Stop use and ask a doctor if skin irritation or redness develops and lasts. Keep out of reach of children. If swallowed get medical help or contact a poison control center immediately.
+dosage_and_administration:
+  Directions Spray adequate amount to desired area (clothing or body) at a distance of 6 inches for best result. Avoid spraying onto dark colored clothing.
+inactive_ingredient:
+  Inactive Ingredients Quercus acutissima Sap, Water (Aqua), 1,2-Hexanediol, Propylene Glycol, PEG-60 Hydrogenated Castor Oil, Triethanolamine, Citric Acid, Fragrance (Parfum).
+package_label_principal_display_panel:
+  Kosette Care Sanitizer Spray kosette care
+set_id:
+  a93f49e1-7852-977e-e053-2a95a90a0604
+id:
+  a9e1356e-6b67-f269-e053-2a95a90aba16
+effective_time:
+  20200707
+version:
+  3
+openfda:

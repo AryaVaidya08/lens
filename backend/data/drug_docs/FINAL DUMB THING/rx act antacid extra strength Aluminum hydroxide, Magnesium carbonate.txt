@@ -1,0 +1,37 @@
+effective_time:
+  20171120
+inactive_ingredient:
+  Inactive ingredients alginic acid, calcium stearate, flavor, mannitol, sodium bicarbonate, starch, sucrose, water
+purpose:
+  Purpose Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you have • kidney disease • a magnesium or sodium-restricted diet Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product do not take more than 16 tablets in a 24-hour period or use the maximum dosage for more than 2 weeks Keep out of reach of children.
+when_using:
+  When using this product do not take more than 16 tablets in a 24-hour period or use the maximum dosage for more than 2 weeks
+questions:
+  Questions or comments? 1-800-719-9260
+spl_product_data_elements:
+  rx act antacid extra strength Aluminum hydroxide, Magnesium carbonate ALUMINUM HYDROXIDE ALUMINUM HYDROXIDE MAGNESIUM CARBONATE CARBONATE ION ALGINIC ACID CALCIUM STEARATE MANNITOL SODIUM BICARBONATE SUCROSE WATER L880 original
+ask_doctor:
+  Ask a doctor before use if you have • kidney disease • a magnesium or sodium-restricted diet
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • chew 2 to 4 tablets four times a day or as directed by a doctor • take after meals and at bedtime or as needed • for best results follow by a half glass of water or other liquid • do not swallow whole
+storage_and_handling:
+  Other information • each tablet contains: magnesium 50 mg and sodium 32 mg • store at 20°-25°C
+package_label_principal_display_panel:
+  Principal Display Panel Compare to Gaviscon® Extra Strength Antacid active ingredients ANTACID Extra Strength Heartburn Relief Long-lasting Antacid Barrier GLUTEN FREE Antacid Label Antacid Label Antacid Label
+indications_and_usage:
+  Uses relieves • acid indigestion • heartburn • sour stomach • upset stomach associated with these symptoms
+set_id:
+  742dec31-e6ee-4705-8cad-6b0a72b5ecb9
+id:
+  ce3d49c5-4a01-4c4b-98b2-05aa808ff341
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are now taking a prescription drug. Antacids may interact with certain prescription drugs.
+active_ingredient:
+  Active ingredient (in each tablet) Aluminum hydroxide 160 mg Magnesium carbonate 105 mg

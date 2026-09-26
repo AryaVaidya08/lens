@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  Crest SODIUM FLUORIDE WATER SORBITOL HYDRATED SILICA SODIUM PHOSPHATE, DIBASIC, ANHYDROUS XYLITOL SODIUM HYDROXIDE COCAMIDOPROPYL BETAINE SODIUM LAURETH-2 PHOSPHATE SACCHARIN SODIUM XANTHAN GUM SUCRALOSE POLYETHYLENE OXIDE 900000 HIGH DENSITY POLYETHYLENE MICA TITANIUM DIOXIDE FD&C BLUE NO. 1 SODIUM FLUORIDE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+  Dist. by Procter & Gamble, Cincinnati, OH 45202
+active_ingredient:
+  Active Ingredient Sodium fluoride 0.243% (0.15% w/v fluoride ion)
+purpose:
+  Purpose Anticavity toothpaste
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 yrs. of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 yrs. & older: brush teeth thoroughly after meals or at least twice a day or use as directed by a dentist do not swallow to minimize swallowing use a pea-sized amount in children under 6 supervise children's brushing until good habits are established children under 2 yrs.: ask a dentist
+inactive_ingredient:
+  Inactive Ingredients water, sorbitol, hydrated silica, disodium pyrophosphate, xylitol, flavor, sodium hydroxide, cellulose gum, cocamidopropyl betaine, sodium laureth-2 phosphate, sodium saccharin, xanthan gum, carbomer, sucralose, polyethylene oxide, polyethylene, mica, titanium dioxide, blue 1 lake
+questions:
+  Questions? 1-800-959-6586
+package_label_principal_display_panel:
+  Package Labeling Kit Package: crest24g kit package
+set_id:
+  e05b59e4-6b4b-4c8d-965a-d5aa00345a08
+id:
+  0cff89f7-fa9a-56ed-e063-6294a90a694d
+effective_time:
+  20231221
+version:
+  6
+openfda:

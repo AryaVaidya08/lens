@@ -1,0 +1,27 @@
+effective_time:
+  20160712
+inactive_ingredient:
+  Inactive Ingredients: Water Glycerin, Propylene Glycol, Isopropyl Myristate, Aloe Barbadensis, Carbomer, Tocopheryl Acetate, Triethanolamine.
+purpose:
+  Purpose: Antibacterial Agent
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Other Information: Store at room temperature
+warnings:
+  Warnings: For external use only. If swallowed, seek medical attention. In case of contact with eyes, flush eyes with water and contact a doctor immediately. Discontinue use if skin irritation develops. Keep out of reach of children. Children under 6 years old should be supervised by an adults when using this product.
+spl_product_data_elements:
+  Hand Sanitizer CDS Office Products Alcohol ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER TYPE A ISOPROPYL MYRISTATE PROPYLENE GLYCOL GLYCERIN .ALPHA.-TOCOPHEROL ACETATE, DL- TROLAMINE ALOE VERA FLOWER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions : To decrease bacteria on skin, apply a small amount on palm. Briskly rub, covering hands with product until dry.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Uses: For hand cleaning to decrease bacteria on skin
+set_id:
+  11927c85-b92a-4871-aa2c-0ea66519111f
+id:
+  ae7bf0a8-bb6d-4ed7-a651-eef7eb46e1bd
+active_ingredient:
+  Active Ingredient Purpose Ethyl Alcohol 62% Antibacterial Agent

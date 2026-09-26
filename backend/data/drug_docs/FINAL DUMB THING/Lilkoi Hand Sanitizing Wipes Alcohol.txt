@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Lilkoi Hand Sanitizing Wipes Alcohol WATER ISOPROPYL ALCOHOL GLYCERIN HYALURONIC ACID BERGAMOT OIL LAVENDER OIL HYDROGEN PEROXIDE CENTELLA ASIATICA SODIUM PYRUVATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Alcohol 80% v/v.
+purpose:
+  Purpose Antiseptic skin cleanser
+indications_and_usage:
+  Uses For personal hand hygiene to help prevent the spread of bacteria.
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water. Stop use and consult a healthcare professional if irritation develops. Flammability warning: Flammable. Keep away from open flame and sources of heat.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children over 2 years. For occasional and personal domestic use. Supervise children when they use this product. Rub thoroughly into hands for at least 30 seconds. Allow to dry.
+storage_and_handling:
+  Other information Store at 68-70 0 F (20-25 0 C) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Water, Isopropyl alcohol, Glycerin, Hyaluronic Acid, Bergamot leaf oil, Lavender Flower Oil, Hydrogen Peroxide, Centella Asiatica Extract, Sodium pyruvate
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label 2 Label 2
+set_id:
+  f9210b9b-bfee-43b4-a1ae-4fe9669d3de6
+id:
+  cfd12826-b83d-0898-e053-2995a90a48f7
+effective_time:
+  20211102
+version:
+  2
+openfda:

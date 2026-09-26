@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Antibacterial Wet Wipes benzalkonium chloride WATER PROPYLENE GLYCOL TOCOPHERYL RETINOATE POLYSORBATE 20 METHYLISOTHIAZOLINONE METHYLCHLOROISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient benzalkonium chloride 0.13%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Uses for hand washing to decrease bacteria on skin
+warnings:
+  Warnings For External use only. Do not use if you are allergic to any of the ingredients. When using this product Do not get into eyes,if contact occurs ,rinse throughly with water. Discontinue use if irritation or redness develops if condition persists for more than 72 hours consults a physician.
+keep_out_of_reach_of_children:
+  Keep out of reach of children keep out of reach of children unless under adult supervision .if seallowed ,get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Thoroughly wipe hands or face with wipe,Discard in trash receptacle;do not flush.Be sure to reseal label complete to retain moisture
+inactive_ingredient:
+  WATER PROPYLENE GLYCOL OCTHILINONE .ALPHA.-TOCOPHEROL
+package_label_principal_display_panel:
+  image description
+set_id:
+  b6f2b1c1-a833-48ea-81e5-c705091d173c
+id:
+  ec7f753a-fdcb-7162-e053-2995a90af016
+effective_time:
+  20221102
+version:
+  89
+openfda:

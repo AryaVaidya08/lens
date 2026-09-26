@@ -1,0 +1,83 @@
+spl_product_data_elements:
+  Mucus Relief DM Dextromethorphan Hydrobromide Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ANHYDROUS CITRIC ACID EDETATE DISODIUM FD&C RED NO. 40 GLYCERIN PROPYL GALLATE PROPYLENE GLYCOL WATER SODIUM BENZOATE TRISODIUM CITRATE DIHYDRATE SORBITOL SUCRALOSE XANTHAN GUM
+active_ingredient:
+  Active ingredients (in each 20 mL) Dextromethorphan HBr 20 mg Guaifenesin 400 mg
+purpose:
+  Purpose Cough suppressant Expectorant
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold or inhaled irritants the intensity of coughing the impulse to cough to help you get to sleep
+warnings:
+  Warnings Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus) When using this product, do not use more than directed. Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor_or_pharmacist:
+  Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema cough accompanied by too much phlegm (mucus)
+when_using:
+  When using this product, do not use more than directed.
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or occurs with fever, rash or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions do not take more than 6 doses in any 24-hour period measure only with dosing cup provided. Do not use any other device keep dosing cup with product mL = milliliter dose as follows or as directed by a doctor adults and children 12 years of age and older: 20 mL every 4 hours children under 12 years of age: do not use
+other_safety_information:
+  Other information each 20 mL contains: sodium 20 mg store between 20-25°C (68-77°F). Do not refrigerate.
+inactive_ingredient:
+  Inactive ingredients citric acid, disodium EDTA, FD&C red #40, flavor, glycerin, propyl gallate, propylene glycol, purified water, sodium benzoate, sodium citrate, sorbitol, sucralose, xanthan gum
+questions:
+  Questions or comments? Call 1 -800-632-6900
+package_label_principal_display_panel:
+  Principal Display Panel COMPARE TO the active ingredients of MUCINEX® FAST-MAX® DM MAX for ages 12+ maximum Strength FAST Mucus Relief DM Max multi-Symptom Dextromethorphan HBr 20 mg Cough Suppressant Guaifenesin 400 mg Expectorant Relieves Chest Congestion Controls Cough Thin & Loosens Mucus 4 Hour Dosing *Mucinex® Fast-Max® DM Max is a registered trademark of Reckitt Benckiser, Slough, UK. Reckitt Benckiser is not affiliated with The Kroger Co. or this product TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. DISTRIBUTED BY: THE KROGER CO. CINCINNATI, OHIO 45202 www.kroger.com
+  Package Label KROGER Maximum Strength Mucus Relief DM Dextromethorphan HBr 20 mg, Guaifenesin 400 mg
+set_id:
+  49829083-5c0a-4620-bfb3-7103642368db
+id:
+  b2cdb67b-b9d5-4a34-b01b-dce6d813ede3
+effective_time:
+  20260909
+version:
+  3
+openfda:
+  application_number:
+    M012
+  brand_name:
+    Mucus Relief DM
+  generic_name:
+    DEXTROMETHORPHAN HYDROBROMIDE GUAIFENESIN
+  manufacturer_name:
+    The Kroger Co.
+  product_ndc:
+    30142-508
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    DEXTROMETHORPHAN HYDROBROMIDE
+    GUAIFENESIN
+  rxcui:
+    1020138
+  spl_id:
+    b2cdb67b-b9d5-4a34-b01b-dce6d813ede3
+  spl_set_id:
+    49829083-5c0a-4620-bfb3-7103642368db
+  package_ndc:
+    30142-508-06
+  is_original_packager:
+    True
+  upc:
+    0041260010828
+  nui:
+    N0000193956
+    N0000008867
+    N0000009560
+  pharm_class_epc:
+    Expectorant [EPC]
+  pharm_class_pe:
+    Decreased Respiratory Secretion Viscosity [PE]
+    Increased Respiratory Secretions [PE]
+  unii:
+    9D2RTI9KYH
+    495W7451VQ

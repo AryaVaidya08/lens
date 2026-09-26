@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  SNAP Clean Hands Lakeside ALCOHOL POLYSORBATE 20 PHENOXYETHANOL WATER ALPHA-TOCOPHEROL ACETATE CAPRYLYL GLYCOL GLYCERIN ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient SD Alcohol 40 75%
+purpose:
+  Antimicrobial
+indications_and_usage:
+  Use Hand Sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughtly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Center right away.
+dosage_and_administration:
+  Directions Use enough product in your palm to cover hands and rub hands together biskly until dry. Children under 6 years of age should be supervised when using this product. Directions updated effective date to 09/23/2022
+recent_major_changes:
+  Directions updated effective date to 09/23/2022
+storage_and_handling:
+  Other information Store below 110F (43C) May discolor fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Caprylyl Glycol, Fragrance, Glycerin, Phenoxyethanol, Polysorbate-20, Purified Water, Tocopheryl Acetate.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel outer box_Lakeside_964_02
+set_id:
+  e95d4eb7-a512-2cc1-e053-2995a90a0a1c
+id:
+  e95d4eb7-a513-2cc1-e053-2995a90a0a1c
+effective_time:
+  20220923
+version:
+  1
+openfda:

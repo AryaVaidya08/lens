@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Acidum Aceticum Acidum Aceticum ACETIC ACID ACETIC ACID SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Single label image contains content for sections 1-14. Acidum Aceticum 6c 30g
+set_id:
+  9a2b9456-8ca0-8253-e053-2a95a90a8f12
+id:
+  2b4923b4-399a-9a44-e063-6294a90af8eb
+effective_time:
+  20250109
+version:
+  22
+openfda:
+  brand_name:
+    Acidum Aceticum
+  generic_name:
+    ACIDUM ACETICUM
+  manufacturer_name:
+    Hahnemann Laboratories, Inc.
+  product_ndc:
+    63545-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETIC ACID
+  spl_id:
+    2b4923b4-399a-9a44-e063-6294a90af8eb
+  spl_set_id:
+    9a2b9456-8ca0-8253-e053-2a95a90a8f12
+  package_ndc:
+    63545-001-02
+  is_original_packager:
+    True
+  unii:
+    Q40Q9N063P

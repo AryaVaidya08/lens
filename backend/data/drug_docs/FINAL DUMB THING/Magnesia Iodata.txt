@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE Magnesia Iodata Magnesia Iodata SUCROSE MAGNESIUM IODIDE MAGNESIUM IODIDE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Magnesia Iodata 6C 5g Magnesia Iodata 6C 30g Magnesia Iodata 6C 100g Magnesia Iodata 12C 5g Magnesia Iodata 12C 30g Magnesia Iodata 12C 100g Magnesia Iodata 30C 1g Magnesia Iodata 30C 5g Magnesia Iodata 30C 30g Magnesia Iodata 30C 100g Magnesia Iodata 100C 1g Magnesia Iodata 100C 5g Magnesia Iodata 100C 30g Magnesia Iodata 100C 100g Magnesia Iodata 200C 1g Magnesia Iodata 200C 5g Magnesia Iodata 200C 30g Magnesia Iodata 200C 100g Magnesia Iodata 500C 1g Magnesia Iodata 500C 5g Magnesia Iodata 500C 30g Magnesia Iodata 500C 100g Magnesia Iodata 1M 1g Magnesia Iodata 1M 5g Magnesia Iodata 1M 30g Magnesia Iodata 1M 100g Magnesia Iodata LM1 30g
+set_id:
+  f4289a6f-1ae3-72f8-e053-2995a90a0aa9
+id:
+  f4289a6f-1ae4-72f8-e053-2995a90a0aa9
+effective_time:
+  20230207
+version:
+  1
+openfda:
+  brand_name:
+    Magnesia Iodata
+  generic_name:
+    MAGNESIA IODATA
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-2653
+    37662-2660
+    37662-2654
+    37662-2655
+    37662-2656
+    37662-2658
+    37662-2659
+    37662-2657
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    MAGNESIUM IODIDE
+  spl_id:
+    f4289a6f-1ae4-72f8-e053-2995a90a0aa9
+  spl_set_id:
+    f4289a6f-1ae3-72f8-e053-2995a90a0aa9
+  package_ndc:
+    37662-2660-1
+    37662-2654-1
+    37662-2654-2
+    37662-2654-3
+    37662-2653-1
+    37662-2653-2
+    37662-2653-3
+    37662-2655-1
+    37662-2655-2
+    37662-2655-3
+    37662-2655-4
+    37662-2656-1
+    37662-2656-2
+    37662-2656-3
+    37662-2656-4
+    37662-2658-1
+    37662-2658-2
+    37662-2658-3
+    37662-2658-4
+    37662-2659-1
+    37662-2659-2
+    37662-2659-3
+    37662-2659-4
+    37662-2657-1
+    37662-2657-2
+    37662-2657-3
+    37662-2657-4
+  is_original_packager:
+    True
+  unii:
+    W74QE3H320

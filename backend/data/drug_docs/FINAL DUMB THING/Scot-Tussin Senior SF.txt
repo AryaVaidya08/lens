@@ -1,0 +1,40 @@
+effective_time:
+  20130204
+inactive_ingredient:
+  Inactive Ingredients *Aspartame (see warning), Benzoic Acid, Citric Acid, Glycerin, Hydroxypropylmethylcellulose, Menthol, Methyl Paraben, Peppermint Stick Flavor, Propyl Paraben, Propylene Glycol, Purified Water.
+purpose:
+  Purpose Cough Suppressant Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings *Phenylketonurics: Contains Phenylalanine. Do not use more than the recommended dosage. If drowsiness occurs, do not drive or operate machinery. if you are taking a prescription monoamine oxidase inhibitor (MAOI); (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use is you have A chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema. Difficulty in urination due to enlargement of the prostate gland. A Cough accompanied by excessive phlegm (mucus). Glaucoma. Thyroid disease. Stop use a nd ask a doctor if Cough lasts more than seven days, returns or is accompanied by fever, rash or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding , Do Not Use. Keep out of reach of children. In case of accidental overdose get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Scot-Tussin Senior SF DMEXP Dextromethorphan Hydrobromide, Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ASPARTAME BENZOIC ACID CITRIC ACID MONOHYDRATE GLYCERIN HYPROMELLOSES MENTHOL METHYLPARABEN PROPYLPARABEN PROPYLENE GLYCOL WATER Peppermint Stick
+ask_doctor:
+  Ask a doctor before use is you have A chronic cough such as occurs with smoking, asthma, chronic bronchitis or emphysema. Difficulty in urination due to enlargement of the prostate gland. A Cough accompanied by excessive phlegm (mucus). Glaucoma. Thyroid disease.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Follow Dosage Chart. Do not take more than 4 doses in any 24 hour period. This product is not intended for use in children under 12 years of age. age dose Adults and children over 12 years old 2 teaspoons (2 tsp. 10 ml) every 6 hours Children Under 12 years old DO NOT USE
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , Do Not Use.
+spl_unclassified_section:
+  
+  Other Information Each teaspoon contains Phenylalanine 7.5 mg. Store at 20º – 25º C (68º – 77º F). Do not refrigerate. Dosage cup provided.
+stop_use:
+  Stop use a nd ask a doctor if Cough lasts more than seven days, returns or is accompanied by fever, rash or persistent headache. These could be signs of a serious condition.
+do_not_use:
+  Do not use more than the recommended dosage. If drowsiness occurs, do not drive or operate machinery. if you are taking a prescription monoamine oxidase inhibitor (MAOI); (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 0372-0050-04 SCOT-TUSSIN SENIOR Maximum Strength COUGH SUPPRESSANT & EXPECTORANT 4 FL OZ (118 ml) NDC 0372-0050-04 SCOT-TUSSIN SENIOR Maximum Strength COUGH SUPPRESSANT & EXPECTORANT 4 FL OZ (118 ml)
+indications_and_usage:
+  Uses Temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold. Quiets and calms a dry cough. Helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive thereby relieving chest congestion.
+set_id:
+  4f0aefe3-e80f-44b8-bc24-1a325f36c2d3
+id:
+  29bdfa32-2dde-4ea0-a23a-6b68ed05d44f
+active_ingredient:
+  Active Ingredients: (in each 5 mL. tsp. teaspoon ) Dextromethorphan HBr. USP 15mg Guaifenesin USP 200mg
+dosage_and_administration_table:
+  <table> <col width="186"/> <col width="198"/> <tbody> <tr> <td styleCode="Toprule Lrule Rrule " align="center">age</td> <td styleCode="Toprule Lrule Rrule " align="center">dose</td> </tr> <tr> <td styleCode="Toprule Lrule Rrule " align="center">Adults and children  over 12 years old</td> <td styleCode="Toprule Lrule Rrule " align="center">2 teaspoons  (2 tsp. 10 ml)  every 6 hours</td> </tr> <tr> <td styleCode="Toprule Lrule Rrule " align="center">Children Under  12 years old</td> <td styleCode="Toprule Lrule Rrule " align="center">DO NOT USE</td> </tr> </tbody> </table>

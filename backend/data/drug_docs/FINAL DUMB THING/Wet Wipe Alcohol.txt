@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  Wet Wipe Alcohol WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethanol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE For hand sanitizing to decrease bacteria on the skin. Apply topically to the skin to help prevent cross contamination. Recommended for repeated use. Dries in seconds. If swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warning ●Flammable, Keep away from fire or flame. For external use only. Do not use in or contact the eyes. ●Discontinue use if rritation and redness develop. If condition persist for more than 72 hours, consult a physician. ●. Keep out of reach of children unless under adult supervision.
+keep_out_of_reach_of_children:
+  ●. Keep out of reach of children unless under adult supervision.
+dosage_and_administration:
+  Directions ●Open lid, gently pull back resealable label, remove and use wipe as required. ●Reseal back after use to avoid evaporation of alcohol.
+inactive_ingredient:
+  Inactive ingredients Aqua
+package_label_principal_display_panel:
+  002
+set_id:
+  a3860740-3960-47de-e053-2995a90a6681
+id:
+  d5879726-e436-0109-e053-2a95a90af120
+effective_time:
+  20220114
+version:
+  2
+openfda:

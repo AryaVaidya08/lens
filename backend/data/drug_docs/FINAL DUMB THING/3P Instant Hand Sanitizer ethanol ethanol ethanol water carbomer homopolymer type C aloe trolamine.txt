@@ -1,0 +1,28 @@
+effective_time:
+  20100521
+inactive_ingredient:
+  Inactive Ingredients Water, Carbomer, Triethanolamine, PEG-75 Lanolin, Aloe Vera Gel, Fragrance.
+purpose:
+  Purpose: Anti-Microbial Hand Sanitizer
+warnings:
+  Warnings For external use only Flammable, keep away from fire, heat, or flame Keep out of reach of children. Do not use near eyes In case of eye contact flush with water for 15 minutes If irritation persists stop use of product and get medical attention In case of accidental ingestion seek medical attention or contact a poison control center immediately.
+spl_product_data_elements:
+  3P Instant Hand Sanitizer ethanol ethanol ethanol water carbomer homopolymer type C aloe trolamine
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Use no water or towels Apply appropriate amount of product to palm of hand Rub until hands are completely covered Agitate lightly until dry Let air dry for 15 seconds Do not rinse or wipe with towel.
+spl_unclassified_section:
+  Drug Facts Active Ingredient: Ethanol (60% v/v) Purpose: Anti-Microbial Hand Sanitizer Uses Helps reduce bacteria that potentially can cause disease Helps prevent cross contamination by hand contact Recommended for repeated use Warnings For external use only Flammable, keep away from fire, heat, or flame Keep out of reach of children. Do not use near eyes In case of eye contact flush with water for 15 minutes If irritation persists stop use of product and get medical attention In case of accidental ingestion seek medical attention or contact a poison control center immediately. Directions Use no water or towels Apply appropriate amount of product to palm of hand Rub until hands are completely covered Agitate lightly until dry Let air dry for 15 seconds Do not rinse or wipe with towel. Other Information Store in a cool dry place below 104° F. Inactive Ingredients Water, Carbomer, Triethanolamine, PEG-75 Lanolin, Aloe Vera Gel, Fragrance.
+package_label_principal_display_panel:
+  Principal Display Panel
+  Principal Display Panel – Bottle Label 3-P INSTANT HAND SANITIZER (GEL-TYPE) Enhanced with Moisturizers Kills disease causing germs within seconds Effective against MRSA, VRE, E. coli (0157:H7) Staphylococcus, Streptococcus and other organisms Assists with OSHA Bloodborne Pathogen Standard Compliance Hospital and Professional Use Only See Drug Facts panel for additional information 12-266-1362 Manufactured for: 3-P SPECIALTY INC. • P.O. BOX 671183 MARIETTA, GEORGIA • (770) 971-4603 Principal Display Panel – Bottle Label
+indications_and_usage:
+  Uses Helps reduce bacteria that potentially can cause disease Helps prevent cross contamination by hand contact Recommended for repeated use
+set_id:
+  e3c3062a-915f-4d89-80aa-e4f1028bec88
+id:
+  bdd20f31-e6ee-4c0c-b981-ad22b03cc9e7
+active_ingredient:
+  Active Ingredient: Ethanol (60% v/v)

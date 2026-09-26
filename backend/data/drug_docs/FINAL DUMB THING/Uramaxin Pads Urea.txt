@@ -1,0 +1,43 @@
+effective_time:
+  20171113
+contraindications:
+  CONTRAINDICATIONS: Known hypersensitivity to any of the listed ingredients.
+instructions_for_use:
+  For external use only. Not for ophthalmic use.
+precautions:
+  PRECAUTIONS: This medication is to be used as directed by a physician and should not be used to treat any condition other than that for which it was prescribed. If redness or irritation occurs, discontinue use.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes, lips or mucous membranes.
+pregnancy:
+  PREGNANCY: Pregnancy Category B. Animal reproduction studies have revealed no evidence of harm to the fetus, however, there are no adequate and well-controlled studies in pregnant women. Because animal reproductive studies are not always predictive of human response, Uramaxin® (45% Urea) Pads should be given to a pregnant woman only if clearly needed.
+nursing_mothers:
+  NURSING MOTHERS: It is not known whether or not this drug is secreted in human milk. Because many drugs are secreted in human milk, caution should be exercised when Uramaxin® (45% Urea) Pads is administered to a nursing woman.
+spl_product_data_elements:
+  Uramaxin Pads Urea UREA UREA CAMPHOR (SYNTHETIC) EDETATE DISODIUM EUCALYPTUS OIL HYDROXYETHYL CELLULOSE (4000 MPA.S AT 1%) LEVOMENTHOL PROPYLENE GLYCOL WATER
+description:
+  DESCRIPTION: Uramaxin® (45% Urea) Pads contain a 45% solution of urea on a textured cloth. Each gram of medicated solution contains 45% urea, camphor, edetate disodium, eucalyptus oil, hydroxyethyl cellulose, menthol, propylene glycol and purified water. Urea is a diamide of carbonic acid with the following chemical structure: Structure Urea
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: Gently apply Uramaxin® (45% Urea) Pad to affected area(s) twice daily, or as directed by a physician. After application, discard pad. Do not flush.
+adverse_reactions:
+  ADVERSE REACTIONS: Transient stinging, burning, itching or irritation may occur and normally disappear on discontinuing the medication.
+storage_and_handling:
+  Store at controlled room temperature 15°-30° C (59°-86° F). Protect from freezing. Manufactured for: MEDIMETRIKS PHARMACEUTICALS, INC. 363 Route 46 West Fairfield, NJ 07004-2402 USA www.medimetriks.com Manufactured by: Groupe PARIMA, Inc. Montreal, QC H4S 1X6 CANADA
+how_supplied:
+  HOW SUPPLIED: Uramaxin® (45% Urea) Pads NDC 43538-260-45, are supplied in a carton containing 45 foil pouches, each with a single-use medicated cloth (15 g each).
+package_label_principal_display_panel:
+  Sachet Carton
+pharmacokinetics:
+  PHARMACOKINETICS: The mechanism of action of topically applied Urea is not yet known.
+indications_and_usage:
+  INDICATIONS AND USES: For debridement and promotion of normal healing of hyperkeratotic surface lesions, particularly where healing is retarded by local infection, necrotic tissue, fibrinous or purulent debris or eschar. Urea is useful for the treatment of hyperkeratotic conditions such as dry, rough skin, dermatitis, psoriasis, xerosis, ichthyosis, eczema, keratosis pilaris, keratosis palmaris, keratoderma, corns and calluses.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY: Urea gently dissolves the intercellular matrix, which results in loosening of the horny layer of skin and shedding scaly skin at regular intervals, thereby softening hyperkeratotic areas.
+set_id:
+  30d6174e-54ae-4684-8629-11ce5884bfc4
+safe_handling_warning:
+  KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+id:
+  d41de9b0-cc13-447a-a541-4cecb25057d1

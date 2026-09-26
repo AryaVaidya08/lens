@@ -1,0 +1,51 @@
+spl_product_data_elements:
+  Bestmade Natural Products Calcium Carbonate (Calc Carb) Calcium Carbonate CALCIUM CARBONATE CALCIUM CATION LACTOSE ROUND DISSOLVABLE TABLETS WHITE DISSOLVABLE TABLETS
+dosage_and_administration:
+  For best results, do this: Take 3-5 tablets 3-4 times a day. If you weigh less than 100 lbs, use half a dose or take it as prescribed. Contraindications: Traditional Homeopathic formulations do not interact with other remedies, herbs, or other supplements.
+inactive_ingredient:
+  Inactive: Lactose Sugar Base to Preserve Remedy
+active_ingredient:
+  Active Ingredients: Calcium Carbonate 6X (HPUS)
+indications_and_usage:
+  Uses: Use the leaflet enclosed for detail.
+purpose:
+  Uses: Use the leaflet enclosed for detail.
+keep_out_of_reach_of_children:
+  Warnings and Storage: Ask a professional before use if pregnant or breast feeding or if you have severe symptoms. Keep away from children. If you have a reaction to this product that is not positive, discontinue use. Store in a cool and dry place. Packaging: 30gm jar standard quality packing.
+warnings:
+  Warnings and Storage: Ask a professional before use if pregnant or breast feeding or if you have severe symptoms. Keep away from children. If you have a reaction to this product that is not positive, discontinue use. Store in a cool and dry place. Packaging: 30gm jar standard quality packing.
+package_label_principal_display_panel:
+  Entire package label 4.jpg
+set_id:
+  2fab9f9f-ed4d-ff07-e063-6394a90a0b48
+id:
+  360cfdf2-0b27-2a60-e063-6294a90a885c
+effective_time:
+  20250526
+version:
+  2
+openfda:
+  brand_name:
+    Bestmade Natural Products Calcium Carbonate (Calc Carb)
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    Bestmade Natural Products
+  product_ndc:
+    82969-1028
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  spl_id:
+    360cfdf2-0b27-2a60-e063-6294a90a885c
+  spl_set_id:
+    2fab9f9f-ed4d-ff07-e063-6394a90a0b48
+  package_ndc:
+    82969-1028-1
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK

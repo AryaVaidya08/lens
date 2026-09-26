@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Tinted Lip Cream SPF 15 ZINC OXIDE POLYGLYCERYL-4 ISOSTEARATE STEARALKONIUM HECTORITE PROPYLENE CARBONATE KAOLIN DEHYDROACETIC ACID DIMER DILINOLEYL DIMER DILINOLEATE DIGLYCERYL SEBACATE/ISOPALMITATE TRIDECYL TRIMELLITATE GOAT MILK POLYGLYCERYL-3 PENTARICINOLEATE POLYHYDROXYSTEARIC ACID (2300 MW) TOCOPHEROL CORN OIL SYNTHETIC WAX (540 MW) HYDROGENATED POLYDECENE (1500 CST) CERESIN QUERCETIN LECITHIN, SUNFLOWER IRON OXIDES BIS-DIGLYCERYL POLYACYLADIPATE-2 PENTAERYTHRITYL TETRAISOSTEARATE DIISOSTEARYL MALATE BUTYLOCTYL SALICYLATE CAPRYLIC/CAPRIC TRIGLYCERIDE ETHYLHEXYL PALMITATE SILICA BEHENYL ACRYLATE POLYMER ISOSTEARIC ACID POLYGLYCERYL-2 TRIISOSTEARATE TITANIUM DIOXIDE ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active ingredient Zinc Oxide 9.82%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  USES Uses helps prevent sunburn If used as directed with other sun protection measures ( see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Directions Apply liberally 15 minutes before sun exposure Reapply: use a water resistant sunscreen if swimming or sweating at least every 2 hours Children under 6 months: Ask a doctor Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with Broad Spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10a.m.- 2p.m. Wear long-sleeved shirts, pants, hats and sunglasses
+inactive_ingredient:
+  Inactive ingredients: Hydrogenated Polydecene, Diisostearyl Malate, Ozokerite, Synthetic Wax, Caprylic/Capric Triglyceride, Ethylhexyl Palmitate, Butyloctyl Salicylate, Tridecyl Trimellitate, Bis-Diglyceryl Polyacyladipate-2, Pentaerylhrityl Tetraisostearate, Polyglyceryl-4 Isostearate, Dimer Dilinoleyl Dimer Dilinoleate, Diglyceryl Sebacate/lsopalmitate*, Moringa Oil/Hydrogenated Moringa Oil Esters, Polyhydroxystearic Acid, Silica, Caprae Lac (Goat Milk), Tocopherol (Vitamin E), Kaolin, Hydrogenated Vegetable Oil, Quercetin, Oleic/Linoleic/Linolenic Polyglycerides, Poly C10-30 Alkyl Acrylate, Isostearic Acid, Lecithin, Polyglyceryl-3 Polyricinoleate, Polyglyceryl-2 Triisostearate, Stearalkonium Hectorite, Propylene Carbonate, Dehydroacetic Acid, Iron Oxides (CI 77491), Iron Oxides (CI 77499), Iron Oxides (CI 77492), Titanium Dioxide (CI 77891), Carmine (CI 75470).
+package_label_principal_display_panel:
+  PP_SPICYNUDEY
+set_id:
+  29915354-4673-7444-e063-6294a90a0fd1
+id:
+  29916d31-62e5-753a-e063-6294a90a389a
+effective_time:
+  20241218
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Tinted Lip Cream SPF 15
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    COSMAX USA, CORPORATION
+  product_ndc:
+    68577-169
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    29916d31-62e5-753a-e063-6294a90a389a
+  spl_set_id:
+    29915354-4673-7444-e063-6294a90a0fd1
+  package_ndc:
+    68577-169-00
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

@@ -1,0 +1,46 @@
+spl_product_data_elements:
+  NITROGEN NITROGEN NITROGEN NITROGEN
+package_label_principal_display_panel:
+  NITROGEN NF COMPRESSED LABEL NITROGEN, COMPRESSED NF UN1066 Rx ONLY NON-FLAMMABLE GAS 2 GLA -32 Rx only. WARNING: Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications and side effects and the precautions to be taken. WARNING: CONTAINS GAS UNDER PRESSURE; MAY EXPLODE, IF HEATED, MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Use a back flow preventive device in the piping. Use only with equipment rated for cylinder pressure. Close valve after each use and when empty. Protect from sunlight when ambient temperature exceeds 52°C (125°F). Read and follow the Safety Data Sheet (SDS) before use. FIRST AID; IF INHALED; Remove person to fresh air and keep comfortable for breathing. Get medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL GILMORE LIQUID AIR COMPANY South El Monte, CA 91733 (626) 443-1361 HP NITROGEN LABEL
+  NITROGEN REFRIGERATED LIQUID Nitrogen, Refrigerated Liquid, NF UN1977 Rx ONLY NON-FLAMMABLE GAS 2 WARNING : Administration of Nitrogen may be hazardous or contraindicated. For use only by or under the supervision of a licensed practitioner who is experienced in the use and administration of Nitrogen and is familiar with the indications, effects, dosages, methods, and frequency and duration of administration, and with the hazards, contraindications, and side effects, and the precautions to be taken. WARNING: CONTAINS REFRIGERATED GAS; MAY CAUSE CRYOGENIC BURNS OR INUURY. MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION. Do not handle until all safety precautions have been read and understood. Use and store only outdoors or in a well-ventilated place. Wear cold insulating gloves, face shield, and eye protection. Use a back flow preventive device in the piping. DO NOT change or force fit connections. Close valve after each use and when empty. Always keep container in upright position. Read and follow the Safety Data Sheet (SDS) before use. FIRST AID: IF INHALED: Remove person to fresh air and keep comfortable for breathing. IF ON SKIN : Thaw frosted parts with lukewarm water. Do not rub affected area. Get immediate medical advice/attention. CAS: 7727-37-9 DO NOT REMOVE THIS PRODUCT LABEL. GILMORE LIQUID AIR COMPANY South El Monte, CA 91733 (626) 443-1361 GLA-33 E15 NITROGEN LIQUID LABEL
+set_id:
+  b9c7597b-3371-487e-9f63-eaf97660f364
+id:
+  3d01ba8c-107b-4ded-9f5a-1b55a6652d95
+effective_time:
+  20241021
+version:
+  10
+openfda:
+  application_number:
+    NDA205850
+  brand_name:
+    NITROGEN
+  generic_name:
+    NITROGEN
+  manufacturer_name:
+    Gilmore Liquid Air Co.
+  product_ndc:
+    51012-002
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    RESPIRATORY (INHALATION)
+  substance_name:
+    NITROGEN
+  rxcui:
+    311998
+  spl_id:
+    3d01ba8c-107b-4ded-9f5a-1b55a6652d95
+  spl_set_id:
+    b9c7597b-3371-487e-9f63-eaf97660f364
+  package_ndc:
+    51012-002-01
+    51012-002-02
+    51012-002-03
+    51012-002-04
+    51012-002-05
+  is_original_packager:
+    True
+  unii:
+    N762921K75

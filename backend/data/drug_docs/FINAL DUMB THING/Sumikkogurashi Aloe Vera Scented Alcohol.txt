@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Sumikkogurashi Aloe Vera Scented Alcohol CARBOMER 940 TROLAMINE GLYCEROL FORMAL ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  Ethyl Alcohol 75%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use To decrease bateria on hands
+warnings:
+  Warnings For external use only. Non Medical. Flammable. Keep away from high heat or flame When using this product, avoid contact with eyes. If contact occurs, rinse thoroughly with water
+stop_use:
+  Stop use and ask doctor if irritation occurs and redness develops or increases.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away
+dosage_and_administration:
+  Directions Rub a dime sied amount into hands
+inactive_ingredient:
+  Inactive ingredients Water, Carbomer, Triethanolamine, Glycerol, Aloe Extract
+package_label_principal_display_panel:
+  image description
+set_id:
+  4fa7fb5c-8ee6-4ff4-b7c9-13621b50da91
+id:
+  f6f149ea-384b-2718-e053-6394a90a25de
+effective_time:
+  20230314
+version:
+  3
+openfda:

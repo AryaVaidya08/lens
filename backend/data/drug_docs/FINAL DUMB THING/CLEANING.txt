@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  CLEANING WIPES BENZALKONIUM CHLORIDE PHENOXYETHANOL DECYL GLUCOSIDE ALOE VERA LEAF POTASSIUM SORBATE ALPHA-TOCOPHEROL ACETATE WATER BENZALKONIUM CHLORIDE BENZALKONIUM CITRIC ACID MONOHYDRATE ETHYLHEXYLGLYCERIN SODIUM BENZOATE GLYCERIN POLYSORBATE 20
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.2 % Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE Kills more than 99% of most common germs that may make you sick.
+warnings:
+  Warning For external use only May irritate eyes Keep out of reach of children unless under adult supervision Keep out of reach of children unless under adult supervision
+keep_out_of_reach_of_children:
+  Keep out of reach of children unless under adult supervision
+dosage_and_administration:
+  Directions Peel back seal Dispense wipe and clean Close seal after use to prevent drying out Do not flush into toilet After use, dispose of wipe in bin
+inactive_ingredient:
+  Inactive ingredients Phenoxyethanol; Ethylhexylglycerin;P olysorbate 20;DecyI Glucoside;Aloe Barbadensis Leaf Juice; Citric Acid;Glycerin;TocopheryI Acetate;Sodium Benzoate;Potassium Sorbate;Purified Water
+package_label_principal_display_panel:
+  1
+set_id:
+  a7a7349c-385d-6beb-e053-2995a90a5b4d
+id:
+  a7a75af7-a102-889a-e053-2995a90af606
+effective_time:
+  20200609
+version:
+  1
+openfda:

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Disinfectant and Sanitizer Chlorine Dioxide MAGNESIUM SULFATE DIHYDRATE SODIUM SULFATE ANHYDROUS SODIUM BISULFATE MONOHYDRATE CHLORINE DIOXIDE CHLORINE DIOXIDE SODIUM BICARBONATE SODIUM CHLORITE Disk None
+active_ingredient:
+  Active Ingredient(s) Chlorine Dioxide Purpose: Sanitizer.
+purpose:
+  Purpose Purpose: Sanitizer.
+indications_and_usage:
+  Use Hand or space sterilization to effectively reduce disease causing bacteria. Follow direction chart strictly. Instant hand sanitation to decrease bacteria on the skin. Eliminate bacteria through space sterilization to prevent virus infection.
+warnings:
+  Warnings For external use and space sterilization. DO NOT exceed five tablets in 1 quart of water (1 Tablets = 100 PPM. A high concentration of Chlorine dioxide (500 PPM per quart water) may cause irritation or discomfort. Avoid contact with eyes or drinking. In case of eye contact, rinse with plenty of water. DO NOT swallow. In case of ingestion, please see a doctor. Keep out of reach of children.
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Dissolve tablets into water for multi-purpose usage (the solution will turn yellowish-green: see direction chart for details). Space sterilization: spray ample amount in area that requires sterilization. For external use: apply to clean. Apply sufficient amount to thoroughly wet all surfaces of hands and fingers. Rub onto hands until dry.
+storage_and_handling:
+  Other information Keep away from direct sunlight and avoid excessive heat. Chlorine Dioxide may discolor certain fabrics.
+inactive_ingredient:
+  Inactive ingredients Sulfuric acid magnesium salt, Sodium Cholorite, Carbonic acid monosodium salt, Sulfuric acid monosodium salt monohydrate, Sulfuric acid disodium salt.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 50 Tablets, NDC: 81037-001-02 Front and Back Labels
+set_id:
+  b4555c2f-696d-7349-e053-2995a90ab1e1
+id:
+  d7a06025-6c22-514d-e053-2a95a90a278d
+effective_time:
+  20220209
+version:
+  3
+openfda:

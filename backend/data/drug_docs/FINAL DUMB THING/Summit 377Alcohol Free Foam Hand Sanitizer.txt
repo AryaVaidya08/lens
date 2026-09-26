@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Summit 377Alcohol Free Foam Hand Sanitizer Benzalkonium Chloride PROPYLENE GLYCOL PANTHENOL PHENOXYETHANOL GLYCERIN LAURAMINE OXIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER CITRIC ACID MONOHYDRATE water white - colorless, dispensed as a white foam
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use For hand washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only . When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Pump a small amount of foam into palm of the hand. Rub thoroughly over all surfaces of both hands. Rub hands briskly until dry.
+inactive_ingredient:
+  Inactive Ingredients Water, Glycerin, Propylene Glycol, Phenoxyethanol, Lauramine Oxide, Panthenol, Citric Acid
+package_label_principal_display_panel:
+  Package Label - 850 mL Cartridge (Front) Package Label - 850 mL Cartridge (Back)
+set_id:
+  50ae9765-2c2b-137f-e063-6294a90ae13a
+id:
+  50ae9765-2c2a-137f-e063-6294a90ae13a
+effective_time:
+  20260430
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Summit 377Alcohol Free Foam Hand Sanitizer
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    R.L. Williams Company
+  product_ndc:
+    23590-600
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1038799
+  spl_id:
+    50ae9765-2c2a-137f-e063-6294a90ae13a
+  spl_set_id:
+    50ae9765-2c2b-137f-e063-6294a90ae13a
+  package_ndc:
+    23590-600-10
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

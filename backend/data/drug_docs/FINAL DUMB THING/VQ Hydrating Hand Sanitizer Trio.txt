@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  VQ Hydrating Hand Sanitizer Trio alcohol VQ Hydrating Hand Sanitizer Salted Caramel alcohol WATER GLYCERIN GREEN 5 YELLOW 5 RED 4 ALOE BARBADENSIS LEAF JUICE ALCOHOL ALCOHOL VQ Hydrating Hand Sanitizer Toasted Marshmallow alcohol ALCOHOL ALCOHOL ALOE BARBADENSIS LEAF JUICE GLYCERIN WATER RED 4 VQ Hydrating Hand Sanitizer Cashmere Vanilla alcohol ALOE BARBADENSIS LEAF JUICE WATER YELLOW 5 RED 4 ALCOHOL ALCOHOL GLYCERIN GREEN 5
+spl_unclassified_section:
+  Drug Facts
+  Other information Store in a dry place below 110°F (43°C), out of sight and reach of children.
+  Distributed by: Tychea Co. 1330 Lagoon Ave, 4th floor, Minneapolis, MN 55408, USA Report serious adverse events to: 111 NE 1st St, 8th Floor, Miami, FL 33132, USA Contact: info@vqbeauty.com Made in China
+active_ingredient:
+  Active ingredient ethyl alcohol 67.5%
+purpose:
+  Purpose antiseptic
+indications_and_usage:
+  Use to help reduce bacteria on the skin
+warnings:
+  Warnings For external use only Flammable. Keep away from fire or flame. Do not use on open wounds When using this product keep out of eyes, ears, and mouth. In case of contact, rinse thoroughly with water. Do not inhale or ingest. Stop use and ask a doctor if irritation or rash occurs and persists Keep out of reach of children. If swallowed get medical help or call a poison control center right away.
+do_not_use:
+  Do not use on open wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact, rinse thoroughly with water. Do not inhale or ingest.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs and persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed get medical help or call a poison control center right away.
+dosage_and_administration:
+  Directions Apply a small amount to hands and rub together until dry. Supervise children under 6 years when using this product.
+inactive_ingredient:
+  Cashmere Vanilla Inactive ingredients Water, glycerine, fragrance, aloe barbadensis leaf juice, yellow 5 (CI 19140) red 4 (CI 14700), green 5 （CI 61570）
+  Toasted Marshmallow Inactive ingredients Water, glycerine, fragrance, aloe barbadensis leaf juice, red 4 (CI 14700)
+  Salted Caramel Inactive ingredients Water, glycerine, fragrance, aloe barbadensis leaf juice, yellow 5 (CI 19140), red 4 (CI 14700), green 5 （CI 61570）
+package_label_principal_display_panel:
+  VQ HYDRATING HAND SANITIZERS ETHYL ALCOHOL 67.5% 3 x 30 mL 1.01 fl oz. US kit label
+set_id:
+  557c60c0-08bc-9caf-e063-6294a90af8fb
+id:
+  557c60c0-08bd-9caf-e063-6294a90af8fb
+effective_time:
+  20260601
+version:
+  1
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    VQ Hydrating Hand Sanitizer Trio
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Tychea Co.
+  product_ndc:
+    85980-200
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    2746144
+  spl_id:
+    557c60c0-08bd-9caf-e063-6294a90af8fb
+  spl_set_id:
+    557c60c0-08bc-9caf-e063-6294a90af8fb
+  package_ndc:
+    85980-200-90
+  is_original_packager:
+    True

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  CLEAN CARE PLUS HAND SANITIZER alcohol GLYCERIN TROLAMINE WATER ALCOHOL ALCOHOL BUTYLENE GLYCOL
+active_ingredient:
+  ethanol
+inactive_ingredient:
+  Water, Glycerin, butylene glycol, carbomer, triethanolamine, rosmarinus officinalis (rosemary) leaf extract, paeonia suffruticosa bark extract, aloe barbadensis leaf extract, calendula officianalis flower extract
+purpose:
+  Antiseptic instant healthcare personnel hand antiseptic to reduce bacteria that potentially can cause disease instant hand antiseptic to decrease bacteria on the skin recommended for repeated use hand sanitizer to help reduce bacteria on the skin
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  Apply to clean, dry hands. Apply sufficient amount to thoroughly wet all surfaces of hands and fingers. Rub onto hands until dry. Supervise children in the use of this product. Dispense appropriate amount on your palm and thoroughly spread on both hands and rub into the skin until dry
+warnings:
+  For external use only. Flammable, keep away from fire or flame. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  a20c1e91-6c5e-5839-e053-2995a90ab3af
+id:
+  a373a0cf-8a19-c15f-e053-2a95a90abc6a
+effective_time:
+  20200416
+version:
+  2
+openfda:

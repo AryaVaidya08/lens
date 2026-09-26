@@ -1,0 +1,31 @@
+effective_time:
+  20191218
+inactive_ingredient:
+  Inactive ingredients citric acid, caramel, FD and C Red 40, flavor, glycerin, menthol, sodium saccharin, sodium benzoate, sorbitol, water
+purpose:
+  Purpose Expectorant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Do not use if you are hypersensitive to any of the ingredients Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis, or emphysema Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  GERI-TUSSIN EXPECTORANT Guaifenesin ANHYDROUS CITRIC ACID CARAMEL FD&C RED NO. 40 GLYCERIN MENTHOL SODIUM BENZOATE SACCHARIN SODIUM SORBITOL WATER GUAIFENESIN GUAIFENESIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions do not take more than 6 doses in any 24-hour period do not exceed recommended dose adults and children 12 years and over 2-4 teaspoonfuls every 4 hours children under 12 years ask a doctor
+storage_and_handling:
+  Other information • store at room temperature 15º - 30ºC (59º - 86ºF) • protect from freezing • protect from light • TAMPER EVIDENT: DO NOT USE THIS PRODUCT IF BREAKAWAY BAND ON CAP IS BROKEN OR MISSING
+package_label_principal_display_panel:
+  package Label GERICARE NDC 57896-793-16 GERI-TUSSIN (Guaifenesin syrup) loosens and relieves chest congestion expectorant sugar free alcohol free compare to the active ingredient of Robitussin 16 FL OZ (473 mL) Geri-tussin label
+indications_and_usage:
+  Uses helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive
+set_id:
+  1e5172ad-bc6b-4804-a5dc-74459255118c
+id:
+  9a0053c1-98dd-6e43-e053-2995a90acec5
+active_ingredient:
+  Active ingredient (per teaspoonful = 5mL) Guaifenesin, USP 100 mg
+dosage_and_administration_table:
+  <table border="1" width="427" ID="i4e408ad0-e3e0-4a85-853e-fba41174e06c"> <tbody> <tr> <td>adults and children 12 years and over   </td> <td>2-4 teaspoonfuls every 4 hours   </td> </tr> <tr> <td>children under 12 years   </td> <td>ask a doctor   </td> </tr> </tbody> </table>

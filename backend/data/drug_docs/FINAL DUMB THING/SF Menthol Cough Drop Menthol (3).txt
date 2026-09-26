@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  SF Menthol Cough Drop Menthol MENTHOL MENTHOL WATER Light Blue with Blue Flakes B
+active_ingredient:
+  Active ingredient (in each drop) Menthol 5.8 mg
+purpose:
+  Purpose Cough suppressant / Oral anesthetic
+indications_and_usage:
+  Uses temporarily relieves: cough as may occur with a cold occasional minor irritation and sore throat
+warnings:
+  Warnings Sore throat warning: if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, swelling, nausea, or vomiting, consult a doctor promptly. If sore mouth symptoms do not improve in 7 days, see your dentist or doctor promptly. These symptoms may be serious.
+ask_doctor:
+  Ask a doctor before use if you have: persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus)
+stop_use:
+  Stop use and ask doctor if cough persists for more than 7 days, tends to recur, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. sore throat is severe, or irritation, pain or redness lasts or worsens sore mouth does not improve in 7 days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions adults and children 5 years and over allow 1 drop to dissolve slowly in mouth. May be repeated every two hours as necessary or as directed by a doctor. children under 5 years ask a doctor
+other_safety_information:
+  Other information 6 calories per drop Excess consumption may cause a laxative effect
+inactive_ingredient:
+  Inactive ingredients: Acesulfame potassium (non-nutritive sweetener), corn starch, eucalyptus oil, FD&C blue no. 1, FD&C red no. 40, glycerin, gum arabic, isomalt, maltitol syrup, medium chain triglycerides, natural & artificial flavors, potassium sorbate, soybean oil, sucralose (non-nutritive sweetner) and water.
+questions:
+  Questions? Or to report an adverse event call 1-800-245-2898 . Monday - Friday, 9AM to 4PM EST
+package_label_principal_display_panel:
+  Leader SF Menthol 25ct Cough Drops
+set_id:
+  4a4e5287-a8d2-2b5b-e054-00144ff8d46c
+id:
+  081757dd-3a2b-2449-e063-6394a90a9c56
+effective_time:
+  20231019
+version:
+  4
+openfda:

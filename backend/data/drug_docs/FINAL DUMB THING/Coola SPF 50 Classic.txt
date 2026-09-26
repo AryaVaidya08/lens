@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Coola SPF 50 Classic Sunscreen Face Mist ALCOHOL POLYESTER-8 (1400 MW, CYANODIPHENYLPROPENOYL CAPPED) SAFFLOWER OIL ETHYLHEXYL METHOXYCRYLENE VINYL ACETATE ISOBORNYL ACRYLATE DIBUTYL MALEATE CAMELINA SATIVA SEED OIL DICAPRYL SUCCINATE BRASSICA RAPA SUBSP. OLEIFERA OIL GREEN TEA LEAF MAURITIA FLEXUOSA FRUIT OIL LEVOMENOL ETHYL FERULATE MEADOWFOAM SEED OIL OPUNTIA FICUS-INDICA FLOWER RASPBERRY SEED OIL GLYCYRRHIZA GLABRA WATER GLYCERIN BUTYLOCTYL SALICYLATE AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE
+active_ingredient:
+  Active Ingredients Avobenzone 2.9%, Octisalate 4.9%, Octocrylene 9.5%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only. Flammable: Do not store at temperatures above 120 F. Do not use in the presence of a flame or spark, or while smoking. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask doctor if skin rash occurs. .
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions SHAKE WELL before use. With your eyes completely closed, mist face evenly, holding bottle 10-12 inches away from face. Wait until dry. Apply liberally 15 minutes before sun exposure. Reapply: -After 80 minutes minutes of swimming or sweating -Immediately after towel drying -At least every 2 hours Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease the risk, regularly use a sunscreen with a broad-spectrum SPF of 15 or higher and other protection measures including: -Limit time in the sun, especially from 10 a.m. – 2 p.m. -Wear long sleeves shirts, pants, hats, and sunglasses. Children under 6 months: Ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients Alcohol (ORGANIC), Butyloctyl Salicylate, Ethylhexyl Methoxycrylene, Polyester-8, Fragrance (Natural), VA/Butyl Maleate/Isobornyl Acrylate Copolymer, Carthamus Tinctorius (Safflower) Seed Oil (ORGANIC), Rubus Idaeus (Raspberry) Seed Oil (ORGANIC), Mauritia Flexuosa (Buriti) Fruit Oil (ORGANIC), Limnanthes Alba (Meadowfoam) Seed Oil, Brassica Campestris (Rapeseed) Seed Oil, Camellia Sinensis Leaf Extract (ORGANIC),Glycyrrhiza Glabra (Licorice) Root Extract (ORGANIC), Opuntia Ficus-Indica Flower Extract, Camelina Sativa Seed Oil, Bisabolol (ORGANIC), Glycerin (ORGANIC), Water, Ethyl Ferulate, Diisooctyl Succinate
+other_safety_information:
+  Other Information Protect this product from excessive heat and direct sun
+questions:
+  Questions or Comments Call 760-940-2125
+package_label_principal_display_panel:
+  Package Label CLA SPF 50 Facial Sunscreen Mist
+set_id:
+  d18d0dac-5690-436e-e053-2995a90a0254
+id:
+  29b70f22-a6e1-4c0b-e063-6294a90a8d1d
+effective_time:
+  20241220
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Coola SPF 50 Classic
+  generic_name:
+    SUNSCREEN FACE MIST
+  manufacturer_name:
+    COOLA LLC
+  product_ndc:
+    79753-033
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    29b70f22-a6e1-4c0b-e063-6294a90a8d1d
+  spl_set_id:
+    d18d0dac-5690-436e-e053-2995a90a0254
+  package_ndc:
+    79753-033-01
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    4X49Y0596W
+    5A68WGF6WM

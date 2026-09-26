@@ -1,0 +1,76 @@
+spl_product_data_elements:
+  Goodsense maximum strength Stomach Relief 528 Bismuth subsalicylate BISMUTH SUBSALICYLATE SALICYLIC ACID BENZOIC ACID D&C RED NO. 22 D&C RED NO. 28 POTASSIUM HYDROXIDE WATER SACCHARIN SODIUM SALICYLIC ACID HYDROXYETHYL CELLULOSE (1500 MPA.S AT 1%) DIMETHICONE XANTHAN GUM
+active_ingredient:
+  ACTIVE INGREDIENT(in each 30 mL) Bismuth subsalicylate 1050 mg
+purpose:
+  PURPOSE Upset stomach reliever and anti-diarrheal
+indications_and_usage:
+  USE(S) relieves: diarrhea heartburn indigestion nausea upset stomach associated with these symptoms
+warnings:
+  WARNINGS Reye's Syndrome: Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye's Syndrome, a rare but serious illness. ________________________________________________________________________________________________________________________ Allergy alert: Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products
+do_not_use:
+  DO NOT USE IF YOU HAVE an ulcer bloody or black stool a bleeding problem
+ask_doctor:
+  ASK A DOCTOR BEFORE USE IF YOU HAVE fever mucus in the stool
+ask_doctor_or_pharmacist:
+  ASK A DOCTOR OR PHARMACIST BEFORE USE IF YOU ARE taking any drug for anticoagulation (thinning of the blood) diabetes gout arthritis
+when_using:
+  WHEN USING THIS PRODUCT a temporary, but harmless darkening of the stool and/or tongue may occur
+stop_use:
+  STOP USE AND ASK DOCTOR IF symptoms get worse ringing in the ears or loss of hearing occurs diarrhea lasts more than 2 days
+pregnancy_or_breast_feeding:
+  IF PREGNANT OR BREAST-FEEDING, ask a health professional before use.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN In case of overdose, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  DIRECTIONS shake well before use mL = milliliter TBSP = tablespoon adults and children 12 years and over: 1 dose (2 TBSP or 30 mL) every hour as needed do not exceed 4 doses (8 TBSP or 120 mL) in 24 hours use until diarrhea stops but not more than 2 days children under 12 years: ask a doctor drink plenty of fluids to help prevent dehydration caused by diarrhea
+storage_and_handling:
+  OTHER INFORMATION each 30 mL or 2 TBSP contains: potassium 15 mg salicylate 471 mg sodium 8 mg protect from freezing avoid excessive heat (over 104 o F or 40 o C) dosage cup provided
+inactive_ingredient:
+  INACTIVE INGREDIENTS benzoic acid, D&C red # 22, D&C red # 28, flavor, hydroxyethyl cellulose, potassium hydroxide, purified water, saccharin sodium, salicylic acid, simethicone, xanthan gum.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NDC 50804-154-04 GOODSENSE ® Maximum Strength Stomach Relief Bismuth Subsalicylate 1050 mg Antidiarrheal / Upset Stomach Reliever Soothing Relief For 5 Symptoms Upset Stomach Indigestion Heartburn Nausea Diarrhea *Compare to the active ingredient of Pepto-Bismol ® Maximum Strength 8 FL OZ (236 mL) 528-goodsense.jpg
+set_id:
+  19a4191a-6196-f8ac-e063-6394a90a47ab
+id:
+  c0b2097e-f207-4de0-b000-add6f5bfdae4
+effective_time:
+  20240917
+version:
+  2
+openfda:
+  application_number:
+    M008
+  brand_name:
+    Goodsense maximum strength Stomach Relief 528
+  generic_name:
+    BISMUTH SUBSALICYLATE
+  manufacturer_name:
+    Good Sense (Geiss, Destin & Dunn, Inc.)
+  product_ndc:
+    50804-154
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BISMUTH SUBSALICYLATE
+  rxcui:
+    308763
+  spl_id:
+    c0b2097e-f207-4de0-b000-add6f5bfdae4
+  spl_set_id:
+    19a4191a-6196-f8ac-e063-6394a90a47ab
+  package_ndc:
+    50804-154-04
+  is_original_packager:
+    True
+  nui:
+    M0002611
+    N0000180183
+  pharm_class_cs:
+    Bismuth [CS]
+  pharm_class_epc:
+    Bismuth [EPC]
+  unii:
+    62TEY51RR1

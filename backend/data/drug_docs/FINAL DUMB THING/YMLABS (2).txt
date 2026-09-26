@@ -1,0 +1,24 @@
+spl_product_data_elements:
+  YMLABS SPF30 FLAVORED LIP BALM MERADIMATE MERADIMATE OCTINOXATE OCTINOXATE OCTISALATE OCTISALATE OXYBENZONE OXYBENZONE PETROLATUM CERESIN WHITE WAX MINERAL OIL COCONUT OIL SACCHARIN ALPHA-TOCOPHEROL ACETATE PHENYL TRIMETHICONE
+spl_unclassified_section:
+  SPF 30 Sunscreen Uses : Helps prevent sunburn. Directions : Apply evenly, 15 minutes before sun exposure. Other : Protect this product from excessive heat & direct sun. Warnings : For external use only. Children under 6 months: Ask a doctor. Drug Facts net wt 4.2g Active Ingredients Purpose Meradimate (5%)...........Sunscreen Octinoxate (7.5%).............Sunscreen Octisalate (5%)..............Sunscreen Oxybenzone (5%)...........Sunscreen Made in the USA Distributed by <Vendor, City, ST>
+  Drug Facts (continued) Uses : • Helps prevent sunburn • Higher SPF gives more sunburn protection.
+warnings:
+  Warnings : For external use only. When using this product: • Keep out of eyes • Rinse with water to remove • Stop use and ask a doctor if rash or irritation develops and lasts.
+instructions_for_use:
+  Directions: • Apply evenly 15 minutes before sun exposure and as needed • Reapply at least every 2 hours • Children under 6 months of age: ask a doctor.
+inactive_ingredient:
+  Inactive Ingredients: Petrolatum, Ozokerite, Beeswax, Mineral Oil, Coconut Oil, Flavor, Saccharin, Phenyl Trimethicone, Safflower Seed Oil, Aloe Oil, Vitamin E Acetate
+other_safety_information:
+  Other Information: Moderate sun protection product • Sun Alert: Limiting sun exposure, wearing protective clothing, and using sunscreens may reduce the risks of skin aging, skin cancer, and other harmful effects of the sun. Questions? 877.827.5425
+package_label_principal_display_panel:
+  SPF30 Flavored Lip Balm Template
+set_id:
+  739fcb06-e32c-42a3-98a8-7eab8faab219
+id:
+  5e061b0b-dead-475d-a304-51d34afc6c2d
+effective_time:
+  20220125
+version:
+  1
+openfda:

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Selenite 8147 Selenite SELENITE ION SELENITE ION ALCOHOL WATER
+active_ingredient:
+  ACTIVE INGREDIENTS Selenite 6X, 8X, 12X, 30X
+questions:
+  QUESTIONS Professional Formulas PO Box 2034 Lake Oswego, OR 97035
+indications_and_usage:
+  INDICATIONS Temporarily relieves mood swings, confusion, feeling of inadequacy, jealousy, or self-doubt.*
+purpose:
+  *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS In case of overdose, get medical help or contact a poison control center right away. Keep out of the reach of children. If pregnant or breastfeeding, ask a healthcare professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a healthcare professional before use.
+dosage_and_administration:
+  DIRECTIONS Place drops under tongue 30 minutes before/after meals. Adults and children 12 years and over: Take 10 drops up to 3 times per day. Consult a physician for use in children under 12 years of age.
+other_safety_information:
+  OTHER INFORMATION Tamper resistant. If seal is broken, do not use. After opening, close container tightly and store at room temperature away from heat.
+inactive_ingredient:
+  INACTIVE INGREDIENTS 20% ethanol, purified water.
+package_label_principal_display_panel:
+  LABEL Est 1985 Professional Formulas Complementary Health Selenite Homeopathic Remedy 2 FL. OZ. (59 mL) Label image
+set_id:
+  8d6e9928-a26e-40a7-871c-50cb6aaabe62
+id:
+  a31357db-4366-43e1-aca5-494e6f27c45c
+effective_time:
+  20260108
+version:
+  2
+openfda:

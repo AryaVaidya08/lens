@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  YMLABS CITRUS HAND SANITIZER ALCOHOL ALCOHOL WATER CARBOMER HOMOPOLYMER TYPE A TROLAMINE LEMON OIL, DISTILLED
+indications_and_usage:
+  DIRECTIONS : Spray a small amount into palm of hand. Rub together until dry. If pump does not actuate, press and depress pump very slowly to prime.
+warnings:
+  WARNINGS: For External Use Only. FLAMMABLE - Do not use near heat, fire, flame or while smoking. *Do not store where temperature exceeds 105°F. Do not get in eyes. In case of eye contact flush with water. *Do not Inhale or Ingest. If swallowed, get medical help or contact poison control immediately. *Stop use and ask a doctor if skin irritation develops. *KEEP OUT OF REACH OF CHILDREN.
+keep_out_of_reach_of_children:
+  *KEEP OUT OF REACH OF CHILDREN.
+active_ingredient:
+  Drug Facts Active ingredients Purpose Ethyl Alcohol (62%).......Sanitizer
+purpose:
+  USES : Decreases Bacteria on the hands.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water, Carbomer, Medica Limonum (Lemon) Oil, Treithanolamine.
+spl_unclassified_section:
+  Made In USA Distributed by <Vendor, City, ST> Questions? 877.827.5425 NEVER Tested On Animals.
+dosage_and_administration:
+  Drug FactsActive ingredients Purpose Ethyl Alcohol (62%).......Sanitizer DIRECTIONS : Spray a small amount into palm of hand. Rub together until dry. If pump does not actuate, press and depress pump very slowly to prime.
+package_label_principal_display_panel:
+  YML GEL HAND SANITIZER CITRUS
+set_id:
+  447e7757-deb8-4f27-b8c8-1377860cca60
+id:
+  a8bf7011-b617-4a8a-94e4-efe7fb5d1979
+effective_time:
+  20220202
+version:
+  1
+openfda:

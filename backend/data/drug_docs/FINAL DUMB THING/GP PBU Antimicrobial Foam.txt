@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  GP PBU Antimicrobial Foam Benzalkonium Chloride SODIUM PYRROLIDONE CARBOXYLATE LAURAMINE OXIDE LAURYL BETAINE GLYCERIN LAURTRIMONIUM CHLORIDE EDETATE SODIUM FD&C YELLOW NO. 6 OLETH-10 FD&C RED NO. 40 ANHYDROUS CITRIC ACID WATER BENZALKONIUM CHLORIDE BENZALKONIUM .ALPHA.-TOCOPHEROL ACETATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Benzalkonium chloride, 0.13%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Handwash to help reduce bacteria that potentially can cause disease.
+warnings:
+  Warnings For external use only When using this product Avoid contact with the eyes. In case of eye contact, flush with water. Stop use if irritation or redness developes. If condition persists for more than 72 hours consult a doctor. Keep out of reach of children If swallowed, seek immediate medical attention or call a poison control center.
+when_using:
+  When using this product Avoid contact with the eyes. In case of eye contact, flush with water.
+stop_use:
+  Stop use if irritation or redness developes. If condition persists for more than 72 hours consult a doctor.
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, seek immediate medical attention or call a poison control center.
+dosage_and_administration:
+  Directions Wet hands, apply soap, rub hands togetehr vigorously for at least 20 seconds. Rinse and dry hands thoroughly.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Lauramine Oxide, Lauryl Betaine, Glycerin, Laurtrimonium Chloride, Sodium PCA, Tocopheryl Acetate, Oleth-10, Tetrasodium EDTA, Citric Acid, Red 40, Yellow 6, Fragrance
+package_label_principal_display_panel:
+  1 2
+set_id:
+  c8d09207-d152-5abc-e053-2a95a90aaf92
+id:
+  177d9c37-c7ef-20f8-e063-6294a90a35b5
+effective_time:
+  20240502
+version:
+  2
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    GP PBU Antimicrobial Foam
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Georgia Pacific Consumer Products
+  product_ndc:
+    54622-313
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1046593
+  spl_id:
+    177d9c37-c7ef-20f8-e063-6294a90a35b5
+  spl_set_id:
+    c8d09207-d152-5abc-e053-2a95a90aaf92
+  package_ndc:
+    54622-313-01
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

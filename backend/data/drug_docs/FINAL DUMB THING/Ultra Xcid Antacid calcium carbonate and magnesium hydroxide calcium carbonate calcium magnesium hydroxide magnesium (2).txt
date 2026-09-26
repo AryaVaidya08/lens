@@ -1,0 +1,43 @@
+effective_time:
+  20091228
+inactive_ingredient:
+  Inactive ingredients cocoa powder, corn starch, flavor, glycerin, microcrystalline cellulose, purified water, sodium carboxymethyl cellulose, sodium methylparaben, sorbitol, sugar, xanthan gum
+purpose:
+  Active ingredients (in each 5g = 1 teaspoon) Purpose Calcium Carbonate 750mg Antacid Magnesium Hydroxide 135mg Antacid
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+warnings:
+  Warnings Ask a doctor before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs. When using this product Do not take more than 10 teaspoons (50 grams) in a 24-hour period, or use the maximum dosage for more than two weeks, except under the advice and supervision of a physician You may experience a laxative effect Stop use and ask doctor if Symptoms last more than two weeks Keep out of reach of children.
+when_using:
+  When using this product Do not take more than 10 teaspoons (50 grams) in a 24-hour period, or use the maximum dosage for more than two weeks, except under the advice and supervision of a physician You may experience a laxative effect
+questions:
+  Questions? Comments? Call 877-942-2626 toll-free.
+spl_product_data_elements:
+  Ultra Xcid Antacid calcium carbonate and magnesium hydroxide calcium carbonate calcium magnesium hydroxide magnesium
+ask_doctor:
+  Ask a doctor before use if you are presently taking a prescription drug. Antacids may interact with certain prescription drugs.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Open cap. Squeeze out one to two teaspoons (5 to 10 grams) per dose. Take between meals, at bedtime, or as directed by a doctor. Children under 12 years of age, ask a doctor.
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask doctor if Symptoms last more than two weeks
+storage_and_handling:
+  Other information Each teaspoon contains: calcium 300 mg, magnesium 56 mg. Do not use if sealed carton was open or damaged prior to purchase. Store at room temperature 15° C-29° C (59° F-84° F). Do not freeze.
+active_ingredient_table:
+  <table width="60%"> <col width="80%" align="left" valign="top"/> <col width="20%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients  (in each 5g = 1 teaspoon)</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Calcium Carbonate 750mg</td> <td>Antacid</td> </tr> <tr styleCode="Botrule"> <td>Magnesium Hydroxide 135mg</td> <td>Antacid</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 200 g Carton NDC 62750-024-10 Up to 40 Doses NEW! Ultra XCID ™ ANTACID FAST-ACTING RELIEF Creamy, Non-Chalky Taste Milk Chocolate Soother From the makers of ZICAM ® Net Wt 7.1 oz (200 g) Principal Display Panel - 200 g Carton
+indications_and_usage:
+  Uses for the relief of: Acid indigestion Heartburn Sour stomach Upset stomach associated with these symptoms Overindulgence in food and drink
+set_id:
+  a4371604-8ea2-4759-afbb-428751c0b465
+id:
+  cfd99e67-6961-474c-b316-c9b2c19cc73c
+purpose_table:
+  <table width="60%"> <col width="80%" align="left" valign="top"/> <col width="20%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold italics">Active ingredients  (in each 5g = 1 teaspoon)</content> </td> <td> <content styleCode="bold italics">Purpose</content> </td> </tr> <tr> <td>Calcium Carbonate 750mg</td> <td>Antacid</td> </tr> <tr styleCode="Botrule"> <td>Magnesium Hydroxide 135mg</td> <td>Antacid</td> </tr> </tbody> </table>
+active_ingredient:
+  Active ingredients (in each 5g = 1 teaspoon) Purpose Calcium Carbonate 750mg Antacid Magnesium Hydroxide 135mg Antacid

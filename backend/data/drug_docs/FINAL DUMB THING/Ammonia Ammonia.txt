@@ -1,0 +1,35 @@
+effective_time:
+  20130211
+inactive_ingredient:
+  Inactive ingredients Alcohol USP, FDC red dye 40, lavender oil fcc, lemon oil fcc, nutmeg oil fcc, purified water usp
+purpose:
+  Purpose Inhalant
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Keep away from the Eyes. For external use only Stop use and ask a doctor if condition persists Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions Questions? Call 1-866-390-4411 Mon - Fri 9:00 AM - 5:00 PM
+spl_product_data_elements:
+  Ammonia Ammonia AMMONIA AMMONIA ALCOHOL FD&C RED NO. 40 LAVENDER OIL WATER NUTMEG OIL LEMON OIL
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Directions: hold inhalant away from face and crush between thumb and forefinger. Carefully approach crushed inhalant to nostrils of affected person.
+stop_use:
+  Stop use and ask a doctor if condition persists
+spl_unclassified_section:
+  Other information Store at room temperature away from light.
+storage_and_handling:
+  Storage Store at 20ºC to 25ºC (68ºF to 77ºF)
+package_label_principal_display_panel:
+  Principal Display Panel Ammonia Inhalant 10 inhalants NDC 54868-2525-0 Each ampule contains 0.33 mL Alcohol 35% - Ammonia 15% Additional barcode labeling by: Physicians Total Care, Inc. Tulsa, Oklahoma 74146 package label
+indications_and_usage:
+  Use(s) To prevent or treat fainting
+set_id:
+  afc0c5bc-738f-4a19-97e7-6955c0c73203
+id:
+  e7e9da68-072f-424f-b781-6ba572d52d16
+active_ingredient:
+  Active ingredient(s) Ammonia (15%)

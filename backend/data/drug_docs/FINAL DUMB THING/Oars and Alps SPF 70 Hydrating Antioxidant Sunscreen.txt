@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Oars and Alps SPF 70 Hydrating Antioxidant Sunscreen Avobenzone, Homosalate, Octisalate, Octocrylene BUTYLOCTYL SALICYLATE TETRAHEXYLDECYL ASCORBATE ALCOHOL ETHYL FERULATE GRAPEFRUIT OIL CLADONIA RANGIFERINA WHOLE DIISOPROPYL ADIPATE SUNFLOWER OIL AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE TOCOPHEROL ETHYLHEXYL METHOXYCRYLENE ACRYLATE/ISOBUTYL METHACRYLATE/N-TERT-OCTYLACRYLAMIDE COPOLYMER (75000 MW)
+active_ingredient:
+  Avobenzone - 2.9% Homosalate - 9.8% Octisalate - 4.9% Octocrylene - 9.5%
+purpose:
+  Sunscreen
+indications_and_usage:
+  Uses • Helps prevent sunburn • If used as directed with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  For external use only. Flammable. Contents under pressure. Keep away from fire, smoke, other sources of ignition or while smoking. Do not puncture of incinerate can. Do not store above 120 F. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply generously and evenly 15 minutes before sun exposure Hold container 4-6 inches from the skin to apply Do not spray directly onto the face. Spray onto hands and rub onto face. Do not inhale. Do not apply in windy conditions. Use in well ventilated area. Reapply: After 80 minutes of swimming or sweating, immedately after towl drying, at least every 2 hours. Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: • Limit time in the sun especially from 10 a.m. – 2 p.m. • Wear long-sleeved shirts, pants, hats, and sunglasses.​ Children under six months: Ask a doctor.
+inactive_ingredient:
+  Acrylates/Octylacrylamide Copolymer, Alcohol Denat., Butyloctyl Salicylate, Citrus Paradisi (Grapefruit) Peel Oil, Cladonia Stellaris Extract, Diisopropyl Adipate, Ethyl Ferulate, Ethylhexyl Methoxycrylene, Fragrance, Helianthus Annuus (Sunflower) Seed Oil, Tetrahexyldecyl Ascorbate, Tocopherol
+other_safety_information:
+  Protect the product in this container from excessive heat and direct sun Avoid spraying on facbrics - may cause discoloration
+questions:
+  Contact Hi@oarsandalps.com
+package_label_principal_display_panel:
+  1
+set_id:
+  f39673a7-0b62-bdf7-e053-2995a90aa2b7
+id:
+  29b75a27-e8ec-4e4d-e063-6294a90a1983
+effective_time:
+  20241220
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Oars and Alps SPF 70 Hydrating Antioxidant Sunscreen
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    Oars and Alps LLC
+  product_ndc:
+    83046-370
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    29b75a27-e8ec-4e4d-e063-6294a90a1983
+  spl_set_id:
+    f39673a7-0b62-bdf7-e053-2995a90aa2b7
+  package_ndc:
+    83046-370-13
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

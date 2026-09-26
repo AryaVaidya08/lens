@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SALARIUM GUERANDE SALT PremiumToothpaste Sodium fluoride SILICON DIOXIDE SODIUM LAURYL SULFATE SODIUM CHLORIDE TITANIUM DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM SODIUM FLUORIDE FLUORIDE ION WATER POLYETHYLENE GLYCOL 1500 SORBITOL SACCHARIN SODIUM PYRIDOXINE HYDROCHLORIDE EDETATE DISODIUM XANTHAN GUM
+active_ingredient:
+  Active ingredient Sodium fluoride 0.22%
+indications_and_usage:
+  Use Aids in the prevention of dental decay.
+warnings:
+  Warnings Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions ■ Adults and children 2 years of age a nd older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. ■ Children under 6 years: Instruct in good brushing and rinsing habits (to minimize swallowing). Use only a pea-sized amount. ■ Children under 2 years of age: Consult a dentist or doctor. ■ Supervise children as necessary until capable of using without supervision.
+purpose:
+  Purpose Anticavity
+inactive_ingredient:
+  Inactive ingredients Liquid Sorbitol, Dental-Type Silica, Water, Sodium Lauryl Sulfate, Flavor, Sodium Chloride, PEG 1500, Carboxymethyl Cellulose Sodium, Saccharin Sodium Hydrate, Xanthan Gum, Pyridoxin Hydrochloride (Vitamin B6), Solar Salt, Edetate Disodium, Titanium Dioxide
+package_label_principal_display_panel:
+  67225-1103-2
+set_id:
+  c0742185-5743-c7d7-e053-2a95a90a6048
+id:
+  dedb2c50-db65-5817-e053-2995a90a76fa
+effective_time:
+  20220512
+version:
+  2
+openfda:

@@ -1,0 +1,31 @@
+effective_time:
+  20151218
+inactive_ingredient:
+  Inactive Ingredients Balsam tolu, benzyl alcohol, citric acid, FD C blue no.1, FD Cred no.3, FD C red no. 4, flavors, glucose syrup, sodium acetate, sodium chloride, sucrose, water
+purpose:
+  Purpose Oral Demulcent
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of the reach of children.
+warnings:
+  Warnings Sore throat warning: Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a doctor promptly. Do not use more than 2 days or administer to children under 5 years of age unless directed by a doctor. Ask a doctor before use if you have: persistent or chronic cough such as occurs with smoking, asthma, or emphysema cough accompanied by excessive phlegm (mucus). Stop use and ask a doctor if sore throat is severe, or irritation, pain or redness lasts or worsens. sore mouth does not improve in 7 days. Keep this and all drugs out of the reach of children.
+spl_product_data_elements:
+  SMITH BROS WILD CHERRY Throat Drops PECTIN TOLU BALSAM BENZYL ALCOHOL CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 FD&C RED NO. 3 FD&C RED NO. 40 CORN SYRUP SODIUM ACETATE SODIUM CHLORIDE SUCROSE WATER PECTIN PECTIN Translucent Dark Red SB;1
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Adults and children 5 years and over Allow 1 drop to dissolve slowly in mouth; may be repeated every two hours or as directed by a doctor. Under 5 years old Consult a doctor.
+spl_unclassified_section:
+  SMITH BROS WILD CHERRY Throat Drops
+storage_and_handling:
+  Other Information Store at 20 degrees to 25 degrees C (68 degrees to 77 degrees F) in a dry place
+package_label_principal_display_panel:
+  SMITH BROS WILD CHERRY Throat Drops 14 Drops (76461-910-14) Label
+indications_and_usage:
+  Uses temporarily relieves minor discomfort and protection of irritated areas in sore mouth and sore throat
+set_id:
+  779ef5ae-3385-47cb-8ee3-f8e8904b8f7d
+id:
+  27307377-562e-2e3a-e054-00144ff88e88
+active_ingredient:
+  Active Ingredients (per drop) Pectin 1.7mg

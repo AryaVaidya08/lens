@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  myabetic Alcohol Prep Pads Alcohol WATER ALCOHOL ALCOHOL
+spl_unclassified_section:
+  DRUG FACTS
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses: For preparation of the skin prior to an injection.
+dosage_and_administration:
+  Directions Apply alcohol as needed to clean intended area. Discard after single use. Storage: Keep at room temperature.
+warnings:
+  For external use only. Flammable, keep away from heat and flame. Do not use: with electrocautery procedures or in eyes. Stop use: If redness or irritation develops. If condition continues for more than 72 hours, consult a physician. Keep out of reach of children. If ingested, do not induce vomiting. Get medical help or contact a Poison Control Center immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If ingested, do not induce vomiting. Get medical help or contact a Poison Control Center immediately.
+inactive_ingredient:
+  Inactive Ingredients: Purified Water
+package_label_principal_display_panel:
+  Principal Display Panel
+set_id:
+  71001cac-e6f7-4b05-88c6-e65abfd69e84
+id:
+  f60c7828-29ca-aa0c-e053-2995a90a84af
+effective_time:
+  20230303
+version:
+  74
+openfda:

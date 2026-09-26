@@ -1,0 +1,30 @@
+effective_time:
+  20121107
+inactive_ingredient:
+  Inactive ingredients sorbitol, water, hydrated silica, sodium lauryl sulfate, sodium carboxymethyl cellulose, flavor, sodium saccharine, sodium methyl paraben, sodium propyl Paraben.
+purpose:
+  Purpose Anticavity toothpaste
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age. If more than used for brushing is accidently swallowed, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warning Keep out of the reach of children under 6 years of age. If more than used for brushing is accidently swallowed, get medical help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  AmerFresh Sodium Fluoride Sodium Fluoride Fluoride Ion Sorbitol Water Hydrated Silica Sodium Lauryl Sulfate Carboxymethylcellulose Sodium Saccharin Sodium Methylparaben Sodium Propylparaben Sodium
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions do not swallow supervise children as necessary until capable of using without supervision Instruct children under 12 years of age in good brushing and rinsing habits (to minimize swallowing). Adults and children 6 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or a doctor. Children under 2 years of age: Consult a dentist or doctor
+spl_unclassified_section:
+  Drug Facts
+  Exclusive Distributor: AMERCARE Products Inc., Seattle., WA 98165-2226.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 85g Tube Label AMERFRESH ® FLUORIDE Gel TOOTHPASTE NET WT. 3 oz (85g) PRINCIPAL DISPLAY PANEL - 85g Tube Label
+indications_and_usage:
+  Use aids in the prevention of dental cavities
+set_id:
+  7d12eab2-ad71-4743-9c47-2f3b3bc2aa81
+id:
+  f4796a85-7502-4122-92d5-4c8af32d3273
+active_ingredient:
+  Active ingredient Sodium Fluoride 0.22% (0.1% w/v fluoride ion)

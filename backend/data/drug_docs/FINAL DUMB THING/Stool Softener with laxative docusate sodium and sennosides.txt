@@ -1,0 +1,42 @@
+spl_product_data_elements:
+  Stool Softener with laxative docusate sodium and sennosides DOCUSATE SODIUM DOCUSATE SENNOSIDES SENNOSIDES CARNAUBA WAX CROSCARMELLOSE SODIUM DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C RED NO. 40 HYPROMELLOSES MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYETHYLENE GLYCOL, UNSPECIFIED SILICON DIOXIDE SODIUM BENZOATE STEARIC ACID TALC TITANIUM DIOXIDE ALUMINUM OXIDE FD&C BLUE NO. 2 TCL097;PSD21;S44
+active_ingredient:
+  Active ingredients (in each tablet) Docusate sodium 50 mg Sennosides 8.6 mg
+purpose:
+  Purpose Stool softener Stimulant laxative
+indications_and_usage:
+  Uses for overnight relief from occasional constipation (irregularity) generally produces bowel movement in 6 to12 hours
+warnings:
+  Warnings Do not use laxative products for longer than 1 week unless directed by a doctor if you are now taking mineral oil, unless directed by a doctor Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over a period of 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use laxative products for longer than 1 week unless directed by a doctor if you are now taking mineral oil, unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have stomach pain nausea vomiting noticed a sudden change in bowel habits that lasts over a period of 2 weeks
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Take only by mouth. Doses may be taken as a single daily dose, preferably in the evening, or in divided doses. adults and children 12 years and older take 2-4 tablets daily children 6 to under 12 years of age take 1-2 tablets daily children 2 to under 6 years of age take up to 1 tablet daily children under 2 ask a doctor
+dosage_and_administration_table:
+  <table><col width="1px"/><col width="1px"/><tbody><tr><td styleCode=" Toprule">adults and children 12 years and older</td><td styleCode=" Toprule Lrule">take 2-4 tablets daily </td></tr><tr><td styleCode=" Toprule">children 6 to under 12 years of age</td><td styleCode=" Toprule Lrule">take 1-2 tablets daily </td></tr><tr><td styleCode=" Toprule">children 2 to under 6 years of age </td><td styleCode=" Toprule Lrule">take up to 1 tablet daily </td></tr><tr><td styleCode=" Toprule">children under 2 </td><td styleCode=" Toprule Lrule">ask a doctor </td></tr></tbody></table>
+other_safety_information:
+  Other information each tablet contains : calcium 30 mg each tablet contains : sodium 6 mg VERY LOW SODIUM store at 25ºC (77ºF); excursions permitted between 15-30ºC (59-86ºF)
+inactive_ingredient:
+  Inactive ingredients carnauba wax*, croscarmellose sodium, dibasic calcium phosphate dihydrate, FD&C blue #2 aluminum lake, FD&C red #40 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol*, silcon dioxide, sodium benzoate*, stearic acid, talc*, titanium dioxide *contains one or more of these ingredients
+questions:
+  Questions or comments? Call 1-877-753-3935 Monday-Friday 9AM-5PM EST
+package_label_principal_display_panel:
+  Principal Display Panel Compare to the active ingredients in Colace® 2-IN-1† Stool Softener and Stimulant Laxative Docusate sodium 50 mg Sennosides 8.6 mg A Gentle, Predictable Laxative tablets † This product is not manufactured or distributed by Avrio Health L.P., distributor of Colace® 2-IN-1. TAMPER EVIDENT: DO NOT USE IF PRINTED SAFETY SEAL UNDER CAP IS BROKEN OR MISSING. Distributed by AmerisourceBergen 1300 Morris Drive Chesterbrook, PA 19087 www.mygnp.com
+  Product Label GOOD NEIGHBOR PHARMACY Stool Softener and Stimulant Laxative Docusate Sodium 50 mg, Sennosides 8.6 mg
+set_id:
+  0cf2f610-bff4-48b8-b640-2c3c708a47a8
+id:
+  c2db13b1-eca2-440b-acf2-70f20d328c64
+effective_time:
+  20230320
+version:
+  5
+openfda:

@@ -1,0 +1,29 @@
+effective_time:
+  20181129
+inactive_ingredient:
+  Inactive Ingredient fragnance
+purpose:
+  Purpose Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings: FOR EXTERNAL USE ONLY Do not use on deep or puncture wounds infections lacerations
+spl_product_data_elements:
+  Petrolatum Jelly with Lavender Petrolatum WATER PETROLATUM PETROLATUM
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions apply as needed
+stop_use:
+  Stop Use and ask a doctor if redness or swelling develops
+package_label_principal_display_panel:
+  Package Label
+indications_and_usage:
+  Uses provides relief to dry skin and lips offers soothing protection for minor burns provides protection for skin from wind burn and chapping
+set_id:
+  35c25d77-dec4-44d1-e054-00144ff8d46c
+id:
+  7bd79380-22ea-d341-e053-2a91aa0a19dc
+active_ingredient:
+  DRUG FACTS White Petrolatum 99.9%

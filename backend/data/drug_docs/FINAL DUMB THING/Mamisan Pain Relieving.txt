@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Mamisan Pain Relieving LIDOCAINE HYDROCHLORIDE, MENTHOL BUTYLATED HYDROXYTOLUENE D&C RED NO. 17 D&C YELLOW NO. 11 EUCALYPTUS OIL PETROLATUM SOYBEAN OIL LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE MENTHOL MENTHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store in a cool, dry place 68-77°F (20-25°C)
+active_ingredient:
+  Active ingredients Lidocaine HCl 4% Menthol 1% Purpose Pain relieving
+purpose:
+  Purpose Pain relieving
+indications_and_usage:
+  Use For the temporary relief of pain
+warnings:
+  Warnings For external use only. When using this product avoid contact with the eyes do not use in large quantities, particularly over raw surfaces or blistered areas Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days Keep out of reach of children. If swallowed, get medical help or contact a Poison Control right away.
+when_using:
+  When using this product avoid contact with the eyes
+do_not_use:
+  do not use in large quantities, particularly over raw surfaces or blistered areas
+stop_use:
+  Stop use and ask a doctor if condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control right away.
+dosage_and_administration:
+  Directions Adults and children 2 years of age and older: Apply to affected area not more than 3 to 4 times daily. Children under 2 years of age: Consult a doctor
+inactive_ingredient:
+  Inactive ingredients BHT, D&C Red #17, D&C Yellow #11, Eucalyptus Oil, Petrolatum, Soybean Oil, Wax.
+package_label_principal_display_panel:
+  Package Labeling: Label
+  Package Labeling:72816-000-02 Label02
+set_id:
+  b3c2759d-d064-3522-e053-2a95a90add73
+id:
+  1b4045cb-4123-6b27-e063-6294a90aa757
+effective_time:
+  20240619
+version:
+  6
+openfda:

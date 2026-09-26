@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  Neutrogena Sheer Zinc Kids Mineral Sunscreen Broad Spectrum SPF 50 Plus Zinc Oxide OCTYLDODECYL NEOPENTANOATE ALKYL (C12-15) BENZOATE PARAFFIN SILICON DIOXIDE NEOPENTYL GLYCOL DIETHYLHEXANOATE CERESIN ISOPROPYL MYRISTATE ADIPIC ACID/DIGLYCOL CROSSPOLYMER (20000 MPA.S) TRIETHOXYCAPRYLYLSILANE NEOPENTYL GLYCOL DIISOSTEARATE CAPRYLYL GLYCOL OAT KERNEL OIL ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+  Distributed by: Kenvue Brands LLC Summit, NJ 07901
+active_ingredient:
+  Active ingredients Zinc Oxide (21.6%)
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply generously and evenly 15 minutes before sun exposure ensure complete coverage to the area above the lip, nose, and tops of ears reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age: Ask a doctor
+storage_and_handling:
+  Other information protect this product from excessive heat and direct sun may stain some fabrics package contains small parts, which could cause a choking hazard
+inactive_ingredient:
+  Inactive ingredients Octyldodecyl Neopentanoate, C12-15 Alkyl Benzoate, Synthetic Wax, Paraffin, Silica, Neopentyl Glycol Diethylhexanoate, Ozokerite, Isopropyl Myristate, Adipic Acid/Diglycol Crosspolymer, Triethoxycaprylylsilane, Neopentyl Glycol Diisostearate, Caprylyl Glycol, Avena Sativa (Oat) Kernel Oil
+questions:
+  Questions? 800-582-4048 ; Outside US, dial collect 215-273-8755. neutrogena.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 42 g Canister Label Neutrogena ® DERMATOLOGIST RECOMMENDED BRAND Sheer Zinc kids mineral sunscreen stick BROAD SPECTRUM SPF 50+ 50+ BIG STICK water resistant (80 minutes) NET WT 1.5 OZ (42g) Neutrogena_1
+set_id:
+  4504a10d-6130-4ec5-823a-ab970709e6d7
+id:
+  30ca9da6-95f6-b9d1-e063-6294a90aee12
+effective_time:
+  20250320
+version:
+  10
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Neutrogena Sheer Zinc Kids Mineral Sunscreen Broad Spectrum SPF 50 Plus
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Kenvue Brands LLC
+  product_ndc:
+    69968-0547
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    30ca9da6-95f6-b9d1-e063-6294a90aee12
+  spl_set_id:
+    4504a10d-6130-4ec5-823a-ab970709e6d7
+  package_ndc:
+    69968-0547-1
+  is_original_packager:
+    True
+  upc:
+    0086800112921
+  unii:
+    SOI2LOH54Z

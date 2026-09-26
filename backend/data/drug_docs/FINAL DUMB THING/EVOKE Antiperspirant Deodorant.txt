@@ -1,0 +1,28 @@
+effective_time:
+  20180108
+inactive_ingredient:
+  Inactive Ingredients Fragrance, PEG-40, hydrogenated castor oil, SD alcohol 40, water
+purpose:
+  Purpose Antiperspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only. Do not use on broken skin. Stop use if rash or irritation occurs. Ask a doctor before use if you have kidney disease. Flammable. Keep away from fire, sparks, and heat.
+spl_product_data_elements:
+  EVOKE Antiperspirant Deodorant ALUMINUM CHLOROHYDRATE POLYETHYLENE GLYCOL 2000 HYDROGENATED CASTOR OIL ALCOHOL WATER ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Apply to underarms only.
+package_label_principal_display_panel:
+  EVOKE Antiperspirant & Deodorant Spray 118mL (68345-852-22) Evoke Spray
+indications_and_usage:
+  Uses Reduces underarm perspiration
+set_id:
+  0d8f606e-5411-4cd2-9e30-5ce978013cb8
+id:
+  6246701d-ff8d-e544-e053-2a91aa0a05ce
+active_ingredient:
+  EVOKE Antiperspirant & Deodorant Spray
+  Active Ingredient Aluminum chlorohydrate 7.8%

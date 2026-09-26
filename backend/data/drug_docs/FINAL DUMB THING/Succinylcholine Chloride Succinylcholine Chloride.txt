@@ -1,0 +1,15 @@
+spl_product_data_elements:
+  Succinylcholine Chloride Succinylcholine Chloride SUCCINYLCHOLINE CHLORIDE SUCCINYLCHOLINE PROPYLPARABEN
+boxed_warning:
+  WARNING RISK OF CARDIAC ARREST FROM HYPERKALEMIC RHABDOMYOLYSIS There have been rare reports of acute rhabdomyolysis with hyperkalemia followed by ventricular dysrhythmias, cardiac arrest and death after the administration of succinylcholine to apparently healthy pediatric patients who were subsequently found to have undiagnosed skeletal muscle myopathy, most frequently Duchenne’s muscular dystrophy. This syndrome often presents as peaked T-waves and sudden cardiac arrest within minutes after the administration of the drug in healthy appearing pediatric patients (usually, but not exclusively, males, and most frequently 8 years of age or younger). There have also been reports in adolescents. Therefore, when a healthy appearing infant or child develops cardiac arrest soon after administration of succinylcholine, not felt to be due to inadequate ventilation, oxygenation or anesthetic overdose, immediate treatment for hyperkalemia should be instituted. This should include administration of intravenous calcium, bicarbonate, and glucose with insulin, with hyperventilation. Due to the abrupt onset of this syndrome, routine resuscitative measures are likely to be unsuccessful. However, extraordinary and prolonged resuscitative efforts have resulted in successful resuscitation in some reported cases. In addition, in the presence of signs of malignant hyperthermia, appropriate treatment should be instituted concurrently. Since there may be no signs or symptoms to alert the practitioner to which patients are at risk, it is recommended that the use of succinylcholine in pediatric patients should be reserved for emergency intubation or instances where immediate securing of the airway is necessary, e.g., laryngospasm, difficult airway, full stomach, or for intramuscular use when a suitable vein is inaccessible (see PRECAUTIONS: Pediatric Use and DOSAGE AND ADMINISTRATION).
+package_label_principal_display_panel:
+  Primary package for Succinylcholine Carton Image
+set_id:
+  6e8a325b-92cd-b657-e053-2991aa0a181b
+id:
+  6e8a325b-92ce-b657-e053-2991aa0a181b
+effective_time:
+  20180613
+version:
+  1
+openfda:

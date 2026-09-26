@@ -1,0 +1,30 @@
+effective_time:
+  20111111
+inactive_ingredient:
+  Inactive Ingredients Deionized Water, Isopropanol, Hydrogenated Starch Hydrolysate, Carbomer, THP Ethylendiamine, Fragrance
+purpose:
+  Purpose Hand Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Flammable, For external use only. Avoid contact with eyes. In case of accidental eye contact, flush eyes thoroughly with water. Discontinue use if irritation and redness develops.
+spl_product_data_elements:
+  Instant Hand Sanitizer Alcohol Alcohol Alcohol Water Isopropyl Alcohol Edetol Carbomer Homopolymer Type C
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Dispense an adequate amount (approx. 5 mL), rubbing all surfaces of both hands for at least 15 seconds. Allow to dry without wiping.
+stop_use:
+  Stop use and ask doctor if Skin or eye irritation persists for more than 72 hours
+package_label_principal_display_panel:
+  Principal Display Panel NDC 64064-002-04 Instant Hand Sanitizer No Rinsing Desinfectant Instantane Pour Les Mains Sans Rincage Clinishield Manufactured in U.S.A. Fabrique Aux E.-U. Evonik Stockhausen, LLC Greensboro, NC 27406 1-800-334-0242 www.CliniShield.com Imported by Trans Canada Distribution Inc. Mississauga, ON L5L 5Y7 Net Contents 32.82 Fl Oz (1000 mL) Contenu Net 1 L Stock No. 31795 No. De Stock 31795
+  CliniShield 002-04 1000 ml.jpg
+indications_and_usage:
+  Uses Hand antiseptic to decrease bacteria on the skin.
+set_id:
+  d06053bb-dbea-4c68-ad2c-65a157bd2fdf
+id:
+  71452250-be6e-41c2-bb6b-cd9ee3103b67
+active_ingredient:
+  Active Ingredient Ethanol (62%)

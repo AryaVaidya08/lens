@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  BODY PRESCRIPTIONS ANTIBACTERIAL HAND WIPES Peppermint Benzalkonium Chloride GLYCERIN ETHYLHEXYLGLYCERIN ALOE VERA LEAF PHENOXYETHANOL PROPYLENE GLYCOL WATER MENTHA PIPERITA LEAF BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1% Purpose Antibacterial
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use ■ To decrease bacteria on hands
+warnings:
+  WARNINGS For external use only When using this product, avoid contact with eyes. In case of contact with eyes, rinse eyes thoroughly with water Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222
+when_using:
+  When using this product, avoid contact with eyes. In case of contact with eyes, rinse eyes thoroughly with water Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222
+dosage_and_administration:
+  Directions For adults and children two years and over Peel over reusable label and remove a wipe from the packet. Wet hands thoroughly and air dry. Place used wipes in to waste basket. Do not flush.
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Extract, Ethylhexylglycerin, Fragrance, Glycerin, Mentha Piperita (Peppermint) Leaf Extract, Phenoxyethanol, Propylene Glycol, Water
+package_label_principal_display_panel:
+  image description
+set_id:
+  81a0e5b8-08d9-4a00-b89d-1aa8cbc9f33f
+id:
+  b22159e0-9629-eb12-e053-2995a90a537a
+effective_time:
+  20201020
+version:
+  1
+openfda:

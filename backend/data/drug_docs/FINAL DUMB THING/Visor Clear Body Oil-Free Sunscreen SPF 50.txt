@@ -1,0 +1,74 @@
+spl_product_data_elements:
+  Visor Clear Body Oil-Free Sunscreen SPF 50 AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE ASCORBIC ACID YELLOW WAX BUTYLOCTYL SALICYLATE SHEA BUTTER MEDIUM-CHAIN TRIGLYCERIDES ISODODECANE MEADOWFOAM ESTOLIDE MICROCRYSTALLINE WAX SILICON DIOXIDE HYALURONATE SODIUM TOCOPHEROL TRIDECYL SALICYLATE ZINC SULFATE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE ETHYLHEXYL SALICYLATE OCTOCRYLENE OCTOCRYLENE
+spl_unclassified_section:
+  Drug Facts
+  Other information Protect the product in this container from excessive heat and direct sun.
+active_ingredient:
+  Active ingredient Avobenzone, 3.00% Homosalate 10.00% Octisalate 5.00% Octocrylene 10.00% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses. Helps prevent sunburn. higher SPF gives more sunburn protection retains SPF after 80 minutes of swimming or sweating If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin agingcaused by the sun.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash or irritation develops and lasts. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. If pregnant or breast-feeding, ask a health professional before use
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash or irritation develops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure and as needed. Children under 6 months of age: ask a doctor. Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increase your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.-2p.m. Wear long-sleeved shirts, pants,hats,and sunglasses.
+inactive_ingredient:
+  Inactive Ingredients Ascorbic Acid, Beeswax, Butyloctyl Salicylate, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Dimethicone/Bis-Isobutyl PPG-20 Crosspolymer, Isododecane, Jojoba Esters, Lecithin, Meadowfoam Estolide, Microcrystalline Wax (Cera Microcrystalline), Polyhydroxystearic Acid, Silica, Sodium Hyaluronate, Tocopherol, Tridecyl Salicylate, Zinc Sulfate.
+questions:
+  Questions? Call 203-293-3057
+package_label_principal_display_panel:
+  Package Labeling: Tube2
+set_id:
+  10abc330-7d45-4049-b80a-dbf58374187e
+id:
+  3021e530-1b1e-6c8b-e063-6294a90aee86
+effective_time:
+  20250312
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Visor Clear Body Oil-Free Sunscreen SPF 50
+  generic_name:
+    AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE
+  manufacturer_name:
+    VISOR SKINCARE LLC
+  product_ndc:
+    85335-589
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    3021e530-1b1e-6c8b-e063-6294a90aee86
+  spl_set_id:
+    10abc330-7d45-4049-b80a-dbf58374187e
+  package_ndc:
+    85335-589-00
+  is_original_packager:
+    True
+  upc:
+    0608539141463
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM

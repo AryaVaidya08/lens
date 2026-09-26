@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Colgate Anticavity SODIUM MONOFLUOROPHOSPHATE DIBASIC CALCIUM PHOSPHATE DIHYDRATE WATER SORBITOL SODIUM LAURYL SULFATE METHYL SALICYLATE CARBOXYMETHYLCELLULOSE SODIUM, UNSPECIFIED SODIUM PYROPHOSPHATE SACCHARIN SODIUM SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Sodium monofluorophosphate 0.76% (0.15% w/v fluoride ion) Purpose Anticavity
+purpose:
+  Purpose Anticavity
+indications_and_usage:
+  Use helps protect against cavities
+warnings:
+  Warnings Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 2 years of age and older brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician children 2 to 6 years use only a pea sized amount and supervise child's brushing and rinsing (to minimize swallowing) children under 2 years ask a dentist or physician
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td> adults and children 2 years of age and older</td><td> brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or physician</td></tr><tr><td> children 2 to 6 years </td><td> use only a pea sized amount and supervise child&apos;s brushing and rinsing (to minimize swallowing)</td></tr><tr><td> children under 2 years </td><td> ask a dentist or physician </td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients dicalcium phosphate dihydrate, water, sorbitol, sodium lauryl sulfate, flavor, cellulose gum, tetrasodium pyrophosphate, sodium saccharin
+questions:
+  Questions or comments? Call toll-free 1-800-468-6502
+package_label_principal_display_panel:
+  Package Labeling:69491-033-01 Label Label2 Brush
+set_id:
+  b1a41464-e7d7-640c-e053-2995a90a3f95
+id:
+  f114a573-ef41-639c-e053-2a95a90a1021
+effective_time:
+  20230110
+version:
+  2
+openfda:

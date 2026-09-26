@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Povidone Iodine Povinanz 10% Antiseptic Solution NONOXYNOL-9 POVIDONE-IODINE IODINE GLYCERIN SODIUM PHOSPHATE, DIBASIC, ANHYDROUS WATER POTASSIUM IODATE CITRIC ACID MONOHYDRATE POLYETHYLENE GLYCOL 1500
+active_ingredient:
+  Active Ingredient: Povidone-Iodine USP 10% ( 0.1% of available iodine)
+purpose:
+  Purpose: Topical Antiseptic
+warnings:
+  Warnings: For external use only. Do not use in the eyes or apply over large areas of the body. In case of deep or puncture wounds, animal bites, or serious burns, consult a doctor. Stop use and ask a doctor if the condition persists or gets worse. Stop use and ask doctor if redness, irritation, swelling, or pain persists, and infection occurs. Do not use longer than 1 week unless directed by a doctor. Do not use if allergic to iodine, in the eyes. Avoid pooling beneath the patient. Avoid excessive heat. Store at room temperature.
+keep_out_of_reach_of_children:
+  Keep out of reach of children: In case of accidental ingestion, seek professional assistance or consult a poison control center immediately.
+dosage_and_administration:
+  Directions: Clean the affected area. Apply a small amount of this product on the area 1 to 3 times daily. May be covered with a sterile bandage.
+indications_and_usage:
+  Use: Antiseptic skin preparation
+other_safety_information:
+  Other Information: - not made with natural rubber latex - for hospital and professional use only.
+inactive_ingredient:
+  Inactive Ingredients: Anhydrous dibasic sodium phosphate, citric acid monohydrate, glycerin, polyethylene glycol 1500, nonoxynol-9, potassium iodate, water
+questions:
+  Questions: Nanz Pharma Inc., 575 Granite Court, Pickering, ON, L1W 3K1, Canada
+package_label_principal_display_panel:
+  Povinanz 10% Antiseptic Solution Tentative Label for all package sizes Label for all povidone iodine 10 percent Label for all povidone iodine 10 percent
+set_id:
+  fda33030-2620-11d1-e053-6394a90ae99a
+id:
+  1a4f84db-0826-4412-e063-6294a90a3c93
+effective_time:
+  20240607
+version:
+  2
+openfda:

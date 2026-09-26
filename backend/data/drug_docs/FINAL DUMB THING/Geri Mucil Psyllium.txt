@@ -1,0 +1,38 @@
+effective_time:
+  20210414
+inactive_ingredient:
+  Inactive ingredient sucrose DIETARY FIBER SUPPLEMENT Uses Diets low in saturated fat and cholesterol that include 7 grams of soluble fiber per day from psyllium husk, as in Geri-Mucil, may reduce the risk of heart disease by lowering cholesterol. One adult does of Geri-Mucil has 2.4 grams of this soluble fiber. Consult a doctor if you are considering use of this product as part of a cholesterol-lowering program.
+purpose:
+  Purpose Bulk-forming Laxative
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Choking: Taking this product without adequate fluid may cause it to swell and block your throat or esophagus and may cause choking. Do not take this product if you have difficulty in swallowing. If you experience chest pain, vomiting, or difficulty in swallowing or breathing after taking this product, seek immediate medical attention. Allergy alert: This product may cause an allergic reaction in people sensitive to inhaled or ingested psyllium
+  Warnings Read entire label, including warnings in Drug Facts. Directions Adults 12 yrs. & older; 1 rounded TEASPOON in 8 oz of liquid 3 times daily. Under 12 yrs.: Ask a doctor. See mixing directions in Drug Facts . NOTICE: Mix this product with at least 8 oz (a full glass) of liquid. Taking without enough liquid may cause choking. Do not take if you have difficulty swallowing. Supplement Facts Serving Size 1 rounded teaspoon (7g) Servings per container 52 Amount Per Serving %DV** Calories 25 Total Carbohydrates 7 g 2% Dietary Fiber 3 g 12% Soluble Fiber 2 g * Sugars 3 g * Iron 0.4 mg 2% Sodium 5 mg <1% Potassium 30 mg <1% Psyllium Hydrophilic Mucilloid 3.4 g † **% Daily Value (DV) is based on a 2,000 calorie diet. *Daily Value (DV) not established. INGREDIENTS: Sucrose, Psyllium Husk ‡This product is not manufactured or distributed by Procter & Gamble, owner of the registered trademark Metamucil®. DIST. BY: GERI-CARE PHARMACEUTICALS CORP. 1650 63 rd STREET BROOKLYN, NEW YORK 11204 04/11
+spl_product_data_elements:
+  Geri Mucil Psyllium SUCROSE PSYLLIUM HUSK PSYLLIUM HUSK Tanish-yellow
+ask_doctor:
+  Ask a doctor before use if you have • a sudden change in bowel habits persisting for 2 weeks • abdominal pain, nausea, or vomiting
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Put one dose into an empty glass. Mix this product (child or adult dose) with at least 8 ounces (a full glass) of water or other fluid. Taking this product without enough liquid may cause choking. See choking warning . Stir briskly and drink promptly. If mixture thickens, add more liquid and stir. adults & children 12 years & over 1 rounded TEASPOON in 8 oz of liquid, up to 3 times daily children under 12 years Consult a doctor. Laxatives, including bulk fibers, may affect how well other medicines work. If you are taking a prescription medicine by mouth, take this product at least 2 hours before or 2 hours after the prescribed medicine. As your body adjusts to increased fiber intake, you may experience changes in bowel habits or minor bloating. New Users: Start with 1 dose per day; gradually increase to 3 doses per day as necessary. Other information each teaspoon contains: potassium 30 mg, sodium 5 mg Store below 30°C (86°F) Protect contents from humidity. Keep tightly closed.
+spl_unclassified_section:
+  Front Panel: NATURAL PSYLLIUM FIBER LAXATIVE & DIETARY SUPPLEMENT Gentle, Effective Relief From Constipation Daily Fiber Source No Chemical Stimulants Back Panel: LAXATIVE Drug Facts
+stop_use:
+  Stop use and ask a doctor if • constipation lasts more than 7 days • rectal bleeding occurs These may be signs of a serious condition.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL figure-1
+indications_and_usage:
+  Uses • effective in treating occasional constipation and restoring regularity
+set_id:
+  f4c2d7e6-5cb9-44f3-b5ac-0ed7c61dca93
+id:
+  bff0fb93-aa21-098c-e053-2a95a90af67a
+warnings_table:
+  <table frame="void"><tbody><tr><td colspan="2" styleCode="BotruleLruleRruleToprule"><paragraph><content styleCode="bold">Supplement Facts</content></paragraph></td></tr><tr><td colspan="2" styleCode="BotruleLruleRruleToprule"><paragraph><content styleCode="bold">Serving Size</content> 1 rounded teaspoon (7g)  <content styleCode="bold">Servings per container</content> 52 </paragraph></td></tr><tr><td colspan="2" styleCode="BotruleLruleRruleToprule"><paragraph><content styleCode="bold">Amount Per Serving %DV**</content></paragraph></td></tr><tr><td colspan="2" styleCode="BotruleLruleRruleToprule"><paragraph>Calories 25</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Total Carbohydrates 7 g</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>2%</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Dietary Fiber 3 g</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>12%</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Soluble Fiber 2 g</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>*</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Sugars 3 g</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>*</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Iron 0.4 mg</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>2%</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Sodium 5 mg</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>&lt;1%</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Potassium 30 mg</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>&lt;1%</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>Psyllium Hydrophilic Mucilloid 3.4 g</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>&#x2020;</paragraph></td></tr><tr><td colspan="2" styleCode="BotruleLruleRruleToprule"><paragraph>**% Daily Value (DV) is based on a 2,000 calorie diet.</paragraph></td></tr><tr><td colspan="2" styleCode="BotruleLruleRruleToprule"><paragraph>*Daily Value (DV) not established.</paragraph></td></tr></tbody></table>
+active_ingredient:
+  Active ingredient (in each rounded TEASPOON) Psyllium Husk, approximately 3.4 g
+dosage_and_administration_table:
+  <table frame="void"><tbody><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>adults &amp; children 12 years &amp; over</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>1 rounded TEASPOON in 8 oz of liquid,</paragraph><paragraph> up to 3 times daily</paragraph></td></tr><tr><td styleCode="BotruleLruleRruleToprule"><paragraph>children under 12 years</paragraph></td><td styleCode="BotruleLruleRruleToprule"><paragraph>Consult a doctor.</paragraph></td></tr></tbody></table>

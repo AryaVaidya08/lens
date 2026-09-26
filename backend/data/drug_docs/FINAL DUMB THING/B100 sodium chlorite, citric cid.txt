@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  B100 sodium chlorite, citric cid CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID SODIUM CHLORITE CHLORITE ION MAGNESIUM SILICATE ALUMINUM SILICATE
+active_ingredient:
+  sodium chlorite 0.05% citric acid 0.06%
+inactive_ingredient:
+  magnesium silicate, aluminum silicate, nurient agar, rheology modifier
+purpose:
+  for keeping freshness through sterilizing and disinfecting microbial(fungi, bacteria)
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  This product can not be eaten. And do not use it for other purposes Avoid using in places exposed to high temperatures and direct sunlight for prolonged periods of time. Put or Inserted in employee ID case, handbag, wallet, pocket or mask storage case.
+warnings:
+  If you feel irritation in an enclosed space, provide enough ventilation If the product comes into contact with the skin for a long time, itching may be caused. Wash it thoroughly with running water and immediately consult a doctor if there is any abnormality.
+dosage_and_administration:
+  for keeping freshness through sterilizing and disinfecting microbial(fungi, bacteria)
+package_label_principal_display_panel:
+  label
+set_id:
+  a4a1c168-360f-2cfc-e053-2a95a90a8c32
+id:
+  d8412b61-f8d2-d331-e053-2995a90a1aa4
+effective_time:
+  20220217
+version:
+  2
+openfda:

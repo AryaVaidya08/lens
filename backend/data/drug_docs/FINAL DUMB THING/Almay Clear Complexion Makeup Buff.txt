@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Almay Clear Complexion Makeup Buff Salicylic Acid HEXYLENE GLYCOL TRIBEHENIN DIMETHICONE/BIS-ISOBUTYL PPG-20 CROSSPOLYMER METHICONE (20 CST) TRISILOXANE SODIUM BENZOATE SILICA DIPOTASSIUM GLYCYRRHIZATE TRIETHOXYCAPRYLYLSILANE ALOE VERA LEAF CHAMOMILE TETRASODIUM EDTA CI 77491 SILICA DIMETHYL SILYLATE EDETATE DISODIUM MICA ETHYLHEXYL PALMITATE CENTAUREA CYANUS FLOWER GLYCERIN MALTODEXTRIN CYCLOHEXASILOXANE SODIUM CHLORIDE PHENOXYETHANOL DIMETHICONE TITANIUM DIOXIDE NYLON-12 ISODECYL NEOPENTANOATE PEG/PPG-18/18 DIMETHICONE CETYL PEG/PPG-10/1 DIMETHICONE (HLB 2) WATER BUTYLENE GLYCOL BORON NITRIDE TRIMETHYLSILOXYSILICATE (M/Q 0.8-1.0) ALUMINA PANTHENOL SALICYLIC ACID SALICYLIC ACID .ALPHA.-TOCOPHEROL ACETATE SORBITAN SESQUIOLEATE ETHYLPARABEN POTASSIUM SORBATE LECITHIN, SOYBEAN CAPRYLHYDROXAMIC ACID ZINC OXIDE PANTHENYL ETHYL ETHER LYSOPHOSPHATIDYLCHOLINE, SOYBEAN HYDROGENATED SOYBEAN PHOSPHATIDYLCHOLINE CI 77492 HYDROGEN DIMETHICONE (13 CST) HYDROLYZED CORN PROTEIN (ENZYMATIC; 1500 MW) METHYLPARABEN PHYTANTRIOL LARICIFOMES OFFICINALIS FRUITING BODY FILIPENDULA ULMARIA FLOWER FERROSOFERRIC OXIDE SODIUM HYALURONATE PHENETHYL ALCOHOL CAPRYLYL GLYCOL CYCLOPENTASILOXANE PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE
+active_ingredient:
+  Salicylic acid 2.0%
+purpose:
+  Acne treatment
+warnings:
+  For external use only
+when_using:
+  Skin irritation and dryness is more likely to occur if you use another topical acne medication at the same time. If occurs only use one topical acne medication at the same time. Avoid contact with eyes. If contact occurs, flush throughly with water. Sensitivity test for a new user: Apply product sparingly to one or two small affected areas during the first three days. If no discomfort occurs, follow the directions above.
+keep_out_of_reach_of_children:
+  If product is swallowed, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  
+dosage_and_administration:
+  Directions: Clean skin througly before applying this product. Cover entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur , start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+indications_and_usage:
+  Acne treatment Directions: Clean skin througly before applying this product. Cover entire affected area with a thin layer one to three times daily. Because excessive drying of the skin may occur , start with one application daily, then gradually increase to two or three times daily if needed or as directed by a doctor. If bothersome dryness or peeling occurs, reduce application to once a day or every other day.
+package_label_principal_display_panel:
+  Almay Clear COmplexion Liquid Make up Fron Label
+set_id:
+  2a83300a-15f0-365a-e063-6394a90a28d1
+id:
+  2a834cd7-f6c9-a38b-e063-6394a90ad9d4
+effective_time:
+  20241230
+version:
+  1
+openfda:
+  application_number:
+    M006
+  brand_name:
+    Almay Clear Complexion Makeup Buff
+  generic_name:
+    SALICYLIC ACID
+  manufacturer_name:
+    Almay
+  product_ndc:
+    0311-0742
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    SALICYLIC ACID
+  spl_id:
+    2a834cd7-f6c9-a38b-e063-6394a90ad9d4
+  spl_set_id:
+    2a83300a-15f0-365a-e063-6394a90a28d1
+  package_ndc:
+    0311-0742-01
+  is_original_packager:
+    True
+  unii:
+    O414PZ4LPZ

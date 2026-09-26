@@ -1,0 +1,35 @@
+effective_time:
+  20120712
+inactive_ingredient:
+  Inactive ingredients Water (Aqua) PPG-11 Stearyl Ether Steareth-2 Steareth-20 Fragrance (Parfum) Glycerin
+purpose:
+  Purpose anti-perspirant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For External Use Only
+questions:
+  Questions? Call 1-800-761-DOVE
+spl_product_data_elements:
+  Dove Powder Roll On Antiperspirant and Deodorant Aluminum Chlorohydrate Aluminum Chlorohydrate ALUMINUM CHLOROHYDRATE WATER STEARETH-2 STEARETH-20 GLYCERIN PPG-11 STEARYL ETHER
+ask_doctor:
+  Ask a doctor before use if you have kidney disease
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions apply to underarms only
+stop_use:
+  Stop use if rash or irritation occurs
+do_not_use:
+  Do not use on broken skin
+package_label_principal_display_panel:
+  2.5 fl oz PDP Dove Powder Roll On 2.5 fl oz PDP
+indications_and_usage:
+  Uses reduces underarm wetness 24 hour protection
+set_id:
+  3501873c-fa9d-4a87-9fcd-4e42d542d1d7
+id:
+  b0a5ad97-922e-41c8-966b-a4f099c2947c
+active_ingredient:
+  Active Ingredient Aluminum Chlorohydrate (22%)

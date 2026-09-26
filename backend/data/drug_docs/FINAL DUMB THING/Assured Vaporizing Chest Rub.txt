@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Assured Vaporizing Chest Rub Camphor and Eucalyptus Oil and Menthol PETROLATUM MINERAL OIL NUTMEG OIL TURPENTINE OIL CEDAR LEAF OIL THYMOL CAMPHOR (SYNTHETIC) CAMPHOR (SYNTHETIC) EUCALYPTUS OIL EUCALYPTUS OIL MENTHOL MENTHOL
+active_ingredient:
+  Active Ingredients Camphor 4.7% Eucalyptus Oil 1.2% Menthol 1.25%
+purpose:
+  Purpose Cough Suppressant & Topical analgesic Cough Suppressant Cough Suppressant & Topical analgesic
+indications_and_usage:
+  Uses use on chest and throat to temporarily relieve cough use on aching muscles to temporarily relieve minor aches and pains
+warnings:
+  Warnings For external use only; Do not take by mouth or place in nostrils. Avoid excessive heat. Never expose this product to flame or place in any container in which you are heating water. Never place in microwave oven.
+ask_doctor:
+  Consult a doctor and discontinue use; If cough persist for more than 1 week, tends to recur or is accompanied by fever, rash or persistent headache.
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, seek professional assistance or contact a Poison Control Centre immediately.
+dosage_and_administration:
+  Directions: Adults and children over 2 years of age; Rub a thick layer on chest and throat to provide temporary relief from nasal congestion and coughing due to colds. If desired, cover with dry, warm cloth, but keep clothing loose to let the vapours rise to nose and mouth. Repeat up to three times daily, especially at bedtime, or as directed by a doctor. Children under two years of age, consult a doctor.
+inactive_ingredient:
+  Inactive Ingredients: Petrolatum, Mineral Oil, Nutmeg Oil, Spirits of Turpentine, Cedarleaf Oil, Thymol
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL ASSURED VAPORIZING CHEST RUB label
+set_id:
+  b8f0c61e-83b0-4835-b950-2c5dcce5cf17
+id:
+  7fcfde78-22a9-63a0-e053-2991aa0a0cf3
+effective_time:
+  20190119
+version:
+  1
+openfda:
+  application_number:
+    part341
+  brand_name:
+    Assured Vaporizing Chest Rub
+  generic_name:
+    CAMPHOR AND EUCALYPTUS OIL AND MENTHOL
+  manufacturer_name:
+    Greenbrier International, Inc.
+  product_ndc:
+    33992-7992
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    CAMPHOR (SYNTHETIC)
+    EUCALYPTUS OIL
+    MENTHOL
+  rxcui:
+    2003749
+  spl_id:
+    7fcfde78-22a9-63a0-e053-2991aa0a0cf3
+  spl_set_id:
+    b8f0c61e-83b0-4835-b950-2c5dcce5cf17
+  package_ndc:
+    33992-7992-4
+  is_original_packager:
+    True
+  upc:
+    0639277079954
+  unii:
+    5TJD82A1ET
+    2R04ONI662
+    L7T10EIP3A

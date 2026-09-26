@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Badger Sport Mineral Sunscreen Cream Broad Spectrum SPF 40 ZINC OXIDE SUNFLOWER OIL YELLOW WAX TOCOPHEROL ZINC OXIDE ZINC OXIDE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Non-Nano Uncoated Zinc Oxide 22.5%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin. Stop use and ask a doctor if rash occurs.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For full protection, apply liberally (2mg/cm 2 of skin) to all exposed skin 15 minutes before sun exposure, then rub in to reduce whitening effect. Reapply: After 80 minutes of swimming or sweating Immediately after towel drying At least every 2 hours Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging To decrease this risk, regularly use a sunscreen with a broad spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10am-2pm Wear long-sleeved shirts, pants, hats, and sunglasses For children under 6 months of age: ask a doctor.
+inactive_ingredient:
+  Ingredients *Helianthus Annuus ( Sunflower ) Seed Oil, *Cera Alba ( Beeswax ), Tocopherol ( Sunflower Vitamin E ), *= Organic
+storage_and_handling:
+  Other Information Protect the product in this container from excessive heat and direct sunlight.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 87 mL Tube Label BADGER ® Sport Mineral Sunscreen Cream Unscented & Hypoallergenic Broad Spectrum SPF 40 WATER RESISTANT 80 min Powered by Solar Cruelty Free NSF Certified B Corporation REEF FRIENDLY Certified to Protect Land & Sea 98% Organic Ingredients Water Free Recycled Package Natural Minerals Clear Zinc Clean Moisturizing 87ml/2.9 fl.oz SPF 40 Sport Mineral Cream
+set_id:
+  d60b1145-7c3e-3668-e053-2a95a90a2374
+id:
+  2a947e1d-286d-a939-e063-6394a90a0719
+effective_time:
+  20241231
+version:
+  2
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Badger Sport Mineral Sunscreen Cream Broad Spectrum SPF 40
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    W.S. Badger Company, Inc.
+  product_ndc:
+    62206-4031
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    2a947e1d-286d-a939-e063-6394a90a0719
+  spl_set_id:
+    d60b1145-7c3e-3668-e053-2a95a90a2374
+  package_ndc:
+    62206-4031-1
+  is_original_packager:
+    True
+  upc:
+    0634084471434
+  unii:
+    SOI2LOH54Z

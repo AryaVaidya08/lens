@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  good sense ibuprofen ibuprofen IBUPROFEN IBUPROFEN AMMONIA MEDIUM-CHAIN TRIGLYCERIDES FD&C GREEN NO. 3 GELATIN, UNSPECIFIED ISOPROPYL ALCOHOL POLYETHYLENE GLYCOL 400 POLYETHYLENE GLYCOL, UNSPECIFIED POLYVINYL ACETATE PHTHALATE POTASSIUM HYDROXIDE PROPYLENE GLYCOL WATER SORBITOL SOLUTION SORBITAN TITANIUM DIOXIDE 5Z0
+active_ingredient:
+  Active ingredient (in each capsule) Solubilized Ibuprofen equal to 200 mg Ibuprofen (NSAID)* (present as the free acid and potassium salt) *nonsteroidal anti-inflammatory drug
+purpose:
+  Purpose Pain reliever/Fever reducer
+indications_and_usage:
+  Uses • temporarily relieves minor aches and pains due to: • headache • toothache • backache • menstrual cramps • the common cold • muscular aches • minor pain of arthritis • temporarily reduces fever
+warnings:
+  Warnings Allergy alert: Ibuprofen may cause a severe allergic reaction, especially in people allergic to aspirin. Symptoms may include: • hives • facial swelling • asthma (wheezing) • shock • skin reddening • rash • blisters If an allergic reaction occurs, stop use and seek medical help right away. Stomach bleeding warning: This product contains an NSAID, which may cause severe stomach bleeding. The chance is higher if you • are age 60 or older • have had stomach ulcers or bleeding problems • take a blood thinning (anticoagulant) or steroid drug • take other drugs containing prescription or nonprescription NSAIDs [aspirin, ibuprofen, naproxen, or others] • have 3 or more alcoholic drinks every day while using this product • take more or for a longer time than directed Heart attack and stroke warning : NSAIDs, except aspirin, increase the risk of heart attack, heart failure, and stroke. These can be fatal. The risk is higher if you use more than directed or for longer than directed. Do not use • if you have ever had an allergic reaction to any other pain reliever/fever reducer • right before or after heart surgery Ask a doctor before use if • stomach bleeding warning applies to you • you have problems or serious side effects from taking pain relievers or fever reducers • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke • you are taking a diuretic Ask a doctor or pharmacist before use if you are • under a doctor’s care for any serious condition • taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin • taking any other drug When using this product • take with food or milk if stomach upset occurs Stop use and ask a doctor if • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • you have symptoms of heart problems or stroke: • chest pain • trouble breathing • weakness in one part or side of body • slurred speech • leg swelling • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present in the painful area • any new symptoms appear If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery. Keep out of reach of children.
+do_not_use:
+  Do not use • if you have ever had an allergic reaction to any other pain reliever/fever reducer • right before or after heart surgery
+ask_doctor:
+  Ask a doctor before use if • stomach bleeding warning applies to you • you have problems or serious side effects from taking pain relievers or fever reducers • you have a history of stomach problems, such as heartburn • you have high blood pressure, heart disease, liver cirrhosis, kidney disease, asthma, or had a stroke • you are taking a diuretic
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are • under a doctor’s care for any serious condition • taking aspirin for heart attack or stroke, because ibuprofen may decrease this benefit of aspirin • taking any other drug
+when_using:
+  When using this product • take with food or milk if stomach upset occurs
+stop_use:
+  Stop use and ask a doctor if • you experience any of the following signs of stomach bleeding: • feel faint • vomit blood • have bloody or black stools • have stomach pain that does not get better • you have symptoms of heart problems or stroke: • chest pain • trouble breathing • weakness in one part or side of body • slurred speech • leg swelling • pain gets worse or lasts more than 10 days • fever gets worse or lasts more than 3 days • redness or swelling is present in the painful area • any new symptoms appear
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use. It is especially important not to use ibuprofen at 20 weeks or later in pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions • do not take more than directed • the smallest effective dose should be used • adults and children 12 years and over: take 1 capsule every 4 to 6 hours while symptoms persist • if pain or fever does not respond to 1 capsule, 2 capsules may be used • do not exceed 6 capsules in 24 hours, unless directed by a doctor • children under 12 years: ask a doctor
+other_safety_information:
+  Other information • each capsule contains: potassium 20 mg • read all warnings and directions before use. Keep carton. • store at 20-25°C (68-77°F) • avoid excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive ingredients ammonium hydroxide, caprylic and capric acid triglycerides, FD&C green No. 3, gelatin, isopropyl alcohol, lecithin, macrogol/PEG 400, polyethylene glycol, polyvinyl acetate phthalate, potassium hydroxide, propylene glycol, purified water, sorbitol sorbitan solution, titanium dioxide
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel GOODSENSE ® Smaller Capsule. Same Strength. Ibuprofen Liquid Gels** Solubilized Ibuprofen Capsules, 200 mg Pain Reliever/Fever Reducer (NSAID) Actual Size minis 160 Liquid Gels** **Liquid-Filled Capsules Compare to active ingredient of Advil ® Liqui-Gels ® minis ibuprofen-front ibuprofen-back
+set_id:
+  0cb4b0ef-5cdd-4c79-8718-4fb157a2c948
+id:
+  b5367c81-7cf4-433b-b1a7-d18ed94ea8f0
+effective_time:
+  20250329
+version:
+  3
+openfda:
+  application_number:
+    ANDA203599
+  brand_name:
+    good sense ibuprofen
+  generic_name:
+    IBUPROFEN
+  manufacturer_name:
+    L. Perrigo Company
+  product_ndc:
+    0113-4501
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    IBUPROFEN
+  rxcui:
+    310964
+  spl_id:
+    b5367c81-7cf4-433b-b1a7-d18ed94ea8f0
+  spl_set_id:
+    0cb4b0ef-5cdd-4c79-8718-4fb157a2c948
+  package_ndc:
+    0113-4501-27
+    0113-4501-06
+  is_original_packager:
+    True
+  nui:
+    N0000000160
+    M0001335
+    N0000175722
+  pharm_class_moa:
+    Cyclooxygenase Inhibitors [MoA]
+  pharm_class_cs:
+    Anti-Inflammatory Agents, Non-Steroidal [CS]
+  pharm_class_epc:
+    Nonsteroidal Anti-inflammatory Drug [EPC]
+  unii:
+    WK2XYI10QM

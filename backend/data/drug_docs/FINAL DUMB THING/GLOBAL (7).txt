@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  GLOBAL HOME CARE 19OZ ANTIBACTERIAL DISH DETERGENT CHLOROXYLENON CHLOROXYLENOL CHLOROXYLENOL WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE SODIUM LAURYL SULFATE CITRIC ACID MONOHYDRATE METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE FD&C RED NO. 40 FD&C YELLOW NO. 5
+active_ingredient:
+  Active ingredient Chloroxylenol 0.3%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use Helps fight germs on hands when used as a hand soap.
+warnings:
+  Warning For external use only.
+keep_out_of_reach_of_children:
+  keep our of reach of children In case of accidental ingestion, drink a glass of water to dilute. If eye contact occurs, rinse thoroughly with water.
+dosage_and_administration:
+  Directions Wash hands and rinse.
+inactive_ingredient:
+  Inactive ingredients Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Lauryl Sulfate, Sodium Chloride, Fragrance, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, FD&C Red No. 40, FD&C Yellow No. 5.
+other_safety_information:
+  Do not mix with Chlorine Bleach to avoid irritating fumes. Do not use in automatic dishwashers.
+package_label_principal_display_panel:
+  label
+set_id:
+  6f74108d-a23b-7870-e053-2a91aa0afdba
+id:
+  6f74108d-a23c-7870-e053-2a91aa0afdba
+effective_time:
+  20180501
+version:
+  1
+openfda:

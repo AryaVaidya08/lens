@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Alcohol Wipes Alcohol BENZALKONIUM CHLORIDE PANTHENOL PROPYLENE GLYCOL WATER ALOE VERA LEAF ALCOHOL ALCOHOL
+active_ingredient:
+  ACTIVE INGREDIENT Alcohol 70%
+purpose:
+  PURPOSE Antiseptic
+indications_and_usage:
+  For Use Lift and open the top lid. Peel back the foil seal and pull up first wipe from the center of the roll. Thread the wipe through the center opening of the top lid. Close the top lid and make sure the wipes are feeding properly. Gently pull wipe up from the canister. Feed at a 45° angle and in a downward motion. Wipe hard, non-porous surface thoroughly and let dry.
+warnings:
+  Warning For external use only.
+do_not_use:
+  Do not use DO NOT USE for personal hygiene or as a baby wipe.
+ask_doctor:
+  Stop use and ask a doctor If contact with eyes occurs, rinse thoroughly with clean water. If swallowed. seek medical attention immediately.
+keep_out_of_reach_of_children:
+  Keep out of reach from children Keep all cleaning products and packaging out of reach of children and pets.
+dosage_and_administration:
+  Attention To avoid liquid drip do not tilt canister. Use only in an upward position (see arrows on package). Always close the cap to prevent evaporation and drying out. Do not remove inner roll from canister.
+storage_and_handling:
+  Storage & Disposal Store vertically in a standing,upward position. Keep in a dry place below 77°F. Discard used wipes in trash. Do not flush in toilet. Recycle the package if possible.
+inactive_ingredient:
+  INACTIVE INGREDIENT Water, Propylene Glycol, Aloe Barbadensis Leaf Juice, Panthenol, Benzalkonium Chloride
+package_label_principal_display_panel:
+  PACKAGE LABEL 75 IN A CANISTER NDC: 71766-005-01 Label
+set_id:
+  bc118dda-2c30-4850-e053-2995a90aeea9
+id:
+  bc118dda-2c24-4850-e053-2995a90aeea9
+effective_time:
+  20210224
+version:
+  1
+openfda:

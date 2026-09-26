@@ -1,0 +1,29 @@
+effective_time:
+  20110705
+inactive_ingredient:
+  Inactive Ingredients Water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Cautions For External Use Only. Do not use: Apply over large areas of the body, use in the eyes Drug Facts (continued): Stop use and ask a doctor if irritation and redness develops. If condition persists for more than 72 hours, consult a physician. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Povidone-Iodine Povidone-Iodine POVIDONE-IODINE POVIDONE-IODINE WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Wipe injection site vigorously and discard.
+spl_unclassified_section:
+  Other information Store at room temperature, 59º-86ºF(15º-30℃), avoid excessive heat.
+package_label_principal_display_panel:
+  Enter section text here 397
+indications_and_usage:
+  Use Antiseptic for preparation of skin. Purpose Antiseptic
+set_id:
+  117aa16f-f83d-44dd-9c03-c141f6283c1f
+id:
+  9bea2c38-9eac-4b4d-b28f-cebf3de14d88
+active_ingredient:
+  Active Ingredient Povidone Iodine 10% w/v (equivalent to 1%iodine) Inactive Ingredients Water

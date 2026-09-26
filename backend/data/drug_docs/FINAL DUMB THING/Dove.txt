@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Dove Advanced Care Caring Coconut Antiperspirant Deodorant ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE BUTANE HYDROFLUOROCARBON 152A CYCLOPENTASILOXANE ISOBUTANE PPG-14 BUTYL ETHER GLYCINE HELIANTHUS ANNUUS (SUNFLOWER) SEED OIL C12-15 ALKYL BENZOATE DISTEARDIMONIUM HECTORITE CALCIUM CHLORIDE PROPANE BHT OCTYLDODECANOL PROPYLENE CARBONATE DIMETHICONOL (40 CST) ISOPROPYL ISOSTEARATE ALPHA-ISOMETHYL IONONE BENZYL ALCOHOL BENZYL SALICYLATE CINNAMYL ALCOHOL COUMARIN EUGENOL HEXYL CINNAMAL LIMONENE, (+/-)- LINALOOL
+description:
+  Dove Advanced Care Caring Coconut Antiperspirant Deodorant
+active_ingredient:
+  Aluminum Sesquichlorohydrate 15.2%
+purpose:
+  antiperspirant
+indications_and_usage:
+  reduces underarm wetness
+warnings:
+  For external use only. FLAMMABLE. DO NOT USE NEAR HEAT, FLAME, OR WHILE SMOKING. CAN CAUSE SERIOUS INJURY OR DEATH. • Keep away from face and mouth to avoid breathing it. • Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not expose to heat or store at temperatures above 120°F/50°C or in enclosed places that can overheat. • Do not use on broken skin. • Stop use if rash or irritation occurs. • Ask a doctor before use if you have kidney disease.• USE ONLY AS DIRECTED. INTENTIONAL MISUSE BY DELIBERATELY CONCENTRATING AND INHALING THE CONTENTS CAN BE HARMFUL OR FATAL.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children.
+dosage_and_administration:
+  Apply to underarms only. Shake well before each use. Hold can 6 inches from the underarm and spray.
+inactive_ingredient:
+  Butane, Hydrofluorocarbon 152a, Cyclopentasiloxane, Isobutane, PPG-14 Butyl Ether, Glycine, Fragrance (Parfum), Helianthus Annuus (Sunflower) Seed Oil, C12-15 Alkyl Benzoate, Disteardimonium Hectorite, Calcium Chloride, Propane, BHT, Octyldodecanol, Propylene Carbonate, Dimethiconol, Isopropyl Isostearate, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Cinnamyl Alcohol, Coumarin, Eugenol, Hexyl Cinnamal, Limonene, Linalool
+questions:
+  Call 1-800-761-3683
+package_label_principal_display_panel:
+  Artwork
+set_id:
+  574b9d54-2fde-a7f2-e063-6394a90a4a02
+id:
+  574b9d54-2fdf-a7f2-e063-6394a90a4a02
+effective_time:
+  20260723
+version:
+  1
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Dove
+  generic_name:
+    ADVANCED CARE CARING COCONUT ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco d/b/a Unilever
+  product_ndc:
+    64942-2525
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    574b9d54-2fdf-a7f2-e063-6394a90a4a02
+  spl_set_id:
+    574b9d54-2fde-a7f2-e063-6394a90a4a02
+  package_ndc:
+    64942-2525-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

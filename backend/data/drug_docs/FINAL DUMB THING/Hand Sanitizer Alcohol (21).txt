@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Hand Sanitizer Alcohol ALCOHOL ALCOHOL water GLYCERYL CAPRYLATE/CAPRATE GLYCERIN ISOPROPYL MYRISTATE .ALPHA.-TOCOPHEROL ACETATE CARBOMER COPOLYMER TYPE B (ALLYL PENTAERYTHRITOL CROSSLINKED) SULISOBENZONE FD&C BLUE NO. 1 D&C RED NO. 33
+active_ingredient:
+  Active Ingredient Ethyl alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses to decrease bacteria on the skin that could cause disease recommend for repeated use
+warnings:
+  Warnings For external use only: hands Flammable. Keep away from fire and flame
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. avoid contact with broken skin do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping for children under 6, use only under adult supervision not recommended for infants
+other_safety_information:
+  Other information do not store above 105⁰ F may discolor some fabrics harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients water, glyceryl caprylate/caprate, glycerin, isopropyl myristate, tocopheryl acetate, acrylates/C10-30 alkyl acrylate crosspolymer, benzophenone-4, fragance, blue 1, red 33
+spl_unclassified_section:
+  Claims *Effective at eliminating more than 99.99% of many common harmful germs and bacteria in as little as 15 seconds. Distributed by: CVS Pharmacy, Inc One CVS Drive, /Woonsocket, RI 02895 2015 CVS/pharmacy CVS.com 1-800-SHOP CVS Made in the U.S.A. with U.S. and foreign components
+package_label_principal_display_panel:
+  principal display panel Garden Orchid Scent advanced formula hand sanitizer kills 99.99% of germs fast & effective moisturizing formula with vitamine E leaves hands feeling soft CVS/pharmacy 8 FL OZ (236 mL) image description
+set_id:
+  e2f4e51e-d3d5-41e2-a911-c5de3d646e37
+id:
+  a115d00a-1273-4ebd-97f5-d9f0fac2504a
+effective_time:
+  20231003
+version:
+  10
+openfda:

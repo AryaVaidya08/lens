@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  BODY PRESCRIPTIONS HAND SANITIZER DUO ROSE WATER SCENTED PEPPERMINT SCENTED ALCOHOL BODY PRESCRIPTIONS ANTIBACTERIAL HAND SANITIZER ROSE WATER SCENTED ALCOHOL WATER GLYCERIN CARBOMER 940 TROLAMINE POLYOXYL 40 HYDROGENATED CASTOR OIL ALCOHOL ALCOHOL BODY PRESCRIPTIONS ANTIBACTERIAL HAND SANITIZER PEPPERMINT SCENTED ALCOHOL WATER GLYCERIN CARBOMER 940 TROLAMINE POLYOXYL 40 HYDROGENATED CASTOR OIL ALCOHOL ALCOHOL
+spl_unclassified_section:
+  BODY PRESCRIPTIONS ANTIBACTERIAL HAND SANITIZER ROSE WATER SCENTED BODY PRESCRIPTIONS ANTIBACTERIAL HAND SANITIZER ROSE WATER SCENTED Active Ingredient Alcohol 75% Purpose Antiseptic
+  BODY PRESCRIPTIONS ANTIBACTERIAL HAND SANITIZER PEPPERMINT SCENTED BODY PRESCRIPTIONS ANTIBACTERIAL HAND SANITIZER PEPPERMINT SCENTED
+active_ingredient:
+  Active Ingredient Alcohol 75%
+  Active Ingredient Alcohol 75%
+purpose:
+  Purpose Antiseptic
+  Purpose Antiseptic
+indications_and_usage:
+  Use ■ To decrease bacteria on the skin that could cause disease ■Recommended for repeated use
+  Uses To decrease bacteria on the skin that could cause disease ■Recommended for repeated use
+warnings:
+  WARNINGS For external use only. Flammable. Keep away from heat or flame Do not use in children less than 2 months of age on open skin wounds When using this product, keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water Stop use and ask a doctor if skin irritation or rash occurs. These may be signs of a serious condition Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222
+  Warnings For external use only. Flammable. Keep away from heat or flame Do not use in children less than 2 months of age on open skin wounds When using this product, keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water
+stop_use:
+  Stop use and ask a doctor if skin irritation or rash occurs. These may be signs of a serious condition
+  Stop use and ask a doctor if skin irritation or rash occurs. These may be a sign of serious condition
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away at 1-800-222-1222
+dosage_and_administration:
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing
+  Directions Place enough product on hands to cover all surfaces. Rub hands together until dry. Supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information Do not store above 105F May discolor some fabrics Harmful to wood finishes and plastics
+  Other Information Do not store above 105F May discolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Carbomer, Fragrance, Glycerin, PEG-40 Hydrogenated Castor Oil, Triethanolamine, Water
+  Inactive Ingredients Carbomer, Fragrance, Glycerin, PEG-40 Hydrogenated Castor Oil, Triethanolamine, Water
+package_label_principal_display_panel:
+  image description
+  image description
+set_id:
+  f05f26f9-d9f2-408f-b405-8871e81978e4
+id:
+  b30d9c99-2dba-04a7-e053-2995a90a6a58
+effective_time:
+  20201101
+version:
+  1
+openfda:

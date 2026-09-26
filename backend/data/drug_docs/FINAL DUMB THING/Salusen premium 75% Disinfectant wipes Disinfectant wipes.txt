@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Salusen premium 75% Disinfectant wipes Disinfectant wipes ALCOHOL ALCOHOL GLYCERIN WATER
+active_ingredient:
+  Active Ingredient Alcohol 75% (V/V)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses Premium 75% Alcohol Disinfectant Wipes is effective for disinfection and sanitation, able to kill 99.99% of viruses and bacteria in just 10 seconds.
+warnings:
+  Warnings For external use only. Flammable, keep away from heat or flame. Do not use Do not use wipes directly on or around eyes on open skin wounds When using this product When using this product Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor Stop use and ask a doctor if irritation or rash occur. Keep out of reach of children Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use Do not use wipes directly on or around eyes on open skin wounds
+when_using:
+  When using this product When using this product Keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor Stop use and ask a doctor if irritation or rash occur.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Supervise children under 6 years of age when using this product to avoid swallowing.
+storage_and_handling:
+  Other informations Store between 15-30 o C (59-86 o F) Avoid freezing and excessive heat above 40 o C (104 o F)
+inactive_ingredient:
+  Inactive Ingredients glycerine, water
+package_label_principal_display_panel:
+  Package Label/Principal Display Panel Salusen Alcohol Wipes 10 pcs (70 ml) NDC 79570-001-01 Salusen Alcohol Wipes 40 pcs (280 ml) NDC 79570-001-02 Salusen Alcohol Wipes 60 pcs (420 ml) NDC 79570-001-03 Salusen Alcohol Wipes 70 ml Salusen Alcohol Wipes 280 ml Salusen Alcohol Wipes 420 ml
+set_id:
+  ab2fe987-7698-3627-e053-2995a90aa735
+id:
+  ab2fe987-7699-3627-e053-2995a90aa735
+effective_time:
+  20200727
+version:
+  1
+openfda:

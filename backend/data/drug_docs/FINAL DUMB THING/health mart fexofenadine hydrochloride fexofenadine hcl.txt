@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  health mart fexofenadine hydrochloride fexofenadine hcl FEXOFENADINE HYDROCHLORIDE FEXOFENADINE SILICON DIOXIDE CROSCARMELLOSE SODIUM HYPROMELLOSE, UNSPECIFIED FERROSOFERRIC OXIDE FERRIC OXIDE RED FERRIC OXIDE YELLOW LACTOSE MONOHYDRATE MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE, UNSPECIFIED TITANIUM DIOXIDE peach 93;7253
+active_ingredient:
+  Active ingredient (in each tablet) Fexofenadine HCl 180 mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: • runny nose • itchy, watery eyes • sneezing • itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose. When using this product • do not take more than directed • do not take at the same time as aluminum or magnesium antacids • do not take with fruit juices (see Directions) Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+do_not_use:
+  Do not use if you have ever had an allergic reaction to this product or any of its ingredients.
+ask_doctor:
+  Ask a doctor before use if you have kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product • do not take more than directed • do not take at the same time as aluminum or magnesium antacids • do not take with fruit juices (see Directions)
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions adults and children 12 years of age and over take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours children under 12 years of age do not use adults 65 years of age and older ask a doctor consumers with kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="100%"><col width="34%"/><col width="66%"/><tbody><tr><td styleCode="Botrule Lrule Toprule " valign="top"><paragraph>adults and children 12 years of age and over</paragraph></td><td styleCode="Rrule Botrule Lrule Toprule " valign="top"><paragraph>take one 180 mg tablet with water once a day; do not take more than 1 tablet in 24 hours</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>children under 12 years of age</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>do not use</paragraph></td></tr><tr><td styleCode="Lrule Botrule " valign="top"><paragraph>adults 65 years of age and older</paragraph></td><td styleCode="Rrule Lrule Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Botrule Lrule " valign="top"><paragraph>consumers with kidney disease</paragraph></td><td styleCode="Rrule Botrule Lrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information • do not use if carton is opened or printed foil under cap is broken or missing • Store between 20°-25°C (68°-77°F) • protect from excessive moisture • this product meets the requirements of USP Dissolution Test 3
+inactive_ingredient:
+  Inactive ingredients colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, iron oxide red, iron oxide yellow, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, titanium dioxide
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Package/Label Principal Display Panel Compare to Allegra ® Allergy active ingredient ALLERGY Fexofenadine Hydrochloride Tablets, 180mg - Antihistamine 24 HR Indoor/Outdoor Allergy Relief Of Sneezing/Runny Nose/Itchy, Watery Eyes/Itchy Nose or Throat Gluten Free - Non-drowsy ACTUAL SIZE 70 Tablets Fexofenadine Hydrochloride Tabets, 180mg Carton
+set_id:
+  feb83f81-32b9-46f3-8407-9a23ea787f75
+id:
+  c874641c-bd40-428e-aafe-16433aae9079
+effective_time:
+  20241227
+version:
+  7
+openfda:

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  TC EnrichedFoam Alcohol Hand Sanitizer Alcohol ALCOHOL ALCOHOL WATER ALOE VERA LEAF GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  Manufactured for: Technical Concepts LLC, 1301 Allanson Road Mundelein, Illinois 60060 U.S.A. 1-800-551-5155 • www.technicalconcepts.com ©2008 Technical Concepts. ® and TM : Trademark of Technical Concepts. Patent Pending MADE IN THE NETHERLANDS
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 67% v/v
+purpose:
+  Purpose Antiseptic cleanser
+indications_and_usage:
+  Use To decrease potentially harmful germs on skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only . When using this product avoid contact with eyes , in case of eye contact, flush with water. Stop use and ask a doctor, if irritation or redness develops or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, do not induce vomiting, get medical attention. READ MATERIAL SAFETY DATA SHEET BEFORE USING PRODUCT
+when_using:
+  When using this product avoid contact with eyes , in case of eye contact, flush with water.
+stop_use:
+  Stop use and ask a doctor, if irritation or redness develops or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, do not induce vomiting, get medical attention. READ MATERIAL SAFETY DATA SHEET BEFORE USING PRODUCT
+dosage_and_administration:
+  Directions Apply generously to hands. Rub hands together. Allow hands to dry. Repeat daily as necessary.
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), DEA-C8-18 Perfluoroalkylethyl Phosphate, Aloe Vera, Glycerin
+questions:
+  Questions 1- 800-551-5155 info@technicalconcepts.com
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 800 mL Carton TC ® ENRICHED FOAM Hand Sanitizer (67% Ethyl Alcohol) 800 ml (27 FL.OZ.) Principal Display Panel - 800 mL Carton
+set_id:
+  3f4b35d5-3298-4c37-9ad8-669f71341b5d
+id:
+  26d5cbc1-cdb5-49df-ac3a-1e28de20e18f
+effective_time:
+  20231030
+version:
+  3
+openfda:

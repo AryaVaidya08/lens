@@ -1,0 +1,43 @@
+effective_time:
+  20170809
+inactive_ingredient:
+  Inactive ingredients acesulfame potassium, carnauba wax, flavor, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, povidone, silicon dioxide, sodium starch glycolate, starch, stearic acid, talc, titanium dioxide
+purpose:
+  Purpose Pain reliever/fever reducer Cough suppressant Nasal decongestant
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if you take • more than 12 caplets in 24 hours, which is the maximum daily amount • with other drugs containing acetaminophen • 3 or more alcoholic drinks every day while using this product Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have • liver disease • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • cough that lasts or is chronic such as occurs with smoking, asthma or emphysema • cough that occurs with too much phlegm (mucus) Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed Stop use and ask a doctor if • nervousness, dizziness or sleeplessness occur • pain, nasal congestion or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. (1-800-222-1222) Quick medical attention is critical for adults as well as for children even if you do not notice any signs or symptoms.
+when_using:
+  When using this product do not use more than directed
+questions:
+  Questions or comments? 1-888-423-0139
+spl_product_data_elements:
+  Topcare Cold Multi Symptom Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride ACETAMINOPHEN ACETAMINOPHEN DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE ACESULFAME POTASSIUM CARNAUBA WAX MAGNESIUM STEARATE CELLULOSE, MICROCRYSTALLINE POLYVINYL ALCOHOL POVIDONES SILICON DIOXIDE STEARIC ACID TALC TITANIUM DIOXIDE POLYETHYLENE GLYCOLS caplet L402 (menthol)
+ask_doctor:
+  Ask a doctor before use if you have • liver disease • heart disease • high blood pressure • thyroid disease • diabetes • trouble urinating due to an enlarged prostate gland • cough that lasts or is chronic such as occurs with smoking, asthma or emphysema • cough that occurs with too much phlegm (mucus)
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions • do not take more than directed (see Liver warning) adults and children 12 years and over • take 2 caplets every 4 hours • swallow whole – do not crush, chew or dissolve • do not take more than 12 caplets in 24 hours children under 12 years do not use this adult product in children under 12 years of age
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if • nervousness, dizziness or sleeplessness occur • pain, nasal congestion or cough gets worse or lasts more than 7 days • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts These could be signs of a serious condition.
+do_not_use:
+  Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+package_label_principal_display_panel:
+  Principal Display Panel See New Warnings Information Daytime Non-Drowsy Cold Multi-Symptom Pain Reliever/Fever Reducer/Nasal Decongestant/Cough Suppressant Contains 3 Medicines: Fever/Headache/Sore Throat/Acetaminophen Nasal Congestion/Phenylephrine HCl Coughing/Dextromethorphan HBr Instant Cooling Sensation Cool Ice® Actual Size Compare to Tylenol® Cold Multi-Symptom Daytime active ingredients Cold Multi-Symptom Carton Cold Multi-Symptom Carton Cold Multi-Symptom Carton
+indications_and_usage:
+  Uses • temporarily relieves these common cold/flu symptoms: • minor aches and pains • headache • sore throat • nasal congestion • cough • sinus congestion and pressure • helps clear nasal passages • promotes nasal and sinus drainage • temporarily reduces fever
+set_id:
+  c0732bd0-5a49-4e8e-838f-946010fabad5
+id:
+  4ba0b5dd-2806-462b-896c-9ccf8c5198fc
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin
+active_ingredient:
+  Active ingredient (in each caplet) Acetaminophen 325 mg Dextromethorphan HBr 10 mg Phenylephrine HCl 5 mg
+dosage_and_administration_table:
+  <table width="100%"> <col width="31%"/> <col width="69%"/> <tbody> <tr> <td styleCode="Botrule Lrule Toprule " valign="top"> <paragraph>adults and children 12 years and over</paragraph> </td> <td styleCode="Rrule Botrule Lrule Toprule " valign="top"> <list listType="ordered"> <item> <caption>&#x2022;</caption>take 2 caplets every 4 hours</item> <item> <caption>&#x2022;</caption>swallow whole &#x2013; do not crush, chew or dissolve</item> <item> <caption>&#x2022;</caption>do not take more than 12 caplets in 24 hours </item> </list> </td> </tr> <tr> <td styleCode="Botrule Lrule " valign="top"> <paragraph>children under 12 years</paragraph> </td> <td styleCode="Rrule Botrule Lrule " valign="top"> <paragraph>do not use this adult product in children under </paragraph> <paragraph>12 years of age</paragraph> </td> </tr> </tbody> </table>

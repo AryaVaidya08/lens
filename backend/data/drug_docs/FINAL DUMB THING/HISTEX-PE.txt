@@ -1,0 +1,49 @@
+effective_time:
+  20140317
+purpose:
+  Active ingredients (in each 5 mL teaspoonful) Purpose Phenylephrine HCl 10 mg Decongestant Triprolidine HCl 2.5 mg Antihistamine
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product excitability may occur, especially in children may cause drowsiness alcohol, sedatives and tranquilizers may increase the drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery
+questions:
+  Questions? Comments? Call 1-866-633-9033.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other Information Store at 15°-30° C (59°-86° F). Tamper evident by foil seal under cap. Do not use if foil seal is missing or broken. Dispense in a tight, light-resistant container with a child-resistant cap.
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to common cold, hay fever (allergic rhinitis) or other upper respiratory allergies: runny nose sneezing itching of the nose or throat itchy, watery eyes nasal congestion reduces swelling of nasal passages
+set_id:
+  26c2117e-804e-4132-8707-fc0302fb9090
+id:
+  660edee9-4a95-4a0b-b951-c5283293c626
+active_ingredient:
+  Active ingredients (in each 5 mL teaspoonful) Purpose Phenylephrine HCl 10 mg Decongestant Triprolidine HCl 2.5 mg Antihistamine
+dosage_and_administration_table:
+  <table width="75%"> <col width="50%" align="left" valign="top"/> <col width="50%" align="left" valign="top"/> <thead> <tr> <th styleCode="Lrule Rrule">AGE</th> <th styleCode="Rrule">DOSE</th> </tr> </thead> <tbody> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">Adults and Children 12 years of age and older:</td> <td styleCode="Rrule">1 teaspoonful (5 mL) every 4 hours, not to exceed 4 teaspoonfuls (20 mL) in 24 hours, or as directed by a doctor</td> </tr> <tr styleCode="Botrule"> <td styleCode="Lrule Rrule">Children 6 to under 12 years of age</td> <td styleCode="Rrule">&#xBD; teaspoonful (2.5 mL) every 4 hours, not to exceed 2 teaspoonfuls (10 mL) in 24 hours, or as directed by a doctor.</td> </tr> <tr> <td styleCode="Lrule Rrule">Children under 6 years of age</td> <td styleCode="Rrule">Consult a doctor</td> </tr> </tbody> </table>
+inactive_ingredient:
+  Inactive ingredients Citric Acid, Glycerin, Propylene Glycol, Purified Water, Sodium Citrate, Sodium Saccharin, Sorbitol, Grape Flavor.
+warnings:
+  Warnings Do not exceed recommended dosage. Do not use this product If you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product. Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis heart disease high blood pressure thyroid disease diabetes glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor before use if you are taking sedatives or tranquilizers When using this product excitability may occur, especially in children may cause drowsiness alcohol, sedatives and tranquilizers may increase the drowsiness effect avoid alcoholic beverages use caution when driving a motor vehicle or operating machinery Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur If pregnant or breast-feeding, ask a health professional before use. Keep out of the reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  HISTEX-PE PHENYLEPHRINE HYDROCHLORIDE and TRIPROLIDINE HYDROCHLORIDE PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE TRIPROLIDINE HYDROCHLORIDE TRIPROLIDINE CITRIC ACID MONOHYDRATE GLYCERIN PROPYLENE GLYCOL WATER SODIUM CITRATE SACCHARIN SODIUM SORBITOL
+ask_doctor:
+  Ask a doctor before use if you have a breathing problem such as emphysema or chronic bronchitis heart disease high blood pressure thyroid disease diabetes glaucoma trouble urinating due to an enlarged prostate gland Ask a doctor before use if you are taking sedatives or tranquilizers
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Do not exceed recommended dosage. AGE DOSE Adults and Children 12 years of age and older: 1 teaspoonful (5 mL) every 4 hours, not to exceed 4 teaspoonfuls (20 mL) in 24 hours, or as directed by a doctor Children 6 to under 12 years of age ½ teaspoonful (2.5 mL) every 4 hours, not to exceed 2 teaspoonfuls (10 mL) in 24 hours, or as directed by a doctor. Children under 6 years of age Consult a doctor
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur cough or nasal congestion persists for more than 1 week, tends to recur or is accompanied by a fever, rash or persistent headache. These could be signs of a serious condition. new symptoms occur
+do_not_use:
+  Do not use this product If you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product.
+active_ingredient_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each 5 mL teaspoonful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Phenylephrine HCl 10 mg</td> <td>Decongestant</td> </tr> <tr> <td>Triprolidine HCl 2.5 mg</td> <td>Antihistamine</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label NDC 28595-803-16 Antihistamine • Decongestant HISTEX ™ -PE Syrup Each teaspoonful (5 mL) contains: Phenylephrine HCl 10 mg Triprolidine HCl 2.5 mg Sugar-Free • Dye Free Alcohol Free Grape Flavor 16 fl oz (473 mL) Principal Display Panel - 473 mL Bottle Label
+purpose_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr> <th> <content styleCode="italics">Active ingredients (in each 5 mL teaspoonful)</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr> <td>Phenylephrine HCl 10 mg</td> <td>Decongestant</td> </tr> <tr> <td>Triprolidine HCl 2.5 mg</td> <td>Antihistamine</td> </tr> </tbody> </table>

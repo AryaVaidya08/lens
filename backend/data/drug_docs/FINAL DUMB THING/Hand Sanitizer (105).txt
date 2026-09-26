@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Hand Sanitizer ALCOHOL PROPYLENE GLYCOL ALOE VERA LEAF CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATER TROLAMINE GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Alcohol 75% Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only, do not inhale or ingest. Do not use in, or near the eyes. In case of contact with eyes, rinse thoroughly with water. Avoid contact with broken skin Stop use and ask a doctor if redness or irritation develops, irritation or rash develop and persist for more than 72 hours. Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  Do not use in, or near the eyes. In case of contact with eyes, rinse thoroughly with water. Avoid contact with broken skin
+stop_use:
+  Stop use and ask a doctor if redness or irritation develops, irritation or rash develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping. For children under 6, use only under adult supervision. Not recommended for infants.
+spl_unclassified_section:
+  Other information Store below 110°F (43°C) May discolor certain fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water, Triethanolamine, Carbomer, Aloe Vera Gel, Fragrance, Glycerin, Propylene Glycol
+package_label_principal_display_panel:
+  Package Label package label
+set_id:
+  a6427617-fae5-451d-e053-2a95a90aac25
+id:
+  a7c08d39-8adc-1afa-e053-2995a90a59c9
+effective_time:
+  20200610
+version:
+  3
+openfda:

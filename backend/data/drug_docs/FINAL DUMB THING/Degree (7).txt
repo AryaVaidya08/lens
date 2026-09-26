@@ -1,0 +1,57 @@
+spl_product_data_elements:
+  Degree Advanced Fresh English Rose 72H Antiperspirant Deodorant CITRAL COUMARIN GERANIOL BENZYL CINNAMATE BENZYL ALCOHOL ALKYL (C12-15) BENZOATE BENZYL SALICYLATE MINERAL OIL HIGH DENSITY POLYETHYLENE CALCIUM CHLORIDE GLYCINE HYDROGENATED CASTOR OIL ALUMINUM SESQUICHLOROHYDRATE ALUMINUM SESQUICHLOROHYDRATE CYCLOMETHICONE 5 BUTYLATED HYDROXYTOLUENE MALTODEXTRIN PEG-8 DISTEARATE TALC SILICON DIOXIDE PPG-14 BUTYL ETHER STEARYL ALCOHOL LIMONENE, (+)- LINALOOL, (+/-)- .BETA.-CITRONELLOL, (R)- ISOMETHYL-.ALPHA.-IONONE CINNAMYL ALCOHOL .ALPHA.-HEXYLCINNAMALDEHYDE
+description:
+  DEGREE ADVANCED FRESH ENGLISH ROSE 72H ANTIPERSPIRANT DEODORANT - aluminum Sesquichlorohydrate stick
+active_ingredient:
+  Drug Facts Active ingredient Aluminum Sesquichlorohydrate (16%)
+purpose:
+  Purpose antiperspirant
+indications_and_usage:
+  Uses reduces underarm wetness
+warnings:
+  Warnings • For external use only. • Do not use on broken skin . • Ask a doctor before use if you have kidney disease. • Stop use if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  • Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to underarms only
+inactive_ingredient:
+  Inactive ingredients Cyclopentasiloxane, Stearyl Alcohol, PPG-14 Butyl Ether, C12-15 Alkyl Benzoate, Mineral Oil, Glycine, Hydrogenated Castor Oil, Fragrance (Parfum), Calcium Chloride, Talc, Polyethylene, PEG-8 Distearate, Sodium Starch Octenylsuccinate, Maltodextrin, Hydrolyzed Corn Starch Octenylsuccinate, BHT, Silica, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Cinnamate, Benzyl Salicylate. Cinnamyl Alcohol, Citral, Citronellol, Coumarin, Geraniol, Hexyl Cinnamal, Limonene. Linalool
+questions:
+  Questions? Call 1-866-334-7331
+package_label_principal_display_panel:
+  Packaging Degree English Rose AP Deo IS
+set_id:
+  052e4ac6-553f-18c8-e063-6394a90adc4d
+id:
+  264b77dd-7701-beb3-e063-6294a90a5eef
+effective_time:
+  20241106
+version:
+  2
+openfda:
+  application_number:
+    M019
+  brand_name:
+    Degree
+  generic_name:
+    ADVANCED FRESH ENGLISH ROSE 72H ANTIPERSPIRANT DEODORANT
+  manufacturer_name:
+    Conopco Inc. d/b/a/ Unilever
+  product_ndc:
+    64942-2210
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALUMINUM SESQUICHLOROHYDRATE
+  spl_id:
+    264b77dd-7701-beb3-e063-6294a90a5eef
+  spl_set_id:
+    052e4ac6-553f-18c8-e063-6394a90adc4d
+  package_ndc:
+    64942-2210-1
+  is_original_packager:
+    True
+  unii:
+    UCN889409V

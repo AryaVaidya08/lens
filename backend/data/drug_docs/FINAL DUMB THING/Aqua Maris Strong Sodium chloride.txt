@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Aqua Maris Strong Sodium chloride WATER SODIUM CHLORIDE SODIUM CATION
+active_ingredient:
+  Active ingredient Purified Sea Water Purpose Moisturizes and clears congestion
+active_ingredient_table:
+  <table width="50%"><col width="60%" align="left" valign="top"/><col width="40%" align="right" valign="top"/><tbody><tr><td><content styleCode="bold">Active ingredient </content>  Purified Sea Water </td><td><content styleCode="bold">Purpose </content>  Moisturizes and clears congestion </td></tr></tbody></table>
+indications_and_usage:
+  Uses For moisturizing and maintaining daily hygiene of the nasal cavity and relieving symptoms of congested nose
+when_using:
+  Directions Spray into the nostril as needed The procedure can be repeated as often as required to obtain the desired result (non-habit forming, non-addicting)
+warnings:
+  Warnings For external use only, do not inject Do not use if seal is broken or missing When using this product Use only as directed The use of this dispenser by more than one person may spread infection
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+purpose:
+  
+dosage_and_administration:
+  
+storage_and_handling:
+  Other information Store between 59° and 77° F (15° to 25°C)
+inactive_ingredient:
+  Inactive Ingredient Purified Water
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL NASAL DROPS AQUA® MARIS strong Purified hypertonic sea water from the Adriatic 30 mle Strong Carton
+set_id:
+  d0a918a0-0a5b-4d58-9501-85c29bfbcbe8
+id:
+  f546cb8d-e8e1-8567-e053-2a95a90a054a
+effective_time:
+  20230222
+version:
+  2
+openfda:

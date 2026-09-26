@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION Chromium Sulphuricum Chromium Sulphuricum SUCROSE CHROMIC SULFATE DECAHYDRATE CHROMIC CATION
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Chromium Sulphuricum 6C 5g Chromium Sulphuricum 6C 30g Chromium Sulphuricum 6C 100g Chromium Sulphuricum 12C 5g Chromium Sulphuricum 12C 30g Chromium Sulphuricum 12C 100g Chromium Sulphuricum 30C 1g Chromium Sulphuricum 30C 5g Chromium Sulphuricum 30C 30g Chromium Sulphuricum 30C 100g Chromium Sulphuricum 100C 1g Chromium Sulphuricum 100C 5g Chromium Sulphuricum 100C 30g Chromium Sulphuricum 100C 100g Chromium Sulphuricum 200C 1g Chromium Sulphuricum 200C 5g Chromium Sulphuricum 200C 30g Chromium Sulphuricum 200C 100g Chromium Sulphuricum 500C 1g Chromium Sulphuricum 500C 5g Chromium Sulphuricum 500C 30g Chromium Sulphuricum 500C 100g Chromium Sulphuricum 1M 1g Chromium Sulphuricum 1M 5g Chromium Sulphuricum 1M 30g Chromium Sulphuricum 1M 100g Chromium Sulphuricum LM1 30g
+set_id:
+  e109173f-0814-0d91-e053-2a95a90a8f6c
+id:
+  e109173f-0815-0d91-e053-2a95a90a8f6c
+effective_time:
+  20220609
+version:
+  1
+openfda:
+  brand_name:
+    Chromium Sulphuricum
+  generic_name:
+    CHROMIUM SULPHURICUM
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-0433
+    37662-0439
+    37662-0437
+    37662-0436
+    37662-0438
+    37662-0434
+    37662-0435
+    37662-0440
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CHROMIC SULFATE DECAHYDRATE
+  spl_id:
+    e109173f-0815-0d91-e053-2a95a90a8f6c
+  spl_set_id:
+    e109173f-0814-0d91-e053-2a95a90a8f6c
+  package_ndc:
+    37662-0439-1
+    37662-0439-2
+    37662-0439-3
+    37662-0439-4
+    37662-0437-1
+    37662-0437-2
+    37662-0437-3
+    37662-0437-4
+    37662-0436-1
+    37662-0436-2
+    37662-0436-3
+    37662-0436-4
+    37662-0438-1
+    37662-0438-2
+    37662-0438-3
+    37662-0438-4
+    37662-0434-1
+    37662-0434-2
+    37662-0434-3
+    37662-0435-1
+    37662-0435-2
+    37662-0435-3
+    37662-0435-4
+    37662-0440-1
+    37662-0433-1
+    37662-0433-2
+    37662-0433-3
+  is_original_packager:
+    True
+  unii:
+    8Q759N78CX

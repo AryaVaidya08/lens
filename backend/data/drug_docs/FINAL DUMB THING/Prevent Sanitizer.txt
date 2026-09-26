@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  Prevent Sanitizer ISOPROPYL ALCOHOL WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE GLYCERIN ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE, DL- ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  For domestic/personal care use. Store below 43° C (110° F). May discolour certain fabrics.
+active_ingredient:
+  Active ingredient Isopropyl Alcohol 75% v/v Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses For personal hand hygiene to help prevent the spread of bacteria. For occasional use.
+warnings:
+  Warnings. Flammable. Keep away from open flame and sources of heat Keep out of reach of children. Supervise children when they use this product. For external use only. If accidental ingestion occurs, call a Poison Control Center immediately. Avoid contact with the eyes. If contact occurs, flush eyes with water. If irritation develops, discontinue use and consult a health care practitioner.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Supervise children when they use this product.
+dosage_and_administration:
+  Directions - Rub thoroughly into hands for at least 30 seconds. Allow to dry.
+inactive_ingredient:
+  Inactive Ingredients: Water, Carbomer, Triethanolamine, Glycerin, Aloe Barbadensis Leaf Powder, DL-alpha Tocopheryl Acetate (Vitamin E)
+questions:
+  Questions : 1-844-432-6633 Mon -Fri 8am - 4pm (EST) Email: info@eco-med.com
+package_label_principal_display_panel:
+  Package Labeling:78835-001-02 Label
+  Package Labeling:78835-001-16 Label3
+  Package Labeling:78835-001-08 Label4
+  Package Labeling:78835-001-37 Label5
+set_id:
+  ab97b13c-6114-25a4-e053-2995a90a90be
+id:
+  ac8b722a-8483-2b23-e053-2a95a90a56eb
+effective_time:
+  20200810
+version:
+  2
+openfda:

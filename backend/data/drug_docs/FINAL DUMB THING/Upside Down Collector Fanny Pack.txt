@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  Upside Down Collector Fanny Pack ALCOHOL Hand Sanitizer Upside Down ALCOHOL ALOE VERA LEAF GLYCERIN PROPYLENE GLYCOL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) AMINOMETHYLPROPANOL MANNITOL MICROCRYSTALLINE CELLULOSE SUCROSE WATER CORN DENATONIUM BENZOATE .ALPHA.-TOCOPHEROL ACETATE MALTODEXTRIN HYPROMELLOSE, UNSPECIFIED POTASSIUM SORBATE SODIUM BENZOATE ISOMETHYL-.ALPHA.-IONONE .BETA.-CITRONELLOL, (R)- GERANIOL D&C RED NO. 30 FD&C BLUE NO. 1 ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at a temperature below 110° F (43° C)
+active_ingredient:
+  Active ingredient Alcohol 67% (v/v) Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only. Flammable, keep away from fire or flame. Do not use in the eyes. In case of contact, flush eyes with water. Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in the eyes. In case of contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and allow to dry without wiping
+inactive_ingredient:
+  Inactive ingredients Aqua (Water), Parfum (Fragrance), Aloe Barbadensis Leaf Juice Powder, Glycerin, Propylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, Mannitol, Microcrystalline Cellulose, Sucrose, Zea Mays (Corn) Starch, Denatonium Benzoate, Tocopheryl Acetate, Maltodextrin, Hydroxypropyl Methylcellulose, Potassium Sorbate, Sodium Benzoate, Alpha-Isomethyl Ionone, Citronellol, Geraniol, CI 73360 (Red 30 Lake), CI 42090 (Blue 1), CI 17200 (Red 33).
+package_label_principal_display_panel:
+  Package Labeling:72866-034-01 Label4 Label5
+  Package Labeling:72866-035-01 Bottle
+set_id:
+  c71ad08a-a6ea-db30-e053-2995a90a4cef
+id:
+  0f9f7648-fae9-a531-e063-6294a90acd6e
+effective_time:
+  20240123
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Upside Down Collector Fanny Pack
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    MERCI HANDY CORPORATION
+  product_ndc:
+    72866-034
+  product_type:
+    HUMAN OTC DRUG
+  rxcui:
+    1039708
+  spl_id:
+    0f9f7648-fae9-a531-e063-6294a90acd6e
+  spl_set_id:
+    c71ad08a-a6ea-db30-e053-2995a90a4cef
+  package_ndc:
+    72866-034-01
+    72866-035-01
+  is_original_packager:
+    True
+  upc:
+    3760277823661

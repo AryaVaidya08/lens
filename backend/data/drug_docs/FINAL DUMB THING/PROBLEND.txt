@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  PROBLEND ANTIBACTERIAL CLEANSER Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM Water COCAMIDOPROPYL BETAINE PEG-150 DISTEARATE CAPRYLYL GLUCOSIDE GLYCERIN DITETRACYCLINE TETRASODIUM EDETATE BENZISOTHIAZOLINONE METHYLISOTHIAZOLINONE
+active_ingredient:
+  ACTIVE INGREDIENT Benzalkonium Chloride 0.13%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For hand washing to decrease bacteria on the skin.
+warnings:
+  Warnings For external use only.
+general_precautions:
+  When Using this Product Avoid contact with eyes. In case of eye contact,, flush eyes with water. Do not ingest. Stop use and contact a doctor if irritation or redness develop or conditions persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact Poison Control Center right away.
+dosage_and_administration:
+  Directions - Pump into hands, wet as needed. - Lather vigorously for at least 15 seconds. Wash skin, rinse thogoughly and dry. - Children under 6 years of age should be supervised when using this product.
+inactive_ingredient:
+  INERT INGREDIENTS: Water, Cocamidopropyl Betaine, PEG 150 Distearate, Caprylyl Glucoside, Glycerine, Cocamide MIPA, Tetrasodium EDTA, Fragrance, Citric Acid, Aloe Vera, Benzisothiazol, Methylisothiozol, FD&C Blue #1
+package_label_principal_display_panel:
+  PROBLEND ANTIBACTERIAL LIQUID CLEANSER PROBLEND ANTIBACTERIAL LIQUID CLEANSER image description
+set_id:
+  37b0fa00-76c5-4130-b38a-aceab2be7283
+id:
+  43307448-c4b6-427f-8833-b1fcd612d2a5
+effective_time:
+  20220124
+version:
+  5
+openfda:

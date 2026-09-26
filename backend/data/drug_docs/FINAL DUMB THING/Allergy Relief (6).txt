@@ -1,0 +1,73 @@
+spl_product_data_elements:
+  Allergy Relief Loratadine FD&C BLUE NO. 1 GELATIN CAPRIC ACID POVIDONE K30 WATER SORBITOL POLYSORBATE 80 SORBITAN LORATADINE LORATADINE Light Blue oval shaped 21
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient (in each capsule) Loratadine 10mg
+purpose:
+  Purpose Antihistamine
+indications_and_usage:
+  Uses temporarily relieves these symptoms due to hay fever or other upper respiratory allergies • runny nose • sneezing • itchy, water eyes • itching of the nose or throat
+warnings:
+  Warnings Do not use if you have ever had an allergic reaction to this product or any of its ingredients. Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose. When using this product do not take more than directed. Taking more than directed may cause drowsiness. Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+ask_doctor:
+  Ask a doctor before use if you have liver or kidney disease. Your doctor should determine if you need a different dose.
+when_using:
+  When using this product do not take more than directed. Taking more than directed may cause drowsiness.
+stop_use:
+  Stop use and ask a doctor if an allergic reaction to this product occurs. Seek medical help right away
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away (1-800-222-1222).
+dosage_and_administration:
+  Directions adults and children 6 years and over 1 capsule daily; not more than 1 capsule in 24 hours children under 6 years of age ask a doctor consumers with liver or kidney disease ask a doctor
+dosage_and_administration_table:
+  <table width="100%" cellspacing="0" cellpadding="0"><tbody><tr styleCode="Botrule First"><td styleCode="Lrule Rrule" valign="top">adults and children 6 years and over</td><td align="left" styleCode="Rrule" valign="top">1 capsule daily; not more than 1 capsule in 24 hours</td></tr><tr styleCode="Botrule"><td align="left" styleCode="Lrule Rrule" valign="top">children under 6 years of age</td><td align="left" styleCode="Rrule" valign="top">ask a doctor</td></tr><tr><td styleCode="Lrule Rrule" valign="top">consumers with liver or kidney disease</td><td align="left" styleCode="Rrule" valign="top">ask a doctor  </td></tr></tbody></table>
+storage_and_handling:
+  Other information • Store between 20-25˚C (68-77˚F) • protect from freezing • retain carton for complete information and warnings
+inactive_ingredient:
+  Inactive ingredients FD&C Blue no. 1, gelatine, mono anddiglyceride of caprilic/capric acid, pharmaceutical ink, polysorbate 80,povidone, purified water, sorbitol, sorbitan solution.
+questions:
+  Questions or comments?
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL QUALITY CHOICE® NDC 83324-103-10 †Compare to Active Ingredient in CLARITIN® Liqui-Gels® Non-Drowsy* Allergy Relief 24 Hour Loratadine 10 mg Antihistamine Indoor & Outdoor Allergies For Relief of: Sneezing | Runny Nose Itchy, Watery Eyes | Itchy Throat or Nose *When taken as directed. See Drug Facts Panel. Actual Size 10 SOFTGELS** **Liquid-Filled Capsules image description
+set_id:
+  e0cb8057-4755-482d-84f4-9275f7b85cd0
+id:
+  1f7f07c0-c2f3-34ee-e063-6394a90a4dee
+effective_time:
+  20240812
+version:
+  2
+openfda:
+  application_number:
+    ANDA206214
+  brand_name:
+    Allergy Relief
+  generic_name:
+    LORATADINE
+  manufacturer_name:
+    CHAIN DRUG MARKETING ASSOCIATION, INC.
+  product_ndc:
+    83324-103
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    LORATADINE
+  rxcui:
+    828269
+  spl_id:
+    1f7f07c0-c2f3-34ee-e063-6394a90a4dee
+  spl_set_id:
+    e0cb8057-4755-482d-84f4-9275f7b85cd0
+  package_ndc:
+    83324-103-10
+  is_original_packager:
+    True
+  upc:
+    0635515996892
+  unii:
+    7AJO3BO7QN

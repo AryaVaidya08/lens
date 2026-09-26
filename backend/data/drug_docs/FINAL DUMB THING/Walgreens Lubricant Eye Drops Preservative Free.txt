@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Walgreens Lubricant Eye Drops Preservative Free Carboxymethylcellulose sodium SODIUM CHLORIDE CALCIUM CHLORIDE HYDROCHLORIC ACID POTASSIUM CHLORIDE WATER SODIUM HYDROXIDE CARBOXYMETHYLCELLULOSE SODIUM CARBOXYMETHYLCELLULOSE MAGNESIUM CHLORIDE SODIUM LACTATE
+active_ingredient:
+  Active Ingredients ​Carboxymethylcellulose sodium 0.5%
+purpose:
+  Purpose Lubricant
+indications_and_usage:
+  Uses for the temporary relief of burning, irritation, and discomfort due to dryness of the eyes or exposure to wind or sun may be used as a protectant against further irritation
+warnings:
+  Warnings For external use only Do not use this product if solution changes color or becomes cloudy When using this product do not reuse once opened, discard to avoid contamination, do not touch tip of container to any surface do not touch unit-dose tip to eye Stop use and ask a doctor if you experience eye pain changes in vision occur redness or irritation of the eye continues redness or irritation of the eye worsens or persists for more than 72 hours Keep out of the reach of children. If accidentally swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+do_not_use:
+  Do not use this product if solution changes color or becomes cloudy
+when_using:
+  When using this product do not reuse once opened, discard to avoid contamination, do not touch tip of container to any surface do not touch unit-dose tip to eye
+stop_use:
+  Stop use and ask a doctor if you experience eye pain changes in vision occur redness or irritation of the eye continues redness or irritation of the eye worsens or persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If accidentally swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) immediately.
+dosage_and_administration:
+  Directions to open, twist and pull tab to remove instill 1 or 2 drops in the affected eye(s) as needed and discard container if used for post-operative (e.g., LASIK) dryness and discomfort, follow your eye doctor's instructions
+other_safety_information:
+  Other information store at 15°-25ºC (59°-77°F) use only if single-use container is intact use before expiration date marked on container RETAIN THIS CARTON FOR FUTURE REFERENCE
+inactive_ingredient:
+  Inactive ingredients calcium chloride, **hydrochloric acid, magnesium chloride, potassium chloride, purified water, sodium chloride, **sodium hydroxide, sodium lactate, **May contain these ingredients to adjust pH.
+questions:
+  Questions or comments? Call 1-888-527-4276
+package_label_principal_display_panel:
+  Walgreens Lubricant Eye Drops Preservative Free 30ct Walgreens Lubricant Eye Drops Preservative Free 30ct
+  Walgreens Lubricant Eye Drops Preservative Free 70ct Walgreens Lubricant Eye Drops Preservative Free 70ct
+set_id:
+  9912b773-e7a5-3a82-e053-2995a90a5b2c
+id:
+  0cf9a93e-075b-a2f2-e063-6394a90aec81
+effective_time:
+  20231220
+version:
+  2
+openfda:
+  application_number:
+    M018
+  brand_name:
+    Walgreens Lubricant Eye Drops Preservative Free
+  generic_name:
+    CARBOXYMETHYLCELLULOSE SODIUM
+  manufacturer_name:
+    Walgreen Company
+  product_ndc:
+    0363-8800
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    CARBOXYMETHYLCELLULOSE SODIUM
+  rxcui:
+    1188426
+  spl_id:
+    0cf9a93e-075b-a2f2-e063-6394a90aec81
+  spl_set_id:
+    9912b773-e7a5-3a82-e053-2995a90a5b2c
+  package_ndc:
+    0363-8800-01
+    0363-8800-02
+  is_original_packager:
+    True
+  unii:
+    K679OBS311

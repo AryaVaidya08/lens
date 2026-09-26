@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Geri-kot SENNOSIDES CROSCARMELLOSE SODIUM MICROCRYSTALLINE CELLULOSE DIBASIC CALCIUM PHOSPHATE DIHYDRATE SILICON DIOXIDE MAGNESIUM STEARATE TALC TRIACETIN HYPROMELLOSE, UNSPECIFIED SENNOSIDES SENNOSIDES PS23
+active_ingredient:
+  Active ingredient (in each tablet) Sennosides 8.6 mg
+purpose:
+  Purpose Laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use for more than 1 week unless directed by a doctor. Ask a doctor before use if you • have abdominal pain, nausea or vomiting • have noticed a sudden change in bowel habits that lasts over 2 weeks Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These may indicate a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions • do not exceed 8 tablets in 24 hours Age Starting Dose Maximum Dose adults and children 12 years of age and older 2 tablets once a day preferably at bedtime; increase as needed, or as directed by a doctor 4 tablets in the morning and 4 tablets at bedtime children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table border="2" width="100%" ID="i37a44b32-ebba-445f-88fc-46090b3986b6"><thead><tr><th>Age  </th><th>Starting Dose  </th><th>Maximum Dose  </th></tr></thead><tbody><tr><td>adults and children 12 years of age and older  </td><td>2 tablets once a day preferably at bedtime; increase as needed, or as directed by a doctor  </td><td>4 tablets in the morning and 4 tablets at bedtime  </td></tr><tr><td>children under 12 years  </td><td>ask a doctor  </td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 30 mg Tamper Evident: Do not use if imprinted seal under cap is missing or broken store at 20°C-25°C (68°F-77°F)
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, dicalcium phosphate, hypromellose, magnesium stearate, microcrystalline cellulose, silica, talc, triacetin
+how_supplied:
+  HOW SUPPLIED Sennosides 8.6 mg NDC: 71335-2230-1: 100 Tablets in a BOTTLE NDC: 71335-2230-2: 60 Tablets in a BOTTLE NDC: 71335-2230-3: 120 Tablets in a BOTTLE NDC: 71335-2230-4: 56 Tablets in a BOTTLE NDC: 71335-2230-5: 30 Tablets in a BOTTLE NDC: 71335-2230-6: 90 Tablets in a BOTTLE NDC: 71335-2230-7: 10 Tablets in a BOTTLE Repackaged/Relabeled by: Bryant Ranch Prepack, Inc. Burbank, CA 91504
+package_label_principal_display_panel:
+  Sennosides 8.6 mg Tablets Label
+set_id:
+  1c5791f9-950d-4e24-89e8-b7736e40444c
+id:
+  fb8f8a8d-65ef-457b-9e18-81db646b55fd
+effective_time:
+  20241211
+version:
+  102
+openfda:

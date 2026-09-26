@@ -1,0 +1,58 @@
+spl_product_data_elements:
+  SCRUBS Hand Sanitizer Wipes Benzalkonium Chloride MINERAL OIL BENZALKONIUM CHLORIDE BENZALKONIUM ISOPROPYL MYRISTATE ALCOHOL WATER C11-15 PARETH-5
+active_ingredient:
+  Active Ingredient Active Ingredient
+purpose:
+  Purpose Purpose
+warnings:
+  Warnings Warnings
+ask_doctor:
+  Ask Doctor Ask Doctor
+keep_out_of_reach_of_children:
+  KOROC KOROC
+inactive_ingredient:
+  Inactive Ingredients Inactives
+dosage_and_administration:
+  Dosage Directions Dosage
+indications_and_usage:
+  Uses Uses
+package_label_principal_display_panel:
+  Label Full Label
+set_id:
+  067022d1-8ecd-a6ba-e063-6394a90a40f0
+id:
+  11fa76e0-aaca-0ded-e063-6294a90a859e
+effective_time:
+  20240222
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    SCRUBS Hand Sanitizer Wipes
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    ITW Pro Brands
+  product_ndc:
+    51239-2909
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1038856
+  spl_id:
+    11fa76e0-aaca-0ded-e063-6294a90a859e
+  spl_set_id:
+    067022d1-8ecd-a6ba-e063-6394a90a40f0
+  package_ndc:
+    51239-2909-1
+    51239-2909-2
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

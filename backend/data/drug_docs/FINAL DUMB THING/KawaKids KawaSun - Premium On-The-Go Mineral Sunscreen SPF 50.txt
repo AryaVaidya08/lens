@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  KawaKids KawaSun - Premium On-The-Go Mineral Sunscreen SPF 50 Zinc Oxide SQUALANE POLYHYDROXYSTEARIC ACID (2300 MW) AVOCADO OIL MEDIUM-CHAIN TRIGLYCERIDES BUTYROSPERMUM PARKII (SHEA) BUTTER UNSAPONIFIABLES WHITE WAX CANDELILLA WAX ALOE VERA LEAF PIPER EXCELSUM LEAF JOJOBA OIL CALENDULA OFFICINALIS FLOWER OATMEAL LIMOSILACTOBACILLUS FERMENTUM TAMARIND SEED ZINC OXIDE ZINC OXIDE
+active_ingredient:
+  Active ingredients Zinc Oxide 25%
+purpose:
+  Purpose Zinc Oxide 25%................Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ) decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. When using this product Keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If a product is swallowed get medical help or contact a Poison Control Center immediatley.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product Keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If a product is swallowed get medical help or contact a Poison Control Center immediatley.
+dosage_and_administration:
+  Directions Apply liberally to exposed areas 15 minutes before sun exposure Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every two hours Sun Protection Measures: Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other protection measures including: Limit time in the sun, especially from 10am-2pm Wear long-sleeve shirts, pants, hats, and sunglasses Children under 6 months: ask a doctor
+inactive_ingredient:
+  Inactive Ingredients Persea Gratissima (Avocado) Oil, Caprylic/Capric Triglycerides, Butyrospermum Parkii (Shea) Butter, Olive Squalane (Suqalane), Cera Alba (Beeswax), Euphorbia Certifera (Candellia) Wax, Polyhydroxystearic Acid, Aloe Barbadensis (Aloe Vera) Leaf Extract, Piper Excelsum (Kawakawa) Extract, Simmondsia Chinensis (Jojoba) Esters, Calendula (Calendula) Officinalis Extract, Avena Sativa (Oat) Kernel Flour, Lactobacillus Ferment, Tamarindus Indica (Tamarind) Seed Extract
+storage_and_handling:
+  Other Information Protect this product from excessive heat and direct sun Store at room temperature
+questions:
+  Questions or comments? 1-657-789-5775
+package_label_principal_display_panel:
+  Faith & Sage Pharmacist Developed Mom Approved KawaKids KawaSun Premium Sunscreen Stick Broad Spectrum SPF 50 Water Resistant (80 Mins) On-the-go mineral sunscreen for UVA & UVB Protection Silicone PEG Phthalate Paraben Free 0.53 oz / 15 g 1 2
+set_id:
+  1f4341f7-b499-3b73-e063-6394a90a75b8
+id:
+  45c56fb7-1488-14a2-e063-6294a90a4e98
+effective_time:
+  20251212
+version:
+  3
+openfda:
+  application_number:
+    M020
+  brand_name:
+    KawaKids KawaSun - Premium On-The-Go Mineral Sunscreen SPF 50
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    LCA COSMETICS LLC
+  product_ndc:
+    84569-911
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    45c56fb7-1488-14a2-e063-6294a90a4e98
+  spl_set_id:
+    1f4341f7-b499-3b73-e063-6394a90a75b8
+  package_ndc:
+    84569-911-15
+  is_original_packager:
+    True
+  upc:
+    0860011481911
+  unii:
+    SOI2LOH54Z

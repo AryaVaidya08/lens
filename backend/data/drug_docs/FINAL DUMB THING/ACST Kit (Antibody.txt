@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  ACST Kit (Antibody COVID-19 Screening Test Kit) isopropyl alcohol isopropyl alcohol isopropyl alcohol WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Purpose Isopropyl Alcohol 70% v/v Antiseptic
+purpose:
+  Purpose: Antiseptic
+indications_and_usage:
+  Uses For first aid to decrease germs in minor cuts scrapes burns For preparation of the skin prior to injection
+warnings:
+  Warnings For external use only Flammable - keep away from fire or flame Do not use with electrocautery procedures When using this product do not get into eyes apply over large areas of the body in case of deep or puncture wounds, animal bites or serious burns consult a doctor Stop use and ask a doctor if condition persists or gets worse or lasts for more than 72 hours do not use longer than 1 week unless directed by a doctor Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use with electrocautery procedures
+when_using:
+  When using this product do not get into eyes apply over large areas of the body in case of deep or puncture wounds, animal bites or serious burns consult a doctor
+stop_use:
+  Stop use and ask a doctor if condition persists or gets worse or lasts for more than 72 hours do not use longer than 1 week unless directed by a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply to skin as needed discard after single use
+storage_and_handling:
+  Other information Protect from freezing and avoid excessive heat
+inactive_ingredient:
+  Inactive ingredient Water
+package_label_principal_display_panel:
+  NDC: 76420-705-25 ACST Kit™ Antibody COVID-19 Screening Test Kit Kit Contains 25 Test Cassettes with Buffer and Package Insert 25 Droppers 25 Isopropyl Alcohol 70% Prep Pads 25 Single Use Lancets 25 Biohazard Specimen Bags 25 Adhesive Bandages Package Contains 25 Single Use Tests For Professional Use Only For In Vitro Diagnostic Use Distributed by: Enovachem™ PHARMACEUTICALS Torrance, CA 90501 label
+set_id:
+  918e29ec-20fa-4e45-9f93-7bde16d5cac0
+id:
+  d597b57d-3898-b0ec-e053-2a95a90ad440
+effective_time:
+  20220114
+version:
+  2
+openfda:
