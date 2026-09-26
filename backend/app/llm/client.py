@@ -8,7 +8,7 @@ docs/architecture.md's scaling table for why this stays isolated.
 Owned by: Voice & LLM lane.
 """
 
-#import requests
+import requests
 from openai import OpenAI
 
 from ..config import settings
@@ -58,36 +58,11 @@ Drug information context:
 Question:
 {query}
 """
-
     # ================================================================
-    # ACTIVE: OPENAI
+    # ACTIVE: GROK / XAI
     # ================================================================
 
-    try:
-        client = OpenAI(api_key=settings.openai_api_key)
 
-        response = client.responses.create(
-            model="gpt-5.6-luna",
-            instructions=system_prompt,
-            input=user_prompt,
-        )
-
-    except Exception as exc:
-        raise RuntimeError(f"OpenAI request failed: {exc}") from exc
-
-    answer = response.output_text.strip()
-
-    if not answer:
-        raise RuntimeError("OpenAI API returned an empty answer")
-
-    return answer
-
-
-# ================================================================
-# BACKUP: GROK / XAI
-# ================================================================
-
-"""
     if not settings.llm_api_key:
         raise RuntimeError("XAI_API_KEY is not configured")
 
@@ -128,6 +103,29 @@ Question:
 
     if not answer:
         raise RuntimeError("LLM API returned an empty answer")
+
+    return answer
+"""
+    # ================================================================
+    # BACKUP: OPENAI
+    # ================================================================
+
+    try:
+        client = OpenAI(api_key=settings.openai_api_key)
+
+        response = client.responses.create(
+            model="gpt-5.6-luna",
+            instructions=system_prompt,
+            input=user_prompt,
+        )
+
+    except Exception as exc:
+        raise RuntimeError(f"OpenAI request failed: {exc}") from exc
+
+    answer = response.output_text.strip()
+
+    if not answer:
+        raise RuntimeError("OpenAI API returned an empty answer")
 
     return answer
 """
