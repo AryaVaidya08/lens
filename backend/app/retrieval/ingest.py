@@ -49,13 +49,34 @@ def _iter_doc_files(folder_path: Path) -> list[tuple[str, Path]]:
 
 
 def _split_paragraphs(text: str) -> list[str]:
-    parts = [block.strip() for block in text.replace("\r\n", "\n").split("\n\n")]
-    return [part for part in parts if part]
+    normalized = text.replace("\r\n", "\n")
+    parts = [block.strip() for block in normalized.split("\n\n")]
+    parts = [part for part in parts if part]
+    if len(parts) <= 1 and "\n" in normalized:
+        # Some sources (raw label field dumps: "field_name:\n  value") have
+        # no blank-line paragraph breaks at all, which otherwise collapses
+        # the whole doc into a single oversized chunk. Fall back to
+        # single-newline splitting so each field still gets its own chunk.
+        parts = [line.strip() for line in normalized.split("\n") if line.strip()]
+    return parts
+
+
+def _split_oversized(paragraph: str) -> list[str]:
+    """Hard-splits a single paragraph that's far bigger than the target
+    (e.g. one huge table or field value with no internal breaks) into
+    fixed-size windows, so it doesn't become one giant, mostly-truncated
+    embedding and an oversized context blob handed to the LLM."""
+    limit = TARGET_CHUNK_CHARS * 2
+    if len(paragraph) <= limit:
+        return [paragraph]
+    windows = [paragraph[i : i + TARGET_CHUNK_CHARS].strip() for i in range(0, len(paragraph), TARGET_CHUNK_CHARS)]
+    return [window for window in windows if window]
 
 
 def chunk_text(text: str) -> list[str]:
     """Paragraph chunks, merged up to TARGET_CHUNK_CHARS."""
     paragraphs = _split_paragraphs(text)
+    paragraphs = [piece for para in paragraphs for piece in _split_oversized(para)]
     chunks: list[str] = []
     current = ""
     for para in paragraphs:
