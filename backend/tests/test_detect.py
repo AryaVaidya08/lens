@@ -1,11 +1,7 @@
 import pytest
-from fastapi.testclient import TestClient
 
 from app.db.database import init_db
 from app.db.seed import seed
-from app.main import app
-
-client = TestClient(app)
 
 
 @pytest.fixture(autouse=True)
@@ -14,7 +10,7 @@ def _seeded_db():
     seed()
 
 
-def test_detect_by_barcode():
+def test_detect_by_barcode(client):
     resp = client.post("/detect", json={"barcode": "3-00000-00171", "ocr_text": None})
     assert resp.status_code == 200
     body = resp.json()
@@ -22,12 +18,12 @@ def test_detect_by_barcode():
     assert body["name"] == "Ibuprofen"
 
 
-def test_detect_by_ocr_fuzzy_match():
+def test_detect_by_ocr_fuzzy_match(client):
     resp = client.post("/detect", json={"barcode": None, "ocr_text": "TYLENOL Extra Strength"})
     assert resp.status_code == 200
     assert resp.json()["drug_id"] == "tylenol"
 
 
-def test_detect_no_match_returns_404():
+def test_detect_no_match_returns_404(client):
     resp = client.post("/detect", json={"barcode": "0000000000", "ocr_text": "not a real drug at all"})
     assert resp.status_code == 404
