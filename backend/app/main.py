@@ -1,24 +1,37 @@
 """
 FastAPI application entrypoint.
-
-Wires together all route modules behind one app instance. This is the
-file `uvicorn app.main:app` points at.
-
-Route ownership (see docs/team-context/ for the full breakdown):
-  - profile.py     -> HCP profile + familiarity tier lookups
-  - detect.py      -> barcode/OCR result -> drug identity
-  - drug.py        -> personalized summary + RAG/LLM follow-up Q&A
-  - engagement.py  -> engagement touch-count logging
-
-`GET /health` is intentionally real (not a stub) so deployment can be
-verified independently of everything else being finished.
 """
+
+from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
+from app.config import settings
+from app.retrieval.ingest import ingest_docs
 from app.routes import detect, drug, engagement, profile
 
-app = FastAPI(title="HCP Spatial Copilot")
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """
+    Build the in-memory RAG index when the backend starts.
+    """
+
+    try:
+        entries = ingest_docs(settings.drug_docs_path)
+        print(f"Loaded {len(entries)} drug-document chunks.")
+    except FileNotFoundError as exc:
+        # Allow the backend to start before the content team
+        # adds the drug documents.
+        print(f"Drug document ingestion skipped: {exc}")
+
+    yield
+
+
+app = FastAPI(
+    title="HCP Spatial Copilot",
+    lifespan=lifespan,
+)
 
 app.include_router(profile.router)
 app.include_router(detect.router)

@@ -1,17 +1,33 @@
 """
 Text embedding helper.
 
-Owned by: Voice & LLM lane. Called only from ingest.py (build time) and
-index.py (query time) — no other file should import this directly.
+Loads the embedding model once and exposes a single function for
+converting text into an embedding vector.
+
+Owned by: Voice & LLM lane.
 """
+
+from sentence_transformers import SentenceTransformer
+
+
+# Loaded once when the backend starts.
+# The first run may download the model.
+_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
 def embed_text(text: str) -> list[float]:
     """
-    Returns an embedding vector for `text`.
+    Convert text into an embedding vector.
 
-    TODO: implement — wrap a sentence-transformers model
-    (e.g. all-MiniLM-L6-v2) loaded once at module import time.
+    Returns an empty list for empty input.
     """
-    # TODO: implement
-    raise NotImplementedError
+
+    if not isinstance(text, str) or not text.strip():
+        return []
+
+    embedding = _model.encode(
+        text,
+        normalize_embeddings=True,
+    )
+
+    return embedding.tolist()

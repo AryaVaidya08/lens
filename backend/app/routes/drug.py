@@ -5,7 +5,9 @@ Owned by: Voice & LLM lane (ask_question, retrieval weighting) and
 Backend & data lane (get_summary, personalization plumbing).
 """
 
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
+from ..llm.client import generate_answer
+from ..retrieval.index import retrieve
 
 router = APIRouter(prefix="/drug", tags=["drug"])
 
@@ -36,11 +38,41 @@ def ask_question(drug_id: str, payload: dict) -> dict:
     Contract:
       <- { "hcp_id": str, "query": str }
       -> { "answer_text": str }
-
-    TODO: implement — call retrieval/index.py::retrieve(drug_id, query)
-    to get context chunks, then llm/client.py::generate_answer(query,
-    context) to produce the answer. Do not call embeddings or the LLM
-    API directly from this file.
     """
-    # TODO: implement
-    raise NotImplementedError
+    
+    query = payload.get("query")
+
+    if not isinstance(query, str) or not query.strip():
+        raise HTTPException(
+            status_code=400,
+            detail="query must be a non-empty string",
+        )
+
+    try:
+        context = retrieve(drug_id, query)
+    except Exception as exc:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Retrieval failed: {exc}",
+        )
+
+    if not context:
+        raise HTTPException(
+            status_code=404,
+            detail="No relevant information found for this drug.",
+        )
+
+    try:
+        answer = generate_answer(query, context)
+    except ValueError as exc:
+        raise HTTPException(
+            status_code=400,
+            detail=str(exc),
+        )
+    except RuntimeError as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=str(exc),
+        )
+
+    return {"answer_text": answer}

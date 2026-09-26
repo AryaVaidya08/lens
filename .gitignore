@@ -15,4 +15,5 @@ venv/
 
 # Secrets / local data
 .env
+.env.*
 *.db
