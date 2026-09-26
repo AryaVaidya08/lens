@@ -35,7 +35,7 @@ final class ObjectDetector {
     /// Detections below this confidence don't get a box drawn — the
     /// model's own built-in NMS defaults to 0.25, which was letting
     /// through too many low-confidence false positives.
-    private let minimumConfidence: Float = 0.5
+    private let minimumConfidence: Float = 0.3
 
     private let request: VNCoreMLRequest
 

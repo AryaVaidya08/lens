@@ -9,8 +9,6 @@
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
-	<key>NSLocalNetworkUsageDescription</key>
-	<string>Lens reaches the demo backend running on your computer over the local network.</string>
 	<key>UILaunchScreen</key>
 	<dict>
 		<key>UIColorName</key>
