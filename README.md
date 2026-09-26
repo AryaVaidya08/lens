@@ -53,3 +53,27 @@ uvicorn app.main:app --reload
 Verify it's up: `curl http://localhost:8000/health` should return `{"status": "ok"}`.
 
 **iOS:** open `Lens/Lens.xcodeproj` in Xcode and run on a physical device (ARKit and the camera don't work in the simulator). Point `Lens/Lens/Networking/APIClient.swift`'s base URL at your laptop's local IP (not `localhost`) so a physical device can reach the backend over the same Wi-Fi network.
+
+
+## Hackathon Tasks For Everyone:
+
+### Arya (iOS App):
+
+- Create the drug detection model identifying it either by ML model or barcode
+- Show the drug information in a popup bubble around the bottle (show fake info for now)
+
+### Anthony (iOS App):
+
+- Create the HCP accounts and make it so that you onlt have you choose your name once and then it caches it
+- Create the voice assistant (make sure that it recognizes what you said and then can talk back to you for now), we will handle the api call to the LLM response later. Just leave a placeholder there for now
+- Create a settings application, where the person can see what profile their in right now and log out if they want to (clearing the cache)
+
+### Gajendra (Backend):
+
+- curate the large directroy of DRUG_NAME/DRUG_ID.txt files that describe everything about the drug using the openFDA dataset
+- convert the entire thing into vector embeddings so that it can be used for RAG later
+
+### Revant (Backend):
+
+- Build the FastAPI routes with error chekcing between the app and the backend as well as between the backend to the Grok LLM
+- Make sure that the grok LLM uses RAG when reseraching information about the drug
