@@ -170,10 +170,14 @@ final class APIClient {
     }
 
     /// GET /drug/{drug_id}/summary?hcp_id=
-    func getSummary(drugId: String, hcpId: String) async throws -> DrugSummary {
-        try await get(
+    func getSummary(drugId: String, hcpId: String, patientId: String? = nil) async throws -> DrugSummary {
+        var query = [URLQueryItem(name: "hcp_id", value: hcpId)]
+        if let patientId, !patientId.isEmpty {
+            query.append(URLQueryItem(name: "patient_id", value: patientId))
+        }
+        return try await get(
             Endpoints.summary(drugId: drugId),
-            query: [URLQueryItem(name: "hcp_id", value: hcpId)],
+            query: query,
             as: DrugSummary.self
         )
     }
@@ -189,10 +193,10 @@ final class APIClient {
 
     /// POST /engagement/log
     @discardableResult
-    func logEngagement(hcpId: String, drugId: String) async throws -> Int {
+    func logEngagement(hcpId: String, drugId: String, patientId: String? = nil) async throws -> Int {
         try await post(
             Endpoints.engagementLog,
-            body: EngagementRequest(hcpId: hcpId, drugId: drugId),
+            body: EngagementRequest(hcpId: hcpId, drugId: drugId, patientId: patientId),
             as: EngagementResponse.self
         ).touchCount
     }
@@ -508,10 +512,19 @@ struct AskRequest: Encodable {
 struct EngagementRequest: Encodable {
     let hcpId: String
     let drugId: String
+    var patientId: String? = nil
 
     enum CodingKeys: String, CodingKey {
         case hcpId = "hcp_id"
         case drugId = "drug_id"
+        case patientId = "patient_id"
+    }
+
+    func encode(to encoder: Encoder) throws {
+        var container = encoder.container(keyedBy: CodingKeys.self)
+        try container.encode(hcpId, forKey: .hcpId)
+        try container.encode(drugId, forKey: .drugId)
+        try container.encodeIfPresent(patientId, forKey: .patientId)
     }
 }
 

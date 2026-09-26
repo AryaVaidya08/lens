@@ -56,10 +56,9 @@ def _match_barcode(
         return None
 
     for drug in drugs:
-        stored = drug.get("barcode") or ""
-
-        if stored and stored == raw:
-            return drug
+        for stored in _barcodes(drug):
+            if stored == raw:
+                return drug
 
     compact = _digits(raw)
 
@@ -67,12 +66,19 @@ def _match_barcode(
         return None
 
     for drug in drugs:
-        stored = drug.get("barcode") or ""
-
-        if stored and _digits(stored) == compact:
-            return drug
+        for stored in _barcodes(drug):
+            if _digits(stored) == compact:
+                return drug
 
     return None
+
+
+def _barcodes(drug: dict) -> list[str]:
+    values = [drug.get("barcode") or ""]
+    extra = drug.get("barcodes") or []
+    if isinstance(extra, list):
+        values.extend(str(item) for item in extra)
+    return [value.strip() for value in values if value and str(value).strip()]
 
 
 def _match_ocr(
@@ -94,23 +100,13 @@ def _match_ocr(
 
     dossiers = load_dossiers(settings.drug_docs_path)
 
-    best_drug: Optional[dict] = None
-    best_score = -1.0
-    best_position = len(lowered) + 1
-
-    for drug in drugs:
+    def _names_for(drug: dict) -> list[str]:
         drug_id = str(drug["_id"])
-        drug_name = str(drug.get("name") or "")
-
-        names = [drug_name, drug_id]
-
+        names = [str(drug.get("name") or ""), drug_id]
         dossier = dossiers.get(drug_id)
-
         if dossier:
             names.extend(dossier.aliases)
-
-        # Remove empty/duplicate aliases.
-        names = list(
+        return list(
             dict.fromkeys(
                 name.strip().lower()
                 for name in names
@@ -118,54 +114,44 @@ def _match_ocr(
             )
         )
 
-        for name in names:
+    best_drug: Optional[dict] = None
+    best_score = -1.0
+    best_position = len(lowered) + 1
+
+    for drug in drugs:
+        for name in _names_for(drug):
             name_tokens = _tokenize(name)
-
-            if not name_tokens:
+            if not name_tokens or not all(token in tokens for token in name_tokens):
                 continue
-
-            # Prefer whole-word matches. This prevents a short name from
-            # accidentally matching as a substring inside another word.
-            if all(token in tokens for token in name_tokens):
-                score = _WHOLE_WORD_SCORE
-                position = lowered.find(name)
-
-                if position == -1:
-                    position = lowered.find(name_tokens[0])
-
-            else:
-                score = 0.0
-
-                # Compare the complete name and individual OCR tokens.
-                score = max(
-                    score,
-                    difflib.SequenceMatcher(
-                        None,
-                        name,
-                        lowered,
-                    ).ratio(),
-                )
-
-                for token in tokens:
-                    score = max(
-                        score,
-                        difflib.SequenceMatcher(
-                            None,
-                            name,
-                            token,
-                        ).ratio(),
-                    )
-
-                position = len(lowered) + 1
-
-            if (score, -position) > (best_score, -best_position):
-                best_score = score
+            position = lowered.find(name)
+            if position == -1:
+                position = lowered.find(name_tokens[0])
+            if (_WHOLE_WORD_SCORE, -position) > (best_score, -best_position):
+                best_score = _WHOLE_WORD_SCORE
                 best_position = position
                 best_drug = drug
 
-    if best_drug is not None and best_score >= _FUZZY_CUTOFF:
+    if best_drug is not None:
         return best_drug
 
+    for drug in drugs:
+        for name in _names_for(drug):
+            score = difflib.SequenceMatcher(None, name, lowered).ratio()
+            for token in tokens:
+                score = max(
+                    score,
+                    difflib.SequenceMatcher(None, name, token).ratio(),
+                )
+            if (score, 0) > (best_score, -best_position):
+                best_score = score
+                best_position = len(lowered) + 1
+                best_drug = drug
+
+    if best_drug is None or best_score < _FUZZY_CUTOFF:
+        return None
+    names = _names_for(best_drug)
+    if any(name in lowered and len(name) >= 5 for name in names):
+        return best_drug
     return None
 
 

@@ -8,6 +8,7 @@
 //  Owned by: AR & detection lane.
 //
 
+
 import SwiftUI
 
 struct HUDOverlayView: View {
@@ -31,9 +32,24 @@ struct HUDOverlayView: View {
                     .font(.caption2)
                 }
             }
+
+            if let check = summary.patientCheck {
+                Divider().padding(.vertical, 2)
+                Label(check.headline, systemImage: check.isFlag ? "exclamationmark.triangle.fill" : "checkmark.circle")
+                    .font(.caption2.weight(.semibold))
+                    .foregroundStyle(check.isFlag ? Color.orange : Color.green)
+                    .fixedSize(horizontal: false, vertical: true)
+                ForEach(check.flags, id: \.self) { flag in
+                    Text(flag)
+                        .font(.caption2)
+                }
+                Text(check.disclaimer)
+                    .font(.caption2)
+                    .foregroundStyle(.secondary)
+            }
         }
         .padding(8)
-        .frame(maxWidth: 150, alignment: .leading)
+        .frame(maxWidth: summary.patientCheck == nil ? 150 : 240, alignment: .leading)
         .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 14, style: .continuous))
         .shadow(radius: 6)
     }

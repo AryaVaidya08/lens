@@ -1,5 +1,6 @@
 """HCP profile, voice chat log, and the doctor's patient folder list."""
 
+from datetime import datetime, timezone
 from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException
@@ -172,8 +173,14 @@ def update_profile(
         updates["name"] = display_name(first, last, role)
 
     if updates:
+        updates["profile_updated_at"] = datetime.now(timezone.utc)
         try:
-            db.hcps.update_one({"_id": hcp["_id"]}, {"$set": updates})
+            result = db.hcps.update_one({"_id": hcp["_id"]}, {"$set": updates})
         except DuplicateKeyError:
             raise HTTPException(status_code=409, detail="An account with that email already exists.")
-    return public_hcp(db.hcps.find_one({"_id": hcp["_id"]}), db)
+        if result.matched_count != 1:
+            raise HTTPException(status_code=404, detail="Unknown hcp_id: %s" % hcp_id)
+    stored = db.hcps.find_one({"_id": hcp["_id"]})
+    if stored is None:
+        raise HTTPException(status_code=404, detail="Unknown hcp_id: %s" % hcp_id)
+    return public_hcp(stored, db)

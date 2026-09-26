@@ -133,10 +133,11 @@ struct ContractChecks {
 
     private static func decodePatientFolder() {
         let patient = try! JSONDecoder().decode(Patient.self, from: Data("""
-        {"patient_id":"pat_001","hcp_id":"hcp_001","first_name":"Elena","last_name":"Vasquez","age":54,"weight_kg":72.5,"sex":"Female","medical_history":"Type 2 diabetes","allergies":"Penicillin","current_medications":"Metformin","notes":""}
+        {"patient_id":"pat_001","hcp_id":"hcp_001","first_name":"Elena","last_name":"Vasquez","birth_date":"1972-03-14","age":54,"weight_kg":72.5,"sex":"Female","medical_history":"Type 2 diabetes","allergies":"Penicillin","current_medications":"Metformin","notes":""}
         """.utf8))
         precondition(patient.displayName == "Elena Vasquez")
         precondition(patient.weightKg == 72.5)
+        precondition(patient.birthDate == "1972-03-14")
     }
 
     private static func decodeSummary() {
@@ -145,6 +146,12 @@ struct ContractChecks {
         """.utf8))
         precondition(summary.drugId == "adderall" && summary.tier == "new")
         precondition(summary.bullets.count == 1)
+        precondition(summary.patientCheck == nil)
+        let flagged = try! JSONDecoder().decode(DrugSummary.self, from: Data("""
+        {"drug_id":"adderall","name":"Adderall","tier":"new","headline":"What it is","bullets":["ADHD"],"patient_check":{"status":"flag","patient_id":"pat_001","patient_name":"Elena Vasquez","headline":"Chart flag","flags":["Allergy list mentions amphetamines."],"disclaimer":"Name match."},"access_prefill":{"medication":"Adderall","strength":"5 mg","formulation":"tablet","directions":"","indication":"ADHD"}}
+        """.utf8))
+        precondition(flagged.patientCheck?.isFlag == true)
+        precondition(flagged.accessPrefill?.strength == "5 mg")
     }
 
     private static func decodeAsk() {

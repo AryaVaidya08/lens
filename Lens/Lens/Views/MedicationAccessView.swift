@@ -82,10 +82,10 @@ struct MedicationAccessEditor: View {
     @State private var requirementDetail = ""
     @State private var transitionNote = ""
 
-    init(patient: Patient, policies: [AccessPolicy], saved: SavedMedicationAccess?) {
+    init(patient: Patient, policies: [AccessPolicy], saved: SavedMedicationAccess?, startingDraft: MedicationAccessDraft? = nil) {
         self.patient = patient
         self.policies = policies
-        let initial = saved?.draft ?? MedicationAccessDraft()
+        let initial = saved?.draft ?? startingDraft ?? MedicationAccessDraft()
         _caseId = State(initialValue: saved?.id ?? UUID().uuidString)
         _draft = State(initialValue: initial)
         _lastSaved = State(initialValue: initial)

@@ -56,8 +56,9 @@ def parse_clinic_record(raw: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     if "/" in patient_id or "\\" in patient_id or ".." in patient_id or patient_id.startswith("$"):
         return None
     age = _as_int(raw.get("age"))
-    if age is None and raw.get("birth_date"):
-        age = _age_from_birth_date(str(raw.get("birth_date")))
+    birth = str(raw.get("birth_date") or "").strip()
+    if age is None and birth:
+        age = _age_from_birth_date(birth)
     return {
         "_id": patient_id,
         "hcp_id": hcp_id,
@@ -65,6 +66,7 @@ def parse_clinic_record(raw: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         "source": str(raw.get("source") or "clinic-export"),
         "first_name": first,
         "last_name": last,
+        "birth_date": birth[:10] if birth else "",
         "age": age,
         "weight_kg": _as_float(raw.get("weight_kg")),
         "sex": str(raw.get("sex") or "").strip(),

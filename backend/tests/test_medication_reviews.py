@@ -2,9 +2,6 @@ from copy import deepcopy
 from uuid import uuid4
 
 import pytest
-from fastapi.testclient import TestClient
-
-from app.main import app
 from app.routes.medication_reviews import ReviewInput, compare
 from tests.auth_util import login
 
@@ -88,57 +85,54 @@ def test_invalid_reviews_rejected(mutation):
         ReviewInput(**payload)
 
 
-def test_save_reopen_compare_conflict_and_chart_unchanged():
-    with TestClient(app) as client:
-        headers, _ = login(client)
-        path = "/patients/pat_001/medication-reviews"
-        before = client.get("/patients/pat_001", headers=headers).json()
-        review_id = str(uuid4())
-        payload = review()
-        payload.update(reviewed=False, reference_verified=False)
-        saved = client.put(f"{path}/{review_id}", json=payload, headers=headers)
-        assert saved.status_code == 200, saved.text
-        draft = saved.json()
-        assert draft["revision"] == 1 and draft["report"] == "" and draft["findings"] == []
-        assert client.get(path, headers=headers).json()["reviews"][0] == draft
-        assert client.put(f"{path}/{review_id}", json=payload, headers=headers).status_code == 409
-        payload.update(revision=1, reviewed=True, reference_verified=True)
-        payload["observed"][0].update(strength="10 mg", notes="Patient says taking as labeled")
-        result = client.put(f"{path}/{review_id}", json=payload, headers=headers)
-        assert result.status_code == 200
-        result = result.json()
-        assert result["revision"] == 2
-        assert result["findings"][0]["title"] == "Strength text differs"
-        assert "Elena Vasquez" in result["report"] and "Patient says taking as labeled" in result["report"]
-        assert "Discharge list dated Sep 27" in result["report"]
-        assert client.put(f"{path}/{review_id}", json=payload, headers=headers).status_code == 409
-        assert client.get("/patients/pat_001", headers=headers).json() == before
-        # Editing a compared review as a draft removes the stale report.
-        payload.update(revision=2, reviewed=False)
-        result = client.put(f"{path}/{review_id}", json=payload, headers=headers).json()
-        assert result["report"] == "" and result["findings"] == []
+def test_save_reopen_compare_conflict_and_chart_unchanged(client):
+    headers, _ = login(client)
+    path = "/patients/pat_001/medication-reviews"
+    before = client.get("/patients/pat_001", headers=headers).json()
+    review_id = str(uuid4())
+    payload = review()
+    payload.update(reviewed=False, reference_verified=False)
+    saved = client.put(f"{path}/{review_id}", json=payload, headers=headers)
+    assert saved.status_code == 200, saved.text
+    draft = saved.json()
+    assert draft["revision"] == 1 and draft["report"] == "" and draft["findings"] == []
+    assert client.get(path, headers=headers).json()["reviews"][0] == draft
+    assert client.put(f"{path}/{review_id}", json=payload, headers=headers).status_code == 409
+    payload.update(revision=1, reviewed=True, reference_verified=True)
+    payload["observed"][0].update(strength="10 mg", notes="Patient says taking as labeled")
+    result = client.put(f"{path}/{review_id}", json=payload, headers=headers)
+    assert result.status_code == 200
+    result = result.json()
+    assert result["revision"] == 2
+    assert result["findings"][0]["title"] == "Strength text differs"
+    assert "Elena Vasquez" in result["report"] and "Patient says taking as labeled" in result["report"]
+    assert "Discharge list dated Sep 27" in result["report"]
+    assert client.put(f"{path}/{review_id}", json=payload, headers=headers).status_code == 409
+    assert client.get("/patients/pat_001", headers=headers).json() == before
+    # Editing a compared review as a draft removes the stale report.
+    payload.update(revision=2, reviewed=False)
+    result = client.put(f"{path}/{review_id}", json=payload, headers=headers).json()
+    assert result["report"] == "" and result["findings"] == []
 
 
-def test_reviews_require_auth_and_patient_ownership_for_reads_and_writes():
-    with TestClient(app) as client:
-        owner, _ = login(client)
-        other, _ = login(client, "hcp_002")
-        path = "/patients/pat_001/medication-reviews"
-        url = f"{path}/{uuid4()}"
-        assert client.put(url, json=review(), headers=owner).status_code == 200
-        assert client.get(path).status_code == 401
-        assert client.put(url, json=review()).status_code == 401
-        assert client.get(path, headers=other).status_code == 404
-        assert client.put(url, json=review(), headers=other).status_code == 404
-        assert client.get("/patients/pat_002/medication-reviews", headers=owner).json() == {"reviews": []}
+def test_reviews_require_auth_and_patient_ownership_for_reads_and_writes(client):
+    owner, _ = login(client)
+    other, _ = login(client, "hcp_002")
+    path = "/patients/pat_001/medication-reviews"
+    url = f"{path}/{uuid4()}"
+    assert client.put(url, json=review(), headers=owner).status_code == 200
+    assert client.get(path).status_code == 401
+    assert client.put(url, json=review()).status_code == 401
+    assert client.get(path, headers=other).status_code == 404
+    assert client.put(url, json=review(), headers=other).status_code == 404
+    assert client.get("/patients/pat_002/medication-reviews", headers=owner).json() == {"reviews": []}
 
 
-def test_empty_list_requires_explicit_confirmations_and_no_safety_claim():
+def test_empty_list_requires_explicit_confirmations_and_no_safety_claim(client):
     payload = review()
     payload.update(reference=[], observed=[])
     assert findings(payload) == []
-    with TestClient(app) as client:
-        headers, _ = login(client)
-        response = client.put(f"/patients/pat_001/medication-reviews/{uuid4()}", json=payload, headers=headers)
-        assert response.status_code == 200
-        assert "not a clinical safety assessment" in response.json()["report"]
+    headers, _ = login(client)
+    response = client.put(f"/patients/pat_001/medication-reviews/{uuid4()}", json=payload, headers=headers)
+    assert response.status_code == 200
+    assert "not a clinical safety assessment" in response.json()["report"]

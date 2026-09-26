@@ -2,10 +2,17 @@ import SwiftUI
 
 struct PatientDetailView: View {
     let patient: Patient
+    @EnvironmentObject private var appState: AppState
 
     var body: some View {
         List {
             Section {
+                Button {
+                    appState.useForScan(patient)
+                } label: {
+                    Label("Use for scan", systemImage: "viewfinder")
+                }
+                .accessibilityIdentifier("patient.useForScan")
                 NavigationLink {
                     MedicationReviewsView(patient: patient)
                 } label: {

@@ -3,16 +3,18 @@ Drug summary + follow-up Q&A endpoints.
 """
 
 from datetime import datetime, timezone
+from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel, Field
 from pymongo.database import Database
 
-from app.config import settings
-from app.db.accounts import reject_path_id
+from app.db.accounts import owned_patient, reject_path_id
 from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
 from app.llm.client import generate_answer
+from app.personalization.access_prefill import build_access_prefill
+from app.personalization.patient_check import check_patient_chart
 from app.personalization.scorer import build_summary_content, score_familiarity
 from app.retrieval.index import retrieve
 
@@ -30,21 +32,14 @@ class AskRequest(BaseModel):
 def get_summary(
     drug_id: str,
     hcp_id: str,
+    patient_id: Optional[str] = None,
     hcp: dict = Depends(current_hcp),
     db: Database = Depends(get_db),
 ) -> dict:
     """
     Personalized HUD content for a drug, tailored to the HCP's
-    familiarity tier.
-
-    Contract:
-      -> {
-          "drug_id": str,
-          "name": str,
-          "tier": "new" | "returning" | "expert",
-          "headline": str,
-          "bullets": list[str]
-      }
+    familiarity tier. Optional patient_id adds a chart name-match
+    check and access-case prefill from the dossier.
     """
     assert_same_hcp(hcp, hcp_id)
     drug_id = reject_path_id(drug_id, "drug_id")
@@ -57,13 +52,21 @@ def get_summary(
 
     tier = score_familiarity(hcp["_id"], drug_id, db)
     headline, bullets = build_summary_content(drug_id, tier)
+    name = drug.get("name", drug_id)
+    check = None
+    requested = (patient_id or "").strip()
+    if requested:
+        patient = owned_patient(db, hcp, requested)
+        check = check_patient_chart(patient, drug_id, name)
 
     return {
         "drug_id": drug["_id"],
-        "name": drug.get("name", drug_id),
+        "name": name,
         "tier": tier,
         "headline": headline,
         "bullets": bullets[:MAX_BULLETS],
+        "patient_check": check,
+        "access_prefill": build_access_prefill(drug_id, name),
     }
 
 

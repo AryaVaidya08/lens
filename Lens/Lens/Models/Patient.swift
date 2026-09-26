@@ -5,6 +5,7 @@ struct Patient: Codable, Identifiable, Equatable, Hashable {
     var hcpId: String
     var firstName: String
     var lastName: String
+    var birthDate: String?
     var age: Int?
     var weightKg: Double?
     var sex: String
@@ -27,6 +28,7 @@ struct Patient: Codable, Identifiable, Equatable, Hashable {
         case hcpId = "hcp_id"
         case firstName = "first_name"
         case lastName = "last_name"
+        case birthDate = "birth_date"
         case age
         case weightKg = "weight_kg"
         case sex

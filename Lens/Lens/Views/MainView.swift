@@ -92,9 +92,15 @@ struct MainView: View {
                 // Keep the cached profile if the refresh fails for a transient reason.
             }
         }
+        .onChange(of: appState.openScanTab) { _, open in
+            guard open else { return }
+            selectedTab = .scan
+            appState.openScanTab = false
+        }
         .onChange(of: selectedTab) { _, tab in
             if tab != .scan {
                 assistant.leaveScanTab()
+                appState.endScanSession()
             }
         }
     }

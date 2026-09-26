@@ -90,11 +90,19 @@ struct CameraView: View {
                 }
                 .ignoresSafeArea()
 
+                VStack {
+                    scanPatientChip
+                    Spacer()
+                }
+                .padding(.top, 12)
+
                 if let detection = arManager.activeDetection {
                     let scale = proximityScale(for: detection.screenAnchor)
                     let scaledBubbleSize = CGSize(width: bubbleSize.width * scale, height: bubbleSize.height * scale)
 
-                    HUDOverlayView(summary: displaySummary(for: detection))
+                    HUDOverlayView(
+                        summary: displaySummary(for: detection)
+                    )
                         .background(
                             GeometryReader { bubbleGeometry in
                                 Color.clear
@@ -148,6 +156,12 @@ struct CameraView: View {
             guard let detection = arManager.activeDetection,
                   let drug = resolver.cachedDrug(forRawPayload: detection.rawPayload) else { return }
             adopt(drug)
+        }
+        .onChange(of: appState.scanSessionPatient?.id) { _, _ in
+            guard let drug = appState.currentDrug else { return }
+            summary = nil
+            loadingDrugId = nil
+            Task { await loadPersonalizedContent(for: drug, logTouch: false) }
         }
         .onChange(of: arManager.isStale) { _, stale in
             if stale {
@@ -246,21 +260,57 @@ struct CameraView: View {
         }
         guard summary?.drugId != drug.id, loadingDrugId != drug.id else { return }
         loadingDrugId = drug.id
-        Task { await loadPersonalizedContent(for: drug) }
+        Task { await loadPersonalizedContent(for: drug, logTouch: true) }
     }
 
     /// The read-then-write half of the personalization loop: fetch the tier's
     /// content for this HCP, then log the touch so the next scan is one tier
     /// further along. Logging second is what makes scan 1 "new" and scan 2
     /// "returning" rather than both showing the post-scan tier.
-    private func loadPersonalizedContent(for drug: Drug) async {
+    private var scanPatientChip: some View {
+        Group {
+            if let patient = appState.selectedPatient {
+                HStack(spacing: 8) {
+                    Image(systemName: "person.crop.circle")
+                    Text(patient.displayName)
+                        .font(.caption.weight(.semibold))
+                    Button {
+                        appState.endScanSession()
+                    } label: {
+                        Image(systemName: "xmark")
+                            .font(.caption2.weight(.bold))
+                    }
+                    .accessibilityLabel("Clear scan patient")
+                }
+                .padding(.horizontal, 10)
+                .padding(.vertical, 6)
+                .background(.ultraThinMaterial, in: Capsule())
+            }
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.horizontal, 16)
+    }
+
+    private func loadPersonalizedContent(for drug: Drug, logTouch: Bool) async {
         guard let hcpId = appState.selectedHCP?.id else { return }
         do {
-            let fetched = try await APIClient.shared.getSummary(drugId: drug.id, hcpId: hcpId)
+            let patientId = appState.scanSessionPatient?.id
+            let fetched = try await APIClient.shared.getSummary(
+                drugId: drug.id,
+                hcpId: hcpId,
+                patientId: patientId
+            )
             guard appState.currentDrug?.id == fetched.drugId else { return }
             summary = fetched
             appState.familiarityTier = fetched.tier
-            try await APIClient.shared.logEngagement(hcpId: hcpId, drugId: drug.id)
+            if logTouch {
+                try await APIClient.shared.logEngagement(
+                    hcpId: hcpId,
+                    drugId: drug.id,
+                    patientId: patientId
+                )
+                appState.finishScanSelection()
+            }
         } catch {
             // Offline: the catalog summary stays on screen and the scan simply
             // isn't logged. Nothing to surface mid-demo.

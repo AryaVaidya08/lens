@@ -71,6 +71,14 @@ DEMO_HCPS = [
 
 DEMO_PASSWORD = "demo"
 
+# Physical demo bottles + iOS contract barcodes. Dossier files often
+# only have NDCs, which do not match the UPC/EAN printed on the bottle.
+DEMO_BARCODES = {
+    "adderall": ["0363323012345", "0357844110014"],
+    "lorazepam": ["0362135861018"],
+    "biofreeze": ["0731124100009"],
+}
+
 # Give one persona prior familiarity so the personalization demo has
 # a visible "returning/expert" state immediately.
 PRESEEDED_ENGAGEMENTS = [
@@ -85,8 +93,8 @@ DEMO_IDS = {row["_id"] for row in DEMO_HCPS}
 def seed(db: Optional[Database] = None) -> None:
     """
     Idempotent: safe on every startup. Never deletes clinician documents,
-    never resets touch counts, and never overwrites a password or chart
-    a clinician already edited. Registered accounts use hcp_<hex> ids
+    never resets touch counts, and never overwrites a password, profile,
+    or chart a clinician already edited. Registered accounts use hcp_<hex> ids
     and live in `hcps` — seed only upserts the three demo ids.
     Never resets engagement counts accumulated during a demo run.
     """
@@ -109,14 +117,9 @@ def seed(db: Optional[Database] = None) -> None:
             db.hcps.insert_one(row)
             continue
 
+        # Existing clinicians keep whatever they saved in Edit profile.
+        # Seed only fills secrets/lists that would leave the account unusable.
         patch = {}
-
-        for key, value in demo.items():
-            if key == "_id":
-                continue
-            if not existing.get(key):
-                patch[key] = value
-
         if not existing.get("password_hash"):
             patch["password_hash"] = hash_password(DEMO_PASSWORD)
 
@@ -135,17 +138,43 @@ def seed(db: Optional[Database] = None) -> None:
     # The corpus is the source of truth for drug metadata. This includes
     # the larger llm-rag dossier corpus rather than a small hard-coded
     # list of drugs.
-    for dossier in load_dossiers(settings.drug_docs_path).values():
-        db.drugs.update_one(
-            {"_id": dossier.drug_id},
-            {
-                "$set": {
-                    "name": dossier.name,
-                    "barcode": dossier.barcode,
-                }
-            },
-            upsert=True,
-        )
+    dossiers = load_dossiers(settings.drug_docs_path)
+    already = db.drugs.count_documents({})
+    if already < len(dossiers):
+        for dossier in dossiers.values():
+            codes = list(DEMO_BARCODES.get(dossier.drug_id, []))
+            if dossier.barcode:
+                codes.append(dossier.barcode)
+            codes = list(dict.fromkeys(code for code in codes if code))
+            db.drugs.update_one(
+                {"_id": dossier.drug_id},
+                {
+                    "$set": {
+                        "name": dossier.name,
+                        "barcode": codes[0] if codes else "",
+                        "barcodes": codes,
+                    }
+                },
+                upsert=True,
+            )
+    else:
+        for drug_id, extra in DEMO_BARCODES.items():
+            dossier = dossiers.get(drug_id)
+            codes = list(extra)
+            if dossier and dossier.barcode:
+                codes.append(dossier.barcode)
+            codes = list(dict.fromkeys(code for code in codes if code))
+            if not codes:
+                continue
+            db.drugs.update_one(
+                {"_id": drug_id},
+                {
+                    "$set": {
+                        "barcode": codes[0],
+                        "barcodes": codes,
+                    }
+                },
+            )
 
     # ------------------------------------------------------------------
     # Demo engagement history

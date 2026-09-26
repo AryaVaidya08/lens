@@ -67,6 +67,7 @@ struct SessionChecks {
             precondition(AppState(defaults: defaults).selectedHCP == nil)
         }
         historyChecks()
+        scanSessionChecks()
         print("PASS: profile selection, restoration, switching, logout, stale cache, and unrelated preferences")
     }
 
@@ -157,5 +158,49 @@ struct SessionChecks {
         let upgraded = AppState(defaults: defaults, now: { instant })
         upgraded.selectedHCP = HCP.demoProfiles[2]
         precondition(upgraded.scanHistory.isEmpty, "Scan-only entries from older builds are hidden")
+    }
+
+    @MainActor
+    private static func scanSessionChecks() {
+        let suiteName = "lens.scan-session-checks.\(UUID().uuidString)"
+        let defaults = UserDefaults(suiteName: suiteName)!
+        defer { defaults.removePersistentDomain(forName: suiteName) }
+        let state = AppState(defaults: defaults)
+        state.applySession(profile: HCP.demoProfiles[0], token: "tok_scan", recoveryCode: nil)
+        let elena = Patient(
+            id: "pat_001",
+            hcpId: "hcp_001",
+            firstName: "Elena",
+            lastName: "Vasquez",
+            birthDate: "1972-03-14",
+            age: 54,
+            weightKg: 68,
+            sex: "F",
+            medicalHistory: "T2DM",
+            allergies: "Penicillin, amphetamines",
+            currentMedications: "Metformin",
+            notes: ""
+        )
+
+        state.useForScan(elena)
+        precondition(state.selectedPatient?.id == "pat_001")
+        precondition(state.scanSessionPatient?.id == "pat_001")
+        precondition(state.openScanTab, "Use for scan must jump to the camera tab")
+
+        state.openScanTab = false
+        state.finishScanSelection()
+        precondition(state.selectedPatient == nil, "Patient is unselected after the scan")
+        precondition(state.scanSessionPatient?.id == "pat_001", "HUD can still check this patient's chart")
+
+        state.endScanSession()
+        precondition(state.selectedPatient == nil)
+        precondition(state.scanSessionPatient == nil)
+        precondition(!state.openScanTab)
+
+        state.useForScan(elena)
+        state.logOut()
+        precondition(state.selectedPatient == nil)
+        precondition(state.scanSessionPatient == nil)
+        precondition(!state.openScanTab)
     }
 }

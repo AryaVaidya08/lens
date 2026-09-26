@@ -65,6 +65,8 @@ async def lifespan(app: FastAPI):
             print(f"Loaded {len(chunks)} drug-document chunks.")
         except FileNotFoundError as exc:
             print(f"Drug document ingestion skipped: {exc}")
+        except Exception as exc:
+            print(f"Drug document ingestion failed; API still starting: {exc}")
     else:
         print("Drug document ingestion skipped (SKIP_INGEST=1).")
 

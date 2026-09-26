@@ -1,4 +1,7 @@
 Drug: Adderall
+name: Adderall
+barcode: 0363323012345
+aliases: adderall xr
 OpenFDA brand names: Adderall
 Drug ID: adderall
 Generic name: DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE ASPARTATE, DEXTROAMPHETAMINE SULFATE, AND AMPHETAMINE SULFATE

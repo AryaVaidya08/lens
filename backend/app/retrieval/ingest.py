@@ -224,10 +224,14 @@ def _save_cache(
     )
 
     keys = list(cache.keys())
-    vectors = np.array(
-        [cache[key] for key in keys],
-        dtype=np.float32,
-    )
+    rows = [cache[key] for key in keys]
+    widths = {len(row) for row in rows if isinstance(row, (list, tuple))}
+    if len(widths) != 1:
+        return
+    try:
+        vectors = np.array(rows, dtype=np.float32)
+    except ValueError:
+        return
 
     np.savez_compressed(
         cache_path,
@@ -397,6 +401,11 @@ def parse_dossier(path: Path) -> Dossier:
     return dossier
 
 
+_DOSSIERS_BY_ROOT: dict[str, dict[str, Dossier]] = {}
+_DOSSIER_PATHS_BY_ROOT: dict[str, dict[str, Path]] = {}
+_FIELDS_BY_KEY: dict[tuple[str, str], dict[str, str]] = {}
+
+
 def load_dossiers(
     folder_path: str | None = None,
 ) -> dict[str, Dossier]:
@@ -413,10 +422,19 @@ def load_dossiers(
     if not root.is_dir():
         return {}
 
-    return {
-        drug_id: parse_dossier(path)
-        for drug_id, path in _iter_doc_files(root)
-    }
+    cache_key = str(root.resolve())
+    cached = _DOSSIERS_BY_ROOT.get(cache_key)
+    if cached is not None:
+        return cached
+
+    dossiers: dict[str, Dossier] = {}
+    paths: dict[str, Path] = {}
+    for drug_id, path in _iter_doc_files(root):
+        dossiers[drug_id] = parse_dossier(path)
+        paths[drug_id] = path
+    _DOSSIERS_BY_ROOT[cache_key] = dossiers
+    _DOSSIER_PATHS_BY_ROOT[cache_key] = paths
+    return dossiers
 
 
 def parse_dossier_fields(
@@ -433,21 +451,37 @@ def parse_dossier_fields(
     root = Path(
         folder_path or settings.drug_docs_path
     )
+    wanted = drug_id.strip().lower()
+    cache_key = (str(root.resolve()) if root.exists() else str(root), wanted)
+    cached = _FIELDS_BY_KEY.get(cache_key)
+    if cached is not None:
+        return cached
 
-    for drug_id_found, path in _iter_doc_files(root):
-        if drug_id_found.lower() != drug_id.strip().lower():
-            continue
+    if not root.is_dir():
+        _FIELDS_BY_KEY[cache_key] = {}
+        return {}
 
-        text = path.read_text(
-            encoding="utf-8"
-        )
+    load_dossiers(str(root))
+    path = None
+    for found_id, found_path in _DOSSIER_PATHS_BY_ROOT.get(str(root.resolve()), {}).items():
+        if found_id.lower() == wanted:
+            path = found_path
+            break
 
-        if re.search(r"(?m)^##\s+\S", text):
-            return _parse_section_headers(text)
+    if path is None:
+        _FIELDS_BY_KEY[cache_key] = {}
+        return {}
 
-        return _parse_raw_field_dump(text)
+    text = path.read_text(
+        encoding="utf-8"
+    )
 
-    return {}
+    if re.search(r"(?m)^##\s+\S", text):
+        fields = _parse_section_headers(text)
+    else:
+        fields = _parse_raw_field_dump(text)
+    _FIELDS_BY_KEY[cache_key] = fields
+    return fields
 
 
 # ---------------------------------------------------------------------------

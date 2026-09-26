@@ -96,6 +96,12 @@ def ensure_indexes(db: Database) -> None:
 
 def close_client() -> None:
     global _client
-    if _client is not None:
-        _client.close()
-        _client = None
+    if _client is None:
+        return
+    # Tests share one in-memory mongomock across many TestClient
+    # lifespans. Closing it mid-suite wipes seed data and later
+    # logins fail against an empty database.
+    if settings.mongodb_uri.startswith("mongomock"):
+        return
+    _client.close()
+    _client = None

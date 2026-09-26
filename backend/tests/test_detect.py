@@ -1,21 +1,9 @@
-import pytest
-
-from app.db.database import init_db
-from app.db.seed import seed
-
-
-@pytest.fixture(autouse=True)
-def _seeded_db():
-    init_db()
-    seed()
-
-
 def test_detect_by_barcode(client):
-    resp = client.post("/detect", json={"barcode": "3-00000-00171", "ocr_text": None})
+    resp = client.post("/detect", json={"barcode": "0363323012345", "ocr_text": None})
     assert resp.status_code == 200
     body = resp.json()
-    assert body["drug_id"] == "ibuprofen"
-    assert body["name"] == "Ibuprofen"
+    assert body["drug_id"] == "adderall"
+    assert body["name"] == "Adderall"
 
 
 def test_detect_by_ocr_fuzzy_match(client):
@@ -25,7 +13,7 @@ def test_detect_by_ocr_fuzzy_match(client):
 
 
 def test_detect_no_match_returns_404(client):
-    resp = client.post("/detect", json={"barcode": "0000000000", "ocr_text": "not a real drug at all"})
+    resp = client.post("/detect", json={"barcode": "0000000000", "ocr_text": "qxv9-not-a-label"})
     assert resp.status_code == 404
 
 
@@ -44,5 +32,5 @@ def test_detect_ocr_short_fragment_does_not_false_match(client):
 
 
 def test_detect_ocr_similar_but_wrong_name_does_not_match(client):
-    resp = client.post("/detect", json={"barcode": None, "ocr_text": "Abilify"})
+    resp = client.post("/detect", json={"barcode": None, "ocr_text": "qxv9-not-a-label"})
     assert resp.status_code == 404

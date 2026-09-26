@@ -18,6 +18,7 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
 
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Models/HCP.swift Lens/Lens/Models/Drug.swift \
+    Lens/Lens/Models/Patient.swift Lens/Lens/Models/MedicationAccess.swift \
     Lens/Lens/Models/ScanHistory.swift \
     Lens/Lens/App/AppState.swift Lens/Tests/SessionChecks.swift \
     -o "$check_dir/session-checks"
@@ -71,7 +72,8 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
 "$check_dir/medication-review-checks"
 
 swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
-    Lens/Lens/Models/MedicationAccess.swift Lens/Tests/MedicationAccessChecks.swift \
+    Lens/Lens/Models/Patient.swift Lens/Lens/Models/MedicationAccess.swift \
+    Lens/Tests/MedicationAccessChecks.swift \
     -o "$check_dir/medication-access-checks"
 "$check_dir/medication-access-checks"
 

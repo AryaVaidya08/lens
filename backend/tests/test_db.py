@@ -1,17 +1,13 @@
-from app.db.database import SessionLocal, init_db, engine
-from app.db.models import HCP
+from app.db.database import get_database
 
 
-def test_init_db_creates_tables():
-    init_db()
-    db = SessionLocal()
+def test_mongo_accepts_and_finds_hcp_row():
+    db = get_database()
+    db.hcps.delete_one({"_id": "hcp_test"})
+    db.hcps.insert_one({"_id": "hcp_test", "name": "Dr. Test", "specialty": "Cardiology"})
     try:
-        db.add(HCP(id="hcp_test", name="Dr. Test", specialty="Cardiology"))
-        db.commit()
-        found = db.query(HCP).filter(HCP.id == "hcp_test").first()
+        found = db.hcps.find_one({"_id": "hcp_test"})
         assert found is not None
-        assert found.name == "Dr. Test"
+        assert found["name"] == "Dr. Test"
     finally:
-        db.query(HCP).filter(HCP.id == "hcp_test").delete()
-        db.commit()
-        db.close()
+        db.hcps.delete_one({"_id": "hcp_test"})

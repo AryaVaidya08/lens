@@ -3,12 +3,13 @@ Engagement logging endpoint.
 """
 
 from datetime import datetime, timezone
+from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel, ConfigDict, Field
 from pymongo.database import Database
 
-from app.db.accounts import reject_path_id
+from app.db.accounts import owned_patient, reject_path_id
 from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
 
@@ -19,6 +20,7 @@ class EngagementRequest(BaseModel):
     model_config = ConfigDict(extra="forbid")
     hcp_id: str = Field(max_length=64)
     drug_id: str = Field(max_length=64)
+    patient_id: Optional[str] = Field(default=None, max_length=64)
 
 
 @router.post("/log")
@@ -45,11 +47,16 @@ def log_engagement(
     now = datetime.now(timezone.utc)
     owner = hcp["_id"]
     key = "%s:%s" % (owner, drug_id)
+    fields = {"last_seen": now, "hcp_id": owner, "drug_id": drug_id}
+    requested = (payload.patient_id or "").strip()
+    if requested:
+        patient = owned_patient(db, hcp, requested)
+        fields["last_patient_id"] = patient["_id"]
     db.engagements.update_one(
         {"_id": key},
         {
             "$inc": {"touch_count": 1},
-            "$set": {"last_seen": now, "hcp_id": owner, "drug_id": drug_id},
+            "$set": fields,
             "$setOnInsert": {"_id": key},
         },
         upsert=True,

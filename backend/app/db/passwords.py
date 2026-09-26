@@ -8,11 +8,25 @@ import secrets
 from fastapi import HTTPException
 
 MAX_PASSWORD_LENGTH = 128
+_PRODUCTION_ITERATIONS = 200_000
+_TEST_ITERATIONS = 2_000
+
+
+def _hash_iterations() -> int:
+    raw = os.environ.get("PASSWORD_HASH_ITERATIONS", "").strip()
+    if raw.isdigit():
+        return max(1, int(raw))
+    # mongomock is pytest-only; keep the real cost on Atlas/localhost.
+    if os.environ.get("MONGODB_URI", "").startswith("mongomock"):
+        return _TEST_ITERATIONS
+    return _PRODUCTION_ITERATIONS
 
 
 def hash_password(password: str) -> str:
     salt = os.urandom(16)
-    digest = hashlib.pbkdf2_hmac("sha256", password.encode("utf-8"), salt, 200_000)
+    digest = hashlib.pbkdf2_hmac(
+        "sha256", password.encode("utf-8"), salt, _hash_iterations()
+    )
     return "%s:%s" % (salt.hex(), digest.hex())
 
 
@@ -25,7 +39,9 @@ def verify_password(password: str, stored: str) -> bool:
         expected = bytes.fromhex(digest_hex)
     except ValueError:
         return False
-    actual = hashlib.pbkdf2_hmac("sha256", password.encode("utf-8"), salt, 200_000)
+    actual = hashlib.pbkdf2_hmac(
+        "sha256", password.encode("utf-8"), salt, _hash_iterations()
+    )
     return hmac.compare_digest(actual, expected)
 
 

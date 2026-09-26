@@ -60,6 +60,7 @@ def public_patient(row: Dict[str, Any]) -> Dict[str, Any]:
         "hcp_id": row.get("hcp_id"),
         "first_name": row.get("first_name") or "",
         "last_name": row.get("last_name") or "",
+        "birth_date": row.get("birth_date") or "",
         "age": row.get("age"),
         "weight_kg": row.get("weight_kg"),
         "sex": row.get("sex") or "",
@@ -89,6 +90,14 @@ def patients_for_hcp(db: Database, hcp: Dict[str, Any]) -> List[Dict[str, Any]]:
         for pid in ids
         if pid in found and found[pid].get("hcp_id") == hcp["_id"]
     ]
+
+
+def owned_patient(db: Database, hcp: Dict[str, Any], patient_id: str) -> Dict[str, Any]:
+    patient_id = reject_path_id(patient_id, "patient_id")
+    row = db.patients.find_one({"_id": patient_id})
+    if row is None or row.get("hcp_id") != hcp["_id"]:
+        raise HTTPException(status_code=404, detail="Unknown patient_id: %s" % patient_id)
+    return row
 
 
 def reject_path_id(value: str, label: str) -> str:

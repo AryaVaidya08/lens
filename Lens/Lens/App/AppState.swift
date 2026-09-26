@@ -27,6 +27,9 @@ final class AppState: ObservableObject {
             if oldValue?.id != selectedHCP?.id {
                 currentDrug = nil
                 familiarityTier = nil
+                selectedPatient = nil
+                scanSessionPatient = nil
+                openScanTab = false
                 reloadHistory()
             }
         }
@@ -41,6 +44,11 @@ final class AppState: ObservableObject {
         }
     }
     @Published var currentDrug: Drug?
+    @Published var selectedPatient: Patient?
+    /// Stays set for this camera visit so the HUD can check the chart
+    /// after `selectedPatient` is cleared.
+    @Published var scanSessionPatient: Patient?
+    @Published var openScanTab = false
     @Published var familiarityTier: String?
     @Published private(set) var scanHistory: [ScanLogEntry] = []
     @Published var pendingRecoveryCode: String?
@@ -87,6 +95,23 @@ final class AppState: ObservableObject {
         selectedHCP = nil
         currentDrug = nil
         familiarityTier = nil
+        endScanSession()
+    }
+
+    func useForScan(_ patient: Patient) {
+        selectedPatient = patient
+        scanSessionPatient = patient
+        openScanTab = true
+    }
+
+    func finishScanSelection() {
+        selectedPatient = nil
+    }
+
+    func endScanSession() {
+        selectedPatient = nil
+        scanSessionPatient = nil
+        openScanTab = false
     }
 
     func recordChat(question: String, answer: String) {

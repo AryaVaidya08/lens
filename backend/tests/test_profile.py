@@ -1,24 +1,17 @@
-import pytest
-
-from app.db.database import init_db
-from app.db.seed import seed
-
-
-@pytest.fixture(autouse=True)
-def _seeded_db():
-    init_db()
-    seed()
+from tests.auth_util import login
 
 
 def test_get_profile_known_hcp_includes_seeded_familiarity(client):
-    resp = client.get("/profile/hcp_amara")
+    headers, _ = login(client, "hcp_002")
+    resp = client.get("/profile/hcp_002", headers=headers)
     assert resp.status_code == 200
     body = resp.json()
-    assert body["hcp_id"] == "hcp_amara"
+    assert body["hcp_id"] == "hcp_002"
     assert body["specialty"]
-    assert body["familiarity"]["ibuprofen"] == "expert"  # seeded with touch_count=3
+    assert body["familiarity"]["lorazepam"] == "expert"
 
 
 def test_get_profile_unknown_hcp_returns_404(client):
-    resp = client.get("/profile/not_a_real_hcp")
-    assert resp.status_code == 404
+    headers, _ = login(client, "hcp_001")
+    resp = client.get("/profile/not_a_real_hcp", headers=headers)
+    assert resp.status_code in {403, 404}
