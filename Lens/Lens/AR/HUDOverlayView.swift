@@ -12,43 +12,29 @@ import SwiftUI
 
 struct HUDOverlayView: View {
     let summary: DrugSummary
-    /// Raw decoded barcode string — debug-only, for verifying Vision is
-    /// reading the right symbol. Pass `nil` to hide it (e.g. once a real
-    /// backend lookup replaces the fake resolver and this stops being
-    /// interesting to show live).
-    var debugRawPayload: String? = nil
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 6) {
+        VStack(alignment: .leading, spacing: 4) {
             Text(summary.name)
-                .font(.headline)
+                .font(.subheadline.bold())
 
             Text(summary.headline)
-                .font(.subheadline)
+                .font(.caption)
                 .foregroundStyle(.secondary)
 
-            VStack(alignment: .leading, spacing: 3) {
+            VStack(alignment: .leading, spacing: 2) {
                 ForEach(summary.bullets, id: \.self) { bullet in
-                    HStack(alignment: .top, spacing: 4) {
+                    HStack(alignment: .top, spacing: 3) {
                         Text("•")
                         Text(bullet)
                     }
-                    .font(.caption)
+                    .font(.caption2)
                 }
             }
-
-            if let debugRawPayload {
-                Divider()
-                Text("raw: \(debugRawPayload)")
-                    .font(.caption2.monospaced())
-                    .foregroundStyle(.secondary)
-                    .lineLimit(1)
-                    .truncationMode(.middle)
-            }
         }
-        .padding(12)
-        .frame(maxWidth: 240, alignment: .leading)
-        .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 16, style: .continuous))
+        .padding(8)
+        .frame(maxWidth: 150, alignment: .leading)
+        .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 14, style: .continuous))
         .shadow(radius: 6)
     }
 }
@@ -61,7 +47,6 @@ struct HUDOverlayView: View {
             tier: "new",
             headline: "Fast-acting oral tablet",
             bullets: ["Standard adult dose: 10mg once daily", "Common use: hypertension"]
-        ),
-        debugRawPayload: "036000291452"
+        )
     )
 }

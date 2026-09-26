@@ -74,7 +74,7 @@ struct CameraView: View {
     @State private var lifecycle = CameraSessionLifecycle()
     @StateObject private var arManager = ARSessionManager()
     @StateObject private var resolver = DrugResolver()
-    @State private var bubbleSize: CGSize = CGSize(width: 220, height: 90)
+    @State private var bubbleSize: CGSize = CGSize(width: 150, height: 70)
     @State private var flashOpacity: Double = 1.0
     /// Personalized content from GET /drug/{id}/summary. Nil until it arrives
     /// (or if the backend is unreachable), in which case the offline catalog
@@ -116,7 +116,7 @@ struct CameraView: View {
                     let scale = proximityScale(for: detection.screenAnchor)
                     let scaledBubbleSize = CGSize(width: bubbleSize.width * scale, height: bubbleSize.height * scale)
 
-                    HUDOverlayView(summary: displaySummary(for: detection), debugRawPayload: detection.rawPayload)
+                    HUDOverlayView(summary: displaySummary(for: detection))
                         .background(
                             GeometryReader { bubbleGeometry in
                                 Color.clear
@@ -217,9 +217,12 @@ struct CameraView: View {
 
     /// Places the bubble beside the barcode — to the right by default,
     /// flipping to the left if there isn't room — vertically centered on
-    /// the box, and clamped so it always stays fully on screen.
+    /// the box, and clamped so it always stays fully on screen. The
+    /// margin is deliberately generous (and the bubble deliberately
+    /// small) so the bubble clears the bounding box instead of the
+    /// screen-edge clamp pushing it back over the object being scanned.
     private func bubblePosition(for box: CGRect, in containerSize: CGSize, bubbleSize: CGSize) -> CGPoint {
-        let margin: CGFloat = 16
+        let margin: CGFloat = 24
         let boxCenter = CGPoint(x: box.midX * containerSize.width, y: box.midY * containerSize.height)
         let boxHalfWidth = (box.width * containerSize.width) / 2
         let bubbleHalfWidth = max(bubbleSize.width, 1) / 2
