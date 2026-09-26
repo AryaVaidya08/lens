@@ -176,27 +176,28 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         visionQueue.async { [weak self] in
             guard let self else { return }
 
-            guard let objectBox = self.objectDetector.detectObject(pixelBuffer: pixelBuffer, orientation: orientation) else {
-                DispatchQueue.main.async {
-                    self.isScanning = false
-                    guard self.isRunning, self.generation == scanGeneration else { return }
-                    self.objectBoundingBox = nil
-                    self.markMissedIfNeeded()
-                }
-                return
-            }
-
+            let objectBox = self.objectDetector.detectObject(pixelBuffer: pixelBuffer, orientation: orientation)
+            let scanRegion = objectBox
             var identifier: (kind: String, value: String)?
-            if let barcode = self.barcodeScanner.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: objectBox) {
+            var detectedBox = objectBox
+
+            if let barcode = self.barcodeScanner.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: scanRegion) {
                 identifier = ("barcode", barcode.payload)
-            } else if let text = self.textRecognizer.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: objectBox) {
+                detectedBox = barcode.boundingBox
+            } else if let text = self.textRecognizer.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: scanRegion) {
                 identifier = ("text", text)
+                detectedBox = objectBox ?? CGRect(x: 0.15, y: 0.15, width: 0.7, height: 0.7)
             }
 
             DispatchQueue.main.async {
                 self.isScanning = false
                 guard self.isRunning, self.generation == scanGeneration else { return }
-                self.handleObjectSeen(objectBox: objectBox, identifier: identifier)
+                guard let detectedBox else {
+                    self.objectBoundingBox = nil
+                    self.markMissedIfNeeded()
+                    return
+                }
+                self.handleObjectSeen(objectBox: detectedBox, identifier: identifier)
             }
         }
     }
