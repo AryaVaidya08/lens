@@ -4,7 +4,6 @@ import SwiftUI
 import UIKit
 
 struct VoiceAssistantView: View {
-    @EnvironmentObject private var appState: AppState
     @Environment(\.scenePhase) private var scenePhase
     @Environment(\.openURL) private var openURL
     @StateObject private var recognizer = SpeechRecognizer()
@@ -18,10 +17,6 @@ struct VoiceAssistantView: View {
                     VStack(alignment: .leading, spacing: 8) {
                         Label("Voice assistant", systemImage: "waveform.circle.fill")
                             .font(.title2.bold())
-                        if let profile = appState.selectedHCP {
-                            Text("Speaking with \(profile.name)")
-                                .foregroundStyle(.secondary)
-                        }
                         Text("Try saying something, then tap Finish. I'll repeat what I heard. Drug answers aren't connected yet.")
                             .foregroundStyle(.secondary)
                     }
@@ -48,8 +43,9 @@ struct VoiceAssistantView: View {
                             .foregroundStyle(.secondary)
                     }
 
-                    transcriptCard(title: "You said", text: recognizer.transcript.isEmpty
-                        ? "Your words will appear here as you speak." : recognizer.transcript)
+                    if !recognizer.transcript.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
+                        transcriptCard(title: "You said", text: recognizer.transcript)
+                    }
 
                     if !reply.isEmpty {
                         transcriptCard(title: "Assistant · Demo reply", text: reply)

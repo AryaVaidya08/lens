@@ -56,6 +56,6 @@ Microphone and speech privacy descriptions are configured for both Debug and Rel
 
 Xcode 27 emits deprecation warnings for the existing audio tap and interruption APIs; these APIs remain available. It also reports that App Intents metadata extraction is skipped because this app has no App Intents dependency.
 
-No simulator runtime is installed and no connected iPhone was found, so UI interaction and actual microphone/recognition/playback checks remain unverified. Use the device checklist above before the demo. The project currently targets iOS 27.0, so its run destination must support that version.
+The automated tests exercise recognition logic with simulated driver events; they do not verify screen interactions or real microphone/recognition/playback. Use the device checklist above before the demo. The current build targets iOS 26.6.
 
 The build exposed a missing `Combine` import in the existing `ARSessionManager` scaffold. Only that import was added to make the full app build; no AR or detection behavior was implemented. Voice fixes include preventing permission requests after immediate cancellation, ignoring stale finalization callbacks, and avoiding passing a non-Sendable utterance into the playback completion task.
