@@ -1,0 +1,27 @@
+effective_time:
+  20120618
+inactive_ingredient:
+  inactive ingredient: purified water, lemon extract, baizhi extract, lysimachia foenum graecum, jujube extract, mother chrysanthemum extract, opuntia extract, metaplexis japonica, benincasis cerifera, citric acid, perfume, pigment
+purpose:
+  skin protectant (anti-wrinkle)
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - keep out of eyes, ears and mouth - if contact occurs, rinse away with plenty of cold water
+spl_product_data_elements:
+  Okyongsoo NARDOSTACHYS CHINENSIS WHOLE NARDOSTACHYS CHINENSIS WHOLE NARDOSTACHYS CHINENSIS WHOLE WATER JUJUBE FRUIT CHRYSANTHEMUM X MORIFOLIUM FLOWER HALIMEDA OPUNTIA ASCLEPIAS QUADRIFOLIA WHOLE BENINCASA HISPIDA FRUIT CITRIC ACID MONOHYDRATE
+openfda:
+version:
+  1
+dosage_and_administration:
+  - for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  - apply only for skin - apply 2 or 3 times a day - massage with your finger over 2 min and let them dry
+set_id:
+  210b0f91-de2f-4a6b-9ee1-023a5d022042
+id:
+  c6e34a76-e65a-406b-b4bd-e074b7a930fe
+active_ingredient:
+  active ingredient: NARDOSTACHYS CHINENSIS WHOLE

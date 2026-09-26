@@ -1,0 +1,27 @@
+effective_time:
+  20150529
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredients: Water, Butylene Glycol, Glycerin, 1,2-Hexanediol, Chamomilla Recutita (Matricaria) Flower Extract, Cocos Nucifera (Coconut) Fruit Extract, Betaine, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Portulaca Oleracea Extract, Acer Saccharum (Sugar Maple) Extract, Ethylhexylglycerin, Caprylyl Glycol, Arnica Montana Flower Extract, Xanthan Gum, Olea Europaea (Olive) Fruit Oil, Fragrance, Artemisia Capillaris Flower Extract, Houttuynia Cordata Extract, Ecklonia Cava Extract, Artemisia Absinthium Extract, Saururus Chinensis Extract, Achillea Millefolium Extract, Ledum Palustre Extract, Morus Alba Bark Extract, Veronica Officinalis Extract, Melissa Officinalis Leaf Extract, Malva Sylvestris (Mallow) Extract, Alchemilla Vulgaris Extract, Alcohol, Primula Veris Extract, Mentha Piperita (Peppermint) Leaf Extract, Gentiana Lutea Root Extract, Hydrogenated Lecithin, Panthenol, Niacinamide, Tocopheryl Acetate, Retinyl Palmitate, Biotin, Ascorbic Acid, Folic Acid, Dipotassium Glycyrrhizate, Ceramide 3, Glyceryl Linolenate, Glyceryl Linoleate, Glyceryl Arachidonate
+purpose:
+  PURPOSE Purpose: Skin Protectant
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS Warnings: For external use only. Avoid contact with eyes. Not for human consumption. Discontinue use if irritation occurs. If irritation persists, consult a physician. Use immediately after opening. Store in cool and dry place. Keep out of reach of children.
+spl_product_data_elements:
+  MEDITERRANEAN OLIVE BRIGHTENING MASK Witch Hazel Witch Hazel WITCH HAZEL Water Butylene Glycol
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION Dosage and administration: 2-3 times a week. Each mask is for one time use only.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of cello pack
+indications_and_usage:
+  INDICATIONS & USAGE Indication and usage: Step 1. Take out mask from pouch and remove protective film from either side of the mask. Step 2. Apply to cleansed face and smooth to fit facial contours. Step 3. Leave mask on face for 20~25 minutes. Step 4. Discard mask and lightly pat face to help absorb serum into skin.
+set_id:
+  c06f1799-da64-4f98-803b-5d3af089964f
+id:
+  0cbbab80-94c8-49cb-914e-bb889e978d54
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredient: Hamamelis Virginiana (Witch Hazel) Water 0.1%

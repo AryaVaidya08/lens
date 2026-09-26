@@ -1,0 +1,71 @@
+spl_product_data_elements:
+  HEB General Protection SPF 100 Lotion WATER EDETATE DISODIUM PROPYLENE GLYCOL SILICON DIOXIDE ALUMINUM STARCH OCTENYLSUCCINATE DOCOSANOL GLYCERYL MONOSTEARATE MICROCRYSTALLINE CELLULOSE BENZYL ALCOHOL PALMITIC ACID MYRISTYL ALCOHOL STEARIC ACID LAURYL ALCOHOL CETYL ALCOHOL ALOE VERA LEAF CHAMOMILE TOCOPHEROL LECITHIN, SOYBEAN CARBOXYMETHYLCELLULOSE SODIUM CHLORPHENESIN BUTYLENE GLYCOL N-VINYLPYRROLIDINONE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE OXYBENZONE OXYBENZONE
+active_ingredient:
+  Active Ingredients Avobenzone 3%, Homosalate 15%, Octisalate 5%, Octocrylene 10%, Oxybenzone 6%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use • on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask doctor if • rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating Immediately after towel drying at least every 2 hours children under 6 months of age: ask a doctor Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early aging. To decrease this risk, regularly use a sunscreen with a broad-spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun especially from 10 a.m. – 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses.
+storage_and_handling:
+  Other information protect this product from excessive heat and direct sun may stain or damage some fabrics, materials or surfaces
+inactive_ingredient:
+  Inactive ingredients water, propylene glycol, styrene/acrylates copolymer, silica, aluminum starch octenylsuccinate, behenyl alcohol, glyceryl stearate, microcrystalline cellulose, benzyl alcohol, palmitic acid, myristyl alcohol, stearic acid, saccharomyces/podophyllum peltatum ferment filtrate, lauryl alcohol, cetyl alcohol, aloe barbadensis leaf juice, chamomilla recutita (matricaria) flower extract, tocopherol (vitamin E), lecithin, cellulose gum, chlorphenesin, butylated PVP, disodium EDTA, butylene glycol
+package_label_principal_display_panel:
+  HEB Solutions Sunscreen Ultra 100 Lotion 8 FL OZ (237) NDC 37808-943-12 Label
+set_id:
+  39d94e3a-98c8-44b0-bd2d-f318ac7bbf75
+id:
+  c6b414c9-21f2-96ad-e053-2a95a90a13b8
+effective_time:
+  20241015
+version:
+  5
+openfda:
+  application_number:
+    M020
+  brand_name:
+    HEB
+  generic_name:
+    GENERAL PROTECTION SPF 100 LOTION
+  manufacturer_name:
+    H-E-B
+  product_ndc:
+    37808-943
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    OCTISALATE
+    OCTOCRYLENE
+    OXYBENZONE
+  spl_id:
+    c6b414c9-21f2-96ad-e053-2a95a90a13b8
+  spl_set_id:
+    39d94e3a-98c8-44b0-bd2d-f318ac7bbf75
+  package_ndc:
+    37808-943-12
+  is_original_packager:
+    True
+  upc:
+    0041220899005
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    4X49Y0596W
+    5A68WGF6WM
+    95OOS7VE0Y

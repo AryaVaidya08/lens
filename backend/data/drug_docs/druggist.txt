@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  DRUGGIST FACIAL MOISTURIZER FACIAL MOISTURIZER ARGININE ARGININE PHENOXYETHANOL GLYCERIN GLYCERIN WATER XANTHAN GUM
+active_ingredient:
+  Active ingredients Glycerin7% Moisturizing Tocopherol3% Anti-oxidation Arginine3% Moisturizing Sweet Almond Oil PEG-8 Esters5% Moisturizing
+purpose:
+  Purpose Anti-wrinkle, moisturizes
+indications_and_usage:
+  Uses Anti-wrinkle, moisturizes, nourishes and repairs skin, keeping skin hydrated, soft and smooth.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children.If swallowed, get medical help or contacta Poison Control Center right away.
+description:
+  Do not use Do not use on damaged or broken skin
+when_using:
+  When using this product When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children.If swallowed, get medical help or contacta Poison Control Center right away.
+ask_doctor_or_pharmacist:
+  Ask Doctor When Pregnant or breast-feeding.
+dosage_and_administration:
+  Directions 1. After cleansing, take appropriate amount of spot lightening cream. 2. Apply evenly to the parts of the face that need moisturizing, and massage gently until completely absorbed. 3. Use once in the morning and once in the evening. Continued use will bring better results.
+storage_and_handling:
+  Other information Please store in a cool, dry place away from direct sunlight.
+inactive_ingredient:
+  Inactive ingredients Aqua, Decyl Cocoate, Glycerin, Caprylic/Capric Triglyceride, Honey Extract , Glyceryl Stearate Citrate , Stearic Acid, Stearyl Alcohol, Zea Mays (corn) Starch, Tocopherol, Cetearyl Alcohol, Coco-Glucoside, Magnesium Aluminum Silicate, Xanthan Gum, Sodium Stearoyl Lactylate, Arginine, Sclerotium Gum, Phenoxyethanol,
+package_label_principal_display_panel:
+  label
+set_id:
+  12f16d8e-6815-5b7f-e063-6394a90ad2c5
+id:
+  3659022a-fc90-3e86-e063-6294a90a1eb9
+effective_time:
+  20250530
+version:
+  2
+openfda:

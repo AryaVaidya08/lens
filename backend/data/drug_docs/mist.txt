@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Mist Alcohol Alcohol ALCOHOL Water
+active_ingredient:
+  Ethanol 62% v/v
+purpose:
+  Antimicrobial
+warnings:
+  For external use only. Flammable. Keep away from children.
+when_using:
+  Do not use in or near eyes. In case of eye contact, rinse thoroughly with water.
+stop_use:
+  If redness or irritation develop and persist for more than 72 hours.
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Apply lotion directly onto body and rub with hands until dry. Product may be used on all skin surfaces. Children under 6 years of age should be supervised when using this product.
+dosage_and_administration:
+  Apply lotion directly onto body and rub with hands until dry. Product may be used on all skin surfaces. Children under 6 years of age should be supervised when using this product.
+other_safety_information:
+  Do not store above 110oF (43oC). For additional information, see Safety Data Sheet (SDS).
+inactive_ingredient:
+  Water (aqua), glycereth-18 (and) glycereth-18 ethylhexanoate, PEG 1450, PEG-10 dimethicone, cocamide MEA, ethylene glycol distearate, PEG 75 lanolin, Diospyros kaki extract, retinyl palmitate (Vitamin A), magnesium ascorbyl phosphate (Vitamin C), d-l alpha tocopherol acetate (Vitamin E).
+questions:
+  Call 1-888-300-1225, Monday through Friday 8:00AM to 5:00PM EST/EDT.
+package_label_principal_display_panel:
+  image description
+set_id:
+  11c2939c-e77a-48f6-949c-9d508714012b
+id:
+  76ce6e31-7495-4383-a219-b0deaa7a3e1c
+effective_time:
+  20241009
+version:
+  3
+openfda:
+  application_number:
+    part333A
+  brand_name:
+    Mist
+  generic_name:
+    ALCOHOL
+  manufacturer_name:
+    Derma Glove
+  product_ndc:
+    70741-003
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ALCOHOL
+  rxcui:
+    1020364
+  spl_id:
+    76ce6e31-7495-4383-a219-b0deaa7a3e1c
+  spl_set_id:
+    11c2939c-e77a-48f6-949c-9d508714012b
+  package_ndc:
+    70741-003-06
+  is_original_packager:
+    True
+  unii:
+    3K9958V90M

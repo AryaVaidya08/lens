@@ -1,0 +1,29 @@
+effective_time:
+  20201008
+inactive_ingredient:
+  Inactive ingredients Water, cocamidopropyl betaine, glycerin, cetrimonium chloride, benzyl alcohol, disodium EDTA, fragrance, benzoic acid, sorbic acid, citric acid, blue 1 (CI 42090), red 40 (CI 16035)
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product keep out of eyes. In case of contact eyes with water. Stop use and consult a doctor if irritation or redness develops.
+spl_product_data_elements:
+  Durisan BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER COCAMIDOPROPYL BETAINE GLYCERIN CETRIMONIUM CHLORIDE BENZYL ALCOHOL EDETATE DISODIUM ANHYDROUS BENZOIC ACID SORBIC ACID CITRIC ACID MONOHYDRATE FD&C BLUE NO. 1 FD&C RED NO. 40
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Pump onto dry skin. Lather vigorously for 20 seconds. Rinse hands and dry thoroughly.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+indications_and_usage:
+  Use To decrease bacteria on the skin.
+set_id:
+  07d48c66-4f1e-40c5-9cc8-bbb37de05537
+id:
+  2c197f2a-e1a3-4857-84b0-436b50c27892
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1%

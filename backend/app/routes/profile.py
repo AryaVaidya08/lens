@@ -49,7 +49,13 @@ def list_chats(
     db: Database = Depends(get_db),
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
-    rows = list(db.chats.find({"hcp_id": hcp["_id"]}).sort("asked_at", -1).limit(50))
+
+    rows = list(
+        db.chats.find({"hcp_id": hcp["_id"]})
+        .sort("asked_at", -1)
+        .limit(50)
+    )
+
     return {
         "chats": [
             {
@@ -57,7 +63,11 @@ def list_chats(
                 "drug_id": row["drug_id"],
                 "question": row["question"],
                 "answer": row["answer"],
-                "asked_at": row["asked_at"].isoformat() if row.get("asked_at") else None,
+                "asked_at": (
+                    row["asked_at"].isoformat()
+                    if row.get("asked_at")
+                    else None
+                ),
             }
             for row in rows
         ]
@@ -92,6 +102,7 @@ def update_profile(
     db: Database = Depends(get_db),
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
+
     patch = payload.model_dump(exclude_unset=True)
     current_password = patch.pop("current_password", None)
     updates = {}
@@ -121,18 +132,45 @@ def update_profile(
                         status_code=401,
                         detail="Current password is required to change email.",
                     )
-                other = db.hcps.find_one({"email": email, "_id": {"$ne": hcp["_id"]}})
+
+                other = db.hcps.find_one(
+                    {
+                        "email": email,
+                        "_id": {"$ne": hcp["_id"]},
+                    }
+                )
+
                 if other is not None:
-                    raise HTTPException(status_code=409, detail="An account with that email already exists.")
+                    raise HTTPException(
+                        status_code=409,
+                        detail="An account with that email already exists.",
+                    )
+
                 updates["email"] = email
+
             continue
+
         updates[key] = text
 
-    first = updates.get("first_name", hcp.get("first_name") or "")
-    last = updates.get("last_name", hcp.get("last_name") or "")
-    role = updates.get("professional_role", hcp.get("professional_role") or "")
-    if "first_name" in updates or "last_name" in updates or "professional_role" in updates:
+    first = updates.get(
+        "first_name",
+        hcp.get("first_name") or "",
+    )
+    last = updates.get(
+        "last_name",
+        hcp.get("last_name") or "",
+    )
+    role = updates.get(
+        "professional_role",
+        hcp.get("professional_role") or "",
+    )
+
+    if any(
+        field in updates
+        for field in ("first_name", "last_name", "professional_role")
+    ):
         updates["name"] = display_name(first, last, role)
+
     if updates:
         try:
             db.hcps.update_one({"_id": hcp["_id"]}, {"$set": updates})

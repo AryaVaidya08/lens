@@ -1,59 +1,41 @@
-name: Biofreeze
-barcode: 0731124102345
-aliases: bio freeze, menthol gel, topical analgesic
-headline: Topical menthol analgesic · OTC
-
-## Basics
-Biofreeze is an over-the-counter topical analgesic whose active ingredient is
-menthol. It is used for temporary relief of minor aches and pains of muscles and
-joints, including simple backache, arthritis, strains, bruises, and sprains. It
-works as a counterirritant rather than by treating the underlying condition.
-- Over-the-counter menthol gel, roll-on, and spray
-- Temporary relief of minor muscle and joint pain
-- Counterirritant: it does not treat the underlying condition
-
-## Dosing
-Adults and children 12 years and older apply a thin layer to the affected area
-no more than four times daily. Wash hands after application unless the hands are
-the treatment site. Do not use in children under 12 without clinician advice.
-- Apply to the affected area up to 4 times daily
-- Ages 12 and older; ask a clinician for younger patients
-- Wash hands after applying unless treating the hands
-
-## Side effects
-Adverse effects are almost entirely local: redness, transient burning or stinging,
-and skin irritation at the application site. Serious reactions are rare but have
-been reported as blistering or chemical burns, usually after tight bandaging or
-applied heat. Systemic adverse effects are not expected at labeled doses.
-- Local redness, burning, stinging, and irritation are the usual effects
-- Rare blistering or chemical burns, usually with heat or occlusion
-- Stop use if severe irritation or blistering develops
-
-## Warnings
-For external use only. Keep away from the eyes and mucous membranes, and do not
-apply to wounded, broken, or irritated skin. Do not bandage tightly or apply heat,
-since both increase absorption and the risk of burns. Stop use and see a clinician
-if the condition worsens, if symptoms last more than seven days, or if they clear
-up and then recur within a few days.
-- External use only; avoid eyes, mucous membranes, and broken skin
-- Do not combine with heating pads or tight bandages
-- Reassess if pain lasts more than 7 days or worsens
-
-## Interactions
-There are no clinically meaningful systemic drug interactions at labeled topical
-doses, because systemic absorption of menthol is low. The practical concern is
-layering: applying other topical analgesics such as capsaicin, salicylates, or
-lidocaine to the same site increases local irritation without added benefit.
-- No meaningful systemic interactions at labeled doses
-- Avoid layering with other topical analgesics on the same site
-- Local irritation, not systemic toxicity, is the limiting factor
-
-## Trial data
-Randomized comparisons of topical menthol against placebo gel in delayed-onset
-muscle soreness reported modest short-term reductions in pain scores, with the
-effect concentrated in the first hour after application. Evidence in chronic
-musculoskeletal pain is weaker and mostly short duration, so it is best positioned
-as adjunctive symptomatic relief rather than a primary analgesic strategy.
-- Modest short-term pain reduction versus placebo, strongest in the first hour
-- Chronic pain evidence is limited and short duration
-- Best positioned as adjunctive relief alongside a primary plan
+spl_product_data_elements:
+  Biofreeze MENTHOL ALOE VERA LEAF ARNICA MONTANA FLOWER GREEN TEA LEAF DIAZOLIDINYL UREA DIHYDROXYALUMINUM AMINOACETATE GLYCERIN IODOPROPYNYL BUTYLCARBAMATE KAOLIN POLYSORBATE 80 PROPYLENE GLYCOL POVIDONE, UNSPECIFIED TARTARIC ACID TITANIUM DIOXIDE WATER MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Menthol 5% Purpose Cooling Pain Relief
+purpose:
+  Purpose Cooling Pain Relief
+indications_and_usage:
+  Uses: Temporary relief from minor aches and pains of sore muscles and joints associated with: • arthritis • backache • strains • sprains
+warnings:
+  Warnings For external use only Ask a doctor before use if you have: Sensitive skin When using this product: • Use only as directed • Do not bandage tightly or use with heating pad or device • Avoid contact with eyes or mucous membranes • Do not apply to wounds or damaged skin • Do not use with other ointments, creams, sprays, or liniments • Do not apply to irritated skin • Store in a cool dry place away from direct sunlight Stop use and ask a doctor if: burning discomfort or excessive skin irritation develops, condition worsens, or if symptoms persist for more than 7 days, or clear up and occur within a few days If pregnant or breast-feeding: Ask a health professional before use Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately
+ask_doctor:
+  Ask a doctor before use if you have: Sensitive skin
+when_using:
+  When using this product: • Use only as directed • Do not bandage tightly or use with heating pad or device • Avoid contact with eyes or mucous membranes • Do not apply to wounds or damaged skin • Do not use with other ointments, creams, sprays, or liniments • Do not apply to irritated skin • Store in a cool dry place away from direct sunlight
+stop_use:
+  Stop use and ask a doctor if: burning discomfort or excessive skin irritation develops, condition worsens, or if symptoms persist for more than 7 days, or clear up and occur within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: Ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Directions • Adults and children 12 years of age and older: clean and dry affected area, partially peel back protective film and apply exposed patch to site of pain. Carefully remove remaining film while pressing patch to skin and leave in place for up to 8 hours. Use on affected areas not more than 4 times daily. Wash hands with cool water after use. • Children under 12 years of age: Consult physician
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf Extract, Arnica Montana Flower Extract, Boswellia Carterii Resin Extract, Camellia Sinensis Leaf Extract, Diazolidinyl Urea, Dihydroxyaluminum Aminoacetate, Glycerin, Iodopropynyl Butylcarbamate, Kaolin, Polyacrylic Acid, Polysorbate 80, Propylene Glycol, PVP, Sodium Polyacrylate, Tartaric Acid, Titanium Dioxide, Water
+questions:
+  Questions or Comments: 1-800-246-3733
+package_label_principal_display_panel:
+  Package Labeling: 59316-993-07 Label5
+  Package Labeling: 59316-993-09 Label6
+  Package Labeling: 59316-993-08 Package Package2
+set_id:
+  b523fe83-23f8-4aa2-9796-05fc52c1cc54
+id:
+  21bb2f06-3d7b-43e3-865f-d9e50ac82e51
+effective_time:
+  20211220
+version:
+  7
+openfda:

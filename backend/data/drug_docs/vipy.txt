@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  VIPY ANTIBACTERIAL SANITIZING WET WIPES Swab benzalkonium chloride cloth BENZALKONIUM CHLORIDE BENZALKONIUM CITRIC ACID MONOHYDRATE DICAPRYLYL CARBONATE GLYCERIN PROPYLENE GLYCOL WATER ALLANTOIN BENZOIC ACID DEXPANTHENOL PHENOXYETHANOL POLYGLYCERYL-2 DIPOLYHYDROXYSTEARATE POLYSORBATE 20 .ALPHA.-TOCOPHEROL ACETATE, DL- LAURYL GLUCOSIDE ALOE VERA LEAF COCAMIDOPROPYL BETAINE DEHYDROACETIC ACID GLYCERYL OLEATE
+purpose:
+  PURPOSE Antiseptic
+active_ingredient:
+  ACTIVE INGREDIENT Benzalkonium Chloride 0.15%
+indications_and_usage:
+  USES For hand washing to decrease bacteria on the skin. Recommended for repeat use.
+warnings:
+  WARNINGS For external use only. Keep out of reach of eyes. If contact occurs, rinse thoroughly with water. Do not use if you are allergic to any of the ingredients. Discontinue use if irritation or redness develops, and if condition persists for more than 72 hours consult a physician. Do not use in children under 2 months of age.
+instructions_for_use:
+  DIRECTIONS OF USE Open resealable label and pull one sheet from pack. Thoroughly clean hands or affected area and discard in receptacle, and do not flush. Allow to dry without wiping. Be sure to reseal label complete to retain moisture.
+dosage_and_administration:
+  OTHER INFORMATION Store at room temperature.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN unless under adult supervision. If swallowed, get medical help, or contact a Poison Control Center immediately.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water (Aqua), Aloe Barbadensis Leaf Juice, Allantoin, Benzoic Acid, Citric Acid, Cocamidopropyl Betaine, Dehydroacedic Acid, Dicaprylyl Carbonate, Glycerin, Glyceryl Oleate, Lauryl Glucoside, Olus Oil, Panthenol, Parfum, Phenoxyethanol, Polyglyceryl-2-Dipolyhydroxystearate, Polysorbate 20, Propylene Glycol, Tocopheryl Acetate
+package_label_principal_display_panel:
+  80660-002-80 PACKAGE LABELING: ANTIBACTERIAL SANITIZING 80 WIPES Antibacterial Sanitizing 80 Wipes
+set_id:
+  b0164a6c-3021-3d6d-e053-2995a90a43d8
+id:
+  d6195356-6507-370a-e053-2a95a90a40a2
+effective_time:
+  20220121
+version:
+  5
+openfda:

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  LIGHTWEIGHT SHEER DAILY SUNSCREEN SPF 40 ZINC OXIDE WATER COCO-CAPRYLATE/CAPRATE MEDIUM-CHAIN TRIGLYCERIDES OCTYLDODECANOL GLYCERIN CETOSTEARYL ALCOHOL POLYGLYCERYL-3 PENTARICINOLEATE HYALURONIC ACID PEG-30 DIPOLYHYDROXYSTEARATE (4000 MW) GLUCONOLACTONE ISOSTEARIC ACID SODIUM CHLORIDE CETEARYL GLUCOSIDE XANTHAN GUM EDETIC ACID SODIUM BENZOATE ZINC OXIDE ZINC CATION
+spl_unclassified_section:
+  Drug Facts
+  Other Information Protect this product from excess heat and direct sun.
+active_ingredient:
+  Active Ingredients Zinc Oxide (Non-Nano) 22.75% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see directions), decreases the risk of skin cancer and early skin aging caused by the sun.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center immediately.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center immediately.
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure Reapply: After 80 minutes of swimming or sweating Immediately after towel drying At least every 2 hours Sun protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10am - 2pm. Wear long-sleeved shirts, pants, hats, and sunglasses. Children under 6 months: Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients Purified Water, Coco-Caprylate/Caprate, Caprylic/Capric Triglyceride, Octyldodecanol, Glycerol, Cetearyl Alcohol, Polyglyceryl-3 Polyricinoleate, Hyaluronic Acid, PEG-30 Dipolyhydroxystearate, Gluconolactone, Isostearic Acid, Sodium Chloride, Cetearyl Glucoside, Xanthan Gum, EDTA, Sodium Benzoate.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  c29bda99-480d-3244-e053-2a95a90ae502
+id:
+  07fdf946-b7aa-de3f-e063-6394a90a709d
+effective_time:
+  20231018
+version:
+  2
+openfda:

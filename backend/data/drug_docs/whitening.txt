@@ -1,0 +1,30 @@
+spl_product_data_elements:
+  Whitening YAYASHI WHITENING LYSOZYME HYDRATED SILICA HYDRATED SILICA GLYCERIN GLYCERIN SODIUM PHYTATE XANTHAN GUM XANTHAN GUM SORBITOL WATER SACCHARIN SODIUM SODIUM LAURYL SULFATE
+purpose:
+  Emphasize that the toothpaste uses mild whitening ingredients that do not damage tooth enamel, is suitable for daily use, and helps users easily achieve teeth whitening effects
+warnings:
+  Warnings: For external use only: Do not ingest the toothpaste. If swallowed, seek medical help immediately. Avoid use on damaged or sensitive gums: If you have sensitive teeth, gums, or any oral health concerns, consult with a dentist before using this product. Possible sensitivity: Some individuals may experience mild tooth or gum sensitivity with whitening products. Discontinue use if sensitivity persists or worsens, and consult a dentist if necessary. Keep out of reach of children: This product is intended for adults and should be stored out of reach of children. Children under 12 years of age should only use this product with the guidance of a dentist. Avoid contact with eyes: In case of accidental contact with eyes, rinse thoroughly with water. Seek medical attention if irritation continues. Example: "For external use only. Do not swallow. Consult a dentist if you have sensitive teeth or gums. Discontinue use if sensitivity occurs. Keep out of reach of children and avoid contact with eyes."
+indications_and_usage:
+  Indications: This product is intended for individuals looking to remove surface stains and achieve a natural whitening effect. Suitable for adults experiencing mild tooth discoloration caused by coffee, tea, red wine, or smoking. Not recommended for individuals with sensitive teeth or gums. Please consult a dentist before use if you have dental concerns. Usage: Use twice daily, morning and night. Apply a pea-sized amount of toothpaste to your toothbrush. Gently brush teeth for at least two minutes, ensuring the toothpaste covers all tooth surfaces. Rinse thoroughly after brushing; avoid swallowing. For optimal whitening results, continue use for at least two weeks, and limit consumption of stain-causing foods and drinks.
+stop_use:
+  Stop Use: If irritation or discomfort occurs: Discontinue use immediately if you experience persistent irritation, discomfort, or unusual sensitivity in teeth or gums. If symptoms worsen: Stop using the product if symptoms such as pain, inflammation, or tooth sensitivity intensify. Consult a dentist before resuming use. If allergic reaction develops: Discontinue use if you notice signs of an allergic reaction, such as redness, itching, or swelling in the mouth or on the gums.
+keep_out_of_reach_of_children:
+  Here’s how the KEEP OUT OF REACH OF CHILDREN section could be presented for a whitening toothpaste: Keep Out of Reach of Children: This product is intended for adult use only. Do not allow children to use without supervision or the guidance of a dentist. In case of accidental ingestion by a child, seek immediate medical assistance or contact a Poison Control Center. Example: "Keep out of reach of children. For adult use only. If swallowed by a child, get medical help or contact a Poison Control Center immediately."
+dosage_and_administration:
+  Here’s how the DOSAGE & ADMINISTRATION section for a whitening toothpaste could be structured: Dosage & Administration: Recommended Dosage: Use a pea-sized amount of toothpaste per brushing session. Frequency of Use: Brush teeth twice daily, in the morning and at night, or as directed by a dentist. Administration Instructions: Apply a pea-sized amount of toothpaste to a toothbrush. Brush teeth gently for at least two minutes, covering all tooth surfaces. Rinse thoroughly after brushing and avoid swallowing the product. Duration for Optimal Results: For best whitening results, use consistently for a minimum of two weeks. Consult a dentist if additional whitening is desired or if you plan to use for an extended period. Example: "Apply a pea-sized amount and brush twice daily for two minutes, ensuring full coverage. Rinse thoroughly after use. For optimal whitening, continue use for at least two weeks."
+  HYDRATED SILICA XANTHAN GUM GLYCERIN
+inactive_ingredient:
+  LYSOZYME SODIUM PHYTATE SORBITOL WATER SACCHARIN SODIUM SODIUM LAURYL SULFATE
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  NDC WHITENING TOOTHPASTEI 100g 20241101
+set_id:
+  26bc06e3-cc87-c67e-e063-6394a90abb8e
+id:
+  26bc06e3-cc88-c67e-e063-6394a90abb8e
+effective_time:
+  20241112
+version:
+  1
+openfda:

@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Engystol CYNANCHUM VINCETOXICUM ROOT and SULFUR CYNANCHUM VINCETOXICUM ROOT CYNANCHUM VINCETOXICUM ROOT SULFUR SULFUR SODIUM CHLORIDE WATER
+description:
+  DESCRIPTION Ingredient name Potency Quantity Final dilution Asclepias vincetoxicum 6X 6.6 μl 8.22X Asclepias vincetoxicum 10X 6.6 μl 12.22X Asclepias vincetoxicum 30X 6.6 μl 32.22X Sulphur 4X 3.3 μl 6.52X Sulphur 10X 3.3 μl 12.52X
+description_table:
+  <table border="1"><tbody><tr><td><paragraph>Ingredient name</paragraph></td><td><paragraph>Potency</paragraph></td><td><paragraph>Quantity</paragraph></td><td><paragraph>Final dilution</paragraph></td></tr><tr><td><paragraph>Asclepias vincetoxicum</paragraph></td><td><paragraph>6X</paragraph></td><td><paragraph>6.6 &#x3BC;l</paragraph></td><td><paragraph>8.22X</paragraph></td></tr><tr><td><paragraph>Asclepias vincetoxicum</paragraph></td><td><paragraph>10X</paragraph></td><td><paragraph>6.6 &#x3BC;l</paragraph></td><td><paragraph>12.22X</paragraph></td></tr><tr><td><paragraph>Asclepias vincetoxicum</paragraph></td><td><paragraph>30X</paragraph></td><td><paragraph>6.6 &#x3BC;l</paragraph></td><td><paragraph>32.22X</paragraph></td></tr><tr><td><paragraph>Sulphur</paragraph></td><td><paragraph>4X</paragraph></td><td><paragraph>3.3 &#x3BC;l</paragraph></td><td><paragraph>6.52X</paragraph></td></tr><tr><td><paragraph>Sulphur</paragraph></td><td><paragraph>10X</paragraph></td><td><paragraph>3.3 &#x3BC;l</paragraph></td><td><paragraph>12.52X</paragraph></td></tr></tbody></table>
+indications_and_usage:
+  INDICATIONS AND USAGE Engystol® Injection Solution is a homeopathic drug product indicated for the support of the immune system to reduce severity and duration of symptoms in viral infections, particularly in the early stages of colds and influenza-like illnesses.
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION General Considerations • The dosage schedules listed below can be used as a general guide for the administration of Engystol ® Injection Solution. • Engystol ® Injection Solution may be administered s.c., i.d., i.m., or i.v. • The interval between injections is left to the discretion of the HCP, but should not exceed 1 ampule in 24 hours. • Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Discard any unused ampule contents. • Draw up required dose into syringe. • Discard any unused ampule contents. Do not reuse ampule. Only licensed practitioners with sufficient expertise in injecting drugs, including the respective route of administration, should administer the product. Standard Dosage: Adults and children 12 years and older: 1 ml 1 to 3 times per 7 days. Children 6 to 11 years: 0.7 ml 1 to 3 times per 7 days. Children 2 to 5 years: 0.5 ml 1 to 3 times per 7 days. Acute Dosage: Adults and children 12 years and older: 1 ml daily, and then continue with standard dosage. Children 6 to 11 years: 0.7 ml daily, and then continue with standard dosage. Children 2 to 5 years: 0.5 ml daily, and then continue with standard dosage.
+contraindications:
+  CONTRAINDICATIONS Engystol ® Injection Solution is contraindicated in patients with known hypersensitivity to Engystol ® or any of its ingredients.
+warnings_and_cautions:
+  WARNINGS AND PRECAUTIONS None
+adverse_reactions:
+  ADVERSE REACTIONS Post-marketing Experience • The following adverse events have been identified during post-marketing use of Engystol® Injection Solution. Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. • Allergic (hypersensitivity) skin reactions may occur in isolated cases. To report SUSPECTED ADVERSE REACTIONS, contact MediNatura. at 1.844.633.4628 or info@medinatura.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+overdosage:
+  OVERDOSAGE No negative effects of an overdose have been reported and none are expected due to the homeopathic dilutions.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Mechanism of Action The exact mechanism of Engystol ® Injection Solution is not fully understood. Pharmacodynamics Not applicable for homeopathic medicinal products.
+dosage_forms_and_strengths:
+  DOSAGE 1 ampule containing 1.1 ml solution for injection each containing the active ingredients in the strengths listed under Description.
+package_label_principal_display_panel:
+  Engystol 1.1ml Injection.jpg
+set_id:
+  a05158b5-ae28-4889-881c-6a7883c96f4c
+id:
+  cb45601b-173d-4390-bbd2-09476195dca3
+effective_time:
+  20211014
+version:
+  13
+openfda:

@@ -324,6 +324,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Lens uses the camera to recognize drug packaging.";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Lens reaches the demo backend running on your computer over the local network.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Lens uses your microphone to hear questions for the voice assistant.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Lens transcribes your speech so you can review your question and hear a reply.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -351,7 +352,7 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -369,6 +370,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Lens uses the camera to recognize drug packaging.";
+				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Lens reaches the demo backend running on your computer over the local network.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Lens uses your microphone to hear questions for the voice assistant.";
 				INFOPLIST_KEY_NSSpeechRecognitionUsageDescription = "Lens transcribes your speech so you can review your question and hear a reply.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -396,7 +398,7 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

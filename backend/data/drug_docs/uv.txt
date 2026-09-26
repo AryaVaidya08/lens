@@ -1,0 +1,23 @@
+effective_time:
+  20190326
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Mica, Silica, Bismuth Oxychloride, CI 77492, CI 77491, CI 77499, Quartz, Sapphire Powder
+purpose:
+  PURPOSE Purpose: Sunscreen
+warnings:
+  WARNINGS Warnings: For external use only. When using this product Keep out of eyes, Rinse with water to remove. Stop use and ask a doctor if Rash or irritation develops and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  UV NATURAL 100 MINERAL SUNKILL RX 12g Zinc Oxide , Titanium Dioxide Zinc Oxide ZINC CATION Titanium Dioxide TITANIUM DIOXIDE Mica
+description:
+  DESCRIPTION Uses: Helps prevent sunburn, Higher SPF gives moresunburn protection. Directions: Apply evenly before sun exposure as needed.
+openfda:
+version:
+  3
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+set_id:
+  818f7a22-de88-4ddc-8c04-3d630ad144c9
+id:
+  e0ba0ce7-cf85-468f-8bef-4ca1b899055a
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Zinc Oxide 17.9%, Titanium Dioxide 17.3%

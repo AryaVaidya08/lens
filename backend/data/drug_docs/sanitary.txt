@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  SANITARY WET TISSUE SANITARY WET TISSUE ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL GLYCERIN PROPYLENE GLYCOL WATER
+active_ingredient:
+  Active Ingredient(s) Isopropanol
+purpose:
+  Purpose suitable for hands,skin and surface of common objects
+indications_and_usage:
+  Use this product is suitable for cleaning and sterilizing hands,skin and surface of common objects.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  this prodcut is for extermal use only.avoid contact with eyes.please stop using it if you feel uncomfortable
+stop_use:
+  this product is forbidden for those who are allergic to alcohol,please stop using it and seek medical advice in time if there's any allergic reaction
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  usage open the lid,remove the sticker on the outer package,and extract the wet tissue,please stick the sticker back to its original place after use to prevent it from drying out
+storage_and_handling:
+  Other information Store between 15-30C (59-86F) Avoid freezing and excessive heat above 40C (104F)
+inactive_ingredient:
+  Inactive ingredients glycerin, propylene glycol, purified water
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel image description
+set_id:
+  d5a42f69-7aa2-4806-8152-087b74ff2204
+id:
+  e179dbb2-66e7-44e5-93f2-f41bce30ea7a
+effective_time:
+  20200831
+version:
+  1
+openfda:

@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  LACTOVIT ORIGINAL DEODORANT AND ANTIPERSPIRANT ALUMINUM CHLOROHYDRATE WATER STEARETH-2 PPG-15 STEARYL ETHER STEARETH-21 BUTYLENE GLYCOL CALCIUM LACTATE .ALPHA.-TOCOPHEROL ACETATE ALLANTOIN TRICLOSAN CYCLOMETHICONE 5 EDETATE DISODIUM ANHYDROUS PHENOXYETHANOL ISOMETHYL-.ALPHA.-IONONE BENZYL SALICYLATE CITRAL .BETA.-CITRONELLOL, (R)- COUMARIN LIMONENE, (+)- GERANIOL .ALPHA.-HEXYLCINNAMALDEHYDE BUTYLPHENYL METHYLPROPIONAL LINALOOL, (+/-)- ALUMINUM CHLOROHYDRATE ALUMINUM CHLOROHYDRATE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Aluminium chlorohydrate 14.0% Purpose Antiperspirant
+purpose:
+  Purpose Antiperspirant
+indications_and_usage:
+  Uses Reduces underarm wetness.
+warnings:
+  Warning For external use only. Do not use on broken skin. In case of accidentalIn case of accidental ingestion seek Professional Assistance or contact a Poison Control Center immediately. Keep away from face and mouth. Ask a Doctor or pharmacists before use if you have kidney disease. Stop use and ask a doctor if rash or irritation occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+do_not_use:
+  Do not use on broken skin.
+ask_doctor:
+  Ask a Doctor or pharmacists before use if you have kidney disease.
+stop_use:
+  Stop use and ask a doctor if rash or irritation occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Directions Apply to underarms only.
+other_safety_information:
+  Other information: Store at room temparature.
+inactive_ingredient:
+  Inactive ingredients water, steareth-2, PPG-15 stearyl ether, steareth-21,butylene glycol, fragrance, hydrolyzed milk protein, calcium lactate, tocopheryl acetate, allantoin, triclosan, cyclopentasiloxane, disodium EDTA, VP/eicosene copolymer, phenoxyethanol, alpha isomethyl ionone, benzyl salicylate, citral, citronellol, coumarin, limonene, geraniol, hexyl cinnamal, butylphenyl methylpropional, linalool.
+questions:
+  Questions or comments: + 1-787-780-4043
+package_label_principal_display_panel:
+  Package Labeling LACTOVIT ORIGINAL
+set_id:
+  63f2bf2c-d1e5-4941-e053-2a91aa0a26b7
+id:
+  d4375857-460c-30c1-e053-2995a90ae552
+effective_time:
+  20211228
+version:
+  2
+openfda:

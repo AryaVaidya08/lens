@@ -1,0 +1,82 @@
+spl_product_data_elements:
+  Laxative Bisacodyl BISACODYL DEACETYLBISACODYL SILICON DIOXIDE STARCH, CORN FD&C RED NO. 40 ALUMINUM LAKE HYPROMELLOSE, UNSPECIFIED ANHYDROUS LACTOSE MAGNESIUM STEARATE METHACRYLIC ACID MICROCRYSTALLINE CELLULOSE POLYDEXTROSE POLYETHYLENE GLYCOL, UNSPECIFIED SHELLAC DIMETHICONE WATER SODIUM BICARBONATE SODIUM LAURYL SULFATE STEARIC ACID TALC TITANIUM DIOXIDE TRIACETIN TRIETHYL CITRATE B
+active_ingredient:
+  Active ingredient (in each tablet) Bisacodyl USP, 5 mg
+purpose:
+  Purpose Stimulant laxative
+indications_and_usage:
+  Uses for relief of occasional constipation (irregularity) this product generally produces bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use if you cannot swallow without chewing. Ask a doctor before use if you have a sudden change in bowel habits that lasts more than 2 weeks stomach pain, nausea or vomiting When using this product do not chew or crush tablet(s) do not use within 1 hour after taking an antacid or milk it may cause stomach discomfort, faintness, and cramps Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use if you cannot swallow without chewing.
+ask_doctor:
+  Ask a doctor before use if you have a sudden change in bowel habits that lasts more than 2 weeks stomach pain, nausea or vomiting
+when_using:
+  When using this product do not chew or crush tablet(s) do not use within 1 hour after taking an antacid or milk it may cause stomach discomfort, faintness, and cramps
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding or fail to have a bowel movement after use of a laxative. These could be signs of a serious condition. you need to use a laxative for more than 1 week
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not take more than directed take with a glass of water adults and children 12 years and over take 1 to 3 tablets in a single daily dose children 6 to under 12 years take 1 tablet in a single daily dose children under 6 years ask a doctor
+dosage_and_administration_table:
+  <table width="286px" cellspacing="0" cellpadding="0"><col/><col/><tbody><tr><td styleCode=" Botrule Toprule Lrule Rrule">adults and children 12  years and over</td><td styleCode=" Botrule Toprule Lrule Rrule">take 1 to 3 tablets in a  single daily dose</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children 6 to under 12  years</td><td styleCode=" Botrule Toprule Lrule Rrule">take 1 tablet in a single  daily dose</td></tr><tr><td styleCode=" Botrule Toprule Lrule Rrule">children under 6 years</td><td styleCode=" Botrule Toprule Lrule Rrule">ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information TAMPER EVIDENT: DO NOT USE IF OUTER PACKAGE IS OPENED OR BLISTER IS TORN OR BROKEN avoid excessive humidity store at 25°C (77°F); excursions permitted between 15°-30°C (59°-86°F) see end flap for expiration date and lot number
+inactive_ingredient:
+  Inactive ingredients carmine, colloidal silicon dioxide, corn starch, FD&C red #40 aluminum lake, hypromellose, lactose anhydrous, magnesium stearate, methacrylic acid, microcrystalline cellulose, polydextrose, polyethylene glycol, shellac wax, simethicone, sodium bicarbonate, sodium lauryl sulfate, stearic acid, talc, titanium dioxide, triacetin, triethyl citrate
+questions:
+  Questions or comments? 1-800-426-9391
+package_label_principal_display_panel:
+  Principal display panel meijer ® NDC 79481-6760-1 laxative BISACODYL USP 5 mg STIMULANT LAXATIVE GENTLE, DEPENDABLE CONSTIPATION RELIEF Comfort coated tablets 60 Tablets Actual Size TAMPER EVIDENT: DO NOT USE IF PACKAGE IS OPENED OR IF BLISTER UNIT IS TORN, BROKEN OR SHOWS ANY SIGNS OF TAMPERING DIST. BY MEIJER DISTRIBUTION, INC. GRAND RAPIDS, MI 49544 www.meijer.com 50844 REV0923B67611 OUR QUALITY GUARANTEE Meijer 44-676A Meijer 44-676A
+set_id:
+  4fd4dc2c-9617-4fc9-927d-7835f7fbcde3
+id:
+  ba220a60-1c51-446a-ad9f-52f4774ee789
+effective_time:
+  20260320
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Laxative
+  generic_name:
+    BISACODYL
+  manufacturer_name:
+    Meijer Distribution, Inc.
+  product_ndc:
+    79481-6760
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BISACODYL
+  rxcui:
+    308753
+  spl_id:
+    ba220a60-1c51-446a-ad9f-52f4774ee789
+  spl_set_id:
+    4fd4dc2c-9617-4fc9-927d-7835f7fbcde3
+  package_ndc:
+    79481-6760-1
+  is_original_packager:
+    True
+  upc:
+    0719283018045
+  nui:
+    N0000009371
+    N0000175812
+    N0000009871
+  pharm_class_pe:
+    Increased Large Intestinal Motility [PE]
+    Stimulation Large Intestine Fluid/Electrolyte Secretion [PE]
+  pharm_class_epc:
+    Stimulant Laxative [EPC]
+  unii:
+    10X0709Y6I

@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  BATH ELEMENTS ADVANCED HAND SANITIZER LAVENDER Alcohol FRAGRANCE LAVENDER ORC1800979 WATER ALCOHOL ALCOHOL TROLAMINE CARBOMER 940
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol, 75% v/v. Purpose: Disinfectant
+purpose:
+  Purpose Disinfectant
+indications_and_usage:
+  Uses Decreases bacteria on skin that could cause diseases. Recommended for repeated use.
+warnings:
+  Warnings For external use on hands only. Flammable, keep away from flame or fire. When using this product keep out of eyes, in case of contact with eyes, flush thoroughly with water. Do not ingest or inhale. Avoid contact with broken skin. Stop use and ask doctor if redness & irritation develop or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poision Control Center immediately.
+do_not_use:
+  For children under 6, use only with adult supervision. Not recommended for infants.
+when_using:
+  When using this product keep out of eyes, in case of contact with eyes, flush thoroughly with water. Do not ingest or inhale. Avoid contact with broken skin.
+stop_use:
+  Stop use and ask doctor if redness & irritation develop or if condition persists for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poision Control Center immediately.
+dosage_and_administration:
+  Directions Spread product on hands thoroughly & allow to dry, do not wipe off. For children under 6, use only with adult supervision. Not recommended for infants.
+storage_and_handling:
+  Other information Do not store above 105℉ (40.6℃). may discolor some fabrics. Harmful to plastics & wood finishes.
+inactive_ingredient:
+  Inactive ingredients water (aqua), carbomer, triethanolamine, fragrance.
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel L203-03
+set_id:
+  e326a5a1-19ed-5ba6-e053-2995a90ae25d
+id:
+  e326a5a1-19ee-5ba6-e053-2995a90ae25d
+effective_time:
+  20220707
+version:
+  1
+openfda:

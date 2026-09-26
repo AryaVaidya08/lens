@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  DISINFEX ALCOHOL GLYCERIN CARBOMER 940 WATER ALCOHOL ALCOHOL AMINOMETHYLPROPANOL ALOE VERA LEAF
+spl_unclassified_section:
+  This is a hand sanitizer manufactured according to the Temporary Policy for Preparation of Certain Alcohol-Based Hand Sanitizer Products During the Public Health Emergency (CoViD-19); Guidance for Industry . The hand sanitizer is manufactured using only the following United States Pharmacopoeia (USP) grade ingredients in the preparation of the product (percentage in final product formulation) consistent with) recommendations: Alcohol (ethanol) (USP or Food Chemical Codex (FCC) grade) (70%, volume/volume (v/v)) in an aqueous solution denatured according to Alcohol and Tobacco Tax and Trade Bureau regulations in 27 CFR part 20. Glycerol (0.5% v/v). Aloe Vera Leaf (0.1% v/v). Carbomer 940 (0.3% v/v). Aminomethylpropanol (0.15% v/v). Sterile distilled water The firm does not add other active or inactive ingredients. Different or additional ingredients may impact the quality and potency of the product.
+active_ingredient:
+  Active Ingredient(s) Alcohol 70% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antiseptic, Disinfex Hand Sanitizer
+indications_and_usage:
+  Uses to help reduce bacteria on the skin. For use when soap and water are not avaliable.
+warnings:
+  Warnings For external use only. Flammable liquid and vapor. Keep away from heat/sparks/open flame. No smoking. Avoid sprayin in eyes.
+when_using:
+  When using this product avoid contact with eyes. If contact occurs, rinse thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness devolops and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, get medical help or contact a poison Control Center immediately.
+dosage_and_administration:
+  Directions Put enough product in your palm to cover hands and rub hands together until dry. Children under 6 years should be supervised when using this product.
+storage_and_handling:
+  Other information Store between 15-30C (59-86F). Avoid freezing and excessive heat above 40C (104F) may discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Glycerin, Aloe Barbadensis Leaf Juice, Carbomer, Aminomethylpropanol.
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel 250 mL NDC: 79320-120-03 250 ML LABEL
+set_id:
+  aacee63a-de04-13e4-e053-2a95a90a5a1d
+id:
+  aacee63a-de03-13e4-e053-2a95a90a5a1d
+effective_time:
+  20200719
+version:
+  1
+openfda:

@@ -1,0 +1,66 @@
+spl_product_data_elements:
+  Keystone triclosan TRICLOSAN TRICLOSAN WATER POTASSIUM COCOATE ALCOHOL SODIUM LAURETH SULFATE HEXYLENE GLYCOL BORIC ACID COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE EDETATE SODIUM COCAMINE OXIDE PEG-75 LANOLIN METHYLPARABEN PROPYLPARABEN ALOE VERA LEAF FD&C BLUE NO. 1
+active_ingredient:
+  Active ingredient Triclosan 0.3%
+purpose:
+  Purpose Antiseptic handwash
+indications_and_usage:
+  Uses for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Do not use in eyes When using this product if in eyes, rinse promptly and thoroughly with water discontinue use if irritation and redness develop Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in eyes
+when_using:
+  When using this product if in eyes, rinse promptly and thoroughly with water discontinue use if irritation and redness develop
+ask_doctor:
+  Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet skins and apply a small amount on hands an forearms scrub well, rinse thoroughly and dry
+references:
+  Other information for additional information see, Safety Data Sheet (SDS) for emergency medical information in USA and Canada, call 1.800.328.0026
+inactive_ingredient:
+  Inactive ingredients water (aqua), potassium cocoate, alcohol, sodium laureth sulfate, hexylene glycol, boric acid, cocamidopropyl PG-dimonium chloride phosphate, tetrasodium EDTA, cocamine oxide, fragrance, PEG-75 lanolin, methylparaben, propylparaben, aloe barbadensis leaf juice, FD&C blue 1
+questions:
+  Questions? call 1.800.35.CLEAN (352.5326)
+package_label_principal_display_panel:
+  Principal display panel and representative label KEYSTONE ANTIBACTERIAL FOAM HANDSOAP Triclosan 0.3% SYSCO 0281531 6100517 ECOLAB Net Contents: 1200 mL (40.6 US fl oz) 750767/5401/0420 Distributed by Sysco Corporation Manufactured by Ecolab · 1 Ecolab Place · St. Paul MN 55102 USA · tel: 1 800 35 CLEAN (352 5326) © 2020 Ecolab USA Inc · All rights reserved Made in U.S.A. representative label
+set_id:
+  0e7ccbbe-0cda-4d8d-8ded-4b259ead1daa
+id:
+  b0dbaf7f-4ca9-4589-93aa-175b2dc677ff
+effective_time:
+  20240318
+version:
+  5
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Keystone
+  generic_name:
+    TRICLOSAN
+  manufacturer_name:
+    Ecolab Inc.
+  product_ndc:
+    47593-341
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    TRICLOSAN
+  rxcui:
+    260054
+  spl_id:
+    b0dbaf7f-4ca9-4589-93aa-175b2dc677ff
+  spl_set_id:
+    0e7ccbbe-0cda-4d8d-8ded-4b259ead1daa
+  package_ndc:
+    47593-341-41
+    47593-341-56
+  is_original_packager:
+    True
+  unii:
+    4NM5039Y5X

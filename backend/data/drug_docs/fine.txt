@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  FINE AND CLEAR ADVANCED HAND SANITIZER Ethyl alcohol ALCOHOL ALCOHOL Water AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER Butylphenyl Methylpropional LIMONENE, (+)- LINALOOL, (+/-)- ALOE VERA LEAF
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Ethyl alcohol 80%
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Alcohol, Water, Ammonium Acryloyldimethyltaurate/VP Copolymer, Fragrance, Butylphenyl Methylpropional, Limonene, Linalool, Aloe Barbadensis Leaf Extract
+purpose:
+  PURPOSE Purpose: Hand Sanitizer
+warnings:
+  WARNINGS Warnings: • Flammable. Keep away from fire or flame. • For external use only. • When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. • Stop use and ask a doctor if irritation or rash appears and lasts. • Keep Out of Reach of Children. • Do not eat. • If swallowed, get medical help, or contact a Poison Control Center right away
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN If swallowed, get medical help or contact a Poison Control Center right away. Do not eat.
+indications_and_usage:
+  Uses Uses: Hand sanitizer to help reduce bacteria and virus on the skin. For use when soap and water are not available.
+dosage_and_administration:
+  Directions Directions: • Put enough product in your palm to cover hands and rub hands together briskly until dry. • Children under 6 years of age should be supervised when using. Not recommended for infants.
+other_safety_information:
+  Other information Other information Store below 110F(43C) May discolor certain fabrics or surfaces
+package_label_principal_display_panel:
+  Package Label: FINE & CLEAR ADVANCED HAND SANITIZER 60mL Image of container
+set_id:
+  1b4f2158-b979-4ed2-9e24-081218c910fe
+id:
+  3e5e681d-ee11-4616-88c1-b844fc634441
+effective_time:
+  20221115
+version:
+  2
+openfda:

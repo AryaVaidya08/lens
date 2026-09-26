@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  DAISY CARE WIPES PINE WHITE PINE OIL WHITE PINE OIL CHAMAECYPARIS OBTUSA LEAF LAMINARIA JAPONICA ELEUTHEROCOCCUS SESSILIFLORUS WHOLE
+active_ingredient:
+  Active Ingredient Pine essence oil 65%
+purpose:
+  Purpose Antiseptic
+dosage_and_administration:
+  Use 1. Peel front label slowly 2. Pull out wipes as needed 3. Re-seal label after each use to prevent moisture loss
+ask_doctor:
+  Precautions for use 1. When using cosmetics or after use, red spots, swelling of the used area by direct sunlight If you have any abnormal symptoms or side effects, such as ascending or itching, consult with a specialist, etc.
+do_not_use:
+  Precautions for use 2. Do not use on wound parts, etc.
+when_using:
+  Precautions for use 3. Precautions for storage and handling
+keep_out_of_reach_of_children:
+  Precautions for use 1) Keep out of reach of children
+storage_and_handling:
+  Precautions for use 2) Keep away from direct sunlight 3) Be sure to keep the sticker or cap closed after use 4) High temperature Or, do not store in a place with low temperature and direct sunlight.
+warnings:
+  Precautions for use 5) Wrap the wipes with contaminated hands. There is a risk of deterioration if you put it back inside.
+indications_and_usage:
+  Precautions for use 6) Be careful when handling the packaging edges as they are sharp. This product can be exchanged or compensated according to the consumer dispute resolution standards announced by the Fair Trade Commission.
+inactive_ingredient:
+  Inactive Ingredient Purified Water, Oak tree essence oil, Cypress essence oil / leaf essence oil, Kelp essence oil
+package_label_principal_display_panel:
+  Package Label 270g NDC: 77748-201-01 Label 1 270g NDC: 77748-201-01 Label 2
+set_id:
+  a57f29b2-49de-0288-e053-2a95a90a240d
+id:
+  a57f29b2-49df-0288-e053-2a95a90a240d
+effective_time:
+  20200512
+version:
+  1
+openfda:

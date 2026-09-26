@@ -1,0 +1,23 @@
+effective_time:
+  20210531
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water, Cyclomethicone, Butylene Glycol, Caprylic/Capric Triglyceride, Dimethicone Copolyol, CetylPEG/PPG-10/1Dimethicone, Glycerin, Arbutin, Scutellaria Baicalensis Root Extract, Paeonia Suffruticosa Root Extract, Morus Bombycis Leaf Extract, Angelica Gigas Extract, Mentha Piperita(Peppermint) Leaf Extract, Morus Alba Bark Extract, Cnidium Officinale Root Extract, Glycyrrhiza Glabra(Licorice) Root Extract, Hamamelis Virginiana(Witch Hazel) Bark/Leaf Extract, Rosa Centifolia Flower Extract, Cosmos Sulphureus Flower/Leaf/Stem Extract, Jasminum Officinale(Jasmine) Flower Extract, Lilium Candidum Flower Extract, Iris Ensata Extract, Hibiscus Rosa-Sinensis Flower/Leaf Extract , Nelumbo Nucifera Flower Extract, Cetyl Ethylhexanoate, Artemisia Absinthium Extract, Angelica Dahurica Root Extract, Pueraria Lobata Root Extract,Polyethylene, C20-40Acid, Beeswax, Phenyl Trimethicone, Inula Helenium Extract, Laminaria Japonica Extract, Sodium Chloride, Phellodendron Amurense Bark Extract, Eugenia Caryophyllus(Clove) Flower Extract, Disodium EDTA, Adenosine, Dimethicone, Talc, Fragrance
+purpose:
+  PURPOSE Purpose: Sunscreen
+warnings:
+  WARNINGS Warnings: Discontinue use if skin irritation develops. Use only as directed. Store in a cool dark place, avoid high temperatures and exposure to strong sunlight.
+spl_product_data_elements:
+  SKYLAKE SUNSCREEN Octinoxate, Zinc Oxide, Titanium Dioxide Octinoxate OCTINOXATE Zinc Oxide ZINC CATION Titanium Dioxide TITANIUM DIOXIDE Water Butylene glycol
+description:
+  DESCRIPTION Uses: This natural Sunscreen utilizes only natural preservative and herbal extract such as seven flowers and witch hazel. It shields your skin against harmful UVA/UVB effectively without irritating and drying your skin. Directions: Apply liberally on cleansed skin daily, especially on the body parts exposed to the sun. Re-apply after perspiring, swimming or every 4 hours under the sun.
+openfda:
+version:
+  2
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+set_id:
+  1d1fbc7e-e4a7-449e-99ec-af209fc9bcf4
+id:
+  a3e2acce-71d0-4d59-8dcf-a61a4a4062c1
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredients: Ethylhexyl Methoxycinnamate 7.5%, Zinc Oxide 7%, Titanium Dioxide 5.41%

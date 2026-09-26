@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  BACTAKLEEN ODOR KILLER Benzalkonium Chloride WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredients Benzalkonium chloride (0.1%)
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+indications_and_usage:
+  Uses For sanitizing to decrease bacteria
+warnings:
+  Warnings For external use only Do not use if you are allergic to any of the ingredients When using this product avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. avoid contact with broken, irritated, or itching skin. Do not puncture or incinerate. Stop use and ask a doctor if irritation or redness develops and condition persists for more than 72 hours If pregnant or breast-feeding, ask a health professional before use.
+dosage_and_administration:
+  Spray adequate amount to desired area. Let dry.
+inactive_ingredient:
+  Inactive Ingredients Green Tea Extract, Lemon Fragrance, Water.
+package_label_principal_display_panel:
+  Odor Killer Odor Killer
+set_id:
+  8f8f5cc7-ba23-5a75-e053-2995a90afbf5
+id:
+  9066f53d-8561-e5d7-e053-2a95a90acc50
+effective_time:
+  20190818
+version:
+  14
+openfda:

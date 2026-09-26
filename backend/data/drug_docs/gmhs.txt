@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  GMHS, LLC Hand Sanitizer Isopropyl alcohol ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL GLYCERIN ALOE VERA LEAF WATER
+spl_unclassified_section:
+  Drugs Facts
+  MOISTURIZES DRY SKIN Based on WHO recommended formulation Isopropyl Alcohol Antiseptic 75% Topical Solution (Non-sterile Solution) Made by a joint Commission Accredited Home Healthcare Provider Organization: Global Medical & Health Services LLC (GMHS, LLC), www.globalmedicalhealthservicesmd.com Question or comments? Call 410-486-0516 Mon. - Fri. 9a - 5p email: gmhealthservices@yahoo.com © 2021 GMHS, LLC Made in the U.S.A.
+active_ingredient:
+  Active ingredient[s] Isopropyl alcohol 75% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use: Hand sanitizer to reduce disease causing germs including cold & flu viruses
+warnings:
+  Warnings: For external use only. Flammable. Keep away from heat, fire, or flame. Caution: Avoid contact with eye(s). In case of accidental ingestion, seek professional assistance or contact the Poison Control Center immediately. Keep out of reach from children.
+keep_out_of_reach_of_children:
+  Keep out of reach from children.
+dosage_and_administration:
+  Directions: Spray/ apply a palmful of GMHS, LLC Hand Sanitizer Spray and cover all surfaces of the hand. Rub hands until dry.
+storage_and_handling:
+  Other information - Store between 15° - 30°C (59°-86°F). - Avoid freezing and excessive heat above 40°C (104°F)
+inactive_ingredient:
+  Inactive ingredients: Glycerin, aloe vera, purified water USP.
+package_label_principal_display_panel:
+  Packaging GMHS-710
+set_id:
+  a57fe94c-288d-4543-b0b3-4c16912a8a15
+id:
+  cd45b228-bab0-40e6-aa9b-8cff545340ea
+effective_time:
+  20230216
+version:
+  1
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  SANIPRO DISINFECTANT WIPES Benzalkonium Chloride WATER BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Benzalkonium Chloride
+inactive_ingredient:
+  Propylene Glycol Phenoxyethanol Glycerin Sodium Benzoate Sodium Citrate Disodium EDTA Polysorbate 20 Citric Acid Melaleuca Alternifolia (Tea Tree) Leaf Oil Tocopheryl Acetate
+purpose:
+  Antibacterial Wipes to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  Thoroughly wipe hands with wipe. Discard properly. Not flushable. Be sure to close lid to keep wipes moist.
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious condition. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  ac55e43a-738f-49d2-e053-2a95a90a037f
+id:
+  ad35fa25-0f01-37e1-e053-2a95a90ac6f4
+effective_time:
+  20200819
+version:
+  2
+openfda:

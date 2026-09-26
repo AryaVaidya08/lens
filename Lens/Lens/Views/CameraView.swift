@@ -3,12 +3,12 @@
 //
 //  Hosts the live camera feed via ARSessionManager, which runs a staged
 //  detection pipeline (object detector -> barcode -> OCR text fallback —
-//  see ARSessionManager's doc comment). This view draws the object
-//  bounding box as soon as something's detected, then shows HUDOverlayView
-//  once a barcode or text off of it resolves to a drug — positioned to one
-//  side of the bounding box, gliding smoothly as it moves and fading out
-//  if the object goes out of view (see ARSessionManager's design note on
-//  why this is 2D screen tracking rather than a 3D-anchored node).
+//  see ARSessionManager's doc comment). This view shows HUDOverlayView
+//  once a barcode or text off the detected object resolves to a drug —
+//  positioned near the top-right of where the object was seen, gliding
+//  smoothly as it moves and fading out if the object goes out of view
+//  (see ARSessionManager's design note on why this is 2D screen tracking
+//  rather than a 3D-anchored node).
 //
 //  Owned by: AR & detection lane.
 //
@@ -74,17 +74,13 @@ struct CameraView: View {
     @State private var lifecycle = CameraSessionLifecycle()
     @StateObject private var arManager = ARSessionManager()
     @StateObject private var resolver = DrugResolver()
-    @State private var bubbleSize: CGSize = CGSize(width: 220, height: 90)
+    @State private var bubbleSize: CGSize = CGSize(width: 150, height: 70)
     @State private var flashOpacity: Double = 1.0
     /// Personalized content from GET /drug/{id}/summary. Nil until it arrives
     /// (or if the backend is unreachable), in which case the offline catalog
     /// fills the bubble so the HUD is never blank.
     @State private var summary: DrugSummary?
     @State private var loadingDrugId: String?
-
-    /// Debug aid so detection accuracy is visible while tuning — flip to
-    /// `false` before the real demo.
-    private let showDebugBoundingBox = true
 
     var body: some View {
         GeometryReader { geometry in
@@ -94,29 +90,11 @@ struct CameraView: View {
                 }
                 .ignoresSafeArea()
 
-                if showDebugBoundingBox, let objectBox = arManager.objectBoundingBox {
-                    // Shows as soon as ObjectDetector finds something in
-                    // frame — before a barcode/text has necessarily been
-                    // read off of it yet, so this doubles as a "yes, I see
-                    // your bottle" cue distinct from the info bubble below.
-                    Rectangle()
-                        .stroke(Color.green, lineWidth: 3)
-                        .frame(
-                            width: objectBox.width * geometry.size.width,
-                            height: objectBox.height * geometry.size.height
-                        )
-                        .position(
-                            x: objectBox.midX * geometry.size.width,
-                            y: objectBox.midY * geometry.size.height
-                        )
-                        .animation(.easeOut(duration: 0.25), value: objectBox)
-                }
-
                 if let detection = arManager.activeDetection {
                     let scale = proximityScale(for: detection.screenAnchor)
                     let scaledBubbleSize = CGSize(width: bubbleSize.width * scale, height: bubbleSize.height * scale)
 
-                    HUDOverlayView(summary: displaySummary(for: detection), debugRawPayload: detection.rawPayload)
+                    HUDOverlayView(summary: displaySummary(for: detection))
                         .background(
                             GeometryReader { bubbleGeometry in
                                 Color.clear
@@ -142,7 +120,9 @@ struct CameraView: View {
             arManager.resolvePayload = { kind, value in
                 // Answers from cache immediately and fills that cache from
                 // POST /detect in the background — see DrugResolver.
-                let drug = MainActor.assumeIsolated { resolver.resolve(kind: kind, value: value) }
+                guard let drug = MainActor.assumeIsolated({ resolver.resolve(kind: kind, value: value) }) else {
+                    return nil
+                }
                 return (drugId: drug.id, name: drug.name)
             }
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
@@ -214,23 +194,29 @@ struct CameraView: View {
     }
 
     /// Places the bubble beside the barcode — to the right by default,
-    /// flipping to the left if there isn't room — vertically centered on
-    /// the box, and clamped so it always stays fully on screen.
+    /// flipping to the left if there isn't room — aligned near the top of
+    /// the box rather than vertically centered, and clamped so it always
+    /// stays fully on screen. The margin is deliberately generous (and the
+    /// bubble deliberately small) so the bubble clears the bounding box
+    /// instead of the screen-edge clamp pushing it back over the object
+    /// being scanned.
     private func bubblePosition(for box: CGRect, in containerSize: CGSize, bubbleSize: CGSize) -> CGPoint {
-        let margin: CGFloat = 16
-        let boxCenter = CGPoint(x: box.midX * containerSize.width, y: box.midY * containerSize.height)
+        let margin: CGFloat = 24
+        let topMargin: CGFloat = 8
+        let boxCenterX = box.midX * containerSize.width
+        let boxTop = box.minY * containerSize.height
         let boxHalfWidth = (box.width * containerSize.width) / 2
         let bubbleHalfWidth = max(bubbleSize.width, 1) / 2
         let bubbleHalfHeight = max(bubbleSize.height, 1) / 2
 
-        var x = boxCenter.x + boxHalfWidth + margin + bubbleHalfWidth
+        var x = boxCenterX + boxHalfWidth + margin + bubbleHalfWidth
         if x + bubbleHalfWidth + margin > containerSize.width {
-            x = boxCenter.x - boxHalfWidth - margin - bubbleHalfWidth
+            x = boxCenterX - boxHalfWidth - margin - bubbleHalfWidth
         }
         x = min(max(x, bubbleHalfWidth + margin), containerSize.width - bubbleHalfWidth - margin)
 
         let y = min(
-            max(boxCenter.y, bubbleHalfHeight + margin),
+            max(boxTop + topMargin + bubbleHalfHeight, bubbleHalfHeight + margin),
             containerSize.height - bubbleHalfHeight - margin
         )
 
@@ -244,8 +230,13 @@ struct CameraView: View {
             return summary
         }
         let drugId = appState.currentDrug?.id ?? detection.drugId
+        // `detection` only ever exists because resolvePayload matched a
+        // known demo drug (see ARSessionManager.handleObjectSeen), so
+        // `drugId` is always in the catalog — the empty summary below is
+        // just a defensive fallback, never expected to be hit.
         return DemoDrugCatalog.drug(id: drugId)?.summary
-            ?? DemoDrugCatalog.resolve(payload: detection.rawPayload).summary
+            ?? DemoDrugCatalog.resolve(payload: detection.rawPayload)?.summary
+            ?? DrugSummary(drugId: detection.drugId, name: detection.name, tier: "new", headline: "", bullets: [])
     }
 
     private func adopt(_ drug: Drug) {

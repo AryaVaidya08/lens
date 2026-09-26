@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  CLEAN WORKS HAND SANITIZER ANTIBACTERIAL Alcohol GLYCERIN PROPYLENE GLYCOL WATER CARBOMER 934 AMINOMETHYL PROPANEDIOL ALPHA-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 75% v/v. Purpose: Antiseptic
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use To reduce bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings Flammable. Keep away from fire or flame For external use only.
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin Do not inhale or ingest
+stop_use:
+  Stop use and ask a doctor if irritation or redness occur and persist
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub until dry For children under 6, use only under adult supervision
+storage_and_handling:
+  Other information Do not store above 110F (43C) May discolor some fabrics or surfaces
+inactive_ingredient:
+  Inactive ingredients Water, propylene glycol, glycerin, carbomer, aloe barbadensis leaf extract, aminomethyl propanediol, tocopheryl acetate
+package_label_principal_display_panel:
+  image description
+set_id:
+  da5edd34-2277-4e73-b21f-b316ab1fd3cd
+id:
+  a44be037-c04a-1913-e053-2a95a90a3d59
+effective_time:
+  20200427
+version:
+  1
+openfda:

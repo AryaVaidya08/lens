@@ -1,0 +1,37 @@
+effective_time:
+  20190611
+inactive_ingredient:
+  Inactive Ingredients WATER GLYCERIN DIPROPYLENE GLYCOL 1,3-BUTYLENE GLYCOL 1,2-HEXANEDIOL HYALURONATE SODIUM TREHALOSE PORTULACA OLERACEA WHOLE PEG-40 CASTOR OIL PEG/PPG-17/6 COPOLYMER BENZYL ALCOHOL PENTYLENE GLYCOL HYDROXYETHYL CELLULOSE (100 MPA.S AT 2%) TROLAMINE CARBOMER 1342 TREHALULOSE in 15 mL HYDROXYPROPYL CORN STARCH (5% SUBSTITUTION BY WEIGHT) PANTHENOL ALLANTOIN VISCUM ALBUM WHOLE IMPERATA CYLINDRICA ROOT SOYBEAN GERM PERILLA FRUTESCENS SEED WITCH HAZEL ALGINIC ACID ORYZA SATIVA WHOLE TARAXACUM OFFICINALE CAMELLIA SINENSIS FLOWER GARDEN SNAIL MUCIN HYALURONIC ACID ADANSONIA DIGITATA LEAF OPUNTIA FICUS-INDICA ALOE VERA LEAF NELUMBO NUCIFERA GERM DISODIUM HEDTA LECITHIN, SOYBEAN PHENOXYETHANOL Bifida Ferment Lysate Galactomyces Ferment Filtrate Frangnance
+instructions_for_use:
+  Apply small amount to a clean skin and massage gently with fingertips.
+purpose:
+  Active Ingredients Purpose Adenosine 0.04% Skin Protectant
+keep_out_of_reach_of_children:
+  Keep out of reach of Children.
+warnings:
+  Warning For external use only Do not use on damage or broken skin
+spl_product_data_elements:
+  COMPLETE CHOICE Moisture Amploule Adenosine ADENOSINE ADENOSINE WATER GLYCERIN TREHALOSE PHENOXYETHANOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  Dosage: Small Amount Administration: apply to a clean skin and massage gently
+spl_unclassified_section:
+  Drug Facts
+do_not_use:
+  Do not use on damage or broken skin
+active_ingredient_table:
+  <table width="386"> <caption/> <tbody> <tr> <td> <content styleCode="italics"> <content styleCode="bold"> Active Ingredients</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Purpose</content> </content> </td> </tr> <tr> <td> <content styleCode="italics"> <content styleCode="bold">Adenosine 0.04%</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Skin Protectant </content> </content> </td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  Uses Help to improve skin moisture
+set_id:
+  d2797ae6-2c8c-475f-a2ed-3a7359d5d44c
+id:
+  a0dae587-8e49-4345-a710-f4df8b81f016
+purpose_table:
+  <table width="386"> <caption/> <tbody> <tr> <td> <content styleCode="italics"> <content styleCode="bold"> Active Ingredients</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Purpose</content> </content> </td> </tr> <tr> <td> <content styleCode="italics"> <content styleCode="bold">Adenosine 0.04%</content> </content> </td> <td> <content styleCode="italics"> <content styleCode="bold"> Skin Protectant </content> </content> </td> </tr> </tbody> </table>
+active_ingredient:
+  Active Ingredients Purpose Adenosine 0.04% Skin Protectant

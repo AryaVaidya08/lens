@@ -1,0 +1,29 @@
+effective_time:
+  20171106
+inactive_ingredient:
+  Inactive ingredients:Anhydrous lactose, colloidal silicon dioxide, crospovidone, dextrose, FDC red 40 aluminum lake, magnesium stearate,microcrystalline cellulose, modi¬fied corn starch, propylene glycol, raspberry flavor, silicon dioxide, sodium saccharin, stearic acid, talc, vanilla flavor
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN.
+purpose:
+  Antiemetic
+warnings:
+  Warnings: Do not give to children under 12 years of age unless directed by a doctor. Do not take unless directed by a doctor if you have: trouble urinating due to an enlarged prostate gland, glaucoma, a breathing problem such as emphysema or chronic bronchitis. Do not take if you are taking sedatives or tranquilizers,without ¬first consulting a doctor. When using this product: do not exceed recommended dosage drowsiness may occur, avoid alcoholic drinks, alcohol, sedatives, and tranquilizers may increase drowsiness, be careful when driving a motor vehicle or operating machinery
+spl_product_data_elements:
+  TRAVEL TIME MECLIZINE HCL MECLIZINE HYDROCHLORIDE MECLIZINE STARCH, CORN CELLULOSE, MICROCRYSTALLINE PROPYLENE GLYCOL SACCHARIN SODIUM STEARIC ACID TALC LACTOSE SILICON DIOXIDE CROSPOVIDONE DEXTROSE FD&C RED NO. 40 MAGNESIUM STEARATE ROSE PINK TCL333
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS: • Dosage should be taken one hour before travel starts. • Adults and children 12 years of age and over: take 1 to 2 tablets once daily or as directed by a doctor.
+pregnancy_or_breast_feeding:
+  If you are pregnant or breast-feeding, ask a health professional before use.
+package_label_principal_display_panel:
+  TRAVEL TIME BOX
+indications_and_usage:
+  Uses: For the prevention and treatment of nausea, vomiting and dizziness associated with motion sickness.
+set_id:
+  b100f072-55e5-4d99-964d-f1bd2df65227
+id:
+  735dd6ac-9f10-446d-881f-af4d9acde8e0
+active_ingredient:
+  MECLIZINE HYDROCHLORIDE 25 MG

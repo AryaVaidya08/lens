@@ -1,0 +1,39 @@
+effective_time:
+  20101101
+inactive_ingredient:
+  INACTIVE INGREDIENTS Aminomethyl propanol, carbomer, glycrin, propylene glycol, water.
+purpose:
+  PURPOSE ANTISEPTIC
+keep_out_of_reach_of_children:
+  Keep out of reach of children. As with all drug products, children under 6 years of ages should be supervised when using instant hand sanitizers. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only. flammable, keep away from fire or flame
+when_using:
+  When using this product keep out of eyes. In case of eye contact, immediately flush eyes with water and call a doctor.
+questions:
+  Questions? Call product support 1-800-727-0610
+spl_product_data_elements:
+  TOUGH GUY INSTANT HAND SANITIZER ETHYL ALCOHOL ALCOHOL ALCOHOL AMINOMETHYLPROPANOL GLYCERIN PROPYLENE GLYCOL WATER
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Place a small amount into one hand, spread over both hands to wrist and rub into the skin until dry.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+spl_unclassified_section:
+  Manufactured in UK for W.W. Grainger, Inc. 100 Grainger Parkway Lake Forest Illinois 60045
+information_for_patients:
+  OTHER INFORMATION The instant hand sanitizer container has a tamper evident perforated seal round the overcap. If the perforation is breached when purchased, tampering may have occurred
+package_label_principal_display_panel:
+  Ndc 40096-0076-4 TOUGH GUY INSTANT HAND SANITIZER DISINFECTANTE INSTANTANEO PARA MANOS ASEPTISANT INSTANTANE POUR LES MAINS NET CONTENTS 0.85 FL OZ / 25ML EXP DATE LOT NO. CAUTION: AVOID EYE CONTACT PRECAUCION: EVITE EL CONTACTO CON LOS OJOS PRECAUTIONS: EVITER LES CONTACTS AVEC LES YEUX ACTIVE INGREDIENTS: ETHYL ALCOHOL 62% KEEP OUT OF REACH OF CHILDREN MANTENGASE PUERA DEL ALCANCE DE LOS NINOS CONSERVOR HORS DE PORTEE DES ENFANTS MANUFACTURED IN UK FOR W.W. GRAINGER, INC. 100 GRAINGER PARKWAY, LAKE FOREST ILLINOIS 60045
+  handsantoplabel
+  handsanfoldlabel
+indications_and_usage:
+  USES Instant hand sanitizer helps to reduce bacteria on the skin. Recommended for repeated use.
+set_id:
+  14a17f02-f543-43e8-ab9e-fa0b73173bed
+id:
+  0f83381f-d53c-46a8-a106-174de48aaa0f
+active_ingredient:
+  DRUG FACTS ACTIVE INGREDIENT PURPOSE ETHYL ALCOHOL 62% ANTISEPTIC

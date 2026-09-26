@@ -1,0 +1,29 @@
+effective_time:
+  20180823
+inactive_ingredient:
+  Inactive Ingredients: Purified Water, Vegetable Glycerin, EO Essential Oil Blend { Organic Citrus Medica Limonum (Lemon) Peel Oil, Citrus Aurantium Dulcis (Orange) Peel Oil, Organic Simmondsia Chinensis (Jojoba) Seed Oil, Carbomer, Dimethicone, Aminomethyl Propanol.
+purpose:
+  Purpose: Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  Warnings: For external use only Flammable Keep away from fire/flame Do not use this product in or near eyes. if contact occurs, rinse thoroughly with water Keep out of reach of children Children under 6 years of age should be supervised when using this product.
+spl_product_data_elements:
+  EO HAND SANITIZER Lemon alcohol ALCOHOL ALCOHOL WATER LEMON OIL ORANGE OIL JOJOBA OIL CARBOMER INTERPOLYMER TYPE A (ALLYL SUCROSE CROSSLINKED) DIMETHICONE AMINOMETHYLPROPANOL GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: Put a small drop onto palm, Rub hands together.
+storage_and_handling:
+  Other Information: Do not store above 104°F / 40°C, May discolor some fabrics.
+package_label_principal_display_panel:
+  Drug Label
+indications_and_usage:
+  Uses: For hand washing to decrease bacteria on skin. Recommended for repeated use
+set_id:
+  c8566e64-ccf8-4401-a014-b61091242c06
+id:
+  fdcd082e-a9ab-4990-ae8f-02b33a917b12
+active_ingredient:
+  Active Ingredient: Ethanol 62%

@@ -16,6 +16,10 @@ struct DemoDrug {
 
     let id: String
     let name: String
+    /// The exact barcode payload printed on our physical demo bottle for
+    /// this drug (UPC-A/EAN-13/EAN-8 as decoded by Vision's
+    /// VNDetectBarcodesRequest — no formatting, no checksum stripped).
+    let barcode: String
     let headline: String
     let bullets: [String]
     let answers: [Topic: String]
@@ -28,26 +32,31 @@ struct DemoDrug {
 }
 
 enum DemoDrugCatalog {
-    static let all: [DemoDrug] = [adderall, biofreeze, lorazepam]
+    static let all: [DemoDrug] = [adderall, biofreeze, lorazepam, xyzal, claritin]
 
     static func drug(id: String) -> DemoDrug? {
         all.first { $0.id == id }
     }
 
-    /// Matches OCR/barcode text containing a drug name; anything else maps
-    /// to a stable pick so the same object keeps resolving to the same drug.
-    static func resolve(payload: String) -> DemoDrug {
-        let text = payload.lowercased()
-        if let match = all.first(where: { text.contains($0.id) }) {
-            return match
+    /// Matches a scanned barcode payload exactly against one of our demo
+    /// bottles' known barcodes, or (for the OCR fallback) matches text
+    /// that contains the drug's name. Returns `nil` — rather than guessing
+    /// — if the payload doesn't match any of our known demo drugs, so an
+    /// unrecognized scan simply doesn't display anything instead of
+    /// showing the wrong drug.
+    static func resolve(payload: String) -> DemoDrug? {
+        let trimmed = payload.trimmingCharacters(in: .whitespacesAndNewlines)
+        if let byBarcode = all.first(where: { $0.barcode == trimmed }) {
+            return byBarcode
         }
-        let checksum = payload.unicodeScalars.reduce(0) { $0 &+ Int($1.value) }
-        return all[checksum % all.count]
+        let lowercased = trimmed.lowercased()
+        return all.first { lowercased.contains($0.name.lowercased()) }
     }
 
     static let adderall = DemoDrug(
         id: "adderall",
         name: "Adderall",
+        barcode: "0357844110014",
         headline: "CNS stimulant · Schedule II",
         bullets: [
             "Indicated for ADHD and narcolepsy",
@@ -66,6 +75,7 @@ enum DemoDrugCatalog {
     static let biofreeze = DemoDrug(
         id: "biofreeze",
         name: "Biofreeze",
+        barcode: "0731124100009",
         headline: "Topical menthol analgesic · OTC",
         bullets: [
             "Temporary relief of minor muscle and joint pain",
@@ -84,6 +94,7 @@ enum DemoDrugCatalog {
     static let lorazepam = DemoDrug(
         id: "lorazepam",
         name: "Lorazepam",
+        barcode: "0362135861018",
         headline: "Benzodiazepine · Schedule IV",
         bullets: [
             "Anxiety disorders and short-term relief of anxiety",
@@ -96,6 +107,44 @@ enum DemoDrugCatalog {
             .interactions: "Combining it with opioids, alcohol, or other CNS depressants can cause profound sedation and respiratory depression. Valproate and probenecid raise lorazepam levels.",
             .warnings: "It carries a boxed warning for concomitant opioid use, abuse and misuse, and dependence with withdrawal reactions. Taper gradually when stopping.",
             .indications: "Lorazepam is a benzodiazepine used to manage anxiety disorders and for short-term relief of anxiety symptoms."
+        ]
+    )
+
+    static let xyzal = DemoDrug(
+        id: "xyzal",
+        name: "Xyzal",
+        barcode: "824247",
+        headline: "Second-generation antihistamine · OTC",
+        bullets: [
+            "Relief of indoor/outdoor allergy symptoms and chronic hives",
+            "Once-daily dosing, taken in the evening",
+            "Less sedating than first-generation antihistamines"
+        ],
+        answers: [
+            .dosing: "The usual adult dose is 5 milligrams once daily in the evening. Reduce to every other day in moderate renal impairment.",
+            .sideEffects: "Somnolence, fatigue, and dry mouth are the most commonly reported side effects.",
+            .interactions: "Avoid combining with alcohol or other CNS depressants, which can add to drowsiness.",
+            .warnings: "Use caution when driving or operating machinery until the individual response is known, especially at higher-than-recommended doses.",
+            .indications: "Xyzal (levocetirizine) treats symptoms of seasonal and perennial allergic rhinitis and chronic idiopathic urticaria."
+        ]
+    )
+
+    static let claritin = DemoDrug(
+        id: "claritin",
+        name: "Claritin",
+        barcode: "31001563",
+        headline: "Second-generation antihistamine · OTC",
+        bullets: [
+            "Relief of sneezing, runny nose, and itchy/watery eyes",
+            "Once-daily, non-drowsy dosing",
+            "Also indicated for chronic idiopathic urticaria"
+        ],
+        answers: [
+            .dosing: "The usual adult and child (6+) dose is 10 milligrams once daily. Reduce to every other day in significant hepatic or renal impairment.",
+            .sideEffects: "Headache, drowsiness, dry mouth, and fatigue are the most commonly reported side effects, though it's marketed as non-drowsy.",
+            .interactions: "Ketoconazole, erythromycin, and cimetidine can raise loratadine plasma levels, though this hasn't been shown to increase side effects in studies.",
+            .warnings: "Generally well tolerated; discontinue if hypersensitivity to the drug occurs.",
+            .indications: "Claritin (loratadine) relieves symptoms of seasonal allergic rhinitis and treats chronic idiopathic urticaria."
         ]
     )
 }

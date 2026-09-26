@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  GRANDWAY HAND SANITIZER 2OZ Ethyl Alcohol WATER PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF CARBOMER 934 TRIETHANOLAMINE BENZOATE GLYCERIN ALCOHOL ALCOHOL
+active_ingredient:
+  Drug Facts Active ingredient Ethyl Alcohol 62 percent
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat and flame. When using this product, avoid contact with face, eyes and broken skin. In case of eye contact, flush with plenty of water and seek medical advice.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and rub into skin until dry. Children under 6 years of age should be supervised by an adult when using.
+inactive_ingredient:
+  Inactive ingredients: Water (Aqua), Glycerin, Propylene Glycol, Carbomber, Triethanolamine, Fragrance, Aloe Barbadensis Leaf Juice, Tocopheryl Acetate (Vitamin E)
+package_label_principal_display_panel:
+  label
+set_id:
+  a24b41f9-e95a-fb84-e053-2995a90a9cf1
+id:
+  a24b40cc-fe1c-c456-e053-2a95a90aa0fc
+effective_time:
+  20200301
+version:
+  1
+openfda:

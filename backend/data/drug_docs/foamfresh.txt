@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  FoamFresh E-2 Sanitizer Cleanser with PCMX Chloroxylenol METHYLISOTHIAZOLINONE SODIUM LAURETH-3 SULFATE DECYL GLUCOSIDE COCAMIDOPROPYL BETAINE WATER PROPYLENE GLYCOL GLYCERIN CHLOROXYLENOL CHLOROXYLENOL
+active_ingredient:
+  Active Ingredient Chloroxylenol 0.50%
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses: For hand washing to decrease bacteria on the skin. Recommended for repeated use.
+warnings:
+  WARNINGS For external use only When using this product avoid contact with eyes. In case of eye contact, flush eyes with water. Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with eyes. In case of eye contact, flush eyes with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops, or if condition persists for more than 72 hours.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: Pump a small amount of foam into palm of hand. Rub thoroughly over all surfaces of both hands for 15 seconds. Rinse with potable water.
+inactive_ingredient:
+  Inactive Ingredients: Water, Sodium Lauryl Ether Sulfate, Decyl Glucoside, Cocamidopropyl Betaine, Propylene Glycol, Glycerine, Preservative
+package_label_principal_display_panel:
+  FoamFresh E-2 Sanitizer Cleanser with PCMX NSF Nonfood Compounds Program Listed (E2) (Registration #xxxxxx) W WOODBINE Products Company 915 West Smith Road Medina, OH 44256 800.824.8179 woodbineproducts.com Stock # 4360P 1000 ml (34 fl. oz.) Made in the U.S.A. container label
+set_id:
+  ce26a8e9-ff4d-3a73-e053-2a95a90a0f3d
+id:
+  eca7c5e1-8656-4c0e-e053-2995a90a01dd
+effective_time:
+  20221104
+version:
+  2
+openfda:

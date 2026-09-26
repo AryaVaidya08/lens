@@ -47,13 +47,16 @@ final class DrugResolver: ObservableObject {
     }
 
     /// `kind` is "barcode" or "text", matching POST /detect's two fields.
-    func resolve(kind: String, value: String) -> Drug {
+    /// Returns `nil` if this payload doesn't match any known demo drug
+    /// (and isn't cached from an earlier backend lookup) — the caller
+    /// simply doesn't display anything for an unrecognized scan.
+    func resolve(kind: String, value: String) -> Drug? {
         let key = Self.cacheKey(kind: kind, value: value)
         if let drug = resolved[key] {
             return drug
         }
         fetch(kind: kind, value: value, key: key)
-        return DemoDrugCatalog.resolve(payload: value).drug
+        return DemoDrugCatalog.resolve(payload: value)?.drug
     }
 
     func cachedDrug(forRawPayload payload: String) -> Drug? {
@@ -79,9 +82,13 @@ final class DrugResolver: ObservableObject {
                 self.resolved[key] = drug
                 self.isBackendReachable = true
             } catch APIError.notFound {
-                // The backend is up but doesn't know this package. Keep the
-                // local guess rather than retrying every frame.
-                self.resolved[key] = DemoDrugCatalog.resolve(payload: value).drug
+                // The backend is up but doesn't know this package. Cache the
+                // local catalog match (if any) rather than retrying every
+                // frame; if there's no local match either, leave it
+                // uncached so the "not found" identifier maps to nothing.
+                if let drug = DemoDrugCatalog.resolve(payload: value)?.drug {
+                    self.resolved[key] = drug
+                }
                 self.isBackendReachable = true
             } catch {
                 // Backend down: leave uncached so a later frame retries.

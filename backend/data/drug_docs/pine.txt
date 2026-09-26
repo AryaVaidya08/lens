@@ -1,0 +1,27 @@
+effective_time:
+  20191224
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive Ingredients: WATER, SORBITOL, HYDRATED SILICA, COCAMDOPROPYL BETAINE, PEG-32, CELLULOSE GUM, SODIUM LAURYL SULFATE, PINUS SYLVESTRIS CONE EXTRACT, FRAGRANCE, ZEOLITE, MENTHOL, SODIUM CHLORIDE, TRANEXAMIC ACID, SODIUM SACCARIN, METHYLPARABEN, SODIUM METHYL COCOYL TAURATE, SODIUM HYDROXIDE, SODIUM BENZOATE, TITANIUM DIOXIDE, CI 47005, CI 42090
+purpose:
+  PURPOSE Purpose: Anticavity
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of the reach of children under 6 years of age.
+warnings:
+  WARNINGS Warnings: Keep out of the reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  PINE SALT 140g SODIUM FLUORIDE SODIUM FLUORIDE FLUORIDE ION WATER SORBITOL
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions Directions: Adults and children 2 years of age and older; brush teeth thoroughly, preferably after each meal or at least 2 times a day, or as directed by a dentist or doctor. Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  USE USE: Aids in the prevention of dental cavities
+set_id:
+  50dfe4bf-b1d1-44e9-b968-5411819b5fdf
+id:
+  851e4067-8c5c-4a9a-bc15-d07470afd2f9
+active_ingredient:
+  ACTIVE INGREDIENT Active Ingredient: SODIUM FLUORIDE (0.22%)

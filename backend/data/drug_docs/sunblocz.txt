@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Sunblocz Zinc oxide LAVENDER OIL ROSEMARY OIL BROWN IRON OXIDE CANDELILLA WAX SAFFLOWER OIL YELLOW WAX RICE BRAN ZINC OXIDE ZINC CATION GRAPE SEED OIL GREEN TEA LEAF
+spl_unclassified_section:
+  Drug Facts
+  Manufactured for: Olen Cosmetics Corporation 31 Woodstone Drive East St. Paul, Manitoba Canada, R2EOM5 Made in Canada
+active_ingredient:
+  Active ingredient Zinc Oxide 24.5%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply liberally and evenly 15 minutes before sun exposure Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. -2 p.m. wear long-sleeve shirts, pants, hats and sunglasses Children under 6 months: Ask a doctor
+storage_and_handling:
+  Other information Protect the product in this container from excessive heat and direct sun
+inactive_ingredient:
+  Inactive ingredients Grape Seed Oil, Safflower Oil, Beeswax, Candelilla wax, Rice Bran Wax, Green Tea, Iron Oxide, Lavender Essential Oil, Rosemary Essential Oil.
+questions:
+  Questions or comments? www.olencosmetics.com or call toll free 1-877-494-4313
+package_label_principal_display_panel:
+  Sunblocz 100% NATURAL ZINC OXIDE SUNSCREEN CREAM NATURALLY TINTED BROAD SPECTRUM SPF 50 UVA & UVB Water Resistant (80 minutes) Dermatologist Recommended Clinically Tested Hypoallergenic 6 FL OZ (177 mL) SunBlocz
+set_id:
+  36fec1f1-5e8b-5764-e054-00144ff8d46c
+id:
+  259f1fe0-327b-a04f-e063-6394a90a534d
+effective_time:
+  20241029
+version:
+  6
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Sunblocz
+  generic_name:
+    ZINC OXIDE
+  manufacturer_name:
+    Olen Skin Care Corporation
+  product_ndc:
+    52358-0004
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  spl_id:
+    259f1fe0-327b-a04f-e063-6394a90a534d
+  spl_set_id:
+    36fec1f1-5e8b-5764-e054-00144ff8d46c
+  package_ndc:
+    52358-0004-1
+    52358-0004-2
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

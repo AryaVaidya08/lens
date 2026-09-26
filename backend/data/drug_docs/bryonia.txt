@@ -1,0 +1,55 @@
+spl_product_data_elements:
+  Bryonia Bryonia WATER ALCOHOL BRYONIA ALBA ROOT BRYONIA ALBA ROOT
+indications_and_usage:
+  INDICATIONS & USAGE SECTION Aggravation from motion or movement; back pain and stiffness; muscle aches and pain, joint pain and swelling.
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION SECTION Directions: Ages 12 and up, take 6 drops by mouth, (ages 0 to 11, give 3 drops) at bedtime or as directed by a health professional. Sensitive persons begin with 1 drop and gradually increase to full dose.
+active_ingredient:
+  OTC - ACTIVE INGREDIENT SECTION Bryonia 10x
+purpose:
+  OTC - PURPOSE SECTION Aggravation from motion or movement; back pain and stiffness; muscle aches and pain; joint pain and swelling.
+inactive_ingredient:
+  INACTIVE INGREDIENT SECTION Inactive Ingredients: USP Purified Water; USP Gluten-free, non-GMO, organic cane alcohol 20%.
+questions:
+  QUESTIONS SECTION newtonlabs.net – Questions? 800.448.7256 Newton Laboratories, Inc. FDA Est # 1051203 - Conyers, GA 30013
+warnings:
+  WARNINGS SECTION Warning: Keep out of reach of children. Do not use if tamper - evident seal is broken or missing. If symptoms worsen or persist for more than a few days, consult a doctor. If pregnant or breast-feeding, ask a doctor before use.
+pregnancy_or_breast_feeding:
+  OTC - PREGNANCY OR BREAST FEEDING SECTION If pregnant or breast-feeding, ask a doctor before use.
+keep_out_of_reach_of_children:
+  OTC - KEEP OUT OF REACH OF CHILDREN SECTION Keep out of reach of children.
+package_label_principal_display_panel:
+  PACKAGE LABEL package label
+set_id:
+  e20b392e-37de-1c83-e053-2995a90a760b
+id:
+  e20b4111-4c6c-18c4-e053-2995a90a5e22
+effective_time:
+  20220622
+version:
+  1
+openfda:
+  brand_name:
+    Bryonia
+  generic_name:
+    BRYONIA
+  manufacturer_name:
+    Newton Laboratories, Inc.
+  product_ndc:
+    55714-9019
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BRYONIA ALBA ROOT
+  spl_id:
+    e20b4111-4c6c-18c4-e053-2995a90a5e22
+  spl_set_id:
+    e20b392e-37de-1c83-e053-2995a90a760b
+  package_ndc:
+    55714-9019-6
+  is_original_packager:
+    True
+  unii:
+    T7J046YI2B

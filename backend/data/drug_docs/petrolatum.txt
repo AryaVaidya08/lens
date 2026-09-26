@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  Petrolatum Petrolatum Petrolatum Petrolatum Water GLYCERIN GLYCERYL MONOSTEARATE PEG-100 STEARATE STEARIC ACID POLYOXYL 20 CETOSTEARYL ETHER TROLAMINE LANOLIN ALCOHOLS CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) PHENOXYETHANOL TRIETHYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE EDETATE DISODIUM
+active_ingredient:
+  Active ingredient: White Petrolatum USP (30 %)
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses temporarily protects minor: cuts scrapes burns temporarily protects and helps relieve chapped or cracked skin helps protect from the drying effects of wind and cold weather
+warnings:
+  Warnings For external use only. Do not use on deep puncture wounds, animal bites and serious burns. When using this product, do not get into eyes. Stop use and ask doctor if condition worsens, symptoms last more than 7 days clear up and occur again within a few days. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product, do not get into eyes.
+stop_use:
+  Stop use and ask doctor if condition worsens, symptoms last more than 7 days clear up and occur again within a few days.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply as needed.
+inactive_ingredient:
+  Inactive ingredients water (aqua), glycerine, glyceryl monostearate, PEG 100 stearate, stearic acid, ceteareth 20, triethanolamine, lanolin alcohol, fragrance, acrylates/C 10-30 alkyl acrylate crosspolymer, phenoxyethanol, triethylene glycol, tocopheryl acetate, disodium EDTA
+package_label_principal_display_panel:
+  Principal Display Panel - Petroleum Jelly Tube Label ASSURED™ Vitamin E Enriched Creamy PETROLEUM JELLY Skin Softener For Dry Skin Absorbs Quickly Compare to active ingredient of Vaseline ® Deep Moisture™ Net Wt 3 oz (85g) NDC # 33992-0499-1 Principal Display Panel - Petroleum Jelly Tube Label
+set_id:
+  b8832ee7-3e13-456b-b301-dad7473a032b
+id:
+  41de449c-fada-455f-a565-c8a54589a93c
+effective_time:
+  20190204
+version:
+  2
+openfda:
+  application_number:
+    part347
+  brand_name:
+    Petrolatum
+  generic_name:
+    PETROLATUM
+  manufacturer_name:
+    Greenbrier International, Inc.
+  product_ndc:
+    33992-0499
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    PETROLATUM
+  rxcui:
+    1043075
+  spl_id:
+    41de449c-fada-455f-a565-c8a54589a93c
+  spl_set_id:
+    b8832ee7-3e13-456b-b301-dad7473a032b
+  package_ndc:
+    33992-0499-1
+  is_original_packager:
+    True
+  upc:
+    0639277721938
+  unii:
+    4T6H12BN9U

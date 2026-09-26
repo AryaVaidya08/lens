@@ -2,8 +2,8 @@
 //  ARKit session lifecycle + detection-to-HUD plumbing.
 //
 //  Owns the ARSession and runs the detection pipeline per frame:
-//    1. ObjectDetector finds "is there something here" and where (no
-//       model, no training — see its own doc comment).
+//    1. ObjectDetector runs a trained Core ML model to find the bottle
+//       and where it is (see its own doc comment).
 //    2. BarcodeScanner tries to read a barcode restricted to that region.
 //    3. TextRecognizer (OCR) is the fallback if no barcode decodes.
 //  Whichever succeeds publishes state that CameraView renders a bounding
@@ -70,16 +70,11 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
     private let textRecognizer = TextRecognizer()
 
     /// Turns a decoded identifier (a barcode payload or OCR text) into a
-    /// drug identity. CameraView sets this. `kind` is `"barcode"` or
-    /// `"text"`, so the real implementation knows which field of the
-    /// backend's /detect request to populate.
-    ///
-    /// TODO: implement — CameraView should replace the default fake
-    /// resolver with a real call into
-    /// `APIClient.shared.detectDrug(barcode:ocrText:)` once Backend &
-    /// data's `/detect` route is live — pass `value` as `barcode` when
-    /// `kind == "barcode"`, or as `ocrText` when `kind == "text"`.
-    var resolvePayload: (_ kind: String, _ value: String) -> (drugId: String, name: String) = { _, _ in
+    /// drug identity, or `nil` if it doesn't match any known drug — an
+    /// unrecognized barcode/text simply doesn't produce a detection.
+    /// CameraView sets this to `DrugResolver.resolve(kind:value:)`. `kind`
+    /// is `"barcode"` or `"text"`, matching POST /detect's two fields.
+    var resolvePayload: (_ kind: String, _ value: String) -> (drugId: String, name: String)? = { _, _ in
         (drugId: "fake-drug-1", name: "Sample Drug")
     }
 
@@ -216,8 +211,8 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         isStale = false
 
         guard let identifier else { return } // object visible, nothing legible off it yet
+        guard let identity = resolvePayload(identifier.kind, identifier.value) else { return } // unrecognized payload — keep whatever's already showing
 
-        let identity = resolvePayload(identifier.kind, identifier.value)
         let result = DetectionResult(
             drugId: identity.drugId,
             name: identity.name,

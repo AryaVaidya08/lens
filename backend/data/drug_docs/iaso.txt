@@ -1,0 +1,27 @@
+effective_time:
+  20180302
+inactive_ingredient:
+  water, alcohol, diphenyl dimethicone, triethylhexanoin, aloe barbadensis leaf juice, betaine, polyglyceryl-10 myristate, ppg-6-decyltetradeceth-30, phenoxyethanol, methylparaben, witch hazel bark/leaf/twig ext, arctostaphylos uva ursi leaf ext, mitracarpus scaber ext, camellia sinensis leaf ext, centella asiatica ext, morus nigra leaf ext, panax ginseng root ext, dipotassium glycyrrhizate, sodium hyaluronate, fragrance, hydrolyzed lupine protein. sea water, salicylic acid blue 1, ci 14700
+purpose:
+  skin protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - Stop using if sensitivities occurs and consult with dermatologist - sensitivities such as red marks, intumescence, urtication, irritation during use -Have sensitivities as above on applied part by direct sun ray - Do not store at high and low temperatures and avoid sunlight.
+spl_product_data_elements:
+  IASO INTENSIVE CLEAR CONDITIONER GLYCERIN WATER BETAINE HYALURONATE SODIUM PHENOXYETHANOL GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  in the morning and evening, after washing, apply a small amount to a cotton pad and gently wipe across your face and throat
+set_id:
+  f3b6ff52-baef-416b-a2ce-79e6f786c910
+id:
+  6669d03d-170c-edc5-e053-2991aa0acb24
+active_ingredient:
+  glycerin

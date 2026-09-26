@@ -1,0 +1,26 @@
+spl_product_data_elements:
+  ClearAcylic SALYCILIC ACID WATER HYDROXYPROPYL CELLULOSE, UNSPECIFIED PROPYLENE GLYCOL SALICYLIC ACID SALICYLIC ACID
+spl_unclassified_section:
+  Active Ingredient Salicylic Acid 5.7%
+  Manufactured for: Lacer Pharma, LLC Biloxi, MS 39532 1-888-403-8874
+indications_and_usage:
+  Indication For the removal of excess keratin in hyperkeratotic disorders, including scaling associated with psoriasis or thickened skin of palms and soles, corns or calluses.
+dosage_and_administration:
+  Directions Apply ClearAcylic 5.7% Gel thoroughly to the affected area and occlude the area at night. Preferably, the skin should be hydrated (soaked in water) for at least five minutes prior to application. The medication is washed off in the morning. In those areas where occlusion is difficult or impossible, application may be made more frequently. Once clearing is apparent, the occasional use of ClearAcylic 5.7% Gel will usually maintain the remission, unless hands are being treated, hands should be rinsed thoroughly after application.
+warnings:
+  Warnings For external use only. Avoid contact with eyes and other mucous membranes. May cause mild irritation. If excess irritation or sensitivity occurs, discontinue use and consult your physician. Do not use on children under 2 years of age. Read Package insert carefully. Flammable. Keep away from heat and open flame. Keep this and all medications out of reach of children. Storage and Handling Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F). [See USP “Controlled Room Temperature.”] All prescription substitutions and/or recommendations using this product shall be made subject to state and federal statutes as applicable. NOTE: This is not an Orange Book product. No representation is made as to generic status or bioequivalency. See package insert for more details.
+storage_and_handling:
+  Storage and Handling Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F). [See USP “Controlled Room Temperature.”]
+inactive_ingredient:
+  Inactive Ingredient In a vehicle composed of hydroxypropyl cellulose and propylene glycol.
+package_label_principal_display_panel:
+  ClearAcylic 5.7% Gel FOR TOPICAL USE NOT FOR OPHTHALMIC USE NDC 73159-005-60 Net Weight: 60 g Tube label Carton Label Tube label Carton Label
+set_id:
+  49d8e721-2345-402a-9378-ea6a747629ae
+id:
+  2465dd92-d2c4-2ed4-e063-6394a90a1109
+effective_time:
+  20241013
+version:
+  3
+openfda:

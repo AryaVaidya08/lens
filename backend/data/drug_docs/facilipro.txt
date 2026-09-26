@@ -1,0 +1,65 @@
+spl_product_data_elements:
+  Facilipro Benzalkonium chloride BENZALKONIUM CHLORIDE BENZALKONIUM WATER HEXYLENE GLYCOL COCAMINE OXIDE POLYETHYLENE GLYCOL 8000 GLYCERIN COCAMIDOPROPYL PG-DIMONIUM CHLORIDE PHOSPHATE METHYL GLUCETH-20 PHENOXYETHANOL MYRISTIC DIISOPROPANOLAMIDE GLYCERYL MONO- AND DICAPRYLOCAPRATE ANHYDROUS CITRIC ACID GUAR GUM PEG-12 DIMETHICONE (300 CST) ALCOHOL .ALPHA.-TOCOPHEROL ACETATE POTASSIUM HYDROXIDE
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.55%
+purpose:
+  Purpose Antiseptic handwash
+indications_and_usage:
+  Uses for handwashing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only Do not use In eyes When using this product if in eyes, rinse promptly and thoroughly with water. discontinue use if irritation and redness develop. Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use In eyes
+when_using:
+  When using this product if in eyes, rinse promptly and thoroughly with water. discontinue use if irritation and redness develop.
+ask_doctor:
+  Stop use and ask a doctor if skin irritation or redness occurs for more than 72 hours
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet skin and spread a small amount on hands and forearms scrub well, rinse thoroughly and dry
+references:
+  Other information for additional information, see Safety Data Sheet (SDS) EMERGENCY HEALTH INFORMATION: 1 800 328 0026. If located outside the United States and Canada, call collect 1 651 222 5352 (number is in the US).
+inactive_ingredient:
+  Inactive ingredients water (aqua), hexylene glycol, cocamine oxide, PEG-180, glycerin, cocamidopropyl PG-dimonium chloride phosphate, methyl gluceth-20, phenoxyethanol, myristamide DIPA, caprylic/capric glycerides, citric acid, hydroxypropyl guar hydroxypypropyltrimonium chloride, PEG-12 dimethicone, ethanol, tocopheryl acetate, fragrance, potassium hydroxide
+questions:
+  Questions? call 1-800-35-CLEAN (352-5326)
+package_label_principal_display_panel:
+  Principal Display Panel and representative label ECOLAB 6100960 FACILIPRO Premium Antibacterial Foam Hand Soap 1250 mL (42.3 US FL OZ) Active ingredient: Benzalkonium Chloride 0.55% 761097/5402/0321 Ecolab · 1 Ecolab Place · St. Paul MN 55102 USA · tel: 1 800 35 CLEAN (352 5326) © 2021 Ecolab USA Inc. · All rights reserved Made in U.S.A. www.gofacilipro.com representative label
+set_id:
+  9948e401-6e5f-4d14-ad0b-f62735822c2a
+id:
+  5410be01-e540-4e9b-8284-ed6e09323e0d
+effective_time:
+  20240801
+version:
+  3
+openfda:
+  application_number:
+    505G(a)(3)
+  brand_name:
+    Facilipro
+  generic_name:
+    BENZALKONIUM CHLORIDE
+  manufacturer_name:
+    Ecolab Inc.
+  product_ndc:
+    47593-565
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    BENZALKONIUM CHLORIDE
+  rxcui:
+    1549867
+  spl_id:
+    5410be01-e540-4e9b-8284-ed6e09323e0d
+  spl_set_id:
+    9948e401-6e5f-4d14-ad0b-f62735822c2a
+  package_ndc:
+    47593-565-59
+  is_original_packager:
+    True
+  unii:
+    F5UM2KM3W7

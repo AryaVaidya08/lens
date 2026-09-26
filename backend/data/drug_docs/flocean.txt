@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Flocean ANTI-ITCH Benzocaine 5%ANTI-ITCH BENZOCAINE BENZOCAINE METHYLPARABEN DIMETHICONE GLYCERIN TROLAMINE PROPYLENE GLYCOL WATER BORNEOL MENTHA PIPERITA CHLORHEXIDINE
+active_ingredient:
+  Active Ingredient Benzocaine 5%
+purpose:
+  Purpose External analgesic
+indications_and_usage:
+  Use temporarily relieves itching
+warnings:
+  Warnings For external use only
+do_not_use:
+  Do not use if you have a vaginal discharge. Consult a physician.
+when_using:
+  When Using Avoid contact with eyes
+stop_use:
+  Stop Use condition worsens, or if symptoms persist formore than 7 days, or clear up and occur again within a few days Do not applyover large areas of the body
+ask_doctor:
+  Ask Doctor condition worsens, or if symptoms persist formore than 7 days, or clear up and occur again within a few days Do not applyover large areas of the body
+keep_out_of_reach_of_children:
+  Keep Oot Of Reach Of Children If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions adults and children 12 years and older apply a fingertipamount (approximately 1-inch strip) to affected area not more than 3 to 4times daily, Clean nozzle of tube by wiping thoroughly before replacing cap.Keep cap tightly closed between uses.
+storage_and_handling:
+  Other information children under 12 years consult a doctor
+inactive_ingredient:
+  Inactive ingredients water ,Glycerol ,Propylene Glycol ,Polydimethylsiloxane ,Trolamine,Borneol,MENTHAPIPERITA,Methylparaben ,Chlorhexidine
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL 1
+set_id:
+  1bb2bdac-0927-f699-e063-6394a90aa898
+id:
+  4a46fd71-ac84-cf76-e063-6294a90ad719
+effective_time:
+  20260207
+version:
+  3
+openfda:

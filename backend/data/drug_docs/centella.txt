@@ -1,0 +1,27 @@
+effective_time:
+  20190116
+inactive_ingredient:
+  Water, Butylene Glycol, Etc
+purpose:
+  Fills the skin with nutrition restoring damaged and dry skin
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  1. If the following symptoms occur after product use, stop using the product immediately and consult a dermatologist (continuous use can exacerbate the symptoms). 1) Occurrence of red spots, swelling, itchiness, and other skin irritation 2) If the symptoms above occur after the application area is exposed to direct sunlight 2. Do not use on open wounds, eczema, and other skin irritations 3. Precaution for Storage and Handling 1) Close the lid after use 2) Keep out of reach of infants and children 3) Do not to store in a place with high/low temperature and exposed to direct sunlight 4. Use as avoiding eye areas.
+spl_product_data_elements:
+  CENTELLA SCAR GLYCERIN WATER BUTYLENE GLYCOL GLYCERIN GLYCERIN
+openfda:
+version:
+  3
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  l
+indications_and_usage:
+  Take it moderate amount by cotton swab, apply thickly on injured area 1-2 times per day.
+set_id:
+  3fe6439e-9001-3000-e054-00144ff8d46c
+id:
+  7f9926cc-d17c-3a81-e053-2a91aa0a7eb7
+active_ingredient:
+  Glycerin

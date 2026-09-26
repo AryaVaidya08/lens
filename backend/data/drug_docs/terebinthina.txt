@@ -1,0 +1,97 @@
+spl_product_data_elements:
+  Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE Terebinthina Terebinthina TURPENTINE OIL TURPENTINE OIL SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Terebinthina 6C 5g Terebinthina 6C 30g Terebinthina 6C 100g Terebinthina 12C 5g Terebinthina 12C 30g Terebinthina 12C 100g Terebinthina 30C 1g Terebinthina 30C 5g Terebinthina 30C 30g Terebinthina 30C 100g Terebinthina 100C 1g Terebinthina 100C 5g Terebinthina 100C 30g Terebinthina 100C 100g Terebinthina 200C 1g Terebinthina 200C 5g Terebinthina 200C 30g Terebinthina 200C 100g Terebinthina 500C 1g Terebinthina 500C 5g Terebinthina 500C 30g Terebinthina 500C 100g Terebinthina 1M 1g Terebinthina 1M 5g Terebinthina 1M 30g Terebinthina 1M 100g Terebinthina LM1 30g
+set_id:
+  e9c4851b-1215-3272-e053-2995a90a64a3
+id:
+  e9c4851b-1216-3272-e053-2995a90a64a3
+effective_time:
+  20220928
+version:
+  1
+openfda:
+  brand_name:
+    Terebinthina
+  generic_name:
+    TEREBINTHINA
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-1622
+    37662-1625
+    37662-1628
+    37662-1629
+    37662-1624
+    37662-1626
+    37662-1627
+    37662-1623
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TURPENTINE OIL
+  spl_id:
+    e9c4851b-1216-3272-e053-2995a90a64a3
+  spl_set_id:
+    e9c4851b-1215-3272-e053-2995a90a64a3
+  package_ndc:
+    37662-1625-1
+    37662-1625-2
+    37662-1625-3
+    37662-1625-4
+    37662-1628-1
+    37662-1628-2
+    37662-1628-3
+    37662-1628-4
+    37662-1629-1
+    37662-1624-1
+    37662-1624-2
+    37662-1624-3
+    37662-1624-4
+    37662-1626-1
+    37662-1626-2
+    37662-1626-3
+    37662-1626-4
+    37662-1627-1
+    37662-1627-2
+    37662-1627-3
+    37662-1627-4
+    37662-1623-1
+    37662-1623-2
+    37662-1623-3
+    37662-1622-1
+    37662-1622-2
+    37662-1622-3
+  is_original_packager:
+    True
+  unii:
+    C5H0QJ6V7F

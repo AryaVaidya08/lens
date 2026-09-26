@@ -1,0 +1,34 @@
+effective_time:
+  20210412
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Water, Glycerol, Sodium Polyacrylate, Propylene Glycol, Polysorbate 80, Tartaric Acid, Dihydroxyaluminium Aminoacetate, Methylparaben
+purpose:
+  Topical Anesthetic External Analgesic
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS: For external use only. Avoid contact with eyes. If condition worsens, or if symptoms persist for more than 7 days or clear up and occur again within a few days, discontinue use of this product and consult a physician. Do not use in large quantities, particularly over raw surfaces or blistered areas. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Lidozen LIDOCAINE, MENTHOL WATER GLYCERIN PROPYLENE GLYCOL POLYSORBATE 80 TARTARIC ACID DIHYDROXYALUMINUM AMINOACETATE METHYLPARABEN LIDOCAINE LIDOCAINE MENTHOL MENTHOL SODIUM POLYACRYLATE (8000 MW)
+openfda:
+version:
+  5
+dosage_and_administration:
+  DIRECTIONS (Adults and Children Over 12 Years): Clean and dry affected area. Remove patch from backing and apply to affected area. Use only one patch at a time, and maximum of four patches / day. Leave patch on affected area for up to 8 hours Do not use patches for longer than five consecutive days, Children under 12 should consult physician prior to use.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  DRUG FACTS:
+  Store below 25 degrees Celsius, Avoid directe sunlight.
+do_not_use:
+  Do not use in large quantities, particularly over raw surfaces or blistered areas.
+package_label_principal_display_panel:
+  Package Labeling: NA
+indications_and_usage:
+  USES: For temporary relief of pain
+set_id:
+  4c50ded0-3255-4a15-b333-27a70b396f89
+id:
+  bfcc6bb6-6066-0c1c-e053-2a95a90a33bf
+active_ingredient:
+  ACTIVE INGREDIENTS: Lidocaine 4.00% Menthol 1.00% Topical Anesthetic External Analgesic

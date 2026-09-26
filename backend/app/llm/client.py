@@ -1,12 +1,13 @@
 """
 The LLM swap point.
 
-Wraps whichever LLM API is used (sponsor API for the hackathon).
-Nothing else in the codebase should call the LLM API directly — see
-docs/architecture.md's scaling table for why this stays isolated.
+Wraps the LLM API used by the backend. Nothing else in the codebase
+should call the LLM API directly.
 
 Owned by: Voice & LLM lane.
 """
+
+from __future__ import annotations
 
 import re
 from typing import Optional
@@ -16,100 +17,183 @@ import requests
 from app.config import settings
 from app.text import content_terms
 
-# Answers are spoken aloud by AVSpeechSynthesizer, so length is constrained in
-# the prompt rather than by truncating (truncation cuts off mid-sentence).
-_SENTENCES_BY_TIER = {"new": 2, "returning": 3, "expert": 4}
+
+# Answers are spoken aloud by AVSpeechSynthesizer, so length is constrained
+# in the prompt rather than by truncating mid-sentence.
+_SENTENCES_BY_TIER = {
+    "new": 2,
+    "returning": 3,
+    "expert": 4,
+}
 
 _SYSTEM_PROMPT = (
-    "You are a clinical reference assistant speaking to a physician. Answer only "
-    "from the provided context; if the context does not cover the question, say so "
-    "in one sentence. Never invent dosing, trial results, or safety claims. Reply in "
-    "at most {sentences} short sentences of plain prose, with no lists or markdown, "
-    "because the reply is read aloud. The physician's familiarity with this drug is "
-    "'{tier}': for 'new' lead with the basics, for 'expert' skip the basics and lead "
-    "with dosing, trial data, and interactions."
+    "You are a clinical reference assistant speaking to a physician. "
+    "Answer only from the provided context; if the context does not cover "
+    "the question, say so in one sentence. Never invent dosing, trial "
+    "results, or safety claims. Reply in at most {sentences} short sentences "
+    "of plain prose, with no lists or markdown, because the reply is read "
+    "aloud. The physician's familiarity with this drug is '{tier}': for "
+    "'new' lead with the basics, for 'returning' provide a moderate level "
+    "of detail, and for 'expert' skip the basics and lead with dosing, "
+    "trial data, and interactions when those details are present in the "
+    "provided context."
 )
 
 _SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+")
-_NOT_COVERED = "I don't have anything on that in this drug's reference material."
+
+_NOT_COVERED = (
+    "I don't have anything on that in this drug's reference material."
+)
 
 
-def generate_answer(query: str, context: list[str], tier: str = "new") -> str:
+def generate_answer(
+    query: str,
+    context: list[str],
+    tier: str = "new",
+) -> str:
     """
-    Generates a spoken-ready answer to `query`, grounded in `context`
-    (the chunks returned by retrieval/index.py::retrieve).
+    Generate a spoken-ready answer to `query`, grounded only in `context`.
 
-    Falls back to an extractive answer built from the same context when no LLM
-    key is configured or the API call fails, so the demo never dead-ends on a
-    network problem. Either way the answer is grounded in `context` only.
+    This is the single LLM swap point for the application. Retrieval happens
+    before this function is called.
     """
+    if not isinstance(query, str) or not query.strip():
+        raise ValueError("Query cannot be empty")
+
     if not context:
-        return "I don't have anything on that in this drug's reference material."
+        return _NOT_COVERED
 
+    # Normalize unexpected tier values rather than allowing them to alter
+    # the prompt in an uncontrolled way.
+    if tier not in _SENTENCES_BY_TIER:
+        tier = "new"
+
+    # Grok/xAI is the active provider. If no key is configured, use the
+    # grounded local fallback instead of failing the demo.
     if settings.llm_enabled:
         answer = _call_llm(query, context, tier)
         if answer:
             return answer
+
     return _extractive_answer(query, context, tier)
 
 
-def _call_llm(query: str, context: list[str], tier: str) -> Optional[str]:
-    sentences = _SENTENCES_BY_TIER.get(tier, 3)
-    joined = "\n\n".join(f"[{i + 1}] {chunk}" for i, chunk in enumerate(context))
+def _call_llm(
+    query: str,
+    context: list[str],
+    tier: str,
+) -> Optional[str]:
+    """
+    Call the configured xAI-compatible chat-completions endpoint.
+
+    Returns None on any API/network/response-format failure so the caller
+    can fall back to a grounded extractive answer.
+    """
+    sentences = _SENTENCES_BY_TIER.get(tier, 2)
+
+    joined = "\n\n".join(
+        f"[Source {i + 1}]\n{chunk}"
+        for i, chunk in enumerate(context)
+    )
+
+    system_prompt = _SYSTEM_PROMPT.format(
+        sentences=sentences,
+        tier=tier,
+    )
+
+    user_prompt = (
+        "Drug information context:\n\n"
+        f"{joined}\n\n"
+        f"Question:\n{query}"
+    )
+
     try:
         response = requests.post(
             f"{settings.llm_api_base.rstrip('/')}/chat/completions",
-            headers={"Authorization": f"Bearer {settings.llm_api_key}"},
+            headers={
+                "Authorization": f"Bearer {settings.llm_api_key}",
+                "Content-Type": "application/json",
+            },
             json={
                 "model": settings.llm_model,
-                "temperature": 0.2,
                 "messages": [
                     {
                         "role": "system",
-                        "content": _SYSTEM_PROMPT.format(sentences=sentences, tier=tier),
+                        "content": system_prompt,
                     },
-                    {"role": "user", "content": f"Context:\n{joined}\n\nQuestion: {query}"},
+                    {
+                        "role": "user",
+                        "content": user_prompt,
+                    },
                 ],
+                "temperature": 0.2,
             },
             timeout=settings.llm_timeout_seconds,
         )
+
         response.raise_for_status()
-        content = response.json()["choices"][0]["message"]["content"]
-        return " ".join(content.split()) or None
+
+        data = response.json()
+
+        answer = data["choices"][0]["message"]["content"]
+
+        if not isinstance(answer, str):
+            return None
+
+        answer = " ".join(answer.split())
+
+        return answer or None
+
     except Exception:
-        # Any API problem falls through to the grounded extractive answer.
+        # The fallback is deliberately silent. A temporary API/network
+        # failure should not make the demo unusable.
         return None
 
 
-def _extractive_answer(query: str, context: list[str], tier: str) -> str:
+def _extractive_answer(
+    query: str,
+    context: list[str],
+    tier: str,
+) -> str:
     """
-    Reads back the opening of the best-matching section.
+    Produce a grounded fallback answer directly from retrieved context.
 
-    Retrieval has already chosen the right section, and each section's prose is
-    written lead-first, so its opening sentences are both the most relevant
-    answer and the only part that reads well aloud — the trailing bullets are
-    fragments. The tier decides how many sentences to read.
+    Retrieval has already selected the relevant drug section. The section
+    prose is lead-first, so its opening sentences are generally the most
+    useful material to read aloud.
     """
     query_terms = set(content_terms(query))
-    if query_terms and not any(query_terms & set(content_terms(chunk)) for chunk in context):
-        # Nothing in this drug's dossier touches the question. Say so rather
-        # than reciting an unrelated section — this is pharma-facing.
+
+    if query_terms and not any(
+        query_terms & set(content_terms(chunk))
+        for chunk in context
+    ):
         return _NOT_COVERED
 
-    wanted = _SENTENCES_BY_TIER.get(tier, 3)
+    wanted = _SENTENCES_BY_TIER.get(tier, 2)
+
     chosen: list[str] = []
-    chosen_terms: list[set] = []
+    chosen_terms: list[set[str]] = []
+
     for sentence in _SENTENCE_SPLIT.split(context[0]):
         sentence = sentence.strip()
+
         if len(sentence) < 25:
             continue
+
         terms = set(content_terms(sentence))
-        # Each section restates its prose as bullets, so skip a sentence whose
-        # content is already covered — otherwise the answer repeats itself.
-        if any(terms and len(terms - seen) <= 1 for seen in chosen_terms):
+
+        # Avoid repeating nearly identical sentences, which can happen when
+        # a dossier contains prose followed by bullets covering the same fact.
+        if any(
+            terms and len(terms - seen) <= 1
+            for seen in chosen_terms
+        ):
             continue
+
         chosen.append(sentence)
         chosen_terms.append(terms)
+
         if len(chosen) == wanted:
             break
 

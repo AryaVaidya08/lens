@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  NuDroxicin MENTHOL, CAPSAICIN WATER GLYCERIN POLYSORBATE 80 ALOE VERA LEAF EDETATE DISODIUM DIAZOLIDINYL UREA METHYLPARABEN IODOPROPYNYL BUTYLCARBAMATE PROPYLPARABEN MENTHOL MENTHOL CAPSAICIN CAPSAICIN
+spl_unclassified_section:
+  DRUG FACTS:
+active_ingredient:
+  ACTIVE INGREDIENTS: Menthol 5.00% Capsaicin 0.0375% Analgesic/Counterirritant External Analgesic
+purpose:
+  Analgesic/Counterirritant External Analgesic
+indications_and_usage:
+  USES: For the temporary relief of minor aches and pains of the muscles and joints associated with simple backache, arthritis, sprains, bruises and strains.
+warnings:
+  WARNING: For external use only. Use only as directed. Avoid contact with eyes and mucous membranes. Do not cover with bandage. Do not use on wounds or damaged skin Do not use in combination with and other external analgesic products. Avoid contact with eyes and mucous membranes. Do not use on irritated or broken skin, or use in combination with any bandage, wrap, stocking or similar device or garment. Keep out of reach of children. Consult physician for children under 12. Do not use if you are allergic to Menthol. Stop use and ask a doctor if conditions worsen, symptoms persist for more than 7 days or clear up and occur again within a few days. or Rash, itching or excessive skin irritation occurs.
+do_not_use:
+  Do not use on wounds or damaged skin Do not use in combination with and other external analgesic products. Avoid contact with eyes and mucous membranes. Do not use on irritated or broken skin, or use in combination with any bandage, wrap, stocking or similar device or garment.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Consult physician for children under 12. Do not use if you are allergic to Menthol.
+stop_use:
+  Stop use and ask a doctor if conditions worsen, symptoms persist for more than 7 days or clear up and occur again within a few days. or Rash, itching or excessive skin irritation occurs.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 12 years and over apply to affected area; change patch 1 to 2 times daily. Children under 12 years, consult physician before use. How to apply: Clean and dry affected area Cut open pouch and remove patch Remove protective film and apply directly to area of pain Apply to affected area not more than 3 times daily wash hands with soap after applying patch Reseal pouch containing unused patched
+inactive_ingredient:
+  OTHER INGREDIENTS Water, Glycerine, Sodium Polyacrylate, Polysorbate 80, Aloe Barbadesis Leaf (Aloe Vera Gel) Juice, EDTA Disodium salt, Diazolidinyl Urea, Methylparaben, Iodoproynyl Butylcabamate, Propylparaben.
+package_label_principal_display_panel:
+  Package Labeling: Box
+set_id:
+  d4279744-bad7-4553-a873-5413f33f5fae
+id:
+  1ac63837-92c2-fac1-e063-6394a90aec38
+effective_time:
+  20240613
+version:
+  6
+openfda:

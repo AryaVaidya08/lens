@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  PLANT AND MINERAL SUNSCREEN SPF 50 ZINC OXIDE MEDIUM-CHAIN TRIGLYCERIDES SHOREA STENOPTERA SEED BUTTER CASTOR OIL RICE BRAN ORYZA SATIVA WHOLE RUBUS IDAEUS SEED AVOCADO OIL WATERMELON SEED OIL MENTHA PIPERITA TOCOPHEROL ZINC OXIDE ZINC CATION
+active_ingredient:
+  ACTIVE INGREDIENTS 20.2% ZINC OXIDE (non-nano)
+purpose:
+  PURPOSE Sunscreen
+indications_and_usage:
+  USES Helps prevent sunburn
+warnings:
+  Skin Cancer/Skin Aging Alert: Spending time sun may increase your risk of skin cancer and ealry skin aging. For external use only. Do not use on broken or damaged skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS Apply liberally 15 minutes before sun exposure Children under 6 months of age: Ask a doctor At least every 2 hours
+storage_and_handling:
+  OTHER INFORMATION Protect this product in this container from excessive heat and direct sun. Sore at temperatures below 90F.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Caprylic/Capric Triglyceride (MCT) Oil, Shorea Stenoptera (Illipe) Butter, Organic Ricinus Communis L. (Castor) Seed Oil, Butyrospermum Parkii (Shea) Butter, Oryza Sativa (Rice) Bran Wax, Organic Rubus Idaeus (Raspberry) Seed Oil, Persea Gratissima (Avocado) Oil, Citrullus Vulgaris (Watermelon) Seed, Organic Mentha Piperita (Peppermint) Oil, Non-GMO Tocopherol (Vitamin E)
+package_label_principal_display_panel:
+  SKIN NOURISHMENT PLANT AND MINERAL SUNSCREEN SPF 50 LOTION.jpg
+set_id:
+  8b59f588-65a2-43bb-9ead-3f9d800e3f1d
+id:
+  cbe6d19c-a6c1-e9cf-e053-2a95a90a8d0d
+effective_time:
+  20210913
+version:
+  2
+openfda:

@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Nateglinide Nateglinide NATEGLINIDE NATEGLINIDE ANHYDROUS CITRIC ACID SILICON DIOXIDE STARCH, CORN CROSPOVIDONE HYPROMELLOSES LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYSORBATE 80 POLYETHYLENE GLYCOL, UNSPECIFIED POVIDONE TALC TITANIUM DIOXIDE WHITE TO OFF-WHITE ROUND 721 Nateglinide Nateglinide NATEGLINIDE NATEGLINIDE ANHYDROUS CITRIC ACID CROSPOVIDONE FERRIC OXIDE RED FERRIC OXIDE YELLOW HYPROMELLOSES LACTOSE MONOHYDRATE MAGNESIUM STEARATE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 POVIDONE SILICON DIOXIDE STARCH, CORN TALC TITANIUM DIOXIDE LIGHT ORANGE TO ORANGE OVAL 722
+spl_unclassified_section:
+  
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL NDC 70771-1015-9 in bottle of 90 tablets Nateglinide Tablets USP, 60 mg Rx only 90 tablets NDC 70771-1016-9 in bottle of 90 tablets Nateglinide Tablets USP, 120 mg Rx only 90 tablets nateglinide tabs 60 mg nateglinide tabs 120 mg
+set_id:
+  a82817dd-f8c4-4172-ba86-63c2beef456a
+id:
+  58be95eb-5701-463e-b80c-eb9b6c2a789d
+effective_time:
+  20241203
+version:
+  9
+openfda:
+  application_number:
+    ANDA205248
+  brand_name:
+    Nateglinide
+  generic_name:
+    NATEGLINIDE
+  manufacturer_name:
+    Zydus Lifesciences Limited
+  product_ndc:
+    70771-1015
+    70771-1016
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    ORAL
+  substance_name:
+    NATEGLINIDE
+  rxcui:
+    311919
+    314142
+  spl_id:
+    58be95eb-5701-463e-b80c-eb9b6c2a789d
+  spl_set_id:
+    a82817dd-f8c4-4172-ba86-63c2beef456a
+  package_ndc:
+    70771-1015-3
+    70771-1015-9
+    70771-1015-1
+    70771-1015-5
+    70771-1015-0
+    70771-1015-2
+    70771-1015-4
+    70771-1016-3
+    70771-1016-9
+    70771-1016-1
+    70771-1016-5
+    70771-1016-0
+    70771-1016-2
+    70771-1016-4
+  is_original_packager:
+    True
+  upc:
+    0368382722164
+  nui:
+    N0000175428
+    N0000175448
+  pharm_class_epc:
+    Glinide [EPC]
+  pharm_class_moa:
+    Potassium Channel Antagonists [MoA]
+  unii:
+    41X3PWK4O2

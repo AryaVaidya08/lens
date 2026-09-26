@@ -1,0 +1,62 @@
+spl_product_data_elements:
+  Abrotanum Abrotanum SUCROSE ARTEMISIA ABROTANUM FLOWERING TOP ARTEMISIA ABROTANUM FLOWERING TOP
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Single label image contains content for sections 1-14. Abrotanum 30C 100g
+set_id:
+  99db49c7-89cc-4654-e053-2995a90af6d3
+id:
+  2b4a2c07-24cc-ac03-e063-6394a90a3535
+effective_time:
+  20250109
+version:
+  6
+openfda:
+  brand_name:
+    Abrotanum
+  generic_name:
+    ABROTANUM
+  manufacturer_name:
+    Hahnemann Laboratories, Inc.
+  product_ndc:
+    63545-710
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ARTEMISIA ABROTANUM FLOWERING TOP
+  spl_id:
+    2b4a2c07-24cc-ac03-e063-6394a90a3535
+  spl_set_id:
+    99db49c7-89cc-4654-e053-2995a90af6d3
+  package_ndc:
+    63545-710-04
+  is_original_packager:
+    True
+  unii:
+    QG07G580U0

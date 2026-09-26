@@ -1,0 +1,27 @@
+effective_time:
+  20200731
+inactive_ingredient:
+  water, glycerin, polysorbate 80, sodium benzoate, benzalkonium chloride, citric acid, maltodextrin, aloe barbadensis leaf juice powder, limonene, tocopheryl acetate, linalool, citral, citronellol, geraniol, benzyl benzoate, benzyl salicylate, farnesol, eugenol, isoeugenol, benzyl alcohol, fragrance
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  For external use only. Flammable. Keep away from heat or flame. When using this product keep out of eyes. in case of contact with eyes, flush thoroughly with water. avoid contact with broken skin. do not inhale or ingest. Stop use and ask a doctor if irritation and redness develop. condition persists for more than 72 hours. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  KAZU HAND SANITIZER WIPES ALCOHOL CITRAL GERANIOL BENZYL SALICYLATE FARNESOL EDETATE DISODIUM ANHYDROUS SODIUM BENZOATE WATER CITRIC ACID MONOHYDRATE GLYCERIN POLYSORBATE 80 .ALPHA.-TOCOPHEROL ACETATE BENZYL BENZOATE MALTODEXTRIN LIMONENE, (+)- .BETA.-CITRONELLOL, (R)- EUGENOL ISOEUGENOL BENZYL ALCOHOL BENZALKONIUM CHLORIDE BENZALKONIUM
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Wipe hands thoroughly with product and allow to dry. Discard wipe in trash. Do not flush.
+set_id:
+  a8a41c19-5576-ea00-e053-2a95a90a9a40
+id:
+  abb6a9a3-4273-49fd-e053-2995a90ab3aa
+active_ingredient:
+  benzalkonium chloride

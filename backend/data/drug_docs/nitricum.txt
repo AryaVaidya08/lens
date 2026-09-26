@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  NITRICUM ACIDUM Nitric acid NITRIC ACID NITRIC ACID SUCROSE LACTOSE
+active_ingredient:
+  Active Ingredient NITRICUM ACIDUM 200K GR NITRICUM ACIDUM 30CH GR NITRICUM ACIDUM 30K GR NITRICUM ACIDUM 6CH GR NITRICUM ACIDUM 7CH GR
+purpose:
+  Indications For the temporary relief of mouth sores, low energy, and general weakness
+warnings:
+  Warning: If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose, sucrose.
+dosage_and_administration:
+  Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+questions:
+  QUESTIONS? 1-888-737-6925.
+indications_and_usage:
+  Indications For the temporary relief of mouth sores, low energy, and general weakness Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken Homeopathic Remedy NDC : 62106-4803-4 NITRICUM ACIDUM Nitric acid 140 granules Indications For the temporary relief of mouth sores, low energy, and general weakness 62106-4803
+set_id:
+  1223185b-c946-5a9a-e054-00144ff88e88
+id:
+  06c15571-7470-5d62-e063-6394a90a314a
+effective_time:
+  20231002
+version:
+  4
+openfda:

@@ -1,0 +1,39 @@
+spl_product_data_elements:
+  INKED SCIENCE LIDOCAINE 4 Percent Lidocaine HCL HEXYLENE GLYCOL HIPPOPHAE RHAMNOIDES SEED OIL WATER MEDIUM-CHAIN TRIGLYCERIDES LIDOCAINE HYDROCHLORIDE LIDOCAINE LIDOCAINE HYDROCHLORIDE ANHYDROUS PROPYLENE GLYCOL JOJOBA OIL CETOSTEARYL ALCOHOL ARNICA MONTANA FLOWER CAPRYLYL GLYCOL ETHYLHEXYLGLYCERIN STEARIC ACID TOCOPHEROL POLYSORBATE 20 HIPPOPHAE RHAMNOIDES FRUIT OIL GLYCERIN PHENOXYETHANOL SODIUM HYDROXIDE EDETATE SODIUM WHITE WAX
+statement_of_identity:
+  INKED SCIENCE LIDOCAINE NUMBING CREAM
+active_ingredient:
+  Lidocaine HCl 4%
+purpose:
+  Purpose Topical anesthetic
+indications_and_usage:
+  Uses: to reduce pain or discomfort caused by skin irritations such as sunburn, insect bites, poison ivy, poison oak, poison sumac, and minor cuts, scratches or burns.
+warnings:
+  For External Use only
+when_using:
+  When using this product, do not use in or near the eyes do not use in large quantities, particularly over raw surfaces or blistered areas.
+stop_use:
+  Stop Use and ask a doctor if: allergic reaction occurs condition worsens or does not improve within 7 days symptoms clear up and return within a few days redness, irritation, swelling, pain or other symptoms begin.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions: adults and children 2 years and older apply externally to the affected area up to 3 to 4 times a day Children under 2 years, ask a doctor
+other_safety_information:
+  Store at 20 - 25° C
+questions:
+  support@inkedscience.com
+inactive_ingredient:
+  Arnica Montana Extract, Capryl Glycol, Caprylic/Capric Triglycerides, Cetearyl Alcohol, Deionized Water, Emulsifying Wax NF, Ethylhexylglycerin, Glycerin,Hexylene Glycol, Hippophae Rhamnoides Fruit and Seed Oils, Phenoxyethanol, Polysorbate 20, Propylene Glycol, Simmondsia Chinensis (Jojoba) Seed Oil, Sodium Hydroxide, Stearic Acid, Tetrasodium EDTA, Tocopherol
+recent_major_changes:
+  INDICATIONS AND USAGE Only a date change due to creation of a CLONE SPL. DOSAGE and ADMINISTRATION Only a date change due to creation of a CLONE SPL
+package_label_principal_display_panel:
+  PRODUCT LABEL AND PRODUCT BOX INKED SCIENCE BOX LABEL ART INKED SCIENCE
+set_id:
+  d8df7f88-ca5b-60b8-e053-2a95a90a515e
+id:
+  d8df7f63-d44a-bc4d-e053-2995a90a3f7c
+effective_time:
+  20220225
+version:
+  1
+openfda:

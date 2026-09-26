@@ -1,0 +1,32 @@
+spl_product_data_elements:
+  SkinProtect SPF 50 SHEER ROLLER SUNSCREEN HOMOSALATE, OCTINOXATE, OCTOCRYLENE, OCTISALATE, AVOBENZONE WATER ALKYL (C12-15) BENZOATE CARBOXYPOLYMETHYLENE CETYL ALCOHOL COCONUT OIL DIMETHICONE ETHYLHEXYLGLYCERIN GLYCERIN GLYCERYL MONOSTEARATE HELIANTHUS ANNUUS FLOWERING TOP HYALURONIC ACID PEG-100 STEARATE PHENOXYETHANOL POLYSORBATE 20 POTASSIUM HYDROXIDE PROPYLENE GLYCOL STEARYL ALCOHOL .ALPHA.-TOCOPHEROL ACETATE HOMOSALATE HOMOSALATE OCTINOXATE OCTINOXATE OCTOCRYLENE OCTOCRYLENE OCTISALATE OCTISALATE AVOBENZONE AVOBENZONE
+spl_unclassified_section:
+  Drug Facts SkinProtect Sheer SPF
+  Other information: store in cool dry place.
+active_ingredient:
+  Active Ingredients Homosalate 10.00% Octinoxate 7.50% Octocrylene 7.50% Octisalate 5.00% Avobenzone 3.00% Purpose Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses: Screens out sun’s burning rays to help prevent sunburn.
+warnings:
+  Warnings: For external use only. Keep out of reach of children. Sun Alert: UV exposure from the sun increases the risk of skin cancer, premature skin aging. Decrease UV exposure by limiting time in the sun, wearing protective clothing and using a sunscreen. Avoid contact with eyes. Rinse with water to remove. Stop use and ask a doctor if skin rash develops.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Sun Alert: UV exposure from the sun increases the risk of skin cancer, premature skin aging. Decrease UV exposure by limiting time in the sun, wearing protective clothing and using a sunscreen. Avoid contact with eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if skin rash develops.
+inactive_ingredient:
+  Ingredients: Aqua (Deionized Water), C12-15 Alkyl Benzoate, Carbomer, Cetyl Alcohol, Cocos Nucifera (Coconut) Oil, Dimethicone, Ethylhexylglycerin, Glycerin, Glyceryl Stearate, Helianthus Annuus (Sunflower) Oil, Hyaluronic Acid, Parfum (Fragrance), PEG-100 Stearate, Phenoxyethanol, Polysorbate-20, Potassium Hydroxide, Propylene Glycol, Stearyl Alcohol, Tocopheryl Acetate (Vitamin E),
+dosage_and_administration:
+  
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  55ddafc3-41b8-3566-e054-00144ff88e88
+id:
+  074ba069-b691-bad7-e063-6394a90ac4be
+effective_time:
+  20231009
+version:
+  2
+openfda:

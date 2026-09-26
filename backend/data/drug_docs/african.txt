@@ -1,0 +1,38 @@
+effective_time:
+  20170626
+inactive_ingredient:
+  Inactive Ingredients ammonium acetate, benzoic acid, caramel, ipecac, licorice, menthol, drimia Indica bulb, sodium benzoate, sucrose, tolu balsam, prunus serotina bark.
+purpose:
+  Purpose Demulcent
+keep_out_of_reach_of_children:
+  Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Stop use and ask a doctor if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting. If sore mouth symptoms do not improve in 7 days, see your doctor promptly. These could be signs of a serious condition. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children . In case of overdose, get medical help or contact a Poison Control Center right away.
+questions:
+  Questions? Call weekdays from 9 AM-5 PM PST at 1-877-889-8968.
+spl_product_data_elements:
+  AFRICAN SEA-COCONUT Herbal Mixture Elm Elm Elm Ammonium Acetate Benzoic Acid Caramel Ipecac Licorice Menthol Drimia Indica Bulb Sodium Benzoate Sucrose Tolu balsam Prunus Serotina Bark Natural Cherry Flavor Natural Licorice Flavor
+openfda:
+version:
+  13
+dosage_and_administration:
+  Directions use only as directed adults and children 12 years and older take orally 2 to 4 teaspoons (10-20mL) every 4 hours, not to exceed 24 teaspoons in 24 hours. children 6 to under 12 years take 1 to 2 teaspoons (5-10mL) every 4 hours, not to exceed 12 teaspoons in 24 hours. children under 6 years consult a doctor before use.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting. If sore mouth symptoms do not improve in 7 days, see your doctor promptly. These could be signs of a serious condition.
+storage_and_handling:
+  Other Information store at 20-25 ∘ C (68-77 ∘ F)
+package_label_principal_display_panel:
+  Outer box label box.jpg image of outer box
+  Inner Glass bottle label bottle.jpg image of inner glass bottle label
+indications_and_usage:
+  Use for the temporary relief of minor discomfort and protection of irritated areas in sore mouth and sore throat.
+set_id:
+  8a3b1cb1-0112-4cdb-8545-8fc7e325a7be
+id:
+  5c4ad00b-4bb0-46e2-a3da-d8613166cb4c
+active_ingredient:
+  Active ingredients (in each 5 mL tsp) Elm 65 mg
+dosage_and_administration_table:
+  <table ID="ia2927eb0-a22f-40ae-8113-782439459642" border="1" width="100%"> <tbody> <tr> <td> <content styleCode="bold">adults and children 12 years and</content> <content styleCode="bold"> older  </content> </td> <td>take orally 2 to 4 teaspoons (10-20mL) every 4 hours, not to exceed 24 teaspoons in 24 hours.<content styleCode="emphasis"/> </td> </tr> <tr> <td> <content styleCode="bold">children 6 to under 12 years</content> </td> <td>take 1 to 2 teaspoons (5-10mL) every 4 hours, not to exceed 12 teaspoons in 24 hours.  </td> </tr> <tr> <td> <content styleCode="bold">children under 6 years</content> </td> <td>consult a doctor before use.  </td> </tr> </tbody> </table>

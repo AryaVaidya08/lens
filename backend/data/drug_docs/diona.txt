@@ -1,0 +1,27 @@
+effective_time:
+  20180927
+inactive_ingredient:
+  WATER, 1,2-HEXANEDIOL, ADENOSINE, BUTYLENE GLYCOL, ETC.
+purpose:
+  Skin protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  1) If following symptoms occur after product use, stop using immediately and consult with a specialist: red spots, swelling, itchiness, and other skin irritations. 2) Avoid contact with eyes and open wounds. 3) Keep out of reach of children. 4) Do not store at high/low temperature. 5) Avoid direct sunlight.
+spl_product_data_elements:
+  DIONA CELL REGENERATION BOOSTER Glycerin WATER BUTYLENE GLYCOL GLYCERIN GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  1
+indications_and_usage:
+  Apply an appropriate amount to skin and absorb it.
+set_id:
+  76d3ad33-3f2f-585a-e053-2991aa0a3e57
+id:
+  76d4a78c-1642-7970-e053-2991aa0a18f2
+active_ingredient:
+  Glycerin

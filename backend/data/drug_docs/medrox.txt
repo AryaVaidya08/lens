@@ -1,0 +1,29 @@
+effective_time:
+  20180409
+inactive_ingredient:
+  OTHER INGREDIENTS Deionized Water, Cetyl Alcohol, PEG-150 Distearate, Isopropyl Myristate, Glycerin, Sodium Lauryl Sulfate, Polysorbate-20, Triethanolamine, Acrylates Copolymer, Propylene Glycol, Methyl Paraben, Propyl Paraben, Diazolidinyl Urea, FD and C Blue 1, D and C Yellow 5
+purpose:
+  PURPOSE Analgesic/Counterirritant Analgesic/Counterirritant External Analgesic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Consult physician for children under 12.
+warnings:
+  WARNINGS For external use only. Use only as directed. Avoid contact with eyes and mucous membranes. Do not cover with bandage. Do not use on wounds or damaged skin.
+spl_product_data_elements:
+  Medrox METHYL SALICYLATE, MENTHOL, CAPSAICIN METHYL SALICYLATE SALICYLIC ACID MENTHOL MENTHOL CAPSAICIN CAPSAICIN WATER CETYL ALCOHOL PEG-150 DISTEARATE ISOPROPYL MYRISTATE GLYCERIN SODIUM LAURYL SULFATE POLYSORBATE 20 TROLAMINE PROPYLENE GLYCOL METHYLPARABEN PROPYLPARABEN DIAZOLIDINYL UREA FD&C BLUE NO. 1 FD&C YELLOW NO. 5
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS Apply product directly to affected area. Product may be used as necessary, but should not be used more than four times per day.
+spl_unclassified_section:
+  DRUG FACTS:
+package_label_principal_display_panel:
+  Image of Label Image of Label
+indications_and_usage:
+  USES Use for the temporary relief of minor aches and muscle pains associated with arthritis, simple backache, strains, muscle soreness and stiffness.
+set_id:
+  cfaf5295-e559-4e27-887d-d590670b4e89
+id:
+  79ac51cf-d023-454a-8d72-b053426ff2b3
+active_ingredient:
+  ACTIVE INGREDIENTS Methyl Salicylate 20.00% Menthol 5.00% Capsaicin 0.0375%

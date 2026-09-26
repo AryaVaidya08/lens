@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Fleet SODIUM PHOSPHATE, DIBASIC and SODIUM PHOSPHATE, MONOBASIC SODIUM PHOSPHATE, MONOBASIC SODIUM CATION SODIUM PHOSPHATE, DIBASIC SODIUM CATION BENZALKONIUM CHLORIDE EDETATE DISODIUM WATER
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient (in each 118-mL delivered dose) Monobasic Sodium Phosphate 19 g, Dibasic Sodium Phosphate 7 g,
+purpose:
+  Purpose Saline Laxative Saline Laxative
+indications_and_usage:
+  Use For relief of occasional constipation
+warnings:
+  Warnings For rectal use only. Dosage warning: Using more than one enema in 24 hours can be harmful. Do not use without asking a doctor: for more than 3 days if you have kidney disease if you have heart problems if you are dehydrated
+ask_doctor:
+  Ask a doctor before using this product if you are 55 years or older are on a sodium-restricted diet
+  Ask a doctor before using any laxative if you have abdominal pain, nausea, or vomiting a sudden change in bowel habits lasting more than 2 weeks already used a laxative for more than 1 week
+stop_use:
+  Stop use and ask a doctor if you have rectal bleeding no bowel movement or no liquid comes out of the rectum after 30 minutes symptoms of dehydration (feeling thirsty, dizziness, vomiting or urinating less often than normal) These symptoms may indicate a serious condition
+pregnancy_or_breast_feeding:
+  If pregnant or breast- feeding Ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children to prevent accidental ingestion. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Single Daily Dosage (per 24 hours). Do not use more unless directed by a doctor. See Warnings. Do not use if taking another sodium phosphates product. adults and children 12 years and over 1 bottle per day children 2 to 11 years Use Fleet Pedia-Lax Enema children under 2 years DO NOT USE
+other_safety_information:
+  Other Information each 118-mL delivered dose contains: sodium 4.4 g additional liquids by mouth are recommended while taking this product this product generally produces a bowel movement in 1-5 minutes BOTTLE SEALED FOR SAFETY. IF BOTTLE WRAPPER WITH FLEET EMBLEM IS TORN, DAMAGED OR MISSING, DO NOT USE. for complete professional use warnings and precautions, consult the Reference Safety Information on our website
+inactive_ingredient:
+  Inactive Ingredients benzalkonium chloride, disodium EDTA, purified water
+questions:
+  Questions? 1-866-255-6960 or www.fleetlabs.com
+package_label_principal_display_panel:
+  Principal Display Panel Fleet SALINE enema SIX PACK Fleet SALINE enema SIX PACK
+set_id:
+  a2155d4e-ab12-4bce-80d1-47e31195a060
+id:
+  f63e92e9-0f88-4c06-9da4-3496e31b4580
+effective_time:
+  20240506
+version:
+  5
+openfda:

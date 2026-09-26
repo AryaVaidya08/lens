@@ -1,0 +1,53 @@
+spl_product_data_elements:
+  HylaTears Eye Drops HYPROMELLOSE 2910 (4000 MPA.S) HYPROMELLOSE 2910 (4000 MPA.S) POTASSIUM CHLORIDE SODIUM PHOSPHATE DIBASIC DIHYDRATE BENZYL ALCOHOL WATER SODIUM HYALURONATE SODIUM CHLORIDE SODIUM PHOSPHATE, MONOBASIC, UNSPECIFIED FORM
+package_label_principal_display_panel:
+  Principal display panel All the text in the principal panel Directions Instill one or two drops in the affected eye(s) as needed. Dosage and Administration Purpose: Lubricant Purpose Keep out of Reach Keep out of reach of children Keep out of Reach For external use only. If you are pregnant, nursing, trying to conceive, taking any medications, or have a medical condition, please consult your healthcare practitioner before using this product. Stop use and ask a doctor if: You experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours. Do not use if solution changes color or becomes cloudy. If swallowed, get medical help or contact a Poison Control Center right away. Keep out of reach of children. Warnings Inactive Ingredients: Water, sodium chloride, sodium hyaluron-ate, potassium chloride, sodium phosphate dibasic, sodium phosphate monobasic, benzyl alcohol. Inactive Ingredients Hypromellose 0.3% Lubricant List of active ingredients Inidication and Use For the temporary relief of burning, irritaiton and discomofrt due to drynes of the eye or exposure to wind and sun,. May be uysed as a protectant against further irritation Indication and Use
+dosage_and_administration:
+  Directions Instill one or two drops in the affected eye(s) as needed. Dosage and Administration
+purpose:
+  Purpose: Lubricant Purpose
+keep_out_of_reach_of_children:
+  Keep out of Reach Keep out of reach of children Keep out of Reach
+warnings:
+  For external use only. If you are pregnant, nursing, trying to conceive, taking any medications, or have a medical condition, please consult your healthcare practitioner before using this product. Stop use and ask a doctor if: You experience eye pain, changes in vision, continued redness or irritation of the eye, or if the condition worsens or persists for more than 72 hours. Do not use if solution changes color or becomes cloudy. If swallowed, get medical help or contact a Poison Control Center right away. Keep out of reach of children. Warnings
+inactive_ingredient:
+  Inactive Ingredients: Water, sodium chloride, sodium hyaluron-ate, potassium chloride, sodium phosphate dibasic, sodium phosphate monobasic, benzyl alcohol. Inactive Ingredients
+active_ingredient:
+  Hypromellose 0.3% Lubricant List of active ingredients
+indications_and_usage:
+  Inidication and Use For the temporary relief of burning, irritaiton and discomofrt due to drynes of the eye or exposure to wind and sun,. May be uysed as a protectant against further irritation Indication and Use
+set_id:
+  2b5fc4c4-843c-8d3d-e063-6394a90a5a1b
+id:
+  2b5fc4c4-843d-8d3d-e063-6394a90a5a1b
+effective_time:
+  20250110
+version:
+  2
+openfda:
+  application_number:
+    M014
+  brand_name:
+    HylaTears
+  generic_name:
+    EYE DROPS
+  manufacturer_name:
+    Hyalogic LLC
+  product_ndc:
+    72094-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    OPHTHALMIC
+  substance_name:
+    HYPROMELLOSE 2910 (4000 MPA.S)
+  spl_id:
+    2b5fc4c4-843d-8d3d-e063-6394a90a5a1b
+  spl_set_id:
+    2b5fc4c4-843c-8d3d-e063-6394a90a5a1b
+  package_ndc:
+    72094-001-03
+  is_original_packager:
+    True
+  unii:
+    RN3152OP35

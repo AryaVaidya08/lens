@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  DEMON GUN Hypochlorous Acid (HOCl) WATER HYPOCHLOROUS ACID HYPOCHLOROUS ACID
+active_ingredient:
+  Hydrochloric acid
+inactive_ingredient:
+  water
+purpose:
+  Antiseptic sanitizer
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  To disinfect the hands and skin, spray and rub an appropriate amount. Use by spraying the undiluted solution as it is.
+warnings:
+  1) Be sure to familiarize yourself with how to use it. 2) Do not mix with other chemical products. 3) Do not consume. 4) Do not use it for anything other than its intended purpose. 5) Keep the lid tightly closed in a cool place. 6) Use as soon as possible after opening.
+dosage_and_administration:
+  external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  c0617823-2401-8ba5-e053-2a95a90ad587
+id:
+  c06177da-1080-67a8-e053-2995a90af281
+effective_time:
+  20210420
+version:
+  1
+openfda:

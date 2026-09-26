@@ -1,0 +1,43 @@
+spl_product_data_elements:
+  FIRSTCARE DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE dextromethorphan hydrobromide, doxylamine succinate COCONUT OIL MALTITOL NONCRYSTALLIZING SORBITOL SOLUTION ANHYDROUS CITRIC ACID SUCRALOSE FD&C RED NO. 40 SORBITOL CALCIUM GLUCONATE MONOHYDRATE HYDROXYPROPYL BETADEX SKIM MILK MICROCRYSTALLINE CELLULOSE CORN SYRUP CROSPOVIDONE CROSCARMELLOSE SODIUM MANNITOL CARNAUBA WAX SUCROSE DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN DOXYLAMINE SUCCINATE DOXYLAMINE STARCH, CORN red to dark red mixed berry
+active_ingredient:
+  Active ingredients (in each chewable tablet) Dextromethorphan HBr, USP 30 mg Doxylamine Succinate, USP 12.5 mg
+purpose:
+  Purposes Cough suppressant Antihistamine
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold temporarily relieves these symptoms due to hay fever or other upper respiratory allergies: runny nose sneezing itchy, watery eyes itching of the nose or throat controls the impulse to cough to help you sleep
+warnings:
+  Warnings Do not use to sedate a child or to make a child sleepy if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have trouble urinating due to an enlarged prostate gland glaucoma a cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product do not use more than directed marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use to sedate a child or to make a child sleepy if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.
+ask_doctor:
+  Ask a doctor before use if you have trouble urinating due to an enlarged prostate gland glaucoma a cough that occurs with too much phlegm (mucus) a breathing problem or chronic cough that lasts or as occurs with smoking, asthma, chronic bronchitis or emphysema
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product do not use more than directed marked drowsiness may occur avoid alcoholic drinks alcohol, sedatives, and tranquilizers may increase drowsiness be careful when driving a motor vehicle or operating machinery excitability may occur, especially in children
+stop_use:
+  Stop use and ask a doctor if cough lasts more than 7 days, comes back, or is accompanied by fever, rash, or persistent headache. These could be signs of a serious condition.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Do not take more than the recommended dose adults & children under 12 years and over take 2 chewable tablets with water every 4 hours do not exceed 10 chewable tablets in 24 hours or as directed by a doctor children under 12 years do not use
+storage_and_handling:
+  Other information store in a cool dry place between 20-25°C (68-77°F). Child Resistant Container;do not use if printed seal under cap is broken or missing.
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, calcium gluconate monohydrate, carnauba wax, coconut oil, corn syrup, croscarmellose sodium, crospovidone, FD&C red no. 40, flavor, hydroxypropyl betadex, maltitol solution, mannitol, microcrystalline cellulose, noncrystallizing sorbitol solution, powered milk, sorbitol, starch, sucralose, sucrose
+questions:
+  Questions or comments? Call 1-800-227-6151
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL FIRSTCARETM ***MADE IN USA*** NDC 71594-706-12 Mixed Berry Flavor Dextromethorphan HBr and Doxylamine Succinate 30mg/12.5 mg Fast Effective:Cough Relief 30 Chewables SOFT CHEWS Bottle Label
+set_id:
+  0bbcd796-6d71-4ca3-b03a-b07b6da4dc4b
+id:
+  0ec6bccd-bd3e-8369-e063-6394a90abdd8
+effective_time:
+  20240112
+version:
+  2
+openfda:

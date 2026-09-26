@@ -1,0 +1,31 @@
+effective_time:
+  20170601
+inactive_ingredient:
+  Inactive Ingredients Water
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Warnings For External Use Only Flammable, keep away from fire or flame.
+spl_product_data_elements:
+  STERILE ALCOHOL PREP PADS isopropyl alcohol swab ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL WATER
+openfda:
+version:
+  1
+dosage_and_administration:
+  Uses For preparation of the skin prior to an injection
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops If condition persists for more than 72 hours, consult a physician
+do_not_use:
+  Do not use With electrocautery procedures In the eyes
+package_label_principal_display_panel:
+  100
+indications_and_usage:
+  Direction Wipe injection site vigorously and discard
+set_id:
+  543b6f9c-35f7-19da-e054-00144ff8d46c
+id:
+  543b6f9c-35f8-19da-e054-00144ff8d46c
+active_ingredient:
+  Active Ingredient Isopropyl Alcohol, 70% v/v

@@ -13,17 +13,11 @@ from app.db.accounts import reject_path_id
 from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
 from app.llm.client import generate_answer
-from app.personalization.scorer import score_familiarity
+from app.personalization.scorer import build_summary_content, score_familiarity
 from app.retrieval.index import retrieve
-from app.retrieval.ingest import load_dossiers
 
 router = APIRouter(prefix="/drug", tags=["drug"])
 
-SECTIONS_BY_TIER = {
-    "new": ("Basics", "Warnings"),
-    "returning": ("Dosing", "Side effects", "Warnings"),
-    "expert": ("Trial data", "Interactions", "Dosing"),
-}
 MAX_BULLETS = 3
 
 
@@ -39,34 +33,36 @@ def get_summary(
     hcp: dict = Depends(current_hcp),
     db: Database = Depends(get_db),
 ) -> dict:
+    """
+    Personalized HUD content for a drug, tailored to the HCP's
+    familiarity tier.
+
+    Contract:
+      -> {
+          "drug_id": str,
+          "name": str,
+          "tier": "new" | "returning" | "expert",
+          "headline": str,
+          "bullets": list[str]
+      }
+    """
     assert_same_hcp(hcp, hcp_id)
     drug_id = reject_path_id(drug_id, "drug_id")
     drug = db.drugs.find_one({"_id": drug_id})
     if drug is None:
-        raise HTTPException(status_code=404, detail="Unknown drug_id: %s" % drug_id)
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown drug_id: {drug_id}",
+        )
 
     tier = score_familiarity(hcp["_id"], drug_id, db)
-    dossier = load_dossiers(settings.drug_docs_path).get(drug_id)
-    if dossier is None:
-        return {
-            "drug_id": drug["_id"],
-            "name": drug["name"],
-            "tier": tier,
-            "headline": drug["name"],
-            "bullets": [],
-        }
-
-    bullets = []
-    for section in SECTIONS_BY_TIER[tier]:
-        for bullet in dossier.bullets(section):
-            if bullet not in bullets:
-                bullets.append(bullet)
+    headline, bullets = build_summary_content(drug_id, tier)
 
     return {
         "drug_id": drug["_id"],
-        "name": dossier.name,
+        "name": drug.get("name", drug_id),
         "tier": tier,
-        "headline": dossier.headline or drug["name"],
+        "headline": headline,
         "bullets": bullets[:MAX_BULLETS],
     }
 
@@ -78,23 +74,65 @@ def ask_question(
     hcp: dict = Depends(current_hcp),
     db: Database = Depends(get_db),
 ) -> dict:
+    """
+    Personalized RAG follow-up question.
+
+    The familiarity tier is calculated before the answer is generated,
+    so repeated interactions with the same drug produce progressively
+    more advanced responses.
+    """
     assert_same_hcp(hcp, payload.hcp_id)
     drug_id = reject_path_id(drug_id, "drug_id")
     if db.drugs.find_one({"_id": drug_id}) is None:
-        raise HTTPException(status_code=404, detail="Unknown drug_id: %s" % drug_id)
-    if not payload.query.strip():
-        raise HTTPException(status_code=422, detail="query must not be empty")
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown drug_id: {drug_id}",
+        )
+
+    query = payload.query.strip()
+    if not query:
+        raise HTTPException(
+            status_code=422,
+            detail="query must not be empty",
+        )
 
     tier = score_familiarity(hcp["_id"], drug_id, db)
-    context = retrieve(drug_id, payload.query)
-    answer = generate_answer(payload.query, context, tier)
+
+    try:
+        context = retrieve(drug_id, query)
+    except Exception as exc:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Retrieval failed: {exc}",
+        )
+
+    if not context:
+        raise HTTPException(
+            status_code=404,
+            detail="No relevant information found for this drug.",
+        )
+
+    try:
+        answer = generate_answer(query, context, tier)
+    except ValueError as exc:
+        raise HTTPException(
+            status_code=400,
+            detail=str(exc),
+        )
+    except RuntimeError as exc:
+        raise HTTPException(
+            status_code=502,
+            detail=str(exc),
+        )
+
     db.chats.insert_one(
         {
             "hcp_id": hcp["_id"],
             "drug_id": drug_id,
-            "question": payload.query.strip(),
+            "question": query,
             "answer": answer,
             "asked_at": datetime.now(timezone.utc),
         }
     )
+
     return {"answer_text": answer}

@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  PERFECT CARE 60mL ALCOHOL ALCOHOL ALCOHOL Water Propylene Glycol Glycerin TROLAMINE CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredient: ALCOHOL 70% (v/v)
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water, Propylene Glycol, Glycerlin, Triethanolamine, Carbomer
+purpose:
+  PURPOSE Purpose: Antiseptic
+warnings:
+  WARNINGS Warnings: For external use only. Flammable. Keep away from flame and fire. When using this product Keep out of eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or redness develops and lasts.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children If swallowed, get medical help or contact a Poison Control Center right away.
+indications_and_usage:
+  Uses Uses: Hand sanitizer to help reduce bacteria on the skin. Recommended for repeated use.
+dosage_and_administration:
+  Directions Directions: Put enough product in your palm and rub hands together until dry. For children under 6 years, use only under adult supervision.
+other_safety_information:
+  Other information Other information: Store below 110°F (43°C) may discolor some fabrics or surfaces
+package_label_principal_display_panel:
+  PACKAGE LABEL - PERFECT CARE GEL 60mL Bottle Image of bottle
+set_id:
+  67cd3033-762b-4957-8b60-9488119e68a1
+id:
+  e881e78b-7fa0-4b31-b1bc-2c5416091447
+effective_time:
+  20230407
+version:
+  2
+openfda:

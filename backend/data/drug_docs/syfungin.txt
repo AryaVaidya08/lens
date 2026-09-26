@@ -1,0 +1,36 @@
+effective_time:
+  20160126
+inactive_ingredient:
+  Inactive ingredients beet oil plant based , cellulose , lactose
+purpose:
+  Purpose Fungal infections
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings Stop use and ask a doctor if symptoms persist. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  SyFungin CANDIDA PARAPSILOSIS CANDIDA PARAPSILOSIS CANDIDA PARAPSILOSIS Lactose Powdered Cellulose Beet Juice
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Adults: Dissolve 1 tablet in mouth or under tongue between meals, 3 times daily, or as directed by a licensed practitioner. Consult a practitioner about children's dosages.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+spl_unclassified_section:
+  Drug Facts
+  DISTRIBUTED BY: BioResource Inc., Cotati, CA 94931
+stop_use:
+  Stop use and ask a doctor if symptoms persist.
+storage_and_handling:
+  Other information Store at 15-25ºC (59-77ºF). To report serious adverse events, contact BioResource, 321B Blodgett St., Cotati, CA 94931. Rev. 08/14
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Carton Syntrion ® SyFungin For gut dysbiosis and fungal infections Homeopathic Medicine 90 tablets Available through practitioners only PRINCIPAL DISPLAY PANEL - 90 Tablet Bottle Carton
+indications_and_usage:
+  Uses For treatment of gut dysbiosis fungal infections
+set_id:
+  6d512e9f-5403-4c6d-b17c-c522601768ed
+id:
+  20fab166-f103-4749-94a5-e3e909ac2ed8
+active_ingredient:
+  Active ingredient Candida parapsilosis 3X 10%

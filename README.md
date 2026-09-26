@@ -73,7 +73,7 @@ Verify it's up: `curl http://localhost:8000/health` should return `{"status": "o
 - curate the large directroy of DRUG_NAME/DRUG_ID.txt files that describe everything about the drug using the openFDA dataset
 - convert the entire thing into vector embeddings so that it can be used for RAG later
 
-### Revant (Backend):
+### Revanth (Backend):
 
-- Build the FastAPI routes with error chekcing between the app and the backend as well as between the backend to the Grok LLM
-- Make sure that the grok LLM uses RAG when reseraching information about the drug
+- Build the FastAPI routes with error checking between the app and the backend as well as between the backend to the Grok LLM
+- Make sure that the grok LLM uses RAG when researching information about the drug

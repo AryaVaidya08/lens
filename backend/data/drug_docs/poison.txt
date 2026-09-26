@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  POISON OAK AND IVY HYDROCORTISONE, PHENOL ALCOHOL CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) ALOE VERA LEAF BENZYL ALCOHOL FD&C BLUE NO. 1 LEMON JUICE WITCH HAZEL AMINOMETHYL PROPANEDIOL WATER HYDROCORTISONE HYDROCORTISONE PHENOL PHENOL
+active_ingredient:
+  HYDROCORTISONE (1%) PHENOL (0.538%)
+purpose:
+  PURPOSE EXTERNAL ANALGESIC ASTRINGENT
+indications_and_usage:
+  USES: POISON OAK, POISON SUMAC, POISON IVY, MOSQUITO BITES, OTHER ALLERGIC RASHES.
+warnings:
+  WARNINGS: FOR EXTERNAL USE ONLY. DO NOT USE ON EEP OR PUNCTURE WOUNDS, ANIMAL BITES, OR SERIOUS BURNS.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. IN CASE OF OVERDOSE, GET MEDICAL HELP ORCONTACT A POISON CONTROL CENTER RIGHT AWAY.
+dosage_and_administration:
+  DIRECTIONS FOR USE: APPLY DIRECTLY TO THE RASH AREA 3 TO 5 TIMES DAILY OR AS NEEDED FOR THE RELIEF OF ITCHING, REDNESS OR WEEPING.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: SD Alcohol 40-B, Aqua, Witch Hazel Distillate, Alcohol (Ethanol-Natural Grain USP), Acrylates/C10-30, Alkyl Acrylate Crosspolymer, Aminomethyl Propanol, *CO Aloe Vera Leaf Powder, Citrus Limon (Lemon) Peel Oil, Benzyl Alcohol, Blue 1 *CO certified organic
+when_using:
+  When using this product • Avoid getting in eyes or mucus membranes. If contact occurs rinse thoroughly with water. • Discontinue use if allergic to any of the components.
+stop_use:
+  Stop use and ask a doctor if • condition worsens • symptoms last more than 7 days or clear up and occur again within a few days.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, ask a health professional before use.
+package_label_principal_display_panel:
+  Picture1
+set_id:
+  03aeed00-2027-0b57-e063-6394a90a8b47
+id:
+  03aeed00-2028-0b57-e063-6394a90a8b47
+effective_time:
+  20230824
+version:
+  1
+openfda:

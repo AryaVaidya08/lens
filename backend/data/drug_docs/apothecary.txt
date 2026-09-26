@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  APOTHECARY HOME BENZALKONIUM CHLORIDE WATER SODIUM LAURETH SULFATE COCAMIDOPROPYL BETAINE SODIUM CHLORIDE SODIUM BENZOATE PHENOXYETHANOL POLYSORBATE 20 GLYCERIN BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active ingredient Benzalkonium Chloride 0.13% Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Use help elimate bacteria on hands
+warnings:
+  Warnings For external use only . When using this product do not use in or near the eyes. In case of contact, rinse eyes throughly with water. Keep out of reach of children, except under adult supervision. If swallowed, get medical help or contact a Poison Control Center right away.
+stop_use:
+  
+keep_out_of_reach_of_children:
+  Keep out of reach of children, except under adult supervision. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wash hans and rinse
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Sodium Benzoate, Phenoxyethanol, Polysorbate 20, Fragrance, Glycerin
+package_label_principal_display_panel:
+  Principal Display Panel image description
+set_id:
+  a745afe2-c06f-4f92-96e8-8465487cb11f
+id:
+  ea639d1c-7b3a-6e90-e053-2995a90abdf0
+effective_time:
+  20221006
+version:
+  3
+openfda:

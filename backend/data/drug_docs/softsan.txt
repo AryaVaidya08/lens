@@ -1,0 +1,31 @@
+effective_time:
+  20101230
+inactive_ingredient:
+  Drug Facts Box OTC-Inactive Ingredient Section Water, Cetearyl Isononanoate, Ceteareth-20, Cetearyl Alcohol, Glyceryl Stearate, Glycerin, Ceteareth-12, Cetyl Palmitate, Carbomer, Diisopropylamine, Sodium Styrene/PEG-10 Maleate/Nonoxynol-10 Maleate/Acrylates Copolymer, Methylparaben, Propylparaben, fragrance, Tocopheryl Acetate, Aloe Barbadensis
+purpose:
+  Drug Facts Box OTC-Purpose Section Antiseptic
+keep_out_of_reach_of_children:
+  Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away
+warnings:
+  Drug Facts Box OTC-Warnings Section FLAMMABLE, keep away from fire and flames For external use only
+when_using:
+  Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water
+spl_product_data_elements:
+  SoftSan ALCOHOL ALCOHOL ALCOHOL WATER CARBOMER 934 PROPYLPARABEN ALOE VERA LEAF .ALPHA.-TOCOPHEROL ACETATE, DL- METHYLPARABEN DIISOPROPYLAMINE CETEARYL ISONONANOATE CETEARETH-12 CETOSTEARYL ALCOHOL GLYCERYL MONOSTEARATE CETYL PALMITATE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Drug Facts Box OTC-Dosage & Administration Section wet hands thoroughly with product and allow to dry without wiping
+stop_use:
+  Drug Facts Box OTC-Stop Use Section irritation and redness develop
+package_label_principal_display_panel:
+  SoftSan 6938 18oz 693818PA.jpg SoftSan 18oz image of bottle label
+indications_and_usage:
+  Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin, only when water is not available
+set_id:
+  f0290ed9-78e5-4c39-b897-499a29660ba7
+id:
+  1012ed5e-47c5-4b75-9467-8ec4b5a16f28
+active_ingredient:
+  Drug Facts Box OTC-Active Ingredient Section Ethyl Alcohol 62%

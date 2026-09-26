@@ -4,7 +4,7 @@ FastAPI application entrypoint.
 Wires together all route modules behind one app instance. This is the
 file `uvicorn app.main:app` points at.
 
-Route ownership (see docs/team-context/ for the full breakdown):
+Route ownership:
   - auth.py        -> HCP register + email login
   - profile.py     -> HCP profile, chats, patient folder list
   - patients.py    -> read-only charts + clinic/EHR sync
@@ -12,11 +12,15 @@ Route ownership (see docs/team-context/ for the full breakdown):
   - drug.py        -> personalized summary + RAG/LLM follow-up Q&A
   - engagement.py  -> engagement touch-count logging
 
-`GET /health` is intentionally real (not a stub) so deployment can be
-verified independently of everything else being finished.
+`GET /health` is intentionally real so deployment can be verified
+independently of everything else being finished.
 """
 
+from __future__ import annotations
+
 import logging
+
+import os
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
@@ -35,6 +39,10 @@ logger = logging.getLogger("uvicorn.error")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    """
+    Initialize MongoDB and the drug retrieval index at startup, then
+    close the MongoDB client during shutdown.
+    """
     db = get_database()
     info = store_info()
     logger.info(
@@ -45,16 +53,33 @@ async def lifespan(app: FastAPI):
     )
     if settings.seed_on_startup:
         seed(db)
+
     ensure_indexes(db)
-    index.load(ingest_docs(settings.drug_docs_path))
+
+    # Preserve the llm-rag SKIP_INGEST switch so large corpus ingestion
+    # can be skipped during development when the index is already loaded.
+    if os.environ.get("SKIP_INGEST") != "1":
+        try:
+            chunks = ingest_docs(settings.drug_docs_path)
+            index.load(chunks)
+            print(f"Loaded {len(chunks)} drug-document chunks.")
+        except FileNotFoundError as exc:
+            print(f"Drug document ingestion skipped: {exc}")
+    else:
+        print("Drug document ingestion skipped (SKIP_INGEST=1).")
+
     yield
+
     close_client()
 
 
-# Slash redirects turn POST /detect/ into GET /detect and drop the body.
-# The iOS client doesn't add a trailing slash; this keeps a stray one from
-# looking like a dead backend.
-app = FastAPI(title="HCP Spatial Copilot", lifespan=lifespan, redirect_slashes=False)
+# Disable automatic slash redirects because redirects can turn a POST
+# request into a GET and discard the request body.
+app = FastAPI(
+    title="HCP Spatial Copilot",
+    lifespan=lifespan,
+    redirect_slashes=False,
+)
 
 app.include_router(auth.router)
 app.include_router(profile.router)
@@ -74,9 +99,7 @@ def health() -> dict:
 @app.get("/status")
 def status() -> dict:
     """
-    Reports how the two swap points are actually running, so a demo machine
-    that silently fell back to offline retrieval or offline answers is visible
-    from one curl instead of from the logs.
+    Reports how the retrieval, LLM, and database layers are running.
     """
     body = {
         "indexed_chunks": index.chunk_count(),

@@ -1,0 +1,36 @@
+spl_product_data_elements:
+  ECOPURE HAND SANITIZER ALCOHOL WATER PROPYLENE GLYCOL GLYCERIN HYDROGEN PEROXIDE ALOE VERA LEAF TROLAMINE FD&C BLUE NO. 1 FD&C YELLOW NO. 5 ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store at a temperature below 106° degrees F (41° C)
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 72% v/v Purpose Antimicrobial
+purpose:
+  Purpose Antimicrobial
+indications_and_usage:
+  Uses to help reduce germs and bacteria on the skin
+warnings:
+  Warnings For external use only Flammable Keep away from sources of fire or heat Do not ingest When using this product avoid contact with eyes. If contact with eyes occurs, rinse thoroughly with clean water. STOP AND CONSULT YOUR DOCTOR If irritation or redness occurs Keep out of Reach of Children. In case of accidental ingestion contact the your local or national poison control center immediately 1-800-222-1222
+when_using:
+  When using this product avoid contact with eyes. If contact with eyes occurs, rinse thoroughly with clean water.
+stop_use:
+  STOP AND CONSULT YOUR DOCTOR If irritation or redness occurs
+keep_out_of_reach_of_children:
+  Keep out of Reach of Children. In case of accidental ingestion contact the your local or national poison control center immediately 1-800-222-1222
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub together vigorously until dry.
+questions:
+  Questions or comments: 888-735-3621
+inactive_ingredient:
+  Inactive ingredients: Water, Propylene Glycol, Glycerin, Acrylic Resin, Hydrogen Peroxide, Aloe Vera (Extract), Triethanolamine, Fragrance, FD&C Blue #1 and Yellow #5
+package_label_principal_display_panel:
+  Package Labeling: Bottle2
+set_id:
+  cd16d063-52d7-4841-9936-4b0a16d7ccd1
+id:
+  ad07b977-a526-f12b-e053-2a95a90a6aa1
+effective_time:
+  20200816
+version:
+  2
+openfda:

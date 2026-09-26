@@ -1,0 +1,68 @@
+effective_time:
+  20110314
+drug_interactions:
+  Interactions Drug Interactions Pyridoxine supplements should not be given to patients receiving levodopa, because the action of the latter drug is antagonized by pyridoxine. However, this vitamin may be used concurrently in patients receiving a preparation containing both carbidopa and levodopa. Concurrent use of phenytoin and folic acid may result in decreased phenytoin effectiveness. Drug/Laboratory Test Interactions
+  Drug Interactions Pyridoxine supplements should not be given to patients receiving levodopa, because the action of the latter drug is antagonized by pyridoxine. However, this vitamin may be used concurrently in patients receiving a preparation containing both carbidopa and levodopa. Concurrent use of phenytoin and folic acid may result in decreased phenytoin effectiveness.
+geriatric_use:
+  Geriatric Use
+abuse:
+  Abuse
+precautions:
+  PRECAUTIONS Folacin (folic acid) when administered as a single agent in doses above 0.1 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations remain progressive. The 1 mg of cyanocobalamin contained in Diatx® has been shown to provide an adequate amount of cyanocobalamin to address this precaution. General Information for Patients Diatx® tablets are a medical food, for use only under the direction and supervision of a licensed physician. Laboratory Tests Interactions Drug Interactions Pyridoxine supplements should not be given to patients receiving levodopa, because the action of the latter drug is antagonized by pyridoxine. However, this vitamin may be used concurrently in patients receiving a preparation containing both carbidopa and levodopa. Concurrent use of phenytoin and folic acid may result in decreased phenytoin effectiveness. Drug/Laboratory Test Interactions Carcinogenesis, Mutagenesis, Impairment of Fertility Pregnancy Teratogenic Effects Nonteratogenic Effects Labor and Delivery Nursing Mothers Pediatric Use Geriatric Use
+description:
+  DESCRIPTION Each round, coated, yellow colored tablet contains: Active Ingredients: Folacin (Folic Acid) ........................... 5 mg Thiamine (B 1 ) ................................... 1.5 mg Riboflavin (B 2 ) .................................. 1.5 mg Niacinamide (B 3 ) ............................... 20 mg Pantothenic acid (B 5 ) ......................... 10 mg Pyridoxine (B 6 ) .................................. 50 mg Cyanocobalamin (B 12 ) ....................... 1 mg Ascorbic Acid (C) ............................. 60 mg D-biotin ........................................... 300 mcg Inactive Ingredients: Microcrystalline Cellulose, Sodium Starch Glycolate, Yellow Mineral Coating, Silicon Dioxide, Stearic Acid Vegetable Source, Calcium Stearate Vegetable Source, Hydroxypropyl Methylcellulose and Hydroxypropyl Cellulose. Diatx® tablets do not contain dye, sugar, lactose, yeast, or gluten.
+labor_and_delivery:
+  Labor and Delivery
+general_precautions:
+  General
+indications_and_usage:
+  INDICATIONS AND USAGE Diatx® tablets are indicated for the distinct nutritional requirements of patients under a physician's treatment for chronic kidney disease (CKD), end stage renal disease (ESRD), dialysis or hyperhomocysteinemia.
+dependence:
+  Dependence
+set_id:
+  63d77164-28c5-40a4-b496-56981587ba0b
+id:
+  63d77164-28c5-40a4-b496-56981587ba0b
+teratogenic_effects:
+  Teratogenic Effects
+pediatric_use:
+  Pediatric Use
+contraindications:
+  CONTRAINDICATIONS Known hypersensitivity to any of the components in the product is a contraindication.
+drug_abuse_and_dependence:
+  DRUG ABUSE AND DEPENDENCE Controlled Substance Abuse Dependence
+warnings:
+  WARNINGS
+pregnancy:
+  Pregnancy Teratogenic Effects Nonteratogenic Effects
+nursing_mothers:
+  Nursing Mothers
+spl_product_data_elements:
+  DIATX WATER SOLUBLE VITAMINS FOLIC ACID FOLIC ACID ASCORBIC ACID ASCORBIC ACID THIAMINE MONONITRATE THIAMINE RIBOFLAVIN RIBOFLAVIN NIACINAMIDE NIACINAMIDE PYRIDOXINE HYDROCHLORIDE PYRIDOXINE CYANOCOBALAMIN CO-57 CYANOCOBALAMIN CO-57 CALCIUM PANTOTHENATE CALCIUM PANTOTHENATE BIOTIN BIOTIN CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A POTATO SILICON DIOXIDE STEARIC ACID CALCIUM STEARATE PAL;5
+drug_and_or_laboratory_test_interactions:
+  Drug/Laboratory Test Interactions
+openfda:
+controlled_substance:
+  Controlled Substance
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Usual adult dose is one tablet daily or as directed by a physician. For dialysis patients, Diatx®· should be taken after dialysis treatment.
+adverse_reactions:
+  ADVERSE REACTIONS Allergic sensitization has been reported following both oral and parenteral administration of folic acid. Paresthesia and somnolence have been reported with pyridoxine. Mild transient diarrhea, polycythemia vera, itching transitory exanthema and feeling of swelling of the entire body has been associated with cyanocobalamin.
+laboratory_tests:
+  Laboratory Tests
+how_supplied:
+  HOW SUPPLIED Available as a round, coated, yellow colored tablet. Debossed with "PAL" on one side and "5" on the other. Supplied in bottles of 90 tablets. Store at controlled room temperature between 59 o ·86 o F (15 o -30 o C). Protect from light and moisture. Dispense in original light-resistant container with child-resistant closure. NDC # 00525-0316-90
+information_for_patients:
+  Information for Patients Diatx® tablets are a medical food, for use only under the direction and supervision of a licensed physician.
+package_label_principal_display_panel:
+  PACKAGE/LABEL PRINCIPAL DISPLAY PANEL CONTAINER LABEL 6732 CL
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, Impairment of Fertility
+nonteratogenic_effects:
+  Nonteratogenic Effects
+overdosage:
+  OVERDOSAGE

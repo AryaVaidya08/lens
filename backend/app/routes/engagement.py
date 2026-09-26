@@ -27,6 +27,16 @@ def log_engagement(
     hcp: dict = Depends(current_hcp),
     db: Database = Depends(get_db),
 ) -> dict:
+    """
+    Increments touch count for an (hcp_id, drug_id) pair and updates
+    last_seen.
+
+    Called once per successful detect -> summary cycle.
+
+    Contract:
+      <- { "hcp_id": str, "drug_id": str }
+      -> { "touch_count": int }
+    """
     assert_same_hcp(hcp, payload.hcp_id)
     drug_id = reject_path_id(payload.drug_id, "drug_id")
     if db.drugs.find_one({"_id": drug_id}) is None:
@@ -44,5 +54,7 @@ def log_engagement(
         },
         upsert=True,
     )
+
     row = db.engagements.find_one({"_id": key})
+
     return {"touch_count": row["touch_count"]}

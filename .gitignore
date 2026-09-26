@@ -7,6 +7,10 @@ xcuserdata/
 DerivedData/
 *.xcuserstate
 
+#Frontend
+node_modules
+frontend/node_modules/
+
 # Python
 __pycache__/
 *.pyc
@@ -15,6 +19,7 @@ venv/
 
 # Secrets / local data
 .env
+.env.*
 *.db
 
 # Training photos are large, numerous, and personal — collect them

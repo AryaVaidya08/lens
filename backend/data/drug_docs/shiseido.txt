@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  SHISEIDO REFINING MAKEUP PRIMER OCTINOXATE and TITANIUM DIOXIDE OCTINOXATE OCTINOXATE TITANIUM DIOXIDE TITANIUM DIOXIDE CYCLOMETHICONE WATER DIPROPYLENE GLYCOL SILICON DIOXIDE GLYCERIN POLYMETHYLSILSESQUIOXANE (4.5 MICRONS) PEG-10 DIMETHICONE (600 CST) ALUMINUM DISTEARATE ALUMINUM HYDROXIDE PHENOXYETHANOL ISOSTEARIC ACID TRIMETHYLSILOXYSILICATE (M/Q 0.6-0.8) FERRIC OXIDE RED FERRIC OXIDE YELLOW MICA EDETATE TRISODIUM BUTYLATED HYDROXYTOLUENE LAVENDER OIL TOCOPHEROL METHICONE (20 CST) TETRADECENE
+spl_unclassified_section:
+  Drug Facts
+  SHISEIDO AMERICA INC. NEW YORK, N.Y. 10022
+active_ingredient:
+  Active ingredients Purpose OCTINOXATE 4.9% Sunscreen TITANIUM DIOXIDE 7.4% Sunscreen
+active_ingredient_table:
+  <table width="50%"><col width="70%" align="left" valign="top"/><col width="30%" align="left" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>OCTINOXATE 4.9%</td><td>Sunscreen</td></tr><tr><td>TITANIUM DIOXIDE 7.4%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active ingredients Purpose OCTINOXATE 4.9% Sunscreen TITANIUM DIOXIDE 7.4% Sunscreen
+purpose_table:
+  <table width="50%"><col width="70%" align="left" valign="top"/><col width="30%" align="left" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>OCTINOXATE 4.9%</td><td>Sunscreen</td></tr><tr><td>TITANIUM DIOXIDE 7.4%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure use a water resistant sunscreen if swimming or sweating reapply at least every 2 hours Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeve shirts, pants, hats, and sunglasses children under 6 months: Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients CYCLOMETHICONE, WATER, DIPROPYLENE GLYCOL , SILICA , GLYCERIN , POLYMETHYLSILSESQUIOXANE , POLYMETHYL METHACRYLATE , DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, PEG-10 DIMETHICONE, DISTEARDIMONIUM HECTORITE, TRIMETHYLSILOXYSILICATE, PEG/PPG-36/41 DIMETHYL ETHER, LAVANDULA ANGUSTIFOLIA (LAVENDER) OIL, ALUMINUM DISTEARATE, ALUMINUM HYDROXIDE, ISOSTEARIC ACID, TRISODIUM EDTA, DIPENTAERYTHRITYL HEXAHYDROXYSTEARATE, POLYSILICONE-2 , BHT, TOCOPHEROL, METHICONE, TETRADECENE, PHENOXYETHANOL, IRON OXIDES, MICA, TITANIUM DIOXIDE
+storage_and_handling:
+  Other information protect this product in this container from excessive heat and direct sun.
+questions:
+  Questions or comments? Call toll free 1-800-906-7503
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 30mL Tube Carton S HI S EIDO Refining Makeup Primer BROAD SPECTRUM SPF 21 sunscreen 30mL NET WT. 1.1 OZ. Principal Display Panel - 30mL Tube Carton
+set_id:
+  e50b8851-47c8-4e6a-b974-bf804b412ada
+id:
+  a9dfdc89-f428-4b8d-b138-0f06038a76bc
+effective_time:
+  20231017
+version:
+  3
+openfda:

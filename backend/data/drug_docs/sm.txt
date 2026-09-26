@@ -1,0 +1,27 @@
+effective_time:
+  20200730
+inactive_ingredient:
+  purified water, non-woven fabric
+purpose:
+  sterilization of hands, skin and so on
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+warnings:
+  ■ Flammable. Keep away from fire or flame. ■ For external use only. ■ Do not use in eyes. ■ lf swallowed, get medical help promptly. ■ Stop use, ask doctor lf irritation occurs. ■ Keep out of reach of children.
+spl_product_data_elements:
+  SM SWABALPHA ethanol WATER ALCOHOL ALCOHOL
+openfda:
+version:
+  2
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  take appropriate amount on the hand, rub and dry well
+set_id:
+  abb44eec-e8d1-0ec0-e053-2995a90aaa73
+id:
+  abb561c7-4187-4c7a-e053-2a95a90a0778
+active_ingredient:
+  ethanol
