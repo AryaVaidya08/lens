@@ -7,6 +7,10 @@ xcuserdata/
 DerivedData/
 *.xcuserstate
 
+#Backend
+**/.embedding_cache.keys.json
+**/.embedding_cache.npz
+
 #Frontend
 node_modules
 frontend/node_modules/
