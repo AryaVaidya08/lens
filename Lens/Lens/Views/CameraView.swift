@@ -3,12 +3,12 @@
 //
 //  Hosts the live camera feed via ARSessionManager, which runs a staged
 //  detection pipeline (object detector -> barcode -> OCR text fallback —
-//  see ARSessionManager's doc comment). This view draws the object
-//  bounding box as soon as something's detected, then shows HUDOverlayView
-//  once a barcode or text off of it resolves to a drug — positioned to one
-//  side of the bounding box, gliding smoothly as it moves and fading out
-//  if the object goes out of view (see ARSessionManager's design note on
-//  why this is 2D screen tracking rather than a 3D-anchored node).
+//  see ARSessionManager's doc comment). This view shows HUDOverlayView
+//  once a barcode or text off the detected object resolves to a drug —
+//  positioned near the top-right of where the object was seen, gliding
+//  smoothly as it moves and fading out if the object goes out of view
+//  (see ARSessionManager's design note on why this is 2D screen tracking
+//  rather than a 3D-anchored node).
 //
 //  Owned by: AR & detection lane.
 //
@@ -82,10 +82,6 @@ struct CameraView: View {
     @State private var summary: DrugSummary?
     @State private var loadingDrugId: String?
 
-    /// Debug aid so detection accuracy is visible while tuning — flip to
-    /// `false` before the real demo.
-    private let showDebugBoundingBox = true
-
     var body: some View {
         GeometryReader { geometry in
             ZStack {
@@ -93,24 +89,6 @@ struct CameraView: View {
                     updateSession(.layoutReady)
                 }
                 .ignoresSafeArea()
-
-                if showDebugBoundingBox, let objectBox = arManager.objectBoundingBox {
-                    // Shows as soon as ObjectDetector finds something in
-                    // frame — before a barcode/text has necessarily been
-                    // read off of it yet, so this doubles as a "yes, I see
-                    // your bottle" cue distinct from the info bubble below.
-                    Rectangle()
-                        .stroke(Color.green, lineWidth: 3)
-                        .frame(
-                            width: objectBox.width * geometry.size.width,
-                            height: objectBox.height * geometry.size.height
-                        )
-                        .position(
-                            x: objectBox.midX * geometry.size.width,
-                            y: objectBox.midY * geometry.size.height
-                        )
-                        .animation(.easeOut(duration: 0.25), value: objectBox)
-                }
 
                 if let detection = arManager.activeDetection {
                     let scale = proximityScale(for: detection.screenAnchor)
