@@ -13,3 +13,12 @@ struct HCP: Codable, Identifiable {
     // TODO: implement — add `familiarity: [String: String]` (drug_id ->
     // tier) once routes/profile.py returns it.
 }
+
+extension HCP {
+    /// Local demo identities. Keep these IDs when backend seeding is connected.
+    static let demoProfiles: [HCP] = [
+        HCP(id: "hcp_001", name: "Dr. Maya Patel", specialty: "Primary Care"),
+        HCP(id: "hcp_002", name: "Dr. James Chen", specialty: "Cardiology"),
+        HCP(id: "hcp_003", name: "Dr. Sofia Ramirez", specialty: "Endocrinology")
+    ]
+}

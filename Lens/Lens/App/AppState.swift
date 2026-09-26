@@ -9,12 +9,41 @@
 //
 
 import Foundation
+import Combine
 
+@MainActor
 final class AppState: ObservableObject {
-    @Published var selectedHCP: HCP?
+    @Published var selectedHCP: HCP? {
+        didSet {
+            if let selectedHCP {
+                defaults.set(selectedHCP.id, forKey: Self.profileCacheKey)
+            } else {
+                defaults.removeObject(forKey: Self.profileCacheKey)
+            }
+            if oldValue?.id != selectedHCP?.id {
+                currentDrug = nil
+                familiarityTier = nil
+            }
+        }
+    }
     @Published var currentDrug: Drug?
     @Published var familiarityTier: String?
 
-    // TODO: implement — add any additional shared state views need
-    // (e.g. isDetecting, lastError) as the feature comes together.
+    static let profileCacheKey = "lens.selectedHCPID"
+    private let defaults: UserDefaults
+
+    init(defaults: UserDefaults = .standard) {
+        self.defaults = defaults
+        let savedID = defaults.string(forKey: Self.profileCacheKey)
+        selectedHCP = HCP.demoProfiles.first { $0.id == savedID }
+        if selectedHCP == nil {
+            defaults.removeObject(forKey: Self.profileCacheKey)
+        }
+    }
+
+    func logOut() {
+        selectedHCP = nil
+        currentDrug = nil
+        familiarityTier = nil
+    }
 }

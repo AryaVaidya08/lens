@@ -9,6 +9,7 @@
 //
 
 import ARKit
+import Combine
 import SceneKit
 
 /// Result of a successful on-device detection, handed to the AR layer

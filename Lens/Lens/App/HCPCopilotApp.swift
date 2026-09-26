@@ -1,9 +1,8 @@
 //
 //  App entry point.
 //
-//  Launches straight into PersonaPickerView — there's no auth, so the
-//  persona pick *is* the login step. Owns the single AppState instance
-//  shared down through the view hierarchy.
+//  Restores the saved demo profile or presents the persona picker.
+//  Owns the single AppState instance shared through the view hierarchy.
 //
 //  Owned by: AR & detection lane (shell) / whole team (shared state).
 //
@@ -16,10 +15,15 @@ struct HCPCopilotApp: App {
 
     var body: some Scene {
         WindowGroup {
-            // TODO: implement — inject appState as an environmentObject
-            // and show PersonaPickerView first.
-            PersonaPickerView()
-                .environmentObject(appState)
+            Group {
+                if let profile = appState.selectedHCP {
+                    MainView()
+                        .id(profile.id)
+                } else {
+                    PersonaPickerView()
+                }
+            }
+            .environmentObject(appState)
         }
     }
 }
