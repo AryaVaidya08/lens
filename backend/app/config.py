@@ -10,22 +10,49 @@ import os
 from pathlib import Path
 
 BACKEND_DIR = Path(__file__).resolve().parent.parent
+HOME_MONGO_ENV = Path.home() / ".lens-mongodb.env"
+ACCOUNTS_COLLECTION = "hcps"
 
 
-def _load_dotenv() -> None:
-    """Load backend/.env into os.environ without overwriting values already set."""
-    path = BACKEND_DIR / ".env"
+def _apply_env_line(raw: str, environ: dict) -> None:
+    line = raw.strip()
+    if line.startswith("export "):
+        line = line[7:].strip()
+    if not line or line.startswith("#") or "=" not in line:
+        return
+    key, value = line.split("=", 1)
+    key = key.strip()
+    value = value.strip().strip("'").strip('"')
+    if key and key not in environ:
+        environ[key] = value
+
+
+def _load_env_file(path: Path, environ: dict) -> None:
     if not path.is_file():
         return
     for raw in path.read_text().splitlines():
-        line = raw.strip()
-        if not line or line.startswith("#") or "=" not in line:
-            continue
-        key, value = line.split("=", 1)
-        key = key.strip()
-        value = value.strip().strip("'").strip('"')
-        if key and key not in os.environ:
-            os.environ[key] = value
+        _apply_env_line(raw, environ)
+
+
+def _load_dotenv() -> None:
+    """Load Mongo settings without clobbering values already in the process.
+
+    backend/.env first, then ~/.lens-mongodb.env for any keys still unset.
+    Tests set MONGODB_URI before import, so they keep mongomock.
+    """
+    _load_env_file(BACKEND_DIR / ".env", os.environ)
+    _load_env_file(HOME_MONGO_ENV, os.environ)
+
+
+def mongodb_kind(uri: str) -> str:
+    text = (uri or "").lower()
+    if text.startswith("mongomock"):
+        return "mongomock"
+    if "mongodb.net" in text or text.startswith("mongodb+srv://"):
+        return "atlas"
+    if "127.0.0.1" in text or "localhost" in text:
+        return "localhost"
+    return "other"
 
 
 _load_dotenv()
@@ -47,6 +74,7 @@ class Settings:
             "MONGODB_URI", "mongodb://127.0.0.1:27017"
         )
         self.mongodb_db: str = os.environ.get("MONGODB_DB", "lens")
+        self.accounts_collection: str = ACCOUNTS_COLLECTION
         # Kept so older scripts that still export DATABASE_URL do not crash.
         self.database_url: str = os.environ.get("DATABASE_URL", "")
 
@@ -73,6 +101,10 @@ class Settings:
     @property
     def llm_enabled(self) -> bool:
         return bool(self.llm_api_key)
+
+    @property
+    def mongodb_kind(self) -> str:
+        return mongodb_kind(self.mongodb_uri)
 
 
 settings = Settings()

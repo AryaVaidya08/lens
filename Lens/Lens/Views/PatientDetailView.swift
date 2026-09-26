@@ -5,6 +5,20 @@ struct PatientDetailView: View {
 
     var body: some View {
         List {
+            Section {
+                NavigationLink {
+                    MedicationReviewsView(patient: patient)
+                } label: {
+                    Label("Medication Review", systemImage: "pills")
+                }
+                .accessibilityIdentifier("patient.medicationReviews")
+                NavigationLink {
+                    MedicationAccessView(patient: patient)
+                } label: {
+                    Label("Medication Access", systemImage: "doc.text.magnifyingglass")
+                }
+                .accessibilityIdentifier("patient.medicationAccess")
+            }
             Section("Chart") {
                 LabeledContent("Name", value: patient.displayName)
                 LabeledContent("Age", value: patient.age.map(String.init) ?? "—")
@@ -32,7 +46,7 @@ struct PatientDetailView: View {
         }
         .navigationTitle(patient.displayName)
         .safeAreaInset(edge: .bottom) {
-            Text("Read-only. Updates come from the clinic or hospital database.")
+            Text("Chart is read-only. Medication reviews and access cases are saved separately.")
                 .font(.footnote)
                 .foregroundStyle(.secondary)
                 .frame(maxWidth: .infinity)

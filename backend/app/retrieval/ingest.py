@@ -93,13 +93,24 @@ def load_dossiers(folder_path: str) -> dict[str, Dossier]:
     tier-appropriate HUD content), and ingest_docs below (to build the index),
     so the docs folder stays the single source of drug content.
     """
-    folder = Path(folder_path)
+    try:
+        folder = Path(folder_path).resolve()
+    except OSError:
+        return {}
     if not folder.is_dir():
         return {}
-    return {
-        path.stem: parse_dossier(path)
-        for path in sorted(folder.glob("*.txt"))
-    }
+    dossiers = {}
+    for path in sorted(folder.glob("*.txt")):
+        try:
+            resolved = path.resolve()
+        except OSError:
+            continue
+        if resolved != folder and folder not in resolved.parents:
+            continue
+        if ".." in path.stem or "/" in path.stem or "\\" in path.stem:
+            continue
+        dossiers[path.stem] = parse_dossier(resolved)
+    return dossiers
 
 
 def ingest_docs(folder_path: str) -> list[Chunk]:

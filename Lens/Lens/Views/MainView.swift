@@ -78,10 +78,18 @@ struct MainView: View {
             .padding(.bottom, 6)
         }
         .task {
+            APIClient.shared.sessionToken = appState.sessionToken
             guard let id = appState.selectedHCP?.id else { return }
-            if let profile = try? await APIClient.shared.getProfile(hcpId: id),
-               appState.selectedHCP?.id == profile.id {
-                appState.selectedHCP = profile
+            do {
+                let profile = try await APIClient.shared.getProfile(hcpId: id)
+                if appState.selectedHCP?.id == profile.id {
+                    appState.selectedHCP = profile
+                }
+            } catch let error as APIError where error.requiresReauthentication {
+                APIClient.shared.clearSession()
+                appState.logOut()
+            } catch {
+                // Keep the cached profile if the refresh fails for a transient reason.
             }
         }
         .onChange(of: selectedTab) { _, tab in

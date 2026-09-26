@@ -22,6 +22,9 @@ def sync_clinic_records(db: Optional[Database] = None, hcp_id: Optional[str] = N
     by_hcp = {}  # type: Dict[str, List[str]]
     for row in records:
         owner = row["hcp_id"]
+        existing = db.patients.find_one({"_id": row["_id"]})
+        if existing is not None and existing.get("hcp_id") != owner:
+            continue
         db.patients.update_one({"_id": row["_id"]}, {"$set": row}, upsert=True)
         by_hcp.setdefault(owner, []).append(row["_id"])
     for owner, ids in by_hcp.items():

@@ -7,7 +7,7 @@ import re
 from typing import Optional
 
 from fastapi import APIRouter, Depends, HTTPException
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pymongo.database import Database
 
 from app.config import settings
@@ -21,8 +21,8 @@ _FUZZY_CUTOFF = 0.72
 
 
 class DetectRequest(BaseModel):
-    barcode: Optional[str] = None
-    ocr_text: Optional[str] = None
+    barcode: Optional[str] = Field(default=None, max_length=128)
+    ocr_text: Optional[str] = Field(default=None, max_length=20000)
 
 
 def _digits(value: str) -> str:

@@ -1,7 +1,9 @@
 """One-time password-reset tickets. Valid for 15 minutes and a single use."""
 
 from datetime import datetime, timedelta, timezone
+
 from fastapi import HTTPException
+from pymongo import ReturnDocument
 from pymongo.database import Database
 
 from app.db.passwords import hash_token, new_session_token
@@ -49,6 +51,28 @@ def require_open_reset(db: Database, token: str) -> dict:
     if expires is None or expires < now:
         raise HTTPException(status_code=401, detail="This reset expired after 15 minutes.")
     return row
+
+
+def consume_open_reset(db: Database, token: str) -> dict:
+    """Mark a ticket used in the same query that finds it so two requests cannot both succeed."""
+    now = datetime.now(timezone.utc)
+    token = (token or "").strip()
+    if not token:
+        raise HTTPException(status_code=401, detail="This reset is no longer valid.")
+    digest = hash_token(token)
+    row = db.password_resets.find_one_and_update(
+        {"token_hash": digest, "used_at": None, "expires_at": {"$gt": now}},
+        {"$set": {"used_at": now}},
+        return_document=ReturnDocument.BEFORE,
+    )
+    if row is not None:
+        return row
+    existing = db.password_resets.find_one({"token_hash": digest})
+    if existing is None:
+        raise HTTPException(status_code=401, detail="This reset is no longer valid.")
+    if existing.get("used_at") is not None:
+        raise HTTPException(status_code=401, detail="This reset was already used.")
+    raise HTTPException(status_code=401, detail="This reset expired after 15 minutes.")
 
 
 def mark_reset_used(db: Database, row: dict) -> None:

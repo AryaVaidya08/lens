@@ -37,6 +37,9 @@ struct HCPCopilotApp: App {
             .onAppear {
                 APIClient.shared.sessionToken = appState.sessionToken
             }
+            .onChange(of: appState.sessionToken) { _, token in
+                APIClient.shared.sessionToken = token
+            }
             .alert("Save your recovery code", isPresented: Binding(
                 get: { appState.pendingRecoveryCode != nil },
                 set: { if !$0 { appState.pendingRecoveryCode = nil } }

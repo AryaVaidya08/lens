@@ -16,6 +16,10 @@ struct SessionChecks {
         let fresh = AppState(defaults: defaults)
         precondition(fresh.selectedHCP == nil, "First launch must show the picker")
         let profile = HCP.demoProfiles[0]
+        fresh.applySession(profile: profile, token: "tok_session", recoveryCode: "SAVECODE12")
+        precondition(fresh.isSignedIn)
+        precondition(defaults.string(forKey: AppState.sessionCacheKey) == "tok_session")
+        precondition(fresh.pendingRecoveryCode == "SAVECODE12")
         fresh.selectedHCP = profile
         precondition(defaults.string(forKey: AppState.profileCacheKey) == profile.id)
 
@@ -33,8 +37,12 @@ struct SessionChecks {
         restored.familiarityTier = "returning"
         restored.logOut()
         precondition(restored.selectedHCP == nil)
+        precondition(restored.sessionToken == nil)
+        precondition(!restored.isSignedIn)
+        precondition(restored.pendingRecoveryCode == nil)
         precondition(restored.currentDrug == nil && restored.familiarityTier == nil)
         precondition(defaults.object(forKey: AppState.profileCacheKey) == nil)
+        precondition(defaults.object(forKey: AppState.sessionCacheKey) == nil)
         precondition(defaults.string(forKey: "unrelated.preference") == "keep me")
         precondition(AppState(defaults: defaults).selectedHCP == nil,
                      "Logout must survive relaunch")

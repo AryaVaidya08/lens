@@ -31,6 +31,18 @@ enum APIError: LocalizedError, Equatable {
         case .malformedResponse: "The backend returned something unexpected."
         }
     }
+
+    var requiresReauthentication: Bool {
+        switch self {
+        case .unauthorized:
+            return true
+        case .serverMessage(let message):
+            let lower = message.lowercased()
+            return lower.contains("sign in") || lower.contains("session expired")
+        default:
+            return false
+        }
+    }
 }
 
 final class APIClient {
@@ -187,6 +199,30 @@ final class APIClient {
 
     // MARK: - Transport
 
+    func accessPolicies() async throws -> [AccessPolicy] {
+        try await get(Endpoints.accessPolicies, as: AccessPolicyList.self).policies
+    }
+
+    func medicationAccess(patientId: String) async throws -> [SavedMedicationAccess] {
+        try await get(Endpoints.medicationAccess(patientId: patientId), as: MedicationAccessList.self).cases
+    }
+
+    func saveMedicationAccess(patientId: String, caseId: String, draft: MedicationAccessDraft) async throws -> SavedMedicationAccess {
+        try await sendJSON(Endpoints.medicationAccessCase(patientId: patientId, caseId: caseId),
+                           method: "PUT", body: draft, as: SavedMedicationAccess.self)
+    }
+
+    func medicationReviews(patientId: String) async throws -> [SavedMedicationReview] {
+        try await get(Endpoints.medicationReviews(patientId: patientId), as: MedicationReviewList.self).reviews
+    }
+
+    func saveMedicationReview(patientId: String, reviewId: String, draft: MedicationReviewDraft) async throws -> SavedMedicationReview {
+        try await sendJSON(
+            Endpoints.medicationReview(patientId: patientId, reviewId: reviewId),
+            method: "PUT", body: draft, as: SavedMedicationReview.self
+        )
+    }
+
     private func get<Response: Decodable>(
         _ path: String,
         query: [URLQueryItem] = [],
@@ -232,10 +268,15 @@ final class APIClient {
         return try await send(request, as: type)
     }
 
+    func clearSession() {
+        sessionToken = nil
+    }
+
     private func applyAuth(_ request: inout URLRequest) {
-        if let sessionToken, !sessionToken.isEmpty {
-            request.setValue("Bearer \(sessionToken)", forHTTPHeaderField: "Authorization")
-        }
+        guard let sessionToken else { return }
+        let token = sessionToken.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !token.isEmpty else { return }
+        request.setValue("Bearer \(token)", forHTTPHeaderField: "Authorization")
     }
 
     private func url(for path: String, query: [URLQueryItem] = []) throws -> URL {

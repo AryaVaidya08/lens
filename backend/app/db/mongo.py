@@ -13,11 +13,15 @@ Collections (database name from settings.mongodb_db, default `lens`):
 (`hcp_001`, `adderall`), so nothing in the API contract changes.
 """
 
+import logging
+
 from pymongo import MongoClient
 from pymongo.database import Database
 from pymongo.errors import PyMongoError
 
 from app.config import settings
+
+logger = logging.getLogger("uvicorn.error")
 
 _client = None
 
@@ -34,17 +38,34 @@ def _connect():
     if uri.startswith("mongomock"):
         import mongomock
 
-        return mongomock.MongoClient()
-
-    client = MongoClient(uri, serverSelectionTimeoutMS=4000)
-    try:
-        client.admin.command("ping")
-    except PyMongoError as exc:
-        raise RuntimeError(
-            "Cannot reach MongoDB at %s. Start mongod locally or set "
-            "MONGODB_URI to your Atlas connection string." % uri
-        ) from exc
+        client = mongomock.MongoClient()
+    else:
+        client = MongoClient(uri, serverSelectionTimeoutMS=4000)
+        try:
+            client.admin.command("ping")
+        except PyMongoError as exc:
+            raise RuntimeError(
+                "Cannot reach MongoDB (%s). Start mongod locally or set "
+                "MONGODB_URI to your Atlas connection string."
+                % settings.mongodb_kind
+            ) from exc
+    logger.info(
+        "Mongo accounts persist in db=%s collection=%s kind=%s",
+        settings.mongodb_db,
+        settings.accounts_collection,
+        settings.mongodb_kind,
+    )
     return client
+
+
+def store_info() -> dict:
+    """Safe-to-log /status fields. Never includes the connection string."""
+    return {
+        "database": "mongodb",
+        "mongodb_db": settings.mongodb_db,
+        "mongodb_kind": settings.mongodb_kind,
+        "accounts_collection": settings.accounts_collection,
+    }
 
 
 def get_database() -> Database:
@@ -63,6 +84,8 @@ def ensure_indexes(db: Database) -> None:
     db.engagements.create_index([("hcp_id", 1), ("drug_id", 1)], unique=True)
     db.chats.create_index([("hcp_id", 1), ("asked_at", -1)])
     db.patients.create_index("hcp_id")
+    db.medication_reviews.create_index([("hcp_id", 1), ("patient_id", 1), ("updated_at", -1)])
+    db.medication_access.create_index([("hcp_id", 1), ("patient_id", 1), ("updated_at", -1)])
     db.sessions.create_index("token_hash", unique=True)
     db.sessions.create_index("hcp_id")
     db.sessions.create_index("expires_at")

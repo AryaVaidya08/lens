@@ -36,7 +36,7 @@ struct SettingsView: View {
                     Button("Log out", role: .destructive) {
                         Task {
                             try? await APIClient.shared.logout()
-                            APIClient.shared.sessionToken = nil
+                            APIClient.shared.clearSession()
                             appState.logOut()
                         }
                     }

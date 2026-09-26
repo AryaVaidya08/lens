@@ -12,11 +12,6 @@ struct PersonaPickerView: View {
     var body: some View {
         NavigationStack {
             List {
-                Section {
-                    Text("Sign in with your email and password. Create an account if you don't have one yet.")
-                        .foregroundStyle(.secondary)
-                }
-
                 Section("Sign in") {
                     TextField("Email", text: $email)
                         .textContentType(.username)
@@ -51,8 +46,22 @@ struct PersonaPickerView: View {
                     Button("Create an account") { isShowingRegister = true }
                         .accessibilityIdentifier("auth.createAccount")
                 } footer: {
-                    Text("New accounts get a recovery code shown once. Patient folders appear after the clinic database is connected. There is no guest or demo bypass.")
+                    Text("New accounts get a recovery code shown once. Patient folders appear after the clinic database is connected.")
                 }
+
+                #if DEBUG
+                Section {
+                    Button {
+                        Task { await signIn(asDemo: true) }
+                    } label: {
+                        Label("Use demo account", systemImage: "person.crop.circle")
+                    }
+                    .disabled(isSigningIn)
+                    .accessibilityIdentifier("auth.demoSignIn")
+                } footer: {
+                    Text("Explore Lens as Dr. Maya Patel with the sample patient records.")
+                }
+                #endif
             }
             .navigationTitle("Welcome to Lens")
             .sheet(isPresented: $isShowingRegister) {
@@ -65,17 +74,23 @@ struct PersonaPickerView: View {
     }
 
     @MainActor
-    private func signIn() async {
+    private func signIn(asDemo: Bool = false) async {
+        guard !isSigningIn else { return }
         errorMessage = nil
         isSigningIn = true
         defer { isSigningIn = false }
         do {
             let auth = try await APIClient.shared.login(
-                email: email.trimmingCharacters(in: .whitespacesAndNewlines),
-                password: password
+                email: asDemo ? "maya.patel@lens.demo" : email.trimmingCharacters(in: .whitespacesAndNewlines),
+                password: asDemo ? "demo" : password
             )
             APIClient.shared.sessionToken = auth.sessionToken
-            appState.applySession(profile: auth.profile, token: auth.sessionToken, recoveryCode: auth.recoveryCode)
+            var profile = auth.profile
+            if let fetched = try? await APIClient.shared.getProfile(hcpId: auth.profile.id),
+               fetched.id == auth.profile.id {
+                profile = fetched
+            }
+            appState.applySession(profile: profile, token: auth.sessionToken, recoveryCode: auth.recoveryCode)
         } catch {
             errorMessage = error.localizedDescription
         }

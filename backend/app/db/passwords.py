@@ -3,10 +3,11 @@
 import hashlib
 import hmac
 import os
-import re
 import secrets
 
 from fastapi import HTTPException
+
+MAX_PASSWORD_LENGTH = 128
 
 
 def hash_password(password: str) -> str:
@@ -28,6 +29,21 @@ def verify_password(password: str, stored: str) -> bool:
     return hmac.compare_digest(actual, expected)
 
 
+# Same cost as a real check so missing accounts don't fail faster than real ones.
+_DUMMY_PASSWORD_HASH = hash_password("timing-pad")
+
+
+def password_matches(password: str, stored: str) -> bool:
+    """Verify in constant-ish time. The dummy hash is never treated as a real secret."""
+    if not password or len(password) > MAX_PASSWORD_LENGTH:
+        verify_password("x", _DUMMY_PASSWORD_HASH)
+        return False
+    if not stored:
+        verify_password(password, _DUMMY_PASSWORD_HASH)
+        return False
+    return verify_password(password, stored)
+
+
 def hash_token(token: str) -> str:
     return hashlib.sha256(token.encode("utf-8")).hexdigest()
 
@@ -43,6 +59,8 @@ def new_recovery_code() -> str:
 
 def validate_new_password(password: str, email: str = "") -> str:
     password = password or ""
+    if len(password) > MAX_PASSWORD_LENGTH:
+        raise HTTPException(status_code=422, detail="Password must be at most %s characters." % MAX_PASSWORD_LENGTH)
     if len(password) < 8:
         raise HTTPException(status_code=422, detail="Password must be at least 8 characters.")
     if password.strip() != password or " " in password:

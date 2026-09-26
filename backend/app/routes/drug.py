@@ -5,10 +5,11 @@ Drug summary + follow-up Q&A endpoints.
 from datetime import datetime, timezone
 
 from fastapi import APIRouter, Depends, HTTPException
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pymongo.database import Database
 
 from app.config import settings
+from app.db.accounts import reject_path_id
 from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
 from app.llm.client import generate_answer
@@ -27,8 +28,8 @@ MAX_BULLETS = 3
 
 
 class AskRequest(BaseModel):
-    hcp_id: str
-    query: str
+    hcp_id: str = Field(max_length=64)
+    query: str = Field(max_length=2000)
 
 
 @router.get("/{drug_id}/summary")
@@ -39,6 +40,7 @@ def get_summary(
     db: Database = Depends(get_db),
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
+    drug_id = reject_path_id(drug_id, "drug_id")
     drug = db.drugs.find_one({"_id": drug_id})
     if drug is None:
         raise HTTPException(status_code=404, detail="Unknown drug_id: %s" % drug_id)
@@ -77,6 +79,7 @@ def ask_question(
     db: Database = Depends(get_db),
 ) -> dict:
     assert_same_hcp(hcp, payload.hcp_id)
+    drug_id = reject_path_id(drug_id, "drug_id")
     if db.drugs.find_one({"_id": drug_id}) is None:
         raise HTTPException(status_code=404, detail="Unknown drug_id: %s" % drug_id)
     if not payload.query.strip():

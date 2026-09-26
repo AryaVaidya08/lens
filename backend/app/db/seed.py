@@ -71,20 +71,28 @@ DEMO_PASSWORD = "demo"
 PRESEEDED_ENGAGEMENTS = [("hcp_002", "lorazepam", 2)]
 
 
+DEMO_IDS = {row["_id"] for row in DEMO_HCPS}
+
+
 def seed(db: Optional[Database] = None) -> None:
     """
-    Idempotent: safe on every startup. Never resets touch counts that
-    were accumulated during a demo run, and never overwrites a password
-    or chart a clinician already edited.
+    Idempotent: safe on every startup. Never deletes clinician documents,
+    never resets touch counts, and never overwrites a password or chart
+    a clinician already edited. Registered accounts use hcp_<hex> ids
+    and live in `hcps` — seed only upserts the three demo ids.
     """
     db = db if db is not None else get_database()
 
     for demo in DEMO_HCPS:
+        if demo["_id"] not in DEMO_IDS:
+            continue
         existing = db.hcps.find_one({"_id": demo["_id"]})
         if existing is None:
             row = dict(demo)
             row["password_hash"] = hash_password(DEMO_PASSWORD)
             row["patient_ids"] = []
+            row["created_at"] = datetime.now(timezone.utc)
+            row["account_source"] = "seed"
             db.hcps.insert_one(row)
             continue
         patch = {}

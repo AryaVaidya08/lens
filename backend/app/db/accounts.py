@@ -1,11 +1,18 @@
 """HCP document helpers — public profile shape and patient serialization."""
 
+import re
 from typing import Any, Dict, List, Optional
 
 from fastapi import HTTPException
 from pymongo.database import Database
 
 from app.personalization.scorer import tier_for_touch_count
+
+# ASCII only so lookalike Unicode emails cannot impersonate another account.
+_EMAIL = re.compile(r"^[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$")
+MAX_EMAIL_LENGTH = 254
+MAX_NAME_LENGTH = 80
+MAX_FIELD_LENGTH = 200
 
 PROFILE_KEYS = (
     "first_name",
@@ -77,12 +84,32 @@ def patients_for_hcp(db: Database, hcp: Dict[str, Any]) -> List[Dict[str, Any]]:
     if not ids:
         return []
     found = {row["_id"]: row for row in db.patients.find({"_id": {"$in": ids}})}
-    return [public_patient(found[pid]) for pid in ids if pid in found]
+    return [
+        public_patient(found[pid])
+        for pid in ids
+        if pid in found and found[pid].get("hcp_id") == hcp["_id"]
+    ]
+
+
+def reject_path_id(value: str, label: str) -> str:
+    text = (value or "").strip()
+    if not text or ".." in text or "/" in text or "\\" in text or "\x00" in text:
+        raise HTTPException(status_code=404, detail="Unknown %s: %s" % (label, value))
+    return text
 
 
 def normalize_email(email: str) -> str:
     return email.strip().lower()
 
 
-def optional_text(value: Optional[str]) -> str:
-    return (value or "").strip()
+def valid_email(email: str) -> bool:
+    if not email or len(email) > MAX_EMAIL_LENGTH or "\x00" in email:
+        return False
+    return bool(_EMAIL.match(email))
+
+
+def optional_text(value: Optional[str], max_length: int = MAX_FIELD_LENGTH) -> str:
+    text = (value or "").strip()
+    if len(text) > max_length:
+        raise HTTPException(status_code=422, detail="That field is too long.")
+    return text

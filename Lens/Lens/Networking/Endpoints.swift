@@ -15,14 +15,29 @@ enum Endpoints {
     static let changePassword = "/auth/change-password"
     static let forgotPassword = "/auth/forgot-password"
     static let resetPassword = "/auth/reset-password"
-    static func profile(hcpId: String) -> String { "/profile/\(hcpId)" }
-    static func patients(hcpId: String) -> String { "/profile/\(hcpId)/patients" }
+    static func profile(hcpId: String) -> String { "/profile/\(pathSegment(hcpId))" }
+    static func patients(hcpId: String) -> String { "/profile/\(pathSegment(hcpId))/patients" }
     static let syncPatients = "/patients/sync"
-    static func patient(_ id: String) -> String { "/patients/\(id)" }
+    static func patient(_ id: String) -> String { "/patients/\(pathSegment(id))" }
+    static func medicationReviews(patientId: String) -> String { "/patients/\(pathSegment(patientId))/medication-reviews" }
+    static func medicationReview(patientId: String, reviewId: String) -> String {
+        "/patients/\(pathSegment(patientId))/medication-reviews/\(pathSegment(reviewId))"
+    }
     static let detect = "/detect"
-    static func summary(drugId: String) -> String { "/drug/\(drugId)/summary" }
-    static func ask(drugId: String) -> String { "/drug/\(drugId)/ask" }
+    static let accessPolicies = "/medication-access/policies"
+    static func medicationAccess(patientId: String) -> String { "/patients/\(pathSegment(patientId))/medication-access" }
+    static func medicationAccessCase(patientId: String, caseId: String) -> String {
+        "\(medicationAccess(patientId: patientId))/\(pathSegment(caseId))"
+    }
+    static func summary(drugId: String) -> String { "/drug/\(pathSegment(drugId))/summary" }
+    static func ask(drugId: String) -> String { "/drug/\(pathSegment(drugId))/ask" }
     static let engagementLog = "/engagement/log"
+
+    static func pathSegment(_ value: String) -> String {
+        var allowed = CharacterSet.urlPathAllowed
+        allowed.remove(charactersIn: "/")
+        return value.addingPercentEncoding(withAllowedCharacters: allowed) ?? value
+    }
 
     /// Joins `base` and `path` without turning "/detect" into "%2Fdetect".
     static func url(base: URL, path: String, query: [URLQueryItem] = []) -> URL? {

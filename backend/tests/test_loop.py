@@ -16,6 +16,10 @@ def test_health_and_status():
         assert status["indexed_chunks"] >= 15
         assert status["llm"] in {"api", "offline-fallback"}
         assert status["database"] == "mongodb"
+        assert status["mongodb_db"]
+        assert status["accounts_collection"] == "hcps"
+        assert status["mongodb_kind"] in {"atlas", "localhost", "mongomock", "other"}
+        assert "mongodb_uri" not in status
 
 
 def test_detect_barcode_ocr_and_unknown():

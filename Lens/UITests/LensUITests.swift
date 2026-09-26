@@ -171,9 +171,13 @@ final class LensUITests: XCTestCase {
         }
     }
 
-    func testDeniedSpeechPermissionCanRetryAndNavigate() {
+    func testDeniedSpeechPermissionCanRetryAndNavigate() throws {
+        // XCTest has no speech-recognition authorization reset resource.
+        // Run this case only after resetting speech permission on the simulator.
+        guard ProcessInfo.processInfo.environment["LENS_TEST_SPEECH_PERMISSION_RESET"] == "1" else {
+            throw XCTSkip("Reset speech permission on the test simulator and set LENS_TEST_SPEECH_PERMISSION_RESET=1.")
+        }
         signIn()
-        app.resetAuthorizationStatus(for: .speechRecognition)
         XCTAssertTrue(app.buttons["assistant.microphone"].waitForExistence(timeout: 5))
         let handler = addUIInterruptionMonitor(withDescription: "Speech permission") { alert in
             let deny = alert.buttons["Don't Allow"]

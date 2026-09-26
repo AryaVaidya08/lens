@@ -38,15 +38,23 @@ def parse_clinic_record(raw: Dict[str, Any]) -> Optional[Dict[str, Any]]:
         return None
     if raw.get("resourceType") == "Patient":
         raw = _from_fhir_patient(raw)
+    if any(isinstance(raw.get(key), dict) for key in ("patient_id", "_id", "hcp_id")):
+        return None
     hcp_id = str(raw.get("hcp_id") or "").strip()
     first = str(raw.get("first_name") or "").strip()
     last = str(raw.get("last_name") or "").strip()
     if not hcp_id or not first or not last:
         return None
+    if "/" in hcp_id or "\\" in hcp_id or ".." in hcp_id or hcp_id.startswith("$"):
+        return None
+    if isinstance(raw.get("patient_id"), dict) or isinstance(raw.get("_id"), dict) or isinstance(raw.get("hcp_id"), dict):
+        return None
     external = str(raw.get("external_id") or raw.get("mrn") or raw.get("id") or "").strip()
     patient_id = str(raw.get("patient_id") or raw.get("_id") or "").strip()
     if not patient_id:
         patient_id = "pat_%s" % (external or ("%s_%s" % (hcp_id, last.lower())))
+    if "/" in patient_id or "\\" in patient_id or ".." in patient_id or patient_id.startswith("$"):
+        return None
     age = _as_int(raw.get("age"))
     if age is None and raw.get("birth_date"):
         age = _age_from_birth_date(str(raw.get("birth_date")))
@@ -68,11 +76,21 @@ def parse_clinic_record(raw: Dict[str, Any]) -> Optional[Dict[str, Any]]:
 
 
 def _load_local(root: Path) -> List[Dict[str, Any]]:
+    try:
+        root = root.resolve()
+    except OSError:
+        return []
     if not root.is_dir():
         return []
     rows = []
     for path in sorted(root.rglob("*")):
         if path.suffix.lower() not in {".json", ".txt"}:
+            continue
+        try:
+            resolved = path.resolve()
+        except OSError:
+            continue
+        if resolved != root and root not in resolved.parents:
             continue
         try:
             payload = json.loads(path.read_text())

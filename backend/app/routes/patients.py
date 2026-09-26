@@ -4,7 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from pymongo.database import Database
 
 from app.clinic.sync import sync_clinic_records
-from app.db.accounts import patients_for_hcp, public_patient
+from app.db.accounts import patients_for_hcp, public_patient, reject_path_id
 from app.db.database import get_db
 from app.db.sessions import current_hcp
 
@@ -31,6 +31,7 @@ def get_patient(
 ) -> dict:
     if patient_id == "sync":
         raise HTTPException(status_code=404, detail="Unknown patient_id: sync")
+    patient_id = reject_path_id(patient_id, "patient_id")
     row = db.patients.find_one({"_id": patient_id})
     if row is None or row.get("hcp_id") != hcp["_id"]:
         raise HTTPException(status_code=404, detail="Unknown patient_id: %s" % patient_id)

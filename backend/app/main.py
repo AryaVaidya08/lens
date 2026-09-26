@@ -16,22 +16,33 @@ Route ownership (see docs/team-context/ for the full breakdown):
 verified independently of everything else being finished.
 """
 
+import logging
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
 from app.config import settings
 from app.db.database import close_client, ensure_indexes, get_database
+from app.db.mongo import store_info
 from app.db.seed import seed
 from app.retrieval import index
 from app.retrieval.embed import using_model
 from app.retrieval.ingest import ingest_docs
-from app.routes import auth, detect, drug, engagement, patients, profile
+from app.routes import auth, detect, drug, engagement, patients, profile, medication_reviews, medication_access
+
+logger = logging.getLogger("uvicorn.error")
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     db = get_database()
+    info = store_info()
+    logger.info(
+        "Clinician accounts persist in MongoDB %s (collection %s, %s)",
+        info["mongodb_db"],
+        info["accounts_collection"],
+        info["mongodb_kind"],
+    )
     if settings.seed_on_startup:
         seed(db)
     ensure_indexes(db)
@@ -48,6 +59,8 @@ app = FastAPI(title="HCP Spatial Copilot", lifespan=lifespan, redirect_slashes=F
 app.include_router(auth.router)
 app.include_router(profile.router)
 app.include_router(patients.router)
+app.include_router(medication_reviews.router)
+app.include_router(medication_access.router)
 app.include_router(detect.router)
 app.include_router(drug.router)
 app.include_router(engagement.router)
@@ -65,10 +78,10 @@ def status() -> dict:
     that silently fell back to offline retrieval or offline answers is visible
     from one curl instead of from the logs.
     """
-    return {
+    body = {
         "indexed_chunks": index.chunk_count(),
         "embeddings": "sentence-transformers" if using_model() else "lexical-fallback",
         "llm": "api" if settings.llm_enabled else "offline-fallback",
-        "database": "mongodb",
-        "mongodb_db": settings.mongodb_db,
     }
+    body.update(store_info())
+    return body

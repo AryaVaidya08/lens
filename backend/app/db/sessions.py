@@ -42,7 +42,7 @@ def current_hcp(
     if not authorization or not authorization.lower().startswith("bearer "):
         raise HTTPException(status_code=401, detail="Sign in required.")
     token = authorization.split(" ", 1)[1].strip()
-    if not token:
+    if not token or "\x00" in token or len(token) > 128:
         raise HTTPException(status_code=401, detail="Sign in required.")
     row = db.sessions.find_one({"token_hash": hash_token(token)})
     if row is None:
@@ -63,5 +63,5 @@ def current_hcp(
 
 
 def assert_same_hcp(hcp: dict, hcp_id: str) -> None:
-    if hcp_id and hcp_id != hcp["_id"]:
+    if (hcp_id or "").strip() != hcp["_id"]:
         raise HTTPException(status_code=403, detail="That account is not yours.")
