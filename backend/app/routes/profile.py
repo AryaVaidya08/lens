@@ -63,7 +63,6 @@ class RenameChatRequest(BaseModel):
     title: str = Field(min_length=1, max_length=100)
 
 @router.get("/{hcp_id}/chats")
-@router.get("/{hcp_id}/chats")
 def list_chats(
     hcp_id: str,
     hcp: dict = Depends(current_hcp),

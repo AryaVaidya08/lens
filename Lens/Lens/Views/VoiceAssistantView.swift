@@ -37,7 +37,7 @@ struct VoiceAssistantView: View {
                                 transcriptCard(title: "You said", text: assistant.recognizer.transcript)
                             }
                             if !assistant.reply.isEmpty {
-                                transcriptCard(title: "Assistant", text: assistant.reply)
+                                transcriptCard(title: "Assistant · Demo reply", text: assistant.reply)
                                 Button {
                                     assistant.speaker.speak(assistant.reply)
                                 } label: {
