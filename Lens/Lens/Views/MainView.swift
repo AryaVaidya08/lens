@@ -23,7 +23,14 @@ struct MainView: View {
             }
 
             if selectedTab == .scan {
-                VoiceAssistantView(selectedTab: $selectedTab)
+                GeometryReader { geometry in
+                    VoiceAssistantView(
+                        selectedTab: $selectedTab,
+                        isLandscape: geometry.size.width > geometry.size.height,
+                        availableHeight: geometry.size.height
+                    )
+                    .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottomLeading)
+                }
             }
         }
     }

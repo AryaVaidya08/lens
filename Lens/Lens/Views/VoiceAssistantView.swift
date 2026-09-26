@@ -5,6 +5,9 @@ import UIKit
 
 struct VoiceAssistantView: View {
     @Binding var selectedTab: MainTab
+    var isLandscape = false
+    var availableHeight: CGFloat = 800
+    @ScaledMetric(relativeTo: .title3) private var microphoneIconSize = 20
     @State private var contentHeight: CGFloat = 0
     @Environment(\.scenePhase) private var scenePhase
     @Environment(\.openURL) private var openURL
@@ -70,7 +73,7 @@ struct VoiceAssistantView: View {
                         .frame(maxWidth: .infinity, alignment: .leading)
                         .onGeometryChange(for: CGFloat.self) { $0.size.height } action: { contentHeight = $0 }
                     }
-                    .frame(height: min(max(contentHeight, 44), 180))
+                    .frame(height: min(max(contentHeight, 44), panelHeightLimit))
                 }
                 .padding(.horizontal, 16)
                 .padding(.bottom, 16)
@@ -93,9 +96,9 @@ struct VoiceAssistantView: View {
             HStack(spacing: 0) {
                 Button(action: microphoneTapped) {
                     Image(systemName: microphoneSymbol)
-                        .font(.title3.bold())
+                        .font(.system(size: microphoneIconSize * microphoneScale, weight: .bold))
                         .foregroundStyle(isActive ? Color.white : Color.primary)
-                        .frame(width: 55, height: 55)
+                        .frame(width: 55 * microphoneScale, height: 55 * microphoneScale)
                         .background {
                             if isActive {
                                 Circle().fill(.black)
@@ -107,10 +110,10 @@ struct VoiceAssistantView: View {
                         }
                         .overlay {
                             if isActive {
-                                Circle().strokeBorder(Color.blue, lineWidth: 3)
+                                Circle().strokeBorder(Color.blue, lineWidth: 3 * microphoneScale)
                             }
                         }
-                        .shadow(color: isActive ? .blue.opacity(0.45) : .clear, radius: 5)
+                        .shadow(color: isActive ? .blue.opacity(0.45) : .clear, radius: 5 * microphoneScale)
                         .contentShape(Circle())
                 }
                 .buttonStyle(.plain)
@@ -119,9 +122,9 @@ struct VoiceAssistantView: View {
                 .accessibilityIdentifier("assistant.microphone")
 
             }
-            .padding(.horizontal, 8)
-            .frame(height: 64)
-            .offset(x: 10, y: 14)
+            .padding(.horizontal, 8 * microphoneScale)
+            .frame(height: 64 * microphoneScale)
+            .offset(x: 10 * microphoneScale, y: 14 * microphoneScale - (isLandscape ? 8 : 0))
         }
         .onChange(of: selectedTab) { _, tab in
             if tab != .scan {
@@ -148,6 +151,14 @@ struct VoiceAssistantView: View {
     }
 
     private var isActive: Bool { recognizer.state != .idle || speaker.isSpeaking }
+
+    // Preserve portrait geometry; scale the entire control together for the
+    // shorter landscape tab row, keeping a minimum 44-point touch target.
+    private var microphoneScale: CGFloat { isLandscape ? 0.8 : 1 }
+
+    private var panelHeightLimit: CGFloat {
+        min(180, max(44, availableHeight - 64 * microphoneScale - 100))
+    }
 
     private var microphoneSymbol: String {
         if speaker.isSpeaking || recognizer.state == .listening { return "stop.fill" }

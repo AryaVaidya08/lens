@@ -163,11 +163,11 @@ struct CameraView: View {
         .onChange(of: arManager.isStale) { _, stale in
             if stale {
                 withAnimation(.easeInOut(duration: 0.8).repeatForever(autoreverses: true)) {
-                    flashOpacity = 0.8
+                    flashOpacity = 0.5
                 }
             } else {
                 withAnimation(.easeOut(duration: 0.15)) {
-                    flashOpacity = 1.0
+                    flashOpacity = 8.0
                 }
             }
         }
