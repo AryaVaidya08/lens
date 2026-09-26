@@ -1,0 +1,15 @@
+{
+  "patient_id": "pat_003",
+  "hcp_id": "hcp_002",
+  "external_id": "MRN-22014",
+  "source": "piedmont-heart-ehr",
+  "first_name": "Priya",
+  "last_name": "Shah",
+  "age": 67,
+  "weight_kg": 61.0,
+  "sex": "Female",
+  "medical_history": "Atrial fibrillation, osteoporosis",
+  "allergies": "Sulfa",
+  "current_medications": "Apixaban, metoprolol",
+  "notes": "Watch benzodiazepine use with fall risk."
+}

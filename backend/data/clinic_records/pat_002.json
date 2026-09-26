@@ -1,0 +1,15 @@
+{
+  "patient_id": "pat_002",
+  "hcp_id": "hcp_001",
+  "external_id": "MRN-11820",
+  "source": "riverside-ehr",
+  "first_name": "Marcus",
+  "last_name": "Hale",
+  "age": 31,
+  "weight_kg": 88.0,
+  "sex": "Male",
+  "medical_history": "Anxiety, prior ankle sprain",
+  "allergies": "None known",
+  "current_medications": "None",
+  "notes": "Asked about topical NSAIDs for training soreness."
+}

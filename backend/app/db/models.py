@@ -1,42 +1,21 @@
 """
-SQLAlchemy models.
+Document shapes stored in MongoDB.
 
-Fields only — no query methods here. Query logic belongs in the route
-or db access functions that use these models, not on the models
-themselves.
-
-Owned by: Backend & data lane.
+hcps hold the clinician account plus an ordered list of patient_ids.
+Each id points at one document in patients. Passwords are stored hashed.
 """
 
-from datetime import datetime, timezone
-
-from sqlalchemy import Column, DateTime, ForeignKey, Integer, String
-from sqlalchemy.orm import declarative_base
-
-Base = declarative_base()
-
-
-class HCP(Base):
-    __tablename__ = "hcps"
-
-    id = Column(String, primary_key=True)
-    name = Column(String, nullable=False)
-    specialty = Column(String, nullable=False)
-
-
-class Drug(Base):
-    __tablename__ = "drugs"
-
-    id = Column(String, primary_key=True)
-    name = Column(String, nullable=False)
-    barcode = Column(String, nullable=True, index=True)
-    generic_name = Column(String, nullable=True)
-
-
-class Engagement(Base):
-    __tablename__ = "engagements"
-
-    hcp_id = Column(String, ForeignKey("hcps.id"), primary_key=True)
-    drug_id = Column(String, ForeignKey("drugs.id"), primary_key=True)
-    touch_count = Column(Integer, nullable=False, default=0)
-    last_seen = Column(DateTime, nullable=True, default=lambda: datetime.now(timezone.utc))
+# hcps: {
+#   _id, name, specialty, email, password_hash,
+#   first_name, last_name, professional_role, credentials,
+#   organization, practice_setting, work_phone, city, region, country,
+#   patient_ids: [patient_id, ...]
+# }
+# patients: {
+#   _id, hcp_id, external_id, source, first_name, last_name, age, weight_kg, sex,
+#   medical_history, allergies, current_medications, notes
+# }
+# Written only by app/clinic/sync.py from a clinic/EHR export.
+# drugs:      { _id: str, name: str, barcode: str }
+# engagements:{ _id: "hcp_id:drug_id", hcp_id, drug_id, touch_count, last_seen }
+# chats:      { hcp_id, drug_id, question, answer, asked_at }

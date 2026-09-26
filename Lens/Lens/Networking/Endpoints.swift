@@ -6,10 +6,33 @@
 //  other lane — this is the contract, in one place.
 //
 
+import Foundation
+
 enum Endpoints {
+    static let login = "/auth/login"
+    static let register = "/auth/register"
+    static let logout = "/auth/logout"
+    static let changePassword = "/auth/change-password"
+    static let forgotPassword = "/auth/forgot-password"
+    static let resetPassword = "/auth/reset-password"
     static func profile(hcpId: String) -> String { "/profile/\(hcpId)" }
+    static func patients(hcpId: String) -> String { "/profile/\(hcpId)/patients" }
+    static let syncPatients = "/patients/sync"
+    static func patient(_ id: String) -> String { "/patients/\(id)" }
     static let detect = "/detect"
     static func summary(drugId: String) -> String { "/drug/\(drugId)/summary" }
     static func ask(drugId: String) -> String { "/drug/\(drugId)/ask" }
     static let engagementLog = "/engagement/log"
+
+    /// Joins `base` and `path` without turning "/detect" into "%2Fdetect".
+    static func url(base: URL, path: String, query: [URLQueryItem] = []) -> URL? {
+        guard var components = URLComponents(url: base, resolvingAgainstBaseURL: false) else {
+            return nil
+        }
+        let root = components.path.trimmingCharacters(in: CharacterSet(charactersIn: "/"))
+        let extra = path.trimmingCharacters(in: CharacterSet(charactersIn: "/"))
+        components.path = "/" + [root, extra].filter { !$0.isEmpty }.joined(separator: "/")
+        components.queryItems = query.isEmpty ? nil : query
+        return components.url
+    }
 }

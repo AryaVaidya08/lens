@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-sqlalchemy
+pymongo
+mongomock
 pydantic
 sentence-transformers
 numpy
@@ -12,3 +13,4 @@ openai
 # test-only, needed for tests/test_health.py
 pytest
 httpx
+pymongo

@@ -1,0 +1,15 @@
+{
+  "patient_id": "pat_004",
+  "hcp_id": "hcp_003",
+  "external_id": "MRN-33109",
+  "source": "emory-endocrine-ehr",
+  "first_name": "Owen",
+  "last_name": "Blake",
+  "age": 42,
+  "weight_kg": 96.0,
+  "sex": "Male",
+  "medical_history": "Type 1 diabetes, hypothyroidism",
+  "allergies": "Latex",
+  "current_medications": "Insulin aspart, levothyroxine",
+  "notes": "Weight and A1C trending up this quarter."
+}

@@ -1,65 +1,101 @@
 """
 Drug summary + follow-up Q&A endpoints.
-
-Owned by: Voice & LLM lane (ask_question, retrieval weighting) and
-Backend & data lane (get_summary, personalization plumbing).
 """
 
-from fastapi import APIRouter, Depends, HTTPException
-from sqlalchemy.orm import Session
+from datetime import datetime, timezone
 
-from ..db.database import get_db
-from ..db.models import Drug
-from ..llm.client import generate_answer
-from ..personalization.scorer import build_summary_content, score_familiarity
-from ..retrieval.index import retrieve
+from fastapi import APIRouter, Depends, HTTPException
+from pydantic import BaseModel
+from pymongo.database import Database
+
+from app.config import settings
+from app.db.database import get_db
+from app.db.sessions import assert_same_hcp, current_hcp
+from app.llm.client import generate_answer
+from app.personalization.scorer import build_summary_content, score_familiarity
+from app.retrieval.index import retrieve
 
 router = APIRouter(prefix="/drug", tags=["drug"])
 
+MAX_BULLETS = 3
+
+
+class AskRequest(BaseModel):
+    hcp_id: str
+    query: str
+
 
 @router.get("/{drug_id}/summary")
-def get_summary(drug_id: str, hcp_id: str, db: Session = Depends(get_db)) -> dict:
+def get_summary(
+    drug_id: str,
+    hcp_id: str,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
     """
     Personalized HUD content for a drug, tailored to the HCP's
     familiarity tier.
 
-    Contract (see Models/DrugSummary.swift):
-      -> { "drug_id": str, "name": str, "tier": "new" | "returning" | "expert",
-           "headline": str, "bullets": list[str] }
+    Contract:
+      -> {
+          "drug_id": str,
+          "name": str,
+          "tier": "new" | "returning" | "expert",
+          "headline": str,
+          "bullets": list[str]
+      }
     """
-    drug = db.query(Drug).filter(Drug.id == drug_id).first()
-    if drug is None:
-        raise HTTPException(status_code=404, detail=f"Unknown drug_id: {drug_id}")
+    assert_same_hcp(hcp, hcp_id)
 
-    tier = score_familiarity(hcp_id, drug_id)
+    drug = db.drugs.find_one({"_id": drug_id})
+    if drug is None:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown drug_id: {drug_id}",
+        )
+
+    tier = score_familiarity(hcp["_id"], drug_id, db)
     headline, bullets = build_summary_content(drug_id, tier)
 
     return {
-        "drug_id": drug.id,
-        "name": drug.name,
+        "drug_id": drug["_id"],
+        "name": drug.get("name", drug_id),
         "tier": tier,
         "headline": headline,
-        "bullets": bullets,
+        "bullets": bullets[:MAX_BULLETS],
     }
 
 
 @router.post("/{drug_id}/ask")
-def ask_question(drug_id: str, payload: dict) -> dict:
+def ask_question(
+    drug_id: str,
+    payload: AskRequest,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
     """
-    Voice follow-up question -> grounded, spoken-ready answer.
+    Personalized RAG follow-up question.
 
-    Contract:
-      <- { "hcp_id": str, "query": str }
-      -> { "answer_text": str }
+    The familiarity tier is calculated before the answer is generated,
+    so repeated interactions with the same drug produce progressively
+    more advanced responses.
     """
-    
-    query = payload.get("query")
+    assert_same_hcp(hcp, payload.hcp_id)
 
-    if not isinstance(query, str) or not query.strip():
+    if db.drugs.find_one({"_id": drug_id}) is None:
         raise HTTPException(
-            status_code=400,
-            detail="query must be a non-empty string",
+            status_code=404,
+            detail=f"Unknown drug_id: {drug_id}",
         )
+
+    query = payload.query.strip()
+    if not query:
+        raise HTTPException(
+            status_code=422,
+            detail="query must not be empty",
+        )
+
+    tier = score_familiarity(hcp["_id"], drug_id, db)
 
     try:
         context = retrieve(drug_id, query)
@@ -76,7 +112,7 @@ def ask_question(drug_id: str, payload: dict) -> dict:
         )
 
     try:
-        answer = generate_answer(query, context)
+        answer = generate_answer(query, context, tier)
     except ValueError as exc:
         raise HTTPException(
             status_code=400,
@@ -87,5 +123,15 @@ def ask_question(drug_id: str, payload: dict) -> dict:
             status_code=502,
             detail=str(exc),
         )
+
+    db.chats.insert_one(
+        {
+            "hcp_id": hcp["_id"],
+            "drug_id": drug_id,
+            "question": query,
+            "answer": answer,
+            "asked_at": datetime.now(timezone.utc),
+        }
+    )
 
     return {"answer_text": answer}

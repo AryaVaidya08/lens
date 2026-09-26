@@ -1,53 +1,67 @@
 """
 Engagement logging endpoint.
-
-Owned by: Backend & data lane. This is the write side of the
-personalization loop described in docs/architecture.md — every scan
-increments a touch count that personalization/scorer.py reads back.
 """
 
 from datetime import datetime, timezone
 
 from fastapi import APIRouter, Depends, HTTPException
-from sqlalchemy.orm import Session
+from pydantic import BaseModel
+from pymongo.database import Database
 
 from app.db.database import get_db
-from app.db.models import Drug, Engagement, HCP
+from app.db.sessions import assert_same_hcp, current_hcp
 
 router = APIRouter(prefix="/engagement", tags=["engagement"])
 
 
+class EngagementRequest(BaseModel):
+    hcp_id: str
+    drug_id: str
+
+
 @router.post("/log")
-def log_engagement(payload: dict, db: Session = Depends(get_db)) -> dict:
+def log_engagement(
+    payload: EngagementRequest,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
     """
     Increments touch count for an (hcp_id, drug_id) pair and updates
-    last_seen. Called once per successful detect -> summary cycle.
+    last_seen.
+
+    Called once per successful detect -> summary cycle.
 
     Contract:
       <- { "hcp_id": str, "drug_id": str }
       -> { "touch_count": int }
     """
-    hcp_id = payload.get("hcp_id")
-    drug_id = payload.get("drug_id")
-    if not hcp_id or not drug_id:
-        raise HTTPException(status_code=400, detail="hcp_id and drug_id are required")
+    assert_same_hcp(hcp, payload.hcp_id)
 
-    if db.query(HCP).filter(HCP.id == hcp_id).first() is None:
-        raise HTTPException(status_code=404, detail=f"Unknown hcp_id: {hcp_id}")
-    if db.query(Drug).filter(Drug.id == drug_id).first() is None:
-        raise HTTPException(status_code=404, detail=f"Unknown drug_id: {drug_id}")
+    if db.drugs.find_one({"_id": payload.drug_id}) is None:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown drug_id: {payload.drug_id}",
+        )
 
-    row = (
-        db.query(Engagement)
-        .filter(Engagement.hcp_id == hcp_id, Engagement.drug_id == drug_id)
-        .first()
+    now = datetime.now(timezone.utc)
+    key = f"{payload.hcp_id}:{payload.drug_id}"
+
+    db.engagements.update_one(
+        {"_id": key},
+        {
+            "$inc": {"touch_count": 1},
+            "$set": {
+                "last_seen": now,
+                "hcp_id": payload.hcp_id,
+                "drug_id": payload.drug_id,
+            },
+            "$setOnInsert": {
+                "_id": key,
+            },
+        },
+        upsert=True,
     )
-    if row is None:
-        row = Engagement(hcp_id=hcp_id, drug_id=drug_id, touch_count=0)
-        db.add(row)
 
-    row.touch_count += 1
-    row.last_seen = datetime.now(timezone.utc)
-    db.commit()
+    row = db.engagements.find_one({"_id": key})
 
-    return {"touch_count": row.touch_count}
+    return {"touch_count": row["touch_count"]}

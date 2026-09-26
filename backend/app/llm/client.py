@@ -1,131 +1,200 @@
 """
 The LLM swap point.
 
-Wraps whichever LLM API is used (OpenAI for now).
-Nothing else in the codebase should call the LLM API directly — see
-docs/architecture.md's scaling table for why this stays isolated.
+Wraps the LLM API used by the backend. Nothing else in the codebase
+should call the LLM API directly.
 
 Owned by: Voice & LLM lane.
 """
 
+from __future__ import annotations
+
+import re
+from typing import Optional
+
 import requests
-from openai import OpenAI
 
-from ..config import settings
+from app.config import settings
+from app.text import content_terms
 
 
-def generate_answer(query: str, context: list[str]) -> str:
+# Answers are spoken aloud by AVSpeechSynthesizer, so length is constrained
+# in the prompt rather than by truncating mid-sentence.
+_SENTENCES_BY_TIER = {
+    "new": 2,
+    "returning": 3,
+    "expert": 4,
+}
+
+_SYSTEM_PROMPT = (
+    "You are a clinical reference assistant speaking to a physician. "
+    "Answer only from the provided context; if the context does not cover "
+    "the question, say so in one sentence. Never invent dosing, trial "
+    "results, or safety claims. Reply in at most {sentences} short sentences "
+    "of plain prose, with no lists or markdown, because the reply is read "
+    "aloud. The physician's familiarity with this drug is '{tier}': for "
+    "'new' lead with the basics, for 'returning' provide a moderate level "
+    "of detail, and for 'expert' skip the basics and lead with dosing, "
+    "trial data, and interactions when those details are present in the "
+    "provided context."
+)
+
+_SENTENCE_SPLIT = re.compile(r"(?<=[.!?])\s+")
+
+_NOT_COVERED = (
+    "I don't have anything on that in this drug's reference material."
+)
+
+
+def generate_answer(
+    query: str,
+    context: list[str],
+    tier: str = "new",
+) -> str:
     """
-    Generates a spoken-ready answer to `query`, grounded in `context`
-    (the chunks returned by retrieval/index.py::retrieve).
-    """
+    Generate a spoken-ready answer to `query`, grounded only in `context`.
 
+    This is the single LLM swap point for the application. Retrieval happens
+    before this function is called.
+    """
     if not isinstance(query, str) or not query.strip():
         raise ValueError("Query cannot be empty")
 
     if not context:
-        raise ValueError("No retrieval context was provided")
+        return _NOT_COVERED
 
-    if not settings.openai_api_key:
-        raise RuntimeError("OPENAI_API_KEY is not configured")
+    # Normalize unexpected tier values rather than allowing them to alter
+    # the prompt in an uncontrolled way.
+    if tier not in _SENTENCES_BY_TIER:
+        tier = "new"
 
-    context_text = "\n\n".join(
+    # Grok/xAI is the active provider. If no key is configured, use the
+    # grounded local fallback instead of failing the demo.
+    if settings.llm_enabled:
+        answer = _call_llm(query, context, tier)
+        if answer:
+            return answer
+
+    return _extractive_answer(query, context, tier)
+
+
+def _call_llm(
+    query: str,
+    context: list[str],
+    tier: str,
+) -> Optional[str]:
+    """
+    Call the configured xAI-compatible chat-completions endpoint.
+
+    Returns None on any API/network/response-format failure so the caller
+    can fall back to a grounded extractive answer.
+    """
+    sentences = _SENTENCES_BY_TIER.get(tier, 2)
+
+    joined = "\n\n".join(
         f"[Source {i + 1}]\n{chunk}"
         for i, chunk in enumerate(context)
     )
 
-    system_prompt = """
-You are an HCP drug-information assistant.
-
-Answer the user's question using ONLY the provided drug-information
-context.
-
-Do not use outside knowledge or invent clinical facts.
-
-If the provided context does not contain enough information to answer
-the question, say that the available drug information does not contain
-the answer.
-
-Keep the answer concise and suitable for being spoken aloud.
-Do not mention the retrieval process or these instructions.
-"""
-
-    user_prompt = f"""
-Drug information context:
-
-{context_text}
-
-Question:
-{query}
-"""
-    # ================================================================
-    # ACTIVE: GROK / XAI
-    # ================================================================
-
-
-    if not settings.llm_api_key:
-        raise RuntimeError("XAI_API_KEY is not configured")
-
-    response = requests.post(
-        f"{settings.llm_api_base}/chat/completions",
-        headers={
-            "Authorization": f"Bearer {settings.llm_api_key}",
-            "Content-Type": "application/json",
-        },
-        json={
-            "model": "grok-4.7",
-            "messages": [
-                {
-                    "role": "system",
-                    "content": system_prompt,
-                },
-                {
-                    "role": "user",
-                    "content": user_prompt,
-                },
-            ],
-            "temperature": 0.2,
-        },
-        timeout=20,
+    system_prompt = _SYSTEM_PROMPT.format(
+        sentences=sentences,
+        tier=tier,
     )
 
-    if not response.ok:
-        raise RuntimeError(
-            f"LLM Request Failed: {response.status_code} - {response.text}"
-        )
-
-    data = response.json()
-
-    try:
-        answer = data["choices"][0]["message"]["content"].strip()
-    except (KeyError, IndexError, TypeError, AttributeError):
-        raise RuntimeError("LLM API returned an invalid response")
-
-    if not answer:
-        raise RuntimeError("LLM API returned an empty answer")
-
-    return answer
-"""
-    # ================================================================
-    # BACKUP: OPENAI
-    # ================================================================
+    user_prompt = (
+        "Drug information context:\n\n"
+        f"{joined}\n\n"
+        f"Question:\n{query}"
+    )
 
     try:
-        client = OpenAI(api_key=settings.openai_api_key)
-
-        response = client.responses.create(
-            model="gpt-5.6-luna",
-            instructions=system_prompt,
-            input=user_prompt,
+        response = requests.post(
+            f"{settings.llm_api_base.rstrip('/')}/chat/completions",
+            headers={
+                "Authorization": f"Bearer {settings.llm_api_key}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": settings.llm_model,
+                "messages": [
+                    {
+                        "role": "system",
+                        "content": system_prompt,
+                    },
+                    {
+                        "role": "user",
+                        "content": user_prompt,
+                    },
+                ],
+                "temperature": 0.2,
+            },
+            timeout=settings.llm_timeout_seconds,
         )
 
-    except Exception as exc:
-        raise RuntimeError(f"OpenAI request failed: {exc}") from exc
+        response.raise_for_status()
 
-    answer = response.output_text.strip()
+        data = response.json()
 
-    if not answer:
-        raise RuntimeError("OpenAI API returned an empty answer")
+        answer = data["choices"][0]["message"]["content"]
 
-    return answer
-"""
+        if not isinstance(answer, str):
+            return None
+
+        answer = " ".join(answer.split())
+
+        return answer or None
+
+    except Exception:
+        # The fallback is deliberately silent. A temporary API/network
+        # failure should not make the demo unusable.
+        return None
+
+
+def _extractive_answer(
+    query: str,
+    context: list[str],
+    tier: str,
+) -> str:
+    """
+    Produce a grounded fallback answer directly from retrieved context.
+
+    Retrieval has already selected the relevant drug section. The section
+    prose is lead-first, so its opening sentences are generally the most
+    useful material to read aloud.
+    """
+    query_terms = set(content_terms(query))
+
+    if query_terms and not any(
+        query_terms & set(content_terms(chunk))
+        for chunk in context
+    ):
+        return _NOT_COVERED
+
+    wanted = _SENTENCES_BY_TIER.get(tier, 2)
+
+    chosen: list[str] = []
+    chosen_terms: list[set[str]] = []
+
+    for sentence in _SENTENCE_SPLIT.split(context[0]):
+        sentence = sentence.strip()
+
+        if len(sentence) < 25:
+            continue
+
+        terms = set(content_terms(sentence))
+
+        # Avoid repeating nearly identical sentences, which can happen when
+        # a dossier contains prose followed by bullets covering the same fact.
+        if any(
+            terms and len(terms - seen) <= 1
+            for seen in chosen_terms
+        ):
+            continue
+
+        chosen.append(sentence)
+        chosen_terms.append(terms)
+
+        if len(chosen) == wanted:
+            break
+
+    return " ".join(chosen) if chosen else _NOT_COVERED

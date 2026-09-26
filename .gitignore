@@ -9,6 +9,7 @@ DerivedData/
 
 #Frontend
 node_modules
+frontend/node_modules/
 
 # Python
 __pycache__/
@@ -20,4 +21,9 @@ venv/
 .env
 .env.*
 *.db
-frontend/node_modules/
+
+# Training photos are large, numerous, and personal — collect them
+# locally per training/README.md, don't commit them. Exported .mlmodel/
+# .mlpackage files are NOT ignored — the app needs those checked in.
+training/data/*
+!training/data/.gitkeep

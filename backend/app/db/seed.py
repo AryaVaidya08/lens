@@ -1,74 +1,167 @@
 """
 Demo data seeding.
 
-Populates 3-4 mock HCPs and a handful of mock drugs before the demo, so
-personalization has real starting state to show a delta against. Run
-once at backend startup (see app/main.py's lifespan).
+Populates mock HCPs and drugs before the demo. Patient charts come
+from clinic/EHR ingest (`app/clinic/sync.py`), not from this file.
 
-Owned by: Content & demo lane.
+Seeding is idempotent and safe to run on every backend startup.
 """
 
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
+from typing import Optional
 
-from app.db.database import SessionLocal
-from app.db.models import Drug, Engagement, HCP
+from pymongo.database import Database
 
+from app.clinic.sync import sync_clinic_records
+from app.config import settings
+from app.db.mongo import get_database
+from app.db.passwords import hash_password
+from app.retrieval.ingest import load_dossiers
+
+
+# These IDs must match HCP.demoProfiles in Lens/Lens/Models/HCP.swift.
+# Email login for each demo account is the address below / password "demo".
 DEMO_HCPS = [
-    ("hcp_amara", "Dr. Amara Okafor", "Internal Medicine"),
-    ("hcp_ben", "Dr. Ben Whitfield", "Cardiology"),
-    ("hcp_priya", "Dr. Priya Nair", "Pediatrics"),
+    {
+        "_id": "hcp_001",
+        "name": "Dr. Maya Patel",
+        "first_name": "Maya",
+        "last_name": "Patel",
+        "email": "maya.patel@lens.demo",
+        "professional_role": "Physician",
+        "credentials": "MD",
+        "specialty": "Primary Care",
+        "organization": "Riverside Family Clinic",
+        "practice_setting": "Outpatient Clinic",
+        "city": "Atlanta",
+        "region": "GA",
+        "country": "United States",
+    },
+    {
+        "_id": "hcp_002",
+        "name": "Dr. James Chen",
+        "first_name": "James",
+        "last_name": "Chen",
+        "email": "james.chen@lens.demo",
+        "professional_role": "Physician",
+        "credentials": "MD",
+        "specialty": "Cardiology",
+        "organization": "Piedmont Heart",
+        "practice_setting": "Hospital",
+        "city": "Atlanta",
+        "region": "GA",
+        "country": "United States",
+    },
+    {
+        "_id": "hcp_003",
+        "name": "Dr. Sofia Ramirez",
+        "first_name": "Sofia",
+        "last_name": "Ramirez",
+        "email": "sofia.ramirez@lens.demo",
+        "professional_role": "Physician",
+        "credentials": "MD",
+        "specialty": "Endocrinology",
+        "organization": "Emory Endocrine",
+        "practice_setting": "Academic Medical Center",
+        "city": "Atlanta",
+        "region": "GA",
+        "country": "United States",
+    },
 ]
 
-# drug_id must match a filename stem under backend/data/drug_docs/
-DEMO_DRUGS = [
-    ("ibuprofen", "Ibuprofen", "3-00000-00171", "Ibuprofen"),
-    ("advil", "Advil", "3-05000-16803", "Ibuprofen"),
-    ("tylenol", "Tylenol", "3-00045-15467", "Acetaminophen"),
-    ("acetaminophen", "Acetaminophen", "3-00000-00172", "Acetaminophen"),
-    # Real NDCs (from the corpus/manifest) — these three have richer
-    # prescription-style dossiers, so they show a much bigger new-vs-expert
-    # tier contrast than the OTC drugs above.
-    ("adderall", "Adderall", "57844-105", "Amphetamine/Dextroamphetamine"),
-    ("lorazepam", "Lorazepam", "0641-6048", "Lorazepam"),
-    ("biofreeze", "Biofreeze", "3-00000-00173", "Menthol"),
-]
+DEMO_PASSWORD = "demo"
 
-# Pre-existing engagement so the demo can show "expert" without three live
-# scans: hcp_amara has already seen ibuprofen 3 times.
-DEMO_ENGAGEMENTS = [
-    ("hcp_amara", "ibuprofen", 3, timedelta(days=2)),
+# Give one persona prior familiarity so the personalization demo has
+# a visible "returning/expert" state immediately.
+PRESEEDED_ENGAGEMENTS = [
+    ("hcp_002", "lorazepam", 2),
+    ("hcp_001", "ibuprofen", 3),
 ]
 
 
-def seed() -> None:
-    """Inserts demo HCPs, Drugs, and a couple of Engagement rows. Safe to call more than once."""
-    db = SessionLocal()
-    try:
-        for hcp_id, name, specialty in DEMO_HCPS:
-            if db.query(HCP).filter(HCP.id == hcp_id).first() is None:
-                db.add(HCP(id=hcp_id, name=name, specialty=specialty))
+def seed(db: Optional[Database] = None) -> None:
+    """
+    Idempotent: safe on every startup.
 
-        for drug_id, name, barcode, generic in DEMO_DRUGS:
-            if db.query(Drug).filter(Drug.id == drug_id).first() is None:
-                db.add(Drug(id=drug_id, name=name, barcode=barcode, generic_name=generic))
+    Never resets engagement counts accumulated during a demo run and
+    never overwrites passwords or clinician-edited chart data.
+    """
+    db = db if db is not None else get_database()
 
-        db.commit()
+    # ------------------------------------------------------------------
+    # HCP accounts
+    # ------------------------------------------------------------------
+    for demo in DEMO_HCPS:
+        existing = db.hcps.find_one({"_id": demo["_id"]})
 
-        for hcp_id, drug_id, touch_count, age in DEMO_ENGAGEMENTS:
-            existing = (
-                db.query(Engagement)
-                .filter(Engagement.hcp_id == hcp_id, Engagement.drug_id == drug_id)
-                .first()
+        if existing is None:
+            row = dict(demo)
+            row["password_hash"] = hash_password(DEMO_PASSWORD)
+            row["patient_ids"] = []
+            db.hcps.insert_one(row)
+            continue
+
+        patch = {}
+
+        for key, value in demo.items():
+            if key == "_id":
+                continue
+            if not existing.get(key):
+                patch[key] = value
+
+        if not existing.get("password_hash"):
+            patch["password_hash"] = hash_password(DEMO_PASSWORD)
+
+        if "patient_ids" not in existing or existing.get("patient_ids") is None:
+            patch["patient_ids"] = []
+
+        if patch:
+            db.hcps.update_one(
+                {"_id": demo["_id"]},
+                {"$set": patch},
             )
-            if existing is None:
-                db.add(
-                    Engagement(
-                        hcp_id=hcp_id,
-                        drug_id=drug_id,
-                        touch_count=touch_count,
-                        last_seen=datetime.now(timezone.utc) - age,
-                    )
-                )
-        db.commit()
-    finally:
-        db.close()
+
+    # ------------------------------------------------------------------
+    # Drug corpus
+    # ------------------------------------------------------------------
+    # The corpus is the source of truth for drug metadata. This includes
+    # the larger llm-rag dossier corpus rather than a small hard-coded
+    # list of drugs.
+    for dossier in load_dossiers(settings.drug_docs_path).values():
+        db.drugs.update_one(
+            {"_id": dossier.drug_id},
+            {
+                "$set": {
+                    "name": dossier.name,
+                    "barcode": dossier.barcode,
+                }
+            },
+            upsert=True,
+        )
+
+    # ------------------------------------------------------------------
+    # Demo engagement history
+    # ------------------------------------------------------------------
+    now = datetime.now(timezone.utc)
+
+    for hcp_id, drug_id, touch_count in PRESEEDED_ENGAGEMENTS:
+        if db.drugs.find_one({"_id": drug_id}) is None:
+            continue
+
+        db.engagements.update_one(
+            {"_id": f"{hcp_id}:{drug_id}"},
+            {
+                "$setOnInsert": {
+                    "hcp_id": hcp_id,
+                    "drug_id": drug_id,
+                    "touch_count": touch_count,
+                    "last_seen": now,
+                }
+            },
+            upsert=True,
+        )
+
+    # ------------------------------------------------------------------
+    # Clinic/EHR demo patients
+    # ------------------------------------------------------------------
+    sync_clinic_records(db)
