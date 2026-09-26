@@ -71,6 +71,82 @@ _load_demo_index()
 
 _DEMO_PASSWORD_HASH = hash_password("demo")
 
+# Mongo is the only source of truth for patients (no more clinic_records/
+# JSON import). These mirror the old clinic-export fixtures so existing
+# test assertions (names, allergies, ownership) keep working.
+_DEMO_PATIENTS = (
+    {
+        "_id": "pat_001",
+        "hcp_id": "hcp_001",
+        "external_id": "MRN-10482",
+        "source": "riverside-ehr",
+        "first_name": "Elena",
+        "last_name": "Vasquez",
+        "birth_date": "1972-03-14",
+        "age": None,
+        "weight_kg": 72.5,
+        "sex": "Female",
+        "medical_history": "Type 2 diabetes, hypertension",
+        "allergies": "Penicillin, amphetamines",
+        "current_medications": "Metformin 1000 mg BID",
+        "notes": "Considering stimulant coverage for ADHD symptoms.",
+    },
+    {
+        "_id": "pat_002",
+        "hcp_id": "hcp_001",
+        "external_id": "MRN-11820",
+        "source": "riverside-ehr",
+        "first_name": "Marcus",
+        "last_name": "Hale",
+        "birth_date": "",
+        "age": 31,
+        "weight_kg": 88.0,
+        "sex": "Male",
+        "medical_history": "Anxiety, prior ankle sprain",
+        "allergies": "Sentitive Skin",
+        "current_medications": "None",
+        "notes": "Asked about topical NSAIDs for training soreness.",
+    },
+    {
+        "_id": "pat_003",
+        "hcp_id": "hcp_002",
+        "external_id": "MRN-22014",
+        "source": "piedmont-heart-ehr",
+        "first_name": "Priya",
+        "last_name": "Shah",
+        "birth_date": "",
+        "age": 67,
+        "weight_kg": 61.0,
+        "sex": "Female",
+        "medical_history": "Atrial fibrillation, osteoporosis",
+        "allergies": "Sulfa",
+        "current_medications": "Apixaban, metoprolol",
+        "notes": "Watch benzodiazepine use with fall risk.",
+    },
+    {
+        "_id": "pat_004",
+        "hcp_id": "hcp_003",
+        "external_id": "MRN-33109",
+        "source": "emory-endocrine-ehr",
+        "first_name": "Owen",
+        "last_name": "Blake",
+        "birth_date": "",
+        "age": 42,
+        "weight_kg": 96.0,
+        "sex": "Male",
+        "medical_history": "Type 1 diabetes, hypothyroidism",
+        "allergies": "Latex",
+        "current_medications": "Insulin aspart, levothyroxine",
+        "notes": "Weight and A1C trending up this quarter.",
+    },
+)
+
+_DEMO_PATIENT_IDS_BY_HCP = {
+    "hcp_001": ["pat_001", "pat_002"],
+    "hcp_002": ["pat_003"],
+    "hcp_003": ["pat_004"],
+}
+
 
 @pytest.fixture(autouse=True)
 def _restore_demo_logins():
@@ -88,6 +164,22 @@ def _restore_demo_logins():
         )
     yield
     auth_routes._ATTEMPTS.clear()
+
+
+@pytest.fixture(autouse=True)
+def _restore_demo_patients():
+    """Reset the four demo charts and their owning HCP's patient_ids.
+
+    Patients live only in Mongo now, so tests that mutate charts or steal
+    ownership need a clean baseline each run, same idea as
+    _restore_demo_logins above.
+    """
+    db = get_database()
+    for row in _DEMO_PATIENTS:
+        db.patients.update_one({"_id": row["_id"]}, {"$set": row}, upsert=True)
+    for hcp_id, patient_ids in _DEMO_PATIENT_IDS_BY_HCP.items():
+        db.hcps.update_one({"_id": hcp_id}, {"$set": {"patient_ids": list(patient_ids)}})
+    yield
 
 
 @pytest.fixture(scope="session")

@@ -1050,6 +1050,92 @@ h4 {
   background: #fffdf9;
 }
 
+.patient-list-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.patient-list-header-top h2 {
+  margin: 0;
+}
+
+.primary-button.small {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.secondary-button {
+  padding: 10px 16px;
+  border: 1px solid #d3c9b6;
+  border-radius: 3px;
+  background: transparent;
+  color: #241f1c;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.secondary-button:hover {
+  background: #f7f4ee;
+}
+
+.new-patient-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.new-patient-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: #6b6357;
+  flex: 1;
+}
+
+.new-patient-row {
+  display: flex;
+  gap: 10px;
+}
+
+.new-patient-form input,
+.new-patient-form textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border: 1px solid #d3c9b6;
+  border-radius: 3px;
+  outline: none;
+  font-size: 13px;
+  font-family: inherit;
+  background: #f7f4ee;
+  resize: vertical;
+}
+
+.new-patient-form input:focus,
+.new-patient-form textarea:focus {
+  border-color: #c2410c;
+  background: #fffdf9;
+}
+
+.new-patient-error {
+  padding: 8px 10px;
+  border-radius: 3px;
+  border: 1px solid #d97757;
+  background: transparent;
+  color: #9a3409;
+  font-size: 12px;
+}
+
+.new-patient-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
 .patient-header {
   display: flex;
   align-items: center;

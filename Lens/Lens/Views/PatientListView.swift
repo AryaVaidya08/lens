@@ -19,9 +19,9 @@ struct PatientListView: View {
                     )
                 } else if patients.isEmpty {
                     ContentUnavailableView(
-                        "No clinic records yet",
+                        "No patients yet",
                         systemImage: "folder",
-                        description: Text("Charts are imported from the hospital or practice database. They can't be edited in Lens.")
+                        description: Text("Patients are added from the Lens web dashboard. They can't be created here.")
                     )
                 } else {
                     List {
@@ -41,21 +41,17 @@ struct PatientListView: View {
             .tabIslandBottomClearance()
             .tabHeader("Patients")
         }
-        .task { await load(refreshClinic: false) }
-        .refreshable { await load(refreshClinic: true) }
+        .task { await load() }
+        .refreshable { await load() }
     }
 
     @MainActor
-    private func load(refreshClinic: Bool) async {
+    private func load() async {
         guard let hcpId = appState.selectedHCP?.id else { return }
         isLoading = true
         defer { isLoading = false }
         do {
-            if refreshClinic {
-                patients = try await APIClient.shared.syncPatients(hcpId: hcpId)
-            } else {
-                patients = try await APIClient.shared.listPatients(hcpId: hcpId)
-            }
+            patients = try await APIClient.shared.listPatients(hcpId: hcpId)
             errorMessage = nil
             if var profile = appState.selectedHCP {
                 profile.patientIds = patients.map(\.id)

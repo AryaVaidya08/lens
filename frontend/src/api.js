@@ -115,6 +115,16 @@ export async function getPatient(hcpId, patientId) {
   );
 }
 
+export async function createPatient(hcpId, patient) {
+  const data = await request(`/profile/${hcpId}/patients`, {
+    method: "POST",
+    headers: authHeaders(),
+    body: JSON.stringify(patient),
+  });
+
+  return data.patient;
+}
+
 export async function renameChat(hcpId, conversationId, title) {
   return request(
     `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,

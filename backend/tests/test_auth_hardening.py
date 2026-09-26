@@ -289,8 +289,8 @@ def test_private_routes_require_bearer_token(client):
     assert client.get("/profile/" + hcp_id).status_code == 401
     assert client.get("/profile/%s/patients" % hcp_id).status_code == 401
     assert client.get("/profile/%s/chats" % hcp_id).status_code == 401
-    assert client.get("/patients/pat_001").status_code == 401
-    assert client.post("/patients/sync").status_code == 401
+    assert client.get("/profile/%s/patients/pat_001" % hcp_id).status_code == 401
+    assert client.post("/profile/%s/patients" % hcp_id, json={"first_name": "A", "last_name": "B"}).status_code == 401
     assert client.get("/patients/pat_001/medication-reviews").status_code == 401
     assert client.get("/drug/adderall/summary", params={"hcp_id": hcp_id}).status_code == 401
     assert client.post("/drug/adderall/ask", json={"hcp_id": hcp_id, "query": "dose"}).status_code == 401

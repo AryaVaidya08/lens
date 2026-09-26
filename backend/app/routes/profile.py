@@ -2,6 +2,7 @@
 
 from datetime import datetime, timezone
 from typing import Optional
+from uuid import uuid4
 
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel, ConfigDict, Field
@@ -25,6 +26,8 @@ from app.db.sessions import assert_same_hcp, current_hcp
 from app.db.accounts import owned_patient, public_patient
 
 router = APIRouter(prefix="/profile", tags=["profile"])
+
+MAX_CHART_TEXT_LENGTH = 2000
 
 
 def to_utc_iso(value: Optional[datetime]) -> Optional[str]:
@@ -61,6 +64,20 @@ class ProfileUpdate(BaseModel):
 
 class RenameChatRequest(BaseModel):
     title: str = Field(min_length=1, max_length=100)
+
+
+class PatientCreate(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    first_name: str = Field(min_length=1, max_length=MAX_NAME_LENGTH)
+    last_name: str = Field(min_length=1, max_length=MAX_NAME_LENGTH)
+    birth_date: Optional[str] = Field(default=None, max_length=10)
+    age: Optional[int] = Field(default=None, ge=0, le=150)
+    weight_kg: Optional[float] = Field(default=None, ge=0, le=500)
+    sex: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
+    medical_history: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
+    allergies: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
+    current_medications: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
+    notes: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
 
 @router.get("/{hcp_id}/chats")
 def list_chats(
@@ -186,6 +203,43 @@ def list_patients(
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
     return {"patients": patients_for_hcp(db, hcp)}
+
+
+@router.post("/{hcp_id}/patients")
+def create_patient(
+    hcp_id: str,
+    payload: PatientCreate,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    """Create a new patient chart directly in Mongo. The only writer of patients."""
+    assert_same_hcp(hcp, hcp_id)
+
+    first = optional_text(payload.first_name, MAX_NAME_LENGTH)
+    last = optional_text(payload.last_name, MAX_NAME_LENGTH)
+    if not first or not last:
+        raise HTTPException(status_code=422, detail="First and last name are required.")
+
+    patient_id = "pat_%s" % uuid4().hex[:12]
+    row = {
+        "_id": patient_id,
+        "hcp_id": hcp["_id"],
+        "external_id": "",
+        "source": "manual",
+        "first_name": first,
+        "last_name": last,
+        "birth_date": optional_text(payload.birth_date, 10),
+        "age": payload.age,
+        "weight_kg": payload.weight_kg,
+        "sex": optional_text(payload.sex, MAX_FIELD_LENGTH),
+        "medical_history": optional_text(payload.medical_history, MAX_CHART_TEXT_LENGTH),
+        "allergies": optional_text(payload.allergies, MAX_CHART_TEXT_LENGTH),
+        "current_medications": optional_text(payload.current_medications, MAX_CHART_TEXT_LENGTH),
+        "notes": optional_text(payload.notes, MAX_CHART_TEXT_LENGTH),
+    }
+    db.patients.insert_one(row)
+    db.hcps.update_one({"_id": hcp["_id"]}, {"$push": {"patient_ids": patient_id}})
+    return {"patient": public_patient(row)}
 
 @router.get("/{hcp_id}/patients/{patient_id}")
 def get_patient(

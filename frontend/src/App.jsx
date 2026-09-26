@@ -6,7 +6,8 @@ import {
   getDrugSummary,
   askDrugQuestion,
   logEngagement,
-  getPatients
+  getPatients,
+  createPatient
 } from "./api";
 import { drugs } from "./data/mockData";
 import Sidebar from "./components/Sidebar";
@@ -166,6 +167,15 @@ function App() {
 
     loadPatients();
   }, [hcpId]);
+
+  async function handleCreatePatient(payload) {
+    if (!hcpId) return;
+
+    const patient = await createPatient(hcpId, payload);
+    setPatients((currentPatients) => [...currentPatients, patient]);
+    setSelectedPatient(patient);
+    return patient;
+  }
 
   useEffect(() => {
     if (!selectedDrug || !hcpId) {
@@ -441,6 +451,7 @@ function App() {
               patients={patients}
               selectedPatient={selectedPatient}
               onSelect={setSelectedPatient}
+              onCreate={handleCreatePatient}
             />
 
             <PatientDetails

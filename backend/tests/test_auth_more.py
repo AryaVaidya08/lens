@@ -178,7 +178,7 @@ def test_header_cookie_form_and_method_override_cannot_authenticate(client):
     )
     assert (
         client.get(
-            "/patients/pat_001",
+            "/profile/%s/patients/pat_001" % created["hcp_id"],
             headers={
                 "Authorization": "Bearer " + token,
                 "X-HTTP-Method-Override": "DELETE",
@@ -250,7 +250,12 @@ def test_path_like_ids_and_unknown_drugs_do_not_change_status_shape(client):
     missing = client.get("/drug/not-a-drug/summary", params={"hcp_id": hcp_id}, headers=headers)
     assert missing.status_code == 404
     assert "password" not in missing.text.lower()
-    assert client.get("/patients/" + quote("../pat_001", safe=""), headers=headers).status_code in {404, 422}
+    assert (
+        client.get(
+            "/profile/%s/patients/%s" % (hcp_id, quote("../pat_001", safe="")), headers=headers
+        ).status_code
+        in {404, 422}
+    )
     status = client.get("/status").json()
     assert "llm_api_key" not in status
     assert "mongodb_uri" not in status

@@ -151,15 +151,6 @@ final class APIClient {
         try await get(Endpoints.patients(hcpId: hcpId), as: PatientListResponse.self).patients
     }
 
-    /// POST /patients/sync?hcp_id=
-    func syncPatients(hcpId: String) async throws -> [Patient] {
-        try await post(
-            Endpoints.syncPatients,
-            body: EmptyBody(),
-            as: ClinicSyncResponse.self
-        ).patients ?? []
-    }
-
     /// POST /detect
     func detectDrug(barcode: String?, ocrText: String?) async throws -> Drug {
         try await post(

@@ -4,8 +4,6 @@ import json
 import uuid
 from datetime import datetime, timedelta, timezone
 
-from app.clinic.ingest import parse_clinic_record
-from app.clinic.sync import sync_clinic_records
 from app.db.mongo import get_database
 from app.db.passwords import hash_token
 from app.routes import auth as auth_routes
@@ -94,55 +92,21 @@ def test_poisoned_patient_ids_do_not_list_another_doctors_chart(client):
     db.hcps.update_one({"_id": created["hcp_id"]}, {"$set": {"patient_ids": ["pat_001", "pat_003"]}})
     rows = client.get("/profile/%s/patients" % created["hcp_id"], headers=headers).json()["patients"]
     assert rows == []
-    assert client.get("/patients/pat_001", headers=headers).status_code == 404
-    assert client.get("/patients/pat_003", headers=headers).status_code == 404
-
-
-def test_clinic_sync_cannot_overwrite_or_steal_another_chart(client, monkeypatch):
-    created = _register(client).json()
-    thief = created["hcp_id"]
-    headers = {"Authorization": "Bearer " + created["session_token"]}
-    maya, _ = login(client)
-
-    def fake_records():
-        return [
-            {
-                "_id": "pat_001",
-                "hcp_id": thief,
-                "first_name": "Stolen",
-                "last_name": "Chart",
-                "external_id": "X",
-                "source": "attack",
-                "age": 1,
-                "weight_kg": 1,
-                "sex": "",
-                "medical_history": "",
-                "allergies": "",
-                "current_medications": "",
-                "notes": "",
-            }
-        ]
-
-    monkeypatch.setattr("app.clinic.sync.load_clinic_records", fake_records)
-    sync_clinic_records(get_database(), hcp_id=thief)
-    elena = client.get("/patients/pat_001", headers=maya).json()
-    assert elena["first_name"] == "Elena"
-    assert elena["hcp_id"] == "hcp_001"
-    assert client.get("/patients/pat_001", headers=headers).status_code == 404
-    other = client.post("/patients/sync", params={"hcp_id": "hcp_001"}, headers=headers)
-    assert other.status_code == 200
-    assert all(row["hcp_id"] == thief for row in other.json()["patients"])
+    assert client.get("/profile/%s/patients/pat_001" % created["hcp_id"], headers=headers).status_code == 404
+    assert client.get("/profile/%s/patients/pat_003" % created["hcp_id"], headers=headers).status_code == 404
 
 
 def test_guessed_patient_ids_and_wrong_methods(client):
     headers, _ = login(client, "hcp_002")
     for pid in ("pat_001", "pat_002", "pat_004", "pat_999", "{$gt:''}"):
-        assert client.get("/patients/" + pid, headers=headers).status_code == 404
-    assert client.get("/patients/pat_003", headers=headers).status_code == 200
+        assert client.get("/profile/hcp_002/patients/" + pid, headers=headers).status_code == 404
+    assert client.get("/profile/hcp_002/patients/pat_003", headers=headers).status_code == 200
     assert client.get("/auth/login").status_code == 405
     assert client.get("/detect").status_code == 405
     assert client.delete("/profile/hcp_002", headers=headers).status_code == 405
-    assert client.put("/patients/pat_003", json={"first_name": "X"}, headers=headers).status_code == 405
+    assert client.put(
+        "/profile/hcp_002/patients/pat_003", json={"first_name": "X"}, headers=headers
+    ).status_code == 405
     assert client.post("/health").status_code == 405
     assert client.post("/status").status_code == 405
     assert client.get("/health").json() == {"status": "ok"}
@@ -298,15 +262,3 @@ def test_openapi_and_status_do_not_leak_secrets_or_mutate(client):
     assert "session_token" not in before
     assert client.post("/status").status_code == 405
     assert client.get("/status").json()["indexed_chunks"] == before["indexed_chunks"]
-
-
-def test_clinic_record_path_ids_are_dropped():
-    assert parse_clinic_record(
-        {"patient_id": "../../../etc/passwd", "hcp_id": "hcp_001", "first_name": "A", "last_name": "B"}
-    ) is None
-    assert parse_clinic_record(
-        {"patient_id": "pat_x", "hcp_id": {"$gt": ""}, "first_name": "A", "last_name": "B"}
-    ) is None
-    assert parse_clinic_record(
-        {"_id": {"$gt": ""}, "hcp_id": "hcp_001", "first_name": "A", "last_name": "B"}
-    ) is None

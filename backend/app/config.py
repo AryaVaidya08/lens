@@ -110,14 +110,6 @@ class Settings:
             "sentence-transformers/all-MiniLM-L6-v2",
         )
 
-        # Clinic / patient data.
-        self.clinic_records_path: str = os.environ.get(
-            "CLINIC_RECORDS_PATH",
-            str(BACKEND_ROOT / "data" / "clinic_records"),
-        )
-        self.clinic_api_url: str = os.environ.get("CLINIC_API_URL", "")
-        self.clinic_api_token: str = os.environ.get("CLINIC_API_TOKEN", "")
-
         # Retrieval / startup behavior.
         self.retrieval_top_k: int = int(
             os.environ.get("RETRIEVAL_TOP_K", "4")

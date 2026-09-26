@@ -153,7 +153,7 @@ CHART_FLAGS = [
 PRIVATE_GETS = [
     "/profile/hcp_001",
     "/profile/hcp_001/patients",
-    "/patients/pat_001",
+    "/profile/hcp_001/patients/pat_001",
     "/patients/pat_001/medication-reviews",
     "/drug/adderall/summary?hcp_id=hcp_001",
 ]

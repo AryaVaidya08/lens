@@ -44,9 +44,3 @@ struct Patient: Codable, Identifiable, Equatable, Hashable {
 struct PatientListResponse: Decodable {
     let patients: [Patient]
 }
-
-struct ClinicSyncResponse: Decodable {
-    let imported: Int
-    let clinicians: Int
-    let patients: [Patient]?
-}
