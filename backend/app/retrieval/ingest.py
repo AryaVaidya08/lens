@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 from pathlib import Path
 
 import numpy as np
@@ -163,3 +164,37 @@ def ingest_docs(folder_path: str | None = None) -> list[Chunk]:
 
     set_index(ready)
     return ready
+
+
+_FIELD_HEADER = re.compile(r"^[a-z0-9_]+:$")
+
+
+def parse_dossier_fields(drug_id: str, folder_path: str | None = None) -> dict[str, str]:
+    """
+    Reads the raw drug_docs file for `drug_id` and returns {field_name: value}.
+
+    The corpus format is one field per block: an unindented "field_name:"
+    line followed by one or more indented lines holding that field's text.
+    Returns {} if the file can't be found. Used by personalization/scorer.py
+    to pick which fields to surface for the HUD summary — separate from
+    chunk_text above, which is for embeddings, not named-field lookup.
+    """
+    root = Path(folder_path or settings.drug_docs_path)
+    for drug_id_found, path in _iter_doc_files(root):
+        if drug_id_found != drug_id:
+            continue
+        fields: dict[str, str] = {}
+        current_key: str | None = None
+        current_value: list[str] = []
+        for line in path.read_text(encoding="utf-8").splitlines():
+            if not line.startswith((" ", "\t")) and _FIELD_HEADER.match(line.strip()):
+                if current_key is not None:
+                    fields[current_key] = " ".join(current_value).strip()
+                current_key = line.strip().rstrip(":")
+                current_value = []
+            elif current_key is not None and line.strip():
+                current_value.append(line.strip())
+        if current_key is not None:
+            fields[current_key] = " ".join(current_value).strip()
+        return fields
+    return {}
