@@ -32,6 +32,11 @@ extension CGRect {
 }
 
 final class ObjectDetector {
+    /// Detections below this confidence don't get a box drawn — the
+    /// model's own built-in NMS defaults to 0.25, which was letting
+    /// through too many low-confidence false positives.
+    private let minimumConfidence: Float = 0.5
+
     private let request: VNCoreMLRequest
 
     init() {
@@ -50,8 +55,8 @@ final class ObjectDetector {
 
     /// Returns the bounding box of the largest detected pill bottle in the
     /// frame, normalized to a 0...1 unit square with the origin at
-    /// top-left, or `nil` if none was detected above the model's
-    /// confidence threshold.
+    /// top-left, or `nil` if none was detected at or above
+    /// `minimumConfidence`.
     func detectObject(pixelBuffer: CVPixelBuffer, orientation: CGImagePropertyOrientation = .right) -> CGRect? {
         let handler = VNImageRequestHandler(cvPixelBuffer: pixelBuffer, orientation: orientation, options: [:])
 
@@ -61,7 +66,12 @@ final class ObjectDetector {
             return nil
         }
 
-        guard let observations = request.results as? [VNRecognizedObjectObservation], !observations.isEmpty else {
+        guard let allObservations = request.results as? [VNRecognizedObjectObservation] else {
+            return nil
+        }
+
+        let observations = allObservations.filter { $0.confidence >= minimumConfidence }
+        guard !observations.isEmpty else {
             return nil
         }
 
