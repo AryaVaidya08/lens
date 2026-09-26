@@ -5,6 +5,7 @@ async function request(url, options = {}) {
     ...options,
     headers: {
       "Content-Type": "application/json",
+      "X-Timezone": Intl.DateTimeFormat().resolvedOptions().timeZone,
       ...(options.headers || {}),
     },
   });
@@ -52,6 +53,16 @@ export async function getChats(hcpId) {
   return data.chats;
 }
 
+export async function deleteChat(hcpId, conversationId) {
+  return request(
+    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    {
+      method: "DELETE",
+      headers: authHeaders(),
+    }
+  );
+}
+
 export async function getDrugSummary(drugId, hcpId) {
   return request(
     `/drug/${drugId}/summary?hcp_id=${encodeURIComponent(hcpId)}`,
@@ -61,13 +72,19 @@ export async function getDrugSummary(drugId, hcpId) {
   );
 }
 
-export async function askDrugQuestion(drugId, hcpId, query) {
+export async function askDrugQuestion(
+  drugId,
+  hcpId,
+  query,
+  conversationId = null
+) {
   return request(`/drug/${drugId}/ask`, {
     method: "POST",
     headers: authHeaders(),
     body: JSON.stringify({
       hcp_id: hcpId,
       query,
+      conversation_id: conversationId,
     }),
   });
 }
@@ -81,4 +98,30 @@ export async function logEngagement(hcpId, drugId) {
       drug_id: drugId,
     }),
   });
+}
+
+export async function getPatients(hcpId) {
+  return request(`/profile/${hcpId}/patients`, {
+    headers: authHeaders(),
+  });
+}
+
+export async function getPatient(hcpId, patientId) {
+  return request(
+    `/profile/${hcpId}/patients/${encodeURIComponent(patientId)}`,
+    {
+      headers: authHeaders(),
+    }
+  );
+}
+
+export async function renameChat(hcpId, conversationId, title) {
+  return request(
+    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    {
+      method: "PATCH",
+      headers: authHeaders(),
+      body: JSON.stringify({ title }),
+    }
+  );
 }

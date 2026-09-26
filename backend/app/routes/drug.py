@@ -17,6 +17,8 @@ from app.personalization.patient_check import check_patient_chart
 from app.personalization.scorer import build_summary_content, score_familiarity, _truncate
 from app.retrieval.index import retrieve
 
+from uuid import uuid4
+
 router = APIRouter(prefix="/drug", tags=["drug"])
 
 MAX_BULLETS = 3
@@ -25,6 +27,7 @@ MAX_BULLETS = 3
 class AskRequest(BaseModel):
     hcp_id: str = Field(max_length=64)
     query: str = Field(max_length=2000)
+    conversation_id: Optional[str] = Field(default=None, max_length=64)
 
 
 @router.get("/{drug_id}/summary")
@@ -136,14 +139,20 @@ def ask_question(
             detail=str(exc),
         )
 
+    conversation_id = payload.conversation_id or str(uuid4())
+
     db.chats.insert_one(
         {
             "hcp_id": hcp["_id"],
             "drug_id": drug_id,
+            "conversation_id": conversation_id,
             "question": query,
             "answer": answer,
             "asked_at": datetime.now(timezone.utc),
         }
     )
 
-    return {"answer_text": answer}
+    return {
+        "answer_text": answer,
+        "conversation_id": conversation_id,
+    }

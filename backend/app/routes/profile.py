@@ -22,8 +22,25 @@ from app.db.accounts import (
 from app.db.database import get_db
 from app.db.passwords import MAX_PASSWORD_LENGTH, password_matches
 from app.db.sessions import assert_same_hcp, current_hcp
+from app.db.accounts import owned_patient, public_patient
 
 router = APIRouter(prefix="/profile", tags=["profile"])
+
+
+def to_utc_iso(value: Optional[datetime]) -> Optional[str]:
+    """Serialize a datetime as an unambiguous UTC ISO string.
+
+    MongoDB returns naive datetimes even though everything we write is UTC.
+    A naive isoformat() string (no offset) gets parsed by JS `Date` as local
+    time, not UTC, which is why times looked "stuck" on the server's clock.
+    Attaching UTC tzinfo before formatting fixes that: the browser can then
+    convert correctly with `new Date(value).toLocaleString()`.
+    """
+    if value is None:
+        return None
+    if value.tzinfo is None:
+        value = value.replace(tzinfo=timezone.utc)
+    return value.isoformat()
 
 
 class ProfileUpdate(BaseModel):
@@ -42,7 +59,10 @@ class ProfileUpdate(BaseModel):
     region: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
     country: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
 
+class RenameChatRequest(BaseModel):
+    title: str = Field(min_length=1, max_length=100)
 
+@router.get("/{hcp_id}/chats")
 @router.get("/{hcp_id}/chats")
 def list_chats(
     hcp_id: str,
@@ -57,23 +77,107 @@ def list_chats(
         .limit(50)
     )
 
-    return {
-        "chats": [
-            {
-                "id": str(row["_id"]),
-                "drug_id": row["drug_id"],
-                "question": row["question"],
-                "answer": row["answer"],
-                "asked_at": (
-                    row["asked_at"].isoformat()
-                    if row.get("asked_at")
-                    else None
-                ),
-            }
-            for row in rows
-        ]
-    }
+    conversations = {}
 
+    for row in rows:
+        # New chats have conversation_id.
+        # Older chats use their MongoDB ID as a stable fallback.
+        conversation_id = row.get("conversation_id") or str(row["_id"])
+
+        if conversation_id not in conversations:
+            conversations[conversation_id] = []
+
+        conversations[conversation_id].append(row)
+
+    chats = []
+
+    for conversation_id, conversation_rows in conversations.items():
+        # Oldest message first inside the conversation.
+        conversation_rows.sort(
+            key=lambda row: row.get("asked_at") or datetime.min
+        )
+
+        messages = []
+
+        for row in conversation_rows:
+            row_id = str(row["_id"])
+
+            messages.append(
+                {
+                    "id": f"{row_id}-user",
+                    "role": "user",
+                    "text": row["question"],
+                }
+            )
+
+            messages.append(
+                {
+                    "id": f"{row_id}-assistant",
+                    "role": "assistant",
+                    "text": row["answer"],
+                }
+            )
+
+        latest_row = conversation_rows[-1]
+        first_row = conversation_rows[0]
+
+        chats.append(
+            {
+                "id": conversation_id,
+                "conversation_id": conversation_id,
+                "drug_id": latest_row["drug_id"],
+                "question": first_row["question"],
+                "answer": first_row["answer"],
+                "title": latest_row.get("title")
+                or first_row["question"][:50],
+                "preview": latest_row["question"],
+                "asked_at": to_utc_iso(latest_row.get("asked_at")),
+                "messages": messages,
+            }
+        )
+    # Most recently active conversation first.
+    chats.sort(key=lambda chat: chat.get("asked_at") or "", reverse=True)
+
+    return {"chats": chats}
+
+@router.delete("/{hcp_id}/chats/{conversation_id}")
+def delete_chat(
+    hcp_id: str,
+    conversation_id: str,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    # New conversations store conversation_id directly.
+    result = db.chats.delete_many(
+        {
+            "hcp_id": hcp["_id"],
+            "conversation_id": conversation_id,
+        }
+    )
+
+    # Legacy conversations did not have conversation_id.
+    # Their conversation ID is represented by their MongoDB _id.
+    if result.deleted_count == 0:
+        from bson import ObjectId
+
+        try:
+            object_id = ObjectId(conversation_id)
+        except Exception:
+            object_id = None
+
+        if object_id:
+            result = db.chats.delete_many(
+                {
+                    "hcp_id": hcp["_id"],
+                    "_id": object_id,
+                }
+            )
+
+    return {
+        "deleted": result.deleted_count > 0,
+    }
 
 @router.get("/{hcp_id}/patients")
 def list_patients(
@@ -83,6 +187,19 @@ def list_patients(
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
     return {"patients": patients_for_hcp(db, hcp)}
+
+@router.get("/{hcp_id}/patients/{patient_id}")
+def get_patient(
+    hcp_id: str,
+    patient_id: str,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    patient = owned_patient(db, hcp, patient_id)
+
+    return {"patient": public_patient(patient)}
 
 
 @router.get("/{hcp_id}")
@@ -184,3 +301,59 @@ def update_profile(
     if stored is None:
         raise HTTPException(status_code=404, detail="Unknown hcp_id: %s" % hcp_id)
     return public_hcp(stored, db)
+
+@router.patch("/{hcp_id}/chats/{conversation_id}")
+def rename_chat(
+    hcp_id: str,
+    conversation_id: str,
+    payload: RenameChatRequest,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    title = payload.title.strip()
+
+    if not title:
+        raise HTTPException(
+            status_code=400,
+            detail="Conversation title cannot be empty.",
+        )
+
+    result = db.chats.update_many(
+        {
+            "hcp_id": hcp["_id"],
+            "conversation_id": conversation_id,
+        },
+        {
+            "$set": {
+                "title": title,
+            }
+        },
+    )
+
+    # Support old conversations that use the MongoDB _id as their conversation ID.
+    if result.matched_count == 0:
+        from bson import ObjectId
+
+        try:
+            object_id = ObjectId(conversation_id)
+        except Exception:
+            object_id = None
+
+        if object_id:
+            result = db.chats.update_one(
+                {
+                    "hcp_id": hcp["_id"],
+                    "_id": object_id,
+                },
+                {
+                    "$set": {
+                        "title": title,
+                    }
+                },
+            )
+
+    return {
+        "title": title,
+    }

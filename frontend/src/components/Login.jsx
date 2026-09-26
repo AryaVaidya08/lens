@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { login } from "../api";
+import logo from "../../img/logo-icon-removebg.png";
 
 function Login({ onLogin }) {
   const [email, setEmail] = useState("");
@@ -26,7 +27,7 @@ function Login({ onLogin }) {
     <div className="login-page">
       <div className="login-card">
         <div className="login-brand">
-          <span className="login-logo">L</span>
+          <img src={logo} />
           <div>
             <h1>Lens</h1>
             <p>Clinical intelligence, personalized.</p>
