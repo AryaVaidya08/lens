@@ -5,15 +5,20 @@ Owned by: Voice & LLM lane (ask_question, retrieval weighting) and
 Backend & data lane (get_summary, personalization plumbing).
 """
 
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, Depends, HTTPException
+from sqlalchemy.orm import Session
+
+from ..db.database import get_db
+from ..db.models import Drug
 from ..llm.client import generate_answer
+from ..personalization.scorer import build_summary_content, score_familiarity
 from ..retrieval.index import retrieve
 
 router = APIRouter(prefix="/drug", tags=["drug"])
 
 
 @router.get("/{drug_id}/summary")
-def get_summary(drug_id: str, hcp_id: str) -> dict:
+def get_summary(drug_id: str, hcp_id: str, db: Session = Depends(get_db)) -> dict:
     """
     Personalized HUD content for a drug, tailored to the HCP's
     familiarity tier.
@@ -21,13 +26,21 @@ def get_summary(drug_id: str, hcp_id: str) -> dict:
     Contract (see Models/DrugSummary.swift):
       -> { "drug_id": str, "name": str, "tier": "new" | "returning" | "expert",
            "headline": str, "bullets": list[str] }
-
-    TODO: implement — call personalization/scorer.py::score_familiarity,
-    then pick which fields of the drug dossier to surface based on tier
-    ("new" -> basics, "expert" -> dosing/trial data).
     """
-    # TODO: implement
-    raise NotImplementedError
+    drug = db.query(Drug).filter(Drug.id == drug_id).first()
+    if drug is None:
+        raise HTTPException(status_code=404, detail=f"Unknown drug_id: {drug_id}")
+
+    tier = score_familiarity(hcp_id, drug_id)
+    headline, bullets = build_summary_content(drug_id, tier)
+
+    return {
+        "drug_id": drug.id,
+        "name": drug.name,
+        "tier": tier,
+        "headline": headline,
+        "bullets": bullets,
+    }
 
 
 @router.post("/{drug_id}/ask")
