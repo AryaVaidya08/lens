@@ -36,6 +36,8 @@ from app.routes import auth, detect, drug, engagement, patients, profile, medica
 
 logger = logging.getLogger("uvicorn.error")
 
+from fastapi.middleware.cors import CORSMiddleware
+
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -81,6 +83,14 @@ app = FastAPI(
     title="HCP Spatial Copilot",
     lifespan=lifespan,
     redirect_slashes=False,
+)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(auth.router)

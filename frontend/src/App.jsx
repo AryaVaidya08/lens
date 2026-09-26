@@ -1,86 +1,218 @@
-import { useState } from "react";
-
-import { drugs, chats as initialChats } from "./data/mockData";
-
+import { useEffect, useState } from "react";
+import { getChats, getDrugSummary, askDrugQuestion, logEngagement } from "./api";
+import { drugs } from "./data/mockData";
 import Sidebar from "./components/Sidebar";
 import ChatList from "./components/ChatList";
 import ChatView from "./components/ChatView";
 import DrugList from "./components/DrugList";
 import DrugDetails from "./components/DrugDetails";
+import Login from "./components/Login";
 
 function App() {
+  const [hcpId, setHcpId] = useState(() =>
+    localStorage.getItem("lens_hcp_id")
+  );
+
   const [view, setView] = useState("chats");
-
-  const [chats, setChats] = useState(initialChats);
-
+  const [chats, setChats] = useState([]);
   const [selectedChat, setSelectedChat] = useState(null);
   const [selectedDrug, setSelectedDrug] = useState(null);
+  const [drugSummary, setDrugSummary] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [loadingDrug, setLoadingDrug] = useState(false);
+  const [error, setError] = useState(null);
 
-  const handleSendMessage = (chatId, text) => {
+  function handleLogin(profile) {
+    setHcpId(profile.hcp_id);
+    setError(null);
+  }
+
+  function handleLogout() {
+    localStorage.removeItem("lens_session_token");
+    localStorage.removeItem("lens_hcp_id");
+    setHcpId(null);
+    setChats([]);
+    setSelectedChat(null);
+    setSelectedDrug(null);
+  }
+
+  useEffect(() => {
+    if (!hcpId) return;
+
+    async function loadChats() {
+      setLoading(true);
+      setError(null);
+
+      try {
+        const data = await getChats(hcpId);
+
+        const formattedChats = data.map((chat) => ({
+          id: chat.id,
+          drugId: chat.drug_id,
+          drugName:
+            drugs.find((drug) => drug.id === chat.drug_id)?.name ||
+            chat.drug_id,
+          timestamp: chat.asked_at
+            ? new Date(chat.asked_at).toLocaleString()
+            : "",
+          preview: chat.question,
+          messages: [
+            {
+              id: `${chat.id}-user`,
+              role: "user",
+              text: chat.question,
+            },
+            {
+              id: `${chat.id}-assistant`,
+              role: "assistant",
+              text: chat.answer,
+            },
+          ],
+        }));
+
+        setChats(formattedChats);
+      } catch (err) {
+        console.error("Failed to load chats:", err);
+
+        if (err.message.includes("401")) {
+          handleLogout();
+        } else {
+          setError(`Failed to load chats: ${err.message}`);
+        }
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    loadChats();
+  }, [hcpId]);
+
+  useEffect(() => {
+    if (!selectedDrug || !hcpId) {
+      setDrugSummary(null);
+      return;
+    }
+
+    async function loadDrug() {
+      setLoadingDrug(true);
+      setError(null);
+
+      try {
+        const summary = await getDrugSummary(selectedDrug.id, hcpId);
+        setDrugSummary(summary);
+        await logEngagement(hcpId, selectedDrug.id);
+      } catch (err) {
+        console.error("Failed to load drug:", err);
+        setError(err.message);
+      } finally {
+        setLoadingDrug(false);
+      }
+    }
+
+    loadDrug();
+  }, [selectedDrug, hcpId]);
+
+  async function handleSendMessage(chatId, text) {
+    const chat = chats.find((item) => item.id === chatId);
+
+    if (!chat || !hcpId) return;
+
     const userMessage = {
       id: `msg-${Date.now()}`,
       role: "user",
       text,
     };
 
-    const assistantMessage = {
-      id: `msg-${Date.now()}-assistant`,
-      role: "assistant",
-      text:
-        "Thanks for your question. This is a mock response for the frontend demo. The production version will use the drug information backend.",
-    };
-
     setChats((currentChats) =>
-      currentChats.map((chat) => {
-        if (chat.id !== chatId) {
-          return chat;
-        }
-
-        return {
-          ...chat,
-          messages: [
-            ...chat.messages,
-            userMessage,
-            assistantMessage,
-          ],
-          preview: text,
-          timestamp: "Just now",
-        };
-      })
+      currentChats.map((item) =>
+        item.id === chatId
+          ? {
+              ...item,
+              messages: [...item.messages, userMessage],
+              preview: text,
+              timestamp: "Just now",
+            }
+          : item
+      )
     );
 
-    setSelectedChat((currentChat) => {
-      if (!currentChat || currentChat.id !== chatId) {
-        return currentChat;
-      }
+    setSelectedChat((currentChat) =>
+      currentChat?.id === chatId
+        ? {
+            ...currentChat,
+            messages: [...currentChat.messages, userMessage],
+            preview: text,
+            timestamp: "Just now",
+          }
+        : currentChat
+    );
 
-      return {
-        ...currentChat,
-        messages: [
-          ...currentChat.messages,
-          userMessage,
-          assistantMessage,
-        ],
-        preview: text,
-        timestamp: "Just now",
+    try {
+      const response = await askDrugQuestion(chat.drugId, hcpId, text);
+
+      const assistantMessage = {
+        id: `msg-${Date.now()}-assistant`,
+        role: "assistant",
+        text: response.answer_text,
       };
-    });
-  };
+
+      setChats((currentChats) =>
+        currentChats.map((item) =>
+          item.id === chatId
+            ? {
+                ...item,
+                messages: [...item.messages, assistantMessage],
+              }
+            : item
+        )
+      );
+
+      setSelectedChat((currentChat) =>
+        currentChat?.id === chatId
+          ? {
+              ...currentChat,
+              messages: [...currentChat.messages, assistantMessage],
+            }
+          : currentChat
+      );
+    } catch (err) {
+      console.error("Failed to answer question:", err);
+
+      const errorMessage = {
+        id: `msg-${Date.now()}-error`,
+        role: "assistant",
+        text: `Sorry, I couldn't get an answer: ${err.message}`,
+      };
+
+      setSelectedChat((currentChat) =>
+        currentChat?.id === chatId
+          ? {
+              ...currentChat,
+              messages: [...currentChat.messages, errorMessage],
+            }
+          : currentChat
+      );
+    }
+  }
+
+  if (!hcpId) {
+    return <Login onLogin={handleLogin} />;
+  }
 
   return (
     <div className="app">
-      <Sidebar
-        view={view}
-        setView={setView}
-      />
+      <Sidebar view={view} setView={setView} />
 
       <main className="main-content">
+        {error && <div className="error-banner">{error}</div>}
+
         {view === "chats" && (
           <div className="content-layout">
             <ChatList
               chats={chats}
               selectedChat={selectedChat}
               setSelectedChat={setSelectedChat}
+              loading={loading}
             />
 
             <ChatView
@@ -98,7 +230,12 @@ function App() {
               setSelectedDrug={setSelectedDrug}
             />
 
-            <DrugDetails drug={selectedDrug} />
+            <DrugDetails
+              drug={selectedDrug}
+              summary={drugSummary}
+              loading={loadingDrug}
+              error={error}
+            />
           </div>
         )}
       </main>
