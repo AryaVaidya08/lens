@@ -31,6 +31,7 @@ swiftc -warnings-as-errors -module-cache-path "$check_dir/modules" \
     Lens/Lens/Voice/SpeechRecognitionDriver.swift \
     Lens/Lens/Voice/SpeechRecognizer.swift Lens/Lens/Voice/PlaceholderAssistant.swift \
     Lens/Lens/Models/DemoDrugCatalog.swift Lens/Lens/Models/Drug.swift \
+    Lens/Lens/Models/Patient.swift \
     Lens/Lens/Models/DrugSummary.swift \
     Lens/Tests/VoiceChecks.swift -o "$check_dir/voice-checks"
 "$check_dir/voice-checks"

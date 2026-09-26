@@ -37,8 +37,11 @@ struct HUDOverlayView: View {
                 Text(summary.headline)
                     .font(.caption)
                     .foregroundStyle(.secondary)
-                ForEach(summary.bullets, id: \.self) { bullet in
-                    Text("• " + bullet).font(.caption2)
+                    .lineLimit(2)
+                ForEach(Array(summary.previewBullets.enumerated()), id: \.offset) { _, bullet in
+                    Text("• " + bullet)
+                        .font(.caption2)
+                        .lineLimit(2)
                 }
                 if isOffline, let retry {
                     Button("Retry live details", action: retry).font(.caption2)
@@ -64,39 +67,31 @@ struct HUDOverlayView: View {
 
     private func patientContent(_ patient: Patient) -> some View {
         VStack(alignment: .leading, spacing: 4) {
-            Label(patient.displayName, systemImage: "person.crop.circle")
-                .font(.caption.weight(.semibold))
-            VStack(alignment: .leading, spacing: 4) {
-                if let check = summary.chartCheck(for: patient.id) {
-                    if check.hasConcerns {
-                        VStack(alignment: .leading, spacing: 2) {
-                            Text("Possible interactions and allergy concerns")
-                                .font(.caption.weight(.semibold))
-                            Text(check.headline)
-                                .fontWeight(.semibold)
-                                .foregroundStyle(.orange)
-                            ForEach(Array(check.displayFlags.prefix(2).enumerated()), id: \.offset) { _, flag in
-                                Text("• " + flag)
-                                    .lineLimit(2)
-                            }
-                            Text("Chart name match · Tap to read details")
-                                .foregroundStyle(.secondary)
-                        }
-                    } else if !check.hasNoMatches {
-                        unavailableCheck
+            if let check = summary.chartCheck(for: patient.id), check.hasConcerns {
+                VStack(alignment: .leading, spacing: 2) {
+                    Text("Possible interactions and allergy concerns")
+                        .font(.caption.weight(.semibold))
+                    Text(check.headline)
+                        .fontWeight(.semibold)
+                        .foregroundStyle(.orange)
+                    ForEach(Array(check.displayFlags.prefix(2).enumerated()), id: \.offset) { _, flag in
+                        Text("• " + flag)
+                            .lineLimit(2)
                     }
-                } else if isLoading {
-                    loadingStatus("Checking patient chart…")
-                } else {
-                    unavailableCheck
+                    Text("Chart name match · Tap to read details")
+                        .foregroundStyle(.secondary)
                 }
-                chartField("Recorded allergies", value: patient.allergies)
-                chartField("Current medications", value: patient.currentMedications)
+            } else if isLoading {
+                loadingStatus("Checking patient chart…")
+            } else if checkError != nil {
+                unavailableCheck
             }
-            .font(.caption2)
-            .foregroundStyle(.primary)
-            .frame(maxWidth: .infinity, alignment: .leading)
+            chartField("Recorded allergies", value: patient.allergies)
+            chartField("Current medications", value: patient.currentMedications)
         }
+        .font(.caption2)
+        .foregroundStyle(.primary)
+        .frame(maxWidth: .infinity, alignment: .leading)
     }
 
     private func loadingStatus(_ title: String) -> some View {

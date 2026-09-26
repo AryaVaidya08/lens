@@ -192,12 +192,56 @@ struct ContractChecks {
         {"drug_id":"a","name":"A","tier":"new","headline":"Details","bullets":["Preview..."],"full_bullets":["The complete source text."]}
         """.utf8))
         precondition(expanded.expandedBullets == ["The complete source text."])
+        let long = String(repeating: "Full source passage ", count: 12)
+        let preview = DrugSummary(
+            drugId: "a",
+            name: "A",
+            tier: "new",
+            headline: "Details",
+            bullets: [DrugSummary.previewLine(long)],
+            fullBullets: [long]
+        )
+        precondition(preview.expandedBullets == [long])
+        precondition(preview.previewBullets[0].count < long.count)
+        precondition(preview.previewBullets[0].hasSuffix("..."))
+        precondition(DrugSummary.previewLine("Short line") == "Short line")
 
         let flagged = try! JSONDecoder().decode(DrugSummary.self, from: Data("""
         {"drug_id":"adderall","name":"Adderall","tier":"new","headline":"What it is","bullets":["ADHD"],"patient_check":{"status":"flag","patient_id":"pat_001","patient_name":"Elena Vasquez","headline":"Chart flag","flags":["Allergy list mentions amphetamines."],"disclaimer":"Name match."}}
         """.utf8))
         precondition(flagged.patientCheck?.isFlag == true)
         precondition(flagged.patientCheck?.patientId == "pat_001")
+        let malformed = try! JSONDecoder().decode(DrugSummary.self, from: Data("""
+        {"drug_id":"adderall","name":"Adderall","tier":"new","headline":"What it is","bullets":["ADHD"],"patient_check":{"status":1}}
+        """.utf8))
+        precondition(malformed.patientCheck == nil)
+
+        let elena = Patient(
+            id: "pat_001",
+            hcpId: "hcp_001",
+            firstName: "Elena",
+            lastName: "Vasquez",
+            sex: "Female",
+            medicalHistory: "Type 2 diabetes",
+            allergies: "Penicillin, amphetamines",
+            currentMedications: "Metformin 1000 mg BID",
+            notes: ""
+        )
+        let local = PatientChartCheck.evaluate(
+            patient: elena,
+            drugId: "adderall",
+            drugName: "Adderall",
+            extraText: "Adderall is mixed amphetamine salts."
+        )
+        precondition(local.hasConcerns)
+        precondition(local.flags.contains(where: { $0.lowercased().contains("amphet") }))
+        let clear = PatientChartCheck.evaluate(
+            patient: elena,
+            drugId: "biofreeze",
+            drugName: "Biofreeze",
+            extraText: "Topical menthol analgesic."
+        )
+        precondition(clear.hasNoMatches)
     }
 
     private static func decodeAsk() {

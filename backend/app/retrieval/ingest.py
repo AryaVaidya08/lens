@@ -76,6 +76,27 @@ def _iter_doc_files(folder_path: Path) -> list[tuple[str, Path]]:
     return found
 
 
+def _find_doc_path(root: Path, drug_id: str) -> Path | None:
+    """Locate one dossier file without parsing the rest of the folder."""
+    wanted = (drug_id or "").strip().lower()
+    if not wanted or not root.is_dir():
+        return None
+    direct = root / ("%s.txt" % wanted)
+    if direct.is_file():
+        return direct
+    for child in root.iterdir():
+        if child.is_file() and child.suffix.lower() == ".txt" and child.stem.lower() == wanted:
+            return child
+        if child.is_dir():
+            nested = child / ("%s.txt" % wanted)
+            if nested.is_file():
+                return nested
+            for txt in child.glob("*.txt"):
+                if txt.stem.lower() == wanted:
+                    return txt
+    return None
+
+
 def _split_paragraphs(text: str) -> list[str]:
     normalized = text.replace("\r\n", "\n")
 
@@ -461,13 +482,7 @@ def parse_dossier_fields(
         _FIELDS_BY_KEY[cache_key] = {}
         return {}
 
-    load_dossiers(str(root))
-    path = None
-    for found_id, found_path in _DOSSIER_PATHS_BY_ROOT.get(str(root.resolve()), {}).items():
-        if found_id.lower() == wanted:
-            path = found_path
-            break
-
+    path = _find_doc_path(root, wanted)
     if path is None:
         _FIELDS_BY_KEY[cache_key] = {}
         return {}

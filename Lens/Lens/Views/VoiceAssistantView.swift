@@ -8,7 +8,7 @@ struct VoiceAssistantView: View {
     @Binding var selectedTab: MainTab
     var isLandscape = false
     var availableHeight: CGFloat = 800
-    @State private var contentHeight: CGFloat = 0
+    @State private var expandedTranscript: AssistantTranscript?
     @Environment(\.scenePhase) private var scenePhase
     @Environment(\.openURL) private var openURL
 
@@ -37,7 +37,7 @@ struct VoiceAssistantView: View {
                                 transcriptCard(title: "You said", text: assistant.recognizer.transcript)
                             }
                             if !assistant.reply.isEmpty {
-                                transcriptCard(title: "Assistant · Demo reply", text: assistant.reply)
+                                transcriptCard(title: "Assistant", text: assistant.reply)
                                 Button {
                                     assistant.speaker.speak(assistant.reply)
                                 } label: {
@@ -59,9 +59,8 @@ struct VoiceAssistantView: View {
                             }
                         }
                         .frame(maxWidth: .infinity, alignment: .leading)
-                        .onGeometryChange(for: CGFloat.self) { $0.size.height } action: { contentHeight = $0 }
                     }
-                    .frame(height: min(max(contentHeight, 44), panelHeightLimit))
+                    .frame(maxHeight: panelHeightLimit)
                     .padding(.horizontal, 16)
                 }
                 .padding(.bottom, 16)
@@ -93,6 +92,25 @@ struct VoiceAssistantView: View {
                   reason == AVAudioSession.RouteChangeReason.oldDeviceUnavailable.rawValue else { return }
             assistant.stopAudio()
         }
+        .fullScreenCover(item: $expandedTranscript) { item in
+            NavigationStack {
+                ScrollView {
+                    Text(item.text)
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .textSelection(.enabled)
+                        .padding(20)
+                }
+                .navigationTitle(item.title)
+                .navigationBarTitleDisplayMode(.inline)
+                .toolbar {
+                    ToolbarItem(placement: .topBarTrailing) {
+                        Button("Close") { expandedTranscript = nil }
+                    }
+                }
+            }
+        }
     }
 
     private var microphoneScale: CGFloat { isLandscape ? 0.8 : 1 }
@@ -102,12 +120,33 @@ struct VoiceAssistantView: View {
     }
 
     private func transcriptCard(title: String, text: String) -> some View {
-        VStack(alignment: .leading, spacing: 8) {
-            Text(title).font(.headline)
-            Text(text).textSelection(.enabled)
+        Button {
+            expandedTranscript = AssistantTranscript(title: title, text: text)
+        } label: {
+            VStack(alignment: .leading, spacing: 8) {
+                HStack {
+                    Text(title).font(.headline)
+                    Spacer()
+                    Image(systemName: "arrow.up.left.and.arrow.down.right")
+                        .font(.caption.weight(.semibold))
+                        .foregroundStyle(.secondary)
+                }
+                Text(text)
+                    .foregroundStyle(.primary)
+                    .lineLimit(4)
+                    .multilineTextAlignment(.leading)
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .padding()
+            .background(.quaternary, in: RoundedRectangle(cornerRadius: 16))
         }
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .padding()
-        .background(.quaternary, in: RoundedRectangle(cornerRadius: 16))
+        .buttonStyle(.plain)
+        .accessibilityHint("Shows the complete message")
     }
+}
+
+private struct AssistantTranscript: Identifiable {
+    let id = UUID()
+    let title: String
+    let text: String
 }

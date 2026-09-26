@@ -84,12 +84,18 @@ struct HistoryDetailView: View {
                                 .font(.subheadline.weight(.semibold))
                                 .foregroundStyle(.secondary)
                             Text(turn.question)
+                                .lineLimit(nil)
+                                .fixedSize(horizontal: false, vertical: true)
+                                .textSelection(.enabled)
                         }
                         VStack(alignment: .leading, spacing: 8) {
                             Text("Assistant")
                                 .font(.subheadline.weight(.semibold))
                                 .foregroundStyle(.secondary)
                             Text(turn.answer)
+                                .lineLimit(nil)
+                                .fixedSize(horizontal: false, vertical: true)
+                                .textSelection(.enabled)
                         }
                     } header: {
                         Text(turn.askedAt, format: Date.FormatStyle(date: .omitted, time: .shortened))

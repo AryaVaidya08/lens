@@ -10,7 +10,7 @@ from __future__ import annotations
 import re
 from typing import Any
 
-from app.retrieval.ingest import load_dossiers, parse_dossier_fields
+from app.retrieval.ingest import parse_dossier_fields
 
 _SPLIT = re.compile(r"[,;/\n]| and ", re.I)
 _WORD = re.compile(r"[a-z0-9]+")
@@ -75,13 +75,8 @@ def _overlap(left: set[str], right: set[str]) -> set[str]:
 
 def _drug_terms(drug_id: str, name: str) -> set[str]:
     terms = _tokens(name) | _tokens(drug_id.replace("_", " "))
-    dossier = load_dossiers().get(drug_id)
-    if dossier:
-        terms |= _tokens(dossier.name)
-        for alias in dossier.aliases:
-            terms |= _tokens(alias)
     fields = parse_dossier_fields(drug_id)
-    for key in ("generic_name", "openfda_brand_names", "description"):
+    for key in ("name", "generic_name", "openfda_brand_names", "aliases", "description"):
         terms |= _tokens(fields.get(key, "")[:400])
     return terms
 
@@ -125,7 +120,7 @@ def check_patient_chart(patient: dict[str, Any], drug_id: str, drug_name: str) -
 
     return {
         "status": status,
-        "patient_id": patient.get("_id") or "",
+        "patient_id": str(patient.get("_id") or ""),
         "patient_name": name,
         "headline": headline,
         "flags": flags[:4],

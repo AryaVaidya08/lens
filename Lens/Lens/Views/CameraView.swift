@@ -195,20 +195,29 @@ struct CameraView: View {
             failedSummaryDrugId = nil
             checkError = nil
             summary = nil
-            loadingDrugId = nil
             patientScanDrug = nil
-            guard let detection = arManager.activeDetection else { return }
+            guard let detection = arManager.activeDetection else {
+                loadingDrugId = nil
+                return
+            }
             let drug = resolver.cachedDrug(forRawPayload: detection.rawPayload)
                 ?? Drug(id: detection.drugId, name: detection.name)
             appState.currentDrug = drug
-            if patientId != nil { patientScanDrug = drug }
+            if patientId != nil {
+                loadingDrugId = drug.id
+                patientScanDrug = drug
+            } else {
+                loadingDrugId = nil
+            }
             Task { await loadPersonalizedContent(for: drug, logTouch: false) }
         }
         .onChange(of: appState.selectedHCP?.specialty) { _, _ in
             guard let drug = appState.currentDrug else { return }
             summaryRequestID = UUID()
             failedSummaryDrugId = nil
+            checkError = nil
             summary = nil
+            loadingDrugId = drug.id
             Task { await loadPersonalizedContent(for: drug, logTouch: false) }
         }
         .onChange(of: arManager.isStale) { _, stale in
@@ -303,18 +312,31 @@ struct CameraView: View {
     }
 
     private func patientSummary(for drug: Drug) -> DrugSummary {
-        if let summary, summary.drugId == drug.id { return summary }
-        return DrugSummary(drugId: drug.id, name: drug.name, tier: "new", headline: "", bullets: [])
+        let base: DrugSummary
+        if let summary, summary.drugId == drug.id {
+            base = summary
+        } else {
+            base = DemoDrugCatalog.drug(id: drug.id)?.summary
+                ?? DrugSummary(drugId: drug.id, name: drug.name, tier: "new", headline: "", bullets: [])
+        }
+        guard let patient = appState.scanSessionPatient else { return base }
+        let extra = DemoDrugCatalog.drug(id: drug.id)?.answers.values.joined(separator: " ") ?? ""
+        return base.applyingChartCheck(for: patient, extraText: extra)
     }
 
     private func adopt(_ drug: Drug) {
         if appState.scanSessionPatient != nil { patientScanDrug = drug }
-        if appState.currentDrug != drug {
+        if appState.currentDrug?.id != drug.id {
             appState.currentDrug = drug
             summary = nil
             failedSummaryDrugId = nil
         }
-        guard summary?.drugId != drug.id, loadingDrugId != drug.id, failedSummaryDrugId != drug.id else { return }
+        let needsPatientCheck = appState.scanSessionPatient.map {
+            summary?.chartCheck(for: $0.id) == nil
+        } ?? false
+        guard summary?.drugId != drug.id || needsPatientCheck,
+              loadingDrugId != drug.id,
+              failedSummaryDrugId != drug.id || needsPatientCheck else { return }
         loadingDrugId = drug.id
         Task { await loadPersonalizedContent(for: drug, logTouch: true) }
     }
@@ -368,11 +390,18 @@ struct CameraView: View {
                 hcpId: hcpId,
                 patientId: patientId
             )
+            let stillThisDrug = appState.currentDrug?.id == fetched.drugId
+                || patientScanDrug?.id == fetched.drugId
             guard summaryRequestID == requestID,
                   appState.selectedHCP?.id == hcpId,
                   appState.scanSessionPatient?.id == patientId,
-                  appState.currentDrug?.id == fetched.drugId else { return }
-            summary = fetched
+                  stillThisDrug else { return }
+            if let patient = appState.scanSessionPatient {
+                let extra = DemoDrugCatalog.drug(id: fetched.drugId)?.answers.values.joined(separator: " ") ?? ""
+                summary = fetched.applyingChartCheck(for: patient, extraText: extra)
+            } else {
+                summary = fetched
+            }
             appState.familiarityTier = fetched.tier
             // Display the result without waiting for engagement logging.
             loadingDrugId = nil
@@ -389,9 +418,11 @@ struct CameraView: View {
             }
         } catch {
             guard summaryRequestID == requestID else { return }
-            if summary?.drugId != drug.id { failedSummaryDrugId = drug.id }
-            if patientId != nil, summary == nil {
-                checkError = "Patient check unavailable. Interactions and allergy risks have not been assessed."
+            if let patient = appState.scanSessionPatient {
+                summary = patientSummary(for: drug)
+                checkError = nil
+            } else if summary?.drugId != drug.id {
+                failedSummaryDrugId = drug.id
             }
         }
     }

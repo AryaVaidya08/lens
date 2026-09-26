@@ -27,7 +27,14 @@ struct DemoDrug {
     var drug: Drug { Drug(id: id, name: name) }
 
     var summary: DrugSummary {
-        DrugSummary(drugId: id, name: name, tier: "new", headline: headline, bullets: bullets)
+        DrugSummary(
+            drugId: id,
+            name: name,
+            tier: "new",
+            headline: headline,
+            bullets: bullets,
+            fullBullets: Topic.allCases.compactMap { answers[$0] }
+        )
     }
 }
 

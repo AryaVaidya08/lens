@@ -58,8 +58,13 @@ def get_summary(
     name = drug.get("name", drug_id)
     check = None
     if requested:
-        patient = owned_patient(db, hcp, requested)
-        check = check_patient_chart(patient, drug_id, name)
+        try:
+            patient = owned_patient(db, hcp, requested)
+            check = check_patient_chart(patient, drug_id, name)
+        except HTTPException:
+            raise
+        except Exception:
+            check = None
 
     return {
         "drug_id": drug["_id"],

@@ -20,18 +20,14 @@ struct ScanMessageDetailView: View {
                     if let patient = message.patient {
                         Label(patient.displayName, systemImage: "person.crop.circle")
                             .font(.title2.bold())
-                        if let check = message.summary.chartCheck(for: patient.id) {
-                            if check.hasConcerns {
-                                Text("Possible interactions and allergy concerns").font(.headline)
-                                Text(check.headline).foregroundStyle(.orange)
-                                ForEach(Array(check.displayFlags.enumerated()), id: \.offset) { _, flag in
-                                    Text("• " + flag)
-                                }
-                                Text(check.disclaimer).font(.footnote).foregroundStyle(.secondary)
-                            } else if !check.hasNoMatches {
-                                unavailable
+                        if let check = message.summary.chartCheck(for: patient.id), check.hasConcerns {
+                            Text("Possible interactions and allergy concerns").font(.headline)
+                            Text(check.headline).foregroundStyle(.orange)
+                            ForEach(Array(check.displayFlags.enumerated()), id: \.offset) { _, flag in
+                                Text("• " + flag)
                             }
-                        } else {
+                            Text(check.disclaimer).font(.footnote).foregroundStyle(.secondary)
+                        } else if message.error != nil {
                             unavailable
                         }
                         Text("Recorded allergies").font(.headline)
@@ -43,9 +39,13 @@ struct ScanMessageDetailView: View {
                             Label("Offline information", systemImage: "wifi.slash")
                                 .foregroundStyle(.secondary)
                         }
-                        Text(message.summary.headline).font(.title2.bold())
+                        Text(message.summary.headline)
+                            .font(.title2.bold())
+                            .fixedSize(horizontal: false, vertical: true)
                         ForEach(Array(message.summary.expandedBullets.enumerated()), id: \.offset) { _, text in
-                            Text(text).fixedSize(horizontal: false, vertical: true)
+                            Text(text)
+                                .lineLimit(nil)
+                                .fixedSize(horizontal: false, vertical: true)
                         }
                     }
                 }
