@@ -44,3 +44,20 @@ def test_detect_ativan_alias_resolves_to_lorazepam(client):
     resp = client.post("/detect", json={"ocr_text": "Ativan 1mg"})
     assert resp.status_code == 200
     assert resp.json()["drug_id"] == "lorazepam"
+
+
+def test_detect_barcode_wins_and_skips_ocr(client):
+    resp = client.post(
+        "/detect",
+        json={"barcode": "0363323012345", "ocr_text": "Lorazepam 1 mg tablets"},
+    )
+    assert resp.status_code == 200
+    assert resp.json()["drug_id"] == "adderall"
+
+
+def test_detect_catalog_is_loaded(client):
+    from app.detection.catalog import size
+
+    status = client.get("/status").json()
+    assert status["detect_catalog"] >= 3
+    assert size() == status["detect_catalog"]

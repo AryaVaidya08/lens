@@ -10,6 +10,7 @@ def test_health_and_status(client):
     assert client.get("/health").json() == {"status": "ok"}
     status = client.get("/status").json()
     assert status["indexed_chunks"] >= 15
+    assert status["detect_catalog"] >= 3
     assert status["llm"] in {"api", "offline-fallback"}
     assert status["database"] == "mongodb"
     assert status["mongodb_db"]

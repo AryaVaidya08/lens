@@ -20,10 +20,26 @@ from fastapi.testclient import TestClient
 from app.config import settings
 from app.db.mongo import get_database
 from app.db.passwords import hash_password
+from app.db.seed import DEMO_HCPS
 from app.main import app
 from app.retrieval import index
 from app.retrieval.ingest import ingest_docs
 from app.routes import auth as auth_routes
+
+_DEMO_PROFILE_KEYS = (
+    "name",
+    "first_name",
+    "last_name",
+    "email",
+    "professional_role",
+    "credentials",
+    "specialty",
+    "organization",
+    "practice_setting",
+    "city",
+    "region",
+    "country",
+)
 
 _DEMO_DOCS = (
     "adderall.txt",
@@ -58,13 +74,18 @@ _DEMO_PASSWORD_HASH = hash_password("demo")
 
 @pytest.fixture(autouse=True)
 def _restore_demo_logins():
-    """Keep Maya/James/Sofia on password 'demo' and unlock the rate limiter."""
+    """Reset demo passwords, profile fields, and the login rate limiter."""
     auth_routes._ATTEMPTS.clear()
     db = get_database()
     db.hcps.update_many(
         {"_id": {"$in": ["hcp_001", "hcp_002", "hcp_003"]}},
         {"$set": {"password_hash": _DEMO_PASSWORD_HASH}},
     )
+    for row in DEMO_HCPS:
+        db.hcps.update_one(
+            {"_id": row["_id"]},
+            {"$set": {key: row[key] for key in _DEMO_PROFILE_KEYS if key in row}},
+        )
     yield
     auth_routes._ATTEMPTS.clear()
 

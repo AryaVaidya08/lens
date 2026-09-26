@@ -11,15 +11,8 @@ struct RegisterAccountView: View {
     @State private var issuedRecovery: String?
     @State private var professionalRole = "Physician"
     @State private var otherRole = ""
-    @State private var credentials = ""
     @State private var specialty = "Primary Care"
     @State private var otherSpecialty = ""
-    @State private var organization = ""
-    @State private var practiceSetting = ""
-    @State private var workPhone = ""
-    @State private var city = ""
-    @State private var region = ""
-    @State private var country = ""
     @State private var isSaving = false
     @State private var errorMessage: String?
 
@@ -52,12 +45,14 @@ struct RegisterAccountView: View {
     var body: some View {
         NavigationStack {
             Form {
-                Section("Personal details") {
+                Section("Your name") {
                     TextField("First name", text: $firstName)
                         .textContentType(.givenName)
                         .accessibilityIdentifier("register.firstName")
                     TextField("Last name", text: $lastName)
                         .textContentType(.familyName)
+                }
+                Section("Sign-in details") {
                     TextField("Email", text: $email)
                         .textContentType(.username)
                         .keyboardType(.emailAddress)
@@ -68,15 +63,13 @@ struct RegisterAccountView: View {
                     SecureField("Confirm password", text: $confirmPassword)
                         .textContentType(.newPassword)
                 }
-                Section("Professional details") {
+                Section {
                     Picker("Professional role", selection: $professionalRole) {
                         ForEach(ProfileOptions.roles, id: \.self) { Text($0).tag($0) }
                     }
                     if professionalRole == "Other" {
                         TextField("Your role", text: $otherRole)
                     }
-                    TextField("Credentials (optional)", text: $credentials)
-                        .textInputAutocapitalization(.characters)
                     Picker("Primary specialty", selection: $specialty) {
                         ForEach(HealthcareSpecialties.groups) { group in
                             Section(group.name) {
@@ -88,18 +81,10 @@ struct RegisterAccountView: View {
                     if specialty == HealthcareSpecialties.other {
                         TextField("Your specialty", text: $otherSpecialty)
                     }
-                }
-                Section("Practice information · Optional") {
-                    TextField("Practice or organization", text: $organization)
-                    Picker("Practice setting", selection: $practiceSetting) {
-                        Text("Not specified").tag("")
-                        ForEach(ProfileOptions.practiceSettings, id: \.self) { Text($0).tag($0) }
-                    }
-                    TextField("Work phone", text: $workPhone)
-                        .keyboardType(.phonePad)
-                    TextField("City", text: $city)
-                    TextField("State / province / region", text: $region)
-                    TextField("Country / region", text: $country)
+                } header: {
+                    Text("Specialty")
+                } footer: {
+                    Text("The scan brief leads with what matters in this specialty. Add clinic details later in Settings.")
                 }
                 if let errorMessage {
                     Section {
@@ -145,14 +130,7 @@ struct RegisterAccountView: View {
                     email: email.trimmingCharacters(in: .whitespacesAndNewlines),
                     password: password,
                     professionalRole: resolvedRole,
-                    specialty: resolvedSpecialty,
-                    credentials: credentials.trimmingCharacters(in: .whitespacesAndNewlines),
-                    organization: organization.trimmingCharacters(in: .whitespacesAndNewlines),
-                    practiceSetting: practiceSetting,
-                    workPhone: workPhone.trimmingCharacters(in: .whitespacesAndNewlines),
-                    city: city.trimmingCharacters(in: .whitespacesAndNewlines),
-                    region: region.trimmingCharacters(in: .whitespacesAndNewlines),
-                    country: country.trimmingCharacters(in: .whitespacesAndNewlines)
+                    specialty: resolvedSpecialty
                 )
             )
             APIClient.shared.sessionToken = auth.sessionToken

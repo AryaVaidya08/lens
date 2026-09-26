@@ -411,13 +411,13 @@ struct RegisterRequest: Encodable {
     var password: String
     var professionalRole: String
     var specialty: String
-    var credentials: String
-    var organization: String
-    var practiceSetting: String
-    var workPhone: String
-    var city: String
-    var region: String
-    var country: String
+    var credentials: String = ""
+    var organization: String = ""
+    var practiceSetting: String = ""
+    var workPhone: String = ""
+    var city: String = ""
+    var region: String = ""
+    var country: String = ""
 
     enum CodingKeys: String, CodingKey {
         case firstName = "first_name"

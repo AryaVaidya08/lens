@@ -110,9 +110,9 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
     private var staleCheckTimer: Timer?
 
     private var frameCounter = 0
-    /// Only run Vision every Nth frame — this pipeline runs three Vision
-    /// requests per attempt (object, barcode, OCR), and ARKit delivers
-    /// frames at up to 60fps.
+    /// Only run Vision every Nth frame. Object + barcode run each attempt;
+    /// OCR is skipped after a barcode lock so the expensive pass is not
+    /// repeated while the same bottle stays in view.
     private let detectionInterval = 5
 
     /// Vision runs here, off ARKit's delivery thread — running it
@@ -172,6 +172,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         let scanGeneration = generation
         let pixelBuffer = frame.capturedImage
         let orientation = currentInterfaceOrientation.cgImageOrientation
+        let skipOCR = activeDetection?.rawPayload.hasPrefix("barcode:") == true
 
         visionQueue.async { [weak self] in
             guard let self else { return }
@@ -184,7 +185,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
             if let barcode = self.barcodeScanner.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: scanRegion) {
                 identifier = ("barcode", barcode.payload)
                 detectedBox = barcode.boundingBox
-            } else if let text = self.textRecognizer.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: scanRegion) {
+            } else if !skipOCR, let text = self.textRecognizer.scan(pixelBuffer: pixelBuffer, orientation: orientation, regionOfInterest: scanRegion) {
                 identifier = ("text", text)
                 detectedBox = objectBox ?? CGRect(x: 0.15, y: 0.15, width: 0.7, height: 0.7)
             }

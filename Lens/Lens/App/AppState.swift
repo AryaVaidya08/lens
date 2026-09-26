@@ -83,10 +83,13 @@ final class AppState: ObservableObject {
         reloadHistory()
     }
 
-    func applySession(profile: HCP, token: String, recoveryCode: String?) {
+    func applySession(profile: HCP, token: String, recoveryCode: String?, openScan: Bool = true) {
         pendingRecoveryCode = recoveryCode
         sessionToken = token
         selectedHCP = profile
+        if openScan {
+            openScanTab = true
+        }
     }
 
     func logOut() {

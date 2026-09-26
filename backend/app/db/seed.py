@@ -16,6 +16,7 @@ from app.clinic.sync import sync_clinic_records
 from app.config import settings
 from app.db.mongo import get_database
 from app.db.passwords import hash_password
+from app.detection.catalog import load as load_detect_catalog
 from app.retrieval.ingest import load_dossiers
 
 
@@ -182,3 +183,4 @@ def seed(db: Optional[Database] = None) -> None:
     # Clinic/EHR demo patients
     # ------------------------------------------------------------------
     sync_clinic_records(db)
+    load_detect_catalog(db)

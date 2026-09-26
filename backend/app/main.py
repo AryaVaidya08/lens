@@ -29,6 +29,7 @@ from app.config import settings
 from app.db.database import close_client, ensure_indexes, get_database
 from app.db.mongo import store_info
 from app.db.seed import seed
+from app.detection import catalog as detect_catalog
 from app.retrieval import index
 from app.retrieval.embed import using_model
 from app.retrieval.ingest import ingest_docs
@@ -57,6 +58,8 @@ async def lifespan(app: FastAPI):
         seed(db)
 
     ensure_indexes(db)
+    detect_count = detect_catalog.load(db)
+    logger.info("Detect catalog loaded %s drugs.", detect_count)
 
     # Preserve the llm-rag SKIP_INGEST switch so large corpus ingestion
     # can be skipped during development when the index is already loaded.
@@ -114,6 +117,7 @@ def status() -> dict:
     """
     body = {
         "indexed_chunks": index.chunk_count(),
+        "detect_catalog": detect_catalog.size(),
         "embeddings": "sentence-transformers" if using_model() else "lexical-fallback",
         "llm": "api" if settings.llm_enabled else "offline-fallback",
     }

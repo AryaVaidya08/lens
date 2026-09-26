@@ -56,7 +56,7 @@ struct ChangePasswordView: View {
         do {
             let auth = try await APIClient.shared.changePassword(current: currentPassword, new: newPassword)
             APIClient.shared.sessionToken = auth.sessionToken
-            appState.applySession(profile: auth.profile, token: auth.sessionToken, recoveryCode: auth.recoveryCode)
+            appState.applySession(profile: auth.profile, token: auth.sessionToken, recoveryCode: auth.recoveryCode, openScan: false)
             dismiss()
         } catch {
             errorMessage = error.localizedDescription

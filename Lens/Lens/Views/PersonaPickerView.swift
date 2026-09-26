@@ -12,7 +12,7 @@ struct PersonaPickerView: View {
     var body: some View {
         NavigationStack {
             List {
-                Section("Sign in") {
+                Section {
                     TextField("Email", text: $email)
                         .textContentType(.username)
                         .keyboardType(.emailAddress)
@@ -40,13 +40,17 @@ struct PersonaPickerView: View {
                             .font(.footnote)
                             .foregroundStyle(.red)
                     }
+                } header: {
+                    Text("Sign in")
+                } footer: {
+                    Text("Lens opens the camera so you can point at a sample.")
                 }
 
                 Section {
                     Button("Create an account") { isShowingRegister = true }
                         .accessibilityIdentifier("auth.createAccount")
                 } footer: {
-                    Text("New accounts get a recovery code shown once. Patient folders appear after the clinic database is connected.")
+                    Text("Name, role, and specialty only. New accounts get a recovery code shown once.")
                 }
 
                 #if DEBUG

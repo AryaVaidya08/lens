@@ -18,6 +18,7 @@ struct SessionChecks {
         let profile = HCP.demoProfiles[0]
         fresh.applySession(profile: profile, token: "tok_session", recoveryCode: "SAVECODE12")
         precondition(fresh.isSignedIn)
+        precondition(fresh.openScanTab, "Sign-in must open the camera")
         precondition(defaults.string(forKey: AppState.sessionCacheKey) == "tok_session")
         precondition(fresh.pendingRecoveryCode == "SAVECODE12")
         fresh.selectedHCP = profile
@@ -167,6 +168,7 @@ struct SessionChecks {
         defer { defaults.removePersistentDomain(forName: suiteName) }
         let state = AppState(defaults: defaults)
         state.applySession(profile: HCP.demoProfiles[0], token: "tok_scan", recoveryCode: nil)
+        precondition(state.openScanTab, "Sign-in must open the camera")
         let elena = Patient(
             id: "pat_001",
             hcpId: "hcp_001",
