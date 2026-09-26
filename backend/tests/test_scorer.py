@@ -35,3 +35,13 @@ def test_build_summary_content_differs_by_tier():
     assert len(new_bullets) > 0
     assert len(expert_bullets) > 0
     assert isinstance(new_headline, str) and new_headline
+
+
+def test_expert_tier_has_real_content_for_otc_drugs():
+    # biofreeze.txt is an OTC Drug Facts label: it has no Rx-SPL clinical
+    # sections (drug_interactions, clinical_pharmacology, etc.), so an HCP
+    # who reaches "expert" tier on it must not silently fall back to the
+    # empty-dossier placeholder.
+    _, bullets = build_summary_content("biofreeze", "expert")
+
+    assert bullets != ["No additional information available for this drug yet."]

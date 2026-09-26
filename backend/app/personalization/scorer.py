@@ -46,6 +46,14 @@ _TIER_FIELD_PRIORITY: dict[str, list[str]] = {
         "clinical_studies",
         "mechanism_of_action",
         "nonclinical_toxicology",
+        # OTC Drug Facts labels have no Rx-SPL clinical sections at all, so
+        # without a fallback every OTC drug hits the "no info" placeholder
+        # as soon as an HCP reaches expert tier. Fall back to the most
+        # clinically relevant fields those labels do have.
+        "do_not_use",
+        "ask_doctor_or_pharmacist",
+        "inactive_ingredient",
+        "active_ingredient",
     ],
 }
 
