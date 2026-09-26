@@ -216,26 +216,29 @@ struct CameraView: View {
     }
 
     /// Places the bubble beside the barcode — to the right by default,
-    /// flipping to the left if there isn't room — vertically centered on
-    /// the box, and clamped so it always stays fully on screen. The
-    /// margin is deliberately generous (and the bubble deliberately
-    /// small) so the bubble clears the bounding box instead of the
-    /// screen-edge clamp pushing it back over the object being scanned.
+    /// flipping to the left if there isn't room — aligned near the top of
+    /// the box rather than vertically centered, and clamped so it always
+    /// stays fully on screen. The margin is deliberately generous (and the
+    /// bubble deliberately small) so the bubble clears the bounding box
+    /// instead of the screen-edge clamp pushing it back over the object
+    /// being scanned.
     private func bubblePosition(for box: CGRect, in containerSize: CGSize, bubbleSize: CGSize) -> CGPoint {
         let margin: CGFloat = 24
-        let boxCenter = CGPoint(x: box.midX * containerSize.width, y: box.midY * containerSize.height)
+        let topMargin: CGFloat = 8
+        let boxCenterX = box.midX * containerSize.width
+        let boxTop = box.minY * containerSize.height
         let boxHalfWidth = (box.width * containerSize.width) / 2
         let bubbleHalfWidth = max(bubbleSize.width, 1) / 2
         let bubbleHalfHeight = max(bubbleSize.height, 1) / 2
 
-        var x = boxCenter.x + boxHalfWidth + margin + bubbleHalfWidth
+        var x = boxCenterX + boxHalfWidth + margin + bubbleHalfWidth
         if x + bubbleHalfWidth + margin > containerSize.width {
-            x = boxCenter.x - boxHalfWidth - margin - bubbleHalfWidth
+            x = boxCenterX - boxHalfWidth - margin - bubbleHalfWidth
         }
         x = min(max(x, bubbleHalfWidth + margin), containerSize.width - bubbleHalfWidth - margin)
 
         let y = min(
-            max(boxCenter.y, bubbleHalfHeight + margin),
+            max(boxTop + topMargin + bubbleHalfHeight, bubbleHalfHeight + margin),
             containerSize.height - bubbleHalfHeight - margin
         )
 
