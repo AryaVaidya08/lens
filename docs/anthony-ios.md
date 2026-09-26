@@ -16,6 +16,16 @@ The Assistant tab requests microphone and speech recognition permissions on firs
 
 `Voice/PlaceholderAssistant.swift` is the explicit reply placeholder. Future work can replace its use in `VoiceAssistantView` with `APIClient.askQuestion(drugId:hcpId:query:)`. There are no LLM calls or clinical answers in this demo.
 
+## Edit profile preview
+
+Settings → Edit profile opens a temporary form with first and last name, email, professional role, credentials, primary specialty, practice/organization, practice setting, work phone, city, state/province/region, and country. The existing name and specialty are prefilled; unknown contact or practice information stays blank.
+
+The specialty dropdown contains 101 choices in nine groups, plus Other / not listed with a custom field. The list covers medical specialties and common subspecialties informed by [ABMS](https://abms.org/member-boards/specialty-subspecialty-certificates/), and broader healthcare practice areas informed by [NUCC](https://taxonomy.nucc.org/). These are display choices, not a complete credentialing or billing taxonomy.
+
+First name, last name, a plausibly formatted email address, professional role, and specialty are required to enable Save. Other role/specialty selections require a description. Credentials and practice details are optional. Save shows the preview notice and Done closes the sheet; Cancel dismisses it directly. Nothing updates the HCP model, cached identity, or backend. Reopening the form starts from the selected demo profile again.
+
+The expanded form passes the Debug simulator build. The specialty list was checked for duplicate entries and compatibility with all three preset profiles. On-device checks: open the menu, choose Other and enter a specialty, try a malformed email, fill the required fields, then confirm Save/Done and Cancel both leave the current profile unchanged.
+
 ## Assistant voice
 
 The assistant uses one fixed US English voice: **Ava**. It selects Ava Premium when installed, then Ava Enhanced, then standard Ava. There is no voice picker. Download Ava Premium in iPhone Settings → Accessibility → Read & Speak → Voices → English, then return to Lens. Available voices are checked before each reply, so a new download can be used without changing app preferences. If Ava is absent, the system English voice is used to keep playback working; the upgraded sound requires the Ava download on each demo device.

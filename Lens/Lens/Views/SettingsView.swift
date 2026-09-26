@@ -2,6 +2,7 @@ import SwiftUI
 
 struct SettingsView: View {
     @EnvironmentObject private var appState: AppState
+    @State private var profileToEdit: HCP?
 
     var body: some View {
         NavigationStack {
@@ -10,6 +11,17 @@ struct SettingsView: View {
                     Section("Current profile") {
                         LabeledContent("Name", value: profile.name)
                         LabeledContent("Specialty", value: profile.specialty)
+                        Button {
+                            profileToEdit = profile
+                        } label: {
+                            Label {
+                                Text("Edit profile")
+                            } icon: {
+                                Image(systemName: "pencil")
+                                    .fontWeight(.bold)
+                            }
+                        }
+                        .accessibilityIdentifier("settings.editProfile")
                     }
                 }
 
@@ -23,6 +35,9 @@ struct SettingsView: View {
                 }
             }
             .navigationTitle("Settings")
+        }
+        .sheet(item: $profileToEdit) { profile in
+            EditProfileView(profile: profile)
         }
     }
 }
