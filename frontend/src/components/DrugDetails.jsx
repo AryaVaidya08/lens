@@ -1,6 +1,4 @@
-import { currentHCP } from "../data/mockData";
-
-function DrugDetails({ drug }) {
+function DrugDetails({ drug, summary, loading, error }) {
   if (!drug) {
     return (
       <section className="empty-state">
@@ -10,76 +8,59 @@ function DrugDetails({ drug }) {
     );
   }
 
-  const familiarity = currentHCP.familiarity[drug.id];
+  if (loading) {
+    return (
+      <section className="drug-details">
+        <h3>{drug.name}</h3>
+        <p>Loading drug information...</p>
+      </section>
+    );
+  }
 
-  const familiarityLabels = {
+  if (error) {
+    return (
+      <section className="drug-details">
+        <h3>{drug.name}</h3>
+        <p>{error}</p>
+      </section>
+    );
+  }
+
+  const labels = {
     new: "New",
     returning: "Returning",
     expert: "Expert",
   };
+
+  const tier = summary?.tier || "new";
 
   return (
     <section className="drug-details">
       <div className="drug-header">
         <div>
           <span className="eyebrow">Drug Profile</span>
-          <h3>{drug.name}</h3>
-
-          <p className="generic-name">
-            {drug.genericName}
-          </p>
+          <h3>{summary?.name || drug.name}</h3>
         </div>
 
-        <span className={`familiarity ${familiarity}`}>
-          {familiarityLabels[familiarity] || "New"}
+        <span className={`familiarity ${tier}`}>
+          {labels[tier] || "New"}
         </span>
       </div>
 
-      <div className="drug-meta">
-        <div>
-          <span>Manufacturer</span>
-          <strong>{drug.manufacturer}</strong>
-        </div>
-
-        <div>
-          <span>Category</span>
-          <strong>{drug.category}</strong>
-        </div>
-      </div>
-
       <div className="drug-section">
-        <h4>Overview</h4>
-        <p>{drug.description}</p>
-      </div>
+        <h4>{summary?.headline || "Overview"}</h4>
 
-      <div className="drug-section">
-        <h4>Indications</h4>
-
-        <ul>
-          {drug.indications.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ul>
-      </div>
-
-      <div className="drug-section">
-        <h4>Mechanism of Action</h4>
-        <p>{drug.mechanism}</p>
-      </div>
-
-      <div className="drug-section">
-        <h4>Common Adverse Reactions</h4>
-
-        <ul>
-          {drug.commonAdverseReactions.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ul>
-      </div>
-
-      <div className="drug-section safety-section">
-        <h4>Safety</h4>
-        <p>{drug.safety}</p>
+        {summary?.bullets?.length ? (
+          <ul>
+            {summary.bullets.map((bullet, index) => (
+              <li key={`${bullet}-${index}`}>
+                {bullet}
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <p>No information available.</p>
+        )}
       </div>
     </section>
   );
