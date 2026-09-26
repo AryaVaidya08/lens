@@ -22,6 +22,7 @@ from app.db.accounts import (
 from app.db.database import get_db
 from app.db.passwords import MAX_PASSWORD_LENGTH, password_matches
 from app.db.sessions import assert_same_hcp, current_hcp
+from app.db.accounts import owned_patient, public_patient
 
 router = APIRouter(prefix="/profile", tags=["profile"])
 
@@ -83,6 +84,19 @@ def list_patients(
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
     return {"patients": patients_for_hcp(db, hcp)}
+
+@router.get("/{hcp_id}/patients/{patient_id}")
+def get_patient(
+    hcp_id: str,
+    patient_id: str,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    patient = owned_patient(db, hcp, patient_id)
+
+    return {"patient": public_patient(patient)}
 
 
 @router.get("/{hcp_id}")

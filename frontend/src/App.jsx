@@ -1,5 +1,12 @@
 import { useEffect, useState } from "react";
-import { getChats, getDrugSummary, askDrugQuestion, logEngagement } from "./api";
+import {
+  getChats,
+  getDrugSummary,
+  askDrugQuestion,
+  logEngagement,
+  getPatients,
+  getPatient,
+} from "./api";
 import { drugs } from "./data/mockData";
 import Sidebar from "./components/Sidebar";
 import ChatList from "./components/ChatList";
@@ -7,6 +14,8 @@ import ChatView from "./components/ChatView";
 import DrugList from "./components/DrugList";
 import DrugDetails from "./components/DrugDetails";
 import Login from "./components/Login";
+import PatientList from "./components/PatientList";
+import PatientDetails from "./components/PatientDetails";
 
 function App() {
   const [hcpId, setHcpId] = useState(() =>
@@ -14,12 +23,20 @@ function App() {
   );
 
   const [view, setView] = useState("chats");
+
+  const [patients, setPatients] = useState([]);
+  const [selectedPatient, setSelectedPatient] = useState(null);
+  const [loadingPatients, setLoadingPatients] = useState(false);
+
   const [chats, setChats] = useState([]);
   const [selectedChat, setSelectedChat] = useState(null);
+
   const [selectedDrug, setSelectedDrug] = useState(null);
   const [drugSummary, setDrugSummary] = useState(null);
+
   const [loading, setLoading] = useState(false);
   const [loadingDrug, setLoadingDrug] = useState(false);
+
   const [error, setError] = useState(null);
 
   function handleLogin(profile) {
@@ -30,10 +47,14 @@ function App() {
   function handleLogout() {
     localStorage.removeItem("lens_session_token");
     localStorage.removeItem("lens_hcp_id");
+    sessionStorage.removeItem("lens_active_patient");
+
     setHcpId(null);
     setChats([]);
     setSelectedChat(null);
     setSelectedDrug(null);
+    setPatients([]);
+    setSelectedPatient(null);
   }
 
   useEffect(() => {
@@ -85,6 +106,32 @@ function App() {
     }
 
     loadChats();
+  }, [hcpId]);
+
+  useEffect(() => {
+    if (!hcpId) return;
+
+    async function loadPatients() {
+      setLoadingPatients(true);
+      setError(null);
+
+      try {
+        const data = await getPatients(hcpId);
+        setPatients(data.patients || []);
+      } catch (err) {
+        console.error("Failed to load patients:", err);
+
+        if (err.message.includes("401")) {
+          handleLogout();
+        } else {
+          setError(`Failed to load patients: ${err.message}`);
+        }
+      } finally {
+        setLoadingPatients(false);
+      }
+    }
+
+    loadPatients();
   }, [hcpId]);
 
   useEffect(() => {
@@ -201,7 +248,11 @@ function App() {
 
   return (
     <div className="app">
-      <Sidebar view={view} setView={setView} />
+      <Sidebar
+        view={view}
+        setView={setView}
+        onLogout={handleLogout}
+      />
 
       <main className="main-content">
         {error && <div className="error-banner">{error}</div>}
@@ -235,6 +286,21 @@ function App() {
               summary={drugSummary}
               loading={loadingDrug}
               error={error}
+            />
+          </div>
+        )}
+
+        {view === "patients" && (
+          <div className="content-layout">
+            <PatientList
+              patients={patients}
+              selectedPatient={selectedPatient}
+              onSelect={setSelectedPatient}
+            />
+
+            <PatientDetails
+              patient={selectedPatient}
+              loading={loadingPatients}
             />
           </div>
         )}

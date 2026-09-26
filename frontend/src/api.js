@@ -82,3 +82,18 @@ export async function logEngagement(hcpId, drugId) {
     }),
   });
 }
+
+export async function getPatients(hcpId) {
+  return request(`/profile/${hcpId}/patients`, {
+    headers: authHeaders(),
+  });
+}
+
+export async function getPatient(hcpId, patientId) {
+  return request(
+    `/profile/${hcpId}/patients/${encodeURIComponent(patientId)}`,
+    {
+      headers: authHeaders(),
+    }
+  );
+}
