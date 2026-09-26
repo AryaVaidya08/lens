@@ -1,12 +1,29 @@
-function ChatView({ chat }) {
+import { useState } from "react";
+
+function ChatView({ chat, onSendMessage }) {
+  const [input, setInput] = useState("");
+
   if (!chat) {
     return (
       <section className="empty-state">
         <h3>Select a conversation</h3>
-        <p>Choose a past conversation to view the interaction.</p>
+        <p>Choose a past conversation to continue chatting.</p>
       </section>
     );
   }
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    const message = input.trim();
+
+    if (!message) {
+      return;
+    }
+
+    onSendMessage(chat.id, message);
+    setInput("");
+  };
 
   return (
     <section className="chat-view">
@@ -33,6 +50,19 @@ function ChatView({ chat }) {
           </div>
         ))}
       </div>
+
+      <form className="chat-input-area" onSubmit={handleSubmit}>
+        <input
+          type="text"
+          placeholder={`Ask about ${chat.drugName}...`}
+          value={input}
+          onChange={(event) => setInput(event.target.value)}
+        />
+
+        <button type="submit">
+          Send
+        </button>
+      </form>
     </section>
   );
 }

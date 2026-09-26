@@ -107,7 +107,10 @@ button {
   gap: 24px;
 
   max-width: 1250px;
+  height: calc(100vh - 84px);
   margin: 0 auto;
+
+  min-height: 0;
 }
 
 /* =========================
@@ -498,9 +501,23 @@ h4 {
   white-space: nowrap;
 }
 
-.messages {
+.chat-view {
+  height: calc(100vh - 84px);
+  max-height: 850px;
+  min-height: 400px;
+
   display: flex;
   flex-direction: column;
+
+  overflow: hidden;
+}
+
+.messages {
+  flex: 1;
+  min-height: 0;
+
+  overflow-y: auto;
+  padding-right: 8px;
 }
 
 .generic-name {
@@ -602,4 +619,56 @@ h4 {
   .drug-header {
     flex-direction: column;
   }
+}
+
+.chat-input-area {
+  display: flex;
+  gap: 10px;
+
+  margin-top: 24px;
+  padding-top: 20px;
+
+  border-top: 1px solid #eaecf0;
+
+  flex-shrink: 0;
+}
+
+.chat-input-area input {
+  flex: 1;
+  min-width: 0;
+
+  padding: 12px 14px;
+
+  border: 1px solid #d9dee8;
+  border-radius: 10px;
+
+  background: white;
+  color: #172033;
+
+  outline: none;
+  font-size: 14px;
+}
+
+.chat-input-area input:focus {
+  border-color: #64748b;
+  box-shadow: 0 0 0 3px rgba(100, 116, 139, 0.1);
+}
+
+.chat-input-area button {
+  padding: 0 20px;
+
+  border: 0;
+  border-radius: 10px;
+
+  background: #111827;
+  color: white;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  transition: background 0.15s ease;
+}
+
+.chat-input-area button:hover {
+  background: #263449;
 }
