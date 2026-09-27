@@ -64,16 +64,19 @@ function DrugDetails({ drug, summary, loading, error, onRemoveDrug }) {
       <div className="drug-section">
         <h4>{summary?.headline || "Overview"}</h4>
 
-        {(summary?.full_bullets || summary?.bullets || []).length ? (
+        {summary?.summary_source === "unavailable" && (
+          <p>AI summary unavailable. Reference text is not shown until Grok rewrites it.</p>
+        )}
+        {(summary?.bullets || []).length ? (
           <ul>
-            {(summary.full_bullets || summary.bullets).map((bullet, index) => (
+            {summary.bullets.map((bullet, index) => (
               <li key={`${index}-${bullet.slice(0, 24)}`}>
                 {bullet}
               </li>
             ))}
           </ul>
         ) : (
-          <p>No information available.</p>
+          <p>No generated summary yet.</p>
         )}
       </div>
     </section>

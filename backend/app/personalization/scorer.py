@@ -46,6 +46,11 @@ _TIER_FIELD_PRIORITY: dict[str, list[str]] = {
         "clinical_studies",
         "mechanism_of_action",
         "nonclinical_toxicology",
+        # OTC labels have no clinical-study sections. These are still more
+        # specific than the first-scan basics and the returning dose line.
+        "stop_use",
+        "when_using",
+        "inactive_ingredient",
     ],
 }
 
@@ -319,34 +324,37 @@ def build_summary_content(
     resolved = resolve_specialty(specialty)
     if resolved:
         label, priority = resolved
-        headline = label
+        tier_title = _TIER_HEADLINES.get(tier, "Overview")
+        headline = f"{label} · {tier_title}"
         tier_fields = _TIER_FIELD_PRIORITY.get(tier, [])
-        # Prefer a specialty section that is not the first familiarity field.
-        focus = next((key for key in priority if fields.get(key) and key not in tier_fields[:1]), None)
-        if focus is None:
-            focus = next((key for key in priority if fields.get(key)), None)
-        if focus is None:
-            # OTC labels often lack Rx sections; still surface a useful field.
-            focus = next(
-                (
-                    key
-                    for key in ("warnings", "dosage_and_administration", "directions")
-                    if fields.get(key) and key not in tier_fields[:1]
-                ),
-                None,
-            )
-        if focus:
-            selected: list[str] = []
-            # Reserve room for a prominent label warning regardless of specialty.
-            safety = next((key for key in ("boxed_warning", "contraindications", "warnings_and_cautions", "warnings") if fields.get(key)), None)
-            tier_field = next((key for key in tier_fields if fields.get(key)), None)
-            for key in (safety, tier_field, focus):
-                if key and key not in selected:
-                    selected.append(key)
+        # Familiarity owns the lead passage. Specialty adds a different
+        # section when the dossier has one, and a safety line stays on the
+        # card without replacing that lead.
+        lead = next((key for key in tier_fields if fields.get(key)), None)
+        bias = next((key for key in priority if fields.get(key) and key != lead), None)
+        safety = next(
+            (
+                key
+                for key in (
+                    "boxed_warning",
+                    "contraindications",
+                    "warnings_and_cautions",
+                    "warnings",
+                )
+                if fields.get(key) and key != lead
+            ),
+            None,
+        )
+        selected: list[str] = []
+        for key in (lead, bias, safety):
+            if key and key not in selected:
+                selected.append(key)
+        if len(selected) < 2:
             for key in tier_fields + priority:
                 if len(selected) >= 3:
                     break
                 if fields.get(key) and key not in selected:
                     selected.append(key)
+        if selected:
             bullets = [fields[key] for key in selected]
     return headline, bullets

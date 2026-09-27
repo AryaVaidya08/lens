@@ -138,15 +138,20 @@ struct DrugSummary: Codable {
     let bullets: [String]
     var patientCheck: PatientChartCheck? = nil
     var fullBullets: [String]? = nil
+    var summarySource: String? = nil
 
     var expandedBullets: [String] {
+        // Grok already rewrote the dossier into short bullets — do not swap
+        // those back for the raw passages when the card is opened.
+        if summarySource == "grok" { return bullets }
         let full = (fullBullets ?? []).filter { !$0.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty }
         return full.isEmpty ? bullets : full
     }
 
-    /// Short lines for the HUD bubble only. The complete text stays in `expandedBullets`.
+    /// Short lines for the HUD bubble. Grok bullets are already card-sized.
     var previewBullets: [String] {
-        expandedBullets.map { Self.previewLine($0) }
+        if summarySource == "grok" { return bullets }
+        return bullets.map { Self.previewLine($0) }
     }
 
     static func previewLine(_ text: String, maxChars: Int = 90) -> String {
@@ -180,9 +185,10 @@ struct DrugSummary: Codable {
         case name, tier, headline, bullets
         case patientCheck = "patient_check"
         case fullBullets = "full_bullets"
+        case summarySource = "summary_source"
     }
 
-    init(drugId: String, name: String, tier: String, headline: String, bullets: [String], patientCheck: PatientChartCheck? = nil, fullBullets: [String]? = nil) {
+    init(drugId: String, name: String, tier: String, headline: String, bullets: [String], patientCheck: PatientChartCheck? = nil, fullBullets: [String]? = nil, summarySource: String? = nil) {
         self.drugId = drugId
         self.name = name
         self.tier = tier
@@ -190,6 +196,7 @@ struct DrugSummary: Codable {
         self.bullets = bullets
         self.patientCheck = patientCheck
         self.fullBullets = fullBullets
+        self.summarySource = summarySource
     }
 
     init(from decoder: Decoder) throws {
@@ -200,6 +207,7 @@ struct DrugSummary: Codable {
         headline = try container.decode(String.self, forKey: .headline)
         bullets = try container.decode([String].self, forKey: .bullets)
         fullBullets = try? container.decodeIfPresent([String].self, forKey: .fullBullets)
+        summarySource = try? container.decodeIfPresent(String.self, forKey: .summarySource)
         patientCheck = try? container.decodeIfPresent(PatientChartCheck.self, forKey: .patientCheck)
     }
 }

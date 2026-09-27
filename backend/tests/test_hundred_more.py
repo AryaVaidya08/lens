@@ -270,6 +270,7 @@ def test_summary_shape_for_demo_drugs(client, drug_id):
         "bullets",
         "patient_check",
         "full_bullets",
+        "summary_source",
     }
     assert body["tier"] in {"new", "returning", "expert"}
     assert isinstance(body["bullets"], list)

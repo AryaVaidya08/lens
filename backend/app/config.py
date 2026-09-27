@@ -89,8 +89,10 @@ class Settings:
             "XAI_MODEL",
             os.environ.get("LLM_MODEL", "grok-4.7"),
         )
+        # Low-effort grok-4.7 scan rewrites of 3 passages landed around 25s.
+        # Keep the cap above that. iOS getSummary waits longer than this.
         self.llm_timeout_seconds: float = float(
-            os.environ.get("LLM_TIMEOUT", "20")
+            os.environ.get("LLM_TIMEOUT", "45")
         )
 
         # Kept for compatibility if OpenAI is used later.

@@ -192,6 +192,12 @@ struct ContractChecks {
         {"drug_id":"a","name":"A","tier":"new","headline":"Details","bullets":["Preview..."],"full_bullets":["The complete source text."]}
         """.utf8))
         precondition(expanded.expandedBullets == ["The complete source text."])
+        precondition(expanded.previewBullets == ["Preview..."], "Compact cards must use bullets, not full source passages")
+        let generated = try! JSONDecoder().decode(DrugSummary.self, from: Data("""
+        {"drug_id":"a","name":"A","tier":"new","headline":"Details","bullets":["A concise generated summary."],"full_bullets":["A much longer reference passage."],"summary_source":"grok"}
+        """.utf8))
+        precondition(generated.previewBullets == generated.bullets)
+        precondition(generated.expandedBullets == ["A concise generated summary."])
         let long = String(repeating: "Full source passage ", count: 12)
         let preview = DrugSummary(
             drugId: "a",

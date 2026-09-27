@@ -13,8 +13,9 @@
 //  Owned by: AR & detection lane.
 //
 
-import SwiftUI
 import ARKit
+import Combine
+import SwiftUI
 
 /// An ARSCNView that reports when it first receives real (non-zero) Auto
 /// Layout-driven bounds.
@@ -74,6 +75,7 @@ struct CameraView: View {
     @State private var lifecycle = CameraSessionLifecycle()
     @StateObject private var arManager = ARSessionManager()
     @StateObject private var resolver = DrugResolver()
+    @StateObject private var engagementQueue = ScanEngagementQueue()
     @State private var bubbleSize: CGSize = CGSize(width: 150, height: 70)
     @State private var flashOpacity: Double = 1.0
     /// Personalized content; the offline catalog is used only after failure.
@@ -85,6 +87,8 @@ struct CameraView: View {
     @State private var summaryRequestID = UUID()
     @State private var lastSummaryFailureAt: [String: Date] = [:]
     @State private var expandedMessage: ScanMessageDetails?
+    @State private var engagementError: String?
+    @State private var pendingTouchDrugId: String?
 
     var body: some View {
         GeometryReader { geometry in
@@ -154,6 +158,30 @@ struct CameraView: View {
                 }
             }
         }
+        .overlay(alignment: .bottomTrailing) {
+            if let drug = appState.currentDrug, summary?.drugId == drug.id {
+                VStack(alignment: .trailing, spacing: 6) {
+                    if let engagementError {
+                        Text(engagementError)
+                            .font(.caption)
+                            .frame(maxWidth: 240, alignment: .trailing)
+                    }
+                    Button {
+                        scanAgain(drug)
+                    } label: {
+                        Label("Scan again", systemImage: "arrow.clockwise")
+                            .font(.subheadline.weight(.semibold))
+                            .padding(.horizontal, 14)
+                            .padding(.vertical, 10)
+                    }
+                    .buttonStyle(.plain)
+                    .background(.ultraThinMaterial, in: Capsule())
+                    .disabled(loadingDrugId != nil || engagementQueue.isRecording)
+                    .accessibilityHint("Refresh this medication using your latest familiarity")
+                }
+                .padding(16)
+            }
+        }
         .fullScreenCover(item: $expandedMessage) { message in
             ScanMessageDetailView(message: message)
         }
@@ -184,7 +212,10 @@ struct CameraView: View {
             arManager.currentInterfaceOrientation = currentInterfaceOrientation()
         }
         .onChange(of: arManager.activeDetection?.drugId) { _, newDrugId in
-            guard let newDrugId else { return }
+            guard let newDrugId else {
+                engagementQueue.noteTrackingLost()
+                return
+            }
             adopt(Drug(id: newDrugId, name: arManager.activeDetection?.name ?? ""))
         }
         .onChange(of: resolver.resolved) { _, _ in
@@ -313,13 +344,14 @@ struct CameraView: View {
         guard phase == .offline else {
             return DrugSummary(drugId: drugId, name: detection.name, tier: "new", headline: "", bullets: [])
         }
-        // `detection` only ever exists because resolvePayload matched a
-        // known demo drug (see ARSessionManager.handleObjectSeen), so
-        // `drugId` is always in the catalog — the empty summary below is
-        // just a defensive fallback, never expected to be hit.
-        return DemoDrugCatalog.drug(id: drugId)?.summary
-            ?? DemoDrugCatalog.resolve(payload: detection.rawPayload)?.summary
-            ?? DrugSummary(drugId: detection.drugId, name: detection.name, tier: "new", headline: "", bullets: [])
+        return DrugSummary(
+            drugId: drugId,
+            name: detection.name,
+            tier: "new",
+            headline: "Live summary unavailable",
+            bullets: [],
+            summarySource: "unavailable"
+        )
     }
 
     private func patientSummary(for drug: Drug) -> DrugSummary {
@@ -327,8 +359,7 @@ struct CameraView: View {
         if let summary, summary.drugId == drug.id {
             base = summary
         } else {
-            base = DemoDrugCatalog.drug(id: drug.id)?.summary
-                ?? DrugSummary(drugId: drug.id, name: drug.name, tier: "new", headline: "", bullets: [])
+            base = DrugSummary(drugId: drug.id, name: drug.name, tier: "new", headline: "", bullets: [])
         }
         guard let patient = appState.scanSessionPatient else { return base }
         let extra = DemoDrugCatalog.drug(id: drug.id)?.answers.values.joined(separator: " ") ?? ""
@@ -345,14 +376,44 @@ struct CameraView: View {
         let needsPatientCheck = appState.scanSessionPatient.map {
             summary?.chartCheck(for: $0.id) == nil
         } ?? false
-        if summary?.drugId == drug.id && !needsPatientCheck { return }
-        if loadingDrugId == drug.id { return }
+        // A summary request already owns this sighting. Coming back before it
+        // finishes must not start a second touch.
+        if loadingDrugId == drug.id {
+            if let hcpId = appState.selectedHCP?.id {
+                engagementQueue.keepCurrentSighting(hcpId: hcpId, drugId: drug.id)
+            }
+            return
+        }
         if failedSummaryDrugId == drug.id,
            let last = lastSummaryFailureAt[drug.id],
            Date().timeIntervalSince(last) < 2 {
             return
         }
+        let logTouch = appState.selectedHCP.map {
+            engagementQueue.startsNewScan(hcpId: $0.id, drugId: drug.id)
+        } ?? false
+        if summary?.drugId == drug.id && !needsPatientCheck && !logTouch { return }
+        if logTouch, summary?.drugId == drug.id {
+            summary = nil
+            failedSummaryDrugId = nil
+            engagementError = nil
+        }
         loadingDrugId = drug.id
+        Task { await loadPersonalizedContent(for: drug, logTouch: logTouch) }
+    }
+
+    private func scanAgain(_ drug: Drug) {
+        guard loadingDrugId == nil, !engagementQueue.isRecording else { return }
+        // Reserve the request before starting its Task, so rapid taps cannot
+        // launch two scans. This button always logs another touch. Pin the
+        // sighting so the camera confirming that same bottle does not log it again.
+        if let hcpId = appState.selectedHCP?.id {
+            engagementQueue.keepCurrentSighting(hcpId: hcpId, drugId: drug.id)
+        }
+        loadingDrugId = drug.id
+        summary = nil
+        failedSummaryDrugId = nil
+        engagementError = nil
         Task { await loadPersonalizedContent(for: drug, logTouch: true) }
     }
 
@@ -396,8 +457,10 @@ struct CameraView: View {
         let patientId = appState.scanSessionPatient?.id
         let requestID = UUID()
         summaryRequestID = requestID
+        if logTouch { pendingTouchDrugId = drug.id }
         loadingDrugId = drug.id
         checkError = nil
+        engagementError = nil
         defer {
             if summaryRequestID == requestID { loadingDrugId = nil }
         }
@@ -418,40 +481,48 @@ struct CameraView: View {
             }
             appState.familiarityTier = fetched.tier
             lastSummaryFailureAt.removeValue(forKey: drug.id)
-            loadingDrugId = nil
             return true
         }
 
         do {
-            let fetched = try await APIClient.shared.getSummary(
-                drugId: drug.id,
-                hcpId: hcpId,
-                patientId: patientId
-            )
-            if !apply(fetched) { return }
-            if logTouch {
-                try await APIClient.shared.logEngagement(
-                    hcpId: hcpId,
-                    drugId: drug.id,
-                    patientId: patientId
+            await engagementQueue.wait(hcpId: hcpId, drugId: drug.id)
+            guard summaryRequestID == requestID else { return }
+            let fetched: DrugSummary
+            do {
+                fetched = try await APIClient.shared.getSummary(
+                    drugId: drug.id, hcpId: hcpId, patientId: patientId
                 )
+            } catch let error as APIError where error.requiresReauthentication {
+                guard let token = appState.sessionToken, !token.isEmpty,
+                      summaryRequestID == requestID else { throw error }
+                APIClient.shared.sessionToken = token
+                fetched = try await APIClient.shared.getSummary(
+                    drugId: drug.id, hcpId: hcpId, patientId: patientId
+                )
+            }
+            if !apply(fetched) { return }
+            if pendingTouchDrugId == drug.id {
+                pendingTouchDrugId = nil
+                do {
+                    _ = try await engagementQueue.record(hcpId: hcpId, drugId: drug.id) {
+                        try await APIClient.shared.logEngagement(
+                            hcpId: hcpId, drugId: drug.id, patientId: patientId
+                        )
+                    }
+                } catch {
+                    // Keep the successful reference response. A failed or
+                    // ambiguous write must not be retried as a second touch.
+                    if summaryRequestID == requestID {
+                        engagementError = "Couldn't confirm this scan was saved. Familiarity may not advance."
+                    }
+                    return
+                }
                 if summaryRequestID == requestID,
                    appState.scanSessionPatient?.id == patientId {
                     appState.finishScanSelection()
                 }
             }
         } catch {
-            if let apiError = error as? APIError, apiError.requiresReauthentication,
-               let token = appState.sessionToken, !token.isEmpty {
-                APIClient.shared.sessionToken = token
-                if let fetched = try? await APIClient.shared.getSummary(
-                    drugId: drug.id,
-                    hcpId: hcpId,
-                    patientId: patientId
-                ), apply(fetched) {
-                    return
-                }
-            }
             guard summaryRequestID == requestID else { return }
             if let patient = appState.scanSessionPatient {
                 summary = patientSummary(for: drug)

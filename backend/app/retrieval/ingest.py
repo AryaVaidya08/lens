@@ -14,6 +14,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import threading
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -703,3 +704,82 @@ def ingest_docs(
     load(ready)
 
     return ready
+
+
+_ENSURE_LOCK = threading.Lock()
+_MISSING_DRUGS: set[str] = set()
+
+
+def chunks_for_drug(drug_id: str, folder_path: str | None = None) -> list[Chunk]:
+    """Chunk and embed a single dossier without walking the rest of the corpus."""
+    root = Path(folder_path or settings.drug_docs_path)
+    path = _find_doc_path(root, drug_id)
+    if path is None:
+        return []
+
+    raw = path.read_text(encoding="utf-8")
+    dossier = parse_dossier(path)
+    canonical_id = path.stem
+    pending_inputs: list[str] = []
+    pending_meta: list[tuple[str, str]] = []
+
+    if dossier.sections:
+        for section, body in dossier.sections.items():
+            parts: list[str] = []
+            if body.get("prose"):
+                parts.append(body["prose"])
+            parts.extend(
+                bullet if bullet.endswith((".", "!", "?")) else f"{bullet}."
+                for bullet in body.get("bullets") or []
+            )
+            text = " ".join(parts).strip()
+            if not text:
+                continue
+            pending_inputs.append(f"{dossier.name} {section}. {text}")
+            pending_meta.append((section, text))
+    else:
+        for text in chunk_text(raw):
+            text = text.strip()
+            if not text:
+                continue
+            pending_inputs.append(text)
+            pending_meta.append((_section_for_chunk(text, dossier), text))
+
+    if not pending_inputs:
+        return []
+
+    vectors = embed_texts(pending_inputs)
+    return [
+        Chunk(
+            drug_id=canonical_id,
+            section=section,
+            text=text,
+            embedding=[float(value) for value in vector],
+        )
+        for (section, text), vector in zip(pending_meta, vectors)
+    ]
+
+
+def ensure_drug_indexed(drug_id: str) -> bool:
+    """Load one dossier into the index when full-corpus ingest was skipped.
+
+    Returns False when no dossier file exists. Does not replace chunks that
+    are already loaded, and does not rewrite the shared embedding cache.
+    """
+    needle = (drug_id or "").strip().lower()
+    if not needle:
+        return False
+
+    with _ENSURE_LOCK:
+        from app.retrieval.index import append_chunks, get_index
+
+        if any(chunk.drug_id.lower() == needle for chunk in get_index()):
+            return True
+        if needle in _MISSING_DRUGS:
+            return False
+        chunks = chunks_for_drug(needle)
+        if not chunks:
+            _MISSING_DRUGS.add(needle)
+            return False
+        append_chunks(chunks)
+        return True

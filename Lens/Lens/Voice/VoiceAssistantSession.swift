@@ -59,8 +59,8 @@ final class VoiceAssistantSession: ObservableObject {
         !reply.isEmpty || recognizer.errorMessage != nil || speaker.errorMessage != nil
     }
 
-    /// The answer half of the loop. `hcpId` is whichever persona is selected —
-    /// the backend trusts it (see CLAUDE.md: no real auth for the demo).
+    /// The answer half of the loop. The backend checks `hcpId` against the
+    /// authenticated session before reading the chart or saving the answer.
     /// `patientId` is whichever patient is currently selected for this scan,
     /// if any — passed through so the answer can be grounded in that
     /// patient's chart alongside the drug dossier.
@@ -81,7 +81,7 @@ final class VoiceAssistantSession: ObservableObject {
         currentDrug: @escaping () -> Drug?,
         hcpId: @escaping () -> String?,
         patientId: @escaping () -> String? = { nil },
-        recordChat: @escaping (String, String) -> Void
+        recordChat: @escaping (String, String, Drug?, String?) -> Void
     ) {
         isExpanded = true
         if recognizer.state == .requestingPermission {
@@ -100,18 +100,20 @@ final class VoiceAssistantSession: ObservableObject {
             reply = ""
             answerGeneration += 1
             let generation = answerGeneration
+            // Keep the question attached to the chart and drug visible when
+            // recording starts, even if detection changes before Finish.
+            let questionDrug = currentDrug()
+            let questionHCP = hcpId()
+            let questionPatient = patientId()
             recognizer.startListening { [weak self] text in
                 guard let self else { return }
-                let drug = currentDrug()
-                let hcpId = hcpId()
-                let patientId = patientId()
                 self.reply = "Thinking…"
                 Task { [weak self] in
                     guard let self else { return }
-                    let answer = await self.answerProvider(text, drug, hcpId, patientId)
-                    guard self.answerGeneration == generation else { return }
+                    let answer = await self.answerProvider(text, questionDrug, questionHCP, questionPatient)
+                    guard self.answerGeneration == generation, hcpId() == questionHCP else { return }
                     self.reply = answer
-                    recordChat(text, answer)
+                    recordChat(text, answer, questionDrug, questionHCP)
                     self.speaker.speak(answer)
                 }
             }

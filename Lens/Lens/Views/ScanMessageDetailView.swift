@@ -20,6 +20,16 @@ struct ScanMessageDetailView: View {
                     if let patient = message.patient {
                         Label(patient.displayName, systemImage: "person.crop.circle")
                             .font(.title2.bold())
+                        Text(message.summary.headline)
+                            .font(.headline)
+                            .fixedSize(horizontal: false, vertical: true)
+                        ForEach(Array(message.summary.expandedBullets.enumerated()), id: \.offset) { _, text in
+                            Text("• " + text)
+                                .font(.body)
+                                .multilineTextAlignment(.leading)
+                                .lineLimit(nil)
+                                .fixedSize(horizontal: false, vertical: true)
+                        }
                         if let check = message.summary.chartCheck(for: patient.id), check.hasConcerns {
                             Text("Possible interactions and allergy concerns").font(.headline)
                             Text(check.headline).foregroundStyle(.orange)
@@ -42,8 +52,12 @@ struct ScanMessageDetailView: View {
                         Text(message.summary.headline)
                             .font(.title2.bold())
                             .fixedSize(horizontal: false, vertical: true)
+                        if message.summary.summarySource == "unavailable" {
+                            Text("Live summary unavailable. Label text is not shown until Grok rewrites it.")
+                                .font(.footnote).foregroundStyle(.secondary)
+                        }
                         ForEach(Array(message.summary.expandedBullets.enumerated()), id: \.offset) { _, text in
-                            Text(text)
+                            Text("• " + text)
                                 .font(.body)
                                 .multilineTextAlignment(.leading)
                                 .lineLimit(nil)

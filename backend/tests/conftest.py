@@ -69,6 +69,16 @@ def _load_demo_index() -> None:
 _load_demo_index()
 
 
+@pytest.fixture(autouse=True)
+def _offline_generation_by_default(monkeypatch):
+    """Tests must never spend a developer's configured provider credits."""
+    from app.llm.client import _cached_scan_bullets
+    monkeypatch.setattr(settings, "llm_api_key", "")
+    _cached_scan_bullets.cache_clear()
+    yield
+    _cached_scan_bullets.cache_clear()
+
+
 _DEMO_PASSWORD_HASH = hash_password("demo")
 
 # Mongo is the only source of truth for patients (no more clinic_records/
@@ -179,6 +189,31 @@ def _restore_demo_patients():
         db.patients.update_one({"_id": row["_id"]}, {"$set": row}, upsert=True)
     for hcp_id, patient_ids in _DEMO_PATIENT_IDS_BY_HCP.items():
         db.hcps.update_one({"_id": hcp_id}, {"$set": {"patient_ids": list(patient_ids)}})
+    yield
+
+
+@pytest.fixture(autouse=True)
+def _restore_demo_engagements():
+    """Reset demo familiarity so loop tests do not leak into summary tests."""
+    from app.db.seed import PRESEEDED_ENGAGEMENTS
+
+    db = get_database()
+    db.engagements.delete_many(
+        {"hcp_id": {"$in": ["hcp_001", "hcp_002", "hcp_003"]}}
+    )
+    for hcp_id, drug_id, touch_count in PRESEEDED_ENGAGEMENTS:
+        key = "%s:%s" % (hcp_id, drug_id)
+        db.engagements.update_one(
+            {"_id": key},
+            {
+                "$set": {
+                    "hcp_id": hcp_id,
+                    "drug_id": drug_id,
+                    "touch_count": touch_count,
+                }
+            },
+            upsert=True,
+        )
     yield
 
 

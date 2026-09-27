@@ -33,7 +33,7 @@ struct DemoDrug {
             tier: "new",
             headline: headline,
             bullets: bullets,
-            fullBullets: Topic.allCases.compactMap { answers[$0] }
+            summarySource: "unavailable"
         )
     }
 }

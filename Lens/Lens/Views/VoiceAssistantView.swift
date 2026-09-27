@@ -63,7 +63,8 @@ struct VoiceAssistantView: View {
                     .frame(maxHeight: panelHeightLimit)
                     .padding(.horizontal, 16)
                 }
-                .padding(.bottom, 16)
+                .padding(.top, 20)
+                .padding(.bottom, 20)
                 .background(.regularMaterial, in: RoundedRectangle(cornerRadius: 20))
                 .frame(maxWidth: 360)
                 .padding(.horizontal, 8)

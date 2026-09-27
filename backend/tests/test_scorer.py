@@ -35,3 +35,23 @@ def test_build_summary_content_differs_by_tier():
     assert len(new_bullets) > 0
     assert len(expert_bullets) > 0
     assert isinstance(new_headline, str) and new_headline
+
+
+def test_primary_care_tiers_change_the_lead_passage():
+    from app.retrieval.ingest import parse_dossier_fields
+
+    for drug_id in ("biofreeze", "adderall"):
+        fields = parse_dossier_fields(drug_id)
+        rows = [
+            build_summary_content(drug_id, tier, specialty="Primary Care")
+            for tier in ("new", "returning", "expert")
+        ]
+        assert [row[0] for row in rows] == [
+            "Primary Care · What it is",
+            "Primary Care · Dosing & precautions",
+            "Primary Care · Clinical profile",
+        ]
+        assert len({row[1][0] for row in rows}) == 3
+        assert len({tuple(row[1]) for row in rows}) == 3
+        dosing = fields["dosage_and_administration"]
+        assert all(dosing in row[1] for row in rows)

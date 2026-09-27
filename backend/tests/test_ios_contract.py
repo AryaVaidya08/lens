@@ -27,8 +27,8 @@ def test_ios_ask_and_engagement_bodies(client):
     headers, _ = login(client)
     ask = client.post("/drug/adderall/ask", json=IOS_ASK, headers=headers)
     assert ask.status_code == 200
-    assert "answer_text" in ask.json()
     assert ask.json()["answer_text"]
+    assert "amphetamine" not in ask.json()["answer_text"].lower()
     log = client.post("/engagement/log", json=IOS_ENGAGEMENT, headers=headers)
     assert log.status_code == 200
     assert isinstance(log.json()["touch_count"], int)
@@ -49,9 +49,12 @@ def test_ios_summary_query_item(client):
         "bullets",
         "patient_check",
         "full_bullets",
+        "summary_source",
     }
     assert body["tier"] in {"new", "returning", "expert"}
     assert isinstance(body["bullets"], list)
+    assert body["full_bullets"] == []
+    assert body["summary_source"] in {"grok", "unavailable"}
     assert body["patient_check"] is None
 
 
@@ -99,7 +102,8 @@ def test_unknown_hcp_id_cannot_spoof_another_account(client):
         "/drug/adderall/summary", params={"hcp_id": "hcp_001"}, headers=headers
     ).json()
     assert body["tier"] in {"new", "returning", "expert"}
-    assert body["bullets"]
+    assert body["full_bullets"] == []
+    assert body["summary_source"] in {"grok", "unavailable"}
 
 
 def test_formatted_and_noisy_barcodes(client):

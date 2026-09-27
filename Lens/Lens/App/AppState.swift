@@ -118,21 +118,28 @@ final class AppState: ObservableObject {
     }
 
     func recordChat(question: String, answer: String) {
+        recordChat(question: question, answer: answer, drug: currentDrug, hcpId: selectedHCP?.id)
+    }
+
+    /// Use the question's original context, including a genuinely drug-free
+    /// question, rather than whatever the camera sees when its answer arrives.
+    func recordChat(question: String, answer: String, drug: Drug?, hcpId: String?) {
         let question = question.trimmingCharacters(in: .whitespacesAndNewlines)
         let answer = answer.trimmingCharacters(in: .whitespacesAndNewlines)
-        guard !question.isEmpty, !answer.isEmpty, let hcpId = selectedHCP?.id else { return }
+        guard !question.isEmpty, !answer.isEmpty, let hcpId,
+              selectedHCP?.id == hcpId else { return }
 
         let turn = ChatTurn(askedAt: now(), question: question, answer: answer)
         var entries = entries(for: hcpId)
 
-        if let last = entries.indices.last, entries[last].drugId == currentDrug?.id {
+        if let last = entries.indices.last, entries[last].drugId == drug?.id {
             entries[last].chats.append(turn)
         } else {
             entries.append(
                 ScanLogEntry(
                     hcpId: hcpId,
-                    drugId: currentDrug?.id,
-                    drugName: currentDrug?.name ?? "Voice chat",
+                    drugId: drug?.id,
+                    drugName: drug?.name ?? "Voice chat",
                     scannedAt: turn.askedAt,
                     chats: [turn]
                 )

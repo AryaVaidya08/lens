@@ -68,8 +68,11 @@ final class APIClient {
         let configuration = URLSessionConfiguration.ephemeral
         configuration.requestCachePolicy = .reloadIgnoringLocalCacheData
         configuration.urlCache = nil
-        configuration.timeoutIntervalForRequest = 15
-        configuration.timeoutIntervalForResource = 20
+        // Ask and summary both wait on Grok with no bytes until the model
+        // finishes. A 15s idle cap makes the voice UI speak the local
+        // "I need the live backend so Grok can answer" line.
+        configuration.timeoutIntervalForRequest = 75
+        configuration.timeoutIntervalForResource = 75
         configuration.waitsForConnectivity = false
         return URLSession(configuration: configuration)
     }
@@ -175,16 +178,21 @@ final class APIClient {
             Endpoints.summary(drugId: drugId),
             query: query,
             as: DrugSummary.self,
-            timeout: 30
+            timeout: 60
         )
     }
 
     /// POST /drug/{drug_id}/ask
+    ///
+    /// Longer than the shared 15s POST cap: the server allows the model 20s,
+    /// and a shorter client timeout is what makes the voice UI speak the
+    /// local "I need the live backend so Grok can answer" line.
     func askQuestion(drugId: String, hcpId: String, query: String, patientId: String? = nil) async throws -> String {
         try await post(
             Endpoints.ask(drugId: drugId),
             body: AskRequest(hcpId: hcpId, query: query, patientId: patientId),
-            as: AnswerResponse.self
+            as: AnswerResponse.self,
+            timeout: 70
         ).answerText
     }
 
@@ -228,9 +236,10 @@ final class APIClient {
         _ path: String,
         query: [URLQueryItem] = [],
         body: Body,
-        as type: Response.Type
+        as type: Response.Type,
+        timeout: TimeInterval = 15
     ) async throws -> Response {
-        try await sendJSON(path, method: "POST", query: query, body: body, as: type)
+        try await sendJSON(path, method: "POST", query: query, body: body, as: type, timeout: timeout)
     }
 
     private func patch<Body: Encodable, Response: Decodable>(
@@ -246,9 +255,10 @@ final class APIClient {
         method: String,
         query: [URLQueryItem] = [],
         body: Body,
-        as type: Response.Type
+        as type: Response.Type,
+        timeout: TimeInterval = 15
     ) async throws -> Response {
-        var request = URLRequest(url: try url(for: path, query: query), timeoutInterval: 15)
+        var request = URLRequest(url: try url(for: path, query: query), timeoutInterval: timeout)
         request.httpMethod = method
         request.cachePolicy = .reloadIgnoringLocalCacheData
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")

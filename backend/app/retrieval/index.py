@@ -35,6 +35,13 @@ def load(chunks: list[Chunk]) -> None:
     _chunks = list(chunks)
 
 
+def append_chunks(chunks: list[Chunk]) -> None:
+    """Add one dossier's chunks without dropping the rest of the index."""
+    global _chunks
+    if chunks:
+        _chunks.extend(chunks)
+
+
 def set_index(chunks: list[Chunk]) -> None:
     """
     Backward-compatible alias for the old ingest.py interface.
@@ -64,6 +71,72 @@ def _cosine(a: list[float], b: list[float]) -> float:
     return sum(x * y for x, y in zip(a, b))
 
 
+# Allergy / medication questions need the contraindication passage even when
+# another section happens to embed closer to the wording of the question.
+_SAFETY_QUERY_MARKERS = (
+    "allerg",
+    "medicat",
+    "interact",
+    "conflict",
+    "contraindic",
+    "hypersensit",
+)
+
+
+def _candidates_for(drug_id: str) -> list[Chunk]:
+    exact = [chunk for chunk in _chunks if chunk.drug_id == drug_id]
+    if exact:
+        return exact
+    needle = drug_id.strip().lower()
+    if not needle:
+        return []
+    return [chunk for chunk in _chunks if chunk.drug_id.lower() == needle]
+
+
+def _query_asks_about_chart_safety(query_terms: set[str]) -> bool:
+    blob = " ".join(query_terms)
+    return any(marker in blob for marker in _SAFETY_QUERY_MARKERS)
+
+
+def _safety_priority(chunk: Chunk) -> int | None:
+    """Lower is more relevant. None means the passage is not a safety pin."""
+    section = (chunk.section or "").lower().replace("_", " ")
+    text = chunk.text.lower()
+    short = len(chunk.text) < 2500
+    if "contraindic" in section or (
+        short and ("hypersensitive" in text or "contraindicat" in text)
+    ):
+        return 0
+    if short and "sensitive skin" in text:
+        return 0
+    if any(hint in section for hint in ("warning", "boxed", "ask doctor")):
+        return 1 if short else 6
+    if any(hint in section for hint in ("adverse", "allerg", "when using", "stop use")):
+        return 2 if short else 7
+    if any(hint in section for hint in ("precaution", "interaction", "ingredient")):
+        return 3 if short else 8
+    return None
+
+
+def _with_safety_passages(
+    ranked: list[Chunk],
+    candidates: list[Chunk],
+    limit: int,
+) -> list[Chunk]:
+    pinned = [chunk for chunk in candidates if _safety_priority(chunk) is not None]
+    pinned.sort(key=lambda chunk: (_safety_priority(chunk) or 0, len(chunk.text)))
+    chosen: list[Chunk] = []
+    seen: set[str] = set()
+    for chunk in pinned[:2] + ranked:
+        if chunk.text in seen:
+            continue
+        seen.add(chunk.text)
+        chosen.append(chunk)
+        if len(chosen) >= limit:
+            break
+    return chosen
+
+
 def retrieve(
     drug_id: str,
     query: str,
@@ -78,23 +151,17 @@ def retrieve(
     embedding similarity with an additional bonus when the query terms
     explicitly match the chunk's section name.
 
-    This is the only retrieval interface callers should use.
+    If startup ingest was skipped and this drug is not in the index yet,
+    its dossier file is loaded on demand. Callers still go through this
+    function; nothing else should touch the index.
     """
 
-    # Restrict retrieval to the requested drug before doing any ranking.
-    candidates = [
-        chunk for chunk in _chunks
-        if chunk.drug_id == drug_id
-    ]
-
+    candidates = _candidates_for(drug_id)
     if not candidates:
-        # Filename stems are canonical IDs, but accept case differences
-        # and folder-style slugs as well.
-        needle = drug_id.strip().lower()
-        candidates = [
-            chunk for chunk in _chunks
-            if chunk.drug_id.lower() == needle
-        ]
+        from app.retrieval.ingest import ensure_drug_indexed
+
+        if ensure_drug_indexed(drug_id):
+            candidates = _candidates_for(drug_id)
 
     if not candidates:
         return []
@@ -130,5 +197,8 @@ def retrieve(
         key=score,
         reverse=True,
     )
+    chosen = ranked[:limit]
+    if _query_asks_about_chart_safety(query_terms):
+        chosen = _with_safety_passages(ranked, candidates, limit)
 
-    return [chunk.text for chunk in ranked[:limit]]
+    return [chunk.text for chunk in chosen]

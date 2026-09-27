@@ -1,3 +1,4 @@
+import Combine
 import SwiftUI
 import UIKit
 
@@ -67,9 +68,9 @@ struct MainView: View {
                         assistant.microphoneTapped(
                             currentDrug: { appState.currentDrug },
                             hcpId: { appState.selectedHCP?.id },
-                            patientId: { appState.selectedPatient?.id },
-                            recordChat: { question, answer in
-                                appState.recordChat(question: question, answer: answer)
+                            patientId: { appState.scanSessionPatient?.id },
+                            recordChat: { question, answer, drug, hcpId in
+                                appState.recordChat(question: question, answer: answer, drug: drug, hcpId: hcpId)
                             }
                         )
                     }
@@ -109,6 +110,9 @@ struct MainView: View {
                 assistant.leaveScanTab()
                 appState.endScanSession()
             }
+        }
+        .onChange(of: appState.selectedHCP?.id) { _, _ in
+            assistant.leaveScanTab()
         }
     }
 }

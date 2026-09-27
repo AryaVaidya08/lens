@@ -68,6 +68,7 @@ struct SessionChecks {
             precondition(AppState(defaults: defaults).selectedHCP == nil)
         }
         historyChecks()
+        historyAttributionChecks()
         scanSessionChecks()
         print("PASS: profile selection, restoration, switching, logout, stale cache, and unrelated preferences")
     }
@@ -159,6 +160,32 @@ struct SessionChecks {
         let upgraded = AppState(defaults: defaults, now: { instant })
         upgraded.selectedHCP = HCP.demoProfiles[2]
         precondition(upgraded.scanHistory.isEmpty, "Scan-only entries from older builds are hidden")
+    }
+
+    @MainActor
+    private static func historyAttributionChecks() {
+        let suiteName = "lens.history-attribution.\(UUID().uuidString)"
+        let defaults = UserDefaults(suiteName: suiteName)!
+        defer { defaults.removePersistentDomain(forName: suiteName) }
+        let state = AppState(defaults: defaults)
+        let hcp = HCP.demoProfiles[0]
+        state.selectedHCP = hcp
+        let original = Drug(id: "original", name: "Original bottle")
+        state.currentDrug = Drug(id: "new", name: "New bottle")
+        state.recordChat(question: "Original question", answer: "Original answer", drug: original, hcpId: hcp.id)
+        precondition(state.scanHistory.last?.drugId == original.id)
+        precondition(state.scanHistory.last?.drugName == original.name)
+        precondition(AppState(defaults: defaults).scanHistory.last?.drugId == original.id, "Persisted history must retain the snapshot")
+        state.recordChat(question: "General question", answer: "General answer", drug: nil, hcpId: hcp.id)
+        precondition(state.scanHistory.count == 2 && state.scanHistory.last?.drugId == nil)
+        precondition(state.scanHistory.last?.drugName == "Voice chat")
+        state.selectedHCP = HCP.demoProfiles[1]
+        state.recordChat(question: "Old account", answer: "Late answer", drug: original, hcpId: hcp.id)
+        precondition(state.scanHistory.isEmpty, "Never write a previous account's reply into the current account")
+        state.logOut()
+        state.recordChat(question: "Logged out", answer: "Late answer", drug: original, hcpId: hcp.id)
+        precondition(state.scanHistory.isEmpty)
+        print("PASS: voice history snapshot, nil drug, persistence, account switch, and logout")
     }
 
     @MainActor

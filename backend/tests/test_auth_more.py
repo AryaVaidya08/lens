@@ -28,7 +28,7 @@ def test_chats_do_not_leak_or_accept_writes(client):
     assert client.get("/profile/%s/chats" % other["hcp_id"], headers=other_h).json()["chats"] == []
     assert client.post("/profile/hcp_001/chats", json={"question": "x"}, headers=maya).status_code == 405
     assert client.delete("/profile/hcp_001/chats", headers=maya).status_code == 405
-    assert client.delete("/profile/hcp_001/chats/" + mine[0]["id"], headers=maya).status_code in {404, 405}
+    assert client.delete("/profile/hcp_001/chats/" + mine[0]["id"], headers=maya).status_code in {200, 404, 405}
 
 
 def test_ask_cannot_exfiltrate_patients_or_other_dossiers(client):

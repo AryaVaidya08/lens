@@ -13,7 +13,7 @@ from pymongo.database import Database
 from app.db.accounts import owned_patient, reject_path_id
 from app.db.database import get_db
 from app.db.sessions import assert_same_hcp, current_hcp
-from app.llm.client import generate_answer
+from app.llm.client import generate_answer, summarize_scan
 from app.personalization.patient_check import check_patient_chart
 from app.personalization.scorer import build_summary_content, score_familiarity
 from app.retrieval.index import retrieve
@@ -135,13 +135,21 @@ def get_summary(
         except Exception:
             check = None
 
+    # Always rewrite the selected dossier sections through Grok. Chart data
+    # stays out of that prompt; it is only used for patient_check below.
+    bullets, summary_source = summarize_scan(name, full_bullets, tier, specialty)
+    if summary_source != "grok":
+        bullets = []
+        summary_source = "unavailable"
+
     return {
         "drug_id": drug["_id"],
         "name": name,
         "tier": tier,
         "headline": headline,
-        "bullets": full_bullets[:MAX_BULLETS],
-        "full_bullets": full_bullets[:MAX_BULLETS],
+        "bullets": bullets,
+        "summary_source": summary_source,
+        "full_bullets": [],
         "patient_check": check,
     }
 

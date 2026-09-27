@@ -48,8 +48,10 @@ def fields(monkeypatch):
 @pytest.mark.parametrize("tier", scorer.TIERS)
 def test_specialty_uses_source_text_and_keeps_safety(fields, specialty, tier):
     headline, bullets = scorer.build_summary_content("test", tier, specialty)
-    assert headline == specialty
-    assert bullets[0] == fields["boxed_warning"]
+    assert headline == f"{specialty} · {scorer._TIER_HEADLINES[tier]}"
+    lead = next(fields[key] for key in scorer._TIER_FIELD_PRIORITY[tier] if fields.get(key))
+    assert bullets[0] == lead
+    assert fields["boxed_warning"] in bullets
     assert 1 <= len(bullets) <= 3
     assert len(bullets) == len(set(bullets))
     assert all(bullet in fields.values() for bullet in bullets)
@@ -112,7 +114,10 @@ def test_otc_style_label_still_shows_specialty(monkeypatch):
 
 
 def test_familiarity_still_changes_content(fields):
-    assert scorer.build_summary_content("test", "new", "Cardiology")[1] != scorer.build_summary_content("test", "expert", "Cardiology")[1]
+    rows = [scorer.build_summary_content("test", tier, "Cardiology") for tier in scorer.TIERS]
+    assert len({row[0] for row in rows}) == 3
+    assert len({tuple(row[1]) for row in rows}) == 3
+    assert len({row[1][0] for row in rows}) == 3
 
 
 def test_route_uses_authenticated_specialty_for_scans(client, monkeypatch):

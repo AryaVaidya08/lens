@@ -333,11 +333,13 @@ struct VoiceChecks {
                          "Exact barcode match must resolve \(demo.name)")
             precondition(Set(demo.answers.keys) == Set(DemoDrug.Topic.allCases))
             let dosing = PlaceholderAssistant.reply(to: "What's the dose?", drug: demo.drug)
-            precondition(dosing == "Demo data for \(demo.name). \(demo.answers[.dosing]!)")
+            precondition(dosing.contains("Grok"))
+            precondition(!dosing.contains(demo.answers[.dosing]!))
             let sideEffects = PlaceholderAssistant.reply(to: "Any side effects?", drug: demo.drug)
-            precondition(sideEffects.contains(demo.answers[.sideEffects]!))
+            precondition(!sideEffects.contains(demo.answers[.sideEffects]!))
             let overview = PlaceholderAssistant.reply(to: "Tell me about it", drug: demo.drug)
-            precondition(overview.contains(demo.headline))
+            precondition(overview.contains("Grok"))
+            precondition(!overview.contains(demo.headline))
         }
         precondition(DemoDrugCatalog.resolve(payload: "barcode: 0123456789") == nil,
                      "Unrecognized payloads must not resolve to any demo drug")

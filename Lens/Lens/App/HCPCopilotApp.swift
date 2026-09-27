@@ -7,6 +7,7 @@
 //  Owned by: AR & detection lane (shell) / whole team (shared state).
 //
 
+import Combine
 import SwiftUI
 
 @main

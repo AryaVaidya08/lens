@@ -45,10 +45,15 @@ struct HUDOverlayView: View {
                     .font(.caption)
                     .foregroundStyle(.secondary)
                     .lineLimit(2)
-                ForEach(Array(summary.previewBullets.enumerated()), id: \.offset) { _, bullet in
+                if summary.summarySource == "reference" {
+                    Text("Reference excerpts · AI summary unavailable")
+                        .font(.caption2).foregroundStyle(.secondary)
+                }
+                ForEach(Array(cardPreview.enumerated()), id: \.offset) { _, bullet in
                     Text("• " + bullet)
                         .font(.caption2)
-                        .lineLimit(2)
+                        .lineLimit(3)
+                        .fixedSize(horizontal: false, vertical: true)
                 }
                 if isOffline, let retry {
                     Button("Retry live details", action: retry).font(.caption2)
@@ -67,9 +72,17 @@ struct HUDOverlayView: View {
         .contentShape(Rectangle())
         .onTapGesture { if !isLoading { onExpand?() } }
         .padding(8)
-        .frame(maxWidth: patient == nil ? 150 : 260, alignment: .leading)
+        .frame(maxWidth: patient == nil ? 280 : 300, alignment: .leading)
         .background(.ultraThinMaterial, in: RoundedRectangle(cornerRadius: 14, style: .continuous))
         .shadow(radius: 6)
+    }
+
+    /// About a quarter of the rewrite stays on the bubble. The opened chat lists the rest.
+    private var cardPreview: [String] {
+        let all = summary.previewBullets
+        guard !all.isEmpty else { return [] }
+        let visible = max(1, (all.count + 3) / 4)
+        return Array(all.prefix(visible))
     }
 
     private func patientContent(_ patient: Patient) -> some View {

@@ -166,3 +166,32 @@ The summary API now includes optional `full_bullets` alongside compact `bullets`
 the reader uses the untruncated selected dossier sections when available. Older
 backends and offline summaries fall back to the text they provide. Restart the
 backend to serve the new full-text field.
+
+### Deliberate repeat scans and voice history
+
+After a result loads, **Scan again** refreshes that medication using the latest
+server familiarity, then records one new engagement. It waits for any prior
+engagement write before reading the next summary and is disabled while loading
+or saving. Brief tracking losses, reopening the retained camera, and chart-only
+refreshes do not create another touch for the same detected drug. Switching to a
+different drug begins a new scan. To demonstrate the same bottle twice, tap
+Scan again; removing and returning the bottle alone does not advance it.
+
+A failed summary can recover through Retry without losing its pending touch.
+A failed engagement write preserves the reference card and displays that saving
+could not be confirmed; it is not automatically retried because the existing API
+does not support idempotent engagement requests. Offline scans cannot guarantee
+familiarity progression.
+
+Voice questions capture the drug, HCP, and scan-session patient when recording
+starts. Local history now receives that same drug/HCP snapshot, including nil
+for a question started without a drug. A later bottle detection cannot rename
+the saved conversation. Account changes and logout reject stale replies.
+
+Regression checks cover scan read/write ordering, repeated detections, concurrent
+writes, failures/recovery, voice context, drug-free questions, and account changes.
+The test runner accepts `LENS_SKIP_PERSISTENCE=1 LENS_SKIP_LIVE_API=1` in restricted
+environments; those skips do not verify cross-process preferences or a live API.
+Rehearse new → returning → expert on a device with a fresh account/drug pairing;
+patient mode intentionally continues to show chart checks rather than general
+tier-based reference bullets.
