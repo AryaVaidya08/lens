@@ -1,61 +1,17 @@
-import { useRef, useState } from "react";
+import { useState } from "react";
 
-const SEARCH_DEBOUNCE_MS = 300;
-
-function DrugList({ drugs, selectedDrug, setSelectedDrug, onSearchDrugs, onAddDrug }) {
+function DrugList({
+  drugs,
+  selectedDrug,
+  setSelectedDrug,
+  onAddDrug,
+  onRemoveDrug,
+}) {
   const [search, setSearch] = useState("");
-  const [showAdd, setShowAdd] = useState(false);
-  const [addQuery, setAddQuery] = useState("");
-  const [addResults, setAddResults] = useState([]);
-  const [addLoading, setAddLoading] = useState(false);
-  const [addError, setAddError] = useState("");
-  const debounceRef = useRef(null);
 
   const filteredDrugs = drugs.filter((drug) =>
     drug.name.toLowerCase().startsWith(search.toLowerCase())
   );
-
-  function toggleAdd() {
-    setShowAdd((current) => !current);
-    setAddQuery("");
-    setAddResults([]);
-    setAddError("");
-  }
-
-  function handleAddQueryChange(event) {
-    const value = event.target.value;
-    setAddQuery(value);
-
-    if (debounceRef.current) clearTimeout(debounceRef.current);
-
-    const trimmed = value.trim();
-    if (!trimmed) {
-      setAddResults([]);
-      setAddLoading(false);
-      return;
-    }
-
-    setAddLoading(true);
-
-    debounceRef.current = setTimeout(async () => {
-      try {
-        const results = await onSearchDrugs(trimmed);
-        setAddResults(results);
-        setAddError("");
-      } catch (err) {
-        console.error("Drug search failed:", err);
-        setAddError(err.message);
-      } finally {
-        setAddLoading(false);
-      }
-    }, SEARCH_DEBOUNCE_MS);
-  }
-
-  function handleAdd(drug) {
-    onAddDrug(drug);
-    setSelectedDrug(drug);
-    toggleAdd();
-  }
 
   return (
     <div className="list-panel">
@@ -68,69 +24,55 @@ function DrugList({ drugs, selectedDrug, setSelectedDrug, onSearchDrugs, onAddDr
         <button
           type="button"
           className="primary-button small"
-          onClick={toggleAdd}
+          onClick={onAddDrug}
         >
-          {showAdd ? "Close" : "+ Add"}
+          + Add
         </button>
       </div>
 
       <input
         className="search-input"
         type="text"
-        placeholder={
-          showAdd ? "Search the full drug catalog..." : "Search drugs..."
-        }
-        value={showAdd ? addQuery : search}
-        autoFocus={showAdd}
-        onChange={showAdd ? handleAddQueryChange : (event) => setSearch(event.target.value)}
+        placeholder="Search drugs..."
+        value={search}
+        onChange={(event) => setSearch(event.target.value)}
       />
 
-      {showAdd && addError && (
-        <div className="error-banner">{addError}</div>
-      )}
-
       <div className="list">
-        {showAdd ? (
-          addLoading ? (
-            <div className="list-empty">
-              <strong>Searching…</strong>
-            </div>
-          ) : addResults.length > 0 ? (
-            addResults.map((drug) => (
-              <button
-                key={drug.id}
-                type="button"
-                className="list-item"
-                onClick={() => handleAdd(drug)}
-              >
-                <strong>{drug.name}</strong>
-                <span>{drug.id}</span>
-              </button>
-            ))
-          ) : (
-            <div className="list-empty">
-              <strong>
-                {addQuery.trim() ? "No matches" : "Search the catalog"}
-              </strong>
-              <span>
-                {addQuery.trim()
-                  ? "Try a different drug name."
-                  : "Start typing a drug name to add it."}
-              </span>
-            </div>
-          )
-        ) : filteredDrugs.length > 0 ? (
+        {filteredDrugs.length > 0 ? (
           filteredDrugs.map((drug) => (
-            <button
+            <div
               key={drug.id}
+              role="button"
+              tabIndex={0}
               onClick={() => setSelectedDrug(drug)}
+              onKeyDown={(event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                  setSelectedDrug(drug);
+                }
+              }}
               className={`list-item ${
                 selectedDrug?.id === drug.id ? "selected" : ""
               }`}
             >
-              <strong>{drug.name}</strong>
-              <span>{drug.id}</span>
-            </button>
+              <div className="list-item-content">
+                <strong>{drug.name}</strong><br />
+                <span>{drug.id}</span>
+              </div>
+
+              <button
+                type="button"
+                className="delete-chat-button"
+                onClick={(event) => {
+                  event.stopPropagation();
+                  onRemoveDrug(drug.id);
+                }}
+                title="Remove drug"
+                aria-label={`Remove ${drug.name}`}
+              >
+                🗑️
+              </button>
+            </div>
           ))
         ) : (
           <div className="list-empty">

@@ -28,6 +28,7 @@ export async function login(email, password) {
 
   localStorage.setItem("lens_session_token", data.session_token);
   localStorage.setItem("lens_hcp_id", data.hcp_id);
+
   return data;
 }
 
@@ -59,6 +60,17 @@ export async function deleteChat(hcpId, conversationId) {
     {
       method: "DELETE",
       headers: authHeaders(),
+    }
+  );
+}
+
+export async function renameChat(hcpId, conversationId, title) {
+  return request(
+    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    {
+      method: "PATCH",
+      headers: authHeaders(),
+      body: JSON.stringify({ title }),
     }
   );
 }
@@ -136,13 +148,12 @@ export async function createPatient(hcpId, patient) {
   return data.patient;
 }
 
-export async function renameChat(hcpId, conversationId, title) {
+export async function deletePatient(hcpId, patientId) {
   return request(
-    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    `/profile/${hcpId}/patients/${encodeURIComponent(patientId)}`,
     {
-      method: "PATCH",
+      method: "DELETE",
       headers: authHeaders(),
-      body: JSON.stringify({ title }),
     }
   );
 }

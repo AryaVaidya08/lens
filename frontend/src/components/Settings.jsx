@@ -8,10 +8,6 @@ function Settings({ profile, hcpId, onLogout }) {
     <div className="settings-page">
       <div className="dashboard-intro">
         <h2>Settings</h2>
-        <p className="dashboard-lede">
-          Placeholder preferences for now — this page fills in once the rest
-          of the app settles.
-        </p>
       </div>
 
       <section className="patient-section settings-section">
