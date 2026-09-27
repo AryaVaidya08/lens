@@ -1,6 +1,12 @@
+function formatLocation(profile) {
+  const cityRegion = [profile?.city, profile?.region].filter(Boolean).join(", ");
+  return cityRegion || profile?.country || "Not set";
+}
+
 function Dashboard({ profile, hcpId, chatCount, drugCount, patientCount, setView }) {
   const name = profile?.name || "there";
   const specialty = profile?.specialty;
+  const clinic = profile?.organization || profile?.practice_setting;
 
   const stats = [
     {
@@ -43,6 +49,14 @@ function Dashboard({ profile, hcpId, chatCount, drugCount, patientCount, setView
         <div>
           <span>HCP ID</span>
           <strong>{hcpId}</strong>
+        </div>
+        <div>
+          <span>Clinic</span>
+          <strong>{clinic || "Not set"}</strong>
+        </div>
+        <div>
+          <span>Location</span>
+          <strong>{formatLocation(profile)}</strong>
         </div>
       </div>
 
