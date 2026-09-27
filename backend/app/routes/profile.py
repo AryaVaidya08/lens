@@ -154,6 +154,18 @@ def list_chats(
     # Most recently active conversation first.
     chats.sort(key=lambda chat: chat.get("asked_at") or "", reverse=True)
 
+    # Attach display names so the frontend can auto-populate a per-HCP
+    # drug list from chat history without a round trip per drug.
+    drug_ids = {chat["drug_id"] for chat in chats}
+    drug_names = {
+        row["_id"]: row.get("name") or row["_id"]
+        for row in db.drugs.find(
+            {"_id": {"$in": list(drug_ids)}}, {"_id": 1, "name": 1}
+        )
+    }
+    for chat in chats:
+        chat["drug_name"] = drug_names.get(chat["drug_id"], chat["drug_id"])
+
     return {"chats": chats}
 
 @router.delete("/{hcp_id}/chats/{conversation_id}")

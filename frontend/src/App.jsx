@@ -1,16 +1,16 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   getChats,
   deleteChat,
   renameChat,
   getDrugSummary,
+  searchDrugs,
   askDrugQuestion,
   logEngagement,
   getPatients,
   getProfile,
   createPatient
 } from "./api";
-import { drugs } from "./data/mockData";
 import Header from "./components/Header";
 import Dashboard from "./components/Dashboard";
 import Settings from "./components/Settings";
@@ -40,6 +40,7 @@ function App() {
 
   const [selectedDrug, setSelectedDrug] = useState(null);
   const [drugSummary, setDrugSummary] = useState(null);
+  const [extraDrugs, setExtraDrugs] = useState([]);
 
   const [loading, setLoading] = useState(false);
   const [loadingDrug, setLoadingDrug] = useState(false);
@@ -60,6 +61,7 @@ function App() {
     setChats([]);
     setSelectedChat(null);
     setSelectedDrug(null);
+    setExtraDrugs([]);
     setPatients([]);
     setSelectedPatient(null);
     setView("dashboard");
@@ -122,12 +124,8 @@ function App() {
           id: chat.id,
           conversationId: chat.conversation_id || chat.id,
           drugId: chat.drug_id,
-          drugName:
-            drugs.find((drug) => drug.id === chat.drug_id)?.name ||
-            chat.drug_id,
-          title:
-            chat.title ||
-            `${chat.drugName} - ${chat.question}`,
+          drugName: chat.drug_name || chat.drug_id,
+          title: chat.title || chat.question,
           timestamp: chat.asked_at
             ? new Date(chat.asked_at).toLocaleString()
             : "",
@@ -198,6 +196,68 @@ function App() {
     setSelectedPatient(patient);
     return patient;
   }
+
+  // Drugs a clinician has manually pinned via the "+ Add" search, on top
+  // of the ones that auto-populate from their chat history. Kept
+  // per-HCP in localStorage since it's a personal UI convenience, not
+  // data the backend needs to own.
+  useEffect(() => {
+    if (!hcpId) return;
+
+    try {
+      const raw = localStorage.getItem(`lens_extra_drugs_${hcpId}`);
+      setExtraDrugs(raw ? JSON.parse(raw) : []);
+    } catch (err) {
+      console.error("Failed to load saved drugs:", err);
+      setExtraDrugs([]);
+    }
+  }, [hcpId]);
+
+  function handleAddDrug(drug) {
+    setExtraDrugs((current) => {
+      if (current.some((item) => item.id === drug.id)) return current;
+
+      const updated = [...current, drug];
+
+      try {
+        localStorage.setItem(
+          `lens_extra_drugs_${hcpId}`,
+          JSON.stringify(updated)
+        );
+      } catch (err) {
+        console.error("Failed to save drug:", err);
+      }
+
+      return updated;
+    });
+  }
+
+  async function handleSearchDrugs(query) {
+    const results = await searchDrugs(query);
+    return results.map((item) => ({ id: item.drug_id, name: item.name }));
+  }
+
+  // Drug Information auto-populates from every drug a chat has touched,
+  // plus anything manually pinned via "+ Add" — no more static catalog.
+  const drugCatalog = useMemo(() => {
+    const byId = new Map();
+
+    for (const chat of chats) {
+      if (!byId.has(chat.drugId)) {
+        byId.set(chat.drugId, { id: chat.drugId, name: chat.drugName });
+      }
+    }
+
+    for (const drug of extraDrugs) {
+      if (!byId.has(drug.id)) {
+        byId.set(drug.id, drug);
+      }
+    }
+
+    return Array.from(byId.values()).sort((a, b) =>
+      a.name.localeCompare(b.name)
+    );
+  }, [chats, extraDrugs]);
 
   useEffect(() => {
     if (!selectedDrug || !hcpId) {
@@ -437,7 +497,7 @@ function App() {
             profile={profile}
             hcpId={hcpId}
             chatCount={chats.length}
-            drugCount={drugs.length}
+            drugCount={drugCatalog.length}
             patientCount={patients.length}
             setView={setView}
           />
@@ -472,9 +532,11 @@ function App() {
         {view === "drugs" && (
           <div className="content-layout">
             <DrugList
-              drugs={drugs}
+              drugs={drugCatalog}
               selectedDrug={selectedDrug}
               setSelectedDrug={setSelectedDrug}
+              onSearchDrugs={handleSearchDrugs}
+              onAddDrug={handleAddDrug}
             />
 
             <DrugDetails

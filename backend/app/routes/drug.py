@@ -2,6 +2,7 @@
 Drug summary + follow-up Q&A endpoints.
 """
 
+import re
 from datetime import datetime, timezone
 from typing import Optional
 
@@ -22,12 +23,46 @@ from uuid import uuid4
 router = APIRouter(prefix="/drug", tags=["drug"])
 
 MAX_BULLETS = 3
+MAX_SEARCH_RESULTS = 50
 
 
 class AskRequest(BaseModel):
     hcp_id: str = Field(max_length=64)
     query: str = Field(max_length=2000)
     conversation_id: Optional[str] = Field(default=None, max_length=64)
+
+
+@router.get("/search")
+def search_drugs(
+    q: str = "",
+    limit: int = 25,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    """
+    Name search over the full drug catalog, for the frontend's "add a
+    drug" picker. Not scoped to an hcp_id — it's a lookup against the
+    shared reference corpus, not personalized or owned data.
+    """
+    limit = max(1, min(limit, MAX_SEARCH_RESULTS))
+    query = q.strip()
+
+    mongo_filter: dict = {}
+    if query:
+        mongo_filter = {"name": {"$regex": re.escape(query), "$options": "i"}}
+
+    rows = (
+        db.drugs.find(mongo_filter, {"_id": 1, "name": 1})
+        .sort("name", 1)
+        .limit(limit)
+    )
+
+    return {
+        "drugs": [
+            {"drug_id": row["_id"], "name": row.get("name") or row["_id"]}
+            for row in rows
+        ]
+    }
 
 
 @router.get("/{drug_id}/summary")

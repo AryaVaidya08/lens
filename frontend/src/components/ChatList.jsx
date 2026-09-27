@@ -15,8 +15,8 @@ function ChatList({
     const query = search.toLowerCase();
 
     return (
-      (chat.title || chat.drugName).toLowerCase().includes(query) ||
-      chat.preview.toLowerCase().includes(query)
+      (chat.title || chat.question).toLowerCase().includes(query) ||
+      (chat.drugId || "").toLowerCase().includes(query)
     );
   });
 
@@ -24,9 +24,7 @@ function ChatList({
     event.stopPropagation();
 
     setEditingChatId(chat.id);
-    setEditingTitle(
-      chat.title || `${chat.drugName} - ${chat.question}`
-    );
+    setEditingTitle(chat.title || chat.question);
   };
 
   const cancelEditing = () => {
@@ -44,7 +42,7 @@ function ChatList({
       return;
     }
 
-    if (trimmedTitle === (chat.title || chat.drugName)) {
+    if (trimmedTitle === (chat.title || chat.question)) {
       cancelEditing();
       return;
     }
@@ -116,9 +114,7 @@ function ChatList({
                     </div>
                   ) : (
                     <div className="chat-list-title">
-                      <strong>
-                        {chat.title || `${chat.drugName} - ${chat.question}`}
-                      </strong>
+                      <strong>{chat.title || chat.question}</strong>
 
                       <button
                         className="rename-chat-button"
@@ -136,7 +132,7 @@ function ChatList({
                   <small>{chat.timestamp}</small>
                 </div>
 
-                <span>{chat.preview}</span>
+                <span>{chat.drugId}</span>
               </div>
 
               <button

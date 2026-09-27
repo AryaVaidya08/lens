@@ -72,6 +72,17 @@ export async function getDrugSummary(drugId, hcpId) {
   );
 }
 
+export async function searchDrugs(query) {
+  const data = await request(
+    `/drug/search?q=${encodeURIComponent(query)}`,
+    {
+      headers: authHeaders(),
+    }
+  );
+
+  return data.drugs;
+}
+
 export async function askDrugQuestion(
   drugId,
   hcpId,
