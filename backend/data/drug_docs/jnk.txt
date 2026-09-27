@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  JNK YRD Advanced Hand Sanitizer LAVENDER SCENT ALCOHOL WATER GLYCERIN PANTHENOL .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+spl_unclassified_section:
+  Drug Facts
+  Other information Store between 15-30°C (59-86°F) Avoid freezing and excessive heat above 40°C (104°F)
+active_ingredient:
+  Active ingredient Ethyl Alcohol 75% v/v Purpose Antiseptic
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses[s] Hand sanitizer to help reduce bacteria that potentially can cause disease. For use when soap and water are not available.
+warnings:
+  Warnings For external use only. Flammable. Keep away from heat or flame Do not use in children less than 2 months of age on open skin wounds When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious conditions. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash occurs. These may be signs of a serious conditions.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions ● Place enough product on hands to cover all surfaces. Rub hands together until dry. ● Supervise children under 6 years of age when using this product to avoid swallowing.
+inactive_ingredient:
+  Inactive ingredients Purified Water USP, Glycerin, Panthenol, Tocopheryl Acetate
+package_label_principal_display_panel:
+  Package Labeling: 60ml Bottle3
+  Package Labeling: 500ml Bottle4
+set_id:
+  c8aac0c1-8539-b215-e053-2995a90a4de6
+id:
+  0fb4a1b4-ef47-f009-e063-6394a90a1056
+effective_time:
+  20240124
+version:
+  2
+openfda:

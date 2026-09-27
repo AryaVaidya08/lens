@@ -1,0 +1,27 @@
+effective_time:
+  20210615
+inactive_ingredient:
+  *Aloe Barbadensis Leaf Extract *Oryza Sativa (Rice) Extract Zinc Oxide Titanium Dioxide *Vitis Vinifera (Grape) Seed Oil Cetearyl Alcohol *Olea Europaea (Olive) Fruit Oil Cetyl Alcohol Sorbitan Olivate *Persea Gratissima (Avocado) Oil *Brassica Oleracea Acephala Leaf Extract *Spinacia Oleracea (Spinach) Leaf Extract *Persea Gratissima (Avocado) Butter *Mangifera Indica (Mango) Seed Butter *Lactobacillus/Chrysanthemum Sinense Flower Ferment Filtrate *Lactobacillus/Nelumbo Nucifera Flower Ferment Filtrate *Lactobacillus/Taraxacum Officinale (Dandelion) Rhizome/Root Ferment Filtrate Euphorbia Cerifera (Candelilla) Wax Copernicia Cerifera (Carnauba) Wax Xanthan Gum Aniba Rosodora (Rosewood) Wood Oil Mentha Piperita (Peppermint) Oil ***Scutellaria Baicalensis Root Extract ***Paeonia Suffruticosa Root Extract ***Glycyrrhiza Glabra (Licorice) Root Extract **Fragrance *Certified Organically Grown **Natural Origin ***Natural Preservative
+purpose:
+  UV protection
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+warnings:
+  For external use only. UV exposure from the sun increases the risk of skin cancer, premature skin aging, and other skin damage. It is important to decrease UV exposure by limiting time in the sun, wearing protective clothing, and using a sunscreen. When using the product Keep out of eyes. Rinse with water to remove. Keep out of reach of children if swallowed, get medical help or contact a Poison Control Center
+spl_product_data_elements:
+  WHAMISA ORGANIC FLOWERS SUNCREAM SPF 14 PA zinc oxide, titanium dioxide SORBITAN OLIVATE CETEARYL OLIVATE ZINC OXIDE ZINC OXIDE TITANIUM DIOXIDE TITANIUM DIOXIDE
+openfda:
+version:
+  2
+dosage_and_administration:
+  For external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Apply an appropriate amount to areas exposed to ultraviolet rays
+set_id:
+  9655185c-ea9b-3480-e053-2a95a90aee09
+id:
+  c65c1d87-1c8c-4c6c-977c-11cf6e143c21
+active_ingredient:
+  zinc oxide, titanium dioxide

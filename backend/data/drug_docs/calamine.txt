@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  calamine Calamine and Zinc oxide GLYCERIN MICROCRYSTALLINE CELLULOSE BENTONITE CALCIUM HYDROXIDE WATER CARRAGEENAN XANTHAN GUM ZINC OXIDE ZINC CATION
+active_ingredient:
+  Active ingredient Calamine 8%, Zinc Oxide 8%
+purpose:
+  Purpose Skin protectant
+indications_and_usage:
+  Uses Dries the oozing and weeping of poison: ivy oak sumac
+warnings:
+  Warnings For external use only Use only as directed.
+when_using:
+  When using this product do not get into eyes
+ask_doctor:
+  Ask a doctor before using on children under 2 years of age.
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingestion, seek professional assistance or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions shake well before using cleanse the skin with soap and water let dry before each use apply lotion to the affected area using cotton or soft cloth adults and children 2 years and older 3 to 4 times daily as needed for comfort children under 2 years Consult a doctor before use
+dosage_and_administration_table:
+  <table border="0" width="100%"><tbody><tr><td>adults and children 2 years and older</td><td>3 to 4 times daily as needed for   comfort </td></tr><tr><td>children under 2 years</td><td>Consult a doctor before use</td></tr></tbody></table>
+storage_and_handling:
+  Other information Store at room temperature 15°- 30°C (59° - 86°F)
+inactive_ingredient:
+  Inactive ingredients bentonite magma, calcium hydroxide, carageenan, glycerin, microcrystalline cellulose, purified water and xanthan gum
+questions:
+  Questions or comments? 1-888-235-2466
+spl_unclassified_section:
+  Walgreens Pharmacist Recommended. Our pharmacists recommend the Walgreens brand. DISTRIBUTED BY: WALGREEN CO., DEERFIELD, IL 60015 100% SATISFACTION GUARANTEED walgreens.com ©2023 Walgreen Co. W3ORG0923-F L0000728 R0723
+package_label_principal_display_panel:
+  Container label NDC 0363-9410-97 Walgreens Calamine Lotion CALAMINE TOPICAL SUSPENSION USP/ SKIN PROTECTANT Poison ivy, oak & sumac drying lotion 6 FL OZ (177 mL) image001
+set_id:
+  fed3026b-3473-26fe-e053-6294a90a8aa2
+id:
+  29f99f0a-e520-6d9d-e063-6394a90afb57
+effective_time:
+  20241223
+version:
+  3
+openfda:
+  application_number:
+    M016
+  brand_name:
+    calamine
+  generic_name:
+    CALAMINE AND ZINC OXIDE
+  manufacturer_name:
+    WALGREEN COMPANY
+  product_ndc:
+    0363-9410
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ZINC OXIDE
+  rxcui:
+    617954
+  spl_id:
+    29f99f0a-e520-6d9d-e063-6394a90afb57
+  spl_set_id:
+    fed3026b-3473-26fe-e053-6294a90a8aa2
+  package_ndc:
+    0363-9410-97
+  is_original_packager:
+    True
+  unii:
+    SOI2LOH54Z

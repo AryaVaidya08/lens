@@ -1,0 +1,69 @@
+spl_product_data_elements:
+  PANADOL acetaminophen BENZOIC ACID FD&C RED NO. 40 GLYCERIN HYDROCHLORIC ACID POLYETHYLENE GLYCOL, UNSPECIFIED POTASSIUM SORBATE PROPYLENE GLYCOL WATER SODIUM HYDROXIDE SACCHARIN SODIUM SORBITOL ACETAMINOPHEN ACETAMINOPHEN light red
+active_ingredient:
+  Active ingredient (in each 5 mL) Acetaminophen 160 mg
+purpose:
+  Purposes Pain reliever/fever reducer
+indications_and_usage:
+  Uses temporarily relieves minor aches and pains due to: colds flu headache toothache temporarily reduces fever
+warnings:
+  Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if your child takes more than 5 doses in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen Allergy alert: acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product Ask a doctor before use if your child has liver disease Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin Stop use and ask a doctor if pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear These could be signs of a serious condition. Keep out of reach of children. Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical even if you do not notice any signs or symptoms.
+do_not_use:
+  Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. if you are allergic to acetaminophen or any of the inactive ingredients in this product
+ask_doctor:
+  Ask a doctor before use if your child has liver disease
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if your child is taking the blood thinning drug warfarin
+stop_use:
+  Stop use and ask a doctor if pain gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present any new symptoms appear These could be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  Overdose warning: Taking more than the recommended dose can cause serious health problems. In case of overdose, get medical help or contact a Poison Control Center right away. Quick medical attention is critical even if you do not notice any signs or symptoms.
+dosage_and_administration:
+  Directions: this product does not contain directions or complete warnings for adult use do not take more than directed (see overdose warning) find right dose in chart. If possible use weight to dose; otherwise, use age if needed, repeat dose every 4 hours while symptoms persist or as directed by a doctor do not take more than 5 doses in 24 hours, unless directed by a doctor use only with enclosed pre-marked measuring syringe for accuracy. Do not use any other dosing device. Age Weight Dosage under 2 yrs under 24 lbs ask a doctor 2-3 yrs 24-35 lbs 5 mL
+dosage_and_administration_table:
+  <table width="100%"><col width="32%"/><col width="34%"/><col width="34%"/><tbody><tr><td styleCode="Rrule Botrule Toprule " valign="top"><paragraph><content styleCode="bold">Age</content></paragraph></td><td styleCode="Rrule Botrule Toprule " valign="top"><paragraph><content styleCode="bold">Weight</content></paragraph></td><td styleCode="Botrule Toprule " valign="top"><paragraph><content styleCode="bold">Dosage</content></paragraph></td></tr><tr><td styleCode="Rrule Botrule " valign="top"><paragraph>under 2 yrs</paragraph></td><td styleCode="Rrule Botrule " valign="top"><paragraph>under 24 lbs</paragraph></td><td styleCode="Botrule " valign="top"><paragraph>ask a doctor</paragraph></td></tr><tr><td styleCode="Rrule Botrule " valign="top"><paragraph>2-3 yrs</paragraph></td><td styleCode="Rrule Botrule " valign="top"><paragraph>24-35 lbs</paragraph></td><td styleCode="Botrule " valign="top"><paragraph>5 mL</paragraph></td></tr></tbody></table>
+storage_and_handling:
+  Other information store below 30°C (86°F)
+inactive_ingredient:
+  Inactive ingredients benzoic acid, FD&C red no. 40, flavor, glycerin, hydrochloric acid*, polyethylene glycol, potassium sorbate, propylene glycol, purified water, sodium hydroxide*, sodium saccharin, sorbitol solution * contains one or more of these ingredients
+questions:
+  Questions or comments? 1-800-455-7139 (English/Spanish) weekdays Keep Carton
+package_label_principal_display_panel:
+  Principal Display Panel NDC 0135-0539-02 Panadol ® Infants’ ACETAMINOPHEN 160 mg per 5 mL LIQUID Pain Reliever Fever Reducer SEE NEW WARNINGS INFORMATION Ages 2-3 years Fast relief of fever and pain Gentle on your stomach Ibuprofen free No sugar added Aspirin free artificial raspberry flavor Dosing Device Inside l.85 fl oz (54.7 mL) Tamper Evident Feature: Do not use if printed overwrap is missing or broken. READ AND KEEP CARTON FOR COMPLETE INFORMATION GlaxoSmithKline Consumer Healthcare, L.P. Moon Township, PA 15108 Made in Canada ©2015 GSK All Rights Reserved. USING THE CONVENIENT DOSING DEVICE Shake the bottle well. Push the dosing device firmly into the bottle’s neck. Turn the bottle upside down. Holding the device in place, gently pull the plunger out to draw the correct dose. With the bottle in an upright position, remove the device from the plug and bottle by gently pulling it. Place the end of the device into the child’s mouth. Administer dose by pressing the plunger slowly. After use, replace the cap. Wash the device in warm water and allow to dry. PANADOL, the Beacon design and the Bear design are registered trademarks of the GSK group of companies. Keep Carton 102012XB (A134044) Panadol Infants 1.85 fl oz carton
+set_id:
+  95801755-db54-4ad7-bec1-52671914f6ca
+id:
+  10c14ee5-017b-0434-e063-6394a90af0f4
+effective_time:
+  20240206
+version:
+  10
+openfda:
+  application_number:
+    M013
+  brand_name:
+    PANADOL
+  generic_name:
+    ACETAMINOPHEN
+  manufacturer_name:
+    Haleon US Holdings LLC
+  product_ndc:
+    0135-0539
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    ACETAMINOPHEN
+  spl_id:
+    10c14ee5-017b-0434-e063-6394a90af0f4
+  spl_set_id:
+    95801755-db54-4ad7-bec1-52671914f6ca
+  package_ndc:
+    0135-0539-02
+  is_original_packager:
+    True
+  unii:
+    362O9ITL9D

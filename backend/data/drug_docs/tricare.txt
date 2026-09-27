@@ -1,0 +1,37 @@
+effective_time:
+  20120117
+inactive_ingredient:
+  OTHER INGREDIENTS: acacia, croscarmellose sodium, dicalcium phosphate, FD&C blue #1 Lake, FD&C blue #2 Lake, FD&C red #40 Lake, gelatin, hypromellose, magnesium silicate, magnesium stearate, maltodextrin, microcrystalline cellulose, mineral oil, polyvinylpyrrolidone, silica, sodium lauryl sulfate, soy polysaccharide, stearic acid, titanium dioxide, and triacetin.
+contraindications:
+  CONTRAINDICATIONS: This product is contraindicated in patients with a known hypersensitivity to any of the ingredients.
+precautions:
+  PRECAUTIONS: Folic acid in doses above 1.0 mg daily may obscure pernicious anemia in that hematologic remission can occur while neurological manifestations progress.
+spl_product_data_elements:
+  TRICARE PRENATAL ASCORBIC ACID, CHOLECALCIFEROL, DL-.ALPHA.-TOCOPHEROL ACETATE, THIAMINE HYDROCHLORIDE, RIBOFLAVIN, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, CYANOCOBALAMIN, CALCIUM CARBONATE, FERROUS FUMARATE, ZINC OXIDE, CUPRIC SULFATE ASCORBIC ACID ASCORBIC ACID CHOLECALCIFEROL CHOLECALCIFEROL .ALPHA.-TOCOPHEROL ACETATE, DL- .ALPHA.-TOCOPHEROL ACETATE, DL- THIAMINE HYDROCHLORIDE THIAMINE RIBOFLAVIN RIBOFLAVIN NIACINAMIDE NIACINAMIDE PYRIDOXINE HYDROCHLORIDE PYRIDOXINE FOLIC ACID FOLIC ACID CYANOCOBALAMIN CYANOCOBALAMIN CALCIUM CARBONATE CALCIUM CATION FERROUS FUMARATE IRON ZINC OXIDE ZINC CATION CUPRIC SULFATE CUPRIC CATION ACACIA CROSCARMELLOSE SODIUM ANHYDROUS DIBASIC CALCIUM PHOSPHATE FD&C BLUE NO. 1 FD&C BLUE NO. 2 FD&C RED NO. 40 GELATIN HYPROMELLOSES MAGNESIUM SILICATE MAGNESIUM STEARATE MALTODEXTRIN CELLULOSE, MICROCRYSTALLINE MINERAL OIL POVIDONE K30 SILICON DIOXIDE SODIUM LAURYL SULFATE STEARIC ACID TITANIUM DIOXIDE TRIACETIN light blue MP;101
+description:
+  DESCRIPTION: Each light blue film coated tablet contains: Vitamin C (Ascorbic Acid) 100 mg Vitamin D-3 (Cholecalciferol) 400 IU Vitamin E (dl-Alpha Tocopheryl Acetate) 30 IU Vitamin B-1 (Thiamine HCl) 1.6 mg Vitamin B-2 (Riboflavin) 1.6 mg Niacin (Niacinamide) 20 mg Vitamin B-6 (Pyridoxine HCl) 3.1 mg Folic Acid 1 mg Vitamin B-12 (Cyanocobalamin) 12 mcg Calcium (Calcium Carbonate) 200 mg Iron (Ferrous Fumarate) 27 mg Zinc (Zinc Oxide) 10 mg Copper (Cupric Sulfate) 2 mg
+boxed_warning:
+  WARNING: Accidental overdose of iron containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of reach of children. In case of accidental overdose, call a doctor or poison control center right away.
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION: One tablet daily or as directed by a physician.
+adverse_reactions:
+  ADVERSE REACTIONS: Allergic sensitization has been reported following both oral and parenteral administration of folic acid.
+general_precautions:
+  Folic acid alone is improper therapy in the treatment of prenicious anemia and other megaloblastic anemias where vitamin B-12 is deficient.
+storage_and_handling:
+  Store at controlled room temperature, 15 o -30 o C (59 o -86 o F) NOTICE: Contact with moisture may produce surface discoloration or erosion of the tablet. KEEP THIS AND ALL DRUGS OUT OF THE REACH OF CHILDREN. Marketed by Medecor Pharma LLC, Baton Rouge, LA 70802
+how_supplied:
+  HOW SUPPLIED: TriCare ® Prenatal Multivitamin/Mineral Tablets for oral administration are supplied as light blue, film coated tablets, debossed MP 101 with a partial bisect through the tablets on one side. In a child resistant plastic bottle of 100 tablets (NDC 67112-101-00).
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL: NDC 67112-101-00 TriCare PRENATAL Multivitamin/Mineral Film Coated Tablet Complete Nutritional Needs of Women 100 TABLETS Preconception Pregnancy Postnatal Rx Only TriCare Prenatal Label
+indications_and_usage:
+  INDICATIONS AND USAGE: TriCare ® Prenatal tablets are indicated to provide vitamin and mineral supplementation throughout pregnancy and during the postnatal period for both the lactating and non-lactating mother. It is also useful for improving nutritional status prior to conception.
+set_id:
+  80b11abb-0eb2-4eb4-9067-7ddc053d1b50
+id:
+  5a06c2d0-a77e-43c0-b518-c4f2ff8be784
+description_table:
+  <table ID="i401c1a89-aba6-4745-89de-f4cdc6a1f33c" width="70%"> <tbody> <tr> <td>Vitamin C (Ascorbic Acid)  </td> <td>100 mg  </td> </tr> <tr> <td>Vitamin D-3 (Cholecalciferol)  </td> <td>400 IU  </td> </tr> <tr> <td>Vitamin E (dl-Alpha Tocopheryl Acetate)  </td> <td>30 IU  </td> </tr> <tr> <td>Vitamin B-1 (Thiamine HCl)  </td> <td>1.6 mg  </td> </tr> <tr> <td>Vitamin B-2 (Riboflavin)  </td> <td>1.6 mg  </td> </tr> <tr> <td>Niacin (Niacinamide)  </td> <td>20 mg  </td> </tr> <tr> <td>Vitamin B-6 (Pyridoxine HCl)  </td> <td>3.1 mg  </td> </tr> <tr> <td>Folic Acid  </td> <td>1 mg  </td> </tr> <tr> <td>Vitamin B-12 (Cyanocobalamin)  </td> <td>12 mcg  </td> </tr> <tr> <td>Calcium (Calcium Carbonate)  </td> <td>200 mg  </td> </tr> <tr> <td>Iron (Ferrous Fumarate)  </td> <td>27 mg  </td> </tr> <tr> <td>Zinc (Zinc Oxide)  </td> <td>10 mg  </td> </tr> <tr> <td>Copper (Cupric Sulfate)  </td> <td>2 mg  </td> </tr> </tbody> </table>

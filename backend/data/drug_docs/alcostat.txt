@@ -1,0 +1,105 @@
+spl_product_data_elements:
+  Alcostat Taraxacum officinale, Avena Sativa, Passiflora Incarnata, Aurum Metallicum, Capsicum Annuum, Chelidonium Majus, Lachesis Mutus, Lycopodium Clavatum, Nox Vomica, Quercus Glandium Spiritus, Sulphuricum Acidum, Ethylicum, Carcinosin, Saccharum officinale TARAXACUM OFFICINALE TARAXACUM OFFICINALE AVENA SATIVA FLOWERING TOP AVENA SATIVA FLOWERING TOP PASSIFLORA INCARNATA FLOWERING TOP PASSIFLORA INCARNATA FLOWERING TOP GOLD GOLD CAPSICUM CAPSICUM CHELIDONIUM MAJUS WHOLE CHELIDONIUM MAJUS LACHESIS MUTA VENOM LACHESIS MUTA VENOM LYCOPODIUM CLAVATUM SPORE LYCOPODIUM CLAVATUM SPORE STRYCHNOS NUX-VOMICA SEED STRYCHNOS NUX-VOMICA SEED QUERCUS ROBUR NUT QUERCUS ROBUR NUT SULFURIC ACID SULFURIC ACID ALCOHOL ALCOHOL HUMAN BREAST TUMOR CELL HUMAN BREAST TUMOR CELL SUCROSE SUCROSE ANHYDROUS CITRIC ACID POTASSIUM SORBATE WATER
+active_ingredient:
+  ACTIVE INGREDIENTS: (in each drop): 7.14% Aurum Metallicum 12X, Avena Sativa 6X, Capsicum Annuum 12X, Carcinosin 30X, Chelidonium Majus 12X, Ethylicum 12X, 30X, Lachesis Mutus 12X, Lycopodium Clavatum 12X, Nox Vomica 12X, Passiflora Incarnata 6X, Quercus Glandium Spiritus 12X, Saccharum Officinale 30X, Sulphuricum Acidum 12X; 0.10% of Taraxacum Officinale 3X.
+purpose:
+  PURPOSE: May temporarily relieve loss of appetite, stomach upset, nausea, and craving of alcohol.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+warnings:
+  WARNINGS: If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. Do not use if tamper evident seal is broken or missing. Store in a cool, dry place.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN: In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 5 to 10 drops orally, 3 times daily or as otherwise directed by a health care professional. If symptoms persist for more than 7 days, consult your health care professional. Consult a physician for use in children under 12 years of age.
+indications_and_usage:
+  INDICATIONS: May temporarily relieve loss of appetite, stomach upset, nausea, and craving of alcohol.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Citric Acid, Demineralized Water, 0.12% Ethanol, Potassium Sorbate.
+questions:
+  QUESTIONS: Dist. by Energique, Inc. 201 Apple Blvd Woodbine, IA 51579 800.869.8078
+package_label_principal_display_panel:
+  PACKAGE LABEL DISPLAY: ENERGIQUE SINCE 1987 HOMEOPATHIC REMEDY ALCOSTAT 1 fl. oz. (30 ml) ALCOSTAT
+set_id:
+  77daea02-3c32-4ba3-a7a8-af79b13ddc06
+id:
+  737acb5d-f356-4cf4-87b0-3db55c91b5f3
+effective_time:
+  20250227
+version:
+  1
+openfda:
+  brand_name:
+    Alcostat
+  generic_name:
+    TARAXACUM OFFICINALE, AVENA SATIVA, PASSIFLORA INCARNATA, AURUM METALLICUM, CAPSICUM ANNUUM, CHELIDONIUM MAJUS, LACHESIS MUTUS, LYCOPODIUM CLAVATUM, NOX VOMICA, QUERCUS GLANDIUM SPIRITUS, SULPHURICUM ACIDUM, ETHYLICUM, CARCINOSIN, SACCHARUM OFFICINALE
+  manufacturer_name:
+    Energique, Inc.
+  product_ndc:
+    44911-0735
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    TARAXACUM OFFICINALE
+    AVENA SATIVA FLOWERING TOP
+    PASSIFLORA INCARNATA FLOWERING TOP
+    GOLD
+    CAPSICUM
+    CHELIDONIUM MAJUS WHOLE
+    LACHESIS MUTA VENOM
+    LYCOPODIUM CLAVATUM SPORE
+    STRYCHNOS NUX-VOMICA SEED
+    QUERCUS ROBUR NUT
+    SULFURIC ACID
+    ALCOHOL
+    HUMAN BREAST TUMOR CELL
+    SUCROSE
+  spl_id:
+    737acb5d-f356-4cf4-87b0-3db55c91b5f3
+  spl_set_id:
+    77daea02-3c32-4ba3-a7a8-af79b13ddc06
+  package_ndc:
+    44911-0735-1
+  is_original_packager:
+    True
+  nui:
+    N0000185508
+    N0000175629
+    N0000184306
+    M0000728
+    N0000185375
+    N0000185371
+    M0006342
+    M0016962
+    M0022575
+    N0000185001
+    M0516536
+  pharm_class_epc:
+    Standardized Chemical Allergen [EPC]
+    Non-Standardized Plant Allergenic Extract [EPC]
+    Non-Standardized Food Allergenic Extract [EPC]
+  pharm_class_pe:
+    Increased Histamine Release [PE]
+    Cell-mediated Immunity [PE]
+    Increased IgG Production [PE]
+  pharm_class_cs:
+    Allergens [CS]
+    Dietary Proteins [CS]
+    Plant Proteins [CS]
+    Vegetable Proteins [CS]
+    Seed Storage Proteins [CS]
+  unii:
+    39981FM375
+    MA9CQJ3F7F
+    CLF5YFS11O
+    79Y1949PYO
+    00UK7646FG
+    7E889U5RNN
+    VSW71SS07I
+    C88X29Y479
+    269XH13919
+    Q7MU1F4GLY
+    O40UQP6WCF
+    3K9958V90M
+    C62OO7VD9K
+    C151H8M554

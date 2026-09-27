@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  ACETAFLU COUGH AND CHEST CONGESTION Dextromethorphan HBr,Guaifenesin DEXTROMETHORPHAN HYDROBROMIDE DEXTROMETHORPHAN GUAIFENESIN GUAIFENESIN ACESULFAME POTASSIUM ANHYDROUS CITRIC ACID LACTOSE MONOHYDRATE MALTODEXTRIN MANNITOL POVIDONE K30 SILICON DIOXIDE SODIUM BICARBONATE SODIUM CHLORIDE SODIUM CITRATE SUCRALOSE SUCROSE
+active_ingredient:
+  Active Ingredients Dextromethorphan HBr 20 mg Guaifenesin 400 mg
+purpose:
+  Purposes Cough suppressant Expectorant
+indications_and_usage:
+  Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with a cold helps loosen phlegm (mucus) and thin bronchial secretions to make coughs more productive
+warnings:
+  Warnings Do not use in a child under 12 years of age If you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Ask a doctor before use if you have cough that occurs with too much phlegm (mucus) cough that lasts or is chronic such as occurs with smoking, asthma, chronic bronchitis or emphysema a sodium-restricted diet When using this product do not exceed recommended dosage Stop use and ask a doctor if cough lasts more than 7 days, comes back or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition. If pregnant or breast-feeding, ask a health care professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not use more than directed take every 4 hours. Do not take more than 6 packets in 24 hours. Age Dose adults and children 12 years of age and over one packet children under 12 years of age do not use dissolve contents of one packet into 8 oz. hot water; sip while hot. Consume entire drink within 10-15 minutes. if using microwave, add contents of one packet to 8 oz. of cool water; stir briskly before and after heating. Do not overheat.
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td><content styleCode="bold">Age</content></td><td><content styleCode="bold">Dose</content></td></tr><tr><td>adults and children 12 years of age and over </td><td> one packet</td></tr><tr><td> children under 12 years of age</td><td>do not use </td></tr></tbody></table>
+spl_unclassified_section:
+  Other information each packet contains: potassium 12 mg, sodium 51 mg. store at controlled room temperature 20-25°C (68-77°F).
+inactive_ingredient:
+  Inactive Ingredients. acesulfame potassium, anhydrous citric acid, flavor, lactose, maltodextrin, mannitol, povidone K30, silicon dioxide, sodium bicarbonate, sodium chloride, sodium citrate, sucralose, sucrose
+package_label_principal_display_panel:
+  image description image description
+set_id:
+  5a6c9b52-255b-48d9-b92e-ded3aa9e29d4
+id:
+  2be60640-112d-4b3f-add3-8ffb74ab21a6
+effective_time:
+  20200831
+version:
+  1
+openfda:

@@ -1,0 +1,100 @@
+spl_product_data_elements:
+  Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE Boron Boron BORON BORON SUCROSE
+active_ingredient:
+  
+  
+dosage_forms_and_strengths:
+  
+purpose:
+  
+indications_and_usage:
+  
+warnings:
+  
+pregnancy_or_breast_feeding:
+  
+ask_doctor:
+  
+keep_out_of_reach_of_children:
+  
+instructions_for_use:
+  
+dosage_and_administration:
+  
+route:
+  
+inactive_ingredient:
+  
+questions:
+  
+package_label_principal_display_panel:
+  Boron 6C 5g Boron 6C 30g Boron 6C 100g Boron 12C 5g Boron 12C 30g Boron 12C 100g Boron 30C 1g Boron 30C 5g Boron 30C 30g Boron 30C 100g Boron 100C 1g Boron 100C 5g Boron 100C 30g Boron 100C 100g Boron 200C 1g Boron 200C 5g Boron 200C 30g Boron 200C 100g Boron 500C 1g Boron 500C 5g Boron 500C 30g Boron 500C 100g Boron 1M 1g Boron 1M 5g Boron 1M 30g Boron 1M 100g Boron 10M 1g Boron 10M 5g Boron 10M 30g Boron 10M 100g
+set_id:
+  f5cf9032-ab22-2853-e053-2995a90a244b
+id:
+  f5cf9032-ab23-2853-e053-2995a90a244b
+effective_time:
+  20230228
+version:
+  1
+openfda:
+  brand_name:
+    Boron
+  generic_name:
+    BORON
+  manufacturer_name:
+    Hahnemann Laboratories, INC.
+  product_ndc:
+    37662-2742
+    37662-2743
+    37662-2745
+    37662-2746
+    37662-2748
+    37662-2749
+    37662-2744
+    37662-2747
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BORON
+  spl_id:
+    f5cf9032-ab23-2853-e053-2995a90a244b
+  spl_set_id:
+    f5cf9032-ab22-2853-e053-2995a90a244b
+  package_ndc:
+    37662-2743-1
+    37662-2743-2
+    37662-2743-3
+    37662-2745-1
+    37662-2745-2
+    37662-2745-3
+    37662-2745-4
+    37662-2746-1
+    37662-2746-2
+    37662-2746-3
+    37662-2746-4
+    37662-2748-1
+    37662-2748-2
+    37662-2748-3
+    37662-2748-4
+    37662-2742-1
+    37662-2742-2
+    37662-2742-3
+    37662-2749-1
+    37662-2749-2
+    37662-2749-3
+    37662-2749-4
+    37662-2744-1
+    37662-2744-2
+    37662-2744-3
+    37662-2744-4
+    37662-2747-1
+    37662-2747-2
+    37662-2747-3
+    37662-2747-4
+  is_original_packager:
+    True
+  unii:
+    N9E3X5056Q

@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  Viobin, LLC Pain Relief Ointment POLYSORBATE 60 TETRASODIUM GLUTAMATE DIACETATE PHENOXYETHANOL MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM WATER CETYL ALCOHOL STEARYL ALCOHOL COCONUT OIL STEARIC ACID XANTHAN GUM CANNABIDIOL
+active_ingredient:
+  4% Menthol
+purpose:
+  Topical analgesic
+indications_and_usage:
+  For the temporary relief of minor aches and pains of sore muscles and joints associated with backache, arthiritis, strains, bruises, sprains.
+warnings:
+  For external use only.
+when_using:
+  Avoid contact with eyes or mucous membranes. Do not apply to wounds or damaged skin. Do not apply to irritated skin or if excessive irritation develops. Do not bandage or use with a heating pad. Wash hands wafter use with cool water.
+stop_use:
+  If a contidtion worsens, or if symptoms persist for more than 7 days or clear up and reoccur.
+keep_out_of_reach_of_children:
+  If swallowed, get medical help or contact Poison Control immediately.
+pregnancy_or_breast_feeding:
+  Ask a health professional before use.
+dosage_and_administration:
+  Apply to affected area 1 to 2 times daily.
+storage_and_handling:
+  Store in a cool, dry place, Do not use if seal is missing or broken.
+inactive_ingredient:
+  Water, Organic Coconut Oil, Emulsifying Wax (Cetyl Alcohol, Stearyl Alcohol, Polysorbate 60), Broad Spectrum Hemp Extract (CBD, CBG, CBN, CBDV*) (Aerial Parts), Stearic Acid, Phenoxyethanol, Xanthan Gum, Tetrasodium Glutamate Diacetate. *CBD (Cannabidiol), CBG (Cannabigerol), CBN (Cannabinol), CBDV (Cannabidivarin)
+recent_major_changes:
+  
+package_label_principal_display_panel:
+  BS Viobin 50mL Menthol Lotion
+set_id:
+  c744f4af-cd2a-5d78-e053-2995a90aac32
+id:
+  d505e361-936b-5552-e053-2a95a90aaea7
+effective_time:
+  20220107
+version:
+  2
+openfda:

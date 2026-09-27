@@ -1,0 +1,34 @@
+pediatric_use:
+  Pediatric Use Safety and effectiveness in pediatric patients has not been established.
+effective_time:
+  20120102
+inactive_ingredient:
+  COMPOSITION Isoxsuprine HCl 20mg tablets: These tablets contain the following inactive ingredients: corn starch, lactose monohydrate, magnesium stearate (vegetable), microcrystalline cellulose.
+contraindications:
+  CONTRAINDICATIONS There are no known contraindications to oral use when administered in recommended doses. Isoxsuprine Hydrochloride, USP should not be given immediately postpartum or in the presence of arterial bleeding.
+precautions:
+  PRECAUTIONS Pediatric Use Safety and effectiveness in pediatric patients has not been established.
+spl_product_data_elements:
+  ISOXSUPRINE HYDROCHLORIDE isoxsuprine hydrochloride isoxsuprine hydrochloride Isoxsuprine Lactose Monohydrate Magnesium Stearate Cellulose, Microcrystalline Starch, Corn 20
+description:
+  DESCRIPTION Each tablet taken orally contains Isoxsuprine Hydrochloride, USP with the following chemical structure: C 18 H 23 NO 3 • HCl p-Hydroxy-α[1-[(methyl-2-phenoxy-ethyl)amino]ethyl]benzyl alcohol hydrochloride. PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label QUANTITATIVE INGREDIENT INFORMATION Each tablet taken orally contains 20mg Isoxsuprine Hydrochloride. PHARMACOLOGICAL CLASS Peripheral Vasodilator
+openfda:
+version:
+  1
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Oral: 10 to 20 mg, three or four times daily.
+adverse_reactions:
+  ADVERSE REACTIONS On rare occasion oral administration of the drug has been associated in time with the occurrence of hypotension, tachycardia, chest pain, nausea, vomiting, dizziness, abdominal distress, and severe rash. If rash appears, the drug should be discontinued. Although available evidence suggests a temporal association of these reactions with Isoxsuprine Hydrochloride, a causal relationship can be neither confirmed nor refuted. Beta Adrenergic receptor stimulants such as Isoxsuprine Hydrochloride have been used to inhibit pre-term labor. Maternal and fetal tachycardia may occur under such use. Hypocalcemia, hypoglycemia, hypotension and ileus have been reported to occur in infants whose mothers received Isoxsuprine Hydrochloride. Pulmonary edema has been reported in mothers treated with beta stimulants. Isoxsuprine Hydrochloride is neither approved nor recommended for use in the treatment of premature labor.
+spl_unclassified_section:
+  Rx Only
+  Manufactured For: Valdar St. Joseph, MO 64507
+how_supplied:
+  HOW SUPPLIED Isoxsuprine HCl tablets, USP 20 mg Bottles of 1000 NDC 63549-919-53
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label NDC 63549-919-53 Isoxsuprine Hydrochloride Tablets USP 20 mg 1000 Tablets Rx Only VALDAR PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
+indications_and_usage:
+  INDICATIONS Based on a review of this drug by the National Academy of Sciences-National Research and/or other information, the FDA has classified the indications as follows: Possibly Effective For the relief of symptoms associated with cerebrovascular insufficiency. In peripheral vascular disease of arteriosclerosis obliterans, thromboangitis obliterans (Buerger's disease) and Raynaud's disease. Final classification of the less-than-effective indications requires further investigation.
+set_id:
+  908691b4-7950-4f3e-bbea-ea568fee7ac3
+id:
+  e6f0f0dd-940a-490f-a404-56dd561264e6

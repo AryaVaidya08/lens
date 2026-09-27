@@ -1,0 +1,27 @@
+effective_time:
+  20150224
+inactive_ingredient:
+  Inactive ingredient: Rooibos extract, black bean extract, black tea extract, mugwort extract, ylang ylang, rosemary, citric acid, anhydrous ethanol, water, sodium hyaluronate,
+purpose:
+  for hair grower and loss prevention
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  - stop using and see a doctor if any hypersensitivity symptom continues - avoid storing under direct sung light or high temperature
+spl_product_data_elements:
+  MORISU HYALURONIC ACID HYALURONIC ACID HYALURONIC ACID ASPALATHUS LINEARIS LEAF CANANGA OIL LEDUM PALUSTRE TWIG GLYCERIN CITRIC ACID MONOHYDRATE WATER ADENOSINE SESAME OIL ARTEMISIA PRINCEPS LEAF HOUTTUYNIA CORDATA FLOWERING TOP TEA LEAF
+openfda:
+version:
+  2
+dosage_and_administration:
+  - for hair scalp spraying only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  - spray on the scalp 2~3 times daily as needed - recommendable to apply enough on the scalp prior to going to bed
+set_id:
+  6fff32df-210f-41b3-9e2f-4439d84d787a
+id:
+  55fa2e5b-2db6-4549-8d90-33e116e697e2
+active_ingredient:
+  active ingredient: adenosine

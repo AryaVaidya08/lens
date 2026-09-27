@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Wish ISOPROPYL ALCOHOL WATER ISOPROPYL ALCOHOL ISOPROPYL ALCOHOL
+active_ingredient:
+  Active Ingredient Isopropyl alcohol (99% conc.)
+purpose:
+  Purpose First aid antiseptic
+indications_and_usage:
+  Use First aid to help prevent the risk of infection in minor cuts, scrapes and burns
+warnings:
+  Warnings Flammable keep away from fire and flame, heat spark or electricity. If taken internally, serious gastric disturbances will result. Ask a doctor before use if you have deep or puncture wounds, animal bites, or serious burns. When using this product Do not get in eyes Do not apply over large areas of the body Do not use longer than one week unless directed by a doctor Stop use and ask a doctor if conditions persist or gets worse.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of ingestion, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Clean the affected area. Apply small amount of this product on the area 1-3 times daily. Let the alcohol dry on skin before using bandages. May be covered with a sterile bandage.
+storage_and_handling:
+  Other information Store at room temperature Does not contain, nor is intended as a substitute for grain or ethyl alcohol
+inactive_ingredient:
+  Inactive ingredients Water (Aqua)
+package_label_principal_display_panel:
+  Package Label - Principal Display Panel Label
+set_id:
+  aebd3981-3660-204f-e053-2995a90aaf75
+id:
+  12798ac9-0567-eaba-e063-6394a90abafe
+effective_time:
+  20240228
+version:
+  3
+openfda:

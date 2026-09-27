@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  MANCORE MUSCLE MEND ROLL-ON PAIN RELIEVER HISTAMINE DIHYDROCHLORIDE ALOE VERA LEAF WATER ARNICA MONTANA FLOWER INDIAN FRANKINCENSE CETEARYL OLIVATE COCONUT OIL EUCALYPTUS OIL GLUCONOLACTONE GLYCERIN DIMETHYL SULFONE WILLOW BARK SODIUM BENZOATE SODIUM HYDROXIDE SORBITAN OLIVATE XANTHAN GUM HISTAMINE DIHYDROCHLORIDE HISTAMINE
+spl_unclassified_section:
+  MANCORE MUSCLE MEND ROLL-ON PAIN RELIEVER
+active_ingredient:
+  Active Ingredient / Purpose Histamine DHCl 0.06% / External Analgesic
+purpose:
+  Active Ingredient / Purpose Histamine DHCl 0.06% / External Analgesic
+indications_and_usage:
+  Uses For temporary relief of minor aches and pains of muscles and joints associated with arthritis, backache and sprains
+warnings:
+  Warnings Use only as directed. For external use only. Not intended for persons under the age 18. When using this product: Avoid contact with eyes Do not bandage tightly Do not apply to open wounds or damaged skin Stop use and ask a doctor if: symptoms persist for more than seven days you experience irritation, redness or discomfort
+dosage_and_administration:
+  Directions: Apply directly to effected area. Do not use more than four times per day.
+storage_and_handling:
+  Other information: Do not use if tamper resistant seal is broken. Store in a cool, dry place and avoid excessive heat or cold. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+inactive_ingredient:
+  Inactive Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, Cetearyl Olivate, Cocos Nucifera (Coconut) Oil, Eucalyptus Globulus Oil, Gluconolactone, Glycerin, Methylsulfonylmethane (MSM), Salix Alba (Willow Bark) Extract, Sodium Benzoate, Sodium Hydroxide, Sorbitan Olivate, Xanthan Gum, Zemea (Corn) Propanediol
+package_label_principal_display_panel:
+  MANCORE MUSCLE MEND ROLL-ON PAIN RELIEVER 3OZ (69198-700-85) MuscleMend
+set_id:
+  666fe6d8-8176-4005-8fde-30fca1ec9613
+id:
+  07415d92-0320-73d9-e063-6394a90afdb1
+effective_time:
+  20231008
+version:
+  4
+openfda:

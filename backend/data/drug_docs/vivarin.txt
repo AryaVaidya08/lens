@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  Vivarin CAFFEINE CARNAUBA WAX SILICON DIOXIDE STARCH, CORN CROSCARMELLOSE SODIUM D&C YELLOW NO. 10 DIBASIC CALCIUM PHOSPHATE DIHYDRATE FD&C YELLOW NO. 6 HYPROMELLOSE, UNSPECIFIED MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE POLYETHYLENE GLYCOL, UNSPECIFIED POLYSORBATE 80 TITANIUM DIOXIDE CAFFEINE CAFFEINE V
+spl_unclassified_section:
+  Drug Facts
+  Other information each tablet contains calcium 65 mg store at room temperature 20°-25°C (68°-77°F) avoid excessive heat (greater than 100°F) or humidity do not use if pouch is opened or torn
+active_ingredient:
+  Active ingredient (in each tablet) Caffeine 200mg Purpose Alertness Aid
+purpose:
+  Purpose Alertness Aid
+indications_and_usage:
+  Use helps restore mental alertness or wakefulness when experiencing fatigue or drowsiness
+warnings:
+  Warnings For occasional use only Do not use in children under 12 years as a substitute for sleep When using this product limit the use of caffeine containing medications, foods, or beverages because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as a cup of coffee. Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use in children under 12 years as a substitute for sleep
+when_using:
+  When using this product limit the use of caffeine containing medications, foods, or beverages because too much caffeine may cause nervousness, irritability, sleeplessness, and occasionally, rapid heartbeat. The recommended dose of this product contains about as much caffeine as a cup of coffee.
+stop_use:
+  Stop use and ask a doctor if fatigue or drowsiness persists or continues to recur.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults and children 12 years and over: take 1 tablet not more often than every 3 to 4 hours
+inactive_ingredient:
+  Inactive ingredients carnauba wax, colloidal silicon dioxide, corn starch, croscarmellose sodium, D&C yellow #10 aluminum lake, dicalcium phosphate dihydrate, FD&C yellow #6 aluminum lake, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, titanium dioxide
+questions:
+  Questions or comments? Call toll-free 1-855-874-0970 8:30am to 5:00pm EST Monday to Friday
+package_label_principal_display_panel:
+  Package Labeling Vivarin
+set_id:
+  5e34ae97-d5e7-4c70-8dec-e0be462bea55
+id:
+  eab01e91-d214-34ab-e053-2995a90acdf4
+effective_time:
+  20221010
+version:
+  3
+openfda:

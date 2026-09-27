@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  VIVO ANTIBACTERIAL HAND WIPES With Eucalyptus Oil BENZALKONIUM CHLORIDE WATER PROPYLENE GLYCOL ISOPROPYL ALCOHOL POLYSORBATE 20 EUCALYPTUS OIL METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE BENZALKONIUM CHLORIDE BENZALKONIUM
+active_ingredient:
+  Active Ingredient(s) Benalkonium Chloride: 0.10%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use For hand sanitizing to decrease bacteria on the skin Discard after single use
+warnings:
+  Warnings For external use only.
+when_using:
+  When using this product, avoid contacting with eyes. In case of contact with eyes, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or redness develops and persists
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, contact a doctor or a poison control center right away.
+dosage_and_administration:
+  Directions Take wipe and rub thoroughly over all surfaces of both hands Allow hands to dry Dispose of wipe Do not flush
+inactive_ingredient:
+  Inactive ingredients Water, Polyoxyethlene Alkyl Ether, Propylene Glycol, Isopropyl Alcohol, Polysorbate 20, Eucalyptus Oil, 2-Bromo-2-Nitropropane-1,3-diol, Methylchloroisothiazolinone, Methylisothiazolinone
+package_label_principal_display_panel:
+  image description
+set_id:
+  f704e0e4-5a57-4a65-b84a-26b4c996e07a
+id:
+  b0de330c-cd45-12aa-e053-2a95a90aa26b
+effective_time:
+  20201004
+version:
+  1
+openfda:

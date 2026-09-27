@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Dimethicone Body Cleanser OCTENYLSUCCINIC ACID LEUCINE SILICON DIOXIDE PEG-9 DIGLYCIDYL ETHER/SODIUM HYALURONATE CROSSPOLYMER POLYOXYL 20 CETOSTEARYL ETHER GLYCERYL STEARATE SE PEG-40 SORBITAN PEROLEATE PYRIDOXINE HYDROCHLORIDE WATER SAFFLOWER OIL STEARIC ACID CETYL ALCOHOL ASPARTIC ACID PROLINE GLYCINE TYROSINE PHENYLALANINE ALANINE SODIUM ASCORBYL PHOSPHATE SERINE VALINE THREONINE LYSINE HISTIDINE ARGININE GLUTAMIC ACID .ALPHA.-TOCOPHEROL ACETATE NIACINAMIDE GINGER KUKUI NUT OIL GLYCERIN BUTYLENE GLYCOL CAPRYLYL GLYCOL CHLORPHENESIN ISOPROPYL MYRISTATE MALTODEXTRIN ISOLEUCINE PHENOXYETHANOL CARTHAMUS TINCTORIUS (SAFFLOWER) OLEOSOMES CALCIUM PANTOTHENATE CARBOMER INTERPOLYMER TYPE A (55000 CPS) AMINOMETHYLPROPANOL .BETA.-BISABOLOL MAGNESIUM DISODIUM EDTA DIMETHICONE DIMETHICONE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient Dimethicone 1.75%
+purpose:
+  Purpose Skin Protectant
+indications_and_usage:
+  Uses temporarily protects and helps relieve chapped or cracked skin cleanses, moisturizes, and helps protect skin it can be used on face, body and perineal area
+warnings:
+  Warnings For external use only. When using this product do not get into eyes Do not use on deep or puncture wounds animal bites serious burns
+stop_use:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  Directions Apply cleanser to damp cloth or to skin/ perineal area and then gently wipe clean No rinsing necessary Apply as needed Apply a protectant cream as necessary
+other_safety_information:
+  Store at 40-95ºF (4-35ºC)
+inactive_ingredient:
+  Inactive Ingredients: Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Alanine, Aleurites Moluccana (Kukui) Seed Oil, Aminomethyl Propanol, Arginine, Aspartic Acid, Bisabolol, Butylene Glycol, Calcium Pantothenate (Vitamin B5), Caprylyl Glycol, Carthamus Tinctorius (Safflower) Oleosomes, Carthamus Tinctorius (Safflower) Seed Oil, Ceteareth-20, Cetyl Alcohol, Chlorphenesin, Disodium EDTA, Fragrance, Glutamic Acid, Glycerin, Glyceryl Stearate, Glycine, Histidine, Isoleucine, Isopropyl Myristate, Leucine, Lysine, Maltodextrin, Niacinamide (Vitamin B3), PEG-40 Sorbitan Peroleate, Phenoxyethanol, Phenylalanine, Proline, Pyridoxine HCL (Vitamin B6), Serine, Silica, Sodium Ascorbyl Phosphate (Vitamin C), Sodium Hyaluronate, Sodium Starch Octenylsuccinate, Stearic Acid, Threonine, Tocopheryl Acetate (Vitamin E), Tyrosine, Valine, Water, Zingiber Officinale (Ginger) Root Extract
+questions:
+  Questions? Call 1-800-777-4908
+package_label_principal_display_panel:
+  NDC 68599-0212-8 Thera MOISTURIZING BODY CLEANSER A no-rinse topical cleanser Single Patient Use NET CONTENTS 8 fl. oz (237 mL) MFR # 53-MC8 each
+set_id:
+  8ffe6ec3-8f5f-0c9b-e053-2995a90ac3a8
+id:
+  1adb3263-ed68-a5b1-e063-6394a90a7e45
+effective_time:
+  20240614
+version:
+  5
+openfda:
+  application_number:
+    M016
+  brand_name:
+    Dimethicone
+  generic_name:
+    BODY CLEANSER
+  manufacturer_name:
+    McKesson
+  product_ndc:
+    68599-0212
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    DIMETHICONE
+  spl_id:
+    1adb3263-ed68-a5b1-e063-6394a90a7e45
+  spl_set_id:
+    8ffe6ec3-8f5f-0c9b-e053-2995a90ac3a8
+  package_ndc:
+    68599-0212-8
+  is_original_packager:
+    True
+  upc:
+    0612479220324
+  nui:
+    N0000010282
+  pharm_class_pe:
+    Skin Barrier Activity [PE]
+  unii:
+    92RU3N3Y1O

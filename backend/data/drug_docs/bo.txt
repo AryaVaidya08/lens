@@ -1,0 +1,25 @@
+effective_time:
+  20130927
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), Butylene Glycol, C12-15 Alkyl Benzoate, Octyldodecyl Neopentanoate, Hydrogenated Vegetable Oil, Glyceryl Stearate, Cetyl Alcohol, Dimethicone, Cetearyl Alcohol, Oligopepetide-68, Butyrospermum Parkii (Shea) Buter, Theobroma Cacao (Cocoa) Seed Buter, Diethylhexyl Syringylidenemalonate, Ethylhexylglycerin, Coco-Glucoside, Ammonium Acryloyldimethyltaurate/VP Copolyner, Crambe Abyssinica Seed Oil, Olea Europaea (Olive) Fruit Oil, Hydrogenated Lecithin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Tocopheryl Acetate, Panthenol, Citrus Unshiu Peel Extract, Nymphaea Alba Flower Extract, Glycerin, Undecylenoyl Phenylalanine, Sodium Palmitoyl Proline, Ceteth-20, PEG-75 Stearate, Sodium Oleate, Steareth-20, Carbomer, Sodium Hydroxide, Disodium EDTA, o-Cymen-5-ol, Phenoxyethanol, Fragrance (Parfum)
+spl_product_data_elements:
+  BO SPF15 Avobenzone, Octinoxate AVOBENZONE AVOBENZONE Octinoxate OCTINOXATE WATER BUTYLENE GLYCOL C12-15 ALKYL BENZOATE OCTYLDODECYL NEOPENTANOATE GLYCERYL STEARATE SE CETYL ALCOHOL DIMETHICONE SHEA BUTTER COCOA BUTTER DIETHYLHEXYL SYRINGYLIDENEMALONATE ETHYLHEXYLGLYCERIN COCO-GLYCERIDES AMMONIUM ACRYLOYLDIMETHYLTAURATE/VP COPOLYMER CRAMBE HISPANICA SUBSP. ABYSSINICA SEED OIL OLEA EUROPAEA FLOWER HYDROGENATED SOYBEAN LECITHIN (C10-C30)ALKYL METHACRYLATE ESTER .ALPHA.-TOCOPHEROL ACETATE PANTHENOL NYMPHAEA ALBA FLOWER GLYCERIN SODIUM PALMITOYL PROLINE CETETH-20 PEG-75 STEARATE SODIUM OLEATE STEARETH-20 CARBOMER 940 SODIUM HYDROXIDE DISODIUM EDTA-COPPER O-CYMEN-5-OL PHENOXYETHANOL
+warnings_and_cautions:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove Stop use and ask a docor if rash occurs Keep out of reach of children. If swalled, get medical help or contact a Poison Control Center right away.
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Apply liberally 15 minutes before sun exposure Use water resistant sunscreen if swimming or sweathing Reapply at least every 2 hours Children under 6 months: ask a doctor Sun Protection Measures: Spending time in the sun decreases risk of skin cancer and early again. To decrease this risk, regulaory use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun especially from 10:00 am - 2:00 pm. Wear long sleeved shirts, pants, hats and sunglasses.
+spl_unclassified_section:
+  Other Information Protect this product form excessive heat and direct sun
+package_label_principal_display_panel:
+  Principal Display Panel 59735-100-01
+indications_and_usage:
+  Use Helps prevens sunburn If used as direced with other sun protection measures (see Directions), decreases the risk of skin cancer and early skin again caused by the sun.
+set_id:
+  791a5de5-62d6-4ac6-a816-0c3b18de75f1
+id:
+  74ebb324-403e-4cfe-8f15-e16e7512c936
+active_ingredient:
+  Active Ingredients Avobenzone 3.00% Octinoxate 7.50%

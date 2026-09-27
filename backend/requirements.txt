@@ -1,12 +1,16 @@
 fastapi
 uvicorn
-sqlalchemy
+pymongo
+mongomock
 pydantic
 sentence-transformers
 numpy
 requests
 python-multipart
+python-dotenv
+openai
 
 # test-only, needed for tests/test_health.py
 pytest
 httpx
+pymongo

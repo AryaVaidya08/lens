@@ -1,0 +1,40 @@
+spl_product_data_elements:
+  NUORI MINERAL DEFENCE SUNSCREEN SPF 30 ZINC OXIDE MEDIUM-CHAIN TRIGLYCERIDES ZINC OXIDE ZINC OXIDE ISOSTEARIC ACID ANHYDROUS DEXTROSE XANTHAN GUM CARBOXYMETHYLCELLULOSE SODIUM CITRIC ACID MONOHYDRATE SILICON DIOXIDE KARUM SEED OIL SORBITAN OLIVATE DOCOSANOL ARACHIDYL GLUCOSIDE SUNFLOWER OIL CARROT SEED OIL GLYCERYL MONOOLEATE .ALPHA.-TOCOPHEROL ACETATE HYDROXYACETOPHENONE BENZYL ALCOHOL TOCOPHEROL MARITIME PINE BETA CAROTENE SODIUM CHLORIDE WATER CAPRYLYL CAPRYLATE/CAPRATE ARACHIDYL ALCOHOL CARROT CETOSTEARYL ALCOHOL CETEARYL OLIVATE MICROCRYSTALLINE CELLULOSE COCO GLUCOSIDE POLYHYDROXYSTEARIC ACID (2300 MW) ASCORBYL PALMITATE GLYCERIN
+spl_unclassified_section:
+  Drug Facts
+  Company Information MANUFACTURED IN ITALY FOR NUORI ApS STORMGADE 35/ DK-1555 COPENHAGEN NUORI.COM/ @NUORISKINCARE
+active_ingredient:
+  Active Ingredients Zinc Oxide 23% Purpose : Sunscreen
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses Helps prevent sunburn Higher SPF gives more sunburn protection If used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin. Keep out of the reach of children . If swallowed, get medical help or contact a Poison Control Center right away. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs.
+do_not_use:
+  Do not use on damaged or broken skin.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children . If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+dosage_and_administration:
+  Directions Apply liberally on clean, moisturized skin 15 minutes before sun exposure. Reapply at least every 2 hours. For daily use, allow product to absorb completely before applying makeup. Use a water resistant sunscreen if swimming or sweating. Sun Protection Measures . Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: Limit time in the sun, especially from 10 a.m.-2 p.m. Wear long-sleeved shirts, pants, hats and sunglasses. Children under 6 months of age: ask a doctor.
+inactive_ingredient:
+  Inactive ingredients Aqua (water), caprylic/capric triglyceride, caprylyl caprylate/caprate, glycerin, silica, arachidyl alcohol, cetearyl alcohol, pongamia glabra (karanja) seed oil, helianthus annuus (sunflower) seed oil, daucus carota sativa (carrot) seed oil, daucus carota sativa (carrot) root extract, pinus pinaster (french maritime pine) bark extract, cetearyl olivate, sorbitan olivate, glyceryl oleate, microcrystalline cellulose, behenyl alcohol, arachidyl glucoside, coco-glucoside, lecithin, polyglyceryl-3 polyricinoleate, hydrogenated palm glycerides citrate, polyhydroxystearic acid, isostearic acid, tocopheryl acetate (vitamin e), ascorbyl palmitate, tocopherol (vitamin e), beta-carotene, glucose, xanthan gum, cellulose gum, citric acid, sodium chloride, hydroxyacetophenone, benzyl alcohol.
+other_safety_information:
+  Other information Protect the product in this container from excessive heat and direct sun You may report a serious adverse reaction to: NUORI Inc., 228 Park Ave S, Ste 300, New York, NY 10003
+questions:
+  Questions? send them to info@nuori.com
+package_label_principal_display_panel:
+  Product Packaging NUORI SUN MINERAL DEFENCE SUNSCREEN FACE HIGH PROTECTION BROAD SPECTRUM SPF 30 UVA & UVB ALL-NATURAL PROVEN RESULTS 50ml 1.7floz nuori mineral defence face
+set_id:
+  8695330d-2426-f590-e053-2a91aa0a86ba
+id:
+  288d3eda-c024-e4b7-e063-6394a90abe29
+effective_time:
+  20241205
+version:
+  4
+openfda:

@@ -1,25 +1,9 @@
 """
-SQLite engine + session setup.
+Database access used by routes.
 
-One engine, one SQLite file, no external DB service — see the "explicit
-scope decisions" in docs/architecture.md.
-
-Owned by: Backend & data lane.
+MongoDB is the store. `get_db` is the FastAPI dependency every route
+should take — do not open a client in a route file.
 """
 
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
-
-# TODO: implement — point this at app.config.settings.database_url
-engine = create_engine("sqlite:///./hcp.db", connect_args={"check_same_thread": False})
-SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
-
-
-def get_db():
-    """
-    FastAPI dependency that yields a DB session per request.
-
-    TODO: implement
-    """
-    # TODO: implement
-    raise NotImplementedError
+from app.db.mongo import close_client, ensure_indexes, get_database, get_db
+__all__ = ["close_client", "ensure_indexes", "get_database", "get_db"]

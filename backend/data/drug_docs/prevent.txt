@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  Prevent ALCOHOL WATER PROPYLENE GLYCOL ALCOHOL ALCOHOL
+active_ingredient:
+  Drug Facts Box OTC-Active Ingredient Section Ethyl Alcohol 62%
+purpose:
+  Drug Facts Box OTC-Purpose Section Antiseptic
+indications_and_usage:
+  Drug Facts Box OTC-Indications & Usage Section for hand-washing to decrease bacteria on the skin, only when water is not available
+warnings:
+  Drug Facts Box OTC-Warnings Section FLAMMABLE, keep away from fire and flames For external use only
+when_using:
+  Drug Facts Box OTC-When Using Section do not get into eyes if contact occurs, rinse eyes thoroughly with water
+stop_use:
+  Drug Facts Box OTC-Stop Use Section irritation and redness develop
+keep_out_of_reach_of_children:
+  Drug Facts Box OTC-Keep Out of Reach of Children Section if swallowed, get medical help or contact a Poison Control Center right away
+dosage_and_administration:
+  Drug Facts Box OTC-Dosage & Administration Section press pump twice to deliver two squirts (about a quarter size) of foaming product onto the palm of your hand rub hands together and allow to dry without wiping
+inactive_ingredient:
+  Drug Facts Box OTC-Inactive Ingredient Section water, DEA-C8-18 perfluoroalkylethyl phosphate, propylene glycol, fragrance
+package_label_principal_display_panel:
+  Prevent 6585 50ml 6585Z1Q984.jpg Prevent 50ml image of bottle label
+set_id:
+  f48c62f9-04ad-48d5-bb69-d40ec83fdcf2
+id:
+  ff0ed204-c5b2-b7f9-e053-6294a90ab189
+effective_time:
+  20230626
+version:
+  2
+openfda:

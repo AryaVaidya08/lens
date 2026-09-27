@@ -1,0 +1,29 @@
+spl_product_data_elements:
+  Cygzyme CITRIC ACID CITRIC ACID MONOHYDRATE ANHYDROUS CITRIC ACID Water SODIUM BICARBONATE GLUCONIC ACID
+active_ingredient:
+  ACTIVE INGREDIENT CITRIC ACID 4.0%
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, Sodium hydrogencarbonate, Gluconic acid, Sodium salt, N-Ethylenediaminediacetic acid,Dihydrogen Oxide
+purpose:
+  PURPOSE Antifungal
+warnings:
+  WARNINGS For external use only Do not use on the human body Avoid contact with eyes. Discontinue use if signs of irritation or rashes appear. Keep out of reach of children
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN Keep out of reach of children
+indications_and_usage:
+  Uses Helps prevent sterilant
+dosage_and_administration:
+  Directions ■Rinse thoroughly for more than 5 minutes. Rinse for more than 15 seconds with sterile purified water flowing out after soaking. ■After the disinfection of the medical instrument is completed, confirm the persistence. ■Excess water may be used depending on the purpose of use.
+questions:
+  QUESTIONS +82 02 1566 2723
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+set_id:
+  c1b0c21f-0b9a-4586-ac5c-02daa690249a
+id:
+  10dd95c1-ffe0-43e0-bbf2-9b6ca4e0d990
+effective_time:
+  20240312
+version:
+  2
+openfda:

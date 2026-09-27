@@ -1,0 +1,35 @@
+effective_time:
+  20151020
+inactive_ingredient:
+  Inactive Ingredients Water,Lauramidopropyl Betaine, Propylene Glycol, Diazolidinyl Urea, Methylparaben,Propylparaben.
+instructions_for_use:
+  Purpose First Aid Antimicrobial Sanitizer
+purpose:
+  Antimicrobial
+keep_out_of_reach_of_children:
+  Keep Out Of Reach Of Children
+warnings:
+  Warnings External use only. Do not use in eyes. In case of deep wounds or puncture wounds, consult a physician. If irritation develops and persists for more than a few days, discontinue use and consult a physician. .
+questions:
+  Questions or Comments Bio-Medical & Pharm., Mfg. Corp. 4311 South Dr., Houston, TX 77053 Phone: 281.835.8051 Internet: www.kleerplex.com
+spl_product_data_elements:
+  ANTIMICROBIAL FOAMING SANITIZER Benzethonium chloride liquid PROPYLPARABEN BENZETHONIUM CHLORIDE BENZETHONIUM LAURAMIDOPROPYL BETAINE 2-HEXENAL PROPYLENE GLYCOL ACETAL, (1E)- DIAZOLIDINYL UREA METHYLPARABEN
+other_safety_information:
+  Other Information Alcohol Free Moisturizes Made In USA
+openfda:
+version:
+  2
+statement_of_identity:
+  DRUG FACTS Foaming Antimicrobial Sanitizer
+dosage_and_administration:
+  Directions Dispense foam into palms, then spread onto hands and other areas to be treated.
+package_label_principal_display_panel:
+  A-Cute Derm Medical Skincare Antisepation Foam Sanitizer NDC #: 61619-718-37 1.7 FL OZ(50.0 ml) 1.7 oz Antisepation
+indications_and_usage:
+  Use Kleer-Plex is a unique, non-drying sanitizer. Designed for all skin types and pH balanced. Kills 99.9% of germs including Staph, Pseudomonas, and E. coli. Excellent for post-operative care. May be used as a First Aid Antimicrobial to help protect against skin infection.
+set_id:
+  228d0fc2-16c6-2b16-e054-00144ff88e88
+id:
+  228d0fc2-16c8-2b16-e054-00144ff88e88
+active_ingredient:
+  Active Ingredient Benzethonium Chloride 0.2%

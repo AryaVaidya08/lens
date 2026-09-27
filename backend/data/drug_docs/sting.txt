@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  STING RELIEF MEDICATED PAD Benzocaine ALCOHOL WATER BENZOCAINE BENZOCAINE
+active_ingredient:
+  Active Ingredient Medicinal Ingredient:Benzocaine6% PURPOSE Topical Anesthetic
+purpose:
+  PURPOSE Topical Anesthetic
+indications_and_usage:
+  Use For the temporary relief of pain and itching associated with minor burns, scrapes and insect bites
+dosage_and_administration:
+  Directions Apply to affected area not more than 3 to 4 times daily. For adults and children 2 years of age and older. Children under 2 years: consult a physician.
+warnings:
+  Warnings FOR EXTERNAL USE ONLY.FLAMMABLE,Keep away from fire or flame. Do not use in the eyes ,if contact occurs ,flush eyes with water. other information sotre at room temperature 15 O C-30 O C(59-86 O F) KEEP OUT OF REACH OF CHILDREN. if swallowed get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. if swallowed get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients isopropyl alcohol,purified water
+package_label_principal_display_panel:
+  4
+set_id:
+  89dbede6-4283-2f8c-e053-2a95a90aa71f
+id:
+  c3142ddb-74dd-a7d1-e053-2a95a90a26f3
+effective_time:
+  20210524
+version:
+  3
+openfda:

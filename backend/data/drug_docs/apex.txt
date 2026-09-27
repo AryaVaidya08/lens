@@ -1,0 +1,29 @@
+effective_time:
+  20200527
+inactive_ingredient:
+  Inactive ingredients Water, Aloe, Glycerin, Carbomer, Propylene Glycol, Triethanolamine, Parfum (Fragrance)
+purpose:
+  Purpose Antimicrobial
+keep_out_of_reach_of_children:
+  Children should be supervised at all times when using this product. If swallowed, get medical help or contact a poison control center right away.
+warnings:
+  warnings: Flamable, keep away from fire and flame. For external use only Do not apply around eyes. Do not use in ears, mouth. When using this product, do not use in or near the eyes. In case of contact, rinse eyes thoroughlly with water. Stop use and ask a doctor if irritation or rash appears and lasts.
+spl_product_data_elements:
+  APEX ASEPTIC Instant Hand Sanitizer with Aloe Cherry Blossom Scent Alcohol ALCOHOL ALCOHOL WATER TROLAMINE GLYCERIN PROPYLENE GLYCOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  Pump as needed into your palms and spread on both hands. Rub into skin until dry. Other Information: Store below 110℉ （43℃）.
+spl_unclassified_section:
+  Drug Facts
+package_label_principal_display_panel:
+  Packaging image description
+indications_and_usage:
+  Use Hand sanitizer can help reduce bacteria on the surface of skin.
+set_id:
+  9a7294cf-d0c1-468f-adc9-a885d43fe19d
+id:
+  ed96217e-11f5-4b9b-ad72-6d68e15d7e02
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70%

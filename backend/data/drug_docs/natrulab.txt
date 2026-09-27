@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  NATRULAB ANTISEPTIC SANITIZING WIPES ANTISEPTIC SANITIZING WIPES BENZALKONIUM CHLORIDE BENZALKONIUM SODIUM HYDROXYMETHYLGLYCINATE SODIUM CHLORIDE WATER POTASSIUM SORBATE SODIUM BENZOATE ALOE VERA LEAF ANHYDROUS CITRIC ACID
+active_ingredient:
+  ACTIVE INGREDIENT Benzalkonium Chloride - 0.26% (w/w)
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  USE For hand washing to decrease bacteria on skin. Recommended for repeated use.
+warnings:
+  WARNINGS For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts. Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a poison control center right away.
+dosage_and_administration:
+  DIRECTIONS Apply to clean dry hands. Wet hands thoroughly with the product and allow to dry. Children under 6 should be supervised when using this product.
+storage_and_handling:
+  OTHER INFORMATION Do not store above 104℉ (40℃) Do not use if the seal is damaged or broken
+inactive_ingredient:
+  INACTIVE INGREDIENTS Water, Sodium Hydroxymethylglycinate, Citric Acid, Aloe Barbadensis Leaf Water, Sodium Chloride, Sodium Benzoate, Potassium Sorbate
+package_label_principal_display_panel:
+  1000 COUNT REFILL BAG NDC: 83086-001-01 1000 COUNT Label
+set_id:
+  ec8829a0-280b-08ef-e053-2a95a90af75c
+id:
+  09735b2f-2b02-ca91-e063-6294a90a210a
+effective_time:
+  20231105
+version:
+  4
+openfda:

@@ -1,0 +1,37 @@
+effective_time:
+  20171206
+inactive_ingredient:
+  Inactive ingredients croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, sodium starch glycolate, and starch
+purpose:
+  Uses temporarily relieves nasal congestion due to a cold, hay fever, or other upper respiratory allergies (allergic rhinitis). helps loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive.
+keep_out_of_reach_of_children:
+  Keep this and all drugs out of reach of children. In case of overdose, get medical help or contact a poison control center immediately.
+warnings:
+  Warnings Do not exceed recommended dosage.
+questions:
+  Questions? 1-800-324-1880, 7:30am - 4:00pm Central, Mon.-Fri., or visit us at www.bfascher.com
+spl_product_data_elements:
+  CONGESTAC PSEUDOEPHEDRINE HCL/GUAIFENESIN POLYETHYLENE GLYCOL POVIDONES GUAIFENESIN GUAIFENESIN MAGNESIUM STEARATE HYPROMELLOSES CELLULOSE, MICROCRYSTALLINE SODIUM STARCH GLYCOLATE TYPE A CORN STARCH, CORN PSEUDOEPHEDRINE HYDROCHLORIDE PSEUDOEPHEDRINE CROSCARMELLOSE SODIUM
+ask_doctor:
+  Ask a doctor before use if you have heart disease high blood pressure thyroid disease diabetes difficulty in urinating due to an enlarged prostate gland
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions adults and children 12 years and older, 1 caplet every 4 to 6 hours, not more than 4 caplets in 24 hours children 6 to under 12 years, ½ caplet every 4 to 6 hours, not more than 2 caplets in 24 hours children under 6 years, consult a physician
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+stop_use:
+  Stop use and ask a doctor if you get nervous, dizzy, or sleepless symptoms do not improve within 7 days or are accompanied by fever
+do_not_use:
+  Do not use if you are taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for two weeks after stopping the MAOI. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. Do not take this product for persistent or chronic cough such as occurs with smoking, asthma, chronic bronchitis, or emphysema, or where cough is accompanied by excessive phlegm (mucus) unless directed by a doctor. A persistent cough may be a sign of a serious condition. If cough persists for more than 1 week, tends to recur, or is accompanied by fever, rash, or persistent headache, consult a doctor.
+package_label_principal_display_panel:
+  Congestac Principal Display Panel Congestac 12 PDP Congestac 24 PDP Congestac 12 PDP Congestac 24 PDP
+indications_and_usage:
+  Uses For temporarily relief of nasal congestion due to a cold, hay fever, or other upper respiratory allergies (allergic rhinitis), and to help loosen phlegm (mucus) and thin bronchial secretions to rid the bronchial passageways of bothersome mucus and make coughs more productive.
+set_id:
+  03d29b11-deba-3727-e054-00144ff8d46c
+id:
+  5fb1a245-339c-407d-e053-2a91aa0adcc1
+active_ingredient:
+  Active ingredients (in each caplet).........................................Purpose Guaifenesin 400 mg.................................................................Expectorant Pseudoephedrine hydrochloride 60 mg................................Nasal decongestant

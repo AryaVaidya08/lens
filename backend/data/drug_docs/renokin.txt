@@ -1,0 +1,27 @@
+effective_time:
+  20210916
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water (Aqua), Alcohol, Glycerin, Isopropyl Alcohol, Phenoxyethanol, Ginkgo Biloba Leaf Extract, Glycine Soja (Soybean) Oil, Hydrogenated Lecithin, Thuja Orientalis Extract, Disodium EDTA, Oligopeptide-54, Decapeptide-18, Serenoa Serrulata Fruit Extract, Polygala Tenuifolia Root Extract, Portulaca Oleracea Extract, Fragrance (Parfum), Decapeptide-10, Sodium Oleate, Retinyl Palmitate, Biotin
+purpose:
+  PURPOSE Purpose: Skin Protectant
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN KEEP OUT OF REACH OF CHILDREN
+warnings:
+  WARNINGS Warning: For external use only, do not swallow. In case of accidental ingestion, seek medical assistance. Avoid contact with eyes. If contact occurs, rinse eyes thoroughly with water. Stop use and consult a doctor if rash or irritation occurs. Do not apply directly to a wound or open cut. Keep out of reach of children. Store at room temperature (below 25C).
+spl_product_data_elements:
+  RENOKIN HAIR REVITALIZING Allantoin Allantoin ALLANTOIN Water Alcohol
+openfda:
+version:
+  2
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Directions: Apply the solution on dry scalp after using RENOKIN Hair Revitalizing Shampoo and Conditioner. Gently shake the solution before use. Spray to the target scalp area and lightly massage with fingertips. Do not wash off for 3 hours. Use every morning and night.
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+indications_and_usage:
+  INDICATIONS AND USAGE Directions: Apply the solution on dry scalp after using RENOKIN Hair Revitalizing Shampoo and Conditioner. Gently shake the solution before use. Spray to the target scalp area and lightly massage with fingertips. Do not wash off for 3 hours. Use every morning and night.
+set_id:
+  5c432eca-ca2b-41f1-94b6-b3df5ed3f1df
+id:
+  9fe5aba7-97ee-4ad9-88a6-1d18b19a6fd0
+active_ingredient:
+  ACTIVE INGREDIENT Active ingredient: Allantoin 0.5%

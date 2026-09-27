@@ -1,0 +1,79 @@
+spl_product_data_elements:
+  Biocorneum Avobenzone, Homosalate, Meradimate, Octisalate, and Octocrylene Avobenzone Avobenzone Homosalate Homosalate Meradimate Meradimate Octisalate Octisalate Octocrylene Octocrylene CYCLOMETHICONE 5 DIMETHICONE DIMETHICONE CROSSPOLYMER (450000 MPA.S AT 12% IN CYCLOPENTASILOXANE) SILICON DIOXIDE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Purpose Avobenzone 3% Sunscreen Homosalate 15% Sunscreen Meradimate 5% Sunscreen Octisalate 5% Sunscreen Octocrylene 10% Sunscreen Dosage Form: Gel
+active_ingredient_table:
+  <table width="60%"><col width="80%" align="left" valign="top"/><col width="20%" align="left" valign="top"/><thead><tr><th>Active Ingredients</th><th>Purpose</th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Homosalate 15%</td><td>Sunscreen</td></tr><tr><td>Meradimate 5%</td><td>Sunscreen</td></tr><tr><td>Octisalate 5%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 10%</td><td>Sunscreen</td></tr></tbody></table>
+purpose:
+  Active Ingredients Purpose Avobenzone 3% Sunscreen Homosalate 15% Sunscreen Meradimate 5% Sunscreen Octisalate 5% Sunscreen Octocrylene 10% Sunscreen Dosage Form: Gel
+purpose_table:
+  <table width="60%"><col width="80%" align="left" valign="top"/><col width="20%" align="left" valign="top"/><thead><tr><th>Active Ingredients</th><th>Purpose</th></tr></thead><tbody><tr><td>Avobenzone 3%</td><td>Sunscreen</td></tr><tr><td>Homosalate 15%</td><td>Sunscreen</td></tr><tr><td>Meradimate 5%</td><td>Sunscreen</td></tr><tr><td>Octisalate 5%</td><td>Sunscreen</td></tr><tr><td>Octocrylene 10%</td><td>Sunscreen</td></tr></tbody></table>
+indications_and_usage:
+  Uses BIOCORNEUM ® can reduce the appearance of scars and is ideal for use on any intact skin surface, including skin that flexes (such as joints) and areas exposed to sun (such as the face and hands).
+warnings:
+  Warnings Skin Cancer/Skin Aging Alert Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to help prevent sunburn, not skin cancer or early skin aging. For external use only. Keep out of reach of children. Do not use on damaged or broken skin. When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+do_not_use:
+  Do not use on damaged or broken skin.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+stop_use:
+  Stop use and ask a doctor if rash occurs.
+dosage_and_administration:
+  Directions Ensure that the affected area is clean and dry. Apply a thin, even layer twice daily. Allow to dry. Wait 15 minutes before sun exposure. Children under 6 months of age: Ask a doctor.
+storage_and_handling:
+  Other Information Protect product in this container from excessive heat and direct sun.
+inactive_ingredient:
+  Inactive Ingredients Cyclopentasiloxane, Dimethicone, Dimethicone Crosspolymer, Silicon Dioxide
+questions:
+  Questions? Call 800.322.3729
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 g Tube Carton BIOCORNEUM ® ADVANCED SCAR TREATMENT SILISHIELD ® CROSSLINKED SILICONE + BROAD SPECTRUM SPF 30 NET WT 1.73 fl oz (50g) PRINCIPAL DISPLAY PANEL - 50 g Tube Carton
+set_id:
+  ef95f2b7-e438-4990-880d-81621edb2002
+id:
+  2996022f-311c-4161-b6cc-1c746e9151d9
+effective_time:
+  20240813
+version:
+  1
+openfda:
+  application_number:
+    M020
+  brand_name:
+    Biocorneum
+  generic_name:
+    AVOBENZONE, HOMOSALATE, MERADIMATE, OCTISALATE, AND OCTOCRYLENE
+  manufacturer_name:
+    Biodermis LLC
+  product_ndc:
+    84440-003
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    AVOBENZONE
+    HOMOSALATE
+    MERADIMATE
+    OCTISALATE
+    OCTOCRYLENE
+  spl_id:
+    2996022f-311c-4161-b6cc-1c746e9151d9
+  spl_set_id:
+    ef95f2b7-e438-4990-880d-81621edb2002
+  package_ndc:
+    84440-003-10
+    84440-003-20
+    84440-003-50
+  is_original_packager:
+    True
+  unii:
+    G63QQF2NOX
+    V06SV4M95S
+    J9QGD60OUZ
+    4X49Y0596W
+    5A68WGF6WM

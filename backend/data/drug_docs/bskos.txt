@@ -1,0 +1,23 @@
+effective_time:
+  20210611
+inactive_ingredient:
+  INACTIVE INGREDIENT Inactive ingredients: Water,Cyclopentasiloxane,Butylene Glycol,Hydrogenated Polydecene Alcohol,Hexyl Laurate,PEG-10 Dimethicone,Phenyl Trimethicone,Isoamyl p-Methoxycinnamate,Niacinamide Isododecane,Methyl Methacrylate Crosspolymer,Nylon-12,Magnesium Sulfate,Disteardimonium Hectorite Sodium Hyaluronate,Biosaccharide Gum-1,PEG-15/Lauryl Dimethicone Crosspolymer,Glycerin,Dimethicone Aluminum Hydroxide,Propylene Carbonate,Caprylyl Glycol,Triethoxycaprylylsilane,Tocopheryl Acetate Sophora Japonica Fruit Extract,Hydrolyzed Extensin,Pancratium Maritimum Extract,Adenosine,Caprylhydroxamic Acid Barium Sulfate (CI 77120),Iron Oxides (CI 77492),Iron Oxides (CI 77491),Iron Oxides (CI 77499),Fragrance
+purpose:
+  Purpose Purpose: Sunscreen
+warnings:
+  Warnings Warnings: FOR EXTERNAL USE ONLY - Do not use on damaged or broken skin - When using this product, Keep out of eyes. Rinse with water to remove. - Stop use and ask a doctor if rash occurs. - Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  BSKOS DOUBLE LASTING LI QUID FOUNDATION SUN BEIGE 29 Titanium Dioxide, Octinoxate, Zinc Oxide WATER CYCLOMETHICONE 5 TITANIUM DIOXIDE TITANIUM DIOXIDE OCTINOXATE OCTINOXATE ZINC OXIDE ZINC CATION
+description:
+  DESCRIPTION Uses: Helps prevent sunburn Directions: Apply liberally and uniformly to all exposed areas 15-20 minutes before sun exposure. Reapply often (every 2 hours) and after swimming, excessive perspiration and washing to ensure maximum sun protection.
+openfda:
+version:
+  3
+package_label_principal_display_panel:
+  PACKAGE LABEL.PRINCIPAL DISPLAY PANEL Image of carton
+set_id:
+  ba237a7f-f8e3-4b62-b212-629d08e1c92c
+id:
+  c479a228-4fd9-4cfe-e053-2a95a90ad798
+active_ingredient:
+  Active Ingredients Active ingredients: Titanium Dioxide 7.60%, Ethylhexyl Methoxycinnamate 5.00%, Zinc Oxide 0.98%

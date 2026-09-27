@@ -1,0 +1,29 @@
+effective_time:
+  20200527
+recent_major_changes:
+  
+inactive_ingredient:
+  Water, Methyl Gluceth-20, Carbomer, PEG-60 Hydrogenated Castor Oil, Tocopheryl Acetate, Aloe Extract, Bio-Sodium Hyaluronate, Amino methyl propanol, Fragrance
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+warnings:
+  For external use only. Flammable, keep away from fire or flame. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Codi HAND SANITIZER Alcohol WATER ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE ALOE
+openfda:
+version:
+  1
+dosage_and_administration:
+  Place enough product on hand to cover all surfaces. Rub hands together until dry. Children under 6 years should be supervised when using this product.
+package_label_principal_display_panel:
+  1
+indications_and_usage:
+  For the external use only
+set_id:
+  a69c3394-9678-868e-e053-2a95a90a4b72
+id:
+  a69c7d18-8fa0-4899-e053-2a95a90a6654
+active_ingredient:
+  Alcohol

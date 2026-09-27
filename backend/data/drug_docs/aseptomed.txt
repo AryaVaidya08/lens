@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  ASEPTOMED ANTISEPTIC WET WIPES Ethyl alcohol ALCOHOL ALCOHOL DENATONIUM BENZOATE ISOPROPYL ALCOHOL METHYL ETHYL KETONE WATER
+spl_unclassified_section:
+  Drug Facts
+  75% ETHYL ALCOHOL Manufactured by: ULTRA COSMETICS SHPK, Vitomirica pn, Peje, Kosovo, 30000 COUNTRY OF ORIGIN: KOSOVO ASEPTOMED ANTISEPTIC WET WIPES 75% ALCOHOL, disinfects hands and can reduce the danger of contact infections through hands. For best results use at least 2 wipes. Avoid Sunlight
+active_ingredient:
+  Active ingredient Ethyl alcohol 75 % v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand wipes to decrease bacteria on the skin recommended for repeated use for use when soap and water are not available
+warnings:
+  Warnings Flammable, keep away from fire/flame For external use only Do not use in children less than 2 months of age on open skin wounds as a baby wipe When using this product • do not get into eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wipe hands thoroughly with product and allow to dry without wiping supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information store between 15-30° C (59-86˚F) avoid freezing and excessive heat above 40° C (104˚F) do not store near heat or open flame
+inactive_ingredient:
+  Inactive ingredients denatonium benzoate, fragrance, isopropanol, methyl ethyl ketone, water
+questions:
+  Questions? You may also report serious side effects to this phone number. Mon-Fri 9:00 AM - 5:00 PM
+package_label_principal_display_panel:
+  Packaging IMAGE
+set_id:
+  956fbe52-9d75-489e-b938-23d4f1724d51
+id:
+  12e50718-1f6c-423d-9bad-97ef052d1679
+effective_time:
+  20211209
+version:
+  2
+openfda:

@@ -1,0 +1,54 @@
+spl_product_data_elements:
+  TRIMOL Ichthammol 20% ICHTHAMMOL ICHTHAMMOL PETROLATUM LANOLIN
+spl_unclassified_section:
+  Drug Facts
+  A GROOMING AID FOR HORSES AND DOGS Distributed by: Trifecta Pharmaceuticals USA 101 NE Third Avenue, Suite 1500 Fort Lauderdale, FL. 33301 USA 1-888-296-9067 www.trifecta-pharma.com
+active_ingredient:
+  Active Ingredient Ichthammol 20%
+purpose:
+  Purpose For use on skin abraisions or sores
+warnings:
+  Warnings For External Use only.
+keep_out_of_reach_of_children:
+  Keep out of reach of Children.
+dosage_and_administration:
+  Directions: Apply topically to affected parts once or twice a day. A loose wrapping may be applied. Avoid prolonged exposure to excessive heat.
+inactive_ingredient:
+  Inactive Ingredients Lanolin, Petrolatum
+indications_and_usage:
+  Uses: Use on skin and nails
+package_label_principal_display_panel:
+  Packaging TRIMOL
+set_id:
+  6853282d-55e8-7a29-e053-2a91aa0ac8c7
+id:
+  2a91ec89-ad92-4be8-e063-6394a90a8d7a
+effective_time:
+  20241231
+version:
+  4
+openfda:
+  brand_name:
+    TRIMOL
+  generic_name:
+    ICHTHAMMOL 20%
+  manufacturer_name:
+    Trifecta Pharmaceuticals USA LLC
+  product_ndc:
+    69396-010
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    ICHTHAMMOL
+  spl_id:
+    2a91ec89-ad92-4be8-e063-6394a90a8d7a
+  spl_set_id:
+    6853282d-55e8-7a29-e053-2a91aa0ac8c7
+  package_ndc:
+    69396-010-15
+  is_original_packager:
+    True
+  unii:
+    NQ14646378

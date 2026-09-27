@@ -1,0 +1,44 @@
+spl_product_data_elements:
+  Dramamine DIMENHYDRINATE ANHYDROUS CITRIC ACID ASPARTAME FD&C YELLOW NO. 6 MAGNESIUM STEARATE MALTODEXTRIN SORBITOL DIMENHYDRINATE DIPHENHYDRAMINE
+spl_unclassified_section:
+  Drug Facts
+  Other information • Phenylketonurics: contains phenylalanine 0.84 mg per tablet • store at room temperature 20º-25ºC (68º- 77ºF) • do not use if pouch is opened • see pouch for lot number and expiration date
+active_ingredient:
+  Active ingredient (in each tablet) Dimenhydrinate 50 mg Purpose Antiemetic
+purpose:
+  Purpose Antiemetic
+indications_and_usage:
+  Use for prevention and treatment of these symptoms associated with motion sickness: • nausea • vomiting • dizziness
+warnings:
+  Warnings Do not use for children under 2 years of age unless directed by a doctor Ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • glaucoma • trouble urinating due to an enlarged prostate gland Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers When using this product • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a doctor before use. Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+do_not_use:
+  Do not use for children under 2 years of age unless directed by a doctor
+ask_doctor:
+  Ask a doctor before use if you have • a breathing problem such as emphysema or chronic bronchitis • glaucoma • trouble urinating due to an enlarged prostate gland
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers
+when_using:
+  When using this product • marked drowsiness may occur • avoid alcoholic drinks • alcohol, sedatives, and tranquilizers may increase drowsiness • be careful when driving a motor vehicle or operating machinery
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a doctor before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental overdose, get medical help or contact a Poison Control Center (1-800-222-1222) right away.
+dosage_and_administration:
+  Directions to prevent motion sickness, the first dose should be taken 1/2 to 1 hour before starting activity to prevent or treat motion sickness: adults and children 12 years and over • take 1 to 2 chewable tablets every 4-6 hours • do not take more than 8 chewable tablets in 24 hours, or as directed by a doctor children 6 to under 12 years • give 1/2 to 1 chewable tablet every 6-8 hours • do not give more than 3 chewable tablets in 24 hours, or as directed by a doctor children 2 to under 6 years • give 1/2 chewable tablet every 6-8 hours • do not give more than 1-1/2 chewable tablets in 24 hours, or as directed by a doctor
+dosage_and_administration_table:
+  <table width="100%"><caption/><tbody><tr><td> adults and children 12 years and over</td><td><paragraph>&#x2022; take 1 to 2 chewable tablets every 4-6 hours </paragraph><paragraph>&#x2022; do not take more than 8 chewable tablets in 24 hours, or as directed by a doctor</paragraph></td></tr><tr><td> children 6 to under 12 years</td><td><paragraph>&#x2022; give 1/2 to 1 chewable tablet every 6-8 hours</paragraph><paragraph>&#x2022; do not give more than 3 chewable tablets in 24 hours, or as directed by a doctor</paragraph></td></tr><tr><td> children 2 to under 6 years</td><td><paragraph>&#x2022; give 1/2 chewable tablet every 6-8 hours</paragraph><paragraph>&#x2022; do not give more than 1-1/2 chewable tablets in 24 hours, or as directed by a doctor</paragraph></td></tr></tbody></table>
+inactive_ingredient:
+  Inactive ingredients anhydrous citric acid, aspartame, FD&C yellow 6 aluminum lake, flavors, magnesium stearate, maltodextrin, methacrylic acid copolymer, modified starch, sorbitol
+questions:
+  Questions or comments? call 1-800-382-7219
+package_label_principal_display_panel:
+  Package Labeling: Dramamaine
+set_id:
+  4139b5bf-2e49-40c3-9f4a-d8e15c044ead
+id:
+  f6f79a87-6831-c39d-e053-6394a90ae629
+effective_time:
+  20230315
+version:
+  3
+openfda:

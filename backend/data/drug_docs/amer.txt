@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  AMER FRESH Benzalkonium Chloride BENZALKONIUM CHLORIDE BENZALKONIUM SODIUM PALMITATE PALM KERNEL OIL WATER SODIUM CHLORIDE GLYCERIN TITANIUM DIOXIDE EDETATE SODIUM
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.1%
+purpose:
+  Purpose Antibacterial
+indications_and_usage:
+  Use For washing to decrease bacteria on the skin
+warnings:
+  Warnings For external use only. When using this product avoid contact with eyes .in case of eyes contact ,flush with water Stop use and doctor ask if irritation and redness develops
+keep_out_of_reach_of_children:
+  Keep out of reach of children if swallowed ,get medical help or contact a Poison control center right away .
+dosage_and_administration:
+  Directions • Wet bar with water • Lather vigorously and wash skin • Rinse and dry thoroughly
+inactive_ingredient:
+  Inactive ingredients • Sodium Palmitate • Palm Kernelate • Fragrance • Aqua • Sodium Chloride • Glycerine • Titanium Di Oxide • Tetra Sodium EDTA
+package_label_principal_display_panel:
+  Product label image description
+set_id:
+  bc86c048-bed5-4cf9-b2b1-af67032b4a6f
+id:
+  ea04e36e-aca5-4d6e-9502-c9339e1114b2
+effective_time:
+  20201110
+version:
+  1
+openfda:

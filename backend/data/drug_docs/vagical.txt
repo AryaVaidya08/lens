@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  Vagical Calendula Officinalis Flowering Top POLYETHYLENE GLYCOL, UNSPECIFIED CALENDULA OFFICINALIS FLOWERING TOP CALENDULA OFFICINALIS FLOWERING TOP
+spl_unclassified_section:
+  Vagical
+active_ingredient:
+  Active ingredient Calendula officinalis TINC HPUS* *The letters 'HPUS' indicate that the component in this product is officially monographed in the Homeopathic Pharmacopoeia of the United States.
+purpose:
+  Purpose Healing agent and anti-inflammatory
+indications_and_usage:
+  Uses For temporary relief of minor symptoms of vaginitis, such as itching, burning and irritation.
+warnings:
+  Warnings For vaginal use only Do not use if you are allergic (hypersensitive) to any of the ingredients found in the insert after expiration date on carton Ask a doctor before use if you have strong vaginal discharge vaginal bleeding Ask a doctor or pharmacist before use if you are presently taking other vaginal insert drug products When using this product do not exceed recommended dose. Stop use and ask a doctor if no improvement is seen after three to four days your symptoms worsen you experience irritation from using the product If pregnant or breastfeeding, ask a health professional before use.
+do_not_use:
+  Do not use if you are allergic (hypersensitive) to any of the ingredients found in the insert after expiration date on carton
+ask_doctor:
+  Ask a doctor before use if you have strong vaginal discharge vaginal bleeding
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking other vaginal insert drug products
+when_using:
+  When using this product do not exceed recommended dose.
+stop_use:
+  Stop use and ask a doctor if no improvement is seen after three to four days your symptoms worsen you experience irritation from using the product
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of the reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Adults 18 years and up: Wash hands before and after use. Before use, damp insert with water that has been previously boiled and cooled. Place one insert into vagina 2-3 times per day. Children 12-18 years: Consult a doctor before use. Under 12 years of age: Do not use
+storage_and_handling:
+  Other information do not store above 77 degrees F (25 degrees C)
+inactive_ingredient:
+  Inactive ingredient Polyethylene Glycol.
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 10 Insert Box Vagical ® NDC 68984-001-10 Nature's answer for vaginal: itching burning irritation dryness Original French Marigold Extract 10 VAGINAL INSERTS PRINCIPAL DISPLAY PANEL - 10 Insert Box
+set_id:
+  0ab35c03-942e-4ba5-ba5a-65c5a99830d7
+id:
+  2cec9c90-2e50-f005-e063-6294a90a8753
+effective_time:
+  20250130
+version:
+  7
+openfda:
+  brand_name:
+    Vagical
+  generic_name:
+    CALENDULA OFFICINALIS FLOWERING TOP
+  manufacturer_name:
+    Farmina sp. z o.o.
+  product_ndc:
+    68984-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    VAGINAL
+  substance_name:
+    CALENDULA OFFICINALIS FLOWERING TOP
+  spl_id:
+    2cec9c90-2e50-f005-e063-6294a90a8753
+  spl_set_id:
+    0ab35c03-942e-4ba5-ba5a-65c5a99830d7
+  package_ndc:
+    68984-001-10
+  is_original_packager:
+    True
+  unii:
+    18E7415PXQ

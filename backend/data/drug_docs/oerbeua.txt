@@ -1,0 +1,27 @@
+effective_time:
+  20180110
+inactive_ingredient:
+  butylene glycol, tocopherol, etc
+purpose:
+  Skin Protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  1. If the following symptoms occur after product use, stop using the product immediately and consult a dermatologist (continuous use can exacerbate the symptoms). 1) Occurrence of red spots, swelling, itchiness, and other skin irritation 2) If the symptoms above occur after the application area is exposed to direct sunlight 2. Do not use on open wounds, eczema, and other skin irritations 3. Precaution for Storage and Handling 1) Close the lid after use 2) Keep out of reach of infants and children 3) Do not to store in a place with high/low temperature and exposed to direct sunlight
+spl_product_data_elements:
+  OERBEUA HEATING PORE CRAY PACK Glycerin BUTYLENE GLYCOL TOCOPHEROL GLYCERIN GLYCERIN
+openfda:
+version:
+  1
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  1. after cleansing, apply the STEP 1 over dry face for feeling the warmth 2. after 5 minutes, rinse well with warm water as if massaging
+set_id:
+  626a0288-ba78-e55e-e053-2a91aa0ab9f8
+id:
+  626a0288-ba79-e55e-e053-2a91aa0ab9f8
+active_ingredient:
+  Glycerin

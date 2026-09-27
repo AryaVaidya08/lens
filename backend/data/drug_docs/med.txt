@@ -1,0 +1,33 @@
+effective_time:
+  20161028
+inactive_ingredient:
+  Inactive Ingredients Water, Alcohol 5%v/v, Kathon CG
+purpose:
+  Purpose Antiseptic
+keep_out_of_reach_of_children:
+  Keep out of reach of children Keep out of reach of children. If swallowed, get medical help or contact a poison Control Center right away.
+warnings:
+  Warnings For External Use Only.
+spl_product_data_elements:
+  MED NAP CLEANSING BENZALKONIUM CHLORIDE BENZALKONIUM CHLORIDE BENZALKONIUM WATER ALCOHOL METHYLCHLOROISOTHIAZOLINONE METHYLISOTHIAZOLINONE MAGNESIUM CHLORIDE ANHYDROUS MAGNESIUM NITRATE
+ask_doctor:
+  Ask a doctor before use if you have Deep or puncture wounds Animal bites Serious burns
+other_safety_information:
+  Other information Store at room temperature Avoid excessive heat
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions Tear at notch Remove towelette Use only once As a first aid antiseptic Clean affected area Apply 1 to 3 times daily May be covered with a sterile bandage If bandaged, let dry first
+stop_use:
+  Stop use If irritation and redness develop If condition persists more than72 hours, consult a physician.
+package_label_principal_display_panel:
+  MED NAP CLEANSING TOWELETTE NDC # 59647-234-01 MED NAP CLEANSING TOWELETTE 100 Packets Latex Free Made by: MED-NAP LLC, Brooksville, FL 34601 www.mednap.us Reorder No 3301 Made in USA MedNap Cleansing
+indications_and_usage:
+  Uses First aid antiseptic to help prevent skin infection in: Minor Cuts Scrapes Burns Antiseptic Cleaning Perineal and maternity care
+set_id:
+  b4d4f198-4251-4ca1-b8b2-ba141c9ab895
+id:
+  b58382a3-61b3-4e59-930a-a59ef0960199
+active_ingredient:
+  Drug Facts Active Ingredient Benzalkonium Chloride, 0.13% v/v

@@ -1,0 +1,41 @@
+effective_time:
+  20181219
+inactive_ingredient:
+  Inactive ingredients water\aqua\eau • neopentyl glycol diheptanoate • cetyl alcohol • pentaerythrityl tetraethylhexanoate • glycerin • polyethylene • butyloctyl salicylate • di-c12-15 alkyl fumarate • petrolatum • butylene glycol • hydrogenated lecithin • propanediol • octyldodecyl myristate • hexyldecyl stearate • dimethicone • laminaria saccharina extract • algae extract • mimosa tenuiflora bark extract • plankton extract • artemia extract • laminaria digitata extract • linoleic acid • malachite • chamomilla recutita (matricaria) • saccharomyces ferment lysate filtrate • acetyl hexapeptide-8 • glyceryl stearate • hydrogenated polyisobutene • yeast extract\faex\extrait de levure • c12-16 alcohols • ethylhexylglycerin • peg-100 stearate • whey protein\lactis protein\proteine du petit-lait • trehalose • thermus thermophillus ferment • ergothioneine • hydrogenated starch hydrolysate • acetyl glucosamine • anthemis nobilis (chamomile) • glucose oxidase • lactoperoxidase • caffeine • cholesterol • sorbitol • palmitic acid • decarboxy carnosine hcl • glycine soja (soybean) sterols • polysilicone-11 • caprylyl glycol • isohexadecane • polymethyl methacrylate • glucose • zinc pca • tocopheryl acetate • behenyl alcohol • citric acid • sodium hyaluronate • aminopropyl ascorbyl phosphate • polysorbate 80 • sodium hydroxide • potassium sorbate • maltodextrin • acrylamide/sodium acryloyldimethyltaurate copolymer • lecithin • potato starch modified • hexylene glycol • xanthan gum • disodium edta • phenoxyethanol • yellow 5 (ci 19140) • red 4 (ci 14700) • titanium dioxide (ci 77891) • mica <iln39642>
+purpose:
+  Active ingredients Purpose Avobenzone 3.00 % Sunscreen Octisalate 5.00 % Sunscreen Octocrylene 2.70 % Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  RESILIENCE LIFT FIRMING SCULPTING FACE AND NECK BROAD SPECTRUM SPF 15 NML COMBO AVOBENZONE, OCTISALATE, and OCTOCRYLENE AVOBENZONE AVOBENZONE OCTISALATE OCTISALATE OCTOCRYLENE OCTOCRYLENE WATER NEOPENTYL GLYCOL DIHEPTANOATE CETYL ALCOHOL PENTAERYTHRITYL TETRAETHYLHEXANOATE GLYCERIN HIGH DENSITY POLYETHYLENE BUTYLOCTYL SALICYLATE DI-C12-15 ALKYL FUMARATE PETROLATUM BUTYLENE GLYCOL PROPANEDIOL OCTYLDODECYL MYRISTATE HEXYLDECYL STEARATE DIMETHICONE SACCHARINA LATISSIMA MIMOSA TENUIFLORA BARK LAMINARIA DIGITATA LINOLEIC ACID MATRICARIA CHAMOMILLA ACETYL HEXAPEPTIDE-8 GLYCERYL MONOSTEARATE YEAST, UNSPECIFIED C12-16 ALCOHOLS ETHYLHEXYLGLYCERIN PEG-100 STEARATE TREHALOSE ERGOTHIONEINE N-ACETYLGLUCOSAMINE CHAMAEMELUM NOBILE GLUCOSE OXIDASE CAFFEINE CHOLESTEROL SORBITOL PALMITIC ACID DECARBOXY CARNOSINE HYDROCHLORIDE SOY STEROL CAPRYLYL GLYCOL ISOHEXADECANE DEXTROSE, UNSPECIFIED FORM ZINC PIDOLATE .ALPHA.-TOCOPHEROL ACETATE DOCOSANOL CITRIC ACID MONOHYDRATE HYALURONATE SODIUM AMINOPROPYL ASCORBYL PHOSPHATE POLYSORBATE 80 SODIUM HYDROXIDE POTASSIUM SORBATE MALTODEXTRIN HEXYLENE GLYCOL XANTHAN GUM EDETATE DISODIUM PHENOXYETHANOL FD&C YELLOW NO. 5 FD&C RED NO. 4 TITANIUM DIOXIDE MICA
+openfda:
+version:
+  3
+dosage_and_administration:
+  Directions For sunscreen use: apply liberally 15 minutes before sun exposure reapply at least every two hours use a water resistant sunscreen if swimming or sweating Sun Protection Measures. Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. – 2 p.m. wear long-sleeved shirts, pants, hats and sunglasses children under 6 months of age: ask a doctor
+spl_unclassified_section:
+  Drug Facts
+stop_use:
+  Stop use and ask a doctor if rash occurs
+storage_and_handling:
+  Other information protect the product in this container from excessive heat and direct sun
+do_not_use:
+  For external use only Do not use on damaged or broken skin
+active_ingredient_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 3.00 %</td><td>Sunscreen</td></tr><tr><td>Octisalate 5.00 %</td><td>Sunscreen</td></tr><tr><td>Octocrylene 2.70 %</td><td>Sunscreen</td></tr></tbody></table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50 ml Jar Carton EL ESTĒE LAUDER Resilience Lift Firming/Sculpting Face and Neck Creme Oil-Free Broad Spectrum SPF 15 Normal/Combination Skin POIDS NET WT. 1.7 OZ./50 ml e PRINCIPAL DISPLAY PANEL - 50 ml Jar Carton
+indications_and_usage:
+  Use helps prevent sunburn
+set_id:
+  c7e0910b-be92-4684-bea9-01ac2cd32c11
+id:
+  3b78d1bd-f495-4b16-a1f9-bce88db95bdc
+purpose_table:
+  <table width="50%"><col width="50%" align="left" valign="top"/><col width="50%" align="right" valign="top"/><thead><tr><th><content styleCode="italics">Active ingredients</content></th><th><content styleCode="italics">Purpose</content></th></tr></thead><tbody><tr><td>Avobenzone 3.00 %</td><td>Sunscreen</td></tr><tr><td>Octisalate 5.00 %</td><td>Sunscreen</td></tr><tr><td>Octocrylene 2.70 %</td><td>Sunscreen</td></tr></tbody></table>
+active_ingredient:
+  Active ingredients Purpose Avobenzone 3.00 % Sunscreen Octisalate 5.00 % Sunscreen Octocrylene 2.70 % Sunscreen

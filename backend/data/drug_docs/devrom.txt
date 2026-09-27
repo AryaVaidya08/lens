@@ -1,0 +1,64 @@
+spl_product_data_elements:
+  Devrom bismuth subgallate BISMUTH SUBGALLATE BISMUTH CATION MAGNESIUM STEARATE MICROCRYSTALLINE CELLULOSE STARCH, CORN TALC XYLITOL D
+spl_unclassified_section:
+  Drug Facts
+  Other Information This product cannot be expected to be effective in the reduction of odor due to faulty personal hygiene. Does not contain gluten, lactose, or salicylates.
+  distributed by The Parthenon Company, Inc.
+active_ingredient:
+  Active ingredient (in each tablet) Bismuth subgallate 200 mg
+purpose:
+  Purpose Internal Deodorant
+indications_and_usage:
+  Use for eliminating or reducing odor from flatulence (gas) and stool (feces).
+warnings:
+  Warnings If pregnant or breast-feeding , ask a health professional before use. When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur. In case of overdose, get medical help or contact a Poison Control Center right away. Keep out of reach of children.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  Directions Adults and children 12 years and over: 1 to 2 tablets up to four times daily. Do not exceed 8 tablets in 24 hours. Children under 12 years: ask a doctor.
+inactive_ingredient:
+  Inactive ingredients magnesium stearate, microcrystalline cellulose, natural banana flavor. starch, talc, xylitol.
+questions:
+  Questions? 1-800-453-8898
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label Devrom ® (200 mg bismuth subgallate) Internal Deodarant 100 chewable tablets PRINCIPAL DISPLAY PANEL - 100 Tablet Bottle Label
+set_id:
+  6a9408b1-9085-42e6-9104-c6986d5446a9
+id:
+  61d82c84-289a-4d83-a8ed-6c026f9edec9
+effective_time:
+  20241112
+version:
+  3
+openfda:
+  application_number:
+    M026
+  brand_name:
+    Devrom
+  generic_name:
+    BISMUTH SUBGALLATE
+  manufacturer_name:
+    The Parthenon Co., Inc.
+  product_ndc:
+    49309-001
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    BISMUTH SUBGALLATE
+  rxcui:
+    308757
+    1942846
+  spl_id:
+    61d82c84-289a-4d83-a8ed-6c026f9edec9
+  spl_set_id:
+    6a9408b1-9085-42e6-9104-c6986d5446a9
+  package_ndc:
+    49309-001-01
+  is_original_packager:
+    True
+  upc:
+    0866344000300
+  unii:
+    YIW503MI7V

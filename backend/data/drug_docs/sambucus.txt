@@ -1,0 +1,33 @@
+effective_time:
+  20170728
+inactive_ingredient:
+  INACTIVE INGREDIENT: Alcohol (0.6%) Citric acid Elderberry extract Fructose Lactose Natural Raspberry flavor Purified Water Vegetable-source Glycerin
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children: Keep out of reach of children.
+purpose:
+  Purpose : Temporarily relieves common flu symptoms: chills and fevers, congestion, cough, headache, hoarseness, runny nose, sore throat, stuffy nose, sneezing, minor aches and pains.
+warnings:
+  Warnings: Sore throat warning : if sore throat is severe, persists more than 2 days, is accompanied or followed by a fever, headache, rash, nausea or vomiting, consult a doctor promptly. Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma or emphysema; a cough accompanied by excessive phlegm (mucus). Stop use and ask a doctor if new symptoms occur, symptoms worsen or do not get better within 7 days; cough lasts more than 7 days or occurs with rash or persistent headache; fever worsens or lasts more than 3 days. This could be signs of a serious condition. If pregnant or breast-feeding, ask a healthcare professoinal before use. Keep out of reach of children. In case of overdose, seek medical help or contact a Poison Control Center immediately.
+spl_product_data_elements:
+  SAMBUCUS FLUCARE ACONITUM NAPELLUS, BRYONIA ALBA ROOT, EUCALYPTUS GLOBULUS LEAF, EUPATORIUM PERFOLIATUM FLOWERING TOP, GELSEMIUM SEMPERVIRENS ROOT, IPECAC, PHOSPHORUS, SAMBUCUS NIGRA FLOWERING TOP ACONITUM NAPELLUS ACONITUM NAPELLUS BRYONIA ALBA ROOT BRYONIA ALBA ROOT EUCALYPTUS GLOBULUS LEAF EUCALYPTUS GLOBULUS LEAF EUPATORIUM PERFOLIATUM FLOWERING TOP EUPATORIUM PERFOLIATUM FLOWERING TOP GELSEMIUM SEMPERVIRENS ROOT GELSEMIUM SEMPERVIRENS ROOT IPECAC IPECAC PHOSPHORUS PHOSPHORUS SAMBUCUS NIGRA FLOWERING TOP SAMBUCUS NIGRA FLOWERING TOP ALCOHOL ANHYDROUS CITRIC ACID EUROPEAN ELDERBERRY FRUCTOSE LACTOSE WATER GLYCERIN NATURAL RASPBERRY FLAVOR
+ask_doctor:
+  Ask the Doctor: Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma or emphysema; a cough accompanied by excessive phlegm (mucus). Stop use and ask a doctor if new symptoms occur, symptoms worsen or do not get better within 7 days; cough lasts more than 7 days or occurs with rash or persistent headache; fever worsens or lasts more than 3 days. This could be signs of a serious condition.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Dosage and Administration: Directions: For best results, use at first sign of symptoms. Adults and children 12 years of age and older: Take 2 teaspoons (10 mL) four times daily. Children 6-11 years of age: take 1 teaspoon (5 mL) four times daily. Children under 6 years of age: Ask a doctor.
+pregnancy_or_breast_feeding:
+  Pregnancy or Breast Feeding : If pregnant or breast-feeding, ask a healthcare professional before use. Keep Out of Reach of Children: Keep out of reach of children. Ask the Doctor: Ask a doctor before use if you have persistent or chronic cough such as occurs with smoking, asthma or emphysema; a cough accompanied by excessive phlegm (mucus). Stop use and ask a doctor if new symptoms occur, symptoms worsen or do not get better within 7 days; cough lasts more than 7 days or occurs with rash or persistent headache; fever worsens or lasts more than 3 days. This could be signs of a serious condition.
+package_label_principal_display_panel:
+  Package Label and Principal Display: 15803 SAMBUCUS FLUCARE Syrup Sambucus 15803 FluCare Syrup 4 oz Sambucus 15803 FluCare Syrup_03.jpg
+indications_and_usage:
+  Indication and Usage : Temporarily relieves common flu symptoms: chills and fevers, congestion, cough, headache, hoarseness, runny nose, sore throat, stuffy nose, sneezing, minor aches and pains.
+set_id:
+  f81df55d-c13c-4bb5-973e-266dada946c2
+id:
+  c6232204-7cc2-4fe3-b476-bed853bb330f
+overdosage:
+  Overdose: In case of overdose, seek medical help or contact a Poison Control Center immediately.
+active_ingredient:
+  ACTIVE INGREDIENTS HPUS: Aconitum napellus 4X Bryonia alba 4X Eucalyptus globulus 2X Eupatorium perfoliatum 2X Gelsemium sempervirens 4X Ipecacuanha 3X Phosphorus 6X Sambucus nigra 3X

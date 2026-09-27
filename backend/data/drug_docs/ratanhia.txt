@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Ratanhia KRAMERIA LAPPACEA ROOT KRAMERIA LAPPACEA ROOT KRAMERIA LAPPACEA ROOT SUCROSE LACTOSE, UNSPECIFIED FORM ANHYDROUS LACTOSE
+active_ingredient:
+  Ratanhia 8X (**contains 0.443 mg of the active ingredient per pellet)
+purpose:
+  
+indications_and_usage:
+  Hemorrhoids following constipation*
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx 80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. *C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  1-800-BOIRON-1 (1-800-264-7661), BoironUSA.com Info@boiron.com Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label label label
+set_id:
+  6857e184-de06-597b-e053-2991aa0a87cd
+id:
+  0a21a3a5-2b05-d673-e063-6394a90ad91b
+effective_time:
+  20231114
+version:
+  3
+openfda:
+  brand_name:
+    Ratanhia
+  generic_name:
+    KRAMERIA LAPPACEA ROOT
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-4337
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    KRAMERIA LAPPACEA ROOT
+  spl_id:
+    0a21a3a5-2b05-d673-e063-6394a90ad91b
+  spl_set_id:
+    6857e184-de06-597b-e053-2991aa0a87cd
+  package_ndc:
+    0220-4337-41
+  is_original_packager:
+    True
+  unii:
+    P29ZH1A35Z

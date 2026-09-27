@@ -1,0 +1,34 @@
+effective_time:
+  20110506
+inactive_ingredient:
+  INGREDIENTS Aqua (Hungarian Thermal Water), Caprylic/Capric Triglyceride, Zinc Oxide, Glycerin, Squalane, Titanium Dioxide, Corundum (Pro Ruby Crystal), Cetearyl Ethylhexanoate, Cetearyl Olivate, Sorbitan Olivate, Stearyl Heptanoate, Cetearyl Alcohol, Saccharomyces Ferment Extract, Phenoxyethanol, Polyhydroxystearic Acid, Isostearic Acid, Mica, Parfum (Fragrance), Geraniol, Citronellol, Linalool, Prunus Armeniaca (Apricot) Kernel Oil, Chlorella Vulgaris/Lupinus Albus Protein Ferment, Malpighia Punicifolia (Acerola) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Pectin, Phospholipids, Tocopherol, Disodium EDTA, Xanthan Gum, Ethylhexylglycerin, Lactic Acid, Galactoarabinan, Isopropyl Titanium Triisostearate, CI 77492/ CI 77491/ CI 77499 (Iron Oxides).
+purpose:
+  ACTIVE INGREDIENTS PURPOSE Titanium Dioxide 1.35% Sunscreen Zinc Oxide 6% Sunscreen
+warnings:
+  WARNING For external use only; do not swallow. Stop use if rash or irritation occurs.
+spl_product_data_elements:
+  Sunkiss SPF15 titanium dioxide and zinc oxide titanium dioxide titanium dioxide zinc oxide zinc oxide CAPRYLIC/CAPRIC MONO/DIGLYCERIDES glycerin squalane aluminum oxide sorbitan olivate STEARYL ETHYLHEXANOATE cetostearyl alcohol PHENOXYETHANOL HYDROXYSTEARIC ACID isostearic acid mica geraniol .BETA.-CITRONELLOL, (R)- linalool, dl- APRICOT KERNEL OIL acerola apple pectin alpha-tocopherol Edetate Disodium xanthan gum ethylhexylglycerin lactic acid ferric oxide red ferric oxide yellow ferrosoferric oxide
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS Appy evenly to face and neck.
+spl_unclassified_section:
+  Drug Facts
+  Product of Hungary www.omorovicza.com Omorovicza Kft, 2 Andrassy Ut, 1061 Budapest
+stop_use:
+  Stop use if rash or irritation occurs.
+active_ingredient_table:
+  <table width="70%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold">ACTIVE INGREDIENTS</content> </td> <td> <content styleCode="bold">PURPOSE</content> </td> </tr> <tr> <td>Titanium Dioxide 1.35%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Zinc Oxide 6%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 50ml Bottle Carton SUNKISS SPF 15 NAPVARÁZS Omorovicza BUDAPEST e 1.7 fl oz 50ml Principal Display Panel - 50ml Bottle Carton
+indications_and_usage:
+  USES Protects from UVA/B sunrays.
+set_id:
+  5523eaee-0879-4932-85e3-bd878d1498f6
+id:
+  99c23df0-8293-412b-b9a6-3b72fadc024a
+purpose_table:
+  <table width="70%"> <col width="70%" align="left" valign="top"/> <col width="30%" align="left" valign="top"/> <tbody> <tr styleCode="Toprule"> <td> <content styleCode="bold">ACTIVE INGREDIENTS</content> </td> <td> <content styleCode="bold">PURPOSE</content> </td> </tr> <tr> <td>Titanium Dioxide 1.35%</td> <td>Sunscreen</td> </tr> <tr styleCode="Botrule"> <td>Zinc Oxide 6%</td> <td>Sunscreen</td> </tr> </tbody> </table>
+active_ingredient:
+  ACTIVE INGREDIENTS PURPOSE Titanium Dioxide 1.35% Sunscreen Zinc Oxide 6% Sunscreen

@@ -1,0 +1,46 @@
+effective_time:
+  20200103
+purpose:
+  Active ingredients Purpose Tetrahydrozoline HCl 0.05% Redness reliever Zinc sulfate 0.25% Astringent
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product pupils may become enlarged temporarily overuse may cause more eye redness remove contact lenses before using do not use if this solution changes color or becomes cloudy do not touch tip of container to any surface to avoid contamination replace cap after each use
+questions:
+  Questions? call toll-free 888-734-7648 or 215-273-8755 (collect)
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+storage_and_handling:
+  Other information some users may experience a brief tingling sensation store at 15° to 25°C (59° to 77°F)
+indications_and_usage:
+  Use for temporary relief of discomfort and redness of the eye due to minor eye irritations
+set_id:
+  159f0bae-7a3d-42d8-8572-aebcabae86ba
+id:
+  e9b15357-c2f5-422b-b517-d8ca6559ab1f
+active_ingredient:
+  Active ingredients Purpose Tetrahydrozoline HCl 0.05% Redness reliever Zinc sulfate 0.25% Astringent
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride, boric acid, edetate disodium, purified water, sodium chloride, sodium citrate
+warnings:
+  Warnings For external use only Ask a doctor before use if you have narrow angle glaucoma. When using this product pupils may become enlarged temporarily overuse may cause more eye redness remove contact lenses before using do not use if this solution changes color or becomes cloudy do not touch tip of container to any surface to avoid contamination replace cap after each use Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+spl_product_data_elements:
+  Visine A.C. Tetrahydrozoline Hydrochloride and Zinc Sulfate Tetrahydrozoline Hydrochloride Tetrahydrozoline Zinc Sulfate, Unspecified Form Zinc Cation Benzalkonium Chloride Boric Acid Edetate Disodium Water Sodium Chloride Sodium Citrate, Unspecified Form
+ask_doctor:
+  Ask a doctor before use if you have narrow angle glaucoma.
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions put 1 to 2 drops in the affected eye(s) up to 4 times daily children under 6 years of age: ask a doctor
+spl_unclassified_section:
+  Drug Facts
+  Dist: Johnson & Johnson Healthcare Products Division of McNEIL-PPC, Inc., Skillman, NJ 08558 USA
+stop_use:
+  Stop use and ask a doctor if you feel eye pain changes in vision occur redness or irritation of the eye lasts condition worsens or lasts more than 72 hours
+active_ingredient_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Tetrahydrozoline HCl 0.05%</td> <td>Redness reliever</td> </tr> <tr styleCode="Botrule"> <td>Zinc sulfate 0.25%</td> <td>Astringent</td> </tr> </tbody> </table>
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton Sterile Visine ® A.C. ® ASTRINGENT / REDNESS RELIEVER EYE DROPS Ultra Itchy Eye Relief Relieves itching eyes due to pollen, dust and ragweed 1/2 FL OZ (15mL) PRINCIPAL DISPLAY PANEL - 15 mL Bottle Carton
+purpose_table:
+  <table width="60%"> <col width="60%" align="left" valign="top"/> <col width="40%" align="right" valign="top"/> <thead> <tr styleCode="Toprule"> <th> <content styleCode="italics">Active ingredients</content> </th> <th> <content styleCode="italics">Purpose</content> </th> </tr> </thead> <tbody> <tr styleCode="Toprule"> <td>Tetrahydrozoline HCl 0.05%</td> <td>Redness reliever</td> </tr> <tr styleCode="Botrule"> <td>Zinc sulfate 0.25%</td> <td>Astringent</td> </tr> </tbody> </table>

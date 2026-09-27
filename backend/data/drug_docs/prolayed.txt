@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  Prolayed LIDOCAINE ACETIC ACID ASCORBIC ACID CHLORHEXIDINE GLUCONATE CHOLECALCIFEROL DIMETHYL SULFOXIDE DIPROPYLENE GLYCOL GLUCONOLACTONE GLYCERIN HISTIDINE MAGNESIUM STEARATE METHYLPARABEN SODIUM HYDROXIDE SORBIC ACID STEARIC ACID WATER LIDOCAINE LIDOCAINE
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active ingredient (in each spray) Lidocaine 10 mg Purpose Male genital desensitizer
+purpose:
+  Purpose Male genital desensitizer
+indications_and_usage:
+  Use Helps in temporarily slowing the onset of ejaculation.
+warnings:
+  Warnings For external use only When using this product avoid contact with the eyes. Stop use and ask a doctor if this product, used as directed, does not provide relief. Premature ejaculation may be due to a condition requiring medical supervision you or your partner develop a rash or irritation, such as burning or itching. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+when_using:
+  When using this product avoid contact with the eyes.
+stop_use:
+  Stop use and ask a doctor if this product, used as directed, does not provide relief. Premature ejaculation may be due to a condition requiring medical supervision you or your partner develop a rash or irritation, such as burning or itching.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Apply 3 or more sprays, not to exceed 10, to head and shaft of penis before intercourse, or use as directed by a doctor. Wash product off after intercourse.
+inactive_ingredient:
+  Inactive ingredients acetic acid, ascorbic acid, chlorhexidine gluconate, cholecalciferol, dimethyl sulfoxide, dipropylene glycol, glucono delta lactone, glycerin, histidine, hydroxyethylcellulose, magnesium stearate, methylparaben, sodium hydroxide, sorbic acid, stearic acid, water
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  8f04d65e-f681-4e3b-9b86-622debb9cfd0
+id:
+  2c50aefd-a419-9ae5-e063-6294a90a7b6a
+effective_time:
+  20250122
+version:
+  6
+openfda:

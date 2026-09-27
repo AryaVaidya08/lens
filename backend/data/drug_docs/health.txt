@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  HEALTH SENSE SENNO Sennosides CELLULOSE, MICROCRYSTALLINE CROSCARMELLOSE SODIUM CALCIUM PHOSPHATE, DIBASIC, ANHYDROUS MAGNESIUM SILICATE MAGNESIUM STEARATE MINERAL OIL POLYETHYLENE GLYCOL, UNSPECIFIED HYPROMELLOSES SENNOSIDES SENNOSIDES 1122 light brown
+active_ingredient:
+  Active ingredient (in each tablet) Sennosides 8.6 mg
+purpose:
+  Purpose Laxative
+indications_and_usage:
+  Uses relieves occasional constipation (irregularity) this product generally produces a bowel movement in 6 to 12 hours
+warnings:
+  Warnings Do not use for more than one week unless directed by a doctor. Ask a doctor before use if you have abdominal pain, nausea or vomiting have noticed a sudden change in bowel habits that lasts over two weeks Stop use and ask a doctor if you have no bowel movement within 12 hours you have rectal bleeding These could be signs of a serious condition. If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions do not exceed 8 tablets in 24 hours Age Starting Dose Maximum Dose adults and children 12 years of age and older 2 tablets once a day preferably at bedtime; increase as needed, or as directed by a doctor 4 tablets in the morning and 4 tablets at bedtime children under 12 years ask a doctor
+dosage_and_administration_table:
+  <table border="2" width="100%" ID="i37a44b32-ebba-445f-88fc-46090b3986b6"><thead><tr><th>Age</th><th>Starting Dose</th><th>Maximum Dose</th></tr></thead><tbody><tr><td>adults and children 12 years of age and older</td><td>2 tablets once a day preferably at bedtime; increase as needed, or as directed by a doctor</td><td>4 tablets in the morning and 4 tablets at bedtime</td></tr><tr><td>children under 12 years</td><td>ask a doctor</td></tr></tbody></table>
+storage_and_handling:
+  Other information each tablet contains: calcium 20 mg store at room temperature
+inactive_ingredient:
+  Inactive ingredients cellulose, croscarmellose sodium, dicalcium phosphate, hypromellose, magnesium silicate, magnesium stearate, mineral oil, PEG.
+package_label_principal_display_panel:
+  Package Label NDC 62107-031-01 Health Sense Senno tablets Natural Vegetable Laxative Compare to the Active Ingredient in Senokot* 100 Tablets 8.6 mg Each hs451
+set_id:
+  0a6f69bf-744d-5e18-e054-00144ff8d46c
+id:
+  ed9a1181-77e8-52f4-e053-2a95a90ad5a8
+effective_time:
+  20221116
+version:
+  2
+openfda:

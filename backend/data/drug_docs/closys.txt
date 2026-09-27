@@ -1,0 +1,61 @@
+spl_product_data_elements:
+  CloSYS Sodium fluoride SODIUM FLUORIDE FLUORIDE ION WATER HYDRATED SILICA CHLORINE DIOXIDE CARBOXYMETHYLCELLULOSE SODIUM PHOSPHATE, DIBASIC, ANHYDROUS TITANIUM DIOXIDE PEPPERMINT OIL SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS SODIUM MYRISTOYL SARCOSINATE SUCRALOSE MENTHOL, UNSPECIFIED FORM Carton Label Tube Label
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  ACTIVE INGREDIENT: Sodium fluoride 0.21% (0.11% w/v fluoride ion)
+purpose:
+  PURPOSE: Anticavity
+indications_and_usage:
+  USES: aids in the prevention of dental decay
+warnings:
+  WARNINGS: Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age. If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  DIRECTIONS: Adults and children 2 years of age and older: brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Children under 6 years of age: · instruct in good brushing and rinsing habits (to minimize swallowing). · supervise children as necessary until capable of using without supervision. · do not swallow Children under 2 years of age: Consult a dentist or doctor
+inactive_ingredient:
+  INACTIVE INGREDIENTS: water, hydrated silica, stabilized chlorine dioxide, cellulose gum, disodium hydrogen phosphate, titanium dioxide, peppermint oil, sodium dihydrogen phosphate, sodium myristoyl sarcosinate (coconut derived), sucralose, menthol crystals
+questions:
+  Questions or comments? Call 1-800-643-3337
+package_label_principal_display_panel:
+  Packaging GENTLE MINT A CLEANER MOUTH A HEALTHIER YOU ® CLōSYS ® SILVER ® Gentlest. Oral Care. Ever ® for ADULTS 55+ MULTI-BENEFIT TOOTHPASTE Anticavity Protection Remineralizes Enamel Freshens Breath Gentle / Non-irritating ADA Accepted American Dental Association 3.4 oz (96g) ADA Accepted American Dental Association Helps prevent cavities pH balanced Naturally activated for faster results Strengthens Enamel SULFATE-FREE Dist by: Rowpar Pharmaceutical, Inc. Scottsdale, AZ 85260 CloSYS.com 55034-37 MADE IN THE USA GENTLE MINT A CLEANER MOUT A HEALTHIER YOU ® CLōSYS ® SILVER ® Gentlest. Oral Care. Ever ® for ADULTS 55+ MULTI-BENEFIT TOOTHPASTE Anticavity Protection Remineralizes Enamel Freshens Breath Gentle / Non-irritating 3.4 oz (96g) Use of standardized chlorine dioxide is protected under U.S. & foreign patents-see CloSYS.com/patents ADA Accepted American Dental Association Helps prevent cavities Dist by: Rowpar Pharmaceutical, Inc. Scottsdale, AZ 85260 CloSYS.com MADE IN THE USA 54534-56
+set_id:
+  ed617c7a-805c-4788-9bce-9b7fead4312d
+id:
+  ea159a8d-4d2b-49ec-b6e6-f088312c0117
+effective_time:
+  20260331
+version:
+  7
+openfda:
+  application_number:
+    M021
+  brand_name:
+    CloSYS
+  generic_name:
+    SODIUM FLUORIDE
+  manufacturer_name:
+    Rowpar Pharmaceuticals, Inc.
+  product_ndc:
+    58578-0759
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    SODIUM FLUORIDE
+  rxcui:
+    1099038
+  spl_id:
+    ea159a8d-4d2b-49ec-b6e6-f088312c0117
+  spl_set_id:
+    ed617c7a-805c-4788-9bce-9b7fead4312d
+  package_ndc:
+    58578-0759-1
+    58578-0759-2
+    58578-0759-3
+  is_original_packager:
+    True
+  unii:
+    8ZYQ1474W7

@@ -1,0 +1,32 @@
+effective_time:
+  20120620
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Citric Acid, Purified Water, Sodium Hydroxide, Nonoxynol-10, Glycerin
+purpose:
+  PURPOSE Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF CHILDREN. In swallowed get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS: For External Use Only Do not use on the eyes use on individuals who are allergic or sensitive to iodine apply over large area of the body use as a first aid antiseptic longer than 1 week unless directed by a doctor. Discontinue use if irritation and redness develop Consult a doctor in case of deep or puncture wounds animal bites serious burns
+spl_product_data_elements:
+  JIANZE POVIDONE IODINE SCRUB POVIDONE-IODINE POVIDONE-IODINE POVIDONE-IODINE CITRIC ACID MONOHYDRATE WATER SODIUM HYDROXIDE NONOXYNOL-10 GLYCERIN
+openfda:
+version:
+  2
+dosage_and_administration:
+  DIRECTIONS For preparation of the skin prior to surgery Clean the affected area Remove swab by stick Apply to the operative site prior to surgery. For use as a first aid antiseptic Clean the affected area Apply a small amount of this product on the area 1-3 times daily May be covered with a sterile bandage If bandaged, let dry first.
+spl_unclassified_section:
+  JIANZE POVIDONE IODINE SCRUB SWABSTICK
+  OTHER INFORMATION Store at room temperature 15 degrees - 30 degrees C (59 degrees - 86 degrees F)
+stop_use:
+  STOP USE AND CONSULT A DOCTOR it the condition persists or gets worse.
+package_label_principal_display_panel:
+  JIANZE POVIDONE IODINE SCRUB SWABSTICK 25 COUNT of 3 swabsticks (50666-006-01) PovidoneIodineScrubSwabstick3 PovidoneIodineScrubSwabstick3Outer
+indications_and_usage:
+  USE: Health-care antiseptic for preparation of the skin prior to surgery First aid antiseptic to help prevent the risk of skin infection in minor cuts, scrapes, and burns.
+set_id:
+  4f669107-3869-454f-a82a-61a384422fcb
+id:
+  c6df728b-a711-4e1f-acc8-6e188c1368de
+active_ingredient:
+  ACTIVE INGREDIENT Povidone Iodine USP, 10% W/V (equivalent to 1% tiratable iodine)

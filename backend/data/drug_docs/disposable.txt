@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  DISPOSABLE HAND SANITIZER Alcohol GLYCERIN WATER CARBOMER 934 TROLAMINE AMINOMETHYL PROPANEDIOL ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient(s) Ethyl Alcohol 75%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Use To decrease bacteria on the skin that could cause disease Recommended for repeated use Use anywhere without water
+warnings:
+  Warnings For external use only -hands Flammable. Keep away from heat and flame
+when_using:
+  When using this product keep out of eyes. In case of contact with eyes, flush thoroughly with water. Avoid contact with broken skin Do not inhale or ingest
+stop_use:
+  Discontinue if skin becomes irritated and ask a doctor
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of accidental ingest, seek professional assistance or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Wet hands thoroughly with product and rub until dry without wiping For children under 6, use only under adult supervision Not recommended for infants
+storage_and_handling:
+  Other information Do not store above 105F May discolor some fabrics Harmful to wood finishes and plastics
+inactive_ingredient:
+  Inactive ingredients Water, glycerin, carbomer, aminomethyl propanol, triethanolamine, fragrance
+package_label_principal_display_panel:
+  image description
+set_id:
+  ed090dda-eb82-44e7-8438-7d124fcbd212
+id:
+  a6bc5d5c-da6a-abdf-e053-2995a90a6c80
+effective_time:
+  20200528
+version:
+  1
+openfda:

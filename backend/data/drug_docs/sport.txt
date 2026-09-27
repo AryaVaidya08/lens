@@ -1,0 +1,37 @@
+spl_product_data_elements:
+  SPORT NATURAL MINERAL TINTED SUNSCREEN Zinc Oxide Zinc Oxide ZINC OXIDE SUNFLOWER OIL MEDIUM-CHAIN TRIGLYCERIDES WHITE WAX OLIVE OIL CASTOR OIL JOJOBA OIL SHEA BUTTER TOCOPHEROL MICA FERRIC OXIDE RED FERRIC OXIDE YELLOW
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredient Zinc Oxide 20%
+purpose:
+  Purpose Sunscreen
+indications_and_usage:
+  Uses helps Prevent Sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+warnings:
+  Warnings For External use only Do not use on damaged or broken skin Stop use and ask a doctor if rash occurs When using this product keep out of eyes. Rinse with water to remove. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+do_not_use:
+  Do not use on damaged or broken skin
+stop_use:
+  Stop use and ask a doctor if rash occurs
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure Reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures : Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a Broad Spectrum SPF value of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10am to 2pm wear long-sleeved shirts, pants, hats, and sunglasses children under 6 months of age; Ask a doctor
+inactive_ingredient:
+  Inactive Ingredients helianthus annus (sunflower) seed oil certified organic ingredient , caprylic/capric triglyceride , cera alba (beeswax) , olea europaea (olive) fruit oil , ricinus communis (castor) seed oil , simmondsia chinensis (jojoba) oil , butyrospermum parkii (shea) butter , tocopherol, mica (ci 77019), iron oxides (ci 77491, ci 77492)
+storage_and_handling:
+  Other Information protect the product in this container from excessive heat and direct sun
+package_label_principal_display_panel:
+  PRINCIPAL DISPLAY PANEL - 85 g Tube Label sun tegrity ® NATURAL MINERAL TINTED SUNSCREEN SPORT Water Resistant (80 Minutes) SPF 30 BROAD SPECTRUM SPF 30 UVA/UVB | Non-Nano Zinc Oxide NATURAL TINT NSF contains organic ingredients CM Unscented Reef Friendly | Cruelty Free NET WT 3 OZ (85g) PRINCIPAL DISPLAY PANEL - 85 g Tube Label
+set_id:
+  efe628ad-115e-49b8-91f6-92e9c19ccb5a
+id:
+  1d226cb5-e8d4-42fc-b356-e061c7aced33
+effective_time:
+  20230725
+version:
+  2
+openfda:

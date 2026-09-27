@@ -1,0 +1,31 @@
+effective_time:
+  20181205
+inactive_ingredient:
+  Inactive ingredients Water (Aqua), Isopropyl Alcohol, PEG-10 Dimethicone, Glycerin, Isopropyl Myristate, PEG-8 Dimethicone, PEG-8 Ricinoleate, Propylene Glycol, Tocopheryl Acetate
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+purpose:
+  Purpose Antimicrobial
+warnings:
+  Warnings Flammable. Keep away from fire or flame. For external use only When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation or rash appears and lasts Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away
+when_using:
+  When using this product do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water.
+spl_product_data_elements:
+  ETHYL ALCOHOL ALCOHOL ALCOHOL ALCOHOL WATER ISOPROPYL ALCOHOL PEG-10 DIMETHICONE (600 CST) GLYCERIN ISOPROPYL MYRISTATE PROPYLENE GLYCOL .ALPHA.-TOCOPHEROL ACETATE
+openfda:
+version:
+  4
+dosage_and_administration:
+  Directions Place enough product in your palm to thoroughly cover your hands Rub hands together briskly until dry No rinsing required No towels needed
+stop_use:
+  Stop use and ask a doctor if irritation or rash appears and lasts
+package_label_principal_display_panel:
+  Product Label
+indications_and_usage:
+  Use Hand sanitizer to help reduce bacteria on the skin that could cause disease reommended fo repeated use
+set_id:
+  bf63ab62-241f-412f-94cc-765fe1f9b464
+id:
+  df5518a9-6391-4b4d-8eb5-10429621a0d6
+active_ingredient:
+  Active ingredient Ethyl alcohol 62%

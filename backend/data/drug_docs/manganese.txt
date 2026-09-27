@@ -1,0 +1,85 @@
+spl_product_data_elements:
+  Manganese Manganese Manganese Chloride MANGANESE CATION (2+) SODIUM CHLORIDE HYDROCHLORIC ACID SODIUM HYDROXIDE WATER
+spl_unclassified_section:
+  FOR I.V. USE ONLY AFTER DILUTION Single-Dose Plastic Vial Rx only
+description:
+  DESCRIPTION Manganese chloride injection, USP is a sterile, nonpyrogenic solution intended for use as an additive to intravenous solutions for total parenteral nutrition (TPN). Each mL of solution contains 0.36 mg manganese chloride, tetrahydrate and 9 mg sodium chloride. The solution contains no bacteriostat, antimicrobial agent or added buffer. The pH is 2.0 (1.5 to 2.5); product may contain hydrochloric acid and sodium hydroxide for pH adjustment. The osmolarity is 0.313 mOsmol/mL (calc.). Manganese chloride, USP is chemically designated manganese chloride, tetrahydrate (MnCl 2 • 4H 2 O), a deliquescent, light pink to pink solid soluble in water. Sodium chloride, USP is chemically designated NaCl, a colorless, cubic crystals, or white crystalline powder freely soluble in water. The semi-rigid vial is fabricated from a specially formulated polyolefin. It is a copolymer of ethylene and propylene. The safety of the plastic has been confirmed by tests in animals according to USP biological standards for plastic containers. The small amount of water vapor that can pass through the plastic container wall will not significantly alter the drug concentration.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY Manganese is an essential nutrient which serves as an activator for enzymes such as polysaccharide polymerase, liver arginase, cholinesterase and pyruvate carboxylase. Providing manganese during TPN helps prevent development of deficiency symptoms such as nausea and vomiting, weight loss, dermatitis and changes in growth and color of hair. Under conditions of minimal intake, 20 mcg manganese/day is retained. Manganese is bound to a specific transport protein, transmanganin, a beta-l-globulin. Manganese is widely distributed but concentrates in the mitochondria rich tissues such as brain, kidney, pancreas, and liver. Assays for manganese in whole blood result in concentrations ranging from 6 to 12 mcg/manganese/liter. Excretion of manganese occurs mainly through the bile, but in the event of obstruction, ancillary excretion routes include pancreatic juice, or return into the lumen of the duodenum, jejunum, or ileum. Urinary excretion of manganese is negligible.
+indications_and_usage:
+  INDICATIONS AND USAGE Manganese chloride injection, USP is indicated for use in adult patients as a supplement to intravenous solutions given for TPN. Administration helps to maintain manganese serum levels and to prevent depletion of endogenous stores and subsequent deficiency symptoms.
+contraindications:
+  CONTRAINDICATIONS None known.
+warnings:
+  WARNINGS Direct intramuscular or intravenous injection of manganese chloride injection, USP is contraindicated as the acidic pH of the solution (pH 2.0) may cause considerable tissue irritation. Neurologic Toxicity with Manganese Manganese accumulation in the basal ganglia has been reported in adult and pediatric patients on long-term parenteral nutrition receiving manganese at higher than recommended dosages and in association with cholestatic liver disease. Brain MRI findings and clinical symptoms have also been observed in patients who received manganese at or below the recommended dosage and with normal blood manganese concentrations. Some adult patients with brain MRI findings reportedly experienced neuropsychiatric symptoms, including changes in mood or memory, seizures and/or parkinsonian-like tremors, dysarthria, mask-face, and halting gait. Some pediatric patients experienced dystonic movements or seizures. Regression of symptoms and MRI findings have occurred over weeks to months following discontinuation of manganese in most patients but have not always completely resolved. Monitor patients receiving parenteral nutrition solutions containing manganese for neurologic signs and symptoms and routinely measure whole blood manganese concentrations and liver tests. In case of suspected manganese toxicity or new neuropsychiatric manifestations, temporarily discontinue manganese, check manganese whole blood concentrations, and consider brain MRI evaluation. Hepatic Accumulation of Manganese Manganese is primarily eliminated in the bile, and excretion is decreased in patients with cholestasis and/or cirrhosis. Hepatic accumulation of manganese has been reported in autopsies of patients receiving long-term parenteral nutrition containing manganese at dosages higher than recommended. Patients with cholestasis and/or cirrhosis receiving parenteral nutrition are at increased risk of manganese brain deposition and neurotoxicity. If a patient develops signs or symptoms of hepatobiliary disease during the use of this drug product, obtain manganese whole blood concentrations; consider discontinuing manganese supplementation in these patients until a full clinical evaluation is completed. Aluminum Toxicity This product contains aluminum that may be toxic. Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired. Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum. Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity. Tissue loading may occur at even lower rates of administration.
+precautions:
+  PRECAUTIONS General Do not use unless solution is clear and seal is intact. Manganese chloride injection, USP should only be used in conjunction with a pharmacy directed admixture program using aseptic technique in a laminar flow environment; it should be used promptly and in a single operation without any repeated penetrations. Solution contains no preservatives; discard unused portion immediately after admixture procedure is completed. Laboratory Tests Serum manganese levels can be measured periodically at the discretion of the healthcare provider. Because of the low serum concentration normally present, samples will usually be analyzed by a reference laboratory. Carcinogenesis, Mutagenesis, and Impairment of Fertility Long-term animal studies to evaluate the carcinogenic potential of manganese chloride injection, USP have not been performed, nor have studies been done to assess mutagenesis or impairment of fertility. Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when manganese chloride injection, USP additive is administered to a nursing woman. Pediatric Use (See DOSAGE AND ADMINISTRATION section.) Safety and effectiveness in pediatric patients have not been established. Pregnancy Animal reproduction studies have not been conducted with manganese chloride. It is also not known whether manganese chloride can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Manganese chloride should be given to a pregnant woman only if clearly indicated. Geriatric Use An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+general_precautions:
+  General Do not use unless solution is clear and seal is intact. Manganese chloride injection, USP should only be used in conjunction with a pharmacy directed admixture program using aseptic technique in a laminar flow environment; it should be used promptly and in a single operation without any repeated penetrations. Solution contains no preservatives; discard unused portion immediately after admixture procedure is completed.
+laboratory_tests:
+  Laboratory Tests Serum manganese levels can be measured periodically at the discretion of the healthcare provider. Because of the low serum concentration normally present, samples will usually be analyzed by a reference laboratory.
+carcinogenesis_and_mutagenesis_and_impairment_of_fertility:
+  Carcinogenesis, Mutagenesis, and Impairment of Fertility Long-term animal studies to evaluate the carcinogenic potential of manganese chloride injection, USP have not been performed, nor have studies been done to assess mutagenesis or impairment of fertility.
+nursing_mothers:
+  Nursing Mothers It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when manganese chloride injection, USP additive is administered to a nursing woman.
+pediatric_use:
+  Pediatric Use (See DOSAGE AND ADMINISTRATION section.) Safety and effectiveness in pediatric patients have not been established.
+pregnancy:
+  Pregnancy Animal reproduction studies have not been conducted with manganese chloride. It is also not known whether manganese chloride can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity. Manganese chloride should be given to a pregnant woman only if clearly indicated.
+geriatric_use:
+  Geriatric Use An evaluation of current literature revealed no clinical experience identifying differences in response between elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+adverse_reactions:
+  ADVERSE REACTIONS None known. To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+drug_abuse_and_dependence:
+  DRUG ABUSE AND DEPENDENCE None known.
+overdosage:
+  OVERDOSAGE Acute manganese toxicity was reported in adult patients following infusion of manganese more than 10,000-fold the recommended dosage and after use of dialysis fluid contaminated with manganese. Signs and symptoms included skin flushing, acute pancreatitis, elevated whole blood manganese concentrations, and MRI evidence of brain accumulation of manganese. Chronic infusion and oral intake of manganese above recommended dosage have resulted in neuropsychiatric symptoms and MRI evidence of brain accumulation of manganese (see WARNINGS . )
+dosage_and_administration:
+  DOSAGE AND ADMINISTRATION Manganese chloride injection, USP contains 0.1 mg manganese per mL and is administered intravenously only after dilution. The additive should be administered in a volume of fluid at least 100 mL. For the adult receiving TPN, the suggested additive dosage for manganese is 55 mcg/day (0.55 mL/day). Periodic monitoring of manganese plasma levels is suggested as a guideline for subsequent administration. (see WARNINGS . ) Parenteral products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. (see PRECAUTIONS .)
+how_supplied:
+  HOW SUPPLIED Manganese chloride injection, USP is supplied in 10 mL single-dose plastic vials. Product Code Unit of Sale Strength (Concentration) Each 530110 NDC 65219-530-10 Unit of 25 1 mg per 10 mL (0.1 mg per mL) NDC 65219-530-02 10 mL Single-Dose Plastic Vial Store at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature.] The container closure is not made with natural rubber latex. Lake Zurich, IL 60047 www.fresenius-kabi.com/us 451863 /Issued: August 2025 logo black-FK
+how_supplied_table:
+  <table width="467.8pt"><col width="19%"/><col width="24%"/><col width="24%"/><col width="31%"/><tbody><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph><content styleCode="bold">Product Code</content></paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph><content styleCode="bold">Unit of Sale </content></paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph><content styleCode="bold">Strength (Concentration) </content></paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph><content styleCode="bold">Each</content></paragraph></td></tr><tr><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>530110</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>NDC 65219-530-10 Unit of 25</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><paragraph>1 mg per 10 mL</paragraph><paragraph>(0.1 mg per mL)</paragraph></td><td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="middle"><list listType="ordered"><item><caption> </caption>NDC 65219-530-02</item></list><paragraph>10 mL Single-Dose Plastic Vial</paragraph></td></tr></tbody></table>
+package_label_principal_display_panel:
+  PACKAGE LABEL - PRINCIPAL DISPLAY - Manganese Chloride Injection, USP 10 mL Vial Label NDC 65219-530-02 530110 Manganese Chloride Injection, USP 1 mg per 10 mL (0.1 mg per mL) FOR INTRAVENOUS USE ONLY AFTER DILUTION 10 mL Single-Dose Vial Rx only container-label
+  PACKAGE LABEL - PRINCIPAL DISPLAY - Manganese Chloride Injection, USP 10 mL Tray Label NDC 65219-530-10 530110 Manganese Chloride Injection, USP 1 mg per 10 mL (0.1 mg per mL) CAUTION: FOR INTRAVENOUS USE ONLY AFTER DILUTION. 25 x 10 mL Single-Dose Vials Rx only carton-label
+set_id:
+  6feb30f0-8b6e-4729-8618-907baf29a2c7
+id:
+  456e609b-571c-4266-949c-5abbb71049e3
+effective_time:
+  20251118
+version:
+  1
+openfda:
+  application_number:
+    ANDA217583
+  brand_name:
+    Manganese
+  generic_name:
+    MANGANESE
+  manufacturer_name:
+    Fresenius Kabi USA, LLC
+  product_ndc:
+    65219-530
+  product_type:
+    HUMAN PRESCRIPTION DRUG
+  route:
+    INTRAVENOUS
+  substance_name:
+    MANGANESE CHLORIDE
+  rxcui:
+    237521
+  spl_id:
+    456e609b-571c-4266-949c-5abbb71049e3
+  spl_set_id:
+    6feb30f0-8b6e-4729-8618-907baf29a2c7
+  package_ndc:
+    65219-530-02
+    65219-530-10
+  is_original_packager:
+    True
+  upc:
+    0365219530022
+  unii:
+    QQE170PANO

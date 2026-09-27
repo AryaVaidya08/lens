@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  COOLA BARE HANDS BY BARE REPUBLIC HAND SANITIZER ALCOHOL GLYCERIN ALOE VERA LEAF WATER .ALPHA.-TOCOPHEROL ACETATE ALCOHOL ALCOHOL
+active_ingredient:
+  Active Ingredient Ethyl Alcohol 70%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand sanitizer to help reduce bacteria on the skin that could cause disease
+warnings:
+  Warnings For external use only. FLAMMABLE. Keep away from heat/flame. Do not use while smoking.
+do_not_use:
+  Do not use on children less than 2 months of age on open skin wounds
+when_using:
+  When using this product keep out of eyes, ears, and mouth. In case of contact with eyes, rinse eyes thoroughly with water to remove do not puncture or incinerate. Contents under pressure. Do not store at temperatufes above 120ºF.
+stop_use:
+  Stop use and ask a doctor rash occurs. These may be signs of a serious condition.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions Spray enough product in palm to thoroughly cover your hands rub hands together briskly until dry children under 6 years of age should be supervised when using this product.
+storage_and_handling:
+  Other information May discolor or damage some fabrics/materials or surfaces. avoid freezing and excessive heat above 40ºC (104ºF).
+inactive_ingredient:
+  Inactive ingredients Aloe Barbadensis Leaf Juice, Glycerin, Tocopheryl Acetate, Water.
+package_label_principal_display_panel:
+  Label COOLA BARE HANDS BY BARE REPUBLIC HAND SANITIZER CONTINUOUS SPRAY 5.5 FL OZ. (153mL) NDC 79753-030-01 CA61416
+set_id:
+  ba9df08b-08e9-f8c6-e053-2a95a90a9233
+id:
+  2528712c-1fc7-5ca7-e063-6394a90a9664
+effective_time:
+  20241023
+version:
+  2
+openfda:

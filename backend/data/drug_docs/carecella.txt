@@ -1,0 +1,27 @@
+effective_time:
+  20191030
+inactive_ingredient:
+  water, sorbitol, alcohol, ginsenosides, lichen ext.
+purpose:
+  skin protectant
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+warnings:
+  ・Stop using the product when you have skin problems or the product disagrees with your skin ・Stop using the product immediately and consult a dermatologist if you have redness, swelling, itching or irritation on the skin while or after using the product. ・If the product gets into the eyes, don't rub but rinse with water. ・Don't place the product in any place where it will be subjected to extremely high or low temperatures or direct sunlight.
+spl_product_data_elements:
+  CareCella VFB Bio Peel Serum GLYCERIN WATER SORBITOL GINSENOSIDES GLYCERIN GLYCERIN
+openfda:
+version:
+  3
+dosage_and_administration:
+  for external use only
+package_label_principal_display_panel:
+  package label
+indications_and_usage:
+  apply proper amount to the skin
+set_id:
+  2839f682-66d2-45f2-86b1-ff9f4f1195fc
+id:
+  962621d1-da38-3160-e053-2995a90ad0fa
+active_ingredient:
+  glycerin

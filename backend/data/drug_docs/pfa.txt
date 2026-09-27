@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  PFA FOR HAND SANITIZER Ethyl Alcohol CARBOMER COPOLYMER TYPE A (ALLYL PENTAERYTHRITOL CROSSLINKED) GLYCERIN TROLAMINE ALCOHOL ALCOHOL WATER GREEN TEA LEAF GLYCYRRHIZA GLABRA MORUS ALBA BARK CITRUS PARADISI SEED
+active_ingredient:
+  Active ingredient Ethyl Alcohol 70%
+purpose:
+  Purpose Antimicrobial
+dosage_and_administration:
+  Use Hand sanitizing to help reduce bacteria on the skin.
+warnings:
+  Warnings For external use only. Flammable. Keep away from fire or flame.
+when_using:
+  When using this product avoid contact with the eyes. In case of contact, flush eyes thoroughly with water.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops and persists.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center immediately.
+indications_and_usage:
+  Directions Put enough product in the palm to cover hands & rub together briskly the liquid is dry Children under 6 should be supervised when using Sanitizers.
+storage_and_handling:
+  Other information Store below 110°F (43°C) May discolor certain fabrics or surfaces.
+inactive_ingredient:
+  Inactive ingredients Carbomer, Glycerin, Grapefruit seed extract, Mentha Oil, Propylene glycol, Purified water, Sophora extract, Triethanolamine
+package_label_principal_display_panel:
+  Package Label 80969-020-03 80969-020-04
+set_id:
+  d11cac12-91cc-459e-e053-2995a90a7d96
+id:
+  0d64bcbe-af9c-2662-e063-6294a90ac149
+effective_time:
+  20231226
+version:
+  5
+openfda:

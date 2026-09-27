@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  Biofreeze MENTHOL ALOE VERA LEAF ARNICA MONTANA FLOWER GREEN TEA LEAF DIAZOLIDINYL UREA DIHYDROXYALUMINUM AMINOACETATE GLYCERIN IODOPROPYNYL BUTYLCARBAMATE KAOLIN POLYSORBATE 80 PROPYLENE GLYCOL POVIDONE, UNSPECIFIED TARTARIC ACID TITANIUM DIOXIDE WATER MENTHOL, UNSPECIFIED FORM MENTHOL, UNSPECIFIED FORM
+spl_unclassified_section:
+  Drug Facts
+active_ingredient:
+  Active Ingredients Menthol 5% Purpose Cooling Pain Relief
+purpose:
+  Purpose Cooling Pain Relief
+indications_and_usage:
+  Uses: Temporary relief from minor aches and pains of sore muscles and joints associated with: • arthritis • backache • strains • sprains
+warnings:
+  Warnings For external use only Ask a doctor before use if you have: Sensitive skin When using this product: • Use only as directed • Do not bandage tightly or use with heating pad or device • Avoid contact with eyes or mucous membranes • Do not apply to wounds or damaged skin • Do not use with other ointments, creams, sprays, or liniments • Do not apply to irritated skin • Store in a cool dry place away from direct sunlight Stop use and ask a doctor if: burning discomfort or excessive skin irritation develops, condition worsens, or if symptoms persist for more than 7 days, or clear up and occur within a few days If pregnant or breast-feeding: Ask a health professional before use Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately
+ask_doctor:
+  Ask a doctor before use if you have: Sensitive skin
+when_using:
+  When using this product: • Use only as directed • Do not bandage tightly or use with heating pad or device • Avoid contact with eyes or mucous membranes • Do not apply to wounds or damaged skin • Do not use with other ointments, creams, sprays, or liniments • Do not apply to irritated skin • Store in a cool dry place away from direct sunlight
+stop_use:
+  Stop use and ask a doctor if: burning discomfort or excessive skin irritation develops, condition worsens, or if symptoms persist for more than 7 days, or clear up and occur within a few days
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding: Ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children: If accidentally ingested, get medical help or contact a Poison Control Center immediately
+dosage_and_administration:
+  Directions • Adults and children 12 years of age and older: clean and dry affected area, partially peel back protective film and apply exposed patch to site of pain. Carefully remove remaining film while pressing patch to skin and leave in place for up to 8 hours. Use on affected areas not more than 4 times daily. Wash hands with cool water after use. • Children under 12 years of age: Consult physician
+inactive_ingredient:
+  Inactive Ingredients Aloe Barbadensis Leaf Extract, Arnica Montana Flower Extract, Boswellia Carterii Resin Extract, Camellia Sinensis Leaf Extract, Diazolidinyl Urea, Dihydroxyaluminum Aminoacetate, Glycerin, Iodopropynyl Butylcarbamate, Kaolin, Polyacrylic Acid, Polysorbate 80, Propylene Glycol, PVP, Sodium Polyacrylate, Tartaric Acid, Titanium Dioxide, Water
+questions:
+  Questions or Comments: 1-800-246-3733
+package_label_principal_display_panel:
+  Package Labeling: 59316-993-07 Label5
+  Package Labeling: 59316-993-09 Label6
+  Package Labeling: 59316-993-08 Package Package2
+set_id:
+  b523fe83-23f8-4aa2-9796-05fc52c1cc54
+id:
+  21bb2f06-3d7b-43e3-865f-d9e50ac82e51
+effective_time:
+  20211220
+version:
+  7
+openfda:

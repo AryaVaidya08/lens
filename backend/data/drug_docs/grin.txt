@@ -1,0 +1,27 @@
+effective_time:
+  20200630
+inactive_ingredient:
+  Inactive ingredients Calcium Carbonate, Glycerine (Palm-free from Rapeseed), Aqua (Water), Xylitol, Lauryl Glucoside (Palm-free from Coconut), Sodium Bicarbonate, Chondrus crispus (Carrageenan) Gum, Foeniculum vulgare dulce (Fennel) Extract, Spearmint Flavour, Clove Flavour, Menthol, Xanthan Gum, Peppermint Oil, Organic NZ Sea Salt, Propolis cera (Propolis) Extract
+purpose:
+  Purpose Anticavity
+keep_out_of_reach_of_children:
+  Keep out of reach of children under 6 years of age.
+warnings:
+  Warnings If you accidentally swallow more than used for brushing, get medical help or contact a Poison Control Center immediately. Do not use if you have an allergy to bees or bee products.
+spl_product_data_elements:
+  Grin SODIUM MONOFLUOROPHOSPHATE SODIUM MONOFLUOROPHOSPHATE FLUORIDE ION CALCIUM CARBONATE GLYCERIN WATER XYLITOL LAURYL GLUCOSIDE SODIUM BICARBONATE CHONDRUS CRISPUS CARRAGEENAN FOENICULUM VULGARE FRUIT SPEARMINT CLOVE MENTHOL XANTHAN GUM PEPPERMINT OIL SEA SALT PROPOLIS WAX
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions For best results brush at least twice daily after meals and use in conjunction with Grin dental floss. Children 6 years and under should use a smear of toothpaste and have adult supervision until good habits are established. Do not swallow, spit out excess toothpaste.
+package_label_principal_display_panel:
+  Product Label image description
+indications_and_usage:
+  Use Aids in the prevention of dental cavities.
+set_id:
+  4d9bf125-ea23-4f76-aa20-bf36185572da
+id:
+  bd63a083-fc90-4bcf-8503-52cd125ce8ac
+active_ingredient:
+  Active Ingredient Sodium Monofluorophosphate 0.76% (1000ppm)

@@ -1,0 +1,37 @@
+effective_time:
+  20151228
+inactive_ingredient:
+  Inactive ingredients Water, Cetearyl Alcohol, Stearyl Alcohol, Glycerin, Phenoxyethanol, Acrylates/C12-22 Alkyl Methacrylate Copolymer, Caprylyl Glycol, Cetyl Alcohol, Carbomer, Ceteth-10 Phosphate, Dicetyl Phosphate, Coco-Glucoside, Methylparaben, Xanthan Gum, Propylparaben, Sodium Hydroxide, Disodium EDTA, Hydrogenated Methyl Abietate, Lauryl PEG-8 Dimethicone, Phenylisopropyl Dimethicone, Polyglyceryl-3 Stearate/Isostearate/Dimer Dilinoleate Copolymer, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Aloe Barbadensis Leaf Juice.
+purpose:
+  Purpose Sunscreen
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. May stain some fabrics.
+warnings:
+  Warnings For external use only Do not use on damaged or broken skin When using this product keep out of eyes. Rinse with water to remove. Stop use and ask a doctor if rash occurs Keep out of reach of children. If product is swallowed, get medical help or contact a Poison Control Center right away. May stain some fabrics.
+when_using:
+  When using this product keep out of eyes. Rinse with water to remove.
+questions:
+  Questions or comments? Call 1-386-673-2024
+spl_product_data_elements:
+  EXCHANGE SELECT SPORT SPF 50 AVOBENZONE,HOMOSALATE,OCTOCRYLENE AVOBENZONE AVOBENZONE HOMOSALATE HOMOSALATE OCTOCRYLENE OCTOCRYLENE WATER CETOSTEARYL ALCOHOL STEARYL ALCOHOL GLYCERIN PHENOXYETHANOL CAPRYLIC ALCOHOL CETYL ALCOHOL CARBOXYPOLYMETHYLENE CETETH-10 PHOSPHATE DIHEXADECYL PHOSPHATE COCO GLUCOSIDE METHYLPARABEN XANTHAN GUM PROPYLPARABEN SODIUM HYDROXIDE EDETATE DISODIUM HYDROGENATED METHYL ABIETATE SODIUM ASCORBYL PHOSPHATE .ALPHA.-TOCOPHEROL ACETATE ALOE VERA LEAF
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions apply liberally 15 minutes before sun exposure reapply: after 80 minutes of swimming or sweating immediately after towel drying at least every 2 hours Sun Protection Measures.Spending time in the sun increases your risk of skin cancer and early skin aging. To decrease this risk, regularly use a sunscreen with a broad spectrum SPF of 15 or higher and other sun protection measures including: limit time in the sun, especially from 10 a.m. - 2 p.m. wear long-sleeve shirts, pants, hats and sunglasses Children under 6 month of age: Ask a doctor
+stop_use:
+  Stop use and ask a doctor if rash occurs
+spl_unclassified_section:
+  Other information protect this product from excessive heat and direct sun
+do_not_use:
+  Do not use on damaged or broken skin
+package_label_principal_display_panel:
+  Principal Display Panel NDC 55301-206-19 exchange select FAMILY VALUE SPORT SUNSCREEN LOTION 50+ BROAD SPECTRUM SPF 50+ UVA/UVB Protection Water Resistant (80 Minutes) 16 FL.OZ. (473 mL) Label
+indications_and_usage:
+  Uses helps prevent sunburn if used as directed with other sun protection measures (see Directions ), decreases the risk of skin cancer and early skin aging caused by the sun
+set_id:
+  af884151-12a8-408b-9b35-5959201a8fb2
+id:
+  48a2f459-f28c-41e8-99c2-2429457e55a5
+active_ingredient:
+  Active ingredients Avobenzone 3.0%, Homosalate 10.0%, Octocrylene 6.0%

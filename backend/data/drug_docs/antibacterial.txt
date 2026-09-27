@@ -1,0 +1,31 @@
+effective_time:
+  20100824
+inactive_ingredient:
+  Inactive Ingredients Water (Aqua), Sodium Laureth Sulfate, Acrylates Copolymer, Cocamidopropyl Betaine, Cocamide DEA, Sodium Chloride, Fragrance (Parfum), Aloe Barbadensis Leaf Juice, PEG-7 Glyceryl Cocoate, Helianthus Annuus (Sunflower) Seed Extract, Tetrasodium EDTA, Sodium Styrene/PEG-10 Maleate/Nonoxynol-10 Maleate/ Acrylates Copolymer, Ammonium Nonoxynol-4 Sulfate, Citric Acid, Sodium Hydroxide, Mannitol, Cellulose, Tocopheryl Acetate, Hydroxypropyl Methylcellulose, Mica, Titanium Oxide (CI 77891), Yellow 10 (CI 47005), Red 40 (CI 16035), Iron Oxides ( CI 77492), Methylchloroisothiazolinone, Methylisothiazolinone.
+purpose:
+  Purpose Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Center immediately.
+warnings:
+  Warnings For external use only. When using this product - Avoid contact with eyes. If contact occurs, rinse with water. Stop using this product and ask doctor if - Irritation or redness develops and lasts. Keep out of reach of children In case of accidental ingestion, get medical help or contact a Poison Control Center immediately.
+when_using:
+  When using this product - Avoid contact with eyes. If contact occurs, rinse with water.
+spl_product_data_elements:
+  Antibacterial SUNBLOSSOM Triclosan TRICLOSAN TRICLOSAN
+openfda:
+version:
+  1
+dosage_and_administration:
+  Directions Apply onto wet hands, work into a lather. Rinse thoroughly.
+stop_use:
+  Stop using this product and ask doctor if - Irritation or redness develops and lasts.
+package_label_principal_display_panel:
+  PACKAGE FRONT AND BACK LABELS 8.5 OZ Front Panel Label: eobf.jpg 8.5 OZ Back Panel Label: eobb.jpg 8.5OZ Front Panel Label 8.5 OZ Back Panel Label
+indications_and_usage:
+  Uses For washing to decrease bacteria on the skin.
+set_id:
+  8abc1ead-3e4e-4e5a-8e59-8f043bb20bb9
+id:
+  7fcc142e-92c6-4b88-af2c-55052c72b53c
+active_ingredient:
+  Active Ingredient Triclosan 0.3%

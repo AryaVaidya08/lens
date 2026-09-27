@@ -1,0 +1,35 @@
+effective_time:
+  20190116
+contraindications:
+  CONTRAINDICATIONS Glaucoma, obstructive uropathy (for example, bladder neck obstruction due to prostatic hypertrophy); obstructive disease of the gastrointestinal tract (as in achalasia, pyloroduodenal stenosis, etc.); paralytic ileus, intestinal atony of the elderly or debilitated patient; unstable cardiovascular status in acute hemorrhage; severe ulcerative colitis especially if complicated by toxic megacolon; myasthenia gravis; hiatal hernia associated with reflux esophagitis. Donnatal® Elixir is contraindicated in patients with known hypersensitivity to any of the ingredients. Phenobarbital is contraindicated in acute intermittent porphyria and in those patients in whom Phenobarbital produces restlessness and/or excitement.
+precautions:
+  PRECAUTIONS GENERAL Use with caution in patients with: autonomic neuropathy, hepatic or renal disease, hyperthyroidism, coronary heart disease, congestive heart failure, cardiac arrhythmias, tachycardia, and hypertension. Belladonna alkaloids may produce a delay in gastric emptying (antral stasis) which would complicate the management of gastric ulcer. Do not rely on the use of the drug in the presence of complication of biliary tract disease. Theoretically, with overdosage, a curare-like action may occur. CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY: Long-term studies in animals have not been performed to evaluate carcinogenic potential.
+warnings:
+  WARNINGS In the presence of a high environmental temperature, heat prostration can occur with belladonna alkaloids (fever and heatstroke due to decreased sweating). Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy. In this instance, treatment with this drug would be inappropriate and possibly harmful. Donnatal® Elixir may produce drowsiness or blurred vision. The patient should be warned, should these occur, not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery, and not to perform hazardous work. Phenobarbital may decrease the effect of anticoagulants, and necessitate larger doses of the anticoagulant for optimal effect. When the phenobarbital is discontinued, the dose of the anticoagulant may have to be decreased. Phenobarbital may be habit forming and should not be administered to individuals known to be addiction prone or to those with a history of physical and/or psychological dependence upon drugs. Since barbiturates are metabolized in the liver, they should be used with caution and initial doses should be small in patients with hepatic dysfunction.
+pregnancy:
+  PREGNANCY PREGNANCY CATEGORY C Animal reproduction studies have not been conducted with Donnatal® Elixir. It is not known whether Donnatal® Elixir can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. Donnatal® Elixir should be given to a pregnant woman only if clearly needed. NURSING MOTHERS. It is not known whether this drug is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when Donnatal® Elixir is administered to a nursing woman.
+spl_product_data_elements:
+  Donnatal PHENOBARBITAL PHENOBARBITAL PHENOBARBITAL HYOSCYAMINE SULFATE HYOSCYAMINE SCOPOLAMINE HYDROBROMIDE SCOPOLAMINE ATROPINE SULFATE ATROPINE GLYCERIN ALCOHOL WATER sucrose sorbitol saccharin sodium FD&C Blue No. 1 FD&C Red No. 3 GRAPE Artificial grape
+description:
+  DESCRIPTION Each Donnatal(r) 5 mL (teaspoonful) of elixir (alcohol not more than 23.8%) contains: Phenobarbital, USP....................................... 16.2 mg Hyoscyamine Sulfate, USP...................... 0.1037 mg Atropine Sulfate, USP ...............................0.0194 mg Scopolamine Hydrobromide, USP ...........0.0065 mg INACTIVE INGREDIENTS: Artificial Grape Flavor, FD and C Blue #1, FD and C Red #3, Ethyl Alcohol, Glycerin, Purified Water, Saccharin Sodium, Sorbitol, and Sucrose.
+openfda:
+version:
+  5
+dosage_and_administration:
+  DOSAGE & ADMINISTRATION The dosage of Donnatal® Elixir should be adjusted to the needs of the individual patient to assure symptomatic control with a minimum of adverse effects. Donnatal® Elixir. Adults: One or two teaspoonfuls of elixir three or four times a day according to conditions and severity of symptoms. Pediatric patients: may be dosed every 4 to 6 hours. Starting dosage Body weight q4h q6h 10 lb. (4.5 kg) 0.5 mL 0.75 mL 20 lb. (9.1 kg) 1.0 mL 1.5 mL 30 lb. (13.6 kg) 1.5 mL 2.0 mL 50 lb. (22.7 kg) ½ tsp ¾ tsp 75 lb. (34 kg) ¾ tsp 1 tsp 100 lb. (45.4 kg) 1 tsp 1½ tsp
+adverse_reactions:
+  ADVERSE REACTIONS Adverse reactions may include xerostomia; urinary hesitancy and retention; blurred vision; tachycardia; palpitation; mydriasis; cycloplegia; increased ocular tension; loss of taste sense; headache; nervousness; drowsiness; weakness; dizziness; insomnia; nausea; vomiting; impotence; suppression of lactation; constipation; bloated feeling; musculoskeletal pain; severe allergic reaction or drug idiosyncrasies, including anaphylaxis, urticaria and other dermal manifestations; and decreased sweating. Elderly patients may react with symptoms of excitement, agitation, drowsiness, and other untoward manifestations to even small doses of the drug. Phenobarbital may produce excitement in some patients, rather than a sedative effect. In patients habituated to barbiturates, abrupt withdrawal may produce delirium or convulsions.
+how_supplied:
+  STORAGE CONDITIONS Product: 50436-0423
+package_label_principal_display_panel:
+  DONNATAL (PHENOBARBITAL ELIXIR) ELIXIR Label Image
+indications_and_usage:
+  INDICATIONS & USAGE Based on a review of this drug by the National Academy of Sciences-National Research Council and/or other information, FDA has classified the following indications as “possibly” effective: For use as adjunctive therapy in the treatment of irritable bowel syndrome (irritable colon, spastic colon, mucous colitis) and acute enterocolitis. May also be useful as adjunctive therapy in the treatment of duodenal ulcer. IT HAS NOT BEEN SHOWN CONCLUSIVELY WHETHER ANTICHOLINERGIC/ANTISPASMODIC DRUGS AID IN THE HEALING OF A DUODENAL ULCER, DECREASE THE RATE OF RECURRENCES OR PREVENT COMPLICATIONS.
+clinical_pharmacology:
+  CLINICAL PHARMACOLOGY This drug combination provides natural belladonna alkaloids in a specific, fixed ratio combined with phenobarbital to provide peripheral anticholinergic/antispasmodic action and mild sedation.
+set_id:
+  ddff0982-3502-4db6-ae73-c77a0250dea8
+id:
+  a5e25d68-6ada-40d3-b350-2ab11b8d50f1
+overdosage:
+  OVERDOSAGE The signs and symptoms of overdose are headache, nausea, vomiting, blurred vision, dilated pupils, hot and dry skin, dizziness, dryness of the mouth, difficulty in swallowing, and CNS stimulation. Treatment should consist of gastric lavage, emetics, and activated charcoal. If indicated, parenteral cholinergic agents such as physostigmine or bethanechol chloride, should be used.

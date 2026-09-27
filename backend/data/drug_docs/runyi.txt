@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  RUNYI MIAOJIE Hand sanitizer Hand sanitizer WATER CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE TROLAMINE PROPYLENE GLYCOL ALCOHOL ALCOHOL
+dosage_and_administration:
+  Store in a cool and dry place
+inactive_ingredient:
+  Water,carbomer, triethanolamine,propylene glycol
+indications_and_usage:
+  Place enough gel into your palm to thoroughly .spread on both hands (front & back) and rub into the skin until dry.
+active_ingredient:
+  ethanol
+keep_out_of_reach_of_children:
+  keep out of reach of children
+purpose:
+  Disinfection Sterilization No Rinseing
+warnings:
+  For external use only. Do not use in or near the eyes. In case of contact with eyes, flush thoroughly with water. Do not swallow. If swallowed, seek medical help or contact a Poison Control Center immediately. Avoid contact with broken skin. Seek medical help if irritation or redness develops and condition continues for more than 72 hours. KEEP OUT OF REACH OF CHILDREN. Can be used on children under adult supervision. Not recommended for infants.
+package_label_principal_display_panel:
+  label
+set_id:
+  ab8f0e24-fbe8-fb27-e053-2995a90ab3a5
+id:
+  ab8f0e24-fbe9-fb27-e053-2995a90ab3a5
+effective_time:
+  20200729
+version:
+  1
+openfda:

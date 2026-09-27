@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  MEDI HAND SANITIZER Gel Ethyl Alcohol GLYCERIN CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE WATER BUTYLENE GLYCOL HYALURONATE SODIUM AMINOMETHYLPROPANOL ALCOHOL ALCOHOL
+package_label_principal_display_panel:
+  500
+active_ingredient:
+  
+dosage_and_administration:
+  
+purpose:
+  
+indications_and_usage:
+  
+inactive_ingredient:
+  
+do_not_use:
+  
+keep_out_of_reach_of_children:
+  
+when_using:
+  
+instructions_for_use:
+  
+warnings:
+  
+set_id:
+  a3efae53-efd6-812e-e053-2a95a90acc50
+id:
+  a3efac54-5f85-49fc-e053-2995a90a098d
+effective_time:
+  20200422
+version:
+  1
+openfda:

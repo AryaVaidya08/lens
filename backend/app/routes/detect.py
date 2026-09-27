@@ -1,27 +1,45 @@
 """
 Drug detection resolution endpoint.
 
-Owned by: Backend & data lane (contract), AR & detection lane (client-side
-capture that feeds this endpoint).
+Accepts a barcode or OCR text from the iOS app and resolves it against
+the in-memory detect catalog.
 """
 
-from fastapi import APIRouter
+from __future__ import annotations
+
+from typing import Optional
+
+from fastapi import APIRouter, Depends, HTTPException
+from pydantic import BaseModel, Field
+from pymongo.database import Database
+
+from app.db.database import get_db
+from app.detection.catalog import resolve
 
 router = APIRouter(prefix="/detect", tags=["detect"])
 
 
+class DetectRequest(BaseModel):
+    barcode: Optional[str] = Field(default=None, max_length=128)
+    ocr_text: Optional[str] = Field(default=None, max_length=20000)
+
+
 @router.post("")
-def detect_drug(payload: dict) -> dict:
+def detect_drug(
+    payload: DetectRequest,
+    db: Database = Depends(get_db),
+) -> dict:
     """
     Takes a decoded barcode string or OCR text from the iOS app and
     resolves it to a known drug.
-
-    Contract:
-      <- { "barcode": str | None, "ocr_text": str | None }
-      -> { "drug_id": str, "name": str }
-
-    TODO: implement — look up Drug.barcode first; fall back to a fuzzy
-    match against Drug.name using ocr_text if no barcode match.
     """
-    # TODO: implement
-    raise NotImplementedError
+    drug = resolve(payload.barcode, payload.ocr_text, db)
+    if drug is None:
+        raise HTTPException(
+            status_code=404,
+            detail="No drug matched that barcode or text",
+        )
+    return {
+        "drug_id": drug.drug_id,
+        "name": drug.name,
+    }

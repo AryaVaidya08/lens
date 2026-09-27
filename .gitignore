@@ -7,6 +7,15 @@ xcuserdata/
 DerivedData/
 *.xcuserstate
 
+#Backend
+**/.embedding_cache.keys.json
+**/.embedding_cache.npz
+
+#Frontend
+node_modules
+frontend/node_modules/
+.vercel
+
 # Python
 __pycache__/
 *.pyc
@@ -15,4 +24,11 @@ venv/
 
 # Secrets / local data
 .env
+.env.*
 *.db
+
+# Training photos are large, numerous, and personal — collect them
+# locally per training/README.md, don't commit them. Exported .mlmodel/
+# .mlpackage files are NOT ignored — the app needs those checked in.
+training/data/*
+!training/data/.gitkeep

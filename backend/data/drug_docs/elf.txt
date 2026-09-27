@@ -1,0 +1,33 @@
+effective_time:
+  20150830
+inactive_ingredient:
+  Inactive Ingredient: Water,Paraffinum Liquidum (Minearal Oil), Propylene Glycol, C12-15 Akyl Benzoate,Caprylic/Capric Triglyceride, Steareth-21, Dimethicone, Steareth-2, Cetearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Xanthan Gum, Polyacrylamide, C13-14 Isoparaffin, Laureth-7, DMDN Hydantoin, Iodopropynyl Butylcarbamate, Retinyl Palmitate (VA), Topopheryl Acetate (VE), Magnesium Ascorbyl Phsophate (VC), Aloe Vera Leaf Juice, Cucumis Sativus (Cucumber) Fuit Extract May contain: Titanium Dioxide (CI77891), Iron Oxides (CI 77491, CI 77492, CI 77499)
+purpose:
+  Purpose: Sunscreen
+keep_out_of_reach_of_children:
+  Keep Out of Reach of Children
+warnings:
+  Warning: For external use only Skin Cancer/Skin Aging Alert: Spending time in the sun increases your risk of skin cancer and early skin aging. This product has been shown only to help prevent sunbrun, not skin cancer or skin aging. Do not use on damaged or broken skin
+when_using:
+  When using this product: Keep out of eyes. Rinse with water to remove.
+spl_product_data_elements:
+  ELF SPF 20 Sunscreen UVA/UVB Tinted Moisturizer Sand OCTINOXATE OCTINOXATE OCTINOXATE OXYBENZONE OXYBENZONE WATER MINERAL OIL STEARETH-21 STEARETH-2 PROPYLENE GLYCOL ALKYL (C12-15) BENZOATE FERRIC OXIDE RED FERRIC OXIDE YELLOW FERROSOFERRIC OXIDE OCTISALATE OCTISALATE GLYCERYL STEARATE SE PEG-100 STEARATE XANTHAN GUM POLYACRYLAMIDE (10000 MW) C13-14 ISOPARAFFIN LAURETH-7 DMDM HYDANTOIN DIMETHICONE IODOPROPYNYL BUTYLCARBAMATE VITAMIN A PALMITATE .ALPHA.-TOCOPHEROL ACETATE ALOE ANDONGENSIS LEAF MAGNESIUM ASCORBYL PHOSPHATE CUCUMBER FRUIT OIL TITANIUM DIOXIDE
+ask_doctor:
+  Stop Use and Ask a Doctor if: Rash occurs
+other_safety_information:
+  Other Information Protect the product in this container from excessive heat and direct sun
+openfda:
+version:
+  2
+dosage_and_administration:
+  Directions: For sunscreen use: Apply generously 15 min before sun exposure. Reapply every two hours. Use a water resistant sunscreen if swimming or sweating Sun Protection Measures: Spending time in sun increases your risk of skin cancer or early skin aging. To decrease the risk, regularly use a sunscreen with broad spectrum SPF value of 15 or higher and other sun protection measures including Limit time in the sun, es[ecially from 10 am to 2 pm Wear long sleeved shirts, pants, hats, and sunglasses. Children under six months of age: ask a doctor
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  Uses: Help prevent sunburn
+set_id:
+  034cfd47-c8df-417a-bf3e-88d65a2928a4
+id:
+  34c8ebcc-b181-4f0e-96e9-c119a1d6cd4c
+active_ingredient:
+  Active Ingredient: OCTINOXATE: 7.5% OCTISALATE: 5.0% OXYBENONE: 3.0%

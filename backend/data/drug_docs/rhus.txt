@@ -1,0 +1,33 @@
+spl_product_data_elements:
+  RHUS TOXICODENDRON Poison ivy TOXICODENDRON PUBESCENS LEAF TOXICODENDRON PUBESCENS LEAF SUCROSE LACTOSE
+active_ingredient:
+  Active Ingredient RHUS TOXICODENDRON (Poison ivy) 12CH GR RHUS TOXICODENDRON (Poison ivy) 15CH GR RHUS TOXICODENDRON (Poison ivy) 200CH GR RHUS TOXICODENDRON (Poison ivy) 200K GR RHUS TOXICODENDRON (Poison ivy) 30CH GR RHUS TOXICODENDRON (Poison ivy) 30K GR RHUS TOXICODENDRON (Poison ivy) 4CH GR RHUS TOXICODENDRON (Poison ivy) 5CH GR RHUS TOXICODENDRON (Poison ivy) 6CH GR RHUS TOXICODENDRON (Poison ivy) 7CH GR RHUS TOXICODENDRON (Poison ivy) 9CH GR RHUS TOXICODENDRON (Poison ivy) MK GR RHUS TOXICODENDRON (Poison ivy) XMK GR
+purpose:
+  Uses For the temporary relief of minor back pain and skin irritations
+warnings:
+  Warning Stop use and ask a doctor if symptoms persist ot worsen. If pregnant or breastfeeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breastfeeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+overdosage:
+  In case of overdose, get medical help or contact a Poison Control Center right away.
+inactive_ingredient:
+  Inactive Ingredients Lactose (milk), sucrose
+dosage_and_administration:
+  Directions Adults: Take 5 granules 3 times daily or as recommended by your healthcare practitioner. Children: Take under the direction of your healthcare practitioner.
+questions:
+  QUESTIONS? 1-888-737-6925.
+indications_and_usage:
+  Uses For the temporary relief of minor back pain and skin irritations Directions Adults: Take 5 granules 3 times daily or as recommended by your healthcare practitioner. Children: Take under the direction of your healthcare practitioner.
+package_label_principal_display_panel:
+  UNDA Do not use if label perforation is broken. Homeopathic Remedy NDC : 62106-8767-4 RHUS TOXICODENDRON Poison ivy 140 granules Indications For the temporary relief of minor back pain and skin irritations 62106-8767
+set_id:
+  0d57f7ab-7a14-08b3-e054-00144ff88e88
+id:
+  06e81950-e1bc-2958-e063-6294a90a32d7
+effective_time:
+  20231004
+version:
+  7
+openfda:

@@ -1,0 +1,41 @@
+spl_product_data_elements:
+  ECHINACEA ANGUSTIFOLIA ECHINACEA ANGUSTIFOLIA LACTOSE SUCROSE ECHINACEA ANGUSTIFOLIA ECHINACEA ANGUSTIFOLIA
+active_ingredient:
+  ACTIVE INGREDIENT HPUS ECHINACEA ANGUSTIFOLIA 1X (Coneflower)
+purpose:
+  CARBUNCLES AND BOILS
+indications_and_usage:
+  USE For self-limiting condition listed above or as directed by a health professional.
+warnings:
+  WARNINGS Do not use if pellet-dispenser seal is broken. Stop use and ask a doctor if symptoms persist more than 3 days or worsen. If pregnant or breast-feeding , ask a health professional before use. Keep out of reach of children.
+do_not_use:
+  Do not use if pellet-dispenser seal is broken.
+stop_use:
+  Stop use and ask a doctor if symptoms persist more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+dosage_and_administration:
+  DIRECTIONS Adults: Allow 3 or 4 pellets to dissolve in the mouth 3 times a day until symptoms are relieved or as directed by a health professional.
+storage_and_handling:
+  OTHER INFORMATION Store at room temperature.
+inactive_ingredient:
+  INACTIVE INGREDIENTS Lactose, sucrose.
+questions:
+  QUESTIONS? 1-800-404-4666
+references:
+  The letters 'HPUS' indicate that the component in this product is officially monographed in the Homeopathic Pharmacopoeia of the United States. These claims have not been reviewed by the Food and Drug Administration. They are based on traditional homeopathic practice.
+description:
+  80 Pellets Pellet dispenser Mfd for: HOMEOLAB USA INC., 3025 De L`Assomption, Montreal, QC, H1N 2H2, CANADA Product of Canada
+package_label_principal_display_panel:
+  LABEL IMAGE OF TUBE LABEL
+set_id:
+  e7ed2ebd-d857-4ffc-978d-e88f157e80d0
+id:
+  46e5bf13-e3fc-2cc8-e063-6394a90a13b4
+effective_time:
+  20251226
+version:
+  2
+openfda:

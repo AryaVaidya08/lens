@@ -1,0 +1,27 @@
+effective_time:
+  20200429
+inactive_ingredient:
+  Deionized water,propylene glycol,Aloe Barbadensis Leaf Extract,Benzalkonium chloride,Chamomilla recutita flower extract,Didecyldimonium Chloride,C12-14 alkyl dimethyl ethylbenzyl ammonium chloride,Tea tree oil,Citric Acid
+purpose:
+  Disinfection Sterilization No Rinseing
+keep_out_of_reach_of_children:
+  keep out of reach of children
+warnings:
+  Open the lid, tear off the label, then take it out directly for use. After use, please close the lidfirmly in time to avoid the wipes drying out.
+spl_product_data_elements:
+  KIDCLEAN DISINFECTANT WIPES DISINFECTANT WIPES TEA TREE OIL CHAMOMILE ALOE VERA LEAF WATER N-ALKYL ETHYLBENZYL DIMETHYL AMMONIUM CHLORIDE (C12-C14) ANHYDROUS CITRIC ACID BENZALKONIUM CHLORIDE DIDECYLDIMONIUM CHLORIDE GLYCERIN GLYCERIN PROPYLENE GLYCOL kidclean
+openfda:
+version:
+  2
+dosage_and_administration:
+  Please keep it out of reach of children to avoid accidental eating. Keep it in a cool place, not under direct sunlight. Please stop using it and consult a doctor if you feel sensitive or not well.
+package_label_principal_display_panel:
+  label
+indications_and_usage:
+  cleaning human skin, hands and object surface, avoiding using it on eyes, wounds and other sensitive areas.
+set_id:
+  a3c5cd8c-c21d-0c99-e053-2995a90adb59
+id:
+  a4687cba-ab44-4150-e053-2a95a90ae5a2
+active_ingredient:
+  Glycerol

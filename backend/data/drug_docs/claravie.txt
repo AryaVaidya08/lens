@@ -1,0 +1,60 @@
+spl_product_data_elements:
+  ClaraVie Lanolin LANOLIN LANOLIN PETROLATUM MINERAL OIL WATER SORBITAN SESQUIOLEATE BEESWAX EDETATE DISODIUM LANOLIN ALCOHOL SODIUM BORATE ANHYDROUS PHENOXYETHANOL ETHYLHEXYLGLYCERIN
+active_ingredient:
+  Lanolin 50%
+ask_doctor:
+  Stop use and ask a doctor if condition worsens symptoms last more than 7 days or clear up and occur again within a few days
+warnings:
+  For external use only
+indications_and_usage:
+  Temporarily protects minor cuts scrapes burns Temporarily protects and helps relieve chafed, chapped or cracked skin Helps protect from the drying effects of wind and cold weather
+dosage_and_administration:
+  Apply as needed
+inactive_ingredient:
+  Petrolatum, Mineral Oil, Water, Sorbitan Sesquioleate, Beeswax, Disodium EDTA, Lanolin Alcohol, Sodium Borate , Phenoxyethanol, Ethylhexylglycerin
+keep_out_of_reach_of_children:
+  Keep out of reach of children . In case of accidental ingestion, contact a physician or Poison control center righy away.
+do_not_use:
+  Deep or puncture wounds animal bites serious burns
+purpose:
+  Skin Protectant
+package_label_principal_display_panel:
+  Image Image
+set_id:
+  596fe32d-be34-0635-e063-6394a90a2fc0
+id:
+  596fe32d-be35-0635-e063-6394a90a2fc0
+effective_time:
+  20260819
+version:
+  1
+openfda:
+  application_number:
+    M016
+  brand_name:
+    ClaraVie
+  generic_name:
+    LANOLIN
+  manufacturer_name:
+    Gentell LLC
+  product_ndc:
+    61554-307
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    LANOLIN
+  rxcui:
+    1038957
+  spl_id:
+    596fe32d-be35-0635-e063-6394a90a2fc0
+  spl_set_id:
+    596fe32d-be34-0635-e063-6394a90a2fc0
+  package_ndc:
+    61554-307-11
+    61554-307-21
+  is_original_packager:
+    True
+  unii:
+    7EV65EAW6H

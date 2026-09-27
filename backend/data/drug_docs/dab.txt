@@ -1,0 +1,35 @@
+spl_product_data_elements:
+  DAB BENZALKONIUM CHLORIDE GLYCERIN PHENOXYETHANOL DEHYDROACETIC ACID CITRIC ACID MONOHYDRATE BENZALKONIUM CHLORIDE BENZALKONIUM BENZYL ALCOHOL SODIUM HYDROXIDE WATER COCAMIDOPROPYL BETAINE POLOXAMER 124 D&C GREEN NO. 8
+active_ingredient:
+  Active Ingredient Benzalkonium Chloride 0.12%
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses For handwashing to decrease bacteria on the skin Recommended for repeated use
+warnings:
+  Warnings For external use only When using this product Do not use in or near eyes Stop use and ask a doctor if irritation or redness develop. Keep out of reach of children. If swallowed, seek medical attention or contact Poison Control Center immediately.
+when_using:
+  When using this product Do not use in or near eyes
+stop_use:
+  Stop use and ask a doctor if irritation or redness develop.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, seek medical attention or contact Poison Control Center immediately.
+dosage_and_administration:
+  Directions receive a small amount of foam into palm of hand rub thoroughly over all surfaces of both hands rub hands together until dry
+storage_and_handling:
+  Other information Store in a cool dry place below 104 F (40 C)
+inactive_ingredient:
+  Inactive ingredients Water, cocamidopropyl betaine, glycerin, poloxamer 124, phenoxyethanol, benzyl alcohol, dehydroacetic acid, sodium hydroxide, citric acid, D&C Green No. 8
+questions:
+  Questions? Contact Three Kings Corp. at 888-872-2350 Mon-Fri 9 am - 4pm CST
+package_label_principal_display_panel:
+  dab HAND PROTECTANT + SANITIZER MICROBIOLOGICAL DEFENSE SPECTRUM 1.2L (1.26 QT) 40.5 GL OZ dapprotects.com/healthcare container labeB container labelA
+set_id:
+  9e42c2fb-0499-53ad-e053-2995a90a923c
+id:
+  9e42c2fb-049a-53ad-e053-2995a90a923c
+effective_time:
+  20200210
+version:
+  1
+openfda:

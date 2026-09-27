@@ -1,0 +1,5547 @@
+{
+  "activityEntities" : [
+    "trainingResumed",
+    [
+      {
+        "createdDate" : "2026-09-26T09:25:28Z",
+        "event" : "trainingResumed",
+        "id" : "CAD27A49-8E91-4336-9641-2AF139E9E298",
+        "subtitle" : "10,000 iterations",
+        "title" : "Training Resumed"
+      }
+    ],
+    "evaluationFinished",
+    [
+      {
+        "createdDate" : "2026-09-26T09:43:10Z",
+        "event" : "evaluationFinished",
+        "id" : "0C32E3A7-BE3D-416E-9EFF-972A3E7D33BF",
+        "subtitle" : "Iteration 1,080",
+        "title" : "Testing Completed"
+      }
+    ],
+    "evaluationDataAdded",
+    [
+      {
+        "createdDate" : "2026-09-26T09:42:51Z",
+        "event" : "evaluationDataAdded",
+        "id" : "1D051F0E-8E91-4CB7-8507-515140D2CE57",
+        "subtitle" : "test",
+        "title" : "Testing Data Added"
+      }
+    ],
+    "snapshotCreated",
+    [
+      {
+        "createdDate" : "2026-09-26T09:25:13Z",
+        "event" : "snapshotCreated",
+        "id" : "ED7F3C50-7991-47AD-8C4E-981E36D84654",
+        "subtitle" : "Snapshot created at iteration 170",
+        "title" : "Snapshot Saved"
+      },
+      {
+        "createdDate" : "2026-09-26T09:36:31Z",
+        "event" : "snapshotCreated",
+        "id" : "2E9B8B44-C39F-43F7-A86B-9CC3892930C2",
+        "subtitle" : "Snapshot created at iteration 850",
+        "title" : "Snapshot Saved"
+      }
+    ],
+    "experimentCreated",
+    [
+      {
+        "createdDate" : "2026-09-26T07:14:34Z",
+        "event" : "experimentCreated",
+        "id" : "21C9A419-7E6F-4141-B2F9-415EE8C44101",
+        "subtitle" : "PillBottleDetector 1",
+        "title" : "Model Source Created"
+      }
+    ],
+    "trainingDataAdded",
+    [
+      {
+        "createdDate" : "2026-09-26T09:20:42Z",
+        "event" : "trainingDataAdded",
+        "id" : "53541261-462D-49CF-A0CB-2C8973BD4C72",
+        "subtitle" : "train",
+        "title" : "Training Data Added"
+      }
+    ],
+    "trainingStarted",
+    [
+      {
+        "createdDate" : "2026-09-26T09:22:24Z",
+        "event" : "trainingStarted",
+        "id" : "0CE7E6F3-0ED1-4CA1-8A7C-793377ECD6E9",
+        "subtitle" : "10,000 iterations",
+        "title" : "Training Started"
+      }
+    ],
+    "evaluationStarted",
+    [
+      {
+        "createdDate" : "2026-09-26T09:43:10Z",
+        "event" : "evaluationStarted",
+        "id" : "ECEA8BAB-D370-4B1D-81EB-0D731EF8F52C",
+        "subtitle" : "Iteration 1,080",
+        "title" : "Testing Started"
+      }
+    ],
+    "validationDataAdded",
+    [
+      {
+        "createdDate" : "2026-09-26T09:20:48Z",
+        "event" : "validationDataAdded",
+        "id" : "3E5F7372-BED9-4A53-9672-0B095B3A4647",
+        "subtitle" : "valid",
+        "title" : "Validation Data Added"
+      }
+    ],
+    "trainingPaused",
+    [
+      {
+        "createdDate" : "2026-09-26T09:25:11Z",
+        "event" : "trainingPaused",
+        "id" : "AB9FB89E-ED50-4F8A-83B6-BA1249B3E3A6",
+        "subtitle" : "170 iterations",
+        "title" : "Training Paused"
+      }
+    ]
+  ],
+  "createdDate" : "2026-09-26T09:40:21Z",
+  "evaluationContainerEntity" : {
+    "createdDate" : "2026-09-26T09:43:10Z",
+    "evaluationEntities" : [
+      {
+        "accuracy" : 0.8076576576576577,
+        "analysedDataType" : "datasource",
+        "createdDate" : "2026-09-26T09:42:47Z",
+        "dataResult" : {
+          "classesCount" : 1,
+          "createdDate" : "2026-09-26T09:42:47Z",
+          "dataAnalysis" : {
+            "classifierAnalysis" : {
+
+            },
+            "issues" : [
+              {
+                "description" : "1 classes found, including bottle",
+                "severity" : "debug"
+              },
+              {
+                "description" : "Less than 50 total images found - add more to improve model validation",
+                "severity" : "warning"
+              },
+              {
+                "description" : "Smallest class is \"bottle\" with 54 images",
+                "severity" : "debug"
+              },
+              {
+                "description" : "Largest class is \"bottle\" with 54 images",
+                "severity" : "debug"
+              }
+            ],
+            "objectDetectorAnalysis" : {
+              "details" : {
+
+              },
+              "labelStats" : {
+                "bottle" : 54
+              }
+            },
+            "summary" : {
+              "canUseValidation" : 1,
+              "classCount" : 1,
+              "counterExamples" : 0,
+              "sampleCount" : 37,
+              "suggestedMaxIterations" : 2000
+            },
+            "warning" : "Less than 50 total images found - add more to improve model validation"
+          },
+          "dataSourceID" : "81C0F487-57F3-490F-8329-7F431C1EF552",
+          "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/test/",
+          "itemsCount" : 37,
+          "warning" : "Less than 50 total images found - add more to improve model validation"
+        },
+        "dataSourceID" : "81C0F487-57F3-490F-8329-7F431C1EF552",
+        "evaluationResult" : {
+          "objectDetector" : {
+            "averagePrecision" : {
+              "bottle" : {
+                "IoU50" : 0.8076576576576577,
+                "variedIoU" : 0.5030630630630629
+              }
+            },
+            "confusionMetrics" : {
+              "averagePrecision" : {
+                "IoU50" : {
+                  "bottle" : 0.8076576576576577
+                },
+                "variedIoU" : {
+                  "bottle" : 0.5030630630630629
+                }
+              },
+              "isValid" : true,
+              "meanAveragePrecision" : {
+                "IoU50" : 0.8076576576576577,
+                "variedIoU" : 0.5030630630630629
+              }
+            },
+            "meanAveragePrecision" : {
+              "IoU50" : 0.8076576576576577,
+              "variedIoU" : 0.5030630630630629
+            },
+            "rawDetails" : [
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.515625,
+                      "width" : 0.349609375,
+                      "x" : 0.5400390625,
+                      "y" : 0.306640625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1773_jpg.rf.cb498fd4178c4fb22ae7965192c0baee.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.470947265625,
+                      "width" : 0.3388671875,
+                      "x" : 0.54736328125,
+                      "y" : 0.294677734375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.4970703125,
+                      "width" : 0.375,
+                      "x" : 0.5361328125,
+                      "y" : 0.4873046875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1771_jpg.rf.ce9191b1b1540e471b172d738e8d49af.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.50634765625,
+                      "width" : 0.35888671875,
+                      "x" : 0.5458984375,
+                      "y" : 0.49560546875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.314453125,
+                      "width" : 0.21484375,
+                      "x" : 0.294921875,
+                      "y" : 0.3056640625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1612_jpg.rf.66daca72bfb84e5f985a2d6047b22d9e.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.32470703125,
+                      "width" : 0.258544921875,
+                      "x" : 0.296875,
+                      "y" : 0.298828125
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.431640625,
+                      "width" : 0.4482421875,
+                      "x" : 0.53515625,
+                      "y" : 0.4658203125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1745_jpg.rf.bb1799062e3f3a92887c3e987f518144.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.451171875,
+                      "width" : 0.446044921875,
+                      "x" : 0.525390625,
+                      "y" : 0.47998046875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3740234375,
+                      "width" : 0.2216796875,
+                      "x" : 0.4560546875,
+                      "y" : 0.5576171875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1637_jpg.rf.3c9f918b0aef7e2a184f35c3d3f7e5ac.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.365966796875,
+                      "width" : 0.271484375,
+                      "x" : 0.4560546875,
+                      "y" : 0.5537109375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.470703125,
+                      "width" : 0.6376953125,
+                      "x" : 0.490234375,
+                      "y" : 0.60546875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1749_jpg.rf.20060480689766b36b903b0ba1cb13be.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.50634765625,
+                      "width" : 0.5791015625,
+                      "x" : 0.49560546875,
+                      "y" : 0.5751953125
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.328125,
+                      "width" : 0.466796875,
+                      "x" : 0.3662109375,
+                      "y" : 0.4912109375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1695_jpg.rf.f4d76b1a92c8b1c65420f6a0ac506d4c.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.375732421875,
+                      "width" : 0.45654296875,
+                      "x" : 0.3515625,
+                      "y" : 0.47607421875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3037109375,
+                      "width" : 0.099609375,
+                      "x" : 0.3369140625,
+                      "y" : 0.4052734375
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.3193359375,
+                      "width" : 0.1376953125,
+                      "x" : 0.544921875,
+                      "y" : 0.451171875
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.3095703125,
+                      "width" : 0.1630859375,
+                      "x" : 0.4384765625,
+                      "y" : 0.759765625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1909_jpg.rf.6bf48df50641b5fbcb60a50d120494f9.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.4580078125,
+                      "width" : 0.1114501953125,
+                      "x" : 0.326904296875,
+                      "y" : 0.4013671875
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.384033203125,
+                      "width" : 0.1966552734375,
+                      "x" : 0.4482421875,
+                      "y" : 0.74658203125
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.3671875,
+                      "width" : 0.1412353515625,
+                      "x" : 0.54736328125,
+                      "y" : 0.43701171875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.5126953125,
+                      "width" : 0.232421875,
+                      "x" : 0.46484375,
+                      "y" : 0.259765625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1723_jpg.rf.9617b0939284cd467dedf524356d0e40.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.4384765625,
+                      "width" : 0.251708984375,
+                      "x" : 0.47216796875,
+                      "y" : 0.276611328125
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.232421875,
+                      "width" : 0.3037109375,
+                      "x" : 0.5634765625,
+                      "y" : 0.337890625
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.2177734375,
+                      "width" : 0.2919921875,
+                      "x" : 0.4697265625,
+                      "y" : 0.5302734375
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.154296875,
+                      "width" : 0.2431640625,
+                      "x" : 0.8125,
+                      "y" : 0.5283203125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1905_jpg.rf.298d36ca9549bb11e525a6aaac4950cf.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.267333984375,
+                      "width" : 0.296630859375,
+                      "x" : 0.5791015625,
+                      "y" : 0.35205078125
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.1546630859375,
+                      "width" : 0.24658203125,
+                      "x" : 0.80517578125,
+                      "y" : 0.52880859375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.154052734375,
+                      "width" : 0.24658203125,
+                      "x" : 0.43017578125,
+                      "y" : 0.56396484375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.23046875,
+                      "width" : 0.4208984375,
+                      "x" : 0.4619140625,
+                      "y" : 0.51171875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1801_jpg.rf.9bfdb38525a0ebf03d201781c281e9ad.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.27099609375,
+                      "width" : 0.39404296875,
+                      "x" : 0.42138671875,
+                      "y" : 0.50341796875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.591796875,
+                      "width" : 0.32421875,
+                      "x" : 0.591796875,
+                      "y" : 0.2958984375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1682_jpg.rf.c96675bff614743192640580a326e098.jpg",
+                "inferences" : [
+
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3359375,
+                      "width" : 0.2607421875,
+                      "x" : 0.51171875,
+                      "y" : 0.544921875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1789_jpg.rf.7464e4b51304cfd2e59f06e8dcf61144.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.337158203125,
+                      "width" : 0.281494140625,
+                      "x" : 0.51708984375,
+                      "y" : 0.5498046875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3310546875,
+                      "width" : 0.451171875,
+                      "x" : 0.513671875,
+                      "y" : 0.6083984375
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.103515625,
+                      "width" : 0.115234375,
+                      "x" : 0.9423828125,
+                      "y" : 0.0517578125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1622_jpg.rf.dbd7757dce173214751eb19906d62a87.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.384033203125,
+                      "width" : 0.52294921875,
+                      "x" : 0.5009765625,
+                      "y" : 0.59912109375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.116455078125,
+                      "width" : 0.1329345703125,
+                      "x" : 0.90966796875,
+                      "y" : 0.0662841796875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.193359375,
+                      "width" : 0.3427734375,
+                      "x" : 0.5302734375,
+                      "y" : 0.486328125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1562_jpg.rf.b59d3c7028d34461b0088f1ef7aa08dd.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.2315673828125,
+                      "width" : 0.393798828125,
+                      "x" : 0.52685546875,
+                      "y" : 0.492919921875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.2646484375,
+                      "width" : 0.326171875,
+                      "x" : 0.720703125,
+                      "y" : 0.4814453125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1596_jpg.rf.bcb3e9fd8082ebe96b831d757189a3c6.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.30322265625,
+                      "width" : 0.351806640625,
+                      "x" : 0.70556640625,
+                      "y" : 0.48193359375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.365234375,
+                      "width" : 0.3125,
+                      "x" : 0.3857421875,
+                      "y" : 0.345703125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1738_jpg.rf.3b461a5cc29b1a244171781f2ba232e1.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.370361328125,
+                      "width" : 0.302001953125,
+                      "x" : 0.39111328125,
+                      "y" : 0.3310546875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.228515625,
+                      "width" : 0.4619140625,
+                      "x" : 0.5888671875,
+                      "y" : 0.4443359375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1656_jpg.rf.b67bae5355c0b94d949f1a8a0cf2c94e.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.255615234375,
+                      "width" : 0.51953125,
+                      "x" : 0.5771484375,
+                      "y" : 0.44140625
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3994140625,
+                      "width" : 0.61328125,
+                      "x" : 0.373046875,
+                      "y" : 0.501953125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1680_jpg.rf.c682a8582602e5ee5fcee9eea45404f9.jpg",
+                "inferences" : [
+
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.642578125,
+                      "width" : 0.3408203125,
+                      "x" : 0.439453125,
+                      "y" : 0.494140625
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.18359375,
+                      "width" : 0.138671875,
+                      "x" : 0.8017578125,
+                      "y" : 0.091796875
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.1357421875,
+                      "width" : 0.14453125,
+                      "x" : 0.9228515625,
+                      "y" : 0.076171875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1673_jpg.rf.1f14951c221a2fad776488e9a1d89adf.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.1732177734375,
+                      "width" : 0.173828125,
+                      "x" : 0.8828125,
+                      "y" : 0.08642578125
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.65087890625,
+                      "width" : 0.5087890625,
+                      "x" : 0.432861328125,
+                      "y" : 0.4912109375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.11822509765625,
+                      "width" : 0.10589599609375,
+                      "x" : 0.88330078125,
+                      "y" : 0.0711669921875
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.13916015625,
+                      "width" : 0.1123046875,
+                      "x" : 0.818359375,
+                      "y" : 0.0863037109375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.5859375,
+                      "width" : 0.298828125,
+                      "x" : 0.3828125,
+                      "y" : 0.6845703125
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.1435546875,
+                      "width" : 0.126953125,
+                      "x" : 0.7822265625,
+                      "y" : 0.072265625
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.1025390625,
+                      "width" : 0.052734375,
+                      "x" : 0.85546875,
+                      "y" : 0.052734375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1864_jpg.rf.34d255a26ea860d1d876e487e7a0ebc9.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.129150390625,
+                      "width" : 0.1495361328125,
+                      "x" : 0.79052734375,
+                      "y" : 0.07366943359375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.5234375,
+                      "width" : 0.320556640625,
+                      "x" : 0.3984375,
+                      "y" : 0.66943359375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.1024169921875,
+                      "width" : 0.08172607421875,
+                      "x" : 0.79736328125,
+                      "y" : 0.063720703125
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.36328125,
+                      "width" : 0.54296875,
+                      "x" : 0.728515625,
+                      "y" : 0.642578125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1868_jpg.rf.508b0c8a628b48c2697ef17094985640.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.311767578125,
+                      "width" : 0.5732421875,
+                      "x" : 0.6767578125,
+                      "y" : 0.58935546875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.51171875,
+                      "width" : 0.521484375,
+                      "x" : 0.421875,
+                      "y" : 0.423828125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1746_jpg.rf.61282a8eb3354718b39f3ae7ff7c98a8.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.53369140625,
+                      "width" : 0.55126953125,
+                      "x" : 0.44091796875,
+                      "y" : 0.431396484375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.564453125,
+                      "width" : 0.3681640625,
+                      "x" : 0.2861328125,
+                      "y" : 0.3359375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1613_jpg.rf.513956ae74cf4076ea7f4f1a4b56fc59.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.48193359375,
+                      "width" : 0.380859375,
+                      "x" : 0.27978515625,
+                      "y" : 0.292724609375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.2626953125,
+                      "width" : 0.279296875,
+                      "x" : 0.275390625,
+                      "y" : 0.5205078125
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1846_jpg.rf.40a85f4850dcb33323eb4a9fdac68e3f.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.28271484375,
+                      "width" : 0.276123046875,
+                      "x" : 0.275634765625,
+                      "y" : 0.51171875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3271484375,
+                      "width" : 0.20703125,
+                      "x" : 0.498046875,
+                      "y" : 0.447265625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1658_jpg.rf.79e8cf10de59fba6d24ccf7f640926bd.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.319580078125,
+                      "width" : 0.2392578125,
+                      "x" : 0.496337890625,
+                      "y" : 0.44140625
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.2333984375,
+                      "width" : 0.259765625,
+                      "x" : 0.3876953125,
+                      "y" : 0.5263671875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1559_jpg.rf.2fc5fb712932f7059c2e9c5cc59ad73b.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.234130859375,
+                      "width" : 0.287841796875,
+                      "x" : 0.39501953125,
+                      "y" : 0.52490234375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.2607421875,
+                      "width" : 0.3056640625,
+                      "x" : 0.3896484375,
+                      "y" : 0.5078125
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.138671875,
+                      "width" : 0.1357421875,
+                      "x" : 0.931640625,
+                      "y" : 0.0771484375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1620_jpg.rf.1ad80a81432a23c0ec0d15bec457c55d.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.256103515625,
+                      "width" : 0.312744140625,
+                      "x" : 0.39111328125,
+                      "y" : 0.505859375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.1416015625,
+                      "width" : 0.1334228515625,
+                      "x" : 0.9169921875,
+                      "y" : 0.088623046875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3017578125,
+                      "width" : 0.4404296875,
+                      "x" : 0.39453125,
+                      "y" : 0.4130859375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1768_jpg.rf.5d3b5115920c3170b0a78e30346e6b55.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.27880859375,
+                      "width" : 0.438232421875,
+                      "x" : 0.370361328125,
+                      "y" : 0.42236328125
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3173828125,
+                      "width" : 0.1982421875,
+                      "x" : 0.5390625,
+                      "y" : 0.48046875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1645_jpg.rf.35c49aec869a9d60e998677d367c57a7.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.3701171875,
+                      "width" : 0.1883544921875,
+                      "x" : 0.53076171875,
+                      "y" : 0.47412109375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.466796875,
+                      "width" : 0.169921875,
+                      "x" : 0.50390625,
+                      "y" : 0.501953125
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.1630859375,
+                      "width" : 0.0556640625,
+                      "x" : 0.384765625,
+                      "y" : 0.2607421875
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.1044921875,
+                      "width" : 0.02734375,
+                      "x" : 0.41015625,
+                      "y" : 0.2626953125
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.2685546875,
+                      "width" : 0.103515625,
+                      "x" : 0.46484375,
+                      "y" : 0.15625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1712_jpg.rf.d9c5ab5fd5220903eecd172fce9e8934.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.453857421875,
+                      "width" : 0.2198486328125,
+                      "x" : 0.51513671875,
+                      "y" : 0.471435546875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.2490234375,
+                      "width" : 0.3935546875,
+                      "x" : 0.7236328125,
+                      "y" : 0.3994140625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1809_jpg.rf.aa920a07f3d9cac788f1873e1371fbd9.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.322021484375,
+                      "width" : 0.45458984375,
+                      "x" : 0.70703125,
+                      "y" : 0.402587890625
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.3251953125,
+                      "width" : 0.2216796875,
+                      "x" : 0.453125,
+                      "y" : 0.4091796875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1606_jpg.rf.89fc82647a225d6c399052e358e9759e.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.34814453125,
+                      "width" : 0.237060546875,
+                      "x" : 0.451904296875,
+                      "y" : 0.41064453125
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.2822265625,
+                      "width" : 0.458984375,
+                      "x" : 0.556640625,
+                      "y" : 0.5068359375
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1594_jpg.rf.e1d80cb16782b5923fbe4757ff0ed36b.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.29443359375,
+                      "width" : 0.515625,
+                      "x" : 0.56787109375,
+                      "y" : 0.50537109375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.359375,
+                      "width" : 0.52734375,
+                      "x" : 0.6201171875,
+                      "y" : 0.54296875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1764_jpg.rf.f75d58301109a8dd5432bdf7d4d3ec7d.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.337890625,
+                      "width" : 0.51806640625,
+                      "x" : 0.576171875,
+                      "y" : 0.51513671875
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.53466796875,
+                      "width" : 0.5390625,
+                      "x" : 0.344482421875,
+                      "y" : 0.426513671875
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.349609375,
+                      "width" : 0.2802734375,
+                      "x" : 0.408203125,
+                      "y" : 0.5810546875
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1841_jpg.rf.3c489a1027fc869f9494eb588c153bee.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.337646484375,
+                      "width" : 0.3193359375,
+                      "x" : 0.3984375,
+                      "y" : 0.5771484375
+                    }
+                  }
+                ]
+              },
+              {
+                "annotations" : [
+                  {
+                    "coordinates" : {
+                      "height" : 0.41796875,
+                      "width" : 0.2587890625,
+                      "x" : 0.361328125,
+                      "y" : 0.47265625
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.3984375,
+                      "width" : 0.248046875,
+                      "x" : 0.369140625,
+                      "y" : 0.19921875
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.244140625,
+                      "width" : 0.17578125,
+                      "x" : 0.6982421875,
+                      "y" : 0.376953125
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.099609375,
+                      "width" : 0.0908203125,
+                      "x" : 0.6376953125,
+                      "y" : 0.1552734375
+                    },
+                    "label" : "bottle"
+                  },
+                  {
+                    "coordinates" : {
+                      "height" : 0.13671875,
+                      "width" : 0.1005859375,
+                      "x" : 0.615234375,
+                      "y" : 0.119140625
+                    },
+                    "label" : "bottle"
+                  }
+                ],
+                "imagePath" : "/Users/arya/Downloads/HackGT.v1i.createml/test/IMG_1899_jpg.rf.a06b979fe534b4602ea8798586c36b47.jpg",
+                "inferences" : [
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.1312255859375,
+                      "width" : 0.078857421875,
+                      "x" : 0.63916015625,
+                      "y" : 0.1331787109375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.31005859375,
+                      "width" : 0.1796875,
+                      "x" : 0.70068359375,
+                      "y" : 0.369873046875
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.44189453125,
+                      "width" : 0.34716796875,
+                      "x" : 0.369384765625,
+                      "y" : 0.466552734375
+                    }
+                  },
+                  {
+                    "classifications" : [
+                      {
+                        "confidence" : 1,
+                        "identifier" : "bottle"
+                      }
+                    ],
+                    "coordinates" : {
+                      "height" : 0.1287841796875,
+                      "width" : 0.0767822265625,
+                      "x" : 0.59619140625,
+                      "y" : 0.134765625
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "finishTime" : "2026-09-26T09:43:10Z",
+        "id" : "5f56a2c8-1362-4dea-9f58-5d827fded88e",
+        "startTime" : "2026-09-26T09:43:10Z"
+      }
+    ],
+    "id" : "979cfa90-fb44-49e7-8837-22cb60ef7053",
+    "modifiedDate" : "2026-09-26T09:43:10Z",
+    "previewType" : "objectDetector",
+    "testingEvaluationEntity" : {
+      "analysedDataType" : "datasource",
+      "createdDate" : "2026-09-26T09:40:21Z",
+      "dataResult" : {
+        "classesCount" : 1,
+        "createdDate" : "2026-09-26T09:40:21Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+
+          },
+          "issues" : [
+            {
+              "description" : "1 classes found, including bottle",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Less than 50 total images found - add more to improve model validation",
+              "severity" : "warning"
+            },
+            {
+              "description" : "Smallest class is \"bottle\" with 54 images",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Largest class is \"bottle\" with 54 images",
+              "severity" : "debug"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            },
+            "labelStats" : {
+              "bottle" : 54
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 1,
+            "classCount" : 1,
+            "counterExamples" : 0,
+            "sampleCount" : 37,
+            "suggestedMaxIterations" : 2000
+          },
+          "warning" : "Less than 50 total images found - add more to improve model validation"
+        },
+        "dataSourceID" : "81C0F487-57F3-490F-8329-7F431C1EF552",
+        "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/test/",
+        "itemsCount" : 37,
+        "warning" : "Less than 50 total images found - add more to improve model validation"
+      },
+      "dataSourceID" : "81C0F487-57F3-490F-8329-7F431C1EF552",
+      "id" : "5289d886-9784-42a0-8d49-239268137dfe"
+    },
+    "trainingEvaluationEntity" : {
+      "analysedDataType" : "none",
+      "createdDate" : "2026-09-26T09:40:21Z",
+      "dataResult" : {
+        "classesCount" : 1,
+        "createdDate" : "2026-09-26T09:40:21Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+
+          },
+          "issues" : [
+            {
+              "description" : "1 classes found, including bottle",
+              "severity" : "debug"
+            },
+            {
+              "description" : "1123 annotations found, automatically creating validation set",
+              "severity" : "good"
+            },
+            {
+              "description" : "Smallest class is \"bottle\" with 1123 images",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Largest class is \"bottle\" with 1123 images",
+              "severity" : "debug"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            },
+            "labelStats" : {
+              "bottle" : 1123
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 1,
+            "classCount" : 1,
+            "counterExamples" : 0,
+            "sampleCount" : 754,
+            "suggestedMaxIterations" : 10000
+          }
+        },
+        "dataSourceID" : "476422B5-834C-45A6-8524-4B2D199D89EA",
+        "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/train/",
+        "itemsCount" : 754
+      },
+      "dataSourceID" : "476422B5-834C-45A6-8524-4B2D199D89EA",
+      "id" : "ea9f66c1-79dd-4828-958d-a1e46ac59e32"
+    },
+    "validationEvaluationEntity" : {
+      "analysedDataType" : "datasource",
+      "createdDate" : "2026-09-26T09:40:21Z",
+      "dataResult" : {
+        "classesCount" : 1,
+        "createdDate" : "2026-09-26T09:40:21Z",
+        "dataAnalysis" : {
+          "classifierAnalysis" : {
+
+          },
+          "issues" : [
+            {
+              "description" : "1 classes found, including bottle",
+              "severity" : "debug"
+            },
+            {
+              "description" : "116 annotations found, automatically creating validation set",
+              "severity" : "good"
+            },
+            {
+              "description" : "Smallest class is \"bottle\" with 116 images",
+              "severity" : "debug"
+            },
+            {
+              "description" : "Largest class is \"bottle\" with 116 images",
+              "severity" : "debug"
+            }
+          ],
+          "objectDetectorAnalysis" : {
+            "details" : {
+
+            },
+            "labelStats" : {
+              "bottle" : 116
+            }
+          },
+          "summary" : {
+            "canUseValidation" : 1,
+            "classCount" : 1,
+            "counterExamples" : 0,
+            "sampleCount" : 73,
+            "suggestedMaxIterations" : 3000
+          }
+        },
+        "dataSourceID" : "187E6B1F-7D78-4433-B223-93199692D34F",
+        "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/valid/",
+        "itemsCount" : 73
+      },
+      "dataSourceID" : "187E6B1F-7D78-4433-B223-93199692D34F",
+      "id" : "c01a2498-0a12-499d-a4a7-6595f7ed1a33"
+    }
+  },
+  "evaluationEntity" : {
+    "analysedDataType" : "none",
+    "dataResult" : {
+
+    },
+    "id" : "6bb82062-803f-4313-81f5-605b25e8dd97"
+  },
+  "evaluationState" : "evaluated",
+  "id" : "8D46D7AF-E7BD-40C7-A0A0-EBA1C105F1C9",
+  "modelEntity" : {
+    "createdDate" : "2026-09-26T09:40:21Z",
+    "experimentID" : "4ADC3027-9E3E-42BE-BF9E-0211D05A950B",
+    "id" : "FE5E8EB7-68F4-4096-871C-0CE9DC48FB1A",
+    "modelURL" : "Snapshots/PillBottleDetector%201%20Iteration%201080.mlmodel",
+    "modifiedDate" : "2026-09-26T09:40:21Z",
+    "title" : "",
+    "version" : "1.0"
+  },
+  "modifiedDate" : "2026-09-26T09:43:10Z",
+  "preferredFilename" : "PillBottleDetector 1 Iteration 1080",
+  "settingEntity" : {
+    "algorithmType" : "maxEnt",
+    "augmentations" : [
+
+    ],
+    "featureNames" : [
+
+    ],
+    "handActionClassifierAugmentations" : [
+
+    ],
+    "handPoseClassifierAugmentations" : [
+
+    ],
+    "harVideoAugmentations" : 0,
+    "iterationCount" : 10000,
+    "odAlgorithmType" : "darknetYolo",
+    "odGridHeight" : 13,
+    "odGridWidth" : 13,
+    "recommendedIterationCount" : 10000,
+    "seedType" : "default",
+    "taskType" : "objectDetector",
+    "transferLearningEmbeddingType" : "dynamic"
+  },
+  "snapshotRole" : {
+    "snapshotIteration" : 1080,
+    "snapshotParent" : "4ADC3027-9E3E-42BE-BF9E-0211D05A950B"
+  },
+  "state" : "trained",
+  "title" : "Iteration 1,080",
+  "trainingEntity" : {
+    "analysedDataType" : "datasource",
+    "checkpointMetrics" : {
+      "10" : {
+        "createdDate" : "2026-09-26T09:22:36Z",
+        "iteration" : 10,
+        "metrics" : {
+          "loss" : 4.359996795654297
+        }
+      },
+      "100" : {
+        "createdDate" : "2026-09-26T09:24:04Z",
+        "iteration" : 100,
+        "metrics" : {
+          "loss" : 2.6891133785247803
+        }
+      },
+      "1000" : {
+        "createdDate" : "2026-09-26T09:38:56Z",
+        "iteration" : 1000,
+        "metrics" : {
+          "loss" : 1.1000447273254395
+        }
+      },
+      "1010" : {
+        "createdDate" : "2026-09-26T09:39:05Z",
+        "iteration" : 1010,
+        "metrics" : {
+          "loss" : 1.131443977355957
+        }
+      },
+      "1020" : {
+        "createdDate" : "2026-09-26T09:39:15Z",
+        "iteration" : 1020,
+        "metrics" : {
+          "loss" : 1.1381717920303345
+        }
+      },
+      "1030" : {
+        "createdDate" : "2026-09-26T09:39:25Z",
+        "iteration" : 1030,
+        "metrics" : {
+          "loss" : 1.1237472295761108
+        }
+      },
+      "1040" : {
+        "createdDate" : "2026-09-26T09:39:35Z",
+        "iteration" : 1040,
+        "metrics" : {
+          "loss" : 1.0974323749542236
+        }
+      },
+      "1050" : {
+        "createdDate" : "2026-09-26T09:39:44Z",
+        "iteration" : 1050,
+        "metrics" : {
+          "loss" : 1.0893738269805908
+        }
+      },
+      "1060" : {
+        "createdDate" : "2026-09-26T09:39:54Z",
+        "iteration" : 1060,
+        "metrics" : {
+          "loss" : 1.0154467821121216
+        }
+      },
+      "1070" : {
+        "createdDate" : "2026-09-26T09:40:04Z",
+        "iteration" : 1070,
+        "metrics" : {
+          "loss" : 1.0312912464141846
+        }
+      },
+      "1080" : {
+        "createdDate" : "2026-09-26T09:40:14Z",
+        "iteration" : 1080,
+        "metrics" : {
+          "loss" : 0.9889917969703674
+        }
+      },
+      "110" : {
+        "createdDate" : "2026-09-26T09:24:13Z",
+        "iteration" : 110,
+        "metrics" : {
+          "loss" : 2.570225238800049
+        }
+      },
+      "120" : {
+        "createdDate" : "2026-09-26T09:24:23Z",
+        "iteration" : 120,
+        "metrics" : {
+          "loss" : 2.4795830249786377
+        }
+      },
+      "130" : {
+        "createdDate" : "2026-09-26T09:24:32Z",
+        "iteration" : 130,
+        "metrics" : {
+          "loss" : 2.3813676834106445
+        }
+      },
+      "140" : {
+        "createdDate" : "2026-09-26T09:24:42Z",
+        "iteration" : 140,
+        "metrics" : {
+          "loss" : 2.414116382598877
+        }
+      },
+      "150" : {
+        "createdDate" : "2026-09-26T09:24:51Z",
+        "iteration" : 150,
+        "metrics" : {
+          "loss" : 2.2697231769561768
+        }
+      },
+      "160" : {
+        "createdDate" : "2026-09-26T09:25:01Z",
+        "iteration" : 160,
+        "metrics" : {
+          "loss" : 2.2444114685058594
+        }
+      },
+      "170" : {
+        "createdDate" : "2026-09-26T09:25:11Z",
+        "iteration" : 170,
+        "metrics" : {
+          "loss" : 2.1712722778320312
+        }
+      },
+      "180" : {
+        "createdDate" : "2026-09-26T09:25:38Z",
+        "iteration" : 180,
+        "metrics" : {
+          "loss" : 1.889569640159607
+        }
+      },
+      "190" : {
+        "createdDate" : "2026-09-26T09:25:48Z",
+        "iteration" : 190,
+        "metrics" : {
+          "loss" : 2.018869638442993
+        }
+      },
+      "20" : {
+        "createdDate" : "2026-09-26T09:22:46Z",
+        "iteration" : 20,
+        "metrics" : {
+          "loss" : 4.338231563568115
+        }
+      },
+      "200" : {
+        "createdDate" : "2026-09-26T09:25:59Z",
+        "iteration" : 200,
+        "metrics" : {
+          "loss" : 2.108226776123047
+        }
+      },
+      "210" : {
+        "createdDate" : "2026-09-26T09:26:08Z",
+        "iteration" : 210,
+        "metrics" : {
+          "loss" : 2.027254819869995
+        }
+      },
+      "220" : {
+        "createdDate" : "2026-09-26T09:26:18Z",
+        "iteration" : 220,
+        "metrics" : {
+          "loss" : 1.960982084274292
+        }
+      },
+      "230" : {
+        "createdDate" : "2026-09-26T09:26:28Z",
+        "iteration" : 230,
+        "metrics" : {
+          "loss" : 1.935947299003601
+        }
+      },
+      "240" : {
+        "createdDate" : "2026-09-26T09:26:37Z",
+        "iteration" : 240,
+        "metrics" : {
+          "loss" : 1.7792617082595825
+        }
+      },
+      "250" : {
+        "createdDate" : "2026-09-26T09:26:47Z",
+        "iteration" : 250,
+        "metrics" : {
+          "loss" : 1.7886759042739868
+        }
+      },
+      "260" : {
+        "createdDate" : "2026-09-26T09:26:57Z",
+        "iteration" : 260,
+        "metrics" : {
+          "loss" : 1.8392481803894043
+        }
+      },
+      "270" : {
+        "createdDate" : "2026-09-26T09:27:06Z",
+        "iteration" : 270,
+        "metrics" : {
+          "loss" : 1.8366543054580688
+        }
+      },
+      "280" : {
+        "createdDate" : "2026-09-26T09:27:16Z",
+        "iteration" : 280,
+        "metrics" : {
+          "loss" : 1.8172184228897095
+        }
+      },
+      "290" : {
+        "createdDate" : "2026-09-26T09:27:26Z",
+        "iteration" : 290,
+        "metrics" : {
+          "loss" : 1.699188232421875
+        }
+      },
+      "30" : {
+        "createdDate" : "2026-09-26T09:22:55Z",
+        "iteration" : 30,
+        "metrics" : {
+          "loss" : 3.9086577892303467
+        }
+      },
+      "300" : {
+        "createdDate" : "2026-09-26T09:27:35Z",
+        "iteration" : 300,
+        "metrics" : {
+          "loss" : 1.7174394130706787
+        }
+      },
+      "310" : {
+        "createdDate" : "2026-09-26T09:27:45Z",
+        "iteration" : 310,
+        "metrics" : {
+          "loss" : 1.729903221130371
+        }
+      },
+      "320" : {
+        "createdDate" : "2026-09-26T09:27:54Z",
+        "iteration" : 320,
+        "metrics" : {
+          "loss" : 1.8200796842575073
+        }
+      },
+      "330" : {
+        "createdDate" : "2026-09-26T09:28:04Z",
+        "iteration" : 330,
+        "metrics" : {
+          "loss" : 1.7146506309509277
+        }
+      },
+      "340" : {
+        "createdDate" : "2026-09-26T09:28:13Z",
+        "iteration" : 340,
+        "metrics" : {
+          "loss" : 1.7041527032852173
+        }
+      },
+      "350" : {
+        "createdDate" : "2026-09-26T09:28:23Z",
+        "iteration" : 350,
+        "metrics" : {
+          "loss" : 1.6508840322494507
+        }
+      },
+      "360" : {
+        "createdDate" : "2026-09-26T09:28:32Z",
+        "iteration" : 360,
+        "metrics" : {
+          "loss" : 1.5917335748672485
+        }
+      },
+      "370" : {
+        "createdDate" : "2026-09-26T09:28:42Z",
+        "iteration" : 370,
+        "metrics" : {
+          "loss" : 1.615891933441162
+        }
+      },
+      "380" : {
+        "createdDate" : "2026-09-26T09:28:52Z",
+        "iteration" : 380,
+        "metrics" : {
+          "loss" : 1.6355503797531128
+        }
+      },
+      "390" : {
+        "createdDate" : "2026-09-26T09:29:01Z",
+        "iteration" : 390,
+        "metrics" : {
+          "loss" : 1.56300950050354
+        }
+      },
+      "40" : {
+        "createdDate" : "2026-09-26T09:23:05Z",
+        "iteration" : 40,
+        "metrics" : {
+          "loss" : 3.54439115524292
+        }
+      },
+      "400" : {
+        "createdDate" : "2026-09-26T09:29:11Z",
+        "iteration" : 400,
+        "metrics" : {
+          "loss" : 1.4903018474578857
+        }
+      },
+      "410" : {
+        "createdDate" : "2026-09-26T09:29:20Z",
+        "iteration" : 410,
+        "metrics" : {
+          "loss" : 1.5767414569854736
+        }
+      },
+      "420" : {
+        "createdDate" : "2026-09-26T09:29:30Z",
+        "iteration" : 420,
+        "metrics" : {
+          "loss" : 1.5049738883972168
+        }
+      },
+      "430" : {
+        "createdDate" : "2026-09-26T09:29:39Z",
+        "iteration" : 430,
+        "metrics" : {
+          "loss" : 1.5031124353408813
+        }
+      },
+      "440" : {
+        "createdDate" : "2026-09-26T09:29:49Z",
+        "iteration" : 440,
+        "metrics" : {
+          "loss" : 1.5343048572540283
+        }
+      },
+      "450" : {
+        "createdDate" : "2026-09-26T09:29:58Z",
+        "iteration" : 450,
+        "metrics" : {
+          "loss" : 1.4131922721862793
+        }
+      },
+      "460" : {
+        "createdDate" : "2026-09-26T09:30:08Z",
+        "iteration" : 460,
+        "metrics" : {
+          "loss" : 1.420525312423706
+        }
+      },
+      "470" : {
+        "createdDate" : "2026-09-26T09:30:18Z",
+        "iteration" : 470,
+        "metrics" : {
+          "loss" : 1.453589677810669
+        }
+      },
+      "480" : {
+        "createdDate" : "2026-09-26T09:30:27Z",
+        "iteration" : 480,
+        "metrics" : {
+          "loss" : 1.500382661819458
+        }
+      },
+      "490" : {
+        "createdDate" : "2026-09-26T09:30:37Z",
+        "iteration" : 490,
+        "metrics" : {
+          "loss" : 1.428545594215393
+        }
+      },
+      "50" : {
+        "createdDate" : "2026-09-26T09:23:15Z",
+        "iteration" : 50,
+        "metrics" : {
+          "loss" : 3.458465814590454
+        }
+      },
+      "500" : {
+        "createdDate" : "2026-09-26T09:30:46Z",
+        "iteration" : 500,
+        "metrics" : {
+          "loss" : 1.406475305557251
+        }
+      },
+      "510" : {
+        "createdDate" : "2026-09-26T09:30:56Z",
+        "iteration" : 510,
+        "metrics" : {
+          "loss" : 1.358931064605713
+        }
+      },
+      "520" : {
+        "createdDate" : "2026-09-26T09:31:06Z",
+        "iteration" : 520,
+        "metrics" : {
+          "loss" : 1.4405031204223633
+        }
+      },
+      "530" : {
+        "createdDate" : "2026-09-26T09:31:16Z",
+        "iteration" : 530,
+        "metrics" : {
+          "loss" : 1.4294406175613403
+        }
+      },
+      "540" : {
+        "createdDate" : "2026-09-26T09:31:26Z",
+        "iteration" : 540,
+        "metrics" : {
+          "loss" : 1.3894399404525757
+        }
+      },
+      "550" : {
+        "createdDate" : "2026-09-26T09:31:36Z",
+        "iteration" : 550,
+        "metrics" : {
+          "loss" : 1.3717622756958008
+        }
+      },
+      "560" : {
+        "createdDate" : "2026-09-26T09:31:45Z",
+        "iteration" : 560,
+        "metrics" : {
+          "loss" : 1.4550853967666626
+        }
+      },
+      "570" : {
+        "createdDate" : "2026-09-26T09:31:55Z",
+        "iteration" : 570,
+        "metrics" : {
+          "loss" : 1.46193265914917
+        }
+      },
+      "580" : {
+        "createdDate" : "2026-09-26T09:32:05Z",
+        "iteration" : 580,
+        "metrics" : {
+          "loss" : 1.3488399982452393
+        }
+      },
+      "590" : {
+        "createdDate" : "2026-09-26T09:32:14Z",
+        "iteration" : 590,
+        "metrics" : {
+          "loss" : 1.3501888513565063
+        }
+      },
+      "60" : {
+        "createdDate" : "2026-09-26T09:23:25Z",
+        "iteration" : 60,
+        "metrics" : {
+          "loss" : 3.225627899169922
+        }
+      },
+      "600" : {
+        "createdDate" : "2026-09-26T09:32:24Z",
+        "iteration" : 600,
+        "metrics" : {
+          "loss" : 1.2764331102371216
+        }
+      },
+      "610" : {
+        "createdDate" : "2026-09-26T09:32:34Z",
+        "iteration" : 610,
+        "metrics" : {
+          "loss" : 1.2523424625396729
+        }
+      },
+      "620" : {
+        "createdDate" : "2026-09-26T09:32:44Z",
+        "iteration" : 620,
+        "metrics" : {
+          "loss" : 1.2283509969711304
+        }
+      },
+      "630" : {
+        "createdDate" : "2026-09-26T09:32:53Z",
+        "iteration" : 630,
+        "metrics" : {
+          "loss" : 1.2715964317321777
+        }
+      },
+      "640" : {
+        "createdDate" : "2026-09-26T09:33:04Z",
+        "iteration" : 640,
+        "metrics" : {
+          "loss" : 1.2932199239730835
+        }
+      },
+      "650" : {
+        "createdDate" : "2026-09-26T09:33:14Z",
+        "iteration" : 650,
+        "metrics" : {
+          "loss" : 1.3069547414779663
+        }
+      },
+      "660" : {
+        "createdDate" : "2026-09-26T09:33:24Z",
+        "iteration" : 660,
+        "metrics" : {
+          "loss" : 1.3115514516830444
+        }
+      },
+      "670" : {
+        "createdDate" : "2026-09-26T09:33:34Z",
+        "iteration" : 670,
+        "metrics" : {
+          "loss" : 1.2565399408340454
+        }
+      },
+      "680" : {
+        "createdDate" : "2026-09-26T09:33:44Z",
+        "iteration" : 680,
+        "metrics" : {
+          "loss" : 1.2533769607543945
+        }
+      },
+      "690" : {
+        "createdDate" : "2026-09-26T09:33:54Z",
+        "iteration" : 690,
+        "metrics" : {
+          "loss" : 1.2744237184524536
+        }
+      },
+      "70" : {
+        "createdDate" : "2026-09-26T09:23:35Z",
+        "iteration" : 70,
+        "metrics" : {
+          "loss" : 3.1548852920532227
+        }
+      },
+      "700" : {
+        "createdDate" : "2026-09-26T09:34:04Z",
+        "iteration" : 700,
+        "metrics" : {
+          "loss" : 1.2029386758804321
+        }
+      },
+      "710" : {
+        "createdDate" : "2026-09-26T09:34:14Z",
+        "iteration" : 710,
+        "metrics" : {
+          "loss" : 1.1794028282165527
+        }
+      },
+      "720" : {
+        "createdDate" : "2026-09-26T09:34:23Z",
+        "iteration" : 720,
+        "metrics" : {
+          "loss" : 1.142008900642395
+        }
+      },
+      "730" : {
+        "createdDate" : "2026-09-26T09:34:33Z",
+        "iteration" : 730,
+        "metrics" : {
+          "loss" : 1.2060409784317017
+        }
+      },
+      "740" : {
+        "createdDate" : "2026-09-26T09:34:43Z",
+        "iteration" : 740,
+        "metrics" : {
+          "loss" : 1.235092043876648
+        }
+      },
+      "750" : {
+        "createdDate" : "2026-09-26T09:34:52Z",
+        "iteration" : 750,
+        "metrics" : {
+          "loss" : 1.2845838069915771
+        }
+      },
+      "760" : {
+        "createdDate" : "2026-09-26T09:35:02Z",
+        "iteration" : 760,
+        "metrics" : {
+          "loss" : 1.2123910188674927
+        }
+      },
+      "770" : {
+        "createdDate" : "2026-09-26T09:35:12Z",
+        "iteration" : 770,
+        "metrics" : {
+          "loss" : 1.2363314628601074
+        }
+      },
+      "780" : {
+        "createdDate" : "2026-09-26T09:35:21Z",
+        "iteration" : 780,
+        "metrics" : {
+          "loss" : 1.2614654302597046
+        }
+      },
+      "790" : {
+        "createdDate" : "2026-09-26T09:35:31Z",
+        "iteration" : 790,
+        "metrics" : {
+          "loss" : 1.1784389019012451
+        }
+      },
+      "80" : {
+        "createdDate" : "2026-09-26T09:23:44Z",
+        "iteration" : 80,
+        "metrics" : {
+          "loss" : 3.0410423278808594
+        }
+      },
+      "800" : {
+        "createdDate" : "2026-09-26T09:35:41Z",
+        "iteration" : 800,
+        "metrics" : {
+          "loss" : 1.192230463027954
+        }
+      },
+      "810" : {
+        "createdDate" : "2026-09-26T09:35:50Z",
+        "iteration" : 810,
+        "metrics" : {
+          "loss" : 1.239043116569519
+        }
+      },
+      "820" : {
+        "createdDate" : "2026-09-26T09:36:00Z",
+        "iteration" : 820,
+        "metrics" : {
+          "loss" : 1.3014674186706543
+        }
+      },
+      "830" : {
+        "createdDate" : "2026-09-26T09:36:10Z",
+        "iteration" : 830,
+        "metrics" : {
+          "loss" : 1.2054600715637207
+        }
+      },
+      "840" : {
+        "createdDate" : "2026-09-26T09:36:19Z",
+        "iteration" : 840,
+        "metrics" : {
+          "loss" : 1.2090904712677002
+        }
+      },
+      "850" : {
+        "createdDate" : "2026-09-26T09:36:29Z",
+        "iteration" : 850,
+        "metrics" : {
+          "loss" : 1.088590383529663
+        }
+      },
+      "860" : {
+        "createdDate" : "2026-09-26T09:36:39Z",
+        "iteration" : 860,
+        "metrics" : {
+          "loss" : 1.176059365272522
+        }
+      },
+      "870" : {
+        "createdDate" : "2026-09-26T09:36:49Z",
+        "iteration" : 870,
+        "metrics" : {
+          "loss" : 1.1353113651275635
+        }
+      },
+      "880" : {
+        "createdDate" : "2026-09-26T09:36:59Z",
+        "iteration" : 880,
+        "metrics" : {
+          "loss" : 1.1167975664138794
+        }
+      },
+      "890" : {
+        "createdDate" : "2026-09-26T09:37:08Z",
+        "iteration" : 890,
+        "metrics" : {
+          "loss" : 1.0708990097045898
+        }
+      },
+      "90" : {
+        "createdDate" : "2026-09-26T09:23:54Z",
+        "iteration" : 90,
+        "metrics" : {
+          "loss" : 2.7842347621917725
+        }
+      },
+      "900" : {
+        "createdDate" : "2026-09-26T09:37:18Z",
+        "iteration" : 900,
+        "metrics" : {
+          "loss" : 1.2399502992630005
+        }
+      },
+      "910" : {
+        "createdDate" : "2026-09-26T09:37:28Z",
+        "iteration" : 910,
+        "metrics" : {
+          "loss" : 1.1808491945266724
+        }
+      },
+      "920" : {
+        "createdDate" : "2026-09-26T09:37:38Z",
+        "iteration" : 920,
+        "metrics" : {
+          "loss" : 1.1533020734786987
+        }
+      },
+      "930" : {
+        "createdDate" : "2026-09-26T09:37:47Z",
+        "iteration" : 930,
+        "metrics" : {
+          "loss" : 1.0973867177963257
+        }
+      },
+      "940" : {
+        "createdDate" : "2026-09-26T09:37:57Z",
+        "iteration" : 940,
+        "metrics" : {
+          "loss" : 1.1124043464660645
+        }
+      },
+      "950" : {
+        "createdDate" : "2026-09-26T09:38:07Z",
+        "iteration" : 950,
+        "metrics" : {
+          "loss" : 1.1226438283920288
+        }
+      },
+      "960" : {
+        "createdDate" : "2026-09-26T09:38:17Z",
+        "iteration" : 960,
+        "metrics" : {
+          "loss" : 1.080127477645874
+        }
+      },
+      "970" : {
+        "createdDate" : "2026-09-26T09:38:26Z",
+        "iteration" : 970,
+        "metrics" : {
+          "loss" : 1.1319584846496582
+        }
+      },
+      "980" : {
+        "createdDate" : "2026-09-26T09:38:36Z",
+        "iteration" : 980,
+        "metrics" : {
+          "loss" : 1.0895105600357056
+        }
+      },
+      "990" : {
+        "createdDate" : "2026-09-26T09:38:46Z",
+        "iteration" : 990,
+        "metrics" : {
+          "loss" : 1.106629490852356
+        }
+      }
+    },
+    "dataResult" : {
+      "classesCount" : 1,
+      "createdDate" : "2026-09-26T09:40:21Z",
+      "dataAnalysis" : {
+        "classifierAnalysis" : {
+
+        },
+        "issues" : [
+          {
+            "description" : "1 classes found, including bottle",
+            "severity" : "debug"
+          },
+          {
+            "description" : "1123 annotations found, automatically creating validation set",
+            "severity" : "good"
+          },
+          {
+            "description" : "Smallest class is \"bottle\" with 1123 images",
+            "severity" : "debug"
+          },
+          {
+            "description" : "Largest class is \"bottle\" with 1123 images",
+            "severity" : "debug"
+          }
+        ],
+        "objectDetectorAnalysis" : {
+          "details" : {
+
+          },
+          "labelStats" : {
+            "bottle" : 1123
+          }
+        },
+        "summary" : {
+          "canUseValidation" : 1,
+          "classCount" : 1,
+          "counterExamples" : 0,
+          "sampleCount" : 754,
+          "suggestedMaxIterations" : 10000
+        }
+      },
+      "dataSourceID" : "476422B5-834C-45A6-8524-4B2D199D89EA",
+      "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/train/",
+      "itemsCount" : 754
+    },
+    "dataSourceID" : "476422B5-834C-45A6-8524-4B2D199D89EA",
+    "featureExtractionCheckpointMayBeAvailable" : false,
+    "progress" : [
+      {
+        "count" : 5,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 6.489598989486694,
+          "iterationCount" : 5,
+          "loss" : 4.369223117828369
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 10,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 10,
+          "loss" : 4.359996795654297
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 15,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 16.18904995918274,
+          "iterationCount" : 15,
+          "loss" : 4.413500785827637
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 20,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 20,
+          "loss" : 4.338231563568115
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 25,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 25.78049397468567,
+          "iterationCount" : 25,
+          "loss" : 4.062204360961914
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 30,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 30,
+          "loss" : 3.9086577892303467
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 35,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 35.38863396644592,
+          "iterationCount" : 35,
+          "loss" : 3.7116916179656982
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 40,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 40,
+          "loss" : 3.54439115524292
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 45,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 45.12148201465607,
+          "iterationCount" : 45,
+          "loss" : 3.4592678546905518
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 50,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 50,
+          "loss" : 3.458465814590454
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 55,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 55.11936593055725,
+          "iterationCount" : 55,
+          "loss" : 3.3438878059387207
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 60,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 60,
+          "loss" : 3.225627899169922
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 65,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 64.94240295886993,
+          "iterationCount" : 65,
+          "loss" : 3.1596603393554688
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 70,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 70,
+          "loss" : 3.1548852920532227
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 75,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 74.71751999855042,
+          "iterationCount" : 75,
+          "loss" : 3.0204951763153076
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 80,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 80,
+          "loss" : 3.0410423278808594
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 85,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 84.27962291240692,
+          "iterationCount" : 85,
+          "loss" : 2.948915481567383
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 90,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 90,
+          "loss" : 2.7842347621917725
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 95,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 93.8515830039978,
+          "iterationCount" : 95,
+          "loss" : 2.750922918319702
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 100,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 100,
+          "loss" : 2.6891133785247803
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 105,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 103.41058301925659,
+          "iterationCount" : 105,
+          "loss" : 2.6129627227783203
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 110,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 110,
+          "loss" : 2.570225238800049
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 115,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 112.97215592861176,
+          "iterationCount" : 115,
+          "loss" : 2.6057827472686768
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 120,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 120,
+          "loss" : 2.4795830249786377
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 125,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 122.53591501712799,
+          "iterationCount" : 125,
+          "loss" : 2.4589433670043945
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 130,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 130,
+          "loss" : 2.3813676834106445
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 135,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 132.10455191135406,
+          "iterationCount" : 135,
+          "loss" : 2.375948429107666
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 140,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 140,
+          "loss" : 2.414116382598877
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 145,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 141.65091001987457,
+          "iterationCount" : 145,
+          "loss" : 2.2868049144744873
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 150,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 150,
+          "loss" : 2.2697231769561768
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 155,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 151.22610700130463,
+          "iterationCount" : 155,
+          "loss" : 2.169011116027832
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 160,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 160,
+          "loss" : 2.2444114685058594
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 165,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 160.82891499996185,
+          "iterationCount" : 165,
+          "loss" : 2.197451114654541
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 170,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 170,
+          "loss" : 2.1712722778320312
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 175,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 4.750928997993469,
+          "iterationCount" : 175,
+          "loss" : 1.811118483543396
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 180,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 180,
+          "loss" : 1.889569640159607
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 185,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 14.201949000358582,
+          "iterationCount" : 185,
+          "loss" : 1.9846417903900146
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 190,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 190,
+          "loss" : 2.018869638442993
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 195,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 24.353114008903503,
+          "iterationCount" : 195,
+          "loss" : 2.0623552799224854
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 200,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 200,
+          "loss" : 2.108226776123047
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 205,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 34.44758605957031,
+          "iterationCount" : 205,
+          "loss" : 2.053393602371216
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 210,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 210,
+          "loss" : 2.027254819869995
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 215,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 44.29772102832794,
+          "iterationCount" : 215,
+          "loss" : 1.9368821382522583
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 220,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 220,
+          "loss" : 1.960982084274292
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 225,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 53.83059000968933,
+          "iterationCount" : 225,
+          "loss" : 1.9126559495925903
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 230,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 230,
+          "loss" : 1.935947299003601
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 235,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 63.41939103603363,
+          "iterationCount" : 235,
+          "loss" : 1.949608325958252
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 240,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 240,
+          "loss" : 1.7792617082595825
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 245,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 72.9885630607605,
+          "iterationCount" : 245,
+          "loss" : 1.8044641017913818
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 250,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 250,
+          "loss" : 1.7886759042739868
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 255,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 82.85816502571106,
+          "iterationCount" : 255,
+          "loss" : 1.864113450050354
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 260,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 260,
+          "loss" : 1.8392481803894043
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 265,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 92.59909808635712,
+          "iterationCount" : 265,
+          "loss" : 1.820948839187622
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 270,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 270,
+          "loss" : 1.8366543054580688
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 275,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 102.19774007797241,
+          "iterationCount" : 275,
+          "loss" : 1.8493586778640747
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 280,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 280,
+          "loss" : 1.8172184228897095
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 285,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 111.99320709705353,
+          "iterationCount" : 285,
+          "loss" : 1.8046956062316895
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 290,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 290,
+          "loss" : 1.699188232421875
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 295,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 121.60834109783173,
+          "iterationCount" : 295,
+          "loss" : 1.7663086652755737
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 300,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 300,
+          "loss" : 1.7174394130706787
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 305,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 131.2940000295639,
+          "iterationCount" : 305,
+          "loss" : 1.769219994544983
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 310,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 310,
+          "loss" : 1.729903221130371
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 315,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 140.803680062294,
+          "iterationCount" : 315,
+          "loss" : 1.762122631072998
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 320,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 320,
+          "loss" : 1.8200796842575073
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 325,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 150.2470350265503,
+          "iterationCount" : 325,
+          "loss" : 1.7247527837753296
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 330,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 330,
+          "loss" : 1.7146506309509277
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 335,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 159.76390099525452,
+          "iterationCount" : 335,
+          "loss" : 1.6819932460784912
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 340,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 340,
+          "loss" : 1.7041527032852173
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 345,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 169.2115250825882,
+          "iterationCount" : 345,
+          "loss" : 1.6911319494247437
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 350,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 350,
+          "loss" : 1.6508840322494507
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 355,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 178.71424806118011,
+          "iterationCount" : 355,
+          "loss" : 1.6347459554672241
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 360,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 360,
+          "loss" : 1.5917335748672485
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 365,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 188.24336504936218,
+          "iterationCount" : 365,
+          "loss" : 1.6326357126235962
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 370,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 370,
+          "loss" : 1.615891933441162
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 375,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 197.73926901817322,
+          "iterationCount" : 375,
+          "loss" : 1.6613823175430298
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 380,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 380,
+          "loss" : 1.6355503797531128
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 385,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 207.50952208042145,
+          "iterationCount" : 385,
+          "loss" : 1.5736595392227173
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 390,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 390,
+          "loss" : 1.56300950050354
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 395,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 217.03565299510956,
+          "iterationCount" : 395,
+          "loss" : 1.5004258155822754
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 400,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 400,
+          "loss" : 1.4903018474578857
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 405,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 226.74398708343506,
+          "iterationCount" : 405,
+          "loss" : 1.5397869348526
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 410,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 410,
+          "loss" : 1.5767414569854736
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 415,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 236.25823199748993,
+          "iterationCount" : 415,
+          "loss" : 1.5314632654190063
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 420,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 420,
+          "loss" : 1.5049738883972168
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 425,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 245.7317100763321,
+          "iterationCount" : 425,
+          "loss" : 1.5513052940368652
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 430,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 430,
+          "loss" : 1.5031124353408813
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 435,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 255.27839303016663,
+          "iterationCount" : 435,
+          "loss" : 1.518738031387329
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 440,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 440,
+          "loss" : 1.5343048572540283
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 445,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 264.75120508670807,
+          "iterationCount" : 445,
+          "loss" : 1.4144331216812134
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 450,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 450,
+          "loss" : 1.4131922721862793
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 455,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 274.25069308280945,
+          "iterationCount" : 455,
+          "loss" : 1.447754144668579
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 460,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 460,
+          "loss" : 1.420525312423706
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 465,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 283.80026602745056,
+          "iterationCount" : 465,
+          "loss" : 1.4688029289245605
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 470,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 470,
+          "loss" : 1.453589677810669
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 475,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 293.3873699903488,
+          "iterationCount" : 475,
+          "loss" : 1.4915035963058472
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 480,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 480,
+          "loss" : 1.500382661819458
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 485,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 303.0996370315552,
+          "iterationCount" : 485,
+          "loss" : 1.4470174312591553
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 490,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 490,
+          "loss" : 1.428545594215393
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 495,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 312.7098150253296,
+          "iterationCount" : 495,
+          "loss" : 1.3554085493087769
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 500,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 500,
+          "loss" : 1.406475305557251
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 505,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 322.30196809768677,
+          "iterationCount" : 505,
+          "loss" : 1.4327375888824463
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 510,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 510,
+          "loss" : 1.358931064605713
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 515,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 331.867840051651,
+          "iterationCount" : 515,
+          "loss" : 1.3757600784301758
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 520,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 520,
+          "loss" : 1.4405031204223633
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 525,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 342.10574102401733,
+          "iterationCount" : 525,
+          "loss" : 1.474595069885254
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 530,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 530,
+          "loss" : 1.4294406175613403
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 535,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 351.85813307762146,
+          "iterationCount" : 535,
+          "loss" : 1.3773146867752075
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 540,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 540,
+          "loss" : 1.3894399404525757
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 545,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 361.770868062973,
+          "iterationCount" : 545,
+          "loss" : 1.3843185901641846
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 550,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 550,
+          "loss" : 1.3717622756958008
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 555,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 371.52638506889343,
+          "iterationCount" : 555,
+          "loss" : 1.4050313234329224
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 560,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 560,
+          "loss" : 1.4550853967666626
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 565,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 381.16696202754974,
+          "iterationCount" : 565,
+          "loss" : 1.4841303825378418
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 570,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 570,
+          "loss" : 1.46193265914917
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 575,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 390.78975808620453,
+          "iterationCount" : 575,
+          "loss" : 1.3958837985992432
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 580,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 580,
+          "loss" : 1.3488399982452393
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 585,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 400.4182360172272,
+          "iterationCount" : 585,
+          "loss" : 1.3193573951721191
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 590,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 590,
+          "loss" : 1.3501888513565063
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 595,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 410.2784730195999,
+          "iterationCount" : 595,
+          "loss" : 1.3171746730804443
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 600,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 600,
+          "loss" : 1.2764331102371216
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 605,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 419.9669380187988,
+          "iterationCount" : 605,
+          "loss" : 1.2347731590270996
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 610,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 610,
+          "loss" : 1.2523424625396729
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 615,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 429.6958750486374,
+          "iterationCount" : 615,
+          "loss" : 1.2083523273468018
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 620,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 620,
+          "loss" : 1.2283509969711304
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 625,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 439.3839579820633,
+          "iterationCount" : 625,
+          "loss" : 1.1869868040084839
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 630,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 630,
+          "loss" : 1.2715964317321777
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 635,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 449.9032070636749,
+          "iterationCount" : 635,
+          "loss" : 1.2800637483596802
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 640,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 640,
+          "loss" : 1.2932199239730835
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 645,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 460.02519607543945,
+          "iterationCount" : 645,
+          "loss" : 1.3228181600570679
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 650,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 650,
+          "loss" : 1.3069547414779663
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 655,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 470.0221940279007,
+          "iterationCount" : 655,
+          "loss" : 1.2918622493743896
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 660,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 660,
+          "loss" : 1.3115514516830444
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 665,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 479.97628009319305,
+          "iterationCount" : 665,
+          "loss" : 1.2855197191238403
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 670,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 670,
+          "loss" : 1.2565399408340454
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 675,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 489.8545330762863,
+          "iterationCount" : 675,
+          "loss" : 1.2234083414077759
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 680,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 680,
+          "loss" : 1.2533769607543945
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 685,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 500.0227310657501,
+          "iterationCount" : 685,
+          "loss" : 1.2514747381210327
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 690,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 690,
+          "loss" : 1.2744237184524536
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 695,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 509.86222898960114,
+          "iterationCount" : 695,
+          "loss" : 1.2726868391036987
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 700,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 700,
+          "loss" : 1.2029386758804321
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 705,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 520.0631160736084,
+          "iterationCount" : 705,
+          "loss" : 1.1465144157409668
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 710,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 710,
+          "loss" : 1.1794028282165527
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 715,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 529.6636850833893,
+          "iterationCount" : 715,
+          "loss" : 1.184723973274231
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 720,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 720,
+          "loss" : 1.142008900642395
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 725,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 539.2737510204315,
+          "iterationCount" : 725,
+          "loss" : 1.219780445098877
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 730,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 730,
+          "loss" : 1.2060409784317017
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 735,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 548.8832240104675,
+          "iterationCount" : 735,
+          "loss" : 1.2290526628494263
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 740,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 740,
+          "loss" : 1.235092043876648
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 745,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 558.6396950483322,
+          "iterationCount" : 745,
+          "loss" : 1.3057063817977905
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 750,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 750,
+          "loss" : 1.2845838069915771
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 755,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 568.3044310808182,
+          "iterationCount" : 755,
+          "loss" : 1.23836088180542
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 760,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 760,
+          "loss" : 1.2123910188674927
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 765,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 577.9529930353165,
+          "iterationCount" : 765,
+          "loss" : 1.223820447921753
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 770,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 770,
+          "loss" : 1.2363314628601074
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 775,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 587.5661619901657,
+          "iterationCount" : 775,
+          "loss" : 1.2307616472244263
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 780,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 780,
+          "loss" : 1.2614654302597046
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 785,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 597.2021909952164,
+          "iterationCount" : 785,
+          "loss" : 1.2039639949798584
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 790,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 790,
+          "loss" : 1.1784389019012451
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 795,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 606.8614630699158,
+          "iterationCount" : 795,
+          "loss" : 1.1870883703231812
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 800,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 800,
+          "loss" : 1.192230463027954
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 805,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 616.5421280860901,
+          "iterationCount" : 805,
+          "loss" : 1.198556661605835
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 810,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 810,
+          "loss" : 1.239043116569519
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 815,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 626.2013370990753,
+          "iterationCount" : 815,
+          "loss" : 1.2585957050323486
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 820,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 820,
+          "loss" : 1.3014674186706543
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 825,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 635.8610490560532,
+          "iterationCount" : 825,
+          "loss" : 1.2729992866516113
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 830,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 830,
+          "loss" : 1.2054600715637207
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 835,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 645.5084379911423,
+          "iterationCount" : 835,
+          "loss" : 1.2100592851638794
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 840,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 840,
+          "loss" : 1.2090904712677002
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 845,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 655.2126090526581,
+          "iterationCount" : 845,
+          "loss" : 1.1969598531723022
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 850,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 850,
+          "loss" : 1.088590383529663
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 855,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 665.2518190145493,
+          "iterationCount" : 855,
+          "loss" : 1.1232833862304688
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 860,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 860,
+          "loss" : 1.176059365272522
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 865,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 674.9342390298843,
+          "iterationCount" : 865,
+          "loss" : 1.12183678150177
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 870,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 870,
+          "loss" : 1.1353113651275635
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 875,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 684.86294901371,
+          "iterationCount" : 875,
+          "loss" : 1.1886742115020752
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 880,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 880,
+          "loss" : 1.1167975664138794
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 885,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 694.6250720024109,
+          "iterationCount" : 885,
+          "loss" : 1.1120450496673584
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 890,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 890,
+          "loss" : 1.0708990097045898
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 895,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 704.3567870855331,
+          "iterationCount" : 895,
+          "loss" : 1.2303757667541504
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 900,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 900,
+          "loss" : 1.2399502992630005
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 905,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 714.0622800588608,
+          "iterationCount" : 905,
+          "loss" : 1.2199112176895142
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 910,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 910,
+          "loss" : 1.1808491945266724
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 915,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 723.812059044838,
+          "iterationCount" : 915,
+          "loss" : 1.1528964042663574
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 920,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 920,
+          "loss" : 1.1533020734786987
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 925,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 733.5551090240479,
+          "iterationCount" : 925,
+          "loss" : 1.1051139831542969
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 930,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 930,
+          "loss" : 1.0973867177963257
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 935,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 743.3043550252914,
+          "iterationCount" : 935,
+          "loss" : 1.0978565216064453
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 940,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 940,
+          "loss" : 1.1124043464660645
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 945,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 753.0717040300369,
+          "iterationCount" : 945,
+          "loss" : 1.1414499282836914
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 950,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 950,
+          "loss" : 1.1226438283920288
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 955,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 762.7701270580292,
+          "iterationCount" : 955,
+          "loss" : 1.1654727458953857
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 960,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 960,
+          "loss" : 1.080127477645874
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 965,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 772.4695410728455,
+          "iterationCount" : 965,
+          "loss" : 1.1086032390594482
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 970,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 970,
+          "loss" : 1.1319584846496582
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 975,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 782.2461060285568,
+          "iterationCount" : 975,
+          "loss" : 1.1424832344055176
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 980,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 980,
+          "loss" : 1.0895105600357056
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 985,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 791.9892880916595,
+          "iterationCount" : 985,
+          "loss" : 1.091740369796753
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 990,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 990,
+          "loss" : 1.106629490852356
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 995,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 801.716050028801,
+          "iterationCount" : 995,
+          "loss" : 1.131658911705017
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1000,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1000,
+          "loss" : 1.1000447273254395
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1005,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 811.4562220573425,
+          "iterationCount" : 1005,
+          "loss" : 1.117112398147583
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1010,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1010,
+          "loss" : 1.131443977355957
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1015,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 821.1970649957657,
+          "iterationCount" : 1015,
+          "loss" : 1.0932917594909668
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1020,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1020,
+          "loss" : 1.1381717920303345
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1025,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 830.9523700475693,
+          "iterationCount" : 1025,
+          "loss" : 1.1080132722854614
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1030,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1030,
+          "loss" : 1.1237472295761108
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1035,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 840.7498390674591,
+          "iterationCount" : 1035,
+          "loss" : 1.1181306838989258
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1040,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1040,
+          "loss" : 1.0974323749542236
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1045,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 850.5553920269012,
+          "iterationCount" : 1045,
+          "loss" : 1.0834335088729858
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1050,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1050,
+          "loss" : 1.0893738269805908
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1055,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 860.3109600543976,
+          "iterationCount" : 1055,
+          "loss" : 1.0692756175994873
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1060,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1060,
+          "loss" : 1.0154467821121216
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1065,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 870.0875730514526,
+          "iterationCount" : 1065,
+          "loss" : 1.0438945293426514
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1070,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1070,
+          "loss" : 1.0312912464141846
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1075,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 879.8843220472336,
+          "iterationCount" : 1075,
+          "loss" : 1.0074981451034546
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      },
+      {
+        "count" : 1080,
+        "currentRowIndex" : 0,
+        "isLast" : false,
+        "odColumnHeader" : {
+          "elapsedTime" : 0,
+          "iterationCount" : 1080,
+          "loss" : 0.9889917969703674
+        },
+        "percentComplete" : 0,
+        "tableDone" : false,
+        "tableIndex" : 0
+      }
+    ],
+    "resumableCheckpoint" : {
+      "checkpointURL" : "file:///Users/arya/Library/Caches/com.apple.dt.createml/projects/2AD94A5B-E5C3-4425-8D05-3F16DB7CEF49213d15ba9c6d71e2f3864094523a5368771b5c20/sessions/checkpoint.sessions/4ADC3027-9E3E-42BE-BF9E-0211D05A950B/training-000001080.checkpoint",
+      "createdDate" : "2026-09-26T09:40:14Z",
+      "iteration" : 1080
+    },
+    "snapshottableCheckpoints" : {
+      "1080" : {
+        "createdDate" : "2026-09-26T09:40:14Z",
+        "iteration" : 1080,
+        "modelURL" : "file:///Users/arya/Library/Caches/com.apple.dt.createml/projects/2AD94A5B-E5C3-4425-8D05-3F16DB7CEF49213d15ba9c6d71e2f3864094523a5368771b5c20/sessions/checkpoint.sessions/4ADC3027-9E3E-42BE-BF9E-0211D05A950B/training-000001080.checkpoint.model/checkpointModel.mlmodel"
+      }
+    },
+    "startTime" : "2026-09-26T09:25:28Z"
+  },
+  "validationEntity" : {
+    "analysedDataType" : "datasource",
+    "dataResult" : {
+      "classesCount" : 1,
+      "createdDate" : "2026-09-26T09:40:21Z",
+      "dataAnalysis" : {
+        "classifierAnalysis" : {
+
+        },
+        "issues" : [
+          {
+            "description" : "1 classes found, including bottle",
+            "severity" : "debug"
+          },
+          {
+            "description" : "116 annotations found, automatically creating validation set",
+            "severity" : "good"
+          },
+          {
+            "description" : "Smallest class is \"bottle\" with 116 images",
+            "severity" : "debug"
+          },
+          {
+            "description" : "Largest class is \"bottle\" with 116 images",
+            "severity" : "debug"
+          }
+        ],
+        "objectDetectorAnalysis" : {
+          "details" : {
+
+          },
+          "labelStats" : {
+            "bottle" : 116
+          }
+        },
+        "summary" : {
+          "canUseValidation" : 1,
+          "classCount" : 1,
+          "counterExamples" : 0,
+          "sampleCount" : 73,
+          "suggestedMaxIterations" : 3000
+        }
+      },
+      "dataSourceID" : "187E6B1F-7D78-4433-B223-93199692D34F",
+      "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/valid/",
+      "itemsCount" : 73
+    },
+    "dataSourceID" : "187E6B1F-7D78-4433-B223-93199692D34F",
+    "splitOptions" : {
+      "strategy" : {
+        "automatic" : {
+
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

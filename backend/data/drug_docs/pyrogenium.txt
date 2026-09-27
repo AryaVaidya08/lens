@@ -1,0 +1,59 @@
+spl_product_data_elements:
+  Pyrogenium RANCID BEEF SUCROSE LACTOSE, UNSPECIFIED FORM RANCID BEEF RANCID BEEF
+active_ingredient:
+  Active ingredient**: See product name on front panel Pyrogenium 30C (**contains 0.443 mg of the active ingredient per pellet)
+purpose:
+  
+indications_and_usage:
+  Uses: see symptoms on front panel. Nasal congestion *
+warnings:
+  
+stop_use:
+  Stop use and ask a doctor if symptoms persist for more than 3 days or worsen.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children.
+spl_unclassified_section:
+  Do not use if pellet dispenser seal is broken. Contains approx.80 pellets. How to dispense pellets? Turn tube upside down. Twist until 5 pellets are dispensed into cap. Carefully remove the cap and use it to pour pellets under the tongue. *CLAIMS BASED ON TRADITIONAL HOMEOPATHIC PRACTICE NOT ACCEPTED MEDICAL EVIDENCE. NOT FDA EVALUATED. **C,K,CK, and X are homeopathic dilutions: see BoironUSA.com/info for details.
+inactive_ingredient:
+  lactose, sucrose
+dosage_and_administration:
+  Adults and children: At the onset of symptoms, dissolve 5 pellets under the tongue 3 times a day until symptoms are relieved or as directed by a doctor.
+questions:
+  BoironUSA.com Info@boiron.com 1-800-BOIRON-1 (1-800-264-7661) Distributed by Boiron, Inc. Newtown Square, PA 19073
+package_label_principal_display_panel:
+  label
+set_id:
+  09aa14d9-4048-2f04-e063-6294a90af5ec
+id:
+  09aa14d9-4049-2f04-e063-6294a90af5ec
+effective_time:
+  20231108
+version:
+  1
+openfda:
+  brand_name:
+    Pyrogenium
+  generic_name:
+    RANCID BEEF
+  manufacturer_name:
+    Boiron
+  product_ndc:
+    0220-4215
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    RANCID BEEF
+  spl_id:
+    09aa14d9-4049-2f04-e063-6294a90af5ec
+  spl_set_id:
+    09aa14d9-4048-2f04-e063-6294a90af5ec
+  package_ndc:
+    0220-4215-41
+  is_original_packager:
+    True
+  unii:
+    29SUH5R3HU

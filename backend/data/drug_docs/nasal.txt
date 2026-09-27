@@ -1,0 +1,67 @@
+spl_product_data_elements:
+  nasal Phenylephrine hydrochloride PHENYLEPHRINE HYDROCHLORIDE PHENYLEPHRINE BENZALKONIUM CHLORIDE BENZYL ALCOHOL BORIC ACID SODIUM BORATE WATER
+active_ingredient:
+  Active ingredient Phenylephrine hydrochloride 1%
+purpose:
+  Purpose Nasal decongestant
+indications_and_usage:
+  Uses • temporarily relieves nasal congestion due to: • common cold • hay fever • upper respiratory allergies
+warnings:
+  Warnings Ask a doctor before use if you have • heart disease • diabetes • thyroid disease • high blood pressure • trouble urinating due to an enlarged prostate gland When using this product • do not use more than directed • do not use for more than 3 days. Frequent or prolonged use may cause nasal congestion to come back or get worse. • use only as directed • temporary discomfort such as burning, stinging, sneezing or an increase in nasal discharge may occur • use of this container by more than one person may spread infection Stop use and ask a doctor if symptoms persist If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+ask_doctor:
+  Ask a doctor before use if you have • heart disease • diabetes • thyroid disease • high blood pressure • trouble urinating due to an enlarged prostate gland
+when_using:
+  When using this product • do not use more than directed • do not use for more than 3 days. Frequent or prolonged use may cause nasal congestion to come back or get worse. • use only as directed • temporary discomfort such as burning, stinging, sneezing or an increase in nasal discharge may occur • use of this container by more than one person may spread infection
+stop_use:
+  Stop use and ask a doctor if symptoms persist
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away. (1-800-222-1222)
+dosage_and_administration:
+  Directions • adults and children 12 years and over: 2 or 3 sprays in each nostril not more often than every 4 hours • children under 12 years: ask a doctor • Use instructions: with head in a normal, upright position, put atomizer tip into nostril. Squeeze bottle with firm, quick pressure while inhaling. Wipe nozzle clean after each use.
+storage_and_handling:
+  Other information • store at 20°-25°C (68°-77°F)
+inactive_ingredient:
+  Inactive ingredients benzalkonium chloride solution, benzyl alcohol, boric acid, purified water, sodium borate
+questions:
+  Questions or comments? 1-800-719-9260
+package_label_principal_display_panel:
+  Principal Display Panel Walgreens WALGREENS • PHARMACIST RECOMMENDED• Compare to the active ingredient in 4 Way® Nasal Spray Nasal Spray PHENYLEPHRINE HYDROCHLORIDE 1% / NASAL DECONGESTANT • For fast relief of nasal congestion, swollen nasal membranes, sinus congestion & sinus pressure 1 FL OZ (29.6 mL) nasal spray
+set_id:
+  8db7df1c-46b5-49bd-9002-50b12d58001a
+id:
+  96a9715b-c44b-4eed-91ba-bf3c03a95ffb
+effective_time:
+  20240913
+version:
+  3
+openfda:
+  application_number:
+    M012
+  brand_name:
+    nasal
+  generic_name:
+    PHENYLEPHRINE HYDROCHLORIDE
+  manufacturer_name:
+    Walgreen Company
+  product_ndc:
+    0363-0717
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    NASAL
+  substance_name:
+    PHENYLEPHRINE HYDROCHLORIDE
+  rxcui:
+    1087043
+  spl_id:
+    96a9715b-c44b-4eed-91ba-bf3c03a95ffb
+  spl_set_id:
+    8db7df1c-46b5-49bd-9002-50b12d58001a
+  package_ndc:
+    0363-0717-10
+  is_original_packager:
+    True
+  unii:
+    04JA59TNSJ

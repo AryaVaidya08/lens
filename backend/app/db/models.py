@@ -1,42 +1,24 @@
 """
-SQLAlchemy models.
+Document shapes stored in MongoDB.
 
-Fields only — no query methods here. Query logic belongs in the route
-or db access functions that use these models, not on the models
-themselves.
-
-Owned by: Backend & data lane.
+hcps hold the clinician account plus an ordered list of patient_ids.
+Each id points at one document in patients. Passwords are stored hashed.
 """
 
-from sqlalchemy import Column, DateTime, ForeignKey, Integer, String
-from sqlalchemy.orm import declarative_base
-
-Base = declarative_base()
-
-
-class HCP(Base):
-    __tablename__ = "hcps"
-
-    # TODO: implement
-    id = Column(String, primary_key=True)
-    name = Column(String)
-    specialty = Column(String)
-
-
-class Drug(Base):
-    __tablename__ = "drugs"
-
-    # TODO: implement
-    id = Column(String, primary_key=True)
-    name = Column(String)
-    barcode = Column(String)
-
-
-class Engagement(Base):
-    __tablename__ = "engagements"
-
-    # TODO: implement
-    hcp_id = Column(String, ForeignKey("hcps.id"), primary_key=True)
-    drug_id = Column(String, ForeignKey("drugs.id"), primary_key=True)
-    touch_count = Column(Integer)
-    last_seen = Column(DateTime)
+# hcps (this is the clinician account collection — there is no `users`):
+# {
+#   _id, name, specialty, email, password_hash,
+#   first_name, last_name, professional_role, credentials,
+#   organization, practice_setting, work_phone, city, region, country,
+#   patient_ids: [patient_id, ...],
+#   created_at, account_source: "register" | "seed"
+# }
+# patients: {
+#   _id, hcp_id, external_id, source, first_name, last_name, age, weight_kg, sex,
+#   medical_history, allergies, current_medications, notes
+# }
+# Written only by POST /profile/{hcp_id}/patients (app/routes/profile.py).
+# Mongo is the sole source of truth — no file/EHR import.
+# drugs:      { _id: str, name: str, barcode: str }
+# engagements:{ _id: "hcp_id:drug_id", hcp_id, drug_id, touch_count, last_seen }
+# chats:      { hcp_id, drug_id, question, answer, asked_at }

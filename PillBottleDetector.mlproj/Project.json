@@ -1,0 +1,29 @@
+{
+  "activityEntities" : [
+    "projectCreated",
+    [
+      {
+        "createdDate" : "2026-09-26T07:14:33Z",
+        "event" : "projectCreated",
+        "id" : "00C62020-B169-4838-883D-D81C2E2BA3E2",
+        "subtitle" : "PillBottleDetector",
+        "title" : "Project Created"
+      }
+    ]
+  ],
+  "authorName" : "Arya Vaidya",
+  "createdDate" : "2026-09-26T07:14:33Z",
+  "description" : "HackGT",
+  "id" : "2AD94A5B-E5C3-4425-8D05-3F16DB7CEF49",
+  "license" : "",
+  "location" : "",
+  "modifiedDate" : "2026-09-26T07:14:33Z",
+  "projectName" : "PillBottleDetector",
+  "settingsEntity" : {
+    "snapshotOnExtendTraining" : true,
+    "snapshotOnResumeTraining" : false
+  },
+  "taskType" : "objectDetector",
+  "title" : "Object Detection",
+  "version" : "1.1"
+}

@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  SIAMS ANTISEPTIC HAND SANITIZER Ethyl Alcohol ALCOHOL ALCOHOL CARBOMER HOMOPOLYMER, UNSPECIFIED TYPE GLYCERIN TROLAMINE WATER
+spl_unclassified_section:
+  Drug Facts
+  With Glycerin Distributed by: O & R Trading Group INC., 5277 NW 161 St, Miami Lake, FL 33014 Made in Mexico
+active_ingredient:
+  Active ingredient Ethyl alcohol 70% v/v
+purpose:
+  Purpose Antiseptic
+indications_and_usage:
+  Uses hand sanitizer to decrease bacteria on the skin recommended for repeated use for use when soap and water are not available
+warnings:
+  Warnings Flammable, keep away from fire/flame For external use only Do not use in children less than 2 months of age on open skin wounds When using this product • do not get into eyes. In case of contact, rinse eyes thoroughly with water Stop use and ask a doctor if irritation and redness develop condition persists for more than 72 hours Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  Directions wet hands thoroughly with product and allow to dry without wiping supervise children under 6 years of age when using this product to avoid swallowing
+storage_and_handling:
+  Other information store between 15-30 0 C (59-86 0 F) avoid freezing and excessive heat above 40 0 C (104 0 F)
+inactive_ingredient:
+  Inactive ingredients carbomer, glycerin, triethanolamine, water
+questions:
+  Questions? +1-786-817-4738 You may also report serious side effects to this phone number. Mon-Fri 9:00 AM-5:00 PM
+package_label_principal_display_panel:
+  Packaging image description1 image description2
+set_id:
+  cbf8f08c-ce4f-413f-9052-6ef996232f61
+id:
+  dd882ef4-001b-4513-9462-9627de2357b9
+effective_time:
+  20200521
+version:
+  2
+openfda:

@@ -1,0 +1,63 @@
+spl_product_data_elements:
+  Hongocura undecylenic acid, zinc undecylenate METHYLPARABEN PROPYLPARABEN WHITE PETROLATUM UNDECYLENIC ACID UNDECYLENIC ACID ZINC UNDECYLENATE UNDECYLENIC ACID
+active_ingredient:
+  Active Ingredients Purpose Undecylenic Acid 5%...................Antifungal Zinc Undecylenate 20%...............Antifungal
+purpose:
+  Purpose Antifungal
+indications_and_usage:
+  Uses: Proven effective in the treatment of athlete's foot (tinea pedis),jock itch (tinea cruris) and ringworm (tinea corporis). For the effective relief of itching, burning, crackling and scaly skin between toes. Clears up athlete's foot infection and with daily use, helps keep it from coming back.
+warnings:
+  Warning: for external use only- Avoid contact with the eyes Do not use: On children under 2 years of age, unless directed by a doctor. For diaper rash. This product is not effective on the scalp or nails. Stop use and ask a doctor if: For athlete's foot and ringworm, if irritation occurs or if there is no improvement within 4 weeks. For jock itch, if irritation occurs or if there is no improvment within 2 weeks
+keep_out_of_reach_of_children:
+  Keep away of reach of children. In case of accidental ingestion, get medical help or contact a Posion Control Center, right away.
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding, ask a health professional before use.
+dosage_and_administration:
+  Directions: Clean the affected area and dry throughly. Apply a thin layer of the product over affected area twice daily (morning and night) or as directed by a doctor. Supervise children in use of this product. For athlete's foot: Pay special attention to spaces between the toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily. For athlete's foot and ringworm, use daily for 4 weeks. For jock itch, use daily for 2 weeks, if condition persists longer, consult a doctor. This product is not effective for the scalp or nails.
+inactive_ingredient:
+  Inactive ingredients: Methylparaben, propylparaben and white petrolatum
+questions:
+  Questions? www.menperdistributors.com or 1-800-560-5223, M-F 9 am- 4 pm EST
+package_label_principal_display_panel:
+  Hongocura Ointment
+set_id:
+  c69b735e-0ffe-4328-bd9f-3c1ac6798c08
+id:
+  3a8931c9-1449-06ea-e063-6294a90a1df4
+effective_time:
+  20250722
+version:
+  3
+openfda:
+  application_number:
+    M005
+  brand_name:
+    Hongocura
+  generic_name:
+    UNDECYLENIC ACID, ZINC UNDECYLENATE
+  manufacturer_name:
+    MENPER DISTRIBUTORS, INC.
+  product_ndc:
+    53145-017
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    TOPICAL
+  substance_name:
+    UNDECYLENIC ACID
+    ZINC UNDECYLENATE
+  rxcui:
+    313552
+  spl_id:
+    3a8931c9-1449-06ea-e063-6294a90a1df4
+  spl_set_id:
+    c69b735e-0ffe-4328-bd9f-3c1ac6798c08
+  package_ndc:
+    53145-017-28
+  is_original_packager:
+    True
+  upc:
+    0042279404288
+  unii:
+    K3D86KJ24N
+    388VZ25DUR

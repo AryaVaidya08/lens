@@ -1,0 +1,35 @@
+effective_time:
+  20140804
+inactive_ingredient:
+  Water, sodium laureth sulfate, ammonium lauryl sulfate, decyl glucoside, cocamidopropyl betaine, glycerin, sodium chloride, PEG-18 glyceryl oleate/cocoate, fragrance, cocamide MEA, DMDM Hydantoin, tetrasodium EDTA, citric acid, FDandC yellow 5, FDandC red4
+purpose:
+  PURPOSE Antibacterial
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+warnings:
+  WARNINGS For external use only
+when_using:
+  When using this product, avoid contact with eyes. In case of eye contact, flush with water.
+spl_product_data_elements:
+  DT ANTIBACTERIAL HAND TRICLOSAN TRICLOSAN TRICLOSAN WATER SODIUM LAURETH SULFATE AMMONIUM LAURYL SULFATE COCAMIDOPROPYL BETAINE GLYCERIN SODIUM CHLORIDE DMDM HYDANTOIN EDETATE SODIUM CITRIC ACID MONOHYDRATE
+openfda:
+version:
+  5
+dosage_and_administration:
+  Directions Pump into hands, wet as needed. Lather vigorously for at least 15 seconds. Wash skin, rinse and dry thoroughly.
+stop_use:
+  Stop use and ask a doctor if irritation and redness develops
+spl_unclassified_section:
+  DISTRIBUTED BY: DT PRODUCTS VERNON, CA 90058 MADE IN CHINA
+package_label_principal_display_panel:
+  DT FOR YOUR DAILY TOUCH SPECIAL VALUE Antibacterial Hand Soap WITH MOISTURIZERS LEAVE HANDS FEELING SOFT AND REFRESHED. 16.9 FL OZ (500 ML)
+  handsoapdrugpanel
+  handsoappdp
+indications_and_usage:
+  USES For handwashing to decrease bacteria on the skin.
+set_id:
+  84d64035-1803-4f29-bb7e-fb617f5cce23
+id:
+  bd4a392f-5a0c-4300-af83-8b4049d57dfc
+active_ingredient:
+  Anibacterial Hand soap with moisturizer ACTIVE INGREDIENT PURPOSE Triclosan 0.15% Antibacterial

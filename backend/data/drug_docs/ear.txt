@@ -1,0 +1,33 @@
+effective_time:
+  20121031
+inactive_ingredient:
+  INACTIVE INGREDIENTS: Purified Water, USP Ethanol Alcohol 20%
+references:
+  *The letters "HPUS" indicate the components in the product are officially monographed in the Homeopathic Pharmacopeia of the United States.
+purpose:
+  USES: Temporarily relieves throbbing, stitching, roaring, stopped up feeling, earache with nausea, earache that is worse at night, &/or other symptoms of earaches.
+keep_out_of_reach_of_children:
+  KEEP OUT OF THE REACH OF CHILDREN . In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center.
+warnings:
+  WARNING: Consult a physician for use in children under 12 years of age. IF PREGNANT OR BREAST-FEEDING , ask a health care professional before use. KEEP OUT OF THE REACH OF CHILDREN . In case of overdose (or accidental ingestion) get medical help or contact a Poison Control Center right away.
+questions:
+  QUESTIONS AND COMMENTS? MFG FOR: Natural Creations / Woodbine, IA / 51579 712.647.1600 LOT:
+spl_product_data_elements:
+  EAR INFLAM HP Atropa Belladonna Root 30X, Conium Maculatum Flowering Top 30X, Solanum Dulcamara Top 30X, Calcium Sulfide 30X, Potassium Dichromate 30X, Mercurius Solubilis 30X, Pulsatilla Vulgaris 30X, Silicon Dioxide 30X ATROPA BELLADONNA ROOT ATROPA BELLADONNA ROOT CONIUM MACULATUM FLOWERING TOP CONIUM MACULATUM FLOWERING TOP SOLANUM DULCAMARA TOP SOLANUM DULCAMARA TOP CALCIUM SULFIDE CALCIUM SULFIDE POTASSIUM DICHROMATE DICHROMATE ION MERCURIUS SOLUBILIS MERCURIC CATION PULSATILLA VULGARIS PULSATILLA VULGARIS SILICON DIOXIDE COLLOIDAL SILICON DIOXIDE WATER ALCOHOL
+openfda:
+version:
+  1
+dosage_and_administration:
+  DIRECTIONS: Adults and children above 12 years: 10 drops orally 3 times daily, or as directed by a health care professional.
+do_not_use:
+  OTHER INFORMATION: Tamper Seal: "Sealed for your protection." Do not use if seal is broken or missing.
+package_label_principal_display_panel:
+  NDC: 43406-0018-1 EAR INFLAM HP Earache HOMEOPATHIC 1 fl oz (30 mL) / 20% Alcohol UPC: 877730001269 Image Of Label
+indications_and_usage:
+  USES: Temporarily relieves throbbing, stitching, roaring, stopped up feeling, earache with nausea, earache that is worse at night, &/or other symptoms of earaches.
+set_id:
+  33020ebb-fe2c-4489-86c6-fd30f1bf5cfc
+id:
+  5b11c3df-36e7-41e9-bcca-08df6d2217d3
+active_ingredient:
+  ACTIVE INGREDIENTS (HPUS*): Belladonna 30X, Conium Maculatum 30X, Dulcamara 30X, Hepar Sulphuris Calcareum 30X, Kali Bichromicum 30X, Mercurius Solubilis 30X, Pulsatilla 30X, Silicea 30X

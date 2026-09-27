@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  GERMFREE HAND SANITIZER BABYPOWDER FRAGRANCE ETHANOL WATER ALCOHOL ALCOHOL
+active_ingredient:
+  Alcohol (Ethanol)
+inactive_ingredient:
+  Glycerin, Triethanolamine, Carbomer, Fragrance, Water
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  keep out of reach of the children
+indications_and_usage:
+  do not use in or near the eyes. If contact occurs, rinse thoroughly with water. avoid contact with broken skin.
+warnings:
+  For external use only. Flammable, keep away from heat and flame. Do not use in the eyes. In case of contact, rinse eyes thoroughly with water. Stop use and ask a doctor if irritation and redness develop and persist for more than 72 hours.
+dosage_and_administration:
+  wet hands thoroughly with product briskly rub hands together until dry supervise children under 6 years in the use of this product
+package_label_principal_display_panel:
+  label
+set_id:
+  a1d1a76e-99a4-996d-e053-2995a90ada0b
+id:
+  a1d1a779-06c0-51be-e053-2995a90a4866
+effective_time:
+  20200327
+version:
+  1
+openfda:

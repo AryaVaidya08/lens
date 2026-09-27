@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  CUPRUM METALLICUM CUPRUM MET. ACACIA LACTOSE MONOHYDRATE COPPER COPPER
+spl_unclassified_section:
+  Made according to the Homeopathic Pharmacopoeia of the United States since 1903.
+warnings:
+  Warnings Do not use if cap band is missing or broken. If you are pregnant or nursing, consult a licensed health care professional before using this product. If symptoms persist for 7 days or worsen, contact a licensed practitioner. Keep this and all medicines out of the reach of children. To be used according to label indications and/or standard homeopathic indications.
+keep_out_of_reach_of_children:
+  Keep this and all medicines out of the reach of children.
+questions:
+  Standard Homeopathic Company Los Angeles, CA 90061 Questions? 800-624-9659
+dosage_and_administration:
+  Directions Adults: Dissolve 4 tablets under tongue 4 times a day. Children: Consult a healthcare professional
+inactive_ingredient:
+  In a base of Acacia Gum and Lactose N.F.
+active_ingredient:
+  CUPRUM MET. 30X
+indications_and_usage:
+  CRAMPS OR SPASMS
+purpose:
+  CRAMPS OR SPASMS
+package_label_principal_display_panel:
+  Principal Display Panel -- 250 Tablet Bottle Label Standard Homeopathic Made in the USA Since 1903 NDC # 0360-0150-01 Homeopathic Medicine CUPRUM MET. 30X CRAMPS OR SPASMS* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated. 250 TABLETS label
+set_id:
+  4c6fdc2d-5c99-3516-e054-00144ff88e88
+id:
+  fd91a200-e500-1eec-e053-6294a90a82db
+effective_time:
+  20230607
+version:
+  3
+openfda:

@@ -1,0 +1,31 @@
+spl_product_data_elements:
+  FACE NECK EYE LFT FIRMING Cream FACE NECK EYE LFT FIRMING Cream WATER ASCORBIC ACID CENTELLA ASIATICA TRITERPENOIDS METHYL CARBOXYMETHYLPHENYL AMINOCARBOXYPROPYLPHOSPHONATE METHYL CARBOXYMETHYLPHENYL AMINOCARBOXYPROPYLPHOSPHONATE GLYCERIN
+active_ingredient:
+  Active ingredient HYDROLYZED COLLAGEN
+inactive_ingredient:
+  Inactive ingredient GLYCERIN,ASCORBIC ACID,CENTELLA ASIATICA EXTRACT,AQUA
+purpose:
+  Purpose section EFFECTIVE WRINKLE REDUCINGEYECREAM FOR FACE SUSTAINABLE CONSISTENT USEMAKESWRINKIES VISIBLE
+warnings:
+  Warning For external use only. Keep out of reach ofchildren. Avoid direct contact witheyes. Discontinue use if irritationoccurs. Store in a cool and dry place.
+stop_use:
+  stop use This product may cause allergic reactions in asmall number of people. lf you experience any discomfort,please stop using it immediately.
+do_not_use:
+  not use Not suitable for use by children, pregnantor breast feeding people.
+keep_out_of_reach_of_children:
+  OUT OF CHILDREN KEEP THE PRODUCT OUT OF REACH OF CHILDREN to
+indications_and_usage:
+  HOW TO USE 1.Wash your face and keepit slightly moist 2.Apply appropriateamount ofproduct to face and eye 3.Gently massage for full absorption
+dosage_and_administration:
+  Dosage take an appropriateamount,Use 2-3 times a week
+package_label_principal_display_panel:
+  label
+set_id:
+  259653e7-dfe3-44a2-e063-6294a90a416d
+id:
+  259653e7-dfe4-44a2-e063-6294a90a416d
+effective_time:
+  20241028
+version:
+  1
+openfda:

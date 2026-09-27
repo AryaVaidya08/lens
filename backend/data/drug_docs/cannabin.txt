@@ -1,0 +1,34 @@
+spl_product_data_elements:
+  CANNABIN PLUS Warming Pain Relief CAPSAICIN ALOE VERA LEAF WATER ARNICA MONTANA FLOWER INDIAN FRANKINCENSE CETEARYL OLIVATE CETYL ALCOHOL ETHYLHEXYLGLYCERIN GLYCERIN GLYCERYL MONOSTEARATE GLYCYRRHIZA GLABRA HELIANTHUS ANNUUS FLOWERING TOP ILEX PARAGUARIENSIS LEAF ISOPROPYL MYRISTATE MAGNESIUM SULFATE, UNSPECIFIED FORM DIMETHYL SULFONE PHENOXYETHANOL SORBITAN OLIVATE STEARIC ACID .ALPHA.-TOCOPHEROL ACETATE XANTHAN GUM CAPSAICIN CAPSAICIN
+spl_unclassified_section:
+  DRUG FACTS:
+  Additional Information: Store at room temperature.
+active_ingredient:
+  Active Ingredient: Capsaicin 0.025% Topical Analgesic
+purpose:
+  Topical Analgesic
+indications_and_usage:
+  Indications: For the temporary relief of minor aches and pains of the muscles and joints associated with arthritis, simple backache, sprains, bruises and strains.
+warnings:
+  Warnings: For external use only. Avoid contact with eyes. If symptoms persist for more than seven days, discontinue use and consult physician. Do not apply to wounds or damaged skin. Do not bandage tightly. If pregnant or breast feeding, contact physician prior to use. Keep out of reach of children. If swallowed, consult physician.
+do_not_use:
+  Do not apply to wounds or damaged skin. Do not bandage tightly.
+pregnancy_or_breast_feeding:
+  If pregnant or breast feeding, contact physician prior to use.
+keep_out_of_reach_of_children:
+  Keep out of reach of children. If swallowed, consult physician.
+dosage_and_administration:
+  Directions: Adults and children two-years of age or older: Apply to affected area not more than three to four times daily. Children under two-years of age: consult a physician.
+inactive_ingredient:
+  Other Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice, Aqua (Deionized Water), Arnica Montana Flower Extract, Boswellia Serrata Extract, Cannabis Sativa (Full Spectrum) Hemp Oil, Cetearyl Olivate, Cetyl Alcohol, Ethylhexylglycerin, Glycerin, Glyceryl Stearate, Glycyrrhiza Glabra (Licorice) Extract, Helianthus Annuus (Sunflower) Oil, Ilex Paraguariensis (Yerba Mate) Extract, Isopropyl Myristate, Magnesium Sulfate, Methylsulfonylmethane (MSM), Phenoxyethanol, Sorbitan Olivate, Stearic Acid, Tocopheryl Acetate (Vitamin E), Xanthan Gum.
+package_label_principal_display_panel:
+  Package Labeling: Label
+set_id:
+  31418eca-2a4e-408d-83b0-be4104cff47f
+id:
+  d597c7c8-4c58-94e0-e053-2995a90a53fc
+effective_time:
+  20220114
+version:
+  3
+openfda:

@@ -1,0 +1,27 @@
+spl_product_data_elements:
+  KUNDAL PURE and SAFE POCKET PERFUME HAND SANITIZER MIST WHITE MUSK Alcohol ARTEMISIA PRINCEPS LEAF BUTYLENE GLYCOL GREEN TEA LEAF WATER GLYCERIN HYALURONATE SODIUM ALCOHOL ALCOHOL
+active_ingredient:
+  ethanol
+inactive_ingredient:
+  Water, Butylene Glycol, Glycerin, Sodium Hyaluronate, Camellia Sinensis Leaf Extract, Artemisia Princeps Extract, fragrance
+purpose:
+  Antiseptic
+keep_out_of_reach_of_children:
+  KEEP OUT OF REACH OF THE CHILDREN
+indications_and_usage:
+  Put enough product in your palm to thoroughly cover your hands. Rub hands together briskly until dry. Children under 6 years of age should be supervised when using this product.
+warnings:
+  For external use only. Flammable, keep away from fire or flame. When using this product keep out of eyes. If contact with eyes occurs, rinse promptly and thoroughly with water. Stop use and ask a doctor if significant irritation or sensitization develops. Keep out of reach of children. If swallowed, get medical help or contact a Poison Control Center right away.
+dosage_and_administration:
+  For external use only
+package_label_principal_display_panel:
+  label
+set_id:
+  aeec0977-0422-5f2b-e053-2995a90a556e
+id:
+  b0d1c20c-8123-f51f-e053-2a95a90aa916
+effective_time:
+  20201004
+version:
+  2
+openfda:

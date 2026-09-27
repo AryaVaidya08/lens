@@ -1,0 +1,68 @@
+spl_product_data_elements:
+  NUTRALOX CALCIUM CARBONATE CALCIUM CARBONATE CALCIUM CATION ASPARTAME CROSCARMELLOSE SODIUM MAGNESIUM STEARATE MALTODEXTRIN MINERAL OIL SORBITOL AZ;036
+active_ingredient:
+  Active Ingredient (in each tablet): Calcium Carbonate 420 mg
+purpose:
+  Purpose: Antacid
+indications_and_usage:
+  Uses: Temporarily relieves heartburn sour stomach acid indigestion upset stomach
+warnings:
+  Warnings:
+ask_doctor_or_pharmacist:
+  Ask a doctor or pharmacist before use if you are presently taking a prescription drug. Antacids may interfere with certain prescription drugs.
+stop_use:
+  Stop use and ask a doctor if symptoms last for more than 2 weeks
+pregnancy_or_breast_feeding:
+  If pregnant or breast-feeding , ask a health professional before use
+keep_out_of_reach_of_children:
+  Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away. 1-800-222-1222
+dosage_and_administration:
+  Directions: Do not take more than directed Adults and children 12 years of age and over: thoroughly chew 2 tablets every 3 to 4 hours as symptoms occur do not take more than 16 tablets in 24 hours unless directed by a doctor do not use the maximum dose for more than 2 weeks Children under 12 years of age: ask a doctor
+other_safety_information:
+  Other information: Calcium content per tablet: 168mg phenylketonurics: each tablet may contain 1.5 mg phenylalanine tablets enclosed in a sealed packet do not use if packet is torn, cut or open store at 59° to 86°F (15°-30°C) avoid excessive heat and humidity
+inactive_ingredient:
+  Inactive ingredients aspartame, croscarmellose sodium, magnesium stearate, maltodextrin, mint flavor, sorbitol May contain mineral oil
+package_label_principal_display_panel:
+  Nutralox.jpg
+set_id:
+  3941b84e-3b4b-46eb-851b-979bac1ae997
+id:
+  1f253919-2335-4266-a415-c0aacfa2e1dc
+effective_time:
+  20251231
+version:
+  4
+openfda:
+  application_number:
+    M
+  brand_name:
+    NUTRALOX
+  generic_name:
+    CALCIUM CARBONATE
+  manufacturer_name:
+    HART Health
+  product_ndc:
+    50332-0151
+  product_type:
+    HUMAN OTC DRUG
+  route:
+    ORAL
+  substance_name:
+    CALCIUM CARBONATE
+  rxcui:
+    313884
+    1358869
+  spl_id:
+    1f253919-2335-4266-a415-c0aacfa2e1dc
+  spl_set_id:
+    3941b84e-3b4b-46eb-851b-979bac1ae997
+  package_ndc:
+    50332-0151-3
+    50332-0151-4
+    50332-0151-7
+    50332-0151-8
+    50332-0151-1
+  is_original_packager:
+    True
+  unii:
+    H0G9379FGK
