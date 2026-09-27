@@ -25,7 +25,9 @@ from app.db.passwords import MAX_PASSWORD_LENGTH, password_matches
 from app.db.sessions import assert_same_hcp, current_hcp
 from app.db.accounts import owned_patient, public_patient
 
+
 router = APIRouter(prefix="/profile", tags=["profile"])
+
 
 MAX_CHART_TEXT_LENGTH = 2000
 
@@ -48,19 +50,60 @@ def to_utc_iso(value: Optional[datetime]) -> Optional[str]:
 
 class ProfileUpdate(BaseModel):
     model_config = ConfigDict(extra="forbid")
-    current_password: Optional[str] = Field(default=None, max_length=MAX_PASSWORD_LENGTH)
-    first_name: Optional[str] = Field(default=None, max_length=MAX_NAME_LENGTH)
-    last_name: Optional[str] = Field(default=None, max_length=MAX_NAME_LENGTH)
-    email: Optional[str] = Field(default=None, max_length=MAX_EMAIL_LENGTH)
-    professional_role: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    specialty: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    credentials: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    organization: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    practice_setting: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    work_phone: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    city: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    region: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    country: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
+
+    current_password: Optional[str] = Field(
+        default=None,
+        max_length=MAX_PASSWORD_LENGTH,
+    )
+    first_name: Optional[str] = Field(
+        default=None,
+        max_length=MAX_NAME_LENGTH,
+    )
+    last_name: Optional[str] = Field(
+        default=None,
+        max_length=MAX_NAME_LENGTH,
+    )
+    email: Optional[str] = Field(
+        default=None,
+        max_length=MAX_EMAIL_LENGTH,
+    )
+    professional_role: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    specialty: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    credentials: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    organization: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    practice_setting: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    work_phone: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    city: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    region: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    country: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+
 
 class RenameChatRequest(BaseModel):
     title: str = Field(min_length=1, max_length=100)
@@ -68,16 +111,50 @@ class RenameChatRequest(BaseModel):
 
 class PatientCreate(BaseModel):
     model_config = ConfigDict(extra="forbid")
-    first_name: str = Field(min_length=1, max_length=MAX_NAME_LENGTH)
-    last_name: str = Field(min_length=1, max_length=MAX_NAME_LENGTH)
-    birth_date: Optional[str] = Field(default=None, max_length=10)
-    age: Optional[int] = Field(default=None, ge=0, le=150)
-    weight_kg: Optional[float] = Field(default=None, ge=0, le=500)
-    sex: Optional[str] = Field(default=None, max_length=MAX_FIELD_LENGTH)
-    medical_history: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
-    allergies: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
-    current_medications: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
-    notes: Optional[str] = Field(default=None, max_length=MAX_CHART_TEXT_LENGTH)
+
+    first_name: str = Field(
+        min_length=1,
+        max_length=MAX_NAME_LENGTH,
+    )
+    last_name: str = Field(
+        min_length=1,
+        max_length=MAX_NAME_LENGTH,
+    )
+    birth_date: Optional[str] = Field(
+        default=None,
+        max_length=10,
+    )
+    age: Optional[int] = Field(
+        default=None,
+        ge=0,
+        le=150,
+    )
+    weight_kg: Optional[float] = Field(
+        default=None,
+        ge=0,
+        le=500,
+    )
+    sex: Optional[str] = Field(
+        default=None,
+        max_length=MAX_FIELD_LENGTH,
+    )
+    medical_history: Optional[str] = Field(
+        default=None,
+        max_length=MAX_CHART_TEXT_LENGTH,
+    )
+    allergies: Optional[str] = Field(
+        default=None,
+        max_length=MAX_CHART_TEXT_LENGTH,
+    )
+    current_medications: Optional[str] = Field(
+        default=None,
+        max_length=MAX_CHART_TEXT_LENGTH,
+    )
+    notes: Optional[str] = Field(
+        default=None,
+        max_length=MAX_CHART_TEXT_LENGTH,
+    )
+
 
 @router.get("/{hcp_id}/chats")
 def list_chats(
@@ -117,7 +194,6 @@ def list_chats(
 
         for row in conversation_rows:
             row_id = str(row["_id"])
-
             message_asked_at = to_utc_iso(row.get("asked_at"))
 
             messages.append(
@@ -141,36 +217,106 @@ def list_chats(
         latest_row = conversation_rows[-1]
         first_row = conversation_rows[0]
 
+        # Find the patient associated with this conversation.
+        # Using the first non-empty patient_id is more robust than
+        # assuming every message in the conversation contains it.
+        patient_id = next(
+            (
+                row.get("patient_id")
+                for row in conversation_rows
+                if row.get("patient_id")
+            ),
+            None,
+        )
+
         chats.append(
             {
                 "id": conversation_id,
                 "conversation_id": conversation_id,
                 "drug_id": latest_row["drug_id"],
+                "patient_id": patient_id,
                 "question": first_row["question"],
                 "answer": first_row["answer"],
-                "title": latest_row.get("title")
-                or first_row["question"][:50],
+
+                # Keep an explicitly renamed title if one exists.
+                # Otherwise the default title is generated below
+                # once we know the drug's display name.
+                "title": latest_row.get("title"),
+
                 "preview": latest_row["question"],
                 "asked_at": to_utc_iso(latest_row.get("asked_at")),
                 "messages": messages,
             }
         )
-    # Most recently active conversation first.
-    chats.sort(key=lambda chat: chat.get("asked_at") or "", reverse=True)
 
-    # Attach display names so the frontend can auto-populate a per-HCP
-    # drug list from chat history without a round trip per drug.
+    # Most recently active conversation first.
+    chats.sort(
+        key=lambda chat: chat.get("asked_at") or "",
+        reverse=True,
+    )
+
+    # Get display names for every drug referenced by the HCP's chats.
     drug_ids = {chat["drug_id"] for chat in chats}
+
     drug_names = {
         row["_id"]: row.get("name") or row["_id"]
         for row in db.drugs.find(
-            {"_id": {"$in": list(drug_ids)}}, {"_id": 1, "name": 1}
+            {"_id": {"$in": list(drug_ids)}},
+            {"_id": 1, "name": 1},
         )
     }
+
+    # Get display names for every patient referenced by the HCP's chats.
+    patient_ids = {
+        chat["patient_id"]
+        for chat in chats
+        if chat.get("patient_id")
+    }
+
+    patient_names = {
+        row["_id"]: (
+            f"{row.get('first_name', '')} "
+            f"{row.get('last_name', '')}"
+        ).strip()
+        or row["_id"]
+        for row in db.patients.find(
+            {
+                "_id": {"$in": list(patient_ids)},
+                "hcp_id": hcp["_id"],
+            },
+            {
+                "_id": 1,
+                "first_name": 1,
+                "last_name": 1,
+            },
+        )
+    }
+
     for chat in chats:
-        chat["drug_name"] = drug_names.get(chat["drug_id"], chat["drug_id"])
+        drug_name = drug_names.get(
+            chat["drug_id"],
+            chat["drug_id"],
+        )
+
+        chat["drug_name"] = drug_name
+
+        patient_id = chat.get("patient_id")
+
+        chat["patient_name"] = (
+            patient_names.get(patient_id)
+            if patient_id
+            else None
+        )
+
+        # If the user has never manually renamed the conversation,
+        # generate the default title from the drug and first question.
+        if not chat.get("title"):
+            chat["title"] = (
+                f"{drug_name} - {chat['question']}"
+            )
 
     return {"chats": chats}
+
 
 @router.delete("/{hcp_id}/chats/{conversation_id}")
 def delete_chat(
@@ -211,6 +357,7 @@ def delete_chat(
         "deleted": result.deleted_count > 0,
     }
 
+
 @router.get("/{hcp_id}/patients")
 def list_patients(
     hcp_id: str,
@@ -218,7 +365,10 @@ def list_patients(
     db: Database = Depends(get_db),
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
-    return {"patients": patients_for_hcp(db, hcp)}
+
+    return {
+        "patients": patients_for_hcp(db, hcp),
+    }
 
 
 @router.post("/{hcp_id}/patients")
@@ -231,12 +381,23 @@ def create_patient(
     """Create a new patient chart directly in Mongo. The only writer of patients."""
     assert_same_hcp(hcp, hcp_id)
 
-    first = optional_text(payload.first_name, MAX_NAME_LENGTH)
-    last = optional_text(payload.last_name, MAX_NAME_LENGTH)
+    first = optional_text(
+        payload.first_name,
+        MAX_NAME_LENGTH,
+    )
+    last = optional_text(
+        payload.last_name,
+        MAX_NAME_LENGTH,
+    )
+
     if not first or not last:
-        raise HTTPException(status_code=422, detail="First and last name are required.")
+        raise HTTPException(
+            status_code=422,
+            detail="First and last name are required.",
+        )
 
     patient_id = "pat_%s" % uuid4().hex[:12]
+
     row = {
         "_id": patient_id,
         "hcp_id": hcp["_id"],
@@ -244,18 +405,45 @@ def create_patient(
         "source": "manual",
         "first_name": first,
         "last_name": last,
-        "birth_date": optional_text(payload.birth_date, 10),
+        "birth_date": optional_text(
+            payload.birth_date,
+            10,
+        ),
         "age": payload.age,
         "weight_kg": payload.weight_kg,
-        "sex": optional_text(payload.sex, MAX_FIELD_LENGTH),
-        "medical_history": optional_text(payload.medical_history, MAX_CHART_TEXT_LENGTH),
-        "allergies": optional_text(payload.allergies, MAX_CHART_TEXT_LENGTH),
-        "current_medications": optional_text(payload.current_medications, MAX_CHART_TEXT_LENGTH),
-        "notes": optional_text(payload.notes, MAX_CHART_TEXT_LENGTH),
+        "sex": optional_text(
+            payload.sex,
+            MAX_FIELD_LENGTH,
+        ),
+        "medical_history": optional_text(
+            payload.medical_history,
+            MAX_CHART_TEXT_LENGTH,
+        ),
+        "allergies": optional_text(
+            payload.allergies,
+            MAX_CHART_TEXT_LENGTH,
+        ),
+        "current_medications": optional_text(
+            payload.current_medications,
+            MAX_CHART_TEXT_LENGTH,
+        ),
+        "notes": optional_text(
+            payload.notes,
+            MAX_CHART_TEXT_LENGTH,
+        ),
     }
+
     db.patients.insert_one(row)
-    db.hcps.update_one({"_id": hcp["_id"]}, {"$push": {"patient_ids": patient_id}})
-    return {"patient": public_patient(row)}
+
+    db.hcps.update_one(
+        {"_id": hcp["_id"]},
+        {"$push": {"patient_ids": patient_id}},
+    )
+
+    return {
+        "patient": public_patient(row),
+    }
+
 
 @router.get("/{hcp_id}/patients/{patient_id}")
 def get_patient(
@@ -266,9 +454,56 @@ def get_patient(
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
 
-    patient = owned_patient(db, hcp, patient_id)
+    patient = owned_patient(
+        db,
+        hcp,
+        patient_id,
+    )
 
-    return {"patient": public_patient(patient)}
+    return {
+        "patient": public_patient(patient),
+    }
+
+
+@router.delete("/{hcp_id}/patients/{patient_id}")
+def delete_patient(
+    hcp_id: str,
+    patient_id: str,
+    hcp: dict = Depends(current_hcp),
+    db: Database = Depends(get_db),
+) -> dict:
+    assert_same_hcp(hcp, hcp_id)
+
+    # Verify the patient belongs to the authenticated HCP.
+    patient = owned_patient(
+        db,
+        hcp,
+        patient_id,
+    )
+
+    result = db.patients.delete_one(
+        {
+            "_id": patient["_id"],
+            "hcp_id": hcp["_id"],
+        }
+    )
+
+    if result.deleted_count == 0:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown patient_id: {patient_id}",
+        )
+
+    # Remove the patient ID from the HCP's patient folder list.
+    db.hcps.update_one(
+        {"_id": hcp["_id"]},
+        {"$pull": {"patient_ids": patient_id}},
+    )
+
+    return {
+        "deleted": True,
+        "patient_id": patient_id,
+    }
 
 
 @router.get("/{hcp_id}")
@@ -278,6 +513,7 @@ def get_profile(
     db: Database = Depends(get_db),
 ) -> dict:
     assert_same_hcp(hcp, hcp_id)
+
     return public_hcp(hcp, db)
 
 
@@ -292,32 +528,62 @@ def update_profile(
 
     patch = payload.model_dump(exclude_unset=True)
     current_password = patch.pop("current_password", None)
+
     updates = {}
-    required = {"first_name", "last_name", "professional_role", "specialty"}
+
+    required = {
+        "first_name",
+        "last_name",
+        "professional_role",
+        "specialty",
+    }
+
     for key, value in patch.items():
         if value is None:
             continue
+
         if key in {"first_name", "last_name"}:
             limit = MAX_NAME_LENGTH
         elif key == "email":
             limit = MAX_EMAIL_LENGTH
         else:
             limit = MAX_FIELD_LENGTH
-        text = optional_text(value, limit) if isinstance(value, str) else value
+
+        text = (
+            optional_text(value, limit)
+            if isinstance(value, str)
+            else value
+        )
+
         if key in required and not text:
-            raise HTTPException(status_code=422, detail="Name, role, and specialty are required.")
+            raise HTTPException(
+                status_code=422,
+                detail="Name, role, and specialty are required.",
+            )
+
         if key == "email":
             email = normalize_email(text)
+
             if not valid_email(email):
                 raise HTTPException(
                     status_code=422,
-                    detail="Enter an email address such as name@example.com.",
+                    detail=(
+                        "Enter an email address such as "
+                        "name@example.com."
+                    ),
                 )
+
             if email != (hcp.get("email") or ""):
-                if not password_matches(current_password or "", hcp.get("password_hash") or ""):
+                if not password_matches(
+                    current_password or "",
+                    hcp.get("password_hash") or "",
+                ):
                     raise HTTPException(
                         status_code=401,
-                        detail="Current password is required to change email.",
+                        detail=(
+                            "Current password is required "
+                            "to change email."
+                        ),
                     )
 
                 other = db.hcps.find_one(
@@ -330,7 +596,10 @@ def update_profile(
                 if other is not None:
                     raise HTTPException(
                         status_code=409,
-                        detail="An account with that email already exists.",
+                        detail=(
+                            "An account with that email "
+                            "already exists."
+                        ),
                     )
 
                 updates["email"] = email
@@ -343,10 +612,12 @@ def update_profile(
         "first_name",
         hcp.get("first_name") or "",
     )
+
     last = updates.get(
         "last_name",
         hcp.get("last_name") or "",
     )
+
     role = updates.get(
         "professional_role",
         hcp.get("professional_role") or "",
@@ -354,22 +625,53 @@ def update_profile(
 
     if any(
         field in updates
-        for field in ("first_name", "last_name", "professional_role")
+        for field in (
+            "first_name",
+            "last_name",
+            "professional_role",
+        )
     ):
-        updates["name"] = display_name(first, last, role)
+        updates["name"] = display_name(
+            first,
+            last,
+            role,
+        )
 
     if updates:
         updates["profile_updated_at"] = datetime.now(timezone.utc)
+
         try:
-            result = db.hcps.update_one({"_id": hcp["_id"]}, {"$set": updates})
+            result = db.hcps.update_one(
+                {"_id": hcp["_id"]},
+                {"$set": updates},
+            )
         except DuplicateKeyError:
-            raise HTTPException(status_code=409, detail="An account with that email already exists.")
+            raise HTTPException(
+                status_code=409,
+                detail="An account with that email already exists.",
+            )
+
         if result.matched_count != 1:
-            raise HTTPException(status_code=404, detail="Unknown hcp_id: %s" % hcp_id)
-    stored = db.hcps.find_one({"_id": hcp["_id"]})
+            raise HTTPException(
+                status_code=404,
+                detail=f"Unknown hcp_id: {hcp_id}",
+            )
+
+    stored = db.hcps.find_one(
+        {"_id": hcp["_id"]}
+    )
+
     if stored is None:
-        raise HTTPException(status_code=404, detail="Unknown hcp_id: %s" % hcp_id)
-    return public_hcp(stored, db)
+        raise HTTPException(
+            status_code=404,
+            detail=f"Unknown hcp_id: {hcp_id}",
+        )
+
+    return public_hcp(
+        stored,
+        db,
+    )
+
 
 @router.patch("/{hcp_id}/chats/{conversation_id}")
 def rename_chat(

@@ -1,9 +1,13 @@
 import { useState } from "react";
-import NewPatientForm from "./NewPatientForm";
 
-function PatientList({ patients, selectedPatient, onSelect, onCreate }) {
+function PatientList({
+  patients,
+  selectedPatient,
+  onSelect,
+  onNewPatient,
+  onDelete,
+}) {
   const [search, setSearch] = useState("");
-  const [showForm, setShowForm] = useState(false);
 
   const filteredPatients = patients.filter((patient) => {
     const name = `${patient.first_name} ${patient.last_name}`.toLowerCase();
@@ -11,36 +15,27 @@ function PatientList({ patients, selectedPatient, onSelect, onCreate }) {
     return name.includes(search.toLowerCase());
   });
 
-  async function handleCreate(payload) {
-    const created = await onCreate(payload);
-    setShowForm(false);
-    return created;
-  }
-
   return (
     <div className="patient-list">
       <div className="patient-list-header">
         <div className="patient-list-header-top">
           <h2>Patients</h2>
+
           <button
             type="button"
             className="primary-button small"
-            onClick={() => setShowForm((current) => !current)}
+            onClick={onNewPatient}
           >
-            {showForm ? "Close" : "+ New Patient"}
+            + New Patient
           </button>
         </div>
 
-        {showForm ? (
-          <NewPatientForm onCreate={handleCreate} onCancel={() => setShowForm(false)} />
-        ) : (
-          <input
-            type="text"
-            placeholder="Search patients..."
-            value={search}
-            onChange={(event) => setSearch(event.target.value)}
-          />
-        )}
+        <input
+          type="text"
+          placeholder="Search patients..."
+          value={search}
+          onChange={(event) => setSearch(event.target.value)}
+        />
       </div>
 
       {filteredPatients.length === 0 ? (
@@ -52,14 +47,21 @@ function PatientList({ patients, selectedPatient, onSelect, onCreate }) {
           const name = `${patient.first_name} ${patient.last_name}`.trim();
 
           return (
-            <button
+            <div
               key={patient.patient_id}
+              role="button"
+              tabIndex={0}
               className={`patient-list-item ${
                 selectedPatient?.patient_id === patient.patient_id
                   ? "selected"
                   : ""
               }`}
               onClick={() => onSelect(patient)}
+              onKeyDown={(event) => {
+                if (event.key === "Enter" || event.key === " ") {
+                  onSelect(patient);
+                }
+              }}
             >
               <div className="patient-avatar">
                 {patient.first_name?.[0]}
@@ -68,13 +70,27 @@ function PatientList({ patients, selectedPatient, onSelect, onCreate }) {
 
               <div className="patient-list-info">
                 <strong>{name || "Unnamed patient"}</strong>
+
                 <span>
                   {patient.age
                     ? `${patient.age} years old`
                     : "Age unavailable"}
                 </span>
               </div>
-            </button>
+
+              <button
+                type="button"
+                className="delete-patient-button"
+                onClick={(event) => {
+                  event.stopPropagation();
+                  onDelete(patient.patient_id);
+                }}
+                title="Delete patient"
+                aria-label={`Delete ${name || "patient"}`}
+              >
+                🗑️
+              </button>
+            </div>
           );
         })
       )}

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   getChats,
   deleteChat,
@@ -9,8 +9,11 @@ import {
   logEngagement,
   getPatients,
   getProfile,
-  createPatient
+  updateProfile,
+  createPatient,
+  deletePatient,
 } from "./api";
+
 import Header from "./components/Header";
 import Dashboard from "./components/Dashboard";
 import Settings from "./components/Settings";
@@ -18,9 +21,11 @@ import ChatList from "./components/ChatList";
 import ChatView from "./components/ChatView";
 import DrugList from "./components/DrugList";
 import DrugDetails from "./components/DrugDetails";
+import DrugAddPanel from "./components/DrugAddPanel";
 import Login from "./components/Login";
 import PatientList from "./components/PatientList";
 import PatientDetails from "./components/PatientDetails";
+import NewPatientForm from "./components/NewPatientForm";
 
 function App() {
   const [hcpId, setHcpId] = useState(() =>
@@ -34,6 +39,7 @@ function App() {
   const [patients, setPatients] = useState([]);
   const [selectedPatient, setSelectedPatient] = useState(null);
   const [loadingPatients, setLoadingPatients] = useState(false);
+  const [showNewPatientForm, setShowNewPatientForm] = useState(false);
 
   const [chats, setChats] = useState([]);
   const [selectedChat, setSelectedChat] = useState(null);
@@ -42,6 +48,13 @@ function App() {
   const [drugSummary, setDrugSummary] = useState(null);
   const [extraDrugs, setExtraDrugs] = useState([]);
   const [hiddenDrugIds, setHiddenDrugIds] = useState([]);
+
+  const [showAddDrug, setShowAddDrug] = useState(false);
+  const [addDrugQuery, setAddDrugQuery] = useState("");
+  const [addDrugResults, setAddDrugResults] = useState([]);
+  const [addDrugLoading, setAddDrugLoading] = useState(false);
+  const [addDrugError, setAddDrugError] = useState("");
+  const addDrugDebounceRef = useRef(null);
 
   const [loading, setLoading] = useState(false);
   const [loadingDrug, setLoadingDrug] = useState(false);
@@ -65,7 +78,26 @@ function App() {
     setExtraDrugs([]);
     setPatients([]);
     setSelectedPatient(null);
+    setShowNewPatientForm(false);
+    setShowAddDrug(false);
     setView("dashboard");
+  }
+
+  async function handleUpdateProfile(updates) {
+    if (!hcpId) return;
+
+    try {
+      setError(null);
+
+      const updatedProfile = await updateProfile(hcpId, updates);
+
+      setProfile(updatedProfile);
+
+      return updatedProfile;
+    } catch (err) {
+      console.error("Failed to update profile:", err);
+      throw err;
+    }
   }
 
   async function handleDeleteChat(chatId) {
@@ -126,6 +158,8 @@ function App() {
           conversationId: chat.conversation_id || chat.id,
           drugId: chat.drug_id,
           drugName: chat.drug_name || chat.drug_id,
+          patientId: chat.patient_id || null,
+          patientName: chat.patient_name || null,
           title: chat.title || chat.question,
           timestamp: chat.asked_at || null,
           preview: chat.preview || chat.question,
@@ -190,16 +224,64 @@ function App() {
   async function handleCreatePatient(payload) {
     if (!hcpId) return;
 
-    const patient = await createPatient(hcpId, payload);
-    setPatients((currentPatients) => [...currentPatients, patient]);
-    setSelectedPatient(patient);
-    return patient;
+    try {
+      const patient = await createPatient(hcpId, payload);
+
+      setPatients((currentPatients) => [
+        ...currentPatients,
+        patient,
+      ]);
+
+      setSelectedPatient(patient);
+      setShowNewPatientForm(false);
+
+      return patient;
+    } catch (err) {
+      console.error("Failed to create patient:", err);
+      setError(`Failed to create patient: ${err.message}`);
+      throw err;
+    }
   }
 
-  // Drugs a clinician has manually pinned via the "+ Add" search, on top
-  // of the ones that auto-populate from their chat history. Kept
-  // per-HCP in localStorage since it's a personal UI convenience, not
-  // data the backend needs to own.
+  async function handleDeletePatient(patientId) {
+    if (!hcpId) return;
+
+    const patient = patients.find(
+      (item) => item.patient_id === patientId
+    );
+
+    if (!patient) return;
+
+    const name =
+      `${patient.first_name} ${patient.last_name}`.trim() ||
+      "this patient";
+
+    const confirmed = window.confirm(
+      `Delete ${name}? This cannot be undone.`
+    );
+
+    if (!confirmed) return;
+
+    try {
+      await deletePatient(hcpId, patientId);
+
+      setPatients((currentPatients) =>
+        currentPatients.filter(
+          (item) => item.patient_id !== patientId
+        )
+      );
+
+      setSelectedPatient((currentPatient) =>
+        currentPatient?.patient_id === patientId
+          ? null
+          : currentPatient
+      );
+    } catch (err) {
+      console.error("Failed to delete patient:", err);
+      setError(`Failed to delete patient: ${err.message}`);
+    }
+  }
+
   useEffect(() => {
     if (!hcpId) return;
 
@@ -256,10 +338,6 @@ function App() {
     });
   }
 
-  // Removing a drug from the "Drug Information" list is a personal UI
-  // preference (like pinning), not a backend-owned deletion, so it's
-  // tracked the same way: a per-HCP id list in localStorage that's
-  // subtracted from drugCatalog below.
   function handleRemoveDrug(drugId) {
     setHiddenDrugIds((current) => {
       if (current.includes(drugId)) return current;
@@ -302,17 +380,81 @@ function App() {
 
   async function handleSearchDrugs(query) {
     const results = await searchDrugs(query);
-    return results.map((item) => ({ id: item.drug_id, name: item.name }));
+
+    return results.map((item) => ({
+      id: item.drug_id,
+      name: item.name,
+    }));
   }
 
-  // Drug Information auto-populates from every drug a chat has touched,
-  // plus anything manually pinned via "+ Add" — no more static catalog.
+  function handleOpenAddDrug() {
+    setShowAddDrug(true);
+    setAddDrugQuery("");
+    setAddDrugResults([]);
+    setAddDrugError("");
+  }
+
+  function handleCloseAddDrug() {
+    setShowAddDrug(false);
+    setAddDrugQuery("");
+    setAddDrugResults([]);
+    setAddDrugError("");
+    setAddDrugLoading(false);
+
+    if (addDrugDebounceRef.current) {
+      clearTimeout(addDrugDebounceRef.current);
+    }
+  }
+
+  function handleAddDrugQueryChange(event) {
+    const value = event.target.value;
+
+    setAddDrugQuery(value);
+
+    if (addDrugDebounceRef.current) {
+      clearTimeout(addDrugDebounceRef.current);
+    }
+
+    const trimmed = value.trim();
+
+    if (!trimmed) {
+      setAddDrugResults([]);
+      setAddDrugLoading(false);
+      return;
+    }
+
+    setAddDrugLoading(true);
+    setAddDrugError("");
+
+    addDrugDebounceRef.current = setTimeout(async () => {
+      try {
+        const results = await handleSearchDrugs(trimmed);
+        setAddDrugResults(results);
+      } catch (err) {
+        console.error("Drug search failed:", err);
+        setAddDrugError(err.message);
+        setAddDrugResults([]);
+      } finally {
+        setAddDrugLoading(false);
+      }
+    }, 300);
+  }
+
+  function handleSelectDrugToAdd(drug) {
+    handleAddDrug(drug);
+    setSelectedDrug(drug);
+    handleCloseAddDrug();
+  }
+
   const drugCatalog = useMemo(() => {
     const byId = new Map();
 
     for (const chat of chats) {
       if (!byId.has(chat.drugId)) {
-        byId.set(chat.drugId, { id: chat.drugId, name: chat.drugName });
+        byId.set(chat.drugId, {
+          id: chat.drugId,
+          name: chat.drugName,
+        });
       }
     }
 
@@ -370,7 +512,6 @@ function App() {
       loading: true,
     };
 
-    // Immediately update the chat and move it to the top.
     setChats((currentChats) => {
       const updatedChats = currentChats.map((item) =>
         item.id === chatId
@@ -400,7 +541,6 @@ function App() {
         : updatedChats;
     });
 
-    // Immediately update the open conversation.
     setSelectedChat((currentChat) =>
       currentChat?.id === chatId
         ? {
@@ -421,7 +561,8 @@ function App() {
         chat.drugId,
         hcpId,
         text,
-        chat.conversationId
+        chat.conversationId,
+        chat.patientId
       );
 
       const assistantMessage = {
@@ -430,7 +571,6 @@ function App() {
         text: response.answer_text,
       };
 
-      // Remove loading message and add the real response.
       setChats((currentChats) =>
         currentChats.map((item) =>
           item.id === chatId
@@ -475,7 +615,6 @@ function App() {
         text: `Sorry, I couldn't get an answer: ${err.message}`,
       };
 
-      // Remove loading message even when the request fails.
       setChats((currentChats) =>
         currentChats.map((item) =>
           item.id === chatId
@@ -507,6 +646,7 @@ function App() {
       );
     }
   }
+
   async function handleRenameChat(chatId, title) {
     if (!hcpId) return;
 
@@ -576,6 +716,7 @@ function App() {
             profile={profile}
             hcpId={hcpId}
             onLogout={handleLogout}
+            onUpdateProfile={handleUpdateProfile}
           />
         )}
 
@@ -589,6 +730,7 @@ function App() {
               onRenameChat={handleRenameChat}
               loading={loading}
             />
+
             <ChatView
               chat={selectedChat}
               onSendMessage={handleSendMessage}
@@ -602,18 +744,33 @@ function App() {
             <DrugList
               drugs={drugCatalog}
               selectedDrug={selectedDrug}
-              setSelectedDrug={setSelectedDrug}
-              onSearchDrugs={handleSearchDrugs}
-              onAddDrug={handleAddDrug}
-            />
-
-            <DrugDetails
-              drug={selectedDrug}
-              summary={drugSummary}
-              loading={loadingDrug}
-              error={error}
+              setSelectedDrug={(drug) => {
+                setSelectedDrug(drug);
+                setShowAddDrug(false);
+              }}
+              onAddDrug={handleOpenAddDrug}
               onRemoveDrug={handleRemoveDrug}
             />
+
+            {showAddDrug ? (
+              <DrugAddPanel
+                query={addDrugQuery}
+                results={addDrugResults}
+                loading={addDrugLoading}
+                error={addDrugError}
+                onQueryChange={handleAddDrugQueryChange}
+                onSelectDrug={handleSelectDrugToAdd}
+                onCancel={handleCloseAddDrug}
+              />
+            ) : (
+              <DrugDetails
+                drug={selectedDrug}
+                summary={drugSummary}
+                loading={loadingDrug}
+                error={error}
+                onRemoveDrug={handleRemoveDrug}
+              />
+            )}
           </div>
         )}
 
@@ -622,14 +779,48 @@ function App() {
             <PatientList
               patients={patients}
               selectedPatient={selectedPatient}
-              onSelect={setSelectedPatient}
-              onCreate={handleCreatePatient}
+              onSelect={(patient) => {
+                setSelectedPatient(patient);
+                setShowNewPatientForm(false);
+              }}
+              onNewPatient={() => {
+                setShowNewPatientForm(true);
+                setSelectedPatient(null);
+              }}
+              onDelete={handleDeletePatient}
             />
 
-            <PatientDetails
-              patient={selectedPatient}
-              loading={loadingPatients}
-            />
+            {showNewPatientForm ? (
+              <section className="patient-form-panel">
+                <div className="patient-form-header">
+                  <div>
+                    <span className="eyebrow">Patients</span>
+                    <h2>New Patient</h2>
+                    <p>
+                      Add a new patient to your patient list.
+                    </p>
+                  </div>
+
+                  <button
+                    type="button"
+                    className="secondary-button"
+                    onClick={() => setShowNewPatientForm(false)}
+                  >
+                    Cancel
+                  </button>
+                </div>
+
+                <NewPatientForm
+                  onCreate={handleCreatePatient}
+                  onCancel={() => setShowNewPatientForm(false)}
+                />
+              </section>
+            ) : (
+              <PatientDetails
+                patient={selectedPatient}
+                loading={loadingPatients}
+              />
+            )}
           </div>
         )}
       </main>
