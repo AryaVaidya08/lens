@@ -35,7 +35,7 @@ def test_full_scan_ask_rescan_flow(client, monkeypatch):
     monkeypatch.setattr(
         drug_route,
         "generate_answer",
-        lambda query, context, tier="new", specialty=None: f"Mock answer using {len(context)} sources.",
+        lambda query, context, tier="new", specialty=None, patient_context=None: f"Mock answer using {len(context)} sources.",
     )
     ask_resp = client.post(
         f"/drug/{drug_id}/ask",

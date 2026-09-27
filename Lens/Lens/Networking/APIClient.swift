@@ -175,10 +175,10 @@ final class APIClient {
     }
 
     /// POST /drug/{drug_id}/ask
-    func askQuestion(drugId: String, hcpId: String, query: String) async throws -> String {
+    func askQuestion(drugId: String, hcpId: String, query: String, patientId: String? = nil) async throws -> String {
         try await post(
             Endpoints.ask(drugId: drugId),
-            body: AskRequest(hcpId: hcpId, query: query),
+            body: AskRequest(hcpId: hcpId, query: query, patientId: patientId),
             as: AnswerResponse.self
         ).answerText
     }
@@ -482,10 +482,12 @@ struct DetectRequest: Encodable {
 struct AskRequest: Encodable {
     let hcpId: String
     let query: String
+    var patientId: String? = nil
 
     enum CodingKeys: String, CodingKey {
         case hcpId = "hcp_id"
         case query
+        case patientId = "patient_id"
     }
 }
 

@@ -67,6 +67,7 @@ struct MainView: View {
                         assistant.microphoneTapped(
                             currentDrug: { appState.currentDrug },
                             hcpId: { appState.selectedHCP?.id },
+                            patientId: { appState.selectedPatient?.id },
                             recordChat: { question, answer in
                                 appState.recordChat(question: question, answer: answer)
                             }

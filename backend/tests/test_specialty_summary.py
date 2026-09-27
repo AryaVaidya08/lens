@@ -184,7 +184,7 @@ def test_registered_users_specialty_shapes_summary_and_ask(client, monkeypatch):
 
     seen = []
 
-    def fake_answer(query, context, tier="new", specialty=None):
+    def fake_answer(query, context, tier="new", specialty=None, patient_context=None):
         seen.append(specialty)
         return "Answer for %s" % specialty
 

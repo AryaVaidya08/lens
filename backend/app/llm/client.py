@@ -52,12 +52,17 @@ def generate_answer(
     context: list[str],
     tier: str = "new",
     specialty: str | None = None,
+    patient_context: str | None = None,
 ) -> str:
     """
     Generate a spoken-ready answer to `query`, grounded only in `context`.
 
     This is the single LLM swap point for the application. Retrieval happens
-    before this function is called.
+    before this function is called. `patient_context` is an optional,
+    already-formatted block of the currently-selected patient's clinically
+    relevant fields (age, sex, weight, allergies, current medications) —
+    passed through as plain context, never as an instruction to make a
+    clinical judgment.
     """
     if not isinstance(query, str) or not query.strip():
         raise ValueError("Query cannot be empty")
@@ -73,7 +78,7 @@ def generate_answer(
     # Grok/xAI is the active provider. If no key is configured, use the
     # grounded local fallback instead of failing the demo.
     if settings.llm_enabled:
-        answer = _call_llm(query, context, tier, specialty)
+        answer = _call_llm(query, context, tier, specialty, patient_context)
         if answer:
             return answer
 
@@ -85,6 +90,7 @@ def _call_llm(
     context: list[str],
     tier: str,
     specialty: str | None = None,
+    patient_context: str | None = None,
 ) -> Optional[str]:
     """
     Call the configured xAI-compatible chat-completions endpoint.
@@ -105,7 +111,10 @@ def _call_llm(
         specialty=(specialty or "").strip() or "general",
     )
 
+    patient_block = f"{patient_context.strip()}\n\n" if patient_context else ""
+
     user_prompt = (
+        f"{patient_block}"
         "Drug information context:\n\n"
         f"{joined}\n\n"
         f"Question:\n{query}"

@@ -26,10 +26,41 @@ MAX_BULLETS = 3
 MAX_SEARCH_RESULTS = 50
 
 
+def _patient_context_block(patient: dict) -> Optional[str]:
+    """
+    Format the clinically-relevant fields of a patient chart for the LLM
+    prompt. Deliberately narrow: age, sex, weight, allergies, and current
+    medications are the fields that can actually change a dosing/interaction
+    answer. Name, medical history, and free-text notes are left out.
+    """
+    lines: list[str] = []
+
+    demographics = []
+    if patient.get("age") is not None:
+        demographics.append(f"{patient['age']}yo")
+    if patient.get("sex"):
+        demographics.append(str(patient["sex"]))
+    if patient.get("weight_kg") is not None:
+        demographics.append(f"{patient['weight_kg']}kg")
+    if demographics:
+        lines.append("Patient: " + ", ".join(demographics))
+
+    allergies = str(patient.get("allergies") or "").strip()
+    if allergies and allergies.lower() not in {"none", "none known", "nka", "nkda"}:
+        lines.append(f"Allergies: {allergies}")
+
+    current_medications = str(patient.get("current_medications") or "").strip()
+    if current_medications and current_medications.lower() != "none":
+        lines.append(f"Current medications: {current_medications}")
+
+    return "\n".join(lines) if lines else None
+
+
 class AskRequest(BaseModel):
     hcp_id: str = Field(max_length=64)
     query: str = Field(max_length=2000)
     conversation_id: Optional[str] = Field(default=None, max_length=64)
+    patient_id: Optional[str] = Field(default=None, max_length=64)
 
 
 @router.get("/search")
@@ -147,6 +178,12 @@ def ask_question(
     tier = score_familiarity(hcp["_id"], drug_id, db)
     specialty = hcp.get("specialty") or ""
 
+    patient_id = (payload.patient_id or "").strip() or None
+    patient_context = None
+    if patient_id:
+        patient = owned_patient(db, hcp, patient_id)
+        patient_context = _patient_context_block(patient)
+
     try:
         context = retrieve(drug_id, query, specialty=specialty)
     except Exception as exc:
@@ -162,7 +199,13 @@ def ask_question(
         )
 
     try:
-        answer = generate_answer(query, context, tier, specialty=specialty)
+        answer = generate_answer(
+            query,
+            context,
+            tier,
+            specialty=specialty,
+            patient_context=patient_context,
+        )
     except ValueError as exc:
         raise HTTPException(
             status_code=400,
@@ -180,6 +223,7 @@ def ask_question(
         {
             "hcp_id": hcp["_id"],
             "drug_id": drug_id,
+            "patient_id": patient_id,
             "conversation_id": conversation_id,
             "question": query,
             "answer": answer,
