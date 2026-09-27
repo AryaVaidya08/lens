@@ -109,6 +109,15 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
     private let staleTimeout: TimeInterval = 1.5
     private var staleCheckTimer: Timer?
 
+    /// When the current run of missed detection attempts started, or `nil`
+    /// while the object is being seen. A single missed Vision attempt (motion
+    /// blur, autofocus hunting, a brief angle change) is normal jitter, not
+    /// lost tracking — flagging `isStale` from it made the HUD pulse/flicker
+    /// on almost every detection cycle. Misses have to persist for
+    /// `staleFlashDelay` before we treat them as "about to lose it."
+    private var firstMissedAt: Date?
+    private let staleFlashDelay: TimeInterval = 0.6
+
     private var frameCounter = 0
     /// Only run Vision every Nth frame. Object + barcode run each attempt;
     /// OCR is skipped after a barcode lock so the expensive pass is not
@@ -154,6 +163,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         staleCheckTimer?.invalidate()
         staleCheckTimer = nil
         lastSeenAt = nil
+        firstMissedAt = nil
         objectBoundingBox = nil
         activeDetection = nil
         isStale = false
@@ -210,6 +220,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
     private func handleObjectSeen(objectBox: CGRect, identifier: (kind: String, value: String)?) {
         objectBoundingBox = objectBox
         lastSeenAt = Date()
+        firstMissedAt = nil
         isStale = false
 
         guard let identifier else { return } // object visible, nothing legible off it yet
@@ -227,18 +238,25 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         }
     }
 
-    /// A scan attempt this frame found no object at all — start the
-    /// "about to go stale" flash immediately, well before the full
-    /// `staleTimeout` clears everything, but only if there's something on
-    /// screen to flash.
+    /// A scan attempt this frame found no object at all. Only start the
+    /// "about to go stale" flash once misses have persisted for
+    /// `staleFlashDelay` — a single missed attempt is expected jitter, and
+    /// flashing on every one of those made the HUD flicker constantly
+    /// during normal scanning. `staleTimeout` (well after this) is still
+    /// what actually clears the HUD.
     private func markMissedIfNeeded() {
         guard activeDetection != nil else { return }
+        let now = Date()
+        let missedSince = firstMissedAt ?? now
+        if firstMissedAt == nil { firstMissedAt = now }
+        guard now.timeIntervalSince(missedSince) >= staleFlashDelay else { return }
         isStale = true
     }
 
     private func clearIfStale() {
         guard let lastSeenAt, Date().timeIntervalSince(lastSeenAt) > staleTimeout else { return }
         self.lastSeenAt = nil
+        firstMissedAt = nil
         isStale = false
         objectBoundingBox = nil
         withAnimation(.easeOut(duration: 0.6)) {

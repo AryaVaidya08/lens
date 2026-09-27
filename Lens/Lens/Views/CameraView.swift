@@ -238,7 +238,7 @@ struct CameraView: View {
                 }
             } else {
                 withAnimation(.easeOut(duration: 0.15)) {
-                    flashOpacity = 8.0
+                    flashOpacity = 1.0
                 }
             }
         }
