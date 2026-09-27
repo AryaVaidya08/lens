@@ -28,6 +28,7 @@ export async function login(email, password) {
 
   localStorage.setItem("lens_session_token", data.session_token);
   localStorage.setItem("lens_hcp_id", data.hcp_id);
+
   return data;
 }
 
@@ -63,6 +64,17 @@ export async function deleteChat(hcpId, conversationId) {
   );
 }
 
+export async function renameChat(hcpId, conversationId, title) {
+  return request(
+    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    {
+      method: "PATCH",
+      headers: authHeaders(),
+      body: JSON.stringify({ title }),
+    }
+  );
+}
+
 export async function getDrugSummary(drugId, hcpId) {
   return request(
     `/drug/${drugId}/summary?hcp_id=${encodeURIComponent(hcpId)}`,
@@ -87,7 +99,8 @@ export async function askDrugQuestion(
   drugId,
   hcpId,
   query,
-  conversationId = null
+  conversationId = null,
+  patientId = null
 ) {
   return request(`/drug/${drugId}/ask`, {
     method: "POST",
@@ -96,6 +109,7 @@ export async function askDrugQuestion(
       hcp_id: hcpId,
       query,
       conversation_id: conversationId,
+      patient_id: patientId,
     }),
   });
 }
@@ -136,13 +150,12 @@ export async function createPatient(hcpId, patient) {
   return data.patient;
 }
 
-export async function renameChat(hcpId, conversationId, title) {
+export async function deletePatient(hcpId, patientId) {
   return request(
-    `/profile/${hcpId}/chats/${encodeURIComponent(conversationId)}`,
+    `/profile/${hcpId}/patients/${encodeURIComponent(patientId)}`,
     {
-      method: "PATCH",
+      method: "DELETE",
       headers: authHeaders(),
-      body: JSON.stringify({ title }),
     }
   );
 }
