@@ -9,6 +9,7 @@ import {
   logEngagement,
   getPatients,
   getProfile,
+  updateProfile,
   createPatient,
   deletePatient,
 } from "./api";
@@ -80,6 +81,23 @@ function App() {
     setShowNewPatientForm(false);
     setShowAddDrug(false);
     setView("dashboard");
+  }
+
+  async function handleUpdateProfile(updates) {
+    if (!hcpId) return;
+
+    try {
+      setError(null);
+
+      const updatedProfile = await updateProfile(hcpId, updates);
+
+      setProfile(updatedProfile);
+
+      return updatedProfile;
+    } catch (err) {
+      console.error("Failed to update profile:", err);
+      throw err;
+    }
   }
 
   async function handleDeleteChat(chatId) {
@@ -698,6 +716,7 @@ function App() {
             profile={profile}
             hcpId={hcpId}
             onLogout={handleLogout}
+            onUpdateProfile={handleUpdateProfile}
           />
         )}
 

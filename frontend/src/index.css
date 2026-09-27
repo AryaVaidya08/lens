@@ -1814,3 +1814,136 @@ h4 {
   color: var(--text-tertiary);
   margin-top: 3px;
 }
+
+/* =========================
+   Settings Profile Editing
+   ========================= */
+
+.settings-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.settings-header h2 {
+  margin-bottom: 0;
+}
+
+.settings-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.settings-form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px 16px;
+}
+
+.settings-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.settings-field span {
+  color: var(--text-tertiary);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.settings-field input {
+  width: 100%;
+  padding: 10px 12px;
+
+  border: 1px solid var(--border);
+  border-radius: 6px;
+
+  background: var(--ink);
+  color: var(--text);
+
+  outline: none;
+  font-size: 13.5px;
+
+  transition:
+    border-color 0.15s ease,
+    background 0.15s ease;
+}
+
+.settings-field input:focus {
+  border-color: var(--accent);
+  background: var(--panel-hover);
+}
+
+.settings-readonly {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+
+  border: 1px solid var(--border);
+  background: var(--border);
+}
+
+.settings-readonly > div {
+  padding: 12px 14px;
+  background: var(--panel);
+}
+
+.settings-readonly span {
+  display: block;
+  margin-bottom: 5px;
+
+  color: var(--text-tertiary);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.settings-readonly strong {
+  color: var(--text-secondary);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.settings-form-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.settings-error {
+  padding: 10px 12px;
+
+  border: 1px solid var(--warning);
+  border-radius: 6px;
+
+  background: rgba(232, 115, 74, 0.1);
+  color: var(--warning);
+
+  font-size: 13px;
+}
+
+.settings-form-actions button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+@media (max-width: 600px) {
+  .settings-header {
+    align-items: flex-start;
+  }
+
+  .settings-form-grid,
+  .settings-readonly {
+    grid-template-columns: 1fr;
+  }
+}
+
+.profile-meta > div:last-child:nth-child(odd) {
+  grid-column: 1 / -1;
+}

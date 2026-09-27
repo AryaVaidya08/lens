@@ -46,6 +46,14 @@ export async function getProfile(hcpId) {
   });
 }
 
+export async function updateProfile(hcpId, updates) {
+  return request(`/profile/${hcpId}`, {
+    method: "PATCH",
+    headers: authHeaders(),
+    body: JSON.stringify(updates),
+  });
+}
+
 export async function getChats(hcpId) {
   const data = await request(`/profile/${hcpId}/chats`, {
     headers: authHeaders(),
