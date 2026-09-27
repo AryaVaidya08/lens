@@ -135,6 +135,9 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
 
     private var isRunning = false
     private var generation = UUID()
+    // Kept around so a hard failure or interruption can hand ARKit a fresh
+    // `run` call without reconstructing the configuration from scratch.
+    private var configuration: ARWorldTrackingConfiguration?
 
     func start() {
         guard !isRunning, ARWorldTrackingConfiguration.isSupported else { return }
@@ -143,6 +146,7 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         let configuration = ARWorldTrackingConfiguration()
         // The assistant owns microphone capture; scanning only needs video.
         configuration.providesAudioData = false
+        self.configuration = configuration
         // Lifecycle, scan gating, and published results share the main queue.
         // Only the expensive Vision requests execute on visionQueue.
         session.delegateQueue = .main
@@ -162,11 +166,64 @@ final class ARSessionManager: NSObject, ObservableObject, ARSessionDelegate {
         session.pause()
         staleCheckTimer?.invalidate()
         staleCheckTimer = nil
+        clearDisplayState(animated: false)
+    }
+
+    /// Shared by `stop()` and the recovery paths below: whatever was on
+    /// screen is stale the moment tracking is torn down or interrupted, so
+    /// drop it rather than let a bounding box or HUD bubble linger over
+    /// frames that no longer match it.
+    private func clearDisplayState(animated: Bool) {
         lastSeenAt = nil
         firstMissedAt = nil
         objectBoundingBox = nil
-        activeDetection = nil
         isStale = false
+        if animated {
+            withAnimation(.easeOut(duration: 0.3)) {
+                activeDetection = nil
+            }
+        } else {
+            activeDetection = nil
+        }
+    }
+
+    /// ARKit's tracker can hit a hard failure it can't recover from on its
+    /// own — this is the delegate call that fired for the `AppleCV3D` VIO
+    /// estimator assert ("Failed to linearize, solve and tacky
+    /// marginalize"). By the time this is called the session is already
+    /// paused and unusable; the only way forward is handing it a fresh
+    /// `run(_:options:)`. Restarting is deferred a beat rather than done
+    /// inline so ARKit has a moment to unwind before being asked to start
+    /// again, and `isRunning` still gates it in case `stop()` raced in
+    /// first.
+    func session(_ session: ARSession, didFailWithError error: Error) {
+        guard isRunning else { return }
+        generation = UUID()
+        isScanning = false
+        clearDisplayState(animated: true)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) { [weak self] in
+            guard let self, self.isRunning, let configuration = self.configuration else { return }
+            self.session.run(configuration, options: [.resetTracking, .removeExistingAnchors])
+        }
+    }
+
+    /// Interruptions (phone call, Control Center, app backgrounded) pause
+    /// frame delivery on their own; ARKit resumes delivery by itself once
+    /// `sessionInterruptionEnded` fires below, so this just clears the HUD
+    /// so nothing stale is shown while tracking is unavailable.
+    func sessionWasInterrupted(_ session: ARSession) {
+        guard isRunning else { return }
+        generation = UUID()
+        isScanning = false
+        clearDisplayState(animated: true)
+    }
+
+    /// Tracking quality is unknown after an interruption ends — feature
+    /// points gathered before it may no longer match the scene, so reset
+    /// rather than let ARKit try to reuse them.
+    func sessionInterruptionEnded(_ session: ARSession) {
+        guard isRunning, let configuration else { return }
+        session.run(configuration, options: [.resetTracking, .removeExistingAnchors])
     }
 
     func session(_ session: ARSession, didUpdate frame: ARFrame) {
