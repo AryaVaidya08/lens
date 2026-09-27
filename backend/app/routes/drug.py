@@ -49,7 +49,7 @@ def search_drugs(
 
     mongo_filter: dict = {}
     if query:
-        mongo_filter = {"name": {"$regex": re.escape(query), "$options": "i"}}
+        mongo_filter = {"name": {"$regex": f"^{re.escape(query)}", "$options": "i"}}
 
     rows = (
         db.drugs.find(mongo_filter, {"_id": 1, "name": 1})

@@ -1,7 +1,15 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { formatRelativeTime } from "../utils/relativeTime";
 
 function ChatView({ chat, onSendMessage, onRenameChat }) {
   const [input, setInput] = useState("");
+
+  // Re-render periodically so the relative timestamp ("5 minutes ago") stays fresh.
+  const [, setTick] = useState(0);
+  useEffect(() => {
+    const interval = setInterval(() => setTick((tick) => tick + 1), 30000);
+    return () => clearInterval(interval);
+  }, []);
 
   if (!chat) {
     return (
@@ -59,7 +67,7 @@ function ChatView({ chat, onSendMessage, onRenameChat }) {
           </div>
         </div>
 
-        <span className="chat-date">{chat.timestamp}</span>
+        <span className="chat-date">{formatRelativeTime(chat.timestamp)}</span>
       </div>
 
       <div className="messages">

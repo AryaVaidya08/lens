@@ -733,29 +733,6 @@ h4 {
   font-size: 14px;
 }
 
-.familiarity {
-  padding: 5px 10px;
-
-  border: 1px solid currentColor;
-  border-radius: 6px;
-
-  font-size: 11px;
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.familiarity.new {
-  color: var(--text-secondary);
-}
-
-.familiarity.returning {
-  color: var(--accent-cyan);
-}
-
-.familiarity.expert {
-  color: var(--success);
-}
-
 .drug-meta {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1273,6 +1250,17 @@ h4 {
 
 .secondary-button:hover {
   background: var(--panel-hover);
+}
+
+.secondary-button.small {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
+.remove-button:hover {
+  background: #e5484d;
+  border-color: #e5484d;
+  color: #fff;
 }
 
 .new-patient-form {

@@ -41,6 +41,7 @@ function App() {
   const [selectedDrug, setSelectedDrug] = useState(null);
   const [drugSummary, setDrugSummary] = useState(null);
   const [extraDrugs, setExtraDrugs] = useState([]);
+  const [hiddenDrugIds, setHiddenDrugIds] = useState([]);
 
   const [loading, setLoading] = useState(false);
   const [loadingDrug, setLoadingDrug] = useState(false);
@@ -126,9 +127,7 @@ function App() {
           drugId: chat.drug_id,
           drugName: chat.drug_name || chat.drug_id,
           title: chat.title || chat.question,
-          timestamp: chat.asked_at
-            ? new Date(chat.asked_at).toLocaleString()
-            : "",
+          timestamp: chat.asked_at || null,
           preview: chat.preview || chat.question,
           messages:
             chat.messages || [
@@ -211,6 +210,14 @@ function App() {
       console.error("Failed to load saved drugs:", err);
       setExtraDrugs([]);
     }
+
+    try {
+      const raw = localStorage.getItem(`lens_hidden_drugs_${hcpId}`);
+      setHiddenDrugIds(raw ? JSON.parse(raw) : []);
+    } catch (err) {
+      console.error("Failed to load hidden drugs:", err);
+      setHiddenDrugIds([]);
+    }
   }, [hcpId]);
 
   function handleAddDrug(drug) {
@@ -230,6 +237,67 @@ function App() {
 
       return updated;
     });
+
+    setHiddenDrugIds((current) => {
+      if (!current.includes(drug.id)) return current;
+
+      const updated = current.filter((id) => id !== drug.id);
+
+      try {
+        localStorage.setItem(
+          `lens_hidden_drugs_${hcpId}`,
+          JSON.stringify(updated)
+        );
+      } catch (err) {
+        console.error("Failed to save hidden drugs:", err);
+      }
+
+      return updated;
+    });
+  }
+
+  // Removing a drug from the "Drug Information" list is a personal UI
+  // preference (like pinning), not a backend-owned deletion, so it's
+  // tracked the same way: a per-HCP id list in localStorage that's
+  // subtracted from drugCatalog below.
+  function handleRemoveDrug(drugId) {
+    setHiddenDrugIds((current) => {
+      if (current.includes(drugId)) return current;
+
+      const updated = [...current, drugId];
+
+      try {
+        localStorage.setItem(
+          `lens_hidden_drugs_${hcpId}`,
+          JSON.stringify(updated)
+        );
+      } catch (err) {
+        console.error("Failed to save hidden drugs:", err);
+      }
+
+      return updated;
+    });
+
+    setExtraDrugs((current) => {
+      if (!current.some((item) => item.id === drugId)) return current;
+
+      const updated = current.filter((item) => item.id !== drugId);
+
+      try {
+        localStorage.setItem(
+          `lens_extra_drugs_${hcpId}`,
+          JSON.stringify(updated)
+        );
+      } catch (err) {
+        console.error("Failed to save drug:", err);
+      }
+
+      return updated;
+    });
+
+    setSelectedDrug((current) =>
+      current?.id === drugId ? null : current
+    );
   }
 
   async function handleSearchDrugs(query) {
@@ -254,10 +322,10 @@ function App() {
       }
     }
 
-    return Array.from(byId.values()).sort((a, b) =>
-      a.name.localeCompare(b.name)
-    );
-  }, [chats, extraDrugs]);
+    return Array.from(byId.values())
+      .filter((drug) => !hiddenDrugIds.includes(drug.id))
+      .sort((a, b) => a.name.localeCompare(b.name));
+  }, [chats, extraDrugs, hiddenDrugIds]);
 
   useEffect(() => {
     if (!selectedDrug || !hcpId) {
@@ -314,7 +382,7 @@ function App() {
                 loadingMessage,
               ],
               preview: text,
-              timestamp: "Just now",
+              timestamp: new Date().toISOString(),
             }
           : item
       );
@@ -343,7 +411,7 @@ function App() {
               loadingMessage,
             ],
             preview: text,
-            timestamp: "Just now",
+            timestamp: new Date().toISOString(),
           }
         : currentChat
     );
@@ -544,6 +612,7 @@ function App() {
               summary={drugSummary}
               loading={loadingDrug}
               error={error}
+              onRemoveDrug={handleRemoveDrug}
             />
           </div>
         )}

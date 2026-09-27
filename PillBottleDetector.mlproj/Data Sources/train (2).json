@@ -1,0 +1,147 @@
+{
+  "activityEntities" : [
+    "dataSourceMetrics",
+    [
+      {
+        "createdDate" : "2026-09-26T09:22:24Z",
+        "event" : "dataSourceMetrics",
+        "id" : "919B186F-90FF-49EA-94CC-8B4B26F2AB43",
+        "subtitle" : "1 Classes, 754 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-09-26T09:25:28Z",
+        "event" : "dataSourceMetrics",
+        "id" : "2D445E05-BC52-4D29-A74F-63D3F2CC5B4C",
+        "subtitle" : "1 Classes, 754 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-09-26T09:42:08Z",
+        "event" : "dataSourceMetrics",
+        "id" : "DAE0F5CE-178B-46D8-A832-8BD555DBAF22",
+        "subtitle" : "1 Classes, 754 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-09-26T09:44:12Z",
+        "event" : "dataSourceMetrics",
+        "id" : "E09018FC-0158-4FE2-AFE8-1AECE3C6EC9A",
+        "subtitle" : "1 Classes, 754 Items",
+        "title" : "Data Summary"
+      },
+      {
+        "createdDate" : "2026-09-26T10:20:31Z",
+        "event" : "dataSourceMetrics",
+        "id" : "158FACFA-234D-476C-AD5A-A59334BEB8D2",
+        "subtitle" : "1 Classes, 754 Items",
+        "title" : "Data Summary"
+      }
+    ],
+    "dataSourceCreated",
+    [
+      {
+        "createdDate" : "2026-09-26T09:20:42Z",
+        "event" : "dataSourceCreated",
+        "id" : "3950943A-00C0-408D-8138-06C558779C96",
+        "subtitle" : "train",
+        "title" : "Data Source Created"
+      }
+    ],
+    "dataSourceTrainingStarted",
+    [
+      {
+        "createdDate" : "2026-09-26T09:22:24Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "ABFBE8BE-EF0B-4B61-A568-4FC3AAC62818",
+        "subtitle" : "PillBottleDetector 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-09-26T09:25:28Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "EB376A69-30CF-4826-BAB4-573CE9FA930D",
+        "subtitle" : "PillBottleDetector 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-09-26T09:42:08Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "7C69EFD5-DDA2-408E-8496-473AF9994E81",
+        "subtitle" : "PillBottleDetector 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-09-26T09:44:12Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "303CDEAF-8261-443A-8910-92230FFCC5F3",
+        "subtitle" : "PillBottleDetector 1",
+        "title" : "Used By"
+      },
+      {
+        "createdDate" : "2026-09-26T10:20:31Z",
+        "event" : "dataSourceTrainingStarted",
+        "id" : "F1247880-F6BE-4986-A27B-3E25B1F135F4",
+        "subtitle" : "PillBottleDetector 1",
+        "title" : "Used By"
+      }
+    ]
+  ],
+  "createdDate" : "2026-09-26T09:20:42Z",
+  "dataPathRelativeToProjectURL" : "../../../Downloads/HackGT.v1i.createml/train/",
+  "dataResult" : {
+    "classesCount" : 1,
+    "createdDate" : "2026-09-26T09:20:42Z",
+    "dataAnalysis" : {
+      "classifierAnalysis" : {
+
+      },
+      "issues" : [
+        {
+          "description" : "1 classes found, including bottle",
+          "severity" : "debug"
+        },
+        {
+          "description" : "1123 annotations found, automatically creating validation set",
+          "severity" : "good"
+        },
+        {
+          "description" : "Smallest class is \"bottle\" with 1123 images",
+          "severity" : "debug"
+        },
+        {
+          "description" : "Largest class is \"bottle\" with 1123 images",
+          "severity" : "debug"
+        }
+      ],
+      "objectDetectorAnalysis" : {
+        "details" : {
+
+        },
+        "labelStats" : {
+          "bottle" : 1123
+        }
+      },
+      "summary" : {
+        "canUseValidation" : 1,
+        "classCount" : 1,
+        "counterExamples" : 0,
+        "sampleCount" : 754,
+        "suggestedMaxIterations" : 10000
+      }
+    },
+    "dataSourceID" : "476422B5-834C-45A6-8524-4B2D199D89EA",
+    "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/train/",
+    "itemsCount" : 754
+  },
+  "dataURL" : "file:///Users/arya/Downloads/HackGT.v1i.createml/train/",
+  "experimentIDs" : [
+    "4ADC3027-9E3E-42BE-BF9E-0211D05A950B"
+  ],
+  "id" : "476422B5-834C-45A6-8524-4B2D199D89EA",
+  "modifiedDate" : "2026-09-26T10:20:31Z",
+  "pathType" : 0,
+  "preferredFilename" : "train (2)",
+  "title" : "train (2)",
+  "version" : "1.0"
+}

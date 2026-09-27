@@ -1,4 +1,4 @@
-function DrugDetails({ drug, summary, loading, error }) {
+function DrugDetails({ drug, summary, loading, error, onRemoveDrug }) {
   if (!drug) {
     return (
       <section className="empty-state">
@@ -11,7 +11,16 @@ function DrugDetails({ drug, summary, loading, error }) {
   if (loading) {
     return (
       <section className="drug-details">
-        <h3>{drug.name}</h3>
+        <div className="drug-header">
+          <h3>{drug.name}</h3>
+          <button
+            type="button"
+            className="secondary-button small remove-button"
+            onClick={() => onRemoveDrug(drug.id)}
+          >
+            Remove
+          </button>
+        </div>
         <p>Loading drug information...</p>
       </section>
     );
@@ -20,19 +29,20 @@ function DrugDetails({ drug, summary, loading, error }) {
   if (error) {
     return (
       <section className="drug-details">
-        <h3>{drug.name}</h3>
+        <div className="drug-header">
+          <h3>{drug.name}</h3>
+          <button
+            type="button"
+            className="secondary-button small remove-button"
+            onClick={() => onRemoveDrug(drug.id)}
+          >
+            Remove
+          </button>
+        </div>
         <p>{error}</p>
       </section>
     );
   }
-
-  const labels = {
-    new: "New",
-    returning: "Returning",
-    expert: "Expert",
-  };
-
-  const tier = summary?.tier || "new";
 
   return (
     <section className="drug-details">
@@ -42,9 +52,13 @@ function DrugDetails({ drug, summary, loading, error }) {
           <h3>{summary?.name || drug.name}</h3>
         </div>
 
-        <span className={`familiarity ${tier}`}>
-          {labels[tier] || "New"}
-        </span>
+        <button
+          type="button"
+          className="secondary-button small remove-button"
+          onClick={() => onRemoveDrug(drug.id)}
+        >
+          Remove
+        </button>
       </div>
 
       <div className="drug-section">

@@ -339,7 +339,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				LENS_API_BASE_URL = "http://10.90.149.89:8000";
+				LENS_API_BASE_URL = "http://10.90.130.83:8000";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aryavaidyapersonalteam.Lens;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -387,7 +387,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 26.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				LENS_API_BASE_URL = "http://10.90.149.89:8000";
+				LENS_API_BASE_URL = "http://10.90.130.83:8000";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.aryavaidyapersonalteam.Lens;
 				PRODUCT_NAME = "$(TARGET_NAME)";

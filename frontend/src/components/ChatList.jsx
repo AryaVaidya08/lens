@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { formatRelativeTime } from "../utils/relativeTime";
 
 function ChatList({
   chats,
@@ -10,6 +11,13 @@ function ChatList({
   const [search, setSearch] = useState("");
   const [editingChatId, setEditingChatId] = useState(null);
   const [editingTitle, setEditingTitle] = useState("");
+
+  // Re-render periodically so relative timestamps ("5 minutes ago") stay fresh.
+  const [, setTick] = useState(0);
+  useEffect(() => {
+    const interval = setInterval(() => setTick((tick) => tick + 1), 30000);
+    return () => clearInterval(interval);
+  }, []);
 
   const filteredChats = chats.filter((chat) => {
     const query = search.toLowerCase();
@@ -129,7 +137,7 @@ function ChatList({
                     </div>
                   )}
 
-                  <small>{chat.timestamp}</small>
+                  <small>{formatRelativeTime(chat.timestamp)}</small>
                 </div>
 
                 <span>{chat.drugId}</span>

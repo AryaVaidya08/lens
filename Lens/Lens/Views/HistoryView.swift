@@ -46,7 +46,7 @@ private struct HistoryRow: View {
             Text(entry.title)
                 .font(.headline)
             HStack(spacing: 8) {
-                Text(entry.scannedAt, format: Date.FormatStyle(date: .abbreviated, time: .shortened))
+                Text(entry.scannedAt.relativeLabel)
                 Text("·")
                 Text(chatSummary)
             }
@@ -69,7 +69,7 @@ struct HistoryDetailView: View {
         if let entry = appState.scanHistory.first(where: { $0.id == entryID }) {
             List {
                 Section {
-                    LabeledContent("When", value: entry.scannedAt.formatted(date: .abbreviated, time: .shortened))
+                    LabeledContent("When", value: entry.scannedAt.relativeLabel)
                     if let drugId = entry.drugId {
                         LabeledContent("Drug ID", value: drugId)
                     }
@@ -98,7 +98,7 @@ struct HistoryDetailView: View {
                                 .textSelection(.enabled)
                         }
                     } header: {
-                        Text(turn.askedAt, format: Date.FormatStyle(date: .omitted, time: .shortened))
+                        Text(turn.askedAt.relativeLabel)
                     }
                 }
             }

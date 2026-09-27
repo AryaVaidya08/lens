@@ -69,7 +69,7 @@ struct SavedMedicationReview: Decodable, Identifiable {
     var dateLabel: String {
         let formatter = ISO8601DateFormatter()
         formatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
-        return formatter.date(from: updatedAt)?.formatted(date: .abbreviated, time: .shortened) ?? updatedAt
+        return formatter.date(from: updatedAt)?.relativeLabel ?? updatedAt
     }
 }
 

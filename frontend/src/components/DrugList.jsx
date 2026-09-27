@@ -12,7 +12,7 @@ function DrugList({ drugs, selectedDrug, setSelectedDrug, onSearchDrugs, onAddDr
   const debounceRef = useRef(null);
 
   const filteredDrugs = drugs.filter((drug) =>
-    drug.name.toLowerCase().includes(search.toLowerCase())
+    drug.name.toLowerCase().startsWith(search.toLowerCase())
   );
 
   function toggleAdd() {
