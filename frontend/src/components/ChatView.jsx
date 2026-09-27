@@ -77,7 +77,7 @@ function ChatView({ chat, onSendMessage, onRenameChat }) {
               key={message.id}
               className="message assistant"
             >
-              <strong>Copilot</strong>
+              <strong>HCP Copilot</strong>
 
               <div className="typing-indicator">
                 <span></span>
@@ -93,7 +93,7 @@ function ChatView({ chat, onSendMessage, onRenameChat }) {
               <strong>
                 {message.role === "user"
                   ? "You"
-                  : "Copilot"}
+                  : "HCP Copilot"}
               </strong>
 
               <p>{message.text}</p>
