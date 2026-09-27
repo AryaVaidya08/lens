@@ -115,7 +115,7 @@ def test_ask_prompt_names_the_chart_and_bounds_tokens(monkeypatch):
     assert "penicillin" in answer.lower()
     assert "metformin" in answer.lower()
     body = captured["json"]
-    assert body["reasoning_effort"] == "low"
+    assert body["reasoning_effort"] == "none"
     assert body["max_tokens"] == llm._ASK_MAX_TOKENS
     assert captured["timeout"] == settings.llm_timeout_seconds
     user = body["messages"][1]["content"]

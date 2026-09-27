@@ -43,7 +43,9 @@ def test_full_selected_passages_go_to_grok_with_personalization(monkeypatch):
         assert prompt["drug"] == "Example"
         assert prompt["specialty"] == "Cardiology"
         assert prompt["familiarity"] == "returning"
-        assert prompt["passages"] == [p.strip() for p in passages]
+        assert prompt["passages"] == [llm._clip_scan_passage(p) for p in passages]
+        assert len(prompt["passages"][0]) <= llm._SCAN_PASSAGE_CHARS
+        assert prompt["passages"][1] == "Second reference section."
         assert "rewrite" in prompt["task"].lower()
         assert "3" in prompt["task"] and "4" in prompt["task"]
         system = kwargs["json"]["messages"][0]["content"]
@@ -57,7 +59,7 @@ def test_full_selected_passages_go_to_grok_with_personalization(monkeypatch):
         assert bullet_schema["minItems"] == 3
         assert bullet_schema["maxItems"] == 4
         assert kwargs["json"]["max_tokens"] == llm._SCAN_MAX_TOKENS
-        assert kwargs["json"]["reasoning_effort"] == "low"
+        assert kwargs["json"]["reasoning_effort"] == "none"
         assert kwargs["timeout"] == settings.llm_timeout_seconds
         return response([three("First passage"), three("Second passage") + ["First passage names a boxed warning."]])
 

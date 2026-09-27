@@ -57,18 +57,36 @@ _ASK_UNAVAILABLE = (
 )
 
 
-_SCAN_PROMPT_VERSION = "rewrite-v3"
+_SCAN_PROMPT_VERSION = "rewrite-v4"
 _MAX_BULLET_CHARS = 180
 _MAX_BULLET_WORDS = 28
 _BULLETS_PER_PASSAGE = (3, 4)
-# Three passages × four sentences is roughly 500 tokens, plus a little
-# low-effort reasoning. Keep the cap bounded: uncapped grok-4.7 reasoning
-# runs past the scan timeout.
-_SCAN_MAX_TOKENS = 900
+# A full label section makes grok-4.7 reason past the scan timeout and the
+# card comes back empty. Keep the opening of each section, where the
+# indication, dose, and warning usually sit.
+_SCAN_PASSAGE_CHARS = 700
+# Twelve short sentences, with reasoning turned off. A higher cap only
+# gives the model room to sit and think.
+_SCAN_MAX_TOKENS = 450
 
 
 def _normalized(text: str) -> str:
     return " ".join((text or "").casefold().split())
+
+
+def _clip_scan_passage(text: str, limit: int = _SCAN_PASSAGE_CHARS) -> str:
+    """Keep the opening of a long label section so the rewrite can finish."""
+    cleaned = " ".join((text or "").split())
+    if len(cleaned) <= limit:
+        return cleaned
+    cut = cleaned[:limit]
+    for sep in (". ", "; "):
+        idx = cut.rfind(sep)
+        if idx >= int(limit * 0.55):
+            return cut[: idx + 1].rstrip()
+    if " " in cut:
+        cut = cut.rsplit(" ", 1)[0]
+    return cut.rstrip()
 
 
 def _copied_from_source(bullet: str, source: str) -> bool:
@@ -86,7 +104,11 @@ def summarize_scan(drug_name: str, passages: list[str], tier: str, specialty: st
     calls are not cached. If Grok does not return a valid rewrite, the caller
     gets an empty list rather than the original label text.
     """
-    sources = tuple(text.strip() for text in passages[:3] if text.strip())
+    sources = tuple(
+        clipped
+        for text in passages[:3]
+        if (clipped := _clip_scan_passage(text))
+    )
     if settings.llm_enabled and sources and sum(map(len, sources)) <= 120_000:
         try:
             bullets = _cached_scan_bullets(
@@ -145,8 +167,8 @@ def _cached_scan_bullets(prompt_version: str, drug_name: str, sources: tuple[str
             "response_format": {"type": "json_schema", "json_schema": {
                 "name": "scan_summary", "strict": True, "schema": schema,
             }},
-            # Default reasoning on grok-4.7 runs past the scan timeout.
-            "reasoning_effort": "low",
+            # "none" skips the thinking pass. grok-4.7 cannot do this.
+            "reasoning_effort": "none",
             "max_tokens": _SCAN_MAX_TOKENS,
             "temperature": 0.2,
         },
@@ -219,8 +241,8 @@ def generate_answer(
     return _ASK_UNAVAILABLE
 
 
-# Spoken answers are a few sentences. Cap completion tokens and keep
-# reasoning on low so grok-4.7 does not run past the request timeout.
+# Spoken answers are a few sentences. Reasoning stays off so the reply
+# is not stuck behind a thinking pass.
 _ASK_MAX_TOKENS = 500
 _ASK_CHUNK_CHARS = 1600
 _ASK_CONTEXT_CHARS = 6000
@@ -305,7 +327,7 @@ def _call_llm(
                     },
                 ],
                 "temperature": 0.2,
-                "reasoning_effort": "low",
+                "reasoning_effort": "none",
                 "max_tokens": _ASK_MAX_TOKENS,
             },
             timeout=settings.llm_timeout_seconds,

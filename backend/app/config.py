@@ -85,12 +85,14 @@ class Settings:
             "XAI_API_BASE",
             os.environ.get("LLM_API_BASE", "https://api.x.ai/v1"),
         )
+        # grok-4.3 can turn reasoning off. grok-4.7 cannot, and even "low"
+        # effort made a scan wait 10–45 seconds.
         self.llm_model: str = os.environ.get(
             "XAI_MODEL",
-            os.environ.get("LLM_MODEL", "grok-4.7"),
+            os.environ.get("LLM_MODEL", "grok-4.3"),
         )
-        # Low-effort grok-4.7 scan rewrites of 3 passages landed around 25s.
-        # Keep the cap above that. iOS getSummary waits longer than this.
+        # Non-reasoning rewrites finish in a couple of seconds. The cap stays
+        # above that so a slow call still returns instead of hanging the card.
         self.llm_timeout_seconds: float = float(
             os.environ.get("LLM_TIMEOUT", "45")
         )

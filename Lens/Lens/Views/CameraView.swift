@@ -159,27 +159,11 @@ struct CameraView: View {
             }
         }
         .overlay(alignment: .bottomTrailing) {
-            if let drug = appState.currentDrug, summary?.drugId == drug.id {
-                VStack(alignment: .trailing, spacing: 6) {
-                    if let engagementError {
-                        Text(engagementError)
-                            .font(.caption)
-                            .frame(maxWidth: 240, alignment: .trailing)
-                    }
-                    Button {
-                        scanAgain(drug)
-                    } label: {
-                        Label("Scan again", systemImage: "arrow.clockwise")
-                            .font(.subheadline.weight(.semibold))
-                            .padding(.horizontal, 14)
-                            .padding(.vertical, 10)
-                    }
-                    .buttonStyle(.plain)
-                    .background(.ultraThinMaterial, in: Capsule())
-                    .disabled(loadingDrugId != nil || engagementQueue.isRecording)
-                    .accessibilityHint("Refresh this medication using your latest familiarity")
-                }
-                .padding(16)
+            if let engagementError, let drug = appState.currentDrug, summary?.drugId == drug.id {
+                Text(engagementError)
+                    .font(.caption)
+                    .frame(maxWidth: 240, alignment: .trailing)
+                    .padding(16)
             }
         }
         .fullScreenCover(item: $expandedMessage) { message in
@@ -400,21 +384,6 @@ struct CameraView: View {
         }
         loadingDrugId = drug.id
         Task { await loadPersonalizedContent(for: drug, logTouch: logTouch) }
-    }
-
-    private func scanAgain(_ drug: Drug) {
-        guard loadingDrugId == nil, !engagementQueue.isRecording else { return }
-        // Reserve the request before starting its Task, so rapid taps cannot
-        // launch two scans. This button always logs another touch. Pin the
-        // sighting so the camera confirming that same bottle does not log it again.
-        if let hcpId = appState.selectedHCP?.id {
-            engagementQueue.keepCurrentSighting(hcpId: hcpId, drugId: drug.id)
-        }
-        loadingDrugId = drug.id
-        summary = nil
-        failedSummaryDrugId = nil
-        engagementError = nil
-        Task { await loadPersonalizedContent(for: drug, logTouch: true) }
     }
 
     /// The read-then-write half of the personalization loop: fetch the tier's
