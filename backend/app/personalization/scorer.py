@@ -319,7 +319,7 @@ def build_summary_content(
     resolved = resolve_specialty(specialty)
     if resolved:
         label, priority = resolved
-        headline = f"{headline} · {label}"
+        headline = label
         tier_fields = _TIER_FIELD_PRIORITY.get(tier, [])
         # Prefer a specialty section that is not the first familiarity field.
         focus = next((key for key in priority if fields.get(key) and key not in tier_fields[:1]), None)
