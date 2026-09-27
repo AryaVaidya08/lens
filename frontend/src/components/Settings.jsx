@@ -1,3 +1,8 @@
+function formatLocation(profile) {
+  const cityRegion = [profile?.city, profile?.region].filter(Boolean).join(", ");
+  return cityRegion || profile?.country || "Not set";
+}
+
 function Settings({ profile, hcpId, onLogout }) {
   return (
     <div className="settings-page">
@@ -23,6 +28,14 @@ function Settings({ profile, hcpId, onLogout }) {
           <div>
             <span>HCP ID</span>
             <strong>{hcpId}</strong>
+          </div>
+          <div>
+            <span>Clinic</span>
+            <strong>{profile?.organization || profile?.practice_setting || "Not set"}</strong>
+          </div>
+          <div>
+            <span>Location</span>
+            <strong>{formatLocation(profile)}</strong>
           </div>
           <div>
             <span>Workspace</span>
