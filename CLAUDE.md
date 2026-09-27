@@ -18,7 +18,7 @@ These were decided deliberately for a 36-hour build. Don't "improve" the archite
 
 - **No real authentication.** A persona picker lets the demo user select a preset HCP. The backend trusts whatever `hcp_id` the app sends. No JWTs, no sessions.
 - **No Firebase, no external auth/DB service.** Everything is FastAPI + one local SQLite file.
-- **No patient-level personalization.** HCP-level only.
+- **No patient-level personalization of the familiarity tier.** Tier scoring (`new`/`returning`/`expert`) stays HCP-level only. The one exception: `POST /drug/{id}/ask` accepts an optional `patient_id` — when the HCP has a patient selected for the scan, that patient's age/sex/weight/allergies/current medications are passed to the LLM as plain context (`app/routes/drug.py::_patient_context_block`, threaded through `app/llm/client.py::generate_answer`'s `patient_context` param) so voice follow-up questions can be answered with that patient in mind. This does not change retrieval, tier scoring, or the HUD's chart-check flags (`personalization/patient_check.py`), which remain separate.
 - **No cloud storage bucket.** Drug reference docs are plain files in `backend/data/drug_docs/`, read by `retrieval/ingest.py` at startup.
 - **No hosted vector database.** Retrieval is an in-memory index rebuilt at startup, accessed only through `retrieval/index.py::retrieve()`.
 - **No message queues, no microservices, no container orchestration.** One FastAPI service, one SQLite file, one iOS app.

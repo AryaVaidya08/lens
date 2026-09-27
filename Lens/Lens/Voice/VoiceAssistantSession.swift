@@ -8,10 +8,11 @@ final class VoiceAssistantSession: ObservableObject {
     @Published var reply = ""
     @Published var isExpanded = false
 
-    /// Question + current drug + HCP -> spoken answer. Defaults to POST
-    /// /drug/{id}/ask, falling back to the local demo reply when the backend
-    /// isn't reachable. Injectable so tests don't need a network.
-    var answerProvider: (String, Drug?, String?) async -> String = backendAnswer
+    /// Question + current drug + HCP + selected patient -> spoken answer.
+    /// Defaults to POST /drug/{id}/ask, falling back to the local demo reply
+    /// when the backend isn't reachable. Injectable so tests don't need a
+    /// network.
+    var answerProvider: (String, Drug?, String?, String?) async -> String = backendAnswer
 
     private var answerGeneration = 0
     private var cancellables = Set<AnyCancellable>()
@@ -60,13 +61,16 @@ final class VoiceAssistantSession: ObservableObject {
 
     /// The answer half of the loop. `hcpId` is whichever persona is selected —
     /// the backend trusts it (see CLAUDE.md: no real auth for the demo).
-    static func backendAnswer(question: String, drug: Drug?, hcpId: String?) async -> String {
+    /// `patientId` is whichever patient is currently selected for this scan,
+    /// if any — passed through so the answer can be grounded in that
+    /// patient's chart alongside the drug dossier.
+    static func backendAnswer(question: String, drug: Drug?, hcpId: String?, patientId: String?) async -> String {
         guard let drug, let hcpId else {
             return PlaceholderAssistant.reply(to: question, drug: drug)
         }
         do {
             return try await APIClient.shared.askQuestion(
-                drugId: drug.id, hcpId: hcpId, query: question
+                drugId: drug.id, hcpId: hcpId, query: question, patientId: patientId
             )
         } catch {
             return PlaceholderAssistant.reply(to: question, drug: drug)
@@ -76,6 +80,7 @@ final class VoiceAssistantSession: ObservableObject {
     func microphoneTapped(
         currentDrug: @escaping () -> Drug?,
         hcpId: @escaping () -> String?,
+        patientId: @escaping () -> String? = { nil },
         recordChat: @escaping (String, String) -> Void
     ) {
         isExpanded = true
@@ -99,10 +104,11 @@ final class VoiceAssistantSession: ObservableObject {
                 guard let self else { return }
                 let drug = currentDrug()
                 let hcpId = hcpId()
+                let patientId = patientId()
                 self.reply = "Thinking…"
                 Task { [weak self] in
                     guard let self else { return }
-                    let answer = await self.answerProvider(text, drug, hcpId)
+                    let answer = await self.answerProvider(text, drug, hcpId, patientId)
                     guard self.answerGeneration == generation else { return }
                     self.reply = answer
                     recordChat(text, answer)
