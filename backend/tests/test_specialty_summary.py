@@ -48,7 +48,7 @@ def fields(monkeypatch):
 @pytest.mark.parametrize("tier", scorer.TIERS)
 def test_specialty_uses_source_text_and_keeps_safety(fields, specialty, tier):
     headline, bullets = scorer.build_summary_content("test", tier, specialty)
-    assert " · " in headline
+    assert headline == specialty
     assert bullets[0] == fields["boxed_warning"]
     assert 1 <= len(bullets) <= 3
     assert len(bullets) == len(set(bullets))
