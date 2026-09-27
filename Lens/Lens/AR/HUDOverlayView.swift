@@ -23,7 +23,14 @@ struct HUDOverlayView: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 6) {
-            Text(summary.name).font(.subheadline.bold())
+            HStack(spacing: 4) {
+                Text(summary.name).font(.subheadline.bold())
+                if let patient, !isLoading, let check = summary.chartCheck(for: patient.id), check.hasNoMatches {
+                    Image(systemName: "checkmark.circle.fill")
+                        .foregroundStyle(.green)
+                        .accessibilityLabel("No allergy or medication conflicts found")
+                }
+            }
             if let patient {
                 patientContent(patient)
             } else if isLoading {
