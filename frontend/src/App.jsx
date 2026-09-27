@@ -140,6 +140,8 @@ function App() {
           conversationId: chat.conversation_id || chat.id,
           drugId: chat.drug_id,
           drugName: chat.drug_name || chat.drug_id,
+          patientId: chat.patient_id || null,
+          patientName: chat.patient_name || null,
           title: chat.title || chat.question,
           timestamp: chat.asked_at || null,
           preview: chat.preview || chat.question,
@@ -541,7 +543,8 @@ function App() {
         chat.drugId,
         hcpId,
         text,
-        chat.conversationId
+        chat.conversationId,
+        chat.patientId
       );
 
       const assistantMessage = {

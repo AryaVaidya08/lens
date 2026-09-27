@@ -15,7 +15,11 @@ function ChatList({
   // Re-render periodically so relative timestamps ("5 minutes ago") stay fresh.
   const [, setTick] = useState(0);
   useEffect(() => {
-    const interval = setInterval(() => setTick((tick) => tick + 1), 30000);
+    const interval = setInterval(
+      () => setTick((tick) => tick + 1),
+      30000
+    );
+
     return () => clearInterval(interval);
   }, []);
 
@@ -23,8 +27,18 @@ function ChatList({
     const query = search.toLowerCase();
 
     return (
-      (chat.title || chat.question).toLowerCase().includes(query) ||
-      (chat.drugId || "").toLowerCase().includes(query)
+      (chat.title || chat.question || "")
+        .toLowerCase()
+        .includes(query) ||
+      (chat.drugId || "")
+        .toLowerCase()
+        .includes(query) ||
+      (chat.drugName || "")
+        .toLowerCase()
+        .includes(query) ||
+      (chat.patientName || "")
+        .toLowerCase()
+        .includes(query)
     );
   });
 
@@ -97,7 +111,9 @@ function ChatList({
                   {editingChatId === chat.id ? (
                     <div
                       className="chat-title-edit"
-                      onClick={(event) => event.stopPropagation()}
+                      onClick={(event) =>
+                        event.stopPropagation()
+                      }
                     >
                       <input
                         className="chat-title-input"
@@ -117,12 +133,16 @@ function ChatList({
                             cancelEditing();
                           }
                         }}
-                        onBlur={() => saveEditing(null, chat)}
+                        onBlur={() =>
+                          saveEditing(null, chat)
+                        }
                       />
                     </div>
                   ) : (
                     <div className="chat-list-title">
-                      <strong>{chat.title || chat.question}</strong>
+                      <strong>
+                        {chat.title || chat.question}
+                      </strong>
 
                       <button
                         className="rename-chat-button"
@@ -137,10 +157,14 @@ function ChatList({
                     </div>
                   )}
 
-                  <small>{formatRelativeTime(chat.timestamp)}</small>
+                  <small>
+                    {formatRelativeTime(chat.timestamp)}
+                  </small>
                 </div>
 
-                <span>{chat.drugId}</span>
+                <span className="chat-patient-name">
+                  {chat.patientName || chat.drugId}
+                </span>
               </div>
 
               <button

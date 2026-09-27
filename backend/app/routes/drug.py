@@ -5,6 +5,7 @@ Drug summary + follow-up Q&A endpoints.
 import re
 from datetime import datetime, timezone
 from typing import Optional
+from uuid import uuid4
 
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import BaseModel, Field
@@ -18,7 +19,6 @@ from app.personalization.patient_check import check_patient_chart
 from app.personalization.scorer import build_summary_content, score_familiarity
 from app.retrieval.index import retrieve
 
-from uuid import uuid4
 
 router = APIRouter(prefix="/drug", tags=["drug"])
 
@@ -46,12 +46,25 @@ def _patient_context_block(patient: dict) -> Optional[str]:
         lines.append("Patient: " + ", ".join(demographics))
 
     allergies = str(patient.get("allergies") or "").strip()
-    if allergies and allergies.lower() not in {"none", "none known", "nka", "nkda"}:
+    if allergies and allergies.lower() not in {
+        "none",
+        "none known",
+        "nka",
+        "nkda",
+    }:
         lines.append(f"Allergies: {allergies}")
 
-    current_medications = str(patient.get("current_medications") or "").strip()
-    if current_medications and current_medications.lower() != "none":
-        lines.append(f"Current medications: {current_medications}")
+    current_medications = str(
+        patient.get("current_medications") or ""
+    ).strip()
+
+    if (
+        current_medications
+        and current_medications.lower() != "none"
+    ):
+        lines.append(
+            f"Current medications: {current_medications}"
+        )
 
     return "\n".join(lines) if lines else None
 
@@ -59,8 +72,14 @@ def _patient_context_block(patient: dict) -> Optional[str]:
 class AskRequest(BaseModel):
     hcp_id: str = Field(max_length=64)
     query: str = Field(max_length=2000)
-    conversation_id: Optional[str] = Field(default=None, max_length=64)
-    patient_id: Optional[str] = Field(default=None, max_length=64)
+    conversation_id: Optional[str] = Field(
+        default=None,
+        max_length=64,
+    )
+    patient_id: Optional[str] = Field(
+        default=None,
+        max_length=64,
+    )
 
 
 @router.get("/search")
@@ -79,18 +98,33 @@ def search_drugs(
     query = q.strip()
 
     mongo_filter: dict = {}
+
     if query:
-        mongo_filter = {"name": {"$regex": f"^{re.escape(query)}", "$options": "i"}}
+        mongo_filter = {
+            "name": {
+                "$regex": f"^{re.escape(query)}",
+                "$options": "i",
+            }
+        }
 
     rows = (
-        db.drugs.find(mongo_filter, {"_id": 1, "name": 1})
+        db.drugs.find(
+            mongo_filter,
+            {
+                "_id": 1,
+                "name": 1,
+            },
+        )
         .sort("name", 1)
         .limit(limit)
     )
 
     return {
         "drugs": [
-            {"drug_id": row["_id"], "name": row.get("name") or row["_id"]}
+            {
+                "drug_id": row["_id"],
+                "name": row.get("name") or row["_id"],
+            }
             for row in rows
         ]
     }
@@ -110,28 +144,67 @@ def get_summary(
     check from the patient folder.
     """
     assert_same_hcp(hcp, hcp_id)
-    drug_id = reject_path_id(drug_id, "drug_id")
-    drug = db.drugs.find_one({"_id": drug_id})
+
+    drug_id = reject_path_id(
+        drug_id,
+        "drug_id",
+    )
+
+    drug = db.drugs.find_one(
+        {
+            "_id": drug_id,
+        }
+    )
+
     if drug is None:
         raise HTTPException(
             status_code=404,
             detail=f"Unknown drug_id: {drug_id}",
         )
 
-    tier = score_familiarity(hcp["_id"], drug_id, db)
-    specialty = hcp.get("specialty") or ""
-    requested = (patient_id or "").strip()
-    headline, full_bullets = build_summary_content(
-        drug_id, tier, specialty=specialty, compact=False
+    tier = score_familiarity(
+        hcp["_id"],
+        drug_id,
+        db,
     )
-    name = drug.get("name", drug_id)
+
+    specialty = hcp.get("specialty") or ""
+
+    requested = (
+        patient_id or ""
+    ).strip()
+
+    headline, full_bullets = build_summary_content(
+        drug_id,
+        tier,
+        specialty=specialty,
+        compact=False,
+    )
+
+    name = drug.get(
+        "name",
+        drug_id,
+    )
+
     check = None
+
     if requested:
         try:
-            patient = owned_patient(db, hcp, requested)
-            check = check_patient_chart(patient, drug_id, name)
+            patient = owned_patient(
+                db,
+                hcp,
+                requested,
+            )
+
+            check = check_patient_chart(
+                patient,
+                drug_id,
+                name,
+            )
+
         except HTTPException:
             raise
+
         except Exception:
             check = None
 
@@ -159,9 +232,21 @@ def ask_question(
     The familiarity tier is calculated before the answer is generated,
     so repeated interactions with the same drug produce progressively
     more advanced responses.
+
+    If patient_id is provided, the patient is verified as belonging
+    to the authenticated HCP. Relevant chart information is included
+    in the LLM context and the patient_id is stored with the chat.
     """
-    assert_same_hcp(hcp, payload.hcp_id)
-    drug_id = reject_path_id(drug_id, "drug_id")
+    assert_same_hcp(
+        hcp,
+        payload.hcp_id,
+    )
+
+    drug_id = reject_path_id(
+        drug_id,
+        "drug_id",
+    )
+
     if db.drugs.find_one({"_id": drug_id}) is None:
         raise HTTPException(
             status_code=404,
@@ -169,23 +254,45 @@ def ask_question(
         )
 
     query = payload.query.strip()
+
     if not query:
         raise HTTPException(
             status_code=422,
             detail="query must not be empty",
         )
 
-    tier = score_familiarity(hcp["_id"], drug_id, db)
+    tier = score_familiarity(
+        hcp["_id"],
+        drug_id,
+        db,
+    )
+
     specialty = hcp.get("specialty") or ""
 
-    patient_id = (payload.patient_id or "").strip() or None
+    patient_id = (
+        payload.patient_id or ""
+    ).strip() or None
+
     patient_context = None
+
     if patient_id:
-        patient = owned_patient(db, hcp, patient_id)
-        patient_context = _patient_context_block(patient)
+        patient = owned_patient(
+            db,
+            hcp,
+            patient_id,
+        )
+
+        patient_context = _patient_context_block(
+            patient
+        )
 
     try:
-        context = retrieve(drug_id, query, specialty=specialty)
+        context = retrieve(
+            drug_id,
+            query,
+            specialty=specialty,
+        )
+
     except Exception as exc:
         raise HTTPException(
             status_code=500,
@@ -195,7 +302,10 @@ def ask_question(
     if not context:
         raise HTTPException(
             status_code=404,
-            detail="No relevant information found for this drug.",
+            detail=(
+                "No relevant information found "
+                "for this drug."
+            ),
         )
 
     try:
@@ -206,18 +316,23 @@ def ask_question(
             specialty=specialty,
             patient_context=patient_context,
         )
+
     except ValueError as exc:
         raise HTTPException(
             status_code=400,
             detail=str(exc),
         )
+
     except RuntimeError as exc:
         raise HTTPException(
             status_code=502,
             detail=str(exc),
         )
 
-    conversation_id = payload.conversation_id or str(uuid4())
+    conversation_id = (
+        payload.conversation_id
+        or str(uuid4())
+    )
 
     db.chats.insert_one(
         {
@@ -234,4 +349,5 @@ def ask_question(
     return {
         "answer_text": answer,
         "conversation_id": conversation_id,
+        "patient_id": patient_id,
     }

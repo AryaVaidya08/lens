@@ -217,11 +217,24 @@ def list_chats(
         latest_row = conversation_rows[-1]
         first_row = conversation_rows[0]
 
+        # Find the patient associated with this conversation.
+        # Using the first non-empty patient_id is more robust than
+        # assuming every message in the conversation contains it.
+        patient_id = next(
+            (
+                row.get("patient_id")
+                for row in conversation_rows
+                if row.get("patient_id")
+            ),
+            None,
+        )
+
         chats.append(
             {
                 "id": conversation_id,
                 "conversation_id": conversation_id,
                 "drug_id": latest_row["drug_id"],
+                "patient_id": patient_id,
                 "question": first_row["question"],
                 "answer": first_row["answer"],
 
@@ -253,6 +266,32 @@ def list_chats(
         )
     }
 
+    # Get display names for every patient referenced by the HCP's chats.
+    patient_ids = {
+        chat["patient_id"]
+        for chat in chats
+        if chat.get("patient_id")
+    }
+
+    patient_names = {
+        row["_id"]: (
+            f"{row.get('first_name', '')} "
+            f"{row.get('last_name', '')}"
+        ).strip()
+        or row["_id"]
+        for row in db.patients.find(
+            {
+                "_id": {"$in": list(patient_ids)},
+                "hcp_id": hcp["_id"],
+            },
+            {
+                "_id": 1,
+                "first_name": 1,
+                "last_name": 1,
+            },
+        )
+    }
+
     for chat in chats:
         drug_name = drug_names.get(
             chat["drug_id"],
@@ -260,6 +299,14 @@ def list_chats(
         )
 
         chat["drug_name"] = drug_name
+
+        patient_id = chat.get("patient_id")
+
+        chat["patient_name"] = (
+            patient_names.get(patient_id)
+            if patient_id
+            else None
+        )
 
         # If the user has never manually renamed the conversation,
         # generate the default title from the drug and first question.

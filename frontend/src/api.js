@@ -99,7 +99,8 @@ export async function askDrugQuestion(
   drugId,
   hcpId,
   query,
-  conversationId = null
+  conversationId = null,
+  patientId = null
 ) {
   return request(`/drug/${drugId}/ask`, {
     method: "POST",
@@ -108,6 +109,7 @@ export async function askDrugQuestion(
       hcp_id: hcpId,
       query,
       conversation_id: conversationId,
+      patient_id: patientId,
     }),
   });
 }

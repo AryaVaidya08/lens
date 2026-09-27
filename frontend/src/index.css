@@ -1808,3 +1808,9 @@ h4 {
   background: rgba(232, 115, 74, 0.15);
   color: var(--warning);
 }
+
+.chat-patient-name {
+  font-size: 0.75rem;
+  color: var(--text-tertiary);
+  margin-top: 3px;
+}
