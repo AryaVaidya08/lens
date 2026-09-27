@@ -142,6 +142,37 @@ final class AppState: ObservableObject {
         save(entries, for: hcpId)
     }
 
+    /// Pulls this HCP's chat history from MongoDB (the source of truth) and
+    /// overwrites the local cache. Called from `HistoryView`'s pull-to-refresh.
+    func syncHistory() async {
+        guard let hcpId = selectedHCP?.id else { return }
+        guard let conversations = try? await APIClient.shared.getChats(hcpId: hcpId) else { return }
+
+        let entries = conversations.map { conversation -> ScanLogEntry in
+            var turns: [ChatTurn] = []
+            var index = 0
+            while index + 1 < conversation.messages.count {
+                let userMessage = conversation.messages[index]
+                let assistantMessage = conversation.messages[index + 1]
+                let askedAt = ServerDate.parse(userMessage.askedAt)
+                    ?? ServerDate.parse(conversation.askedAt)
+                    ?? now()
+                turns.append(ChatTurn(askedAt: askedAt, question: userMessage.text, answer: assistantMessage.text))
+                index += 2
+            }
+            return ScanLogEntry(
+                id: UUID(uuidString: conversation.conversationId) ?? UUID(),
+                hcpId: hcpId,
+                drugId: conversation.drugId,
+                drugName: conversation.drugName,
+                scannedAt: ServerDate.parse(conversation.askedAt) ?? now(),
+                chats: turns
+            )
+        }
+
+        save(entries, for: hcpId)
+    }
+
     private func reloadHistory() {
         guard let hcpId = selectedHCP?.id else {
             scanHistory = []

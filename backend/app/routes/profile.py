@@ -118,11 +118,14 @@ def list_chats(
         for row in conversation_rows:
             row_id = str(row["_id"])
 
+            message_asked_at = to_utc_iso(row.get("asked_at"))
+
             messages.append(
                 {
                     "id": f"{row_id}-user",
                     "role": "user",
                     "text": row["question"],
+                    "asked_at": message_asked_at,
                 }
             )
 
@@ -131,6 +134,7 @@ def list_chats(
                     "id": f"{row_id}-assistant",
                     "role": "assistant",
                     "text": row["answer"],
+                    "asked_at": message_asked_at,
                 }
             )
 

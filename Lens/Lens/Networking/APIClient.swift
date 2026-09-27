@@ -151,6 +151,11 @@ final class APIClient {
         try await get(Endpoints.patients(hcpId: hcpId), as: PatientListResponse.self).patients
     }
 
+    /// GET /profile/{hcp_id}/chats — MongoDB is the source of truth for chat history.
+    func getChats(hcpId: String) async throws -> [ServerChatConversation] {
+        try await get(Endpoints.chats(hcpId: hcpId), as: ChatHistoryResponse.self).chats
+    }
+
     /// POST /detect
     func detectDrug(barcode: String?, ocrText: String?) async throws -> Drug {
         try await post(
@@ -524,4 +529,65 @@ struct EngagementResponse: Decodable {
     enum CodingKeys: String, CodingKey {
         case touchCount = "touch_count"
     }
+}
+
+struct ChatHistoryResponse: Decodable {
+    let chats: [ServerChatConversation]
+}
+
+struct ServerChatConversation: Decodable {
+    let conversationId: String
+    let drugId: String
+    let drugName: String
+    let askedAt: String
+    let messages: [ServerChatMessage]
+
+    enum CodingKeys: String, CodingKey {
+        case conversationId = "conversation_id"
+        case drugId = "drug_id"
+        case drugName = "drug_name"
+        case askedAt = "asked_at"
+        case messages
+    }
+}
+
+struct ServerChatMessage: Decodable {
+    let role: String
+    let text: String
+    let askedAt: String?
+
+    enum CodingKeys: String, CodingKey {
+        case role, text
+        case askedAt = "asked_at"
+    }
+}
+
+/// Lenient parser for the ISO-8601 strings `to_utc_iso()` produces on the
+/// backend, which include Python's microsecond fractional seconds —
+/// more digits than ISO8601DateFormatter's `.withFractionalSeconds` expects.
+enum ServerDate {
+    static func parse(_ raw: String?) -> Date? {
+        guard let raw, !raw.isEmpty else { return nil }
+        if let date = withFraction.date(from: raw) { return date }
+        if let date = plain.date(from: raw) { return date }
+        guard let dotIndex = raw.firstIndex(of: ".") else { return nil }
+        let prefix = raw[..<dotIndex]
+        let rest = raw[raw.index(after: dotIndex)...]
+        let digits = rest.prefix(while: \.isNumber)
+        let suffix = rest.dropFirst(digits.count)
+        let truncated = "\(prefix).\(digits.prefix(3))\(suffix)"
+        return withFraction.date(from: truncated)
+    }
+
+    private static let withFraction: ISO8601DateFormatter = {
+        let formatter = ISO8601DateFormatter()
+        formatter.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+        return formatter
+    }()
+
+    private static let plain: ISO8601DateFormatter = {
+        let formatter = ISO8601DateFormatter()
+        formatter.formatOptions = [.withInternetDateTime]
+        return formatter
+    }()
 }

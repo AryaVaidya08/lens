@@ -7,11 +7,14 @@ struct HistoryView: View {
         NavigationStack {
             Group {
                 if appState.scanHistory.isEmpty {
-                    ContentUnavailableView(
-                        "No chats yet",
-                        systemImage: "clock.arrow.circlepath",
-                        description: Text("Questions you ask the assistant will show up here. History is saved on this device until a backend log exists.")
-                    )
+                    ScrollView {
+                        ContentUnavailableView(
+                            "No chats yet",
+                            systemImage: "clock.arrow.circlepath",
+                            description: Text("Questions you ask the assistant will show up here. Pull down to refresh from the server.")
+                        )
+                    }
+                    .refreshable { await appState.syncHistory() }
                     .accessibilityIdentifier("history.empty")
                 } else {
                     List {
@@ -25,10 +28,11 @@ struct HistoryView: View {
                                 .accessibilityIdentifier("history.entry.\(entry.id.uuidString)")
                             }
                         } footer: {
-                            Text("Saved on this iPhone. A shared history API is not connected yet.")
+                            Text("Pull down to sync with the latest chat history from the server.")
                         }
                     }
                     .accessibilityIdentifier("history.list")
+                    .refreshable { await appState.syncHistory() }
                 }
             }
             .contentMargins(.top, 8, for: .scrollContent)
