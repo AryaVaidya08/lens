@@ -14,6 +14,7 @@ DerivedData/
 #Frontend
 node_modules
 frontend/node_modules/
+.vercel
 
 # Python
 __pycache__/
