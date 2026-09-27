@@ -37,7 +37,7 @@ def test_ask_passes_authenticated_specialty(client, monkeypatch):
         lambda drug_id, query, specialty=None: ["Dosing 5 mg. Interactions with stimulants."],
     )
 
-    def fake_answer(query, context, tier="new", specialty=None):
+    def fake_answer(query, context, tier="new", specialty=None, patient_context=None):
         seen.append(specialty)
         return "Answer for %s" % specialty
 
