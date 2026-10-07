@@ -1,5 +1,7 @@
 # HCP Spatial Copilot
 
+![App demo](images/sample.png)
+
 An iOS app that turns picking up a drug sample into an engagement event — not a faster search, a different trigger entirely. Built for GTHacks, targeting Impiricus's "Invent the Next Way We Engage HCPs" challenge and the Lighthouse Immersive track.
 
 ## The idea
